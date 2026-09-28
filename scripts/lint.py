@@ -1,224 +1,237 @@
 #!/usr/bin/env python3
-"""AllusionistLLMWiki2 v5.1 Lint: Frontmatter スキーマ検証 + 構造/リンク/証拠/ネタバレチェック.
-
-検出のみを行う（自動修復は行わない）。設計書 §15 準拠。
+"""Lintツール（v5.2 設計書 第15章準拠・5カテゴリ）: 検出のみ（自動修復は fix_all.py）。
 
 使い方:
-  python scripts/lint.py            # wiki/ 配下を検査
-  python scripts/lint.py docs/samples  # 対象ディレクトリを指定
+  python scripts/lint.py                       # 全Lint実行（wiki/ 全体）
+  python scripts/lint.py --category structure  # カテゴリ指定
+  python scripts/lint.py --file wiki/claims/   # ファイル/ディレクトリ指定
+  python scripts/lint.py --severity error      # 重要度フィルタ
+  python scripts/lint.py --report work/reports/lint.md --json work/reports/lint.json
 """
 from __future__ import annotations
 
+import argparse
 import json
-import re
 import sys
+from datetime import date
 from pathlib import Path
+from typing import List
 
-VAULT = Path(__file__).resolve().parent.parent
-SCHEMAS = VAULT / "schemas"
+from rich.console import Console
+from rich.table import Table
 
-SCHEMA_MAP = {
-    "entity": "entity.schema.json",
-    "external_reference": "reference.schema.json",
-    "analytical_claim": "claim.schema.json",
-    "mystery": "mystery.schema.json",
-    "episode": "episode.schema.json",
-    "arc": "arc.schema.json",
-    "reflection": "reflection.schema.json",
-    "source": "source.schema.json",
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from paths import ROOT, VAULT_ROOT, SCHEMAS_DIR, RAW_DIR, WORK_DIR
+from lint_modules.utils import LintError, LintResult, Severity
+from lint_modules.structure import lint_structure
+from lint_modules.links import lint_links, LinkIndex
+from lint_modules.evidence import lint_evidence, SourceRegistry
+from lint_modules.spoiler import lint_spoiler
+from lint_modules.semantic import lint_semantic, SemanticIndex
+
+console = Console()
+
+CATEGORIES = ["structure", "links", "evidence", "spoiler", "semantic"]
+
+SEVERITY_STYLE = {
+    Severity.ERROR: "bold red",
+    Severity.WARN: "yellow",
+    Severity.INFO: "blue",
 }
 
-ID_PREFIX_DIR = {
-    "ARC_": "wiki/arcs",
-    "O_": "wiki/episodes",
-    "E_char_": "wiki/entities/characters",
-    "E_term_": "wiki/entities/terminology",
-    "E_org_": "wiki/entities/organizations",
-    "E_item_": "wiki/entities/items",
-    "E_motif_": "wiki/entities/motifs",
-    "E_relation_": "wiki/entities/relationships",
-    "E_phrase_": "wiki/entities/phrases",
-    "ME_myth_": "wiki/references/mythology",
-    "ME_lit_": "wiki/references/literature",
-    "ME_phil_": "wiki/references/philosophy",
-    "ME_psych_": "wiki/references/psychology",
-    "ME_pop_": "wiki/references/culture",
-    "ME_net_": "wiki/references/culture",
-    "ME_author_": "wiki/references/author-material",
-    "A_": "wiki/claims",
-    "MY_": "wiki/mysteries",
-    "RF_": "wiki/reflections",
-}
 
-FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
-WIKILINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]*)?\]\]")
+def load_raw_texts(raw_path: Path) -> dict:
+    """raw/chNNNN.txt を読み込み（引用検証用）"""
+    raws = {}
+    if not raw_path.exists():
+        return raws
+    for txt_file in raw_path.glob("ch*.txt"):
+        try:
+            raws[txt_file.stem] = txt_file.read_text(encoding="utf-8")
+        except Exception:
+            continue
+    return raws
 
 
-def parse_frontmatter(path: Path) -> tuple[dict | None, list[str]]:
-    text = path.read_text(encoding="utf-8")
-    m = FM_RE.match(text)
-    if not m:
-        return None, ["Frontmatter not found"]
-    try:
-        import yaml
-
-        data = yaml.safe_load(m.group(1))
-    except Exception as e:  # yaml.YAMLError
-        return None, [f"YAML parse error: {e}"]
-    if not isinstance(data, dict):
-        return None, ["Frontmatter is not a mapping"]
-    return data, []
-
-
-def validate_schema(data: dict) -> list[str]:
-    import jsonschema
-
-    errors: list[str] = []
-    sv = data.get("schema_version")
-    if sv != "5.1":
-        errors.append(f"Unsupported schema_version: {sv}")
-    node_type = data.get("type")
-    if node_type not in SCHEMA_MAP:
-        return errors + [f"Unknown type: {node_type}"]
-    schema_path = SCHEMAS / SCHEMA_MAP[node_type]
-    if not schema_path.exists():
-        return errors + [f"Schema not found: {schema_path.name}"]
-    schema = json.loads(schema_path.read_text(encoding="utf-8"))
-    resolver = jsonschema.RefResolver(
-        base_uri=SCHEMAS.as_uri() + "/", referrer=schema
-    )
-    validator = jsonschema.Draft7Validator(schema, resolver=resolver)
-    for err in validator.iter_errors(data):
-        loc = ".".join(map(str, err.path))
-        errors.append(f"Schema[{loc}]: {err.message}")
-    return errors
+def run_lint(files: List[Path], categories: List[str], link_index: LinkIndex,
+             source_registry: SourceRegistry, semantic_index: SemanticIndex,
+             raw_texts: dict) -> LintResult:
+    result = LintResult()
+    for file_path in files:
+        result.files_checked += 1
+        file_errors: List[LintError] = []
+        if "structure" in categories:
+            file_errors.extend(lint_structure(file_path, VAULT_ROOT, SCHEMAS_DIR))
+        if "links" in categories:
+            file_errors.extend(lint_links(file_path, link_index))
+        if "evidence" in categories:
+            file_errors.extend(lint_evidence(file_path, source_registry, raw_texts))
+        if "spoiler" in categories:
+            file_errors.extend(lint_spoiler(file_path))
+        if "semantic" in categories:
+            file_errors.extend(lint_semantic(file_path, semantic_index))
+        if file_errors:
+            result.files_with_errors += 1
+            result.errors.extend(file_errors)
+    return result
 
 
-def check_id_filename(data: dict, path: Path) -> list[str]:
-    id_ = data.get("id", "")
-    stem = path.stem
-    if id_ and id_ != stem:
-        return [f"ID/filename mismatch: id={id_} file={stem}"]
-    expected = None
-    for prefix, d in ID_PREFIX_DIR.items():
-        if id_.startswith(prefix):
-            expected = d
-            break
-    if expected:
-        rel = path.parent.relative_to(VAULT).as_posix()
-        if rel.startswith("docs/samples"):
-            return []  # サンプルは配置チェック対象外
-        if rel != expected:
-            return [f"Wrong directory: {rel} (expected {expected})"]
-    return []
+def print_results(result: LintResult, severity_filter: str = None):
+    errors = result.errors
+    if severity_filter:
+        errors = [e for e in errors if e.severity.value == severity_filter]
+    if not errors:
+        console.print(f"\n[bold green]✅ Lint passed ({result.files_checked} files)[/bold green]")
+        return
+
+    by_category = {}
+    for e in errors:
+        by_category.setdefault(e.category, []).append(e)
+
+    for category, errs in sorted(by_category.items()):
+        console.print(f"\n[bold cyan]【{category.upper()}】{len(errs)} 件[/bold cyan]")
+        for e in errs[:20]:
+            style = SEVERITY_STYLE[e.severity]
+            console.print(f"  [{style}]{e.format()}[/{style}]")
+            if e.suggestion:
+                console.print(f"    [dim]→ {e.suggestion}[/dim]")
+        if len(errs) > 20:
+            console.print(f"  [dim]... 他 {len(errs) - 20} 件[/dim]")
+
+    summary = result.summary()
+    console.print("\n[bold]📊 サマリー[/bold]")
+    table = Table()
+    table.add_column("重要度", style="cyan")
+    table.add_column("件数", style="white")
+    for sev, count in summary["by_severity"].items():
+        style = SEVERITY_STYLE.get(Severity(sev), "white")
+        table.add_row(sev.upper(), f"[{style}]{count}[/{style}]")
+    console.print(table)
+    console.print(f"チェックファイル数: {result.files_checked}")
+    console.print(f"エラーあり: {result.files_with_errors}")
 
 
-def collect_ids(paths: list[Path]) -> dict[str, Path]:
-    ids: dict[str, Path] = {}
-    for p in paths:
-        data, _ = parse_frontmatter(p)
-        if data and data.get("id"):
-            ids[str(data["id"])] = p
-    return ids
+def write_report(result: LintResult, report_path: Path):
+    report_path.parent.mkdir(parents=True, exist_ok=True)
+    lines = [
+        f"# Lintレポート {date.today().isoformat()}",
+        "",
+        f"- **チェックファイル数**: {result.files_checked}",
+        f"- **エラーあり**: {result.files_with_errors}",
+        f"- **エラー総数**: {len(result.errors)}",
+        "",
+        "## サマリー",
+        "",
+        "| 重要度 | 件数 |",
+        "|:---|---:|",
+    ]
+    summary = result.summary()
+    for sev, count in summary["by_severity"].items():
+        lines.append(f"| {sev.upper()} | {count} |")
+    lines += ["", "## カテゴリ別", "", "| カテゴリ | 件数 |", "|:---|---:|"]
+    for cat, count in sorted(summary["by_category"].items()):
+        lines.append(f"| {cat} | {count} |")
+    lines.append("")
+
+    errors_only = [e for e in result.errors if e.severity == Severity.ERROR]
+    if errors_only:
+        lines += ["## エラー詳細", ""]
+        for e in errors_only[:100]:
+            lines.append(f"### {e.code}")
+            lines.append(f"- **ファイル**: `{e.file}`")
+            if e.line:
+                lines.append(f"- **行**: {e.line}")
+            lines.append(f"- **メッセージ**: {e.message}")
+            if e.suggestion:
+                lines.append(f"- **推奨**: {e.suggestion}")
+            lines.append("")
+    report_path.write_text("\n".join(lines), encoding="utf-8")
+    console.print(f"\n[green]📄 レポート出力: {report_path}[/green]")
 
 
-def check_links(data: dict, ids: dict[str, Path]) -> list[str]:
-    errors = []
-    for target in WIKILINK_RE.findall(json.dumps(data, ensure_ascii=False)):
-        t = target.strip()
-        if re.match(r"^(ARC|O|E|ME|A|MY|RF)_", t) and t not in ids:
-            errors.append(f"Dead link: [[{t}]]")
-    return errors
-
-
-def check_evidence(data: dict) -> list[str]:
-    errors = []
-    t = data.get("type")
-    if t == "analytical_claim":
-        if data.get("epistemic_status") in ("confirmed", "supported") and not data.get("evidence"):
-            errors.append("confirmed/supported claim without evidence")
-        for ev in data.get("evidence", []) or []:
-            sid = str(ev.get("source_id", ""))
-            if not re.match(r"^SRC_(ch\d{4}|external_\d{3})$", sid):
-                errors.append(f"Bad source_id: {sid}")
-    if t == "external_reference":
-        for rel in data.get("relations", []) or []:
-            if not rel.get("evidence"):
-                errors.append(f"ME relation '{rel.get('predicate')}' without external evidence")
-    return errors
-
-
-def check_spoiler(data: dict) -> list[str]:
-    errors = []
-    ch_re = re.compile(r"^ch(\d{4})")
-
-    def chnum(v):
-        m = ch_re.match(str(v))
-        return int(m.group(1)) if m else None
-
-    sa = data.get("spoiler_after")
-    disc = data.get("disclosure") or {}
-    mp = disc.get("minimum_progress")
-    if sa and mp:
-        a, b = chnum(sa), chnum(mp)
-        if a is not None and b is not None and b < a:
-            errors.append(f"disclosure.minimum_progress {mp} earlier than spoiler_after {sa}")
-    if data.get("type") == "mystery":
-        tl = data.get("timeline") or {}
-        intro = chnum(tl.get("introduced"))
-        for h in tl.get("hinted", []) or []:
-            hn = chnum(h)
-            if intro is not None and hn is not None and hn < intro:
-                errors.append(f"hinted {h} earlier than introduced")
-        if data.get("mystery_status") == "resolved" and not tl.get("resolved"):
-            errors.append("mystery_status=resolved without timeline.resolved")
-    return errors
-
-
-def lint_file(path: Path, ids: dict[str, Path]) -> list[str]:
-    data, errors = parse_frontmatter(path)
-    if data is None:
-        return errors
-    errors += validate_schema(data)
-    errors += check_id_filename(data, path)
-    errors += check_links(data, ids)
-    errors += check_evidence(data)
-    errors += check_spoiler(data)
-    return errors
-
-
-def main() -> int:
-    targets = sys.argv[1:] or ["wiki"]
-    files: list[Path] = []
-    for t in targets:
-        p = (VAULT / t) if not Path(t).is_absolute() else Path(t)
+def collect_files(vault_path: Path, file_filter: str = None) -> List[Path]:
+    if file_filter:
+        p = Path(file_filter)
+        if not p.is_absolute():
+            p = ROOT / p
+        if p.is_file():
+            return [p]
         if p.is_dir():
-            files += sorted(p.rglob("*.md"))
-        elif p.suffix == ".md":
-            files.append(p)
-    ids = collect_ids(sorted((VAULT / "wiki").rglob("*.md")) + sorted((VAULT / "docs/samples").rglob("*.md")))
-    dup: dict[str, int] = {}
-    for p in sorted((VAULT / "wiki").rglob("*.md")):
-        data, _ = parse_frontmatter(p)
-        if data and data.get("id"):
-            dup[str(data["id"])] = dup.get(str(data["id"]), 0) + 1
-    bad = 0
-    for p in files:
-        errors = lint_file(p, ids)
-        for i, c in dup.items():
-            if c > 1:
-                errors.append(f"Duplicate ID: {i} ({c} files)")
-                dup = {}
-        if errors:
-            bad += 1
-            print(f"NG {p.relative_to(VAULT)}")
-            for e in errors:
-                print(f"   - {e}")
-        else:
-            print(f"OK {p.relative_to(VAULT)}")
-    print(f"\n{len(files)} files, {bad} with errors")
-    return 1 if bad else 0
+            return sorted(p.rglob("*.md"))
+        return []
+    return sorted(vault_path.rglob("*.md"))
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Lintツール（v5.2 §15）")
+    parser.add_argument("--category", choices=CATEGORIES, help="カテゴリ指定")
+    parser.add_argument("--file", help="ファイルまたはディレクトリ指定")
+    parser.add_argument("--report", help="Markdownレポート出力先")
+    parser.add_argument("--json", help="JSONレポート出力先")
+    parser.add_argument("--severity", choices=["error", "warn", "info"], help="表示する重要度をフィルタ")
+    args = parser.parse_args()
+
+    if not VAULT_ROOT.exists():
+        console.print(f"[red]❌ vault パスが存在しません: {VAULT_ROOT}[/red]")
+        sys.exit(1)
+
+    categories = [args.category] if args.category else CATEGORIES
+    files = collect_files(VAULT_ROOT, args.file)
+    if not files:
+        console.print("[yellow]⚠️ 対象ファイルが見つかりません[/yellow]")
+        sys.exit(0)
+
+    console.print(f"[bold]🔍 {len(files)} 件のファイルをLint中...[/bold]")
+    console.print(f"[dim]カテゴリ: {', '.join(categories)}[/dim]")
+
+    console.print("[dim]  リンクインデックスを構築中...[/dim]")
+    link_index = LinkIndex(VAULT_ROOT)
+    link_index.build()
+    # Lint対象が vault 外（docs/samples 等）の場合、対象内リンクも解決可能に
+    outside = [f for f in files if VAULT_ROOT not in f.parents]
+    if outside:
+        link_index.scan(outside)
+
+    console.print("[dim]  出典レジストリを読み込み中...[/dim]")
+    source_registry = SourceRegistry(ROOT / "sources" / "source-registry")
+    source_registry.load()
+
+    console.print("[dim]  意味インデックスを構築中...[/dim]")
+    semantic_index = SemanticIndex(VAULT_ROOT)
+    semantic_index.build()
+
+    console.print("[dim]  原文を読み込み中...[/dim]")
+    raw_texts = load_raw_texts(RAW_DIR)
+
+    result = run_lint(files, categories, link_index, source_registry, semantic_index, raw_texts)
+
+    print_results(result, args.severity)
+
+    if args.report:
+        rp = Path(args.report)
+        write_report(result, rp if rp.is_absolute() else ROOT / rp)
+
+    if args.json:
+        jp = Path(args.json)
+        if not jp.is_absolute():
+            jp = ROOT / jp
+        jp.parent.mkdir(parents=True, exist_ok=True)
+        data = {
+            "date": date.today().isoformat(),
+            "summary": result.summary(),
+            "errors": [
+                {"file": str(e.file), "category": e.category, "code": e.code,
+                 "severity": e.severity.value, "message": e.message,
+                 "line": e.line, "suggestion": e.suggestion}
+                for e in result.errors
+            ],
+        }
+        jp.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+        console.print(f"[green]📄 JSONレポート出力: {jp}[/green]")
+
+    if result.has_errors():
+        sys.exit(1)
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
