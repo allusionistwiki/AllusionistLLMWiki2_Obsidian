@@ -1,17 +1,17 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ハルベルト
 type: entity
 subtype: character
-canonical_name: "ハルベルト"
+canonical_name: ハルベルト
 aliases:
-  - "楽神"
-  - "銀髪の魔女"
-first_appearance: "ch0012"
-spoiler_after: "ch0012"
+- 楽神
+- 銀髪の魔女
+first_appearance: ch0012
+spoiler_after: ch0012
 document_status: active
-created: "2026-09-28"
-updated: "2026-09-28"
+created: '2026-09-28'
+updated: '2026-09-29'
 ---
 
 # ハルベルト

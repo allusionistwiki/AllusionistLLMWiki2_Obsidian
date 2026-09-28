@@ -5,6 +5,180 @@
   "allOf": [
     {
       "$ref": "common.schema.json"
+    },
+    {
+      "if": {
+        "properties": {
+          "subtype": {
+            "const": "character"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "actor_ref": {
+            "type": "string",
+            "pattern": "^\\[\\[E_char_[^\\]]+\\]\\]$",
+            "description": "背後にある実体（アクター）への参照。正体不明なら省略"
+          },
+          "self_designations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["name", "context"],
+              "properties": {
+                "name": {"type": "string"},
+                "context": {"type": "string"},
+                "reliability": {
+                  "type": "string",
+                  "enum": ["reliable", "unreliable", "self_deceptive", "unknown"]
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "quote": {"type": "string"},
+                      "locator": {
+                        "type": "object",
+                        "properties": {
+                          "chapter": {"type": "string", "pattern": "^ch\\d{4}$"},
+                          "lines": {"type": "string"}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "description": "自称のリスト（信頼性付き。self_deceptive は misreads_as 主張と連携）"
+          },
+          "affiliations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["org", "nature"],
+              "properties": {
+                "org": {"type": "string", "pattern": "^\\[\\[E_org_[^\\]]+\\]\\]$"},
+                "valid_from": {"type": "string", "pattern": "^ch\\d{4}$"},
+                "valid_to": {"type": "string", "pattern": "^(ch\\d{4}|ongoing|unknown)$"},
+                "nature": {
+                  "type": "string",
+                  "enum": ["public", "secret", "nominal", "de_facto", "former"]
+                },
+                "role_in_org": {"type": "string"}
+              }
+            },
+            "description": "所属（時間軸付き・複数可。表向きの所属と実質の所属を区別）"
+          },
+          "alive_status": {
+            "type": "object",
+            "required": ["status"],
+            "properties": {
+              "status": {
+                "type": "string",
+                "enum": ["alive", "dead", "unknown", "transformed", "transcended", "split"]
+              },
+              "since": {"type": "string", "pattern": "^ch\\d{4}$"},
+              "details": {"type": "string"}
+            },
+            "description": "生死・変容の状態（死なない／変容する存在対応）"
+          },
+          "current_location": {
+            "type": "object",
+            "properties": {
+              "place": {"type": "string"},
+              "since": {"type": "string", "pattern": "^ch\\d{4}$"},
+              "status": {"type": "string", "enum": ["confirmed", "rumored", "unknown"]}
+            }
+          },
+          "narrative_role": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": ["protagonist", "antagonist", "mentor", "trickster", "victim", "observer", "catalyst", "unknown"]
+            },
+            "description": "物語上の役割（複数可、時期で変化）"
+          },
+          "disclosure": {
+            "type": "object",
+            "properties": {
+              "true_identity_revealed_at": {
+                "type": "string",
+                "pattern": "^(ch\\d{4}|never|meta)$"
+              },
+              "reader_awareness_level": {
+                "type": "string",
+                "enum": ["completely_unknown", "partially_known", "hinted", "fully_known"]
+              },
+              "spoiler_sensitivity": {
+                "type": "string",
+                "enum": ["low", "medium", "high", "critical"]
+              }
+            },
+            "description": "読者視点の情報開示段階"
+          },
+          "merge_candidates": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["target", "reason", "status"],
+              "properties": {
+                "target": {"type": "string", "pattern": "^\\[\\[E_char_[^\\]]+\\]\\]$"},
+                "reason": {"type": "string"},
+                "similarity_score": {"type": "number", "minimum": 0, "maximum": 1},
+                "status": {
+                  "type": "string",
+                  "enum": ["proposed", "under_review", "approved", "rejected"]
+                },
+                "proposed_by": {
+                  "type": "object",
+                  "properties": {
+                    "kind": {"type": "string", "enum": ["human", "agent"]},
+                    "id": {"type": "string"}
+                  }
+                }
+              }
+            },
+            "description": "名前ブレ統合候補（review_queue.py --merges が管理。承認は人間のみ）"
+          },
+          "identity_genealogy": {
+            "type": "object",
+            "properties": {
+              "split_from": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "source": {"type": "string", "pattern": "^\\[\\[E_char_[^\\]]+\\]\\]$"},
+                    "at": {"type": "string", "pattern": "^ch\\d{4}$"},
+                    "nature": {
+                      "type": "string",
+                      "enum": ["literal_split", "metaphorical", "perceived", "retconned"]
+                    }
+                  }
+                },
+                "description": "どこから分裂したか（六王のような分岐。物理/比喩/誤認/後付けを区別）"
+              },
+              "merged_into": {
+                "type": "string",
+                "pattern": "^\\[\\[E_char_[^\\]]+\\]\\]$",
+                "description": "どこに統合されたか"
+              },
+              "branched_to": {
+                "type": "array",
+                "items": {"type": "string", "pattern": "^\\[\\[E_char_[^\\]]+\\]\\]$"},
+                "description": "このキャラクターから派生した別キャラクター"
+              },
+              "collective_identity": {
+                "type": "string",
+                "pattern": "^\\[\\[E_motif_[^\\]]+\\]\\]$",
+                "description": "所属する集合概念（例: シナモリアキラ → E_motif_）"
+              }
+            }
+          }
+        }
+      }
     }
   ],
   "required": [
@@ -111,5 +285,6 @@
         "description": "関係性の時系列変化"
       }
     }
-  }
+  },
+  "allOf2": null
 }
