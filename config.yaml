@@ -4,10 +4,25 @@ project:
   version: "5.2"
 
 llm:
-  base_url: "http://127.0.0.1:8888/v1"   # MiaAI-Lab キット（起動時に合わせて変更）
-  api_key: "local"
-  model: "qwen3.8-27b-exl3-2.5bpw"
+  base_url: "http://127.0.0.1:8080/v1"   # Strata（旧 MiaAI-Lab: http://127.0.0.1:8888/v1）
+  api_key: "local"                        # 任意（空でも可）
+  model: "qwen3.8-flash-next"             # Strata はモデル名自由
   temperature: 0.1
+  max_tokens: 4000
+  timeout: 300                            # 初回トークン処理に時間がかかる
+  stream: false                           # A: ストリーミング応答（体感短縮）
+  max_retries: 3                          # A: リトライ（指数バックオフ）
+  thinking: "off"                         # off / low / medium / high（Strata 固有、extra_body 経由）
+
+# Strata 直列処理対応: リクエスト間隔（max_concurrent は必ず 1）
+request_throttle:
+  min_interval_ms: 500
+
+# パイプライン設定
+pipeline:
+  parallel_prefetch: true    # B: 原文読み込み/前処理の並列化（効果検証後にオン/オフ判断）
+  chunk_max_chars: 0         # D: 分割投入（0=分割しない、例: 12000 で約10K字ずつ）
+  chunk_overlap_chars: 400   # D: チャンク間の重複（event_id 重複排除で吸収）
 
 # リポジトリ構成（v5.2 分離: vault + work、相互コミット参照で整合）
 repos:

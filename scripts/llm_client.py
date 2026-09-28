@@ -1,14 +1,26 @@
 #!/usr/bin/env python3
-"""LLM クライアント（OpenAI互換 / MiaAI-Lab Qwen）とイベント抽出関数."""
+"""LLM クライアント: OpenAI互換エンドポイント（Strata / MiaAI-Lab）対応.
+
+- A: リトライ（指数バックオフ）+ ストリーミング応答
+- D: 分割投入（chunk 抽出 → event_id 重複排除マージ）
+- Strata 特性対応: 1リクエスト直列 → グローバルスロットル（min_interval_ms）
+"""
 from __future__ import annotations
 
 import json
+import threading
+import time
 from pathlib import Path
+from typing import Optional
 
 import yaml
 from openai import OpenAI
 
 ROOT = Path(__file__).resolve().parent.parent
+
+# グローバル直列スロットル（Strata は 1リクエストずつしか処理しない）
+_request_lock = threading.Lock()
+_last_request_time = 0.0
 
 
 def load_config() -> dict:
@@ -16,7 +28,70 @@ def load_config() -> dict:
 
 
 def create_client(config: dict) -> OpenAI:
-    return OpenAI(base_url=config["llm"]["base_url"], api_key=config["llm"]["api_key"])
+    llm = config["llm"]
+    return OpenAI(
+        base_url=llm["base_url"],
+        api_key=llm.get("api_key", "local"),
+        timeout=llm.get("timeout", 300),
+        max_retries=0,  # リトライは call_llm 側で制御
+    )
+
+
+def _throttle(config: dict):
+    """リクエスト間隔の下限を確保（スレッドセーフ、直列処理保証）"""
+    global _last_request_time
+    min_interval = config.get("request_throttle", {}).get("min_interval_ms", 500) / 1000.0
+    with _request_lock:
+        elapsed = time.time() - _last_request_time
+        if elapsed < min_interval:
+            time.sleep(min_interval - elapsed)
+        _last_request_time = time.time()
+
+
+def call_llm(client: OpenAI, config: dict, prompt: str,
+             system_prompt: Optional[str] = None,
+             temperature: Optional[float] = None,
+             max_tokens: Optional[int] = None,
+             json_mode: bool = False,
+             stream: Optional[bool] = None) -> str:
+    """LLM を呼ぶ（A: リトライ + ストリーミング対応）"""
+    llm = config["llm"]
+    messages = []
+    if system_prompt:
+        messages.append({"role": "system", "content": system_prompt})
+    messages.append({"role": "user", "content": prompt})
+
+    kwargs = {
+        "model": llm.get("model"),
+        "messages": messages,
+        "temperature": temperature if temperature is not None else llm.get("temperature", 0.1),
+        "max_tokens": max_tokens if max_tokens is not None else llm.get("max_tokens", 4000),
+    }
+    if json_mode:
+        kwargs["response_format"] = {"type": "json_object"}
+    thinking = llm.get("thinking", "off")
+    if thinking and thinking != "off":
+        kwargs["extra_body"] = {"thinking": thinking}
+    use_stream = stream if stream is not None else llm.get("stream", False)
+
+    max_retries = llm.get("max_retries", 3)
+    last_err: Optional[Exception] = None
+    for attempt in range(max_retries):
+        _throttle(config)
+        try:
+            if use_stream:
+                parts = []
+                for chunk in client.chat.completions.create(**kwargs, stream=True):
+                    if chunk.choices and chunk.choices[0].delta.content:
+                        parts.append(chunk.choices[0].delta.content)
+                return "".join(parts)
+            response = client.chat.completions.create(**kwargs)
+            return response.choices[0].message.content
+        except Exception as e:
+            last_err = e
+            if attempt < max_retries - 1:
+                time.sleep(2 ** attempt)  # 指数バックオフ
+    raise RuntimeError(f"LLM 呼び出し失敗（{max_retries} リトライ）: {last_err}")
 
 
 SYSTEM_PROMPT = """
@@ -55,19 +130,47 @@ SYSTEM_PROMPT = """
 """
 
 
-def extract_events(client: OpenAI, model: str, chapter: str, raw_text: str, temperature: float = 0.1) -> list[dict]:
-    response = client.chat.completions.create(
-        model=model,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": f"以下の原文（{chapter}）からイベントを抽出してください：\n\n{raw_text}"},
-        ],
-        temperature=temperature,
-        response_format={"type": "json_object"},
-    )
-    result = json.loads(response.choices[0].message.content)
-    if isinstance(result, dict) and "events" in result:
-        return result["events"]
-    if isinstance(result, list):
-        return result
-    return [result]
+def split_text(text: str, max_chars: int, overlap: int) -> list[str]:
+    """D: 分割投入（max_chars <= 0 または原文が小さい場合は1チャンク）"""
+    if max_chars <= 0 or len(text) <= max_chars:
+        return [text]
+    chunks, start = [], 0
+    while start < len(text):
+        end = min(start + max_chars, len(text))
+        chunks.append(text[start:end])
+        if end == len(text):
+            break
+        start = max(end - overlap, start + 1)
+    return chunks
+
+
+def extract_events(client: OpenAI, config: dict, chapter: str,
+                   raw_text: str, temperature: Optional[float] = None) -> list[dict]:
+    """章原文からイベントを抽出（D: 分割投入 → event_id 重複排除マージ）"""
+    pipe = config.get("pipeline", {})
+    chunks = split_text(raw_text, pipe.get("chunk_max_chars", 0),
+                        pipe.get("chunk_overlap_chars", 400))
+    events, seen = [], set()
+    for i, chunk in enumerate(chunks, 1):
+        if len(chunks) == 1:
+            user = f"以下の原文（{chapter}）からイベントを抽出してください：\n\n{chunk}"
+        else:
+            user = (f"以下は {chapter} の原文の一部（{i}/{len(chunks)}）です。"
+                    f"この部分の原文からイベントを抽出してください：\n\n{chunk}")
+        content = call_llm(client, config, user, system_prompt=SYSTEM_PROMPT,
+                           temperature=temperature, json_mode=True)
+        result = json.loads(content)
+        if isinstance(result, dict) and "events" in result:
+            part = result["events"]
+        elif isinstance(result, list):
+            part = result
+        else:
+            part = [result]
+        for ev in part:
+            key = ev.get("event_id")
+            if key and key in seen:
+                continue
+            if key:
+                seen.add(key)
+            events.append(ev)
+    return events

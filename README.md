@@ -8,6 +8,7 @@
 - 実装ガイド: [`docs/runtime/v5.2-implementation-guide.md`](docs/runtime/v5.2-implementation-guide.md)
 - 三層分離パイプライン: `scripts/extract_chapter.py`（第1層抽出）→ `aggregate_events.py`（第2層集約）→ `merge_all.py`（第3層正規層マージ: エンティティ/クレーム/ミステリー/外部参照/エピソード/アーク）→ `lint.py`（検証）。検索は `search.py`（ハイブリッド検索: 構造化SQL + FTS5全文 + ベクトル + RRF、`--build` でインデックス構築）+ `build_search_index.py` / `query_cli.py`（簡易検索）。設定は `config.yaml`（`search.embedding_provider`: ollama / openai_compatible）
 - LLM 自動化: `generate_bodies.py`（本文生成、`<!-- LLM-GENERATED -->` マーカー + `review_status: unreviewed`）、`estimate_arcs.py`（アーク境界推定 → `schemas/arc_definitions.yaml`、人間レビュー必須）、`review_queue.py`（レビューキュー）
+- LLM 接続（`llm_client.py`）: Strata（`http://127.0.0.1:8080/v1`、1リクエスト直列 → `request_throttle.min_interval_ms` でスロットル）/ MiaAI-Lab 両対応。リトライ（指数バックオフ）・ストリーミング対応（`llm.stream`）。`pipeline.parallel_prefetch`（前処理の並列化、効果検証用にオン/オフ可）、`pipeline.chunk_max_chars`（分割投入、0=無効）
 - 命名規則・実装仕様: [`docs/naming-convention.md`](docs/naming-convention.md)
 - スキーマ: [`schemas/`](schemas/)（JSON Schema, draft-07）
 - 記事の移行は行わず、v5.1 知識モデルで新規構築する

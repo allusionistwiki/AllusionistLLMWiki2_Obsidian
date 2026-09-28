@@ -26,11 +26,15 @@ def process_chapter(chapter_num: int, config: dict, client, schema: dict) -> boo
     if not raw_path.exists():
         print(f"WARN {raw_path} が存在しません")
         return False
+    return process_chapter_text(chapter_num, raw_path.read_text(encoding="utf-8"),
+                                config, client, schema)
 
+
+def process_chapter_text(chapter_num: int, raw_text: str, config: dict, client, schema: dict) -> bool:
+    chapter = f"ch{chapter_num:04d}"
     print(f"\n[{chapter}] 処理中...")
-    raw_text = raw_path.read_text(encoding="utf-8")
     events = extract_events(
-        client, config["llm"]["model"], chapter, raw_text,
+        client, config, chapter, raw_text,
         temperature=config["llm"].get("temperature", 0.1),
     )
     print(f"   {len(events)} 件のイベントを抽出")
@@ -67,7 +71,36 @@ def main() -> int:
         chapters = list(range(config["chapter_range"]["start"], config["chapter_range"]["end"] + 1))
 
     client = create_client(config)
-    ok = sum(1 for c in chapters if process_chapter(c, config, client, schema))
+
+    # B: パイプライン並列（原文読み込み/前処理を LLM 推論とオーバーラップ）
+    # LLM 推論自体はスロットルで直列（Strata 直列処理対応）。config でオン/オフ。
+    parallel = config.get("pipeline", {}).get("parallel_prefetch", False) and len(chapters) > 1
+    ok = 0
+    if parallel:
+        import concurrent.futures
+
+        def load_raw(chapter_num: int):
+            chapter = f"ch{chapter_num:04d}"
+            raw_path = ROOT / config["paths"]["raw"] / f"{chapter}.txt"
+            if not raw_path.exists():
+                return chapter_num, None
+            return chapter_num, raw_path.read_text(encoding="utf-8")
+
+        with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+            futures = [executor.submit(load_raw, c) for c in chapters]
+            for i, chapter_num in enumerate(chapters):
+                _, raw_text = futures[i].result()
+                if raw_text is None:
+                    print(f"WARN {config['paths']['raw']}/ch{chapter_num:04d}.txt が存在しません")
+                    continue
+                print(f"\n[ch{chapter_num:04d}] 処理中...")
+                if process_chapter_text(chapter_num, raw_text, config, client, schema):
+                    ok += 1
+    else:
+        for c in chapters:
+            if process_chapter(c, config, client, schema):
+                ok += 1
+
     print(f"\n完了: {ok}/{len(chapters)} 章を処理")
     return 0 if ok == len(chapters) else 1
 
