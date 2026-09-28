@@ -1,0 +1,20 @@
+# config.yaml — AllusionistLLMWiki2 v5.2 実装設定
+project:
+  name: "AllusionistLLMWiki2"
+  version: "5.2"
+
+llm:
+  base_url: "http://127.0.0.1:8888/v1"   # MiaAI-Lab キット（起動時に合わせて変更）
+  api_key: "local"
+  model: "qwen3.8-27b-exl3-2.5bpw"
+  temperature: 0.1
+
+paths:
+  raw: "raw"
+  work: "work"
+  vault: "wiki"
+  schemas: "schemas"
+
+chapter_range:
+  start: 1
+  end: 10   # PoC ではまず10章まで

@@ -1,0 +1,90 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "staging.schema.json",
+  "title": "Staging Record (v5.2 第2層: 中間集約層)",
+  "type": "object",
+  "required": ["episode", "created", "status", "entities"],
+  "properties": {
+    "episode": {"type": "string", "pattern": "^ch\\d{4}$"},
+    "created": {"type": "string", "format": "date"},
+    "status": {"type": "string", "enum": ["pending_merge", "normalized", "merged"]},
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["canonical_target", "entity_type", "aspects"],
+        "properties": {
+          "canonical_target": {"type": "string", "pattern": "^\\[\\[E_[^\\]]+\\]\\]$"},
+          "entity_type": {"type": "string", "enum": ["character", "terminology", "organization", "item", "motif", "relationship", "phrase"]},
+          "aspects": {
+            "type": "object",
+            "propertyNames": {"enum": ["visual", "name", "speech", "action", "relationship", "symbolic"]},
+            "additionalProperties": {
+              "type": "object",
+              "required": ["observations"],
+              "properties": {
+                "observations": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": ["event_ref"],
+                    "properties": {
+                      "event_ref": {"type": "string", "pattern": "^E_ch\\d{4}_.+_O$"},
+                      "quote": {"type": "string"},
+                      "locator": {"type": "object"},
+                      "spoiler_after": {"type": "string"}
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "first_appearance_candidate": {"type": "boolean"}
+        }
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["canonical_target", "predicate", "subject", "object", "status"],
+        "properties": {
+          "canonical_target": {"type": "string", "pattern": "^\\[\\[A_[^\\]]+\\]\\]$"},
+          "predicate": {"type": "string", "enum": ["alludes_to", "analogous_to", "recurs_as", "structurally_matches", "misreads_as", "foreshadows", "inverts", "parodies", "sublates"]},
+          "subject": {"type": "string", "pattern": "^\\[\\[E_[^\\]]+\\]\\]$"},
+          "object": {"type": "string", "pattern": "^\\[\\[(E|ME)_[^\\]]+\\]\\]$"},
+          "evidence_strength": {"type": "string", "enum": ["weak", "moderate", "strong", "explicit"]},
+          "evidence": {"type": "array", "items": {"type": "object"}},
+          "status": {"type": "string", "enum": ["candidate", "proposed"]}
+        }
+      }
+    },
+    "mysteries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["canonical_target", "status", "introduced"],
+        "properties": {
+          "canonical_target": {"type": "string", "pattern": "^\\[\\[MY_[^\\]]+\\]\\]$"},
+          "status": {"type": "string", "enum": ["candidate", "proposed"]},
+          "introduced": {"type": "string", "pattern": "^ch\\d{4}$"},
+          "evidence": {"type": "array", "items": {"type": "object"}}
+        }
+      }
+    },
+    "matching_results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["entity", "matched"],
+        "properties": {
+          "entity": {"type": "string"},
+          "matched": {"type": "boolean"},
+          "target": {"type": "string"},
+          "confidence": {"type": "string", "enum": ["high", "medium", "low"]},
+          "suggestion": {"type": "string"}
+        }
+      }
+    }
+  }
+}

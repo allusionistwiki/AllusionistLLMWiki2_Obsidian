@@ -1,0 +1,57 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "event.schema.json",
+  "title": "Event Record (v5.2 第1層: イベント層)",
+  "type": "object",
+  "required": ["event_id", "episode", "entity", "aspect", "observation"],
+  "properties": {
+    "event_id": {
+      "type": "string",
+      "description": "イベントの一意ID: E_{episode}_{entity_type}_{entity}_{aspect略称}_O",
+      "pattern": "^E_ch\\d{4}_[a-z]+_.+_[VNSARY]_O$"
+    },
+    "episode": {
+      "type": "string",
+      "pattern": "^ch\\d{4}$",
+      "description": "由来エピソード"
+    },
+    "entity": {
+      "type": "string",
+      "description": "対象エンティティ名"
+    },
+    "entity_type": {
+      "type": "string",
+      "enum": ["character", "terminology", "organization", "item", "motif", "relationship", "phrase"],
+      "description": "エンティティの種別"
+    },
+    "aspect": {
+      "type": "string",
+      "enum": ["visual", "name", "speech", "action", "relationship", "symbolic"],
+      "description": "属性の種別 (略称: V/N/S/A/R/Y)"
+    },
+    "observation": {
+      "type": "string",
+      "description": "観察内容"
+    },
+    "quote": {
+      "type": "string",
+      "description": "原文からの引用"
+    },
+    "locator": {
+      "type": "object",
+      "properties": {
+        "chapter": {"type": "string", "pattern": "^ch\\d{4}$"},
+        "lines": {"type": "string"},
+        "paragraph_id": {"type": "string"}
+      }
+    },
+    "spoiler_after": {
+      "type": "string",
+      "pattern": "^(ch\\d{4}|ch0000|final|meta)$"
+    },
+    "created": {
+      "type": "string",
+      "format": "date"
+    }
+  }
+}
