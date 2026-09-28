@@ -23,6 +23,7 @@ SCRIPTS = [
     ("ミステリー", "scripts/merge_mysteries.py"),
     ("外部参照", "scripts/merge_references.py"),
     ("エピソード", "scripts/merge_episodes.py"),
+    ("アーク", "scripts/merge_arcs.py"),
 ]
 
 

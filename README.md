@@ -3,9 +3,11 @@
 「幻想再帰のアリュージョニスト」多層アナロジー分析Wikiのリバイス版（v5.1 設計準拠）。**ソース・オブ・トゥルース**となる Obsidian vault です。
 
 - 公開サイトは [`AllusionistLLMWiki2_Quartz`](https://github.com/allusionistwiki/AllusionistLLMWiki2_Quartz) 側で CI ビルド（この vault の `wiki/` を取得）
+- 作業派生物（第1層 events / 第2層 staging / 検索DB / レポート）は兄弟リポジトリ [`AllusionistLLMWiki2_Work`](https://github.com/allusionistwiki/AllusionistLLMWiki2_Work) に分離。整合性は相互コミット参照（`work-ref:` / `vault-ref:` + `SYNC_LOG.md`）で保証し、`scripts/commit_all.py` で同時コミットする
 - 設計書: [`docs/knowledge-model-v5.1.md`](docs/knowledge-model-v5.1.md)（v5.1 Final Revised）+ [`docs/knowledge-model-v5.2-search.md`](docs/knowledge-model-v5.2-search.md)（v5.2 検索最適化版・三層分離）
 - 実装ガイド: [`docs/runtime/v5.2-implementation-guide.md`](docs/runtime/v5.2-implementation-guide.md)
-- 三層分離パイプライン: `scripts/extract_chapter.py`（第1層抽出）→ `aggregate_events.py`（第2層集約）→ `build_search_index.py` + `query_cli.py`（構造化検索）。設定は `config.yaml`
+- 三層分離パイプライン: `scripts/extract_chapter.py`（第1層抽出）→ `aggregate_events.py`（第2層集約）→ `merge_all.py`（第3層正規層マージ: エンティティ/クレーム/ミステリー/外部参照/エピソード/アーク）→ `lint.py`（検証）。検索は `build_search_index.py` + `query_cli.py`。設定は `config.yaml`
+- LLM 自動化: `generate_bodies.py`（本文生成、`<!-- LLM-GENERATED -->` マーカー + `review_status: unreviewed`）、`estimate_arcs.py`（アーク境界推定 → `schemas/arc_definitions.yaml`、人間レビュー必須）、`review_queue.py`（レビューキュー）
 - 命名規則・実装仕様: [`docs/naming-convention.md`](docs/naming-convention.md)
 - スキーマ: [`schemas/`](schemas/)（JSON Schema, draft-07）
 - 記事の移行は行わず、v5.1 知識モデルで新規構築する
@@ -17,7 +19,6 @@ wiki/          # 公開対象の知識核（7コア型: ARC_ O_ E_ ME_ A_ MY_ RF
 sources/       # 出典台帳（SRC_*.yaml）
 schemas/       # JSON Schema（Frontmatter バリデーション）
 docs/          # 設計書・命名規則・レビュー・サンプル
-work/          # エージェント作業領域（Git管理外）
 raw/           # 原文（非公開・Git管理外）
 ```
 

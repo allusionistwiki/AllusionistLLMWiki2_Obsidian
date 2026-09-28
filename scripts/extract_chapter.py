@@ -51,7 +51,7 @@ def process_chapter(chapter_num: int, config: dict, client, schema: dict) -> boo
         for event in valid_events:
             f.write(json.dumps(event, ensure_ascii=False) + "\n")
 
-    print(f"   OK {output_path.relative_to(ROOT)} に {len(valid_events)} 件書き込み")
+    print(f"   OK {output_path} に {len(valid_events)} 件書き込み")
     if invalid:
         print(f"   WARN {invalid} 件が無効（スキップ）")
     return True

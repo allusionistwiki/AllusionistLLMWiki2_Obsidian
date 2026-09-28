@@ -20,10 +20,15 @@ from rich.table import Table
 
 console = Console()
 
-ROOT = Path(__file__).resolve().parent.parent
-VAULT_ROOT = ROOT / "wiki"
-STAGING_DIR = ROOT / "work/staging"
-REPORTS_DIR = ROOT / "work/reports"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from paths import ROOT, VAULT_ROOT, WORK_DIR, STAGING_DIR, REPORTS_DIR
+
+
+def rel(p) -> str:
+    try:
+        return str(Path(p).relative_to(ROOT))
+    except ValueError:
+        return str(p)
 
 # entity_type → 正規層プレフィックス（docs/naming-convention.md 準拠）
 TYPE_PREFIX = {
@@ -227,12 +232,12 @@ def process_staging_file(staging_path: Path, dry_run: bool = False) -> dict:
         action, content = merge_entity_file(file_path, entity_name_clean, entity_type, episode, aspects)
 
         if dry_run:
-            console.print(f"  [magenta]  [DRY-RUN] {action}: {file_path.relative_to(ROOT)}[/magenta]")
+            console.print(f"  [magenta]  [DRY-RUN] {action}: {rel(file_path)}[/magenta]")
         else:
             file_path.parent.mkdir(parents=True, exist_ok=True)
             file_path.write_text(content, encoding="utf-8")
             icon = "✨" if action == "create" else "🔄"
-            console.print(f"  {icon} {action}: {file_path.relative_to(ROOT)}")
+            console.print(f"  {icon} {action}: {rel(file_path)}")
 
         results["entities"].append({"name": entity_name_clean, "action": action, "file": str(file_path)})
         results["created" if action == "create" else "updated"] += 1
@@ -263,7 +268,7 @@ def generate_report(all_results: list, dry_run: bool = False) -> Path:
             lines.append("")
     if not dry_run:
         report_path.write_text("\n".join(lines), encoding="utf-8")
-        console.print(f"\n[green]📄 レポートを生成: {report_path.relative_to(ROOT)}[/green]")
+        console.print(f"\n[green]📄 レポートを生成: {rel(report_path)}[/green]")
     return report_path
 
 

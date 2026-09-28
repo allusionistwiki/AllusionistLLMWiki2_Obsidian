@@ -9,9 +9,14 @@ llm:
   model: "qwen3.8-27b-exl3-2.5bpw"
   temperature: 0.1
 
+# リポジトリ構成（v5.2 分離: vault + work、相互コミット参照で整合）
+repos:
+  vault: "."                              # 本リポジトリ（AllusionistLLMWiki2）
+  work: "../AllusionistLLMWiki2_Work"    # 作業派生物リポジトリ
+
 paths:
   raw: "raw"
-  work: "work"
+  work: "../AllusionistLLMWiki2_Work"    # 第1層 events/・第2層 staging/・reports/・search/
   vault: "wiki"
   schemas: "schemas"
 

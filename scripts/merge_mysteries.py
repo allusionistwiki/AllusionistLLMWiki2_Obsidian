@@ -21,7 +21,8 @@ console = Console()
 
 ROOT = Path(__file__).resolve().parent.parent
 VAULT_ROOT = ROOT / "wiki"
-STAGING_DIR = ROOT / "work/staging"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from paths import ROOT, VAULT_ROOT, STAGING_DIR
 MYSTERIES_DIR = VAULT_ROOT / "mysteries"
 
 STATUS_LABELS = {

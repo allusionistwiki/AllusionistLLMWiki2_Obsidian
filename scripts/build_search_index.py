@@ -11,7 +11,15 @@ import sqlite3
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from paths import ROOT, WORK_DIR
+
+
+def rel(p) -> str:
+    try:
+        return str(Path(p).relative_to(ROOT))
+    except ValueError:
+        return str(p)
 
 
 def create_database(db_path: Path) -> sqlite3.Connection:
@@ -62,11 +70,12 @@ def insert_events(conn: sqlite3.Connection, events_dir: Path) -> int:
 
 
 def main() -> int:
-    db_path = ROOT / "search/events.db"
+    WORK_DIR.mkdir(parents=True, exist_ok=True)
+    db_path = WORK_DIR / "search/events.db"
     db_path.parent.mkdir(parents=True, exist_ok=True)
     conn = create_database(db_path)
-    n = insert_events(conn, ROOT / "work/events")
-    print(f"OK {db_path.relative_to(ROOT)} に {n} 件のインデックスを構築")
+    n = insert_events(conn, WORK_DIR / "events")
+    print(f"OK {rel(db_path)} に {n} 件のインデックスを構築")
     conn.close()
     return 0
 

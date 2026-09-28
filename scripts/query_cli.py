@@ -13,8 +13,9 @@ import sqlite3
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-DB = ROOT / "search/events.db"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from paths import ROOT, WORK_DIR
+DB = WORK_DIR / "search/events.db"
 
 
 def run_query(conn: sqlite3.Connection, entity=None, aspect=None, episode=None):

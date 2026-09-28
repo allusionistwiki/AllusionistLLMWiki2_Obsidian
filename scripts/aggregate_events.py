@@ -15,7 +15,15 @@ from pathlib import Path
 
 import yaml
 
-ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from paths import ROOT, WORK_DIR
+
+
+def rel(p) -> str:
+    try:
+        return str(Path(p).relative_to(ROOT))
+    except ValueError:
+        return str(p)
 
 # entity_type → 正規層プレフィックス（命名規則 docs/naming-convention.md 準拠）
 TYPE_PREFIX = {
@@ -68,13 +76,13 @@ def aggregate_chapter(chapter: str, events_dir: Path, staging_dir: Path) -> bool
         yaml.dump(staging_data, allow_unicode=True, default_flow_style=False, sort_keys=False),
         encoding="utf-8",
     )
-    print(f"OK {output_path.relative_to(ROOT)} に集約（{len(staging_data['entities'])} エンティティ）")
+    print(f"OK {rel(output_path)} に集約（{len(staging_data['entities'])} エンティティ）")
     return True
 
 
 def main() -> int:
-    events_dir = ROOT / "work/events"
-    staging_dir = ROOT / "work/staging"
+    events_dir = WORK_DIR / "events"
+    staging_dir = WORK_DIR / "staging"
     if len(sys.argv) > 1:
         chapters = [sys.argv[1]]
     else:

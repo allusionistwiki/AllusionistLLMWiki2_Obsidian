@@ -14,7 +14,8 @@ from pathlib import Path
 import jsonschema
 import yaml
 
-ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from paths import ROOT, EVENTS_DIR, STAGING_DIR
 
 
 def load_schema(name: str) -> dict:
@@ -60,7 +61,7 @@ def main() -> int:
     staging_mode = "--staging" in sys.argv
     if staging_mode:
         schema = load_schema("staging.schema.json")
-        d = ROOT / "work/staging"
+        d = STAGING_DIR
         files = sorted(d.glob("*.yaml"))
         bad = 0
         for f in files:
@@ -76,7 +77,7 @@ def main() -> int:
         return 1 if bad else 0
 
     schema = load_schema("event.schema.json")
-    d = ROOT / "work/events"
+    d = EVENTS_DIR
     files = [f for f in sorted(d.glob("*.jsonl"))]
     if not files:
         print("work/events/ に .jsonl がありません")

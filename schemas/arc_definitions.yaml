@@ -1,0 +1,40 @@
+# schemas/arc_definitions.yaml
+# アークの定義ファイル（人間が手動で記述 / LLM推定後は人間レビュー必須）
+# 章範囲は物語解釈 → 人間が確定する。
+
+arcs:
+  - id: ARC_01
+    name: 女神候補選定編
+    slug: 女神候補選定編
+    chapters:
+      start: ch0001
+      end: ch0050
+    theme: 選びと拒絶
+    macro_analogy: ""
+    description: |
+      女神候補者たちが選定され、最初の試練に挑む物語。
+      各候補者の能力と背景が提示される。
+
+  - id: ARC_02
+    name: 第一の試練編
+    slug: 第一の試練編
+    chapters:
+      start: ch0051
+      end: ch0100
+    theme: 試練と成長
+    macro_analogy: ""
+    description: |
+      第一の試練に挑む候補者たちの物語。
+      協力と対立が交錯する。
+
+  - id: ARC_03
+    name: 合わせ鏡編
+    slug: 合わせ鏡編
+    chapters:
+      start: ch0101
+      end: ch0150
+    theme: 自己と他者の反転
+    macro_analogy: "[[A_structural_合わせ鏡_ナルキッソス]]"
+    description: |
+      合わせ鏡のモチーフが全面に出る章。
+      自己と他者の境界が曖昧になる。
