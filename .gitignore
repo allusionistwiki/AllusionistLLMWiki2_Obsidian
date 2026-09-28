@@ -5,11 +5,22 @@ private/
 # 原文（非公開・Git管理外）
 raw/
 
-# 派生物（エージェント作業領域・報告）
+# 派生物（エージェント作業領域・報告・三層分離の中間物）
 work/candidates/
 work/changesets/
 work/locks/
 work/reports/
+work/events/
+work/staging/
+work/_merged/
+
+# 検索インデックス（派生物）
+search/*.db
+search/*.json
+
+# Python
+__pycache__/
+.venv/
 
 # OS
 .DS_Store
