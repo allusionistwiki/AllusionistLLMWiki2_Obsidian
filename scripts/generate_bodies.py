@@ -24,6 +24,7 @@ from rich.progress import Progress
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from paths import ROOT, VAULT_ROOT, load_config
+from llm_client import call_llm, create_client
 
 console = Console()
 
@@ -206,20 +207,7 @@ def extract_characters_list(fm: dict) -> str:
     return "\n".join(f"  - {c}" for c in characters) if characters else "（なし）"
 
 
-def call_llm(client: OpenAI, model: str, prompt: str, temperature: float = 0.3) -> str:
-    response = client.chat.completions.create(
-        model=model,
-        messages=[
-            {"role": "system", "content": "あなたは「幻想再帰のアリュージョニスト」の分析Wikiの編集者です。"},
-            {"role": "user", "content": prompt},
-        ],
-        temperature=temperature,
-        max_tokens=500,
-    )
-    return response.choices[0].message.content.strip()
-
-
-def generate_body(client: OpenAI, model: str, file_type: str, fm: dict) -> str:
+def generate_body(client: OpenAI, config: dict, file_type: str, fm: dict) -> str:
     if file_type == "entity":
         prompt = ENTITY_PROMPT.format(
             name=fm.get("canonical_name", ""), subtype=fm.get("subtype", ""),
@@ -252,7 +240,9 @@ def generate_body(client: OpenAI, model: str, file_type: str, fm: dict) -> str:
             claims_list=", ".join(fm.get("claims", [])), mysteries_list=", ".join(fm.get("mysteries", [])))
     else:
         return ""
-    return call_llm(client, model, prompt)
+    return call_llm(client, config, prompt,
+                    system_prompt="あなたは「幻想再帰のアリュージョニスト」の分析Wikiの編集者です。",
+                    max_tokens=500).strip()
 
 
 def update_file_with_llm_body(file_path: Path, generated_body: str, dry_run: bool = False) -> bool:
@@ -279,7 +269,7 @@ def update_file_with_llm_body(file_path: Path, generated_body: str, dry_run: boo
     return True
 
 
-def process_files(client: OpenAI, model: str, file_type: str, dry_run: bool = False) -> dict:
+def process_files(client: OpenAI, config: dict, file_type: str, dry_run: bool = False) -> dict:
     results = {"type": file_type, "processed": 0, "updated": 0, "skipped": 0}
     files: list[Path] = []
     for dir_path in TYPE_DIRS.get(file_type, []):
@@ -299,7 +289,7 @@ def process_files(client: OpenAI, model: str, file_type: str, dry_run: bool = Fa
                     results["skipped"] += 1
                     progress.update(task, advance=1)
                     continue
-                generated = generate_body(client, model, file_type, fm)
+                generated = generate_body(client, config, file_type, fm)
                 if not generated:
                     results["skipped"] += 1
                 elif update_file_with_llm_body(file_path, generated, dry_run):
@@ -319,15 +309,14 @@ def main():
     args = parser.parse_args()
 
     config = load_config()
-    client = OpenAI(base_url=config["llm"]["base_url"], api_key=config["llm"]["api_key"])
-    model = config["llm"]["model"]
+    client = create_client(config)
 
     file_types = [args.type] if args.type else ["entity", "claim", "mystery", "reference", "episode"]
     if args.dry_run:
         console.print("[magenta bold]🔍 DRY-RUN モード（書き込みなし）[/magenta bold]")
 
     for file_type in file_types:
-        r = process_files(client, model, file_type, args.dry_run)
+        r = process_files(client, config, file_type, args.dry_run)
         console.print(f"  {r['type']}: {r['updated']} 更新, {r['skipped']} スキップ")
 
 

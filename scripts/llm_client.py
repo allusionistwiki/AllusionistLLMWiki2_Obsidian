@@ -55,11 +55,21 @@ def call_llm(client: OpenAI, config: dict, prompt: str,
              json_mode: bool = False,
              stream: Optional[bool] = None) -> str:
     """LLM を呼ぶ（A: リトライ + ストリーミング対応）"""
-    llm = config["llm"]
     messages = []
     if system_prompt:
         messages.append({"role": "system", "content": system_prompt})
     messages.append({"role": "user", "content": prompt})
+    return call_llm_messages(client, config, messages, temperature=temperature,
+                             max_tokens=max_tokens, json_mode=json_mode, stream=stream)
+
+
+def call_llm_messages(client: OpenAI, config: dict, messages: list[dict],
+                      temperature: Optional[float] = None,
+                      max_tokens: Optional[int] = None,
+                      json_mode: bool = False,
+                      stream: Optional[bool] = None) -> str:
+    """メッセージ配列を直接渡して LLM を呼ぶ（セッション用）"""
+    llm = config["llm"]
 
     kwargs = {
         "model": llm.get("model"),
@@ -146,10 +156,18 @@ def split_text(text: str, max_chars: int, overlap: int) -> list[str]:
 
 def extract_events(client: OpenAI, config: dict, chapter: str,
                    raw_text: str, temperature: Optional[float] = None) -> list[dict]:
-    """章原文からイベントを抽出（D: 分割投入 → event_id 重複排除マージ）"""
+    """章原文からイベントを抽出（D: 分割投入 → event_id 重複排除マージ）.
+
+    pipeline.session_mode: true のとき1セッションにまとめる（Strata の
+    Conversation Cache がチャンク1..N-1のプレフィックスを再利用）。
+    """
     pipe = config.get("pipeline", {})
     chunks = split_text(raw_text, pipe.get("chunk_max_chars", 0),
                         pipe.get("chunk_overlap_chars", 400))
+    session = None
+    if pipe.get("session_mode", True) and len(chunks) > 1:
+        from llm_session import LlmSession
+        session = LlmSession(client, config, system_prompt=SYSTEM_PROMPT)
     events, seen = [], set()
     for i, chunk in enumerate(chunks, 1):
         if len(chunks) == 1:
@@ -157,8 +175,11 @@ def extract_events(client: OpenAI, config: dict, chapter: str,
         else:
             user = (f"以下は {chapter} の原文の一部（{i}/{len(chunks)}）です。"
                     f"この部分の原文からイベントを抽出してください：\n\n{chunk}")
-        content = call_llm(client, config, user, system_prompt=SYSTEM_PROMPT,
-                           temperature=temperature, json_mode=True)
+        if session is not None:
+            content = session.chat(user, temperature=temperature, json_mode=True)
+        else:
+            content = call_llm(client, config, user, system_prompt=SYSTEM_PROMPT,
+                               temperature=temperature, json_mode=True)
         result = json.loads(content)
         if isinstance(result, dict) and "events" in result:
             part = result["events"]

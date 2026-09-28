@@ -23,6 +23,7 @@ pipeline:
   parallel_prefetch: true    # B: 原文読み込み/前処理の並列化（効果検証後にオン/オフ判断）
   chunk_max_chars: 0         # D: 分割投入（0=分割しない、例: 12000 で約10K字ずつ）
   chunk_overlap_chars: 400   # D: チャンク間の重複（event_id 重複排除で吸収）
+  session_mode: true         # 分割チャンクを1セッションにまとめる（Strata KVキャッシュ再利用）
 
 # リポジトリ構成（v5.2 分離: vault + work、相互コミット参照で整合）
 repos:
