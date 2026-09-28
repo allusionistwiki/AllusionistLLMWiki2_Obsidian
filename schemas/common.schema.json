@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "common.schema.json",
+  "title": "Common Fields",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "id",
+    "type"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "enum": [
+        "5.1"
+      ],
+      "description": "設計書のバージョン"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^(ARC|O|E|ME|A|MY|RF|SRC)_[^\\s]+$",
+      "description": "正規ID（ファイル名と一致する）"
+    },
+    "legacy_id": {
+      "type": "string",
+      "description": "旧形式のID（移行時のみ）"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "arc",
+        "episode",
+        "entity",
+        "external_reference",
+        "analytical_claim",
+        "mystery",
+        "reflection",
+        "source"
+      ],
+      "description": "コア型"
+    },
+    "created": {
+      "type": "string",
+      "format": "date",
+      "description": "作成日（ISO 8601）"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date",
+      "description": "最終更新日（ISO 8601）"
+    }
+  }
+}

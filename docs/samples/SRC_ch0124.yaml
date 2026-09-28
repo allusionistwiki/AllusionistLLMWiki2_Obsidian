@@ -1,0 +1,7 @@
+schema_version: "5.1"
+id: SRC_ch0124
+type: source
+chapter: "ch0124"
+local_path: "raw/ch0124.txt"
+checksum: "sha256:0000000000000000000000000000000000000000000000000000000000000000"
+source_type: primary_text

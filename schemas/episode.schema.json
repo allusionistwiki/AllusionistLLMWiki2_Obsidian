@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "episode.schema.json",
+  "title": "Episode",
+  "allOf": [
+    {
+      "$ref": "common.schema.json"
+    }
+  ],
+  "required": [
+    "chapter"
+  ],
+  "properties": {
+    "type": {
+      "const": "episode"
+    },
+    "chapter": {
+      "type": "string",
+      "pattern": "^ch\\d{4}[a-z]?$",
+      "description": "章番号（1章複数エピソード時は chNNNNa）"
+    },
+    "title": {
+      "type": "string",
+      "description": "エピソード名"
+    },
+    "arc": {
+      "type": "string",
+      "pattern": "^\\[\\[ARC_[^\\]]+\\]\\]$",
+      "description": "所属する物語単位"
+    },
+    "spoiler_after": {
+      "type": "string",
+      "pattern": "^(ch\\d{4}|ch0000|final|meta)$"
+    },
+    "document_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "active",
+        "archived",
+        "superseded"
+      ],
+      "default": "draft"
+    }
+  }
+}

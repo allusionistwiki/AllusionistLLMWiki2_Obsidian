@@ -1,0 +1,302 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "claim.schema.json",
+  "title": "Analytical Claim",
+  "allOf": [
+    {
+      "$ref": "common.schema.json"
+    }
+  ],
+  "required": [
+    "subject",
+    "predicate",
+    "object",
+    "epistemic_status",
+    "review_status",
+    "document_status",
+    "spoiler_after"
+  ],
+  "properties": {
+    "type": {
+      "const": "analytical_claim"
+    },
+    "subject": {
+      "type": "string",
+      "pattern": "^\\[\\[E_[^\\]]+\\]\\]$",
+      "description": "主語（作品内エンティティ）"
+    },
+    "predicate": {
+      "type": "string",
+      "enum": [
+        "alludes_to",
+        "analogous_to",
+        "recurs_as",
+        "structurally_matches",
+        "misreads_as",
+        "foreshadows",
+        "inverts",
+        "parodies",
+        "sublates"
+      ],
+      "description": "述語（関係の種別）"
+    },
+    "object": {
+      "type": "string",
+      "pattern": "^\\[\\[(E|ME)_[^\\]]+\\]\\]$",
+      "description": "対象（作品内エンティティまたは外部参照）"
+    },
+    "valid_from": {
+      "type": "string",
+      "pattern": "^ch\\d{4}$",
+      "description": "この主張が有効になる開始章"
+    },
+    "spoiler_after": {
+      "type": "string",
+      "pattern": "^(ch\\d{4}|ch0000|final|meta)$"
+    },
+    "epistemic_status": {
+      "type": "string",
+      "enum": [
+        "hypothesized",
+        "supported",
+        "confirmed",
+        "disputed",
+        "refuted",
+        "sublated"
+      ]
+    },
+    "review_status": {
+      "type": "string",
+      "enum": [
+        "unreviewed",
+        "pending",
+        "human_verified",
+        "needs_revision"
+      ]
+    },
+    "document_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "active",
+        "archived",
+        "superseded"
+      ]
+    },
+    "evidence_strength": {
+      "type": "string",
+      "enum": [
+        "weak",
+        "moderate",
+        "strong",
+        "explicit"
+      ],
+      "description": "証拠の強度（数値の代わりに使用）"
+    },
+    "evidence": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "source_id",
+          "locator"
+        ],
+        "properties": {
+          "source_id": {
+            "type": "string",
+            "pattern": "^SRC_(ch\\d{4}|external_\\d{3})$",
+            "description": "出典ID"
+          },
+          "locator": {
+            "type": "object",
+            "required": [
+              "chapter"
+            ],
+            "properties": {
+              "chapter": {
+                "type": "string",
+                "pattern": "^ch\\d{4}$"
+              },
+              "lines": {
+                "type": "string",
+                "description": "行番号（補助情報）"
+              },
+              "paragraph_id": {
+                "type": "string",
+                "description": "段落ID（安定ID）"
+              }
+            }
+          },
+          "quote": {
+            "type": "string",
+            "description": "原文からの引用"
+          },
+          "evidence_type": {
+            "type": "string",
+            "enum": [
+              "direct_quote",
+              "explicit_statement",
+              "repeated_pattern",
+              "structural_correspondence",
+              "external_source",
+              "author_statement"
+            ]
+          }
+        }
+      }
+    },
+    "mapping": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "subject_feature",
+          "object_feature",
+          "relation"
+        ],
+        "properties": {
+          "subject_feature": {
+            "type": "string"
+          },
+          "object_feature": {
+            "type": "string"
+          },
+          "relation": {
+            "type": "string",
+            "enum": [
+              "attribute_correspondence",
+              "structural_equivalence",
+              "functional_equivalence",
+              "narrative_parallel",
+              "iconographic_match"
+            ],
+            "description": "対応関係の種別"
+          }
+        }
+      }
+    },
+    "misreading": {
+      "type": "object",
+      "description": "predicate: misreads_as の場合のみ",
+      "properties": {
+        "agent_type": {
+          "type": "string",
+          "enum": [
+            "in_story_character",
+            "reader",
+            "llm",
+            "critic",
+            "authorial_feint"
+          ]
+        },
+        "agent": {
+          "type": "string",
+          "pattern": "^\\[\\[E_[^\\]]+\\]\\]$",
+          "description": "誤読の主体（in_story_character の場合）"
+        },
+        "content": {
+          "type": "string",
+          "description": "誤読の内容"
+        },
+        "actual_target": {
+          "type": "string",
+          "pattern": "^\\[\\[(E|ME)_[^\\]]+\\]\\]$",
+          "description": "本来の対象（判明している場合）"
+        },
+        "corrected_by": {
+          "type": "string",
+          "pattern": "^\\[\\[A_[^\\]]+\\]\\]$",
+          "description": "訂正した主張"
+        },
+        "narrative_function": {
+          "type": "string",
+          "description": "誤読の物語的機能"
+        }
+      }
+    },
+    "conflicting_claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "claim_id",
+          "reason"
+        ],
+        "properties": {
+          "claim_id": {
+            "type": "string",
+            "pattern": "^\\[\\[A_[^\\]]+\\]\\]$"
+          },
+          "reason": {
+            "type": "string"
+          },
+          "resolution_status": {
+            "type": "string",
+            "enum": [
+              "unresolved",
+              "sublated",
+              "refuted",
+              "coexisting"
+            ]
+          }
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "properties": {
+        "proposed_by": {
+          "type": "object",
+          "properties": {
+            "kind": {
+              "type": "string",
+              "enum": [
+                "human",
+                "agent"
+              ]
+            },
+            "id": {
+              "type": "string"
+            }
+          }
+        },
+        "reviewed_by": {
+          "type": "object",
+          "properties": {
+            "kind": {
+              "type": "string",
+              "enum": [
+                "human",
+                "agent"
+              ]
+            },
+            "id": {
+              "type": "string"
+            },
+            "date": {
+              "type": "string",
+              "format": "date"
+            }
+          }
+        }
+      }
+    },
+    "superseded_by": {
+      "type": "string",
+      "pattern": "^\\[\\[A_[^\\]]+\\]\\]$"
+    }
+  },
+  "if": {
+    "properties": {
+      "predicate": {
+        "const": "misreads_as"
+      }
+    }
+  },
+  "then": {
+    "required": [
+      "misreading"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "mystery.schema.json",
+  "title": "Mystery",
+  "allOf": [
+    {
+      "$ref": "common.schema.json"
+    }
+  ],
+  "required": [
+    "mystery_status",
+    "timeline"
+  ],
+  "properties": {
+    "type": {
+      "const": "mystery"
+    },
+    "mystery_status": {
+      "type": "string",
+      "enum": [
+        "candidate",
+        "open",
+        "partially_resolved",
+        "resolved",
+        "invalidated",
+        "unresolved_at_end"
+      ]
+    },
+    "timeline": {
+      "type": "object",
+      "required": [
+        "introduced"
+      ],
+      "properties": {
+        "introduced": {
+          "type": "string",
+          "pattern": "^ch\\d{4}$",
+          "description": "伏線が提示された章"
+        },
+        "hinted": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^ch\\d{4}$"
+          },
+          "description": "ヒントが提示された章のリスト"
+        },
+        "resolved": {
+          "type": "string",
+          "pattern": "^ch\\d{4}$",
+          "description": "回収された章"
+        },
+        "invalidated": {
+          "type": "string",
+          "pattern": "^ch\\d{4}$",
+          "description": "無効化された章（誤認だった場合）"
+        }
+      }
+    },
+    "related_facts": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^\\[\\[O_[^\\]]+\\]\\]$"
+      }
+    },
+    "related_claims": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^\\[\\[A_[^\\]]+\\]\\]$"
+      }
+    },
+    "resolution_summary": {
+      "type": "string",
+      "description": "回収時の要約（resolved の場合）"
+    },
+    "disclosure": {
+      "type": "object",
+      "properties": {
+        "minimum_progress": {
+          "type": "string",
+          "pattern": "^(ch\\d{4}|ch0000|final)$"
+        },
+        "audience": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "reader",
+              "rereader",
+              "analyst"
+            ]
+          }
+        },
+        "level": {
+          "type": "string",
+          "enum": [
+            "surface",
+            "hint",
+            "revelation",
+            "meta"
+          ]
+        }
+      }
+    }
+  }
+}

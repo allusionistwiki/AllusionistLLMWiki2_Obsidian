@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "reflection.schema.json",
+  "title": "Reflection",
+  "allOf": [
+    {
+      "$ref": "common.schema.json"
+    }
+  ],
+  "properties": {
+    "type": {
+      "const": "reflection"
+    },
+    "author": {
+      "type": "string",
+      "description": "考察者（人間名・エージェント種別）"
+    },
+    "document_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "active",
+        "archived",
+        "superseded"
+      ],
+      "default": "draft"
+    },
+    "spoiler_after": {
+      "type": "string",
+      "pattern": "^(ch\\d{4}|ch0000|final|meta)$"
+    },
+    "resulted_in": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^\\[\\[A_[^\\]]+\\]\\]$"
+      },
+      "description": "この考察から生成された分析主張"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "source.schema.json",
+  "title": "Source Registry",
+  "allOf": [
+    {
+      "$ref": "common.schema.json"
+    }
+  ],
+  "required": [
+    "chapter",
+    "local_path"
+  ],
+  "properties": {
+    "type": {
+      "const": "source"
+    },
+    "chapter": {
+      "type": "string",
+      "pattern": "^ch\\d{4}$"
+    },
+    "local_path": {
+      "type": "string",
+      "description": "原文ファイルへの相対パス"
+    },
+    "checksum": {
+      "type": "string",
+      "pattern": "^sha256:[a-f0-9]{64}$",
+      "description": "原文ファイルのSHA256ハッシュ"
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "primary_text",
+        "external_source",
+        "author_statement"
+      ],
+      "default": "primary_text"
+    }
+  }
+}

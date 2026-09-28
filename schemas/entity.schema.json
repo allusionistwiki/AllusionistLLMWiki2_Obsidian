@@ -1,0 +1,115 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "entity.schema.json",
+  "title": "Entity",
+  "allOf": [
+    {
+      "$ref": "common.schema.json"
+    }
+  ],
+  "required": [
+    "subtype",
+    "canonical_name"
+  ],
+  "properties": {
+    "type": {
+      "const": "entity"
+    },
+    "subtype": {
+      "type": "string",
+      "enum": [
+        "character",
+        "terminology",
+        "organization",
+        "item",
+        "visual_motif",
+        "relationship",
+        "key_phrase"
+      ],
+      "description": "エンティティのサブタイプ"
+    },
+    "canonical_name": {
+      "type": "string",
+      "description": "正規名（ファイル名に使用）"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "別名・表記揺れ"
+    },
+    "first_appearance": {
+      "type": "string",
+      "pattern": "^ch\\d{4}$",
+      "description": "初出章"
+    },
+    "spoiler_after": {
+      "type": "string",
+      "pattern": "^(ch\\d{4}|ch0000|final|meta)$",
+      "description": "ネタバレ開示条件"
+    },
+    "document_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "active",
+        "archived",
+        "superseded"
+      ],
+      "default": "draft"
+    },
+    "superseded_by": {
+      "type": "string",
+      "pattern": "^\\[\\[E_[^\\]]+\\]\\]$",
+      "description": "統合先のエンティティ（document_status: superseded の場合）"
+    }
+  },
+  "if": {
+    "properties": {
+      "subtype": {
+        "const": "relationship"
+      }
+    }
+  },
+  "then": {
+    "required": [
+      "related_entities",
+      "relation_type"
+    ],
+    "properties": {
+      "related_entities": {
+        "type": "array",
+        "minItems": 2,
+        "items": {
+          "type": "string",
+          "pattern": "^\\[\\[E_[^\\]]+\\]\\]$"
+        },
+        "description": "関係するエンティティのリスト"
+      },
+      "relation_type": {
+        "type": "string",
+        "description": "関係性の種別"
+      },
+      "timeline": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "episode": {
+              "type": "string",
+              "pattern": "^ch\\d{4}$"
+            },
+            "status": {
+              "type": "string"
+            },
+            "quote": {
+              "type": "string"
+            }
+          }
+        },
+        "description": "関係性の時系列変化"
+      }
+    }
+  }
+}

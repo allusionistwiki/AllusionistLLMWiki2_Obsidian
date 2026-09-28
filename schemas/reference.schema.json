@@ -1,0 +1,117 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "reference.schema.json",
+  "title": "External Reference",
+  "allOf": [
+    {
+      "$ref": "common.schema.json"
+    }
+  ],
+  "required": [
+    "subtype",
+    "canonical_name",
+    "domain"
+  ],
+  "properties": {
+    "type": {
+      "const": "external_reference"
+    },
+    "subtype": {
+      "type": "string",
+      "enum": [
+        "mythology",
+        "religion",
+        "literature",
+        "philosophy",
+        "psychology",
+        "history",
+        "folklore",
+        "occult",
+        "popular_culture",
+        "internet_culture",
+        "author_material",
+        "scholarly_source"
+      ],
+      "description": "外部参照のサブタイプ"
+    },
+    "canonical_name": {
+      "type": "string"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "domain": {
+      "type": "string",
+      "description": "領域（例: Greek Mythology, Jungian Psychology）"
+    },
+    "relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "predicate",
+          "target"
+        ],
+        "properties": {
+          "predicate": {
+            "type": "string",
+            "enum": [
+              "influenced_by",
+              "derived_from",
+              "syncretized_with",
+              "reinterpreted_by",
+              "parodied_in"
+            ],
+            "description": "ME_間の関係述語"
+          },
+          "target": {
+            "type": "string",
+            "pattern": "^\\[\\[ME_[^\\]]+\\]\\]$"
+          },
+          "evidence": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "source_id"
+              ],
+              "properties": {
+                "source_id": {
+                  "type": "string",
+                  "pattern": "^SRC_external_\\d{3}$"
+                },
+                "quote": {
+                  "type": "string"
+                }
+              }
+            },
+            "description": "外部関係主張の証拠（外部典拠必須）"
+          }
+        }
+      }
+    },
+    "referenced_by": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "entity": {
+            "type": "string",
+            "pattern": "^\\[\\[E_[^\\]]+\\]\\]$"
+          },
+          "context": {
+            "type": "string"
+          },
+          "detail": {
+            "type": "string",
+            "pattern": "^\\[\\[A_[^\\]]+\\]\\]$"
+          }
+        }
+      },
+      "description": "作品内での参照情報"
+    }
+  }
+}

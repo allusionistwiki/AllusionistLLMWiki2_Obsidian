@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "arc.schema.json",
+  "title": "Story Arc",
+  "allOf": [
+    {
+      "$ref": "common.schema.json"
+    }
+  ],
+  "required": [
+    "canonical_name"
+  ],
+  "properties": {
+    "type": {
+      "const": "arc"
+    },
+    "canonical_name": {
+      "type": "string",
+      "description": "アーク名"
+    },
+    "episodes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^\\[\\[O_[^\\]]+\\]\\]$"
+      },
+      "description": "所属エピソード"
+    },
+    "spoiler_after": {
+      "type": "string",
+      "pattern": "^(ch\\d{4}|ch0000|final|meta)$"
+    },
+    "document_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "active",
+        "archived",
+        "superseded"
+      ],
+      "default": "draft"
+    }
+  }
+}
