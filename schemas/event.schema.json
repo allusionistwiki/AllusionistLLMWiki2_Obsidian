@@ -8,7 +8,7 @@
     "event_id": {
       "type": "string",
       "description": "SPO+定位子: E_{chapter}_{subject}_{predicate}_{object}_p{ページ}（object 省略可、同一SPO複数件は _p の前に _2,_3 連番）",
-      "pattern": "^E_ch\\d{4}_[^_]+(_[^_]+){1,2}(_\\d+)?_p\\d+$"
+      "pattern": "^E_ch\\d{4}_[^_]+_[a-z_]+(_[^_]+)?(_\\d+)?_p\\d+$"
     },
     "episode": {
       "type": "string",
