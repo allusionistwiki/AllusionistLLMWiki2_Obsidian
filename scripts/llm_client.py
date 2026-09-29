@@ -122,6 +122,11 @@ SYSTEM_PROMPT = """
 3. quote は原文からの**連続した**引用（途中を「...」で省略・連結しない。長い場合は原文の一区切りで切り、長くても1文〜2文まで）
 4. 出力は必ずJSON配列形式
 
+【粒度】
+- 粗くまとめすぎない: 1イベント=1観察。同一エンティティでも visual/speech/action/relationship 等で分ける
+- 会話の発話内容（キャラクターの人となり・知識・関係がわかる発言）、固有名詞の初出、世界設定の説明、物品の機能描写、伏線となる描写は必ず個別に抽出
+- 章あたり目安: 2万字の章なら 40〜80 イベント。原文の各場面（シーン）を漏らさない
+
 【出力形式】
 [
   {
@@ -160,12 +165,74 @@ def strip_code_fence(text: str) -> str:
     return t.strip()
 
 
-def normalize_event_id(ev: dict) -> dict:
-    """event_id 正規化: 末尾 _O 欠落補完（E_..._A → E_..._AO は作らず _O を付与）"""
-    eid = ev.get("event_id", "")
-    if eid and re.fullmatch(r"E_ch\d{4}_[a-z]+_.+_[VNSARY]", eid):
-        ev["event_id"] = eid + "_O"
+ASPECT_LETTER = {"visual": "V", "name": "N", "speech": "S", "action": "A",
+                 "relationship": "R", "symbolic": "Y"}
+
+
+def canonical_event_id(ev: dict, counter: dict) -> dict:
+    """event_id をフィールドから決定論的に再構築（モデル出力の表記ゆれ対策）.
+
+    正規形: E_{episode}_{entity_type}_{entity}_{aspect略称}_O[連番]
+    同一 (chapter, entity, aspect) の複数件は O, O2, O3...
+    """
+    episode = ev.get("episode", "")
+    etype = ev.get("entity_type", "character")
+    entity = ev.get("entity", "unknown")
+    aspect = ev.get("aspect", "symbolic")
+    letter = ASPECT_LETTER.get(aspect, "Y")
+    key = (episode, etype, entity, letter)
+    n = counter.get(key, 0)
+    counter[key] = n + 1
+    suffix = "O" if n == 0 else f"O{n + 1}"
+    ev["event_id"] = f"E_{episode}_{etype}_{entity}_{letter}_{suffix}"
     return ev
+
+
+def parse_json_lenient(content: str, chunk_idx: int) -> list | dict:
+    """JSON 解析（max_tokens で切られた応答は末尾の完全オブジェクトまで切り捨てて救済）"""
+    try:
+        return json.loads(content)
+    except json.JSONDecodeError:
+        pass
+    is_array = content.lstrip().startswith("[")
+    tail = "]" if is_array else "}}"
+    pos = len(content)
+    while True:
+        cut = content.rfind("},", 0, pos)
+        if cut <= 0:
+            break
+        try:
+            return json.loads(content[:cut + 1] + tail)
+        except json.JSONDecodeError:
+            pos = cut
+    print(f"   WARN chunk {chunk_idx}: JSON 解析不能（{len(content)} chars）→ スキップ")
+    return []
+
+
+def normalize_quote(ev: dict, raw_norm: str) -> dict:
+    """quote 正規化: 「...」「……」で連結された引用を、原文に実在する最長連続断片に縮退.
+
+    幻覚（原文にない引用）は検出できないが、連結による原文不在は機械的に救える。
+    raw_norm は norm_text(raw_text) で事前計算（章ごとに1回）。
+    """
+    q = ev.get("quote", "")
+    if not q:
+        return ev
+    if norm_text(q) in raw_norm:
+        return ev
+    parts = [p for p in re.split(r"\.{2,}|…{2,}", q) if p.strip()]
+    best = ""
+    for p in parts:
+        if norm_text(p) in raw_norm and len(p) > len(best):
+            best = p
+    if best:
+        ev["quote"] = best.strip()
+    return ev
+
+
+def norm_text(s: str) -> str:
+    s = re.sub(r"【p\d+】", "", s)
+    return re.sub(r"\s+", "", s)
 
 
 def split_text(text: str, max_chars: int, overlap: int) -> list[str]:
@@ -209,21 +276,7 @@ def extract_events(client: OpenAI, config: dict, chapter: str,
             content = call_llm(client, config, user, system_prompt=SYSTEM_PROMPT,
                                temperature=temperature, json_mode=True)
         content = strip_code_fence(content)
-        try:
-            result = json.loads(content)
-        except json.JSONDecodeError:
-            # 応答が max_tokens で切られた場合、最後の不完整オブジェクトを切って再試行
-            cut = content.rfind("},")
-            if cut > 0:
-                tail = "]" if content.lstrip().startswith("[") else "}}"
-                try:
-                    result = json.loads(content[:cut + 1] + tail)
-                except json.JSONDecodeError:
-                    print(f"   WARN chunk {i}: JSON 解析不能（{len(content)} chars）→ スキップ")
-                    result = []
-            else:
-                print(f"   WARN chunk {i}: JSON 解析不能（{len(content)} chars）→ スキップ")
-                result = []
+        result = parse_json_lenient(content, i)
         if isinstance(result, dict) and "events" in result:
             part = result["events"]
         elif isinstance(result, list):
@@ -231,11 +284,15 @@ def extract_events(client: OpenAI, config: dict, chapter: str,
         else:
             part = [result]
         for ev in part:
-            ev = normalize_event_id(ev)
-            key = ev.get("event_id")
-            if key and key in seen:
+            # 重複排除は内容キーで（チャンク重複部で同一イベントが二重抽出される）
+            key = (ev.get("episode"), ev.get("entity_type"), ev.get("entity"),
+                   ev.get("aspect"), ev.get("observation"))
+            if key in seen:
                 continue
-            if key:
-                seen.add(key)
+            seen.add(key)
             events.append(ev)
+    # event_id はフィールドから決定論的に再採番（モデル出力の表記ゆれを排除）
+    counter: dict = {}
+    raw_norm = norm_text(raw_text)
+    events = [canonical_event_id(normalize_quote(ev, raw_norm), counter) for ev in events]
     return events

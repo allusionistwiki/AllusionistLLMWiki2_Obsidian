@@ -8,8 +8,8 @@ llm:
   api_key: "local"                        # 任意（空でも可）
   model: "qwen3.8-flash-next"             # Strata はモデル名自由
   temperature: 0.1
-  max_tokens: 4000
-  timeout: 300                            # 初回トークン処理に時間がかかる
+  max_tokens: 16000                         # 262k コンテキストを活かす（4000は出力頭打ちで粒度が粗くなる）
+  timeout: 900                            # 16Kトークン生成（~57tok/s ≈ 280s）+ 大きなprompt読込に対応
   stream: false                           # A: ストリーミング応答（体感短縮）
   max_retries: 3                          # A: リトライ（指数バックオフ）
   thinking: "off"                         # off / low / medium / high（Strata 固有、extra_body 経由）
@@ -21,7 +21,7 @@ request_throttle:
 # パイプライン設定
 pipeline:
   parallel_prefetch: true    # B: 原文読み込み/前処理の並列化（効果検証後にオン/オフ判断）
-  chunk_max_chars: 12000     # D: 分割投入（ch0001 が約6万字 → 約5チャンク、セッションで直列）
+  chunk_max_chars: 24000     # D: 分割投入（24K字/チャンク ≈ 12Kトークン、262kコンテキストに対して余裕）
   chunk_overlap_chars: 400   # D: チャンク間の重複（event_id 重複排除で吸収）
   session_mode: true         # 分割チャンクを1セッションにまとめる（Strata KVキャッシュ再利用）
 
