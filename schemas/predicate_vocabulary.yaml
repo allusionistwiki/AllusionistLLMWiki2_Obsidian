@@ -1,0 +1,65 @@
+# 述語管理語彙（SPO イベントIDの predicate スロット用）
+# 抽出LLMはここから選ぶ。逸脱は other → レビューキュー行き。
+# aliases は集約時の動詞正規化辞書（同義語分裂防止）。
+predicates:
+  # --- 暴力・生死 ---
+  - {id: kills,    ja: 殺す,   aliases: [murder, 殺害, 介錯, 殺した]}
+  - {id: wounds,   ja: 傷つける, aliases: [負傷, 斬る, 撃つ]}
+  - {id: saves,    ja: 救う,   aliases: [救助, 助ける]}
+  - {id: dies,     ja: 死ぬ,   aliases: [死亡, 事切れる]}
+  - {id: fights,   ja: 戦う,   aliases: [戦闘, 交戦, 攻撃する]}
+  - {id: attacks,  ja: 攻撃する, aliases: [襲う, 急襲, 殴る]}
+  - {id: defeats,  ja: 倒す,   aliases: [撃破, 打ち負かす, 撃退]}
+  - {id: flees,    ja: 逃げる, aliases: [逃走, 退避]}
+  - {id: captures, ja: 捕らえる, aliases: [捕獲, 拘束]}
+  - {id: escapes,  ja: 脱する, aliases: [脱出, 脱走]}
+  # --- 授受・物品 ---
+  - {id: gives,    ja: 与える, aliases: [贈与, 渡す, 贈る]}
+  - {id: takes,    ja: 取る,   aliases: [奪う, 受け取る]}
+  - {id: breaks,   ja: 砕く,   aliases: [破壊, 破壊する, 解除する]}
+  - {id: repairs,  ja: 修復する, aliases: [治療する, 治す]}
+  - {id: loses,    ja: 失う,   aliases: [消失, 喪失]}
+  - {id: finds,    ja: 見つける, aliases: [発見, 発見する]}
+  - {id: hides,    ja: 隠す,   aliases: [隠匿]}
+  - {id: makes,    ja: 作る,   aliases: [作成, 生成]}
+  - {id: uses,     ja: 使う,   aliases: [使用, 利用]}
+  - {id: activates, ja: 起動する, aliases: [作動, 発動]}
+  - {id: stops,    ja: 停止する, aliases: [中止, 解除]}
+  - {id: opens,    ja: 開く,   aliases: [展開]}
+  - {id: wears,    ja: 身につける, aliases: [装着, 装備]}
+  - {id: carries,  ja: 運ぶ,   aliases: [携帯, 運搬]}
+  # --- 発話・認知 ---
+  - {id: says,     ja: 言う,   aliases: [発言, 述べる]}
+  - {id: asks,     ja: 尋ねる, aliases: [質問]}
+  - {id: confesses, ja: 告白する, aliases: [自白, 打ち明ける]}
+  - {id: promises, ja: 約束する, aliases: [誓う]}
+  - {id: threatens, ja: 脅す,   aliases: [威嚇]}
+  - {id: names,    ja: 名乗る, aliases: [命名, 名付ける]}
+  - {id: reveals,  ja: 明かす, aliases: [開示, 暴露]}
+  - {id: conceals, ja: 秘する, aliases: [秘匿, 伏せる]}
+  - {id: thinks,   ja: 考える, aliases: [思考, 推測する]}
+  - {id: remembers, ja: 思い出す, aliases: [記憶]}
+  - {id: learns,   ja: 知る,   aliases: [認識, 発見する]}
+  - {id: observes, ja: 観察する, aliases: [注視, 見張る]}
+  # --- 関係 ---
+  - {id: trusts,   ja: 信頼する, aliases: [信用]}
+  - {id: suspects, ja: 疑う,   aliases: [警戒]}
+  - {id: bonds,    ja: 結ぶ,   aliases: [契約, 同盟]}
+  - {id: betrays,  ja: 裏切る, aliases: [背叛]}
+  - {id: helps,    ja: 助力する, aliases: [支援, 介助]}
+  - {id: teaches,  ja: 教える, aliases: [指導]}
+  - {id: deceives, ja: 欺く,   aliases: [騙す]}
+  - {id: loves,    ja: 愛する, aliases: [敬愛]}
+  - {id: hates,    ja: 憎む,   aliases: [嫌悪]}
+  # --- 状態・移動 ---
+  - {id: appears,  ja: 現れる, aliases: [出現, 登場]}
+  - {id: disappears, ja: 消える, aliases: [消滅]}
+  - {id: transforms, ja: 変化する, aliases: [変身, 転換]}
+  - {id: teleports, ja: 転移する, aliases: [瞬間移動]}
+  - {id: travels,  ja: 移動する, aliases: [行軍, 移動]}
+  - {id: arrives,  ja: 到着する, aliases: [到着]}
+  - {id: departs,  ja: 出発する, aliases: [離脱]}
+  - {id: hopes,    ja: 望む,   aliases: [期待, 願う]}
+  - {id: fears,    ja: 恐れる, aliases: [恐怖]}
+  # --- 逃げ場 ---
+  - {id: other,    ja: 逸脱,   aliases: [], review: true}

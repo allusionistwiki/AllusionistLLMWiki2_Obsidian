@@ -1,23 +1,41 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "event.schema.json",
-  "title": "Event Record (v5.2 第1層: イベント層)",
+  "title": "Event Record (v5.3 SPO+定位子: イベント層)",
   "type": "object",
-  "required": ["event_id", "episode", "entity", "aspect", "observation"],
+  "required": ["event_id", "episode", "subject", "predicate", "observation"],
   "properties": {
     "event_id": {
       "type": "string",
-      "description": "イベントの一意ID: E_{episode}_{entity_type}_{entity}_{aspect略称}_O（同一aspect複数件は O2, O3... の連番）",
-      "pattern": "^E_ch\\d{4}_[a-z]+_.+_[VNSARY]_O\\d*$"
+      "description": "SPO+定位子: E_{chapter}_{subject}_{predicate}_{object}_p{ページ}（object 省略可、同一SPO複数件は _p の前に _2,_3 連番）",
+      "pattern": "^E_ch\\d{4}_[^_]+(_[^_]+){1,2}(_\\d+)?_p\\d+$"
     },
     "episode": {
       "type": "string",
       "pattern": "^ch\\d{4}$",
       "description": "由来エピソード"
     },
+    "subject": {
+      "type": "string",
+      "description": "行為者スラッグ（空白・アンダースコア・括弧なし。行為者を取り違えないこと）"
+    },
+    "predicate": {
+      "type": "string",
+      "description": "述語（schemas/predicate_vocabulary.yaml の管理語彙から選択）",
+      "enum": ["kills", "wounds", "saves", "dies", "fights", "attacks", "defeats", "flees", "captures", "escapes", "gives", "takes", "breaks", "repairs", "loses", "finds", "hides", "makes", "uses", "activates", "stops", "opens", "wears", "carries", "says", "asks", "confesses", "promises", "threatens", "names", "reveals", "conceals", "thinks", "remembers", "learns", "observes", "trusts", "suspects", "bonds", "betrays", "helps", "teaches", "deceives", "loves", "hates", "appears", "disappears", "transforms", "teleports", "travels", "arrives", "departs", "hopes", "fears", "other"]
+    },
+    "object": {
+      "type": "string",
+      "description": "対象スラッグ（省略可: 自動詞的イベント）"
+    },
+    "paragraph": {
+      "type": "string",
+      "pattern": "^p\\d+$",
+      "description": "定位子（原文の【pN】マーカーの実ページ番号）"
+    },
     "entity": {
       "type": "string",
-      "description": "対象エンティティ名"
+      "description": "対象エンティティ名（後方互換: subject と同値でよい）"
     },
     "entity_type": {
       "type": "string",
@@ -27,7 +45,7 @@
     "aspect": {
       "type": "string",
       "enum": ["visual", "name", "speech", "action", "relationship", "symbolic"],
-      "description": "属性の種別 (略称: V/N/S/A/R/Y)"
+      "description": "観測チャネル（V/N/S/A/R/Y）。predicate（何が起きたか）と直交する別軸（どう分かったか）"
     },
     "observation": {
       "type": "string",
@@ -35,7 +53,19 @@
     },
     "quote": {
       "type": "string",
-      "description": "原文からの引用"
+      "description": "原文からの引用（連続した引用、省略連結禁止）"
+    },
+    "signals": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["kind"],
+        "properties": {
+          "kind": {"type": "string", "enum": ["analogy", "foreshadow", "motif", "theme"]},
+          "note": {"type": "string", "description": "analogy: 引喩先（例: トラック転生クリシェ）/ foreshadow: 伏線の内容と解決示唆 / motif: 主題的繰り返し / theme: 章の主題候補"}
+        }
+      },
+      "description": "分析層の材料（A_/MY_/motif 昇格候補）。機械は材料だけを載せ、昇格判断は人間"
     },
     "locator": {
       "type": "object",

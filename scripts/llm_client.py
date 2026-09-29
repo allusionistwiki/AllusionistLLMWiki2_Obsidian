@@ -19,6 +19,22 @@ from openai import OpenAI
 
 ROOT = Path(__file__).resolve().parent.parent
 
+# 述語管理語彙（schemas/predicate_vocabulary.yaml）
+def _load_predicate_vocab() -> tuple[set[str], dict[str, str]]:
+    try:
+        data = yaml.safe_load((ROOT / "schemas" / "predicate_vocabulary.yaml").read_text(encoding="utf-8"))
+        ids = {p["id"] for p in data.get("predicates", [])}
+        alias = {}
+        for p in data.get("predicates", []):
+            for a in p.get("aliases", []):
+                alias[a] = p["id"]
+        return ids, alias
+    except Exception:
+        return {"other"}, {}
+
+
+PREDICATE_VOCAB, PREDICATE_ALIAS = _load_predicate_vocab()
+
 # グローバル直列スロットル（Strata は 1リクエストずつしか処理しない）
 _request_lock = threading.Lock()
 _last_request_time = 0.0
@@ -127,31 +143,50 @@ SYSTEM_PROMPT = """
 - 会話の発話内容（キャラクターの人となり・知識・関係がわかる発言）、固有名詞の初出、世界設定の説明、物品の機能描写、伏線となる描写は必ず個別に抽出
 - 章あたり目安: 2万字の章なら 40〜80 イベント。原文の各場面（シーン）を漏らさない
 
+【SPO構造（最重要）】
+各イベントは「誰が(subject)・何をした(predicate)・何を(object)」で記述する:
+- subject: 行為者。行為の主体を必ず正しく特定すること（例: ノーペインを起動したのは「ノーペイン」ではなく「アキラ」）
+- predicate: 下記【述語語彙】から1つ選ぶ（逸脱する場合は "other"）
+- object: 対象（自動詞的イベントでは省略可）。名詞スラッグで簡潔に（例: 金鎖の環、前世の殺人）
+- paragraph: 原文の【pN】マーカーの N（イベントが起きたページ番号）
+- subject/object のスラッグは 空白・アンダースコア・括弧・長音記号以外の記号を含まない短い名前で（例: アキラ、カイン、金鎖、ノーペイン）
+
+【述語語彙】
+kills wounds saves dies fights attacks defeats flees captures escapes gives takes breaks repairs
+loses finds hides makes uses activates stops opens wears carries says asks
+confesses promises threatens names reveals conceals thinks remembers learns
+observes trusts suspects bonds betrays helps teaches deceives loves hates
+appears disappears transforms teleports travels arrives departs hopes fears other
+
+【分析の材料（signals、任意）】
+以下のどれかに該当するイベントには signals を付ける（判断に迷ったら付けない）:
+- analogy: ジャンル・作品・実在の物事への引喩/パロディ（例: トラック運転手の殺し屋→トラック転生クリシェ、転生保険→保険商品/ガチャ、サイバーカラテ→スマホ格ゲー、ノーペイン→SSRI/倫理的緩和ケア）
+- foreshadow: 後の展開で回収されそうな伏線（例: 環が4→2に減った金鎖、光を飲み込む左手、消失する闇色の脚）
+- motif: 章を超えて反復されそうな主題的イメージ（例: 感謝の言葉、贈与は共通言語）
+- theme: この章の主題の候補（1章に高々1〜2件）
+
 【出力形式】
 [
   {
-    "event_id": "E_ch{NNNN}_{entity_type}_{entity}_{aspect略称}_O（同一エンティティ同一aspectが複数ある場合は O2, O3... と連番）",
     "episode": "ch{NNNN}",
-    "entity": "エンティティ名",
+    "subject": "行為者スラッグ",
+    "predicate": "述語語彙から1つ",
+    "object": "対象スラッグ（省略可）",
+    "paragraph": "p{N}",
     "entity_type": "character|terminology|organization|item|motif|relationship|phrase",
     "aspect": "visual|name|speech|action|relationship|symbolic",
     "observation": "観察内容",
     "quote": "原文からの引用",
-    "locator": {
-      "chapter": "ch{NNNN}",
-      "lines": "行番号（推定で可）"
-    },
+    "signals": [{"kind": "analogy|foreshadow|motif|theme", "note": "内容"}],
     "spoiler_after": "ch{NNNN}"
   }
 ]
+※ event_id はあなたが作らなくてよい（システムが決定論的に採番する）
 
-【aspect の略称】
-- visual → V
-- name → N
-- speech → S
-- action → A
-- relationship → R
-- symbolic → Y
+【aspect（観測チャネル）】
+- visual: 見た目/描写 / name: 名前・呼称 / speech: 発話内容 / action: 行為
+- relationship: 関係の変化 / symbolic: 象徴・寓意
+※ predicate（何が起きたか）と aspect（どう観測されたか）は別軸。台詞による告白なら predicate=confesses, aspect=speech
 """
 
 
@@ -165,26 +200,43 @@ def strip_code_fence(text: str) -> str:
     return t.strip()
 
 
-ASPECT_LETTER = {"visual": "V", "name": "N", "speech": "S", "action": "A",
-                 "relationship": "R", "symbolic": "Y"}
+def slug(s: str) -> str:
+    """スラッグ正規化: 空白・括弧・記号を除去（entity 名の表記ゆれ対策の第一歩）"""
+    s = re.sub(r"[（）()\[\]【】「」『』\s]+", "", s or "")
+    return s or "unknown"
 
 
 def canonical_event_id(ev: dict, counter: dict) -> dict:
-    """event_id をフィールドから決定論的に再構築（モデル出力の表記ゆれ対策）.
+    """event_id を SPO+定位子から決定論的に構築（再現性・重複検出・クエリ可能性）.
 
-    正規形: E_{episode}_{entity_type}_{entity}_{aspect略称}_O[連番]
-    同一 (chapter, entity, aspect) の複数件は O, O2, O3...
+    正規形: E_{chapter}_{subject}_{predicate}_{object}_p{page}
+    - object 省略時は E_{chapter}_{subject}_{predicate}_p{page}
+    - 同一 SPO+page の複数件は _2, _3 連番（ソート順で決定的）
+    - predicate は管理語彙外なら other に落として review フラグ
     """
     episode = ev.get("episode", "")
+    subject = slug(ev.get("subject") or ev.get("entity", "unknown"))
+    predicate = ev.get("predicate", "other")
+    if predicate not in PREDICATE_VOCAB:
+        predicate = PREDICATE_ALIAS.get(predicate, "other")
+        if predicate == "other":
+            ev["needs_review"] = "predicate 逸脱"
+    ev["predicate"] = predicate
     etype = ev.get("entity_type", "character")
-    entity = ev.get("entity", "unknown")
-    aspect = ev.get("aspect", "symbolic")
-    letter = ASPECT_LETTER.get(aspect, "Y")
-    key = (episode, etype, entity, letter)
+    if etype not in {"character", "terminology", "organization", "item", "motif", "relationship", "phrase"}:
+        etype = "terminology"  # location 等の逸脱は terminology に写す（7コア型維持）
+    ev["entity_type"] = etype
+    obj = slug(ev.get("object", "")) if ev.get("object") else ""
+    para = ev.get("paragraph") or (ev.get("locator") or {}).get("paragraph_id") or "p0"
+    para = re.sub(r"[^0-9]", "", str(para))
+    para = f"p{para}"
+    base = f"E_{episode}_{subject}_{predicate}" + (f"_{obj}" if obj else "")
+    key = base + f"_{para}"
     n = counter.get(key, 0)
     counter[key] = n + 1
-    suffix = "O" if n == 0 else f"O{n + 1}"
-    ev["event_id"] = f"E_{episode}_{etype}_{entity}_{letter}_{suffix}"
+    ev["event_id"] = key if n == 0 else f"{base}_{n + 1}_{para}"
+    ev.setdefault("entity", subject)
+    ev["paragraph"] = para
     return ev
 
 
@@ -284,14 +336,18 @@ def extract_events(client: OpenAI, config: dict, chapter: str,
         else:
             part = [result]
         for ev in part:
-            # 重複排除は内容キーで（チャンク重複部で同一イベントが二重抽出される）
-            key = (ev.get("episode"), ev.get("entity_type"), ev.get("entity"),
-                   ev.get("aspect"), ev.get("observation"))
+            # 重複排除は SPO+quote キーで（チャンク重複部で同一イベントが二重抽出される）
+            key = (ev.get("episode"), slug(ev.get("subject") or ev.get("entity", "")),
+                   ev.get("predicate"), slug(ev.get("object", "")),
+                   norm_text(ev.get("quote", "")))
             if key in seen:
                 continue
             seen.add(key)
             events.append(ev)
-    # event_id はフィールドから決定論的に再採番（モデル出力の表記ゆれを排除）
+    # event_id は SPO+定位子から決定論的に採番（ソートで再現性を保証）
+    events.sort(key=lambda e: (e.get("episode", ""), str(e.get("paragraph", "p0")),
+                               slug(e.get("subject") or e.get("entity", "")),
+                               e.get("predicate", ""), slug(e.get("object", ""))))
     counter: dict = {}
     raw_norm = norm_text(raw_text)
     events = [canonical_event_id(normalize_quote(ev, raw_norm), counter) for ev in events]
