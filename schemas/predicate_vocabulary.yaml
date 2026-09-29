@@ -28,6 +28,16 @@ predicates:
   - {id: opens,    ja: 開く,   aliases: [展開]}
   - {id: wears,    ja: 身につける, aliases: [装着, 装備]}
   - {id: carries,  ja: 運ぶ,   aliases: [携帯, 運搬]}
+  # --- 状態述語（item/terminology が subject になれる: SVO必須でItem抽出が消える問題の対策） ---
+  - {id: has_property, ja: 性質を持つ, aliases: [特徴, 外見, 描写]}
+  - {id: functions_as, ja: 機能する, aliases: [役割, 効用, 作用]}
+  - {id: appears_as,  ja: 現れる, aliases: [姿, 外見描写]}
+  - {id: is_made_of,   ja: でできている, aliases: [素材, 構成]}
+  - {id: is_located,   ja: に所在する, aliases: [位置, 設置]}
+  - {id: requires,     ja: を必要とする, aliases: [条件, 代価]}
+  - {id: enables,      ja: を可能にする, aliases: [効能, 解放]}
+  - {id: defines,      ja: を定義する, aliases: [制度, 規定]}
+  - {id: binds,        ja: を束縛する, aliases: [呪い, 拘束する]}
   # --- 発話・認知 ---
   - {id: says,     ja: 言う,   aliases: [発言, 述べる]}
   - {id: asks,     ja: 尋ねる, aliases: [質問]}

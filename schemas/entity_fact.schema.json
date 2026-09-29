@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "entity_fact.schema.json",
+  "title": "Entity Fact (X is Y 型: 作品内存在のプロファイル層)",
+  "type": "object",
+  "required": ["fact_id", "episode", "subject", "is_a", "observation"],
+  "properties": {
+    "fact_id": {
+      "type": "string",
+      "pattern": "^F_ch\\d{4}_[^_]+_(is_a|has_property|functions_as|appears_as|is_made_of|is_located|requires|enables|defines|binds|named_for|origin)_(\\d+|\\w+)_p\\d+$"
+    },
+    "episode": {"type": "string", "pattern": "^ch\\d{4}$"},
+    "subject": {"type": "string", "description": "対象スラッグ（作品内の物品・アプリ・技能・制度・組織・場所・用語）"},
+    "is_a": {"type": "string", "description": "カテゴリ（自由語: アプリ/保険商品/格闘術/魔法道具/組織/場所/制度/技能...）。集約時に正規化する"},
+    "fact_type": {
+      "type": "string",
+      "enum": ["is_a", "has_property", "functions_as", "appears_as", "is_made_of", "is_located", "requires", "enables", "defines", "binds", "named_for", "origin"],
+      "description": "X is Y 型の述語"
+    },
+    "entity_type": {
+      "type": "string",
+      "enum": ["character", "terminology", "organization", "item", "motif", "relationship", "phrase"],
+      "description": "7コア型への写像（アプリ/製品/技能→item、制度/概念→terminology）"
+    },
+    "object": {"type": "string", "description": "Y 側スラッグ（is_a のカテゴリ、has_property の性質...）"},
+    "paragraph": {"type": "string", "pattern": "^p\\d+$"},
+    "observation": {"type": "string", "description": "記述内容"},
+    "quote": {"type": "string", "description": "原文からの連続引用"},
+    "quote_verified": {"type": "boolean"},
+    "created": {"type": "string", "format": "date"}
+  }
+}

@@ -22,7 +22,7 @@
     "predicate": {
       "type": "string",
       "description": "述語（schemas/predicate_vocabulary.yaml の管理語彙から選択）",
-      "enum": ["kills", "wounds", "saves", "dies", "fights", "attacks", "defeats", "flees", "captures", "escapes", "gives", "takes", "breaks", "repairs", "loses", "finds", "hides", "makes", "uses", "activates", "stops", "opens", "wears", "carries", "says", "asks", "confesses", "promises", "threatens", "names", "reveals", "conceals", "thinks", "remembers", "learns", "observes", "trusts", "suspects", "bonds", "betrays", "helps", "teaches", "deceives", "loves", "hates", "appears", "disappears", "transforms", "teleports", "travels", "arrives", "departs", "hopes", "fears", "other"]
+      "enum": ["kills", "wounds", "saves", "dies", "fights", "attacks", "defeats", "flees", "captures", "escapes", "gives", "takes", "breaks", "repairs", "loses", "finds", "hides", "makes", "uses", "activates", "stops", "opens", "wears", "carries", "has_property", "functions_as", "appears_as", "is_made_of", "is_located", "requires", "enables", "defines", "binds", "says", "asks", "confesses", "promises", "threatens", "names", "reveals", "conceals", "thinks", "remembers", "learns", "observes", "trusts", "suspects", "bonds", "betrays", "helps", "teaches", "deceives", "loves", "hates", "appears", "disappears", "transforms", "teleports", "travels", "arrives", "departs", "hopes", "fears", "other"]
     },
     "object": {
       "type": "string",

@@ -145,9 +145,9 @@ SYSTEM_PROMPT = """
 
 【SPO構造（最重要）】
 各イベントは「誰が(subject)・何をした(predicate)・何を(object)」で記述する:
-- subject: 行為者。行為の主体を必ず正しく特定すること（例: ノーペインを起動したのは「ノーペイン」ではなく「アキラ」）
+- subject: 行為者。**人物だけでなく物品・制度・場所も subject になれる**（ノーペイン has_property 痛覚遮断、転生保険 defines 転生保証、噴水部屋 is_located 安全地帯）。人物の行為は行為者を必ず正しく特定すること（例: ノーペインを起動したのは「ノーペイン」ではなく「アキラ」）
 - predicate: 下記【述語語彙】から1つ選ぶ（逸脱する場合は "other"）
-- object: 対象（自動詞的イベントでは省略可）。名詞スラッグで簡潔に（例: 金鎖の環、前世の殺人）
+- object: 対象（**自動詞的・状態記述イベントでは省略可**）。名詞スラッグで簡潔に（例: 金鎖の環、前世の殺人）
 - paragraph: 原文の【pN】マーカーの N（イベントが起きたページ番号）
 - subject/object のスラッグは 空白・アンダースコア・括弧・長音記号以外の記号を含まない短い名前で（例: アキラ、カイン、金鎖、ノーペイン）
 
@@ -157,6 +157,9 @@ loses finds hides makes uses activates stops opens wears carries says asks
 confesses promises threatens names reveals conceals thinks remembers learns
 observes trusts suspects bonds betrays helps teaches deceives loves hates
 appears disappears transforms teleports travels arrives departs hopes fears other
+状態述語（item/terminology/場所が subject になれる。SVOのOは省略可）:
+has_property functions_as appears_as is_made_of is_located requires enables defines binds
+例: 転生保険 defines 転生後の保証 / ノーペイン has_property 痛覚遮断 / 金鎖 functions_as 寿命制限
 
 【分析の材料（signals、任意）】
 以下のどれかに該当するイベントには signals を付ける（判断に迷ったら付けない）:

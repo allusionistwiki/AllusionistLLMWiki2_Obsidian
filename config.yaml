@@ -8,7 +8,7 @@ llm:
   api_key: "local"                        # 任意（空でも可）
   model: "qwen3.8-flash-next"             # Strata はモデル名自由
   temperature: 0.1
-  max_tokens: 32000                         # 262k コンテキスト対応（16Kでも出力頭打ちの兆しなし、倍化）
+  max_tokens: 64000                         # 262k コンテキスト対応（32Kでも不足との判断、倍化）
   timeout: 900                            # 16Kトークン生成（~57tok/s ≈ 280s）+ 大きなprompt読込に対応
   stream: false                           # A: ストリーミング応答（体感短縮）
   max_retries: 3                          # A: リトライ（指数バックオフ）
