@@ -8,6 +8,7 @@
 from __future__ import annotations
 
 import json
+import re
 import threading
 import time
 from pathlib import Path
@@ -79,9 +80,17 @@ def call_llm_messages(client: OpenAI, config: dict, messages: list[dict],
     }
     if json_mode:
         kwargs["response_format"] = {"type": "json_object"}
+    # Strata: thinking は chat_template_kwargs.enable_thinking（vLLM/llama.cpp 規約、
+    # serve/frontend.py:158）。既定 True だと全トークンが reasoning_content に
+    # 消費され content が None になる。reasoning_effort は effort_kwargs 経由。
     thinking = llm.get("thinking", "off")
-    if thinking and thinking != "off":
-        kwargs["extra_body"] = {"thinking": thinking}
+    extra = {}
+    if thinking in ("off", "false", False):
+        extra["chat_template_kwargs"] = {"enable_thinking": False}
+    elif thinking in ("low", "medium", "high"):
+        extra["reasoning_effort"] = thinking
+    if extra:
+        kwargs["extra_body"] = extra
     use_stream = stream if stream is not None else llm.get("stream", False)
 
     max_retries = llm.get("max_retries", 3)
@@ -110,12 +119,13 @@ SYSTEM_PROMPT = """
 【鉄則】
 1. 原文にない情報は絶対に出さない
 2. 各事実に証拠（quote）を付与
-3. 出力は必ずJSON配列形式
+3. quote は原文からの**連続した**引用（途中を「...」で省略・連結しない。長い場合は原文の一区切りで切り、長くても1文〜2文まで）
+4. 出力は必ずJSON配列形式
 
 【出力形式】
 [
   {
-    "event_id": "E_ch{NNNN}_{entity_type}_{entity}_{aspect略称}_O",
+    "event_id": "E_ch{NNNN}_{entity_type}_{entity}_{aspect略称}_O（同一エンティティ同一aspectが複数ある場合は O2, O3... と連番）",
     "episode": "ch{NNNN}",
     "entity": "エンティティ名",
     "entity_type": "character|terminology|organization|item|motif|relationship|phrase",
@@ -138,6 +148,24 @@ SYSTEM_PROMPT = """
 - relationship → R
 - symbolic → Y
 """
+
+
+def strip_code_fence(text: str) -> str:
+    """LLM 出力が ```json ... ``` フェンスに包まれている場合に取り除く"""
+    t = text.strip()
+    if t.startswith("```"):
+        t = t.split("\n", 1)[1] if "\n" in t else t[3:]
+        if t.rstrip().endswith("```"):
+            t = t.rstrip()[:-3]
+    return t.strip()
+
+
+def normalize_event_id(ev: dict) -> dict:
+    """event_id 正規化: 末尾 _O 欠落補完（E_..._A → E_..._AO は作らず _O を付与）"""
+    eid = ev.get("event_id", "")
+    if eid and re.fullmatch(r"E_ch\d{4}_[a-z]+_.+_[VNSARY]", eid):
+        ev["event_id"] = eid + "_O"
+    return ev
 
 
 def split_text(text: str, max_chars: int, overlap: int) -> list[str]:
@@ -180,7 +208,22 @@ def extract_events(client: OpenAI, config: dict, chapter: str,
         else:
             content = call_llm(client, config, user, system_prompt=SYSTEM_PROMPT,
                                temperature=temperature, json_mode=True)
-        result = json.loads(content)
+        content = strip_code_fence(content)
+        try:
+            result = json.loads(content)
+        except json.JSONDecodeError:
+            # 応答が max_tokens で切られた場合、最後の不完整オブジェクトを切って再試行
+            cut = content.rfind("},")
+            if cut > 0:
+                tail = "]" if content.lstrip().startswith("[") else "}}"
+                try:
+                    result = json.loads(content[:cut + 1] + tail)
+                except json.JSONDecodeError:
+                    print(f"   WARN chunk {i}: JSON 解析不能（{len(content)} chars）→ スキップ")
+                    result = []
+            else:
+                print(f"   WARN chunk {i}: JSON 解析不能（{len(content)} chars）→ スキップ")
+                result = []
         if isinstance(result, dict) and "events" in result:
             part = result["events"]
         elif isinstance(result, list):
@@ -188,6 +231,7 @@ def extract_events(client: OpenAI, config: dict, chapter: str,
         else:
             part = [result]
         for ev in part:
+            ev = normalize_event_id(ev)
             key = ev.get("event_id")
             if key and key in seen:
                 continue

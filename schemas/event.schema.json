@@ -7,8 +7,8 @@
   "properties": {
     "event_id": {
       "type": "string",
-      "description": "イベントの一意ID: E_{episode}_{entity_type}_{entity}_{aspect略称}_O",
-      "pattern": "^E_ch\\d{4}_[a-z]+_.+_[VNSARY]_O$"
+      "description": "イベントの一意ID: E_{episode}_{entity_type}_{entity}_{aspect略称}_O（同一aspect複数件は O2, O3... の連番）",
+      "pattern": "^E_ch\\d{4}_[a-z]+_.+_[VNSARY]_O\\d*$"
     },
     "episode": {
       "type": "string",

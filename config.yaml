@@ -21,7 +21,7 @@ request_throttle:
 # パイプライン設定
 pipeline:
   parallel_prefetch: true    # B: 原文読み込み/前処理の並列化（効果検証後にオン/オフ判断）
-  chunk_max_chars: 0         # D: 分割投入（0=分割しない、例: 12000 で約10K字ずつ）
+  chunk_max_chars: 12000     # D: 分割投入（ch0001 が約6万字 → 約5チャンク、セッションで直列）
   chunk_overlap_chars: 400   # D: チャンク間の重複（event_id 重複排除で吸収）
   session_mode: true         # 分割チャンクを1セッションにまとめる（Strata KVキャッシュ再利用）
 
@@ -38,7 +38,7 @@ paths:
 
 chapter_range:
   start: 1
-  end: 10   # PoC ではまず10章まで
+  end: 32   # RAW2 移行分（ch0001-ch0032）を解析
 
 # 検索（ハイブリッド検索の埋め込みプロバイダ）
 search:
