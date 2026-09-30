@@ -17,7 +17,9 @@ LOG = ROOT.parent / "AllusionistLLMWiki2_Work" / "reports" / "autopilot_log.md"
 
 def flatten_nested() -> int:
     n = 0
-    for d in [x for x in CLAIMS.iterdir() if x.is_dir()]:
+    # 話別フォルダ（chXXXX）は表示層の正規レイアウトなので平坦化しない
+    for d in [x for x in CLAIMS.iterdir()
+              if x.is_dir() and not re.fullmatch(r"ch\d{4}", x.name)]:
         for md in d.rglob("*.md"):
             safe_name = str(md.relative_to(CLAIMS)).replace("\\", "＼").replace("/", "／")
             target = CLAIMS / safe_name

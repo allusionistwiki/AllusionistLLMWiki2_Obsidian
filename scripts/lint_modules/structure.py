@@ -105,7 +105,9 @@ def lint_structure(file_path: Path, vault_root: Path, schemas_dir: Path) -> List
             rel = ""
         expected = next((d for pfx, d in ID_PREFIX_DIR.items() if str(frontmatter["id"]).startswith(pfx)), None)
         if expected and rel and not rel.startswith("docs/samples"):
-            if rel != expected:
+            # wiki/claims は話別サブフォルダ（wiki/claims/chXXXX）を許容
+            allowed = rel == expected or (expected == "wiki/claims" and rel.startswith("wiki/claims/"))
+            if not allowed:
                 errors.append(LintError(file=file_path, category="structure", code="STR019",
                                         severity=Severity.ERROR,
                                         message=f"配置ディレクトリの不一致: {rel} (期待: {expected})",
