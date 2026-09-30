@@ -149,17 +149,23 @@ def write_report(result: LintResult, report_path: Path):
     console.print(f"\n[green]📄 レポート出力: {report_path}[/green]")
 
 
+def is_navigation_page(p: Path) -> bool:
+    """build_public_index.py が生成するナビページ（index.md / chapters/）は
+    構造スキーマ（type/schema_version）を持たない生成物なので lint 対象外。"""
+    return p.name == "index.md" or p.parent.name == "chapters"
+
+
 def collect_files(vault_path: Path, file_filter: str = None) -> List[Path]:
     if file_filter:
         p = Path(file_filter)
         if not p.is_absolute():
-            p = ROOT / p
+            p = ROOT / file_filter
         if p.is_file():
             return [p]
         if p.is_dir():
-            return sorted(p.rglob("*.md"))
+            return sorted(x for x in p.rglob("*.md") if not is_navigation_page(x))
         return []
-    return sorted(vault_path.rglob("*.md"))
+    return sorted(x for x in vault_path.rglob("*.md") if not is_navigation_page(x))
 
 
 def main():
