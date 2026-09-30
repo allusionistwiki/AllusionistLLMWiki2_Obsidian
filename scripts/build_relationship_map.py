@@ -49,6 +49,14 @@ PRED_JA = {
     "worships": "崇拝", "desecrates": "冒涜", "prays": "祈る", "curses": "呪う",
     "blesses": "祝福", "deceives": "欺く", "uncovers": "暴く", "confronts": "対決",
     "allies": "同盟", "enemies": "敵対", "parted": "離別", "reunites": "再会",
+    "fights": "戦闘", "defeats": "撃破", "fears": "恐怖", "wears": "装着",
+    "breaks": "破壊", "wounds": "傷つける", "stops": "停止", "carries": "運ぶ",
+    "departs": "出発", "travels": "移動", "flees": "逃亡", "requires": "要求",
+    "opens": "開く", "hides": "隠れる", "arrives": "到着", "conceals": "隠蔽",
+    "teleports": "転送", "binds": "束縛", "makes": "作成", "loses": "失う",
+    "hopes": "期待", "disappears": "消失", "grants": "付与", "refuses": "拒否",
+    "accepts": "受諾", "invades": "侵攻", "occupies": "占拠", "guards": "守護",
+    "attacks_self": "自傷", "heals_self": "自己治療",
 }
 MAX_EDGES = 40
 MIN_EDGE = 2
@@ -85,6 +93,16 @@ def main() -> None:
 
     scored = sorted(pair_edges.items(),
                     key=lambda kv: -sum(c for _, c in kv[1]))[:MAX_EDGES]
+
+    # ---- Mermaid グラフ（Quartz 内蔵 mermaid トランスフォーマで描画）----
+    def nid(name: str) -> str:
+        return "c_" + re.sub(r"[^0-9A-Za-zぁ-んァ-ン一-龥]", "_", sanitize(name))
+
+    mer = ["```mermaid", "graph LR"]
+    for (s, o), preds in scored:
+        label = "／".join(f"{PRED_JA.get(p, p)}×{c}" for p, c in preds[:2])
+        mer.append(f"    {nid(s)}[\"{s}\"] -->|{label}| {nid(o)}")
+    mer.append("```")
 
     # ---- キャラページへ「関係キャラクター」AUTO セクションを注入（Graph がリンクを可視化）----
     per_char: dict[str, list[tuple[str, str, int]]] = defaultdict(list)
@@ -129,7 +147,9 @@ def main() -> None:
            "# 関係性マップ", "",
            f"イベント観測（{sum(edges.values())} 三つ組）から、相互に {MIN_EDGE} 回以上観測された"
            f"キャラ間関係を上位 {len(scored)} 件。各キャラページに「関係キャラクター」を注入したため、"
-           "右サイドの **グラフ** がそのまま関係性マップになります（ノードがキャラ、辺が観測された関係）。", "",
+           "右サイドの **グラフ** も関係性マップになります（ノードがキャラ、辺が観測された関係）。", "",
+           "## 関係グラフ（観測上位）", "",
+           "> 矢印は観測の方向（主語→目的語）。ラベルは関係の種別×観測回数。", ""] + mer + ["",
            "## 上位の関係（観測順）", ""] + rel_lines + [""]
     (WIKI / "relationships").mkdir(exist_ok=True)
     (WIKI / "relationships" / "index.md").write_text("\n".join(doc), encoding="utf-8")
