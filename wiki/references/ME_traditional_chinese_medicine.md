@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0008_alludes_to_E_ch0008_カーイン_defines_六淫操手_p373_traditional_chinese_medicine]] — カーインが「六淫（風邪、寒邪、暑邪、湿邪、燥邪、火邪）」を操作し、体内の気・血・水を調整して病を発生させるという能力は、漢方医学・東洋医学の
+- [[A_ch0008_alludes_to_E_ch0008_カーイン_defines_六淫操手_p373_traditional_chinese_medicine]] — カーインが「六淫（風邪、寒邪、暑邪、湿邪、燥邪、火邪）」を操作し、体内の気・血・水を調整して病を発生させるという能力は、漢方医学・東洋医学の「六淫」概念をファンタジー的な攻撃能力として再解釈したものである。

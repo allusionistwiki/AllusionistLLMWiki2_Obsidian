@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0006_foreshadows_E_ch0006_謎の声_says_頭を良くする_p310_cognitive_modification]] — 「頭を良くしてあげる」という謎の声の発言は、アキラの認知機能や精神構造に対する直接的な介入（ハッキング、改変、あるいは洗脳）が今後行われるこ
+- [[A_ch0006_foreshadows_E_ch0006_謎の声_says_頭を良くする_p310_cognitive_modification]] — 「頭を良くしてあげる」という謎の声の発言は、アキラの認知機能や精神構造に対する直接的な介入（ハッキング、改変、あるいは洗脳）が今後行われることを示唆している。

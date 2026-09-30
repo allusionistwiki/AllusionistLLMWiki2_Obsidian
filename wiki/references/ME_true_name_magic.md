@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0015_structurally_matches_E_ch0015_キロン_names_真名_p695_true_name_magic]] — 真名を名乗ることで物理的・精神的な支配力を行使するキロンの行為は、ファンタジーにおける「真名の力」のクリシェを、呪術的な権威の行使として再構
+- [[A_ch0015_structurally_matches_E_ch0015_キロン_names_真名_p695_true_name_magic]] — 真名を名乗ることで物理的・精神的な支配力を行使するキロンの行為は、ファンタジーにおける「真名の力」のクリシェを、呪術的な権威の行使として再構成している。

@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0015_analogous_to_E_ch0015_探索者協会_attacks_アキラ_p674_internet_flame_war]] — 功績の独占を巡る争いが、匿名のネットユーザーによる断片的な情報に基づく「炎上」へと発展する様子は、現代のSNSにおけるキャンセルカルチャーや
+- [[A_ch0015_analogous_to_E_ch0015_探索者協会_attacks_アキラ_p674_internet_flame_war]] — 功績の独占を巡る争いが、匿名のネットユーザーによる断片的な情報に基づく「炎上」へと発展する様子は、現代のSNSにおけるキャンセルカルチャーや誹謗中傷の構造と一致する。

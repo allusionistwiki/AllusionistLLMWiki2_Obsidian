@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0008_structurally_matches_E_ch0008_アキラ_other_金の力_p362_pay_to_win_mechanics]] — アキラが「俺の強さとは即ち彼らの持っていない技術によるもので、換言すると金の力だ」と述べ、高額な閃光符を惜しみなく消費する戦法は、スマホゲー
+- [[A_ch0008_structurally_matches_E_ch0008_アキラ_other_金の力_p362_pay_to_win_mechanics]] — アキラが「俺の強さとは即ち彼らの持っていない技術によるもので、換言すると金の力だ」と述べ、高額な閃光符を惜しみなく消費する戦法は、スマホゲームにおける「ガチャ」や「課金による戦力強化（Pay-to-Win）」の構造を異世界戦闘に適用したものである。

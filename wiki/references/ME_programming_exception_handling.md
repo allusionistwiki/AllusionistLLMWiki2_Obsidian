@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0008_analogous_to_E_ch0008_コルセスカ_defines_キーワード定義凍結_p393_programming_exception_handling]] — コルセスカの「キーワード定義『凍結』。スタック上にある呪術は『解決されない』」という宣言は、プログラミングにおける例外処理（try-catc
+- [[A_ch0008_analogous_to_E_ch0008_コルセスカ_defines_キーワード定義凍結_p393_programming_exception_handling]] — コルセスカの「キーワード定義『凍結』。スタック上にある呪術は『解決されない』」という宣言は、プログラミングにおける例外処理（try-catch）やスタックオーバーフロー時の強制終了、あるいはデバッグ時のブレークポイントによる実行停止を模倣している。

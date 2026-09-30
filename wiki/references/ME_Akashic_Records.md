@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0021_structurally_matches_E_ch0021_コルセスカ_defines_存在形態_p923_Akashic_Records]] — コルセスカがアカシックレコードに記述されることで実体を持つと語るのは、物語の記述（データ）が物理的実体より優先されるというメタフィクショナル
+- [[A_ch0021_structurally_matches_E_ch0021_コルセスカ_defines_存在形態_p923_Akashic_Records]] — コルセスカがアカシックレコードに記述されることで実体を持つと語るのは、物語の記述（データ）が物理的実体より優先されるというメタフィクショナルな存在論を反映している。

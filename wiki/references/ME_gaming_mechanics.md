@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0017_alludes_to_E_ch0017_トリシューラ_says_打鍵速度と技量_p749_gaming_mechanics]] — 打鍵速度が技量とイコールであるという設定は、リズムゲームやMMOにおける「APM（Actions Per Minute）」がプレイヤーの腕前
+- [[A_ch0017_alludes_to_E_ch0017_トリシューラ_says_打鍵速度と技量_p749_gaming_mechanics]] — 打鍵速度が技量とイコールであるという設定は、リズムゲームやMMOにおける「APM（Actions Per Minute）」がプレイヤーの腕前を測る指標となるゲーム的メカニクスを反映している。

@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0017_alludes_to_E_ch0017_コルセスカ_defines_ICE_p753_ice_acronym]] — コルセスカの攻性防壁「ICE」は、サイバーセキュリティ用語の「Intrusion Countermeasures Electronics」の
+- [[A_ch0017_alludes_to_E_ch0017_コルセスカ_defines_ICE_p753_ice_acronym]] — コルセスカの攻性防壁「ICE」は、サイバーセキュリティ用語の「Intrusion Countermeasures Electronics」のパロディであり、ここでは「Entrance（入神）」に意味を転換して呪術的な防御システムを定義している。

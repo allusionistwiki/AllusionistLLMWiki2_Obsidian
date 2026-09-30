@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_reveals_無資格_p316_Unlicensed_Medicine]] — 「社会的に独立した孤高のウィッチドクター」でありながら「医師としては無資格」という設定は、異世界の専門職権威と現代的な資格規制のズレを浮き彫
+- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_reveals_無資格_p316_Unlicensed_Medicine]] — 「社会的に独立した孤高のウィッチドクター」でありながら「医師としては無資格」という設定は、異世界の専門職権威と現代的な資格規制のズレを浮き彫りにする。

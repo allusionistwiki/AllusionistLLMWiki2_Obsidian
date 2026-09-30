@@ -134,7 +134,7 @@ def build_me_pages() -> int:
         sub, dom = classify(me)
         safe = me.replace("/", "／").replace("\\", "＼").replace(":", "：")
         path = REFS / f"ME_{safe}.md"
-        ref_lines = "\n".join(f"- [[{cid}]] — {title[:70]}" for cid, title in refs[:20])
+        ref_lines = "\n".join(f"- [[{cid}]] — {title}" for cid, title in refs[:20])
         path.write_text(f"""---
 schema_version: "5.1"
 id: ME_{safe}

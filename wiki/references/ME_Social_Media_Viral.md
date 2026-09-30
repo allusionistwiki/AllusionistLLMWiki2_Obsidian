@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0007_analogous_to_E_ch0007_男_threatens_少年_p334_Social_Media_Viral]] — 動画による脅迫と、その下に並ぶコメント欄（同意するチェックボックス）は、SNSにおける炎上や世論形成、そして「動画信仰」と呼ばれる情報拡散の
+- [[A_ch0007_analogous_to_E_ch0007_男_threatens_少年_p334_Social_Media_Viral]] — 動画による脅迫と、その下に並ぶコメント欄（同意するチェックボックス）は、SNSにおける炎上や世論形成、そして「動画信仰」と呼ばれる情報拡散の力学を模している。

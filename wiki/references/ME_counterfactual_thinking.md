@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0006_inverts_E_ch0006_アキラ_thinks_反証としての現実_p309_counterfactual_thinking]] — 悪夢（もし六人と出会わなかったら）という反事実的なシミュレーションを見ることで、現実の記憶の価値を逆説的に確認する構造は、反事実的思考（Co
+- [[A_ch0006_inverts_E_ch0006_アキラ_thinks_反証としての現実_p309_counterfactual_thinking]] — 悪夢（もし六人と出会わなかったら）という反事実的なシミュレーションを見ることで、現実の記憶の価値を逆説的に確認する構造は、反事実的思考（Counterfactual Thinking）による価値の再評価プロセスを逆転させたメタフィクションである。

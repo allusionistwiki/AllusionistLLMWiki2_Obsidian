@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0011_alludes_to_E_ch0011_コルセスカ_says_炎は黄金を証明する_p501_ラテン語の格言]] — コルセスカの詠唱「Ignis aurum probat; miseria fortes viros」は、セネカの書簡に由来する「火は金を証明
+- [[A_ch0011_alludes_to_E_ch0011_コルセスカ_says_炎は黄金を証明する_p501_ラテン語の格言]] — コルセスカの詠唱「Ignis aurum probat; miseria fortes viros」は、セネカの書簡に由来する「火は金を証明し、苦難は強い男を証明する」というラテン語の格言を引用し、試練を通じた存在の証明を主題化している。

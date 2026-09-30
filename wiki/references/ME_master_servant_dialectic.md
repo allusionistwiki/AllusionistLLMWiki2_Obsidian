@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0023_inverts_E_ch0023_アキラ_promises_使い魔としての忠誠_p1033_master_servant_dialectic]] — 「人同然の道具」が「道具同然の人」を使うという構図は、ヘーゲルの主奴弁証法における主従関係の逆転を、人間とAI（機械）の関係に適用したもので
+- [[A_ch0023_inverts_E_ch0023_アキラ_promises_使い魔としての忠誠_p1033_master_servant_dialectic]] — 「人同然の道具」が「道具同然の人」を使うという構図は、ヘーゲルの主奴弁証法における主従関係の逆転を、人間とAI（機械）の関係に適用したものである。

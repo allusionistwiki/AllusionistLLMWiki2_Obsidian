@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0002_analogous_to_E_ch0002_アキラ_activates_Doppler_p127_smartphone_apps]] — アキラが脳内にインストールされたアプリを起動・管理し、メモリ不足でアプリを切り替える様子は、現代のスマートフォンにおけるアプリの並列起動とメ
+- [[A_ch0002_analogous_to_E_ch0002_アキラ_activates_Doppler_p127_smartphone_apps]] — アキラが脳内にインストールされたアプリを起動・管理し、メモリ不足でアプリを切り替える様子は、現代のスマートフォンにおけるアプリの並列起動とメモリ管理を模している。

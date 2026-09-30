@@ -17,4 +17,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0008_analogous_to_E_ch0008_アキラ_uses_音響処理アプリDoppler_p361_augmented_reality_game]] — 視覚を奪われた状態で音響アプリ『Doppler』を駆使し、敵の位置を特定して攻撃する様子は、ARゲームやFPSゲームにおけるミニマップや音波
+- [[A_ch0008_analogous_to_E_ch0008_アキラ_uses_音響処理アプリDoppler_p361_augmented_reality_game]] — 視覚を奪われた状態で音響アプリ『Doppler』を駆使し、敵の位置を特定して攻撃する様子は、ARゲームやFPSゲームにおけるミニマップや音波レーダーによる索敵・射撃のメカニクスを現実世界に適用したものである。
