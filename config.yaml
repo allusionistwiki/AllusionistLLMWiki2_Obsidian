@@ -38,7 +38,7 @@ paths:
 
 chapter_range:
   start: 1
-  end: 32   # RAW2 移行分（ch0001-ch0032）を解析
+  end: 272  # RAW2 全移行分（ch0001-ch0272）
 
 # 検索（ハイブリッド検索の埋め込みプロバイダ）
 search:

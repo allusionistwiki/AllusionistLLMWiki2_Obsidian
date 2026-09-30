@@ -12,6 +12,14 @@
   {
    "no": 3,
    "title": "特権者のヒロイック・シンドローム、さもなくばアズーリア・ヘレゼクシュの憂鬱"
+  },
+  {
+   "no": 4,
+   "title": "傷つけるのはハートだけ、口づけるのは頬にだけ"
+  },
+  {
+   "no": 5,
+   "title": "そして夜が明けたあと、百億の怒り"
   }
  ],
  "episodes": [
@@ -163,7 +171,7 @@
    "ep": 25,
    "chapter": 2,
    "label": "2-18",
-   "title": "ｎｕｌｌ参照のアリュージョン"
+   "title": "null参照のアリュージョン"
   },
   {
    "ep": 26,
@@ -206,6 +214,1446 @@
    "chapter": 3,
    "label": "幕間",
    "title": "『もうひとつの悪夢』"
+  },
+  {
+   "ep": 33,
+   "chapter": 3,
+   "label": "3-2",
+   "title": "言の葉遣いは躊躇わない"
+  },
+  {
+   "ep": 34,
+   "chapter": 3,
+   "label": "3-3",
+   "title": "半熟英雄"
+  },
+  {
+   "ep": 35,
+   "chapter": 3,
+   "label": "3-4",
+   "title": "天の鴉と月の兎"
+  },
+  {
+   "ep": 36,
+   "chapter": 3,
+   "label": "3-5",
+   "title": "言語魔術師の弟子（前編）"
+  },
+  {
+   "ep": 37,
+   "chapter": 3,
+   "label": "3-6",
+   "title": "魔女と英雄"
+  },
+  {
+   "ep": 38,
+   "chapter": 3,
+   "label": "3-7",
+   "title": "言理の妖精語りて曰く"
+  },
+  {
+   "ep": 39,
+   "chapter": 3,
+   "label": "幕間",
+   "title": "『幻想再起のイリュージョニスト』"
+  },
+  {
+   "ep": 40,
+   "chapter": 3,
+   "label": "0-1",
+   "title": "『フォービットの魔獣』"
+  },
+  {
+   "ep": 41,
+   "chapter": 3,
+   "label": "0-2",
+   "title": "『色無しマリー』"
+  },
+  {
+   "ep": 42,
+   "chapter": 3,
+   "label": "幕間",
+   "title": "『松明の騎士』"
+  },
+  {
+   "ep": 43,
+   "chapter": 3,
+   "label": "3-8",
+   "title": "再びの未来回想、そして来るべき次回予告"
+  },
+  {
+   "ep": 44,
+   "chapter": 3,
+   "label": "3-9",
+   "title": "トライアンドエラー"
+  },
+  {
+   "ep": 45,
+   "chapter": 3,
+   "label": "3-10",
+   "title": "青の空、黒の空白"
+  },
+  {
+   "ep": 46,
+   "chapter": 3,
+   "label": "3-11",
+   "title": "チョコレートリリー"
+  },
+  {
+   "ep": 47,
+   "chapter": 3,
+   "label": "3-12",
+   "title": "隠れた変数（オクルトゥム）"
+  },
+  {
+   "ep": 48,
+   "chapter": 3,
+   "label": "3-13",
+   "title": "この戦いが終わったら"
+  },
+  {
+   "ep": 49,
+   "chapter": 3,
+   "label": "0-3",
+   "title": "『砂漠の花』"
+  },
+  {
+   "ep": 50,
+   "chapter": 3,
+   "label": "3-14",
+   "title": "パレルノ山六千人殺し"
+  },
+  {
+   "ep": 51,
+   "chapter": 3,
+   "label": "幕間",
+   "title": "『静謐なる多弁』"
+  },
+  {
+   "ep": 52,
+   "chapter": 3,
+   "label": "3-15",
+   "title": "【死の囀り】カタルマリーナ"
+  },
+  {
+   "ep": 53,
+   "chapter": 3,
+   "label": "3-16",
+   "title": "黒いアネモネの花言葉"
+  },
+  {
+   "ep": 54,
+   "chapter": 3,
+   "label": "3-17",
+   "title": "無造作な死"
+  },
+  {
+   "ep": 55,
+   "chapter": 3,
+   "label": "0-4",
+   "title": "『祈りの価値』"
+  },
+  {
+   "ep": 56,
+   "chapter": 3,
+   "label": "幕間",
+   "title": "『言震（ワードクェイク）』"
+  },
+  {
+   "ep": 57,
+   "chapter": 3,
+   "label": "3-18",
+   "title": "激光（レイジ）"
+  },
+  {
+   "ep": 58,
+   "chapter": 3,
+   "label": "0-5",
+   "title": "『青空』"
+  },
+  {
+   "ep": 59,
+   "chapter": 3,
+   "label": "3-19",
+   "title": "夢幻の果て"
+  },
+  {
+   "ep": 60,
+   "chapter": 3,
+   "label": "3-20",
+   "title": "言語魔術師の弟子（後編）"
+  },
+  {
+   "ep": 61,
+   "chapter": 3,
+   "label": "3-21",
+   "title": "第五階層より第一階層へ"
+  },
+  {
+   "ep": 62,
+   "chapter": 3,
+   "label": "3-22",
+   "title": "シナモリ・アキラより"
+  },
+  {
+   "ep": 63,
+   "chapter": 3,
+   "label": "3-23",
+   "title": "睥睨するエクリーオベレッカ"
+  },
+  {
+   "ep": 64,
+   "chapter": 3,
+   "label": "3-24",
+   "title": "十三階段"
+  },
+  {
+   "ep": 65,
+   "chapter": 3,
+   "label": "3-25",
+   "title": "オンステージ"
+  },
+  {
+   "ep": 66,
+   "chapter": 3,
+   "label": "3-26",
+   "title": "奈落に飲まれ、闇に包まれる"
+  },
+  {
+   "ep": 67,
+   "chapter": 3,
+   "label": "3-27",
+   "title": "影に沈み、振り返らずに去っていく"
+  },
+  {
+   "ep": 68,
+   "chapter": 3,
+   "label": "3-28",
+   "title": "言葉は断ち切られ、絶望は感染する。そして――"
+  },
+  {
+   "ep": 69,
+   "chapter": 3,
+   "label": "幕間",
+   "title": "『この夜が明けるまであと百万の祈り』"
+  },
+  {
+   "ep": 70,
+   "chapter": 3,
+   "label": "3-29",
+   "title": "黒百合の子供たち"
+  },
+  {
+   "ep": 71,
+   "chapter": 3,
+   "label": "3-30",
+   "title": "その名はサイバーカラテ"
+  },
+  {
+   "ep": 72,
+   "chapter": 3,
+   "label": "3-31",
+   "title": "それは、世界がこんなにも光に満ち溢れているから"
+  },
+  {
+   "ep": 73,
+   "chapter": 3,
+   "label": "3-32",
+   "title": "澄明なる青空に"
+  },
+  {
+   "ep": 74,
+   "chapter": 3,
+   "label": "幕間",
+   "title": "『特権者の英雄症候群、さもなくば――』"
+  },
+  {
+   "ep": 75,
+   "chapter": 3,
+   "label": "0-6",
+   "title": "『第九魔将』"
+  },
+  {
+   "ep": 76,
+   "chapter": 3,
+   "label": "3-33",
+   "title": "黒血のハルベルト"
+  },
+  {
+   "ep": 77,
+   "chapter": 4,
+   "label": "4-0",
+   "title": "死人の森"
+  },
+  {
+   "ep": 78,
+   "chapter": 4,
+   "label": "4-1",
+   "title": "道場"
+  },
+  {
+   "ep": 79,
+   "chapter": 4,
+   "label": "4-2",
+   "title": "風の吹く丘"
+  },
+  {
+   "ep": 80,
+   "chapter": 4,
+   "label": "4-3",
+   "title": "王国"
+  },
+  {
+   "ep": 81,
+   "chapter": 4,
+   "label": "4-4",
+   "title": "ダモクレスの剣"
+  },
+  {
+   "ep": 82,
+   "chapter": 4,
+   "label": "4-5",
+   "title": "工場"
+  },
+  {
+   "ep": 83,
+   "chapter": 4,
+   "label": "4-6",
+   "title": "白骨迷宮"
+  },
+  {
+   "ep": 84,
+   "chapter": 4,
+   "label": "4-7",
+   "title": "花街"
+  },
+  {
+   "ep": 85,
+   "chapter": 4,
+   "label": "4-8",
+   "title": "黒百合館"
+  },
+  {
+   "ep": 86,
+   "chapter": 4,
+   "label": "4-9",
+   "title": "ステュクス"
+  },
+  {
+   "ep": 87,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『空の玉座』"
+  },
+  {
+   "ep": 88,
+   "chapter": 4,
+   "label": "4-10",
+   "title": "二人の距離"
+  },
+  {
+   "ep": 89,
+   "chapter": 4,
+   "label": "4-11",
+   "title": "星見の塔トーナメント（前編）"
+  },
+  {
+   "ep": 90,
+   "chapter": 4,
+   "label": "4-12",
+   "title": "Tournamented Celestial Gaze（the second volume）"
+  },
+  {
+   "ep": 91,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "不在の二人"
+  },
+  {
+   "ep": 92,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章9-1 冥道の幼姫"
+  },
+  {
+   "ep": 93,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章8-1 妄想妖精のプロンプター"
+  },
+  {
+   "ep": 94,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章8-2 境界に立つ者"
+  },
+  {
+   "ep": 95,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章8-3 過去から過去へ、劇から劇へ"
+  },
+  {
+   "ep": 96,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章6-1 病的グランギニョル"
+  },
+  {
+   "ep": 97,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章6-2 微睡む太陽と月のパペットリー"
+  },
+  {
+   "ep": 98,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『昔々あるところに』"
+  },
+  {
+   "ep": 99,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章5-1 正邪の双竜王"
+  },
+  {
+   "ep": 100,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章5-2 外なる法"
+  },
+  {
+   "ep": 101,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『雷が鳴っている間は』"
+  },
+  {
+   "ep": 102,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章4-1 冥道の番犬"
+  },
+  {
+   "ep": 103,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章4-2 禁忌と罰"
+  },
+  {
+   "ep": 104,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章4-3 栄光の手"
+  },
+  {
+   "ep": 105,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『食い千切られた左腕』"
+  },
+  {
+   "ep": 106,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章3-1 畏怖"
+  },
+  {
+   "ep": 107,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章3-2 終端は弑された"
+  },
+  {
+   "ep": 108,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『不似合いな結びつき』"
+  },
+  {
+   "ep": 109,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章2-1 睥睨する藍色"
+  },
+  {
+   "ep": 110,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章2-2 冗長性ファントムペイン"
+  },
+  {
+   "ep": 111,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章2-3 暗がりの中へ"
+  },
+  {
+   "ep": 112,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章1-1 熱病のような加虐が彼女の望み"
+  },
+  {
+   "ep": 113,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章1-2 『集い』"
+  },
+  {
+   "ep": 114,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章1-3 コキュートス"
+  },
+  {
+   "ep": 115,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章8-5 生と死（トライアンドエラー）"
+  },
+  {
+   "ep": 116,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章9-∞ 必ず貴方を迎えにいくから"
+  },
+  {
+   "ep": 117,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『トリシューラ・カムバック』"
+  },
+  {
+   "ep": 118,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の断章8-6 女王と錬鉄者"
+  },
+  {
+   "ep": 119,
+   "chapter": 4,
+   "label": "4-13",
+   "title": "星見の塔の大比武（さいごの戦い）"
+  },
+  {
+   "ep": 120,
+   "chapter": 4,
+   "label": "断章",
+   "title": "死人の森の/断章取義のアリュージョニスト"
+  },
+  {
+   "ep": 121,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "転章『未来転生』"
+  },
+  {
+   "ep": 122,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『To Hurt』"
+  },
+  {
+   "ep": 123,
+   "chapter": 4,
+   "label": "4-14",
+   "title": "一時の平穏"
+  },
+  {
+   "ep": 124,
+   "chapter": 4,
+   "label": "4-15",
+   "title": "悪夢の饗宴"
+  },
+  {
+   "ep": 125,
+   "chapter": 4,
+   "label": "4-16",
+   "title": "六人の王さま"
+  },
+  {
+   "ep": 126,
+   "chapter": 4,
+   "label": "4-17",
+   "title": "未来の過失"
+  },
+  {
+   "ep": 127,
+   "chapter": 4,
+   "label": "4-18",
+   "title": "ガイノイドの魔女"
+  },
+  {
+   "ep": 128,
+   "chapter": 4,
+   "label": "4-19",
+   "title": "予兆"
+  },
+  {
+   "ep": 129,
+   "chapter": 4,
+   "label": "4-20",
+   "title": "脆弱性、あるいは仕様"
+  },
+  {
+   "ep": 130,
+   "chapter": 4,
+   "label": "4-21",
+   "title": "皆殺しのデーデェイア"
+  },
+  {
+   "ep": 131,
+   "chapter": 4,
+   "label": "4-22",
+   "title": "異界転生"
+  },
+  {
+   "ep": 132,
+   "chapter": 4,
+   "label": "4-23",
+   "title": "欲望の在処"
+  },
+  {
+   "ep": 133,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『囚われの氷晶姫』"
+  },
+  {
+   "ep": 134,
+   "chapter": 4,
+   "label": "4-24",
+   "title": "二人で"
+  },
+  {
+   "ep": 135,
+   "chapter": 4,
+   "label": "4-25",
+   "title": "ゲームスタート"
+  },
+  {
+   "ep": 136,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "左右一対の邪眼姫"
+  },
+  {
+   "ep": 137,
+   "chapter": 4,
+   "label": "4-26",
+   "title": "嵐の前"
+  },
+  {
+   "ep": 138,
+   "chapter": 4,
+   "label": "4-27",
+   "title": "ラフディボール（前半）"
+  },
+  {
+   "ep": 139,
+   "chapter": 4,
+   "label": "4-28",
+   "title": "ラフディボール（後半）"
+  },
+  {
+   "ep": 140,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『騒乱』"
+  },
+  {
+   "ep": 141,
+   "chapter": 4,
+   "label": "4-29",
+   "title": "醜い野獣"
+  },
+  {
+   "ep": 142,
+   "chapter": 4,
+   "label": "4-30",
+   "title": "業"
+  },
+  {
+   "ep": 143,
+   "chapter": 4,
+   "label": "4-31",
+   "title": "王と物乞い"
+  },
+  {
+   "ep": 144,
+   "chapter": 4,
+   "label": "4-32",
+   "title": "祈りは流星に似て"
+  },
+  {
+   "ep": 145,
+   "chapter": 4,
+   "label": "4-33",
+   "title": "ガロアンディアンの真竜王"
+  },
+  {
+   "ep": 146,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『チョコレートリリーのスイーツ事件簿Season2 Case.14 アズチョコに挑め！』"
+  },
+  {
+   "ep": 147,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『死人の森の父』"
+  },
+  {
+   "ep": 148,
+   "chapter": 4,
+   "label": "4-34",
+   "title": "オルヴァ王と十二人のシナモリアキラ1"
+  },
+  {
+   "ep": 149,
+   "chapter": 4,
+   "label": "4-35",
+   "title": "オルヴァ王と十二人のシナモリアキラ2"
+  },
+  {
+   "ep": 150,
+   "chapter": 4,
+   "label": "4-36",
+   "title": "オルヴァ王と十二人のシナモリアキラ3"
+  },
+  {
+   "ep": 151,
+   "chapter": 4,
+   "label": "4-37",
+   "title": "オルヴァ王と十二人のシナモリアキラ4"
+  },
+  {
+   "ep": 152,
+   "chapter": 4,
+   "label": "4-38",
+   "title": "オルヴァ王と十二人のシナモリアキラ5"
+  },
+  {
+   "ep": 153,
+   "chapter": 4,
+   "label": "4-39",
+   "title": "オルヴァ王と十二人のシナモリアキラ6"
+  },
+  {
+   "ep": 154,
+   "chapter": 4,
+   "label": "4-40",
+   "title": "オルヴァ王と十二人のシナモリアキラ7"
+  },
+  {
+   "ep": 155,
+   "chapter": 4,
+   "label": "4-41",
+   "title": "オルヴァ王と十二人のシナモリアキラ8"
+  },
+  {
+   "ep": 156,
+   "chapter": 4,
+   "label": "4-42",
+   "title": "オルヴァ王と十二人のシナモリアキラ9"
+  },
+  {
+   "ep": 157,
+   "chapter": 4,
+   "label": "4-43",
+   "title": "オルヴァ王と十二人のシナモリアキラ10"
+  },
+  {
+   "ep": 158,
+   "chapter": 4,
+   "label": "4-44",
+   "title": "オルヴァ王と十二人のシナモリアキラ11"
+  },
+  {
+   "ep": 159,
+   "chapter": 4,
+   "label": "4-45",
+   "title": "オルヴァ王と十二人のシナモリアキラ12"
+  },
+  {
+   "ep": 160,
+   "chapter": 4,
+   "label": "4-46",
+   "title": "オルヴァ王と十二人のシナモリアキラ0"
+  },
+  {
+   "ep": 161,
+   "chapter": 4,
+   "label": "4-47",
+   "title": "狂姫乱舞"
+  },
+  {
+   "ep": 162,
+   "chapter": 4,
+   "label": "4-48",
+   "title": "カクリ世の宴"
+  },
+  {
+   "ep": 163,
+   "chapter": 4,
+   "label": "4-49",
+   "title": "檻の感触だきしめて"
+  },
+  {
+   "ep": 164,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『悪夢の継承者』"
+  },
+  {
+   "ep": 165,
+   "chapter": 4,
+   "label": "4-50",
+   "title": "あなたのアイは独りよがり"
+  },
+  {
+   "ep": 166,
+   "chapter": 4,
+   "label": "4-51",
+   "title": "純な炎を胸に燃やして"
+  },
+  {
+   "ep": 167,
+   "chapter": 4,
+   "label": "4-52",
+   "title": "血も凍りつく眠りの中で"
+  },
+  {
+   "ep": 168,
+   "chapter": 4,
+   "label": "4-53",
+   "title": "燃え上がる夢の終わりに"
+  },
+  {
+   "ep": 169,
+   "chapter": 4,
+   "label": "4-54",
+   "title": "目指すは奈落、一直線に"
+  },
+  {
+   "ep": 170,
+   "chapter": 4,
+   "label": "4-55",
+   "title": "栄えある女王の凱旋"
+  },
+  {
+   "ep": 171,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『甘い果実は腐り堕ちて』"
+  },
+  {
+   "ep": 172,
+   "chapter": 4,
+   "label": "4-56",
+   "title": "メスブタノパン/ブタノマンジュウ"
+  },
+  {
+   "ep": 173,
+   "chapter": 4,
+   "label": "4-57",
+   "title": "裸の自分、服を着た誰か"
+  },
+  {
+   "ep": 174,
+   "chapter": 4,
+   "label": "4-58",
+   "title": "あなたは理想の王子さま、私の素敵な王子さま"
+  },
+  {
+   "ep": 175,
+   "chapter": 4,
+   "label": "4-59",
+   "title": "『私たち』を始めましょう"
+  },
+  {
+   "ep": 176,
+   "chapter": 4,
+   "label": "4-60",
+   "title": "Calling"
+  },
+  {
+   "ep": 177,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『チョコレートリリーのスイーツ事件簿2nd 第14話 デーツ・ミーツ・ナッツ』"
+  },
+  {
+   "ep": 178,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『罪貨の略奪者』"
+  },
+  {
+   "ep": 179,
+   "chapter": 4,
+   "label": "4-61",
+   "title": "狂姫と狂犬"
+  },
+  {
+   "ep": 180,
+   "chapter": 4,
+   "label": "4-62",
+   "title": "夢に向かって"
+  },
+  {
+   "ep": 181,
+   "chapter": 4,
+   "label": "4-63",
+   "title": "女王の器"
+  },
+  {
+   "ep": 182,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "『チェンジリング・ケット・シー』"
+  },
+  {
+   "ep": 183,
+   "chapter": 4,
+   "label": "4-64",
+   "title": "愛の切っ先"
+  },
+  {
+   "ep": 184,
+   "chapter": 4,
+   "label": "4-65",
+   "title": "第五階層のシナモリアキラ"
+  },
+  {
+   "ep": 185,
+   "chapter": 4,
+   "label": "4-66",
+   "title": "夜空裂くキャスケット"
+  },
+  {
+   "ep": 186,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "終節：序『The Orb Is a Harsh Mistress』"
+  },
+  {
+   "ep": 187,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "終節：破『The Winddown Girl』"
+  },
+  {
+   "ep": 188,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "終節：急『Escape from The Family』"
+  },
+  {
+   "ep": 189,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "終節：抒『Phallus/Farce』"
+  },
+  {
+   "ep": 190,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "終節：刃『Oedipus/Simplex』"
+  },
+  {
+   "ep": 191,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "終節：救『Parable of The Barren Fig Blade』"
+  },
+  {
+   "ep": 192,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "終節：除『Under The Law』"
+  },
+  {
+   "ep": 193,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "終節：端『Acceptance』"
+  },
+  {
+   "ep": 194,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "終節：窮『Put My Finger Only On Your Cheek』"
+  },
+  {
+   "ep": 195,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "アポテオーズ『シナモリアキラはここにいる』"
+  },
+  {
+   "ep": 196,
+   "chapter": 4,
+   "label": "幕間",
+   "title": "転章『それは素朴で純粋な当たり前の』"
+  },
+  {
+   "ep": 197,
+   "chapter": 5,
+   "label": "5-0",
+   "title": "エレクトラには向いてない"
+  },
+  {
+   "ep": 198,
+   "chapter": 5,
+   "label": "5-1",
+   "title": "枯れ木激して死灰に至り、苗木人立ちて雲路を砕く"
+  },
+  {
+   "ep": 199,
+   "chapter": 5,
+   "label": "5-2",
+   "title": "怒りについて（前編）"
+  },
+  {
+   "ep": 200,
+   "chapter": 5,
+   "label": "5-3",
+   "title": "自称、幼馴染み"
+  },
+  {
+   "ep": 201,
+   "chapter": 5,
+   "label": "5-4",
+   "title": "裏切り者の誓い"
+  },
+  {
+   "ep": 202,
+   "chapter": 5,
+   "label": "5-5",
+   "title": "第一の誘拐"
+  },
+  {
+   "ep": 203,
+   "chapter": 5,
+   "label": "5-6",
+   "title": "神話の子供たち"
+  },
+  {
+   "ep": 204,
+   "chapter": 5,
+   "label": "5-7",
+   "title": "夢界の兇手"
+  },
+  {
+   "ep": 205,
+   "chapter": 5,
+   "label": "5-8",
+   "title": "トリシューラ暗殺計画"
+  },
+  {
+   "ep": 206,
+   "chapter": 5,
+   "label": "5-9",
+   "title": "怪物退治"
+  },
+  {
+   "ep": 207,
+   "chapter": 5,
+   "label": "5-10",
+   "title": "夜明け前の沈黙"
+  },
+  {
+   "ep": 208,
+   "chapter": 5,
+   "label": "幕間",
+   "title": "祝祭前夜1『死者への慰め』"
+  },
+  {
+   "ep": 209,
+   "chapter": 5,
+   "label": "幕間",
+   "title": "祝祭前夜2『今、ここにある断絶』"
+  },
+  {
+   "ep": 210,
+   "chapter": 5,
+   "label": "幕間",
+   "title": "祝祭前夜3『黒蟲騎士団』"
+  },
+  {
+   "ep": 211,
+   "chapter": 5,
+   "label": "幕間",
+   "title": "祝祭前夜4『正しい神の殺し方』"
+  },
+  {
+   "ep": 212,
+   "chapter": 5,
+   "label": "幕間",
+   "title": "『正しい未来の選び方』"
+  },
+  {
+   "ep": 213,
+   "chapter": 5,
+   "label": "5-11",
+   "title": "空使いは知らんぷり"
+  },
+  {
+   "ep": 214,
+   "chapter": 5,
+   "label": "5-12",
+   "title": "万獣祭・開幕"
+  },
+  {
+   "ep": 215,
+   "chapter": 5,
+   "label": "5-13",
+   "title": "テキストベース・サーキット"
+  },
+  {
+   "ep": 216,
+   "chapter": 5,
+   "label": "5-14",
+   "title": "オルゴーの飛翔の呪文"
+  },
+  {
+   "ep": 217,
+   "chapter": 5,
+   "label": "5-15",
+   "title": "未来回想、それは破綻した青写真"
+  },
+  {
+   "ep": 218,
+   "chapter": 5,
+   "label": "5-16",
+   "title": "古びた真珠"
+  },
+  {
+   "ep": 219,
+   "chapter": 5,
+   "label": "5-17",
+   "title": "ペラティアの末裔"
+  },
+  {
+   "ep": 220,
+   "chapter": 5,
+   "label": "5-18",
+   "title": "緑の求婚"
+  },
+  {
+   "ep": 221,
+   "chapter": 5,
+   "label": "5-19",
+   "title": "踏み付けられた死"
+  },
+  {
+   "ep": 222,
+   "chapter": 5,
+   "label": "5-20",
+   "title": "転生都市と冥府システム"
+  },
+  {
+   "ep": 223,
+   "chapter": 5,
+   "label": "5-21",
+   "title": "『転活体験アプリ・ウィズメモリーbeta』①"
+  },
+  {
+   "ep": 224,
+   "chapter": 5,
+   "label": "5-22",
+   "title": "『転活体験アプリ・ウィズメモリーbeta』②"
+  },
+  {
+   "ep": 225,
+   "chapter": 5,
+   "label": "5-23",
+   "title": "舞台裏の死角①"
+  },
+  {
+   "ep": 226,
+   "chapter": 5,
+   "label": "5-24",
+   "title": "舞台裏の死角②"
+  },
+  {
+   "ep": 227,
+   "chapter": 5,
+   "label": "5-25",
+   "title": "舞台裏の死角③"
+  },
+  {
+   "ep": 228,
+   "chapter": 5,
+   "label": "5-26",
+   "title": "舞台裏の死角④"
+  },
+  {
+   "ep": 229,
+   "chapter": 5,
+   "label": "5-27",
+   "title": "舞台裏の死角⑤"
+  },
+  {
+   "ep": 230,
+   "chapter": 5,
+   "label": "5-28",
+   "title": "誘拐婚①：メートリアン"
+  },
+  {
+   "ep": 231,
+   "chapter": 5,
+   "label": "5-29",
+   "title": "余白と名前"
+  },
+  {
+   "ep": 232,
+   "chapter": 5,
+   "label": "幕間",
+   "title": "五章キャラ一覧（暫定）"
+  },
+  {
+   "ep": 233,
+   "chapter": 5,
+   "label": "5-30",
+   "title": "本選開幕①"
+  },
+  {
+   "ep": 234,
+   "chapter": 5,
+   "label": "5-31",
+   "title": "本選開幕②"
+  },
+  {
+   "ep": 235,
+   "chapter": 5,
+   "label": "5-32",
+   "title": "本選開幕③"
+  },
+  {
+   "ep": 236,
+   "chapter": 5,
+   "label": "5-33",
+   "title": "本選開幕④"
+  },
+  {
+   "ep": 237,
+   "chapter": 5,
+   "label": "5-34",
+   "title": "義憤について"
+  },
+  {
+   "ep": 238,
+   "chapter": 5,
+   "label": "5-35",
+   "title": "呪文の座として"
+  },
+  {
+   "ep": 239,
+   "chapter": 5,
+   "label": "5-36",
+   "title": "名無しの王争奪戦①"
+  },
+  {
+   "ep": 240,
+   "chapter": 5,
+   "label": "5-37",
+   "title": "名無しの王争奪戦②"
+  },
+  {
+   "ep": 241,
+   "chapter": 5,
+   "label": "5-38",
+   "title": "アルト・イヴニルと五人の騎士①"
+  },
+  {
+   "ep": 242,
+   "chapter": 5,
+   "label": "5-39",
+   "title": "アルト・イヴニルと五人の騎士②"
+  },
+  {
+   "ep": 243,
+   "chapter": 5,
+   "label": "5-40",
+   "title": "アルト・イヴニルと五人の騎士③"
+  },
+  {
+   "ep": 244,
+   "chapter": 5,
+   "label": "5-41",
+   "title": "名無しの王の行方"
+  },
+  {
+   "ep": 245,
+   "chapter": 5,
+   "label": "5-42",
+   "title": "ユディーア対チリアット①"
+  },
+  {
+   "ep": 246,
+   "chapter": 5,
+   "label": "5-43",
+   "title": "ユディーア対チリアット②"
+  },
+  {
+   "ep": 247,
+   "chapter": 5,
+   "label": "5-44",
+   "title": "ユディーア対チリアット③"
+  },
+  {
+   "ep": 248,
+   "chapter": 5,
+   "label": "5-45",
+   "title": "ユディーア対チリアット④"
+  },
+  {
+   "ep": 249,
+   "chapter": 5,
+   "label": "5-46",
+   "title": "レジェンド対モーレツターボババア①"
+  },
+  {
+   "ep": 250,
+   "chapter": 5,
+   "label": "5-47",
+   "title": "レジェンド対モーレツターボババア②"
+  },
+  {
+   "ep": 251,
+   "chapter": 5,
+   "label": "5-48",
+   "title": "暴走無人機・夜路四駆デッドヒート"
+  },
+  {
+   "ep": 252,
+   "chapter": 5,
+   "label": "5-49",
+   "title": "槍と翼"
+  },
+  {
+   "ep": 253,
+   "chapter": 5,
+   "label": "5-50",
+   "title": "空に架かる虹"
+  },
+  {
+   "ep": 254,
+   "chapter": 5,
+   "label": "5-51",
+   "title": "新時代の風"
+  },
+  {
+   "ep": 255,
+   "chapter": 5,
+   "label": "5-52",
+   "title": "ピットイン"
+  },
+  {
+   "ep": 256,
+   "chapter": 5,
+   "label": "5-53",
+   "title": "同病相憎む"
+  },
+  {
+   "ep": 257,
+   "chapter": 5,
+   "label": "5-54",
+   "title": "虹弓のレメス"
+  },
+  {
+   "ep": 258,
+   "chapter": 5,
+   "label": "5-55",
+   "title": "獣、森、洞窟"
+  },
+  {
+   "ep": 259,
+   "chapter": 5,
+   "label": "5-56",
+   "title": "自称、幼馴染リターンズ"
+  },
+  {
+   "ep": 260,
+   "chapter": 5,
+   "label": "5-57",
+   "title": "死せる生殖"
+  },
+  {
+   "ep": 261,
+   "chapter": 5,
+   "label": "5-58",
+   "title": "人形たちの飛躍、あるいは墜落"
+  },
+  {
+   "ep": 262,
+   "chapter": 5,
+   "label": "5-59",
+   "title": "ジグザグリーディング"
+  },
+  {
+   "ep": 263,
+   "chapter": 5,
+   "label": "5-60",
+   "title": "①"
+  },
+  {
+   "ep": 264,
+   "chapter": 5,
+   "label": "5-61",
+   "title": "垂直落下の飛ばし読み"
+  },
+  {
+   "ep": 265,
+   "chapter": 5,
+   "label": "5-62",
+   "title": "②"
+  },
+  {
+   "ep": 266,
+   "chapter": 5,
+   "label": "5-63",
+   "title": "『台詞だけで飛べばいいっ！』"
+  },
+  {
+   "ep": 267,
+   "chapter": 5,
+   "label": "5-64",
+   "title": "そして翼は天へと昇る"
+  },
+  {
+   "ep": 268,
+   "chapter": 5,
+   "label": "5-65",
+   "title": "③"
+  },
+  {
+   "ep": 269,
+   "chapter": 5,
+   "label": "5-66",
+   "title": "天獄藍域"
+  },
+  {
+   "ep": 270,
+   "chapter": 5,
+   "label": "5-67",
+   "title": "悪夢の星より来たる"
+  },
+  {
+   "ep": 271,
+   "chapter": 5,
+   "label": "5-68",
+   "title": "炎の翼"
+  },
+  {
+   "ep": 272,
+   "chapter": 5,
+   "label": "5-69",
+   "title": "永劫線セルアデス"
   }
  ]
 }
