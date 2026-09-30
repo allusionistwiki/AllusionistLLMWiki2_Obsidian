@@ -2,7 +2,7 @@
 
 「幻想再帰のアリュージョニスト」多層アナロジー分析Wikiのリバイス版（v5.1 設計準拠）。**ソース・オブ・トゥルース**となる Obsidian vault です。
 
-- 公開サイトは [`AllusionistLLMWiki2_Quartz`](https://github.com/allusionistwiki/AllusionistLLMWiki2_Quartz) 側で CI ビルド（この vault の `wiki/` を取得）
+- 公開サイトは [`AllusionistLLMWiki2`](https://github.com/allusionistwiki/AllusionistLLMWiki2)（Quartz）側で CI ビルド（この vault の `wiki/` を取得）
 - 作業派生物（第1層 events / 第2層 staging / 検索DB / レポート）は兄弟リポジトリ [`AllusionistLLMWiki2_Work`](https://github.com/allusionistwiki/AllusionistLLMWiki2_Work) に分離。整合性は相互コミット参照（`work-ref:` / `vault-ref:` + `SYNC_LOG.md`）で保証し、`scripts/commit_all.py` で同時コミットする
 - 設計書: [`docs/knowledge-model-v5.1.md`](docs/knowledge-model-v5.1.md)（v5.1 Final Revised）+ [`docs/knowledge-model-v5.2-search.md`](docs/knowledge-model-v5.2-search.md)（v5.2 検索最適化版・三層分離）
 - **現行実装の仕様（権威）**: [`docs/knowledge-model-current.md`](docs/knowledge-model-current.md) ／ 今後の課題: [`docs/roadmap-and-risks.md`](docs/roadmap-and-risks.md) ／ AI作業規約: [`CLAUDE.md`](CLAUDE.md)

@@ -9,9 +9,9 @@
 
 | リポジトリ | 役割 | 内容 |
 |:---|:---|:---|
-| `AllusionistLLMWiki2`（本repo） | ソース・オブ・トゥルース（Obsidian vault / 知識核） | `wiki/`（正規層）、`sources/`、`schemas/`、`scripts/`、`docs/` |
+| `AllusionistLLMWiki2_Obsidian`（本repo） | ソース・オブ・トゥルース（Obsidian vault / 知識核） | `wiki/`（正規層）、`sources/`、`schemas/`、`scripts/`、`docs/` |
 | `AllusionistLLMWiki2_Work` | 作業派生物（再構築可能） | `events/`（第1層）、`staging/`（第2層）、`search/`（検索DB）、`reports/`、`logs/`、`backups/` |
-| `AllusionistLLMWiki2_Quartz` | 公開サイト（CI ビルド） | vault の `wiki/` を取得して Quartz で静的生成 |
+| `AllusionistLLMWiki2`（Quartz） | 公開サイト（CI ビルド） | vault の `wiki/` を取得して Quartz で静的生成 |
 
 - 整合性: 相互コミット参照（`work-ref:` / `vault-ref:` + `SYNC_LOG.md`）。同時コミットは `scripts/commit_all.py`
 - `raw/`（原文）は Git 管理外・非公開（gitignore）
