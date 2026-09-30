@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_char_シナモリ・アキラ
+type: entity
+subtype: character
+canonical_name: シナモリ・アキラ
+first_appearance: ch0028
+spoiler_after: ch0028
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# シナモリ・アキラ
+
+アキラが抹消対象の呼称として暫定で決定した名前。動画の人物がシナモリ・アキラであると確信されている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0028 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「本名もやばいよねー。じゃあ呼称は暫定でー、シナモリ・アキラさん？ ええっと、とりあえず『最終的解決』っと」（ch0028）
+> 「アキラ――？」もはや間違えようも無い。シナモリ・アキラがそこにいた。（ch0061）
+
+<!-- AUTO:END -->

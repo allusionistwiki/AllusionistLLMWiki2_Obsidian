@@ -1,0 +1,34 @@
+---
+schema_version: "5.1"
+id: E_char_Spea
+type: entity
+subtype: character
+canonical_name: Spea
+first_appearance: ch0059
+spoiler_after: ch0059
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# Spea
+
+青嶺瑠璃が付き人として仕える歌姫。一つ年下の少女で、青嶺瑠璃にハルベルトを守ってと頼む。青嶺瑠璃がファンであり特別ではないと指摘し、ジルとの決闘を提案する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0059 ｜ **観測イベント**: 7 件（1 話に出現）
+
+## 代表引用
+
+> 私はタオルとスポーツドリンクを手渡しながら通路を歩いていく彼女の一歩後ろに付き従います。（ch0059）
+> 突然、控え室の鏡が砕け散って、世界が引き裂かれます。（ch0059）
+> 「お姉ちゃん」「ハルを守って」（ch0059）
+> 「あなたはハルに妹を投影してる」「あなたはわがまま――わからずやのほしがりや」（ch0059）
+> 「白いガーデニア、覚えてる？」（ch0059）
+
+## 関連クレーム
+
+- [[A_ch0059_analogous_to_E_ch0059_Spea_other_決闘_p2246_ゼロサムゲーム_存在の賭け|存在賭けのゼロサムゲーム]]
+- [[A_ch0059_parodies_E_ch0059_青嶺瑠璃_other_Spea_p2234_推し活_オタク文化|非対称な推し活崇拝]]
+
+<!-- AUTO:END -->

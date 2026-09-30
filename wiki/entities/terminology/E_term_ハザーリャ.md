@@ -1,0 +1,30 @@
+---
+schema_version: "5.1"
+id: E_term_ハザーリャ
+type: entity
+subtype: terminology
+canonical_name: ハザーリャ
+first_appearance: ch0061
+spoiler_after: ch0061
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# ハザーリャ
+
+キュトスの従属神で、死と再生を司る。祭具は男根のメタファーであり、死と同時に生命の誕生、聖婚（ヒエロス・ガモス）、蘇生を象徴する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0061 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 地母神に随伴する死と再生を司る男性神。イヤー・ゴッド キュトスの従属神、泡沫のハザーリャ。（ch0061）
+> ハザーリャが象徴するのは死であると同時に生命の誕生。冬が終わり春の訪れを祝福する聖婚。ヒエロス・ガモス 平たく言えば生殖の暗喩。もしくは、蘇生。（ch0061）
+
+## 関連クレーム
+
+- [[A_ch0061_alludes_to_E_ch0061_ハザーリャ_other_生殖と蘇生_p2292_ヒエロス・ガモス|ヒエロス・ガモスへの暗喩]]
+
+<!-- AUTO:END -->

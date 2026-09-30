@@ -1,0 +1,30 @@
+---
+schema_version: "5.1"
+id: E_char_第七位
+type: entity
+subtype: character
+canonical_name: 第七位
+first_appearance: ch0031
+spoiler_after: ch0031
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 第七位
+
+守護の九槍第七位であり、第四階層で切り捨てた男に対抗できる力を得たいと願う存在。第四階層の掌握者として『味方殺し』の異名を持ち、敵対派閥の修道騎士を殺害している。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0031 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 【守護の九槍】第七位。第四階層で私達の存在をゴミ掃除でもするかのように切り捨てたあの男に対抗できる力が手に入るのだとすれば。（ch0031）
+> 第四階層の掌握者は、『味方殺し』の異名を持つ。（ch0059）
+
+## 関連クレーム
+
+- [[A_ch0059_alludes_to_E_ch0059_第七位_kills_修道騎士_p2228_組織内いじめ_権力闘争|組織内権力闘争による人材浪費]]
+
+<!-- AUTO:END -->

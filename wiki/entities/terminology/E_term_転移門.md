@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_term_転移門
+type: entity
+subtype: terminology
+canonical_name: 転移門
+first_appearance: ch0054
+spoiler_after: ch0054
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 転移門
+
+周囲が元の世界から持ってきた『異界』であり、世界が終わっても消滅しない安全地帯である。軍事利用の教訓から国際法で厳重に規制されているが、使用は可能とされる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0054 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 転移門の周囲だけは元の世界から持ってきた『異界』であるため、この世界が一度終わりを迎えても消滅することなく残り続ける。（ch0054）
+> 国際法で厳重に規制され、その運用には細心の注意が払われるのだが、使用できないというわけではない。（ch0063）
+
+<!-- AUTO:END -->

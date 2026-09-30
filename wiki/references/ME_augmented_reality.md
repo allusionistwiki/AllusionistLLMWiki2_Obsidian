@@ -16,8 +16,9 @@ review_status: llm_verified
 
 本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作からの参照 (3 件)
+## 本作からの参照 (4 件)
 
 - [[A_ch0004_structurally_matches_E_ch0004_刺客_uses_空間折り畳み武器_p229_augmented_reality]] — 空間を折り畳み武器の質量を操作する技術は、ゲーム内の「当たり判定」と「表示」のズレを物理現象として実装したものである。
 - [[A_ch0017_structurally_matches_E_ch0017_敵呪術師_transforms_物理的実体_p752_augmented_reality]] — 画面内のアバターが物理的な実体を得て現実世界に出現する現象は、デジタルとアナログの境界が崩壊する「バーチャルの実体化」のSF的恐怖の具現化である。
 - [[A_ch0045_structurally_matches_E_ch0045_ガルズ_activates_浄界_p1875_augmented_reality]] — ガルズの邪視による世界改変は、現実世界にデジタル情報（死者の姿）を上書きして表示するAR（拡張現実）技術の極限形態であり、視覚情報の支配が物理的支配に直結する構造を持つ。
+- [[A_ch0055_parodies_E_ch0055_主人公_observes_模倣子_p2110_augmented_reality]] — 高級な服や装飾品から『流行ミーム』や『デザインミーム』が運動して見える描写は、AR技術による情報オーバーレイの比喩である。

@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_org_星見の塔
+type: entity
+subtype: organization
+canonical_name: 星見の塔
+first_appearance: ch0010
+spoiler_after: ch0010
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 星見の塔
+
+四人いる候補者のうち一人しか座れない『最後の魔女』の席を賭けて争っている組織。計画を強引に成立させるために介入した。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0010 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「同じ組織に属しているからこそ競争するの。私達は『星見の塔』の『最後の魔女』の席を賭けて争っているんだ。その席はたった一つつきりで、四人いる候補者のうち一人しかそこには座れない。（ch0010）
+> この計画を強引に成立させるために、星見の塔が介入したことは間違い無い。（ch0061）
+
+<!-- AUTO:END -->

@@ -16,7 +16,7 @@ created: "2026-09-30"
 アキラに物語の結末（大団円か犠牲を伴うものか）について相談するキャラクター。アキラからは両方の要素を混ぜるべきだと助言される。
 
 <!-- AUTO:BEGIN -->
-**初出**: ch0021 ｜ **観測イベント**: 33 件（9 話に出現）
+**初出**: ch0021 ｜ **観測イベント**: 101 件（16 話に出現）
 
 ## 代表引用
 
@@ -31,13 +31,23 @@ created: "2026-09-30"
 - [[A_ch0021_parodies_E_ch0021_リーナ_asks_アキラ_p973_Narrative_Structure_Choice|物語構造選択へのマルチエンディング化]]
 - [[A_ch0046_inverts_E_ch0046_リーナ_reveals_当事者であること_p1887_heroic_narrative_trope|英雄叙事の逆転]]
 - [[A_ch0047_analogous_to_E_ch0047_リーナ_says_グロソラリア_p1928_genetic_engineering_hybrid|遺伝子キメラへの血統の転生]]
+- [[A_ch0057_analogous_to_E_ch0057_リーナ_fears_歌姫の殺害_p2196_テロリズム|テロリズム連鎖とメディア恐怖]]
+- [[A_ch0058_alludes_to_E_ch0058_リーナ_uses_重力操作の邪視_p2207_ear_stone|耳石器の魔法的インターフェース化]]
+- [[A_ch0058_analogous_to_E_ch0058_リーナ_fears_時間の巻き戻り_p2200_save_and_load|ゲームのセーブ＆ロード機能]]
+- [[A_ch0058_parodies_E_ch0058_リーナ_says_空が青い理由_p2199_rayleigh_scattering|レイリー散乱の目的論的風刺]]
+- [[A_ch0062_analogous_to_E_ch0062_ハルベルト_names_リーナ_p2328_セキュリティの穴・ソーシャルエンジニアリング|セキュリティ穴・ソシアルへの転生]]
+- [[A_ch0062_analogous_to_E_ch0062_リーナ_says_炎上_p2317_現代のネット世論・フェイクニュース|ネット世論・フェイクへの転生]]
+- [[A_ch0062_inverts_E_ch0062_リーナ_says_万色_p2327_デジタル色彩の無限性・RGB|デジタル色彩・RGBへの逆転]]
+- [[A_ch0062_sublates_E_ch0062_リーナ_says_世界の自由_p2323_量子力学・多世界解釈|多世界解釈への止揚]]
 
 <!-- AUTO:END -->
 
 <!-- AUTO-REL:BEGIN -->
 ## 関係キャラクター
 
+- [[E_char_アキラ|アキラ]] — 関連(受)（3 観測）
 - [[E_char_ミルーニャ|ミルーニャ]] — 関連(受)（3 観測）
+- [[E_char_アズーリア|アズーリア]] — 尋ねる（3 観測）
 - [[E_char_アキラ|アキラ]] — 尋ねる（2 観測）
 
 <!-- AUTO-REL:END -->
