@@ -28,7 +28,3 @@ description: 本作の多層アナロジー（引喩・神話参照・展開の�
 - 本Wikiの大半の記述は **LLM による自動抽出・自動審査（llm_verified）** です。人間レビュー済み（human_verified）への昇格が進行中で、frontmatter の `review_status` に区別が記録されています
 - 原文のネタバレを大量に含むため、**原作未読の方は読まないでください**
 - 本Wikiは非公式のファンWikiです。原作の著作権は原作者に帰属します
-
-```meta
-publish: true
-```

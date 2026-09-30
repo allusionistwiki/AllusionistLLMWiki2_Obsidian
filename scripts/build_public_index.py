@@ -186,7 +186,6 @@ def main() -> None:
                  "人間レビュー済み（human_verified）への昇格が進行中で、frontmatter の `review_status` に区別が記録されています")
     lines.append("- 原文のネタバレを大量に含むため、**原作未読の方は読まないでください**")
     lines.append("- 本Wikiは非公式のファンWikiです。原作の著作権は原作者に帰属します\n")
-    lines.append("```meta\npublish: true\n```")
     (WIKI / "index.md").write_text("\n".join(lines), encoding="utf-8")
 
     print(f"生成: index.md, chapters/ {n_ch}+1 ページ, 節インデックス 3 ページ")
