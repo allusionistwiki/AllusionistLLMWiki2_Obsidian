@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_監視社会とプライバシー
+title: 監視とプライバシー
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

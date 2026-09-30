@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0030_analogous_to_E_ch0030_アズーリア_thinks_儀式の虚しさ_p1267_労働の疎外
-title: "儀式を「無駄な労働」と感じ、退屈するアズーリアの心理は、現代社会における労働の疎外感と共鳴する"
+title: 儀式の虚しさと労働の疎外感
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_アズーリア_thinks_儀式の虚しさ_p1267]]"

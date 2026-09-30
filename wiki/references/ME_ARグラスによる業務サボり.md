@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_ARグラスによる業務サボり
+title: ARグラス業務怠慢
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

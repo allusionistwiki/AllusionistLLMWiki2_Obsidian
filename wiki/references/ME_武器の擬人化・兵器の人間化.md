@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_武器の擬人化・兵器の人間化
+title: 兵器の人間化
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

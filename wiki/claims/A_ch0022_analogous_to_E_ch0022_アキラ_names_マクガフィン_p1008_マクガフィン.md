@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0022_analogous_to_E_ch0022_アキラ_names_マクガフィン_p1008_マクガフィン
-title: "アキラは自身を物語の核心ではなく、登場人物を動かすための単なる装置（マクガフィン）としてメタ的に定義している"
+title: マクガフィンへの主人公定義
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_アキラ_names_マクガフィン_p1008]]"

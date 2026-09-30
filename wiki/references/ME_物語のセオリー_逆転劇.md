@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_物語のセオリー_逆転劇
+title: 物語のセオリー
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

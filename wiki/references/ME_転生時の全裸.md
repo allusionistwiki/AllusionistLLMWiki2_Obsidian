@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_転生時の全裸
+title: 転生時の全裸
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

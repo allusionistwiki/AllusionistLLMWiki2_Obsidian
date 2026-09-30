@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0018_analogous_to_E_ch0018_キロン_uses_射影聖遺物_p815_宗教画・聖像の権威
-title: "「翼無きレメスの苦悶」という聖遺物の名称と、その効果（天からの光の雨）は、宗教画における聖人の殉教や神の裁きの描写を模し、宗教…"
+title: 宗教画と聖像の権威
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_キロン_uses_射影聖遺物_p815]]"

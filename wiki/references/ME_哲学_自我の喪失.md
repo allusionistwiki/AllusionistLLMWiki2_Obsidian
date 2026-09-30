@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_哲学_自我の喪失
+title: 自我の喪失
 type: external_reference
 created: "2026-09-30"
 subtype: philosophy

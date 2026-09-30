@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0020_alludes_to_E_ch0020_トリシューラ_other_アキラの人格_p898_ship_of_theseus
-title: "記憶と感情制御を失った人間が「元の人格」と同一か否かを問うトリシューラの論理は、テセウスの船の悖論（構成要素がすべて入れ替わっ…"
+title: テセウスの船の暗喩
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_トリシューラ_other_アキラの人格_p898]]"

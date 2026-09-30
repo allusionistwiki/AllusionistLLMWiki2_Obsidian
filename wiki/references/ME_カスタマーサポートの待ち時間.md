@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_カスタマーサポートの待ち時間
+title: サポート待ち時間
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

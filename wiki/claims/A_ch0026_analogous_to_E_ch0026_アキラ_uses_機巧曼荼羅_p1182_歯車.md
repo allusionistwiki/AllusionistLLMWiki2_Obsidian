@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_アキラ_uses_機巧曼荼羅_p1182_歯車
-title: "「機巧曼荼羅」の中心にある「歯車」は、機械的な動力伝達を象徴し、呪術的な曼荼羅の構造と融合している"
+title: 歯車と曼荼羅の融合
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_機巧曼荼羅_p1182]]"

@@ -98,13 +98,15 @@ def read_claims() -> list[dict]:
         ch = re.search(r"ch(\d{4})", md.stem)
         pred = re.search(r"^predicate: (\S+)", front, re.M)
         obj = re.search(r"^object: \"?\[\[ME_([^\]]+)\]\]", front, re.M)
-        title = re.search(r"^# (.+)$", body, re.M)
+        h1 = re.search(r"^# (.+)$", body, re.M)
+        ft = re.search(r'^title: "?([^"\n]+)"?$', front, re.M)
         out.append({
             "name": md.stem,
             "ch": f"ch{ch.group(1)}" if ch else "ch????",
             "predicate": pred.group(1) if pred else "",
             "me": obj.group(1) if obj else "",
-            "title": title.group(1).strip() if title else md.stem,
+            # 一覧は frontmatter title（短題）、無ければ H1
+            "title": ft.group(1).strip() if ft else (h1.group(1).strip() if h1 else md.stem),
         })
     return out
 
@@ -118,10 +120,11 @@ def read_mysteries() -> list[dict]:
         # timeline: 配下（インデントあり）とトップレベル両対応
         intro = re.search(r"^\s*introduced:\s*(ch\d{4})", front, re.M)
         title = re.search(r"^# (.+)$", body, re.M)
+        ft = re.search(r'^title: "?([^"\n]+)"?$', front, re.M)
         out.append({
             "name": md.stem,
             "ch": intro.group(1) if intro else "ch????",
-            "title": title.group(1).strip() if title else md.stem,
+            "title": ft.group(1).strip() if ft else (title.group(1).strip() if title else md.stem),
         })
     return out
 
@@ -131,9 +134,12 @@ def read_refs() -> list[dict]:
     for md in sorted((WIKI / "references").rglob("*.md")):
         if md.name == "index.md":
             continue
-        title = re.search(r"^# (.+)$", md.read_text(encoding="utf-8"), re.M)
+        content = md.read_text(encoding="utf-8")
+        front, body = split_front(content)
+        title = re.search(r"^# (.+)$", body, re.M)
+        ft = re.search(r'^title: "?([^"\n]+)"?$', front, re.M)
         out.append({"name": md.stem,
-                    "title": title.group(1).strip() if title else md.stem})
+                    "title": ft.group(1).strip() if ft else (title.group(1).strip() if title else md.stem)})
     return out
 
 

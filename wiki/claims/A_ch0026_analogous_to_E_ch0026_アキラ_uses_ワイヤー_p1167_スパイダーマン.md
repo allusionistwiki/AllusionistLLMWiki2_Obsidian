@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_アキラ_uses_ワイヤー_p1167_スパイダーマン
-title: "左腕からワイヤーを伸ばして建造物に巻き付け上昇する動作は、スパイダーマンのウェブシューティングを想起させる"
+title: スパイダーマンのウェブ
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_ワイヤー_p1167]]"

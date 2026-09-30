@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_flees_null_p1208_組織の意向
-title: "ベアトリーチェが「上層の意向」を理由に退去するのは、組織の階層構造や命令系統に従う兵士・幹部の行動原理を模している"
+title: 組織命令系統に従う撤退
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_flees_null_p1208]]"

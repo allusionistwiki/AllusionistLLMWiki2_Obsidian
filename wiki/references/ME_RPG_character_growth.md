@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_RPG_character_growth
+title: RPGキャラ成長
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

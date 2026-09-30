@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0027_inverts_E_ch0027_アキラ_promises_使い魔としての従属_p1219_Familiar_contract
-title: "一般的なファンタジーにおける「使い魔」は主人に仕える存在だが、ここではアキラがトリシューラに「使い倒せ」と自らを捧げることで…"
+title: 使い魔契約の権力勾配逆転
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0027_アキラ_promises_使い魔としての従属_p1219]]"

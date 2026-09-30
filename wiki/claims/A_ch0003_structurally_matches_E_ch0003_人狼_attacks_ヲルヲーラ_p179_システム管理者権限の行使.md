@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0003_structurally_matches_E_ch0003_人狼_attacks_ヲルヲーラ_p179_システム管理者権限の行使
-title: "ヲルヲーラが「新世界の秩序」を称し、それに歯向かう者を排除する展開は、ゲームサーバーの管理者（GM）による秩序維持権限や、シス…"
+title: 管理者権限の絶対的行使
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0003_人狼_attacks_ヲルヲーラ_p179]]"

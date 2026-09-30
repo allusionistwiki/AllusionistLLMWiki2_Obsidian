@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_Economic_Value_Exchange
+title: 経済的価値交換
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

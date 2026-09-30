@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0020_analogous_to_E_ch0020_トリシューラ_other_紙幣_p878_fiat_currency
-title: "紙幣の価値を呪術で保証し、その価値が回路のように循環するという描写は、法定通貨（フィアット・マネー）の信用創造と経済循環のメカ…"
+title: 法定通貨の呪術的可視化
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_トリシューラ_other_紙幣_p878]]"

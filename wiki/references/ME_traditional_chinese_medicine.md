@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_traditional_chinese_medicine
+title: 漢方医学
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

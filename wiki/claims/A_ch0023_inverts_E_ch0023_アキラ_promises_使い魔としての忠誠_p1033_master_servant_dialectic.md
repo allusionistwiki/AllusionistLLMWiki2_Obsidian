@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0023_inverts_E_ch0023_アキラ_promises_使い魔としての忠誠_p1033_master_servant_dialectic
-title: "「人同然の道具」が「道具同然の人」を使うという構図は、ヘーゲルの主奴弁証法における主従関係の逆転を、人間とAI（機械）の関係に…"
+title: 主奴弁証法の逆転適用
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0023_アキラ_promises_使い魔としての忠誠_p1033]]"

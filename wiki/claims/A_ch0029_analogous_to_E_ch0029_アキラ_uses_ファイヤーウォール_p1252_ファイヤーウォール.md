@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0029_analogous_to_E_ch0029_アキラ_uses_ファイヤーウォール_p1252_ファイヤーウォール
-title: "アキラが霊的侵入に対して自動的に作動し、不正アクセスをトレースして反撃する防御機能は、現代のネットワークセキュリティにおけるフ…"
+title: 霊的侵入への自動防御ファイヤーウォール
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_アキラ_uses_ファイヤーウォール_p1252]]"

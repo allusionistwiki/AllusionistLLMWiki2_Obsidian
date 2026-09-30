@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0001_analogous_to_E_ch0001_アキラ_activates_サイバーカラテ道場_p9_AR格闘ゲーム
-title: "視界にデフォルメされた人体が投影され、「GOOD!」などの文字が表示される戦闘描写は、AR技術を用いた格闘ゲームやフィットネス…"
+title: AR格闘ゲームUIを模した戦闘描写
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_activates_サイバーカラテ道場_p9]]"

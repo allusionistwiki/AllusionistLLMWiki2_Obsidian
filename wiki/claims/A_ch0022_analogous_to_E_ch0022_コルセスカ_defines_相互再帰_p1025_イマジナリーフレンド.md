@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0022_analogous_to_E_ch0022_コルセスカ_defines_相互再帰_p1025_イマジナリーフレンド
-title: "コルセスカとトリシューラは、互いが互いの想像上の存在（イマジナリーフレンド）であるという相互再帰的な関係性として定義されている"
+title: イマジナリーフレンドへの相互再帰
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_コルセスカ_defines_相互再帰_p1025]]"

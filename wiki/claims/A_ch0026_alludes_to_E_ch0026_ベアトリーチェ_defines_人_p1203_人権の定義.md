@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_defines_人_p1203_人権の定義
-title: "「人」の定義が多様すぎて構造的な宿痾であるという指摘は、現代社会における人権の定義やアイデンティティの境界線の曖昧さを反映して…"
+title: 曖昧な人権の境界線
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_defines_人_p1203]]"

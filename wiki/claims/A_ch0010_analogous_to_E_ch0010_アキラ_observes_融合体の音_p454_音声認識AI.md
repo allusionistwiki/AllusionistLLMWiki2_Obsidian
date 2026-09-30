@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0010_analogous_to_E_ch0010_アキラ_observes_融合体の音_p454_音声認識AI
-title: "アキラが聴覚を鋭敏にし、ノイズを排除して個々の音にタグ付けしグループ分けする行為は、現代の音声認識AIやノイズキャンセリング技…"
+title: 音声認識AIのアルゴリズム
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_アキラ_observes_融合体の音_p454]]"

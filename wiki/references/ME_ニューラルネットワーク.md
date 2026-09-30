@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_ニューラルネットワーク
+title: ニューラルネットワーク
 type: external_reference
 created: "2026-09-30"
 subtype: internet_culture

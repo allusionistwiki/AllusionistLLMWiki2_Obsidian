@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0025_analogous_to_E_ch0025_歌姫_appears_大型ディスプレイ_p1155_アイドル
-title: "歌姫の登場が「偶像」としての信仰対象となり、キロンの物語（英雄性）を「アイドルのステージ（エンターテインメント）」へと書き換え…"
+title: アイドルへの英雄性エンタメ変換
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_歌姫_appears_大型ディスプレイ_p1155]]"

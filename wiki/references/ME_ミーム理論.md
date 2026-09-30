@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_ミーム理論
+title: ミーム理論
 type: external_reference
 created: "2026-09-30"
 subtype: internet_culture

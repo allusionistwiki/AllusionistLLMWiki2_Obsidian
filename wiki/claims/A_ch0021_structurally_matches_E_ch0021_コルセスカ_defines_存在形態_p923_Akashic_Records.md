@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0021_structurally_matches_E_ch0021_コルセスカ_defines_存在形態_p923_Akashic_Records
-title: "コルセスカがアカシックレコードに記述されることで実体を持つと語るのは、物語の記述（データ）が物理的実体より優先されるというメタ…"
+title: アカシックレコードへの記述実体化
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_コルセスカ_defines_存在形態_p923]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0012_alludes_to_E_ch0012_トリシューラ_defines_不死_p513_ship_of_theseus
-title: "トリシューラの不死が「再現性」であり身体をスペアに取替えるという設定は、ハードウェアの交換可能性を通じて自己同一性を維持するア…"
+title: テセウスの船による不死の定義
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_defines_不死_p513]]"

@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_MMORPGのパーティ構成
+title: MMOパーティ構成
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

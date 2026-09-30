@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_無限ループ
-title: "黒槍の能力が「AとA'」の同一性によって無限ループに陥る様子は、コンピュータの論理エラーや無限ループを模している"
+title: 論理エラーの無限ループ
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_キロン_uses_自殺の黒槍_p1192]]"

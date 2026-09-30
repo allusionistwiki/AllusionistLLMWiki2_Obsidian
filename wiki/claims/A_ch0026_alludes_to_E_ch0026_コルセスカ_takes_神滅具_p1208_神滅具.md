@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_コルセスカ_takes_神滅具_p1208_神滅具
-title: "「神滅具」という用語は、神話における神を殺す武器（例：北欧神話の武器など）を指すファンタジー用語である"
+title: 神殺しの武器としての神滅具
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_コルセスカ_takes_神滅具_p1208]]"

@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_magic_vs_science
+title: 魔術と科学
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

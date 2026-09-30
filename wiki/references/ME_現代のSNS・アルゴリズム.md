@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_現代のSNS・アルゴリズム
+title: SNSアルゴリズム
 type: external_reference
 created: "2026-09-30"
 subtype: internet_culture

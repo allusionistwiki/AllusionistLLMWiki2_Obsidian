@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_カードゲーム_デッキ構築
+title: カードゲームのデッキ構築
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

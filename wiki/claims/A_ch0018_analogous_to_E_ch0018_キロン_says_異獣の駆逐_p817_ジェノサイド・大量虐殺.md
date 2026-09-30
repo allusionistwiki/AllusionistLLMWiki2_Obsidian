@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0018_analogous_to_E_ch0018_キロン_says_異獣の駆逐_p817_ジェノサイド・大量虐殺
-title: "キロンが「穢れた異獣は全て駆逐する」と宣言し、無関係な住人まで巻き込む様子は、歴史上のジェノサイド（大量虐殺）における「浄化」…"
+title: ジェノサイドの浄化論理の模倣
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_キロン_says_異獣の駆逐_p817]]"

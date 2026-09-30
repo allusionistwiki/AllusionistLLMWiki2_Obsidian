@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_監視社会
+title: 監視社会
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

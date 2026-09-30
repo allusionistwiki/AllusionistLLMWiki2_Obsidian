@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_performative_ritual
+title: 儀礼的遂行
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

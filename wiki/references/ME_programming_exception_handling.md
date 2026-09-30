@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_programming_exception_handling
+title: 例外処理
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0012_analogous_to_E_ch0012_アキラ_uses_盤外の夜_p548_game_ai
-title: "アキラが起動するゲーミングアプリ『盤外の夜』は、現実のゲームAIや最適化アルゴリズムを指し、異世界における「チート」が技術的な…"
+title: ゲームAIによるチートの技術化
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_アキラ_uses_盤外の夜_p548]]"

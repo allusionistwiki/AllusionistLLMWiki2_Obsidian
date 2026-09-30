@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_軍事技術_衝角戦術
+title: 衝角戦術
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

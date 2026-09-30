@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0024_analogous_to_E_ch0024_トリシューラ_gives_カプセル剤_p1086_ゲームのバフアイテム
-title: "トリシューラが渡す「王獣カッサリオの骨」等を含むカプセル剤は、戦闘前に服用することで肉体を戦闘モードに切り替える「安全装置」で…"
+title: ゲームバフアイテムへの戦闘前服用
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_トリシューラ_gives_カプセル剤_p1086]]"

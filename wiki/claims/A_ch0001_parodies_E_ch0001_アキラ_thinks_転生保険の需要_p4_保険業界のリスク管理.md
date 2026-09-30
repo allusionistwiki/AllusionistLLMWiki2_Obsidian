@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0001_parodies_E_ch0001_アキラ_thinks_転生保険の需要_p4_保険業界のリスク管理
-title: "異世界転生を「保険商品」として捉え、顧客のリスク許容度（安全派vsハード派）に基づいたマーケティング戦略を風刺している"
+title: 転生を保険商品とするリスク管理風刺
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_says_悲惨な異世界への希望_p4]]"

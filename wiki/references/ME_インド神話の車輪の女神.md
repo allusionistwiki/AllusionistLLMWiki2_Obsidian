@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_インド神話の車輪の女神
+title: 車輪の女神
 type: external_reference
 created: "2026-09-30"
 subtype: mythology

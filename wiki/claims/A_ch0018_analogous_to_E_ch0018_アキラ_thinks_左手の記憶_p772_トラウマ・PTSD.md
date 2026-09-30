@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0018_analogous_to_E_ch0018_アキラ_thinks_左手の記憶_p772_トラウマ・PTSD
-title: "アキラが「色のない左手」を差し伸べられた記憶を運命の決定要因として反芻する描写は、PTSD（心的外傷後ストレス障害）におけるフ…"
+title: PTSDフラッシュバックによる行動決定
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_アキラ_thinks_左手の記憶_p772]]"

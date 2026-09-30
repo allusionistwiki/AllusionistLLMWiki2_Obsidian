@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラへの評価_p283_動物の調教
-title: "アキラを「獣」と評し「躾けて調教する」と独白することは、人間を動物として扱い、支配・訓練しようとする権力構造（調教）を暗示して…"
+title: 動物の調教による支配構造
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_アキラへの評価_p283]]"

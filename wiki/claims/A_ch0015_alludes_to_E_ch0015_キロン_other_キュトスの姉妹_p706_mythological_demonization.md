@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0015_alludes_to_E_ch0015_キロン_other_キュトスの姉妹_p706_mythological_demonization
-title: "キロンの論理は、トリシューラを「邪神の末裔」として神話的に悪魔化し、宗教的・神話的権威によって排除しようとする構造を指している"
+title: 神話的悪魔化による排除
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_キロン_other_キュトスの姉妹_p706]]"

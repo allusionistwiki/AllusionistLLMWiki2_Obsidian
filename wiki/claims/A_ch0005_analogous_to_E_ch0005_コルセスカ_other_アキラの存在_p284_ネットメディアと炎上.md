@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの存在_p284_ネットメディアと炎上
-title: "アキラの存在がネットメディアで発表され、取材が殺到する描写は、現代のネットニュース、SNSでの拡散、および「炎上」や「注目」の…"
+title: ネットメディア・炎上構造の模倣
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_アキラの存在_p284]]"

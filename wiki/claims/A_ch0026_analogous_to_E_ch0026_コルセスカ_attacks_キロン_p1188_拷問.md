@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_コルセスカ_attacks_キロン_p1188_拷問
-title: "主観時間を加速させて苦痛を無限に引き延ばす行為は、物理的な破壊ではなく精神的・時間的な拷問として機能している"
+title: 主観時間加速による精神的拷問
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_コルセスカ_attacks_キロン_p1188]]"

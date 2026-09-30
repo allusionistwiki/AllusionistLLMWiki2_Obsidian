@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_物理インターフェース_p525_performative_ritual
-title: "必要のない物理的な打鍵や操作を「それっぽい」行為として行うことは、形式主義や儀礼的な行為が人間性（または社会性）を担保するとい…"
+title: 儀礼的遂行による人間性担保
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_uses_物理インターフェース_p525]]"

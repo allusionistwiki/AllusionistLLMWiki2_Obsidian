@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_精神医学_PTSD_幻視
+title: PTSDと幻視
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

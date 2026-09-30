@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_宗教的儀礼の形式主義
+title: 儀礼の形式主義
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

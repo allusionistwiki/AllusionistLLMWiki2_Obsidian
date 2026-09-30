@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_選択と選定
+title: 選択と選定
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

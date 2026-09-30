@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0009_analogous_to_E_ch0009_アキラ_other_斧_p428_スマホゲームの弾道予報アプリ
-title: "戦闘における投擲の精度は、ユーザー評価星五つの優良アプリによるアルゴリズム的な補正によって担保されている"
+title: 弾道予報アプリの補正
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_アキラ_other_斧_p428]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0016_foreshadows_E_ch0016_キロン_says_アキラへの恩義_p728_転生者_親友
-title: "キロンがアキラを「親友を送ってくれた恩人」と呼ぶことは、アキラが過去にキロンの親友（異獣化前の存在）を救ったという過去イベント…"
+title: 転生者の親友という伏線
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0016_キロン_says_アキラへの恩義_p728]]"

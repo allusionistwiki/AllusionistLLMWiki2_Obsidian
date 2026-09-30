@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0002_analogous_to_E_ch0002_アズーリア_confesses_捨て石_p118_utilitarianism
-title: "アズーリアが仲間の死を「捨て石」として許容し、責任を自覚しつつも任務を遂行する姿勢は、功利主義的な軍事的判断と、その倫理的葛藤…"
+title: 仲間を捨て石とする功利主義的葛藤
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_アズーリア_confesses_捨て石_p118]]"

@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_人工知能と魂の定義
+title: AIと魂の定義
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

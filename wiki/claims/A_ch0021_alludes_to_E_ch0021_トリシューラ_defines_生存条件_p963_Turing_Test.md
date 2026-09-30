@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0021_alludes_to_E_ch0021_トリシューラ_defines_生存条件_p963_Turing_Test
-title: "トリシューラの存在証明が「知性があるか」という問いに帰結し、それが生存とイコールであるという設定は、人工知能が人間と区別可能か…"
+title: チューリングテストへの生存条件転生
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_トリシューラ_defines_生存条件_p963]]"

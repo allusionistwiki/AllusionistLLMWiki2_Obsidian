@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0011_analogous_to_E_ch0011_転生保険_defines_転生保証_p478_転生保険
-title: "異世界転生というファンタジー要素を、現実の保険商品（特に生命保険や年金）の構造、加入格差、および「選択肢の不在」を批判する社会…"
+title: 転生保険の社会制度パロディ
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0011_転生保険_defines_転生保証_p478]]"

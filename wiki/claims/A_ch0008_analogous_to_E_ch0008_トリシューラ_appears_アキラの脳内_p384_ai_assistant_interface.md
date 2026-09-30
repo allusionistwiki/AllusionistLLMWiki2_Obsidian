@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0008_analogous_to_E_ch0008_トリシューラ_appears_アキラの脳内_p384_ai_assistant_interface
-title: "トリシューラがアキラの脳内に音声とテキストで直接語りかけ、視覚情報を共有し、思考を覗き込む様子は、現代のAIアシスタントや脳-…"
+title: 脳内AIアシスタント
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_トリシューラ_appears_アキラの脳内_p384]]"

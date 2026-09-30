@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_格闘ゲーム_入力コマンド
+title: 格ゲー入力演出
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

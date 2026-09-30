@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0028_analogous_to_E_ch0028_アキラ_kills_抹消決定_p1239_行政による強制抹消
-title: "アキラによる「抹消決定」は、超常現象を事務手続きとして処理し、組織の論理によって個人の存在を合法的に消去する官僚制的暴力の比喩…"
+title: 官僚制による存在抹消の比喩
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0028_アキラ_kills_抹消決定_p1239]]"

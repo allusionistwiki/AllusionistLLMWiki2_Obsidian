@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_fiat_currency_meme
+title: 法定通貨ミーム
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

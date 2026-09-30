@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_スマホの地図アプリ
+title: 地図アプリ
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

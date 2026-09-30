@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0024_analogous_to_E_ch0024_アキラ_uses_熱学発勁_p1129_ナノテクノロジーとメタマテリアル
-title: "左手の義肢が「負の屈折率を持つ左手系メタマテリアル」を用い、「熱フォノン」を制御して破壊を行うという説明は、現代のナノテクノロ…"
+title: ナノテク・メタマテリアルへの熱制御転用
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_アキラ_uses_熱学発勁_p1129]]"

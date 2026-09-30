@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_生物兵器の倫理
+title: 生物兵器
 type: external_reference
 created: "2026-09-30"
 subtype: philosophy

@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_社会制度による個人の圧殺
+title: 社会による圧殺
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture

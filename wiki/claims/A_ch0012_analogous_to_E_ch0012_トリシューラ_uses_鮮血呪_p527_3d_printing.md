@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_鮮血呪_p527_3d_printing
-title: "模型を本物に置き換える呪術は、シミュレーション（模型）と実体（本物）の境界を消去するメタフィクション的な技術であり、記号が実体…"
+title: 3Dプリント的記号実体化
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_uses_鮮血呪_p527]]"

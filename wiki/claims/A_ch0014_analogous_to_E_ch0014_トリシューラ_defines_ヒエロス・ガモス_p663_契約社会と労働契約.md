@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0014_analogous_to_E_ch0014_トリシューラ_defines_ヒエロス・ガモス_p663_契約社会と労働契約
-title: "「聖婚」という宗教的・魔術的な契約形式を、雇用契約やパートナーシップ契約の比喩として用い、「いつでも破棄できる」という現代的な…"
+title: 契約社会と労働契約
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0014_トリシューラ_defines_ヒエロス・ガモス_p663]]"

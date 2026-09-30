@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0002_analogous_to_E_ch0002_世界槍_defines_階層構造_p158_dungeon_structure
-title: "世界槍が地上と地獄を繋ぎ、内部に空間を折り畳み、掌握者のイメージで構造が決まるという設定は、ゲーム的な「迷宮（ダンジョン）」の…"
+title: ダンジョン構造の物理再定義
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_世界槍_defines_階層構造_p158]]"

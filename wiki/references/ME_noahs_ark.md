@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: ME_noahs_ark
+title: ノアの方舟
 type: external_reference
 created: "2026-09-30"
 subtype: popular_culture
