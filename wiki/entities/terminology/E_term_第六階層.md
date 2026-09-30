@@ -1,0 +1,30 @@
+---
+schema_version: "5.1"
+id: E_term_第六階層
+type: entity
+subtype: terminology
+canonical_name: 第六階層
+first_appearance: ch0005
+spoiler_after: ch0005
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 第六階層
+
+迷宮『世界槍』の階層の一つであり、アキラが北側の階段から向かう場所である。複合種や狂怖種の性質がバラバラで対策が探り出しであり、迷宮自体も変動するため攻略の最適化が困難とされる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0005 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 北側の階段から下へ向かう。（ch0005）
+> 第六階層の本当の危険性は攻略の最適化ができない所にある。 複合種――そしてその上位種である狂怖種には、決まった性質が コンプレックス ホラー 無い。全ての個体がばらばらで、効果的な対策方法などをその場その場で探り出していくしかできないのだ。（ch0053）
+
+## 関連クレーム
+
+- [[A_ch0053_analogous_to_E_ch0053_第六階層_has_property_最適化不能_p2067_agile_software_development|アジャイル開発への適応的比喩]]
+
+<!-- AUTO:END -->

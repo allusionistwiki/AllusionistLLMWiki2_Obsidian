@@ -16,7 +16,7 @@ created: "2026-09-30"
 西北人と兎の混血であり、【夜の民】の呪文構成について説く人物である。アズーリアとペイルの間で金箒花の採取量を競う勝負を提案し、独角兎【アルミラージ】を召喚するなどの魔術的知識を持つ。
 
 <!-- AUTO:BEGIN -->
-**初出**: ch0034 ｜ **観測イベント**: 18 件（6 話に出現）
+**初出**: ch0034 ｜ **観測イベント**: 23 件（9 話に出現）
 
 ## 代表引用
 
@@ -35,5 +35,10 @@ created: "2026-09-30"
 - [[A_ch0035_structurally_matches_E_ch0035_ハルベルト_other_アストラル界_p1438_GUI_TUI|GUIとTUIの呪術界対比]]
 - [[A_ch0036_alludes_to_E_ch0036_ハルベルト_reveals_キュトスの姉妹の候補者_p1515_アイドルグループのメンバー選抜|アイドル選抜プロセスの暗喩]]
 - [[A_ch0039_alludes_to_E_ch0039_ハルベルト_defines_絶対言語_p1739_esperanto|エスペラント的普遍言語理想]]
+- [[A_ch0045_alludes_to_E_ch0045_ハルベルト_says_ヴァニタス_p1866_vanitas_art_history|虚しさ寓意画ヴァニタス]]
+- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_makes_家ルキー妖精_p1916_smart_home_automation|スマートホームの魔法版]]
+- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_heidegger_ontology|ハイデガー存在論の呪術化]]
+- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_jacques_derrida_différance|デリダの差延の引用]]
+- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_semantic_delay|意味の遅延と処理速度]]
 
 <!-- AUTO:END -->

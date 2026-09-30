@@ -1,0 +1,30 @@
+---
+schema_version: "5.1"
+id: E_term_浄界
+type: entity
+subtype: terminology
+canonical_name: 浄界
+first_appearance: ch0045
+spoiler_after: ch0045
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 浄界
+
+邪視の奥義によって世界が書き換えられた状態であり、生者が死者となり太陽が月に喰われ、四つの月が輝く漆黒の空の世界である。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0045 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 「【浄界】――ヴァニタス・ヴァニタートゥム」直後、世界が一変した。（ch0045）
+> 生者は死者となり、美しい街並みは朽ち果てていく。色褪せた世界から音が消え、太陽が月に喰われて歪な光が辺りに満ちる。（ch0045）
+
+## 関連クレーム
+
+- [[A_ch0045_structurally_matches_E_ch0045_ガルズ_activates_浄界_p1875_augmented_reality|拡張現実による世界改変]]
+
+<!-- AUTO:END -->

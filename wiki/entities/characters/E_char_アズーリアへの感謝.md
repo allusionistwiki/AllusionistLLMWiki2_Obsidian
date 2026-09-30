@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_char_アズーリアへの感謝
+type: entity
+subtype: character
+canonical_name: アズーリアへの感謝
+first_appearance: ch0017
+spoiler_after: ch0017
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# アズーリアへの感謝
+
+クロウサーからの恨みに関する質問に対し、アズーリアがいなければ今の自分はないと記された深い感謝の念である。リーナが父の仇討ちや姉ミルーニャの件を含めてアズーリアに感謝を述べる場面にも現れる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0017 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> その思い込みを指摘して、どこに行けばいいのかも分からず混乱する私に指針を示してくれたのが、その人です。（ch0017）
+> 「お父さんの仇とってくれて、ありがとね。それからお姉ちゃんの事も」（ch0048）
+
+<!-- AUTO:END -->

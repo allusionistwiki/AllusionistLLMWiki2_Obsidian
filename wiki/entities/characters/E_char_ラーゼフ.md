@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_char_ラーゼフ
+type: entity
+subtype: character
+canonical_name: ラーゼフ
+first_appearance: ch0043
+spoiler_after: ch0043
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# ラーゼフ
+
+アズーリアの私闘を訓練の一環であり戦力向上に成功したと釈明する人物である。裏切れば蛙になるという呪詛をかけると確約させられる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0043 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「あれはあくまで訓練の一環であり、その結果として戦力の向上に成功しております。ここにいるハルベルト殿の教導官としての腕前は確か。（ch0043）
+> 「ハルがさせない。ラーゼフにも確約させた。破ったら親類縁者含めて蛙になる呪詛をかけておいたので、裏切りは無いと思っていい」（ch0046）
+
+<!-- AUTO:END -->
