@@ -2,6 +2,15 @@
 title: 関係性マップ
 id: relationships/index
 description: キャラ間の関係をイベント観測から集約。右のグラフが関係マップ
+graph:
+  local:
+    depth: 4
+    labelPrefixes:
+      - entities/characters/
+  global:
+    depth: 4
+    labelPrefixes:
+      - entities/characters/
 ---
 
 # 関係性マップ

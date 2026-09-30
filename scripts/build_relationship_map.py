@@ -143,7 +143,17 @@ def main() -> None:
                          f" — {pj}、計 {total} 観測")
 
     doc = ["---", "title: 関係性マップ", "id: relationships/index",
-           "description: キャラ間の関係をイベント観測から集約。右のグラフが関係マップ", "---", "",
+           "description: キャラ間の関係をイベント観測から集約。右のグラフが関係マップ",
+           "graph:",
+           "  local:",
+           "    depth: 4",
+           "    labelPrefixes:",
+           "      - entities/characters/",
+           "  global:",
+           "    depth: 4",
+           "    labelPrefixes:",
+           "      - entities/characters/",
+           "---", "",
            "# 関係性マップ", "",
            f"イベント観測（{sum(edges.values())} 三つ組）から、相互に {MIN_EDGE} 回以上観測された"
            f"キャラ間関係を上位 {len(scored)} 件。各キャラページに「関係キャラクター」を注入したため、"
