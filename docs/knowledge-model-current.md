@@ -88,12 +88,15 @@ wiki/**.md                    … 第3層: 正規層（entity/claim/mystery/refe
 - **セッション**: `llm_session.py`（append-only 履歴、プレフィックス system→原文→変数固定）。Strata の Conversation Cache（チェックポイント方式・一度に1会話・プレフィックス完全一致）を同一章の複数タスクで活用
 - **不採用と結論したもの**: クライアント側 SQLite プロンプトキャッシュ（OpenAI 互換では messages を毎回全送するためトークン削減効果ゼロ）、定型プロンプト編集UI（Git/VS Code で代替）
 
-## 6. 人間レビューゲート（自動化の境界）
+## 6. レビューゲート（2026-09-30 改定: LLM auto-review 標準運用）
 
-- LLM 生成本文は `<!-- LLM-GENERATED -->` マーカー + `review_status: unreviewed`。承認は `review_queue.py`（`--approve` / `--file`）でのみ `human_verified` 化
-- アーク境界推定（`estimate_arcs.py` → `schemas/arc_definitions.yaml`）は人間レビュー必須
-- 統合候補（`merge_candidates`）は `review_queue.py --merges` で一覧、`--merge-approve/--merge-reject` は人間のみ。統合本体（superseded_by 書き換え）は人間作業
-- 原則: **LLM は提案・生成、人間は承認**。自動で epistemic_status を confirmed に上げる経路は存在しない
+- **標準運用**: 抽出→分析→LLM 自己審査→昇格まで自動（`scripts/pipeline.py N` が events/facts/analysis/autopilot/整形を1章で実行）。昇格物は `review_status: llm_verified`（schema 上の独立値、`human_verified` への置換対象として常に区別）
+- **人間の担当範囲（これだけ）**: 特定記事の reject / 修正指示 / 承認 / 手動追記
+  - `scripts/human_ops.py --list / --reject <file> "理由" / --revise <file> "指示" / --verify <file> / --stats`
+  - 手動追記は md 本文を直接編集。人間操作は `Work/reports/human_ops_log.md`、LLM 代替は `Work/reports/autopilot_log.md` に記録
+- 機械ゲート（人間不在でも品質を保つ層）: quote 原文照合（quote_verified）、クレーム subject の events 層実在性チェック（幻覚は自動削除・ログ記録）、lint 全通過
+- アーク境界推定（`estimate_arcs.py` → `schemas/arc_definitions.yaml`）と統合候補（`merge_candidates`）は従来どおり人間推奨（`review_queue.py`）
+- 自動で epistemic_status を confirmed に上げる経路は存在しない（auto-review は hypothesized/supported まで）
 
 ## 7. 検証体系
 
