@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0031_analogous_to_E_ch0031_アズーリア_says_鎧_p1285_外骨格Exoskeletonと身体拡張
-title: \"鎧を「もう一つの身体」として意識の隅に記憶し状況に応じて切り替える描写は、VR/ARにおけるアバターやペルソナの多重化、および…\"
+title: "鎧を「もう一つの身体」として意識の隅に記憶し状況に応じて切り替える描写は、VR/ARにおけるアバターやペルソナの多重化、および…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0031_アズーリア_says_鎧_p1285]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_names_セレクティフィレクティ_p1200_選択と選定
-title: \"「セレクティフィレクティ」という名は、ラテン語の「選択（selectio）」や「選定（electio）」を想起させ、彼女の二重…\"
+title: "「セレクティフィレクティ」という名は、ラテン語の「選択（selectio）」や「選定（electio）」を想起させ、彼女の二重…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_names_セレクティフィレクティ_p1200]]"

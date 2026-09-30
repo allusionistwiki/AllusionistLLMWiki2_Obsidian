@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_アキラ_other_コルセスカ_p1209_追跡
-title: \"アキラとトリシューラがコルセスカを追いかけるのは、追跡劇を模している\"
+title: "アキラとトリシューラがコルセスカを追いかけるのは、追跡劇を模している"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_other_コルセスカ_p1209]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0027_analogous_to_E_ch0027_第五階層_defines_強者打倒の価値_p1224_PvP_game_economy
-title: \"「強者の打倒」が通貨生成の条件となり、格下を倒すとレートが下がるというシステムは、MMORPGやPvPゲームにおける「キルボー…\"
+title: "「強者の打倒」が通貨生成の条件となり、格下を倒すとレートが下がるというシステムは、MMORPGやPvPゲームにおける「キルボー…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0027_第五階層_defines_強者打倒の価値_p1224]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0017_structurally_matches_E_ch0017_敵呪術師_transforms_物理的実体_p752_augmented_reality
-title: \"画面内のアバターが物理的な実体を得て現実世界に出現する現象は、デジタルとアナログの境界が崩壊する「バーチャルの実体化」のSF的…\"
+title: "画面内のアバターが物理的な実体を得て現実世界に出現する現象は、デジタルとアナログの境界が崩壊する「バーチャルの実体化」のSF的…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_敵呪術師_transforms_物理的実体_p752]]"

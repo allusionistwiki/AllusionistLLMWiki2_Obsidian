@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0015_inverts_E_ch0015_レオ_makes_フィランソロピー_p715_altruism_vs_utilitarianism
-title: \"レオの「見返りを求めない、拒絶されても続く施し」は、アキラが依拠してきた「効用」や「生存」を基準とした合理的判断（功利主義）を…\"
+title: "レオの「見返りを求めない、拒絶されても続く施し」は、アキラが依拠してきた「効用」や「生存」を基準とした合理的判断（功利主義）を…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_レオ_makes_フィランソロピー_p715]]"

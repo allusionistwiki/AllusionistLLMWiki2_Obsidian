@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0021_analogous_to_E_ch0021_コルセスカ_other_男性攻略_p934_Otome_Game_Mechanics
-title: \"コルセスカが男性との結婚経験や同時攻略を「百戦錬磨」「エンディング」という用語で語るのは、恋愛ゲームの攻略ルート（エンディング…\"
+title: "コルセスカが男性との結婚経験や同時攻略を「百戦錬磨」「エンディング」という用語で語るのは、恋愛ゲームの攻略ルート（エンディング…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_コルセスカ_other_男性攻略_p934]]"

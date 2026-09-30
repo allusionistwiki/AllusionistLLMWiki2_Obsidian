@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0030_analogous_to_E_ch0030_アズーリア_says_無意味な言語_p1266_宗教的儀礼の形式主義
-title: \"意味を持たない人工言語の発声は、宗教的儀礼における形式主義を象徴している\"
+title: "意味を持たない人工言語の発声は、宗教的儀礼における形式主義を象徴している"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_アズーリア_says_無意味な言語_p1266]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_アキラ_uses_氷の鏡_p1166_鏡の魔術
-title: \"氷の鏡で攻撃を跳ね返す能力は、ファンタジーにおける鏡の魔術（反射、防御）のクリシェを用いている\"
+title: "氷の鏡で攻撃を跳ね返す能力は、ファンタジーにおける鏡の魔術（反射、防御）のクリシェを用いている"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_氷の鏡_p1166]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0030_analogous_to_E_ch0030_松明の騎士団_defines_霊性複合体_p1270_軍産複合体
-title: \"松明の騎士団は、宗教的権威を装いながら実質的に巨大複合企業群と癒着する軍産複合体として描かれている\"
+title: "松明の騎士団は、宗教的権威を装いながら実質的に巨大複合企業群と癒着する軍産複合体として描かれている"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_松明の騎士団_defines_霊性複合体_p1270]]"

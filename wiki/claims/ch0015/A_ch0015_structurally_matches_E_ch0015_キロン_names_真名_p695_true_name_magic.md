@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0015_structurally_matches_E_ch0015_キロン_names_真名_p695_true_name_magic
-title: \"真名を名乗ることで物理的・精神的な支配力を行使するキロンの行為は、ファンタジーにおける「真名の力」のクリシェを、呪術的な権威の…\"
+title: "真名を名乗ることで物理的・精神的な支配力を行使するキロンの行為は、ファンタジーにおける「真名の力」のクリシェを、呪術的な権威の…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_キロン_names_真名_p695]]"

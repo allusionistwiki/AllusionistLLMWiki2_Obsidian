@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0017_parodies_E_ch0017_トリシューラ_activates_アストラル界へのダイブ_p748_hacker_movie_trope
-title: \"アストラル界への侵入描写が、映画やゲームにおける「ハッキング」のステレオタイプな視覚表現（ヘッドギア、高速打鍵、3Dマップ）を…\"
+title: "アストラル界への侵入描写が、映画やゲームにおける「ハッキング」のステレオタイプな視覚表現（ヘッドギア、高速打鍵、3Dマップ）を…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_トリシューラ_activates_アストラル界へのダイブ_p748]]"

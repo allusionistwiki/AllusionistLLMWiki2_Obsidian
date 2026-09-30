@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0022_analogous_to_E_ch0022_コルセスカ_thinks_アキラの役割_p1026_ミーム
-title: \"アキラは魔女たちの呪力や心を伝達・結合させる「ミーム（文化伝達単位）」としての機能を担っている\"
+title: "アキラは魔女たちの呪力や心を伝達・結合させる「ミーム（文化伝達単位）」としての機能を担っている"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_コルセスカ_thinks_アキラの役割_p1026]]"

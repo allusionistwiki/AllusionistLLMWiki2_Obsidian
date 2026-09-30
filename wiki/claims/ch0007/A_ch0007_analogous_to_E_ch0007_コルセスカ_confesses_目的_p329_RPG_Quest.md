@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0007_analogous_to_E_ch0007_コルセスカ_confesses_目的_p329_RPG_Quest
-title: \"「迷宮を攻略し、最深部でボス（火竜）を倒す」という目標設定は、現代のRPGやMMOにおける標準的なクエスト構造そのものである\"
+title: "「迷宮を攻略し、最深部でボス（火竜）を倒す」という目標設定は、現代のRPGやMMOにおける標準的なクエスト構造そのものである"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_コルセスカ_confesses_目的_p329]]"

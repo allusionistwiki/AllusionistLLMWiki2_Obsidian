@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0021_analogous_to_E_ch0021_コルセスカ_uses_ゲーム_p924_RPG_character_growth
-title: \"コルセスカがゲーム内のキャラクターをレベル上限まで強化し、苦手な属性の敵とも戦い続ける行為は、彼女が現実の自己をゲームのキャラ…\"
+title: "コルセスカがゲーム内のキャラクターをレベル上限まで強化し、苦手な属性の敵とも戦い続ける行為は、彼女が現実の自己をゲームのキャラ…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_コルセスカ_uses_ゲーム_p924]]"

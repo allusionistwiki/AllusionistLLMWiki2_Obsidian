@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_アキラ_uses_感情制御アプリE-E_p254_精神薬物療法と自己管理
-title: \"感情や衝動をアプリで抑制し「何も感じない夜」を過ごす描写は、現代の精神科治療における薬物療法（SSRI等）や、SNS断ち、マイ…\"
+title: "感情や衝動をアプリで抑制し「何も感じない夜」を過ごす描写は、現代の精神科治療における薬物療法（SSRI等）や、SNS断ち、マイ…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_アキラ_uses_感情制御アプリE-E_p254]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0002_analogous_to_E_ch0002_アキラ_uses_震脚_p129_martial_arts
-title: \"サイバーカラテは義肢の運用を前提とした技術体系であり、アキラが生身の脚でこれを実践することで、サイバネ技術と生身肉体の境界を越…\"
+title: "サイバーカラテは義肢の運用を前提とした技術体系であり、アキラが生身の脚でこれを実践することで、サイバネ技術と生身肉体の境界を越…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_アキラ_uses_震脚_p129]]"

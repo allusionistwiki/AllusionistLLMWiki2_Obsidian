@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0018_analogous_to_E_ch0018_アキラ_uses_E-E_p792_感情制御アプリ・SNSのフィルタリング
-title: \"【E-E】による感情の分離と客観視は、SNSでの情報フィルタリングや、感情を切り離して業務を行う現代の「感情労働」の自動化・ア…\"
+title: "【E-E】による感情の分離と客観視は、SNSでの情報フィルタリングや、感情を切り離して業務を行う現代の「感情労働」の自動化・ア…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_アキラ_uses_E-E_p792]]"

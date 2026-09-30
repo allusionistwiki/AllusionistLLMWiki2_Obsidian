@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_レオ_appears_null_p1207_猫耳少年
-title: \"レオが猫耳を動かして走る姿は、アニメ的な「猫耳少年」のクリシェを用いながら、その正体が「獅子王」であるという対比を生んでいる\"
+title: "レオが猫耳を動かして走る姿は、アニメ的な「猫耳少年」のクリシェを用いながら、その正体が「獅子王」であるという対比を生んでいる"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_レオ_appears_null_p1207]]"

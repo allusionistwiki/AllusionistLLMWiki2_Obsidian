@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0007_analogous_to_E_ch0007_トリシューラ_reveals_言語資源_p320_Machine_Translation
-title: \"「辞書やコーパスなんかの電子データをそっちの世界から送ってもらえばいい」という説明は、機械翻訳や言語資源のデジタル化によるコミ…\"
+title: "「辞書やコーパスなんかの電子データをそっちの世界から送ってもらえばいい」という説明は、機械翻訳や言語資源のデジタル化によるコミ…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_トリシューラ_reveals_言語資源_p320]]"

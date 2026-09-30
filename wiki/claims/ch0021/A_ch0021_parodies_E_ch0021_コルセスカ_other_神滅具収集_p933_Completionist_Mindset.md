@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0021_parodies_E_ch0021_コルセスカ_other_神滅具収集_p933_Completionist_Mindset
-title: \"コルセスカが神滅具を収集する動機を「因縁」ではなく「フルコンプしないと気が済まない」と定義することは、物語的な使命感をゲームの…\"
+title: "コルセスカが神滅具を収集する動機を「因縁」ではなく「フルコンプしないと気が済まない」と定義することは、物語的な使命感をゲームの…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_コルセスカ_other_神滅具収集_p933]]"

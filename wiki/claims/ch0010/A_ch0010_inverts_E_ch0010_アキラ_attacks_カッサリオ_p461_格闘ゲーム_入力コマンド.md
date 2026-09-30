@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0010_inverts_E_ch0010_アキラ_attacks_カッサリオ_p461_格闘ゲーム_入力コマンド
-title: \"サイバーカラテ道場の仮想人体に光が点灯し、「GOOOD!」「発勁用意」「DOSUKOI!」といった文字が表示される様子は、格闘…\"
+title: "サイバーカラテ道場の仮想人体に光が点灯し、「GOOOD!」「発勁用意」「DOSUKOI!」といった文字が表示される様子は、格闘…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_アキラ_attacks_カッサリオ_p461]]"

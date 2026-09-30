@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0020_structurally_matches_E_ch0020_コルセスカ_other_ゲームの公平性_p916_ai_gameplay
-title: \"コルセスカが右目の処理を自動化し、自身は情報を遮断して「公平性」を確保しようとする行為は、AIがプレイヤーの操作を代行しつつチ…\"
+title: "コルセスカが右目の処理を自動化し、自身は情報を遮断して「公平性」を確保しようとする行為は、AIがプレイヤーの操作を代行しつつチ…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_コルセスカ_other_ゲームの公平性_p916]]"

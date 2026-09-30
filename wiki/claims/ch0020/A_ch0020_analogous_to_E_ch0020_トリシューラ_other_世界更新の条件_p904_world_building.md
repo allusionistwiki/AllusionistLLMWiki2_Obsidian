@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0020_analogous_to_E_ch0020_トリシューラ_other_世界更新の条件_p904_world_building
-title: \"火竜を殺す＝世界を更新する＝法則を書き換えるという構造は、TRPGや小説における「世界設定（ワールドビルディング）」の権限をキ…\"
+title: "火竜を殺す＝世界を更新する＝法則を書き換えるという構造は、TRPGや小説における「世界設定（ワールドビルディング）」の権限をキ…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_トリシューラ_other_世界更新の条件_p904]]"

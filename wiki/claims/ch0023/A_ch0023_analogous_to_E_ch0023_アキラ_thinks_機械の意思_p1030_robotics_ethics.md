@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0023_analogous_to_E_ch0023_アキラ_thinks_機械の意思_p1030_robotics_ethics
-title: \"トリシューラの自律性は、古典的なSFにおける『ロボットの反乱』という対立構造を否定し、使用者の意図を先取りする補完的な存在とし…\"
+title: "トリシューラの自律性は、古典的なSFにおける『ロボットの反乱』という対立構造を否定し、使用者の意図を先取りする補完的な存在とし…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0023_アキラ_thinks_機械の意思_p1030]]"

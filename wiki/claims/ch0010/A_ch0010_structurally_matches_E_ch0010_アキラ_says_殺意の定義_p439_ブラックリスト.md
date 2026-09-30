@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0010_structurally_matches_E_ch0010_アキラ_says_殺意の定義_p439_ブラックリスト
-title: \"「信用が失われれば無視」「不信が蓄積すれば殺す」という二項対立は、SNSやプラットフォームにおけるユーザーのブラックリスト化（…\"
+title: "「信用が失われれば無視」「不信が蓄積すれば殺す」という二項対立は、SNSやプラットフォームにおけるユーザーのブラックリスト化（…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_アキラ_says_殺意の定義_p439]]"

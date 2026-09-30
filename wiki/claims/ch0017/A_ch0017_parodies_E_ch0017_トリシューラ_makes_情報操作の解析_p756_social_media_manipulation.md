@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0017_parodies_E_ch0017_トリシューラ_makes_情報操作の解析_p756_social_media_manipulation
-title: \"SNSでの情報拡散、アカウント作成日時、スレッドのタイミングを解析して工作を暴くプロセスは、現代のネット世論操作（アストロフィ…\"
+title: "SNSでの情報拡散、アカウント作成日時、スレッドのタイミングを解析して工作を暴くプロセスは、現代のネット世論操作（アストロフィ…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_トリシューラ_makes_情報操作の解析_p756]]"

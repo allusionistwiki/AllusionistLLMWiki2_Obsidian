@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0008_analogous_to_E_ch0008_コルセスカ_other_血液_p394_vampire_mythology
-title: \"コルセスカが敗者から血液を抜き取り、それを氷の指輪の装飾として利用する様子は、吸血鬼伝承における「血液の吸い取り」を、魔女の「…\"
+title: "コルセスカが敗者から血液を抜き取り、それを氷の指輪の装飾として利用する様子は、吸血鬼伝承における「血液の吸い取り」を、魔女の「…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_コルセスカ_other_血液_p394]]"

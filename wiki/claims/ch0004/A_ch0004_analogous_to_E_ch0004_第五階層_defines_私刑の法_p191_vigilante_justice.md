@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0004_analogous_to_E_ch0004_第五階層_defines_私刑の法_p191_vigilante_justice
-title: \"第五階層における「人狼」への私刑は、法執行機関が存在しない無政府状態における自警団活動や、群衆によるリンチの構造を反映している\"
+title: "第五階層における「人狼」への私刑は、法執行機関が存在しない無政府状態における自警団活動や、群衆によるリンチの構造を反映している"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_第五階層_defines_私刑の法_p191]]"

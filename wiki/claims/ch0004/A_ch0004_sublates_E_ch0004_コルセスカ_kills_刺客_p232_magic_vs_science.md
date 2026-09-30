@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0004_sublates_E_ch0004_コルセスカ_kills_刺客_p232_magic_vs_science
-title: \"コルセスカの氷結攻撃は、物理的な防御（硬い肌）を無視する「論理破綻」を武器とすることで、科学技術の整合性を超越する「魔術」の本…\"
+title: "コルセスカの氷結攻撃は、物理的な防御（硬い肌）を無視する「論理破綻」を武器とすることで、科学技術の整合性を超越する「魔術」の本…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_コルセスカ_kills_刺客_p232]]"

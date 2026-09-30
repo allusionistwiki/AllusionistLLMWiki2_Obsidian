@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0015_alludes_to_E_ch0015_公社_makes_新紙幣_p678_fiat_currency_meme
-title: \"紙幣が国家権力による承認を通じて文化的図像を強制し、思想を伝播させる「呪符」として機能する構造は、メディアのイデオロギー支配を…\"
+title: "紙幣が国家権力による承認を通じて文化的図像を強制し、思想を伝播させる「呪符」として機能する構造は、メディアのイデオロギー支配を…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_公社_makes_新紙幣_p678]]"

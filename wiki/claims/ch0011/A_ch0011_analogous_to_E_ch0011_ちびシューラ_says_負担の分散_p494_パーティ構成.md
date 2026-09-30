@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0011_analogous_to_E_ch0011_ちびシューラ_says_負担の分散_p494_パーティ構成
-title: \"コルセスカが仲間を増やす理由を「氷血呪の反動を分散させるため」と説明するのは、MMORPGにおけるタンクやヒーラーの役割分担…\"
+title: "コルセスカが仲間を増やす理由を「氷血呪の反動を分散させるため」と説明するのは、MMORPGにおけるタンクやヒーラーの役割分担…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0011_ちびシューラ_says_負担の分散_p494]]"

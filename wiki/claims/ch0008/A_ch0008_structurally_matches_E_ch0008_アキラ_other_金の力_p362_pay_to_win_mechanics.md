@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0008_structurally_matches_E_ch0008_アキラ_other_金の力_p362_pay_to_win_mechanics
-title: \"アキラが「俺の強さとは即ち彼らの持っていない技術によるもので、換言すると金の力だ」と述べ、高額な閃光符を惜しみなく消費する戦法…\"
+title: "アキラが「俺の強さとは即ち彼らの持っていない技術によるもので、換言すると金の力だ」と述べ、高額な閃光符を惜しみなく消費する戦法…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_アキラ_other_金の力_p362]]"

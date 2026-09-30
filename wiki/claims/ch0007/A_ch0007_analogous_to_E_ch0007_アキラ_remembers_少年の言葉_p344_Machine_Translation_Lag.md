@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0007_analogous_to_E_ch0007_アキラ_remembers_少年の言葉_p344_Machine_Translation_Lag
-title: \"過去の記憶を遡って言語が日本語に置き換わっていく現象は、リアルタイム翻訳の遅延や、後から翻訳データが適用される仕組みを想起させる\"
+title: "過去の記憶を遡って言語が日本語に置き換わっていく現象は、リアルタイム翻訳の遅延や、後から翻訳データが適用される仕組みを想起させる"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_アキラ_remembers_少年の言葉_p344]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0008_alludes_to_E_ch0008_カーイン_defines_六淫操手_p373_traditional_chinese_medicine
-title: \"カーインが「六淫（風邪、寒邪、暑邪、湿邪、燥邪、火邪）」を操作し、体内の気・血・水を調整して病を発生させるという能力は、漢方医…\"
+title: "カーインが「六淫（風邪、寒邪、暑邪、湿邪、燥邪、火邪）」を操作し、体内の気・血・水を調整して病を発生させるという能力は、漢方医…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_カーイン_defines_六淫操手_p373]]"

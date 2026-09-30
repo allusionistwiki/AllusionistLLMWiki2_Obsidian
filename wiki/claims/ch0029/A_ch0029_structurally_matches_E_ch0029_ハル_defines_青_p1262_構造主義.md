@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0029_structurally_matches_E_ch0029_ハル_defines_青_p1262_構造主義
-title: \"ハルが「青は他の色との連関（構造）によって画定される」と説くのは、言語学における構造主義（意味は要素単体ではなく、要素間の差異…\"
+title: "ハルが「青は他の色との連関（構造）によって画定される」と説くのは、言語学における構造主義（意味は要素単体ではなく、要素間の差異…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_ハル_defines_青_p1262]]"

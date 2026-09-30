@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0021_analogous_to_E_ch0021_コルセスカ_names_アキラ_p933_Gacha_Party_Building
-title: \"コルセスカがアキラを「中盤加入の暗い過去を持つ武術家キャラ」として仲間イベントのフラグと認識し、前衛強化の必要性から加入を促す…\"
+title: "コルセスカがアキラを「中盤加入の暗い過去を持つ武術家キャラ」として仲間イベントのフラグと認識し、前衛強化の必要性から加入を促す…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_コルセスカ_names_アキラ_p933]]"

@@ -27,7 +27,7 @@ def short_title(h1: str) -> str:
 def main() -> None:
     moved = 0
     titled = 0
-    for md in sorted(CLAIMS.glob("*.md")):
+    for md in sorted(CLAIMS.rglob("*.md")):
         if md.name == "index.md":
             continue
         content = md.read_text(encoding="utf-8")
@@ -42,18 +42,23 @@ def main() -> None:
         ep_dir.mkdir(exist_ok=True)
 
         # title 付与（frontmatter の id の直後に入れる）
+        front = re.sub(r'^title: \\".*?\\"\s*$', "", front, flags=re.M)  # 旧エスケープバグ行の除去
         if not re.search(r"^title:", front, re.M):
             h1 = re.search(r"^# (.+)$", body, re.M)
             title = short_title(h1.group(1)) if h1 else md.stem
-            front = re.sub(r"^(id: .*)$", rf"\1\ntitle: \"{title}\"",
+            title = title.replace('"', "'")
+            front = re.sub(r"^(id: .*)$", lambda mm: mm.group(1) + f'\ntitle: "{title}"',
                            front, count=1, flags=re.M)
             content = f"---\n{front}\n---\n{body}"
             titled += 1
+        else:
+            content = f"---\n{front}\n---\n{body}"
 
         target = ep_dir / md.name
         target.write_text(content, encoding="utf-8")
-        md.unlink()
-        moved += 1
+        if md.parent != ep_dir:
+            md.unlink()
+            moved += 1
 
     print(f"話別フォルダへ移動: {moved} 件, title 付与: {titled} 件")
 

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0007_analogous_to_E_ch0007_アキラ_activates_サイバーカラテ道場_p345_Mobile_Game_App
-title: \"「格闘動作制御アプリ」「感覚・感情制御アプリ」「索敵アプリ」という用語群は、現代のスマートフォンゲームやARアプリのインターフ…\"
+title: "「格闘動作制御アプリ」「感覚・感情制御アプリ」「索敵アプリ」という用語群は、現代のスマートフォンゲームやARアプリのインターフ…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_アキラ_activates_サイバーカラテ道場_p345]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0017_alludes_to_E_ch0017_コルセスカ_defines_ICE_p753_ice_acronym
-title: \"コルセスカの攻性防壁「ICE」は、サイバーセキュリティ用語の「Intrusion Countermeasures Electr…\"
+title: "コルセスカの攻性防壁「ICE」は、サイバーセキュリティ用語の「Intrusion Countermeasures Electr…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_コルセスカ_defines_ICE_p753]]"

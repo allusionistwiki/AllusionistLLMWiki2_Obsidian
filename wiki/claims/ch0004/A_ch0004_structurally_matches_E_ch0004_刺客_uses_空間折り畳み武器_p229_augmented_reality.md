@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0004_structurally_matches_E_ch0004_刺客_uses_空間折り畳み武器_p229_augmented_reality
-title: \"空間を折り畳み武器の質量を操作する技術は、ゲーム内の「当たり判定」と「表示」のズレを物理現象として実装したものである\"
+title: "空間を折り畳み武器の質量を操作する技術は、ゲーム内の「当たり判定」と「表示」のズレを物理現象として実装したものである"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_刺客_uses_空間折り畳み武器_p229]]"

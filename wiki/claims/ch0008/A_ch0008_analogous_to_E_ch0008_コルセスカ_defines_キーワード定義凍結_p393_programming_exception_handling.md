@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0008_analogous_to_E_ch0008_コルセスカ_defines_キーワード定義凍結_p393_programming_exception_handling
-title: \"コルセスカの「キーワード定義『凍結』\"
+title: "コルセスカの「キーワード定義『凍結』"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_コルセスカ_defines_キーワード定義凍結_p393]]"

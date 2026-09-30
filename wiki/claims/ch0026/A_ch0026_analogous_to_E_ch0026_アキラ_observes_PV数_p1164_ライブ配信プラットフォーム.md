@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_アキラ_observes_PV数_p1164_ライブ配信プラットフォーム
-title: \"戦闘が観客の投票によって勝敗が決まり、PV数が増加する様子は、現代のライブ配信やeスポーツにおける視聴者参加型コンテンツの構造…\"
+title: "戦闘が観客の投票によって勝敗が決まり、PV数が増加する様子は、現代のライブ配信やeスポーツにおける視聴者参加型コンテンツの構造…"
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_observes_PV数_p1164]]"
