@@ -1,0 +1,30 @@
+---
+schema_version: "5.1"
+id: E_char_Speaer
+type: entity
+subtype: character
+canonical_name: Speaer
+first_appearance: ch0013
+spoiler_after: ch0013
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# Speaer
+
+背の高いビルの大型ディスプレイに映し出される黒髪の歌姫である。「エスニック・ポリフォニー」という曲を歌い、レオとアキラに気に入られて購入される。魔性の歌声を響かせる存在として描かれる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0013 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 背の高いビルディング、その上の大型ディスプレイ。映し出されているのは黒髪の歌姫だ。（ch0013）
+> 今流れているナンバーは【エスニック・ポリフォニー】。美しいソプラノが混沌とした喧噪の中で、別格の存在感を持って流れていく。（ch0013）
+
+## 関連クレーム
+
+- [[A_ch0013_analogous_to_E_ch0013_Speaer_other_エスニック・ポリフォニー_p611_ワールドミュージック|ワールドミュージックの無国籍性]]
+
+<!-- AUTO:END -->

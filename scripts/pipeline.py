@@ -31,7 +31,8 @@ ROOT = Path(__file__).resolve().parent.parent
 
 def run_fixers() -> None:
     for script in ("fix_autopilot_output.py", "fix_autopilot_output2.py",
-                   "reorganize_claims.py"):
+                   "reorganize_claims.py", "shorten_titles.py", "build_entities.py",
+                   "build_relationship_map.py"):
         subprocess.run([sys.executable, f"scripts/{script}"], cwd=ROOT, check=False)
 
 

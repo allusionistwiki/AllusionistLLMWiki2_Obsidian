@@ -1,0 +1,30 @@
+---
+schema_version: "5.1"
+id: E_char_狼の王
+type: entity
+subtype: character
+canonical_name: 狼の王
+first_appearance: ch0001
+spoiler_after: ch0001
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 狼の王
+
+エスフェイルの別称であり、脚が闇のように黒く影と同化している存在として描かれる。迷宮のスタート地点で左腕を失い独りになった状態で戦い、為す術なく殺される死のループを繰り返す。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0001 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 異様だったのは、その四本の脚が、闇のように濃い黒色だったこと。 その黒い闇が、脚の下に伸びる影と完全に同化して見えたこと。（ch0001）
+> 気がつくと迷宮のスタート地点、左腕を失って独り。また迷宮を往き、狼の王と戦い、為す術も無く殺される。 死んでは繰り返し、死んでは繰り返し。（ch0006）
+
+## 関連クレーム
+
+- [[A_ch0006_analogous_to_E_ch0006_アキラ_dies_狼の王_p306_grinding|作業的戦闘の無意味さ]]
+
+<!-- AUTO:END -->

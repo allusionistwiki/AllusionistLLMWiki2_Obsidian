@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_char_トッド
+type: entity
+subtype: character
+canonical_name: トッド
+first_appearance: ch0001
+spoiler_after: ch0001
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# トッド
+
+全裸のアキラに人狼から奪った胸当てを着せるキャラクター。アキラはその胸当てに守られ、トッドの顔を破壊する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0001 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 人狼から奪った胸当てを手に持って何かを説明しようとしている。というか、俺にこれを着せようとしているのだった。（ch0001）
+> 「この胸当ては、あんたにもらったんだ」 トッドには、人狼から奪った胸当てをつけてもらったことがあった。それが今、防具としての役割を果たしていた。 右腕が閃き、トッドの顔が存在した場所から鮮血が流れていく。（ch0002）
+
+<!-- AUTO:END -->

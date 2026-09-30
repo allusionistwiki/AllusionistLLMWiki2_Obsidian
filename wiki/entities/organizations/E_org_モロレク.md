@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_org_モロレク
+type: entity
+subtype: organization
+canonical_name: モロレク
+first_appearance: ch0005
+spoiler_after: ch0005
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# モロレク
+
+第五階層に存在する犯罪組織であり、その構成員は「悪鬼」と呼ばれる。敵対する三報会と協力し、アキラを殺害するために襲撃を仕掛ける。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0005 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 悪鬼。『モロレク』という音で呼ばれる彼らは、黒い肌と矮躯、鋭い牙などを特徴とする種族であり、同時に血族集団でもある。（ch0005）
+> この二つの組織は共に俺を不倶戴天の敵と見定めているものの、それぞれ『上』と『下』ということもあって互いに敵対していた筈だ。（ch0005）
+
+<!-- AUTO:END -->

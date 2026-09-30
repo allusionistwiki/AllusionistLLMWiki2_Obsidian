@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_char_複合種
+type: entity
+subtype: character
+canonical_name: 複合種
+first_appearance: ch0009
+spoiler_after: ch0009
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 複合種
+
+第六階層特有の呪力を持つ魔将の眷属であり、アキラたちを包囲する存在である。青い血液を噴出し、その血液が融合して一つの巨大な円環（融合体）を形成し始めるという特徴を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0009 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 集結する異獣の群れが、何故か俺たちと一定の距離を保ったまま円形の包囲を崩そうとしない。（ch0009）
+> 全身から、血という血、水分という水分を絞り尽くそうとするかのように青い血が放出され、迷宮の床を染め上げていく。（ch0009）
+
+<!-- AUTO:END -->

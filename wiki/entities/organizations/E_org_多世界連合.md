@@ -1,0 +1,30 @@
+---
+schema_version: "5.1"
+id: E_org_多世界連合
+type: entity
+subtype: organization
+canonical_name: 多世界連合
+first_appearance: ch0002
+spoiler_after: ch0002
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 多世界連合
+
+世界同士の接触による災厄や代理戦争を危惧し、戦争の早期終結と統一世界政府樹立を目指す組織。審判役を派遣して状況を管理しており、ヲルヲーラはその安全保障理事会より任命された調査使節団の代表である。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0002 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 『多世界連合、安全保障理事会より任命された調査使節団の代表を務めております。我々の仲間には地球出身の方もおりますよ』（ch0002）
+> 『私たちはまさにそのような事態を危惧しているのです。ゆえに、私たちはこの世界における戦争の早期終結を促し、統一された世界政府の樹立を目指すべく審判役を行っているのです』（ch0002）
+
+## 関連クレーム
+
+- [[A_ch0002_analogous_to_E_ch0002_多世界連合_defines_審判役の目的_p166_un_security_council|国連安保理の介入政策模倣]]
+
+<!-- AUTO:END -->

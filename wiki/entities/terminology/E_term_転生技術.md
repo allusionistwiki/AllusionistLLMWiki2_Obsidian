@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_term_転生技術
+type: entity
+subtype: terminology
+canonical_name: 転生技術
+first_appearance: ch0001
+spoiler_after: ch0001
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 転生技術
+
+犯罪者の転生を法律で禁止し、転生後に有罪が認められれば元世界の法で裁かれる技術体系。多くの異世界で数学の体系や物理定数がほぼ同一であることが判明している点も特徴として挙げられる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0001 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 基本的に、犯罪者の転生は法律で禁止されている。（ch0001）
+> 転生技術の発展によって、多くの異世界で数学の体系や物理定数までがほとんど同一であることが判明している。異なる発展を遂げても、物理法則を形作る公式までは大きく違わないことがほとんどなのである。（ch0004）
+
+<!-- AUTO:END -->

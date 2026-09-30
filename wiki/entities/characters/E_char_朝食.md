@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_char_朝食
+type: entity
+subtype: character
+canonical_name: 朝食
+first_appearance: ch0005
+spoiler_after: ch0005
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 朝食
+
+コルセスカがアキラに一緒に摂るよう誘う食事の場面である。後にアキラは起床後、トリシューラとコルセスカのためにスープを作るなど、共同生活における食事の役割が描かれる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0005 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「おはようございます、アキラ。朝食がまだでしたら、ご一緒にどうですか」（ch0005）
+> トースターでパンを焼いている間に玉葱を細かく刻み、人参と芋の皮をさっと剥いて食べやすいサイズに切っていく。（ch0023）
+
+<!-- AUTO:END -->
