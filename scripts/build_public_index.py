@@ -163,16 +163,25 @@ def main() -> None:
     (NAV / "index.md").write_text("\n".join(lines), encoding="utf-8")
 
     # ---- 節インデックス ----
-    (WIKI / "claims" / "index.md").write_text(fm(
-        "アナロジークレーム（A_）",
-        "本作の引喩・パロディ・逆転（現代文化・神話・ジャンルクリシェへの参照）を典拠付きで体系化したクレーム全集", "claims/index") +
-        "# アナロジークレーム（A_）\n\n"
-        "この作品は異世界転生ジャンルへの巨大なメタフィクションです。各クレームは「原文の仕掛け → 引喩先」を "
-        "原文引用（ページ番号付き）と LLM 審査根拠とともに記録します。\n\n"
-        f"全 **{len(claims)} 件**。話別の一覧は [[nav/index|話ナビゲーション]] から。\n\n"
-        "クレーム ID の読み方: `A_ch0001_parodies_アキラ_activates_ノーペイン_p103_安楽死の倫理` = "
-        "第1話のイベント（ノーペイン起動, p103）が「安楽死の倫理」をパロディにしている、という主張。\n",
-        encoding="utf-8")
+    # claims/index.md: 話別インデックス（第N話 → 主張リンク、ラベルは主張文）
+    idx = ["---", "title: アナロジークレーム全集（話別）", "id: claims/index",
+           "description: 全アナロジークレームの話別インデックス。各話の主張一覧", "---", "",
+           "# アナロジークレーム全集（話別）", "",
+           f"全 **{len(claims)} 件**。[[nav/index|話ナビゲーション]] / [[mysteries/index|伏線台帳]] / [[references/index|外部参照]]", "",
+           "ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイベント（ノーペイン起動, p103）が「安楽死の倫理」をパロディにしている、という主張。", ""]
+    for ch in eps:
+        idx.append(f"## 第{ep_no(ch)}話")
+        idx.append("")
+        for c in claims_by_ep.get(ch, []):
+            idx.append(f"- [[{c['name']}|{c['title']}]]")
+        idx.append("")
+    if claims_by_ep.get("ch????"):
+        idx.append("## 話未指定")
+        idx.append("")
+        for c in claims_by_ep["ch????"]:
+            idx.append(f"- [[{c['name']}|{c['title']}]]")
+        idx.append("")
+    (WIKI / "claims" / "index.md").write_text("\n".join(idx), encoding="utf-8")
     (WIKI / "mysteries" / "index.md").write_text(fm(
         "伏線（MY_）",
         "作中に仕掛けられた伏線・未回収要素の追跡記録", "mysteries/index") +
