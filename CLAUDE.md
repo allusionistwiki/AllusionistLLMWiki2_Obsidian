@@ -25,6 +25,16 @@ AI エージェント（Claude / Hermes 等）がここで作業する際の約�
 - 埋め込み: ollama `localhost:11434`（未起動時は検索が FTS/LIKE のみに自然にフォールバックする。エラーを握りつぶして落ちない設計を崩すな）
 - Windows + git-bash。ネイティブツール（git/python/node）には `C:/...` 形式のパスを渡す
 
+## 運用モデル（2026-09-30 改定）: LLM auto-review 標準運用
+
+- **標準**: 抽出→分析→LLM 自己審査→昇格まで自動（`scripts/pipeline.py N`）。生成物は `review_status: llm_verified`
+- **人間の担当範囲（これだけ）**: 特定記事の reject / 修正指示 / 承認（human_verified へ）/ 手動追記
+  - `python scripts/human_ops.py --list`（レビュー対象一覧）
+  - `--reject <file> "理由"` / `--revise <file> "指示"` / `--verify <file>` / `--stats`
+  - 手動追記は md 本文を直接編集
+- 人間操作は `Work/reports/human_ops_log.md` に記録。LLM 代替は `Work/reports/autopilot_log.md`
+- `llm_verified` は `human_verified` への置換対象として常に区別されていること（schema 上の独立値）
+
 ## 定型コマンド
 
 ```bash
