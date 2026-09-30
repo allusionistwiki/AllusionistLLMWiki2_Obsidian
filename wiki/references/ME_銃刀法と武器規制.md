@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_銃刀法と武器規制
 title: 銃刀法
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "銃刀法と武器規制"
 domain: "Contemporary Culture"

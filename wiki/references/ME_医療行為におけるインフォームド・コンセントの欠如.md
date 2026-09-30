@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_医療行為におけるインフォームド・コンセントの欠如
 title: インフォームド・コンセント欠如
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "医療行為におけるインフォームド・コンセントの欠如"
 domain: "Contemporary Culture"

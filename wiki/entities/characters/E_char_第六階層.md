@@ -1,0 +1,38 @@
+---
+schema_version: "5.1"
+id: E_char_第六階層
+type: entity
+subtype: character
+canonical_name: 第六階層
+first_appearance: ch0007
+spoiler_after: ch0007
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 第六階層
+
+アキラがトリシューラの建物から重力に身を任せて落下し向かう場所。松明の騎士団総団長ソルダ・アーニスタが、第六階層に一人で挑んでいる映像が共有される。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0007 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 重力に身を任せ、無明のただ中を落下するその最中、ふと思い出した。（ch0007）
+> 松明の騎士、ソルダ・アーニスタ。　今、彼は第六階層に挑んでいるのだ。それも、たった一人で。（ch0043）
+
+## 関連クレーム
+
+- [[A_ch0043_analogous_to_E_ch0043_ソルダ・アーニスタ_fights_第六階層_p1832_ゲームの難易度調整_プレイヤーの試行錯誤|ゲーム的難易度調整]]
+- [[A_ch0043_parodies_E_ch0043_ソルダ・アーニスタ_fights_第六階層_p1832_ゲームのボス戦_パターン学習|ボス戦攻略のパターン学習]]
+
+<!-- AUTO:END -->
+
+<!-- AUTO-REL:BEGIN -->
+## 関係キャラクター
+
+- [[E_char_アキラ|アキラ]] — 移動(受)（2 観測）
+
+<!-- AUTO-REL:END -->

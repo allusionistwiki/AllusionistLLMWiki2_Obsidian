@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_安楽死
 title: 安楽死
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "安楽死"
 domain: "Contemporary Culture"

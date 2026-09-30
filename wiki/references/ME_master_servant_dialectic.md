@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_master_servant_dialectic
 title: 主奴弁証法
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "master_servant_dialectic"
 domain: "Contemporary Culture"

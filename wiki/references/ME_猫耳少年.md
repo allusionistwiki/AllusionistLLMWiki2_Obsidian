@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_猫耳少年
 title: 猫耳少年
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "猫耳少年"
 domain: "Contemporary Culture"

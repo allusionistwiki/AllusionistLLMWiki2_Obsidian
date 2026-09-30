@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ゲームの消費型武器・弾薬コスト
 title: 弾薬コスト
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "ゲームの消費型武器・弾薬コスト"
 domain: "Contemporary Consumer Culture"

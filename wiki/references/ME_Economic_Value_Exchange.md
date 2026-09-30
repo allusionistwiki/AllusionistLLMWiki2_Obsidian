@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_Economic_Value_Exchange
 title: 経済的価値交換
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "Economic_Value_Exchange"
 domain: "Contemporary Culture"

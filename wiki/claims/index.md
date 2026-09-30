@@ -1,456 +1,594 @@
 ---
-title: アナロジークレーム全集（章・話別）
+title: アナロジークレーム全集（話別）
 id: claims/index
-description: 全アナロジークレームの章別・話別インデックス
+description: 全アナロジークレームの話別インデックス。各話の主張一覧
 ---
 
-# アナロジークレーム全集（章・話別）
-
-全 **343 件**。[[nav/index|話ナビゲーション]] / [[mysteries/index|伏線台帳]] / [[references/index|外部参照]]
-
-ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイベント（ノーペイン起動, p103）が「安楽死の倫理」をパロディにしている、という主張。
-
-## 第一章　隻腕義手のスワンプマン
-
-### 第一話：1-1　無彩色の左手、鎧の右手
-
-- [[A_ch0001_alludes_to_E_ch0001_アキラ_fears_死_p5_徳川家康|家康の脱糞で死の恐怖を正当化]]
-- [[A_ch0001_alludes_to_E_ch0001_アキラ_reveals_前世の職業_p17_トラック運転手|転生殺し屋をトラック運転手と命名]]
-- [[A_ch0001_analogous_to_E_ch0001_アキラ_activates_サイバーカラテ道場_p9_AR格闘ゲーム|AR格闘ゲームUIを模した戦闘描写]]
-- [[A_ch0001_analogous_to_E_ch0001_アキラ_other_オプション未選択_p6_スマホゲームのガチャ|無課金ガチャへの転生]]
-- [[A_ch0001_analogous_to_E_ch0001_キール_uses_魔法の地図_p45_スマホの地図アプリ|スマホ地図アプリ操作を模した巻物]]
-- [[A_ch0001_inverts_E_ch0001_アキラ_other_衣服_p13_転生時の全裸|全裸転生を保険責任への逆転]]
-- [[A_ch0001_parodies_E_ch0001_アキラ_activates_ノーペイン_p103_安楽死の倫理|技術による安楽死倫理の消去]]
-- [[A_ch0001_parodies_E_ch0001_アキラ_activates_非常用回線_p7_カスタマーサポートの待ち時間|生死境でのサポート待ち時間ジングル]]
-- [[A_ch0001_parodies_E_ch0001_アキラ_thinks_転生保険の需要_p4_保険業界のリスク管理|転生を保険商品とするリスク管理風刺]]
-
-### 第二話：1-2　死者を代弁する者
-
-- [[A_ch0002_analogous_to_E_ch0002_アキラ_activates_Doppler_p127_smartphone_apps|脳内アプリのメモリ管理]]
-- [[A_ch0002_analogous_to_E_ch0002_アキラ_learns_誤転生_p167_isekai_isekai|事故による不条理な誤転生]]
-- [[A_ch0002_analogous_to_E_ch0002_アキラ_promises_階層の留守番_p163_abandonment|言語障壁による養育放棄の象徴]]
-- [[A_ch0002_analogous_to_E_ch0002_アキラ_uses_聴勁_p128_active_sonar|アクティブソナー原理の聴勁]]
-- [[A_ch0002_analogous_to_E_ch0002_アキラ_uses_震脚_p129_martial_arts|義肢前提のサイバーカラテを肉体で実践]]
-- [[A_ch0002_analogous_to_E_ch0002_アズーリア_confesses_捨て石_p118_utilitarianism|仲間を捨て石とする功利主義的葛藤]]
-- [[A_ch0002_analogous_to_E_ch0002_アズーリア_uses_死者を代弁する者_p114_mediumship|霊媒による死者の代弁]]
-- [[A_ch0002_analogous_to_E_ch0002_世界槍_defines_階層構造_p158_dungeon_structure|ダンジョン構造の物理再定義]]
-- [[A_ch0002_analogous_to_E_ch0002_多世界連合_defines_審判役の目的_p166_un_security_council|国連安保理の介入政策模倣]]
-- [[A_ch0002_analogous_to_E_ch0002_金鎖_requires_ネットワーク接続_p121_cloud_security|クラウドセキュリティ認証の指喩]]
-
-### 第三話：幕間　『きぐるみの魔女』
-
-- [[A_ch0003_alludes_to_E_ch0003_ゼオーティア_defines_世界_p182_異世界転生ジャンルのクリシェ|異世界転生クリシェへの皮肉]]
-- [[A_ch0003_analogous_to_E_ch0003_アキラ_other_再会_p181_社会制度による個人の圧殺|社会制度による個人の圧殺]]
-- [[A_ch0003_analogous_to_E_ch0003_イェレイド_says_迷宮の美意識_p175_ユーザー生成コンテンツUGCの質|UGC迷宮の低品質批判]]
-- [[A_ch0003_analogous_to_E_ch0003_ガドール_defines_魂と呪術_p174_人工知能と魂の定義|AIと魂の定義の哲学的議論]]
-- [[A_ch0003_foreshadows_E_ch0003_人狼_says_アキラへの期待_p180_主人公の成長と秩序の破壊|秩序破壊と成長の伏線]]
-- [[A_ch0003_inverts_E_ch0003_赤い髪の魔女_says_祈りと暴力_p182_宗教と暴力の逆転|宗教と暴力の逆転]]
-- [[A_ch0003_parodies_E_ch0003_ガドール_says_エスフェイルの死因_p174_タイムパラドックスと因果律の破壊|タイムパラドックスによる因果抹消]]
-- [[A_ch0003_structurally_matches_E_ch0003_人狼_attacks_ヲルヲーラ_p179_システム管理者権限の行使|管理者権限の絶対的行使]]
-
-## 第二章　もしサイバーパンク世界の住人がオカルトパンク世界に転生したら
-
-### 第四話：2-1　氷血のコルセスカ
-
-- [[A_ch0004_alludes_to_E_ch0004_アキラ_thinks_ロドウィとの敵対_p209_yakuza_ethics|ヤクザの義理と裏切り]]
-- [[A_ch0004_alludes_to_E_ch0004_コルセスカ_other_翻訳の原理_p217_heidegger|ハイデガー哲学による存在論]]
-- [[A_ch0004_analogous_to_E_ch0004_アキラ_uses_義手充電_p186_smartphone_battery|スマホバッテリー依存の誇張]]
-- [[A_ch0004_analogous_to_E_ch0004_コルセスカ_other_翻訳の原理_p217_turing_test|チューリングテストへの翻訳転生]]
-- [[A_ch0004_analogous_to_E_ch0004_第五階層_defines_価値基準_p185_hyperinflation|ハイパーインフレによる価値喪失]]
-- [[A_ch0004_analogous_to_E_ch0004_第五階層_defines_私刑の法_p191_vigilante_justice|自警団による無政府状態の私刑]]
-- [[A_ch0004_inverts_E_ch0004_コルセスカ_reveals_アキラの居場所_p223_cultural_rooting|文化的根拠欠如への学習観反転]]
-- [[A_ch0004_structurally_matches_E_ch0004_刺客_uses_空間折り畳み武器_p229_augmented_reality|拡張現実的な空間折り畳み武器]]
-- [[A_ch0004_sublates_E_ch0004_コルセスカ_kills_刺客_p232_magic_vs_science|科学超越の魔術的論理破綻]]
-
-### 第五話：2-2　転生者（ゼノグラシア）
-
-- [[A_ch0005_analogous_to_E_ch0005_アキラ_activates_残心プリセット_p302_自律型AIと脳侵襲技術|自律型AIによる脳侵襲代替]]
-- [[A_ch0005_analogous_to_E_ch0005_アキラ_other_自己の拡張_p280_サイボーグの自己同一性|サイボーグの自己同一性拡張]]
-- [[A_ch0005_analogous_to_E_ch0005_アキラ_other_食事拒否の理由_p256_防犯意識と警戒心|防犯意識としての食事警戒]]
-- [[A_ch0005_analogous_to_E_ch0005_アキラ_uses_感情制御アプリE-E_p254_精神薬物療法と自己管理|精神薬物療法としての感情制御]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_defines_異獣_p278_バベルの塔の神話|バベルの塔神話の言語論]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの存在_p284_ネットメディアと炎上|ネットメディア・炎上構造の模倣]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの社会性_p277_人間の商品化|人間の商品化と序列化]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの社会性_p277_贈与の経済学|贈与の経済学と善意搾取]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの神秘性_p279_アナロジーの誤謬|アナロジーの誤謬の物理化]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラへの評価_p283_動物の調教|動物の調教による支配構造]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_ラベリング_p263_言語処理のデータベース化|言語処理のデータベース化]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_光学立体映像_p240_ARとVRの技術的差異|ARとVRの技術的差異]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_家の透視_p259_監視社会とプライバシー|監視社会とプライバシーの非対称性]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_投射武器規制_p238_銃刀法と武器規制|銃刀法による武器規制]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_探索パーティ編成_p266_MMORPGのパーティ構成|MMOパーティ構成の模倣]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_撮影規制_p287_プライバシー保護と肖像権|プライバシー保護と肖像権]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_撮影規制_p287_顔認証技術の倫理|顔認証技術の倫理]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_言語の取引_p264_知的財産権とライセンス|知的財産権とライセンス]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_防御オーブ_p257_セキュリティシステム|セキュリティシステムのメタファー]]
-
-### 第六話：幕間　『悪夢』
-
-- [[A_ch0006_alludes_to_E_ch0006_コルセスカ_says_記憶の解釈_p307_narrative_construction|ナラティブ構築としての記憶]]
-- [[A_ch0006_analogous_to_E_ch0006_アキラ_dies_狼の王_p306_grinding|作業的戦闘の無意味さ]]
-- [[A_ch0006_analogous_to_E_ch0006_アキラ_thinks_過去の牢獄_p307_save_data_corruption|セーブデータ破損の無限ループ]]
-- [[A_ch0006_foreshadows_E_ch0006_謎の声_says_頭を良くする_p310_cognitive_modification|認知改変の伏線]]
-- [[A_ch0006_inverts_E_ch0006_アキラ_thinks_反証としての現実_p309_counterfactual_thinking|反事実的思考による価値再評価]]
-- [[A_ch0006_parodies_E_ch0006_アキラ_thinks_馬鹿_p310_hardware_spec|ハードウェア仕様への自己認識パロディ]]
-
-### 第七話：2-3　魔女と狂犬
-
-- [[A_ch0007_analogous_to_E_ch0007_アキラ_activates_サイバーカラテ道場_p345_Mobile_Game_App|スマホゲームアプリへの呪術置換]]
-- [[A_ch0007_analogous_to_E_ch0007_アキラ_remembers_少年の言葉_p344_Machine_Translation_Lag|翻訳遅延を想起させる記憶変換]]
-- [[A_ch0007_analogous_to_E_ch0007_アキラ_says_保留_p330_User_Agreement|利用規約同意プロセスの模倣]]
-- [[A_ch0007_analogous_to_E_ch0007_コルセスカ_confesses_目的_p329_RPG_Quest|RPGクエスト構造の標準化]]
-- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_opens_境界空間_p353_Loading_Screen|ロード画面の空間的表現]]
-- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_reveals_無資格_p316_Unlicensed_Medicine|無資格医療と権威のズレ]]
-- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_reveals_言語資源_p320_Machine_Translation|機械翻訳による高速化の指喩]]
-- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_says_アキラ_p312_AI_Voice_Assistant|AI音声アシスタント特性の指喩]]
-- [[A_ch0007_analogous_to_E_ch0007_男_threatens_少年_p334_Social_Media_Viral|SNSバイラルと動画信仰の模倣]]
-
-### 第八話：2-4　六淫操手
-
-- [[A_ch0008_alludes_to_E_ch0008_カーイン_defines_六淫操手_p373_traditional_chinese_medicine|漢方医学六淫概念の攻撃化]]
-- [[A_ch0008_analogous_to_E_ch0008_アキラ_uses_残心プリセット_p382_safety_override|安全装置解除概念の身体制御]]
-- [[A_ch0008_analogous_to_E_ch0008_アキラ_uses_音響処理アプリDoppler_p361_augmented_reality_game|ARゲーム索敵メカニクスの適用]]
-- [[A_ch0008_analogous_to_E_ch0008_コルセスカ_defines_キーワード定義凍結_p393_programming_exception_handling|例外処理とスタック停止の模倣]]
-- [[A_ch0008_analogous_to_E_ch0008_コルセスカ_other_血液_p394_vampire_mythology|吸血鬼伝承の工芸行為への転換]]
-- [[A_ch0008_analogous_to_E_ch0008_トリシューラ_appears_アキラの脳内_p384_ai_assistant_interface|脳内AIアシスタント]]
-- [[A_ch0008_foreshadows_E_ch0008_トリシューラ_defines_杖の専門_p387_medical_technology|生体部品としての義手]]
-- [[A_ch0008_inverts_E_ch0008_アキラ_other_復讐の連鎖_p380_vendetta_logic|仇討ち論理の逆転]]
-- [[A_ch0008_parodies_E_ch0008_カーイン_names_ロウ・カーイン_p366_wuxia_genre|武侠小説クリシェのパロディ]]
-- [[A_ch0008_structurally_matches_E_ch0008_アキラ_other_金の力_p362_pay_to_win_mechanics|Pay-to-Win構造の適用]]
-
-### 第九話：2-5　王獣カッサリオ
-
-- [[A_ch0009_alludes_to_E_ch0009_アキラ_bonds_カーイン_p424_武侠小説の義理・恩義|武侠の義理による共闘]]
-- [[A_ch0009_alludes_to_E_ch0009_コルセスカ_appears_復活_p406_ゲームの蘇生アイテム・ストック|蘇生アイテムの蓄積]]
-- [[A_ch0009_alludes_to_E_ch0009_トリシューラ_defines_人造人間_p405_アンドロイドの定義・ガイノイド|ガイノイドの定義]]
-- [[A_ch0009_analogous_to_E_ch0009_アキラ_kills_聖騎士_p412_ゲームの消費型武器・弾薬コスト|弾薬コストとしての戦闘]]
-- [[A_ch0009_analogous_to_E_ch0009_アキラ_other_斧_p428_スマホゲームの弾道予報アプリ|弾道予報アプリの補正]]
-- [[A_ch0009_analogous_to_E_ch0009_トリシューラ_reveals_全身義体_p404_サイボーグ・義肢|サイボーグ義肢の提示]]
-- [[A_ch0009_inverts_E_ch0009_トリシューラ_says_カッサリオ_p399_生物兵器の倫理|生物兵器としての定義]]
-- [[A_ch0009_parodies_E_ch0009_アキラ_other_斧_p428_アプリのユーザー評価|アプリ評価による信頼性]]
-- [[A_ch0009_parodies_E_ch0009_トリシューラ_gives_義腕_p409_ガチャ・課金システム|ガチャ・課金システムへの転生]]
-- [[A_ch0009_structurally_matches_E_ch0009_カッサリオ_activates_アラームトラップ_p426_ゲームの敵召喚トラップ|敵召喚トラップの模倣]]
-
-### 第十話：2-6　がらくたなんかじゃない
-
-- [[A_ch0010_alludes_to_E_ch0010_アキラ_remembers_カインの死_p470_安楽死|安楽死の倫理的葛藤]]
-- [[A_ch0010_alludes_to_E_ch0010_コルセスカ_activates_シャルマキヒュの凍視_p459_監視社会|監視社会の不可避性]]
-- [[A_ch0010_analogous_to_E_ch0010_アキラ_observes_融合体の音_p454_音声認識AI|音声認識AIのアルゴリズム]]
-- [[A_ch0010_analogous_to_E_ch0010_コルセスカ_makes_呪術準備_p436_AR_ゲーム|ARゲーム的な視覚干渉]]
-- [[A_ch0010_analogous_to_E_ch0010_ロウ・カーイン_other_探索者パーティ_p450_転職|ギグワーク的な転職]]
-- [[A_ch0010_inverts_E_ch0010_アキラ_attacks_カッサリオ_p461_格闘ゲーム_入力コマンド|格ゲー入力演出の模倣]]
-- [[A_ch0010_parodies_E_ch0010_アキラ_thinks_価値の相対性_p441_自己責任論|自己責任論への皮肉]]
-- [[A_ch0010_parodies_E_ch0010_アキラ_threatens_カーインの誇り_p451_ネット炎上|ネット炎上の構造模倣]]
-- [[A_ch0010_structurally_matches_E_ch0010_アキラ_finds_カッサリオの位置_p460_スマホゲーム_ターゲットロック|スマホゲームのターゲットロック]]
-- [[A_ch0010_structurally_matches_E_ch0010_アキラ_says_殺意の定義_p439_ブラックリスト|ブラックリスト化のメタファー]]
-
-### 第十一話：2-7　炎は黄金を証明する
-
-- [[A_ch0011_alludes_to_E_ch0011_コルセスカ_says_世界よ凍れ_p488_時間の凍結|戦闘における時間凍結]]
-- [[A_ch0011_alludes_to_E_ch0011_コルセスカ_says_炎は黄金を証明する_p501_ラテン語の格言|ラテン語格言の引用]]
-- [[A_ch0011_alludes_to_E_ch0011_トリシューラ_names_鮮血のトリシューラ_p487_トリシューラ|ヒンドゥー神話の権能模倣]]
-- [[A_ch0011_analogous_to_E_ch0011_ちびシューラ_says_負担の分散_p494_パーティ構成|MMORPG的パーティ構成]]
-- [[A_ch0011_analogous_to_E_ch0011_アキラ_remembers_前世の社会_p476_割れた窓理論|割れた窓理論の引用]]
-- [[A_ch0011_analogous_to_E_ch0011_アキラ_remembers_片腕の男_p477_義肢の経済格差|義肢の格差による転生保険批判]]
-- [[A_ch0011_analogous_to_E_ch0011_トリシューラ_activates_パワードエクゾスケルトン_p490_強化外骨格|強化外骨格へのSF的移植]]
-- [[A_ch0011_analogous_to_E_ch0011_トリシューラ_takes_王獣カッサリオの角_p503_ゲームのレアドロップ|レアドロップによるゲーム的支配]]
-- [[A_ch0011_analogous_to_E_ch0011_転生保険_defines_転生保証_p478_転生保険|転生保険の社会制度パロディ]]
-
-### 第十二話：2-8　その視座の名はゆらぎの神話
-
-- [[A_ch0012_alludes_to_E_ch0012_トリシューラ_defines_不死_p513_ship_of_theseus|テセウスの船による不死の定義]]
-- [[A_ch0012_analogous_to_E_ch0012_ちびシューラ_other_アキラ_p561_harem_game|ハーレムゲームへの権力構造風刺]]
-- [[A_ch0012_analogous_to_E_ch0012_アキラ_uses_盤外の夜_p548_game_ai|ゲームAIによるチートの技術化]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_names_ノアズアーク_p511_noahs_ark|ノアの方舟命名による自己言及]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_other_サイバーカラテ道場_p567_open_source|オープンソース型ビジネスモデル]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_other_マッチングシステム_p573_sns_platform|SNSプラットフォームによる支配構造]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_other_第五階層の崩壊_p577_open_source_community|OSSコミュニティ理想の指喩]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_治癒符_p566_inflation|インフレによる経済支配権奪取]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_物理インターフェース_p525_performative_ritual|儀礼的遂行による人間性担保]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_鮮血呪_p527_3d_printing|3Dプリント的記号実体化]]
-
-### 第十三話：2-9　シェイドラン
-
-- [[A_ch0013_alludes_to_E_ch0013_店員_other_古代語_p599_言語魔術師|言語魔術師による多様性示唆]]
-- [[A_ch0013_analogous_to_E_ch0013_Speaer_other_エスニック・ポリフォニー_p611_ワールドミュージック|ワールドミュージックの無国籍性]]
-- [[A_ch0013_analogous_to_E_ch0013_トリシューラ_reveals_襲撃映像の公開_p592_YouTube_編集動画|YouTube編集動画の炎上回避]]
-- [[A_ch0013_analogous_to_E_ch0013_ライブラリ_defines_四十枚一組の端末形式_p602_カードゲーム_デッキ構築|カードゲームのデッキ構築]]
-- [[A_ch0013_analogous_to_E_ch0013_ロドウィ_other_住宅サービス_p621_脱法ハウス|脱法ハウスの家賃搾取]]
-- [[A_ch0013_analogous_to_E_ch0013_治癒符_appears_空からの散布_p625_ヘリコプターマネー|ヘリコプターマネーのインフレ]]
-- [[A_ch0013_parodies_E_ch0013_ロドウィ_asks_アニスとの結婚_p619_マフィア映画_娘との結婚|マフィア映画の娘結婚]]
-- [[A_ch0013_structurally_matches_E_ch0013_アキラ_wears_急場凌ぎの義肢_p596_サイバーパンク_義肢|サイバーパンク義肢の機能不全]]
-
-### 第十四話：2-10　春の魔女
-
-- [[A_ch0014_alludes_to_E_ch0014_レオ_says_選別された救済_p638_慈善事業の選別性|慈善事業の選別性]]
-- [[A_ch0014_analogous_to_E_ch0014_ちびシューラ_other_幻肢接続の原理_p634_脳-コンピュータインターフェースBCI|脳-コンピュータインターフェース]]
-- [[A_ch0014_analogous_to_E_ch0014_アキラ_fears_格差_p631_医療保険と自己責任論|医療保険と自己責任論]]
-- [[A_ch0014_analogous_to_E_ch0014_コルセスカ_says_ゲームの競技性_p644_ゲームの競技性eSports|eSportsの競技性]]
-- [[A_ch0014_analogous_to_E_ch0014_トリシューラ_defines_ヒエロス・ガモス_p663_契約社会と労働契約|契約社会と労働契約]]
-- [[A_ch0014_analogous_to_E_ch0014_トリシューラ_other_公社の送金ルート_p641_暗号通貨と金融規制|暗号通貨と金融規制]]
-- [[A_ch0014_analogous_to_E_ch0014_トリシューラ_other_第五階層ミニチュア_p651_デジタルツイン＼シミュレーション|デジタルツインの監視]]
-- [[A_ch0014_analogous_to_E_ch0014_トリシューラ_other_類感呪術義肢_p656_遠隔操作＼アバター|遠隔操作アバター]]
-- [[A_ch0014_analogous_to_E_ch0014_レオ_observes_アキラと老人の会話_p628_非言語コミュニケーションの解析|非言語解析による感情補完]]
-- [[A_ch0014_parodies_E_ch0014_アキラ_thinks_右腕の不正_p632_技術移転規制と倫理|技術移転倫理のメタ批判]]
-
-### 第十五話：2-11　欠落と渇望
-
-- [[A_ch0015_alludes_to_E_ch0015_キロン_other_キュトスの姉妹_p706_mythological_demonization|神話的悪魔化による排除]]
-- [[A_ch0015_alludes_to_E_ch0015_公社_makes_新紙幣_p678_fiat_currency_meme|法定通貨ミームの呪符化]]
-- [[A_ch0015_analogous_to_E_ch0015_アキラ_thinks_マクガフィン_p716_macguffin|マクガフィンとしての自己客体化]]
-- [[A_ch0015_analogous_to_E_ch0015_探索者協会_attacks_アキラ_p674_internet_flame_war|ネット炎上構造の再現]]
-- [[A_ch0015_inverts_E_ch0015_レオ_makes_フィランソロピー_p715_altruism_vs_utilitarianism|博愛と功利主義の逆転]]
-- [[A_ch0015_parodies_E_ch0015_アキラ_says_サイバーカラテの定義_p676_genre_classification|ジャンル分類へのアイデンティティ政治]]
-- [[A_ch0015_parodies_E_ch0015_トリシューラ_makes_広告塔_p672_influencer_marketing|インフルエンサー搾取の風刺]]
-- [[A_ch0015_structurally_matches_E_ch0015_キロン_names_真名_p695_true_name_magic|真名の魔法による支配行使]]
-
-### 第十六話：幕間　『前夜』
-
-- [[A_ch0016_alludes_to_E_ch0016_ロドウィ_thinks_アキラの保護_p736_植民地支配_労働力|植民地労働力搾取の暗喩]]
-- [[A_ch0016_analogous_to_E_ch0016_キロン_says_クラッキングの逆効果_p725_暗号通貨_セキュリティ|暗号通貨信用の逆説的価値形成]]
-- [[A_ch0016_analogous_to_E_ch0016_女呪術師_other_魔将九体_p740_十面体サイコロ|十面体サイコロと運命の対比]]
-- [[A_ch0016_foreshadows_E_ch0016_キロン_says_アキラへの恩義_p728_転生者_親友|転生者の親友という伏線]]
-- [[A_ch0016_inverts_E_ch0016_ロドウィ_says_弱者救済_p735_NPO_偽善|NPO偽善による暴力正当化]]
-- [[A_ch0016_structurally_matches_E_ch0016_セージ_takes_少女の肉体_p734_サイボーグ_身体拡張|サイボーグ身体拡張への呪術的転生]]
-
-### 第十七話：2-12　リーナ・ゾラ・クロウサーより
-
-- [[A_ch0017_alludes_to_E_ch0017_コルセスカ_defines_ICE_p753_ice_acronym|ICE（侵入対策）の呪術的再定義]]
-- [[A_ch0017_alludes_to_E_ch0017_トリシューラ_says_打鍵速度と技量_p749_gaming_mechanics|APM指標の呪術的メカニクス化]]
-- [[A_ch0017_analogous_to_E_ch0017_トリシューラ_says_文体論的推定_p757_stylometry|文体計量学による呪術的特定]]
-- [[A_ch0017_analogous_to_E_ch0017_トリシューラ_says_視覚的イメージの効用_p749_placebo_effect|プラセボ効果の呪術的応用]]
-- [[A_ch0017_parodies_E_ch0017_トリシューラ_activates_アストラル界へのダイブ_p748_hacker_movie_trope|ハッキング描写のステレオタイプ模倣]]
-- [[A_ch0017_parodies_E_ch0017_トリシューラ_makes_情報操作の解析_p756_social_media_manipulation|SNS世論操作手法の異世界移植]]
-- [[A_ch0017_structurally_matches_E_ch0017_敵呪術師_transforms_物理的実体_p752_augmented_reality|拡張現実によるバーチャルの実体化]]
-
-### 第十八話：2-13　メクセトの神滅具
-
-- [[A_ch0018_analogous_to_E_ch0018_アキラ_attacks_負傷した少年_p820_弱者への攻撃・いじめ|弱者攻撃の戦略的合理性と倫理]]
-- [[A_ch0018_analogous_to_E_ch0018_アキラ_breaks_アブロニクレス_p807_監視カメラの破壊・プライバシーの侵害|監視カメラ破壊によるプライバシー抵抗]]
-- [[A_ch0018_analogous_to_E_ch0018_アキラ_thinks_左手の記憶_p772_トラウマ・PTSD|PTSDフラッシュバックによる行動決定]]
-- [[A_ch0018_analogous_to_E_ch0018_アキラ_thinks_松明の騎士団_p810_組織の論理・集団の暴力|組織の暴力性と個人信頼の対立]]
-- [[A_ch0018_analogous_to_E_ch0018_アキラ_uses_E-E_p792_感情制御アプリ・SNSのフィルタリング|感情労働のアプリ化と分離]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_says_槍との一体化_p824_サイボーグ化・身体拡張|サイボーグ化による人間性の喪失]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_says_異獣の駆逐_p817_ジェノサイド・大量虐殺|ジェノサイドの浄化論理の模倣]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_says_異獣の駆逐_p818_植民地支配・人種差別の正当化|差別の正当化]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_transforms_少年_p812_武器の擬人化・兵器の人間化|兵器の人間化]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_transforms_少年達_p822_兵士の消耗・使い捨て|兵士の消耗品化]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_uses_射影聖遺物_p815_宗教画・聖像の権威|宗教画と聖像の権威]]
-- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_defeats_キロン_p827_技術の格差・非対称戦争|非対称戦争]]
-- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_fights_アルテミシア_p807_環境汚染の対立・生態系の破壊|生態系破壊]]
-- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_says_呪波汚染_p824_産業廃棄物・環境汚染|産業廃棄物]]
-- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_says_宿主_p828_寄生・宿主関係|寄生と宿主]]
-- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_uses_水鏡の盾_p821_反射型セキュリティ・DDoS対策|反射型DDoS対策]]
-- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_uses_氷の鏡_p827_監視社会・パノプティコン|パノプティコン]]
-- [[A_ch0018_analogous_to_E_ch0018_トリシューラ_asks_セスカへの処遇_p775_ゼロサムゲーム・非ゼロサムゲーム|ゼロサム／非ゼロサム]]
-- [[A_ch0018_analogous_to_E_ch0018_レオ_helps_弱者_p796_人道支援・NGO活動|人道支援・NGO]]
-- [[A_ch0018_analogous_to_E_ch0018_レオ_says_おまけ_p770_ガチャの天井・優遇措置|ガチャの天井・優遇措置]]
-- [[A_ch0018_analogous_to_E_ch0018_第五階層_transforms_迷宮_p784_都市計画・再開発・ジェントリフィケーション|都市再開発]]
-
-### 第十九話：2-14　転生者殺し
-
-- [[A_ch0019_alludes_to_E_ch0019_キロン_observes_少年達の幻影_p862_精神医学_PTSD_幻視|PTSDと幻視]]
-- [[A_ch0019_analogous_to_E_ch0019_キロン_other_アキラのアプリ群_p850_デジタルデータ_完全削除|脳内アプリの完全削除]]
-- [[A_ch0019_analogous_to_E_ch0019_トリシューラ_uses_巡槍艦ノアズアーク_p872_軍事技術_衝角戦術|衝角戦術の呪術的変換]]
-- [[A_ch0019_inverts_E_ch0019_キロン_reveals_転生者殺しの経歴_p842_異世界転生_チート能力の宝の持ち腐れ|チート能力の宝の持ち腐れ]]
-- [[A_ch0019_parodies_E_ch0019_コルセスカ_says_アキラへの無茶振り_p831_物語のセオリー_逆転劇|物語のセオリーのパロディ]]
-- [[A_ch0019_structurally_matches_E_ch0019_アキラ_learns_世界の言語_p860_言語学_母語の獲得|母語獲得の構造対応]]
-- [[A_ch0019_sublates_E_ch0019_トリシューラ_asks_アキラの正体_p874_哲学_自我の喪失|自我の喪失の止揚]]
-
-### 第二十話：幕間　『涙の価値』
-
-- [[A_ch0020_alludes_to_E_ch0020_トリシューラ_other_アキラの人格_p898_ship_of_theseus|テセウスの船の暗喩]]
-- [[A_ch0020_alludes_to_E_ch0020_トリシューラ_other_世界更新の条件_p904_mythology_pangaea|パンゲア神話の暗喩]]
-- [[A_ch0020_analogous_to_E_ch0020_コルセスカ_uses_右目のセンサー機能_p916_eye_tracking_interface|視線入力インターフェースの類似]]
-- [[A_ch0020_analogous_to_E_ch0020_トリシューラ_other_世界更新の条件_p904_world_building|世界構築の権限行使]]
-- [[A_ch0020_analogous_to_E_ch0020_トリシューラ_other_紙幣_p878_fiat_currency|法定通貨の呪術的可視化]]
-- [[A_ch0020_foreshadows_E_ch0020_コルセスカ_other_転生の種類_p920_reincarnation_taxonomy|転生分類学の伏線]]
-- [[A_ch0020_inverts_E_ch0020_アキラ_other_失敗の許容_p917_trial_and_error|試行錯誤の残酷な逆転]]
-- [[A_ch0020_parodies_E_ch0020_コルセスカ_other_やり直しの支援_p917_video_game_design|ゲームデザインのメタコメント]]
-- [[A_ch0020_structurally_matches_E_ch0020_コルセスカ_other_ゲームの公平性_p916_ai_gameplay|AI操作代行の構造対応]]
-
-### 第二十一話：2-15　そんなことよりゲームをしよう
-
-- [[A_ch0021_alludes_to_E_ch0021_トリシューラ_defines_生存条件_p963_Turing_Test|チューリングテストへの生存条件転生]]
-- [[A_ch0021_analogous_to_E_ch0021_コルセスカ_names_アキラ_p933_Gacha_Party_Building|ガチャパーティ編成への仲間加入]]
-- [[A_ch0021_analogous_to_E_ch0021_コルセスカ_other_男性攻略_p934_Otome_Game_Mechanics|乙女ゲーム仕様への恋愛メタファー]]
-- [[A_ch0021_analogous_to_E_ch0021_コルセスカ_uses_ゲーム_p924_RPG_character_growth|RPGキャラ成長への自己投影]]
-- [[A_ch0021_analogous_to_E_ch0021_鮮血呪_defines_効果_p960_Economic_Value_Exchange|経済的価値交換への呪術定義]]
-- [[A_ch0021_inverts_E_ch0021_コルセスカ_other_物語と現実の同一性_p929_Metaphysical_Realism|形而上学的実在論への物語現実化]]
-- [[A_ch0021_parodies_E_ch0021_コルセスカ_other_神滅具収集_p933_Completionist_Mindset|コンプリート主義への収集動機置換]]
-- [[A_ch0021_parodies_E_ch0021_リーナ_asks_アキラ_p973_Narrative_Structure_Choice|物語構造選択へのマルチエンディング化]]
-- [[A_ch0021_structurally_matches_E_ch0021_コルセスカ_defines_存在形態_p923_Akashic_Records|アカシックレコードへの記述実体化]]
-
-### 第二十二話：2-16　鏡（ミラージュ）
-
-- [[A_ch0022_analogous_to_E_ch0022_アキラ_names_マクガフィン_p1008_マクガフィン|マクガフィンへの主人公定義]]
-- [[A_ch0022_analogous_to_E_ch0022_アキラ_says_有料配信_p978_コンテンツ課金|コンテンツ課金への戦闘動画消費]]
-- [[A_ch0022_analogous_to_E_ch0022_クレアノーズ_gives_転生者リスト_p991_人材採用|人材採用への使い魔選抜]]
-- [[A_ch0022_analogous_to_E_ch0022_コルセスカ_defines_相互再帰_p1025_イマジナリーフレンド|イマジナリーフレンドへの相互再帰]]
-- [[A_ch0022_analogous_to_E_ch0022_コルセスカ_other_リプレイ小説_p1015_TRPGリプレイ|TRPGリプレイへの小説形式模倣]]
-- [[A_ch0022_analogous_to_E_ch0022_コルセスカ_thinks_アキラの役割_p1026_ミーム|ミームへの呪力伝達機能]]
-- [[A_ch0022_analogous_to_E_ch0022_トリシューラ_makes_着せ替え人形_p994_着せ替え人形|着せ替え人形遊びへの転生]]
-- [[A_ch0022_analogous_to_E_ch0022_トリシューラ_says_メンヘラレイヤー_p1016_ネットスラング|ネットスラングによる境界溶解]]
-- [[A_ch0022_analogous_to_E_ch0022_トリシューラ_uses_メタマテリアル_p1017_ステルス技術|ステルス技術のファンタジー転換]]
-- [[A_ch0022_analogous_to_E_ch0022_レオ_names_街路樹の民_p980_社会統合の命名|他者統合のための命名]]
-
-### 第二十三話：幕間　『棒（ワンド）』
-
-- [[A_ch0023_alludes_to_E_ch0023_アキラ_other_キロン_p1083_cyberpunk_culture|サイバーパンク文化の暗喩]]
-- [[A_ch0023_alludes_to_E_ch0023_アキラ_thinks_機械の意思_p1030_frankenstein|フランケンシュタイン的運命]]
-- [[A_ch0023_analogous_to_E_ch0023_アキラ_thinks_機械の意思_p1030_robotics_ethics|ロボティクス倫理の補完]]
-- [[A_ch0023_analogous_to_E_ch0023_コルセスカ_takes_前世の記憶_p1073_data_deletion_privacy|データ削除による依存強制]]
-- [[A_ch0023_foreshadows_E_ch0023_トリシューラ_reveals_上位トリシューラ_p1040_cloud_computing|クラウド構造の階層支配]]
-- [[A_ch0023_inverts_E_ch0023_アキラ_promises_使い魔としての忠誠_p1033_master_servant_dialectic|主奴弁証法の逆転適用]]
-- [[A_ch0023_structurally_matches_E_ch0023_コルセスカ_uses_二人羽織_p1062_exoskeleton_interface|外骨格インターフェースの可視化]]
-
-### 第二十四話：2-17　レジンキャストエピゴーネン
-
-- [[A_ch0024_analogous_to_E_ch0024_ちびシューラ_uses_監視カメラ_p1096_クラウドAIとビッグデータ|クラウドAIによる戦術解析]]
-- [[A_ch0024_analogous_to_E_ch0024_アキラ_reveals_サイバーカラテの呪術性_p1093_ミーム理論|ミーム理論の魔力体系化]]
-- [[A_ch0024_analogous_to_E_ch0024_アキラ_says_手続き記憶_p1090_手続き記憶とエピソード記憶|手続き記憶の身体定着]]
-- [[A_ch0024_analogous_to_E_ch0024_アキラ_uses_射影三昧耶形_p1108_VRアバターやエミュレーション|VRアバター的エミュレーション]]
-- [[A_ch0024_analogous_to_E_ch0024_アキラ_uses_熱学発勁_p1129_ナノテクノロジーとメタマテリアル|ナノテク・メタマテリアルへの熱制御転用]]
-- [[A_ch0024_analogous_to_E_ch0024_キロン_transforms_人馬一体_p1134_ケントロス|ケントロスへの獣性融合変貌]]
-- [[A_ch0024_analogous_to_E_ch0024_キロン_uses_紙幣護符_p1123_電子決済やデジタル通貨|電子決済への価値消滅可視化]]
-- [[A_ch0024_analogous_to_E_ch0024_トリシューラ_gives_カプセル剤_p1086_ゲームのバフアイテム|ゲームバフアイテムへの戦闘前服用]]
-- [[A_ch0024_analogous_to_E_ch0024_トリシューラ_says_呪力変換の効率_p1084_加工食品の栄養補助|加工食品への記号論的栄養補助]]
-- [[A_ch0024_analogous_to_E_ch0024_トリシューラ_uses_巡槍艦のバックアップ_p1122_システムのロールバック|システムロールバックへの迷宮解除]]
-
-### 第二十五話：2-18　ｎｕｌｌ参照のアリュージョン
-
-- [[A_ch0025_alludes_to_E_ch0025_アキラ_says_復讐の論理_p1150_暴力の論理|暴力の論理への復讐定義書き換え]]
-- [[A_ch0025_analogous_to_E_ch0025_トリシューラ_makes_治癒符の需要_p1153_マッチポンプ|マッチポンプへの需要創出操作]]
-- [[A_ch0025_analogous_to_E_ch0025_トリシューラ_says_交差する杖_p1136_ヘルマプロディートス|ヘルマプロディートスへの陰陽融合]]
-- [[A_ch0025_analogous_to_E_ch0025_歌姫_appears_大型ディスプレイ_p1155_アイドル|アイドルへの英雄性エンタメ変換]]
-- [[A_ch0025_foreshadows_E_ch0025_トリシューラ_names_トライデント_p1138_トライデント|トライデントへの個の消滅暗示]]
-- [[A_ch0025_inverts_E_ch0025_コルセスカ_says_アンドロギュヌス_p1137_アンドロギュヌス|アンドロギュヌスへの分離起源強調]]
-- [[A_ch0025_parodies_E_ch0025_キロン_loses_戦闘_p1162_予定調和|予定調和への逆転劇強制終了]]
-- [[A_ch0025_parodies_E_ch0025_キロン_uses_紙幣_p1153_貨幣経済|貨幣経済への信用ミーム露呈]]
-- [[A_ch0025_structurally_matches_E_ch0025_ネット小説_defines_キロンの結末_p1159_メディアミックス|メディアミックスへのメタ相互参照]]
-- [[A_ch0025_sublates_E_ch0025_アキラ_says_痛みの意味_p1160_感傷|感傷の止揚]]
-
-### 第二十六話：2-19　サイバネティクスとオカルティズムの幸福なマリアージュ
-
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_bonds_トリシューラ_p1174_キリスト教の聖婚|キリスト教の聖婚]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_deceives_キロン_p1190_価値の相対化|価値の相対化]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_deceives_キロン_p1190_倫理的攻撃|倫理的攻撃]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_kills_キロン_p1193_介錯|介錯]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_kills_キロン_p1193_首を吹き上げる|首の凍結]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_observes_宇宙_p1170_天動説と中世の宇宙観|天動説と宇宙観]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_observes_宇宙_p1170_天球層|天球層]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_other_コルセスカ_p1209_追跡|追跡]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_says_テセウス型_p1195_テセウスの船|テセウスの船]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_uses_サイバーカラテ道場_p1165_VR＼AR技術|VR/AR技術]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_uses_ヘリステラ_p1177_山羊脚|山羊脚]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_uses_氷血のコルセスカ_p1187_三叉槍|三叉槍]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_uses_鮮血のトリシューラ_p1185_アンドロイド|アンドロイド]]
-- [[A_ch0026_alludes_to_E_ch0026_アブロニクレス_appears_null_p1197_八百万の神|八百万の神]]
-- [[A_ch0026_alludes_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_メクセトの神滅具|メクセトの神滅具への転写]]
-- [[A_ch0026_alludes_to_E_ch0026_コルセスカ_takes_神滅具_p1208_奪取|戦利品としての神滅具奪取]]
-- [[A_ch0026_alludes_to_E_ch0026_コルセスカ_takes_神滅具_p1208_神滅具|神殺しの武器としての神滅具]]
-- [[A_ch0026_alludes_to_E_ch0026_トリシューラ_reveals_複合型_p1196_複合型|AIモデルの複合型構造]]
-- [[A_ch0026_alludes_to_E_ch0026_トリシューラ_says_アダム・カドモン_p1176_カバラの生命の樹|カバラの原初の人間アダム]]
-- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_defines_人_p1203_人権の定義|曖昧な人権の境界線]]
-- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_names_セレクティフィレクティ_p1200_ダンテの神曲|地獄篇に堕ちたベアトリーチェ]]
-- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_names_セレクティフィレクティ_p1200_選択と選定|魂の選択と融合の象徴]]
-- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_other_コルセスカ_p1205_火竜と猫|火竜と猫への仕えの暗示]]
-- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_threatens_アキラ_p1206_殺意|手ずからの殺意の表明]]
-- [[A_ch0026_alludes_to_E_ch0026_レオ_appears_null_p1207_古代語|古代語に宿る高位の由来]]
-- [[A_ch0026_alludes_to_E_ch0026_レオ_appears_null_p1207_猫耳少年|猫耳少年と獅子王の対比]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_defines_転生_p1173_アナロジー類推|類推の法則に基づく転生]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_finds_コルセスカ_p1210_発見|追跡の結末としての発見]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_finds_コルセスカ_p1210_貧血|過剰活動による貧血の限界]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_observes_PV数_p1164_ライブ配信プラットフォーム|ライブ配信への転生]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_says_ゲーム_p1206_ゲーム依存|ゲーム依存への没入]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_says_ゲーム_p1206_現代のゲーム文化|ゲーム文化への没入]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_says_テセウス型_p1195_サイボーグ|テセウス型サイボーグ]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_ヘリステラ_p1177_インド神話の車輪の女神|車輪の女神の象徴]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_ワイヤー_p1167_スパイダーマン|スパイダーマンのウェブ]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_左腕_p1189_生態系|体内生態系の構築]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_左腕_p1189_進化アルゴリズムとゲーム理論|進化アルゴリズムの模倣]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_機巧曼荼羅_p1182_密教の曼荼羅|機巧曼荼羅の展開]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_機巧曼荼羅_p1182_歯車|歯車と曼荼羅の融合]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_氷の鏡_p1166_鏡の魔術|鏡の魔術による反射]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_輪廻_p1173_輪廻転生|輪廻転生の呪術化]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_鮮血のトリシューラ_p1185_強化外骨格|強化外骨格のSF]]
-- [[A_ch0026_analogous_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_無限ループ|論理エラーの無限ループ]]
-- [[A_ch0026_analogous_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_自傷|自傷行為の呪術再現]]
-- [[A_ch0026_analogous_to_E_ch0026_コルセスカ_attacks_キロン_p1188_拷問|主観時間加速による精神的拷問]]
-- [[A_ch0026_analogous_to_E_ch0026_コルセスカ_other_アキラ_p1208_吸血|吸血鬼の吸血行為の模倣]]
-- [[A_ch0026_analogous_to_E_ch0026_コルセスカ_other_アキラ_p1208_吸血鬼|首筋への牙による吸血]]
-- [[A_ch0026_analogous_to_E_ch0026_コルセスカ_other_共生_p1205_共生関係|魂結合への相利共生適用]]
-- [[A_ch0026_analogous_to_E_ch0026_トリシューラ_reveals_複合型_p1196_ニューラルネットワーク|深層学習AIのモデル化]]
-- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_fears_レオ_p1207_権威への畏怖|上位権威への畏怖による戦意喪失]]
-- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_fears_レオ_p1207_獅子王|獅子王称号による神格暗示]]
-- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_flees_null_p1208_撤退|戦闘からの撤退の模倣]]
-- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_flees_null_p1208_組織の意向|組織命令系統に従う撤退]]
-- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_names_ダンジョンマスター_p1199_ダンジョンマスター|迷宮支配者クリシェの引用]]
-- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_says_悪_p1202_悪の選択|目的のための悪の受容]]
-
-### 第二十七話：2-20　その名はアズーリア
-
-- [[A_ch0027_alludes_to_E_ch0027_トリシューラ_names_ガロアンディアン_p1218_Galactic_Empire|銀河帝国の破綻クリシェ引用]]
-- [[A_ch0027_alludes_to_E_ch0027_トリシューラ_says_インド神話との類似_p1214_Hindu_mythology_Sati|サティ神話の神話構造原型]]
-- [[A_ch0027_analogous_to_E_ch0027_トリシューラ_makes_仮想の義肢_p1212_AR_glasses|欠損補完のAR義肢ペルソナ]]
-- [[A_ch0027_analogous_to_E_ch0027_第五階層_defines_強者打倒の価値_p1224_PvP_game_economy|PvP経済圏のキルボーナス実装]]
-- [[A_ch0027_inverts_E_ch0027_アキラ_promises_使い魔としての従属_p1219_Familiar_contract|使い魔契約の権力勾配逆転]]
-- [[A_ch0027_parodies_E_ch0027_トリシューラ_says_維持期間の短さ_p1212_software_bug_fix|魔法をバグ修正で風刺]]
-- [[A_ch0027_structurally_matches_E_ch0027_店員さん_names_ラズリ・ジャッフハリム_p1222_Lazuli|店員名によるラピスラズリ暗示]]
-
-### 第二十八話：幕間　『もし狂犬が戦国乱世に転生したら』
-
-- [[A_ch0028_alludes_to_E_ch0028_ケイト_says_レジンキャストミルク_p1232_藤原祐レジンキャストミルク|転生黎明期作品のメタ引用]]
-- [[A_ch0028_alludes_to_E_ch0028_ケイト_says_人間扱い_p1237_人工知能の権利|AIの権利論への暗喩]]
-- [[A_ch0028_analogous_to_E_ch0028_アキラ_kills_抹消決定_p1239_行政による強制抹消|官僚制による存在抹消の比喩]]
-- [[A_ch0028_analogous_to_E_ch0028_保険屋_fights_殺し屋_p1231_保険詐欺と調査部門|保険詐欺構造のジャンル自己言及]]
-- [[A_ch0028_inverts_E_ch0028_上司_says_転生_p1236_テセウスの船|テセウスの船による転生否定]]
-- [[A_ch0028_parodies_E_ch0028_契約者_fights_武将_p1233_戦国武将の英雄譚|戦国英雄譚の消費対象化]]
-- [[A_ch0028_structurally_matches_E_ch0028_女性_uses_電子書籍_p1231_ARグラスによる業務サボり|ARグラスによる業務怠慢構造]]
-
-## 第三章　特権者のヒロイック・シンドローム、さもなくばアズーリア・ヘレゼクシュの憂鬱
-
-### 第二十九話：3-0　どうして空は青いの？
-
-- [[A_ch0029_alludes_to_E_ch0029_ハル_says_アキラの変態性_p1263_トリシューラ|トリシューラへの異常反応比喩]]
-- [[A_ch0029_alludes_to_E_ch0029_神話_defines_空が青い理由_p1242_レイリー散乱|レイリー散乱による科学的説明]]
-- [[A_ch0029_analogous_to_E_ch0029_アキラ_fears_精神書き換え_p1252_マインドコントロール|マインドコントロールへの恐怖]]
-- [[A_ch0029_analogous_to_E_ch0029_アキラ_makes_談話室_p1246_仮想空間_SNS|アストラル体による仮想サロン]]
-- [[A_ch0029_analogous_to_E_ch0029_アキラ_uses_GUI_p1245_グラフィカルユーザーインターフェース|呪術システムへのGUI移植]]
-- [[A_ch0029_analogous_to_E_ch0029_アキラ_uses_ファイヤーウォール_p1252_ファイヤーウォール|霊的侵入への自動防御ファイヤーウォール]]
-- [[A_ch0029_analogous_to_E_ch0029_ハル_reveals_襲撃者の正体_p1259_スパイウェア|アバター情報窃取のスパイウェア構造]]
-- [[A_ch0029_analogous_to_E_ch0029_襲撃者_uses_エーテル体_p1252_クラッキング|精神書き換えのサイバークラッキング]]
-- [[A_ch0029_parodies_E_ch0029_アキラ_makes_蒼穹_p1246_ゲームの背景画像|感覚再現技術によるゲーム背景生成]]
-- [[A_ch0029_structurally_matches_E_ch0029_ハル_defines_青_p1262_構造主義|色連関による構造主義的画定]]
-
-### 第三十話：3-1　未来回想、あるいはこれからのあらすじ
-
-- [[A_ch0030_analogous_to_E_ch0030_アズーリア_loses_交渉の機会_p1272_言論統制|猿轡による言論統制と主体性剥奪]]
-- [[A_ch0030_analogous_to_E_ch0030_アズーリア_says_無意味な言語_p1266_宗教的儀礼の形式主義|無意味言語の儀礼形式主義]]
-- [[A_ch0030_analogous_to_E_ch0030_アズーリア_thinks_儀式の虚しさ_p1267_労働の疎外|儀式の虚しさと労働の疎外感]]
-- [[A_ch0030_analogous_to_E_ch0030_クナータ_says_平行世界の同一人物_p1279_並行世界|平行世界同一人物の自己同一性対峙]]
-- [[A_ch0030_analogous_to_E_ch0030_上級聖騎士_kills_特定の人種_p1271_組織内差別|特定人種選別殺害の組織内差別]]
-- [[A_ch0030_analogous_to_E_ch0030_松明の騎士団_defines_霊性複合体_p1270_軍産複合体|宗教権威装いの軍産複合体]]
-- [[A_ch0030_analogous_to_E_ch0030_松明の騎士団_names_アズーリアを英雄_p1272_プロパガンダ|失策隠蔽の英雄仕立てプロパガンダ]]
-- [[A_ch0030_analogous_to_E_ch0030_松明の騎士団_other_彼_p1274_組織の論理|組織論理による個人の意図的見捨て]]
-- [[A_ch0030_analogous_to_E_ch0030_猫の国_travels_過去と未来_p1270_タイムトラベル|猫の国によるSF的タイムトラベル]]
-
-### 第三十一話：幕間　『もうひとつの左手』
-
-- [[A_ch0031_analogous_to_E_ch0031_アズーリア_names_神話揺動者_p1300_ミーム理論と物語の自己言及性|神話揺動者のミームと自己言及性]]
-- [[A_ch0031_analogous_to_E_ch0031_アズーリア_says_鎧_p1285_外骨格Exoskeletonと身体拡張|外骨格と身体拡張]]
-- [[A_ch0031_analogous_to_E_ch0031_フィリス_transforms_世界構造_p1298_メタフィクションにおける第四の壁の破壊と物語の改変|第四の壁の破壊]]
-- [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_asks_フィリス使用_p1282_医療行為におけるインフォームド・コンセントの欠如|インフォームド・コンセント欠如]]
-- [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_reveals_アストラル投射_p1287_インターネット上の匿名性による過激派コンテンツの拡散|匿名過激派拡散]]
-- [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_reveals_接触者5人_p1289_オンラインゲームのチャット機能およびアバター文化|オンライン文化]]
-- [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_says_眷族神_p1293_官僚主義における名称変更と権威の空洞化|官僚主義と権威の空洞化]]
-
-### 第三十二話：幕間　『もうひとつの悪夢』
-
-- [[A_ch0032_alludes_to_E_ch0032_タマ_other_白黒兎_p1321_不思議の国のアリス|不思議の国のアリス]]
-- [[A_ch0032_alludes_to_E_ch0032_ベアトリーチェ_names_ベアトリーチェ_p1309_ダンテのベアトリーチェ|ダンテのベアトリーチェ]]
-- [[A_ch0032_alludes_to_E_ch0032_ベアトリーチェ_says_遺伝学_p1308_メンデルの遺伝学|メンデルの遺伝学]]
-- [[A_ch0032_analogous_to_E_ch0032_ベアトリーチェ_asks_転生の倫理_p1311_椅子取りゲーム|椅子取りゲーム]]
-- [[A_ch0032_inverts_E_ch0032_アズ_thinks_妹への認識_p1308_転生者クリシェチート能力|転生者チート能力]]
-- [[A_ch0032_parodies_E_ch0032_大神院_other_ネット情報_p1324_現代のSNS・アルゴリズム|SNSアルゴリズム]]
-- [[A_ch0032_structurally_matches_E_ch0032_アズ_thinks_英雄願望_p1319_自己責任論・加害者性|自己責任論と加害者性]]
+# アナロジークレーム全集（話別）
+
+全 **462 件**。[[nav/index|話ナビゲーション]] / [[mysteries/index|伏線台帳]] / [[references/index|外部参照]]
+
+## 第1話
+
+- [[A_ch0001_alludes_to_E_ch0001_アキラ_fears_死_p5_徳川家康|死の恐怖で失禁・脱糞する主人公の心理を正当化するために、歴史的な逸話（三方原の戦いでの家康の脱糞）を引用し、人間の生理的リアリ…]]
+- [[A_ch0001_alludes_to_E_ch0001_アキラ_reveals_前世の職業_p17_トラック運転手|転生を手助けする殺し屋を「トラック運転手」と呼ぶのは、異世界転生ジャンルの定番である「トラックによる事故死（なろう系）」を逆手…]]
+- [[A_ch0001_analogous_to_E_ch0001_アキラ_activates_サイバーカラテ道場_p9_AR格闘ゲーム|視界にデフォルメされた人体が投影され、「GOOD!」などの文字が表示される戦闘描写は、AR技術を用いた格闘ゲームやフィットネス…]]
+- [[A_ch0001_analogous_to_E_ch0001_アキラ_other_オプション未選択_p6_スマホゲームのガチャ|転生時の能力選択を「オプション」と呼び、課金をケチった結果として低スペックで転生する様子は、ガチャを回さず無課金で高難易度コン…]]
+- [[A_ch0001_analogous_to_E_ch0001_キール_uses_魔法の地図_p45_スマホの地図アプリ|歩いた通りに自動で線が描かれ、ピンチイン/アウトで操作できる巻物は、現代のスマートフォンにおける地図アプリの操作感を魔法道具に…]]
+- [[A_ch0001_inverts_E_ch0001_アキラ_other_衣服_p13_転生時の全裸|転生時に全裸で現れるのは多くの作品で「トラブル」や「恥」の象徴だが、本作ではアキラが「保険会社の責任」にすり替えるための計算高…]]
+- [[A_ch0001_parodies_E_ch0001_アキラ_activates_ノーペイン_p103_安楽死の倫理|介錯支援アプリ「ノーペイン」は、安楽死や殺人の罪悪感を技術で消去する現代の倫理的ジレンマ（技術による感情の管理）を極端に描いて…]]
+- [[A_ch0001_parodies_E_ch0001_アキラ_activates_非常用回線_p7_カスタマーサポートの待ち時間|生死の境で脳内に響く「待ち時間専用ジングル」は、現代の電話サポートにおける苛立ちを異世界転生という極限状況に持ち込むことで、技…]]
+- [[A_ch0001_parodies_E_ch0001_アキラ_thinks_転生保険の需要_p4_保険業界のリスク管理|異世界転生を「保険商品」として捉え、顧客のリスク許容度（安全派vsハード派）に基づいたマーケティング戦略を風刺している]]
+
+## 第2話
+
+- [[A_ch0002_analogous_to_E_ch0002_アキラ_activates_Doppler_p127_smartphone_apps|アキラが脳内にインストールされたアプリを起動・管理し、メモリ不足でアプリを切り替える様子は、現代のスマートフォンにおけるアプリ…]]
+- [[A_ch0002_analogous_to_E_ch0002_アキラ_learns_誤転生_p167_isekai_isekai|アキラが「事故」によって意図しない世界に転生したという設定は、異世界転生ジャンルにおける「チート能力」や「意図的な転生」のクリ…]]
+- [[A_ch0002_analogous_to_E_ch0002_アキラ_promises_階層の留守番_p163_abandonment|アキラが地上の言葉を喋れないという言語障壁により、アズーリア不在時に状況を説明できないという設定は、異世界転生者における「コミ…]]
+- [[A_ch0002_analogous_to_E_ch0002_アキラ_uses_聴勁_p128_active_sonar|音響処理アプリを用いて周囲の音から攻撃の意思を抽出する聴勁は、アクティブソナーおよびパッシブソナーの技術原理を異世界に移植した…]]
+- [[A_ch0002_analogous_to_E_ch0002_アキラ_uses_震脚_p129_martial_arts|サイバーカラテは義肢の運用を前提とした技術体系であり、アキラが生身の脚でこれを実践することで、サイバネ技術と生身肉体の境界を越…]]
+- [[A_ch0002_analogous_to_E_ch0002_アズーリア_confesses_捨て石_p118_utilitarianism|アズーリアが仲間の死を「捨て石」として許容し、責任を自覚しつつも任務を遂行する姿勢は、功利主義的な軍事的判断と、その倫理的葛藤…]]
+- [[A_ch0002_analogous_to_E_ch0002_アズーリア_uses_死者を代弁する者_p114_mediumship|アズーリアが死者（カイン）の意思を仮構し、言葉によってアキラの罪悪感を癒やす行為は、シャーマニズムや霊媒による死者の代弁をメタ…]]
+- [[A_ch0002_analogous_to_E_ch0002_世界槍_defines_階層構造_p158_dungeon_structure|世界槍が地上と地獄を繋ぎ、内部に空間を折り畳み、掌握者のイメージで構造が決まるという設定は、ゲーム的な「迷宮（ダンジョン）」の…]]
+- [[A_ch0002_analogous_to_E_ch0002_多世界連合_defines_審判役の目的_p166_un_security_council|多世界連合安全保障理事会が審判役を派遣し、世界間の戦争を管理・仲裁する構造は、現実の国際連合安全保障理事会の機能と介入政策を模…]]
+- [[A_ch0002_analogous_to_E_ch0002_金鎖_requires_ネットワーク接続_p121_cloud_security|魔導書の使用許可を『金鎖のフラベウファ』という上位管理者がネットワーク経由でチェックする仕組みは、クラウドベースのセキュリティ…]]
+
+## 第3話
+
+- [[A_ch0003_alludes_to_E_ch0003_ゼオーティア_defines_世界_p182_異世界転生ジャンルのクリシェ|世界が「ゼオーティア（普遍、ありふれたもの）」と呼ばれ、「既知感だらけの凡庸な世界」と定義されることは、異世界転生ジャンルその…]]
+- [[A_ch0003_analogous_to_E_ch0003_アキラ_other_再会_p181_社会制度による個人の圧殺|地上の独房で「無機質な社会」「組織に所属するという現実」「個人を圧殺する仕組み」に囚われ、暴力すら通用しないという描写は、異世…]]
+- [[A_ch0003_analogous_to_E_ch0003_イェレイド_says_迷宮の美意識_p175_ユーザー生成コンテンツUGCの質|魔将たちが迷宮の構築を「嗜虐心と上品さを履き違えている」と罵倒する様子は、ゲームにおける低品質な迷宮デザインや、開発者の趣味全…]]
+- [[A_ch0003_analogous_to_E_ch0003_ガドール_defines_魂と呪術_p174_人工知能と魂の定義|ガドールが魂なき存在を「自律型の魔導書」や「低級の使い魔」と定義し、呪術の質が落ちると述べる描写は、現代のAI技術における「意…]]
+- [[A_ch0003_foreshadows_E_ch0003_人狼_says_アキラへの期待_p180_主人公の成長と秩序の破壊|人狼（魔女）がアキラに対し「貴方たちの作る秩序だって打ち倒して、その先へ行ける」と予言し、「もっと強くなってよね」と促すことは…]]
+- [[A_ch0003_inverts_E_ch0003_赤い髪の魔女_says_祈りと暴力_p182_宗教と暴力の逆転|「祈祷の道具を鈍器に換えて、殴って悪夢を醒ましてやろう」という魔女の言葉は、通常「平和」や「救済」を象徴する宗教的儀式（祈り）…]]
+- [[A_ch0003_parodies_E_ch0003_ガドール_says_エスフェイルの死因_p174_タイムパラドックスと因果律の破壊|エスフェイルが「紀源から遡及的に解体」され「過去に遡って因果ごと殺す」という死因は、SFにおけるタイムパラドックスや、ゲームに…]]
+- [[A_ch0003_structurally_matches_E_ch0003_人狼_attacks_ヲルヲーラ_p179_システム管理者権限の行使|ヲルヲーラが「新世界の秩序」を称し、それに歯向かう者を排除する展開は、ゲームサーバーの管理者（GM）による秩序維持権限や、シス…]]
+
+## 第4話
+
+- [[A_ch0004_alludes_to_E_ch0004_アキラ_thinks_ロドウィとの敵対_p209_yakuza_ethics|ロドウィとの関係における「恩着せがましい善意」と「将来的な敵対」の予感は、ヤクザ社会における「義理」と「裏切り」、および組織犯…]]
+- [[A_ch0004_alludes_to_E_ch0004_コルセスカ_other_翻訳の原理_p217_heidegger|アキラとコルセスカの会話における「時制の矛盾」への言及は、ハイデガーの存在論（時間性、現存在）を引用し、言語と存在の関係を哲学…]]
+- [[A_ch0004_analogous_to_E_ch0004_アキラ_uses_義手充電_p186_smartphone_battery|義手の充電を「食事同然の日常」と表現し、電力不足を生存の危機とする描写は、現代のスマートフォン依存症（バッテリー切れへの不安）…]]
+- [[A_ch0004_analogous_to_E_ch0004_コルセスカ_other_翻訳の原理_p217_turing_test|コルセスカの翻訳手法は、意味を理解せずに規則的な回答を生成する人工無能（チャットボット）との対話、すなわちチューリングテストの…]]
+- [[A_ch0004_analogous_to_E_ch0004_第五階層_defines_価値基準_p185_hyperinflation|第五階層の闇市場における貨幣の暴落は、極度のインフレや経済崩壊下での価値基準の喪失を模している]]
+- [[A_ch0004_analogous_to_E_ch0004_第五階層_defines_私刑の法_p191_vigilante_justice|第五階層における「人狼」への私刑は、法執行機関が存在しない無政府状態における自警団活動や、群衆によるリンチの構造を反映している]]
+- [[A_ch0004_inverts_E_ch0004_コルセスカ_reveals_アキラの居場所_p223_cultural_rooting|言語習得の失敗を「能力不足」ではなく「文化的根拠（居場所）の欠如」として定義することで、学習者中心の教育観を社会構造中心の観点…]]
+- [[A_ch0004_structurally_matches_E_ch0004_刺客_uses_空間折り畳み武器_p229_augmented_reality|空間を折り畳み武器の質量を操作する技術は、ゲーム内の「当たり判定」と「表示」のズレを物理現象として実装したものである]]
+- [[A_ch0004_sublates_E_ch0004_コルセスカ_kills_刺客_p232_magic_vs_science|コルセスカの氷結攻撃は、物理的な防御（硬い肌）を無視する「論理破綻」を武器とすることで、科学技術の整合性を超越する「魔術」の本…]]
+
+## 第5話
+
+- [[A_ch0005_analogous_to_E_ch0005_アキラ_activates_残心プリセット_p302_自律型AIと脳侵襲技術|脳や脊髄を介さず義肢を自律制御するアプリは、脳侵襲型BCI（ブレイン・コンピュータ・インターフェース）が未発達な世界における…]]
+- [[A_ch0005_analogous_to_E_ch0005_アキラ_other_自己の拡張_p280_サイボーグの自己同一性|義肢を「自己」の一部と認識し、その破損が強いストレスになるという描写は、サイボーグ技術における身体イメージの境界線や自己同一性…]]
+- [[A_ch0005_analogous_to_E_ch0005_アキラ_other_食事拒否の理由_p256_防犯意識と警戒心|食事中に武器が封じられ無防備になることを警戒する描写は、現代の防犯意識（隙を突かれることへの恐怖）を、異世界での生存戦略として…]]
+- [[A_ch0005_analogous_to_E_ch0005_アキラ_uses_感情制御アプリE-E_p254_精神薬物療法と自己管理|感情や衝動をアプリで抑制し「何も感じない夜」を過ごす描写は、現代の精神科治療における薬物療法（SSRI等）や、SNS断ち、マイ…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_defines_異獣_p278_バベルの塔の神話|「異獣」を「異言の民」と定義し、バベルの塔神話の裏返しとして言語の神秘性を論じることは、言語の多様性が神罰（混乱）として描かれ…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの存在_p284_ネットメディアと炎上|アキラの存在がネットメディアで発表され、取材が殺到する描写は、現代のネットニュース、SNSでの拡散、および「炎上」や「注目」の…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの社会性_p277_人間の商品化|「人間に値札を付ける」という表現は、人間を商品として評価・序列化する現代の資本主義的価値観（人材市場、SNSでの評価）を批判的…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの社会性_p277_贈与の経済学|「贈与への無批判な信仰」という分析は、現代社会における「ギフテッド」や「インフルエンサーの贈与」、あるいは「善意の搾取」に関す…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの神秘性_p279_アナロジーの誤謬|「アナロジーの誤謬が物理法則を屈服させる」という記述は、論理学の「アナロジーの誤謬（類推の誤謬）」を、この世界では物理的な力と…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラへの評価_p283_動物の調教|アキラを「獣」と評し「躾けて調教する」と独白することは、人間を動物として扱い、支配・訓練しようとする権力構造（調教）を暗示して…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_ラベリング_p263_言語処理のデータベース化|言語の習得・翻訳を、個人の学習ではなく端末データベースへの「ラベリング（タグ付け）」と分類として処理する仕組みは、現代の検索エ…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_光学立体映像_p240_ARとVRの技術的差異|この世界の映像技術が「外から感覚する」光学投影であり、脳への直接フィードバック（AR/VR）ではないという説明は、現代のAR/…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_家の透視_p259_監視社会とプライバシー|家の中から外が見えるが、外から中を見ると耳が壊死するという警告は、プライバシーの非対称性（見られることへの恐怖）と、監視行為に…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_投射武器規制_p238_銃刀法と武器規制|弓・銃・砲などの投射武器が法で厳重に規制され、資格なしでは禁固刑になるという設定は、現代の銃刀法や武器所持規制を反映している]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_探索パーティ編成_p266_MMORPGのパーティ構成|迷宮探索の最小単位が3人、一般は6人、最大9人という編成ルールは、MMORPGにおけるパーティ構成（タンク、ヒーラー、DPSの…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_撮影規制_p287_プライバシー保護と肖像権|記憶に基づく念写以外の撮影が禁止され、撮影が呪殺や意識の閉じ込めに利用されるという設定は、現代の監視カメラ社会、顔認証技術、お…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_撮影規制_p287_顔認証技術の倫理|撮影が意識を閉じ込めるリスクがあるという設定は、顔認証技術が個人を特定・追跡し、自由を奪う現代の技術的脅威を呪術的に誇張したも…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_言語の取引_p264_知的財産権とライセンス|人工言語が競争入札にかけられ、権利者に使用料を払う必要があるという描写は、現代のソフトウェアライセンス、特許、著作権といった知…]]
+- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_防御オーブ_p257_セキュリティシステム|自動的に攻撃を防御し反撃するオーブは、現代のセキュリティシステム（侵入検知、自動防御）のメタファーである]]
+
+## 第6話
+
+- [[A_ch0006_alludes_to_E_ch0006_コルセスカ_says_記憶の解釈_p307_narrative_construction|コルセスカの「記憶や意識は事後的に解釈されている」という発言は、人間の自己同一性が連続的な実体ではなく、過去を参照して事後的に…]]
+- [[A_ch0006_analogous_to_E_ch0006_アキラ_dies_狼の王_p306_grinding|成長の伴わない死の反復は、MMOゲーム等で経験する、進歩のない単調な戦闘ループの苦痛と無意味さを象徴している]]
+- [[A_ch0006_analogous_to_E_ch0006_アキラ_thinks_過去の牢獄_p307_save_data_corruption|記憶が蓄積されず同じ地点からリスタートし続ける構造は、ゲームにおけるセーブデータの上書きやチェックポイントからの無限リスタート…]]
+- [[A_ch0006_foreshadows_E_ch0006_謎の声_says_頭を良くする_p310_cognitive_modification|「頭を良くしてあげる」という謎の声の発言は、アキラの認知機能や精神構造に対する直接的な介入（ハッキング、改変、あるいは洗脳）が…]]
+- [[A_ch0006_inverts_E_ch0006_アキラ_thinks_反証としての現実_p309_counterfactual_thinking|悪夢（もし六人と出会わなかったら）という反事実的なシミュレーションを見ることで、現実の記憶の価値を逆説的に確認する構造は、反事…]]
+- [[A_ch0006_parodies_E_ch0006_アキラ_thinks_馬鹿_p310_hardware_spec|アキラが自分の暴力性や社会適応の失敗を「病でも故障でもない、ただの仕様」と呼ぶのは、人間の精神をハードウェアの仕様（スペック）…]]
+
+## 第7話
+
+- [[A_ch0007_analogous_to_E_ch0007_アキラ_activates_サイバーカラテ道場_p345_Mobile_Game_App|「格闘動作制御アプリ」「感覚・感情制御アプリ」「索敵アプリ」という用語群は、現代のスマートフォンゲームやARアプリのインターフ…]]
+- [[A_ch0007_analogous_to_E_ch0007_アキラ_remembers_少年の言葉_p344_Machine_Translation_Lag|過去の記憶を遡って言語が日本語に置き換わっていく現象は、リアルタイム翻訳の遅延や、後から翻訳データが適用される仕組みを想起させる]]
+- [[A_ch0007_analogous_to_E_ch0007_アキラ_says_保留_p330_User_Agreement|「使い魔になって下さい」という契約提案に対し「保留で」と答える行為は、現代のアプリ利用規約やサービス契約への同意プロセスを模し…]]
+- [[A_ch0007_analogous_to_E_ch0007_コルセスカ_confesses_目的_p329_RPG_Quest|「迷宮を攻略し、最深部でボス（火竜）を倒す」という目標設定は、現代のRPGやMMOにおける標準的なクエスト構造そのものである]]
+- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_opens_境界空間_p353_Loading_Screen|第五階層と第六階層の「境界にある空間」を通り抜ける描写は、ゲームにおけるロード画面や、ステージ間の転送処理を空間的に表現したも…]]
+- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_reveals_無資格_p316_Unlicensed_Medicine|「社会的に独立した孤高のウィッチドクター」でありながら「医師としては無資格」という設定は、異世界の専門職権威と現代的な資格規制…]]
+- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_reveals_言語資源_p320_Machine_Translation|「辞書やコーパスなんかの電子データをそっちの世界から送ってもらえばいい」という説明は、機械翻訳や言語資源のデジタル化によるコミ…]]
+- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_says_アキラ_p312_AI_Voice_Assistant|トリシューラの「息づかいがない」「スピーカーを通したようなアーティフィシャルな声」は、現代のAI音声アシスタントや合成音声の特…]]
+- [[A_ch0007_analogous_to_E_ch0007_男_threatens_少年_p334_Social_Media_Viral|動画による脅迫と、その下に並ぶコメント欄（同意するチェックボックス）は、SNSにおける炎上や世論形成、そして「動画信仰」と呼ば…]]
+
+## 第8話
+
+- [[A_ch0008_alludes_to_E_ch0008_カーイン_defines_六淫操手_p373_traditional_chinese_medicine|カーインが「六淫（風邪、寒邪、暑邪、湿邪、燥邪、火邪）」を操作し、体内の気・血・水を調整して病を発生させるという能力は、漢方医…]]
+- [[A_ch0008_analogous_to_E_ch0008_アキラ_uses_残心プリセット_p382_safety_override|アキラが「安全性を優先することによって不可避的に発生するセキュリティホールを塞ぐために、現代の日本では使用するアプリケーション…]]
+- [[A_ch0008_analogous_to_E_ch0008_アキラ_uses_音響処理アプリDoppler_p361_augmented_reality_game|視覚を奪われた状態で音響アプリ『Doppler』を駆使し、敵の位置を特定して攻撃する様子は、ARゲームやFPSゲームにおけるミ…]]
+- [[A_ch0008_analogous_to_E_ch0008_コルセスカ_defines_キーワード定義凍結_p393_programming_exception_handling|コルセスカの「キーワード定義『凍結』]]
+- [[A_ch0008_analogous_to_E_ch0008_コルセスカ_other_血液_p394_vampire_mythology|コルセスカが敗者から血液を抜き取り、それを氷の指輪の装飾として利用する様子は、吸血鬼伝承における「血液の吸い取り」を、魔女の「…]]
+- [[A_ch0008_analogous_to_E_ch0008_トリシューラ_appears_アキラの脳内_p384_ai_assistant_interface|トリシューラがアキラの脳内に音声とテキストで直接語りかけ、視覚情報を共有し、思考を覗き込む様子は、現代のAIアシスタントや脳-…]]
+- [[A_ch0008_foreshadows_E_ch0008_トリシューラ_defines_杖の専門_p387_medical_technology|トリシューラが「杖」の専門分野として「医術」を含め、「肉体を生体部品の集合だと捉える」と述べることは、彼女がアキラの失われた左…]]
+- [[A_ch0008_inverts_E_ch0008_アキラ_other_復讐の連鎖_p380_vendetta_logic|アキラが「一族郎党皆殺し」を主張するのは、伝統的な「仇討ち」の倫理（主犯のみ、一対一）を逆転させ、血族の連鎖を断ち切るための「…]]
+- [[A_ch0008_parodies_E_ch0008_カーイン_names_ロウ・カーイン_p366_wuxia_genre|カーインの「奉竜山青海が門下」「六淫操手」「名を告げたからには必ず殺す」という名乗りと戦闘スタイルは、中国武術小説（武侠小説）…]]
+- [[A_ch0008_structurally_matches_E_ch0008_アキラ_other_金の力_p362_pay_to_win_mechanics|アキラが「俺の強さとは即ち彼らの持っていない技術によるもので、換言すると金の力だ」と述べ、高額な閃光符を惜しみなく消費する戦法…]]
+
+## 第9話
+
+- [[A_ch0009_alludes_to_E_ch0009_アキラ_bonds_カーイン_p424_武侠小説の義理・恩義|敵対関係にあるカーインとの共闘は、「借りを作ったまま殺し合いはできない」という武侠的な義理の倫理に基づいている]]
+- [[A_ch0009_alludes_to_E_ch0009_コルセスカ_appears_復活_p406_ゲームの蘇生アイテム・ストック|コルセスカの不死性は、ゲーム的な蘇生アイテムのストックを想起させるが、引用文のみではそのメカニズムの具体性（指輪へのストック）…]]
+- [[A_ch0009_alludes_to_E_ch0009_トリシューラ_defines_人造人間_p405_アンドロイドの定義・ガイノイド|トリシューラの存在は、SFにおける人造人間の概念を引用しつつ、現代日本における用語の性的ニュアンスへの批判を内包している]]
+- [[A_ch0009_analogous_to_E_ch0009_アキラ_kills_聖騎士_p412_ゲームの消費型武器・弾薬コスト|強力な武器の使用には一回一万という莫大なコスト（弾薬費）が発生し、戦闘が経済活動（消費活動）として描かれている]]
+- [[A_ch0009_analogous_to_E_ch0009_アキラ_other_斧_p428_スマホゲームの弾道予報アプリ|戦闘における投擲の精度は、ユーザー評価星五つの優良アプリによるアルゴリズム的な補正によって担保されている]]
+- [[A_ch0009_analogous_to_E_ch0009_トリシューラ_reveals_全身義体_p404_サイボーグ・義肢|トリシューラの破損した肉体は、アキラの右腕と同じく金属製の義体であり、サイボーグ的な身体観を提示する]]
+- [[A_ch0009_inverts_E_ch0009_トリシューラ_says_カッサリオ_p399_生物兵器の倫理|カッサリオは自然の生物ではなく、いにしえの言語魔術師が作り出した「召喚者以外は皆殺しにする」という仕様を持つ生物兵器として定義…]]
+- [[A_ch0009_parodies_E_ch0009_アキラ_other_斧_p428_アプリのユーザー評価|アプリの信頼性は「ユーザー評価平均星五つ」という現代のアプリストアの指標によって保証されている]]
+- [[A_ch0009_parodies_E_ch0009_トリシューラ_gives_義腕_p409_ガチャ・課金システム|悪魔との契約という劇的な瞬間が、実際には高額な義肢のセールスとサブスクリプション（弾薬費）による課金システムへと変質している]]
+- [[A_ch0009_structurally_matches_E_ch0009_カッサリオ_activates_アラームトラップ_p426_ゲームの敵召喚トラップ|カッサリオの音は、過去の宝箱開封時のアラームとリズムが一致しており、ゲーム的な「敵の増援を呼ぶトラップ」のメカニズムを模倣して…]]
+
+## 第10話
+
+- [[A_ch0010_alludes_to_E_ch0010_アキラ_remembers_カインの死_p470_安楽死|カインの同化と殺害の記憶は、安楽死や尊厳死の倫理的葛藤、特に「苦痛からの解放」という名目で他者の生命を断つ行為の重さを示唆して…]]
+- [[A_ch0010_alludes_to_E_ch0010_コルセスカ_activates_シャルマキヒュの凍視_p459_監視社会|「受動型呪術」「回避の権利はありません」という宣言は、一度視認されれば逃れられないという点で、現代の監視カメラやデータ追跡によ…]]
+- [[A_ch0010_analogous_to_E_ch0010_アキラ_observes_融合体の音_p454_音声認識AI|アキラが聴覚を鋭敏にし、ノイズを排除して個々の音にタグ付けしグループ分けする行為は、現代の音声認識AIやノイズキャンセリング技…]]
+- [[A_ch0010_analogous_to_E_ch0010_コルセスカ_makes_呪術準備_p436_AR_ゲーム|床の紋様と氷球の立体映像が組み合わさる様子は、現実のAR技術というより、魔術による視覚的干渉や多層的な結界の演出を想起させる]]
+- [[A_ch0010_analogous_to_E_ch0010_ロウ・カーイン_other_探索者パーティ_p450_転職|悪鬼の用心棒から探索者パーティへの「暫定的な加入」は、状況に応じた即時的な契約形態の変更（ギグワーク）のメタファーである]]
+- [[A_ch0010_inverts_E_ch0010_アキラ_attacks_カッサリオ_p461_格闘ゲーム_入力コマンド|サイバーカラテ道場の仮想人体に光が点灯し、「GOOOD!」「発勁用意」「DOSUKOI!」といった文字が表示される様子は、格闘…]]
+- [[A_ch0010_parodies_E_ch0010_アキラ_thinks_価値の相対性_p441_自己責任論|アキラが「価値は外部から規定される欺瞞」として抗う姿勢は、社会構造によって個人の価値が決定されることへの批判であり、自己責任論…]]
+- [[A_ch0010_parodies_E_ch0010_アキラ_threatens_カーインの誇り_p451_ネット炎上|カーインの二つ名を「虚名」「大道芸」と貶めるアキラの挑発は、ネット上での人格否定や、実績を「盛っている」と批判する炎上行為の構…]]
+- [[A_ch0010_structurally_matches_E_ch0010_アキラ_finds_カッサリオの位置_p460_スマホゲーム_ターゲットロック|アプリ『Doppler』を用いて巨大な敵集団の中から特定のボス（カッサリオ）の位置を特定し、視覚情報ではなく音響データで補正す…]]
+- [[A_ch0010_structurally_matches_E_ch0010_アキラ_says_殺意の定義_p439_ブラックリスト|「信用が失われれば無視」「不信が蓄積すれば殺す」という二項対立は、SNSやプラットフォームにおけるユーザーのブラックリスト化（…]]
+
+## 第11話
+
+- [[A_ch0011_alludes_to_E_ch0011_コルセスカ_says_世界よ凍れ_p488_時間の凍結|「世界よ凍れ――私以外の全てが遅い」という台詞は、物理的な氷結ではなく、戦闘における行動順の支配や時間操作能力を象徴する比喩的…]]
+- [[A_ch0011_alludes_to_E_ch0011_コルセスカ_says_炎は黄金を証明する_p501_ラテン語の格言|コルセスカの詠唱「Ignis aurum probat; miseria fortes viros」は、セネカの書簡に由来する…]]
+- [[A_ch0011_alludes_to_E_ch0011_トリシューラ_names_鮮血のトリシューラ_p487_トリシューラ|トリシューラの名前はヒンドゥー教の三柱神の一人トリシューラ（Trishula、三叉槍を持つシヴァの別名）に由来しており、彼女の…]]
+- [[A_ch0011_analogous_to_E_ch0011_ちびシューラ_says_負担の分散_p494_パーティ構成|コルセスカが仲間を増やす理由を「氷血呪の反動を分散させるため」と説明するのは、MMORPGにおけるタンクやヒーラーの役割分担…]]
+- [[A_ch0011_analogous_to_E_ch0011_アキラ_remembers_前世の社会_p476_割れた窓理論|前世の社会の美辞麗句の中に「割れた窓を放置してはならない」という犯罪予防理論（割れた窓理論）を引用し、社会の正常化が構造的暴力…]]
+- [[A_ch0011_analogous_to_E_ch0011_アキラ_remembers_片腕の男_p477_義肢の経済格差|裕福な主人公が受けたオーダーメイドの高性能義肢と、路上生活者が買えない安価な義肢の対比は、医療技術のアクセス格差と、転生保険に…]]
+- [[A_ch0011_analogous_to_E_ch0011_トリシューラ_activates_パワードエクゾスケルトン_p490_強化外骨格|魔法世界における「きぐるみ」や「甲冑」を、現代の軍事技術であるパワードエクゾスケルトン（強化外骨格）として描写し、SF的ガジェ…]]
+- [[A_ch0011_analogous_to_E_ch0011_トリシューラ_takes_王獣カッサリオの角_p503_ゲームのレアドロップ|戦闘後の戦利品回収を「レアドロップ」というゲーム用語で表現し、異世界転生がゲーム的メカニクス（ドロップアイテム、パーティ構成）…]]
+- [[A_ch0011_analogous_to_E_ch0011_転生保険_defines_転生保証_p478_転生保険|異世界転生というファンタジー要素を、現実の保険商品（特に生命保険や年金）の構造、加入格差、および「選択肢の不在」を批判する社会…]]
+
+## 第12話
+
+- [[A_ch0012_alludes_to_E_ch0012_トリシューラ_defines_不死_p513_ship_of_theseus|トリシューラの不死が「再現性」であり身体をスペアに取替えるという設定は、ハードウェアの交換可能性を通じて自己同一性を維持するア…]]
+- [[A_ch0012_analogous_to_E_ch0012_ちびシューラ_other_アキラ_p561_harem_game|使い魔契約を「ハーレム構築」「寵愛の競い合い」と表現するのは、異世界の権力構造を現代の消費文化（ゲーム・アイドル文化）の用語で…]]
+- [[A_ch0012_analogous_to_E_ch0012_アキラ_uses_盤外の夜_p548_game_ai|アキラが起動するゲーミングアプリ『盤外の夜』は、現実のゲームAIや最適化アルゴリズムを指し、異世界における「チート」が技術的な…]]
+- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_names_ノアズアーク_p511_noahs_ark|トリシューラが巡槍艦マツヤを「ノアズアーク」と命名するのは、作品内のメタフィクション的命名遊びであり、神話的権威を借用して自ら…]]
+- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_other_サイバーカラテ道場_p567_open_source|サイバーカラテの型を無料動画で公開し、詳細を有料で提供するモデルは、フリーミアム戦略やコンテンツ販売のビジネスモデルを模している]]
+- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_other_マッチングシステム_p573_sns_platform|トリシューラが計画する探索者用SNSは、現代のマッチングアプリやプラットフォーム経済を模しており、ユーザーデータの収集とフィー…]]
+- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_other_第五階層の崩壊_p577_open_source_community|第五階層の技術が「オープンソースであるべき」という理念を掲げていたことは、オープンソースコミュニティの理想を指喩している]]
+- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_治癒符_p566_inflation|治癒符を過剰供給して価値を下げ、公社の基軸通貨を崩壊させる戦略は、インフレによる通貨価値の暴落と経済的支配権の奪取を模した経済…]]
+- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_物理インターフェース_p525_performative_ritual|必要のない物理的な打鍵や操作を「それっぽい」行為として行うことは、形式主義や儀礼的な行為が人間性（または社会性）を担保するとい…]]
+- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_鮮血呪_p527_3d_printing|模型を本物に置き換える呪術は、シミュレーション（模型）と実体（本物）の境界を消去するメタフィクション的な技術であり、記号が実体…]]
+
+## 第13話
+
+- [[A_ch0013_alludes_to_E_ch0013_店員_other_古代語_p599_言語魔術師|店員がレオの古代語を流暢に話せることは、この世界における言語の多様性や、特定の言語知識を持つ人物の存在を示唆している]]
+- [[A_ch0013_analogous_to_E_ch0013_Speaer_other_エスニック・ポリフォニー_p611_ワールドミュージック|歌姫Speaerの音楽が「無国籍」「エスニック風」「背景の見えない軽薄さ」と多様な解釈を生むことは、現代のグローバル化された音…]]
+- [[A_ch0013_analogous_to_E_ch0013_トリシューラ_reveals_襲撃映像の公開_p592_YouTube_編集動画|トリシューラが戦闘映像を「無駄な所をカットし、プライベートに配慮した編集」でアップロードする行為は、現代のSNSや動画共有サイ…]]
+- [[A_ch0013_analogous_to_E_ch0013_ライブラリ_defines_四十枚一組の端末形式_p602_カードゲーム_デッキ構築|カード型端末を40枚一組の「ライブラリ」として構成し、魔導書に劣らない性能を発揮させる仕組みは、分散型データベースやモジュール…]]
+- [[A_ch0013_analogous_to_E_ch0013_ロドウィ_other_住宅サービス_p621_脱法ハウス|ロドウィが提案する「低価格で住居を貸し出す」サービスは、実質的に弱者から創造能力を奪い住居を失わせた上で、その住居を貸し出して…]]
+- [[A_ch0013_analogous_to_E_ch0013_治癒符_appears_空からの散布_p625_ヘリコプターマネー|無人の回転翼機が大量の治癒符（通貨）を階層にばらまく様子は、経済危機時の「ヘリコプターマネー」政策や、ゲーム内でのアイテム配布…]]
+- [[A_ch0013_parodies_E_ch0013_ロドウィ_asks_アニスとの結婚_p619_マフィア映画_娘との結婚|マフィアの首領が主人公に娘との結婚を提案し、組織への組み込みを図る展開は、『ゴッドファーザー』などのマフィア映画における「家族…]]
+- [[A_ch0013_structurally_matches_E_ch0013_アキラ_wears_急場凌ぎの義肢_p596_サイバーパンク_義肢|アキラが装着する「動かすことのできない装飾用の急場凌ぎの義肢」は、サイバーパンク作品における義体化の過渡期や、機能不全なサイバ…]]
+
+## 第14話
+
+- [[A_ch0014_alludes_to_E_ch0014_レオ_says_選別された救済_p638_慈善事業の選別性|松明の騎士団が「上の人たち」しか助けないという描写は、歴史的な宗教慈善活動における信徒限定の救済や、現代のNPO活動における対…]]
+- [[A_ch0014_analogous_to_E_ch0014_ちびシューラ_other_幻肢接続の原理_p634_脳-コンピュータインターフェースBCI|幻肢（脳内の錯覚）を捉えて物質と繋げるという説明は、脳波や神経信号を直接読み取り機械を制御するBCI技術のオカルト的変換であり…]]
+- [[A_ch0014_analogous_to_E_ch0014_アキラ_fears_格差_p631_医療保険と自己責任論|「保険に加入できるかできないかの違い」が生死・再起の機会を決定づける構造は、現代社会における医療保険制度の格差や、自己責任論に…]]
+- [[A_ch0014_analogous_to_E_ch0014_コルセスカ_says_ゲームの競技性_p644_ゲームの競技性eSports|コルセスカが迷宮探索を「一回性の死」「シビアなリソース管理」「スコアを目指す」と定義し、ゲームをスポーツとして正当化する言説は…]]
+- [[A_ch0014_analogous_to_E_ch0014_トリシューラ_defines_ヒエロス・ガモス_p663_契約社会と労働契約|「聖婚」という宗教的・魔術的な契約形式を、雇用契約やパートナーシップ契約の比喩として用い、「いつでも破棄できる」という現代的な…]]
+- [[A_ch0014_analogous_to_E_ch0014_トリシューラ_other_公社の送金ルート_p641_暗号通貨と金融規制|公社が独占する非正規送金ルートを潰し、ピアツーピア型の決済網と暗号通貨を構築するというトリシューラの計画は、既存の金融システム…]]
+- [[A_ch0014_analogous_to_E_ch0014_トリシューラ_other_第五階層ミニチュア_p651_デジタルツイン＼シミュレーション|第五階層の情報をリアルタイムで収集し、ミニチュア模型として再現・管理するシステムは、現実世界をデジタル空間で複製・監視するデジ…]]
+- [[A_ch0014_analogous_to_E_ch0014_トリシューラ_other_類感呪術義肢_p656_遠隔操作＼アバター|模型（アバター）を遠隔操作し、その動きが現実世界に反映される仕組みは、VRアバターや遠隔操作ロボット、および「アナロギア（類感…]]
+- [[A_ch0014_analogous_to_E_ch0014_レオ_observes_アキラと老人の会話_p628_非言語コミュニケーションの解析|レオは言語理解の欠如を補う形で、声のトーンや微細な音響的差異（寒さ、冷たさ）から感情の真偽を解析しており、これは非言語コミュニ…]]
+- [[A_ch0014_parodies_E_ch0014_アキラ_thinks_右腕の不正_p632_技術移転規制と倫理|異世界への技術持ち込みを「犯罪行為」「不正」と定義し、主人公が自らの優位性を罪悪感として捉える点は、技術移転規制や植民地支配に…]]
+
+## 第15話
+
+- [[A_ch0015_alludes_to_E_ch0015_キロン_other_キュトスの姉妹_p706_mythological_demonization|キロンの論理は、トリシューラを「邪神の末裔」として神話的に悪魔化し、宗教的・神話的権威によって排除しようとする構造を指している]]
+- [[A_ch0015_alludes_to_E_ch0015_公社_makes_新紙幣_p678_fiat_currency_meme|紙幣が国家権力による承認を通じて文化的図像を強制し、思想を伝播させる「呪符」として機能する構造は、メディアのイデオロギー支配を…]]
+- [[A_ch0015_analogous_to_E_ch0015_アキラ_thinks_マクガフィン_p716_macguffin|主人公が他者から求められる「価値」を、物語を動かすための道具に過ぎない「マクガフィン」として自己認識するのは、メタフィクション…]]
+- [[A_ch0015_analogous_to_E_ch0015_探索者協会_attacks_アキラ_p674_internet_flame_war|功績の独占を巡る争いが、匿名のネットユーザーによる断片的な情報に基づく「炎上」へと発展する様子は、現代のSNSにおけるキャンセ…]]
+- [[A_ch0015_inverts_E_ch0015_レオ_makes_フィランソロピー_p715_altruism_vs_utilitarianism|レオの「見返りを求めない、拒絶されても続く施し」は、アキラが依拠してきた「効用」や「生存」を基準とした合理的判断（功利主義）を…]]
+- [[A_ch0015_parodies_E_ch0015_アキラ_says_サイバーカラテの定義_p676_genre_classification|「サイバーカラテ」が既存の武術カテゴリー（空手、中国武術）に収まらないと激怒する場面は、ジャンル分類への執着や「俺のジャンルは…]]
+- [[A_ch0015_parodies_E_ch0015_トリシューラ_makes_広告塔_p672_influencer_marketing|トリシューラが肖像権を盾に法外な金銭を要求する行為は、現代の権利ビジネスや法的圧力を悪用した搾取構造を風刺している]]
+- [[A_ch0015_structurally_matches_E_ch0015_キロン_names_真名_p695_true_name_magic|真名を名乗ることで物理的・精神的な支配力を行使するキロンの行為は、ファンタジーにおける「真名の力」のクリシェを、呪術的な権威の…]]
+
+## 第16話
+
+- [[A_ch0016_alludes_to_E_ch0016_ロドウィ_thinks_アキラの保護_p736_植民地支配_労働力|異世界人を「転生労働力」として安く買い叩き、自らの支配下に置こうとするロドウィの論理は、近代の植民地主義における労働力搾取の構…]]
+- [[A_ch0016_analogous_to_E_ch0016_キロン_says_クラッキングの逆効果_p725_暗号通貨_セキュリティ|攻撃が防御されたことで通貨の信用度が上がるというキロンの指摘は、強奪行為そのものが対象の価値を認める証明となるという、作品内経…]]
+- [[A_ch0016_analogous_to_E_ch0016_女呪術師_other_魔将九体_p740_十面体サイコロ|「賽は投げられた」というラテン語の引用と十面体の賽子の描写は、運命の決定論と確率論（乱数生成）を対比させるメタファーである]]
+- [[A_ch0016_foreshadows_E_ch0016_キロン_says_アキラへの恩義_p728_転生者_親友|キロンがアキラを「親友を送ってくれた恩人」と呼ぶことは、アキラが過去にキロンの親友（異獣化前の存在）を救ったという過去イベント…]]
+- [[A_ch0016_inverts_E_ch0016_ロドウィ_says_弱者救済_p735_NPO_偽善|人身売買を中継する犯罪組織が「弱者救済」を標榜するのは、組織の暴力性を正当化するためのイデオロギー的建前と実態の乖離を示している]]
+- [[A_ch0016_structurally_matches_E_ch0016_セージ_takes_少女の肉体_p734_サイボーグ_身体拡張|セージが水によって少女の肉体を「クラッキング」し乗っ取る行為は、サイバーパンクにおける「身体へのハッキング」や「意識の転送」を…]]
+
+## 第17話
+
+- [[A_ch0017_alludes_to_E_ch0017_コルセスカ_defines_ICE_p753_ice_acronym|コルセスカの攻性防壁「ICE」は、サイバーセキュリティ用語の「Intrusion Countermeasures Electr…]]
+- [[A_ch0017_alludes_to_E_ch0017_トリシューラ_says_打鍵速度と技量_p749_gaming_mechanics|打鍵速度が技量とイコールであるという設定は、リズムゲームやMMOにおける「APM（Actions Per Minute）」がプ…]]
+- [[A_ch0017_analogous_to_E_ch0017_トリシューラ_says_文体論的推定_p757_stylometry|テキストの「筆致」や「文体」から個人を特定する手法は、現実の統計言語学における「文体計量学（Stylometry）」や、ネット…]]
+- [[A_ch0017_analogous_to_E_ch0017_トリシューラ_says_視覚的イメージの効用_p749_placebo_effect|呪術の発動に「仰々しさ」や「直観に則した外観」が必要とされる理屈は、医学的なプラセボ効果（偽薬効果）や、儀式の心理的効果と構造…]]
+- [[A_ch0017_parodies_E_ch0017_トリシューラ_activates_アストラル界へのダイブ_p748_hacker_movie_trope|アストラル界への侵入描写が、映画やゲームにおける「ハッキング」のステレオタイプな視覚表現（ヘッドギア、高速打鍵、3Dマップ）を…]]
+- [[A_ch0017_parodies_E_ch0017_トリシューラ_makes_情報操作の解析_p756_social_media_manipulation|SNSでの情報拡散、アカウント作成日時、スレッドのタイミングを解析して工作を暴くプロセスは、現代のネット世論操作（アストロフィ…]]
+- [[A_ch0017_structurally_matches_E_ch0017_敵呪術師_transforms_物理的実体_p752_augmented_reality|画面内のアバターが物理的な実体を得て現実世界に出現する現象は、デジタルとアナログの境界が崩壊する「バーチャルの実体化」のSF的…]]
+
+## 第18話
+
+- [[A_ch0018_analogous_to_E_ch0018_アキラ_attacks_負傷した少年_p820_弱者への攻撃・いじめ|アキラが最も弱った少年を狙う戦略を「鉄則」として実行し、コルセスカがそれを「卑劣」と批判する対立は、いじめや弱者への攻撃におけ…]]
+- [[A_ch0018_analogous_to_E_ch0018_アキラ_breaks_アブロニクレス_p807_監視カメラの破壊・プライバシーの侵害|迷宮の基点である浮遊眼球（監視装置）を物理的に破壊する行為は、監視社会における監視カメラの破壊や、プライバシーの侵害に対する物…]]
+- [[A_ch0018_analogous_to_E_ch0018_アキラ_thinks_左手の記憶_p772_トラウマ・PTSD|アキラが「色のない左手」を差し伸べられた記憶を運命の決定要因として反芻する描写は、PTSD（心的外傷後ストレス障害）におけるフ…]]
+- [[A_ch0018_analogous_to_E_ch0018_アキラ_thinks_松明の騎士団_p810_組織の論理・集団の暴力|アキラがキロンの個人的な約束よりも「松明の騎士団」という組織の論理を信用できないと判断する点は、個人の信頼と組織の暴力性（集団…]]
+- [[A_ch0018_analogous_to_E_ch0018_アキラ_uses_E-E_p792_感情制御アプリ・SNSのフィルタリング|【E-E】による感情の分離と客観視は、SNSでの情報フィルタリングや、感情を切り離して業務を行う現代の「感情労働」の自動化・ア…]]
+- [[A_ch0018_analogous_to_E_ch0018_キロン_says_槍との一体化_p824_サイボーグ化・身体拡張|キロンが槍と身体が一体化しており、分離できないと宣言する様子は、サイボーグ化や身体拡張技術において、人間が技術と不可分に融合し…]]
+- [[A_ch0018_analogous_to_E_ch0018_キロン_says_異獣の駆逐_p817_ジェノサイド・大量虐殺|キロンが「穢れた異獣は全て駆逐する」と宣言し、無関係な住人まで巻き込む様子は、歴史上のジェノサイド（大量虐殺）における「浄化」…]]
+- [[A_ch0018_analogous_to_E_ch0018_キロン_says_異獣の駆逐_p818_植民地支配・人種差別の正当化|キロンが「異獣は人では無い」として大量虐殺を正当化する論理は、歴史上の植民地支配や人種差別において、他者を「人間未満」と定義し…]]
+- [[A_ch0018_analogous_to_E_ch0018_キロン_transforms_少年_p812_武器の擬人化・兵器の人間化|少年たちが武器（弓、槍、馬）へと変化する現象は、兵器を人間（兵士）として運用する構造の極端な比喩であり、人間が道具として消費さ…]]
+- [[A_ch0018_analogous_to_E_ch0018_キロン_transforms_少年達_p822_兵士の消耗・使い捨て|キロンが少年たちを武器として使い、消耗させる様子は、戦争において兵士が消耗品として扱われ、使い捨てられる構造のメタファーである]]
+- [[A_ch0018_analogous_to_E_ch0018_キロン_uses_射影聖遺物_p815_宗教画・聖像の権威|「翼無きレメスの苦悶」という聖遺物の名称と、その効果（天からの光の雨）は、宗教画における聖人の殉教や神の裁きの描写を模し、宗教…]]
+- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_defeats_キロン_p827_技術の格差・非対称戦争|コルセスカがキロンの背後からの奇襲を「氷の鏡」で防御し、一方的に腕を切断する様子は、技術力や情報力の格差による非対称戦争（一方…]]
+- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_fights_アルテミシア_p807_環境汚染の対立・生態系の破壊|凍結と石化の競合は、異なる環境破壊要因が競合し、生態系を完全に停止・破壊する様を模している]]
+- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_says_呪波汚染_p824_産業廃棄物・環境汚染|神滅具を「神話時代の産業廃棄物」と呼び、呪波汚染が環境や人体に害をなすとする描写は、現代の産業廃棄物処理問題や環境汚染のメタフ…]]
+- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_says_宿主_p828_寄生・宿主関係|キロンを「宿主」と呼び、武器（神滅具）が宿主を支配する構造は、寄生虫と宿主の関係、あるいは依存症における薬物と使用者の関係を模…]]
+- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_uses_水鏡の盾_p821_反射型セキュリティ・DDoS対策|「水鏡の盾」が攻撃を反射し、攻撃者にダメージを与える仕組みは、現代のネットワークセキュリティにおける反射型DDoS攻撃や、攻撃…]]
+- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_uses_氷の鏡_p827_監視社会・パノプティコン|コルセスカが「氷の鏡」を用いて背後の視界を確保し、相手の動きを完全に把握する様子は、監視社会におけるパノプティコン（常時監視）…]]
+- [[A_ch0018_analogous_to_E_ch0018_トリシューラ_asks_セスカへの処遇_p775_ゼロサムゲーム・非ゼロサムゲーム|トリシューラとアキラが「勝敗ははっきりさせるが生死の勝負にはしない」という合意を形成する過程は、敵対関係におけるゼロサムゲーム…]]
+- [[A_ch0018_analogous_to_E_ch0018_レオ_helps_弱者_p796_人道支援・NGO活動|戦闘の混乱の中でレオが非戦闘員や弱者を保護する行動は、紛争地域における人道支援活動やNGOの役割を模している]]
+- [[A_ch0018_analogous_to_E_ch0018_レオ_says_おまけ_p770_ガチャの天井・優遇措置|レオの存在が周囲に「おまけ」や値引きを発生させる現象は、ゲームにおける「幸運ステータス」によるドロップ率向上や、特定キャラクタ…]]
+- [[A_ch0018_analogous_to_E_ch0018_第五階層_transforms_迷宮_p784_都市計画・再開発・ジェントリフィケーション|既存建造物の消滅と壁への再構成は、権力による生活空間の強制書き換えや、都市計画における既存コミュニティの解体を模している]]
+
+## 第19話
+
+- [[A_ch0019_alludes_to_E_ch0019_キロン_observes_少年達の幻影_p862_精神医学_PTSD_幻視|キロンが武器から少年達の幻影（立体映像）を呼び出し、彼らに語りかけ、罪悪感に苛まれる様子は、戦場での仲間殺し（慈悲の殺人）によ…]]
+- [[A_ch0019_analogous_to_E_ch0019_キロン_other_アキラのアプリ群_p850_デジタルデータ_完全削除|キロンの呪術がアキラの脳内アプリ（サイバーカラテ道場、E-Emulator等）を破壊し、前世の記憶を「虫喰い」にして消去する様…]]
+- [[A_ch0019_analogous_to_E_ch0019_トリシューラ_uses_巡槍艦ノアズアーク_p872_軍事技術_衝角戦術|トリシューラが巡槍艦ノアズアークの船首に血の衝角を形成し、キロンを串刺しにして階層の狭間へ追放する様子は、古代の海戦における衝…]]
+- [[A_ch0019_inverts_E_ch0019_キロン_reveals_転生者殺しの経歴_p842_異世界転生_チート能力の宝の持ち腐れ|転生者が持つ強力なスキル（ステータス画面、スキル振り等）は高額なオプションであり、それを使いこなす「メタ主人公補正」がなければ…]]
+- [[A_ch0019_parodies_E_ch0019_コルセスカ_says_アキラへの無茶振り_p831_物語のセオリー_逆転劇|コルセスカが「メタテクストが改変されていく」「優勢な方が負けるパターン」として物語の構造的必然性を指摘し、主人公の勝利を「流れ…]]
+- [[A_ch0019_structurally_matches_E_ch0019_アキラ_learns_世界の言語_p860_言語学_母語の獲得|アキラが「転生者としての特質（前世の記憶）」を失うことで、初めてこの世界の言語を理解できるようになるという現象は、言語習得にお…]]
+- [[A_ch0019_sublates_E_ch0019_トリシューラ_asks_アキラの正体_p874_哲学_自我の喪失|転生者としての記憶を失い、この世界の住人となったアキラに対し、トリシューラが「貴方は――誰]]
+
+## 第20話
+
+- [[A_ch0020_alludes_to_E_ch0020_トリシューラ_other_アキラの人格_p898_ship_of_theseus|記憶と感情制御を失った人間が「元の人格」と同一か否かを問うトリシューラの論理は、テセウスの船の悖論（構成要素がすべて入れ替わっ…]]
+- [[A_ch0020_alludes_to_E_ch0020_トリシューラ_other_世界更新の条件_p904_mythology_pangaea|火竜メルトバーズを「原初の生命体パンゲオンの九つある首の一つ」と定義するのは、生物学的な「パンゲア（全地球超大陸）」や「パンゲ…]]
+- [[A_ch0020_analogous_to_E_ch0020_コルセスカ_uses_右目のセンサー機能_p916_eye_tracking_interface|コルセスカの右目が眼球運動から意思を予測して操作を代行する機能は、現代の視線入力インターフェース（アイトラッキング）のSF的拡…]]
+- [[A_ch0020_analogous_to_E_ch0020_トリシューラ_other_世界更新の条件_p904_world_building|火竜を殺す＝世界を更新する＝法則を書き換えるという構造は、TRPGや小説における「世界設定（ワールドビルディング）」の権限をキ…]]
+- [[A_ch0020_analogous_to_E_ch0020_トリシューラ_other_紙幣_p878_fiat_currency|紙幣の価値を呪術で保証し、その価値が回路のように循環するという描写は、法定通貨（フィアット・マネー）の信用創造と経済循環のメカ…]]
+- [[A_ch0020_foreshadows_E_ch0020_コルセスカ_other_転生の種類_p920_reincarnation_taxonomy|コルセスカが自分の転生を「異世界からのものではなく、この世界の内側でのこと」と定義するのは、本作の「転生」概念が単なる異世界転…]]
+- [[A_ch0020_inverts_E_ch0020_アキラ_other_失敗の許容_p917_trial_and_error|「失敗は必要なこと」というゲームの一般論を、全てを失ったアキラに適用することで、ゲームの「リトライ」が現実の「喪失」に対して残…]]
+- [[A_ch0020_parodies_E_ch0020_コルセスカ_other_やり直しの支援_p917_video_game_design|「やり直しがきかないのはクソゲー」という発言は、ゲームデザインにおける「セーブ/ロード機能」や「リトライシステム」の存在意義を…]]
+- [[A_ch0020_structurally_matches_E_ch0020_コルセスカ_other_ゲームの公平性_p916_ai_gameplay|コルセスカが右目の処理を自動化し、自身は情報を遮断して「公平性」を確保しようとする行為は、AIがプレイヤーの操作を代行しつつチ…]]
+
+## 第21話
+
+- [[A_ch0021_alludes_to_E_ch0021_トリシューラ_defines_生存条件_p963_Turing_Test|トリシューラの存在証明が「知性があるか」という問いに帰結し、それが生存とイコールであるという設定は、人工知能が人間と区別可能か…]]
+- [[A_ch0021_analogous_to_E_ch0021_コルセスカ_names_アキラ_p933_Gacha_Party_Building|コルセスカがアキラを「中盤加入の暗い過去を持つ武術家キャラ」として仲間イベントのフラグと認識し、前衛強化の必要性から加入を促す…]]
+- [[A_ch0021_analogous_to_E_ch0021_コルセスカ_other_男性攻略_p934_Otome_Game_Mechanics|コルセスカが男性との結婚経験や同時攻略を「百戦錬磨」「エンディング」という用語で語るのは、恋愛ゲームの攻略ルート（エンディング…]]
+- [[A_ch0021_analogous_to_E_ch0021_コルセスカ_uses_ゲーム_p924_RPG_character_growth|コルセスカがゲーム内のキャラクターをレベル上限まで強化し、苦手な属性の敵とも戦い続ける行為は、彼女が現実の自己をゲームのキャラ…]]
+- [[A_ch0021_analogous_to_E_ch0021_鮮血呪_defines_効果_p960_Economic_Value_Exchange|鮮血呪が「交換不可能なものと交換可能なものを交換する」と定義され、生贄を「価値の切り売り」として描かれることは、経済学における…]]
+- [[A_ch0021_inverts_E_ch0021_コルセスカ_other_物語と現実の同一性_p929_Metaphysical_Realism|「物語の中の登場人物も現実に生きている人たちも必死に生きている」というコルセスカの結論は、フィクションと現実の境界を解体し、物…]]
+- [[A_ch0021_parodies_E_ch0021_コルセスカ_other_神滅具収集_p933_Completionist_Mindset|コルセスカが神滅具を収集する動機を「因縁」ではなく「フルコンプしないと気が済まない」と定義することは、物語的な使命感をゲームの…]]
+- [[A_ch0021_parodies_E_ch0021_リーナ_asks_アキラ_p973_Narrative_Structure_Choice|リーナが「全員生き残る大団円」と「犠牲を払う悲劇」のどちらが良いかというメタ的な問いを投げかけ、アキラが「両方ぶち込む」と回答…]]
+- [[A_ch0021_structurally_matches_E_ch0021_コルセスカ_defines_存在形態_p923_Akashic_Records|コルセスカがアカシックレコードに記述されることで実体を持つと語るのは、物語の記述（データ）が物理的実体より優先されるというメタ…]]
+
+## 第22話
+
+- [[A_ch0022_analogous_to_E_ch0022_アキラ_names_マクガフィン_p1008_マクガフィン|アキラは自身を物語の核心ではなく、登場人物を動かすための単なる装置（マクガフィン）としてメタ的に定義している]]
+- [[A_ch0022_analogous_to_E_ch0022_アキラ_says_有料配信_p978_コンテンツ課金|カーインがアキラの戦闘動画に課金している描写は、現代のコンテンツ消費（有料配信・サブスク）を異世界の戦闘記録に適用したものである]]
+- [[A_ch0022_analogous_to_E_ch0022_クレアノーズ_gives_転生者リスト_p991_人材採用|クレアノーズが転生者リストから使い魔を選ばせる行為は、運命選択のメタファーであり、現代の就職活動や人材選抜の構造を想起させる]]
+- [[A_ch0022_analogous_to_E_ch0022_コルセスカ_defines_相互再帰_p1025_イマジナリーフレンド|コルセスカとトリシューラは、互いが互いの想像上の存在（イマジナリーフレンド）であるという相互再帰的な関係性として定義されている]]
+- [[A_ch0022_analogous_to_E_ch0022_コルセスカ_other_リプレイ小説_p1015_TRPGリプレイ|コルセスカの小説は、ダイスロールによるランダム性を組み込んだTRPGリプレイ小説の形式を模倣している]]
+- [[A_ch0022_analogous_to_E_ch0022_コルセスカ_thinks_アキラの役割_p1026_ミーム|アキラは魔女たちの呪力や心を伝達・結合させる「ミーム（文化伝達単位）」としての機能を担っている]]
+- [[A_ch0022_analogous_to_E_ch0022_トリシューラ_makes_着せ替え人形_p994_着せ替え人形|トリシューラがアキラの模型を作り着せ替えを行う行為は、子供のおままごとや着せ替え人形遊びの延長線上にある]]
+- [[A_ch0022_analogous_to_E_ch0022_トリシューラ_says_メンヘラレイヤー_p1016_ネットスラング|戦闘中の罵倒に「メンヘラレイヤー」「邪気眼ワナビ」という現代のネットスラングが使用され、異世界と現代文化の境界を溶解させている]]
+- [[A_ch0022_analogous_to_E_ch0022_トリシューラ_uses_メタマテリアル_p1017_ステルス技術|トリシューラの熱遮蔽装置は、光の回折制御という物理現象をファンタジー技術に転換したものであり、現代の光学技術やステルス技術の原…]]
+- [[A_ch0022_analogous_to_E_ch0022_レオ_names_街路樹の民_p980_社会統合の命名|レオがティリビナ人を「街路樹の民」と呼ぶ記事の存在は、異質な他者を社会の文脈に組み込むためのナラティブ（物語的枠組み）の形成を…]]
+
+## 第23話
+
+- [[A_ch0023_alludes_to_E_ch0023_アキラ_other_キロン_p1083_cyberpunk_culture|「本当のサイバーカラテ」という台詞は、アキラが魔女の使い魔として機械的な身体操作を極めることを意味する、作品内独自の造語である]]
+- [[A_ch0023_alludes_to_E_ch0023_アキラ_thinks_機械の意思_p1030_frankenstein|「あえて服従しないという服従」や「予定調和の成果物」という記述は、メアリー・シェリーの『フランケンシュタイン』における怪物の悲…]]
+- [[A_ch0023_analogous_to_E_ch0023_アキラ_thinks_機械の意思_p1030_robotics_ethics|トリシューラの自律性は、古典的なSFにおける『ロボットの反乱』という対立構造を否定し、使用者の意図を先取りする補完的な存在とし…]]
+- [[A_ch0023_analogous_to_E_ch0023_コルセスカ_takes_前世の記憶_p1073_data_deletion_privacy|コルセスカによる前世の記憶の削除は、アキラのアイデンティティを魔女との関係性のみへと再構築する、依存関係の強制形成を象徴している]]
+- [[A_ch0023_foreshadows_E_ch0023_トリシューラ_reveals_上位トリシューラ_p1040_cloud_computing|トリシューラの階層構造は、上位存在による下位存在への一方的なアクセス権限を規定し、管理と被管理の非対称な関係を示している]]
+- [[A_ch0023_inverts_E_ch0023_アキラ_promises_使い魔としての忠誠_p1033_master_servant_dialectic|「人同然の道具」が「道具同然の人」を使うという構図は、ヘーゲルの主奴弁証法における主従関係の逆転を、人間とAI（機械）の関係に…]]
+- [[A_ch0023_structurally_matches_E_ch0023_コルセスカ_uses_二人羽織_p1062_exoskeleton_interface|コルセスカがアキラの腕を代用してトリシューラを整備する「二人羽織」は、魔女が人間を介して機械を操作する、三者間の複雑な依存構造…]]
+
+## 第24話
+
+- [[A_ch0024_analogous_to_E_ch0024_ちびシューラ_uses_監視カメラ_p1096_クラウドAIとビッグデータ|ちびシューラが監視カメラ映像を乗っ取り、戦闘データを収集・整理して戦術判断AIとして機能させる描写は、現代のクラウドコンピュー…]]
+- [[A_ch0024_analogous_to_E_ch0024_アキラ_reveals_サイバーカラテの呪術性_p1093_ミーム理論|サイバーカラテが「ミーム（模倣子）」であり、社会や文化を構成する習慣・技能が呪力（エネルギー）を生むという設定は、リチャード・…]]
+- [[A_ch0024_analogous_to_E_ch0024_アキラ_says_手続き記憶_p1090_手続き記憶とエピソード記憶|アキラが「エピソード記憶は削れても、手続き記憶は削れない」と述べ、サイバーカラテの型が身体に残ることを説明するのは、心理学にお…]]
+- [[A_ch0024_analogous_to_E_ch0024_アキラ_uses_射影三昧耶形_p1108_VRアバターやエミュレーション|ウィッチオーダーが「射影三昧耶形」を発動し、特定の魔女（ヴァレリアンヌ）の知識や能力を脳内に想起・エミュレートする仕組みは、V…]]
+- [[A_ch0024_analogous_to_E_ch0024_アキラ_uses_熱学発勁_p1129_ナノテクノロジーとメタマテリアル|左手の義肢が「負の屈折率を持つ左手系メタマテリアル」を用い、「熱フォノン」を制御して破壊を行うという説明は、現代のナノテクノロ…]]
+- [[A_ch0024_analogous_to_E_ch0024_キロン_transforms_人馬一体_p1134_ケントロス|キロンが下半身を黒い馬と一体化させ「真なる人馬一体」となる変貌は、ギリシャ神話のケントロス（半人半馬）を想起させ、聖騎士という…]]
+- [[A_ch0024_analogous_to_E_ch0024_キロン_uses_紙幣護符_p1123_電子決済やデジタル通貨|キロンが紙幣を消費し光の粒子として消失させる描写は、デジタルデータのように物理的実体を持たない「価値」が消費され、その痕跡が光…]]
+- [[A_ch0024_analogous_to_E_ch0024_トリシューラ_gives_カプセル剤_p1086_ゲームのバフアイテム|トリシューラが渡す「王獣カッサリオの骨」等を含むカプセル剤は、戦闘前に服用することで肉体を戦闘モードに切り替える「安全装置」で…]]
+- [[A_ch0024_analogous_to_E_ch0024_トリシューラ_says_呪力変換の効率_p1084_加工食品の栄養補助|トリシューラの「人の手が加えられた物ほど意味の量が増える」という言説は、物理的栄養素だけでなく、付与された「物語・記号（意味）…]]
+- [[A_ch0024_analogous_to_E_ch0024_トリシューラ_uses_巡槍艦のバックアップ_p1122_システムのロールバック|巡槍艦のバックアップデータを用いて、現実の迷宮状態を過去の正常状態に「上書き」し、迷宮化を解除する行為は、ITシステムにおける…]]
+
+## 第25話
+
+- [[A_ch0025_alludes_to_E_ch0025_アキラ_says_復讐の論理_p1150_暴力の論理|復讐を「正義」や「英雄性」を排除した純粋な暴力の強さ（数値の大小）として定義し、物語の文脈を「勧善懲悪」から「プリミティブな力…]]
+- [[A_ch0025_analogous_to_E_ch0025_トリシューラ_makes_治癒符の需要_p1153_マッチポンプ|トリシューラが怪我人を生み出し、同時に治癒符の需要を創出することで、キロンの護符の相対的価値を低下させるという、経済操作による…]]
+- [[A_ch0025_analogous_to_E_ch0025_トリシューラ_says_交差する杖_p1136_ヘルマプロディートス|義肢の機能（陰陽の融合）を、ギリシャ神話の両性具有者ヘルマプロディートスに喩えることで、性別の二項対立を超越した「完全性」を象…]]
+- [[A_ch0025_analogous_to_E_ch0025_歌姫_appears_大型ディスプレイ_p1155_アイドル|歌姫の登場が「偶像」としての信仰対象となり、キロンの物語（英雄性）を「アイドルのステージ（エンターテインメント）」へと書き換え…]]
+- [[A_ch0025_foreshadows_E_ch0025_トリシューラ_names_トライデント_p1138_トライデント|コルセスカの「融和」の思想を「トライデントの発想」と名指しし、ヘルマプロディートスという語の使用を禁じることで、トライデントが…]]
+- [[A_ch0025_inverts_E_ch0025_コルセスカ_says_アンドロギュヌス_p1137_アンドロギュヌス|ヘルマプロディートス（合一）ではなくアンドロギュヌス（分離）を提示することで、姉妹という「分かれた個」の起源を強調し、トライデ…]]
+- [[A_ch0025_parodies_E_ch0025_キロン_loses_戦闘_p1162_予定調和|キロンが「運命力」による逆転劇を期待するのに対し、ネット小説とアイドルの演出によって「予定調和の終わり」が強制され、物語の構造…]]
+- [[A_ch0025_parodies_E_ch0025_キロン_uses_紙幣_p1153_貨幣経済|紙幣をサブリミナル効果による信仰の媒介として機能させることで、貨幣経済そのものが「信用」というミームに基づく呪術システムである…]]
+- [[A_ch0025_structurally_matches_E_ch0025_ネット小説_defines_キロンの結末_p1159_メディアミックス|ネット小説（テキスト）が現実の戦闘（テクスト）を参照し、同時に現実が小説の結末（予定調和）に従うという、メタフィクション的な相…]]
+- [[A_ch0025_sublates_E_ch0025_アキラ_says_痛みの意味_p1160_感傷|キロンが痛みに意味（過去、死者への追悼）を見出すのに対し、アキラは痛みを単なる生化学的シグナルとして処理し、感傷的な意味付けを…]]
+
+## 第26話
+
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_bonds_トリシューラ_p1174_キリスト教の聖婚|トリシューラとアキラが交わす「聖婚」の誓約は、キリスト教におけるキリストと教会（または魂）の結合を象徴する概念を、呪術的な結合…]]
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_deceives_キロン_p1190_価値の相対化|キロンの回復能力が「死の価値を貶めている」と指摘するのは、価値の相対化や交換可能性（鮮血呪の本質）を倫理的な観点から攻撃する論…]]
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_deceives_キロン_p1190_倫理的攻撃|アキラがキロンの精神に「楔を打ち込む」のは、物理的な攻撃ではなく、倫理的な矛盾を突く心理戦（倫理的攻撃）である]]
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_kills_キロン_p1193_介錯|アキラがキロンに与える「介錯」は、日本の武士道における切腹の補助行為を指し、苦痛からの解放としての死を意味する]]
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_kills_キロン_p1193_首を吹き上げる|「はね上がった首を吹き上がろうとする血液ごと凍結する」という描写は、斬首の瞬間を凍結によって停止させるという、物理的な処理を指…]]
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_observes_宇宙_p1170_天動説と中世の宇宙観|死後の意識で見た多層構造の宇宙は、エウダイモーン（幸福）やフェーリム（悪意）といった概念を伴い、中世の天球層モデル（トマス・ア…]]
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_observes_宇宙_p1170_天球層|「夜光天、幽冥天、精霊天、太陰天、太陽天、土塊天、火力天、水晶天、そして天堂天」という列挙は、中世の天文学における天球層の名称…]]
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_other_コルセスカ_p1209_追跡|アキラとトリシューラがコルセスカを追いかけるのは、追跡劇を模している]]
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_says_テセウス型_p1195_テセウスの船|アキラが自身を「テセウス型サイボーグ」と分類するのは、哲学の思考実験「テセウスの船」（すべての部品が交換された船は元の船か]]
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_uses_サイバーカラテ道場_p1165_VR＼AR技術|サイバーカラテ道場の表示枠が展開され、魔女が戦術を指し示す様子は、AR（拡張現実）による戦闘支援システムを模している]]
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_uses_ヘリステラ_p1177_山羊脚|ヘリステラの「山羊脚」は、悪魔やサテュロス（ギリシャ神話）を想起させる特徴であり、異教的な象徴として機能している]]
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_uses_氷血のコルセスカ_p1187_三叉槍|コルセスカの武器が「氷の三叉槍」であることは、海神ポセイドンの三叉槍を想起させる]]
+- [[A_ch0026_alludes_to_E_ch0026_アキラ_uses_鮮血のトリシューラ_p1185_アンドロイド|「アンドロイドの魔女」という名称は、SFにおけるアンドロイド（人造人間）の概念を、魔女の呪術的な存在として融合させている]]
+- [[A_ch0026_alludes_to_E_ch0026_アブロニクレス_appears_null_p1197_八百万の神|「八万の眼球アブロニクレス」は、日本語の「八百万（やおよろず）」を連想させる多数の存在であり、古代の多神教的な信仰を想起させる]]
+- [[A_ch0026_alludes_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_メクセトの神滅具|「自殺の黒槍」は、メクセト（メキシコ神話の神）の神滅具として登場し、自傷を他者に転写する能力を持つ呪具として描かれている]]
+- [[A_ch0026_alludes_to_E_ch0026_コルセスカ_takes_神滅具_p1208_奪取|コルセスカが神滅具を「凍結させて奪い返す」のは、戦闘における戦利品の奪取を模している]]
+- [[A_ch0026_alludes_to_E_ch0026_コルセスカ_takes_神滅具_p1208_神滅具|「神滅具」という用語は、神話における神を殺す武器（例：北欧神話の武器など）を指すファンタジー用語である]]
+- [[A_ch0026_alludes_to_E_ch0026_トリシューラ_reveals_複合型_p1196_複合型|トリシューラが「複合型」であるという記述は、複数のモデル（AIモデルなど）が組み合わさった構造を指している]]
+- [[A_ch0026_alludes_to_E_ch0026_トリシューラ_says_アダム・カドモン_p1176_カバラの生命の樹|トリシューラが言及する「アダム・カドモン」は、ユダヤ教神秘主義（カバラ）における原初の人間、完全な存在を指す用語であり、二者の…]]
+- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_defines_人_p1203_人権の定義|「人」の定義が多様すぎて構造的な宿痾であるという指摘は、現代社会における人権の定義やアイデンティティの境界線の曖昧さを反映して…]]
+- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_names_セレクティフィレクティ_p1200_ダンテの神曲|ベアトリーチェという名はダンテ『神曲』の理想の女性を指し、彼女が地獄側に付いているという設定は、神曲の地獄篇と天国篇の対比、あ…]]
+- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_names_セレクティフィレクティ_p1200_選択と選定|「セレクティフィレクティ」という名は、ラテン語の「選択（selectio）」や「選定（electio）」を想起させ、彼女の二重…]]
+- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_other_コルセスカ_p1205_火竜と猫|「火竜の太鼓持ちの次は猫の腰巾着」という罵倒は、コルセスカが過去の転生で特定の存在（火竜、猫）に仕えていたことを示唆する]]
+- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_threatens_アキラ_p1206_殺意|ベアトリーチェが「わたくしが手ずから殺します」と宣言するのは、明確な殺意の表明である]]
+- [[A_ch0026_alludes_to_E_ch0026_レオ_appears_null_p1207_古代語|レオが古代語を話すという記述は、彼が古い文化や高位の存在に由来することを示唆する]]
+- [[A_ch0026_alludes_to_E_ch0026_レオ_appears_null_p1207_猫耳少年|レオが猫耳を動かして走る姿は、アニメ的な「猫耳少年」のクリシェを用いながら、その正体が「獅子王」であるという対比を生んでいる]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_defines_転生_p1173_アナロジー類推|アキラが定義する転生は、類似性を同一とみなす「アナロジー」の論理に基づいており、これは呪術の基本原理（類推の法則）と一致する]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_finds_コルセスカ_p1210_発見|アキラが路地裏でコルセスカを発見するのは、追跡の結末を模している]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_finds_コルセスカ_p1210_貧血|コルセスカが力尽きて倒れ、アキラが貧血で倒れるのは、過剰な活動による身体的な限界（貧血、疲労）を描写している]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_observes_PV数_p1164_ライブ配信プラットフォーム|戦闘が観客の投票によって勝敗が決まり、PV数が増加する様子は、現代のライブ配信やeスポーツにおける視聴者参加型コンテンツの構造…]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_says_ゲーム_p1206_ゲーム依存|アキラが「ゲームしてました」と答えるのは、現代のゲーム依存やゲーム文化への没入を象徴する]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_says_ゲーム_p1206_現代のゲーム文化|アキラが「ゲームしてました」と答えるのは、異世界転生者としての生活がゲーム的な消費活動に終始していたこと、およびアキラ自身のゲ…]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_says_テセウス型_p1195_サイボーグ|「テセウス型サイボーグ」という分類は、身体の一部を機械に置き換えた存在（サイボーグ）の哲学的な定義を指している]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_ヘリステラ_p1177_インド神話の車輪の女神|「車輪の女王」ヘリステラは、インド神話の女神をモデルとしており、巨大な車輪を担ぎ踏みとどまる姿は、運命の重圧に対する耐性や静止…]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_ワイヤー_p1167_スパイダーマン|左腕からワイヤーを伸ばして建造物に巻き付け上昇する動作は、スパイダーマンのウェブシューティングを想起させる]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_左腕_p1189_生態系|キロン体内で左腕が「生態系」を構築するという描写は、生物学的な生態系の概念を、機械的な細胞群の相互作用に適用している]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_左腕_p1189_進化アルゴリズムとゲーム理論|キロン体内で左腕が自己複製と適応を繰り返す様子は、進化アルゴリズム（適者生存）やゲーム理論的な協調を模倣した機械的な学習プロセ…]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_機巧曼荼羅_p1182_密教の曼荼羅|左手の歯車を中心に幾何学的な模様を展開する「機巧曼荼羅」は、密教における宇宙の構造を象徴する曼荼羅を、機械仕掛けの義肢（サイバ…]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_機巧曼荼羅_p1182_歯車|「機巧曼荼羅」の中心にある「歯車」は、機械的な動力伝達を象徴し、呪術的な曼荼羅の構造と融合している]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_氷の鏡_p1166_鏡の魔術|氷の鏡で攻撃を跳ね返す能力は、ファンタジーにおける鏡の魔術（反射、防御）のクリシェを用いている]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_輪廻_p1173_輪廻転生|左手の円環が「輪廻」の呪力を持つという設定は、仏教やヒンドゥー教の輪廻転生の概念を、呪術的な能力として具現化している]]
+- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_鮮血のトリシューラ_p1185_強化外骨格|「強化外骨格」という用語は、SFにおけるパワードスーツや外骨格型ロボットを指す]]
+- [[A_ch0026_analogous_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_無限ループ|黒槍の能力が「AとA'」の同一性によって無限ループに陥る様子は、コンピュータの論理エラーや無限ループを模している]]
+- [[A_ch0026_analogous_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_自傷|黒槍が「使い手自身」を傷つけるという設定は、自傷行為のメカニズムを呪術的に再現している]]
+- [[A_ch0026_analogous_to_E_ch0026_コルセスカ_attacks_キロン_p1188_拷問|主観時間を加速させて苦痛を無限に引き延ばす行為は、物理的な破壊ではなく精神的・時間的な拷問として機能している]]
+- [[A_ch0026_analogous_to_E_ch0026_コルセスカ_other_アキラ_p1208_吸血|コルセスカがアキラの血を吸うのは、吸血鬼の吸血行為を模している]]
+- [[A_ch0026_analogous_to_E_ch0026_コルセスカ_other_アキラ_p1208_吸血鬼|コルセスカがアキラの首筋に牙を突き立てて血を吸う行為は、吸血鬼の吸血行為を模している]]
+- [[A_ch0026_analogous_to_E_ch0026_コルセスカ_other_共生_p1205_共生関係|コルセスカが「寄生ではなく共生」と主張するのは、生物学における共生関係（相利共生）の概念を、魂の結合に適用している]]
+- [[A_ch0026_analogous_to_E_ch0026_トリシューラ_reveals_複合型_p1196_ニューラルネットワーク|トリシューラの主要なモデルが「ニューラルネットワーク」であるという記述は、現代のAI技術（深層学習）を指している]]
+- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_fears_レオ_p1207_権威への畏怖|ベアトリーチェがレオの存在に驚愕し、戦意を失うのは、上位の権威（獅子王）に対する畏怖を示している]]
+- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_fears_レオ_p1207_獅子王|ベアトリーチェがレオを「獅子王」と呼び、その存在に驚愕するのは、レオが高位の存在（王族、神格）であることを示唆する]]
+- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_flees_null_p1208_撤退|ベアトリーチェが「退くとしましょう」と言って消失するのは、戦闘からの撤退を模している]]
+- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_flees_null_p1208_組織の意向|ベアトリーチェが「上層の意向」を理由に退去するのは、組織の階層構造や命令系統に従う兵士・幹部の行動原理を模している]]
+- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_names_ダンジョンマスター_p1199_ダンジョンマスター|ベアトリーチェが名乗る「ダンジョンマスター」は、ゲームやファンタジーにおける迷宮の支配者というクリシェを指す]]
+- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_says_悪_p1202_悪の選択|ベアトリーチェが「悪を選ぶ」と宣言するのは、倫理的な相対主義や、目的のための手段としての悪の受容（マキャベリズム的）を想起させる]]
+
+## 第27話
+
+- [[A_ch0027_alludes_to_E_ch0027_トリシューラ_names_ガロアンディアン_p1218_Galactic_Empire|「ガロアンディアン」という造語は、銀河（Galactic）規模の多民族・多種族を技術で平等に束ねようとして破綻した帝国のクリシ…]]
+- [[A_ch0027_alludes_to_E_ch0027_トリシューラ_says_インド神話との類似_p1214_Hindu_mythology_Sati|トリシューラの名前（Trishula＝三叉戟）と、破壊神シヴァが愛するサティの死を嘆き、その遺体をブラフマーが引き裂いたという…]]
+- [[A_ch0027_analogous_to_E_ch0027_トリシューラ_makes_仮想の義肢_p1212_AR_glasses|実体を持たず、視覚情報としてのみ機能する「仮想の義肢」は、物理的な欠損を魔術によって補い、社会生活における「完全な身体」を演出…]]
+- [[A_ch0027_analogous_to_E_ch0027_第五階層_defines_強者打倒の価値_p1224_PvP_game_economy|「強者の打倒」が通貨生成の条件となり、格下を倒すとレートが下がるというシステムは、MMORPGやPvPゲームにおける「キルボー…]]
+- [[A_ch0027_inverts_E_ch0027_アキラ_promises_使い魔としての従属_p1219_Familiar_contract|一般的なファンタジーにおける「使い魔」は主人に仕える存在だが、ここではアキラがトリシューラに「使い倒せ」と自らを捧げることで…]]
+- [[A_ch0027_parodies_E_ch0027_トリシューラ_says_維持期間の短さ_p1212_software_bug_fix|魔法の発動における「不具合」や「修正パッチ」という用語の使用は、魔法をソフトウェア的なシステムとして捉え、バグ修正やバージョン…]]
+- [[A_ch0027_structurally_matches_E_ch0027_店員さん_names_ラズリ・ジャッフハリム_p1222_Lazuli|店員の名前「ラズリ」は、青い宝石「ラピスラズリ」を想起させ、彼女が神秘的・象徴的な存在である可能性を示唆する]]
+
+## 第28話
+
+- [[A_ch0028_alludes_to_E_ch0028_ケイト_says_レジンキャストミルク_p1232_藤原祐レジンキャストミルク|作中で言及される藤原祐の『レジンキャストミルク』は、異世界転生ジャンル黎明期の作品であり、現代の転生文化の源流を参照するメタ的…]]
+- [[A_ch0028_alludes_to_E_ch0028_ケイト_says_人間扱い_p1237_人工知能の権利|肉体を持たない情報生命体ケイトの「人間扱い」への不安は、AIやデジタル存在の法的・社会的地位に関する現代の倫理的議論を反映して…]]
+- [[A_ch0028_analogous_to_E_ch0028_アキラ_kills_抹消決定_p1239_行政による強制抹消|アキラによる「抹消決定」は、超常現象を事務手続きとして処理し、組織の論理によって個人の存在を合法的に消去する官僚制的暴力の比喩…]]
+- [[A_ch0028_analogous_to_E_ch0028_保険屋_fights_殺し屋_p1231_保険詐欺と調査部門|異世界転生を前提とした保険業界と殺し屋の対立は、超常現象を「リスク管理」の対象として官僚的に処理する、ジャンル自己言及的な構造…]]
+- [[A_ch0028_inverts_E_ch0028_上司_says_転生_p1236_テセウスの船|上司の呟き「自分が消えて異世界に再構成されたって、そいつは同じってだけで意識は連続してない別人だろうに」は、転生を「同一性の継…]]
+- [[A_ch0028_parodies_E_ch0028_契約者_fights_武将_p1233_戦国武将の英雄譚|「乱世で戦い抜いて壮絶に散る」という転生モデルは、戦国乱世を舞台にした英雄譚や歴史小説のクリシェを、顧客の自己満足のための消費…]]
+- [[A_ch0028_structurally_matches_E_ch0028_女性_uses_電子書籍_p1231_ARグラスによる業務サボり|網膜内投影による電子書籍閲覧と社内ニート化は、現代のウェアラブルデバイスを用いた業務中の私的娯楽（サイバーパンク的サボり）の構…]]
+
+## 第29話
+
+- [[A_ch0029_alludes_to_E_ch0029_ハル_says_アキラの変態性_p1263_トリシューラ|ハルがアキラの反応を「トリシューラみたい」と評するのは、超新星爆発の残骸（パルサー）の名称を用いた比喩であり、アキラの異常な反…]]
+- [[A_ch0029_alludes_to_E_ch0029_神話_defines_空が青い理由_p1242_レイリー散乱|学術院の学者が光の散乱で空の青さを説明する記述は、現実の物理学における「レイリー散乱」を指しており、神話的説明と科学的説明の対…]]
+- [[A_ch0029_analogous_to_E_ch0029_アキラ_fears_精神書き換え_p1252_マインドコントロール|アキラが精神構造を書き換えられ「意思を持たない奉仕種族」になることを恐れる描写は、SFやホラーにおけるマインドコントロール、あ…]]
+- [[A_ch0029_analogous_to_E_ch0029_アキラ_makes_談話室_p1246_仮想空間_SNS|アキラたちがアストラル投射によって作り出す「おしゃべり」の部屋は、物理的な距離を超越し、精神体（アストラル体）を通じて交流する…]]
+- [[A_ch0029_analogous_to_E_ch0029_アキラ_uses_GUI_p1245_グラフィカルユーザーインターフェース|アキラがアストラル界という抽象的な概念を視覚的に操作するために用いる「GUI」は、現代のコンピュータにおけるユーザーインターフ…]]
+- [[A_ch0029_analogous_to_E_ch0029_アキラ_uses_ファイヤーウォール_p1252_ファイヤーウォール|アキラが霊的侵入に対して自動的に作動し、不正アクセスをトレースして反撃する防御機能は、現代のネットワークセキュリティにおけるフ…]]
+- [[A_ch0029_analogous_to_E_ch0029_ハル_reveals_襲撃者の正体_p1259_スパイウェア|襲撃者がアキラのアバター情報や会話履歴を収集していたという事実は、現代のスパイウェアやマルウェアによる個人情報窃取の構造と一致…]]
+- [[A_ch0029_analogous_to_E_ch0029_襲撃者_uses_エーテル体_p1252_クラッキング|襲撃者がエーテル体でアキラの精神構造を書き換えようとする行為は、現代のサイバーセキュリティにおける「クラッキング（不正侵入・改…]]
+- [[A_ch0029_parodies_E_ch0029_アキラ_makes_蒼穹_p1246_ゲームの背景画像|アキラが「唯一自慢できる感覚再現の技術」として蒼穹（空）を生成する行為は、アストラル界における環境（背景）の視覚的・感覚的な構…]]
+- [[A_ch0029_structurally_matches_E_ch0029_ハル_defines_青_p1262_構造主義|ハルが「青は他の色との連関（構造）によって画定される」と説くのは、言語学における構造主義（意味は要素単体ではなく、要素間の差異…]]
+
+## 第30話
+
+- [[A_ch0030_analogous_to_E_ch0030_アズーリア_loses_交渉の機会_p1272_言論統制|猿轡を咬まされて声すら出せない状況は、組織による言論統制と個人の主体性の剥奪を象徴する]]
+- [[A_ch0030_analogous_to_E_ch0030_アズーリア_says_無意味な言語_p1266_宗教的儀礼の形式主義|意味を持たない人工言語の発声は、宗教的儀礼における形式主義を象徴している]]
+- [[A_ch0030_analogous_to_E_ch0030_アズーリア_thinks_儀式の虚しさ_p1267_労働の疎外|儀式を「無駄な労働」と感じ、退屈するアズーリアの心理は、現代社会における労働の疎外感と共鳴する]]
+- [[A_ch0030_analogous_to_E_ch0030_クナータ_says_平行世界の同一人物_p1279_並行世界|アズーリアとアキラを「平行世界の同一人物」と表現することは、自己同一性の対峙というテーマを暗示する]]
+- [[A_ch0030_analogous_to_E_ch0030_上級聖騎士_kills_特定の人種_p1271_組織内差別|上級聖騎士による特定人種・国籍の選別殺害は、組織内部に潜む構造的な差別主義と権力乱用を批判している]]
+- [[A_ch0030_analogous_to_E_ch0030_松明の騎士団_defines_霊性複合体_p1270_軍産複合体|松明の騎士団は、宗教的権威を装いながら実質的に巨大複合企業群と癒着する軍産複合体として描かれている]]
+- [[A_ch0030_analogous_to_E_ch0030_松明の騎士団_names_アズーリアを英雄_p1272_プロパガンダ|組織の失策を隠蔽し武威を示すために個人を英雄として仕立て上げる行為は、政治的プロパガンダの構造と一致する]]
+- [[A_ch0030_analogous_to_E_ch0030_松明の騎士団_other_彼_p1274_組織の論理|組織の論理（戦略的判断）によって個人（彼）が意図的に見捨てられる構造は、組織倫理と個人倫理の衝突を示す]]
+- [[A_ch0030_analogous_to_E_ch0030_猫の国_travels_過去と未来_p1270_タイムトラベル|「猫の国」による過去・未来への干渉は、SF的なタイムトラベル概念をファンタジー世界に導入するメタフィクショナルな装置である]]
+
+## 第31話
+
+- [[A_ch0031_analogous_to_E_ch0031_アズーリア_names_神話揺動者_p1300_ミーム理論と物語の自己言及性|「引喩」「間テクスト性」「ミーム」といった用語を用いて呪術を定義し、「神話揺動者」と呼ぶことは、物語が他の物語を参照し、相互に…]]
+- [[A_ch0031_analogous_to_E_ch0031_アズーリア_says_鎧_p1285_外骨格Exoskeletonと身体拡張|鎧を「もう一つの身体」として意識の隅に記憶し状況に応じて切り替える描写は、VR/ARにおけるアバターやペルソナの多重化、および…]]
+- [[A_ch0031_analogous_to_E_ch0031_フィリス_transforms_世界構造_p1298_メタフィクションにおける第四の壁の破壊と物語の改変|フィリスが「世界の中にある君というメタテクストを浸食する」「世界そのものに対して浸食を行う」という記述は、物語の構造（メタテク…]]
+- [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_asks_フィリス使用_p1282_医療行為におけるインフォームド・コンセントの欠如|他者の精神安定を目的とした強力な術の使用が、対象のパーソナルヒストリー（人生の軌跡）を改変・消滅させるリスクを伴うという描写は…]]
+- [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_reveals_アストラル投射_p1287_インターネット上の匿名性による過激派コンテンツの拡散|アストラル界（ネット空間）で「思想的に問題がある創作物」を拡散しようとした行為は、現代のSNSや掲示板における匿名の過激な思想…]]
+- [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_reveals_接触者5人_p1289_オンラインゲームのチャット機能およびアバター文化|アストラル界での「談話室」での交流、アバター（仮面）による匿名性、本名（真名）を明かすことの禁忌、そして運営（大神院）による通…]]
+- [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_says_眷族神_p1293_官僚主義における名称変更と権威の空洞化|守護天使の位階や呼称が「老人どもが自分たちは仕事をしているというアピールの為に無駄に重ねている会議の副産物」として変更される描…]]
+
+## 第32話
+
+- [[A_ch0032_alludes_to_E_ch0032_タマ_other_白黒兎_p1321_不思議の国のアリス|帽子と片眼鏡を着用し、時を気にし、喋る白黒の兎は『不思議の国のアリス』の白ウサギを想起させ、迷宮探索という「穴」への落下を暗示…]]
+- [[A_ch0032_alludes_to_E_ch0032_ベアトリーチェ_names_ベアトリーチェ_p1309_ダンテのベアトリーチェ|妹の名前「ベアトリーチェ」はダンテの理想の女性像を指し、彼女が「永遠の少女」として失われる運命を予示する文学的引喩である]]
+- [[A_ch0032_alludes_to_E_ch0032_ベアトリーチェ_says_遺伝学_p1308_メンデルの遺伝学|異世界の赤ん坊が現代の遺伝学用語（対立遺伝子、隔世遺伝）を用いて説明するのは、転生者としての知識の露呈であり、メタ的に「異世界…]]
+- [[A_ch0032_analogous_to_E_ch0032_ベアトリーチェ_asks_転生の倫理_p1311_椅子取りゲーム|転生を「死ぬ筈だった者が横からその席を奪い取り」と表現し、異世界転生というジャンルそのものを「椅子取りゲーム」という残酷なゲー…]]
+- [[A_ch0032_inverts_E_ch0032_アズ_thinks_妹への認識_p1308_転生者クリシェチート能力|通常「チート能力」として描かれる妹の天才性は、アズにとって「守るべき妹」ではなく「守られるべき姉（庇護者）」として描かれ、転生…]]
+- [[A_ch0032_parodies_E_ch0032_大神院_other_ネット情報_p1324_現代のSNS・アルゴリズム|天気予報への「支持」による現実改変は、現代のアルゴリズムによる世論形成や情報操作を、魔法的な気象管理システムとして風刺し、検閲…]]
+- [[A_ch0032_structurally_matches_E_ch0032_アズ_thinks_英雄願望_p1319_自己責任論・加害者性|「誰かを犠牲にし続けながら誰かを救いたい」というアズの葛藤は、転生者（加害者）が被害者（犠牲者）の屍の上に立つという、ジャンル…]]
+
+## 第34話
+
+- [[A_ch0034_alludes_to_E_ch0034_ハルベルト_names_キュトスの姉妹_p1396_ギリシャ神話のモイライ運命の女神|「キュトスの姉妹」が「七十一女」という多数の存在であり、言語魔術（運命の決定）に関与する点は、ギリシャ神話において糸を紡ぎ運命…]]
+- [[A_ch0034_alludes_to_E_ch0034_ミルーニャ_says_父の言葉_p1404_マルセル・モースの贈与論|「呪具は必要としている人の手に渡ってはじめて意味を持つ」というミルーニャの信条は、物品が交換・贈与されることで社会的な意味（霊…]]
+- [[A_ch0034_analogous_to_E_ch0034_アズーリア_asks_空の色_p1413_クオリアの哲学|アズーリアが「空はどうして青いんだと思う]]
+- [[A_ch0034_analogous_to_E_ch0034_アズーリア_fights_古代生物_p1379_スマホゲームのオート戦闘|アズーリアの呪文が敵集団を薙ぎ払う予定が、最も弱い個体を一匹仕留めるだけで失敗し、敵の怒りを買って集中攻撃を受ける様子は、計画…]]
+- [[A_ch0034_analogous_to_E_ch0034_メイファーラ_has_property_天眼石_p1390_ARグラス／スマートグラス|メイファーラの「天眼」が不可視光線を知覚し、端末の液晶画面を見ると酔うという記述は、異質な知覚能力が現代の技術環境と干渉し、視…]]
+- [[A_ch0034_foreshadows_E_ch0034_ハルベルト_defines_失格条件_p1395_戦争の倫理規定|「相手を死に至らしめた場合、および仲間に死者が出た場合は失格」というルールは、単なるゲームの勝敗条件ではなく、戦闘行為における…]]
+- [[A_ch0034_inverts_E_ch0034_ハルベルト_says_焼き鳥_p1420_英雄叙事詩の崇高な動機|復讐の決起というドラマチックな瞬間に、ハルベルトが「焼き鳥が食べたい」という極めて世俗的・生理的な動機（空腹）を挿入することで…]]
+- [[A_ch0034_parodies_E_ch0034_アズーリア_confesses_見よう見まね_p1381_ネット上のコピペ文化|ハルベルトがアズーリアの呪文構成を「コピーアンドペースト」と断じ、文脈（語群の選択）を無視した引用の拙さを叱責するのは、ネット…]]
+- [[A_ch0034_structurally_matches_E_ch0034_ハルベルト_defines_ルール_p1394_ギグエコノミーの成果主義|金箒花の「量」と「質」で点数を競い、制限時間内で成果を出さねば報酬が得られないというルールは、ギグエコノミーにおける成果主義的…]]
+
+## 第35話
+
+- [[A_ch0035_alludes_to_E_ch0035_アズーリア_uses_ミレノプリズム_p1493_模倣と解析|「静謐」による呪術構造の解析と、その本質を掌握して「全く同じ呪術を再現する」という行為は、リバースエンジニアリングやオープンソ…]]
+- [[A_ch0035_alludes_to_E_ch0035_ハルベルト_other_幻獣_p1439_AI|「事前に設定したプランに従って決定論的な振る舞いをする仮想使い魔」であり「人工知能にすら迫る動きが可能」という記述は、現代のA…]]
+- [[A_ch0035_alludes_to_E_ch0035_哲学的ゾンビ_appears_敵集団_p1470_哲学的ゾンビ|霊体や魂を取り払われた状態で物質的には人間と変わりないが、飢餓感だけで行動する敵集団を「哲学的ゾンビ」と呼称し、意識の不在と社…]]
+- [[A_ch0035_analogous_to_E_ch0035_アズーリア_uses_紫外線操作_p1431_UVカットフィルム|紫外線を操作して影と同化し、鳥類（天眼の民）の視覚から隠れるという戦術は、現代のUVカットフィルムや遮光カーテン、日焼け止めク…]]
+- [[A_ch0035_analogous_to_E_ch0035_ミルーニャ_uses_杖_p1462_靴型杖|杖を「第三の足」として靴の形にし、大地との接触面を広くして地脈から呪力を引き出す設定は、身体拡張による環境データ収集のメタファ…]]
+- [[A_ch0035_inverts_E_ch0035_アズーリア_thinks_顔の認識_p1422_顔認識AI|アズーリアが声や立ち居振る舞いから個人を識別し、顔の全体像をイメージとして記憶する描写は、人間の認知機能による人物特定プロセス…]]
+- [[A_ch0035_parodies_E_ch0035_アズーリア_says_呪文_p1424_電子レンジ|「電子レンジ内のレトルト食品のごとくチンせしめん」という呪文は、現代の家電製品をファンタジーの攻撃手段として擬人化・転用するメ…]]
+- [[A_ch0035_parodies_E_ch0035_ハルベルト_other_バタードキャット_p1483_バタードッグの法則|「選択的重力の猫（バタードキャット）」という幻獣は、ネットミームである「バタードッグの法則（バターを塗ったパンと猫を結合させる…]]
+- [[A_ch0035_parodies_E_ch0035_ハルベルト_says_マーフィーの法則_p1465_マーフィーの法則|「落としたパンは必ずバターやジャムが塗ってある方が下になる」というハルベルトの発言は、マーフィーの法則（悪いことは重なる）を…]]
+- [[A_ch0035_structurally_matches_E_ch0035_ハルベルト_other_アストラル界_p1438_GUI_TUI|アストラル界（視覚的・直感的な操作）とグラマー界（テキスト・言語による操作）の対比は、コンピュータにおけるGUI（グラフィカル…]]
+
+## 第36話
+
+- [[A_ch0036_alludes_to_E_ch0036_ハルベルト_reveals_キュトスの姉妹の候補者_p1515_アイドルグループのメンバー選抜|「いないなら作ってしまえばいい」という発想から、候補者を選出し競争させるという構造は、現代のアイドルグループやオーディション番…]]
+- [[A_ch0036_alludes_to_E_ch0036_プリエステラ_has_property_アルラウネ_p1522_植民地支配・先住民の抹殺|ティリビナの民が「松明の騎士団」により故郷を焼かれ、絶滅を望まれているという背景は、歴史上の植民地支配における先住民の迫害・抹…]]
+- [[A_ch0036_analogous_to_E_ch0036_アズーリア_repairs_折れた脚_p1496_現代医療の応急処置|魔法による治療が、現代の整形外科的な処置（整復、固定、創傷処置）とほぼ同じ手順・リスク管理で行われている]]
+- [[A_ch0036_analogous_to_E_ch0036_タマ_gives_綿菓子と水飴_p1497_ゲームの回復アイテム|タマが差し出す綿菓子と水飴が「呪力補給源」として機能し、食事よりも高効率であるという描写は、RPGにおけるHP/MP回復アイテ…]]
+- [[A_ch0036_analogous_to_E_ch0036_ハルベルト_reveals_人外化の代償_p1516_美容整形・身体改造|意図的な身体的特徴の改変は、ゲームにおけるキャラクターカスタマイズやSF的な身体改造の比喩として読める]]
+- [[A_ch0036_analogous_to_E_ch0036_ハルベルト_reveals_選定理由_p1518_マッチングアプリ・相性診断|ハルベルトがアズーリアを選んだ理由として「呪文との相性」「年齢」「趣味の共通性」を挙げることは、現代のマッチングアプリにおける…]]
+- [[A_ch0036_analogous_to_E_ch0036_ミルーニャ_suspects_ハルベルトの重力操作_p1501_保険・リスク管理|ミルーニャが「保険として」衝撃緩和材を用意し、最悪の事態（墜落死）に備える行動は、現代のリスク管理や保険商品の概念をファンタジ…]]
+- [[A_ch0036_inverts_E_ch0036_アズーリア_thinks_期待と失望_p1506_推し活・ファン心理|師匠に対して「素敵な人」という理想像を投影し、その裏切り（現実の欠点）に激怒するアズーリアの心理は、アイドルやキャラクターに対…]]
+- [[A_ch0036_parodies_E_ch0036_アズーリア_other_端末通信_p1497_スマホの圏外・バッテリー切れ|異世界の通信端末が「結晶が繋がらない」という理由で機能不全に陥る描写は、現代のスマホが電波塔の死角やバッテリー切れで使えなくな…]]
+- [[A_ch0036_structurally_matches_E_ch0036_アズーリア_activates_アストラル体_p1499_VRアバター・オンラインゲーム|肉体を置き去りにして精神のみを移動させ、アバターとして他者と接触する描写は、VR技術やオンラインゲームにおけるアバター操作のメ…]]
+
+## 第37話
+
+- [[A_ch0037_analogous_to_E_ch0037_アズーリア_attacks_イキューの残骸_p1587_violent_catharsis|死んだ敵を執拗に破壊し続ける行為は、復讐の遂行と、暴力を通じた感情の浄化（カタルシス）の極端な現れである]]
+- [[A_ch0037_analogous_to_E_ch0037_アズーリア_other_万色彩星_p1582_resurrection_limit|蘇生呪文の失敗と「死の不可逆性」の強調は、ゲームにおける蘇生アイテムの制限や、現実の死の不可逆性に対するメタフィクショナルな拒…]]
+- [[A_ch0037_analogous_to_E_ch0037_アズーリア_saves_ハルベルト_p1584_distraction_tactic|砂糖菓子で敵の注意を引き、隙を作る戦術は、戦闘における囮（デコイ）や注意散漫を利用した戦術の古典的な応用である]]
+- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_地獄への覚悟_p1532_faustian_bargain|妹を救うために地獄に堕ちる覚悟を決めるアズーリアの姿勢は、目的のために魂を売り渡すファウスト的な取引の構造を持つ]]
+- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_地獄への覚悟_p1532_martyrdom|修道騎士としての殉教と地獄への堕ちるという矛盾した運命は、宗教的殉教の美辞麗句と現実の残酷さの対比を示す]]
+- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_地獄への覚悟_p1532_moral_injury|修道騎士として同族を殺し続けることによる「地獄への堕ちる」という自覚は、兵士や執行者が経験する道徳的外傷（モラル・インジュリー…]]
+- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_地獄への覚悟_p1532_sacrifice|妹を救うために自らの魂を犠牲にする覚悟は、自己犠牲の究極的な形を示す]]
+- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_死の不可逆性_p1583_grief_process|ミルーニャの死に対するアズーリアの絶望と、死を否定したいという渇望は、グリーフワークにおける「否認」の段階を強く反映している]]
+- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_死の不可逆性_p1583_narrative_constraint|蘇生失敗による死の確定は、物語の「死は不可逆である」というルール（ナラティブ・コンストレイント）の遵守を示す]]
+- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_死の不可逆性_p1583_necromancy_taboo|死を否定する呪術（杖使い）が疎まれ蔑まれるという記述は、死者の復活がタブー視される宗教的・社会的規範の反映である]]
+- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_死の不可逆性_p1583_powerlessness|蘇生に失敗し、死を止められないアズーリアの無力感は、主人公が世界の理（ルール）に抗えないというメタフィクショナルな限界を示す]]
+- [[A_ch0037_analogous_to_E_ch0037_イキュー_has_property_味覚による邪視_p1564_sensory_deprivation|視覚を失い味覚のみで世界を認識するイキューの生態は、感覚の代償と知覚の歪み、および「味覚」が世界を支配する極端な身体性を示して…]]
+- [[A_ch0037_analogous_to_E_ch0037_プリエステラ_activates_アルラウネ断章_p1585_genetic_memory|遺伝子に刻まれた「種の記憶」から呪術を発動させる設定は、DNAに情報が記録されているという科学的概念の幻想的拡張である]]
+- [[A_ch0037_analogous_to_E_ch0037_プリエステラ_reveals_父の死_p1538_abusive_parent|プリエステラの父による暴力と無能さ、そしてその死に対するプリエステラの安堵は、虐待的な親との関係からの解放と、その後の心理的葛…]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_names_白のメートリアン_p1592_true_name_magic|「まことの名」を宣言することで存在の定義を書き換える行為は、神話やファンタジーにおける「真名」の概念、およびアイデンティティの…]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_イキュー_p1541_gastronomy_horror|「甘いもの」を追求し、あらゆるものを溶かして食らうイキューの生態は、美食の追求が怪物化し、他者を消費する恐怖（グルメ・ホラー）…]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_巨大企業_p1555_monopoly|巨大企業が市場を支配し、必要な物資を独占する描写は、資本主義における独占と格差の構造を批判している]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_巨大企業_p1555_pharmaceutical_profit_motive|治癒符の流通を絞って利益を追求する巨大企業の描写は、現実の製薬業界における薬価高騰やアクセス格差、利潤優先の医療システムを批判…]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_肉塊_p1590_body_horror|死体から肉塊が発生し、新たな形態で復活する描写は、ボディ・ホラーにおける「肉体の変容と侵食」のジャンル的クリシェに該当する]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_肉塊_p1590_zombie|死体から新たな存在が湧き出す描写は、ゾンビやアンデッドの復活、および「死体の反乱」というホラーのクリシェに該当する]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_父の浮気_p1558_family_dysfunction|ミルーニャの家庭環境は、機能不全家庭における親の責任放棄と子のトラウマの連鎖を描写している]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_父の浮気_p1558_family_trauma|ミルーニャの父による浮気と母の死、そして父の無謀な死という一連の出来事は、機能不全家庭におけるトラウマの連鎖を描写している]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_真の目的_p1592_defiance_of_fate|「不幸の敵」「死を打ち砕くもの」という宣言は、運命論に対する抵抗と、死の克服という究極的な目標への執着を示す]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_恨みの対象_p1561_revenge|復讐の対象があることへの羨望は、復讐が恨みを解消する手段として機能する心理的構造を示す]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_恨みの対象_p1561_scapegoating|恨みをぶつける対象があることが「幸せ」であり、対象がないことが「恨みが膨れ上がる」という論理は、社会心理学におけるスケープゴー…]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_父への祝福_p1539_death_as_release|ミルーニャがプリエステラの父の死を「幸福」と祝福するのは、虐待からの解放としての死の肯定的側面を強調する]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_thinks_地上の摂理_p1524_capitalism_resource_extraction|異獣を「資源」として収奪し、利益を追求するミルーニャの論理は、現代の資本主義における環境破壊や労働搾取の構造を模倣している]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_threatens_ハルベルト_p1593_identity_theft|ハルベルトを殺し、その名を襲うという宣言は、アイデンティティの盗用と継承、および「名前」が権力と存在を規定する世界観を示す]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_threatens_ハルベルト_p1593_usurpation|ハルベルトを殺してその名を襲うという計画は、王位簒奪やアイデンティティの乗っ取りという権力闘争の構造を模倣している]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_corruption|ミルーニャが死後に「白のメートリアン」として復活し、髪が白く瞳が赤くなる変容は、内面の悪意や真の姿が外部に顕現する「腐敗」のメ…]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_duality|ミルーニャの表の顔（毒舌だが仲間想い）と裏の顔（死を否定する魔女）の対比は、人間の二面性や仮面（ペルソナ）の構造を象徴する]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_wounds_左手中指_p1573_gacha_cost|強力な武器を召喚するために自らの身体の一部（爪）を代償として捧げる行為は、魔法の代償としての身体犠牲の伝統的構造を示している]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_wounds_左手中指_p1573_sacrifice|呪術の発動に自らの身体の一部を犠牲にする行為は、魔法の代償としての「生贄」の伝統的な構造を踏襲している]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_wounds_左手中指_p1573_self_harm|ミルーニャが自傷行為（爪を剥ぐ）を伴う呪術を行使し、その痛みに悦楽を見出す描写は、自傷行為の心理的側面（痛覚による感情の制御や…]]
+- [[A_ch0037_analogous_to_E_ch0037_松明の騎士団_betrays_ティリビナの民_p1529_colonialism|大神院がティリビナの民の故郷を焼き払い権利を剥奪した歴史は、植民地支配における原住民の土地収奪と文化破壊の構造と一致する]]
+
+## 第38話
+
+- [[A_ch0038_alludes_to_E_ch0038_アキラ_observes_ミルーニャの過去_p1691_児童虐待とPTSDのトラウマ|ミルーニャの過去における「ごめんなさい」「ぶたないで」という反復的な叫びと、親からの暴力・ネグレクトの描写は、現実の深刻な児童…]]
+- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_トライデントの消化_p1658_免疫系とウイルスの排除|ミルーニャがトライデント（青い流体）を逆に喰い、取り込んだと語ることは、寄生者（ウイルス）が宿主を支配するプロセスを逆転させ…]]
+- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_模造品_p1598_ゲームのバランス調整とパッチ|ミルーニャが「自殺の黒槍」を自傷効果の蓄積・遅延という仕様変更（パッチ）で改良し、本家（メクセト製）より優れていると自慢する様…]]
+- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_白血呪_p1680_バイオハザードと不死の民主化|ミルーニャがフィリスを用いて不死性を量産し、既存の価値を崩壊させようとする計画は、技術の民主化が社会構造を破壊する「バイオハザ…]]
+- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_白血呪_p1680_科学技術の軍事転用と制御不能|ミルーニャが「白血呪」を発動し、世界を「呪う邪神」になろうとする野望は、科学技術（呪術）が制御不能な破壊力（邪神化）へと変貌す…]]
+- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_邪神化_p1681_資本主義の暴走と価値のインフレ|ミルーニャが「不死」を量産して「価値を紙切れにする」と語ることは、希少性の破壊による経済的インフレや、資本主義的な利益追求が倫…]]
+- [[A_ch0038_inverts_E_ch0038_イルス_says_医術の神_p1632_ヒポクラテスの誓いと宗教的対立|イルスが「俺の神は医術だ」と宣言し、信仰（槍神教）と技術（医術）を分離して救済を行う姿勢は、宗教的対立を超越したヒポクラテス的…]]
+- [[A_ch0038_structurally_matches_E_ch0038_アキラ_confesses_妹の目的_p1636_オルタナティブ・ヒストリーと魂の乗っ取り|妹が「セレクティフィレクティ」に魂を乗っ取られているという設定は、人格の乗っ取り（憑依）や、記憶・人格の改変による「死んだはず…]]
+- [[A_ch0038_structurally_matches_E_ch0038_ミルーニャ_has_property_自己愛_p1711_ナルシシズムと自己保存本能|ミルーニャの「三本目の足」が「自分自身」への執着（自己愛）によって形成されているという設定は、ナルシシズム（自己愛性人格障害）…]]
+
+## 第39話
+
+- [[A_ch0039_alludes_to_E_ch0039_ハルベルト_defines_絶対言語_p1739_esperanto|「絶対言語」の再生と「引き裂かれた言葉と意思を、再び繋いで語り直す」という目的は、バベルの塔の神話やエスペラント語のような普遍…]]
+- [[A_ch0039_analogous_to_E_ch0039_ハルベルト_other_ナト_p1735_gacha_rarity|四肢を失ったナトを「化ける」「掘り出し物」と評価する視点は、欠損をリソース最適化の機会と捉える、あるいは変身による潜在能力解放…]]
+- [[A_ch0039_analogous_to_E_ch0039_ミルーニャ_other_権利_p1745_game_ranking_system|予備候補間の勝利による順位入れ替えや、襲名による対決権利の発生は、格闘ゲームやオンラインゲームにおけるランキングシステム、およ…]]
+- [[A_ch0039_analogous_to_E_ch0039_松明の騎士団_uses_金鎖_p1734_surveillance_camera_system|松明の騎士団の金鎖による視界映像の共有と本部への送信は、ネットワーク化されたリアルタイム情報共有システム（テレメトリ）のメタフ…]]
+- [[A_ch0039_inverts_E_ch0039_ハルベルト_names_大神院_p1737_institutional_corruption|権威ある大神院を「異端」と定義し、内部の歪みを修整する役割を担うことは、組織の自己批判や内部告発、体制批判の構造を逆転させたも…]]
+- [[A_ch0039_parodies_E_ch0039_ハルベルト_conceals_記録_p1734_data_tampering|ハルベルトによる戦闘中の「五重の改竄処理」は、ゲームやSNSにおけるログ改ざん、あるいは情報統制による事実の隠蔽を模倣している]]
+
+## 第40話
+
+- [[A_ch0040_analogous_to_E_ch0040_アズール_has_property_六機撃墜_p1760_Scoreboard_Stats|アズールの六機撃墜、被弾ゼロという詳細なスコア表示は、FPSゲームのキルデス比（K/D）やスコアボードによる成績評価システムを…]]
+- [[A_ch0040_analogous_to_E_ch0040_クレイドル_functions_as_アストラル誘導_p1759_Hardware_Interface|独力でダイブできない者がクレイドルという大型呪具を必須とする設定は、VRヘッドセットやゲームコントローラーなどのハードウェアイ…]]
+- [[A_ch0040_analogous_to_E_ch0040_フィールド管理乱数_makes_向かい風_p1753_RNG_Mechanics|フィールドを管理する乱数が向かい風を発生させ戦況を左右する描写は、ゲームにおけるランダムイベント（RNG）がプレイヤーの戦略を…]]
+- [[A_ch0040_analogous_to_E_ch0040_フルブライト_names_三叉槍_p1756_Party_System|最終選定前にもかかわらず『三叉槍』を襲名し特別枠で出場する二人は、MMORPGにおける固定パーティやギルドの結成、およびその特…]]
+- [[A_ch0040_analogous_to_E_ch0040_メートリアン_says_挑発_p1759_Text_Chat|訓練室で直接話さず、端末の通信アプリで高速打鍵して挑発を送信する行為は、オンラインゲームやSNSにおけるテキストチャットでの挑…]]
+- [[A_ch0040_analogous_to_E_ch0040_十八のアバター_appears_天より降り注ぐ_p1750_Battle_Royale_Game|十八のアバターが天より降り注ぎ、即座に熾烈な闘争を開始する様子は、バトルロイヤルゲーム（フォートナイト等）のドロップインと即死…]]
+- [[A_ch0040_analogous_to_E_ch0040_杖の技術体系_defines_仮想現実_p1750_VR_AR_Technology|アストラル界を物質的に再現しようとする『仮想現実』や『拡張現実』というアプローチは、現代のVR/AR技術開発の試みと構造的に一…]]
+- [[A_ch0040_parodies_E_ch0040_杖使い_thinks_車輪の再発明_p1750_Reinventing_The_Wheel|杖使いが既存の神秘の後追いに終始し技術発展を妨げているという記述は、現代の技術開発における「車輪の再発明」批判やイノベーション…]]
+
+## 第42話
+
+- [[A_ch0042_alludes_to_E_ch0042_ソルダ_confesses_冬の魔女コルセスカ_p1813_Fairy_Tale_Romance|ソルダとコルセスカの物語は、グリム童話や北欧神話に見られる「凍結された愛」や「運命の再会」をモチーフとしたおとぎ話の構造を模し…]]
+- [[A_ch0042_alludes_to_E_ch0042_大機竜オルガンローデ_is_made_of_少年の命_p1802_Human_Cannon|少年の命を捧げて機械竜を起動させる儀式は、自己犠牲を燃料とする兵器運用のメタファーである]]
+- [[A_ch0042_alludes_to_E_ch0042_転移門_has_property_望みを捨てる文言_p1782_Dante_Inferno|転移門の文言はダンテ『神曲』地獄篇の門の銘文「汝らここに入る者、一切の希望を捨てよ」の直接的な引用（パロディ）であり、迷宮が地…]]
+- [[A_ch0042_analogous_to_E_ch0042_アズーリア_activates_金鎖システム_p1794_Auto_Response_System|呪動装甲からの通報が本部ではなく寄生異獣の自動返信システムに接続される構造は、自動応答システム（チャットボット等）のメカニズム…]]
+- [[A_ch0042_analogous_to_E_ch0042_アズーリア_thinks_記憶の空白_p1815_Data_Corruption|記憶の空白が「呪文の羅列」による捏造であるという描写は、デジタルデータにおける改ざんや、脳への書き込みによる記憶操作（マインド…]]
+- [[A_ch0042_inverts_E_ch0042_ソルダ_other_竜神信教信徒_p1809_Colonial_Administration|ソルダによる「人から異獣へのラベル付け」は、植民地支配における「文明人/野蛮人」の二分法や、行政による住民の強制移住・追放を彷…]]
+- [[A_ch0042_structurally_matches_E_ch0042_ソルダ_uses_アリュージョン_p1806_Metaphor_Mechanic|「引喩系神働術」という能力名は、作品タイトル『幻想再帰のアリュージョニスト』の核心概念であり、物語の構造そのものが「比喩（アリ…]]
+- [[A_ch0042_sublates_E_ch0042_アルスタ_teaches_復讐と愛_p1792_Nietzsche_Will_to_Power|復讐を「愛の証明」と定義し、怒りをエネルギー源とするアルスタの思想は、ニーチェ的な「力への意志」や、価値の転換（復讐の肯定）を…]]
+
+## 第43話
+
+- [[A_ch0043_alludes_to_E_ch0043_クナータ_reveals_葬送式典_p1838_宗教の葬送儀礼_魂の昇天|「魂を空に送る」「星空のような魂の流れ」という描写は、宗教的な葬送儀礼における魂の昇天や浄化の概念を視覚的に表現している]]
+- [[A_ch0043_alludes_to_E_ch0043_ハルベルト_says_天使の諍い_p1831_神話の因果応報_天罰|天使ペレケテンヌルの力の低下を「上位者からの罰」として神話的逸話で説明するのは、因果応報や天罰の概念を政治的説明に転用したもの…]]
+- [[A_ch0043_alludes_to_E_ch0043_ビーチェ_binds_アズーリアの一部_p1826_影の所有_自我の境界|妹の影に入り込んだ一部が一年後に戻ってくるという記憶は、自我の境界が曖昧になる現象や、他者との精神的融合を暗示している]]
+- [[A_ch0043_alludes_to_E_ch0043_夜の民_has_property_老齢化による縮小_p1824_生物の老化_縮小現象|老いと共に身体が小さくなり赤子に近付くという生態は、生物学的な老化現象を極端にデフォルメしたファンタジー的設定である]]
+- [[A_ch0043_analogous_to_E_ch0043_アズーリア_confesses_天使への攻撃_p1830_技術の副作用_環境破壊|天使を攻撃した結果として世界全体の術が使えなくなるという記述は、技術の副作用による環境破壊やシステム全体の崩壊を連想させる]]
+- [[A_ch0043_analogous_to_E_ch0043_アズーリア_fears_異物視_p1822_社会の同調圧力_通過儀礼|「ここで食べなければ異物と見なされる」という通過儀礼への恐怖は、社会における同調圧力や「空気を読む」ことの強迫観念を象徴している]]
+- [[A_ch0043_analogous_to_E_ch0043_クナータ_reveals_葬送式典_p1838_記憶の改変_マニピュレーション|出席者たちが「生まれた」と記憶しているのは実際には「死んだ」瞬間であるという記述は、記憶の改変やマニピュレーションの概念を暗示…]]
+- [[A_ch0043_analogous_to_E_ch0043_ソルダ・アーニスタ_fights_第六階層_p1832_ゲームの難易度調整_プレイヤーの試行錯誤|ソルダが第六階層の敵に挑み続け、敵の強さが増す（第六階層の長大化）という現象は、ゲームにおけるプレイヤーの試行錯誤による難易度…]]
+- [[A_ch0043_analogous_to_E_ch0043_ナト_uses_神働装甲_p1829_サイバーパンク_義体化|手足を失うことで新型装甲への適性が向上するという記述は、サイバーパンクにおける義体化（サイボーグ化）による能力向上の概念と類似…]]
+- [[A_ch0043_analogous_to_E_ch0043_ハルベルト_promises_序列引き上げ_p1835_スポーツの契約_目標設定|半年以内に序列を引き上げると宣言する行為は、ビジネスにおけるKPI（目標設定）や契約の側面を連想させる]]
+- [[A_ch0043_analogous_to_E_ch0043_ハルベルト_promises_運命への抗い_p1840_運命論の否定_自己決定|「運命なんて下らない]]
+- [[A_ch0043_analogous_to_E_ch0043_ペイル_transforms_身体能力向上_p1828_臨死体験_PTSDの逆転|重傷を負うことで身体能力（霊感）が向上する記述は、欠損を補うための代償的な強化（ファンタジー的な義体化）を連想させる]]
+- [[A_ch0043_analogous_to_E_ch0043_ペレケテンヌル_loses_神働術の力_p1829_サーバー障害_機能停止|守護天使への祈りが届かなくなり術が使えなくなる現象は、現代のサーバー障害や通信断絶による機能停止を連想させる]]
+- [[A_ch0043_analogous_to_E_ch0043_智神の盾_defines_知識と教化_p1827_インクイジション_思想統制|異質なものを教化して取り込むという智神の盾の役割は、歴史的な宗教裁判（インクイジション）や思想統制の機構を連想させる]]
+- [[A_ch0043_analogous_to_E_ch0043_松明の騎士団_defines_武力と啓蒙_p1827_十字軍_武力による布教|異教徒を平定し葬るという松明の騎士団の役割は、十字軍における武力による布教や異教徒の弾圧を連想させる]]
+- [[A_ch0043_analogous_to_E_ch0043_羊人種_says_食べられることが幸せ_p1821_食用奉仕種族_家畜化|「食べられること」を幸福とする羊人種の描写は、食用動物の倫理や家畜化された存在の自己肯定を極端にメタファー化したものである]]
+- [[A_ch0043_analogous_to_E_ch0043_肥満_defines_貧困病_p1820_現代の肥満と貧困の相関|聖職者の肥満を「貧困病」と定義し、野菜の高価さを指摘する記述は、現代社会における「フードデザート」や低所得層の栄養偏重問題を反…]]
+- [[A_ch0043_inverts_E_ch0043_アズーリア_confesses_天使への攻撃_p1830_英雄の自己満足_被害の無視|天使を攻撃した結果として多くの人に迷惑をかけ、自己満足に過ぎないというアズーリアの自省は、英雄行為の倫理的副作用（コラテラルダ…]]
+- [[A_ch0043_inverts_E_ch0043_クナータ_says_誕生日_p1837_転生作品の転生概念|「生まれた」という記憶が実際には「死んだ（魂が空に送られた）」瞬間であるという逆転は、異世界転生における「転生＝死」の定義を文…]]
+- [[A_ch0043_parodies_E_ch0043_ソルダ・アーニスタ_fights_第六階層_p1832_ゲームのボス戦_パターン学習|ソルダが第六階層のボス（イェレイド）に挑み続け、パターン化された動きで戦う描写は、ゲームにおけるボス戦の攻略過程（パターン学習…]]
+- [[A_ch0043_parodies_E_ch0043_トントロポロロンズ_says_食べて_p1820_食品の擬人化_パッケージ|食材が自ら「食べて」と語りかける描写は、食品パッケージやCMにおける擬人化マーケティングの過剰な表現を風刺している]]
+- [[A_ch0043_structurally_matches_E_ch0043_アズーリア_transforms_分裂_p1826_多重人格_解離|フォークにぶつかった衝撃で四つに分裂する描写は、物理的分裂を通じて自我の分散や解離を暗示している]]
+- [[A_ch0043_structurally_matches_E_ch0043_神官_other_アズーリアへの攻略_p1834_組織の責任転嫁_若手への押し付け|ソルダの死後、神官たちが第六階層の攻略をアズーリアに押し付ける様子は、組織における責任の若手への転嫁や「若者に期待する」風潮を…]]
+- [[A_ch0043_structurally_matches_E_ch0043_神官_uses_フォーク_p1822_ゲームの戦闘システム_即死演出|羊人種をフォークで串刺しにして丸ごと食べる作法は、RPGにおける敵の「吸収」や「消化」による強化メカニクスを連想させる]]

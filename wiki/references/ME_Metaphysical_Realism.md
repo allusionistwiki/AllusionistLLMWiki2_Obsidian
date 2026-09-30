@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_Metaphysical_Realism
 title: 形而上学的実在論
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "Metaphysical_Realism"
 domain: "Contemporary Culture"

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_traditional_chinese_medicine
 title: 漢方医学
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "traditional_chinese_medicine"
 domain: "Contemporary Culture"

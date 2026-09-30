@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_現代のSNS・アルゴリズム
 title: SNSアルゴリズム
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: internet_culture
 canonical_name: "現代のSNS・アルゴリズム"
 domain: "Internet Culture"

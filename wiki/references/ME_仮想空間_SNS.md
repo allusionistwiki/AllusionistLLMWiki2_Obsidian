@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_仮想空間_SNS
 title: 仮想空間・SNS
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: internet_culture
 canonical_name: "仮想空間_SNS"
 domain: "Internet Culture"

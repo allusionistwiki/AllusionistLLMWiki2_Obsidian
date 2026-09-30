@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_char_群青様
+type: entity
+subtype: character
+canonical_name: 群青様
+first_appearance: ch0043
+spoiler_after: ch0043
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 群青様
+
+夜の民の司教である人物。アズーリアに棒付き飴を差し出し、食べる口実を与えるなどして関与している。影の触手を吸管のように用いて葡萄酒を啜るという特徴的な行動が見られる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0043 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 卓の反対側から歩いてきた小さなその人物は、黒衣の中から自分の体積以上の棒付き飴を取り出す。（ch0043）
+> けぷ、とフードから音を漏らして、影の触手を伸ばして葡萄酒を啜る。触手は吸管のようにも使えるのだ。（ch0043）
+
+<!-- AUTO:END -->

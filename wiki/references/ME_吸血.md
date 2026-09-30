@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_吸血
 title: 吸血
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "吸血"
 domain: "Contemporary Culture"

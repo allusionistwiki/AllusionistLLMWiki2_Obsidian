@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_年齢
+type: entity
+subtype: character
+canonical_name: 年齢
+first_appearance: ch0035
+spoiler_after: ch0035
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 年齢
+
+アズーリアは三十二歳（巡節数えで十六歳）、メイファーラは十八歳、ハルベルトは十五歳で最年少であることが明かされている。ミルーニャは二十六歳（巡節数えで五十二歳）であり、アズーリアより一回り年上である。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0035 ｜ **観測イベント**: 3 件（1 話に出現）
+
+## 代表引用
+
+> 「そういえば、ちょっと気になってたんですけど、みんなお幾つなんですか？　私は三十二歳なんですが」（ch0035）
+> 「――十五」　まさかのハルベルト最年少ミルーニャ最年長。（ch0035）
+> 「はいはい十三歳ね」「いえ、巡節数えだと五十二歳ですぅ」（ch0035）
+
+<!-- AUTO:END -->

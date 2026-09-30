@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_暗号通貨_セキュリティ
 title: 暗号通貨の信用
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "暗号通貨_セキュリティ"
 domain: "Contemporary Culture"

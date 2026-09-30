@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_Narrative_Structure_Choice
 title: 物語構造の選択
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "Narrative_Structure_Choice"
 domain: "Contemporary Culture"

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_不思議の国のアリス
 title: 不思議の国のアリス
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "不思議の国のアリス"
 domain: "Contemporary Culture"

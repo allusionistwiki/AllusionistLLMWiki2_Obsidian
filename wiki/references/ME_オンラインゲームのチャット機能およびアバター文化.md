@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_オンラインゲームのチャット機能およびアバター文化
 title: オンライン文化
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "オンラインゲームのチャット機能およびアバター文化"
 domain: "Contemporary Consumer Culture"

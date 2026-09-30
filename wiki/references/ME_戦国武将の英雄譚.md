@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_戦国武将の英雄譚
 title: 戦国英雄譚
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "戦国武将の英雄譚"
 domain: "Contemporary Culture"

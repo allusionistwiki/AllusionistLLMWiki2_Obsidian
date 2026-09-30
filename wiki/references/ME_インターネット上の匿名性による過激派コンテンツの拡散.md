@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_インターネット上の匿名性による過激派コンテンツの拡散
 title: 匿名過激派拡散
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: internet_culture
 canonical_name: "インターネット上の匿名性による過激派コンテンツの拡散"
 domain: "Internet Culture"

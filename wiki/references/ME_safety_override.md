@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_safety_override
 title: 安全装置解除
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "safety_override"
 domain: "Contemporary Culture"

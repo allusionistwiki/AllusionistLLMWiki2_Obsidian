@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_hardware_spec
 title: ハードウェア仕様
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "hardware_spec"
 domain: "Contemporary Culture"

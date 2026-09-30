@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_Familiar_contract
 title: 使い魔契約
 type: external_reference
-created: "2026-09-30"
+created: "2026-10-01"
 subtype: popular_culture
 canonical_name: "Familiar_contract"
 domain: "Contemporary Culture"
