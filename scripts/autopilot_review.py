@@ -91,7 +91,9 @@ def review_items(client, config, chapter: str, items: list[dict]) -> list[dict]:
 
 def slug(s: str) -> str:
     import re
-    return re.sub(r"[（）()\[\]【】「」『』\s]+", "", s or "")
+    s = re.sub(r"[（）()\[\]【】「」『』\s]+", "", s or "")
+    # ファイル名安全化（/ \ : はワイド文字に置換）
+    return s.replace("/", "／").replace("\\", "＼").replace(":", "：")
 
 
 def promote(chapter: str, items: list[dict], verdicts: list[dict], log: list[str]) -> dict:

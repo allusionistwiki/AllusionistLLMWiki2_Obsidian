@@ -35,6 +35,7 @@ SCHEMAS_DIR = resolve(_paths.get("schemas", "schemas"))
 # work は分離リポジトリ（config: paths.work → ../AllusionistLLMWiki2_Work）
 WORK_DIR = resolve(_paths.get("work", "work"))
 EVENTS_DIR = WORK_DIR / "events"
+FACTS_DIR = WORK_DIR / "facts"
 STAGING_DIR = WORK_DIR / "staging"
 REPORTS_DIR = WORK_DIR / "reports"
 CHANGESETS_DIR = WORK_DIR / "changesets"

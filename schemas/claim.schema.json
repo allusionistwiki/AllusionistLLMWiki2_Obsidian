@@ -71,8 +71,10 @@
         "unreviewed",
         "pending",
         "human_verified",
+        "llm_verified",
         "needs_revision"
-      ]
+      ],
+      "description": "llm_verified は LLM 自己審査による暫定承認（human_verified への置換対象）"
     },
     "document_status": {
       "type": "string",

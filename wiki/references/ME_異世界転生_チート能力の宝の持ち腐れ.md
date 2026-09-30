@@ -1,0 +1,20 @@
+---
+schema_version: "5.1"
+id: ME_異世界転生_チート能力の宝の持ち腐れ
+type: external_reference
+created: "2026-09-30"
+subtype: popular_culture
+canonical_name: "異世界転生_チート能力の宝の持ち腐れ"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# 異世界転生_チート能力の宝の持ち腐れ
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch0019_inverts_E_ch0019_キロン_reveals_転生者殺しの経歴_p842_異世界転生_チート能力の宝の持ち腐れ]] — 転生者が持つ強力なスキル（ステータス画面、スキル振り等）は高額なオプションであり、それを使いこなす「メタ主人公補正」がなければ宝の持ち腐れで

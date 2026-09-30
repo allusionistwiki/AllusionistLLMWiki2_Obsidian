@@ -21,6 +21,28 @@ class LinkIndex:
 
     def build(self) -> None:
         self.scan(self.vault_path.rglob("*.md"))
+        self._load_layer_ids()
+
+    def _load_layer_ids(self) -> None:
+        """Work リポジトリのイベント層/ファクト層 ID を解決可能にする.
+
+        A_ クレームの subject [[E_chNNNN_...]] は wiki ページではなく
+        Work/events/*.jsonl の event_id を参照する（第1層参照）。
+        """
+        import json
+        for sub, key in (("events", "event_id"), ("facts", "fact_id")):
+            d = Path(__file__).resolve().parents[2].parent / "AllusionistLLMWiki2_Work" / sub
+            if not d.exists():
+                continue
+            for jl in d.glob("*.jsonl"):
+                try:
+                    for line in jl.read_text(encoding="utf-8").splitlines():
+                        rec = json.loads(line)
+                        fid = rec.get(key)
+                        if fid:
+                            self.ids.add(fid)
+                except Exception:
+                    continue
 
     def scan(self, files) -> None:
         """指定ファイル群をインデックスに追加（Lint対象が vault 外のとき相互リンク解決用）"""

@@ -1,0 +1,20 @@
+---
+schema_version: "5.1"
+id: ME_組織内差別
+type: external_reference
+created: "2026-09-30"
+subtype: popular_culture
+canonical_name: "組織内差別"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# 組織内差別
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch0030_analogous_to_E_ch0030_上級聖騎士_kills_特定の人種_p1271_組織内差別]] — 上級聖騎士による特定人種・国籍の選別殺害は、組織内部に潜む構造的な差別主義と権力乱用を批判している。
