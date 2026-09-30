@@ -37,6 +37,46 @@ def ep_no(ch: str) -> str:
     return str(int(ch[2:]))
 
 
+KANJI = "一二三四五六七八九"
+
+
+def kanji_num(n: int) -> str:
+    if n <= 0:
+        return str(n)
+    if n <= 9:
+        return KANJI[n - 1]
+    if n == 10:
+        return "十"
+    if n < 20:
+        return "十" + KANJI[n - 11]
+    tens, ones = divmod(n, 10)
+    return KANJI[tens - 1] + "十" + (KANJI[ones - 1] if ones else "")
+
+
+def load_episode_meta() -> dict[str, dict]:
+    """data/episodes.json → chXXXX → {chapter, label, title, ep}"""
+    import json
+    p = ROOT / "data" / "episodes.json"
+    if not p.exists():
+        return {}
+    data = json.loads(p.read_text(encoding="utf-8"))
+    meta = {}
+    for e in data["episodes"]:
+        meta[f"ch{e['ep']:04d}"] = e
+    return meta
+
+
+def episode_heading(ch: str, meta: dict[str, dict]) -> str:
+    """ch0001 → '### 第一話：1-1　無彩色の左手、鎧の右手'（幕間は '### 第三話：幕間　『きぐるみの魔女』'）"""
+    e = meta.get(ch)
+    n = ep_no(ch)
+    if e:
+        label = e["label"]
+        title = e["title"]
+        return f"### 第{kanji_num(int(n))}話：{label}　{title}"
+    return f"### 第{n}話"
+
+
 def fm(title: str, desc: str, pid: str = "") -> str:
     head = f"---\ntitle: {title}\n"
     if pid:
@@ -123,15 +163,34 @@ def main() -> None:
         f.unlink()
 
     # ---- 話ハブ ----
+    meta = load_episode_meta()
+    chapters = []
+    if (ROOT / "data" / "episodes.json").exists():
+        import json
+        chapters = json.loads((ROOT / "data" / "episodes.json").read_text(encoding="utf-8"))["chapters"]
+
+    def chapter_of(ch: str) -> int:
+        e = meta.get(ch)
+        return e["chapter"] if e else 0
+
+    def chapter_heading(ch: str) -> str:
+        cno = chapter_of(ch)
+        ct = next((c["title"] for c in chapters if c["no"] == cno), None)
+        return f"## 第{kanji_num(cno)}章　{ct}" if ct else f"## 章未指定"
+
     for ch in eps:
         cs = claims_by_ep.get(ch, [])
         ms = myst_by_ep.get(ch, [])
         mes = sorted({c["me"] for c in cs if c["me"]})
         n = ep_no(ch)
-        lines = [fm(f"第{n}話（{ch}）",
+        e = meta.get(ch)
+        label = f"{e['label']}　{e['title']}" if e else ""
+        heading = f"第{kanji_num(int(n))}話：{label}" if label else f"第{n}話"
+        lines = [fm(heading,
                     f"第{n}話のアナロジー {len(cs)} 件・伏線 {len(ms)} 件・外部参照 {len(mes)} 件",
                     f"nav/{ch}")]
-        lines.append(f"# 第{n}話（{ch}）\n")
+        lines.append(f"# {heading}\n")
+        lines.append(f"{chapter_heading(ch)} ｜ [章の先頭へ](../claims/index.md)\n")
         lines.append(f"[← 話一覧](../nav/index.md) ｜ [クレーム節](../claims/index.md) ｜ [伏線節](../mysteries/index.md)\n")
         lines.append(f"## アナロジークレーム（{len(cs)} 件）\n")
         for c in cs:
@@ -148,57 +207,109 @@ def main() -> None:
         (NAV / f"{ch}.md").write_text("\n".join(lines), encoding="utf-8")
 
     # ---- 話一覧 ----
-    lines = [fm("話ナビゲーション", "話ごとのアナロジー・伏線・外部参照の一覧", "nav/index")]
+    lines = [fm("話ナビゲーション", "章・話ごとのアナロジー・伏線・外部参照の一覧", "nav/index")]
     lines.append("# 話ナビゲーション\n")
     lines.append("掲載単位は「話」（なろうのエピソード番号）。`chXXXX` は内部 ID です。\n")
     lines.append("| 話 | アナロジー（A_） | 伏線（MY_） | 外部参照（ME_） |")
     lines.append("|---|---:|---:|---:|")
+    ch_groups: dict[int, list[str]] = defaultdict(list)
     for ch in eps:
-        cs = claims_by_ep.get(ch, [])
-        mes = sorted({c["me"] for c in cs if c["me"]})
-        lines.append(f"| [[nav/{ch}|第{ep_no(ch)}話]] | {len(cs)} | {len(myst_by_ep.get(ch, []))} | {len(mes)} |")
+        ch_groups[chapter_of(ch)].append(ch)
+    for cno in sorted(ch_groups):
+        ct = next((c["title"] for c in chapters if c["no"] == cno), None)
+        if ct:
+            lines.append(f"| **第{kanji_num(cno)}章　{ct}** | | | |")
+        for ch in ch_groups[cno]:
+            cs = claims_by_ep.get(ch, [])
+            mes = sorted({c["me"] for c in cs if c["me"]})
+            e = meta.get(ch)
+            label = f"{e['label']}　{e['title']}" if e else f"第{ep_no(ch)}話"
+            disp = f"第{kanji_num(int(ep_no(ch)))}話：{label}" if e else f"第{ep_no(ch)}話"
+            lines.append(f"| [[nav/{ch}|{disp}]] | {len(cs)} | {len(myst_by_ep.get(ch, []))} | {len(mes)} |")
     if unassigned:
         lines.append(f"| （話未指定） | {len(claims_by_ep.get('ch????', []))} | {len(myst_by_ep.get('ch????', []))} | 0 |")
     lines.append("")
     (NAV / "index.md").write_text("\n".join(lines), encoding="utf-8")
 
-    # ---- 節インデックス ----
-    # claims/index.md: 話別インデックス（第N話 → 主張リンク、ラベルは主張文）
-    idx = ["---", "title: アナロジークレーム全集（話別）", "id: claims/index",
-           "description: 全アナロジークレームの話別インデックス。各話の主張一覧", "---", "",
-           "# アナロジークレーム全集（話別）", "",
-           f"全 **{len(claims)} 件**。[[nav/index|話ナビゲーション]] / [[mysteries/index|伏線台帳]] / [[references/index|外部参照]]", "",
-           "ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイベント（ノーペイン起動, p103）が「安楽死の倫理」をパロディにしている、という主張。", ""]
-    for ch in eps:
-        idx.append(f"## 第{ep_no(ch)}話")
-        idx.append("")
-        for c in claims_by_ep.get(ch, []):
-            idx.append(f"- [[{c['name']}|{c['title']}]]")
-        idx.append("")
-    if claims_by_ep.get("ch????"):
-        idx.append("## 話未指定")
-        idx.append("")
-        for c in claims_by_ep["ch????"]:
-            idx.append(f"- [[{c['name']}|{c['title']}]]")
-        idx.append("")
-    (WIKI / "claims" / "index.md").write_text("\n".join(idx), encoding="utf-8")
-    (WIKI / "mysteries" / "index.md").write_text(fm(
-        "伏線（MY_）",
-        "作中に仕掛けられた伏線・未回収要素の追跡記録", "mysteries/index") +
-        "# 伏線（MY_）\n\n"
-        "導入話（introduced）を起点に、回収状況を追跡する伏線台帳です。"
-        "ステータスは `candidate`（候補）→ `active`（生存確認）→ `resolved`（回収）の遷移を想定しています。\n\n"
-        f"全 **{len(mysteries)} 件**。話別の一覧は [[nav/index|話ナビゲーション]] から。\n",
-        encoding="utf-8")
-    (WIKI / "references" / "index.md").write_text(fm(
-        "外部参照（ME_）",
-        "クレームが引喩する現代文化・思想・制度・作品の解説ページ", "references/index") +
-        "# 外部参照（ME_）\n\n"
-        "アナロジークレームの「引喩先」にあたる現代の保険商品、ガチャ課金、AR ゲーム、安楽死の倫理、"
-        "テセウスの船、武侠小説……といった外部概念の解説ページです。各ページにそれを引喩として使っている"
-        "クレームの一覧（backlinks）が自動で集まります。\n\n"
-        f"全 **{len(refs)} 件**。\n",
-        encoding="utf-8")
+    # ---- 節インデックス（章 → 話 → 項目、の3層フォーマット）----
+    meta = load_episode_meta()
+    chapters = []
+    if (ROOT / "data" / "episodes.json").exists():
+        import json
+        chapters = json.loads((ROOT / "data" / "episodes.json").read_text(encoding="utf-8"))["chapters"]
+
+    def chapter_of(ch: str) -> int:
+        e = meta.get(ch)
+        return e["chapter"] if e else 0
+
+    def section_index(items_by_ep: dict[str, list[dict]], item_link, title: str,
+                      desc: str, pid: str, intro: str) -> None:
+        lines = ["---", f"title: {title}", f"id: {pid}", f"description: {desc}", "---", "",
+                 f"# {title}", "", intro, ""]
+        eps_sorted = sorted(items_by_ep.keys())
+        ch_groups: dict[int, list[str]] = defaultdict(list)
+        for ch in eps_sorted:
+            ch_groups[chapter_of(ch)].append(ch)
+        for cno in sorted(ch_groups):
+            ct = next((c["title"] for c in chapters if c["no"] == cno), None)
+            if ct:
+                lines.append(f"## 第{kanji_num(cno)}章　{ct}")
+                lines.append("")
+            for ch in ch_groups[cno]:
+                lines.append(episode_heading(ch, meta))
+                lines.append("")
+                for it in items_by_ep[ch]:
+                    lines.append(f"- {item_link(it)}")
+                lines.append("")
+        (WIKI / pid.split("/")[0] / "index.md").write_text("\n".join(lines), encoding="utf-8")
+
+    section_index(
+        claims_by_ep,
+        lambda c: f"[[{c['name']}|{c['title']}]]",
+        "アナロジークレーム全集（章・話別）",
+        "全アナロジークレームの章別・話別インデックス",
+        "claims/index",
+        f"全 **{len(claims)} 件**。[[nav/index|話ナビゲーション]] / [[mysteries/index|伏線台帳]] / [[references/index|外部参照]]\n\n"
+        "ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイベント（ノーペイン起動, p103）が「安楽死の倫理」をパロディにしている、という主張。")
+
+    section_index(
+        myst_by_ep,
+        lambda m: f"[[{m['name']}|{m['title']}]]",
+        "伏線台帳（章・話別）",
+        "全伏線の章別・話別インデックス（導入話起点）",
+        "mysteries/index",
+        f"全 **{len(mysteries)} 件**。導入話（introduced）を起点に、回収状況を追跡する伏線台帳です。"
+        "ステータスは `candidate`（候補）→ `active`（生存確認）→ `resolved`（回収）の遷移を想定しています。")
+
+    # references: ME_ を「それを引喩として使ったクレームの初出話」で章・話別に分類
+    me_first: dict[str, str] = {}
+    for c in sorted(claims, key=lambda c: c["ch"]):
+        if c["me"] and c["me"] not in me_first:
+            me_first[c["me"]] = c["ch"]
+    refs_by_ep: dict[str, list[dict]] = defaultdict(list)
+    unref = []
+    for r in refs:
+        me_name = r["name"][3:] if r["name"].startswith("ME_") else r["name"]
+        ch = me_first.get(me_name, "ch????")
+        if ch == "ch????":
+            unref.append(r)
+        else:
+            refs_by_ep[ch].append(r)
+    section_index(
+        refs_by_ep,
+        lambda r: f"[[{r['name']}|{r['title']}]]",
+        "外部参照（章・話別）",
+        "引喩先の現代文化・思想・作品の解説ページ（初出話別）",
+        "references/index",
+        f"全 **{len(refs)} 件**。アナロジークレームの「引喩先」にあたる現代の保険商品、ガチャ課金、AR ゲーム、"
+        "安楽死の倫理、テセウスの船、武侠小説……といった外部概念の解説ページです。"
+        "各ページにそれを引喩として使っているクレームの一覧（backlinks）が自動で集まります。\n\n"
+        "分類は「その概念を引喩として使ったクレームの初出話」です。")
+    if unref:
+        with (WIKI / "references" / "index.md").open("a", encoding="utf-8") as fh:
+            fh.write("\n## 未分類（クレーム未紐付け）\n\n")
+            for r in unref:
+                fh.write(f"- [[{r['name']}|{r['title']}]]\n")
 
     # ---- ポータル ----
     n_ep = len(eps)
