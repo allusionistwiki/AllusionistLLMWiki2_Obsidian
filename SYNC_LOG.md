@@ -2,6 +2,7 @@
 
 | vault commit | work commit | 日付 | 内容 |
 |:---|:---|:---|:---|
+| 2dd85ea | f14d5d7 | 2026-10-01 | ch0074-ch0083 解析（events/facts/analysis/autopilot） |
 | e582a0d | 722872c | 2026-10-01 | ch0064-ch0073 解析（events/facts/analysis/autopilot） |
 | 9905cdc | 5e31c08 | 2026-10-01 | ch0054-ch0063 解析（events/facts/analysis/autopilot） |
 | 1cec46f | 74f996e | 2026-10-01 | ch0044-ch0053 解析（events/facts/analysis/autopilot） |
