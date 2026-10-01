@@ -4,8 +4,6 @@ id: ME_クオリアの哲学
 title: クオリア
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: philosophy

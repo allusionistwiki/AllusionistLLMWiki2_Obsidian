@@ -4,8 +4,6 @@ id: ME_intelligence_mission
 title: 情報収集任務
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,9 +4,6 @@ id: A_ch0067_analogous_to_E_ch0067_エスフェイル_reveals_セリアック＝
 title: 民話の取り替え子
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_エスフェイル_reveals_セリアック＝ニアの出自_p2506]]"

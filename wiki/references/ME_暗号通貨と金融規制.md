@@ -4,8 +4,6 @@ id: ME_暗号通貨と金融規制
 title: 暗号通貨と規制
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

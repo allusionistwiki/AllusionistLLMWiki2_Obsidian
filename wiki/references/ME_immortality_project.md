@@ -4,8 +4,6 @@ id: ME_immortality_project
 title: 不老不死技術
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

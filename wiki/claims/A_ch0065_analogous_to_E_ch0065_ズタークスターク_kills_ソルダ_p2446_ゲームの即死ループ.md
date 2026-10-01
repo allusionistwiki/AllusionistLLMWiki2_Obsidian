@@ -4,9 +4,6 @@ id: A_ch0065_analogous_to_E_ch0065_ズタークスターク_kills_ソルダ_p244
 title: 即死ループとしての蘇生即死
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ズタークスターク_kills_ソルダ_p2446]]"

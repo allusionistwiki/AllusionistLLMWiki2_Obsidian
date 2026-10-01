@@ -4,9 +4,6 @@ id: A_ch0056_analogous_to_E_ch0056_神々の図書館_stops_言語管理機能_p
 title: 言語管理OS停止とバベルの逆転
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_神々の図書館_stops_言語管理機能_p2162]]"

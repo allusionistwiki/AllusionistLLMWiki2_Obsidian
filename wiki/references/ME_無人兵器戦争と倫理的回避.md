@@ -4,8 +4,6 @@ id: ME_無人兵器戦争と倫理的回避
 title: 無人兵器戦争の倫理
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: philosophy

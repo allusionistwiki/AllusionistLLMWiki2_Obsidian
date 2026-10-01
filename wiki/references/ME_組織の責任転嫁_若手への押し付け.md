@@ -4,8 +4,6 @@ id: ME_組織の責任転嫁_若手への押し付け
 title: 組織の責任転嫁
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,9 +4,6 @@ id: A_ch0026_alludes_to_E_ch0026_レオ_appears_null_p1207_猫耳少年
 title: 猫耳少年と獅子王の対比
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_レオ_appears_null_p1207]]"

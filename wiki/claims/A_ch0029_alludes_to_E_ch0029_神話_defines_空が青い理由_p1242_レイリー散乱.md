@@ -4,9 +4,6 @@ id: A_ch0029_alludes_to_E_ch0029_神話_defines_空が青い理由_p1242_レイ�
 title: レイリー散乱による科学的説明
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_神話_defines_空が青い理由_p1242]]"

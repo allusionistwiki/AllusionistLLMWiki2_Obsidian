@@ -4,9 +4,6 @@ id: A_ch0010_structurally_matches_E_ch0010_アキラ_says_殺意の定義_p439_�
 title: ブラックリスト化のメタファー
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_アキラ_says_殺意の定義_p439]]"

@@ -4,9 +4,6 @@ id: A_ch0038_structurally_matches_E_ch0038_ミルーニャ_has_property_自己�
 title: ナルシシズムの肉体変異
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_ミルーニャ_has_property_自己愛_p1711]]"

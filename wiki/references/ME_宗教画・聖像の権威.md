@@ -4,8 +4,6 @@ id: ME_宗教画・聖像の権威
 title: 宗教画と聖像の権威
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

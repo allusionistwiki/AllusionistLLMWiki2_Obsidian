@@ -4,8 +4,6 @@ id: ME_介錯
 title: 介錯
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,8 +4,6 @@ id: ME_admin_privilege
 title: 管理者権限
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

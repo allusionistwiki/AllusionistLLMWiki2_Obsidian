@@ -4,8 +4,6 @@ id: ME_組織の論理・集団の暴力
 title: 組織論と暴力
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

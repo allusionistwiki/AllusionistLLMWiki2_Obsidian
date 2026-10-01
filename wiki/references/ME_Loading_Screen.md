@@ -4,8 +4,6 @@ id: ME_Loading_Screen
 title: ロード画面
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

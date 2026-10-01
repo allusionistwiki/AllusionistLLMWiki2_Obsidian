@@ -4,8 +4,6 @@ id: ME_augmented_reality
 title: 拡張現実
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

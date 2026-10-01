@@ -4,8 +4,6 @@ id: ME_暗号通貨_セキュリティ
 title: 暗号通貨の信用
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

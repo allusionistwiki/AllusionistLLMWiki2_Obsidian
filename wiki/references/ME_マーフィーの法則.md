@@ -4,8 +4,6 @@ id: ME_マーフィーの法則
 title: マーフィーの法則
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

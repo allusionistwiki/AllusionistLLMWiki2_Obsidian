@@ -4,8 +4,6 @@ id: ME_相撲の決まり手
 title: 相撲の決まり手
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

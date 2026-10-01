@@ -4,8 +4,6 @@ id: ME_スポーツの契約_目標設定
 title: 目標設定
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

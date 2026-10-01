@@ -4,9 +4,6 @@ id: A_ch0071_alludes_to_E_ch0071_セルフ・ディファレンス・エンジ�
 title: 自己言及型AIの暗喩
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_セルフ・ディファレンス・エンジン_defines_非線形参照型差延機関_p2631]]"

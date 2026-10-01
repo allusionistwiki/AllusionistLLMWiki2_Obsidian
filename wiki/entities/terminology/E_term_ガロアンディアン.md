@@ -27,6 +27,5 @@ created: "2026-09-30"
 ## 関連クレーム
 
 - [[A_ch0027_alludes_to_E_ch0027_トリシューラ_names_ガロアンディアン_p1218_Galactic_Empire|銀河帝国の破綻クリシェ引用]]
-- [[A_ch0084_analogous_to_E_ch0084_ガロアンディアン_is_located_花街_p3090_Urban_Renewal|都市再開発のジェントリフィケーション]]
 
 <!-- AUTO:END -->

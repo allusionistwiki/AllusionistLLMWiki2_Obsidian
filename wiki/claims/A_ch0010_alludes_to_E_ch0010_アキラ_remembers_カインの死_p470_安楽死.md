@@ -4,9 +4,6 @@ id: A_ch0010_alludes_to_E_ch0010_アキラ_remembers_カインの死_p470_安楽
 title: 安楽死の倫理的葛藤
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_アキラ_remembers_カインの死_p470]]"

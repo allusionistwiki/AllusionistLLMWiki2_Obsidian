@@ -4,8 +4,6 @@ id: ME_神話の因果応報_天罰
 title: 因果応報・天罰
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: mythology

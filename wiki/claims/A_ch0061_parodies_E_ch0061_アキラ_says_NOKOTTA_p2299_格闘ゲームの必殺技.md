@@ -4,9 +4,6 @@ id: A_ch0061_parodies_E_ch0061_アキラ_says_NOKOTTA_p2299_格闘ゲームの�
 title: 格闘ゲーム必殺技へのパロディ
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0061_アキラ_says_NOKOTTA_p2299]]"

@@ -4,9 +4,6 @@ id: A_ch0002_analogous_to_E_ch0002_アキラ_uses_聴勁_p128_active_sonar
 title: アクティブソナー原理の聴勁
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_アキラ_uses_聴勁_p128]]"

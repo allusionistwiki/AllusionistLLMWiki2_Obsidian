@@ -37,9 +37,6 @@ arc: '[[ARC_01_女神候補選定編]]'
 
 ### 関係性
 
-- [[E_relation_トリシューラ]]
-- [[E_relation_コルセスカ]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

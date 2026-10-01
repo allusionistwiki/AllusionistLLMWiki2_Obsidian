@@ -4,9 +4,6 @@ id: A_ch0069_analogous_to_E_ch0069_マリー_has_property_哲学的ゾンビ_p25
 title: 哲学的ゾンビによる心身分離
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_マリー_has_property_哲学的ゾンビ_p2560]]"

@@ -4,8 +4,6 @@ id: ME_撤退
 title: 戦闘撤退
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

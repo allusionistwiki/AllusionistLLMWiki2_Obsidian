@@ -4,9 +4,6 @@ id: A_ch0048_analogous_to_E_ch0048_骨の槍_kills_神官_p1953_自己免疫疾�
 title: 自己免疫疾患への防御の転生
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0048_骨の槍_kills_神官_p1953]]"

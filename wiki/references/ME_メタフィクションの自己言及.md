@@ -4,8 +4,6 @@ id: ME_メタフィクションの自己言及
 title: メタフィクション
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

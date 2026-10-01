@@ -4,8 +4,6 @@ id: ME_identity_theft
 title: アイデンティティ盗用
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

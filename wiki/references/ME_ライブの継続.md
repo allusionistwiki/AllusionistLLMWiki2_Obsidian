@@ -4,8 +4,6 @@ id: ME_ライブの継続
 title: ライブの継続
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

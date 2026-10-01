@@ -4,9 +4,6 @@ id: A_ch0026_analogous_to_E_ch0026_アキラ_uses_左腕_p1189_進化アルゴ�
 title: 進化アルゴリズムの模倣
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_左腕_p1189]]"

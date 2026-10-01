@@ -4,8 +4,6 @@ id: ME_game_ai
 title: ゲームAI
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,9 +4,6 @@ id: A_ch0051_analogous_to_E_ch0051_サリア_confesses_コアとの喧嘩_p2015_
 title: 通信障害による切断
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0051_サリア_confesses_コアとの喧嘩_p2015]]"

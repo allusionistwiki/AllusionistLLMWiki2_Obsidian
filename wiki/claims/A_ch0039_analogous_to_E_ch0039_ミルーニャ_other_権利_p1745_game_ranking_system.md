@@ -4,9 +4,6 @@ id: A_ch0039_analogous_to_E_ch0039_ミルーニャ_other_権利_p1745_game_ranki
 title: ゲームランキングへの襲名転生
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0039_ミルーニャ_other_権利_p1745]]"

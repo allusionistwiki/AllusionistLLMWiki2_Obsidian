@@ -4,9 +4,6 @@ id: A_ch0022_analogous_to_E_ch0022_クレアノーズ_gives_転生者リスト_p
 title: 人材採用への使い魔選抜
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_クレアノーズ_gives_転生者リスト_p991]]"

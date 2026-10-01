@@ -4,8 +4,6 @@ id: ME_hardware_spec
 title: ハードウェア仕様
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

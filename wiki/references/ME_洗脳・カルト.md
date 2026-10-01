@@ -4,8 +4,6 @@ id: ME_洗脳・カルト
 title: 洗脳・カルト
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

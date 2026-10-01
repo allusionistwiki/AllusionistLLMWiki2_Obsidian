@@ -4,8 +4,6 @@ id: ME_弱者への攻撃・いじめ
 title: 弱者攻撃
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

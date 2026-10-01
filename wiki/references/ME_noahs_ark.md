@@ -4,8 +4,6 @@ id: ME_noahs_ark
 title: ノアの方舟
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

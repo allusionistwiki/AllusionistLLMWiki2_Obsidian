@@ -4,8 +4,6 @@ id: ME_ストーンサークル
 title: ストーンサークル
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

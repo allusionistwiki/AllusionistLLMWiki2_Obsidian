@@ -4,9 +4,6 @@ id: A_ch0034_analogous_to_E_ch0034_アズーリア_fights_古代生物_p1379_ス
 title: オート戦闘的戦局悪化
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0034_アズーリア_fights_古代生物_p1379]]"

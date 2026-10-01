@@ -4,9 +4,6 @@ id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_父の浮気_p1558_fa
 title: 家庭内トラウマの連鎖描写
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_reveals_父の浮気_p1558]]"

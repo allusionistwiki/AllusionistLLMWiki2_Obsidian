@@ -4,9 +4,6 @@ id: A_ch0035_parodies_E_ch0035_アズーリア_says_呪文_p1424_電子レンジ
 title: 電子レンジへの呪文転用
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_アズーリア_says_呪文_p1424]]"

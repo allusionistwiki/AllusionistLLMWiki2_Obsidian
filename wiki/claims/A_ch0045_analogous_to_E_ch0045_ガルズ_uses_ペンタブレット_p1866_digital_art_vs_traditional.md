@@ -4,9 +4,6 @@ id: A_ch0045_analogous_to_E_ch0045_ガルズ_uses_ペンタブレット_p1866_di
 title: デジタルと伝統の境界
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0045_ガルズ_uses_ペンタブレット_p1866]]"

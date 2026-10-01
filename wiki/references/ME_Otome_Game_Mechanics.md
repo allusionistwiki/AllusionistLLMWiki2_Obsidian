@@ -4,8 +4,6 @@ id: ME_Otome_Game_Mechanics
 title: 乙女ゲーム仕様
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

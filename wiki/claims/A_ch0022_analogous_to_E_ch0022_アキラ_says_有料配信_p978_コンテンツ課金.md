@@ -4,9 +4,6 @@ id: A_ch0022_analogous_to_E_ch0022_アキラ_says_有料配信_p978_コンテン
 title: コンテンツ課金への戦闘動画消費
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_アキラ_says_有料配信_p978]]"

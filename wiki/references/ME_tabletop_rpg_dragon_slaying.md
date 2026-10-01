@@ -4,8 +4,6 @@ id: ME_tabletop_rpg_dragon_slaying
 title: TRPG竜退治
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,8 +4,6 @@ id: ME_神滅具
 title: 神滅具
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

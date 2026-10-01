@@ -4,8 +4,6 @@ id: ME_Hindu_mythology_Sati
 title: サティ神話
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

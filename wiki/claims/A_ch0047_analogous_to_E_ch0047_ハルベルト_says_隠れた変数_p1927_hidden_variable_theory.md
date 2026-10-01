@@ -4,9 +4,6 @@ id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_隠れた変数_p1927_hi
 title: 量子力学の隠れた変数理論のメタファー
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_隠れた変数_p1927]]"

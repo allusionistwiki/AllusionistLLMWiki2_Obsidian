@@ -4,9 +4,6 @@ id: A_ch0069_alludes_to_E_ch0069_貴人_uses_金剛杵_p2578_vajra
 title: 金剛杵による神聖権力の象徴
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_貴人_uses_金剛杵_p2578]]"

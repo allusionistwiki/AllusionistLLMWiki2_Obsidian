@@ -4,9 +4,6 @@ id: A_ch0009_parodies_E_ch0009_トリシューラ_gives_義腕_p409_ガチャ・
 title: ガチャ・課金システムへの転生
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_トリシューラ_gives_義腕_p409]]"

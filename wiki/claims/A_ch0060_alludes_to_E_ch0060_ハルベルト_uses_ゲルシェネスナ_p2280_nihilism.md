@@ -4,9 +4,6 @@ id: A_ch0060_alludes_to_E_ch0060_ハルベルト_uses_ゲルシェネスナ_p228
 title: 神不在を肯定する虚無主義
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_ハルベルト_uses_ゲルシェネスナ_p2280]]"

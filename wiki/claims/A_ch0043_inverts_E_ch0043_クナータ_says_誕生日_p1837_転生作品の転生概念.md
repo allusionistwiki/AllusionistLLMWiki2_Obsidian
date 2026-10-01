@@ -4,9 +4,6 @@ id: A_ch0043_inverts_E_ch0043_クナータ_says_誕生日_p1837_転生作品の�
 title: 転生＝死の逆転
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_クナータ_says_誕生日_p1837]]"

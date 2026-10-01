@@ -4,8 +4,6 @@ id: ME_プロパガンダ
 title: プロパガンダ
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

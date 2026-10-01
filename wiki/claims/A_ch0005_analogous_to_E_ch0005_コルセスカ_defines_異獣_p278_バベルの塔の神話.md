@@ -4,9 +4,6 @@ id: A_ch0005_analogous_to_E_ch0005_コルセスカ_defines_異獣_p278_バベル
 title: バベルの塔神話の言語論
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_defines_異獣_p278]]"

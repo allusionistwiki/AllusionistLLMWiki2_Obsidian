@@ -4,9 +4,6 @@ id: A_ch0067_analogous_to_E_ch0067_ハルハハール_uses_深層心話_p2517_su
 title: 深層心話のサブミナルメッセージ
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ハルハハール_other_ロシンたち_p2517]]"

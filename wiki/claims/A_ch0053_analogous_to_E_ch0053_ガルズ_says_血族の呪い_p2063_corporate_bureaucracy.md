@@ -4,9 +4,6 @@ id: A_ch0053_analogous_to_E_ch0053_ガルズ_says_血族の呪い_p2063_corporat
 title: 企業官僚制の暴力の比喩
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_ガルズ_says_血族の呪い_p2063]]"

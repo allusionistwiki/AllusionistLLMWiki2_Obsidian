@@ -4,8 +4,6 @@ id: ME_monopoly
 title: 市場独占
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

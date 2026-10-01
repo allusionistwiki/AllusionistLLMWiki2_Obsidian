@@ -4,9 +4,6 @@ id: A_ch0024_analogous_to_E_ch0024_アキラ_says_手続き記憶_p1090_手続�
 title: 手続き記憶の身体定着
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_アキラ_says_手続き記憶_p1090]]"

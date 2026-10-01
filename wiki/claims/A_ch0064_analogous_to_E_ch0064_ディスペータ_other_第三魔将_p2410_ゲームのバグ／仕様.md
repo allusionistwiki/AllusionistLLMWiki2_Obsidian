@@ -4,9 +4,6 @@ id: A_ch0064_analogous_to_E_ch0064_ディスペータ_other_第三魔将_p2410_�
 title: バグ仕様による無力化
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ディスペータ_other_第三魔将_p2410]]"

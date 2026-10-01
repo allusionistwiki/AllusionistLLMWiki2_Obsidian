@@ -4,8 +4,6 @@ id: ME_十面体サイコロ
 title: 十面体サイコロ
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

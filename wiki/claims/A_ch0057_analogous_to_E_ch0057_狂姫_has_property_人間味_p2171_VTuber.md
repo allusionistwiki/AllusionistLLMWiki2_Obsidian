@@ -4,9 +4,6 @@ id: A_ch0057_analogous_to_E_ch0057_狂姫_has_property_人間味_p2171_VTuber
 title: VTuberのアバターと感情の乖離
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0057_狂姫_has_property_人間味_p2171]]"

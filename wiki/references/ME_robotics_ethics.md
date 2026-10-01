@@ -4,8 +4,6 @@ id: ME_robotics_ethics
 title: ロボティクス倫理
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

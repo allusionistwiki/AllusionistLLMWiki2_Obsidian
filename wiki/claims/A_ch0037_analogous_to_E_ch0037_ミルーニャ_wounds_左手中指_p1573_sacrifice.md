@@ -4,9 +4,6 @@ id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_wounds_左手中指_p1573_sac
 title: 自己犠牲による呪術発動
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_wounds_左手中指_p1573]]"

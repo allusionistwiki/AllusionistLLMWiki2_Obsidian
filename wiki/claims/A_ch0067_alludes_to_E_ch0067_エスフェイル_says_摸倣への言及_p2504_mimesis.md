@@ -4,9 +4,6 @@ id: A_ch0067_alludes_to_E_ch0067_エスフェイル_says_摸倣への言及_p250
 title: ミメーシスの魂の営為
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_エスフェイル_transforms_異形の姿_p2504]]"

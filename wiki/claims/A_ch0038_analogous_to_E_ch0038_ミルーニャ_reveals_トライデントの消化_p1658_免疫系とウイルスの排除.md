@@ -4,9 +4,6 @@ id: A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_トライデントの
 title: 免疫系によるウイルス排除
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_ミルーニャ_reveals_トライデントの消化_p1658]]"

@@ -4,9 +4,6 @@ id: A_ch0004_alludes_to_E_ch0004_アキラ_thinks_ロドウィとの敵対_p209_
 title: ヤクザの義理と裏切り
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_アキラ_thinks_ロドウィとの敵対_p209]]"

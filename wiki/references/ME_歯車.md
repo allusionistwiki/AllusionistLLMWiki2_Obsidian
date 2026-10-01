@@ -4,8 +4,6 @@ id: ME_歯車
 title: 歯車
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

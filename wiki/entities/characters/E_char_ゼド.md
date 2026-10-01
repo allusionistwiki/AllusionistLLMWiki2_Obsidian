@@ -29,13 +29,12 @@ updated: '2026-10-02'
 
 ## 関連クレーム
 
-- [[A_ch0084_analogous_to_E_ch0084_ゼド_other_魔導書_p3094_Memory_Management|RAMとストレージのメモリ管理]]
-
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: 「ゼドの奴と同盟結べたのもな」
 - **unknown**: 「ゼドの奴と同盟結べたのもな」
 - **unknown**: 「ゼドの奴と同盟結べたのもな」
 - **unknown**: 「ゼドの奴と同盟結べたのもな」

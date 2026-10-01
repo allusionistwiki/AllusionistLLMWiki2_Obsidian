@@ -4,9 +4,6 @@ id: A_ch0064_analogous_to_E_ch0064_アキラ_other_罪悪感_p2382_作家の倫�
 title: 作家の倫理への自己批判
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_アキラ_other_罪悪感_p2382]]"

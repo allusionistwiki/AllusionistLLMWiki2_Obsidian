@@ -4,9 +4,6 @@ id: A_ch0003_alludes_to_E_ch0003_ゼオーティア_defines_世界_p182_異世�
 title: 異世界転生クリシェへの皮肉
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0003_ゼオーティア_defines_世界_p182]]"

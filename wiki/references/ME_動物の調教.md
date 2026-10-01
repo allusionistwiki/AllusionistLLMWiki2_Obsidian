@@ -4,8 +4,6 @@ id: ME_動物の調教
 title: 動物の調教
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

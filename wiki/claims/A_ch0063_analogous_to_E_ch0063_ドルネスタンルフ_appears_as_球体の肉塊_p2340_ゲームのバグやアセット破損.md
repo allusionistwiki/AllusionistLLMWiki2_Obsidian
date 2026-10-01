@@ -4,9 +4,6 @@ id: A_ch0063_analogous_to_E_ch0063_ドルネスタンルフ_appears_as_球体の
 title: ゲームバグ・アセット破損への転生
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_ドルネスタンルフ_appears_as_球体の肉塊_p2340]]"

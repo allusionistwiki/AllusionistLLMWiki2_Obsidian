@@ -4,8 +4,6 @@ id: ME_past_trauma
 title: 過去のトラウマ
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

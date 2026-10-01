@@ -4,9 +4,6 @@ id: A_ch0047_analogous_to_E_ch0047_リーナ_says_グロソラリア_p1928_genet
 title: 遺伝子キメラへの血統の転生
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_リーナ_says_グロソラリア_p1928]]"

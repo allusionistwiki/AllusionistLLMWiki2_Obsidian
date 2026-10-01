@@ -4,9 +4,6 @@ id: A_ch0027_alludes_to_E_ch0027_トリシューラ_names_ガロアンディア�
 title: 銀河帝国の破綻クリシェ引用
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0027_トリシューラ_names_ガロアンディアン_p1218]]"

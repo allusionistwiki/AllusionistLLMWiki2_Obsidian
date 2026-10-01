@@ -4,8 +4,6 @@ id: ME_パッチによる能力解放
 title: パッチによる能力解放
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

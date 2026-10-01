@@ -4,8 +4,6 @@ id: ME_スパム攻撃
 title: スパム攻撃
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

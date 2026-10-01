@@ -52,10 +52,6 @@ arc: '[[ARC_01_女神候補選定編]]'
 
 ### 関係性
 
-- [[E_relation_コルセスカ]]
-- [[E_relation_カーイン]]
-- [[E_relation_レオ]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

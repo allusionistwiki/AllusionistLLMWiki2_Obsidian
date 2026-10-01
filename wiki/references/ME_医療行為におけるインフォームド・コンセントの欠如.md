@@ -4,8 +4,6 @@ id: ME_医療行為におけるインフォームド・コンセントの欠如
 title: インフォームド・コンセント欠如
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

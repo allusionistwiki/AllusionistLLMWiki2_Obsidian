@@ -4,9 +4,6 @@ id: A_ch0038_structurally_matches_E_ch0038_アキラ_confesses_妹の目的_p163
 title: 魂の乗っ取りによる再定義
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_アキラ_confesses_妹の目的_p1636]]"

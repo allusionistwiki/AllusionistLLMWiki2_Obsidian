@@ -4,9 +4,6 @@ id: A_ch0082_parodies_E_ch0082_プロゲーマー_functions_as_呪力の発生�
 title: プロゲーマー熱狂によるeスポーツ的呪力生成
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_プロゲーマー_functions_as_呪力の発生源_p2999]]"

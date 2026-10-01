@@ -4,8 +4,6 @@ id: ME_技術の格差・非対称戦争
 title: 非対称戦争
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

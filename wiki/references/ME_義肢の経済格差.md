@@ -4,8 +4,6 @@ id: ME_義肢の経済格差
 title: 義肢の格差
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

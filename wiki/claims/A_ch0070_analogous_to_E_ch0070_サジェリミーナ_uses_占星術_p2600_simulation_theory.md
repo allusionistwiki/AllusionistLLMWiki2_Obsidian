@@ -4,9 +4,6 @@ id: A_ch0070_analogous_to_E_ch0070_サジェリミーナ_uses_占星術_p2600_si
 title: シミュレーション仮説への転生
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_サジェリミーナ_other_ペレケテンヌル_p2600]]"

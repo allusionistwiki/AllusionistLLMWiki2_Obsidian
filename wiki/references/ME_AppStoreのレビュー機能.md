@@ -4,8 +4,6 @@ id: ME_AppStoreのレビュー機能
 title: アプリレビュー
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

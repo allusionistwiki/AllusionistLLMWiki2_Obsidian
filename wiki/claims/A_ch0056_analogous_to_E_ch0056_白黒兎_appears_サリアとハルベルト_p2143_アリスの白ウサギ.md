@@ -4,9 +4,6 @@ id: A_ch0056_analogous_to_E_ch0056_白黒兎_appears_サリアとハルベルト
 title: アリスの白ウサギ的誘い
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_白黒兎_appears_サリアとハルベルト_p2143]]"

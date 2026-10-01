@@ -69,9 +69,6 @@ arc: '[[ARC_01_女神候補選定編]]'
 
 ### 関係性
 
-- [[E_relation_大人達]]
-- [[E_relation_子供たち]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

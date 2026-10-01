@@ -4,9 +4,6 @@ id: A_ch0019_analogous_to_E_ch0019_キロン_other_アキラのアプリ群_p850
 title: 脳内アプリの完全削除
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0019_キロン_other_アキラのアプリ群_p850]]"

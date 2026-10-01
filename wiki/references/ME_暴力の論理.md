@@ -4,8 +4,6 @@ id: ME_暴力の論理
 title: 暴力の論理
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

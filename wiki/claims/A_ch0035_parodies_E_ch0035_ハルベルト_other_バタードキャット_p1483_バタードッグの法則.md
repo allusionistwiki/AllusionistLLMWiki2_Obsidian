@@ -4,9 +4,6 @@ id: A_ch0035_parodies_E_ch0035_ハルベルト_other_バタードキャット_p1
 title: バタードッグの法則の幻獣化
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_ハルベルト_other_バタードキャット_p1483]]"

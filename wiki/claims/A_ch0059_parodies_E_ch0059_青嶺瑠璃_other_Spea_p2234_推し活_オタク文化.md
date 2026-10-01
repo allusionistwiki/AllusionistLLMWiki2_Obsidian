@@ -4,9 +4,6 @@ id: A_ch0059_parodies_E_ch0059_青嶺瑠璃_other_Spea_p2234_推し活_オタク
 title: 非対称な推し活崇拝
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0059_青嶺瑠璃_other_Spea_p2234]]"

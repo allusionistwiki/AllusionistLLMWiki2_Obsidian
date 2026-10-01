@@ -4,9 +4,6 @@ id: A_ch0075_analogous_to_E_ch0075_エスフェイル_has_property_人狼_p2851_
 title: 法適用除外マイノリティの苦難
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0075_エスフェイル_has_property_人狼_p2851]]"

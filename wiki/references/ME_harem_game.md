@@ -4,8 +4,6 @@ id: ME_harem_game
 title: ハーレムゲーム
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

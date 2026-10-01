@@ -4,8 +4,6 @@ id: ME_augmented_reality_game
 title: ARゲーム
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

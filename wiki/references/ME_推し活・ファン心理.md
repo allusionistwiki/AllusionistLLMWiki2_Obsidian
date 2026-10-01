@@ -4,8 +4,6 @@ id: ME_推し活・ファン心理
 title: 推し活
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: psychology

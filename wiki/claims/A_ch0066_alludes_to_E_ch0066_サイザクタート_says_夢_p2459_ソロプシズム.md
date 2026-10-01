@@ -4,9 +4,6 @@ id: A_ch0066_alludes_to_E_ch0066_サイザクタート_says_夢_p2459_ソロプ�
 title: 世界を構成する独我論
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_サイザクタート_saves_ガルズ_p2459]]"

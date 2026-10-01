@@ -4,8 +4,6 @@ id: ME_save_data_corruption
 title: セーブデータ破損
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

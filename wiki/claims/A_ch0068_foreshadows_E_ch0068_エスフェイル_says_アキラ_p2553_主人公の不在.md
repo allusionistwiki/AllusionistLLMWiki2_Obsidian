@@ -4,9 +4,6 @@ id: A_ch0068_foreshadows_E_ch0068_エスフェイル_says_アキラ_p2553_主人
 title: 主人公不在の伏線
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_エスフェイル_kills_アズーリア_p2553]]"

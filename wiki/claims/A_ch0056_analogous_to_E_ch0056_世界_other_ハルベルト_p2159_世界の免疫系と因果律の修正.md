@@ -4,9 +4,6 @@ id: A_ch0056_analogous_to_E_ch0056_世界_other_ハルベルト_p2159_世界の�
 title: 因果律のバグ修正プロトコル
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_世界_other_ハルベルト_p2159]]"

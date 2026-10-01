@@ -4,8 +4,6 @@ id: ME_Nietzsche_Will_to_Power
 title: 力への意志
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

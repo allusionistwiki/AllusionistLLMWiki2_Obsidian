@@ -4,9 +4,6 @@ id: A_ch0043_alludes_to_E_ch0043_ビーチェ_binds_アズーリアの一部_p18
 title: 影の所有と自我の融合
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ビーチェ_binds_アズーリアの一部_p1826]]"

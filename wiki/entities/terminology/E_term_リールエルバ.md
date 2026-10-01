@@ -25,6 +25,4 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0084_analogous_to_E_ch0084_リールエルバ_other_言震リスク_p3086_Language_Vulnerability|言語処理系の脆弱性利用攻撃]]
-
 <!-- AUTO:END -->

@@ -4,9 +4,6 @@ id: A_ch0026_alludes_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_メクセ�
 title: メクセトの神滅具への転写
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_キロン_uses_自殺の黒槍_p1192]]"

@@ -4,9 +4,6 @@ id: A_ch0003_inverts_E_ch0003_赤い髪の魔女_says_祈りと暴力_p182_宗�
 title: 宗教と暴力の逆転
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0003_赤い髪の魔女_says_祈りと暴力_p182]]"

@@ -4,8 +4,6 @@ id: ME_技術の倫理・AIの倫理
 title: 技術の倫理・AIの倫理
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: philosophy

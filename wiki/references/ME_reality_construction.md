@@ -4,8 +4,6 @@ id: ME_reality_construction
 title: 現実の社会構成
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

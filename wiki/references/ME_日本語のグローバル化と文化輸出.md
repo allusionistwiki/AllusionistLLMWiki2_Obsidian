@@ -4,8 +4,6 @@ id: ME_日本語のグローバル化と文化輸出
 title: 日本語のグローバル化と文化輸出
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

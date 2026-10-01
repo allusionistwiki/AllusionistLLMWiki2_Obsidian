@@ -4,8 +4,6 @@ id: ME_grinding
 title: 作業的戦闘
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

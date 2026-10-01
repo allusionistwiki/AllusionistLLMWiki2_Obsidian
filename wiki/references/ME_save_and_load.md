@@ -4,8 +4,6 @@ id: ME_save_and_load
 title: セーブ＆ロード
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

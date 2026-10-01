@@ -4,9 +4,6 @@ id: A_ch0076_analogous_to_E_ch0076_アズーリア_says_マロゾロンドの危
 title: メタフィクションの自己言及
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0076_アズーリア_says_マロゾロンドの危険性_p2853]]"

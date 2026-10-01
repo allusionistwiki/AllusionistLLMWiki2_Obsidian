@@ -4,9 +4,6 @@ id: A_ch0026_analogous_to_E_ch0026_アキラ_says_ゲーム_p1206_ゲーム依�
 title: ゲーム依存への没入
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_says_ゲーム_p1206]]"

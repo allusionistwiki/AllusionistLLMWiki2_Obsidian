@@ -4,8 +4,6 @@ id: ME_官僚主義における名称変更と権威の空洞化
 title: 官僚主義と権威の空洞化
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

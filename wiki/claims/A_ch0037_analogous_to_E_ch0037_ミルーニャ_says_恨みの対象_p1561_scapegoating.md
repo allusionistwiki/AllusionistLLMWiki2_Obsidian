@@ -4,9 +4,6 @@ id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_恨みの対象_p1561_sc
 title: 恨み投影のスケープゴート構造
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_says_恨みの対象_p1561]]"

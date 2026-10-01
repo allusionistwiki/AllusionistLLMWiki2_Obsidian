@@ -4,9 +4,6 @@ id: A_ch0073_analogous_to_E_ch0073_アズーリア_says_二重スリット実験
 title: 量子重ね合わせ
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_アズーリア_says_二重スリット実験_p2755]]"

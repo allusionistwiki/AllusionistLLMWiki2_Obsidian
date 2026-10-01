@@ -4,9 +4,6 @@ id: A_ch0065_analogous_to_E_ch0065_ズタークスターク_defines_沼女型哲
 title: 哲学的ゾンビとしての沼女定義
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ズタークスターク_appears_as_少女_p2415]]"

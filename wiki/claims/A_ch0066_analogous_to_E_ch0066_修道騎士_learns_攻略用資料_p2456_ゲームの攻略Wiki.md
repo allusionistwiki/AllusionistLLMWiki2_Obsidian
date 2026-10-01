@@ -4,9 +4,6 @@ id: A_ch0066_analogous_to_E_ch0066_修道騎士_learns_攻略用資料_p2456_ゲ
 title: 攻略Wikiの情報共有
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_修道騎士_learns_攻略用資料_p2456]]"

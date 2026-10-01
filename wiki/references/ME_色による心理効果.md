@@ -4,8 +4,6 @@ id: ME_色による心理効果
 title: 色彩の心理効果
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: psychology

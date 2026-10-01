@@ -4,9 +4,6 @@ id: A_ch0080_inverts_E_ch0080_トリシューラ_defines_聖なるもの_p2944_�
 title: 自己責任と交換可能性の逆転
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_トリシューラ_defines_聖なるもの_p2944]]"

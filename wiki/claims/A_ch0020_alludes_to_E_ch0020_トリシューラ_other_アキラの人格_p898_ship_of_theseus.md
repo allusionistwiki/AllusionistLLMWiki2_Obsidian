@@ -4,9 +4,6 @@ id: A_ch0020_alludes_to_E_ch0020_トリシューラ_other_アキラの人格_p89
 title: テセウスの船の暗喩
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_トリシューラ_other_アキラの人格_p898]]"

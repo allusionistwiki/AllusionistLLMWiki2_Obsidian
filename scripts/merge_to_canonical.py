@@ -222,6 +222,12 @@ def process_staging_file(staging_path: Path, dry_run: bool = False) -> dict:
         entity_name_clean = m.group(2)
         aspects = entity_data.get("aspects", {})
 
+        # relationship は build_relationship_map.py が担当（E_relation_* は
+        # entity.schema の required を満たせず lint 違反になるため統合しない）
+        if entity_type == "relationship":
+            results["skipped"] += 1
+            continue
+
         has_observations = any(obs_list.get("observations") for obs_list in aspects.values())
         if not has_observations:
             console.print(f"  [dim]  - {entity_name_clean}: 観察なし（スキップ）[/dim]")

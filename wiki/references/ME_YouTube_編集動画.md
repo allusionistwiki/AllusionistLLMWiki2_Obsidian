@@ -4,8 +4,6 @@ id: ME_YouTube_編集動画
 title: YouTube編集動画
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

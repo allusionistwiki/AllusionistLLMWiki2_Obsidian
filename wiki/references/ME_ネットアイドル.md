@@ -4,8 +4,6 @@ id: ME_ネットアイドル
 title: ネットアイドル
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: internet_culture

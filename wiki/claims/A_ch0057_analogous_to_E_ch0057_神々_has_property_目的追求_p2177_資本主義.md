@@ -4,9 +4,6 @@ id: A_ch0057_analogous_to_E_ch0057_神々_has_property_目的追求_p2177_資本
 title: 資本主義の搾取的労働関係
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0057_神々_has_property_目的追求_p2177]]"

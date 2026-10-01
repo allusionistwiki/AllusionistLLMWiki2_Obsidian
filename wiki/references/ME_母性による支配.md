@@ -4,8 +4,6 @@ id: ME_母性による支配
 title: 母性による支配
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

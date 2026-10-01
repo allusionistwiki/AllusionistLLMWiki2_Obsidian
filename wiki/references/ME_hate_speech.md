@@ -4,8 +4,6 @@ id: ME_hate_speech
 title: ヘイトスピーチ
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

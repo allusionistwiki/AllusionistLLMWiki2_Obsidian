@@ -4,9 +4,6 @@ id: A_ch0077_alludes_to_E_ch0077_幻像_says_発気_p2877_相撲の決まり手
 title: 相撲の決まり手
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0077_幻像_says_発気_p2877]]"

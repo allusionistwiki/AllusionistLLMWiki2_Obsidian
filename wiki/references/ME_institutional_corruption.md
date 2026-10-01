@@ -4,8 +4,6 @@ id: ME_institutional_corruption
 title: 組織の腐敗
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

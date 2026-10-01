@@ -25,6 +25,4 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0084_analogous_to_E_ch0084_ゼド_other_魔導書_p3094_Memory_Management|RAMとストレージのメモリ管理]]
-
 <!-- AUTO:END -->

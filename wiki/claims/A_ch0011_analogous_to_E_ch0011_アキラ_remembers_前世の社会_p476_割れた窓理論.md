@@ -4,9 +4,6 @@ id: A_ch0011_analogous_to_E_ch0011_アキラ_remembers_前世の社会_p476_割�
 title: 割れた窓理論の引用
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0011_アキラ_remembers_前世の社会_p476]]"

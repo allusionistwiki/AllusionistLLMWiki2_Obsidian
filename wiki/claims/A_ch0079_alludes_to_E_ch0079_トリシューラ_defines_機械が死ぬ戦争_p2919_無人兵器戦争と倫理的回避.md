@@ -4,9 +4,6 @@ id: A_ch0079_alludes_to_E_ch0079_トリシューラ_defines_機械が死ぬ戦�
 title: 無人兵器戦争の倫理ジレンマ
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_トリシューラ_defines_機械が死ぬ戦争_p2919]]"

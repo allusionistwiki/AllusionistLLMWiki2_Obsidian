@@ -4,9 +4,6 @@ id: A_ch0064_analogous_to_E_ch0064_サイリウス_asks_商品化_p2383_コン�
 title: コンテンツビジネスへの転生
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_サイリウス_asks_商品化_p2383]]"

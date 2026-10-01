@@ -4,8 +4,6 @@ id: ME_対人恐怖症・社交不安障害
 title: 社交不安障害
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

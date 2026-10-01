@@ -4,8 +4,6 @@ id: ME_ゲームの回復アイテム
 title: 回復アイテム
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

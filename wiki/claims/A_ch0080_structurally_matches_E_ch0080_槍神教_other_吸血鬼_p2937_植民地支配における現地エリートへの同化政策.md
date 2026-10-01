@@ -4,9 +4,6 @@ id: A_ch0080_structurally_matches_E_ch0080_槍神教_other_吸血鬼_p2937_植�
 title: 植民地支配の同化政策
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_槍神教_other_吸血鬼_p2937]]"

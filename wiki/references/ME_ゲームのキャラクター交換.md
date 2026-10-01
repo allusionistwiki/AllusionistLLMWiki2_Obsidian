@@ -4,8 +4,6 @@ id: ME_ゲームのキャラクター交換
 title: キャラ交換
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,9 +4,6 @@ id: A_ch0024_analogous_to_E_ch0024_キロン_uses_紙幣護符_p1123_電子決�
 title: 電子決済への価値消滅可視化
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_キロン_uses_紙幣護符_p1123]]"

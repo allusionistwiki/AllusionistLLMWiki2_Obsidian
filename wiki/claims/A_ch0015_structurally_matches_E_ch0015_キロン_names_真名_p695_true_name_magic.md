@@ -4,9 +4,6 @@ id: A_ch0015_structurally_matches_E_ch0015_キロン_names_真名_p695_true_name
 title: 真名の魔法による支配行使
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_キロン_names_真名_p695]]"

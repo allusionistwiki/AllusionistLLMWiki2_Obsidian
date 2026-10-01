@@ -4,9 +4,6 @@ id: A_ch0034_inverts_E_ch0034_ハルベルト_says_焼き鳥_p1420_英雄叙事�
 title: 焼き鳥による崇高動機解体
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0034_ハルベルト_says_焼き鳥_p1420]]"

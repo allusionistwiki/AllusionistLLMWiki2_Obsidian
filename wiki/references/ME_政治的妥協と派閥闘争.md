@@ -4,8 +4,6 @@ id: ME_政治的妥協と派閥闘争
 title: 政治的妥協と派閥闘争
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

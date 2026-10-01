@@ -4,8 +4,6 @@ id: ME_ARとVRの技術的差異
 title: ARとVRの差異
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

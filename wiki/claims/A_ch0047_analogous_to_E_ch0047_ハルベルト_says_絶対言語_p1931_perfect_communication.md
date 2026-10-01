@@ -4,9 +4,6 @@ id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_絶対言語_p1931_perfe
 title: 完全な相互理解へのユートピア
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_defines_呪文の座の目的_p1931]]"

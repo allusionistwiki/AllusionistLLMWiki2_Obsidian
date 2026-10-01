@@ -4,9 +4,6 @@ id: A_ch0043_analogous_to_E_ch0043_智神の盾_defines_知識と教化_p1827_�
 title: 宗教裁判による思想統制
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_智神の盾_defines_知識と教化_p1827]]"

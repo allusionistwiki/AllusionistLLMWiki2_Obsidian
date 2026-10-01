@@ -4,8 +4,6 @@ id: ME_machine_learning_neural_network
 title: ニューラルネット
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

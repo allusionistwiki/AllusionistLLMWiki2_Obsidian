@@ -4,9 +4,6 @@ id: A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_names_ダンジョン�
 title: 迷宮支配者クリシェの引用
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_names_ダンジョンマスター_p1199]]"

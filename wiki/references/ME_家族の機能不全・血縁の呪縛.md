@@ -4,8 +4,6 @@ id: ME_家族の機能不全・血縁の呪縛
 title: 機能不全家族
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

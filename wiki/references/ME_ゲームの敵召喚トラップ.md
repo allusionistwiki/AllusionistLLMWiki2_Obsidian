@@ -4,8 +4,6 @@ id: ME_ゲームの敵召喚トラップ
 title: 敵召喚トラップ
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

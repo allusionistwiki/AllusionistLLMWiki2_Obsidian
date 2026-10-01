@@ -4,8 +4,6 @@ id: ME_社会の同調圧力_通過儀礼
 title: 同調圧力と通過儀礼
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

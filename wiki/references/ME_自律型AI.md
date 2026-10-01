@@ -4,8 +4,6 @@ id: ME_自律型AI
 title: 自律型AI
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

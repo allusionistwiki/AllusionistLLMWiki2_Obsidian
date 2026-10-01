@@ -4,8 +4,6 @@ id: ME_自傷
 title: 自傷行為
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

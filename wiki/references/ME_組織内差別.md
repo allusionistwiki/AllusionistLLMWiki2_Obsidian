@@ -4,8 +4,6 @@ id: ME_組織内差別
 title: 組織内差別
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

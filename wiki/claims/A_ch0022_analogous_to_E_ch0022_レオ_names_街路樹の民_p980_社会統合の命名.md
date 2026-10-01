@@ -4,9 +4,6 @@ id: A_ch0022_analogous_to_E_ch0022_レオ_names_街路樹の民_p980_社会統�
 title: 他者統合のための命名
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_レオ_names_街路樹の民_p980]]"

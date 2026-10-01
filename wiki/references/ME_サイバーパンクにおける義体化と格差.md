@@ -4,8 +4,6 @@ id: ME_サイバーパンクにおける義体化と格差
 title: 義体化と格差
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

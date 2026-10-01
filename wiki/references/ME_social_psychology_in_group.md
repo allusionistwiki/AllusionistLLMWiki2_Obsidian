@@ -4,8 +4,6 @@ id: ME_social_psychology_in_group
 title: 集団内社会心理学
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture
@@ -22,4 +20,3 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0074_parodies_E_ch0074_第七位_uses_レイシズム変数_p2787_social_psychology_in_group]] — 守護の九槍第七位の呪文は、社会心理学における「イングループ/アウトグループ」の二分法（われわれ/かれら）を、変数代入型の簡素なアルゴリズムとして実装したものである。

@@ -4,9 +4,6 @@ id: A_ch0064_analogous_to_E_ch0064_ズタークスターク_other_アメル・�
 title: 最強ボスの典型
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ズタークスターク_other_アメル・ア・フィリス_p2408]]"

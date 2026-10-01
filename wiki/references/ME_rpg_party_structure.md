@@ -4,8 +4,6 @@ id: ME_rpg_party_structure
 title: RPGパーティ構成
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

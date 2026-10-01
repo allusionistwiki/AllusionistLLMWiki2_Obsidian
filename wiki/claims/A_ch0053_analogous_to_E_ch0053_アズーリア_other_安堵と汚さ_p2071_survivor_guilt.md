@@ -4,9 +4,6 @@ id: A_ch0053_analogous_to_E_ch0053_アズーリア_other_安堵と汚さ_p2071_s
 title: 生存者罪悪感の心理描写
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_アズーリア_other_安堵と汚さ_p2071]]"

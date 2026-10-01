@@ -4,9 +4,6 @@ id: A_ch0083_foreshadows_E_ch0083_ロドウィ_says_アニス_p3067_公社四姉
 title: 公社四姉妹の起源の伏線
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_ロドウィ_says_アニス_p3067]]"

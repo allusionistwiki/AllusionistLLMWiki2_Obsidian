@@ -4,8 +4,6 @@ id: ME_ステルス技術
 title: ステルス技術
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

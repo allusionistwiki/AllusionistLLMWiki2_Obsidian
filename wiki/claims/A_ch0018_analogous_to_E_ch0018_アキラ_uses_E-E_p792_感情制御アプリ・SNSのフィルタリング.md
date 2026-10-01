@@ -4,9 +4,6 @@ id: A_ch0018_analogous_to_E_ch0018_アキラ_uses_E-E_p792_感情制御アプリ
 title: 感情労働のアプリ化と分離
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_アキラ_uses_E-E_p792]]"

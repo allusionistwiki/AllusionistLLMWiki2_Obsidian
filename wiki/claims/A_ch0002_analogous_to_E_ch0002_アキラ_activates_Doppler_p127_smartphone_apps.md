@@ -4,9 +4,6 @@ id: A_ch0002_analogous_to_E_ch0002_アキラ_activates_Doppler_p127_smartphone_a
 title: 脳内アプリのメモリ管理
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_アキラ_activates_Doppler_p127]]"

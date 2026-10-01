@@ -4,8 +4,6 @@ id: ME_martial_arts
 title: 格闘術
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

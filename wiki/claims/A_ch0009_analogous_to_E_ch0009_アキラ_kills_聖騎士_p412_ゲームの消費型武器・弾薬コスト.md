@@ -4,9 +4,6 @@ id: A_ch0009_analogous_to_E_ch0009_アキラ_kills_聖騎士_p412_ゲームの�
 title: 弾薬コストとしての戦闘
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_アキラ_kills_聖騎士_p412]]"

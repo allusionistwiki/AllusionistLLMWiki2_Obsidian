@@ -4,8 +4,6 @@ id: ME_現代工業技術の軍事転用
 title: 工業技術の軍事転用
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

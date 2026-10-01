@@ -22,5 +22,6 @@ updated: '2026-10-02'
 - **unknown**: 「ようこそ。そして死ね」
 - **unknown**: 「ようこそ。そして死ね」
 - **unknown**: 「ようこそ。そして死ね」
+- **unknown**: 「ようこそ。そして死ね」
 
 <!-- /AUTO-GENERATED:speech -->

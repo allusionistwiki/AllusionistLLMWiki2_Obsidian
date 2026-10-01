@@ -4,9 +4,6 @@ id: A_ch0024_analogous_to_E_ch0024_キロン_transforms_人馬一体_p1134_ケ�
 title: ケントロスへの獣性融合変貌
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_キロン_transforms_人馬一体_p1134]]"

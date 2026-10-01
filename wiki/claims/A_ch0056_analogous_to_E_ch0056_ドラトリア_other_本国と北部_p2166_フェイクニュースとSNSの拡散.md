@@ -4,9 +4,6 @@ id: A_ch0056_analogous_to_E_ch0056_ドラトリア_other_本国と北部_p2166_�
 title: フェイクニュース拡散と事実の相対化
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_ドラトリア_other_本国と北部_p2166]]"

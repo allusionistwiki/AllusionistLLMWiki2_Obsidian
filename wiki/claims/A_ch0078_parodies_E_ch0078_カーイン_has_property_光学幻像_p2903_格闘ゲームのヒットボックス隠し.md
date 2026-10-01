@@ -4,9 +4,6 @@ id: A_ch0078_parodies_E_ch0078_カーイン_has_property_光学幻像_p2903_格�
 title: 格闘ゲームヒットボックス隠しの再現
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0078_カーイン_has_property_光学幻像_p2903]]"

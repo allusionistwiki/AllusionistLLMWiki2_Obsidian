@@ -4,8 +4,6 @@ id: ME_感情制御アプリ・SNSのフィルタリング
 title: 感情制御アプリ
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: internet_culture

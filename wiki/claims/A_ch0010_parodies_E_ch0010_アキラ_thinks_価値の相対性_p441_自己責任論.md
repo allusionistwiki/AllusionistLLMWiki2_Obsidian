@@ -4,9 +4,6 @@ id: A_ch0010_parodies_E_ch0010_アキラ_thinks_価値の相対性_p441_自己�
 title: 自己責任論への皮肉
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_アキラ_thinks_価値の相対性_p441]]"

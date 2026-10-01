@@ -4,9 +4,6 @@ id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_thinks_地上の摂理_p1524_
 title: 資本主義的収奪構造の模倣
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_thinks_地上の摂理_p1524]]"

@@ -4,9 +4,6 @@ id: A_ch0073_analogous_to_E_ch0073_アズーリア_uses_連関合成_p2740_color
 title: 色混合
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_アズーリア_uses_連関合成_p2740]]"

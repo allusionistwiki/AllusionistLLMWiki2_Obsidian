@@ -4,9 +4,6 @@ id: A_ch0028_analogous_to_E_ch0028_保険屋_fights_殺し屋_p1231_保険詐欺
 title: 保険詐欺構造のジャンル自己言及
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0028_保険屋_fights_殺し屋_p1231]]"

@@ -4,9 +4,6 @@ id: A_ch0062_sublates_E_ch0062_リーナ_says_世界の自由_p2323_量子力学
 title: 多世界解釈への止揚
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_リーナ_says_世界の自由_p2323]]"

@@ -4,9 +4,6 @@ id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_巨大企業_p1555_mono
 title: 市場独占による格差構造の批判
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_other_巨大企業_p1555]]"

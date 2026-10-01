@@ -4,8 +4,6 @@ id: ME_isekai_isekai
 title: 異世界転生
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

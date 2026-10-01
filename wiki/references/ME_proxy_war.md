@@ -4,8 +4,6 @@ id: ME_proxy_war
 title: 代理戦争
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

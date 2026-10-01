@@ -4,8 +4,6 @@ id: ME_copyright_law
 title: 著作権法
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

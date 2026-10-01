@@ -4,9 +4,6 @@ id: A_ch0042_alludes_to_E_ch0042_ソルダ_confesses_冬の魔女コルセスカ
 title: おとぎ話的恋愛の暗喩
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_ソルダ_confesses_冬の魔女コルセスカ_p1813]]"

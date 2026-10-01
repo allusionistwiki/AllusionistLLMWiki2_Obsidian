@@ -4,9 +4,6 @@ id: A_ch0063_analogous_to_E_ch0063_ハルベルト_appears_舞台_p2363_バー�
 title: VTuber・アバターへの転生
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_ハルベルト_appears_舞台_p2363]]"

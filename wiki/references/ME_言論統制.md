@@ -4,8 +4,6 @@ id: ME_言論統制
 title: 言論統制
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,9 +4,6 @@ id: A_ch0010_analogous_to_E_ch0010_コルセスカ_makes_呪術準備_p436_AR_�
 title: ARゲーム的な視覚干渉
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_コルセスカ_makes_呪術準備_p436]]"

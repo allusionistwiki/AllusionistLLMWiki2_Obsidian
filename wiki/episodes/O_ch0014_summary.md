@@ -52,10 +52,6 @@ arc: '[[ARC_01_女神候補選定編]]'
 
 ### 関係性
 
-- [[E_relation_レオ]]
-- [[E_relation_アキラ]]
-- [[E_relation_トリシューラ]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

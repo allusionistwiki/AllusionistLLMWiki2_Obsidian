@@ -4,8 +4,6 @@ id: ME_ゲームのセーブデータ・リプレイ機能
 title: セーブデータ・リプレイ
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

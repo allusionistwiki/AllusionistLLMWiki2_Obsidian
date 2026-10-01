@@ -4,9 +4,6 @@ id: A_ch0068_inverts_E_ch0068_ユネクティア_says_光_p2537_光と影の対�
 title: 光と影の同一視
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ユネクティア_says_光_p2537]]"

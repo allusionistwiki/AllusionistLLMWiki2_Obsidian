@@ -4,8 +4,6 @@ id: ME_メンデルの遺伝学
 title: メンデルの遺伝学
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,8 +4,6 @@ id: ME_ナショナリズムと移民排斥
 title: ナショナリズム・排斥
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

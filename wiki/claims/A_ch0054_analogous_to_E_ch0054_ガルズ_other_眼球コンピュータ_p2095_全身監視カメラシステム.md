@@ -4,9 +4,6 @@ id: A_ch0054_analogous_to_E_ch0054_ガルズ_other_眼球コンピュータ_p209
 title: 全身監視カメラによる支配
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_ガルズ_other_眼球コンピュータ_p2095]]"

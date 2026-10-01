@@ -4,8 +4,6 @@ id: ME_顔認証技術の倫理
 title: 顔認証の倫理
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: philosophy

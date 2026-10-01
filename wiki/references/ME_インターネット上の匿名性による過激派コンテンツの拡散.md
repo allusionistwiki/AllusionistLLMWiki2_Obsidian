@@ -4,8 +4,6 @@ id: ME_インターネット上の匿名性による過激派コンテンツの�
 title: 匿名過激派拡散
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: internet_culture

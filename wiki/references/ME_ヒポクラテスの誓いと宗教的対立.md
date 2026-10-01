@@ -4,8 +4,6 @@ id: ME_ヒポクラテスの誓いと宗教的対立
 title: ヒポクラテスの誓い
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

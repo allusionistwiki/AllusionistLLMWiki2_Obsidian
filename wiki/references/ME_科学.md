@@ -4,8 +4,6 @@ id: ME_科学
 title: 科学
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,8 +4,6 @@ id: ME_技術移転規制と倫理
 title: 技術移転倫理
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: philosophy

@@ -4,9 +4,6 @@ id: A_ch0042_structurally_matches_E_ch0042_ソルダ_uses_アリュージョン_
 title: 比喩による現実改変
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_ソルダ_uses_アリュージョン_p1806]]"

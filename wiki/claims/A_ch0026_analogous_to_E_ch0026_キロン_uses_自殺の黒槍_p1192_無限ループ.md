@@ -4,9 +4,6 @@ id: A_ch0026_analogous_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_無限�
 title: 論理エラーの無限ループ
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_キロン_uses_自殺の黒槍_p1192]]"

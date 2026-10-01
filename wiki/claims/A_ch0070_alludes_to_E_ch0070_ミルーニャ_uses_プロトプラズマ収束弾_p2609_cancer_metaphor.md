@@ -4,9 +4,6 @@ id: A_ch0070_alludes_to_E_ch0070_ミルーニャ_uses_プロトプラズマ収�
 title: 癌のメタファーへの転生
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_ミルーニャ_uses_プロトプラズマ_p2609]]"

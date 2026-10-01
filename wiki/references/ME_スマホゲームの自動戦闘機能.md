@@ -4,8 +4,6 @@ id: ME_スマホゲームの自動戦闘機能
 title: 自動戦闘機能
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

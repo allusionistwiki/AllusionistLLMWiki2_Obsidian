@@ -4,8 +4,6 @@ id: ME_PvP_game_economy
 title: PvP経済圏
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,9 +4,6 @@ id: A_ch0044_analogous_to_E_ch0044_ソルダ・アーニスタ_teaches_トライ
 title: プレイ動画共有による学習
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0044_ソルダ・アーニスタ_teaches_トライアンドエラー_p1852]]"

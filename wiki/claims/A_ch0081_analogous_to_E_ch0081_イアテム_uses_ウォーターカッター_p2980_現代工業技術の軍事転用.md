@@ -4,9 +4,6 @@ id: A_ch0081_analogous_to_E_ch0081_イアテム_uses_ウォーターカッター
 title: 工業技術の軍事転用
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0081_イアテム_uses_ウォーターカッター_p2980]]"

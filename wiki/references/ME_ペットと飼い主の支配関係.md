@@ -4,8 +4,6 @@ id: ME_ペットと飼い主の支配関係
 title: ペットの支配関係
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

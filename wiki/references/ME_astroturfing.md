@@ -4,8 +4,6 @@ id: ME_astroturfing
 title: アストロターフィング
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

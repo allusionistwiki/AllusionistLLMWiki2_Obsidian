@@ -4,9 +4,6 @@ id: A_ch0026_analogous_to_E_ch0026_アキラ_defines_転生_p1173_アナロジ�
 title: 類推の法則に基づく転生
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_defines_転生_p1173]]"

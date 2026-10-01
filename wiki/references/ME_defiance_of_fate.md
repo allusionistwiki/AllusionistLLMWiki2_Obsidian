@@ -4,8 +4,6 @@ id: ME_defiance_of_fate
 title: 運命への反抗
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

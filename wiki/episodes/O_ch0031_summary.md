@@ -56,8 +56,6 @@ arc: '[[ARC_01_女神候補選定編]]'
 
 ### 関係性
 
-- [[E_relation_修道騎士]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

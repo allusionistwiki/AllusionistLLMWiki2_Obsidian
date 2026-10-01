@@ -4,8 +4,6 @@ id: ME_国際資格試験とキャリアの階層化
 title: 国際資格試験とキャリアの階層化
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

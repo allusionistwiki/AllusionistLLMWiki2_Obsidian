@@ -4,8 +4,6 @@ id: ME_十字軍_武力による布教
 title: 十字軍
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

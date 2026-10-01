@@ -4,8 +4,6 @@ id: ME_eye_tracking_interface
 title: 視線入力インターフェース
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

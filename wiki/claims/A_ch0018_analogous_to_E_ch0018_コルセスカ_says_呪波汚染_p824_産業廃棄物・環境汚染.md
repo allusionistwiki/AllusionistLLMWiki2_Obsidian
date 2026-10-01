@@ -4,9 +4,6 @@ id: A_ch0018_analogous_to_E_ch0018_コルセスカ_says_呪波汚染_p824_産業
 title: 産業廃棄物
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_コルセスカ_says_呪波汚染_p824]]"

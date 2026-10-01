@@ -4,9 +4,6 @@ id: A_ch0024_analogous_to_E_ch0024_ちびシューラ_uses_監視カメラ_p1096
 title: クラウドAIによる戦術解析
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_ちびシューラ_uses_監視カメラ_p1096]]"

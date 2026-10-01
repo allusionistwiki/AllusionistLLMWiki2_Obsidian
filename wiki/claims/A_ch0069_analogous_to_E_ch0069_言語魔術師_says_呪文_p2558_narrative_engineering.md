@@ -4,9 +4,6 @@ id: A_ch0069_analogous_to_E_ch0069_言語魔術師_says_呪文_p2558_narrative_e
 title: 物語工学への転生
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_言語魔術師たち_says_呪文_p2558]]"

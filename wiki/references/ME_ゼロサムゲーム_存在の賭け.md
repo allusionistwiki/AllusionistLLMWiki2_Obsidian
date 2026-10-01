@@ -4,8 +4,6 @@ id: ME_ゼロサムゲーム_存在の賭け
 title: ゼロサムゲーム・存在賭け
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

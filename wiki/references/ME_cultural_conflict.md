@@ -4,8 +4,6 @@ id: ME_cultural_conflict
 title: 文化衝突
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

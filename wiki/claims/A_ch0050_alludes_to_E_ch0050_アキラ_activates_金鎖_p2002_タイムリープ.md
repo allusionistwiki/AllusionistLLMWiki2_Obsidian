@@ -4,9 +4,6 @@ id: A_ch0050_alludes_to_E_ch0050_アキラ_activates_金鎖_p2002_タイムリ�
 title: 金鎖破壊によるタイムリープ
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_アキラ_activates_金鎖_p2002]]"

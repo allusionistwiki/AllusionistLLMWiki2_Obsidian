@@ -4,9 +4,6 @@ id: A_ch0032_analogous_to_E_ch0032_ベアトリーチェ_asks_転生の倫理_p1
 title: 椅子取りゲーム
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0032_ベアトリーチェ_asks_転生の倫理_p1311]]"

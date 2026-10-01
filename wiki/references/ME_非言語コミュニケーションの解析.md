@@ -4,8 +4,6 @@ id: ME_非言語コミュニケーションの解析
 title: 非言語解析
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

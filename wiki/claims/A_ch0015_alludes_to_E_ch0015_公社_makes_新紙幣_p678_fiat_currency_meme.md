@@ -4,9 +4,6 @@ id: A_ch0015_alludes_to_E_ch0015_公社_makes_新紙幣_p678_fiat_currency_meme
 title: 法定通貨ミームの呪符化
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_公社_makes_新紙幣_p678]]"

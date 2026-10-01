@@ -4,9 +4,6 @@ id: A_ch0027_analogous_to_E_ch0027_トリシューラ_makes_仮想の義肢_p121
 title: 欠損補完のAR義肢ペルソナ
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0027_トリシューラ_makes_仮想の義肢_p1212]]"

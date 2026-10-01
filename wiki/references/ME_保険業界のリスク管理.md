@@ -4,8 +4,6 @@ id: ME_保険業界のリスク管理
 title: 保険のリスク管理
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

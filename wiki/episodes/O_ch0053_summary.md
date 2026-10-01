@@ -82,8 +82,6 @@ arc: '[[ARC_02_第一の試練編]]'
 
 ### 関係性
 
-- [[E_relation_サリア]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

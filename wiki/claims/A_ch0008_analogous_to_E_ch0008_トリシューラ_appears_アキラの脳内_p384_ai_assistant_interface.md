@@ -4,9 +4,6 @@ id: A_ch0008_analogous_to_E_ch0008_トリシューラ_appears_アキラの脳内
 title: 脳内AIアシスタント
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_トリシューラ_appears_アキラの脳内_p384]]"

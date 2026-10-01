@@ -4,8 +4,6 @@ id: ME_選択と選定
 title: 選択と選定
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,9 +4,6 @@ id: A_ch0018_analogous_to_E_ch0018_トリシューラ_asks_セスカへの処遇
 title: ゼロサム／非ゼロサム
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_トリシューラ_asks_セスカへの処遇_p775]]"

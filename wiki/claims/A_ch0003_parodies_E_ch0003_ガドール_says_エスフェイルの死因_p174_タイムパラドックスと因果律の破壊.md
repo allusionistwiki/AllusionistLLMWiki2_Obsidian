@@ -4,9 +4,6 @@ id: A_ch0003_parodies_E_ch0003_ガドール_says_エスフェイルの死因_p17
 title: タイムパラドックスによる因果抹消
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0003_ガドール_says_エスフェイルの死因_p174]]"

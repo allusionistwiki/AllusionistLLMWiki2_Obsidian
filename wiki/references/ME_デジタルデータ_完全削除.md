@@ -4,8 +4,6 @@ id: ME_デジタルデータ_完全削除
 title: データ完全削除
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

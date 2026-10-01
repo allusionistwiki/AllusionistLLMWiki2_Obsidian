@@ -4,9 +4,6 @@ id: A_ch0034_foreshadows_E_ch0034_ハルベルト_defines_失格条件_p1395_戦
 title: 戦争倫理の失格条件伏線
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0034_ハルベルト_defines_失格条件_p1395]]"

@@ -4,8 +4,6 @@ id: ME_光と影の対立
 title: 光と影の同一視
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

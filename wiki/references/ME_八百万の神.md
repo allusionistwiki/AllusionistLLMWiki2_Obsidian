@@ -4,8 +4,6 @@ id: ME_八百万の神
 title: 八百万の神
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

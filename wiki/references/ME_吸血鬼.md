@@ -4,8 +4,6 @@ id: ME_吸血鬼
 title: 吸血鬼
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

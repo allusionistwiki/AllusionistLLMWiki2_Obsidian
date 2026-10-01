@@ -4,9 +4,6 @@ id: A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_死の不可逆性_p15
 title: 世界の理に抗えぬ無力感
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_アズーリア_thinks_死の不可逆性_p1583]]"

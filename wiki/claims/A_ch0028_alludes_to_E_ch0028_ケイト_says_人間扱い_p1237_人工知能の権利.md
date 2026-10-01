@@ -4,9 +4,6 @@ id: A_ch0028_alludes_to_E_ch0028_ケイト_says_人間扱い_p1237_人工知能�
 title: AIの権利論への暗喩
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0028_ケイト_says_人間扱い_p1237]]"

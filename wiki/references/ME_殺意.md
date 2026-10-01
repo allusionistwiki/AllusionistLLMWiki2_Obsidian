@@ -4,8 +4,6 @@ id: ME_殺意
 title: 殺意
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

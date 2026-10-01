@@ -4,8 +4,6 @@ id: ME_lightning_rod
 title: 避雷針
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,9 +4,6 @@ id: A_ch0014_analogous_to_E_ch0014_レオ_observes_アキラと老人の会話_p
 title: 非言語解析による感情補完
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0014_レオ_observes_アキラと老人の会話_p628]]"

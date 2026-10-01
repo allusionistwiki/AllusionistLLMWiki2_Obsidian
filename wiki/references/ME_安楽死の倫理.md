@@ -4,8 +4,6 @@ id: ME_安楽死の倫理
 title: 安楽死の倫理
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: philosophy

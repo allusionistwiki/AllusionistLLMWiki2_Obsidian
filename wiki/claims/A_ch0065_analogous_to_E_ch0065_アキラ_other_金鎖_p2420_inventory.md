@@ -4,9 +4,6 @@ id: A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_inventory
 title: インベントリとしての金鎖数え
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_other_金鎖_p2420]]"

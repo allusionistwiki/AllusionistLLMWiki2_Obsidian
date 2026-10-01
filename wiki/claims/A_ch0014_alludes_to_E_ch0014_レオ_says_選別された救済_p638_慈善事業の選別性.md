@@ -4,9 +4,6 @@ id: A_ch0014_alludes_to_E_ch0014_レオ_says_選別された救済_p638_慈善�
 title: 慈善事業の選別性
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0014_レオ_says_選別された救済_p638]]"

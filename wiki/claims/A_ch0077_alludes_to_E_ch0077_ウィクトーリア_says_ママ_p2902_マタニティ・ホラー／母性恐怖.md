@@ -4,9 +4,6 @@ id: A_ch0077_alludes_to_E_ch0077_ウィクトーリア_says_ママ_p2902_マタ�
 title: マタニティ・ホラー
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0077_ウィクトーリア_says_ママ_p2902]]"

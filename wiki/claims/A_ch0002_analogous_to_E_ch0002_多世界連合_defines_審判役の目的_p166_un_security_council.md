@@ -4,9 +4,6 @@ id: A_ch0002_analogous_to_E_ch0002_多世界連合_defines_審判役の目的_p1
 title: 国連安保理の介入政策模倣
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_多世界連合_defines_審判役の目的_p166]]"

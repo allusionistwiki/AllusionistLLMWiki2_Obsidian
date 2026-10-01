@@ -4,8 +4,6 @@ id: ME_semantic_gap
 title: 意味のギャップ
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

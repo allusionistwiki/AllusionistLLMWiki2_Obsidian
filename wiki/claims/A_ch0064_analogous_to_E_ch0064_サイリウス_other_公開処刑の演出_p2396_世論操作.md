@@ -4,9 +4,6 @@ id: A_ch0064_analogous_to_E_ch0064_サイリウス_other_公開処刑の演出_p
 title: 世論操作による暴力正当化
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_サイリウス_other_公開処刑の演出_p2396]]"

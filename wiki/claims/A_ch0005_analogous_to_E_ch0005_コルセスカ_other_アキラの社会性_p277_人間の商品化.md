@@ -4,9 +4,6 @@ id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの社会性_p
 title: 人間の商品化と序列化
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_アキラの社会性_p277]]"

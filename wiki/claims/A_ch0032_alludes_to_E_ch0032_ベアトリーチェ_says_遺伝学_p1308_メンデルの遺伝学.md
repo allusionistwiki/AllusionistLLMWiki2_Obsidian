@@ -4,9 +4,6 @@ id: A_ch0032_alludes_to_E_ch0032_ベアトリーチェ_says_遺伝学_p1308_メ�
 title: メンデルの遺伝学
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0032_ベアトリーチェ_says_遺伝学_p1308]]"

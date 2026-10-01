@@ -4,8 +4,6 @@ id: ME_利用規約への同意
 title: 利用規約への同意
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

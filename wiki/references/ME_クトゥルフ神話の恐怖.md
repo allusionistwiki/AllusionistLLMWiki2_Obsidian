@@ -4,8 +4,6 @@ id: ME_クトゥルフ神話の恐怖
 title: クトゥルフ神話の恐怖
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: mythology

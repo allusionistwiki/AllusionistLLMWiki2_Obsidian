@@ -4,8 +4,6 @@ id: ME_認知行動療法
 title: 認知行動療法
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: psychology

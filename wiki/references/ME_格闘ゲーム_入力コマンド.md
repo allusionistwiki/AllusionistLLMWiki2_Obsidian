@@ -4,8 +4,6 @@ id: ME_格闘ゲーム_入力コマンド
 title: 格ゲー入力演出
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

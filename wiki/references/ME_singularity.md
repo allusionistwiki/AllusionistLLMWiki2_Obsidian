@@ -4,8 +4,6 @@ id: ME_singularity
 title: 技術的特異点
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,8 +4,6 @@ id: ME_ヤンデレ・独占欲の誇張
 title: ヤンデレ・独占欲
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

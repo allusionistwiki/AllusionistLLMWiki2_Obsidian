@@ -4,9 +4,6 @@ id: A_ch0068_analogous_to_E_ch0068_エスフェイル_activates_浄界_p2552_パ
 title: 制御不能なパンデミック
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_エスフェイル_says_エルネトモラン_p2552]]"

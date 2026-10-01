@@ -4,9 +4,6 @@ id: A_ch0082_analogous_to_E_ch0082_日本語_functions_as_暗号_p3001_プログ
 title: 日本語多義性悪用による暗号化技術
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_日本語_functions_as_暗号_p3001]]"

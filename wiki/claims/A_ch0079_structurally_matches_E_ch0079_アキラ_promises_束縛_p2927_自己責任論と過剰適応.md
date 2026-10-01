@@ -4,9 +4,6 @@ id: A_ch0079_structurally_matches_E_ch0079_アキラ_promises_束縛_p2927_自�
 title: 自己責任と過剰適応
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_アキラ_promises_束縛_p2927]]"

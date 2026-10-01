@@ -4,9 +4,6 @@ id: A_ch0007_analogous_to_E_ch0007_アキラ_remembers_少年の言葉_p344_Mach
 title: 翻訳遅延を想起させる記憶変換
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_アキラ_remembers_少年の言葉_p344]]"

@@ -4,9 +4,6 @@ id: A_ch0006_parodies_E_ch0006_アキラ_thinks_馬鹿_p310_hardware_spec
 title: ハードウェア仕様への自己認識パロディ
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0006_アキラ_thinks_馬鹿_p310]]"

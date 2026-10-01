@@ -4,9 +4,6 @@ id: A_ch0029_analogous_to_E_ch0029_アキラ_fears_精神書き換え_p1252_マ�
 title: マインドコントロールへの恐怖
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_アキラ_fears_精神書き換え_p1252]]"

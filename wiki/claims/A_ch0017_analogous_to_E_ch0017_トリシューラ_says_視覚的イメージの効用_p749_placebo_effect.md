@@ -4,9 +4,6 @@ id: A_ch0017_analogous_to_E_ch0017_トリシューラ_says_視覚的イメージ
 title: プラセボ効果の呪術的応用
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_トリシューラ_says_視覚的イメージの効用_p749]]"

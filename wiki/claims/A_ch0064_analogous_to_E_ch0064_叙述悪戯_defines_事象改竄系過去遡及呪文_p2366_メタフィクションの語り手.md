@@ -4,9 +4,6 @@ id: A_ch0064_analogous_to_E_ch0064_叙述悪戯_defines_事象改竄系過去遡
 title: メタフィクション語り手の認識操作
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_叙述悪戯_defines_事象改竄系過去遡及呪文_p2366]]"

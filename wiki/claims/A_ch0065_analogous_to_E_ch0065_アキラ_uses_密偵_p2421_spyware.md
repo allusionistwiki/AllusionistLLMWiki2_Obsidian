@@ -4,9 +4,6 @@ id: A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_spyware
 title: スパイウェアとしての密偵映像
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_uses_密偵_p2421]]"

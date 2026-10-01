@@ -4,9 +4,6 @@ id: A_ch0073_analogous_to_E_ch0073_カイン_says_沼女現象_p2732_philosophic
 title: 哲学的ゾンビ
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_カイン_says_沼女現象_p2732]]"

@@ -4,9 +4,6 @@ id: A_ch0064_analogous_to_E_ch0064_アキラ_other_罪悪感_p2382_自己責任�
 title: 自己責任論の象徴
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_アキラ_other_罪悪感_p2382]]"

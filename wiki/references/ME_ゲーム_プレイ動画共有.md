@@ -4,8 +4,6 @@ id: ME_ゲーム_プレイ動画共有
 title: プレイ動画共有
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

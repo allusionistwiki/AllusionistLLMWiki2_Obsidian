@@ -4,9 +4,6 @@ id: A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_names_セレクティフ�
 title: 魂の選択と融合の象徴
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_names_セレクティフィレクティ_p1200]]"

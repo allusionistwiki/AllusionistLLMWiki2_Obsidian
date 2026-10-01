@@ -4,9 +4,6 @@ id: A_ch0014_analogous_to_E_ch0014_トリシューラ_other_公社の送金ル�
 title: 暗号通貨と金融規制
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0014_トリシューラ_other_公社の送金ルート_p641]]"

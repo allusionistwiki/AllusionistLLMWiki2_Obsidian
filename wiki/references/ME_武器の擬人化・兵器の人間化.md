@@ -4,8 +4,6 @@ id: ME_武器の擬人化・兵器の人間化
 title: 兵器の人間化
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

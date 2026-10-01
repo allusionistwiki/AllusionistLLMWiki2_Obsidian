@@ -4,9 +4,6 @@ id: A_ch0008_analogous_to_E_ch0008_アキラ_uses_残心プリセット_p382_saf
 title: 安全装置解除概念の身体制御
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_アキラ_uses_残心プリセット_p382]]"

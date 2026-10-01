@@ -4,9 +4,6 @@ id: A_ch0046_alludes_to_E_ch0046_アキラ_remembers_キール隊_p1902_past_tra
 title: 幸福を覆う過去のトラウマ
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0046_アキラ_remembers_キール隊_p1902]]"

@@ -4,8 +4,6 @@ id: ME_quantum_entanglement
 title: 量子もつれ
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

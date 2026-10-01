@@ -4,9 +4,6 @@ id: A_ch0064_analogous_to_E_ch0064_セリアック＝ニア_says_幻惑ウィル
 title: セキュリティ対策のメタファー
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_セリアック＝ニア_says_幻惑ウィルス_p2384]]"

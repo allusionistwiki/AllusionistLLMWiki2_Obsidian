@@ -4,8 +4,6 @@ id: ME_ダンテの神曲
 title: ダンテの神曲
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

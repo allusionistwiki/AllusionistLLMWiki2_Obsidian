@@ -4,9 +4,6 @@ id: A_ch0045_alludes_to_E_ch0045_ガルズ_says_朽ちていくこと_p1868_stoi
 title: 朽ちる受容としてのニヒリズム
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0045_ガルズ_says_朽ちていくこと_p1868]]"

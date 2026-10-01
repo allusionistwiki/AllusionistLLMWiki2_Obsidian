@@ -4,9 +4,6 @@ id: A_ch0018_analogous_to_E_ch0018_コルセスカ_defeats_キロン_p827_技術
 title: 非対称戦争
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_コルセスカ_defeats_キロン_p827]]"

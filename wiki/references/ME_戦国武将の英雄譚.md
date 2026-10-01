@@ -4,8 +4,6 @@ id: ME_戦国武将の英雄譚
 title: 戦国英雄譚
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

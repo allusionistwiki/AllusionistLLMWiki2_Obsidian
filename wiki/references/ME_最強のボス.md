@@ -4,8 +4,6 @@ id: ME_最強のボス
 title: 最強ボス
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

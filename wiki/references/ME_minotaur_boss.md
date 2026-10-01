@@ -4,8 +4,6 @@ id: ME_minotaur_boss
 title: 迷宮のボス
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

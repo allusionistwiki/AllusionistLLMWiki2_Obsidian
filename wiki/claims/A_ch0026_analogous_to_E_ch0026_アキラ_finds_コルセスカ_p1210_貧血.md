@@ -4,9 +4,6 @@ id: A_ch0026_analogous_to_E_ch0026_アキラ_finds_コルセスカ_p1210_貧血
 title: 過剰活動による貧血の限界
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_finds_コルセスカ_p1210]]"

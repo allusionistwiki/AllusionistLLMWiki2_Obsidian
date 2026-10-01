@@ -4,9 +4,6 @@ id: A_ch0067_analogous_to_E_ch0067_ロシン_transforms_蝗の皇_p2522_変身�
 title: 神働装甲の変身ロボット
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ロシン_transforms_蝗の皇_p2522]]"

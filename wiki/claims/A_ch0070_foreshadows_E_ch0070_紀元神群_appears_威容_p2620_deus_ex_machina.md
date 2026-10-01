@@ -4,9 +4,6 @@ id: A_ch0070_foreshadows_E_ch0070_紀元神群_appears_威容_p2620_deus_ex_mach
 title: 機械仕掛けの神への転生
 
 
-
-
-
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_紀元神群_other_魔将_p2620]]"

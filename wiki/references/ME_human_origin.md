@@ -4,8 +4,6 @@ id: ME_human_origin
 title: 人類の起源
 
 
-
-
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

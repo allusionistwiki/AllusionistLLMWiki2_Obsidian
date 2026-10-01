@@ -4,9 +4,6 @@ id: A_ch0006_analogous_to_E_ch0006_アキラ_thinks_過去の牢獄_p307_save_da
 title: セーブデータ破損の無限ループ
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0006_アキラ_thinks_過去の牢獄_p307]]"

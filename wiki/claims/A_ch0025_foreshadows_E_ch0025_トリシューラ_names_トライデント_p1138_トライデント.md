@@ -4,9 +4,6 @@ id: A_ch0025_foreshadows_E_ch0025_トリシューラ_names_トライデント_p1
 title: トライデントへの個の消滅暗示
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_トリシューラ_names_トライデント_p1138]]"

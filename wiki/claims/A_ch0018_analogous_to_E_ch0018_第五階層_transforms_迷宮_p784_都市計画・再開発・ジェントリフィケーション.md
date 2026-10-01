@@ -4,9 +4,6 @@ id: A_ch0018_analogous_to_E_ch0018_第五階層_transforms_迷宮_p784_都市計
 title: 都市再開発
 
 
-
-
-
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_第五階層_transforms_迷宮_p784]]"
