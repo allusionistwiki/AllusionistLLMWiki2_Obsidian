@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_並行世界
 title: 並行世界
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

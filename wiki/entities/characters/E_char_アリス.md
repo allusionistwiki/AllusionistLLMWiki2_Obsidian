@@ -9,7 +9,7 @@ spoiler_after: ch0073
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # アリス
@@ -30,12 +30,14 @@ updated: '2026-10-01'
 ## セリフ・発言
 
 - **unknown**: 『あの呪力の波形は、ナンバーサーティーンのライム――？』『それって、【賢天主】アリスが介入してきたって事？』
+- **unknown**: 『あの呪力の波形は、ナンバーサーティーンのライム――？』『それって、【賢天主】アリスが介入してきたって事？』
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 北方の地底都市ザドーナからやってきたアリスは既に幾つかの分野では師であるルスクォミーズ派の姉妹たちを凌駕していたし
 - **unknown**: 北方の地底都市ザドーナからやってきたアリスは既に幾つかの分野では師であるルスクォミーズ派の姉妹たちを凌駕していたし
 
 <!-- /AUTO-GENERATED:action -->

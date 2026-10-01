@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_SNSにおける炎上と応援コメントの対比
 title: SNS炎上と応援対比
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: internet_culture

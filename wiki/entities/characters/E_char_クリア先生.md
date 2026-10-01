@@ -9,7 +9,7 @@ spoiler_after: ch0055
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # クリア先生
@@ -35,12 +35,14 @@ updated: '2026-10-01'
 ## 行動・動作
 
 - **unknown**: その時、拍手の音と共に触手の群れが次々とお菓子になっていく。
+- **unknown**: その時、拍手の音と共に触手の群れが次々とお菓子になっていく。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: お菓子の障壁を貫通した解体の呪文がクリア先生の身体を包み、無力な白黒の小ウサギに変えてしまう。
 - **unknown**: お菓子の障壁を貫通した解体の呪文がクリア先生の身体を包み、無力な白黒の小ウサギに変えてしまう。
 
 <!-- /AUTO-GENERATED:visual -->

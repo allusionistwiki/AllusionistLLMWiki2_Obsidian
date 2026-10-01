@@ -4,6 +4,7 @@ id: A_ch0042_alludes_to_E_ch0042_転移門_has_property_望みを捨てる文言
 title: 神曲地獄篇の門の銘文
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_転移門_has_property_望みを捨てる文言_p1782]]"

@@ -4,6 +4,7 @@ id: A_ch0024_analogous_to_E_ch0024_トリシューラ_says_呪力変換の効率
 title: 加工食品への記号論的栄養補助
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_トリシューラ_says_呪力変換の効率_p1084]]"

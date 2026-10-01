@@ -9,7 +9,7 @@ spoiler_after: ch0043
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 神官
@@ -35,12 +35,14 @@ updated: '2026-10-01'
 ## 行動・動作
 
 - **unknown**: 神官たちは羊の少女たちをフォークで串刺しにして思い思いに口に運んでいる。
+- **unknown**: 神官たちは羊の少女たちをフォークで串刺しにして思い思いに口に運んでいる。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「ソルダ団長にはしばらく防衛に専念していただいて、第六階層の攻略は若き英雄どのに任せたらいかがかな」
 - **unknown**: 「ソルダ団長にはしばらく防衛に専念していただいて、第六階層の攻略は若き英雄どのに任せたらいかがかな」
 
 <!-- /AUTO-GENERATED:speech -->

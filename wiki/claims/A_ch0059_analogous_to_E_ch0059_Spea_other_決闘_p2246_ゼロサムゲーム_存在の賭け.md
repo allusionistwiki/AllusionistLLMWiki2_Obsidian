@@ -4,6 +4,7 @@ id: A_ch0059_analogous_to_E_ch0059_Spea_other_決闘_p2246_ゼロサムゲーム
 title: 存在賭けのゼロサムゲーム
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0059_Spea_other_決闘_p2246]]"

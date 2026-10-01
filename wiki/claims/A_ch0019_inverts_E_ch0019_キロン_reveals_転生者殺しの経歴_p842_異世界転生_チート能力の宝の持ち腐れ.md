@@ -4,6 +4,7 @@ id: A_ch0019_inverts_E_ch0019_キロン_reveals_転生者殺しの経歴_p842_�
 title: チート能力の宝の持ち腐れ
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0019_キロン_reveals_転生者殺しの経歴_p842]]"

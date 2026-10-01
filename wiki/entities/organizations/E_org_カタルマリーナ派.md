@@ -9,7 +9,7 @@ spoiler_after: ch0061
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # カタルマリーナ派
@@ -30,12 +30,14 @@ updated: '2026-10-01'
 ## 名称・呼称
 
 - **unknown**: ハルベルトの所属するカタルマリーナ派――別名を旧ディスペータ派は星見の塔内部で大きな力を有しているらしい。
+- **unknown**: ハルベルトの所属するカタルマリーナ派――別名を旧ディスペータ派は星見の塔内部で大きな力を有しているらしい。
 
 <!-- /AUTO-GENERATED:name -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 智神の盾――槍神教内部に公然と入り込んだカタルマリーナ派が完成させた異獣憑き。異獣をまつろわせる宣教聖騎士。
 - **unknown**: 智神の盾――槍神教内部に公然と入り込んだカタルマリーナ派が完成させた異獣憑き。異獣をまつろわせる宣教聖騎士。
 
 <!-- /AUTO-GENERATED:action -->

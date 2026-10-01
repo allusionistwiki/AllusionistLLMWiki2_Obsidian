@@ -4,6 +4,7 @@ id: A_ch0003_foreshadows_E_ch0003_人狼_says_アキラへの期待_p180_主人�
 title: 秩序破壊と成長の伏線
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0003_人狼_says_アキラへの期待_p180]]"

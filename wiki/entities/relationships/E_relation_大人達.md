@@ -9,7 +9,7 @@ first_appearance: ch0049
 spoiler_after: ch0049
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 大人達
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: 大人達からはまるで女神レルプレアのごとく崇められた。
 - **unknown**: 大人達からはまるで女神レルプレアのごとく崇められた。
 
 <!-- /AUTO-GENERATED:relationship -->

@@ -4,6 +4,7 @@ id: A_ch0043_structurally_matches_E_ch0043_神官_uses_フォーク_p1822_ゲー
 title: 即死演出と吸収強化
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_神官_uses_フォーク_p1822]]"

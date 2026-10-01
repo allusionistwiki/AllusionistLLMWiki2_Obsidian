@@ -4,6 +4,7 @@ id: A_ch0027_structurally_matches_E_ch0027_店員さん_names_ラズリ・ジャ
 title: 店員名によるラピスラズリ暗示
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0027_店員さん_names_ラズリ・ジャッフハリム_p1222]]"

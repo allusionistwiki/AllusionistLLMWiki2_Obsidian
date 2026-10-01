@@ -9,7 +9,7 @@ spoiler_after: ch0057
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 葬送式典
@@ -35,12 +35,14 @@ updated: '2026-10-01'
 ## 視覚的記述
 
 - **unknown**: 葬送式典の会場は、その中心で威容を誇っている。 擂り鉢状の客席は二十万人を収容可能だ。
+- **unknown**: 葬送式典の会場は、その中心で威容を誇っている。 擂り鉢状の客席は二十万人を収容可能だ。
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 地上全土に配信されるこの葬送式典は、厳粛な儀式であると同時に娯楽でもあるから、多くの人が注目するのだ。
 - **unknown**: 地上全土に配信されるこの葬送式典は、厳粛な儀式であると同時に娯楽でもあるから、多くの人が注目するのだ。
 
 <!-- /AUTO-GENERATED:speech -->

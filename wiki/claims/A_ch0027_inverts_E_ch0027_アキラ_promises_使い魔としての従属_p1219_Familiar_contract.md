@@ -4,6 +4,7 @@ id: A_ch0027_inverts_E_ch0027_アキラ_promises_使い魔としての従属_p12
 title: 使い魔契約の権力勾配逆転
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0027_アキラ_promises_使い魔としての従属_p1219]]"

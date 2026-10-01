@@ -9,7 +9,7 @@ spoiler_after: ch0054
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 転移門
@@ -29,6 +29,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 転移門の周囲だけは元の世界から持ってきた『異界』であるため、この世界が一度終わりを迎えても消滅することなく残り続ける。
 - **unknown**: 転移門の周囲だけは元の世界から持ってきた『異界』であるため、この世界が一度終わりを迎えても消滅することなく残り続ける。
 
 <!-- /AUTO-GENERATED:symbolic -->

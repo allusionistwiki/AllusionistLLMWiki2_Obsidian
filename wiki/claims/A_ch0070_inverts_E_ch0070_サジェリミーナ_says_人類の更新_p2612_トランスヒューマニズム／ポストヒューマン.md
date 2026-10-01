@@ -4,6 +4,7 @@ id: A_ch0070_inverts_E_ch0070_サジェリミーナ_says_人類の更新_p2612_�
 title: トランスヒューマニズムの悪役的逆転
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_サジェリミーナ_says_人類の更新_p2612]]"

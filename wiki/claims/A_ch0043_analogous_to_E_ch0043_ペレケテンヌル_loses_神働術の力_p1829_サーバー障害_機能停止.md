@@ -4,6 +4,7 @@ id: A_ch0043_analogous_to_E_ch0043_ペレケテンヌル_loses_神働術の力_p
 title: サーバー障害による機能停止
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ペレケテンヌル_loses_神働術の力_p1829]]"

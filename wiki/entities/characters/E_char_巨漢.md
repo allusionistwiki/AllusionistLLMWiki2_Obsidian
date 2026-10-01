@@ -9,7 +9,7 @@ spoiler_after: ch0077
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 巨漢
@@ -29,6 +29,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 刺青――呪紋が輝き、剛腕が伸びる。 がしりと肩を掴むと、凄まじい握力で握り込んだ。
 - **unknown**: 刺青――呪紋が輝き、剛腕が伸びる。 がしりと肩を掴むと、凄まじい握力で握り込んだ。
 
 <!-- /AUTO-GENERATED:action -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_qualia_problem
 title: クオリア問題
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

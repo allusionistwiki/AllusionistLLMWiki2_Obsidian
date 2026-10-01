@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_外骨格Exoskeletonと身体拡張
 title: 外骨格と身体拡張
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -9,7 +9,7 @@ spoiler_after: ch0071
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # ペリュトン
@@ -30,6 +30,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: ペリュトンの姿が変幻し、黒衣を纏った矮躯となって建物の屋根の上に降り立った。浮遊する歌姫と並ぶようにして月下に立つ二人。
 - **unknown**: ペリュトンの姿が変幻し、黒衣を纏った矮躯となって建物の屋根の上に降り立った。浮遊する歌姫と並ぶようにして月下に立つ二人。
 
 <!-- /AUTO-GENERATED:visual -->

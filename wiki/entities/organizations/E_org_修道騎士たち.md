@@ -9,7 +9,7 @@ first_appearance: ch0072
 spoiler_after: ch0072
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 修道騎士たち
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 硬質な音がした。分厚い盾に、剣が弾かれる音だ。更にはその背後から絶妙なタイミングで正確無比な刺突が繰り出され、眼球を狙われたエスフェイルは後退を余儀なくされる。
 - **unknown**: 硬質な音がした。分厚い盾に、剣が弾かれる音だ。更にはその背後から絶妙なタイミングで正確無比な刺突が繰り出され、眼球を狙われたエスフェイルは後退を余儀なくされる。
 
 <!-- /AUTO-GENERATED:action -->

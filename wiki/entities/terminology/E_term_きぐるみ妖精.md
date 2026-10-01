@@ -9,7 +9,7 @@ first_appearance: ch0033
 spoiler_after: ch0033
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # きぐるみ妖精
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「まあ性能いいからね。確か【騎士団】の呪動装甲もきぐるみ妖精ブランドなんでしょ？　頑丈さと呪力量を両立させようとすると、自然とあそこに落ち着くんだよね」
 - **unknown**: 「まあ性能いいからね。確か【騎士団】の呪動装甲もきぐるみ妖精ブランドなんでしょ？　頑丈さと呪力量を両立させようとすると、自然とあそこに落ち着くんだよね」
 
 <!-- /AUTO-GENERATED:speech -->

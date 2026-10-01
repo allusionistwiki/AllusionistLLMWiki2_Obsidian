@@ -9,7 +9,7 @@ spoiler_after: ch0077
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 人面疽
@@ -33,6 +33,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 闇をも見通す人面疽の邪視――それが見せているのは、人の体内ではない。 暗く深い、静かな森。 月明かりに照らされた、死と静謐に満ちた世界。
 - **unknown**: 闇をも見通す人面疽の邪視――それが見せているのは、人の体内ではない。 暗く深い、静かな森。 月明かりに照らされた、死と静謐に満ちた世界。
 
 <!-- /AUTO-GENERATED:visual -->

@@ -4,6 +4,7 @@ id: A_ch0016_alludes_to_E_ch0016_ロドウィ_thinks_アキラの保護_p736_植
 title: 植民地労働力搾取の暗喩
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0016_ロドウィ_thinks_アキラの保護_p736]]"

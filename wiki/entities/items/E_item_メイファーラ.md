@@ -9,7 +9,7 @@ spoiler_after: ch0034
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # メイファーラ
@@ -34,6 +34,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: その時、何故かメイファーラが飲んでいた野菜ジュースの紙パックをべこっと握りつぶす。
 - **unknown**: その時、何故かメイファーラが飲んでいた野菜ジュースの紙パックをべこっと握りつぶす。
 
 <!-- /AUTO-GENERATED:action -->

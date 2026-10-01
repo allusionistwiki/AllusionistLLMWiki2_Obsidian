@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_3Dプリンターによる生体維持
 title: 3Dプリントによる生体維持
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

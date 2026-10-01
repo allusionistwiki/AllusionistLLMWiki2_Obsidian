@@ -9,7 +9,7 @@ first_appearance: ch0007
 spoiler_after: ch0007
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 第五階層の掌握者
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「少し前からね、こんな噂が流れてるんだよ。『第五階層の掌握者は外世界人のシナモリ・アキラだ』っていう噂がね」
 - **unknown**: 「少し前からね、こんな噂が流れてるんだよ。『第五階層の掌握者は外世界人のシナモリ・アキラだ』っていう噂がね」
 
 <!-- /AUTO-GENERATED:speech -->

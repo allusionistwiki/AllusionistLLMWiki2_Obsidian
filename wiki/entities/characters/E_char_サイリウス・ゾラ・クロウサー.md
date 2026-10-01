@@ -9,7 +9,7 @@ spoiler_after: ch0046
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # サイリウス・ゾラ・クロウサー
@@ -29,6 +29,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: 名簿の最後にはこう記されている。サイリウス・ゾラ・クロウサー。呪術の名門、巨大な血族、クロウサー家の全てを束ねる古老にして大企業クロウサー社の最高経営責任者。
 - **unknown**: 名簿の最後にはこう記されている。サイリウス・ゾラ・クロウサー。呪術の名門、巨大な血族、クロウサー家の全てを束ねる古老にして大企業クロウサー社の最高経営責任者。
 
 <!-- /AUTO-GENERATED:relationship -->

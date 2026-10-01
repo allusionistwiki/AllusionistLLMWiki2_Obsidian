@@ -4,6 +4,7 @@ id: A_ch0026_analogous_to_E_ch0026_アキラ_uses_ヘリステラ_p1177_イン�
 title: 車輪の女神の象徴
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_ヘリステラ_p1177]]"

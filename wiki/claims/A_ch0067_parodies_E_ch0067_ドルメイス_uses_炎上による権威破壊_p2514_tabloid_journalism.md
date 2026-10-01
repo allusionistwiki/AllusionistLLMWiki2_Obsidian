@@ -4,6 +4,7 @@ id: A_ch0067_parodies_E_ch0067_ドルメイス_uses_炎上による権威破壊_
 title: タブロイド報道による権威破壊
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ドルメイス_betrays_松明の騎士団_p2514]]"

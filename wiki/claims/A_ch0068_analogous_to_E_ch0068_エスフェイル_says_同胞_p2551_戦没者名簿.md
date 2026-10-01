@@ -4,6 +4,7 @@ id: A_ch0068_analogous_to_E_ch0068_エスフェイル_says_同胞_p2551_戦没�
 title: 戦没者名簿の逆転
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_エスフェイル_names_同胞_p2551]]"

@@ -4,6 +4,7 @@ id: A_ch0043_alludes_to_E_ch0043_クナータ_reveals_葬送式典_p1838_宗教�
 title: 魂の昇天の視覚化
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_クナータ_reveals_葬送式典_p1838]]"

@@ -4,6 +4,7 @@ id: A_ch0020_alludes_to_E_ch0020_トリシューラ_other_世界更新の条件_
 title: パンゲア神話の暗喩
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_トリシューラ_other_世界更新の条件_p904]]"

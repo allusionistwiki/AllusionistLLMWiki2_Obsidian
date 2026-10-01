@@ -9,7 +9,7 @@ first_appearance: ch0075
 spoiler_after: ch0075
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 扉の呪術
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 扉の呪術は結果だけ見れば空間移動だが、距離を短縮するもの、重なり合う異世界を『近道』として利用するもの、類似を利用して物体同士を交換するものなど原理は様々である。
 - **unknown**: 扉の呪術は結果だけ見れば空間移動だが、距離を短縮するもの、重なり合う異世界を『近道』として利用するもの、類似を利用して物体同士を交換するものなど原理は様々である。
 
 <!-- /AUTO-GENERATED:action -->

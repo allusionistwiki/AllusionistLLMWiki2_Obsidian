@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_認知療法_ナラティブ・セラピー
 title: ナラティブ・セラピー
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: psychology

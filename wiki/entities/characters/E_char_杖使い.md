@@ -9,7 +9,7 @@ first_appearance: ch0040
 spoiler_after: ch0040
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 杖使い
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 杖使いは車輪の再発明に終始してばかり――杖の技術は既に存在する神秘の後追いをすることしかできない。そんな常識が、この世界における杖技術の発展を妨げているのだった。
 - **unknown**: 杖使いは車輪の再発明に終始してばかり――杖の技術は既に存在する神秘の後追いをすることしかできない。そんな常識が、この世界における杖技術の発展を妨げているのだった。
 
 <!-- /AUTO-GENERATED:speech -->

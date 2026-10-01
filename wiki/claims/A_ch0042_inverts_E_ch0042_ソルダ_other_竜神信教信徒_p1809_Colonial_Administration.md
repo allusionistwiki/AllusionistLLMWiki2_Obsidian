@@ -4,6 +4,7 @@ id: A_ch0042_inverts_E_ch0042_ソルダ_other_竜神信教信徒_p1809_Colonial_
 title: 植民地行政的なラベル付け
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_ソルダ_other_竜神信教信徒_p1809]]"

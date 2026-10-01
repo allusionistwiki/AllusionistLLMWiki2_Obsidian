@@ -9,7 +9,7 @@ first_appearance: ch0016
 spoiler_after: ch0016
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 金髪の美少年
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「キロンお兄様、追跡していた投射体が弾かれました」
 - **unknown**: 「キロンお兄様、追跡していた投射体が弾かれました」
 
 <!-- /AUTO-GENERATED:speech -->

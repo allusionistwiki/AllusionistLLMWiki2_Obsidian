@@ -9,7 +9,7 @@ first_appearance: ch0069
 spoiler_after: ch0069
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # セルフ・リファレンス・エンジン
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 意味を呪力に変換して、心をモジュールとして扱う単位。零落した神秘を大量消費し、神聖なる俗情を崇拝する。
 - **unknown**: 意味を呪力に変換して、心をモジュールとして扱う単位。零落した神秘を大量消費し、神聖なる俗情を崇拝する。
 
 <!-- /AUTO-GENERATED:name -->

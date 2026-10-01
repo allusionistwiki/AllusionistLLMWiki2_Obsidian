@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_バベルの塔の神話
 title: バベルの塔
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: mythology

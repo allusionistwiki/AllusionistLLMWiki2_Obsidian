@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_heidegger_ontology
 title: ハイデガーの存在論
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

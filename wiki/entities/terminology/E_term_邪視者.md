@@ -9,7 +9,7 @@ first_appearance: ch0044
 spoiler_after: ch0044
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 邪視者
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 邪視者は最速で呪術を発動させる。詠唱が必要であるため最も呪術の発動が遅い呪文使いの天敵とも言われる。
 - **unknown**: 邪視者は最速で呪術を発動させる。詠唱が必要であるため最も呪術の発動が遅い呪文使いの天敵とも言われる。
 
 <!-- /AUTO-GENERATED:symbolic -->

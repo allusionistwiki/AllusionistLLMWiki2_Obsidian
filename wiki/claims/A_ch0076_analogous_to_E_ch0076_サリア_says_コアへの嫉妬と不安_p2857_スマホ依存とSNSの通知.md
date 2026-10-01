@@ -4,6 +4,7 @@ id: A_ch0076_analogous_to_E_ch0076_サリア_says_コアへの嫉妬と不安_p2
 title: スマホ依存とSNS通知
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0076_サリア_says_コアへの嫉妬と不安_p2857]]"

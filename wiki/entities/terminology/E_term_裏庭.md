@@ -9,7 +9,7 @@ first_appearance: ch0041
 spoiler_after: ch0041
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 裏庭
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: そこは、黒や紫といった暗鬱な色ばかりの表とは異なり、透き通るような青で満たされた空間だった。
 - **unknown**: そこは、黒や紫といった暗鬱な色ばかりの表とは異なり、透き通るような青で満たされた空間だった。
 
 <!-- /AUTO-GENERATED:visual -->

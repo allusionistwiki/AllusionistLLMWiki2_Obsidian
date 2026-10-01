@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_格闘ゲームの必殺技
 title: 格闘ゲーム必殺技
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

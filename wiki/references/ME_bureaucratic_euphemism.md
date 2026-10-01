@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_bureaucratic_euphemism
 title: 官僚的婉曲表現
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

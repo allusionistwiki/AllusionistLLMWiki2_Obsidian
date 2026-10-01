@@ -9,7 +9,7 @@ spoiler_after: ch0033
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # エルネトモラン
@@ -31,6 +31,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: エルネトモランの外周部からは地脈列車の駅から線路が複雑に交差しながら外へと伸びている。呪術的に意味がある幾何学模様が淡く光を放ち天に向かう柱を作り出す。
 - **unknown**: エルネトモランの外周部からは地脈列車の駅から線路が複雑に交差しながら外へと伸びている。呪術的に意味がある幾何学模様が淡く光を放ち天に向かう柱を作り出す。
 
 <!-- /AUTO-GENERATED:visual -->

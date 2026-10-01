@@ -9,7 +9,7 @@ first_appearance: ch0069
 spoiler_after: ch0069
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 誰か
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「言理の妖精語りて曰く」 離れた場所で、同時に発せられたその詠唱。
 - **unknown**: 「言理の妖精語りて曰く」 離れた場所で、同時に発せられたその詠唱。
 
 <!-- /AUTO-GENERATED:speech -->

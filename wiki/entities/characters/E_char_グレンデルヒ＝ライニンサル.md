@@ -9,7 +9,7 @@ first_appearance: ch0080
 spoiler_after: ch0080
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # グレンデルヒ＝ライニンサル
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: トルクルトアが生んだ万能の才人――グレンデルヒ＝ライニンサルは、地上最強の男と言われているから
 - **unknown**: トルクルトアが生んだ万能の才人――グレンデルヒ＝ライニンサルは、地上最強の男と言われているから
 
 <!-- /AUTO-GENERATED:name -->

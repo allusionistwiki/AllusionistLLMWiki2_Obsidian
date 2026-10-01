@@ -9,7 +9,7 @@ spoiler_after: ch0007
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # セスカ
@@ -37,6 +37,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: セスカがね、貴方を私のところに連れてきたんだよ。全身ボロボロだったけど、その様子だと後遺症もなさそうだし、大丈夫かな。
 - **unknown**: セスカがね、貴方を私のところに連れてきたんだよ。全身ボロボロだったけど、その様子だと後遺症もなさそうだし、大丈夫かな。
 
 <!-- /AUTO-GENERATED:action -->

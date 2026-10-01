@@ -4,6 +4,7 @@ id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_肉塊_p1590_body_horro
 title: 肉体の変容と侵食のボディホラー
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_other_肉塊_p1590]]"

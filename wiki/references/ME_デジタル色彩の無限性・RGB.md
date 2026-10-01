@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_デジタル色彩の無限性・RGB
 title: デジタル色彩・RGB
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

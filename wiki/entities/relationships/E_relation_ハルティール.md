@@ -9,7 +9,7 @@ first_appearance: ch0063
 spoiler_after: ch0063
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # ハルティール
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「おやおや。誰かと思えば落ちこぼれのリーナじゃないか」
 - **unknown**: 「おやおや。誰かと思えば落ちこぼれのリーナじゃないか」
 
 <!-- /AUTO-GENERATED:speech -->

@@ -9,7 +9,7 @@ spoiler_after: ch0071
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 異界の黙示録
@@ -35,6 +35,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 無数のページと文字列をまき散らす漆黒の魔導書、【異界の黙示録】が自己複製と大量印刷の摸倣子によって情報の嵐を巻き起こし、漆黒の文字列が一つの銀河系を創造していく。
 - **unknown**: 無数のページと文字列をまき散らす漆黒の魔導書、【異界の黙示録】が自己複製と大量印刷の摸倣子によって情報の嵐を巻き起こし、漆黒の文字列が一つの銀河系を創造していく。
 
 <!-- /AUTO-GENERATED:action -->

@@ -9,7 +9,7 @@ first_appearance: ch0069
 spoiler_after: ch0069
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 大型車輌
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 車体に縋り付いた大量の死人。正面の窓に張り付いた夥しい人影によって視界が遮られ、運転を誤って建物に突っ込む。爆発炎上。
 - **unknown**: 車体に縋り付いた大量の死人。正面の窓に張り付いた夥しい人影によって視界が遮られ、運転を誤って建物に突っ込む。爆発炎上。
 
 <!-- /AUTO-GENERATED:action -->

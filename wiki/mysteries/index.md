@@ -6,7 +6,7 @@ description: 全伏線の章別・話別インデックス（導入話起点）
 
 # 伏線台帳（章・話別）
 
-全 **414 件**。導入話（introduced）を起点に、回収状況を追跡する伏線台帳です。ステータスは `candidate`（候補）→ `active`（生存確認）→ `resolved`（回収）の遷移を想定しています。
+全 **410 件**。導入話（introduced）を起点に、回収状況を追跡する伏線台帳です。ステータスは `candidate`（候補）→ `active`（生存確認）→ `resolved`（回収）の遷移を想定しています。
 
 ## 第一章　隻腕義手のスワンプマン
 
@@ -659,10 +659,3 @@ description: 全伏線の章別・話別インデックス（導入話起点）
 - [[MY_ch0083_カルカブリーナの正体|カルカブリーナの正体]]
 - [[MY_ch0083_ダモクレスの剣の担い手|ダモクレスの剣の担い手]]
 - [[MY_ch0083_謎の女性ママの正体|謎の女性ママの正体]]
-
-### 第八十四話：4-7　花街
-
-- [[MY_ch0084_Grendel_Japanese_Access|Grendel_Japanese_Access]]
-- [[MY_ch0084_Laculrar_Party_Movement|Laculrar_Party_Movement]]
-- [[MY_ch0084_TriShura_Bite_Marking|TriShura_Bite_Marking]]
-- [[MY_ch0084_Zed_Sleep_Deprivation|Zed_Sleep_Deprivation]]

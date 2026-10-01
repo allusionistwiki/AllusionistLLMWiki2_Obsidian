@@ -9,7 +9,7 @@ spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 第八魔将ハルハハール
@@ -36,6 +36,8 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 第八魔将、優美に泳ぐ蝶ハルハハール。闇妖精種。
+- **unknown**: 第八魔将、優美に泳ぐ蝶ハルハハール。闇妖精種。デックアールヴ
 - **unknown**: 第八魔将、優美に泳ぐ蝶ハルハハール。闇妖精種。
 - **unknown**: 第八魔将、優美に泳ぐ蝶ハルハハール。闇妖精種。デックアールヴ
 

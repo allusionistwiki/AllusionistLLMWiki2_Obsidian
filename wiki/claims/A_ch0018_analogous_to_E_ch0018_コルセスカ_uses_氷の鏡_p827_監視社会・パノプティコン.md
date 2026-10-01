@@ -4,6 +4,7 @@ id: A_ch0018_analogous_to_E_ch0018_コルセスカ_uses_氷の鏡_p827_監視社
 title: パノプティコン
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_コルセスカ_uses_氷の鏡_p827]]"

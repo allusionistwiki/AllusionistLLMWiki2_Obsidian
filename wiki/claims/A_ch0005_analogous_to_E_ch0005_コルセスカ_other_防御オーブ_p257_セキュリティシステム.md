@@ -4,6 +4,7 @@ id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_防御オーブ_p257_�
 title: セキュリティシステムのメタファー
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_防御オーブ_p257]]"

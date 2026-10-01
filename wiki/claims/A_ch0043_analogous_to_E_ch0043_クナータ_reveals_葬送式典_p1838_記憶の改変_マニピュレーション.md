@@ -4,6 +4,7 @@ id: A_ch0043_analogous_to_E_ch0043_クナータ_reveals_葬送式典_p1838_記�
 title: 記憶の改変マニピュレーション
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_クナータ_reveals_葬送式典_p1838]]"

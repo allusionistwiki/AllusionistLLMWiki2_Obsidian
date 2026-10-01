@@ -9,7 +9,7 @@ spoiler_after: ch0047
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 紀元槍
@@ -40,6 +40,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 世界それ自体を――紀元槍を浸食する紀元槍の端末。自己を参照し続ける再帰的な幻想。
 - **unknown**: 世界それ自体を――紀元槍を浸食する紀元槍の端末。自己を参照し続ける再帰的な幻想。
 
 <!-- /AUTO-GENERATED:symbolic -->

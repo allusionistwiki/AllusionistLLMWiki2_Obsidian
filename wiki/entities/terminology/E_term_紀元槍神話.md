@@ -9,7 +9,7 @@ first_appearance: ch0031
 spoiler_after: ch0031
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 紀元槍神話
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 紀元槍神話だな。天地を貫く複数の世界槍は、原初ただ一つの巨大な槍であり、全ての存在はそこに由来する。
 - **unknown**: 紀元槍神話だな。天地を貫く複数の世界槍は、原初ただ一つの巨大な槍であり、全ての存在はそこに由来する。
 
 <!-- /AUTO-GENERATED:speech -->

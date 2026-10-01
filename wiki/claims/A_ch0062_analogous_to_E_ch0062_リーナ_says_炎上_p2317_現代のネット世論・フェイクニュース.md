@@ -4,6 +4,7 @@ id: A_ch0062_analogous_to_E_ch0062_リーナ_says_炎上_p2317_現代のネッ�
 title: ネット世論・フェイクへの転生
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_リーナ_says_炎上_p2317]]"

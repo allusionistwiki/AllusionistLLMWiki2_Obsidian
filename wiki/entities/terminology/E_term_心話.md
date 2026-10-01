@@ -9,7 +9,7 @@ spoiler_after: ch0002
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 心話
@@ -31,6 +31,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 【心話】の呪術がその場にいる全員の胸に染み渡った。 異界の言語である英語で紡がれたその言葉が、重なり合う意味を持っている事を全員が理解し、やがて静寂が訪れる。
 - **unknown**: 【心話】の呪術がその場にいる全員の胸に染み渡った。 異界の言語である英語で紡がれたその言葉が、重なり合う意味を持っている事を全員が理解し、やがて静寂が訪れる。
 
 <!-- /AUTO-GENERATED:action -->

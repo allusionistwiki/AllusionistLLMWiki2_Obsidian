@@ -4,6 +4,7 @@ id: A_ch0043_structurally_matches_E_ch0043_アズーリア_transforms_分裂_p18
 title: 多重人格と解離
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_アズーリア_transforms_分裂_p1826]]"

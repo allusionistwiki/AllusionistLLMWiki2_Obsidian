@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_植民地支配・人種差別の正当化
 title: 差別の正当化
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: history

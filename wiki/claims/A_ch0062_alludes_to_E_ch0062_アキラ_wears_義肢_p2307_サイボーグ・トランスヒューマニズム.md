@@ -4,6 +4,7 @@ id: A_ch0062_alludes_to_E_ch0062_アキラ_wears_義肢_p2307_サイボーグ・
 title: サイボーグ・トランスヒューへの暗喩
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_アキラ_wears_義肢_p2307]]"

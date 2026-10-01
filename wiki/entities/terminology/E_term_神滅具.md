@@ -9,7 +9,7 @@ spoiler_after: ch0018
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 神滅具
@@ -35,6 +35,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 実際、この世界では神滅具イコールマイナスイメージで、売れ行きは今ひとつらしい。
 - **unknown**: 実際、この世界では神滅具イコールマイナスイメージで、売れ行きは今ひとつらしい。
 
 <!-- /AUTO-GENERATED:symbolic -->

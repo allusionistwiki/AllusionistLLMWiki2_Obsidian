@@ -9,7 +9,7 @@ spoiler_after: ch0056
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 言理の妖精
@@ -34,6 +34,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 実のところ、記号や意味やその狭間の全てが言理の妖精たちなのだ。
 - **unknown**: 実のところ、記号や意味やその狭間の全てが言理の妖精たちなのだ。
 
 <!-- /AUTO-GENERATED:symbolic -->

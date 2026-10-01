@@ -4,6 +4,7 @@ id: A_ch0018_analogous_to_E_ch0018_アキラ_attacks_負傷した少年_p820_弱
 title: 弱者攻撃の戦略的合理性と倫理
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_アキラ_attacks_負傷した少年_p820]]"

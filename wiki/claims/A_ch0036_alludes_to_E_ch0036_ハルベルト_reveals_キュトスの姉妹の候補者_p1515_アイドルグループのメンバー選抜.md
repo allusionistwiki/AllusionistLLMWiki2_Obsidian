@@ -4,6 +4,7 @@ id: A_ch0036_alludes_to_E_ch0036_ハルベルト_reveals_キュトスの姉妹�
 title: アイドル選抜プロセスの暗喩
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_ハルベルト_reveals_キュトスの姉妹の候補者_p1515]]"

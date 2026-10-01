@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_熱力学の時間矢印
 title: 時間の矢
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

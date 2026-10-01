@@ -9,7 +9,7 @@ spoiler_after: ch0012
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # サイバーカラテ道場
@@ -34,6 +34,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 道場に本部は存在しない。それは、形の無いサイバーカラテという枠組みそれ自体が本部である為だ。サイバーカラテ道場は、いつでも人々の心の中にある。
 - **unknown**: 道場に本部は存在しない。それは、形の無いサイバーカラテという枠組みそれ自体が本部である為だ。サイバーカラテ道場は、いつでも人々の心の中にある。
 
 <!-- /AUTO-GENERATED:symbolic -->

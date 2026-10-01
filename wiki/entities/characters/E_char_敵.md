@@ -9,7 +9,7 @@ first_appearance: ch0002
 spoiler_after: ch0002
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 敵
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 相手の姿を視認する間もない。反撃の一撃が俺の全身に激しい衝撃をもたらし、それきり俺の意識は闇に包まれた。
 - **unknown**: 相手の姿を視認する間もない。反撃の一撃が俺の全身に激しい衝撃をもたらし、それきり俺の意識は闇に包まれた。
 
 <!-- /AUTO-GENERATED:action -->

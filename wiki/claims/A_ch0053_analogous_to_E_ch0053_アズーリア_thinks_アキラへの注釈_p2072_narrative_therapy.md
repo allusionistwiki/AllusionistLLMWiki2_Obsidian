@@ -4,6 +4,7 @@ id: A_ch0053_analogous_to_E_ch0053_アズーリア_thinks_アキラへの注釈_
 title: ナラティブ・セラピーへの誘導
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_アズーリア_thinks_アキラへの注釈_p2072]]"

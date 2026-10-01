@@ -4,6 +4,7 @@ id: A_ch0081_analogous_to_E_ch0081_ステージ_functions_as_呪力発生_p2959_
 title: コンテンツ産業の労働搾取
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0081_ステージ_functions_as_呪力発生_p2959]]"

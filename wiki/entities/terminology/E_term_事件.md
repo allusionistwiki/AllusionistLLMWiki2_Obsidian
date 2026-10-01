@@ -9,7 +9,7 @@ first_appearance: ch0080
 spoiler_after: ch0080
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 事件
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 第一階層のエルネトモランにドラトリア系夜の民――つまりは吸血鬼たちが大量に生まれる（感染する？）という事態になり、地上は大混乱に陥ったという。
 - **unknown**: 第一階層のエルネトモランにドラトリア系夜の民――つまりは吸血鬼たちが大量に生まれる（感染する？）という事態になり、地上は大混乱に陥ったという。
 
 <!-- /AUTO-GENERATED:action -->

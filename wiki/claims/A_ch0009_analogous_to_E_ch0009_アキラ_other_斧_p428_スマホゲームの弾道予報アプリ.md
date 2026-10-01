@@ -4,6 +4,7 @@ id: A_ch0009_analogous_to_E_ch0009_アキラ_other_斧_p428_スマホゲーム�
 title: 弾道予報アプリの補正
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_アキラ_other_斧_p428]]"

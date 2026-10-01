@@ -9,7 +9,7 @@ first_appearance: ch0034
 spoiler_after: ch0034
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # ナト
 
@@ -20,12 +20,15 @@ updated: '2026-10-01'
 
 - **unknown**: 「彼、迷宮で脳みそが筋肉に置き換わっていく呪いをかけられちゃってさー。
 - **unknown**: 恐らくナトは、第五位の天使ペレケテンヌルの加護を受けた【ロディニオの三本足の民】に違いない。
+- **unknown**: 「彼、迷宮で脳みそが筋肉に置き換わっていく呪いをかけられちゃってさー。
+- **unknown**: 恐らくナトは、第五位の天使ペレケテンヌルの加護を受けた【ロディニオの三本足の民】に違いない。
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 暗い恨みを孕んだ呟きと同時に、彼の背中から何かが分離し、高速で放たれた。
 - **unknown**: 暗い恨みを孕んだ呟きと同時に、彼の背中から何かが分離し、高速で放たれた。
 
 <!-- /AUTO-GENERATED:action -->

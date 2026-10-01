@@ -9,7 +9,7 @@ spoiler_after: ch0065
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # ナーグストール
@@ -30,6 +30,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: セリアック＝ニアの能力の具現として影の中から出現する幻獣ナーグストールは彼女の肉体と同調して動き、同時に対象を攻撃し、時に防御も行う。
 - **unknown**: セリアック＝ニアの能力の具現として影の中から出現する幻獣ナーグストールは彼女の肉体と同調して動き、同時に対象を攻撃し、時に防御も行う。
 
 <!-- /AUTO-GENERATED:action -->

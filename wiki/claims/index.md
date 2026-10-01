@@ -6,7 +6,7 @@ description: 全アナロジークレームの章別・話別インデックス
 
 # アナロジークレーム全集（章・話別）
 
-全 **972 件**。[[nav/index|話ナビゲーション]] / [[mysteries/index|伏線台帳]] / [[references/index|外部参照]]
+全 **962 件**。[[nav/index|話ナビゲーション]] / [[mysteries/index|伏線台帳]] / [[references/index|外部参照]]
 
 ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイベント（ノーペイン起動, p103）が「安楽死の倫理」をパロディにしている、という主張。
 
@@ -1222,16 +1222,3 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch0083_parodies_E_ch0083_アキラ_defeats_ロドウィ_p3055_演武による精神攻撃|VR格闘ゲーム的認識ハッキング]]
 - [[A_ch0083_parodies_E_ch0083_バル・ア・ムント_has_property_分離能力_p3060_吸血鬼の弱点の逆転|吸血鬼弱点の戦術的逆転]]
 - [[A_ch0083_structurally_matches_E_ch0083_トリシューラ_other_アキラ_p3071_ペットと飼い主の支配関係|ペットと飼い主の支配関係]]
-
-### 第八十四話：4-7　花街
-
-- [[A_ch0084_analogous_to_E_ch0084_アキラ_other_人工乳房_p3092_Gacha_Game_Mechanics|ガチャゲームの装備カスタマイズ]]
-- [[A_ch0084_analogous_to_E_ch0084_ガロアンディアン_is_located_花街_p3090_Urban_Renewal|都市再開発のジェントリフィケーション]]
-- [[A_ch0084_analogous_to_E_ch0084_ゼド_other_魔導書_p3094_Memory_Management|RAMとストレージのメモリ管理]]
-- [[A_ch0084_analogous_to_E_ch0084_ゼド_wears_テンガロンハット_p3095_Inventory_System|RPGのインベントリシステム]]
-- [[A_ch0084_analogous_to_E_ch0084_トリシューラ_has_property_自動的な振る舞い_p3076_AI_behavior_simulation|AIの人間らしさシミュレーション]]
-- [[A_ch0084_analogous_to_E_ch0084_トリシューラ_other_精神安定の意図_p3079_Social_Engineering|社会工学的手法によるクラッキング]]
-- [[A_ch0084_analogous_to_E_ch0084_リールエルバ_other_メール_p3084_Spam_Phishing|スパム・フィッシングメールの構造]]
-- [[A_ch0084_analogous_to_E_ch0084_リールエルバ_other_言震リスク_p3086_Language_Vulnerability|言語処理系の脆弱性利用攻撃]]
-- [[A_ch0084_analogous_to_E_ch0084_公営娼館_functions_as_産業_p3091_Capitalism_Desire|欲望を資源化する資本主義的産業]]
-- [[A_ch0084_parodies_E_ch0084_トリシューラ_other_アキラ_p3078_Love_Comedy_Trope|ラブコメ定番のツッコミの解体]]

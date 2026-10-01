@@ -4,6 +4,7 @@ id: A_ch0011_alludes_to_E_ch0011_コルセスカ_says_炎は黄金を証明す�
 title: ラテン語格言の引用
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0011_コルセスカ_says_炎は黄金を証明する_p501]]"

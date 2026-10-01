@@ -4,6 +4,7 @@ id: A_ch0083_structurally_matches_E_ch0083_トリシューラ_other_アキラ_p3
 title: ペットと飼い主の支配関係
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_トリシューラ_other_アキラ_p3071]]"

@@ -4,6 +4,7 @@ id: A_ch0037_analogous_to_E_ch0037_イキュー_has_property_味覚による邪�
 title: 味覚支配の感覚遮断
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_イキュー_has_property_味覚による邪視_p1564]]"

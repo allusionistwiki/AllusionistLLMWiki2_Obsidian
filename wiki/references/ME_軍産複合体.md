@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_軍産複合体
 title: 軍産複合体
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -9,7 +9,7 @@ spoiler_after: ch0041
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 猫の取り替え子
@@ -33,6 +33,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 極めて凄惨な上層部の刷新――という名の『粛正』が行われ、現在は【猫の取り替え子】が公社の頂点に立っているという。
 - **unknown**: 極めて凄惨な上層部の刷新――という名の『粛正』が行われ、現在は【猫の取り替え子】が公社の頂点に立っているという。
 
 <!-- /AUTO-GENERATED:name -->

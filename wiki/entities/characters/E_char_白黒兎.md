@@ -9,7 +9,7 @@ spoiler_after: ch0032
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 白黒兎
@@ -37,12 +37,14 @@ updated: '2026-10-01'
 ## 視覚的記述
 
 - **unknown**: 白黒の兎。なぜか片眼鏡をかけて小さな帽子をかぶっている。　闇色の泥の陰に隠れるようにして存在しているその兎に気がついているのは、不思議と自分とハルベルトだけのようだった。
+- **unknown**: 白黒の兎。なぜか片眼鏡をかけて小さな帽子をかぶっている。　闇色の泥の陰に隠れるようにして存在しているその兎に気がついているのは、不思議と自分とハルベルトだけのようだった。
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: 白黒兎の魔女。　手を叩く度に砂糖菓子が弾けるように現れる、不可思議で無害な使い魔。
 - **unknown**: 白黒兎の魔女。　手を叩く度に砂糖菓子が弾けるように現れる、不可思議で無害な使い魔。
 
 <!-- /AUTO-GENERATED:relationship -->

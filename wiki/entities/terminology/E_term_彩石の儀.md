@@ -9,7 +9,7 @@ spoiler_after: ch0041
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 彩石の儀
@@ -31,6 +31,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: その後、彩石の儀で勝利して【万色】の称号を得た者を末妹候補を通り越して第五位代理にするという宣言がされ、全員が色めきだった。
 - **unknown**: その後、彩石の儀で勝利して【万色】の称号を得た者を末妹候補を通り越して第五位代理にするという宣言がされ、全員が色めきだった。
 
 <!-- /AUTO-GENERATED:speech -->

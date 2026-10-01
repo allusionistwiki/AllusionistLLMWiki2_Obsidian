@@ -9,7 +9,7 @@ spoiler_after: ch0050
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # チョコレートリリー
@@ -29,6 +29,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 【チョコレートリリー】と呼ばれる集団の長は、先陣を切って無彩色の左手を掲げると、勢いよく金鎖を砕く。
 - **unknown**: 【チョコレートリリー】と呼ばれる集団の長は、先陣を切って無彩色の左手を掲げると、勢いよく金鎖を砕く。
 
 <!-- /AUTO-GENERATED:action -->

@@ -9,7 +9,7 @@ spoiler_after: ch0002
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # フィリス
@@ -32,6 +32,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 宿主の危機に自動的に反応したフィリスは規定のプランに従って呪文の性質を変更してしまう。摸倣呪文ではなく、対抗呪文【静謐】が発動。
 - **unknown**: 宿主の危機に自動的に反応したフィリスは規定のプランに従って呪文の性質を変更してしまう。摸倣呪文ではなく、対抗呪文【静謐】が発動。
 
 <!-- /AUTO-GENERATED:action -->

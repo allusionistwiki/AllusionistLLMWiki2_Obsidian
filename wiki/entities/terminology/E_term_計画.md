@@ -9,7 +9,7 @@ first_appearance: ch0046
 spoiler_after: ch0046
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 計画
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「『新型の使役型寄生異獣の開発研究』と、『非槍神教系神働術を既存の神働術の中に取り入れる為の実験』――この名目でティリビナの民の安全を確保する」
 - **unknown**: 「『新型の使役型寄生異獣の開発研究』と、『非槍神教系神働術を既存の神働術の中に取り入れる為の実験』――この名目でティリビナの民の安全を確保する」
 
 <!-- /AUTO-GENERATED:speech -->

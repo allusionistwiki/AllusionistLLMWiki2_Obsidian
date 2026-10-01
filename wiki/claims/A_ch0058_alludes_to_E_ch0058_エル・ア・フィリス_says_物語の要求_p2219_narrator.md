@@ -4,6 +4,7 @@ id: A_ch0058_alludes_to_E_ch0058_エル・ア・フィリス_says_物語の要�
 title: 語り手のメタフィクショナル介入
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0058_エル・ア・フィリス_says_物語の要求_p2219]]"

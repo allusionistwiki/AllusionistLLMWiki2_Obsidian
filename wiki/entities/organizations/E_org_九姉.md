@@ -9,7 +9,7 @@ first_appearance: ch0049
 spoiler_after: ch0049
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 九姉
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 九姉と言う割に、そこには八人しかいなかったけれど――そこで挨拶をして、これからのことについて説明を受けた。
 - **unknown**: 九姉と言う割に、そこには八人しかいなかったけれど――そこで挨拶をして、これからのことについて説明を受けた。
 
 <!-- /AUTO-GENERATED:name -->

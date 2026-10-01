@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_組織の論理
 title: 組織の論理
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

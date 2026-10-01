@@ -4,6 +4,7 @@ id: A_ch0021_analogous_to_E_ch0021_コルセスカ_other_男性攻略_p934_Otome
 title: 乙女ゲーム仕様への恋愛メタファー
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_コルセスカ_other_男性攻略_p934]]"

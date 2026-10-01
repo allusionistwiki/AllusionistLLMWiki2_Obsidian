@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ゼド
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0079
 spoiler_after: ch0079
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-02'
 ---
 
 # ゼド
@@ -31,3 +32,10 @@ created: "2026-09-30"
 - [[A_ch0084_analogous_to_E_ch0084_ゼド_other_魔導書_p3094_Memory_Management|RAMとストレージのメモリ管理]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 「ゼドの奴と同盟結べたのもな」
+
+<!-- /AUTO-GENERATED:relationship -->

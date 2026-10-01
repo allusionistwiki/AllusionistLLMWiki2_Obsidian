@@ -9,7 +9,7 @@ first_appearance: ch0073
 spoiler_after: ch0073
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 振り子
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 自己相似形を生み出し続ける再帰的な紀元槍の逆位置。純粋な乱雑さ。それを、紀元錘と呼ぶのだと。
 - **unknown**: 自己相似形を生み出し続ける再帰的な紀元槍の逆位置。純粋な乱雑さ。それを、紀元錘と呼ぶのだと。
 
 <!-- /AUTO-GENERATED:name -->

@@ -9,7 +9,7 @@ spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # テール
@@ -33,6 +33,7 @@ updated: '2026-10-01'
 ## 視覚的記述
 
 - **unknown**: テールに関してはなんと盾と籠手の部分が一体化しており、そもそも指先が存在しなかった。
+- **unknown**: テールに関してはなんと盾と籠手の部分が一体化しており、そもそも指先が存在しなかった。
 
 <!-- /AUTO-GENERATED:visual -->
 
@@ -40,12 +41,14 @@ updated: '2026-10-01'
 ## 関係性
 
 - **unknown**: テールは一度だけ激しく怒鳴りながら床を踏みならし、それきり黙り込んだ。
+- **unknown**: テールは一度だけ激しく怒鳴りながら床を踏みならし、それきり黙り込んだ。
 
 <!-- /AUTO-GENERATED:relationship -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 盾には隙間無く黒い棘が突き刺さっており、深く内部に侵入しているようだ。貫通した棘はテールの腕を引き裂いていることだろう。
 - **unknown**: 盾には隙間無く黒い棘が突き刺さっており、深く内部に侵入しているようだ。貫通した棘はテールの腕を引き裂いていることだろう。
 
 <!-- /AUTO-GENERATED:action -->

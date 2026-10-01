@@ -4,6 +4,7 @@ id: A_ch0068_analogous_to_E_ch0068_ユネクティア_says_アズーリア_p2542
 title: 個人の交換可能性
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ユネクティア_gives_エスフェイル_p2542]]"

@@ -9,7 +9,7 @@ spoiler_after: ch0068
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # バル
@@ -29,6 +29,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「敵将、討ち取ったり！」 万殺鬼アインノーラの決闘に敗れたバルの首が掲げられる。
 - **unknown**: 「敵将、討ち取ったり！」 万殺鬼アインノーラの決闘に敗れたバルの首が掲げられる。
 
 <!-- /AUTO-GENERATED:action -->

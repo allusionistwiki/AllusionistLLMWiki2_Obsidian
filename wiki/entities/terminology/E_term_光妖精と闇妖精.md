@@ -9,7 +9,7 @@ first_appearance: ch0067
 spoiler_after: ch0067
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 光妖精と闇妖精
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 光妖精、闇妖精というのは、外見上の差異によって決定される恣意的な区分でしかないのです。
 - **unknown**: 光妖精、闇妖精というのは、外見上の差異によって決定される恣意的な区分でしかないのです。
 
 <!-- /AUTO-GENERATED:speech -->

@@ -4,6 +4,7 @@ id: A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_物理インターフ
 title: 儀礼的遂行による人間性担保
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_uses_物理インターフェース_p525]]"

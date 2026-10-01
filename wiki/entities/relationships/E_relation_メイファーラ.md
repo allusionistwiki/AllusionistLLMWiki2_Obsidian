@@ -9,7 +9,7 @@ first_appearance: ch0063
 spoiler_after: ch0063
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # メイファーラ
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: メイファーラもまた私の警護ということで朝から合流することになった。
 - **unknown**: メイファーラもまた私の警護ということで朝から合流することになった。
 
 <!-- /AUTO-GENERATED:action -->

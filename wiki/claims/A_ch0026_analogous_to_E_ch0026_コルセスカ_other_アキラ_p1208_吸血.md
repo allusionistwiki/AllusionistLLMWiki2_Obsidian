@@ -4,6 +4,7 @@ id: A_ch0026_analogous_to_E_ch0026_コルセスカ_other_アキラ_p1208_吸血
 title: 吸血鬼の吸血行為の模倣
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_コルセスカ_other_アキラ_p1208]]"

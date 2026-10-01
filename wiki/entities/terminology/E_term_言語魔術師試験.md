@@ -9,7 +9,7 @@ first_appearance: ch0080
 spoiler_after: ch0080
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 言語魔術師試験
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 言語魔術師試験？ 何だそれ。国際規格の資格試験みたいなのがあるのか。（正解よアキラ。ちなみにそこのトリシューラは準一級言語魔術師。私は一級言語魔術師！）
 - **unknown**: 言語魔術師試験？ 何だそれ。国際規格の資格試験みたいなのがあるのか。（正解よアキラ。ちなみにそこのトリシューラは準一級言語魔術師。私は一級言語魔術師！）
 
 <!-- /AUTO-GENERATED:name -->

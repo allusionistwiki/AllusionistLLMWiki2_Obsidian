@@ -9,7 +9,7 @@ spoiler_after: ch0037
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # ティリビナの民
@@ -37,12 +37,15 @@ updated: '2026-10-01'
 
 - **unknown**: 当時、ティリビナの民は松明の騎士団に追い立てられ離散していた。
 - **unknown**: ティリビナの民は基本的に建造物の形では住居を持たず、木々に寄り添ったりうろの中に住んだりしている。
+- **unknown**: 当時、ティリビナの民は松明の騎士団に追い立てられ離散していた。
+- **unknown**: ティリビナの民は基本的に建造物の形では住居を持たず、木々に寄り添ったりうろの中に住んだりしている。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: ティリビナの民たちの半数は、予定通り智神の盾の保護下に入ることになった。
 - **unknown**: ティリビナの民たちの半数は、予定通り智神の盾の保護下に入ることになった。
 
 <!-- /AUTO-GENERATED:relationship -->

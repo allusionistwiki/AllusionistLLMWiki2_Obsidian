@@ -9,7 +9,7 @@ spoiler_after: ch0005
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # モロレク
@@ -29,6 +29,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 悪鬼。『モロレク』という音で呼ばれる彼らは、黒い肌と矮躯、鋭い牙などを特徴とする種族であり、同時に血族集団でもある。
 - **unknown**: 悪鬼。『モロレク』という音で呼ばれる彼らは、黒い肌と矮躯、鋭い牙などを特徴とする種族であり、同時に血族集団でもある。
 
 <!-- /AUTO-GENERATED:action -->

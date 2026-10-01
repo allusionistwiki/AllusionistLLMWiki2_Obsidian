@@ -9,7 +9,7 @@ spoiler_after: ch0034
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # ペイル
@@ -29,6 +29,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: リーナが指差した先にある舞台では、状況を混乱させるべく現れた巨大な腐肉人形がペイルによって粉砕されていた。
 - **unknown**: リーナが指差した先にある舞台では、状況を混乱させるべく現れた巨大な腐肉人形がペイルによって粉砕されていた。
 
 <!-- /AUTO-GENERATED:action -->

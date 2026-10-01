@@ -4,6 +4,7 @@ id: A_ch0059_parodies_E_ch0059_青嶺瑠璃_appears_悪夢_p2234_アイドル育
 title: 絶対服従のアイドル育成ゲーム
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0059_青嶺瑠璃_appears_悪夢_p2234]]"

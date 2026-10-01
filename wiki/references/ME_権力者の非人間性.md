@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_権力者の非人間性
 title: 権力者の非人間性
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

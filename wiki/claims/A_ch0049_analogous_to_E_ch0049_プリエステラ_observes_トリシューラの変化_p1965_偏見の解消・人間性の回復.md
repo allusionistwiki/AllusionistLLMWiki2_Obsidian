@@ -4,6 +4,7 @@ id: A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_トリシュー�
 title: 接触による偏見解消と人間性回復
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0049_プリエステラ_observes_トリシューラの変化_p1965]]"

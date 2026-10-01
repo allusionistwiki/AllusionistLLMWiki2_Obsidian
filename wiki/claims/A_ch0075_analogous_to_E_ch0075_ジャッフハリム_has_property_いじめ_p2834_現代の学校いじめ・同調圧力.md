@@ -4,6 +4,7 @@ id: A_ch0075_analogous_to_E_ch0075_ジャッフハリム_has_property_いじめ_
 title: 同調圧力に根治不能な学校いじめ
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0075_ジャッフハリム_has_property_いじめ_p2834]]"

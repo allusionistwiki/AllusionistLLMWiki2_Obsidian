@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_virtual_reality
 title: 仮想現実
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

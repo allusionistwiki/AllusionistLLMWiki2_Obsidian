@@ -9,7 +9,7 @@ first_appearance: ch0048
 spoiler_after: ch0048
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 金色の瞳
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 金色の瞳は、死という暗闇を運んで来たのだ。
 - **unknown**: 金色の瞳は、死という暗闇を運んで来たのだ。
 
 <!-- /AUTO-GENERATED:symbolic -->

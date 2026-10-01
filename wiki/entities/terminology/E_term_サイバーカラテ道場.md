@@ -9,7 +9,7 @@ spoiler_after: ch0015
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # サイバーカラテ道場
@@ -34,6 +34,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: そして、それと同時に。 エルネトモランの全ての端末に不可視の呪術的ウィルスが感染し、強制的に一つのアプリケーションをインストールしていく。
 - **unknown**: そして、それと同時に。 エルネトモランの全ての端末に不可視の呪術的ウィルスが感染し、強制的に一つのアプリケーションをインストールしていく。
 
 <!-- /AUTO-GENERATED:visual -->

@@ -9,7 +9,7 @@ first_appearance: ch0048
 spoiler_after: ch0048
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 骨の槍
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 体内の骨が血肉を引き裂きながら胴体の中央へと蠢いて依り合わさって行く。 そして骨が抜けて柔らかくなった肉体を内部から突き破って出てくる鋭利な穂先。
 - **unknown**: 体内の骨が血肉を引き裂きながら胴体の中央へと蠢いて依り合わさって行く。 そして骨が抜けて柔らかくなった肉体を内部から突き破って出てくる鋭利な穂先。
 
 <!-- /AUTO-GENERATED:action -->

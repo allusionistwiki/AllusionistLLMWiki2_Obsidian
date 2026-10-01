@@ -9,7 +9,7 @@ spoiler_after: ch0064
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 鰓耳の民
@@ -34,6 +34,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「ちまちまと戦いやがって、邪魔くせぇんだよ、スピアちゃんの美声が聞こえねえだろうがクソども！」 鰓耳の民の目から放たれた光によって世界が凄まじい量の水で覆い尽くされる。
 - **unknown**: 「ちまちまと戦いやがって、邪魔くせぇんだよ、スピアちゃんの美声が聞こえねえだろうがクソども！」 鰓耳の民の目から放たれた光によって世界が凄まじい量の水で覆い尽くされる。
 
 <!-- /AUTO-GENERATED:action -->

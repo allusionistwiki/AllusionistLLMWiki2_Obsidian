@@ -9,7 +9,7 @@ spoiler_after: ch0040
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # ティール
@@ -29,6 +29,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 最初は上手に話せなかったけど、葉っぱでお手紙を書くやり方を教わってからは密かな文通相手になった。
 - **unknown**: 最初は上手に話せなかったけど、葉っぱでお手紙を書くやり方を教わってからは密かな文通相手になった。
 
 <!-- /AUTO-GENERATED:action -->

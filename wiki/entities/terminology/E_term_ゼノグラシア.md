@@ -9,7 +9,7 @@ spoiler_after: ch0008
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # ゼノグラシア
@@ -30,6 +30,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: それは全くの異物。 この世界には存在しないはずの異言体系。 ゼノグラシア その日、地上に新たなる神話が打ち立てられた。
 - **unknown**: それは全くの異物。 この世界には存在しないはずの異言体系。 ゼノグラシア その日、地上に新たなる神話が打ち立てられた。
 
 <!-- /AUTO-GENERATED:visual -->

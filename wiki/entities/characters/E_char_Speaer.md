@@ -9,7 +9,7 @@ spoiler_after: ch0013
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # Speaer
@@ -34,12 +34,14 @@ updated: '2026-10-01'
 ## 視覚的記述
 
 - **unknown**: 背の高いビルディング、その上の大型ディスプレイ。映し出されているのは黒髪の歌姫だ。
+- **unknown**: 背の高いビルディング、その上の大型ディスプレイ。映し出されているのは黒髪の歌姫だ。
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 今流れているナンバーは【エスニック・ポリフォニー】。美しいソプラノが混沌とした喧噪の中で、別格の存在感を持って流れていく。
 - **unknown**: 今流れているナンバーは【エスニック・ポリフォニー】。美しいソプラノが混沌とした喧噪の中で、別格の存在感を持って流れていく。
 
 <!-- /AUTO-GENERATED:speech -->

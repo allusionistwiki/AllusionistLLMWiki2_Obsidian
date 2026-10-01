@@ -9,7 +9,7 @@ first_appearance: ch0069
 spoiler_after: ch0069
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 兎たち
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 呪文と杖の適性に優れた兎たちは魔導書を手に強化死人を迎撃する。しかし、限界はいつか訪れる。
 - **unknown**: 呪文と杖の適性に優れた兎たちは魔導書を手に強化死人を迎撃する。しかし、限界はいつか訪れる。
 
 <!-- /AUTO-GENERATED:action -->

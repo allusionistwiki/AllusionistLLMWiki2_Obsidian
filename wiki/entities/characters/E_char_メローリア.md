@@ -9,7 +9,7 @@ first_appearance: ch0059
 spoiler_after: ch0059
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # メローリア
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 出現した仮想使い魔は文字によって形作られた蝶だった。青く輝く鱗粉を散らしながら、仮想使い魔はハルベルトの道を作る。
 - **unknown**: 出現した仮想使い魔は文字によって形作られた蝶だった。青く輝く鱗粉を散らしながら、仮想使い魔はハルベルトの道を作る。
 
 <!-- /AUTO-GENERATED:action -->

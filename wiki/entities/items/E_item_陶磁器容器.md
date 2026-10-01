@@ -9,7 +9,7 @@ first_appearance: ch0057
 spoiler_after: ch0057
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 陶磁器容器
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 細長い注ぎ口と取っ手、蓋を備えた陶磁器らしき容器には、無数の枝角や翼を戯画化した意匠が描かれている。
 - **unknown**: 細長い注ぎ口と取っ手、蓋を備えた陶磁器らしき容器には、無数の枝角や翼を戯画化した意匠が描かれている。
 
 <!-- /AUTO-GENERATED:visual -->

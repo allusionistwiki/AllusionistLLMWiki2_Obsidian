@@ -4,6 +4,7 @@ id: A_ch0079_parodies_E_ch0079_オカルティズム_functions_as_サイバネ�
 title: 義体化格差のオカルティズム転写
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_オカルティズム_functions_as_サイバネティクス代替_p2914]]"

@@ -4,6 +4,7 @@ id: A_ch0052_analogous_to_E_ch0052_アズーリア_threatens_ガルズとマリ�
 title: 人間盾の戦術資源化
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_アズーリア_threatens_ガルズとマリー_p2032]]"

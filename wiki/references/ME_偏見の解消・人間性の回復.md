@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_偏見の解消・人間性の回復
 title: 偏見の解消
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -9,7 +9,7 @@ spoiler_after: ch0041
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 黒百合宮
@@ -33,12 +33,14 @@ updated: '2026-10-01'
 ## セリフ・発言
 
 - **unknown**: 『候補』と『姉妹』――末妹候補が生徒で、キュトスの姉妹が先生だった。
+- **unknown**: 『候補』と『姉妹』――末妹候補が生徒で、キュトスの姉妹が先生だった。
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: そして私は、朝と夜の区別がない、とても不思議な場所に連れてこられた。 黒百合宮という名前だと、ダーシェンカが教えてくれた。
 - **unknown**: そして私は、朝と夜の区別がない、とても不思議な場所に連れてこられた。 黒百合宮という名前だと、ダーシェンカが教えてくれた。
 
 <!-- /AUTO-GENERATED:name -->

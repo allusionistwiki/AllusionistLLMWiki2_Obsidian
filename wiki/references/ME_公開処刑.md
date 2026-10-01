@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_公開処刑
 title: 公開処刑
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

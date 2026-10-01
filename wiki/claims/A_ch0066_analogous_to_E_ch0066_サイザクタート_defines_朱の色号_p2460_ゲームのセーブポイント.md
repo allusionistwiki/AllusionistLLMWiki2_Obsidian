@@ -4,6 +4,7 @@ id: A_ch0066_analogous_to_E_ch0066_サイザクタート_defines_朱の色号_p2
 title: 死亡直前リロードのメタファー
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_サイザクタート_defines_朱の色号_p2460]]"

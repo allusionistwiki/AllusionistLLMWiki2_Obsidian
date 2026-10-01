@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_世論操作による死刑執行
 title: 世論操作による死刑
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

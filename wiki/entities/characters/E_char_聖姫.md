@@ -9,7 +9,7 @@ spoiler_after: ch0057
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 聖姫
@@ -30,12 +30,14 @@ updated: '2026-10-01'
 ## 行動・動作
 
 - **unknown**: 敵意を込めたメッセージを二重三重に送信するが、それを【狂姫】の隣にいる【聖姫】がにこやかに弾き返す。 三角の獣耳が生えた少女人形が、デフォルメされた手から鋭い爪を生やす。
+- **unknown**: 敵意を込めたメッセージを二重三重に送信するが、それを【狂姫】の隣にいる【聖姫】がにこやかに弾き返す。 三角の獣耳が生えた少女人形が、デフォルメされた手から鋭い爪を生やす。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「姉様にひどいことはしないで下さい」
 - **unknown**: 「姉様にひどいことはしないで下さい」
 
 <!-- /AUTO-GENERATED:speech -->

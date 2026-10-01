@@ -9,7 +9,7 @@ first_appearance: ch0068
 spoiler_after: ch0068
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # エーラマーン
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 噂を司る天使、囁きのエーラマーンの加護を引き出した神働術によって全世界に流布した風説が一気に膨れあがり、刃となって歌姫をずたずたに引き裂いていく。
 - **unknown**: 噂を司る天使、囁きのエーラマーンの加護を引き出した神働術によって全世界に流布した風説が一気に膨れあがり、刃となって歌姫をずたずたに引き裂いていく。
 
 <!-- /AUTO-GENERATED:action -->

@@ -9,7 +9,7 @@ first_appearance: ch0028
 spoiler_after: ch0028
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 契約者
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 最後は当該世界における最大勢力の武将と相打ちになる形でその人生に幕を閉じた、と歴史書にもその名が残っており、事後調査が楽でした。
 - **unknown**: 最後は当該世界における最大勢力の武将と相打ちになる形でその人生に幕を閉じた、と歴史書にもその名が残っており、事後調査が楽でした。
 
 <!-- /AUTO-GENERATED:action -->

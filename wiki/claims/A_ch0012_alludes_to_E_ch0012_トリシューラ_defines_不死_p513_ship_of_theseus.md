@@ -4,6 +4,7 @@ id: A_ch0012_alludes_to_E_ch0012_トリシューラ_defines_不死_p513_ship_of_
 title: テセウスの船による不死の定義
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_defines_不死_p513]]"

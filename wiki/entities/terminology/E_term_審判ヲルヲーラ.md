@@ -9,7 +9,7 @@ first_appearance: ch0063
 spoiler_after: ch0063
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 審判ヲルヲーラ
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 審判ヲルヲーラは戦闘の開始を受諾し、第四階層の掌握者たる守護の九槍第七位を中心に第三位、第四位、第六位率いる修道騎士たちが防衛戦に入る。
 - **unknown**: 審判ヲルヲーラは戦闘の開始を受諾し、第四階層の掌握者たる守護の九槍第七位を中心に第三位、第四位、第六位率いる修道騎士たちが防衛戦に入る。
 
 <!-- /AUTO-GENERATED:action -->

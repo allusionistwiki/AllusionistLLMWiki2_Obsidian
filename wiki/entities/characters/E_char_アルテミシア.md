@@ -9,7 +9,7 @@ spoiler_after: ch0016
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # アルテミシア
@@ -36,12 +36,14 @@ updated: '2026-10-01'
 ## セリフ・発言
 
 - **unknown**: 「宣名によりて我が世界の枷を解き放つ――我が魔名はアルテミシア。まことの名を【フレウテリス】。呪祖レストロオセの呼び声を聴き、現世全てに災いを運ぶ者なり」
+- **unknown**: 「宣名によりて我が世界の枷を解き放つ――我が魔名はアルテミシア。まことの名を【フレウテリス】。呪祖レストロオセの呼び声を聴き、現世全てに災いを運ぶ者なり」
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 自らの脚を石化させたかと思うと、それを根本から砕き、へし折ったのだ。
 - **unknown**: 自らの脚を石化させたかと思うと、それを根本から砕き、へし折ったのだ。
 
 <!-- /AUTO-GENERATED:action -->

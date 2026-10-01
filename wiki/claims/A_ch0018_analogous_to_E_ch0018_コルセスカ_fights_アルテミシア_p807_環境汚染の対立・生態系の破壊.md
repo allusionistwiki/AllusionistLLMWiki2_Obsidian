@@ -4,6 +4,7 @@ id: A_ch0018_analogous_to_E_ch0018_コルセスカ_fights_アルテミシア_p80
 title: 生態系破壊
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_コルセスカ_fights_アルテミシア_p807]]"

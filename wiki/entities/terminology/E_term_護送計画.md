@@ -9,7 +9,7 @@ first_appearance: ch0046
 spoiler_after: ch0046
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # 護送計画
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「時間的な余裕が皆無ですからね。ヴァージリ――ハルベルトが準備に手間取ったせいで、明後日決行するしかなくなってしまいましたし」
 - **unknown**: 「時間的な余裕が皆無ですからね。ヴァージリ――ハルベルトが準備に手間取ったせいで、明後日決行するしかなくなってしまいましたし」
 
 <!-- /AUTO-GENERATED:speech -->

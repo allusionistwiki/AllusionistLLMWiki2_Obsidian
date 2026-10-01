@@ -9,7 +9,7 @@ spoiler_after: ch0009
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 複合種
@@ -30,12 +30,14 @@ updated: '2026-10-01'
 ## 視覚的記述
 
 - **unknown**: 集結する異獣の群れが、何故か俺たちと一定の距離を保ったまま円形の包囲を崩そうとしない。
+- **unknown**: 集結する異獣の群れが、何故か俺たちと一定の距離を保ったまま円形の包囲を崩そうとしない。
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 全身から、血という血、水分という水分を絞り尽くそうとするかのように青い血が放出され、迷宮の床を染め上げていく。
 - **unknown**: 全身から、血という血、水分という水分を絞り尽くそうとするかのように青い血が放出され、迷宮の床を染め上げていく。
 
 <!-- /AUTO-GENERATED:action -->

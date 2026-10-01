@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_オルタナティブ・ヒストリーと魂の乗っ取り
 title: 魂の乗っ取り
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

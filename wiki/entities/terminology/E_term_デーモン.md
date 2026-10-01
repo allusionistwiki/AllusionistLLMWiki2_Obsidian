@@ -9,7 +9,7 @@ first_appearance: ch0040
 spoiler_after: ch0040
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 # デーモン
 
@@ -18,6 +18,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 十八のアバターは、それを操る本人の真のアストラル体では無い。　闘争の為だけに用意された、アストラル界を動くための一時的な呪的化身。その名はデーモン。
 - **unknown**: 十八のアバターは、それを操る本人の真のアストラル体では無い。　闘争の為だけに用意された、アストラル界を動くための一時的な呪的化身。その名はデーモン。
 
 <!-- /AUTO-GENERATED:name -->

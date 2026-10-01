@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: ME_作家の自己正当化
 title: 作家の自己正当化
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

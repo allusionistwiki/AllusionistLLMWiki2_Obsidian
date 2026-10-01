@@ -9,7 +9,7 @@ spoiler_after: ch0010
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # 融合体
@@ -32,6 +32,7 @@ updated: '2026-10-01'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 本体中央が口を開くように大きく窪んだかと思うと、その中に少年を一気に飲み込んでしまったのだ。 一瞬の出来事。止めることすらできず、右手を中途半端に上げたまま動きが静止する。
 - **unknown**: 本体中央が口を開くように大きく窪んだかと思うと、その中に少年を一気に飲み込んでしまったのだ。 一瞬の出来事。止めることすらできず、右手を中途半端に上げたまま動きが静止する。
 
 <!-- /AUTO-GENERATED:action -->

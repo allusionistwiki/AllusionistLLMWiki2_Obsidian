@@ -9,7 +9,7 @@ spoiler_after: ch0061
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-01'
+updated: '2026-10-02'
 ---
 
 # トライデント
@@ -30,12 +30,14 @@ updated: '2026-10-01'
 ## 関係性
 
 - **unknown**: トライデントの目論見の全容は不明だが、その目的の一つにハルベルトの儀式の妨害があるのはほぼ間違い無い。
+- **unknown**: トライデントの目論見の全容は不明だが、その目的の一つにハルベルトの儀式の妨害があるのはほぼ間違い無い。
 
 <!-- /AUTO-GENERATED:relationship -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: トライデント。　細胞と呼ばれる使い魔のネットワークによって構成された、【使い魔の魔女】の全容は、未だ明らかになっていない。
 - **unknown**: トライデント。　細胞と呼ばれる使い魔のネットワークによって構成された、【使い魔の魔女】の全容は、未だ明らかになっていない。
 
 <!-- /AUTO-GENERATED:speech -->
