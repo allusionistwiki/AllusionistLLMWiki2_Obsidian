@@ -17,9 +17,6 @@ terminology:
 organizations:
 - '[[E_org_松明の騎士団]]'
 relationships:
-- '[[E_relation_レオ]]'
-- '[[E_relation_アキラ]]'
-- '[[E_relation_トリシューラ]]'
 arc: '[[ARC_01_女神候補選定編]]'
 ---
 # ch0014

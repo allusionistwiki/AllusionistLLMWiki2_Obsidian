@@ -25,7 +25,6 @@ organizations:
 items:
 - '[[E_item_金鎖]]'
 relationships:
-- '[[E_relation_アズーリア]]'
 arc: '[[ARC_01_女神候補選定編]]'
 ---
 # ch0002

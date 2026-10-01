@@ -39,7 +39,6 @@ organizations:
 items:
 - '[[E_item_異界の黙示録]]'
 relationships:
-- '[[E_relation_老女]]'
 arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0071

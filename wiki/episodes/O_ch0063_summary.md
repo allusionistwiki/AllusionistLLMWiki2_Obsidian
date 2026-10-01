@@ -41,9 +41,6 @@ items:
 - '[[E_item_神働装甲]]'
 - '[[E_item_金鎖]]'
 relationships:
-- '[[E_relation_メイファーラ]]'
-- '[[E_relation_駕籠の中の女性]]'
-- '[[E_relation_ハルティール]]'
 arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0063

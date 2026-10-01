@@ -31,7 +31,6 @@ organizations:
 items:
 - '[[E_item_メイファーラ]]'
 relationships:
-- '[[E_relation_ミルーニャ]]'
 arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0062

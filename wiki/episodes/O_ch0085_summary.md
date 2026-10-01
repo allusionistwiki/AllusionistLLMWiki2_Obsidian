@@ -39,7 +39,6 @@ organizations:
 items:
 - '[[E_item_霊薬]]'
 relationships:
-- '[[E_relation_コルセスカ]]'
 arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0085

@@ -20,7 +20,6 @@ terminology:
 organizations:
 - '[[E_org_大神院]]'
 relationships:
-- '[[E_relation_修道騎士]]'
 arc: '[[ARC_01_女神候補選定編]]'
 ---
 # ch0031

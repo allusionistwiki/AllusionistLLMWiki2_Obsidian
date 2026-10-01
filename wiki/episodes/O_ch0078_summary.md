@@ -16,8 +16,6 @@ terminology:
 - '[[E_term_ちびシューラ]]'
 - '[[E_term_サイバーカラテ]]'
 relationships:
-- '[[E_relation_アキラ]]'
-- '[[E_relation_ファル]]'
 arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0078

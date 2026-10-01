@@ -17,9 +17,6 @@ terminology:
 items:
 - '[[E_item_動画]]'
 relationships:
-- '[[E_relation_コルセスカ]]'
-- '[[E_relation_カーイン]]'
-- '[[E_relation_レオ]]'
 arc: '[[ARC_01_女神候補選定編]]'
 ---
 # ch0022

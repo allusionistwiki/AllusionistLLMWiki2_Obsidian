@@ -27,7 +27,6 @@ terminology:
 - '[[E_term_エーラマーン]]'
 - '[[E_term_メイファーラ]]'
 relationships:
-- '[[E_relation_ズタークスターク]]'
 arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0074

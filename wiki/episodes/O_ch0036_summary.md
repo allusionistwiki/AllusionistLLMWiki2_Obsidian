@@ -20,7 +20,6 @@ terminology:
 - '[[E_term_岩壁]]'
 - '[[E_term_ティリビナの民]]'
 relationships:
-- '[[E_relation_アズーリア]]'
 arc: '[[ARC_01_女神候補選定編]]'
 ---
 # ch0036

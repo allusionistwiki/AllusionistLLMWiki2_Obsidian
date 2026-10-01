@@ -16,7 +16,6 @@ terminology:
 - '[[E_term_コルセスカ]]'
 - '[[E_term_敵呪術師]]'
 relationships:
-- '[[E_relation_リーナ・ゾラ・クロウサー]]'
 arc: '[[ARC_01_女神候補選定編]]'
 ---
 # ch0017

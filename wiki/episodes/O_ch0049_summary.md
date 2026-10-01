@@ -25,8 +25,6 @@ organizations:
 motifs:
 - '[[E_motif_プリエステラ]]'
 relationships:
-- '[[E_relation_大人達]]'
-- '[[E_relation_子供たち]]'
 arc: '[[ARC_01_女神候補選定編]]'
 ---
 # ch0049

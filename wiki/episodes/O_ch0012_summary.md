@@ -20,8 +20,6 @@ organizations:
 items:
 - '[[E_item_トリシューラの部屋]]'
 relationships:
-- '[[E_relation_アキラ]]'
-- '[[E_relation_コルセスカ]]'
 arc: '[[ARC_01_女神候補選定編]]'
 ---
 # ch0012
