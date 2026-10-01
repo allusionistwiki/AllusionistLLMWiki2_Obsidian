@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_term_死人の森の軍勢
+type: entity
+subtype: terminology
+canonical_name: 死人の森の軍勢
+first_appearance: ch0082
+spoiler_after: ch0082
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 死人の森の軍勢
+
+【死人の森】が浸食したことによって発生した死人の軍勢。完全に自律行動し仲間同士で連携し撤退も行う。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0082 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 「でも違った。地下に現れた死人はもっと異質な何か――【死人の森】が地下から第五階層を浸食したことによって発生した【死人の森の軍勢】だったんだ」（ch0082）
+> この地下迷宮に溢れる死人たちは違う。完全に自律行動し、仲間同士で連携し、状況によっては撤退すら行う。統率のとれた『軍勢』なのだ。（ch0082）
+
+<!-- AUTO:END -->

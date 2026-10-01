@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_org_変異の三手
+type: entity
+subtype: organization
+canonical_name: 変異の三手
+first_appearance: ch0080
+spoiler_after: ch0080
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 変異の三手
+
+複合巨大企業群や探索者協会の中で動きが活発化している組織の一つ。石造りの部屋に人体や臓器、肉塊などが陳列されており、その施設である可能性が高いとされる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0080 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 特に最近、【変異の三手】と【憂国士戦線】の動きが活発化しているって話を耳にしたから（ch0080）
+> 「いえ、これは多分【変異の三手】の施設でしょう」バルの疑問に答えながら、推測の根拠を述べる。（ch0083）
+
+<!-- AUTO:END -->

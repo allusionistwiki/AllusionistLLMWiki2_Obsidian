@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_org_ガロアンディアン
+type: entity
+subtype: organization
+canonical_name: ガロアンディアン
+first_appearance: ch0080
+spoiler_after: ch0080
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# ガロアンディアン
+
+ドラトリアと国交を持ち、相互承認により存在が黙認されている組織。生産力では外界に劣り依存するため、呪術的付加価値を発信する必要があるとされる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0080 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> そして、ドラトリアはガロアンディアンと『国交』を持つことになった。（ch0080）
+> 食料自給や工業製品などの生産力ではどうやっても外界に劣る。それどころか、依存せざるをえない。そこで、何かしらの呪術的付加価値を積極的に『発信』していく必要がある。（ch0082）
+
+<!-- AUTO:END -->

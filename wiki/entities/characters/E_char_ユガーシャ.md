@@ -1,0 +1,30 @@
+---
+schema_version: "5.1"
+id: E_char_ユガーシャ
+type: entity
+subtype: character
+canonical_name: ユガーシャ
+first_appearance: ch0074
+spoiler_after: ch0074
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# ユガーシャ
+
+竪琴を奏で、探索者たちの戦闘を物語として演出し義憤を煽動する存在。寄せ集めの武術（サイバーカラテ）は呪術であるかもしれないと述べている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0074 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 『彼』は竪琴を奏でながら、戦いの光景を見て満足げに頷く。　勇壮なる戦士たちの奮闘。　挑むは強大な敵。　あとは手に汗握る窮地が欲しい。（ch0074）
+> 「武術ではなくとも――呪術ではあるのかもしれません」（ch0074）
+
+## 関連クレーム
+
+- [[A_ch0074_inverts_E_ch0074_ユガーシャ_uses_竪琴_p2796_narrative_control|感情を制御する逆転の物語操作]]
+
+<!-- AUTO:END -->
