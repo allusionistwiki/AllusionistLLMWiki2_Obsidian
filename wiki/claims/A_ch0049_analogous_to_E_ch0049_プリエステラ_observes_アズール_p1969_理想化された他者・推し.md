@@ -5,6 +5,7 @@ title: 推しへの崇拝と自己肯定感の欠如
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0049_プリエステラ_observes_アズール_p1969]]"

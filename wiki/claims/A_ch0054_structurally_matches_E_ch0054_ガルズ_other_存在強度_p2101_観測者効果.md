@@ -5,6 +5,7 @@ title: 観測者効果による存在維持
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_ガルズ_other_存在強度_p2101]]"

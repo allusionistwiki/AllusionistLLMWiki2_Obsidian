@@ -5,6 +5,7 @@ title: アバターカスタムと自己同一性
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_アキラ_thinks_肉体の変動_p1978]]"

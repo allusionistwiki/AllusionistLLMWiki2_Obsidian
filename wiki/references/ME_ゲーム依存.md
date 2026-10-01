@@ -4,6 +4,7 @@ id: ME_ゲーム依存
 title: ゲーム依存
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

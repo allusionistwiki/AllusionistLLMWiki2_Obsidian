@@ -4,6 +4,7 @@ id: ME_fiat_currency
 title: 法定通貨
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

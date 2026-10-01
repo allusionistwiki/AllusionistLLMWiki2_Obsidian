@@ -4,6 +4,7 @@ id: ME_技術の副作用_環境破壊
 title: 技術の副作用
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,6 +4,7 @@ id: ME_narrative_engineering
 title: 物語工学
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

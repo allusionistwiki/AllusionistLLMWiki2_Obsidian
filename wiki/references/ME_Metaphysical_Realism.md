@@ -4,6 +4,7 @@ id: ME_Metaphysical_Realism
 title: 形而上学的実在論
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -5,6 +5,7 @@ title: 哲学的ゾンビへの類似
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0061_十三階段_makes_哲学的ゾンビ_p2291]]"

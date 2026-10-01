@@ -4,6 +4,7 @@ id: ME_resource_management
 title: リソース管理
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

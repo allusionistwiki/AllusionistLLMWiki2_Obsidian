@@ -4,6 +4,7 @@ id: ME_simulation_hypothesis
 title: シミュレーション仮説
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

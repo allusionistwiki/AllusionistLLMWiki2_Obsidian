@@ -4,6 +4,7 @@ id: ME_量子力学・多世界解釈
 title: 多世界解釈
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

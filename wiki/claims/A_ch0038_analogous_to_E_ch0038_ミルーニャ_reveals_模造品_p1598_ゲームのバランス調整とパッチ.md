@@ -5,6 +5,7 @@ title: ゲームのバランス調整とパッチ
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_ミルーニャ_reveals_模造品_p1598]]"

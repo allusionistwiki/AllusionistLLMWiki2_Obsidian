@@ -4,6 +4,7 @@ id: ME_フェイクニュースとSNSの拡散
 title: フェイクニュース拡散
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: internet_culture

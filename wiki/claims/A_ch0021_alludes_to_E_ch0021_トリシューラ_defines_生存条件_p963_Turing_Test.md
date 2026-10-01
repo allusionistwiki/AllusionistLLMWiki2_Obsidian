@@ -5,6 +5,7 @@ title: チューリングテストへの生存条件転生
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_トリシューラ_defines_生存条件_p963]]"

@@ -5,6 +5,7 @@ title: 幸福を覆う過去のトラウマ
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0046_アキラ_remembers_キール隊_p1902]]"

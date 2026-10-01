@@ -5,6 +5,7 @@ title: 暴力の論理への復讐定義書き換え
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_アキラ_says_復讐の論理_p1150]]"

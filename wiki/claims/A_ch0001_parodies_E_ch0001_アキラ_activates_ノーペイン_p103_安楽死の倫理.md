@@ -5,6 +5,7 @@ title: 技術による安楽死倫理の消去
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_activates_ノーペイン_p103]]"

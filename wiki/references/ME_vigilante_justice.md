@@ -4,6 +4,7 @@ id: ME_vigilante_justice
 title: 自警団
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

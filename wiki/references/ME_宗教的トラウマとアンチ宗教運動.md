@@ -4,6 +4,7 @@ id: ME_宗教的トラウマとアンチ宗教運動
 title: 宗教的トラウマ
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: psychology

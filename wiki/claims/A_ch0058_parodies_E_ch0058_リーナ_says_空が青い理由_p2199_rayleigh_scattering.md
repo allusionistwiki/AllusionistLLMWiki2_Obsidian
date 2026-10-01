@@ -5,6 +5,7 @@ title: レイリー散乱の目的論的風刺
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0058_リーナ_says_空が青い理由_p2199]]"

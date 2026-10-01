@@ -4,6 +4,7 @@ id: ME_インクイジション_思想統制
 title: 宗教裁判
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: philosophy

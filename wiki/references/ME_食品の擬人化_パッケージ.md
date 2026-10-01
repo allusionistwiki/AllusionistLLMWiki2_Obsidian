@@ -4,6 +4,7 @@ id: ME_食品の擬人化_パッケージ
 title: 食品の擬人化
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

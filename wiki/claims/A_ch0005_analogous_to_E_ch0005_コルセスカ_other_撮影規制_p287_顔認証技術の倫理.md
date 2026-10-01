@@ -5,6 +5,7 @@ title: 顔認証技術の倫理
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_撮影規制_p287]]"

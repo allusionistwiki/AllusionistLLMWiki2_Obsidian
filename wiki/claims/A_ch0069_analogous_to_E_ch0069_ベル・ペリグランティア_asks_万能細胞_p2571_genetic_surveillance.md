@@ -5,6 +5,7 @@ title: 遺伝子監視による倫理的懸念
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_ベル・ペリグランティア_asks_万能細胞_p2571]]"

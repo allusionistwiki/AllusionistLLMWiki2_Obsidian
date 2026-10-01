@@ -5,6 +5,7 @@ title: デジタル色彩・RGBへの逆転
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_リーナ_says_万色_p2327]]"

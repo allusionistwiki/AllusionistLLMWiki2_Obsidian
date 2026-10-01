@@ -4,6 +4,7 @@ id: ME_植民地支配における現地エリートへの同化政策
 title: 植民地支配における現地エリートへの同化政策
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: history

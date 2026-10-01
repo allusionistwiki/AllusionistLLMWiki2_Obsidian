@@ -4,6 +4,7 @@ id: ME_magic_vs_science
 title: 魔術と科学
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

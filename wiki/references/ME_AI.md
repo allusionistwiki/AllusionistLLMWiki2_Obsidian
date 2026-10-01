@@ -4,6 +4,7 @@ id: ME_AI
 title: 人工知能
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

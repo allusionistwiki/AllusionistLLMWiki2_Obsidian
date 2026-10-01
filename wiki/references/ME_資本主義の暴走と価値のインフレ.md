@@ -4,6 +4,7 @@ id: ME_資本主義の暴走と価値のインフレ
 title: 価値のインフレ
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

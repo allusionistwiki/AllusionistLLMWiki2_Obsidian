@@ -4,6 +4,7 @@ id: ME_天動説と中世の宇宙観
 title: 天動説と宇宙観
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

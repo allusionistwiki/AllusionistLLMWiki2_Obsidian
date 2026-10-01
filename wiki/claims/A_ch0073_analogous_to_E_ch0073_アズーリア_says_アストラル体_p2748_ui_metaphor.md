@@ -5,6 +5,7 @@ title: GUIとTUIの対比
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_アズーリア_says_アストラル体_p2748]]"

@@ -5,6 +5,7 @@ title: ビジネス的目標設定
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ハルベルト_promises_序列引き上げ_p1835]]"

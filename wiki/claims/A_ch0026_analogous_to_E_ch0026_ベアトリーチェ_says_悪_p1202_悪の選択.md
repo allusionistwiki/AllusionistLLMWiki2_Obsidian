@@ -5,6 +5,7 @@ title: 目的のための悪の受容
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_says_悪_p1202]]"

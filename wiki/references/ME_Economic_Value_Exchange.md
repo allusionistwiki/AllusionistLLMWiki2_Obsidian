@@ -4,6 +4,7 @@ id: ME_Economic_Value_Exchange
 title: 経済的価値交換
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -6,7 +6,7 @@ description: 全アナロジークレームの章別・話別インデックス
 
 # アナロジークレーム全集（章・話別）
 
-全 **962 件**。[[nav/index|話ナビゲーション]] / [[mysteries/index|伏線台帳]] / [[references/index|外部参照]]
+全 **968 件**。[[nav/index|話ナビゲーション]] / [[mysteries/index|伏線台帳]] / [[references/index|外部参照]]
 
 ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイベント（ノーペイン起動, p103）が「安楽死の倫理」をパロディにしている、という主張。
 
@@ -1222,3 +1222,12 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch0083_parodies_E_ch0083_アキラ_defeats_ロドウィ_p3055_演武による精神攻撃|VR格闘ゲーム的認識ハッキング]]
 - [[A_ch0083_parodies_E_ch0083_バル・ア・ムント_has_property_分離能力_p3060_吸血鬼の弱点の逆転|吸血鬼弱点の戦術的逆転]]
 - [[A_ch0083_structurally_matches_E_ch0083_トリシューラ_other_アキラ_p3071_ペットと飼い主の支配関係|ペットと飼い主の支配関係]]
+
+### 第八十五話：4-8　黒百合館
+
+- [[A_ch0085_analogous_to_E_ch0085_キュトス_defines_紀神_p3109_集合無意識|集合無意識への収斂進化]]
+- [[A_ch0085_analogous_to_E_ch0085_ステュクス_has_property_ママ_p3108_偶像崇拝|欲望から信仰への偶像変換]]
+- [[A_ch0085_analogous_to_E_ch0085_ゼド_says_スモーレスラー_p3101_ワンマン・アーミー|超人兵士ワンマン・アーミー]]
+- [[A_ch0085_analogous_to_E_ch0085_霊薬_has_property_幻覚_p3105_マタニティ・トラウマ|母性回帰のマタニティ・トラウマ]]
+- [[A_ch0085_analogous_to_E_ch0085_黒百合館_defines_死と快楽_p3144_エロスとタナトス|エロスとタナトスの融合]]
+- [[A_ch0085_analogous_to_E_ch0085_黒百合館_has_property_本館_p3142_ダークウェブ|極限快楽のダークウェブ]]

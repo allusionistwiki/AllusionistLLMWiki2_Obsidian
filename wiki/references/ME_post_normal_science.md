@@ -4,6 +4,7 @@ id: ME_post_normal_science
 title: ポスト正常科学
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

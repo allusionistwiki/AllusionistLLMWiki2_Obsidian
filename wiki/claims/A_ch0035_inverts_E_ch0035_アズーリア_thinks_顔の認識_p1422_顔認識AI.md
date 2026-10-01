@@ -5,6 +5,7 @@ title: 顔認識AIの認知逆転
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_アズーリア_thinks_顔の認識_p1422]]"

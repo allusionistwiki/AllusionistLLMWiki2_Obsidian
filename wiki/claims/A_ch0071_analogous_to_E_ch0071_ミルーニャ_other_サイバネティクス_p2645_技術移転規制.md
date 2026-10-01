@@ -5,6 +5,7 @@ title: 技術移転規制のメタファー
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_ミルーニャ_other_サイバネティクス_p2645]]"

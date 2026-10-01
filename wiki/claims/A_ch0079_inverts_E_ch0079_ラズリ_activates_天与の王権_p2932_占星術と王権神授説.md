@@ -5,6 +5,7 @@ title: 王権神授説のゲーム的再構成
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_ラズリ_activates_天与の王権_p2932]]"

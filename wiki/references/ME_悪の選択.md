@@ -4,6 +4,7 @@ id: ME_悪の選択
 title: 悪の選択
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -5,6 +5,7 @@ title: ヒポクラテスの誓いの逆転
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_イルス_says_医術の神_p1632]]"

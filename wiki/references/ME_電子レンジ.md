@@ -4,6 +4,7 @@ id: ME_電子レンジ
 title: 電子レンジ
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

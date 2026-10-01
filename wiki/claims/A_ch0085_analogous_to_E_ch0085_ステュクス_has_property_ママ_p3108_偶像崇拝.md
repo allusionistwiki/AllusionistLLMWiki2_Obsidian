@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0085_analogous_to_E_ch0085_ステュクス_has_property_ママ_p3108_偶像崇拝
+title: 欲望から信仰への偶像変換
 type: analytical_claim
 created: "2026-10-02"
 subject: "[[E_ch0085_ステュクス_has_property_ママ_p3108]]"

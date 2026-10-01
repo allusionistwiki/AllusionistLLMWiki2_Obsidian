@@ -5,6 +5,7 @@ title: 量子もつれへの構造対応
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_アズーリア_other_ハルベルトの共有_p2277]]"

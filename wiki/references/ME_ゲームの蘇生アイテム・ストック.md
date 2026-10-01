@@ -4,6 +4,7 @@ id: ME_ゲームの蘇生アイテム・ストック
 title: 蘇生アイテムの蓄積
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,6 +4,7 @@ id: ME_インド神話の車輪の女神
 title: 車輪の女神
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: mythology

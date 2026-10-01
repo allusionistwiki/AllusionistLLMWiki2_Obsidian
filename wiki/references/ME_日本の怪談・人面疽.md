@@ -4,6 +4,7 @@ id: ME_日本の怪談・人面疽
 title: 日本の怪談・人面疽
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

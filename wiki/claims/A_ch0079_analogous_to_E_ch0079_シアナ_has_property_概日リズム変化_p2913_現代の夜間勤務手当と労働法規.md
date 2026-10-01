@@ -5,6 +5,7 @@ title: 労働環境均一化概念のアナロジー
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_シアナ_has_property_概日リズム変化_p2913]]"

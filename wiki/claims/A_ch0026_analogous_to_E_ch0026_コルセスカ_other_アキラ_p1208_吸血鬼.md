@@ -5,6 +5,7 @@ title: 首筋への牙による吸血
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_コルセスカ_other_アキラ_p1208]]"

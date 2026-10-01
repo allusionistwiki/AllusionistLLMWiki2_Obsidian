@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0085_analogous_to_E_ch0085_黒百合館_has_property_本館_p3142_ダークウェブ
+title: 極限快楽のダークウェブ
 type: analytical_claim
 created: "2026-10-02"
 subject: "[[E_ch0085_黒百合館_has_property_本館_p3142]]"

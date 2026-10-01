@@ -5,6 +5,7 @@ title: 拡張現実的な空間折り畳み武器
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_刺客_uses_空間折り畳み武器_p229]]"

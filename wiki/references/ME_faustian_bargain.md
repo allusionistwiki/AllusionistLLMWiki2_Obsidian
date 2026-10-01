@@ -4,6 +4,7 @@ id: ME_faustian_bargain
 title: ファウスト的取引
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

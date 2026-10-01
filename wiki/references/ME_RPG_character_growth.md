@@ -4,6 +4,7 @@ id: ME_RPG_character_growth
 title: RPGキャラ成長
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

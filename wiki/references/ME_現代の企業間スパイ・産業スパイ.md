@@ -4,6 +4,7 @@ id: ME_現代の企業間スパイ・産業スパイ
 title: 産業スパイ
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,6 +4,7 @@ id: ME_ガチャの天井・優遇措置
 title: ガチャの天井・優遇措置
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -37,5 +37,6 @@ updated: '2026-10-02'
 ## 関係性
 
 - **unknown**: 「ゼドの奴と同盟結べたのもな」
+- **unknown**: 「ゼドの奴と同盟結べたのもな」
 
 <!-- /AUTO-GENERATED:relationship -->

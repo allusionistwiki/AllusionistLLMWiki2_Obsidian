@@ -4,6 +4,7 @@ id: ME_予定調和
 title: 予定調和
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -4,6 +4,7 @@ id: ME_物語のセオリー_逆転劇
 title: 物語のセオリー
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

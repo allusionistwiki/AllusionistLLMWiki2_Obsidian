@@ -4,6 +4,7 @@ id: ME_音声認識AI
 title: 音声認識AI
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

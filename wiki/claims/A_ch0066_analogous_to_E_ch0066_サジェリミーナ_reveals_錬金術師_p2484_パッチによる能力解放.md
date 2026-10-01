@@ -5,6 +5,7 @@ title: 死によるバグ修正と能力解放
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_サジェリミーナ_reveals_錬金術師_p2484]]"

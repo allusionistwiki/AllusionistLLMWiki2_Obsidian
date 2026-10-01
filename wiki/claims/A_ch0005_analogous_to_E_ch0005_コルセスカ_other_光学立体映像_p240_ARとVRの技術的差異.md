@@ -5,6 +5,7 @@ title: ARとVRの技術的差異
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_光学立体映像_p240]]"

@@ -5,6 +5,7 @@ title: 編集による事実改変
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_アキラ_uses_叙述悪戯_p2371]]"

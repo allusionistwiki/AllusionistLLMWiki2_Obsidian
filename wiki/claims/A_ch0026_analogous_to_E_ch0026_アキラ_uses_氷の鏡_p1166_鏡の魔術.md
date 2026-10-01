@@ -5,6 +5,7 @@ title: 鏡の魔術による反射
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_氷の鏡_p1166]]"

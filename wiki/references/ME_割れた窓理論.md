@@ -4,6 +4,7 @@ id: ME_割れた窓理論
 title: 割れた窓理論
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

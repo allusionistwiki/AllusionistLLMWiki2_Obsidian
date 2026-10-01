@@ -4,6 +4,7 @@ id: ME_戦争の倫理規定
 title: 戦争倫理
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: philosophy

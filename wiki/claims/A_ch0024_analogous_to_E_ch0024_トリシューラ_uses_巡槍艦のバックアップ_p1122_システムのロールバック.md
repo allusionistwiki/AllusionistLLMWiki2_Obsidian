@@ -5,6 +5,7 @@ title: システムロールバックへの迷宮解除
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_トリシューラ_uses_巡槍艦のバックアップ_p1122]]"

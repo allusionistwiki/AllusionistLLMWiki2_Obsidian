@@ -5,6 +5,7 @@ title: 表裏の対比による人間の二面性
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591]]"

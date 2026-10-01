@@ -4,6 +4,7 @@ id: ME_double_slit_experiment_quantum_mechanics
 title: 二重スリット実験
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

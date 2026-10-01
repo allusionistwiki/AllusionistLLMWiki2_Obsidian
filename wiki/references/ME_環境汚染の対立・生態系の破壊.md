@@ -4,6 +4,7 @@ id: ME_環境汚染の対立・生態系の破壊
 title: 生態系破壊
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

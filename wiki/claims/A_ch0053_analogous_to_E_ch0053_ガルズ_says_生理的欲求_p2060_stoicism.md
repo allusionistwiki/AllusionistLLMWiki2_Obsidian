@@ -5,6 +5,7 @@ title: ストア哲学の禁欲主義的変奏
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_ガルズ_says_生理的欲求_p2060]]"

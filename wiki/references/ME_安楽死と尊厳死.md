@@ -4,6 +4,7 @@ id: ME_安楽死と尊厳死
 title: 安楽死と尊厳死
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

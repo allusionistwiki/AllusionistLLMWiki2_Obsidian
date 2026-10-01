@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0085_analogous_to_E_ch0085_霊薬_has_property_幻覚_p3105_マタニティ・トラウマ
+title: 母性回帰のマタニティ・トラウマ
 type: analytical_claim
 created: "2026-10-02"
 subject: "[[E_ch0085_霊薬_has_property_幻覚_p3105]]"

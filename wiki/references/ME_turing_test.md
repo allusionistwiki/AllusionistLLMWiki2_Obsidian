@@ -4,6 +4,7 @@ id: ME_turing_test
 title: チューリングテスト
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

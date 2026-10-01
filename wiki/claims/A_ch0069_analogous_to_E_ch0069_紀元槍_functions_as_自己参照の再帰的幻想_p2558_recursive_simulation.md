@@ -5,6 +5,7 @@ title: 再帰的シミュレーションへの転生
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_紀元槍_functions_as_自己参照の再帰的幻想_p2558]]"

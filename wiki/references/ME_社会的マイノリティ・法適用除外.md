@@ -4,6 +4,7 @@ id: ME_社会的マイノリティ・法適用除外
 title: 法適用除外マイノリティ
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

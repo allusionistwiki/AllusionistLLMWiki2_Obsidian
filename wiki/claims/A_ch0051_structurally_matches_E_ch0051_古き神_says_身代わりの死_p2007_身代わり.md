@@ -5,6 +5,7 @@ title: 身代わり死の構造対応
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0051_古き神_says_身代わりの死_p2007]]"

@@ -4,6 +4,7 @@ id: ME_genetic_surveillance
 title: 遺伝子監視
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

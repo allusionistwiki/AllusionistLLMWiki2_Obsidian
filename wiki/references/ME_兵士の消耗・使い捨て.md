@@ -4,6 +4,7 @@ id: ME_兵士の消耗・使い捨て
 title: 兵士の消耗品化
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

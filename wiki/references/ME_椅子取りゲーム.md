@@ -4,6 +4,7 @@ id: ME_椅子取りゲーム
 title: 椅子取りゲーム
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

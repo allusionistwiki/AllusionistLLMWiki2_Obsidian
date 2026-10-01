@@ -4,6 +4,7 @@ id: ME_保険・リスク管理
 title: 保険・リスク管理
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

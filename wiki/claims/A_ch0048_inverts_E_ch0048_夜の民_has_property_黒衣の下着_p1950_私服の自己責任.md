@@ -5,6 +5,7 @@ title: 私服自己責任への呪力の逆転
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0048_夜の民_has_property_黒衣の下着_p1950]]"

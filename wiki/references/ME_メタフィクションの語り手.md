@@ -4,6 +4,7 @@ id: ME_メタフィクションの語り手
 title: メタフィクション語り手
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

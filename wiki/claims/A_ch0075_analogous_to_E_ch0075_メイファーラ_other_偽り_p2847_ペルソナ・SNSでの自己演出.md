@@ -5,6 +5,7 @@ title: 真実隠蔽によるペルソナ維持の負荷
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0075_メイファーラ_other_偽り_p2847]]"

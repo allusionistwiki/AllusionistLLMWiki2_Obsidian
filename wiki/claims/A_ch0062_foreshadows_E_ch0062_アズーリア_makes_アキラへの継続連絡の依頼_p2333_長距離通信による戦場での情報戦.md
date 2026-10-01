@@ -5,6 +5,7 @@ title: 戦場での情報戦への伏線
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_アズーリア_makes_アキラへの継続連絡の依頼_p2333]]"

@@ -5,6 +5,7 @@ title: テセウスの船による転生否定
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0028_上司_says_転生_p1236]]"

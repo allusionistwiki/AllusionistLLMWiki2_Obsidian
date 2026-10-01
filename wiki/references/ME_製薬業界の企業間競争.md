@@ -4,6 +4,7 @@ id: ME_製薬業界の企業間競争
 title: 製薬業界の競争
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

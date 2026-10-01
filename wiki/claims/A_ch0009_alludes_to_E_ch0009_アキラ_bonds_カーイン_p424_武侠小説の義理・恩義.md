@@ -5,6 +5,7 @@ title: 武侠の義理による共闘
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_アキラ_bonds_カーイン_p424]]"

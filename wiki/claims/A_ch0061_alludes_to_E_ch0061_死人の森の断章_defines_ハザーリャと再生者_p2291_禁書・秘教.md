@@ -5,6 +5,7 @@ title: 禁書・秘教への暗喩
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0061_死人の森の断章_defines_ハザーリャと再生者_p2291]]"

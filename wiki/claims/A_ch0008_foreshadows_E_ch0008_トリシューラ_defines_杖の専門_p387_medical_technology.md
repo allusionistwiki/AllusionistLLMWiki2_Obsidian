@@ -5,6 +5,7 @@ title: 生体部品としての義手
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_トリシューラ_defines_杖の専門_p387]]"

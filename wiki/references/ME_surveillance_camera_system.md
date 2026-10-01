@@ -4,6 +4,7 @@ id: ME_surveillance_camera_system
 title: 監視カメラ
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

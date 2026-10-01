@@ -4,6 +4,7 @@ id: ME_遠隔操作／アバター
 title: 遠隔操作アバター
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

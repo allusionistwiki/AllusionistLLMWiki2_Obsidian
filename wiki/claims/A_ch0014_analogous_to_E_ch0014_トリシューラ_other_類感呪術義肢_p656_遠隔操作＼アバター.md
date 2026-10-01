@@ -5,6 +5,7 @@ title: 遠隔操作アバター
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0014_トリシューラ_other_類感呪術義肢_p656]]"

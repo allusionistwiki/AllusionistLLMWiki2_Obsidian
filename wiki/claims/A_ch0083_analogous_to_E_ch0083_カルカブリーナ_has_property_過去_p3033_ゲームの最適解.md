@@ -5,6 +5,7 @@ title: 感情排除のゲーム的最適解
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_カルカブリーナ_has_property_過去_p3033]]"

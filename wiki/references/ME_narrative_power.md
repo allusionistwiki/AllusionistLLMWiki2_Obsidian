@@ -4,6 +4,7 @@ id: ME_narrative_power
 title: 物語の力
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

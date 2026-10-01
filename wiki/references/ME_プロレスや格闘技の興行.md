@@ -4,6 +4,7 @@ id: ME_プロレスや格闘技の興行
 title: プロレス興行
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

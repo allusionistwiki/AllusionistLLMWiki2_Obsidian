@@ -4,6 +4,7 @@ id: ME_自己責任論と過剰適応
 title: 自己責任と過剰適応
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

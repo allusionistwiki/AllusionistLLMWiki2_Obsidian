@@ -5,6 +5,7 @@ title: ヒンドゥー神話の権能模倣
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0011_トリシューラ_names_鮮血のトリシューラ_p487]]"

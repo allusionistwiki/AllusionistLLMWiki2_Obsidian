@@ -4,6 +4,7 @@ id: ME_認知バイアス・自己成就予言
 title: 認知バイアスと自己成就予言
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: psychology

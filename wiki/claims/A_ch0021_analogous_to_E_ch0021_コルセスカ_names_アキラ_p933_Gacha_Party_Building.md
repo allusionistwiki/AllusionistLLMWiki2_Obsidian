@@ -5,6 +5,7 @@ title: ガチャパーティ編成への仲間加入
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_コルセスカ_names_アキラ_p933]]"

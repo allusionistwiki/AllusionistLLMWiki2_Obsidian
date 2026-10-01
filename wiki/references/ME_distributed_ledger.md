@@ -4,6 +4,7 @@ id: ME_distributed_ledger
 title: 分散型台帳
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

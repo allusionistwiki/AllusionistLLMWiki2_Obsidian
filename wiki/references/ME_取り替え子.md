@@ -4,6 +4,7 @@ id: ME_取り替え子
 title: 取り替え子
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

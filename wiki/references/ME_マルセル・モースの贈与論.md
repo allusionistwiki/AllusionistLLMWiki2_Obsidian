@@ -4,6 +4,7 @@ id: ME_マルセル・モースの贈与論
 title: モースの贈与論
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

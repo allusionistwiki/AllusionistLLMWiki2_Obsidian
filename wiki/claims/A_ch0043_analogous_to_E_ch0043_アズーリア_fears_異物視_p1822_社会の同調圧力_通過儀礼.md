@@ -5,6 +5,7 @@ title: 同調圧力と通過儀礼
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_アズーリア_fears_異物視_p1822]]"

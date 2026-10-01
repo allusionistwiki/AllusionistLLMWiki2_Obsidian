@@ -4,6 +4,7 @@ id: ME_自己言及的なAI／LLMの構造
 title: 自己言及型AI
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

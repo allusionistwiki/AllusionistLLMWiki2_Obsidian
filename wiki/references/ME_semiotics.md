@@ -4,6 +4,7 @@ id: ME_semiotics
 title: 記号論
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

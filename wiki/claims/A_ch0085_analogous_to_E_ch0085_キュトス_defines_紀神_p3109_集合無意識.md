@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0085_analogous_to_E_ch0085_キュトス_defines_紀神_p3109_集合無意識
+title: 集合無意識への収斂進化
 type: analytical_claim
 created: "2026-10-02"
 subject: "[[E_ch0085_キュトス_defines_紀神_p3109]]"

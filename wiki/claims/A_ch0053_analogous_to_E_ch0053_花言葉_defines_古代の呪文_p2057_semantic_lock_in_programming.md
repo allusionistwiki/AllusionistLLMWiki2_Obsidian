@@ -5,6 +5,7 @@ title: 意味の固定のメタファー
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_花言葉_defines_古代の呪文_p2057]]"

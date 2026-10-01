@@ -4,6 +4,7 @@ id: ME_self_help_seminars
 title: 自己啓発セミナー
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

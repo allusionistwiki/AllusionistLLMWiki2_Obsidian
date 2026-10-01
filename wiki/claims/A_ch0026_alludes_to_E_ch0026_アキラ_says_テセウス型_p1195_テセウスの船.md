@@ -5,6 +5,7 @@ title: テセウスの船
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_says_テセウス型_p1195]]"

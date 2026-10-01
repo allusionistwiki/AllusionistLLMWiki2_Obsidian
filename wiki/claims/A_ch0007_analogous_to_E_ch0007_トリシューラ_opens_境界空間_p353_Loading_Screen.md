@@ -5,6 +5,7 @@ title: ロード画面の空間的表現
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_トリシューラ_opens_境界空間_p353]]"

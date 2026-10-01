@@ -4,6 +4,7 @@ id: ME_ダモクレスの剣
 title: ダモクレスの剣
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

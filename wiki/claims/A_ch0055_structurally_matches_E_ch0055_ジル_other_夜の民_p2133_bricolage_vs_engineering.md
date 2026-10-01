@@ -5,6 +5,7 @@ title: ブリコラージュとエンジニアリングの対比
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0055_ジル_other_夜の民_p2133]]"

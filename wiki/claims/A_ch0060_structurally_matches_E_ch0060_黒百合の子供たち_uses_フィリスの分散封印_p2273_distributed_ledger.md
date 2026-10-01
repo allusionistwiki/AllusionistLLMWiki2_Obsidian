@@ -5,6 +5,7 @@ title: 分散型台帳への構造対応
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_黒百合の子供たち_uses_フィリスの分散封印_p2273]]"

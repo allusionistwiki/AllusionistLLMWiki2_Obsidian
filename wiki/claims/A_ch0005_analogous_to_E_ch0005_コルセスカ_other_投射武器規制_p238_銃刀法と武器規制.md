@@ -5,6 +5,7 @@ title: 銃刀法による武器規制
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_投射武器規制_p238]]"

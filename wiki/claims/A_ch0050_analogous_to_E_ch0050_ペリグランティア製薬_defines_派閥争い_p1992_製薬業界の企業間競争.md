@@ -5,6 +5,7 @@ title: 製薬業界の競争と企業秘密
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_ペリグランティア製薬_defines_派閥争い_p1992]]"

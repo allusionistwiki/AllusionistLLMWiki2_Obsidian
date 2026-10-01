@@ -4,6 +4,7 @@ id: ME_コンテンツ課金
 title: コンテンツ課金
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

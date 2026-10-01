@@ -5,6 +5,7 @@ title: 避雷針としての金鎖雷撃回避
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_other_金鎖_p2420]]"

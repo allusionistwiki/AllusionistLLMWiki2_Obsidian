@@ -4,6 +4,7 @@ id: ME_契約社会と労働契約
 title: 契約社会と労働契約
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

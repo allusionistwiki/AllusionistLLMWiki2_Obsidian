@@ -5,6 +5,7 @@ title: インタラクティブフィクションの構造
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_アキラ_other_物語素体_p2381]]"

@@ -5,6 +5,7 @@ title: アカシックレコードへの記述実体化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_コルセスカ_defines_存在形態_p923]]"

@@ -5,6 +5,7 @@ title: 戦没者名簿の逆転
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_エスフェイル_names_同胞_p2551]]"

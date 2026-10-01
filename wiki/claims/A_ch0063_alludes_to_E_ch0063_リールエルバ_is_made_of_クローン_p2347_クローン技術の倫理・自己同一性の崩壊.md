@@ -5,6 +5,7 @@ title: クローン・自己同一性への暗喩
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_リールエルバ_is_made_of_クローン_p2347]]"

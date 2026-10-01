@@ -4,6 +4,7 @@ id: ME_Mobile_Game_App
 title: スマホゲームアプリ
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

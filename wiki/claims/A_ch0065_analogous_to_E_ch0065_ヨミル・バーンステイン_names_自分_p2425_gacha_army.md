@@ -5,6 +5,7 @@ title: ガチャ軍団の大量投入戦略の脆さ
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ヨミル・バーンステイン_names_自分_p2425]]"

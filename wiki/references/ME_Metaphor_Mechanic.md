@@ -4,6 +4,7 @@ id: ME_Metaphor_Mechanic
 title: 比喩による現実改変
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

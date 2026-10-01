@@ -4,6 +4,7 @@ id: ME_distraction_tactic
 title: 囮戦術
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

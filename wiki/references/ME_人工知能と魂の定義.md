@@ -4,6 +4,7 @@ id: ME_人工知能と魂の定義
 title: AIと魂の定義
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

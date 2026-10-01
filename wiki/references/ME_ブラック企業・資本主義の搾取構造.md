@@ -4,6 +4,7 @@ id: ME_ブラック企業・資本主義の搾取構造
 title: ブラック企業
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

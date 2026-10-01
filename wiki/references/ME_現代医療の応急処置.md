@@ -4,6 +4,7 @@ id: ME_現代医療の応急処置
 title: 現代医療的応急処置
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

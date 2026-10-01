@@ -5,6 +5,7 @@ title: 使役型寄生異獣によるメガコーポ軍事開発
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_人造ホラー_appears_地下_p3025]]"

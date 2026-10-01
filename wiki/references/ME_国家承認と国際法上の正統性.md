@@ -4,6 +4,7 @@ id: ME_国家承認と国際法上の正統性
 title: 国家承認と国際法上の正統性
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

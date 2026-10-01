@@ -5,6 +5,7 @@ title: レアドロップによるゲーム的支配
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0011_トリシューラ_takes_王獣カッサリオの角_p503]]"

@@ -4,6 +4,7 @@ id: ME_self_reference_engine
 title: 自己参照エンジン
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0085_analogous_to_E_ch0085_ゼド_says_スモーレスラー_p3101_ワンマン・アーミー
+title: 超人兵士ワンマン・アーミー
 type: analytical_claim
 created: "2026-10-02"
 subject: "[[E_ch0085_ゼド_says_スモーレスラー_p3101]]"

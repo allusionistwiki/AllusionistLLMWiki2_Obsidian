@@ -5,6 +5,7 @@ title: 蘇生アイテムの蓄積
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_コルセスカ_appears_復活_p406]]"

@@ -5,6 +5,7 @@ title: サイボーグの自己同一性拡張
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_アキラ_other_自己の拡張_p280]]"

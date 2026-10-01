@@ -5,6 +5,7 @@ title: 脳-コンピュータインターフェース
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0014_ちびシューラ_other_幻肢接続の原理_p634]]"

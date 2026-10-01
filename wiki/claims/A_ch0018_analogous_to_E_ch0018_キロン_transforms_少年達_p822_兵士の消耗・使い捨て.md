@@ -5,6 +5,7 @@ title: 兵士の消耗品化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_キロン_transforms_少年達_p822]]"

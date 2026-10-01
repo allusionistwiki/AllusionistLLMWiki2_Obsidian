@@ -5,6 +5,7 @@ title: メンデルの遺伝学
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0032_ベアトリーチェ_says_遺伝学_p1308]]"

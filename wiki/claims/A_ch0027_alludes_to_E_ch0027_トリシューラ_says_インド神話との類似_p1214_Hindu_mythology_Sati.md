@@ -5,6 +5,7 @@ title: サティ神話の神話構造原型
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0027_トリシューラ_says_インド神話との類似_p1214]]"

@@ -5,6 +5,7 @@ title: 宗教権威装いの軍産複合体
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_松明の騎士団_defines_霊性複合体_p1270]]"

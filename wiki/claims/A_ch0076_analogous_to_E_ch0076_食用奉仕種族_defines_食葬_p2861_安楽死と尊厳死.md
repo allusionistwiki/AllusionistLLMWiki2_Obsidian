@@ -5,6 +5,7 @@ title: 安楽死と尊厳死
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0076_食用奉仕種族_defines_食葬_p2861]]"

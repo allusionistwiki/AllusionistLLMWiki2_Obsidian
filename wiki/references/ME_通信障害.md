@@ -4,6 +4,7 @@ id: ME_通信障害
 title: 通信障害
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

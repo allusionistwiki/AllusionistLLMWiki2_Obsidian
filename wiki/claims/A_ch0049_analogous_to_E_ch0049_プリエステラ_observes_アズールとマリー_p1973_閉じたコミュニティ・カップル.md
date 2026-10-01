@@ -5,6 +5,7 @@ title: 閉じたコミュニティへの介入と倫理
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0049_プリエステラ_observes_アズールとマリー_p1973]]"

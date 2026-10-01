@@ -4,6 +4,7 @@ id: ME_social_psychology_in_group
 title: 集団内社会心理学
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

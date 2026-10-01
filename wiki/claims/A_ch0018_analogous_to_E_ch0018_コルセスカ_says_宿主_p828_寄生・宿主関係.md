@@ -5,6 +5,7 @@ title: 寄生と宿主
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_コルセスカ_says_宿主_p828]]"

@@ -5,6 +5,7 @@ title: セキュリティ対策のメタファー
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_セリアック＝ニア_says_幻惑ウィルス_p2384]]"

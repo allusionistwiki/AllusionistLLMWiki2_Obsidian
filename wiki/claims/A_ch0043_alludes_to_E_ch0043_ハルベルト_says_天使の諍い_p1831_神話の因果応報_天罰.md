@@ -5,6 +5,7 @@ title: 因果応報・天罰の政治転用
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ハルベルト_says_天使の諍い_p1831]]"

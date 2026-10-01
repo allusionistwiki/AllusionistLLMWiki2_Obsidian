@@ -4,6 +4,7 @@ id: ME_gacha_cost
 title: ガチャの代償
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

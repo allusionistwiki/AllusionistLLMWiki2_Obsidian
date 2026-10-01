@@ -5,6 +5,7 @@ title: 母語獲得の構造対応
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0019_アキラ_learns_世界の言語_p860]]"

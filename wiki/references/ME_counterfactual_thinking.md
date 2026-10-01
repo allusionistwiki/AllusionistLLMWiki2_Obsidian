@@ -4,6 +4,7 @@ id: ME_counterfactual_thinking
 title: 反事実的思考
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture
