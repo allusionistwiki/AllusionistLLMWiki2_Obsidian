@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_加工食品の栄養補助
 title: 加工食品の栄養補助
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

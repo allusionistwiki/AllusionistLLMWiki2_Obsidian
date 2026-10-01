@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0029_analogous_to_E_ch0029_アキラ_makes_談話室_p1246_仮想空間_SNS
 title: アストラル体による仮想サロン
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_アキラ_makes_談話室_p1246]]"

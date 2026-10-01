@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0056_analogous_to_E_ch0056_ドラトリア_other_言語の混乱_p2163_言語血統制と民族アイデンティティ
 title: 言語血統制と民族アイデンティティ
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_ドラトリア_other_言語の混乱_p2163]]"

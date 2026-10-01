@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_ディルガッハ＝リク＝ンマウグ
+type: entity
+subtype: character
+canonical_name: ディルガッハ＝リク＝ンマウグ
+aliases: []
+first_appearance: ch0067
+spoiler_after: ch0067
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# ディルガッハ＝リク＝ンマウグ
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 序列三十三位のディルガッハ＝リク＝ンマウグは南東海諸島出身の【ウィータスティカの鰓耳の民】である。魚の鰓を思わせる耳をした彼らはエルネトモランでは少数派であり、修道騎士たちの中では更にその数を減ずる。
+
+<!-- /AUTO-GENERATED:name -->

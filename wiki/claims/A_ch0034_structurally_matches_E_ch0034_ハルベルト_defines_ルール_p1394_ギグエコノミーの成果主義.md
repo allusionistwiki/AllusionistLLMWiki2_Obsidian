@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0034_structurally_matches_E_ch0034_ハルベルト_defines_ルール_p1394_ギグエコノミーの成果主義
 title: ギグエコノミー的成果主義
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0034_ハルベルト_defines_ルール_p1394]]"

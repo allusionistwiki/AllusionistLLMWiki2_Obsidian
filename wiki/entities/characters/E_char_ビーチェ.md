@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ビーチェ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0043
 spoiler_after: ch0043
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ビーチェ
@@ -38,3 +39,17 @@ created: "2026-09-30"
 - [[E_char_アズーリア|アズーリア]] — 発言(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: どうやらビーチェの影があまりにも居心地がいいものだから、自然に入り込んでしまうようなのだ。　――もしかしたら、まだ妹の影の中には私の一部が入り込んでいるかもしれない。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ビーチェが追い払ってくれたけれど、私だけじゃなくて村のみんなやビーチェまで馬鹿にされたのが悲しくて泣いてしまった。
+
+<!-- /AUTO-GENERATED:action -->

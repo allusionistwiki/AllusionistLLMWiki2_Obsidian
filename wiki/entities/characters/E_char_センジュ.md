@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_センジュ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0074
 spoiler_after: ch0074
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # センジュ
@@ -28,3 +29,17 @@ created: "2026-09-30"
 - [[A_ch0074_analogous_to_E_ch0074_センジュ_says_サイバーカラテ批判_p2804_metaheuristics|武術哲学を欠くメタヒューリスティクス]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 硬い音。　鞘が、地上に落下したのだ。　そして、左右二つに分かれた胴体も。　ただの一撃で、魔将クエスドレムは両断されていた。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「最適解？　そんなもんは存在しない。ごちゃごちゃと技だの手数だのばっか増やすのは阿呆のやることだ。サイバーカラテなんてのは武術とは呼べない。誰が広めやがったのか知らないですがね、そいつを見つけたらぶった斬ってやりますよ」
+
+<!-- /AUTO-GENERATED:speech -->

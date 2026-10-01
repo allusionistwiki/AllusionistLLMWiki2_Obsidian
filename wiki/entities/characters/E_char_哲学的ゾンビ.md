@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_哲学的ゾンビ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0035
 spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 哲学的ゾンビ
@@ -32,3 +33,10 @@ created: "2026-09-30"
 - [[A_ch0069_analogous_to_E_ch0069_マリー_has_property_哲学的ゾンビ_p2560_philosophical_zombie|哲学的ゾンビによる心身分離]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 霊体が朽ち果て、今にも霧散しそうなほどに危うい。　そのくせ生存のための欲求――飢餓感だけは残っていて、生きている者を生前の理に従って襲い、喰らおうとしてくる。　彼らは魂無き抜け殻だ。
+
+<!-- /AUTO-GENERATED:visual -->

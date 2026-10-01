@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_地上文明への依存_p1961_植民地支配と技術移転
 title: 植民地支配下の技術依存の逆説
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0049_プリエステラ_observes_地上文明への依存_p1961]]"

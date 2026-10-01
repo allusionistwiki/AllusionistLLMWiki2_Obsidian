@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0043_parodies_E_ch0043_トントロポロロンズ_says_食べて_p1820_食品の擬人化_パッケージ
 title: 食品の擬人化マーケティング
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_トントロポロロンズ_says_食べて_p1820]]"

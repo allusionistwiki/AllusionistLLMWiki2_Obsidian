@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ダーシェンカ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0041
 spoiler_after: ch0041
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ダーシェンカ
@@ -27,3 +28,23 @@ created: "2026-09-30"
 > 長老様の所に滞在していたダーシェンカという女性に手紙を手渡すと、彼女はあらと口に手を当てて、それから私の頭を撫でてこう言った。（ch0055）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 長老様の所に滞在していたダーシェンカという女性に手紙を手渡すと、彼女はあらと口に手を当てて、それから私の頭を撫でてこう言った。
+- **unknown**: それから、ダーシェンカが『えこひいきに見られちゃうから』と言って私のそばを離れていった。
+- **unknown**: 見出したのは星見の塔の第二位ダーシェンカお姉様。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: ――貴方の名前は今日からマリー・スー。
+- **unknown**: 霊長類の女の子。 魔女の影、その卵なのだと彼女は教えてくれた。
+- **unknown**: 『創造とは、人格とは、智慧とは、そして知能とは、果たしてどのようなものでしょうか』
+- **unknown**: 『知恵競べ、してみませんか？』
+- **unknown**: 『それを確かめるのに、うってつけの場がありますよ』 うってつけ？『貴方が失った何かを取り戻す為に』
+
+<!-- /AUTO-GENERATED:speech -->

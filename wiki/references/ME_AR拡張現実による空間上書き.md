@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_AR拡張現実による空間上書き
 title: ARによる上書き
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

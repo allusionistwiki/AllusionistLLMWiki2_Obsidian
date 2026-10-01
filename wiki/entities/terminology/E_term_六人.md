@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_六人
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0046
 spoiler_after: ch0046
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 六人
@@ -30,3 +31,13 @@ created: "2026-09-30"
 - [[A_ch0046_structurally_matches_E_ch0046_六人_other_黒百合_p1901_rpg_party_structure|RPGパーティ構成の模倣]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: これにミルーニャが何故か猛反発して、面白がったメイファーラがじゃあみんなで一緒にお泊まり会しようと提案し、ハルベルトが如才なく宿舎の空き部屋を確保してその場にいる六人でしばらく行動を共にすることが決まった。
+- **unknown**: 結論として、どちらも守りきる為には六人全員が一緒に行動してティリビナの民を護送するということになる。
+- **unknown**: ハルベルトの提案は、とても静かに、そしてごく自然に了解された。 誰もそれに違和感を覚えず、異論を差し挟むことすら思いつかないようだった。
+- **unknown**: 私たちは探索者協会で素材の換金を終え、手に入れたお金で盛大な夕食を楽しむことになった。それは壮行会であり結成式であり気の早い祝勝会でもあった。
+
+<!-- /AUTO-GENERATED:action -->

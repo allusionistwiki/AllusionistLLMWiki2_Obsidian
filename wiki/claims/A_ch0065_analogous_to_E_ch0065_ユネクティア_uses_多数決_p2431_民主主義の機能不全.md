@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_ユネクティア_uses_多数決_p2431_民主主義の機能不全
 title: 多数決を装う独裁の風刺
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ユネクティア_other_多数決_p2431]]"

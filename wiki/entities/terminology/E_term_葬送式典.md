@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_葬送式典
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0057
 spoiler_after: ch0057
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 葬送式典
@@ -29,3 +30,17 @@ created: "2026-09-30"
 - [[A_ch0063_analogous_to_E_ch0063_葬送式典_functions_as_娯楽_p2356_テレビ中継の広告挿入|テレビ中継・広告挿入への転生]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 葬送式典の会場は、その中心で威容を誇っている。 擂り鉢状の客席は二十万人を収容可能だ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 地上全土に配信されるこの葬送式典は、厳粛な儀式であると同時に娯楽でもあるから、多くの人が注目するのだ。
+
+<!-- /AUTO-GENERATED:speech -->

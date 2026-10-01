@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_item_骨花
+type: entity
+subtype: item
+canonical_name: 骨花
+aliases: []
+first_appearance: ch0038
+spoiler_after: ch0038
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 骨花
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: かつて私を二度襲った、正体不明の骨花。花弁の中央で金眼が輝き、不気味な圧力をこちらに放射している。 窮地に現れたのは更なる脅威だった。あの使い魔は、明確に私に対して敵意を向けている。 邪視が発動し、私の全身に凄まじい呪力が叩きつけられる。
+
+<!-- /AUTO-GENERATED:action -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0035_analogous_to_E_ch0035_ミルーニャ_uses_杖_p1462_靴型杖
 title: 靴型杖の身体拡張メタファー
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_ミルーニャ_uses_杖_p1462]]"

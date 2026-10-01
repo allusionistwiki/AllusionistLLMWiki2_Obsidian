@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_神官
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0043
 spoiler_after: ch0043
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 神官
@@ -29,3 +30,17 @@ created: "2026-09-30"
 - [[A_ch0043_structurally_matches_E_ch0043_神官_uses_フォーク_p1822_ゲームの戦闘システム_即死演出|即死演出と吸収強化]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 神官たちは羊の少女たちをフォークで串刺しにして思い思いに口に運んでいる。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ソルダ団長にはしばらく防衛に専念していただいて、第六階層の攻略は若き英雄どのに任せたらいかがかな」
+
+<!-- /AUTO-GENERATED:speech -->

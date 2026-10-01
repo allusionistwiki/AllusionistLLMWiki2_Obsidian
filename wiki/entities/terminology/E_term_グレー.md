@@ -1,0 +1,38 @@
+---
+schema_version: '5.1'
+id: E_term_グレー
+type: entity
+subtype: terminology
+canonical_name: グレー
+aliases: []
+first_appearance: ch0055
+spoiler_after: ch0055
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# グレー
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 頭の横で長い髪を束ねたグレーはとっても近寄り難い雰囲気で、周りと壁を作っているみたいだった。でも勇気を出してお手紙を出してみたら意外と気さくで親しみやすい子。すぐに私たちは友達になった。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: どうしてか両手に手袋をしているのが不思議だった。私が着ている黒衣みたいに『風』や『波』を遮る素材でできているみたいで、もしかしたら私の仲間なのかなと思ったけど違うみたい。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『パープル――紫のティエポロスはね、なんだか不思議な子だよ。あたしはそれなりに話すんだけど、ぽわぽわしてるっていうか、ぽやんってしてるっていうか』
+- **unknown**: 『それで、ティエポロスが未来予知できるのは本当だよ。よくホルケナウから星見の塔に行って、ビークレットお姉様のところで時間操作呪術を教わってるって』
+
+<!-- /AUTO-GENERATED:speech -->

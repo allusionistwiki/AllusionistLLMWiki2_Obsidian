@@ -1,0 +1,32 @@
+---
+schema_version: '5.1'
+id: E_char_箒
+type: entity
+subtype: character
+canonical_name: 箒
+aliases: []
+first_appearance: ch0057
+spoiler_after: ch0057
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 箒
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「私！ 私は知らなかった！ 先輩に誘われて来たけどこれっぽっちも事情とか知らずにテキトーに参加してたよ、なんか楽しくお喋りする所なのかなって！」
+- **unknown**: 一つは、サリアに加勢してマロゾロンドを撃退すること。 この案はリーナから出されたが、余りにも無謀だった。
+- **unknown**: リーナは霊媒というわけではないが、序列第一位の空の民として、守護天使の力を引き出してアズーリアを救ってみせると豪語した。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: リーナの心は、傍目から見てわかるほどに沈んでいた。 表面上は常のように騒がしく振る舞っているが、ふとした拍子に沈み込む。
+
+<!-- /AUTO-GENERATED:visual -->

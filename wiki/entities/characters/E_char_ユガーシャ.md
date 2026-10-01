@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ユガーシャ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0074
 spoiler_after: ch0074
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ユガーシャ
@@ -28,3 +29,17 @@ created: "2026-09-30"
 - [[A_ch0074_inverts_E_ch0074_ユガーシャ_uses_竪琴_p2796_narrative_control|感情を制御する逆転の物語操作]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『彼』は竪琴を奏でながら、戦いの光景を見て満足げに頷く。　勇壮なる戦士たちの奮闘。　挑むは強大な敵。　あとは手に汗握る窮地が欲しい。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「武術ではなくとも――呪術ではあるのかもしれません」
+
+<!-- /AUTO-GENERATED:speech -->

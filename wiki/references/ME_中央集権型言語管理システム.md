@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_中央集権型言語管理システム
 title: 言語管理システム
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_勝利者
+type: entity
+subtype: terminology
+canonical_name: 勝利者
+aliases: []
+first_appearance: ch0040
+spoiler_after: ch0040
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 勝利者
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 勝利した者は第十九番目の色彩『万色』の称号を獲得し、第二位ダーシェンカの教えを受けることができる。偉大なる次女の支援を受けることが出来れば、末妹の未来は確実に近付く。
+
+<!-- /AUTO-GENERATED:speech -->

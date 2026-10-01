@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0040_parodies_E_ch0040_杖使い_thinks_車輪の再発明_p1750_Reinventing_The_Wheel
 title: 車輪の再発明の風刺
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0040_杖使い_thinks_車輪の再発明_p1750]]"

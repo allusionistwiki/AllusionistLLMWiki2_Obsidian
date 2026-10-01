@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0004_sublates_E_ch0004_コルセスカ_kills_刺客_p232_magic_vs_science
 title: 科学超越の魔術的論理破綻
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_コルセスカ_kills_刺客_p232]]"

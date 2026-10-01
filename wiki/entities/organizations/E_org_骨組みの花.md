@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_骨組みの花
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0052
 spoiler_after: ch0052
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 骨組みの花
@@ -29,3 +30,18 @@ created: "2026-09-30"
 - [[A_ch0053_analogous_to_E_ch0053_骨組みの花_other_無謀な任務_p2066_sunk_cost_fallacy|サンクコストの誤謬の構造]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「【骨組みの花】再結成だ――マリー、いくよ」「わーい皆さんお久しぶりですー」ガルズとマリーを含めて九人――死人使いと死人で構成された、それは探索者の集団だった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 【骨組みの花】――ガルズが率いていた探索者集団。 第六階層で大魔将イェレイドに挑み、ガルズを残して全滅したと言われている。
+- **unknown**: 「そこで白羽の矢が立ったのが僕たち【骨組みの花】というわけだ。クロウサー家四大血族が一つ、マウザの長子が率いる四英雄に準ずる探索者集団。なるほど、順当ではあるだろうね。だが余りに無謀だ」
+
+<!-- /AUTO-GENERATED:action -->

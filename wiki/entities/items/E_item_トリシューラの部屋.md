@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_item_トリシューラの部屋
+type: entity
+subtype: item
+canonical_name: トリシューラの部屋
+aliases: []
+first_appearance: ch0012
+spoiler_after: ch0012
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# トリシューラの部屋
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 円筒形の水槽と、その中に浮かぶ様々な人体の部位。ホルマリン漬けなのかとも思ったが、それにしては水槽内の色が不自然なまでに赤い。 赤い液体の中に浮かぶ部位のバリエーションは腕、眼球、脚といった人体の各部のみならず、各種臓器や脳まで網羅している。
+
+<!-- /AUTO-GENERATED:visual -->

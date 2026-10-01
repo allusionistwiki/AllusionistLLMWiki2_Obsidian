@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ラーゼフ・ピュクシス
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0031
 spoiler_after: ch0031
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ラーゼフ・ピュクシス
@@ -31,3 +32,11 @@ created: "2026-09-30"
 - [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_reveals_接触者5人_p1289_オンラインゲームのチャット機能およびアバター文化|オンライン文化]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『あなたもジルも、そしてみんなも。もうフィリスに負けるほど弱くない。呪文の力を掌握して、自在に操る一人前の魔女なんだから。力を合わせればフィリスに負ける事なんてない。もちろん、マロゾロンドにだって』
+- **unknown**: 『このままフィリスを使い続ければ、浸食されるのは君だけに留まらないだろう』
+
+<!-- /AUTO-GENERATED:speech -->

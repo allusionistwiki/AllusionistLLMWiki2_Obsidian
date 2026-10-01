@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_産業革命後の労働の分業
 title: 産業革命後の分業
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_item_掲示板
+type: entity
+subtype: item
+canonical_name: 掲示板
+aliases: []
+first_appearance: ch0033
+spoiler_after: ch0033
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 掲示板
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ぶつり、と掲示板から全ての映像が消失する。依頼を探そうとしていた探索者達が騒然となるが、協会の事務員が説明するところによればシステムの予期せぬ不具合らしく、復旧に時間がかかるとのこと。
+
+<!-- /AUTO-GENERATED:action -->

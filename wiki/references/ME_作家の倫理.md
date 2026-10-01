@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_作家の倫理
 title: 作家の倫理
+
 type: external_reference
 created: "2026-10-01"
 subtype: philosophy

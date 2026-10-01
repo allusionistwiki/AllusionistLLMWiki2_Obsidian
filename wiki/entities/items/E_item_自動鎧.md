@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_item_自動鎧
+type: entity
+subtype: item
+canonical_name: 自動鎧
+aliases: []
+first_appearance: ch0033
+spoiler_after: ch0033
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 自動鎧
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 　がしりと青年の腕が両側から掴まれる。いつのまにか彼の左右に立っていたのは、銀色の光沢も眩しい全身鎧の姿。その胸には松明の紋章が刻まれている。　何もかも遅きに失したのだ。こうなってはもう手遅れ。私に出来ることは何も無い。「よ、よせ、離してくれ！　大神院は私から言論の自由を奪おうと言うのか！」　青年の叫びを意にも介さず、鎧は無機質に駆動し、その決して軽くはない成人男性の身体を引きずっていく。
+
+<!-- /AUTO-GENERATED:action -->

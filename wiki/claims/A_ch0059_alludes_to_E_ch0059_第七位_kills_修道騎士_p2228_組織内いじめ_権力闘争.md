@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0059_alludes_to_E_ch0059_第七位_kills_修道騎士_p2228_組織内いじめ_権力闘争
 title: 組織内権力闘争による人材浪費
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0059_第七位_kills_修道騎士_p2228]]"

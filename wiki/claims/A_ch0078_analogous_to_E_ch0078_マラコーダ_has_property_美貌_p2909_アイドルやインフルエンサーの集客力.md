@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0078_analogous_to_E_ch0078_マラコーダ_has_property_美貌_p2909_アイドルやインフルエンサーの集客力
 title: インフルエンサー集客構造の反映
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0078_マラコーダ_has_property_美貌_p2909]]"

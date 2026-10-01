@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_アキラ_uses_機巧曼荼羅_p1182_密教の曼荼羅
 title: 機巧曼荼羅の展開
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_機巧曼荼羅_p1182]]"

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_says_眷族神_p1293_官僚主義における名称変更と権威の空洞化
 title: 官僚主義と権威の空洞化
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0031_ラーゼフ・ピュクシス_says_眷族神_p1293]]"

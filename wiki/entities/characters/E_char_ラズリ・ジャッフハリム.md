@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ラズリ・ジャッフハリム
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0027
 spoiler_after: ch0027
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ラズリ・ジャッフハリム
@@ -31,3 +32,26 @@ created: "2026-09-30"
 - [[A_ch0027_structurally_matches_E_ch0027_店員さん_names_ラズリ・ジャッフハリム_p1222_Lazuli|店員名によるラピスラズリ暗示]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 金色の目を少しだけ見張っている彼女の名前は、ラズリ・ジャッフハリム。少し前に知り合いになった、地獄の中心であるジャッフハリム出身の少女。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: とにこやかに接客しているのはなんかどこに行ってもバイトしてるお馴染みの店員さん、ラズリ・ジャッフハリムである。本業は探索者とか請負人のはずだが、なんかフリーターが主になってないか。
+- **unknown**: 唖然としている内に全て平らげてしまう。早い。そしてかつて無いほどに上機嫌だ。
+- **unknown**: 「先程、少し霊的侵入への防御に難儀なさっているように見えました。余計なお節介とは承知の上ですが、なんだか心配です。レゴンを一体お貸ししておきますね」
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「――し、失礼しました。姉を待たせているので、わたくしはこれで」
+
+<!-- /AUTO-GENERATED:speech -->

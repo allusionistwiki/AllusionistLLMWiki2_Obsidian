@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_謎の声
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0006
 spoiler_after: ch0006
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 謎の声
@@ -31,3 +32,14 @@ created: "2026-09-30"
 - [[A_ch0006_foreshadows_E_ch0006_謎の声_says_頭を良くする_p310_cognitive_modification|認知改変の伏線]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「たとえ己自身の意思を打ち棄ててでもその意志を押し通したいのであれば。それほどまでに力を欲するのであれば。強く心に願いなさい。その乾き、その餓え、余さずわたくしが充たしましょう」
+- **unknown**: 『それが、あなたの渇望？』
+- **unknown**: 『じゃあ、その記憶は呪縛なんだね』
+- **unknown**: 『だから貴方は転生したんだ。いいえ、転生せざるを得なかった』 他の道は選べなかった。
+- **unknown**: 『アキラくん、私が、頭を良くしてあげるよ――』
+
+<!-- /AUTO-GENERATED:speech -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0028_analogous_to_E_ch0028_アキラ_kills_抹消決定_p1239_行政による強制抹消
 title: 官僚制による存在抹消の比喩
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0028_アキラ_kills_抹消決定_p1239]]"

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_ナト
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0035
 spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ナト
@@ -28,3 +29,19 @@ created: "2026-09-30"
 - [[A_ch0072_analogous_to_E_ch0072_ナト_gives_神働装甲二型_p2674_開発現場の無茶な仕様変更|開発現場の無茶な仕様変更]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「ラーゼフさんからの伝言だ！　『完成直後に無茶な注文をするなこの大馬鹿者』だってさ！　あと『もう壊すなよ』とも言ってた」「ありがとう、でも多分壊れると思う！」投下されたのは試作型神働装甲二型――夜の民用に開発された甲冑。
+- **unknown**: 「させるかっ」　声と共に大きな岩陰に隠れていた人影が飛び出して、その背中から二つの水滴状の弾体が鋭く射出される。
+- **unknown**: ナトの呼び声に呼応して、捕縛されていた鴉から膨大な呪力が放出される。拘束呪術が弾けて消滅し、使い魔が主の意思に従ってその真の力を発揮しようとする。広がった羽に絡みついた金色の鎖、その一部がぴしりとひび割れ、音を立てて砕け散った。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ペイルたちなら別行動だよ――君らの妨害なら俺一人で十分だからね」
+
+<!-- /AUTO-GENERATED:speech -->

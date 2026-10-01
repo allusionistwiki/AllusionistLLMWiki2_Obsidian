@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_使い魔
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0035
 spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 使い魔
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 「冬の魔女の氷血呪でも使わなければこの子の動きを完全に止めることはできないよ。というか、氷血呪の使用を促すための使い魔なんだけどね？」（ch0068）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 使い魔に命じてお菓子を出現させる。皆に振る舞うと大層好評だった。これしか能が無い使い魔だけれど、この点においてはこの上なく有能である。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「冬の魔女の氷血呪でも使わなければこの子の動きを完全に止めることはできないよ。というか、氷血呪の使用を促すための使い魔なんだけどね？」
+
+<!-- /AUTO-GENERATED:speech -->

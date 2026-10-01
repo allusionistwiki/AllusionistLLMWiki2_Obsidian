@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ラクルラール派
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0050
 spoiler_after: ch0050
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ラクルラール派
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > ミルーニャの属する派閥と共闘することになった今、黒百合の子供たちは事実上一枚岩となってラクルラール派に対抗することになる。（ch0061）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: ラクルラール派は使い魔の座トライデントを筆頭に、杖の座であるトリシューラまでも擁する最大勢力である。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ラクルラール派――当代最高の人形師、杖と使い魔の到達者が統べる派閥。使い魔の座トライデントを擁する最大勢力である。
+
+<!-- /AUTO-GENERATED:name -->

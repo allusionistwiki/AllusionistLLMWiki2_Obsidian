@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0020_foreshadows_E_ch0020_コルセスカ_other_転生の種類_p920_reincarnation_taxonomy
 title: 転生分類学の伏線
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_コルセスカ_other_転生の種類_p920]]"

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0076_parodies_E_ch0076_ヴァージリア_names_アクス_p2867_アイドル産業とコンテンツ化
 title: アイドル産業のコンテンツ化
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0076_ヴァージリア_names_アクス_p2867]]"

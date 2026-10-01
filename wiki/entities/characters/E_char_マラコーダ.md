@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_マラコーダ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0078
 spoiler_after: ch0078
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # マラコーダ
@@ -30,3 +31,19 @@ created: "2026-09-30"
 - [[A_ch0078_analogous_to_E_ch0078_マラコーダ_has_property_美貌_p2909_アイドルやインフルエンサーの集客力|インフルエンサー集客構造の反映]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 端末で連絡すると、男性の肉体を持つ美女はすぐさまやってきた。
+- **unknown**: ゆったりとしたカーディガンと長い脚にフィットしたデニム生地が上下のコントラストを生んでいる。アンバランスなようでしっかりと着こなしているのは、ドーラーヴィーラの専属モデルだけあると言うべきか。
+- **unknown**: 何しろ見た目だけなら凄まじく美形の男性なので毎日門下生の若い女性たちから黄色い声援を浴びている。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 彼女には今まで武術とは無縁だった初心者や女性、年少者や老人を中心とした門下生たちへの指導を一任している。
+
+<!-- /AUTO-GENERATED:action -->

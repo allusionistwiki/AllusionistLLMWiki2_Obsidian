@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ガドール
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0003
 spoiler_after: ch0003
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ガドール
@@ -31,3 +32,21 @@ created: "2026-09-30"
 - [[A_ch0003_parodies_E_ch0003_ガドール_says_エスフェイルの死因_p174_タイムパラドックスと因果律の破壊|タイムパラドックスによる因果抹消]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: こっちでもエスフェイルの死体を確認したよー。最終形態まで見せたのに負けちゃったみたい
+- **unknown**: 一度でも魂が無いって観測されてしまった存在は、呪術の質が著しく落ちる。良くて低級の使い魔、悪くて自律型の魔導書ってところじゃないかな
+- **unknown**: 最低でもエスフェイルさん以上だと見積もっておく必要があるんじゃないかな
+- **unknown**: このエスフェイルさんの死体さ、面白いことに紀源から遡及的に解体されてる。わかる？ 時間に干渉して、過去に遡って因果ごと殺してるんだよ。
+- **unknown**: いや違う。あれ、皮を被ってるだけの偽物だね。狼の皮を被るもの――高位呪術師だ
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 第十七魔将ガドール率いる小人種の軍勢と第十八魔将マーネロアが率いる呪力兵と金毛種の混成軍はいつも通りなんだけど、
+
+<!-- /AUTO-GENERATED:action -->

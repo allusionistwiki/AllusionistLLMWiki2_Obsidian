@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_ミルーニャ
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0034
 spoiler_after: ch0034
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ミルーニャ
@@ -35,3 +36,17 @@ created: "2026-09-30"
 - [[A_ch0070_inverts_E_ch0070_ミルーニャ_uses_成し得ぬ盾_p2601_unbreakable_shield_paradox|絶対防御パラドックスの逆用]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 下半身が丸ごと塵になってしまっていて、存在しないのだ。そればかりではない。あどけない童顔は皺が増えてまるで老婆のようになってしまっている。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ミルーニャが手渡してくれたのは魔導書【死人の森の断章】だ。設定は以前のまま。アカウントを消さないでいてくれたらしい。
+
+<!-- /AUTO-GENERATED:action -->

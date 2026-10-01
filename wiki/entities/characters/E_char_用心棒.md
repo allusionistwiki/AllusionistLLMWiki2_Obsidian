@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_用心棒
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0005
 spoiler_after: ch0005
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 用心棒
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 何の前触れもなく跳ね上がった俺の右腕が、無防備な頭部に一撃をくらわせたのである。（ch0005）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 褐色の肌にモンゴロイドに近い顔立ち。日本人である俺の美的感覚から言って美形といっていいだろう。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 高く持ち上げられた右脚が、衣服をすり抜けている。透過する衣裳。
+- **unknown**: 貫手。それも四本の指を使ったものではなく、親指一本だけ、さらに第一関節を折り曲げた、リーチよりも打撃力を優先したものだ。
+
+<!-- /AUTO-GENERATED:action -->

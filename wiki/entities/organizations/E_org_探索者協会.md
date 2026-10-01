@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_探索者協会
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0015
 spoiler_after: ch0015
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 探索者協会
@@ -28,3 +29,10 @@ created: "2026-09-30"
 - [[A_ch0015_analogous_to_E_ch0015_探索者協会_attacks_アキラ_p674_internet_flame_war|ネット炎上構造の再現]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 探索者協会から猛烈なクレームが入ったのだ。彼らを無視するとは何事か、探索者に対する無自覚の軽視、魔将に勝てたのは彼らの犠牲があったからこそ、横殴りで勝利を喧伝するような恥知らず、というような。
+
+<!-- /AUTO-GENERATED:action -->

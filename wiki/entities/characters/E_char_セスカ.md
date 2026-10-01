@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_セスカ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0007
 spoiler_after: ch0007
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # セスカ
@@ -32,3 +33,10 @@ created: "2026-09-30"
 - [[E_char_トリシューラ|トリシューラ]] — 疑う(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: セスカがね、貴方を私のところに連れてきたんだよ。全身ボロボロだったけど、その様子だと後遺症もなさそうだし、大丈夫かな。
+
+<!-- /AUTO-GENERATED:action -->

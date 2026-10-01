@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_金鎖
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0002
 spoiler_after: ch0002
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 金鎖
@@ -33,3 +34,32 @@ created: "2026-09-30"
 - [[A_ch0072_analogous_to_E_ch0072_アキラ_uses_金鎖_p2697_スマホゲームのガチャ／アンロック|ガチャ・アンロック的な解放]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「遡って、『フィリス』」 『左手』への命令と共に、手首の金鎖が砕け散る。残りひとつ。
+- **unknown**: 『遡って、エル・ア・フィリス』 完全な名を告げると共に、異獣が活性化する。手首の金鎖、その最後の一つが砕け散った。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 人類にとって最重要の機密である『金鎖』はネットワークとの接続を切られれば私と『左手』を道連れに自壊するように設定されている。『左手』の害を食い止め続ける為にはこのプライベートなネットワークとの接続が必須なのだ。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「あれ？　七環になってる？」「そのようですね。恐らく呪術適性と寄生異獣との同調率がまた上昇したのでしょう。おめでとうございますアズーリア様」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 異獣憑き、そして呪動装甲の内部に入り込んだ金鎖細胞は鎖状の円環構造を類似とみなして、離れた場所であっても類感呪術通信を可能とする。
+
+<!-- /AUTO-GENERATED:speech -->

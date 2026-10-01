@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ベル・ペリグランティア
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0069
 spoiler_after: ch0069
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ベル・ペリグランティア
@@ -32,3 +33,26 @@ created: "2026-09-30"
 - [[A_ch0069_analogous_to_E_ch0069_ベル・ペリグランティア_asks_万能細胞_p2571_genetic_surveillance|遺伝子監視による倫理的懸念]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 落ち着いた雰囲気の女性だな、と思った。ゆったりとした長衣は瑠璃色で、表情は宗教画の聖人のよう。小さな壺を持っているが、あれは何だろう。ぴんとくるものがあった。きっとあれは薬壺だ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「いいのよ。四十六位なんて位階にいる姉妹のことなんて知ってる方が驚きだもの。それでね、私の号は【瑠璃光の薬師】っていうんだけど」
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ヴァイドゥーリヤ――トリシューラに異界の神話を教え、呪術医としての手ほどきをした私が、メートリアンを通じて貴方という存在に引き合わされた。興味深いわね」
+- **unknown**: 「そういえば、保存していたメートリアンの万能細胞の件だけれど。あの毛髪やらは本当にあなたの同意があって送ったのよね？ 摸倣子解析は既に開始して」
+- **unknown**: 「見せて頂戴、アズーリア。貴方が語る詞章、未知なる異言浄瑠璃を」
+
+<!-- /AUTO-GENERATED:speech -->

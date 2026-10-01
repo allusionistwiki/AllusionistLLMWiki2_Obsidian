@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_フルブライト
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0040
 spoiler_after: ch0040
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # フルブライト
@@ -25,3 +26,39 @@ created: "2026-09-30"
 > 牡鹿の角が、地上で手を出しあぐねていた機械狼に一瞬だけ向け ノーレイ られる。それが氷の戦闘機の隙を生み出した。パートナーを案ずる フルブライト 心。単純な振る舞いと仄めかしによる心理的なクラッキング。的確にフルブライトの弱所を見抜いた牡鹿（ch0040）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 槍の穂先めいた細長い本体に、後部から前方に放射状に突き出す二本の刃じみた両翼。　氷の戦闘機とでも言い表せばいいだろうか。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: フォービットデーモンは十六色に加えて、明度の二色が番外として存在する。　ナンバーセブンティーン、陽色。
+フルブライト
+　ナンバーエイティーン、陰色。
+ノーレイ
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: まだ最終選定も終わっていないのに、『三叉槍』を襲名している候補者がいる。　特別扱いを受けているというその二人は、今回の選定においても特別枠で出場しているらしいのだ。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: その時、彼方から飛来した青い光線がそれを遮った。　高速で飛来するのは氷でできた流線型のデーモンだった。
+- **unknown**: ノーレイが要塞の如き大樹の深緑を壮絶な砲撃で破壊し、フルブ
+ティール
+ライトが閃光のごとき機動で三つ目トカゲの鈍灰の正確無比な照準
+グレー
+を振り切って逆に撃破。
+
+<!-- /AUTO-GENERATED:action -->

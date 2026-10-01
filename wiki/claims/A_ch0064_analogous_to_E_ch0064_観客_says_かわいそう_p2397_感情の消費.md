@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_観客_says_かわいそう_p2397_感情の消費
 title: 感情の消費としての悲劇娯楽化
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_観客_says_かわいそう_p2397]]"

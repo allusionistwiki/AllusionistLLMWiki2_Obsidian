@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_ダモクレスの剣
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0081
 spoiler_after: ch0081
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ダモクレスの剣
@@ -31,3 +32,25 @@ created: "2026-09-30"
 - [[A_ch0082_alludes_to_E_ch0082_ダモクレスの剣_appears_天_p3011_ダモクレスの剣|天吊り剣によるダモクレスの剣の暗喩]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ――【ダモクレスの剣】。闇に染まった天から吊り下げられた、巨大な剣。僣主への刺客を選定する指針でもあるそれが、姿を現していた。
+- **unknown**: 「遂に出るのか――【ダモクレスの剣】が」　クレイの呟きと共に、刃が振り下ろされる。　それは長大な直剣だった。勢い良く落下して三人を圧殺するかと思われたが、それは上空で静止した。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 槍が外敵に向けられるものならば、剣は内敵に向けられるもの。　『正しい秩序』を維持し、時に『間違った秩序』を処断する。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 巨大な切っ先が選んだのは、部屋の中央に立つ男――クレイ。変異の三角錐ペレケテンヌルは三つの手を持つと言われている。その中央の主肢を司る、【変異の三手】の副長が戦意を膨れあがらせる。
+
+<!-- /AUTO-GENERATED:action -->

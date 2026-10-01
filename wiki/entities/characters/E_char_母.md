@@ -1,0 +1,30 @@
+---
+schema_version: '5.1'
+id: E_char_母
+type: entity
+subtype: character
+canonical_name: 母
+aliases: []
+first_appearance: ch0058
+spoiler_after: ch0058
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 母
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ミルーニャの万能細胞を用いれば、同性間で子供を作ることが可能よ。たとえ性別がない相手であったとしてもね。リーナ、貴方は己の花嫁を捜すといいわ」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 母から与えられたのは、娘が神々の力で内側から破壊されぬように、外側からの悪意で押し潰されぬようにと注がれてきた呪いである。
+
+<!-- /AUTO-GENERATED:action -->

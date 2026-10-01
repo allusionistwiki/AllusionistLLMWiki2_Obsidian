@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_シャルマキヒュ
+type: entity
+subtype: character
+canonical_name: シャルマキヒュ
+aliases: []
+first_appearance: ch0075
+spoiler_after: ch0075
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# シャルマキヒュ
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 冗談のような武勇伝ばかりが残るシャルマキヒュは、歴史上で明確にその存在が確認されている実在の人物だ。神格化されすぎて天獄では神や天使として崇められているという。
+
+<!-- /AUTO-GENERATED:name -->

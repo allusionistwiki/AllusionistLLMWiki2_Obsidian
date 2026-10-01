@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_カタルマリーナ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0048
 spoiler_after: ch0048
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # カタルマリーナ
@@ -33,3 +34,27 @@ created: "2026-09-30"
 - [[A_ch0055_alludes_to_E_ch0055_ジル_reveals_聴力喪失の理由_p2129_siren_song|セイレーンの歌による破壊]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 闇の彼方にぼんやりと浮かび上がる半透明の女性。「お姉、様――？」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 口元の布がはらりと落ちて、美しい唇の形が露わになる。その歌声は、口が開く前に夜の世界に響き渡った。
+- **unknown**: その左手が虚空に文字を描き、右手が大陸共通規格の手話で呪文を唱える。
+- **unknown**: 左手で解体したと思った呪文嵐の『核』が、爆発して私の全身に拘束帯を巻き付ける。意趣返しのつもりか、私が杖から放っていた光る拘束帯と全く同じ呪術だった。
+- **unknown**: 消えゆくカタルマリーナの口が微かに動き、末期の呪文が発動する。【断末魔】の呪文。死に際に発動し、敵を道連れにしていくその即死呪術がガルズに襲いかかる。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: それは木々が風に揺れて葉が擦れ合う音だった。それは寄せては返す波の音だった。
+
+<!-- /AUTO-GENERATED:speech -->

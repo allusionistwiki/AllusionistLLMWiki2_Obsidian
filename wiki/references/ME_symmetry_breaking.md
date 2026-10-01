@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_symmetry_breaking
 title: 対称性の破れ
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

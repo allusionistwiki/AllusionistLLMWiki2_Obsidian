@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_青海
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0075
 spoiler_after: ch0075
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 青海
@@ -24,3 +25,17 @@ created: "2026-09-30"
 > 奉竜山の教主、青海は門下生たちに徹底的な座学を行う。　それは内家拳に必須とされる人体構造と呪術的な『経絡』との相関から、丹田より『気』を練り上げて発するための呪術合理的な理論まで多岐に渡る。（ch0075）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 内家拳の極致と称される青海の教えを受けんが為に、胸に大志を抱いた様々な者達が集う武術の聖地。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 奉竜山の教主、青海は門下生たちに徹底的な座学を行う。　それは内家拳に必須とされる人体構造と呪術的な『経絡』との相関から、丹田より『気』を練り上げて発するための呪術合理的な理論まで多岐に渡る。
+
+<!-- /AUTO-GENERATED:action -->

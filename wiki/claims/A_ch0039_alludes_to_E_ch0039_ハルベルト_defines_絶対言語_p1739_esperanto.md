@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0039_alludes_to_E_ch0039_ハルベルト_defines_絶対言語_p1739_esperanto
 title: エスペラント的普遍言語理想
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0039_ハルベルト_defines_絶対言語_p1739]]"

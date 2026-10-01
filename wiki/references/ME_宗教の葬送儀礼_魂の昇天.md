@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_宗教の葬送儀礼_魂の昇天
 title: 魂の昇天
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

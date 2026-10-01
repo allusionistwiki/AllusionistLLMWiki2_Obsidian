@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0025_inverts_E_ch0025_コルセスカ_says_アンドロギュヌス_p1137_アンドロギュヌス
 title: アンドロギュヌスへの分離起源強調
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_コルセスカ_says_アンドロギュヌス_p1137]]"

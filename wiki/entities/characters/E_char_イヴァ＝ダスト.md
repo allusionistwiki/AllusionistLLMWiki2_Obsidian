@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_イヴァ＝ダスト
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0067
 spoiler_after: ch0067
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # イヴァ＝ダスト
@@ -28,3 +29,11 @@ created: "2026-09-30"
 - [[A_ch0067_alludes_to_E_ch0067_イヴァ＝ダスト_other_隕石_p2501_隕石落下|隕石落下の絶滅ロマン]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 賢者イヴァ＝ダスト。　それは大地が丸かった時代のこと。大規模な言震によって大地が引き裂かれるという『滅び』の予言を行った超高位呪術師。　彼女は模造の月の制御を乗っ取って動きを止め、エスフェイルからの呪文干渉を完全に遮断したばかりか逆に手痛い反撃を加え
+- **unknown**: イヴァ＝ダストは世界を覆う浄界の理そのものに干渉し、天空から巨大な質量を引き寄せる。　時空を超えて跳躍してきた隕石がエスフェイルの真上に出現。
+
+<!-- /AUTO-GENERATED:action -->

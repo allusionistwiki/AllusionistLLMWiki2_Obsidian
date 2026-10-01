@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_絶対言語
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0005
 spoiler_after: ch0005
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 絶対言語
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0039_alludes_to_E_ch0039_ハルベルト_defines_絶対言語_p1739_esperanto|エスペラント的普遍言語理想]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 大地は引き裂かれて無数の大島――大陸となった。絶対言語は打ち砕かれ、人々がわかりあえる日は遠い彼方へと遠ざかってしまった。
+
+<!-- /AUTO-GENERATED:speech -->

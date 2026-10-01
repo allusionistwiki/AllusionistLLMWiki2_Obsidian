@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_複合種
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0009
 spoiler_after: ch0009
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 複合種
@@ -24,3 +25,17 @@ created: "2026-09-30"
 > 全身から、血という血、水分という水分を絞り尽くそうとするかのように青い血が放出され、迷宮の床を染め上げていく。（ch0009）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 集結する異獣の群れが、何故か俺たちと一定の距離を保ったまま円形の包囲を崩そうとしない。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 全身から、血という血、水分という水分を絞り尽くそうとするかのように青い血が放出され、迷宮の床を染め上げていく。
+
+<!-- /AUTO-GENERATED:action -->

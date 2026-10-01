@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_第十一魔将ユネクティア
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0066
 spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 第十一魔将ユネクティア
@@ -31,3 +32,11 @@ created: "2026-09-30"
 - [[E_char_光の幻姿|光の幻姿]] — 命名（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 第十一魔将、光の幻姿ユネクティア。幻姿霊種。
+- **unknown**: 第十一魔将、光の幻姿ユネクティア。幻姿霊種。スペクター
+
+<!-- /AUTO-GENERATED:name -->

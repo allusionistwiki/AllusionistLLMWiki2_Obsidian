@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_エルネトモラン
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0033
 spoiler_after: ch0033
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # エルネトモラン
@@ -29,3 +30,18 @@ created: "2026-09-30"
 - [[A_ch0069_analogous_to_E_ch0069_死人_has_property_呪力への反応_p2572_zombie_game_mechanics|ゾンビ検知メカニクスへの転生]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 迷宮都市エルネトモランは、悲鳴と悲惨で溺れかけていた。溢れかえった死人、そして迫り来る魔将の脅威。
+- **unknown**: 多層構造を成すこの大都市の人口は五百万に届く。　迷宮都市エルネトモランは、その名の通り世界槍の迷宮を中心に発展した街である。地上部分には地獄からの侵攻を防ぐ為に【松明の騎士団】が要塞を築き上げ、幾層もの防壁が重ねられ、内側に向けて防備を固めている。　このアルセミット国の主要な司教座都市の一つにして、世界槍を擁する槍樹都市であり、地獄の侵攻を押し止める要塞都市でもある。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: その日。 エルネトモランに、天より十三の災いが降臨した。 これより地上は闇に包まれ、未曾有の絶望が終末をもたらす。
+
+<!-- /AUTO-GENERATED:action -->

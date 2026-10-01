@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_狼の王
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0001
 spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 狼の王
@@ -28,3 +29,10 @@ created: "2026-09-30"
 - [[A_ch0006_analogous_to_E_ch0006_アキラ_dies_狼の王_p306_grinding|作業的戦闘の無意味さ]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 異様だったのは、その四本の脚が、闇のように濃い黒色だったこと。 その黒い闇が、脚の下に伸びる影と完全に同化して見えたこと。
+
+<!-- /AUTO-GENERATED:visual -->

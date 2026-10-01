@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_候補者達
+type: entity
+subtype: character
+canonical_name: 候補者達
+aliases: []
+first_appearance: ch0040
+spoiler_after: ch0040
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 候補者達
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 時を同じくして白百合宮からも一人、虹のホルケナウからも一人、澄明のデーモンに関心を抱いた者たちが旅立とうとしていた。　自らを高めんが為。単なる好奇心で。直感に従って。それぞれの理由を胸に抱えながら、四人の候補者が東方の黒百合宮へと向かったのだ。
+
+<!-- /AUTO-GENERATED:action -->

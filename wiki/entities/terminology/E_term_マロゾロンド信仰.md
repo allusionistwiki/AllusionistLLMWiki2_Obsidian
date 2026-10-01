@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_マロゾロンド信仰
+type: entity
+subtype: terminology
+canonical_name: マロゾロンド信仰
+aliases: []
+first_appearance: ch0057
+spoiler_after: ch0057
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# マロゾロンド信仰
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 世界に満ちたマロゾロンド信仰の摸倣子はマロゾロンドの存在強度を高め、そうして生み出された呪力が加護となって信者らに恩恵を与える。 両者は一種の共生関係にあるのだ。
+
+<!-- /AUTO-GENERATED:speech -->

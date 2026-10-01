@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0066_analogous_to_E_ch0066_火蜂_functions_as_暗殺兵器_p2458_ドローン攻撃
 title: ドローン攻撃の自動追尾
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_火蜂_attacks_ガルズ_p2458]]"

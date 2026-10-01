@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ビークレット
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0052
 spoiler_after: ch0052
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ビークレット
@@ -28,3 +29,11 @@ created: "2026-09-30"
 - [[A_ch0052_analogous_to_E_ch0052_ビークレット_attacks_過去_p2027_entropy|エントロピー増大の不可逆性]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 逃げていく私たちを認識した白き焔の貴婦人が時間流の焔を過去へと放射してきているのだ。あの白い焔は事象を加速させて終端に導く、いわば『正の時間流』
+- **unknown**: 「凍れ」という一言で全身が凍り付き、次の瞬間には粉々に砕け散った。きらきらと氷の粒が輝き、やがてそれも霧散していく。
+
+<!-- /AUTO-GENERATED:action -->

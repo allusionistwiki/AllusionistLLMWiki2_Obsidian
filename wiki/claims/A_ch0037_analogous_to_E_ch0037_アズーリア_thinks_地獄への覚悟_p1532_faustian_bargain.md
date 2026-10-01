@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_地獄への覚悟_p1532_faustian_bargain
 title: 魂を売り渡すファウスト的取引
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_アズーリア_thinks_地獄への覚悟_p1532]]"

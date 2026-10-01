@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_鮮血呪
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0012
 spoiler_after: ch0012
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 鮮血呪
@@ -31,3 +32,11 @@ created: "2026-09-30"
 - [[A_ch0021_analogous_to_E_ch0021_鮮血呪_defines_効果_p960_Economic_Value_Exchange|経済的価値交換への呪術定義]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「そして【鮮血のトリシューラ】が持つ【鮮血呪】の力は、価値の操作を可能とします」
+- **unknown**: 「トリシューラが支払わなければならない鮮血呪の代償は、自己同一性の喪失。それに伴って、情緒が不安定になり錯乱症状が引き起こされます。
+
+<!-- /AUTO-GENERATED:speech -->

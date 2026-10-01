@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ネドラド
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0065
 spoiler_after: ch0065
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ネドラド
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > 守護の九槍第八位、ネドラドの腕がクエスドレムの胸を貫通していた。（ch0072）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 守護の九槍第八位、ネドラドの腕がクエスドレムの胸を貫通していた。
+- **unknown**: 強力な『呪術を否定する呪術』――それも実体の確かな呪具や機械すら問答無用で破壊してしまうという『杖をも殺す静謐使い』であるネドラドは全ての攻撃を無効化して、そのまま骨の足場を駆け上がって多面鏡に腕を突っ込む。途端、呪具としてのあらゆる機能を失ってばらばらに分解されていく多面鏡。
+
+<!-- /AUTO-GENERATED:action -->

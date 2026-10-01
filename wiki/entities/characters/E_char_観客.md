@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_観客
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0065
 spoiler_after: ch0065
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 観客
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 多くの観客たちは精神を落ち着かせる【安らぎ】のお陰で誘導に従って避難を開始することが出来た。だが、一部では混乱した人々が我先に逃げだそうと押し合いへし合い、お互いに重なり合って倒れて人が潰されていくという悲惨な光景が繰り広げられている。（ch0065）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 多くの観客たちは精神を落ち着かせる【安らぎ】のお陰で誘導に従って避難を開始することが出来た。だが、一部では混乱した人々が我先に逃げだそうと押し合いへし合い、お互いに重なり合って倒れて人が潰されていくという悲惨な光景が繰り広げられている。
+
+<!-- /AUTO-GENERATED:action -->

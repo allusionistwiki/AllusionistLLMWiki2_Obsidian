@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_ネットメディアと炎上
 title: ネットメディア・炎上
+
 type: external_reference
 created: "2026-10-01"
 subtype: internet_culture

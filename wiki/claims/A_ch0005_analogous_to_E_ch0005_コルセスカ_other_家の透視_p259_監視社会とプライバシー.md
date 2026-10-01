@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_家の透視_p259_監視社会とプライバシー
 title: 監視社会とプライバシーの非対称性
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_家の透視_p259]]"

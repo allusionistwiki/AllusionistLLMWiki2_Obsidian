@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_スピスピ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0059
 spoiler_after: ch0059
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # スピスピ
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 与えられた役割を、震えて涙目になりながらも精一杯こなす貴方が、どこまでも愛おしい。（ch0059）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 幼馴染みは歌手を志していたけれど――事務所はその容姿を生かしたアイドル路線で売り出すことを望んでいた。
+
+<!-- /AUTO-GENERATED:visual -->

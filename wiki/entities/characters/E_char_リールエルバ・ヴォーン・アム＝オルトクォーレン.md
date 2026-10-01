@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_リールエルバ・ヴォーン・アム＝オルトクォーレン
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0041
 spoiler_after: ch0041
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # リールエルバ・ヴォーン・アム＝オルトクォーレン
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > リールエルバ・ヴォーン・アム＝オルトクォーレンだ。長い。（ch0080）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 緑のリールエルバ・ヴォーン・アム＝オルトクォーレン。
+
+<!-- /AUTO-GENERATED:visual -->

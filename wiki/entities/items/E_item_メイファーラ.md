@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_メイファーラ
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0034
 spoiler_after: ch0034
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # メイファーラ
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0034_analogous_to_E_ch0034_メイファーラ_has_property_天眼石_p1390_ARグラス／スマートグラス|ARグラス的視覚干渉]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: その時、何故かメイファーラが飲んでいた野菜ジュースの紙パックをべこっと握りつぶす。
+
+<!-- /AUTO-GENERATED:action -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0052_structurally_matches_E_ch0052_アズーリア_uses_フィリス_p2027_cloud_computing
 title: クラウドコンピューティングへの構造対応
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_アズーリア_uses_フィリス_p2027]]"

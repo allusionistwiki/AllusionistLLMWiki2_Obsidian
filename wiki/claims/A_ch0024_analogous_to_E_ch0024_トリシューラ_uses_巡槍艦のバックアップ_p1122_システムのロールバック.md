@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0024_analogous_to_E_ch0024_トリシューラ_uses_巡槍艦のバックアップ_p1122_システムのロールバック
 title: システムロールバックへの迷宮解除
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_トリシューラ_uses_巡槍艦のバックアップ_p1122]]"

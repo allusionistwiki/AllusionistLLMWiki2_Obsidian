@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_白焔
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0050
 spoiler_after: ch0050
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 白焔
@@ -28,3 +29,17 @@ created: "2026-09-30"
 - [[A_ch0050_structurally_matches_E_ch0050_白焔_has_property_時間流_p1987_熱力学の時間矢印|時間の矢の呪術的可視化]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: あの白い焔は、実際には燃焼という物理現象ではないの。抽象的な火の概念――ものごとの始まりと終わり。加速度的に進行していく時間的経過が理解可能な形として『翻訳』されているだけ。あの白い焔は全てを終端まで運んでいく膨大な時間流そのもの
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 崩落する天井から、純白の焔が坑道内部を焼き滅ぼそうと侵略を開始する。白い火柱の中から、燃えるような貴婦人がその姿を現した。悪魔の九姉による挟撃。
+
+<!-- /AUTO-GENERATED:action -->

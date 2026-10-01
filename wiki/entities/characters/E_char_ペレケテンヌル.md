@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ペレケテンヌル
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0043
 spoiler_after: ch0043
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ペレケテンヌル
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0070_analogous_to_E_ch0070_サジェリミーナ_uses_占星術_p2600_simulation_theory|シミュレーション仮説への転生]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「一昨日と言えば、何故かペレケテンヌル様への祈りが届かなくなったという報告が相次いでおりまして――」
+
+<!-- /AUTO-GENERATED:speech -->

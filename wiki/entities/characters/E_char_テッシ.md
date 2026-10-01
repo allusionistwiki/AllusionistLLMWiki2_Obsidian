@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_テッシ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0065
 spoiler_after: ch0065
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # テッシ
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 広がった異空間がまずズタークスタークを飲み込み、そこにソルダとフラベウファ、アルマとサリア、そして浄界を維持している松明の騎士団の楽団がまとめて取り込まれていく。発生した異空間はそのまま縮小していく。（ch0065）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 広がった異空間がまずズタークスタークを飲み込み、そこにソルダとフラベウファ、アルマとサリア、そして浄界を維持している松明の騎士団の楽団がまとめて取り込まれていく。発生した異空間はそのまま縮小していく。
+
+<!-- /AUTO-GENERATED:action -->

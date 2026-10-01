@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_キール
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0001
 spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # キール
@@ -24,3 +25,18 @@ created: "2026-09-30"
 > キールがそれに触れると誰かの声が聞こえ出した。キールはしばらくその声と会話していたが、その中に何回か「アキラ」という言葉が含まれていたのを俺の耳は聞き逃さなかった（ch0001）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 俺を治療してくれている大柄な男性は『キール』という名前らしい。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 白紙の巻物の上に自動的に線が描かれ、キールが歩いたとおりに地図が出来上がっている。
+- **unknown**: キールがそれに触れると誰かの声が聞こえ出した。キールはしばらくその声と会話していたが、その中に何回か「アキラ」という言葉が含まれていたのを俺の耳は聞き逃さなかった
+
+<!-- /AUTO-GENERATED:action -->

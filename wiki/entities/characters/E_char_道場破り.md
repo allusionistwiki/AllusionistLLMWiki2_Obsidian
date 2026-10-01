@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_道場破り
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0078
 spoiler_after: ch0078
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 道場破り
@@ -24,3 +25,11 @@ created: "2026-09-30"
 > 挑発的な文言に、道場破りは額に血管を浮かべて襲いかかってくる。放たれたのは、呪符と棍による連続攻撃。（ch0078）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 思考に割り込みをかけるように、道場の入り口に飛び込んでくる大柄な人影。声を張り上げて叫ぶ。「たのもぉう！」
+- **unknown**: 挑発的な文言に、道場破りは額に血管を浮かべて襲いかかってくる。放たれたのは、呪符と棍による連続攻撃。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_転生保険
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0001
 spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 転生保険
@@ -29,3 +30,12 @@ created: "2026-09-30"
 - [[A_ch0011_analogous_to_E_ch0011_転生保険_defines_転生保証_p478_転生保険|転生保険の社会制度パロディ]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 死は救いだ。転生が選べない生まれを選べるようにしてくれる。　けれど、それすら届かない人がいる。　異世界転生保険。その加入額にすら手が伸ばせない
+- **unknown**: およそ七割が安全や安心を求める一方で、残り三割は「ほどよくバランス調整された人生の厳しさ」を欲するのだという。
+- **unknown**: なにせ、一度転生したらその後が無い。転生先で死んだらそこでアウトだ。
+
+<!-- /AUTO-GENERATED:symbolic -->

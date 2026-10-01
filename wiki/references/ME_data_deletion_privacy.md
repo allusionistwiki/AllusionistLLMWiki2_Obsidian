@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_data_deletion_privacy
 title: データ削除・プライバシー
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

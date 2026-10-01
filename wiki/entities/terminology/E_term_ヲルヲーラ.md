@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ヲルヲーラ
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0005
 spoiler_after: ch0005
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ヲルヲーラ
@@ -26,3 +27,26 @@ created: "2026-09-30"
 > ヲルヲーラに覆い被さり、その巨体を構成する群れの大半を吸収していくレッドレッデル。歌姫のゲルシェネスナが大半の個体を消滅させると、翼猫は全体を維持できずに崩壊していく。（ch0073）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 中空に出現した浮遊する角と翼を持つ猫は、敵対的な言葉を放つものの、それ以上の行動はとってこない。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: その目から放射された光が一瞬だけ俺を照らしただけだ。見た目上は何の変化もないが、これで俺は第六階層にとっての『敵』として認識された。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『ほぼ不可能です。前にも言ったはずですが』
+- **unknown**: 『その呪術を行使した側の勢力に組み込まれることになりますね。場合によっては、貴方に付けた敵性マーカーを付け直す事もありえます』
+- **unknown**: 『私は行動によって審判を下します。貴方の行動が、私を納得させることができるのならば、あるいは』
+
+<!-- /AUTO-GENERATED:speech -->

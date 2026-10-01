@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_牧場
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0082
 spoiler_after: ch0082
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 牧場
@@ -28,3 +29,17 @@ created: "2026-09-30"
 - [[A_ch0082_analogous_to_E_ch0082_牧場_has_property_家畜化された人間_p3018_非人道的な人体実験・強制労働|家畜化人間による非人道的人体実験]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 薬物や呪術によって精神を破壊された男女が、家畜として飼育されている。縄で繋がれ、柵の中で四つん這いになりながら意味を為さない鳴き声を上げる多種多様な種族たち。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 機械的に子供を生産し、産声を上げる命をカプセルに入れてベルトコンベアに乗せてどこかへ送り出す。暗闇の彼方で、ふつりと赤子の声は途絶えて無くなっていく。
+
+<!-- /AUTO-GENERATED:action -->

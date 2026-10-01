@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_第一階層
+type: entity
+subtype: terminology
+canonical_name: 第一階層
+aliases: []
+first_appearance: ch0033
+spoiler_after: ch0033
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 第一階層
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 内部からの侵攻を押し止めるための壁が槍を取り囲み、その中は四つの区画に分割されている。この内部は空間の縮尺が狂っていて、一つの区画がこのエルネトモラン全体よりも広大だったりするから、古代の超技術というのは凄まじい。　「四つの区画は、それぞれパレルノ山、竜骨の森、獅子王の遺跡、湖中穴という神話にもその名が確認できる古代世界でございます。
+
+<!-- /AUTO-GENERATED:visual -->

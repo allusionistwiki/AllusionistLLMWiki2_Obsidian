@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_サイリウス
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0064
 spoiler_after: ch0064
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # サイリウス
@@ -38,3 +39,29 @@ created: "2026-09-30"
 - [[A_ch0064_analogous_to_E_ch0064_サイリウス_uses_質量操作呪術_p2388_物理法則の改変|物理法則改変のチート能力]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ガルズからの猛攻を完全に無視しながら、サイリウスは呪術灯を振り始める。
+- **unknown**: 「質量操作呪術だよ。極限まで軽くした腕で加速して、接触した瞬間だけ質量を増大させて威力を高めているんだ。多分、あのペイルってムキムキな人より速くて重いんじゃないかな」
+- **unknown**: サイリウスは翼耳によって声を拡大しながら会場全体に響き渡るように叫ぶ。
+- **unknown**: 老人の呪術は死体だけではなく死体を操作する魂を打ち砕き、今度こそガルズに復活を許さない死を与えたのだ。
+- **unknown**: 未だ崩壊していない浄界の闇空の下、屍を晒す肉塊。 その肉塊の中に同化して、苦痛と恐怖に顔を歪めながらサイリウス・ゾラ・クロウサーが蠢いていた。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「お前の目から見て、商品化はどの程度いけそうかと聞いている。英雄でも悪役でも良い。問題は偶像崇拝の呪力がどの程度引き出せるかどうかだ。かの歌姫と比較して、どうか」
+- **unknown**: 「過去を切り捨てて見せよ。お前の意思を、ゾラの血族としての決意を一族の者らに知らしめるのだ」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 勢いよく膨れあがる老人の身体は、長身を通り越して巨躯と呼ぶべきものになっていた。
+
+<!-- /AUTO-GENERATED:visual -->

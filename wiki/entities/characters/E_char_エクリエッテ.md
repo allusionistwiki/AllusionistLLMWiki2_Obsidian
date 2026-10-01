@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_エクリエッテ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0049
 spoiler_after: ch0049
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # エクリエッテ
@@ -34,3 +35,28 @@ created: "2026-09-30"
 - [[E_char_プリエステラ|プリエステラ]] — 発言（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 頭に花を咲かせ、植物の蔦を身体に這わせたまるで樹妖精のような女性が彼女の師になってくれるらしい。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「よろしくね、可愛いエスト」
+- **unknown**: 「ティリビナの民は――とくに巫女である貴方は、自然と己との『関係性』の中に呪力を見出すの。大いなる自然そのものを使い魔とし、同時に貴方が広大な世界の使い魔となる。世界をまなざしなさいプリエステラ。そして世界にまなざされる己を自覚するのです」
+- **unknown**: 「では、違う道を探してみるのもいいかもしれませんね」そしてプリエステラは末妹の選定に関する事を教えられた。
+- **unknown**: 「【彩石の儀】ですか？」「そう。やってみない？ 同年代の子と競うことは、きっとエストにとって良い刺激になるはずだわ」
+- **unknown**: 「お行きなさい、私のエスト。貴方はどこにだって行ける。何だって選べる。沢山の可能性を、その目に焼き付けてくるのですよ」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 【緑の君】エクリエッテと【雲上姫】ミブレルらは異種族の保護に積極的であり、ティリビナの民を保護するために随分と尽力してくれたと後で聞いた。
+
+<!-- /AUTO-GENERATED:action -->

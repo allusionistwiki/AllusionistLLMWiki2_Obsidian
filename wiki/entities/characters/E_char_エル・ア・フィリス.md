@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_エル・ア・フィリス
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0058
 spoiler_after: ch0058
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # エル・ア・フィリス
@@ -28,3 +29,12 @@ created: "2026-09-30"
 - [[A_ch0058_alludes_to_E_ch0058_エル・ア・フィリス_says_物語の要求_p2219_narrator|語り手のメタフィクショナル介入]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 貴方は誰？　と訊ねようとすると、思考を読み取ったかのように、
+『エル・ア・フィリス』　という言葉が返ってきた。
+- **unknown**: 『さあリーナ。貴方の過去に遡って、私に物語を語らせて？　私はその為に存在する、言理の妖精なのだから』
+
+<!-- /AUTO-GENERATED:speech -->

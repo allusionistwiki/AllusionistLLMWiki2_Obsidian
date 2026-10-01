@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_social_media_manipulation
 title: SNS世論操作
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

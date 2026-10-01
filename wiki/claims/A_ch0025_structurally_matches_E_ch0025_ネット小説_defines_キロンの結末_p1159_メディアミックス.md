@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0025_structurally_matches_E_ch0025_ネット小説_defines_キロンの結末_p1159_メディアミックス
 title: メディアミックスへのメタ相互参照
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_ネット小説_defines_キロンの結末_p1159]]"

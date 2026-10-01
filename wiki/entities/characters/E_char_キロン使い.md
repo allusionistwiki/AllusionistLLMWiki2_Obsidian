@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_キロン使い
+type: entity
+subtype: character
+canonical_name: キロン使い
+aliases: []
+first_appearance: ch0082
+spoiler_after: ch0082
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# キロン使い
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「あそこの『キロン使い』は反応速度と読みに定評があり、国内では屈指の実力者といわれております。先日の大会では『冬の魔女使い』を破って一位に。前大会の雪辱を果たした形になりますな」
+
+<!-- /AUTO-GENERATED:action -->

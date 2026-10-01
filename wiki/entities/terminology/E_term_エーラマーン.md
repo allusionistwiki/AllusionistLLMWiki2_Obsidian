@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: E_term_エーラマーン
+type: entity
+subtype: terminology
+canonical_name: エーラマーン
+first_appearance: ch0074
+spoiler_after: ch0074
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# エーラマーン
+
+あらゆる記述を変質させ、噂や風説を通じて世界を揺さぶる力を持つ存在。「噂の天使」とも呼ばれ、そこから得られる情報は確度が高いとされる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0074 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 『情報』に対して加護を与える天使エーラマーンは、あらゆる記述を少しずつ変質させてしまう。『噂』や『風説』、あるいは『誇張』や『誤報』。　その力は時に念写にまで及び、時に世界すら揺さぶり災厄を引き起こす。（ch0074）
+> エーラマーンというのは、確か噂の天使とかいう伝説上の存在だ。（ch0085）
+
+<!-- AUTO:END -->

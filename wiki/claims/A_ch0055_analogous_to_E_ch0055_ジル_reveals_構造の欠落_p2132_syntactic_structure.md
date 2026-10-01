@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0055_analogous_to_E_ch0055_ジル_reveals_構造の欠落_p2132_syntactic_structure
 title: 構文構造の欠落
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0055_ジル_reveals_構造の欠落_p2132]]"

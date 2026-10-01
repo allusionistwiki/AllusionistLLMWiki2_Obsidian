@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_老女_fights_嫁_p2649_家族の絆と共同作業Co-opプレイ
 title: 家族Co-opによる共同戦線
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_老女_bonds_女性_p2649]]"

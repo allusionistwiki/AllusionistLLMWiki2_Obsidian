@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_リーナ・ゾラ・クロウサー
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0017
 spoiler_after: ch0017
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # リーナ・ゾラ・クロウサー
@@ -27,3 +28,31 @@ created: "2026-09-30"
 > 『ですが、今回の騒動で貴方の存命はアズーリア・ヘレゼクシュの耳にも届いたと思います。貴方の目的のほとんどは既に達成されている筈です。』（ch0017）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 探索者リーナ・ゾラ・クロウサー。彼女の家は古くから続く呪術師の一族で、有名な呪具メーカーを始めとして数多くの事業に手を出しているそうだ。彼女は第五階層という特異な空間に商機を見出し、更には俺という転生者に価値を見出したらしい。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 藍のリーナ・ゾラ・クロウサー。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: そして見た。寝ているハルベルトの真上に飛び上がり、両足で踏みつけようとしている――というかほとんど跳び蹴りに近かった――リーナ・ゾラ・クロウサーの姿を。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 現役女子大生でありながら大企業の最高経営責任者ということで話題を攫った彼女の名はリーナ・ゾラ・クロウサー。
+
+<!-- /AUTO-GENERATED:name -->

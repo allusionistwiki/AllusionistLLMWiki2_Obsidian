@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_新たな死人
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0070
 spoiler_after: ch0070
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 新たな死人
@@ -27,3 +28,18 @@ created: "2026-09-30"
 > 彼らはその肉体を霧に変化させると屍亜竜の体内に入り込み、内側から感染を広げる。（ch0070）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 古い死人を新たな死人が叩き伏せ、その首筋に噛み付く。 すると腐敗し、破損した死人の傷に肉腫が蠢き、急速に再生していく。
+- **unknown**: 彼らはその肉体を霧に変化させると屍亜竜の体内に入り込み、内側から感染を広げる。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 肉体の一部が膨張した死人が巨大な腕で新たな死人を圧壊させようとするが、その全身がばらばらに解けたかと思うと、無数の蝙蝠となって強化死人に噛み付いていく。
+
+<!-- /AUTO-GENERATED:visual -->

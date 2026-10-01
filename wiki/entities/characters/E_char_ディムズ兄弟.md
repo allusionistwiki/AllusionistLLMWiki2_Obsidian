@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ディムズ兄弟
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0067
 spoiler_after: ch0067
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ディムズ兄弟
@@ -28,3 +29,11 @@ created: "2026-09-30"
 - [[A_ch0067_analogous_to_E_ch0067_ディムズ兄弟_uses_万色精霊_p2499_色による心理効果|色彩の心理効果の具現化]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: まず【死人殺し】のディムズ兄弟が息のあった連携で攻め立てる。
+- **unknown**: 「万色精霊、一斉解放！」　北辺帝国に存在する世界槍。地上に露出している石突き部分から地獄の地底都市ザドーナに向かって絶え間なく出撃し続けているという万色精霊たちは、様々な色彩が持つイメージを実体化させることによって死人――すなわち北辺帝国最大の敵である哲学的ゾンビたちを攻撃するという。
+
+<!-- /AUTO-GENERATED:action -->

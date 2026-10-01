@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_ヨミル・バーンステイン
+type: entity
+subtype: character
+canonical_name: ヨミル・バーンステイン
+aliases: []
+first_appearance: ch0065
+spoiler_after: ch0065
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# ヨミル・バーンステイン
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「私が来たからには貴様らの好きにはさせんぞ死に損ないどもめ。宣名しよう。我が名はヨミル・バーンステイン！　松明の騎士団序列十三位にして天使ペレケテンヌルの加護を受けた私は同時に一万の自動鎧を操る事が可能！」
+
+<!-- /AUTO-GENERATED:speech -->

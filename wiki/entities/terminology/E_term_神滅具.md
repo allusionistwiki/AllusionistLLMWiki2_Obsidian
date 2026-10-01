@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_神滅具
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0018
 spoiler_after: ch0018
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 神滅具
@@ -30,3 +31,10 @@ created: "2026-09-30"
 - [[A_ch0026_alludes_to_E_ch0026_コルセスカ_takes_神滅具_p1208_神滅具|神殺しの武器としての神滅具]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 実際、この世界では神滅具イコールマイナスイメージで、売れ行きは今ひとつらしい。
+
+<!-- /AUTO-GENERATED:symbolic -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0046_inverts_E_ch0046_リーナ_reveals_当事者であること_p1887_heroic_narrative_trope
 title: 英雄叙事の逆転
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0046_リーナ_reveals_当事者であること_p1887]]"

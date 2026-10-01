@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_ネット上の匿名の暴走
 title: ネット上の匿名の暴走
+
 type: external_reference
 created: "2026-10-01"
 subtype: internet_culture

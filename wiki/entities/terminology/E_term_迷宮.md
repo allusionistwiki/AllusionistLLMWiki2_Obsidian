@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_迷宮
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0001
 spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 迷宮
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0018_analogous_to_E_ch0018_第五階層_transforms_迷宮_p784_都市計画・再開発・ジェントリフィケーション|都市再開発]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: さっきまでの空間は中に入った者を閉じ込めるための仕掛けで、あの巨大狼を倒さなければ外に出られない、ということなのだろう。
+
+<!-- /AUTO-GENERATED:symbolic -->

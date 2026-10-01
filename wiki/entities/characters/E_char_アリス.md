@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アリス
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0073
 spoiler_after: ch0073
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # アリス
@@ -24,3 +25,17 @@ created: "2026-09-30"
 > 北方の地底都市ザドーナからやってきたアリスは既に幾つかの分野では師であるルスクォミーズ派の姉妹たちを凌駕していたし（ch0075）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『あの呪力の波形は、ナンバーサーティーンのライム――？』『それって、【賢天主】アリスが介入してきたって事？』
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 北方の地底都市ザドーナからやってきたアリスは既に幾つかの分野では師であるルスクォミーズ派の姉妹たちを凌駕していたし
+
+<!-- /AUTO-GENERATED:action -->

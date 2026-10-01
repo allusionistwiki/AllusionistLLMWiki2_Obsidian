@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_サイバーカラテ道場
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0015
 spoiler_after: ch0015
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # サイバーカラテ道場
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0070_parodies_E_ch0070_サイバーカラテ道場_defines_ゼン・スピリット_p2625_self_help_seminars|自己啓発セミナーの風刺]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: そして、それと同時に。 エルネトモランの全ての端末に不可視の呪術的ウィルスが感染し、強制的に一つのアプリケーションをインストールしていく。
+
+<!-- /AUTO-GENERATED:visual -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_サイバーカラテ_other_ユーザー_p2655_AppStoreのレビュー機能
 title: アプリレビュー機能の模倣
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_サイバーカラテ_other_ユーザー_p2655]]"

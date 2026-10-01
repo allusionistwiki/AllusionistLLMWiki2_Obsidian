@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0014_analogous_to_E_ch0014_コルセスカ_says_ゲームの競技性_p644_ゲームの競技性eSports
 title: eSportsの競技性
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0014_コルセスカ_says_ゲームの競技性_p644]]"

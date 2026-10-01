@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ブルー
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0040
 spoiler_after: ch0040
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ブルー
@@ -24,3 +25,12 @@ created: "2026-09-30"
 > 大海が割れている。　その光景を目の当たりにしたホワイトは、信じられない思いでぽかんと口をあけてしまった。それほどまでにそのデーモンは圧倒的だった。　立派な角と翼を生やした牡鹿。その全身は空のように澄んだ色をしている。　その優美な姿で、あり得（ch0040）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 途方もなく膨大な数の、それは青いアバターの群れだった。　ナンバーフォー、真蒼。それが能力なのか、それとも元々群体の
+ブルー
+デーモンなのか。とにかく圧倒的な物量はまるで大海を荒れ狂う大波のようで、それはあっという間にレッドの全身を押し流してしまった。自然災害のごとき青い流体が通り過ぎた後に、敗北者を示す光点が浮かぶ。
+
+<!-- /AUTO-GENERATED:action -->

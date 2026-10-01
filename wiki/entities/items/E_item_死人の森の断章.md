@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_死人の森の断章
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0052
 spoiler_after: ch0052
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 死人の森の断章
@@ -32,3 +33,17 @@ created: "2026-09-30"
 - [[A_ch0061_alludes_to_E_ch0061_死人の森の断章_defines_ハザーリャと再生者_p2291_禁書・秘教|禁書・秘教への暗喩]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 暗号化されて隠されている真の章には、失われた神ハザーリャとその眷族種である再生者について記されているはず」
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: リールエルバが口にしたのは、私が第五階層でミルーニャの父に託されて以来、その持ち主が転々としてきた黒い魔導書の名前だった。
+
+<!-- /AUTO-GENERATED:visual -->

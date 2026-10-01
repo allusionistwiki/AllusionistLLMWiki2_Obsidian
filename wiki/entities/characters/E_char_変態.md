@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_変態
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0059
 spoiler_after: ch0059
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 変態
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 放棄された第五階層で、変態はただじっとアズーリアを待ち続け、その後押し寄せた異獣の軍勢に引き裂かれる。（ch0059）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 全裸だ。男は全裸だった。変態だ。変態は謎の動きで大狼と渡り合い、遂には打ち倒してしまう。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: あろうことかその男はアズーリアに殴りかかる。
+- **unknown**: 放棄された第五階層で、変態はただじっとアズーリアを待ち続け、その後押し寄せた異獣の軍勢に引き裂かれる。
+
+<!-- /AUTO-GENERATED:action -->

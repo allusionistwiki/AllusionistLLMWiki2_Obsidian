@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_世界の免疫系と因果律の修正
 title: 因果律の修正
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

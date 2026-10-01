@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0051_alludes_to_E_ch0051_古き神_names_アズーリア_p2010_メシア
 title: メシア概念の管理者権限変換
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0051_古き神_names_アズーリア_p2010]]"

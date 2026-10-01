@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0025_parodies_E_ch0025_キロン_uses_紙幣_p1153_貨幣経済
 title: 貨幣経済への信用ミーム露呈
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_キロン_uses_紙幣_p1153]]"

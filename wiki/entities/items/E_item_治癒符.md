@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_治癒符
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0012
 spoiler_after: ch0012
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 治癒符
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0013_analogous_to_E_ch0013_治癒符_appears_空からの散布_p625_ヘリコプターマネー|ヘリコプターマネーのインフレ]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 階層の天蓋すれすれを飛行する無人の回転翼機が、ぶら下げた大きなコンテナから大量の治癒符をばらまいているのだ。
+
+<!-- /AUTO-GENERATED:visual -->

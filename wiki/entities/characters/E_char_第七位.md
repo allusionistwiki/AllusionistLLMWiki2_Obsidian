@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_第七位
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0031
 spoiler_after: ch0031
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 第七位
@@ -30,3 +31,18 @@ created: "2026-09-30"
 - [[A_ch0059_alludes_to_E_ch0059_第七位_kills_修道騎士_p2228_組織内いじめ_権力闘争|組織内権力闘争による人材浪費]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「【レイシズム変数】――代入・『われわれ』ジャッフハリム正規軍の職分を不当に奪い荒らしていく『かれら』探索者の無法者共」
+- **unknown**: 第四階層の掌握者は、『味方殺し』の異名を持つ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「だが殺す。特に意味は無いが殺す。生きている限り殺す。私の部下になった地上人類は皆殺しにする。なぜならば、それが主の望みであるからだ。それが教義であり正義であり大義であるからだ。私はその手助けをしているに過ぎぬ」
+
+<!-- /AUTO-GENERATED:speech -->

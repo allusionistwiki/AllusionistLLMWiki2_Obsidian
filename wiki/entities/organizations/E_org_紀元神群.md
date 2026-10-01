@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_org_紀元神群
+type: entity
+subtype: organization
+canonical_name: 紀元神群
+aliases: []
+first_appearance: ch0070
+spoiler_after: ch0070
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 紀元神群
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 世界の根本言理に繋がった上位の存在を、人は紀神と呼び、崇め奉った。 槍神教の勢力圏に深く浸透し、最上位の存在――第零の位階として密かに『格』を高め続けていた紀元神群最大の『息吹』が、その威容のみで魔将を平伏させる。
+
+<!-- /AUTO-GENERATED:action -->

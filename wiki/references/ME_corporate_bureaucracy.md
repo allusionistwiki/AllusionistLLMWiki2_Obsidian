@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_corporate_bureaucracy
 title: 企業官僚制
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

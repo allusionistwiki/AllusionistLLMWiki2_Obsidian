@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0010_inverts_E_ch0010_アキラ_attacks_カッサリオ_p461_格闘ゲーム_入力コマンド
 title: 格ゲー入力演出の模倣
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_アキラ_attacks_カッサリオ_p461]]"

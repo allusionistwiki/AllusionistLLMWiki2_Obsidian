@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_item_骨の槍
+type: entity
+subtype: item
+canonical_name: 骨の槍
+aliases: []
+first_appearance: ch0048
+spoiler_after: ch0048
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 骨の槍
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 体内の骨が血肉を引き裂きながら胴体の中央へと蠢いて依り合わさって行く。 そして骨が抜けて柔らかくなった肉体を内部から突き破って出てくる鋭利な穂先。
+
+<!-- /AUTO-GENERATED:action -->

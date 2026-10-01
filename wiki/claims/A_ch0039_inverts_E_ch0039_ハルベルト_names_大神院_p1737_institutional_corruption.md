@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0039_inverts_E_ch0039_ハルベルト_names_大神院_p1737_institutional_corruption
 title: 大神院の組織腐敗の逆転
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0039_ハルベルト_names_大神院_p1737]]"

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アルタネイフ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0071
 spoiler_after: ch0071
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # アルタネイフ
@@ -25,3 +26,12 @@ created: "2026-09-30"
 > まだもののよくわかっていない少女を言葉巧みに欺いた彼は人間の屑ですが、そうすることでエスフェイルすら存在を知らなかった【死人の森の断章】を盗み出すことに成功したのです。（ch0075）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: そこで彼は小さな魔女、【冥道の幼姫】と出会います。
+- **unknown**: まだもののよくわかっていない少女を言葉巧みに欺いた彼は人間の屑ですが、そうすることでエスフェイルすら存在を知らなかった【死人の森の断章】を盗み出すことに成功したのです。
+- **unknown**: 射出された呪石弾をミアスカ流脚撃術の絶技【烏墜】で蹴り返し、閃光と衝撃にたじろぐ死人に一気に肉薄。「発勁用意――」
+
+<!-- /AUTO-GENERATED:action -->

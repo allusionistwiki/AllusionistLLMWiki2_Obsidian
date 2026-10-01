@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_メイファーラ
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0034
 spoiler_after: ch0034
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # メイファーラ
@@ -31,3 +32,18 @@ created: "2026-09-30"
 - [[A_ch0074_analogous_to_E_ch0074_メイファーラ_says_細胞の序列_p2825_central_nervous_system|意味を脱構築する中枢神経系]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「全ての『鍵』を監視し、守り、最後の救世を見届ける――だからこそ真の瞳、【天眼】という三番目の細胞の座を与えられているのだから」
+- **unknown**: 「下位細胞より上位細胞の決定が優先されるのは、あなただって知っているでしょう？　あたしたちにとって、中枢神経系なんて何の意味も持たない――」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 手刀が一閃され、灰色の軌跡が宙を走った。　ヲルヲーラの首が軽々と飛んで、床に落下する。
+
+<!-- /AUTO-GENERATED:action -->

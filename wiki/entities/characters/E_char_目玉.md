@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_目玉
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0057
 spoiler_after: ch0057
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 目玉
@@ -25,3 +26,24 @@ created: "2026-09-30"
 > そこでメイファーラが接触感応でアズーリアの精神の奥深くを探ることになった。そこで、最悪の事態が明らかになる。（ch0057）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 暢気にお茶を楽しんでいるのは【目玉】だが、そのデフォルメされた眼球アバターはこの場から浮いている。比喩としても実際の意味でも。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「う、うん。ありがと。えっと質問いい？」「ほえ？」「ここって基本的に本名を口にしたら駄目って聞いてたんだけど、違うの？」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: そこでメイファーラが接触感応でアズーリアの精神の奥深くを探ることになった。そこで、最悪の事態が明らかになる。
+
+<!-- /AUTO-GENERATED:action -->

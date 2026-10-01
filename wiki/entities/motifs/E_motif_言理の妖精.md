@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_motif_言理の妖精
+type: entity
+subtype: visual_motif
+canonical_name: 言理の妖精
+aliases: []
+first_appearance: ch0076
+spoiler_after: ch0076
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 言理の妖精
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: あちらこちらで子供たちが走り回りながら、「言理の妖精語りて曰く！」　と呪文を唱え、建材をお菓子に変えるという悪戯を繰り返しては叱られている。　呪動建機を遠隔操作していた作業員がやれやれと溜息を吐いて、「言理の妖精語りて曰く」　と呟くと建材は元通り――いや、一部がお菓子のままだ。
+
+<!-- /AUTO-GENERATED:action -->

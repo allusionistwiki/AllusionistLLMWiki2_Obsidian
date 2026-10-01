@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_propaganda_brainwashing
 title: プロパガンダ・洗脳
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_炎上商法
 title: 炎上商法
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0012_analogous_to_E_ch0012_トリシューラ_other_第五階層の崩壊_p577_open_source_community
 title: OSSコミュニティ理想の指喩
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_reveals_第五階層の崩壊_p577]]"

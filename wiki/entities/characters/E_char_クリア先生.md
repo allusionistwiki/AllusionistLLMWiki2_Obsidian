@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_クリア先生
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0055
 spoiler_after: ch0055
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # クリア先生
@@ -29,3 +30,17 @@ created: "2026-09-30"
 - [[A_ch0059_analogous_to_E_ch0059_クリア先生_transforms_触手_p2225_パズルゲーム_マッチ3|恐怖を報酬に変換するマッチ3]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: その時、拍手の音と共に触手の群れが次々とお菓子になっていく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: お菓子の障壁を貫通した解体の呪文がクリア先生の身体を包み、無力な白黒の小ウサギに変えてしまう。
+
+<!-- /AUTO-GENERATED:visual -->

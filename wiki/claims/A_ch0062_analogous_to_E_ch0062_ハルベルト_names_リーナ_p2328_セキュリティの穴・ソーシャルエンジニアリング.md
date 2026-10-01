@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0062_analogous_to_E_ch0062_ハルベルト_names_リーナ_p2328_セキュリティの穴・ソーシャルエンジニアリング
 title: セキュリティ穴・ソシアルへの転生
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_ハルベルト_names_リーナ_p2328]]"

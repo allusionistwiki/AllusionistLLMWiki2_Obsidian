@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_ウィータスティカの鰓耳の民
+type: entity
+subtype: character
+canonical_name: ウィータスティカの鰓耳の民
+aliases: []
+first_appearance: ch0063
+spoiler_after: ch0063
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# ウィータスティカの鰓耳の民
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その隣には魚を思わせる耳をした一団。南東海諸島からやって来た【ウィータスティカの鰓耳の民】だろう。複数の布を重ねたような服の肩に、第四位の天使デーデェイアを示す大蛸の紋章が縫い付けられている。
+
+<!-- /AUTO-GENERATED:visual -->

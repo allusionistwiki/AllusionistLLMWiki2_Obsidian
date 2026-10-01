@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_融合体
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0010
 spoiler_after: ch0010
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 融合体
@@ -27,3 +28,10 @@ created: "2026-09-30"
 > 「あの中に割って入るつもりかね？　聞くが、正気か？」　「当然。俺はいつだって平常心だ」　　疾走する。（ch0011）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 本体中央が口を開くように大きく窪んだかと思うと、その中に少年を一気に飲み込んでしまったのだ。 一瞬の出来事。止めることすらできず、右手を中途半端に上げたまま動きが静止する。
+
+<!-- /AUTO-GENERATED:action -->

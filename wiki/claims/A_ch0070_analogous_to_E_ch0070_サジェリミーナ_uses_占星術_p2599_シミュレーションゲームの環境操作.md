@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0070_analogous_to_E_ch0070_サジェリミーナ_uses_占星術_p2599_シミュレーションゲームの環境操作
 title: 環境操作への転生
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_サジェリミーナ_uses_占星術_p2599]]"

@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_語り手
+type: entity
+subtype: terminology
+canonical_name: 語り手
+aliases: []
+first_appearance: ch0069
+spoiler_after: ch0069
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 語り手
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: そうあるのだと、幻想を抱きたいという、願い。ある人はそれを信仰と呼んだ。別の人はそれを価値観と規定した。世界観、と言った人もいた。言葉は一つ一つ違うけれど、それらの記号が参照している現実はひとつ。
+
+<!-- /AUTO-GENERATED:symbolic -->

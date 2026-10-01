@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_タマちゃん先生
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0069
 spoiler_after: ch0069
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # タマちゃん先生
@@ -29,3 +30,18 @@ created: "2026-09-30"
 - [[A_ch0069_analogous_to_E_ch0069_タマちゃん先生_says_作詞のコツ_p2568_nonsense_advice|形式主義による創造の本質戯画]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 出し抜けにどこからか白黒兎がやってきた。「あ、クリアせんせーだ」「タマちゃん先生、どうしたんですか」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「作詞のコツをアドバイスできると思いますわ。肝要なのはクルクル回って優雅にターン！」
+- **unknown**: 「ワタクシたち、いつか出会った際にはきっと固い絆で結ばれるとかねてより予感しておりましたの」
+
+<!-- /AUTO-GENERATED:speech -->

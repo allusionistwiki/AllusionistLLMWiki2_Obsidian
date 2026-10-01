@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_イエロー
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0040
 spoiler_after: ch0040
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # イエロー
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 隣国ドラトリアから留学に来ている穏やかなお嬢様イエローは内側に何か変なものがいて、頭から三角耳になって飛び出している。（ch0055）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 隣国ドラトリアから留学に来ている穏やかなお嬢様イエローは内側に何か変なものがいて、頭から三角耳になって飛び出している。
+
+<!-- /AUTO-GENERATED:visual -->

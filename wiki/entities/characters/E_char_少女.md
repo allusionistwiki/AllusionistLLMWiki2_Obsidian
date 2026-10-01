@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_少女
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0033
 spoiler_after: ch0033
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 少女
@@ -32,3 +33,17 @@ created: "2026-09-30"
 - [[A_ch0069_analogous_to_E_ch0069_少女_fears_死人の父_p2574_uncanny_valley|不気味の谷による死者の恐怖]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 俯いてその場を立ち去ろうとした時、怒りに震える少年を横から叱りつけるものがあった。一つ二つしか違わないであろう、幼い少女だ。小さな手で少年の頭を叩くと、そのままぐいと頭を下げさせる。「ごめんなさい使徒様、うちの弟が失礼な事をしてしまって」「なんだよ、止めろよ姉ちゃん」「馬鹿！　いい子にしてないと、マロゾロンド様に嫌われちゃうんだよ！　そうしたら、お父さんだって地上で彷徨ったまま、空の上に連れて行ってもらえないんだから。それともあんたはお父さんが悪霊になって人を襲ったり、お父さんの同僚の人達に退治されてもいいっていうの？」
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 天の御殿をも取り込んだガルズの浄界は、死者の記憶を再生する。死んだはずの父親が理性のない死人となって現れるという残酷に、少年は歓喜し、少女は恐怖する。
+
+<!-- /AUTO-GENERATED:speech -->

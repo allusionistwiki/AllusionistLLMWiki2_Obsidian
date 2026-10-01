@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_サイバーカラテ
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0002
 spoiler_after: ch0002
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # サイバーカラテ
@@ -35,3 +36,33 @@ created: "2026-09-30"
 - [[A_ch0078_analogous_to_E_ch0078_サイバーカラテ_defines_インドアユーザー_p2908_クラウドファンディングやデータ提供による支援|データエコシステム構造の模倣]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 一般人を達人に変える、万能の武術。その名はサイバーカラテ。
+- **unknown**: 足りない精神力をツールによって補うのは、サイバーカラテの本質に適うことだ。 これがサイバーカラテというものだ。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 使用者たちが抱く幻想は呪力を宿し、サイバーカラテに、そしてその技を振るう者たちにより強い力を与える。呪的発勁。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 実のところ、サイバーカラテを下支えしているのはこうしたインドアユーザーたちである。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 三ヶ月前に地上で起きた事件の概要は俺もニュースなどで把握しているが――あれ以来サイバーカラテというのはちょっとしたブームになっていた。
+- **unknown**: 『事件』で評判になったのは、サイバーカラテの『一般人でも強くなれる』という点だ。
+
+<!-- /AUTO-GENERATED:symbolic -->

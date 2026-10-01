@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_店員
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0013
 spoiler_after: ch0013
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 店員
@@ -31,3 +32,26 @@ created: "2026-09-30"
 - [[A_ch0013_alludes_to_E_ch0013_店員_other_古代語_p599_言語魔術師|言語魔術師による多様性示唆]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 黒と紫を基調とした呪術師の服装で、手には大きな杖を握っている。杖の先端には皿のように窪んだ巨大な円盤が取り付けられており、巨大な匙のようにも見える。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 店員さんの口から滑らかに滑り出す、少年と同じ言語。彼の言葉が理解できるためか、俺にもそれが聞き取れた。
+- **unknown**: 探索者としての能力以外を求められてくる方がそれなりの数いらっしゃるので、結局一人で探索に行っていますね
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 店員さんは腰のホルダーからカード型端末を取り出すと、背負っていた杖の先端部に次々と挿入していく。円盤状の杖先から小さな惑星が幾つも浮かぶ小宇宙の立体映像が投影される。
+- **unknown**: 「あのお店のシフトがお昼までなんですよ。お昼時はここで働かせてもらっています」
+
+<!-- /AUTO-GENERATED:action -->

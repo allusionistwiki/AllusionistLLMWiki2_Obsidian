@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_血統呪術
+type: entity
+subtype: terminology
+canonical_name: 血統呪術
+aliases: []
+first_appearance: ch0053
+spoiler_after: ch0053
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 血統呪術
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 血統呪術というものがある。 血にこそ力が宿ると信じるその呪術は、近親婚を繰り返して血の純化を図る【秩序派】と様々な血を取り込む事で呪的性質の多様性を確保できると考える【混沌派】に分かれるが、クロウサー家の血統呪術は【混沌派】である。
+
+<!-- /AUTO-GENERATED:name -->

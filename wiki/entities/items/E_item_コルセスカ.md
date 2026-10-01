@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_コルセスカ
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0005
 spoiler_after: ch0005
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # コルセスカ
@@ -34,3 +35,32 @@ created: "2026-09-30"
 - [[A_ch0021_analogous_to_E_ch0021_コルセスカ_uses_ゲーム_p924_RPG_character_growth|RPGキャラ成長への自己投影]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 俺の背後からその悪寒すら温く感じるほどの猛烈な寒さが出現した。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 右腕を掴まれて、急激に真横に引っ張られる。
+- **unknown**: コルセスカがそういうわけでとばかりに、ひょいと手を離したことで悩みは解消された。
+- **unknown**: 突然上空から降り注いだ巨大な氷柱に貫かれ、悉く絶命する。
+- **unknown**: 裂帛の気合いと共に撃ち出された炎を、コルセスカは振り返りざまにその巨大な右眼で睨み付けただけで停止させた。
+- **unknown**: なによりおぞましいことにその肉体から血液が抜き取られていた。
+- **unknown**: その内側に赤い血を並々と湛えた、氷の指輪。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「先走りすぎです、アキラ。貴方一人では、これの相手は難しいでしょう」
+- **unknown**: 「粘着質な男。まあいいでしょう。貴方の底はもう見えている。ここで私が凍らせて差し上げます」
+- **unknown**: 「貴方は、ご自身の戦いに決着を。そして、願わくば――」
+- **unknown**: 「キーワード定義『凍結』。スタック上にある呪術は『解決されない』」
+
+<!-- /AUTO-GENERATED:speech -->

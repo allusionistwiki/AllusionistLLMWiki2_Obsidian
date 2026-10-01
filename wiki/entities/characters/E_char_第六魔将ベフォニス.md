@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_第六魔将ベフォニス
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0066
 spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 第六魔将ベフォニス
@@ -31,3 +32,11 @@ created: "2026-09-30"
 - [[E_char_石喰い|石喰い]] — 命名（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 第六魔将、石喰いのベフォニス。岩肌種。
+- **unknown**: 第六魔将、石喰いのベフォニス。岩肌種。トロル
+
+<!-- /AUTO-GENERATED:name -->

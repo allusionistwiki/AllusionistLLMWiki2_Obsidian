@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_黒百合宮
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0041
 spoiler_after: ch0041
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 黒百合宮
@@ -27,3 +28,17 @@ created: "2026-09-30"
 > 『候補』と『姉妹』――末妹候補が生徒で、キュトスの姉妹が先生だった。（ch0055）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『候補』と『姉妹』――末妹候補が生徒で、キュトスの姉妹が先生だった。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: そして私は、朝と夜の区別がない、とても不思議な場所に連れてこられた。 黒百合宮という名前だと、ダーシェンカが教えてくれた。
+
+<!-- /AUTO-GENERATED:name -->

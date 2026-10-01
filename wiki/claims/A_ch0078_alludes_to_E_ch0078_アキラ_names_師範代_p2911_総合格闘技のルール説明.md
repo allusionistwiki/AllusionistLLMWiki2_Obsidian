@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0078_alludes_to_E_ch0078_アキラ_names_師範代_p2911_総合格闘技のルール説明
 title: 総合格闘技ルールへの拡張
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0078_アキラ_names_師範代_p2911]]"

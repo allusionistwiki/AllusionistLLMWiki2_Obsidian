@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0050_analogous_to_E_ch0050_戦場小説_defines_社会的利用形態_p1977_スマホゲームのガチャ演出
 title: ガチャ演出と心理的報酬
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_戦場小説_defines_社会的利用形態_p1977]]"

@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_org_九姉評議会
+type: entity
+subtype: organization
+canonical_name: 九姉評議会
+aliases: []
+first_appearance: ch0012
+spoiler_after: ch0012
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 九姉評議会
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「四つのメソッドとはすなわち『邪視』『呪文』『使い魔』『杖』からなる呪術の四大系統のこと。世間の人に向けては『魔女っぽい』用語で秘め隠しているけれど、実際にはこれ、そんなに大仰なものじゃないんだよ。人間の知的営みを四通りに切り分けたこの区分は、正確には『世界観の拡張』『言語の拡張』『関係性の拡張』『身体性の拡張』と定義される呪術なの」
+
+<!-- /AUTO-GENERATED:speech -->

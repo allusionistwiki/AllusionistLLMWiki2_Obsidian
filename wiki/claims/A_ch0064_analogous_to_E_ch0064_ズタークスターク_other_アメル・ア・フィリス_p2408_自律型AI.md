@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_ズタークスターク_other_アメル・ア・フィリス_p2408_自律型AI
 title: 自律型AIエージェント
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ズタークスターク_other_アメル・ア・フィリス_p2408]]"

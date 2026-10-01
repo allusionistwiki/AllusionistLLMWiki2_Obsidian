@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0043_alludes_to_E_ch0043_ハルベルト_says_天使の諍い_p1831_神話の因果応報_天罰
 title: 因果応報・天罰の政治転用
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ハルベルト_says_天使の諍い_p1831]]"

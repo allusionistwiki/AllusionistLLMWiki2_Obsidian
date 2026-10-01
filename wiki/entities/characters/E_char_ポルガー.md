@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ポルガー
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0075
 spoiler_after: ch0075
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ポルガー
@@ -24,3 +25,17 @@ created: "2026-09-30"
 > 名付け親としてメイファーラの名を定めたのも、その霊媒としての資質を見込んで末妹候補に推挙したのもポルガーである。（ch0075）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ジャッフハリム四十四士にしてキュトスの姉妹の六十三位であるポルガーは、同時にシャルマキヒュその人から血を受けてジャスマリシュ――つまりは天眼の民となった身であり、メイファーラの家とは極めて深い繋がりを持つ。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 名付け親としてメイファーラの名を定めたのも、その霊媒としての資質を見込んで末妹候補に推挙したのもポルガーである。
+
+<!-- /AUTO-GENERATED:action -->

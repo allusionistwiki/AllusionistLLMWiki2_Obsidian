@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_タマ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0032
 spoiler_after: ch0032
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # タマ
@@ -31,3 +32,18 @@ created: "2026-09-30"
 - [[A_ch0032_alludes_to_E_ch0032_タマ_other_白黒兎_p1321_不思議の国のアリス|不思議の国のアリス]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: ワタクシおまじないというおまじないが全くもって使えませんのよ。治癒符に触れた途端ぱんしてぽんですわ
+- **unknown**: 「いやですわ主様。答えは既にあなた様の中にありますのに。ヒントはワタクシ。過去と現在の絶えざる参照が未来を切り開くのです」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 二足歩行の兎が、片方の手の上に綿菓子、もう片方に透明な水飴を浮遊させながら、いつもの調子で宣った。
+
+<!-- /AUTO-GENERATED:action -->

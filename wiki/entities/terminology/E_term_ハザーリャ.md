@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ハザーリャ
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0061
 spoiler_after: ch0061
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ハザーリャ
@@ -28,3 +29,17 @@ created: "2026-09-30"
 - [[A_ch0061_alludes_to_E_ch0061_ハザーリャ_other_生殖と蘇生_p2292_ヒエロス・ガモス|ヒエロス・ガモスへの暗喩]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 地母神に随伴する死と再生を司る男性神。イヤー・ゴッド キュトスの従属神、泡沫のハザーリャ。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: ハザーリャが象徴するのは死であると同時に生命の誕生。冬が終わり春の訪れを祝福する聖婚。ヒエロス・ガモス 平たく言えば生殖の暗喩。もしくは、蘇生。
+
+<!-- /AUTO-GENERATED:symbolic -->

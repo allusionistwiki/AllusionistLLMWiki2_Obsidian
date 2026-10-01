@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_ネット小説
+type: entity
+subtype: terminology
+canonical_name: ネット小説
+aliases: []
+first_appearance: ch0025
+spoiler_after: ch0025
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# ネット小説
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 結末は、聖騎士自身が満足してその生に自ら幕を閉じるというもの。彼の主人公性を揺るがせることはせず、その格を保ったまま退場させていく、ある意味で残酷で恣意的な誘導。
+
+<!-- /AUTO-GENERATED:speech -->

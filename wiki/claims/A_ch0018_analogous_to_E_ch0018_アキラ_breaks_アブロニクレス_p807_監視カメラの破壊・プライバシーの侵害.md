@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0018_analogous_to_E_ch0018_アキラ_breaks_アブロニクレス_p807_監視カメラの破壊・プライバシーの侵害
 title: 監視カメラ破壊によるプライバシー抵抗
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_アキラ_breaks_アブロニクレス_p807]]"

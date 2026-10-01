@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_魔導書
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0031
 spoiler_after: ch0031
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 魔導書
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 十三の光が魔導書から放たれ、一つは巨人の方へ、残り十二は全て天の御殿に飲み込まれていく。（ch0064）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 十三の光が魔導書から放たれ、一つは巨人の方へ、残り十二は全て天の御殿に飲み込まれていく。
+
+<!-- /AUTO-GENERATED:action -->

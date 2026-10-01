@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_マリキアン・リト
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0066
 spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # マリキアン・リト
@@ -24,3 +25,17 @@ created: "2026-09-30"
 > 「――変身者であることが露見し、騎士団の勢力争いに利用された。二人とも、最後まで俺が助けてくれると信じていたよ。ああ、そんなことができるはずもないのにな。今、二人は俺の盾と鎧の中にいる」（ch0066）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「ああ、君かマリキアン。まだ悲しいことを続けているのだね」「知り合いかな、ダエモデク？」「ああ。できれば殺したくないなあ。同族と戦うのは悲しいよ。同族じゃなくても悲しいけれどね。彼は妻子を人質に取られているから仕方無いんだ」
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「――変身者であることが露見し、騎士団の勢力争いに利用された。二人とも、最後まで俺が助けてくれると信じていたよ。ああ、そんなことができるはずもないのにな。今、二人は俺の盾と鎧の中にいる」
+
+<!-- /AUTO-GENERATED:speech -->

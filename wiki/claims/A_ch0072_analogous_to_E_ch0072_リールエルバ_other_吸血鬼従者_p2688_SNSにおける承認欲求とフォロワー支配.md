@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0072_analogous_to_E_ch0072_リールエルバ_other_吸血鬼従者_p2688_SNSにおける承認欲求とフォロワー支配
 title: SNS承認欲求による支配構造
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0072_リールエルバ_other_吸血鬼従者_p2688]]"

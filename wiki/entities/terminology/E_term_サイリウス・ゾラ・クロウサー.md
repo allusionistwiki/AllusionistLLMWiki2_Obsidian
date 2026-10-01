@@ -1,0 +1,30 @@
+---
+schema_version: '5.1'
+id: E_term_サイリウス・ゾラ・クロウサー
+type: entity
+subtype: terminology
+canonical_name: サイリウス・ゾラ・クロウサー
+aliases: []
+first_appearance: ch0063
+spoiler_after: ch0063
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# サイリウス・ゾラ・クロウサー
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 高みから眼下を睥睨する雲上人たち。第一の眷族種【エルネ＝クローザンドの空の民】たちが厳かに登場する。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「頭が高い。頭を垂れよ地虫ども」 その場に立っている者が、全員揃って膝を突いた。
+
+<!-- /AUTO-GENERATED:speech -->

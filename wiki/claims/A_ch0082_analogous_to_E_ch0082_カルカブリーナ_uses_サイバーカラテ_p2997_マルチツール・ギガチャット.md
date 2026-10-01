@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0082_analogous_to_E_ch0082_カルカブリーナ_uses_サイバーカラテ_p2997_マルチツール・ギガチャット
 title: サイバーカラテによるガチャ的マルチツール依存
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_カルカブリーナ_uses_サイバーカラテ_p2997]]"

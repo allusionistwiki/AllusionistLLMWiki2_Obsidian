@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_男
+type: entity
+subtype: terminology
+canonical_name: 男
+aliases: []
+first_appearance: ch0077
+spoiler_after: ch0077
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 男
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「あ、あんた、アキラって言うのかい。じゃあ、もしかして」「俺ぁ知ってるぜ、今のかけ声はサイバーカラテってヤツだろ！ はっけいようい？ だっけ？ 女王サマの『猟犬』が使うってあの武術だよ！」
+
+<!-- /AUTO-GENERATED:speech -->

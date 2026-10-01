@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ガルズ・マウザ・クロウサー
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0048
 spoiler_after: ch0048
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ガルズ・マウザ・クロウサー
@@ -24,3 +25,17 @@ created: "2026-09-30"
 > ガルズ・マウザ・クロウサーはけっして弱くはないが、単体では必ずしも恐るべき相手というほどでもない。　彼の実力は後衛であるからこそ輝くものだ。（ch0056）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ガルズ・マウザ・クロウサー。あの男はまさにその葬送式典までに十三人を殺害し、生贄を献げる事で何らかの儀式呪術を行おうとしている。 恐らく、葬送式典の当日に何かを仕掛けるつもりなのだろう。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: ガルズ・マウザ・クロウサーはけっして弱くはないが、単体では必ずしも恐るべき相手というほどでもない。　彼の実力は後衛であるからこそ輝くものだ。
+
+<!-- /AUTO-GENERATED:symbolic -->

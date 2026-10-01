@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0052_alludes_to_E_ch0052_カタルマリーナ_other_原初の旋律_p2043_nature_worship
 title: 自然崇拝のアニミズム
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_カタルマリーナ_other_原初の旋律_p2043]]"

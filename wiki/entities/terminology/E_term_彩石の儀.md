@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_彩石の儀
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0041
 spoiler_after: ch0041
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 彩石の儀
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > そうする内に、【彩石の儀】という事前選考を知り、それなりに成績も良かったメイファーラはホルケナウの他の魔女たちと同じようにそのアストラルの空での戦いに身を投じる事になる。（ch0075）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: その後、彩石の儀で勝利して【万色】の称号を得た者を末妹候補を通り越して第五位代理にするという宣言がされ、全員が色めきだった。
+
+<!-- /AUTO-GENERATED:speech -->

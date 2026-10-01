@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_群青様
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0043
 spoiler_after: ch0043
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 群青様
@@ -25,3 +26,12 @@ created: "2026-09-30"
 > 最初の爆破で命を落としたのは、あの夜の民の司教、群青様だった。（ch0046）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 最初の爆破で命を落としたのは、あの夜の民の司教、群青様だった。
+- **unknown**: 卓の反対側から歩いてきた小さなその人物は、黒衣の中から自分の体積以上の棒付き飴を取り出す。
+- **unknown**: けぷ、とフードから音を漏らして、影の触手を伸ばして葡萄酒を啜る。触手は吸管のようにも使えるのだ。
+
+<!-- /AUTO-GENERATED:action -->

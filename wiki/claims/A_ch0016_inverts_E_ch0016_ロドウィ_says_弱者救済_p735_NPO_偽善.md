@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0016_inverts_E_ch0016_ロドウィ_says_弱者救済_p735_NPO_偽善
 title: NPO偽善による暴力正当化
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0016_ロドウィ_says_弱者救済_p735]]"

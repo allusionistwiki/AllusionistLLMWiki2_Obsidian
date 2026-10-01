@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_Spea
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0059
 spoiler_after: ch0059
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # Spea
@@ -32,3 +33,21 @@ created: "2026-09-30"
 - [[A_ch0059_parodies_E_ch0059_青嶺瑠璃_other_Spea_p2234_推し活_オタク文化|非対称な推し活崇拝]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 突然、控え室の鏡が砕け散って、世界が引き裂かれます。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「お姉ちゃん」「ハルを守って」
+- **unknown**: 「あなたはハルに妹を投影してる」「あなたはわがまま――わからずやのほしがりや」
+- **unknown**: 「白いガーデニア、覚えてる？」
+- **unknown**: 「君はファン――つまり沢山いる内の一人だ。『特別』じゃない」
+- **unknown**: 「ハルと――ううん、ジルと存在をかけて決闘して。勝った方が、ハルベルトの名を受け継ぎ、存在基盤を確立する。」
+
+<!-- /AUTO-GENERATED:speech -->

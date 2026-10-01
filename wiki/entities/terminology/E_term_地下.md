@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_地下
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0082
 spoiler_after: ch0082
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 地下
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「でも違った。地下に現れた死人はもっと異質な何か――【死人の森】が地下から第五階層を浸食したことによって発生した【死人の森の軍勢】だったんだ」（ch0082）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: それどころか、現在下水道やこの工場街の地下に溢れつつある『危機』についての詳細は関係者たちの間で箝口令（呪術的な拘束力があるらしい）が布かれている。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 強烈な照明があるにもかかわらず、何故か闇の濃さが増大し続ける異様な空間。増殖していく『骨の壁』によって複雑化する内部構造。
+
+<!-- /AUTO-GENERATED:visual -->

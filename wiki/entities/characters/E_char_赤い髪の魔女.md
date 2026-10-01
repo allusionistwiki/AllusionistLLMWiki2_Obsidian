@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_赤い髪の魔女
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0003
 spoiler_after: ch0003
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 赤い髪の魔女
@@ -28,3 +29,11 @@ created: "2026-09-30"
 - [[A_ch0003_inverts_E_ch0003_赤い髪の魔女_says_祈りと暴力_p182_宗教と暴力の逆転|宗教と暴力の逆転]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 野蛮でないものは失われた。ここは棍棒と呪術の世界。血と闘争、鉄の願いが支配する、地獄すら狩り場にして恥じない呪われた世界
+- **unknown**: だから今は祈ろう。祈りながら、祈祷の道具を鈍器に換えて、殴って悪夢を醒ましてやろう
+
+<!-- /AUTO-GENERATED:speech -->

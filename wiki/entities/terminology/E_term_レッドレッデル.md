@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_レッドレッデル
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0073
 spoiler_after: ch0073
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # レッドレッデル
@@ -24,3 +25,17 @@ created: "2026-09-30"
 > ヲルヲーラに覆い被さり、その巨体を構成する群れの大半を吸収していくレッドレッデル。歌姫のゲルシェネスナが大半の個体を消滅させると、翼猫は全体を維持できずに崩壊していく。（ch0073）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 真っ赤な気体によって構成された猫が、エルネトモラン上空に出現した。巨体といい呪力といいヲルヲーラに引けを取らない。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ヲルヲーラに覆い被さり、その巨体を構成する群れの大半を吸収していくレッドレッデル。歌姫のゲルシェネスナが大半の個体を消滅させると、翼猫は全体を維持できずに崩壊していく。
+
+<!-- /AUTO-GENERATED:action -->

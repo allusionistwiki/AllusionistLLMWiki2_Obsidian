@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_第六階層
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0005
 spoiler_after: ch0005
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 第六階層
@@ -28,3 +29,10 @@ created: "2026-09-30"
 - [[A_ch0053_analogous_to_E_ch0053_第六階層_has_property_最適化不能_p2067_agile_software_development|アジャイル開発への適応的比喩]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 第六階層の本当の危険性は攻略の最適化ができない所にある。 複合種――そしてその上位種である狂怖種には、決まった性質が コンプレックス ホラー 無い。全ての個体がばらばらで、効果的な対策方法などをその場その場で探り出していくしかできないのだ。
+
+<!-- /AUTO-GENERATED:symbolic -->

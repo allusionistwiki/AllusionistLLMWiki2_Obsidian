@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_モロレク
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0005
 spoiler_after: ch0005
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # モロレク
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > この二つの組織は共に俺を不倶戴天の敵と見定めているものの、それぞれ『上』と『下』ということもあって互いに敵対していた筈だ。（ch0005）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 悪鬼。『モロレク』という音で呼ばれる彼らは、黒い肌と矮躯、鋭い牙などを特徴とする種族であり、同時に血族集団でもある。
+
+<!-- /AUTO-GENERATED:action -->

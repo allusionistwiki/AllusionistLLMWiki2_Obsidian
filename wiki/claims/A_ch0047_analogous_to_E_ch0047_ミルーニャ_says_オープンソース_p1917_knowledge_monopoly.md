@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_knowledge_monopoly
 title: 知的財産権と情報共有の対立
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_オープンソース_p1917]]"

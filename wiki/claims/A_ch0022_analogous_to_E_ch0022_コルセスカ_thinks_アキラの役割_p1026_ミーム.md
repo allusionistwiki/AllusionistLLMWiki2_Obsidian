@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0022_analogous_to_E_ch0022_コルセスカ_thinks_アキラの役割_p1026_ミーム
 title: ミームへの呪力伝達機能
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_コルセスカ_thinks_アキラの役割_p1026]]"

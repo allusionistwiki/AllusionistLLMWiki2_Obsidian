@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_竜骨の森
+type: entity
+subtype: terminology
+canonical_name: 竜骨の森
+aliases: []
+first_appearance: ch0042
+spoiler_after: ch0042
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 竜骨の森
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 古の時代、異次元より飛来した巨大な墓標船。不時着の衝撃で展開されてしまった異界の記憶が世界槍の記憶と混淆し、無秩序な世フォーミングテラ界改変を開始して生まれたのがこの竜骨の森の起源であると言われている。
+
+<!-- /AUTO-GENERATED:symbolic -->

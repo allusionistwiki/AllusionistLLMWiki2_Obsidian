@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_アブロニクレス
+type: entity
+subtype: character
+canonical_name: アブロニクレス
+aliases: []
+first_appearance: ch0026
+spoiler_after: ch0026
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# アブロニクレス
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その現象をもたらしているのは、無数の眼球だった。空中に浮遊する、夥しい数の目、目、目。数百、数千を超えてもはや万に達するのではないかという凄まじい数の、それは既に軍勢だった。
+
+<!-- /AUTO-GENERATED:visual -->

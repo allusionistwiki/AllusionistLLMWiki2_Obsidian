@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_クルエクローキ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0073
 spoiler_after: ch0073
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # クルエクローキ
@@ -25,3 +26,24 @@ created: "2026-09-30"
 > 悪運の竜クルエクローキが気紛れを起こしたならば、二人はいずれ戦場で相まみえることにもなり得るだろう。　同じジャッフハリムの勇士でありながら、敵同士として。（ch0075）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 第三の創生竜は運命を司る。守護竜クルエクローキは世界の揺らぎを修正しようとする秩序の象徴。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 私は、天の御殿に巻き付く有翼の大蛇を幻視した。 天から地上へと放たれる極大の閃光。 全てのアストラル界を消滅させるための、それは死の奔流。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 悪運の竜クルエクローキが気紛れを起こしたならば、二人はいずれ戦場で相まみえることにもなり得るだろう。　同じジャッフハリムの勇士でありながら、敵同士として。
+
+<!-- /AUTO-GENERATED:symbolic -->

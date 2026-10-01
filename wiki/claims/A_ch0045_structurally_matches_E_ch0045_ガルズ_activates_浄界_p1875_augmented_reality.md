@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0045_structurally_matches_E_ch0045_ガルズ_activates_浄界_p1875_augmented_reality
 title: 拡張現実による世界改変
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0045_ガルズ_activates_浄界_p1875]]"

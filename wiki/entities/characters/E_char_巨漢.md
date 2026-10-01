@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_巨漢
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0077
 spoiler_after: ch0077
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 巨漢
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 腰の辺りを持ち上げて、床に叩きつける。 まず、それで首の骨が折れた。だが。「残った」 振り下ろされた掌が、頭蓋を叩きつぶす。 死の確定。（ch0077）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 刺青――呪紋が輝き、剛腕が伸びる。 がしりと肩を掴むと、凄まじい握力で握り込んだ。
+
+<!-- /AUTO-GENERATED:action -->

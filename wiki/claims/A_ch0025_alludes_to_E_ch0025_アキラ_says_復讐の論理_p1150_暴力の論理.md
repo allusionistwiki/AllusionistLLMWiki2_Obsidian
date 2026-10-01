@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0025_alludes_to_E_ch0025_アキラ_says_復讐の論理_p1150_暴力の論理
 title: 暴力の論理への復讐定義書き換え
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_アキラ_says_復讐の論理_p1150]]"

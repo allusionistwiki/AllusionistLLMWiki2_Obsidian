@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ペイル
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0034
 spoiler_after: ch0034
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ペイル
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > リーナが指差した先にある舞台では、状況を混乱させるべく現れた巨大な腐肉人形がペイルによって粉砕されていた。（ch0063）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: リーナが指差した先にある舞台では、状況を混乱させるべく現れた巨大な腐肉人形がペイルによって粉砕されていた。
+
+<!-- /AUTO-GENERATED:action -->

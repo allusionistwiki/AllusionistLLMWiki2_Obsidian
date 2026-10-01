@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_デーモン
+type: entity
+subtype: terminology
+canonical_name: デーモン
+aliases: []
+first_appearance: ch0040
+spoiler_after: ch0040
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# デーモン
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 十八のアバターは、それを操る本人の真のアストラル体では無い。　闘争の為だけに用意された、アストラル界を動くための一時的な呪的化身。その名はデーモン。
+
+<!-- /AUTO-GENERATED:name -->

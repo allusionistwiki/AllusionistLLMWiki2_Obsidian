@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_言理の妖精
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0056
 spoiler_after: ch0056
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 言理の妖精
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0071_alludes_to_E_ch0071_言理の妖精_defines_記号と意味_p2628_デリダの差延概念|デリダ差延概念の暗喩]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 実のところ、記号や意味やその狭間の全てが言理の妖精たちなのだ。
+
+<!-- /AUTO-GENERATED:symbolic -->

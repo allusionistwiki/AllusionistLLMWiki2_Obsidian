@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_シャルマキヒュ
+type: entity
+subtype: terminology
+canonical_name: シャルマキヒュ
+aliases: []
+first_appearance: ch0070
+spoiler_after: ch0070
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# シャルマキヒュ
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 天眼の民に加護を与えるシャルマキヒュ本来の権能は天眼だけでない。 それは【凍視】と呼ばれる時間停止能力であり、これは「無秩序な混沌である全ての分子運動を未来永劫に渡って把握することは不可能でも、時間と空間を限定すれば可能である」とする己の能力への確信によるものである。
+
+<!-- /AUTO-GENERATED:visual -->

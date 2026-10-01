@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_item_人造ホラー
+type: entity
+subtype: item
+canonical_name: 人造ホラー
+aliases: []
+first_appearance: ch0082
+spoiler_after: ch0082
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 人造ホラー
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 解き放たれた合成種族が、異形の全身を闇の中に踊らせて、空間を激しく破壊していった。地下で繰り広げられた激しい戦いの余波によって、強固な檻が破壊されてしまっていたのだ。
+
+<!-- /AUTO-GENERATED:action -->

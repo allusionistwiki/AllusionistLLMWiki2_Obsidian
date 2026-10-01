@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_ナルシシズムと自己保存本能
 title: ナルシシズム
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

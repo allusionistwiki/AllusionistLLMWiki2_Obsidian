@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0035_structurally_matches_E_ch0035_ハルベルト_other_アストラル界_p1438_GUI_TUI
 title: GUIとTUIの呪術界対比
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_ハルベルト_other_アストラル界_p1438]]"

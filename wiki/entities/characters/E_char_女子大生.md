@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_女子大生
+type: entity
+subtype: character
+canonical_name: 女子大生
+aliases: []
+first_appearance: ch0033
+spoiler_after: ch0033
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 女子大生
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「リーナのそれってヴァージネリーの新作？　やっぱお嬢様はお金持ってるねー」「いや、私そんな仕送り多くないって。こないだちょっと第二階層まで足伸ばしたの。それで臨時収入があっただけ。それに実用面を考えるときぐるみ妖精の方が良かったかなってちょっと後悔してた」
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_男性
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0033
 spoiler_after: ch0033
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 男性
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「おい、ばあさん、その手ぇ見せてみろ！」「お、お止め！ 触るでないよ！」 屈強な男性が老女の黒衣を剥いて、その素肌を露わにする。（ch0069）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 相手の男性はぶつぶつと小さく何かを呟いていたが、私の方を見るとぎょろりとした目で睨め付けて、聞こえよがしに舌打ちをした。「ち、影喰いかよ」　周囲の空気が一瞬だけ凍り付く。それは私達の種族に対する古くさい迷信で、現代では基本的に公然と口にすることが許されていない言葉だった。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「おい、ばあさん、その手ぇ見せてみろ！」「お、お止め！ 触るでないよ！」 屈強な男性が老女の黒衣を剥いて、その素肌を露わにする。
+
+<!-- /AUTO-GENERATED:action -->

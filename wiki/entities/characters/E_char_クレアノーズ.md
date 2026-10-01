@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_クレアノーズ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0012
 spoiler_after: ch0012
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # クレアノーズ
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 自らの使い魔を葡萄絞り器に放り込んで圧搾する。骨肉が砕けて千切れ、やがて均一な絶叫となる。（ch0022）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「お姉様はね、すごく優しい人だよ。見込みが無さ過ぎて杖の派閥にすら見捨てられた私のことを拾い上げて、後ろ盾になってくださったの。本来どの派閥にも所属せず、姉妹全体の事を考えて中立を守らなければならない立場の方なんだけど、周囲の糾弾にも構わず私を保護してくれて――そのせいで立場が悪くなって、杖の派閥の盟主であるラクルラールお姉様に幽閉されてしまっているんだけど」
+
+<!-- /AUTO-GENERATED:speech -->

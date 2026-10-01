@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_星見の塔
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0010
 spoiler_after: ch0010
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 星見の塔
@@ -24,3 +25,17 @@ created: "2026-09-30"
 > この計画を強引に成立させるために、星見の塔が介入したことは間違い無い。（ch0061）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「同じ組織に属しているからこそ競争するの。私達は『星見の塔』の『最後の魔女』の席を賭けて争っているんだ。その席はたった一つつきりで、四人いる候補者のうち一人しかそこには座れない。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: この計画を強引に成立させるために、星見の塔が介入したことは間違い無い。
+
+<!-- /AUTO-GENERATED:action -->

@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_現代_SNS通報
 title: SNS通報
+
 type: external_reference
 created: "2026-10-01"
 subtype: internet_culture

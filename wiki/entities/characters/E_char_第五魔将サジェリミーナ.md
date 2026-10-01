@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_第五魔将サジェリミーナ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0066
 spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 第五魔将サジェリミーナ
@@ -31,3 +32,11 @@ created: "2026-09-30"
 - [[E_char_銀霊|銀霊]] — 命名（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 第五魔将、銀霊サジェリミーナ。銀霊種。
+- **unknown**: 第五魔将、銀霊サジェリミーナ。銀霊種。クイックシルバー
+
+<!-- /AUTO-GENERATED:name -->

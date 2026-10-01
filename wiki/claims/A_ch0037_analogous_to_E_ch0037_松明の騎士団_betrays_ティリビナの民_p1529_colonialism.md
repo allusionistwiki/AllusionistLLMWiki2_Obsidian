@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_松明の騎士団_betrays_ティリビナの民_p1529_colonialism
 title: 植民地主義的な土地収奪
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_松明の騎士団_betrays_ティリビナの民_p1529]]"

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0013_structurally_matches_E_ch0013_アキラ_wears_急場凌ぎの義肢_p596_サイバーパンク_義肢
 title: サイバーパンク義肢の機能不全
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0013_アキラ_wears_急場凌ぎの義肢_p596]]"

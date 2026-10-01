@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_uncanny_valley
 title: 不気味の谷
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0069_alludes_to_E_ch0069_青年_says_異獣の排除_p2577_exclusion_of_the_other
 title: 均質な祈りによる他者排除の風刺
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_青年_says_異獣の排除_p2577]]"

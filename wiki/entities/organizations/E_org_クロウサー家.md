@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_クロウサー家
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0053
 spoiler_after: ch0053
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # クロウサー家
@@ -25,3 +26,24 @@ created: "2026-09-30"
 > クロウサー家への復讐という襲撃の性質上、最終日に殺害されるのはサイリウス・ゾラ・クロウサーだろう。　つまり明日、ハルベルトが襲撃される。（ch0062）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 「あれが腐敗の象徴だからだよ。抑圧と序列化と階層の固定。富を独占し末端の労働者から搾取を続け、労働の場を提供するインフラだと言って憚らない巨大企業群の巨悪ども。政略結婚を繰り返すこ メガコーポ とで聖と俗の区別を問わずあらゆる場所に浸透し、政財界に深く食い込んだクロウサー家の毒は地上を汚染している。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: クロウサー家と血縁関係が全く無い貴族など地上には存在しないと言っても過言ではないのだ。それほどまでにクロウサー家の婚姻にかける執念――あるいは妄念は凄まじいものがあった。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: クロウサー家への復讐という襲撃の性質上、最終日に殺害されるのはサイリウス・ゾラ・クロウサーだろう。　つまり明日、ハルベルトが襲撃される。
+
+<!-- /AUTO-GENERATED:speech -->

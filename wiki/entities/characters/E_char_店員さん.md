@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_店員さん
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0018
 spoiler_after: ch0018
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 店員さん
@@ -31,3 +32,35 @@ created: "2026-09-30"
 - [[A_ch0027_structurally_matches_E_ch0027_店員さん_names_ラズリ・ジャッフハリム_p1222_Lazuli|店員名によるラピスラズリ暗示]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「ええまあ。それなりに腕に覚えはありますから。それに、この護符が守って下さいましたし」そう言って、既に呪力が失われた紙幣を取り出す。
+- **unknown**: 巨大な杖で軽く地を突いて、彼女は俺の横を通り過ぎていく。
+- **unknown**: 「今日のこの時間はクレープ屋さんのお仕事なんです。お客様はよくお会いしますから、買って下さったらちょっとおまけしちゃいますよ」
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 言われたとおりに猫耳の少年を探しに行く途中で、ふと見覚えのある顔と出会う。「あら、またお会いしましたね、お客様」店員さんは今日も麗しい。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 最近お世話したのは、睨んだ相手を石にしてしまう下半身が蛇の少女、とか。ちょっぴり面食い屋さんで、目が大きくて綺麗な人を見るとすぐに石化させたがるのがまた可愛らしいのです」
+- **unknown**: 「いえ、単に入り用の物を買い出しに。今、ペットショップで働いているのです。色々な珍しい生き物のお世話ができてとてもやりがいがあるお仕事なんですよ。
+- **unknown**: 「くすくす――面白いくらいに積極的な方。ええ、きっとこの先、幾らでもその機会はあると思いますわ」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「構いませんよ。わたくしはラズリ。ラズリ・ジャッフハリムと申します。以後、お見知りおき下さい」
+
+<!-- /AUTO-GENERATED:name -->

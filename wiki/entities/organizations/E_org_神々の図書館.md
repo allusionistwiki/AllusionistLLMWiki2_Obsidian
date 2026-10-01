@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_神々の図書館
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0056
 spoiler_after: ch0056
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 神々の図書館
@@ -28,3 +29,17 @@ created: "2026-09-30"
 - [[A_ch0056_analogous_to_E_ch0056_神々の図書館_stops_言語管理機能_p2162_中央集権型言語管理システム|言語管理OS停止とバベルの逆転]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: その日、第四衛星太陰のグラマー界に位置する『神々の図書館』で、珍しくエラーが検出された。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 第四衛星である太陰の『神々の図書館』はありとあらゆる言語情報を管理し、世界の秩序を維持している。
+
+<!-- /AUTO-GENERATED:visual -->

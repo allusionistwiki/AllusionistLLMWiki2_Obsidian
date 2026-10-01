@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_パーソナルヒストリー
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0031
 spoiler_after: ch0031
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # パーソナルヒストリー
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 個人史を参照して人の記憶の中で奏でられる、風変わりな多声音楽。（ch0071）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 個人史を参照して人の記憶の中で奏でられる、風変わりな多声音楽。
+
+<!-- /AUTO-GENERATED:symbolic -->

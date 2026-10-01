@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0043_structurally_matches_E_ch0043_アズーリア_transforms_分裂_p1826_多重人格_解離
 title: 多重人格と解離
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_アズーリア_transforms_分裂_p1826]]"

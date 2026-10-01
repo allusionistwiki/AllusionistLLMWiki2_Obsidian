@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_扉の呪術
+type: entity
+subtype: terminology
+canonical_name: 扉の呪術
+aliases: []
+first_appearance: ch0075
+spoiler_after: ch0075
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 扉の呪術
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 扉の呪術は結果だけ見れば空間移動だが、距離を短縮するもの、重なり合う異世界を『近道』として利用するもの、類似を利用して物体同士を交換するものなど原理は様々である。
+
+<!-- /AUTO-GENERATED:action -->

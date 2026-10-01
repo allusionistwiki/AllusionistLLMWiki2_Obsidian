@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_白黒兎
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0032
 spoiler_after: ch0032
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 白黒兎
@@ -31,3 +32,17 @@ created: "2026-09-30"
 - [[A_ch0056_analogous_to_E_ch0056_白黒兎_appears_サリアとハルベルト_p2143_アリスの白ウサギ|アリスの白ウサギ的誘い]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 白黒の兎。なぜか片眼鏡をかけて小さな帽子をかぶっている。　闇色の泥の陰に隠れるようにして存在しているその兎に気がついているのは、不思議と自分とハルベルトだけのようだった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 白黒兎の魔女。　手を叩く度に砂糖菓子が弾けるように現れる、不可思議で無害な使い魔。
+
+<!-- /AUTO-GENERATED:relationship -->

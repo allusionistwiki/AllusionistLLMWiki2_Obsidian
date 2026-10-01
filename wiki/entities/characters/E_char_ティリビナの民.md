@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ティリビナの民
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0015
 spoiler_after: ch0015
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ティリビナの民
@@ -27,3 +28,10 @@ created: "2026-09-30"
 > 【緑の君】エクリエッテと【雲上姫】ミブレルらは異種族の保護に積極的であり、ティリビナの民を保護するために随分と尽力してくれたと後で聞いた。（ch0061）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 彼らはレオの言葉に耳を貸さず（理解できないのだから仕方が無いのだが）、その太い丸太そのものの腕で少年の矮躯を吹っ飛ばした。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ペリグランティア製薬
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0050
 spoiler_after: ch0050
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ペリグランティア製薬
@@ -28,3 +29,17 @@ created: "2026-09-30"
 - [[A_ch0050_analogous_to_E_ch0050_ペリグランティア製薬_defines_派閥争い_p1992_製薬業界の企業間競争|製薬業界の競争と企業秘密]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: ペリグランティア製薬というのは星見の塔の傘下にある企業であり、歴史の古い杖の一派閥そのものでもある。派閥の首魁たる呪術医ベル・ペリグランティアは、末妹の選定において杖の座に対して一定の影響力を有するが、その力は絶対的なものではない。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: あそこは、うちの――ペリグランティア製薬の探索事業部門である【公社】が進出して勢力を伸ばしているのですが
+
+<!-- /AUTO-GENERATED:name -->

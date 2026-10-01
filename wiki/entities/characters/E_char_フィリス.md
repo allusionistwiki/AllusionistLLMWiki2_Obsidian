@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_フィリス
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0033
 spoiler_after: ch0033
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # フィリス
@@ -40,3 +41,24 @@ created: "2026-09-30"
 - [[E_char_アズーリア|アズーリア]] — 使用(受)（8 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 悪夢の泡が浮かんでいく暗闇の底に、誰かがいるような気がした。それは少年。フラベウファのような三角の耳は白く、その美貌は輝かんばかり。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ずっと昔、君は僕に会いに来てくれた――これから会いに来てくれる。運命が僕たちを引き合わせようとしているのが感じられるよ。いつか、僕たちは巡り会う」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: その聞いたこともないたった一つの音が、フィリスの対極なのだとどうしてか理解できてしまって、私は恐怖に震えた。
+
+<!-- /AUTO-GENERATED:action -->

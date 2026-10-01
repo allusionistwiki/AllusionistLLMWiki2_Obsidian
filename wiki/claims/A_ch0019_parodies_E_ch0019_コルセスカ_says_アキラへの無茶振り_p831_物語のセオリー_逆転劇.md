@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0019_parodies_E_ch0019_コルセスカ_says_アキラへの無茶振り_p831_物語のセオリー_逆転劇
 title: 物語のセオリーのパロディ
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0019_コルセスカ_says_アキラへの無茶振り_p831]]"

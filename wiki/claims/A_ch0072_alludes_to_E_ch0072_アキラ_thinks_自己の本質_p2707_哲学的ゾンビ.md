@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0072_alludes_to_E_ch0072_アキラ_thinks_自己の本質_p2707_哲学的ゾンビ
 title: 哲学的ゾンビとしての自己定義
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0072_アキラ_thinks_自己の本質_p2707]]"

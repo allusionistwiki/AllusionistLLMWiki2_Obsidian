@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_黒衣
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0033
 spoiler_after: ch0033
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 黒衣
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 夜の民は自らの正体を隠匿することで神秘性を増幅させ、呪力を高める。呪力に満ちた黒衣の内側は呪術を働かせ易く、それゆえに自在に変身したり心の抽斗に持ち物を格納して即座に取り出したりといったことが可能である。（ch0064）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 夜の民は自らの正体を隠匿することで神秘性を増幅させ、呪力を高める。呪力に満ちた黒衣の内側は呪術を働かせ易く、それゆえに自在に変身したり心の抽斗に持ち物を格納して即座に取り出したりといったことが可能である。
+
+<!-- /AUTO-GENERATED:symbolic -->

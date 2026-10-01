@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0030_analogous_to_E_ch0030_アズーリア_loses_交渉の機会_p1272_言論統制
 title: 猿轡による言論統制と主体性剥奪
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_アズーリア_loses_交渉の機会_p1272]]"

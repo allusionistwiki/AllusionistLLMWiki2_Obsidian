@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_先生
+type: entity
+subtype: character
+canonical_name: 先生
+aliases: []
+first_appearance: ch0066
+spoiler_after: ch0066
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 先生
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 最後の切り札、秘されているゆえに有効に機能しうる伏兵である『先生』はまだ動けない――そもそも、純粋に正面から敵とぶつかり合うことは苦手な人だから、今はフィリスを有効に活用する為に情報収集に専念して貰うしかない。
+
+<!-- /AUTO-GENERATED:relationship -->

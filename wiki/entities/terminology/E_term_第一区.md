@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_第一区
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0045
 spoiler_after: ch0045
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 第一区
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 葬送式典の会場は、その中心で威容を誇っている。 擂り鉢状の客席は二十万人を収容可能だ。（ch0063）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 雲海に突き刺さった巨大な樹状区画は透明な強化硝子と幾重にも張り巡らされた呪術障壁によって外部の過酷な環境から守られている。
+
+<!-- /AUTO-GENERATED:visual -->

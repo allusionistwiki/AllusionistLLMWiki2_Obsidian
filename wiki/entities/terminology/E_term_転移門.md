@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_転移門
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0054
 spoiler_after: ch0054
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 転移門
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 国際法で厳重に規制され、その運用には細心の注意が払われるのだが、使用できないというわけではない。（ch0063）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 転移門の周囲だけは元の世界から持ってきた『異界』であるため、この世界が一度終わりを迎えても消滅することなく残り続ける。
+
+<!-- /AUTO-GENERATED:symbolic -->

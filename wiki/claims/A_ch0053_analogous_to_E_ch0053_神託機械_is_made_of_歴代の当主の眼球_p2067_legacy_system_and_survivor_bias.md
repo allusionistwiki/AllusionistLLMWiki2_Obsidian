@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0053_analogous_to_E_ch0053_神託機械_is_made_of_歴代の当主の眼球_p2067_legacy_system_and_survivor_bias
 title: レガシーシステムと生存者バイアス
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_神託機械_is_made_of_歴代の当主の眼球_p2067]]"

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ペリュトン
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0071
 spoiler_after: ch0071
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ペリュトン
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 「今、消滅した一瞬だけ色が見えた――」「師兄？一体それは」「エスフェイル、君は万が一に備えて下がっていなさい。先に僕らで様子を見よう――見間違いでなければ、あれは八色、いや九色か――？」（ch0071）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ペリュトンの姿が変幻し、黒衣を纏った矮躯となって建物の屋根の上に降り立った。浮遊する歌姫と並ぶようにして月下に立つ二人。
+
+<!-- /AUTO-GENERATED:visual -->

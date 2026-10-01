@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0069_analogous_to_E_ch0069_ハルベルト_says_舌の象徴性_p2563_tongue_as_interface
 title: 舌のインターフェースによる契約
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_ハルベルト_says_舌の象徴性_p2563]]"

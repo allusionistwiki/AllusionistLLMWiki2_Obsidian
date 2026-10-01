@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_お菓子の小屋
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0055
 spoiler_after: ch0055
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # お菓子の小屋
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > なんとなれば、小屋の屋根はチョコレートでできていたからだ。 真っ黒なチョコレートに真ん丸焼き菓子のお月様。（ch0055）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: なんとなれば、小屋の屋根はチョコレートでできていたからだ。 真っ黒なチョコレートに真ん丸焼き菓子のお月様。
+
+<!-- /AUTO-GENERATED:visual -->

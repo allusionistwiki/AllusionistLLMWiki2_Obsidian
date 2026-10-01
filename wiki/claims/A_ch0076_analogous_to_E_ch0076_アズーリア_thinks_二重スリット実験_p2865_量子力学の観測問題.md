@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0076_analogous_to_E_ch0076_アズーリア_thinks_二重スリット実験_p2865_量子力学の観測問題
 title: 量子力学の観測問題
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0076_アズーリア_thinks_二重スリット実験_p2865]]"

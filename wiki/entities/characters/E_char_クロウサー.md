@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_クロウサー
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0074
 spoiler_after: ch0074
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # クロウサー
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 不可視の衝撃がガルズを打ち据えた。　背骨が折れ、内臓が潰される。　浮遊するリーナの足がガルズを踏みつけ、発生した斥力が骨肉を押し潰して腹部から胴を両断していった。（ch0074）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「覚えておくがいい【右目】よ。あの方こそは第一の細胞にして我らが主と仰ぐべき頂。【心臓】のトリアイナ様こそ真の未知なる末妹」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: あらゆる細胞の中で最も膨大で、速く、鋭く、繊細で、呪わしい融血呪の流体が藍色の光を放ちながらガルズの金眼に突き刺さった。　低く鈍い絶叫が迸る。　眼球だけを正確に吸い取った融血呪が、リーナの鳶色の両目に融け合う。
+- **unknown**: 不可視の衝撃がガルズを打ち据えた。　背骨が折れ、内臓が潰される。　浮遊するリーナの足がガルズを踏みつけ、発生した斥力が骨肉を押し潰して腹部から胴を両断していった。
+
+<!-- /AUTO-GENERATED:action -->

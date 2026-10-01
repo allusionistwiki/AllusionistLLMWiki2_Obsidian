@@ -1,0 +1,40 @@
+---
+schema_version: '5.1'
+id: E_term_お姉様
+type: entity
+subtype: terminology
+canonical_name: お姉様
+aliases: []
+first_appearance: ch0073
+spoiler_after: ch0073
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# お姉様
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「さてマリー。色とは何でしょうか？」
+- **unknown**: 「貴方の持つ巨大な運命を狙って、これから災厄が貴方を襲い、確実な死をもたらすでしょう。それを阻止するために、私は貴方の存在を揺らがせる」
+- **unknown**: 借用したその『猫に名付けられた名前』が、災厄の矛先をずらす助けになればいいのですが。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 色が無いのは、狭い世界の中で一番大きな存在であった『お姉様』もだ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: そして、色についての勉強。光についての勉強。杖における自然科学的な説明と、邪視や呪文における人文科学的な説明の両面から学び
+- **unknown**: そして、絶えず姿を変える振り子のとがった先端を（次の瞬間には丸くなっていた）こつんとこちらの額に当ててくる。
+
+<!-- /AUTO-GENERATED:action -->

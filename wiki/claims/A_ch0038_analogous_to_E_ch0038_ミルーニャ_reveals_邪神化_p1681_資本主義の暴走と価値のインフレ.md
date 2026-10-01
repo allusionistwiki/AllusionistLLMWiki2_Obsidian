@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_邪神化_p1681_資本主義の暴走と価値のインフレ
 title: 資本主義の暴走と価値インフレ
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_ミルーニャ_reveals_邪神化_p1681]]"

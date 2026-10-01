@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0043_analogous_to_E_ch0043_ハルベルト_promises_序列引き上げ_p1835_スポーツの契約_目標設定
 title: ビジネス的目標設定
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ハルベルト_promises_序列引き上げ_p1835]]"

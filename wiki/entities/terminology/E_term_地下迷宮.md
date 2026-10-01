@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_地下迷宮
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0083
 spoiler_after: ch0083
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 地下迷宮
@@ -24,3 +25,17 @@ created: "2026-09-30"
 > 奇妙な事に骨が組み上がって出来た壁は少しずつ動いているらしく、迷路の構造は刻一刻と変貌しているようだ。（ch0083）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 地下迷宮は、ひどい腐臭に満ちていた。足下には原形を留めていない腐肉が散乱し、足を踏み出すと脆くなった骨が容易く砕かれていく。しかし壁を構成する骨は意外なほど強固で容易くは破壊できない。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 奇妙な事に骨が組み上がって出来た壁は少しずつ動いているらしく、迷路の構造は刻一刻と変貌しているようだ。
+
+<!-- /AUTO-GENERATED:action -->

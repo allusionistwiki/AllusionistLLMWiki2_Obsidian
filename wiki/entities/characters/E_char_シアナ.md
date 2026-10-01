@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_シアナ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0079
 spoiler_after: ch0079
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # シアナ
@@ -29,3 +30,12 @@ created: "2026-09-30"
 - [[A_ch0079_analogous_to_E_ch0079_シアナ_has_property_概日リズム変化_p2913_現代の夜間勤務手当と労働法規|労働環境均一化概念のアナロジー]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 地上で起きた例の『事件』に巻き込まれたらしいが、そんな陰を感じさせることもなく明るく勤務してくれている。
+- **unknown**: 彼女は三ヶ月ほど前に地上から第五階層にやってきたサイバーカラテユーザーで、半人狼の母親を支えるべく道場事務の求人に応募してきた。
+- **unknown**: 夜間勤務で入ってくれているシアナさんは俺と同じく『霊長類』系の種族（この言い回しにも慣れてきた）だが、概日リズムを呪術で変化させているために給料は昼間の事務員と同じである。
+
+<!-- /AUTO-GENERATED:relationship -->

@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_工員
+type: entity
+subtype: character
+canonical_name: 工員
+aliases: []
+first_appearance: ch0082
+spoiler_after: ch0082
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 工員
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 工員たちは、あちらの別室で絵を描いたり詩を綴ったり、工芸品を作ったりしております。あとは服飾のデザイン画を描いたりパターンを引いたり――ま、いわゆる文化的な活動とみなされている労働をしているわけですな。
+
+<!-- /AUTO-GENERATED:action -->

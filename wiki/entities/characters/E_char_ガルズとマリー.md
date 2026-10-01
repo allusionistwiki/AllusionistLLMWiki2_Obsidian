@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ガルズとマリー
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0052
 spoiler_after: ch0052
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ガルズとマリー
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0052_analogous_to_E_ch0052_アズーリア_threatens_ガルズとマリー_p2032_human_shield|人間盾の戦術資源化]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: そんな状況にも関わらず、何故かガルズとマリーは特に緊張した様子も無く、鼻歌交じりに二人でとりとめのない会話を続けていた。会話内容は、絵のモチーフがどうとか、人が死に逝く瞬間の美しさや儚さだとか、そういう物騒なんだか高尚なんだかよく分からない芸術のお話だった。
+
+<!-- /AUTO-GENERATED:speech -->

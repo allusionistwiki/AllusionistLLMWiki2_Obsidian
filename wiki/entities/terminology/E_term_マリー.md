@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_マリー
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0063
 spoiler_after: ch0063
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # マリー
@@ -31,3 +32,18 @@ created: "2026-09-30"
 - [[A_ch0073_analogous_to_E_ch0073_マリー_uses_思考の根茎_p2747_neural_network|神経ネットワーク]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 恐らくマリーはこのまま最終日の今日、呪術儀式を行う為にこの場に現れるだろう。
+- **unknown**: クロウサー家の一人の腹を突き破って現れたマリーは、サイリウスの背後をとるとその延髄に鑿を突き込む。 必殺を期した一撃。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「嘘、嘘だ！ 確かに、確かに殺したのにっ！」 マリーは信じられないと絶叫する。
+
+<!-- /AUTO-GENERATED:speech -->

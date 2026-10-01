@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0052_parodies_E_ch0052_メイファーラ_other_戦場小説_p2029_light_novel_meta
 title: 長編転生小説へのメタ皮肉
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_メイファーラ_other_戦場小説_p2029]]"

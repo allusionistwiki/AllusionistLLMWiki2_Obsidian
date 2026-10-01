@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0027_analogous_to_E_ch0027_トリシューラ_makes_仮想の義肢_p1212_AR_glasses
 title: 欠損補完のAR義肢ペルソナ
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0027_トリシューラ_makes_仮想の義肢_p1212]]"

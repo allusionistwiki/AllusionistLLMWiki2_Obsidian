@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_ハルティール
+type: entity
+subtype: character
+canonical_name: ハルティール
+aliases: []
+first_appearance: ch0070
+spoiler_after: ch0070
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# ハルティール
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『受け取れ、落ちこぼれ！』 投げつけた帽子が粒子となって分解され、リーナの被った三角帽子に吸い込まれていく。 エジーメの血族が司る始祖クロウサーの帽子を持った左手――使い魔に力を与えるその呪術が、限界を超えたリーナに更なる力を与える。
+
+<!-- /AUTO-GENERATED:action -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0075_analogous_to_E_ch0075_天獄_defines_恐怖による掌握_p2837_ブラック企業・資本主義の搾取構造
 title: ブラック企業による恐怖支配
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0075_天獄_defines_恐怖による掌握_p2837]]"

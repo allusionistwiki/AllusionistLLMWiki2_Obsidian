@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_大神院
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0031
 spoiler_after: ch0031
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 大神院
@@ -34,3 +35,19 @@ created: "2026-09-30"
 - [[A_ch0067_analogous_to_E_ch0067_大神院_makes_森の民と海の民の対立_p2530_分断統治|民の対立による分断統治]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 大神院に検閲管理された正規ネット上ではそうした地下の情報は得られない。
+- **unknown**: ハルベルトの存在を、大神院は認識できていない。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 森の民と海の民、両者は不倶戴天の間柄であり、互いに憎み合ってもいますが、それは大神院が意図的に創り出した対立なのです。
+- **unknown**: 大神院の気象管理システム――すなわち天意を信徒に代弁する神託機械は、本日の天気は雨が望ましいと判断していた。
+
+<!-- /AUTO-GENERATED:speech -->

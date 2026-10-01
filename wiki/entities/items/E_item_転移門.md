@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_転移門
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0042
 spoiler_after: ch0042
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 転移門
@@ -30,3 +31,19 @@ created: "2026-09-30"
 - [[A_ch0063_analogous_to_E_ch0063_転移門_is_made_of_九つの円柱と巨大な円環_p2338_国際空港のゲート・トランジット|国際空港トランジットへの転生]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 美しくカットされた呪宝石が散りばめられた浮遊する円環型転移門は、ドラトリアの呪宝石加工技術が使われており、アルセミットとドラトリアとの友好の証であるとされている。
+- **unknown**: 九つの円柱が半球状の屋根を支え、その下で浮遊しながらゆっくりと回転する巨大な円環。それが転移門である。
+- **unknown**: 「『汝らこの門をくぐる者は一切の望みを捨てよ』――かぁ」　おどろおどろしい文言が転移門の上に刻まれていた。何かの引用だと聞くが、何の引用なのかは誰も知らないのだという。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 国際法で厳重に規制され、その運用には細心の注意が払われるのだが、使用できないというわけではない。
+
+<!-- /AUTO-GENERATED:speech -->

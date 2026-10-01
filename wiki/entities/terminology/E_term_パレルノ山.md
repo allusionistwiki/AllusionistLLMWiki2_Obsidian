@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_パレルノ山
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0034
 spoiler_after: ch0034
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # パレルノ山
@@ -26,3 +27,25 @@ created: "2026-09-30"
 > 禿げた岩山の各所から、白い炎が吹き上がっている。あれは滅びの炎だ。今まさに、パレルノ山は死に逝こうとしている。（ch0050）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: パレルノ山は古い時代の呪石鉱山であり、リクシャマー共和国の帝政時代にまで遡ると、文献上にその存在が確かに確認できる、実在の古代世界である。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: パレルノ山の深部に眠る大量の呪鉱石。呪術文明の恩恵に与る人々にとって無くてはならない埋蔵資源が私に牙を剥いていた。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 禿げた岩山の各所から、白い炎が吹き上がっている。あれは滅びの炎だ。今まさに、パレルノ山は死に逝こうとしている。
+- **unknown**: パレルノ山には決して遭遇してはならない危険が幾つもある。単眼巨人、蛇の王、舌の獣イキュー。それらに続く、最も危険な死そのもの。
+
+<!-- /AUTO-GENERATED:visual -->

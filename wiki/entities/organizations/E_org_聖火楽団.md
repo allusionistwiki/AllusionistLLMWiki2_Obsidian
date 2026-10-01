@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_org_聖火楽団
+type: entity
+subtype: organization
+canonical_name: 聖火楽団
+aliases: []
+first_appearance: ch0065
+spoiler_after: ch0065
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 聖火楽団
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 単純極まりない【空圧】。増幅された音波は衝撃波となって魔将たちを吹き飛ばす。巨大に複雑に、ただ行動を制限するという目的に特化した大音響が響き渡って呪力そのものを弾き飛ばしていくのだ。
+
+<!-- /AUTO-GENERATED:action -->

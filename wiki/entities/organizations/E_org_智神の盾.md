@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_org_智神の盾
+type: entity
+subtype: organization
+canonical_name: 智神の盾
+aliases: []
+first_appearance: ch0043
+spoiler_after: ch0043
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 智神の盾
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 序列第六位の天使、神々の図書館の管理者ラヴァエヤナは知識を司る。こちらは内部の『異端』を裁く法の番人であり、また異質なものを排除するのではなく教化して槍神教内部に取り込む宣教を象徴してきた。
+
+<!-- /AUTO-GENERATED:speech -->

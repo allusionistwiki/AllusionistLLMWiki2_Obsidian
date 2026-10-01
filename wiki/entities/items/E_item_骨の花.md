@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_骨の花
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0035
 spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 骨の花
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 放射状に伸びる鋭角の花弁。白くおぞましく咲き誇る骨の花。中央には金色の眼球。（ch0045）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 見ると、前のめりに倒れようとしていた単眼巨人の背中に何かが取りついていた。それを見て、私は思わず息を飲んだ。短い呼吸音が私以外にもハルベルトと、そしてリーナからも漏れた。「何あれ。白い、花？」「何かの呪具にも見えますけど――」　メイファーラとミルーニャが怪訝そうに呟くが、私はあれに見覚えがあった。あれはハルベルトと初めて会った夜のこと。アストラル界で私を襲撃した、骨の花だ。
+
+<!-- /AUTO-GENERATED:visual -->

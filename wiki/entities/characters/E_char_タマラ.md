@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_タマラ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0068
 spoiler_after: ch0068
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # タマラ
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 確定しない模倣子の振る舞いを外的な意味と文脈によって操作する魔女の呪術が発動し、糖液に包まれた翼猫たちはそのままアバターを構成する情報を書き換えられてお菓子そのものになってしまう。（ch0073）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その先端に串刺しにされているのは、片眼鏡と小さな帽子の白黒兎。「タマちゃん先生――」 私のために、戦場を俯瞰して情報を集めてくれていた私のもう一人の先生にして使い魔。キュトスの姉妹三十四位、お菓子の魔女タマラ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 確定しない模倣子の振る舞いを外的な意味と文脈によって操作する魔女の呪術が発動し、糖液に包まれた翼猫たちはそのままアバターを構成する情報を書き換えられてお菓子そのものになってしまう。
+
+<!-- /AUTO-GENERATED:action -->

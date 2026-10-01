@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_トッド
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0001
 spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # トッド
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 「この胸当ては、あんたにもらったんだ」 トッドには、人狼から奪った胸当てをつけてもらったことがあった。それが今、防具としての役割を果たしていた。 右腕が閃き、トッドの顔が存在した場所から鮮血が流れていく。（ch0002）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 人狼から奪った胸当てを手に持って何かを説明しようとしている。というか、俺にこれを着せようとしているのだった。
+
+<!-- /AUTO-GENERATED:action -->

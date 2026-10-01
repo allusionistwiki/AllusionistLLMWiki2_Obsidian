@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_時の尖塔
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0033
 spoiler_after: ch0033
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 時の尖塔
@@ -25,3 +26,18 @@ created: "2026-09-30"
 > 異様なのは、それが外敵の侵入を決して許さない時の尖塔のただ中だったこと。 その上、周囲を護衛で固めて自身も何重にも防御障壁を張り巡らせていたにも関わらず、白昼堂々と殺害が実行されたこと。（ch0048）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 異様なのは、それが外敵の侵入を決して許さない時の尖塔のただ中だったこと。 その上、周囲を護衛で固めて自身も何重にも防御障壁を張り巡らせていたにも関わらず、白昼堂々と殺害が実行されたこと。
+- **unknown**: 地上に露出した世界槍の穂先部分は聖女様が完全に掌握する【時の尖塔】だ。【松明の騎士団】の総本部であり、人類最後の砦でもある。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: ここは世界槍の地上に露出した部分。世界最高峰の高層建築にして一つの小世界。松明の騎士団の要塞であり、聖女クナータが掌握する迷宮の塔。
+
+<!-- /AUTO-GENERATED:symbolic -->

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アニス
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0013
 spoiler_after: ch0013
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # アニス
@@ -31,3 +32,13 @@ created: "2026-09-30"
 - [[A_ch0083_foreshadows_E_ch0083_ロドウィ_says_アニス_p3067_公社四姉妹の起源|公社四姉妹の起源の伏線]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「アニス！ この破壊狂がっ」
+- **unknown**: 袖口から出現したのは旋棍型の呪具。柄に刻印された溝に指を這トンファーわせて安全装置を解除。エンチャントされた呪術を起動。吸い込んだ空気をコンプレッサが圧縮、内部の燃素と混合することで高温高圧のガスが発生する。呪具の後部から爆発的な推進力を発生させ、ジェット噴射の打撃を叩き込むのがアニスの得意とする戦術である。
+- **unknown**: 轟音を伴って、高速で回転する旋棍が振るわれた。速度、威力共に直撃すれば絶命は免れないであろう一撃。まして、狙いは側頭部である。
+- **unknown**: 旋回した棍が勢いよく女性の後頭部に叩きつけられ、血と脳漿を飛び散らせる。頭蓋を砕いただけでは物足りないとばかりに、もう一方の旋棍が首筋に、更に肩、腕、背骨と次々と骨を砕いていく。
+
+<!-- /AUTO-GENERATED:action -->

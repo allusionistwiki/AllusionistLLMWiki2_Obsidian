@@ -1,0 +1,31 @@
+---
+schema_version: '5.1'
+id: E_char_脳
+type: entity
+subtype: character
+canonical_name: 脳
+aliases: []
+first_appearance: ch0075
+spoiler_after: ch0075
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 脳
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 最下位の細胞であると名乗った【脳】と【髪】は、メイファーラとティエポロスこそ最上位の細胞であると語った。
+- **unknown**: そして、メイファーラが出会った双子もまた、細胞全てを支える重要な役目を担う【両足】であると告げられて
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 【脳】は全知全能の超越者であるかのように全てを見通していた。
+
+<!-- /AUTO-GENERATED:symbolic -->

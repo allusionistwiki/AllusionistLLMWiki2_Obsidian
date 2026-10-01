@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0018_analogous_to_E_ch0018_キロン_says_異獣の駆逐_p817_ジェノサイド・大量虐殺
 title: ジェノサイドの浄化論理の模倣
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_キロン_says_異獣の駆逐_p817]]"

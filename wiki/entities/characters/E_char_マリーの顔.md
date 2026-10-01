@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_マリーの顔
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0041
 spoiler_after: ch0041
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # マリーの顔
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > ――何だこれは。甘い。夜の民は甘いものが好きだと知ってはいたが、まさか本人たちまで甘いとは。（ch0041）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ――何だこれは。甘い。夜の民は甘いものが好きだと知ってはいたが、まさか本人たちまで甘いとは。
+
+<!-- /AUTO-GENERATED:visual -->

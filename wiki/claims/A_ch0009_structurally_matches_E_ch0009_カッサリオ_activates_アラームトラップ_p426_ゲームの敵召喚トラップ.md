@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0009_structurally_matches_E_ch0009_カッサリオ_activates_アラームトラップ_p426_ゲームの敵召喚トラップ
 title: 敵召喚トラップの模倣
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_カッサリオ_activates_アラームトラップ_p426]]"

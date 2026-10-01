@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_刺客
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0004
 spoiler_after: ch0004
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 刺客
@@ -31,3 +32,12 @@ created: "2026-09-30"
 - [[A_ch0004_sublates_E_ch0004_コルセスカ_kills_刺客_p232_magic_vs_science|科学超越の魔術的論理破綻]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 細い棍棒の、俺に接触した部分だけが、一瞬だけ異様に巨大に膨れあがり、そして即座に元に戻ったのだ。ぶつかった瞬間だけ巨大化する武器。鈍器の中にさらに巨大な鈍器を格納する技術。
+- **unknown**: 刺客は俺の機先を制してコルセスカの下へと走る。慌てて追いかけるが、男が懐から投げつけた小さな鉄球が巨大な砲弾となって襲いかかってきたためやむなく大きく横に回避。その間に距離が開いてしまう。振りかぶられる棍棒。助けが間に合わない。
+- **unknown**: 「心外な評価です」　　その背後で、氷結した人体が粉々に砕け散った。
+
+<!-- /AUTO-GENERATED:action -->

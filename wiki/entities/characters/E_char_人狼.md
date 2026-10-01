@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_人狼
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0001
 spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 人狼
@@ -33,3 +34,22 @@ created: "2026-09-30"
 - [[A_ch0075_analogous_to_E_ch0075_エスフェイル_has_property_人狼_p2851_社会的マイノリティ・法適用除外|法適用除外マイノリティの苦難]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 一陣の風が吹き、その身体を持ち去っていく。
+- **unknown**: 呪術による目眩ましに気を取られた巨猿の足が一瞬止まり、発光が収まった時には、人狼と青年の姿は忽然と消え失せていた。
+- **unknown**: その目が赤い光を放つ。ヲルヲーラの片翼が何らかの外力を加えられ、半ばからねじ曲がる。
+- **unknown**: 放られた左腕をまるで俺に渡すまいとするかのように素早く掴み取ると、その場から大きく後ろへと跳躍する。
+- **unknown**: 目の前で左腕をむしゃむしゃと咀嚼している怪物だ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: だから、もっと強くなってよね、アキラくん
+- **unknown**: 心配ないよ。この子なら、きっと貴方たちの作る秩序だって打ち倒して、その先へ行ける
+
+<!-- /AUTO-GENERATED:speech -->

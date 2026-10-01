@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_死者
+type: entity
+subtype: terminology
+canonical_name: 死者
+aliases: []
+first_appearance: ch0073
+spoiler_after: ch0073
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 死者
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 死者が蘇り、過去が現在と混濁しつつある第一階層――エルネトモランは、混沌とした狂騒に満ちていた。天地から溢れる死者たちは実体、非実体を問わずに地上に次々と出現していき
+
+<!-- /AUTO-GENERATED:action -->

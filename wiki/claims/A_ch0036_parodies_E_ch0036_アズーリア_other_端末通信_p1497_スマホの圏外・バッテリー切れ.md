@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0036_parodies_E_ch0036_アズーリア_other_端末通信_p1497_スマホの圏外・バッテリー切れ
 title: スマホ圏外・電池切れのパロディ
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_アズーリア_other_端末通信_p1497]]"

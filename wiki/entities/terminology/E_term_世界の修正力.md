@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_世界の修正力
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0051
 spoiler_after: ch0051
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 世界の修正力
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 第三の創生竜は運命を司る。守護竜クルエクローキは世界の揺らぎを修正しようとする秩序の象徴。（ch0073）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 今回の理不尽な出来事、つまりはカタルマリーナとビークレットの亡霊が君たちを襲うという災厄はね、彼女を消す為に世界の修正力が働いた結果なんだ。大抵の不運というやつは、そういう運命の帳尻合わせが露骨過ぎて可視化された結果なんだな。
+
+<!-- /AUTO-GENERATED:speech -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0003_analogous_to_E_ch0003_イェレイド_says_迷宮の美意識_p175_ユーザー生成コンテンツUGCの質
 title: UGC迷宮の低品質批判
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0003_イェレイド_says_迷宮の美意識_p175]]"

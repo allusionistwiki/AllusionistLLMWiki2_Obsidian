@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_コルセスカの過去とサリアの復讐
 title: コルセスカと復讐
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

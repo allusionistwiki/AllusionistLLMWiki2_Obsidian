@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0043_inverts_E_ch0043_アズーリア_confesses_天使への攻撃_p1830_英雄の自己満足_被害の無視
 title: 英雄の自己満足と被害無視
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_アズーリア_confesses_天使への攻撃_p1830]]"

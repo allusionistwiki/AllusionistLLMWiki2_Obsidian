@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_夜の民
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0034
 spoiler_after: ch0034
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 夜の民
@@ -16,7 +17,7 @@ created: "2026-09-30"
 月光を浴びて呪力が満ちる生態を持つ種族である。老いと共に身体が小さくなり赤子に近付いていくという特徴を持つが、ハルベルトは自身をこの種族ではなく混血であると明かしている。
 
 <!-- AUTO:BEGIN -->
-**初出**: ch0034 ｜ **観測イベント**: 10 件（8 話に出現）
+**初出**: ch0034 ｜ **観測イベント**: 11 件（9 話に出現）
 
 ## 代表引用
 
@@ -35,3 +36,33 @@ created: "2026-09-30"
 - [[A_ch0060_analogous_to_E_ch0060_夜の民_has_property_摸倣と複製_p2249_simulation_theory|虚構自律のシミュレーション仮説]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: これは霊長類もそうだけど、私達は老いと共に身体が小さくなり、赤子に近付いていく。老齢の夜の民は掌に乗るくらいの大きさとなるのが普通だ。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ペリュトン　呪術的な事情により姿を隠しており、その実体は不定で影のような存在だとか。
+- **unknown**: 「私だって、黒衣の下には街の人が着てるみたいな普通の服を身につけている。というか、夜の民はみんなそうだよ。普通にお洒落くらいするし」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 私たち夜の民は摸倣と複製を得意とする。　当然、その根源である創造主は現実に迫るどころか実際の質感を凌駕するほどの精巧な夢を形作る事が可能だ。
+- **unknown**: ゆえに夜の民たちはその原形態の有り様から、影の海の黒花翁草アネモネという異名を持っている。黒いアネモネの花言葉も、そうした意味が固定されたものの一つである。残酷な真実。あるいは、絶望。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 邪視と呪文に秀でた夜の民、幻姿霊。スペクター
+
+<!-- /AUTO-GENERATED:name -->

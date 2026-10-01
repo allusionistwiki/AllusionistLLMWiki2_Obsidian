@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_修道騎士
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0044
 spoiler_after: ch0044
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 修道騎士
@@ -40,3 +41,25 @@ created: "2026-09-30"
 - [[E_char_クエスドレム|クエスドレム]] — 殺す(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「あの樹妖精、攻撃してきたぞっ」 「構うな、撃て、撃て！」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 修道騎士たちはそれぞれ同時に呪術、物理の両面から攻撃を仕掛けてくる。
+- **unknown**: 錬金術のメソッドによる対抗呪文【静謐】は対象を原子レベルにまで分解する。 流体によって構成されたサジェリミーナの全身が解体されていく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 新型の武装である神働装甲を身に纏い、寄生異獣を宿した異獣憑きという強敵たちが、暗殺部隊として送り込まれてきたのだった。
+
+<!-- /AUTO-GENERATED:visual -->

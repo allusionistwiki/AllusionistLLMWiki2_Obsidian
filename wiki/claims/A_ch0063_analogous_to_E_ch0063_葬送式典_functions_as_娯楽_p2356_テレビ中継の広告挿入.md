@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0063_analogous_to_E_ch0063_葬送式典_functions_as_娯楽_p2356_テレビ中継の広告挿入
 title: テレビ中継・広告挿入への転生
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_葬送式典_functions_as_娯楽_p2356]]"

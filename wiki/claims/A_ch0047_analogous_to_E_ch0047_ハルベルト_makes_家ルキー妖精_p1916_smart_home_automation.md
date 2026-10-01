@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_makes_家ルキー妖精_p1916_smart_home_automation
 title: スマートホームの魔法版
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_makes_家ルキー妖精_p1916]]"

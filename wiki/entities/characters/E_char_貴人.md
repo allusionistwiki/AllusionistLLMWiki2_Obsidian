@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_貴人
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0069
 spoiler_after: ch0069
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 貴人
@@ -29,3 +30,17 @@ created: "2026-09-30"
 - [[A_ch0069_analogous_to_E_ch0069_貴人_uses_金剛杵_p2579_buddhist_iconography|密教法具への転生]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」
+
+<!-- /AUTO-GENERATED:speech -->

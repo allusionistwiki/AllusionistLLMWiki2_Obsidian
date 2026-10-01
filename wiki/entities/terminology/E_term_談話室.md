@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_談話室
+type: entity
+subtype: terminology
+canonical_name: 談話室
+aliases: []
+first_appearance: ch0057
+spoiler_after: ch0057
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 談話室
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 透き通るような仮想アストラル光が満ちる広漠な空間。 青空の下、白塗りの卓には茶器一式、緩く湾曲したデザインの椅子の上にはぬいぐるみにも見える小さなシルエット。
+
+<!-- /AUTO-GENERATED:visual -->

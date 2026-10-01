@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_黒百合の子供たち
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0040
 spoiler_after: ch0040
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 黒百合の子供たち
@@ -30,3 +31,12 @@ created: "2026-09-30"
 - [[A_ch0060_structurally_matches_E_ch0060_黒百合の子供たち_uses_フィリスの分散封印_p2273_distributed_ledger|分散型台帳への構造対応]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: それから、私たちは頷き合うと、声を揃えて歌い始めた。　それは呪文。　絶望を塗り替えて希望へと導く、呪いへの対抗呪文。　高らかに歌われた言葉が黒百合宮に響いていくと、黒百合の子供たちが元の姿に戻っていく。
+- **unknown**: 唱和する声と共に、それぞれの身体にフィリスの一部が吸い込まれていく。　全員が何度もフィリスに干渉していたからこそ可能な手段だった。　強力な魔将の力を分解して、少しずつ負担を受け持つ事によって、フィリスの浸食を食い止める。
+- **unknown**: 元からいた四人と合わせて八人の候補者達はそうして相まみえた。　黒百合の子供たち。　地上最後の魔境と言われるその場所で、飛ぶように過ぎていく幻想的な時間。
+
+<!-- /AUTO-GENERATED:action -->

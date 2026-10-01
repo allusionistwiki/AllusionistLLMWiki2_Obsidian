@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_マリー・スー
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0041
 spoiler_after: ch0041
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # マリー・スー
@@ -27,3 +28,39 @@ created: "2026-09-30"
 > ヴァージリアは直感を働かせて、ついに目当ての人物を見つけた。（ch0041）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 空のように青い、翼持つ鹿。デーモンの姿が本人の性質を反映しているのだとすれば、あれを操っていたのは恐らく夜の民だろう。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ホルヘ・ルイス・ボルヘスの『伝奇集』。卓上にはもう一つ本が置いてあって、こちらは同著者の『幻獣辞典』だった。
+- **unknown**: マリーはヴァージリアのラベルとタグを見て、こうして肉声ではなく文章での意思疎通を選択してくれた
+- **unknown**: 舌から血が溢れて、激痛にヴァージリアは悶絶した。
+- **unknown**: 黒衣の袖が差し出したのは、小さな飴玉の包みだった。
+- **unknown**: とてとてと早足に進み、たまに転ぶ。手も突かずに頭から床に激突する。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『変態め、タマちゃん先生からお借りしたご本を返せ』
+- **unknown**: そして、ヴァージリアはマリー・スー・ヘレゼクシュが喋れないということを知ったのだった。
+- **unknown**: マリーの心は驚くほど幼い。これで一つ年上の十二歳（夜の民の数え方では二十四歳）だというのだから恐れ入る。
+- **unknown**: やがておめでとう、と帳面に書き付けた。血の色に関する反応は、一切無かった。
+- **unknown**: 声と言うよりも、言葉。言葉ならば今まさに使っている。紙に文字を書き記しているではないかと指摘すると、そうではないとマリーは沈み込む。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 色無しマリー。マリー・スーがそう呼ばれていることを、ヴァージリアはその時になってはじめて知ることになる。
+
+<!-- /AUTO-GENERATED:name -->

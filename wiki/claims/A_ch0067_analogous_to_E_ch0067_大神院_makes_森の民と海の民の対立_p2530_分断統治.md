@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0067_analogous_to_E_ch0067_大神院_makes_森の民と海の民の対立_p2530_分断統治
 title: 民の対立による分断統治
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_大神院_makes_森の民と海の民の対立_p2530]]"

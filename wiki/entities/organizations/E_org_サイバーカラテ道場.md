@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_サイバーカラテ道場
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0012
 spoiler_after: ch0012
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # サイバーカラテ道場
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0071_analogous_to_E_ch0071_サイバーカラテ道場_defines_本部_p2644_クラウドサーバー|クラウドサーバーの構造]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 道場に本部は存在しない。それは、形の無いサイバーカラテという枠組みそれ自体が本部である為だ。サイバーカラテ道場は、いつでも人々の心の中にある。
+
+<!-- /AUTO-GENERATED:symbolic -->

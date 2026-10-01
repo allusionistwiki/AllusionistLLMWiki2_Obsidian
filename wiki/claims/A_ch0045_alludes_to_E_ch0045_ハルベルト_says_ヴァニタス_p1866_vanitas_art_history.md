@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0045_alludes_to_E_ch0045_ハルベルト_says_ヴァニタス_p1866_vanitas_art_history
 title: 虚しさ寓意画ヴァニタス
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0045_ハルベルト_says_ヴァニタス_p1866]]"

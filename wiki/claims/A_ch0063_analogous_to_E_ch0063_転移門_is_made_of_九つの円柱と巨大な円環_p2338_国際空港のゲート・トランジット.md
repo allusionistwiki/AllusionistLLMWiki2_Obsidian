@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0063_analogous_to_E_ch0063_転移門_is_made_of_九つの円柱と巨大な円環_p2338_国際空港のゲート・トランジット
 title: 国際空港トランジットへの転生
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_転移門_is_made_of_九つの円柱と巨大な円環_p2338]]"

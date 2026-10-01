@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ジャッフハリム
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0075
 spoiler_after: ch0075
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ジャッフハリム
@@ -31,3 +32,20 @@ created: "2026-09-30"
 - [[A_ch0075_analogous_to_E_ch0075_ジャッフハリム_has_property_いじめ_p2834_現代の学校いじめ・同調圧力|同調圧力に根治不能な学校いじめ]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: ジャッフハリムの理想である『共生』は、あらゆる在り方を許容しつつ、個人が社会に適応するための最善の方法を模索する。
+- **unknown**: ジャッフハリムは未だ『国家』という枠組み――使い魔の大規模呪術に依存している呪術共同体である。　『いじめ』という人類の宿痾を根治させるには至っていない。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ジャッフハリムは個人の責任を周りに波及させて問うたりはしない。　だから、たとえ少年の父親が裏切り者だったとしてもそれで彼が非難されたり、悪感情を抱かれたりすることは『謂われ無き事』である。
+- **unknown**: また、天獄の理念に賛同してジャッフハリムを敵に回すような『裏切り者』も同様に裁かれる定めである。
+- **unknown**: ジャッフハリムに死刑は無い。　投獄された少年の父親は、途方もなく長い年月を奉仕労働に費やす余生を送ることになっている。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_ミルーニャの部屋
+type: entity
+subtype: terminology
+canonical_name: ミルーニャの部屋
+aliases: []
+first_appearance: ch0046
+spoiler_after: ch0046
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# ミルーニャの部屋
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 本棚には何やら杖使いらしい難しそうな学術書が並んでいて、机の上には大量に書き込みがされた帳面が無造作に並べられている。中央に置かれた付箋だらけの大判の本は、一昨日彼女に渡した魔導書――彼女の父親の遺品だ。たしか名前は【死人の森の断章】だったか。
+
+<!-- /AUTO-GENERATED:visual -->

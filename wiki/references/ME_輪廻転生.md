@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_輪廻転生
 title: 輪廻転生
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

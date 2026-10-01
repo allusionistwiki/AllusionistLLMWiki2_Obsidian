@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_タマ
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0032
 spoiler_after: ch0032
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # タマ
@@ -28,3 +29,24 @@ created: "2026-09-30"
 - [[A_ch0036_analogous_to_E_ch0036_タマ_gives_綿菓子と水飴_p1497_ゲームの回復アイテム|RPG回復アイテムの象徴]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 白と黒の二色が特徴的な小動物だった。小さな帽子と片眼鏡をしてちょっとお洒落を気取っているのが間抜けとお茶目の中間点、滑らかな女性の声で喋り倒すそいつは、兎だった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「悪夢の残滓はぽつぽつと、まるで蛙と珊瑚の国の深みから浮かび上がる泡のように心の中に現れては消え、消えては現れ――ああ、あの悪夢の泡が全て弾けて消えた時、ワタクシの命もまた儚く無に帰す定めなのです！」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 兎がぽんと前足を打ち合わせると、虚空から焼き菓子が次から次へと出現し、用意していたお皿の上に乗せられていく。
+
+<!-- /AUTO-GENERATED:action -->

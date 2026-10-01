@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_鰓耳の民
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0064
 spoiler_after: ch0064
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 鰓耳の民
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0067_analogous_to_E_ch0067_ディルガッハ_has_property_鰓耳の民_p2510_virtual_reality|アストラル界の仮想現実]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「ちまちまと戦いやがって、邪魔くせぇんだよ、スピアちゃんの美声が聞こえねえだろうがクソども！」 鰓耳の民の目から放たれた光によって世界が凄まじい量の水で覆い尽くされる。
+
+<!-- /AUTO-GENERATED:action -->

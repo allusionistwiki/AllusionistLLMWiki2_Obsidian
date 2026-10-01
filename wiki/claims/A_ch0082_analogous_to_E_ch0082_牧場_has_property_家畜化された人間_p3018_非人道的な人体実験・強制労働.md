@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0082_analogous_to_E_ch0082_牧場_has_property_家畜化された人間_p3018_非人道的な人体実験・強制労働
 title: 家畜化人間による非人道的人体実験
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_牧場_has_property_家畜化された人間_p3018]]"

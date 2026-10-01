@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0066_analogous_to_E_ch0066_サジェリミーナ_reveals_錬金術師_p2484_パッチによる能力解放
 title: 死によるバグ修正と能力解放
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_サジェリミーナ_reveals_錬金術師_p2484]]"

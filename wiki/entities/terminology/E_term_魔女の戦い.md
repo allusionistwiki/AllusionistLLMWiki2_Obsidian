@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_魔女の戦い
+type: entity
+subtype: terminology
+canonical_name: 魔女の戦い
+aliases: []
+first_appearance: ch0040
+spoiler_after: ch0040
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 魔女の戦い
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 数多い候補者たちの中から、総合的な成績や資質などを考慮して選抜された十八名によって行われる魔女の戦い。いずれ行われる真の『選定』で競い合う四人は、この十八名の中から選ばれることだろう。　これはキュトスの姉妹第二位ダーシェンカが開催する呪術儀式にして事前選考だ。
+
+<!-- /AUTO-GENERATED:speech -->

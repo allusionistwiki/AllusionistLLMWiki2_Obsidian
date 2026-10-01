@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_バル
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0068
 spoiler_after: ch0068
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # バル
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 「敵将、討ち取ったり！」 万殺鬼アインノーラの決闘に敗れたバルの首が掲げられる。（ch0068）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「敵将、討ち取ったり！」 万殺鬼アインノーラの決闘に敗れたバルの首が掲げられる。
+
+<!-- /AUTO-GENERATED:action -->

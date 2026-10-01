@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_motif_アキラ
 type: entity
 subtype: visual_motif
@@ -8,7 +8,8 @@ first_appearance: ch0005
 spoiler_after: ch0005
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # アキラ
@@ -30,3 +31,24 @@ created: "2026-09-30"
 - [[A_ch0026_alludes_to_E_ch0026_アキラ_observes_宇宙_p1170_天球層|天球層]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ハル。貴方が自分の事を話してくれたのに私の事を話してないのは不公平だから、本当の事を言うね。私の妹は死んでない。それどころか、地獄の軍勢を統率する迷宮の主、セレクティフィレクティに魂を乗っ取られてしまった。私は妹を取り戻す為に迷宮の最下層を目指しているの」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: メイファーラに託された記憶を想起する。彼女は、ミルーニャに呪具を渡された瞬間にその狙いに気付いた。けれど、裏切られると分かっていてあの黒槍を使い続けた。短い間でも仲間として共に戦った少女のことを信じたかったからだ。 私は、メイファーラの想いを肯定したかった。 メイファーラが接触感応によって知った、ミルーニャという少女の過去。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 月光は何色だろう。 それはまばゆいほどの白々とした光に違いない。この夜で最も力強く輝いている色彩は、目の醒めるような純白なのだから。 私は信じた。 涙の後に、きっと力強い笑顔を見せてくれると。 それが幻想であったとしても。 幻想だからこそ、信じたかった。
+
+<!-- /AUTO-GENERATED:symbolic -->

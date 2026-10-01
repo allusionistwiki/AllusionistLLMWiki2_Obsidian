@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ルーシメア
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0075
 spoiler_after: ch0075
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ルーシメア
@@ -25,3 +26,18 @@ created: "2026-09-30"
 > 十九番目の細胞である【脳】のルーシメアは、メイファーラに『それ』を授け、植え付け、宿した。（ch0075）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: ルーシメアは、少年の声で柔らかく言うだけ。「僕の大切なひとを、よろしくね」
+- **unknown**: 『運べ』と言われた。　それが使命だと。　潜入工作、密輸、情報操作。　それは正しくメイファーラが学んできた事だった。　適任と言えるだろう。　そして、『過去に遡る力』はそのためにあるのだと【脳】は教えてくれた。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 十九番目の細胞である【脳】のルーシメアは、メイファーラに『それ』を授け、植え付け、宿した。
+
+<!-- /AUTO-GENERATED:action -->

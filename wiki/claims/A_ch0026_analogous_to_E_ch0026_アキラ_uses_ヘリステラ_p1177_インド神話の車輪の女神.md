@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_アキラ_uses_ヘリステラ_p1177_インド神話の車輪の女神
 title: 車輪の女神の象徴
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_ヘリステラ_p1177]]"

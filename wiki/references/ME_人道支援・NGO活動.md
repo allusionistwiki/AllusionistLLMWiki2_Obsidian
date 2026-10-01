@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_人道支援・NGO活動
 title: 人道支援・NGO
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

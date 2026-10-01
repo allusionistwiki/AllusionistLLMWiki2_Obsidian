@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_死の囀り
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0048
 spoiler_after: ch0048
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 死の囀り
@@ -29,3 +30,17 @@ created: "2026-09-30"
 - [[A_ch0050_inverts_E_ch0050_死の囀り_appears_無音_p1999_サイレント映画|サイレント映画の逆転演出]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: だから、『それ』が音もなく目の前に現れたとき、私たちの誰もが愕然としたのは無理もないと言えるだろう。『音もなく』――そう、それこそが最大の誤算。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 帳面に書き記された文字列。それは呪文だ。あれこそは偉大なる魔女がたった今この場で書き記した、即席の魔導書である。
+
+<!-- /AUTO-GENERATED:action -->

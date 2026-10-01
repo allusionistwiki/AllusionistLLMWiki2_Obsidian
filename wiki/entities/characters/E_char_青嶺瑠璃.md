@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_青嶺瑠璃
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0028
 spoiler_after: ch0028
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 青嶺瑠璃
@@ -40,3 +41,28 @@ created: "2026-09-30"
 - [[E_char_悪夢|悪夢]] — 関連（3 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 私、青嶺瑠璃、十六歳。ちょっと夢見がちだけど、ごくごく平凡な高校一年生。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 私はタオルとスポーツドリンクを手渡しながら通路を歩いていく彼女の一歩後ろに付き従います。
+- **unknown**: 不具合が発生したので、最初からやり直し。私の名前は青嶺瑠璃。普通の十六歳だ。
+- **unknown**: 硝子が砕け散るようにして世界が砕けていく。私は鋭く誰何しながらメイを背後に庇うが、足下から突然溢れ出した影の群れに飲み込まれて、遂には意識が遠のいていく。暗転。やり直し。
+- **unknown**: 暗転。やり直し。ドン、と壁に手を突かれて、私は前にも後ろにも逃げ場が無い事を知った。控え室には二人きり。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 与えられた役割を、震えて涙目になりながらも精一杯こなす貴方が、どこまでも愛おしい。
+- **unknown**: 「だいたい、私は最初から貴方に釣り合わない。こんな化け物――こんな、知能が無い――脳すら存在しない下等な生き物、貴方の使い魔に相応しくない」
+
+<!-- /AUTO-GENERATED:speech -->

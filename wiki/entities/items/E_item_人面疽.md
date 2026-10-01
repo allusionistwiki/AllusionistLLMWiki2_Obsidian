@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_人面疽
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0077
 spoiler_after: ch0077
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 人面疽
@@ -28,3 +29,10 @@ created: "2026-09-30"
 - [[A_ch0077_alludes_to_E_ch0077_カイン_has_property_人面疽_p2898_日本の怪談・人面疽|日本の怪談・人面疽]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 闇をも見通す人面疽の邪視――それが見せているのは、人の体内ではない。 暗く深い、静かな森。 月明かりに照らされた、死と静謐に満ちた世界。
+
+<!-- /AUTO-GENERATED:visual -->

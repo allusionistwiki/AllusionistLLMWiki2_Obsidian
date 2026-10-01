@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_スパイ映画・潜入捜査
 title: スパイ映画
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

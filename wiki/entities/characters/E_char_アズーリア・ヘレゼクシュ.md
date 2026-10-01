@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アズーリア・ヘレゼクシュ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0021
 spoiler_after: ch0021
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # アズーリア・ヘレゼクシュ
@@ -35,3 +36,17 @@ created: "2026-09-30"
 - [[E_char_アズーリア|アズーリア]] — 命名(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「『この者、シナモリ・アキラの世界槍内部における行動の全責任を、アズーリア・ヘレゼクシュが負うものとする』という、免責事項に関する注釈です。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「それでは改めてご紹介しましょう、【歌姫Ｓｐｅａｒ】の新たなるパートナー、そして【松明の騎士団】が誇る若き英雄！　その名は、アズーリア・ヘレゼクシュ！」
+
+<!-- /AUTO-GENERATED:name -->

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_三人組
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0001
 spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 三人組
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 闇に覆われた天地から漆黒の棘が次々と生じ、伸びては天へ、落ちては地へ行き来するようになるともはや事態は何が異様かというよりも何が異様でないのかを確かめる段階へと移行する。（ch0001）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 部屋の中央には巨大狼の死骸。それだけで、その三人の実力のほどが知れた。
+
+<!-- /AUTO-GENERATED:visual -->

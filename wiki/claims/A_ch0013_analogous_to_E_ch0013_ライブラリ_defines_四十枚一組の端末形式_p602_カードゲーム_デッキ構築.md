@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0013_analogous_to_E_ch0013_ライブラリ_defines_四十枚一組の端末形式_p602_カードゲーム_デッキ構築
 title: カードゲームのデッキ構築
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0013_ライブラリ_defines_四十枚一組の端末形式_p602]]"

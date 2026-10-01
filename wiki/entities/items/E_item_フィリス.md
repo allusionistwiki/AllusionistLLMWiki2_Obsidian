@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_フィリス
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0002
 spoiler_after: ch0002
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # フィリス
@@ -27,3 +28,10 @@ created: "2026-09-30"
 > 私は枝角の付け根に絡まっていた金鎖を砕いて叫んだ。「遡って、エル・ア・フィリス」 解き放たれた無彩色の光、解体の呪文を、魔将は真っ向から迎え撃つ。（ch0068）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 宿主の危機に自動的に反応したフィリスは規定のプランに従って呪文の性質を変更してしまう。摸倣呪文ではなく、対抗呪文【静謐】が発動。
+
+<!-- /AUTO-GENERATED:action -->

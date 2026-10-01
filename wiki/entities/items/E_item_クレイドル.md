@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_item_クレイドル
+type: entity
+subtype: item
+canonical_name: クレイドル
+aliases: []
+first_appearance: ch0040
+spoiler_after: ch0040
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# クレイドル
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ゆっくりとクレイドルの蓋が開いていく。揺りかごのような形の大型呪具はホワイト――メートリアンをアストラルの世界に誘ってくれる。独力でアストラル界にダイブできる能力があればこのようなものは必要ないのだが、そこそこの杖の適性とわずかな邪視の適性しか持たないメートリアンにとっては必須の呪具だった。
+
+<!-- /AUTO-GENERATED:action -->

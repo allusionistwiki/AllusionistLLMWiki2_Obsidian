@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_異界の黙示録
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0071
 spoiler_after: ch0071
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 異界の黙示録
@@ -30,3 +31,10 @@ created: "2026-09-30"
 - [[A_ch0074_analogous_to_E_ch0074_ハルベルト_uses_異界の黙示録_p2788_meme_theory|精神支配を模倣するミーム感染]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 無数のページと文字列をまき散らす漆黒の魔導書、【異界の黙示録】が自己複製と大量印刷の摸倣子によって情報の嵐を巻き起こし、漆黒の文字列が一つの銀河系を創造していく。
+
+<!-- /AUTO-GENERATED:action -->

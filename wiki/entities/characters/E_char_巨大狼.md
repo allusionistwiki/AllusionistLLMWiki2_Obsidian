@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_巨大狼
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0001
 spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 巨大狼
@@ -33,3 +34,12 @@ created: "2026-09-30"
 - [[E_char_アキラ|アキラ]] — 攻撃（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 回転しながら飛来した爪の一枚を右手で弾き飛ばして、右半身を前に、巨大狼の方に向けて構えをとる。
+- **unknown**: 俺の右腕に弾かれた刃は上空に浮き上がったと思うと、不自然な軌道を描いて巨大狼の手元に戻り、また元の三枚刃の状態に収まったのだ。
+- **unknown**: 青い光が弾けて、巨大な氷柱が俺の肩をずたずたに引き裂いていった。
+
+<!-- /AUTO-GENERATED:action -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0050_inverts_E_ch0050_死の囀り_appears_無音_p1999_サイレント映画
 title: サイレント映画の逆転演出
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_死の囀り_appears_無音_p1999]]"

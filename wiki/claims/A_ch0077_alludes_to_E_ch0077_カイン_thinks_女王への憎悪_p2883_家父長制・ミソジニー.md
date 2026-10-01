@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0077_alludes_to_E_ch0077_カイン_thinks_女王への憎悪_p2883_家父長制・ミソジニー
 title: 家父長制・ミソジニー
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0077_カイン_thinks_女王への憎悪_p2883]]"

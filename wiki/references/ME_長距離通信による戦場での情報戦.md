@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_長距離通信による戦場での情報戦
 title: 戦場での情報戦
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ドラトリア
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0056
 spoiler_after: ch0056
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ドラトリア
@@ -31,3 +32,12 @@ created: "2026-09-30"
 - [[A_ch0056_analogous_to_E_ch0056_ドラトリア_other_言語の混乱_p2163_言語血統制と民族アイデンティティ|言語血統制と民族アイデンティティ]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ドラトリア北部では長年にわたる北の隣国との占領合戦、高山と河川に囲まれた特有の地形などの要因によって、隣国語、北部方言、ドラトリア語、大陸共通語の四つの言語が入り交じる状態となっていた。
+- **unknown**: そして『ドラトリア』が――国家という使い魔の呪術に命名という古き呪文で蓋をしたその巨大な構造体が――割れる。
+- **unknown**: その後、ドラトリアは槍神教圏から脱退を宣言。
+
+<!-- /AUTO-GENERATED:action -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0001_analogous_to_E_ch0001_アキラ_other_オプション未選択_p6_スマホゲームのガチャ
 title: 無課金ガチャへの転生
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_other_オプション未選択_p6]]"

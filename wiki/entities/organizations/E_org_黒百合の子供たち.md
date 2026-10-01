@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_黒百合の子供たち
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0055
 spoiler_after: ch0055
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 黒百合の子供たち
@@ -31,3 +32,33 @@ created: "2026-09-30"
 - [[A_ch0055_structurally_matches_E_ch0055_黒百合の子供たち_bonds_一大勢力_p2118_party_system|RPG固定パーティの模倣]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 私やその先生も含めて一人一人が『号』という色の名前を持っていて、彩石の儀の最中はその号で呼び合うのが倣いらしい。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 黒百合の子供たちによって詠唱、維持される超高度な複合呪文。幼馴染たちが過去の思い出を語り、私を外部から再生するとは、つまりそういうことだ。夜の民を完全再現する、世界を騙す呪文。
+- **unknown**: そんな風にして私たちは悪巧みを終え、そうして八人からなる一大勢力が結成された。名前はもちろん『黒百合の子供たち』だ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: フィリスの封印は黒百合の子供たち全員で行っているもの。黒百合の子供たちもまた、フィリスによって浸食されている。
+- **unknown**: ミルーニャの属する派閥と共闘することになった今、黒百合の子供たちは事実上一枚岩となってラクルラール派に対抗することになる。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 黒百合の子供たちは、そのほとんどが霊媒としての素質を有する。 その中で、メイファーラだけは特に第七位の天使シャルマキヒュの霊媒ということもなく、ごく普通の子供であるとされていた。
+
+<!-- /AUTO-GENERATED:visual -->

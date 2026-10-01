@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_金鎖の庭園
+type: entity
+subtype: terminology
+canonical_name: 金鎖の庭園
+aliases: []
+first_appearance: ch0044
+spoiler_after: ch0044
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 金鎖の庭園
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: そこは第一階層の上層部。そして修道騎士たちにとっての『要』であり異獣憑きたちにとって無くてはならない生命線。扉を開くと、そこは庭園だった。
+
+<!-- /AUTO-GENERATED:visual -->

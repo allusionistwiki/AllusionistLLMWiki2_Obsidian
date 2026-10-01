@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0058_foreshadows_E_ch0058_アズーリア_transforms_霊長類_p2215_human_origin
 title: 人類の起源への回帰
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0058_アズーリア_transforms_霊長類_p2215]]"

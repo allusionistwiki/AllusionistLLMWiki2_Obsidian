@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ケイト
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0028
 spoiler_after: ch0028
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ケイト
@@ -29,3 +30,11 @@ created: "2026-09-30"
 - [[A_ch0028_alludes_to_E_ch0028_ケイト_says_人間扱い_p1237_人工知能の権利|AIの権利論への暗喩]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: （何々、藤原祐の『レジンキャストミルク』？ 随分とまた古い小説を。というか君は相変わらずその年代の娯楽小説が好きだよね）
+- **unknown**: 「失敬だな！ たとえ肉体が存在しなくとも、自律的に判断し主体的に行動する僕は紛れもない人間だよ。ああ、でも少し不安だな。これから赴く異世界に、その事を理解してくれる人はいるのだろうか？」
+
+<!-- /AUTO-GENERATED:speech -->

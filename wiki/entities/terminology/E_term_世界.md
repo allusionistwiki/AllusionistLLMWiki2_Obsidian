@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_世界
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0002
 spoiler_after: ch0002
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 世界
@@ -32,3 +33,18 @@ created: "2026-09-30"
 - [[A_ch0056_analogous_to_E_ch0056_世界_other_ハルベルト_p2159_世界の免疫系と因果律の修正|因果律のバグ修正プロトコル]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 運命の修正力。　世界の免疫系。　今まさにその禁じられた呪文を使おうとしているハルベルトの全身には、かつてミルーニャ＝メートリアンが銃を用いた時のような苦痛が、あるいは可能性の彼方に消えたプリエステラの無数の死のような災厄の波が降りかかっている。
+- **unknown**: 世界が、砕け散る。 夜が、森が、大地が、空気が、かすかな虫や小動物の息吹といった一切合切が、幻であったかの如く雲散霧消する。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 魔将が浄界を発動させたにも関わらず、世界には何ら変化が無い。ただ静謐に対峙し、共に黒衣のまま立ち尽くす。
+
+<!-- /AUTO-GENERATED:visual -->

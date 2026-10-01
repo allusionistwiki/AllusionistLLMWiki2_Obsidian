@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0053_analogous_to_E_ch0053_マリー_other_アストラル体の自傷_p2070_philosophical_zombie
 title: 哲学的ゾンビ概念の直接引用
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_マリー_other_アストラル体の自傷_p2070]]"

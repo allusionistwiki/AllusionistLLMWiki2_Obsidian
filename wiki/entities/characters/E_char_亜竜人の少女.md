@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_亜竜人の少女
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0070
 spoiler_after: ch0070
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 亜竜人の少女
@@ -25,3 +26,18 @@ created: "2026-09-30"
 > 相手の積み重ねた時間、戦闘経験を奪い我がものとする【生命吸収】が発動。 時間停止が解除され、魔将が気がついた時には状況を認識することすら困難になっていた。（ch0070）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 頭部の右側から、長く長く伸び上がった見事な角が後方に向けて生えている。 蜥蜴人の上位種、亜竜人の証たる二つの角は片方が根元で折れ、
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 天眼をオーバークロックして灰色の光を纏わせた爪を魔将の胴体に突き入れる。 【シャルマキヒュの凍視】からの【殺戮】という鮮やかな連続攻 撃。
+- **unknown**: 相手の積み重ねた時間、戦闘経験を奪い我がものとする【生命吸収】が発動。 時間停止が解除され、魔将が気がついた時には状況を認識することすら困難になっていた。
+
+<!-- /AUTO-GENERATED:action -->

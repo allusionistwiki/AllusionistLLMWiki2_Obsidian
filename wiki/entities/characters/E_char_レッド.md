@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_レッド
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0040
 spoiler_after: ch0040
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # レッド
@@ -27,3 +28,12 @@ created: "2026-09-30"
 > 上空から放たれた二条の光線が、狙い違わずレッドとティールの真芯を貫いていた。（ch0049）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「牙を剥け、赤かる顎、われらが怒りその身に宿し、鍵たる剣持て
+あぎと
+われらが土塊の出自を否定せよ！　われら、この身は水の御子、大海より出で暗闇に還る、深淵の申し子なりと知らしめよ！！」　燃える車輪が、高らかに呪文を歌い上げる。
+
+<!-- /AUTO-GENERATED:speech -->

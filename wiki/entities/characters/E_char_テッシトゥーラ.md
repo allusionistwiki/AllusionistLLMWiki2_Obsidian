@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_テッシトゥーラ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0074
 spoiler_after: ch0074
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # テッシトゥーラ
@@ -29,3 +30,24 @@ created: "2026-09-30"
 - [[A_ch0074_analogous_to_E_ch0074_テッシトゥーラ_reveals_トライデントの細胞_p2793_symmetry_breaking|細胞席次に投影された対称性の破れ]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 拍手の音がする。　暗がりで壁に背を預けていたのは一人の女性。　音叉のような二叉の槍と巨大なヘッドフォンが特徴的な姿。　守護の九槍、その第五位。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「自己紹介するね。わたしはトライデントの細胞が五番目――【右耳】のテッシトゥーラ。丁度、守護の九槍としても第五位だからわかりやすいでしょ？」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 次の瞬間、テッシトゥーラは信じがたい暴挙に出た。　抵抗する暇など与えない。ハルベルトの神経反射を超えた動き。　額に、唇が触れた。
+
+<!-- /AUTO-GENERATED:action -->

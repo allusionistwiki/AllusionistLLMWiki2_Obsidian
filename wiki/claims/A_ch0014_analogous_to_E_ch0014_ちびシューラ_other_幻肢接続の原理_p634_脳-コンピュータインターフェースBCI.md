@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0014_analogous_to_E_ch0014_ちびシューラ_other_幻肢接続の原理_p634_脳-コンピュータインターフェースBCI
 title: 脳-コンピュータインターフェース
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0014_ちびシューラ_other_幻肢接続の原理_p634]]"

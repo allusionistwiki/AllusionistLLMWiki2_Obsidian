@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_死人
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0066
 spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 死人
@@ -31,3 +32,17 @@ created: "2026-09-30"
 - [[A_ch0066_analogous_to_E_ch0066_グラル・アーニスタ_fights_死人_p2464_ギルドシステム|ギルド連携を模した神働術]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 積載人数を超過して詰め込まれた列車や大型箒から人が振り落とされ、そこに群がる死人の群れ。襲われた者もまた死人となり、涎を垂らしながら生者を求めて徘徊を始める。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「連中、呪力に反応しやがる！ おい、九位以外全員追い出せ！」
+
+<!-- /AUTO-GENERATED:visual -->

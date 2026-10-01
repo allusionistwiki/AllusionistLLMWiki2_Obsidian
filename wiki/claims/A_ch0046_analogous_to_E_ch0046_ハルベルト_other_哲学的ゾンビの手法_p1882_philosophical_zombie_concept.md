@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0046_analogous_to_E_ch0046_ハルベルト_other_哲学的ゾンビの手法_p1882_philosophical_zombie_concept
 title: 哲学的ゾンビの技術実装
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0046_ハルベルト_other_哲学的ゾンビの手法_p1882]]"

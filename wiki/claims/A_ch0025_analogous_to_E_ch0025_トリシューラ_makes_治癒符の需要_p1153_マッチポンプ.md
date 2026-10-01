@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0025_analogous_to_E_ch0025_トリシューラ_makes_治癒符の需要_p1153_マッチポンプ
 title: マッチポンプへの需要創出操作
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_トリシューラ_makes_治癒符の需要_p1153]]"

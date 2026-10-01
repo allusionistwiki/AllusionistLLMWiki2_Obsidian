@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_capitalism_resource_extraction
 title: 資本主義的収奪
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

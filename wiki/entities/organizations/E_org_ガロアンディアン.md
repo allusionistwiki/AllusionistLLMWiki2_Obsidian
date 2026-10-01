@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ガロアンディアン
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0080
 spoiler_after: ch0080
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ガロアンディアン
@@ -24,3 +25,11 @@ created: "2026-09-30"
 > 食料自給や工業製品などの生産力ではどうやっても外界に劣る。それどころか、依存せざるをえない。そこで、何かしらの呪術的付加価値を積極的に『発信』していく必要がある。（ch0082）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 食料自給や工業製品などの生産力ではどうやっても外界に劣る。それどころか、依存せざるをえない。そこで、何かしらの呪術的付加価値を積極的に『発信』していく必要がある。
+- **unknown**: そして、ドラトリアはガロアンディアンと『国交』を持つことになった。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_殺し屋
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0028
 spoiler_after: ch0028
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 殺し屋
@@ -28,3 +29,10 @@ created: "2026-09-30"
 - [[A_ch0028_analogous_to_E_ch0028_保険屋_fights_殺し屋_p1231_保険詐欺と調査部門|保険詐欺構造のジャンル自己言及]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
+
+<!-- /AUTO-GENERATED:action -->

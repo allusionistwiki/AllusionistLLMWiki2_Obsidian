@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_other_コルセスカ_p1205_火竜と猫
 title: 火竜と猫への仕えの暗示
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_other_コルセスカ_p1205]]"

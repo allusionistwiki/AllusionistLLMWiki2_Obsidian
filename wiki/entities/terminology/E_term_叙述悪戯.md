@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_term_叙述悪戯
+type: entity
+subtype: terminology
+canonical_name: 叙述悪戯
+aliases: []
+first_appearance: ch0064
+spoiler_after: ch0064
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 叙述悪戯
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 事象改竄系過去遡及呪文【叙述悪戯】。 語りの焦点をずらし遠近感を狂わせ、時間を遡って過去の事象を再解釈し、『実はこうだった』という事実の開示（に偽装した過去改変）を行う類推呪術の一種。
+
+<!-- /AUTO-GENERATED:name -->

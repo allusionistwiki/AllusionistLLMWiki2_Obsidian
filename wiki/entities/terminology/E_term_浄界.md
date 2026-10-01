@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_浄界
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0045
 spoiler_after: ch0045
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 浄界
@@ -32,3 +33,11 @@ created: "2026-09-30"
 - [[A_ch0063_analogous_to_E_ch0063_守護の九槍第五位_activates_浄界_p2358_AR拡張現実による空間上書き|ARによる上書きへの転生]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ガルズの復活によって再形成された浄界は無数の泡が浮かぶ闇夜であった。四つの月は全て色の付いた泡となり、無数の星々もまた全てが空に浮かぶ泡。
+- **unknown**: 生者は死者となり、美しい街並みは朽ち果てていく。色褪せた世界から音が消え、太陽が月に喰われて歪な光が辺りに満ちる。
+
+<!-- /AUTO-GENERATED:visual -->

@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_労働の疎外
 title: 労働の疎外
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

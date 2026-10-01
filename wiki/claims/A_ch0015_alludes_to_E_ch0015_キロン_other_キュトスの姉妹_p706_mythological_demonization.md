@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0015_alludes_to_E_ch0015_キロン_other_キュトスの姉妹_p706_mythological_demonization
 title: 神話的悪魔化による排除
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_キロン_other_キュトスの姉妹_p706]]"

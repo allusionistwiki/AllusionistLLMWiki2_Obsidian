@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_公社
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0007
 spoiler_after: ch0007
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 公社
@@ -30,3 +31,17 @@ created: "2026-09-30"
 - [[A_ch0015_alludes_to_E_ch0015_公社_makes_新紙幣_p678_fiat_currency_meme|法定通貨ミームの呪符化]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 「正確に言えば、第五階層で最も強大な勢力である『公社』――あなたもよく知るロドウィの組織とその傘下にある組織以外はみんな『下』に味方してるみたいだよ。」
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「あら、ご存じありませんでした？ 今朝から【公社】が発行している新紙幣ですわ。昨日起きた治癒符の価値暴落を受けて、新たに用意された基軸通貨がこれだそうです。」
+
+<!-- /AUTO-GENERATED:action -->

@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_クローン技術の倫理・自己同一性の崩壊
 title: クローン・自己同一性
+
 type: external_reference
 created: "2026-10-01"
 subtype: philosophy

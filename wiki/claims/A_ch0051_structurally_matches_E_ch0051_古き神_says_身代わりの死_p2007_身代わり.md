@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0051_structurally_matches_E_ch0051_古き神_says_身代わりの死_p2007_身代わり
 title: 身代わり死の構造対応
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0051_古き神_says_身代わりの死_p2007]]"

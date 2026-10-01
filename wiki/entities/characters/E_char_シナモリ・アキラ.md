@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_シナモリ・アキラ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0028
 spoiler_after: ch0028
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # シナモリ・アキラ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 個人的な好みで言わせてもらえば――悩むくらいなら両方の要素をぶち込んでしまえばいい。収拾がつかないとか辻褄とかバランスとかは気にしないで、滅茶苦茶なくらいが一番面白いと、俺は思う（ch0069）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 個人的な好みで言わせてもらえば――悩むくらいなら両方の要素をぶち込んでしまえばいい。収拾がつかないとか辻褄とかバランスとかは気にしないで、滅茶苦茶なくらいが一番面白いと、俺は思う
+
+<!-- /AUTO-GENERATED:speech -->

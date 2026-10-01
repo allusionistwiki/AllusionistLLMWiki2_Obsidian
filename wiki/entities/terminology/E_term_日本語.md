@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_日本語
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0061
 spoiler_after: ch0061
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 日本語
@@ -31,3 +32,11 @@ created: "2026-09-30"
 - [[A_ch0082_analogous_to_E_ch0082_日本語_functions_as_暗号_p3001_プログラミング言語・暗号化技術|日本語多義性悪用による暗号化技術]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 施設内部の表示は、日本語による暗号化が施されている。日本語がこの世界に定着しており、事実上ガロアンディアンの公用語の一つにもなりつつあるとはいっても、全ての文脈を完全に移行できているわけではない。
+- **unknown**: 日本語は現在第五階層を発信地とした『流行言語』だ。表意文字なので呪術を使う際には効率がいいとかなんとか。
+
+<!-- /AUTO-GENERATED:symbolic -->

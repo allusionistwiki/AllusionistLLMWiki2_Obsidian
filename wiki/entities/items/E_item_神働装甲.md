@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_神働装甲
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0063
 spoiler_after: ch0063
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 神働装甲
@@ -28,3 +29,17 @@ created: "2026-09-30"
 - [[A_ch0063_analogous_to_E_ch0063_神働装甲_functions_as_カラス型と人型の変形装甲_p2361_変形ロボット玩具・トランスフォーマー|変形ロボット玩具への転生]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: あのカラス型と人型、二つの形態を使い分ける新型の甲冑は、神働装甲と名付けられた新武装である。 その試験運用を担当しているのはペイルの仲間としてかつて私たちと刃を交えた三本足の民、ナトだ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: この鎧は影に纏っている間は呪術に対する抵抗力を極端に上昇させる。元から呪術抵抗が高い夜の民が纏えば、中位呪術くらいまでなら完全に無効化できるし、上位呪術の威力もある程度軽減できる。
+
+<!-- /AUTO-GENERATED:symbolic -->

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_トライデント
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0010
 spoiler_after: ch0010
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # トライデント
@@ -31,3 +32,18 @@ created: "2026-09-30"
 - [[A_ch0025_foreshadows_E_ch0025_トリシューラ_names_トライデント_p1138_トライデント|トライデントへの個の消滅暗示]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「当たり前だよ。だってトライデントは使い魔の魔女だもの」
+- **unknown**: 「あの青い血液による異質な生命同士の融合現象。あれは間違いなくトライデントの禁戒呪法『融血呪』です。つまり、私達は今、トライデントの攻撃を受けていると見てまず間違いありません」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: そしてその弟子であるという使い魔操りの天才――トライデントという魔女が主導となってそういう空気は維持され続けてきた。
+
+<!-- /AUTO-GENERATED:action -->

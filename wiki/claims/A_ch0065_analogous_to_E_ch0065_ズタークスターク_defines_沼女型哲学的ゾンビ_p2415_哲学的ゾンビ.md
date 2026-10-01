@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_ズタークスターク_defines_沼女型哲学的ゾンビ_p2415_哲学的ゾンビ
 title: 哲学的ゾンビとしての沼女定義
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ズタークスターク_appears_as_少女_p2415]]"

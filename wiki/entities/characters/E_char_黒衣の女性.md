@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_黒衣の女性
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0059
 spoiler_after: ch0059
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 黒衣の女性
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 「何度やっても同じさ。僕が無限に複製し続ける夢からは絶対に逃れられない」（ch0059）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「何度やっても同じさ。僕が無限に複製し続ける夢からは絶対に逃れられない」
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_サンズ
+type: entity
+subtype: character
+canonical_name: サンズ
+aliases: []
+first_appearance: ch0060
+spoiler_after: ch0060
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# サンズ
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 勝利者は黒百合の子供たちの中からは出ること無く、【万色】の称号は鮮朱を操っていたサンズという魔女のものになった。　サンズは第五位代理となり、すぐに第五位の座に正式に収まる事になる。
+
+<!-- /AUTO-GENERATED:action -->

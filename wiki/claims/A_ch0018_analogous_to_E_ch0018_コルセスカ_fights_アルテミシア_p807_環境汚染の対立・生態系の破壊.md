@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0018_analogous_to_E_ch0018_コルセスカ_fights_アルテミシア_p807_環境汚染の対立・生態系の破壊
 title: 生態系破壊
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_コルセスカ_fights_アルテミシア_p807]]"

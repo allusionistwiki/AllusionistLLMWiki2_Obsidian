@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_女呪術師
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0016
 spoiler_after: ch0016
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 女呪術師
@@ -31,3 +32,20 @@ created: "2026-09-30"
 - [[A_ch0016_analogous_to_E_ch0016_女呪術師_other_魔将九体_p740_十面体サイコロ|十面体サイコロと運命の対比]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ふふ、はじめまして。お目にかかれて光栄ですわ、小人さん」
+- **unknown**: 「シナモリ・アキラ――わたくしと同じ、忌むべき転生者」ゼノグラシア呪わしい――怒りと憎しみが入り交じった感情が言葉の中で煮え立つようだった。
+- **unknown**: 「――ええ、ごめんなさい。少し用事があって、扉を開いてしまったの。負担をかけてしまいましたね。貴方は気にしなくていいんですよ。ここでの戦いは全てわたくしが終わらせます。貴方はただ平穏の中に紛れていればそれでいい――わたくしの大切な半身に、血塗られた戦いは似合わない」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「Ａｌｅａ ｊａｃｔａ ｅｓｔ（賽は投げられた）」不可解な呪文詠唱と同時に、空中で十面体の賽子が回転する。
+- **unknown**: 一切の抵抗を許さぬ、死の奔流。たとえカッサリオとの戦いを凌ぎきった猛者といえど、それに匹敵する猛威を同時に八体から受ければ助かることなど万に一つもありはしない。
+
+<!-- /AUTO-GENERATED:action -->

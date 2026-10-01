@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_org_夜警団
+type: entity
+subtype: organization
+canonical_name: 夜警団
+aliases: []
+first_appearance: ch0081
+spoiler_after: ch0081
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 夜警団
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 全員が第五階層の物質創造能力によって義肢を獲得した者たちであり、トリシューラの許可が下りた時のみ発砲が可能という安全装置付きの武力だ。　銃を悪用しようとすると義肢が爆発するので、皆よく言う事を聞いて仕事に専念している。
+
+<!-- /AUTO-GENERATED:symbolic -->

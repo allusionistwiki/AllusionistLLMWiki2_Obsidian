@@ -1,0 +1,31 @@
+---
+schema_version: '5.1'
+id: E_org_ロドウィ
+type: entity
+subtype: organization
+canonical_name: ロドウィ
+aliases: []
+first_appearance: ch0013
+spoiler_after: ch0013
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# ロドウィ
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 流暢な日本語で話す、恰幅のいい壮年の男。【公社】の首領ロドウィがそこに立っていた。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ははは、仲がいいじゃないか。どうかね、アキラ。娘を嫁に貰ってはくれんだろうか。
+- **unknown**: 「君に任せたいのは住宅サービスの提供でね。今日の寝床すら定まらないような貧困層の為に、低価格で住居を貸し出そうと思っているのだよ。
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_神託機械
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0053
 spoiler_after: ch0053
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 神託機械
@@ -28,3 +29,17 @@ created: "2026-09-30"
 - [[A_ch0053_analogous_to_E_ch0053_神託機械_is_made_of_歴代の当主の眼球_p2067_legacy_system_and_survivor_bias|レガシーシステムと生存者バイアス]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「それって、歴代の当主の眼球を集積させて演算するっていう、あの呪術コンピュータだよね？」 恐らくクロウサー家の機密なのだろう。 何というか、不気味だと思った。眼球でできた機械が、ではない。それを延々と続けているマウザという血族がだ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: その計算結果は『マウザの当主を英雄にする』というものだった。馬鹿馬鹿しいだろう？ そんなのは歴代の当主たちの劣等感、ただの妄執に過ぎない。『我々はゾラに劣っている』というね」
+
+<!-- /AUTO-GENERATED:action -->

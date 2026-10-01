@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_心話
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0002
 spoiler_after: ch0002
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 心話
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 【心話】の呪術がその場にいる全員の胸に染み渡った。 異界の言語である英語で紡がれたその言葉が、重なり合う意味を持っている事を全員が理解し、やがて静寂が訪れる。（ch0046）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 【心話】の呪術がその場にいる全員の胸に染み渡った。 異界の言語である英語で紡がれたその言葉が、重なり合う意味を持っている事を全員が理解し、やがて静寂が訪れる。
+
+<!-- /AUTO-GENERATED:action -->

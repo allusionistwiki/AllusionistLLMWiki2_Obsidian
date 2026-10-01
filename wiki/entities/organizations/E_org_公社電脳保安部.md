@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_org_公社電脳保安部
+type: entity
+subtype: organization
+canonical_name: 公社電脳保安部
+aliases: []
+first_appearance: ch0016
+spoiler_after: ch0016
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# 公社電脳保安部
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 暗号通貨の交換所に攻撃を仕掛けた十六人の呪文使い達が一人残らず攻性防壁で脳を灼き切られたばかりか、感染呪術によって三親等以内の親族が皆殺しにされるという大惨事に直面して
+
+<!-- /AUTO-GENERATED:action -->

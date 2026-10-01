@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_ズタークスターク_says_誕生日の歌_p2413_秒数計算とカレンダー
 title: 暦計算による非誕生日の殺戮正当化
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ズタークスターク_says_誕生日の歌_p2413]]"

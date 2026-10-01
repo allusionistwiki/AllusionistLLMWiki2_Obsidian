@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_上司
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0028
 spoiler_after: ch0028
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 上司
@@ -31,3 +32,16 @@ created: "2026-09-30"
 - [[A_ch0028_inverts_E_ch0028_上司_says_転生_p1236_テセウスの船|テセウスの船による転生否定]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「しかし、これではっきりしたなあ。間違いなく重複転生案件だぞ、こりゃあ」
+- **unknown**: 「調査の結果、間違いなく該当する契約者は希望した異世界――下位プレーンの小規模世界ですね――に転生し、そこでおよそ一年ほど過ごした後に死亡しています。」
+- **unknown**: 「当時の担当者が、転生処理の実行直後に退社しておりまして」
+- **unknown**: 「どうにか『無かったこと』として収めないと私も君も色々危ないことになる。というわけで――『本業』の方、頼もうか。」
+- **unknown**: 「『また』か」
+「『また』です」
+- **unknown**: 「全く、正気の沙汰じゃないね。転生なんざする奴も、異世界に転移する奴も、気が知れん。自分が消えて異世界に再構成されたって、そいつは同じってだけで意識は連続してない別人だろうに」
+
+<!-- /AUTO-GENERATED:speech -->

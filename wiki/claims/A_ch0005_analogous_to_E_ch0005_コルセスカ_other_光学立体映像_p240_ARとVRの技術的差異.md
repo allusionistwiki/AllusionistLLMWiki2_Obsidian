@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_光学立体映像_p240_ARとVRの技術的差異
 title: ARとVRの技術的差異
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_光学立体映像_p240]]"

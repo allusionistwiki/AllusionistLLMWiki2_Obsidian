@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0068_analogous_to_E_ch0068_エスフェイル_has_property_四分割_p2544_マルチタスク
 title: 分散状態でのマルチタスク
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_エスフェイル_has_property_四分割_p2544]]"

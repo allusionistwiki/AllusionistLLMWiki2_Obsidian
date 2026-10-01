@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_Speaer
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0013
 spoiler_after: ch0013
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # Speaer
@@ -28,3 +29,17 @@ created: "2026-09-30"
 - [[A_ch0013_analogous_to_E_ch0013_Speaer_other_エスニック・ポリフォニー_p611_ワールドミュージック|ワールドミュージックの無国籍性]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 背の高いビルディング、その上の大型ディスプレイ。映し出されているのは黒髪の歌姫だ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 今流れているナンバーは【エスニック・ポリフォニー】。美しいソプラノが混沌とした喧噪の中で、別格の存在感を持って流れていく。
+
+<!-- /AUTO-GENERATED:speech -->

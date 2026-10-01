@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_アキラ_uses_感情制御アプリE-E_p254_精神薬物療法と自己管理
 title: 精神薬物療法としての感情制御
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_アキラ_uses_感情制御アプリE-E_p254]]"

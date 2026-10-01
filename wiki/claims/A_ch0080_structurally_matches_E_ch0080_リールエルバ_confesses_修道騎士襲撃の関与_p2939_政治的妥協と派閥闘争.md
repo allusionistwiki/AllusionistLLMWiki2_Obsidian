@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0080_structurally_matches_E_ch0080_リールエルバ_confesses_修道騎士襲撃の関与_p2939_政治的妥協と派閥闘争
 title: 政治的妥協と派閥闘争
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_リールエルバ_confesses_修道騎士襲撃の関与_p2939]]"

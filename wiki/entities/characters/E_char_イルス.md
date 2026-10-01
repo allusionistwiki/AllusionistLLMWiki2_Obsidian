@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_イルス
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0038
 spoiler_after: ch0038
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # イルス
@@ -29,3 +30,18 @@ created: "2026-09-30"
 - [[A_ch0038_inverts_E_ch0038_イルス_says_医術の神_p1632_ヒポクラテスの誓いと宗教的対立|ヒポクラテスの誓いの逆転]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 言い訳をするつもりはない。覚悟は既に決めている。露見していると思ったがゆえに、あのような身の上話をしたのだ。後悔無く逝けるようにな
+- **unknown**: 「俺が信じているのは槍神ではなく、医術そのものです。俺の神は医術だ。俺が憎いのなら憎めばいい。治療によって恩義を感じる必要も、憎い仇に救われたと感じる必要もない。救うのは技術であって俺じゃない。あなたたちは存分に俺を憎み、そして技術によって彼女を救わせればいいんです」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 彼は膝を突くと槍神への祈りを捧げ、更には『樹木の天使』であるレルプレアと精霊たちへの祈りを高らかに唱えていく。
+
+<!-- /AUTO-GENERATED:action -->

@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_コンテンツ産業と労働搾取
 title: コンテンツ搾取
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

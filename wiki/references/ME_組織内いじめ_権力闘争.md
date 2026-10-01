@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_組織内いじめ_権力闘争
 title: 組織内いじめ・権力闘争
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

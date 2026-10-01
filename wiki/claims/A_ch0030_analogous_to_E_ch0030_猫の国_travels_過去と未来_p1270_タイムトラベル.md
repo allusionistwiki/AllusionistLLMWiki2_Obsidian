@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0030_analogous_to_E_ch0030_猫の国_travels_過去と未来_p1270_タイムトラベル
 title: 猫の国によるSF的タイムトラベル
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_猫の国_travels_過去と未来_p1270]]"

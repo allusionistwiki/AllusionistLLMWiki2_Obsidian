@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_グーテンベルク銀河系とインターネットの爆発的拡散
 title: グーテンベルク銀河
+
 type: external_reference
 created: "2026-10-01"
 subtype: internet_culture

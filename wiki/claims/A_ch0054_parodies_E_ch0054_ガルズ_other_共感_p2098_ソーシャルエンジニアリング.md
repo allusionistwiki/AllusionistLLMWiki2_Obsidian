@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0054_parodies_E_ch0054_ガルズ_other_共感_p2098_ソーシャルエンジニアリング
 title: 共感を利用したアクセス権取得
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_ガルズ_other_共感_p2098]]"

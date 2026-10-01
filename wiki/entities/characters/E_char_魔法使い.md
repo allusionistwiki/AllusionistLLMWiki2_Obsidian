@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_魔法使い
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0001
 spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 魔法使い
@@ -34,3 +35,21 @@ created: "2026-09-30"
 - [[E_char_エスフェイル|エスフェイル]] — 攻撃（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 射出されたのは矢では無い。拳大の弾丸で、盾に接触すると同時に音と光を放つ、小規模なスタングレネードめいた代物だった。
+- **unknown**: 黒い本から文字が飛び出し、矢のようにエスフェイルへ向かっていく。が、狼がひと睨みすると文字の矢はあっけなく霧散してしまった。
+- **unknown**: 彼の杖が、剣に化けていた。剣杖、いわゆる仕込み杖だ。 エスフェイルの左目ごとその顔に斬撃を喰らわせることができたのだ。
+- **unknown**: 本のページから文字が飛び上がり、俺たちの周囲をぐるぐると回転し始める。奇妙な浮遊感が俺の体を襲った。
+- **unknown**: 手品師がエスフェイルを道連れに自爆する。閃光が走り、熱や爆風が伝わる寸前、俺たちを包む文字が高速で回転を始め――。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「答えてはいけない！ 名前を奪われるぞ！」
+
+<!-- /AUTO-GENERATED:speech -->

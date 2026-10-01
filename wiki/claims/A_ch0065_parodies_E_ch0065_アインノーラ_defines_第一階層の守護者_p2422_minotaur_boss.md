@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0065_parodies_E_ch0065_アインノーラ_defines_第一階層の守護者_p2422_minotaur_boss
 title: 迷宮ボスとしてのミノタウロス
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アインノーラ_defines_第一階層の守護者_p2422]]"

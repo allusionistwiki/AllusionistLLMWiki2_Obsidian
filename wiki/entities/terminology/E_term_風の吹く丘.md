@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_風の吹く丘
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0079
 spoiler_after: ch0079
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 風の吹く丘
@@ -28,3 +29,11 @@ created: "2026-09-30"
 - [[A_ch0079_alludes_to_E_ch0079_風の吹く丘_has_property_草の民の聖地_p2918_モンゴル帝国の草原と騎馬民族|モンゴル騎馬民族文化の移植]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: ここは俺がこの世界に放り出された直後、一番最初に巨大狼と遭遇し、アズーリアたちと出会った空間だ。
+- **unknown**: 果て無しの草原、あるいは【風の吹く丘】と呼ばれるこの古代世界は、【草の民】という騎馬民族たちがかつて聖地としていた場所なのだという。【風の王】ハルバンデフが史上はじめて草の民たちを統一した戦乱の世が当時のまま再現された古戦場。
+
+<!-- /AUTO-GENERATED:symbolic -->

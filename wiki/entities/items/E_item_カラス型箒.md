@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_カラス型箒
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0070
 spoiler_after: ch0070
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # カラス型箒
@@ -29,3 +30,11 @@ created: "2026-09-30"
 - [[A_ch0070_analogous_to_E_ch0070_カラス型箒_activates_アストラルエンジン_p2605_ゲーム内の乗り物カスタマイズ／変形|乗り物変形への転生]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『霊魂導子の励起状態を確認。アストラルエンジン起動！』
+- **unknown**: 超高熱、超高圧のマグマ溜りへと突入。 あらゆる生物が死を免れないその空間を、成し得ぬ盾の模造品によって生存したまま突き抜けていく。
+
+<!-- /AUTO-GENERATED:action -->

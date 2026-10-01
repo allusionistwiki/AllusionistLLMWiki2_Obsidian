@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_チョコレートリリー
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0050
 spoiler_after: ch0050
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # チョコレートリリー
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 【チョコレートリリー】と呼ばれる集団の長は、先陣を切って無彩色の左手を掲げると、勢いよく金鎖を砕く。（ch0071）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 【チョコレートリリー】と呼ばれる集団の長は、先陣を切って無彩色の左手を掲げると、勢いよく金鎖を砕く。
+
+<!-- /AUTO-GENERATED:action -->

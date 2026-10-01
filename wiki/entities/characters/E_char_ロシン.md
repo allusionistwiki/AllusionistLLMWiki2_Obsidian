@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ロシン
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0067
 spoiler_after: ch0067
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ロシン
@@ -29,3 +30,22 @@ created: "2026-09-30"
 - [[A_ch0067_analogous_to_E_ch0067_ロシン_transforms_蝗の皇_p2522_変身ロボット|神働装甲の変身ロボット]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 序列第三十二位の少年ロシンは半妖精である。
+アヴロノ
+彼は第十位【燃える髭】バルの命令で、会場の北口近く、観客席の上に長弓部隊を待機させていた。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 神働装甲が変形していく。無数の箱状部品が分解され、再構成される。　その形状は、巨大な虫そのもの。　輝くような呪術翅を広げた、蝗の皇となって、少年は飛翔する。
+イナゴ
+- **unknown**: 自らが射殺した蝶の翅や甲虫の
+頭などを持った『異獣』たちの正体を理解していたはずですが
+
+<!-- /AUTO-GENERATED:action -->

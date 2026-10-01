@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_人影
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0077
 spoiler_after: ch0077
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 人影
@@ -25,3 +26,18 @@ created: "2026-09-30"
 > 腰の辺りを持ち上げて、床に叩きつける。 まず、それで首の骨が折れた。だが。「残った」 振り下ろされた掌が、頭蓋を叩きつぶす。 死の確定。（ch0077）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 様々な色合いの煙の向こう側、椅子や簡易卓代わりの箱に腰掛けた人影が、ゆっくりと身体を起こす。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 踏み抜いた石の地面が粉砕され、ひび割れ、破片となって放射状に持ち上がっていく。そしてそれが踏み込みだった。
+- **unknown**: 腰の辺りを持ち上げて、床に叩きつける。 まず、それで首の骨が折れた。だが。「残った」 振り下ろされた掌が、頭蓋を叩きつぶす。 死の確定。
+
+<!-- /AUTO-GENERATED:action -->

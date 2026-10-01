@@ -2,6 +2,7 @@
 schema_version: "5.1"
 id: ME_言語と身体性の関係サピア=ウォーフの仮説など
 title: サピア＝ウォーフ仮説
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0081_analogous_to_E_ch0081_セージ_uses_水流コンピュータ_p2982_量子コンピュータと流体計算
 title: 水流コンピュータによる流体計算の再解釈
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0081_セージ_uses_水流コンピュータ_p2982]]"

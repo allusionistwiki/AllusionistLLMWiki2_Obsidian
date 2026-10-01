@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_肉塊
 type: entity
 subtype: item
@@ -8,7 +8,8 @@ first_appearance: ch0050
 spoiler_after: ch0050
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 肉塊
@@ -24,3 +25,11 @@ created: "2026-09-30"
 > 膨れあがったそれは屍肉と半透明の大気が混在した斑の巨人とでも言うべきものだった。実体と非実体の怪物はサイリウスの巨人形態よりも更に巨大化し、そのまま浮遊する積層鏡を透過して上昇し、長大な手を天に伸ばした。（ch0064）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 膨れあがったそれは屍肉と半透明の大気が混在した斑の巨人とでも言うべきものだった。実体と非実体の怪物はサイリウスの巨人形態よりも更に巨大化し、そのまま浮遊する積層鏡を透過して上昇し、長大な手を天に伸ばした。
+- **unknown**: その背後で、全身を複雑怪奇にねじり回したようになっている、あの肉塊のようなものは何だろう。
+
+<!-- /AUTO-GENERATED:visual -->

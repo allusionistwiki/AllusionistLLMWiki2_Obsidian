@@ -1,0 +1,23 @@
+---
+schema_version: '5.1'
+id: E_char_グラル・アーニスタ
+type: entity
+subtype: character
+canonical_name: グラル・アーニスタ
+aliases: []
+first_appearance: ch0066
+spoiler_after: ch0066
+document_status: active
+created: '2026-10-01'
+updated: '2026-10-01'
+---
+# グラル・アーニスタ
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: そこに立ちはだかったのは、背中が曲がり巨大な瘤が隆起している祭服の老人だ。彼の名は第十二位グラル・アーニスタ。アーニスタというのはボロブ系燐血の民に最もよく見られる姓だが、グラルは同じ姓であることを共同体への所属と見なし、結束の呪力によって集団を強化する神働術の使い手である。アーニスタ姓の者だけが集められた高い耐久力の二番隊、通称を火の玉隊が文字通り火の玉となって死人たちを蹴散らして突撃する。
+
+<!-- /AUTO-GENERATED:action -->

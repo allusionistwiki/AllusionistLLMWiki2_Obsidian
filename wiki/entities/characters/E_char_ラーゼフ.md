@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ラーゼフ
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0043
 spoiler_after: ch0043
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ラーゼフ
@@ -24,3 +25,10 @@ created: "2026-09-30"
 > 「ハルがさせない。ラーゼフにも確約させた。破ったら親類縁者含めて蛙になる呪詛をかけておいたので、裏切りは無いと思っていい」（ch0046）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「あれはあくまで訓練の一環であり、その結果として戦力の向上に成功しております。ここにいるハルベルト殿の教導官としての腕前は確か。
+
+<!-- /AUTO-GENERATED:speech -->

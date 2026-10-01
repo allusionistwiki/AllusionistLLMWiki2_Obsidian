@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_天眼の民
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0070
 spoiler_after: ch0070
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 天眼の民
@@ -28,3 +29,11 @@ created: "2026-09-30"
 - [[A_ch0070_structurally_matches_E_ch0070_天眼の民_has_property_先祖返り_p2591_遺伝子データからのキャラクター召喚／継承|遺伝子覚醒の構造対応]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 天眼の民、あるいは蜥蜴人とも呼ばれる種族は優れた戦士として各地で重宝されている。
+- **unknown**: 天眼の民の変身は古代の血を『思い出す』ことで発動する。 古代の血とは、霊長類と混血を繰り返して現在の姿を獲得する以前の種の記憶。 一族の祖霊の力によって、祖先の形質を強制的に発現させ、一時的な突然変異として覚醒する能力。 先祖返り。
+
+<!-- /AUTO-GENERATED:visual -->

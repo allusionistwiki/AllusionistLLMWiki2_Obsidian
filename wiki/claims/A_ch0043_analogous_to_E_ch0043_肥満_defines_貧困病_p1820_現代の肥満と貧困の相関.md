@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0043_analogous_to_E_ch0043_肥満_defines_貧困病_p1820_現代の肥満と貧困の相関
 title: 貧困と肥満の相関
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_肥満_defines_貧困病_p1820]]"

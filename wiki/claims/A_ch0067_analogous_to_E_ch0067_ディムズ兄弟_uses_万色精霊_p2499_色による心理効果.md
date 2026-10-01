@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0067_analogous_to_E_ch0067_ディムズ兄弟_uses_万色精霊_p2499_色による心理効果
 title: 色彩の心理効果の具現化
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ディムズ兄弟_uses_万色精霊_p2499]]"

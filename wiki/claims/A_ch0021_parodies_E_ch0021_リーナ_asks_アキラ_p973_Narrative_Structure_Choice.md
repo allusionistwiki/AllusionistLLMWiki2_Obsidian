@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0021_parodies_E_ch0021_リーナ_asks_アキラ_p973_Narrative_Structure_Choice
 title: 物語構造選択へのマルチエンディング化
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_リーナ_asks_アキラ_p973]]"

@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ウィクトーリア
 type: entity
 subtype: character
@@ -8,7 +8,8 @@ first_appearance: ch0077
 spoiler_after: ch0077
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # ウィクトーリア
@@ -38,3 +39,35 @@ created: "2026-09-30"
 - [[E_char_カイン|カイン]] — 攻撃(受)（3 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 一人の女性が、奥の闇から姿を現した。 脳髄と心臓を同時に鷲掴みにされて、目の前にはっきりとした死を突きつけられているかのような猛烈な悪寒。 怖気を振るう美しさ。
+- **unknown**: 次々と、次々と、柔らかく、脆く、繊細な女体が、床を這いずって近付いて来ているのだった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「ようこそ旦那様――当館の主人、ウィクトーリアと申します」
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「あら。甘えんぼさんですね。それじゃあ、みんなにはちょっとだけ我慢してもらいましょうか」 その言葉こそが呪文であったかのように、全ての異変がかき消えた。
+- **unknown**: 「ああ――ごめんなさい。子供たちが、少しやんちゃをしてしまったみたいです。本当に悪戯好きで――でも、けっして悪い子たちじゃないんですよ？」
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「一つだけ、約束です。この中では決して『おいた』はしないこと。一夜の夢は、儚く優しく、そして醒めれば何事も無く当たり前の生活に帰るために――」
+- **unknown**: 「それに、大した痛みではありません――どんな男性のものだって、赤ちゃんの頭に比べたら可愛らしいものでしょう？」
+- **unknown**: 「大丈夫ですよー怖くないですよー。ほうら、私が貴方のママですからねー♪」 悪夢の泡がふわりと浮かび、やがて弾けた。
+
+<!-- /AUTO-GENERATED:speech -->

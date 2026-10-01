@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_プリエステラ
 type: entity
 subtype: terminology
@@ -8,7 +8,8 @@ first_appearance: ch0036
 spoiler_after: ch0036
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # プリエステラ
@@ -32,3 +33,13 @@ created: "2026-09-30"
 - [[A_ch0037_analogous_to_E_ch0037_プリエステラ_activates_アルラウネ断章_p1585_genetic_memory|遺伝的記憶の幻想的拡張]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「やっぱやめた！ えっと、とにかく色々ありがとうってこと！ 仇討ち手伝ってくれたことも、ミルーニャを説得してくれたことも」
+- **unknown**: 「私って生まれた時からティリビナの巫女になることが決まってたから――あの場所以外にも居場所が、友達が、欲しかったのかも」
+- **unknown**: 「私は自然との関係性から呪力を引き出すちょっと変則的な使い魔の呪術師。自然界に溢れる植物たちは私の使い魔であり、同時に私は植物の使い魔でもある。私にとって関係性――自然や家族、同胞との絆は一番大事なもの。」
+- **unknown**: 「【チョコレートリリー】――私もその一員なんだよね。大事な人が、五人も増えた。だから、私もみんなを守るよ。仲間を守る、それが私の生き方だから。」
+
+<!-- /AUTO-GENERATED:speech -->

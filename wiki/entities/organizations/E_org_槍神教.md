@@ -1,5 +1,5 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_槍神教
 type: entity
 subtype: organization
@@ -8,7 +8,8 @@ first_appearance: ch0053
 spoiler_after: ch0053
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-01'
 ---
 
 # 槍神教
@@ -28,3 +29,11 @@ created: "2026-09-30"
 - [[A_ch0080_structurally_matches_E_ch0080_槍神教_other_吸血鬼_p2937_植民地支配における現地エリートへの同化政策|植民地支配の同化政策]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『人』と『異獣』を峻別してきた槍神教の権力者たちは、自分たちが排除される側になってはたまらないと公式に吸血鬼たちを『人』であると認めることになる。
+- **unknown**: 「けれどある時、その均衡が僅かに崩れてしまった。槍神教側に、新しい英雄が増えてしまったんだよ」 待って。 お願い、ちょっと待って。
+
+<!-- /AUTO-GENERATED:action -->
