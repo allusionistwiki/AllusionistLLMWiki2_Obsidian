@@ -5,6 +5,7 @@ title: 博愛と功利主義
 
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

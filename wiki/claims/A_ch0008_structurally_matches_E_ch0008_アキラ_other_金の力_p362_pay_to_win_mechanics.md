@@ -6,6 +6,7 @@ title: Pay-to-Win構造の適用
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_アキラ_other_金の力_p362]]"

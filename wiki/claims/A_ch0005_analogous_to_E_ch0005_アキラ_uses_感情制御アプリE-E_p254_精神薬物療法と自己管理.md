@@ -6,6 +6,7 @@ title: 精神薬物療法としての感情制御
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_アキラ_uses_感情制御アプリE-E_p254]]"

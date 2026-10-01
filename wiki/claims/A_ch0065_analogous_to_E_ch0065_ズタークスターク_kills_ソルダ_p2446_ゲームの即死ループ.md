@@ -6,6 +6,7 @@ title: 即死ループとしての蘇生即死
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ズタークスターク_kills_ソルダ_p2446]]"

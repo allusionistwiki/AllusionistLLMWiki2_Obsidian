@@ -6,6 +6,7 @@ title: プロパガンダへの思想の転生
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_青年_transforms_思想_p1914]]"

@@ -5,6 +5,7 @@ title: 英雄の自己満足
 
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

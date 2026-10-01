@@ -6,6 +6,7 @@ title: 公開処刑のスペクタクル消費
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ガルズ_says_公開処刑_p2405]]"

@@ -6,6 +6,7 @@ title: データ改ざんによる記憶操作
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_アズーリア_thinks_記憶の空白_p1815]]"

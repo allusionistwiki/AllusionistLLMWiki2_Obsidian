@@ -6,6 +6,7 @@ title: メタフィクション語り手の事実改変
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_叙述悪戯_defines_事象改竄系過去遡及呪文_p2366]]"

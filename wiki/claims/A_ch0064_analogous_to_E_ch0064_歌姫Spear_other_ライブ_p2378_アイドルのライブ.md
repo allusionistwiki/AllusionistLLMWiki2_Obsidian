@@ -6,6 +6,7 @@ title: アイドルライブ構造の異世界移植
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_歌姫Spear_other_ライブ_p2378]]"

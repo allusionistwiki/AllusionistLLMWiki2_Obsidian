@@ -6,6 +6,7 @@ title: 十面体サイコロと運命の対比
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0016_女呪術師_other_魔将九体_p740]]"

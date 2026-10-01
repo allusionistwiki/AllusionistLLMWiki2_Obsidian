@@ -6,6 +6,7 @@ title: RPG回復アイテムの象徴
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_タマ_gives_綿菓子と水飴_p1497]]"

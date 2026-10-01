@@ -6,6 +6,7 @@ title: 3Dプリントによる生体維持
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_第五階層_has_property_物質創造能力_p3034]]"

@@ -6,6 +6,7 @@ title: 浮遊による特権と排除
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0045_エルネ＝クローザンドの空の民_has_property_浮遊_p1860]]"

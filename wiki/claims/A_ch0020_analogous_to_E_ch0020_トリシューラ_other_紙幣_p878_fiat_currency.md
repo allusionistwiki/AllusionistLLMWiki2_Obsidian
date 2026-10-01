@@ -6,6 +6,7 @@ title: 法定通貨の呪術的可視化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_トリシューラ_other_紙幣_p878]]"

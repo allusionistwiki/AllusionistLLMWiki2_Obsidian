@@ -6,6 +6,7 @@ title: 転生者の親友という伏線
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0016_キロン_says_アキラへの恩義_p728]]"

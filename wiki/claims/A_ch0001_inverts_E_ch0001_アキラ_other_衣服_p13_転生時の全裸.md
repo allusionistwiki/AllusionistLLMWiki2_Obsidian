@@ -6,6 +6,7 @@ title: 全裸転生を保険責任への逆転
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_other_衣服_p13]]"

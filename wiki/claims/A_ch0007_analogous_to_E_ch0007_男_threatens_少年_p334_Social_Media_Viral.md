@@ -6,6 +6,7 @@ title: SNSバイラルと動画信仰の模倣
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_男_threatens_少年_p334]]"

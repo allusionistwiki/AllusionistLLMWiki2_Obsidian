@@ -6,6 +6,7 @@ title: テキストチャットでの挑発
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0040_メートリアン_says_挑発_p1759]]"

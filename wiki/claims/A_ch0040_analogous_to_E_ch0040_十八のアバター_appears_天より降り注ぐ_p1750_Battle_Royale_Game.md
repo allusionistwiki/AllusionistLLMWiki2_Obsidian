@@ -6,6 +6,7 @@ title: バトルロイヤル的降下開始
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0040_十八のアバター_appears_天より降り注ぐ_p1750]]"

@@ -5,6 +5,7 @@ title: 自己責任と社会的孤立
 
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

@@ -6,6 +6,7 @@ title: SNS炎上と応援対比
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_歌姫_other_ファイアーウォール_p2637]]"

@@ -6,6 +6,7 @@ title: サンクコストの誤謬
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_アズーリア_thinks_ミルーニャの死_p2022]]"

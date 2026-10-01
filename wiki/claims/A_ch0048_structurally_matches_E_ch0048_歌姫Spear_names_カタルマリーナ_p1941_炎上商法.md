@@ -6,6 +6,7 @@ title: 炎上商法への改名の構造対応
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0048_歌姫Spear_names_カタルマリーナ_p1941]]"

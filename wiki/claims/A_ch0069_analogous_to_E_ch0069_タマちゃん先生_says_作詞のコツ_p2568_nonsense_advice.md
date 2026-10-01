@@ -6,6 +6,7 @@ title: 形式主義による創造の本質戯画
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_タマちゃん先生_says_作詞のコツ_p2568]]"

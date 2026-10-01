@@ -6,6 +6,7 @@ title: アイドルへの英雄性エンタメ変換
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_歌姫_appears_大型ディスプレイ_p1155]]"

@@ -6,6 +6,7 @@ title: 物語のセオリーのパロディ
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0019_コルセスカ_says_アキラへの無茶振り_p831]]"

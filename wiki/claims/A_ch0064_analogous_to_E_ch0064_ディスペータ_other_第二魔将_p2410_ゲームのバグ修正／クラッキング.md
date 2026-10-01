@@ -6,6 +6,7 @@ title: バグ修正によるデータ改変
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ディスペータ_other_第二魔将_p2410]]"

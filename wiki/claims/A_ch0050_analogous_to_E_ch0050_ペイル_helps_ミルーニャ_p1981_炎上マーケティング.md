@@ -6,6 +6,7 @@ title: 炎上マーケティングとスケープゴート
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_ペイル_helps_ミルーニャ_p1981]]"

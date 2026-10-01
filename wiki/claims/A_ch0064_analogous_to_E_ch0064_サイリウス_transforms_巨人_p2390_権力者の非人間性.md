@@ -6,6 +6,7 @@ title: 権力者の非人間化
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_サイリウス_transforms_巨人_p2390]]"

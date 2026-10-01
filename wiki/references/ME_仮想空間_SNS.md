@@ -5,6 +5,7 @@ title: 仮想空間・SNS
 
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: internet_culture

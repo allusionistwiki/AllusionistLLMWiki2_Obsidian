@@ -6,6 +6,7 @@ title: テロリズム連鎖とメディア恐怖
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0057_リーナ_fears_歌姫の殺害_p2196]]"

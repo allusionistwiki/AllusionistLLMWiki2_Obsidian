@@ -6,6 +6,7 @@ title: ステルス技術のファンタジー転換
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_トリシューラ_uses_メタマテリアル_p1017]]"

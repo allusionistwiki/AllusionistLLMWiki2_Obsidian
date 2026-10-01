@@ -6,6 +6,7 @@ title: 国家承認の正統性
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_トリシューラ_requires_女王の権威_p2948]]"

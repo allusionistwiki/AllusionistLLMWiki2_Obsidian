@@ -5,6 +5,7 @@ title: 植民地支配
 
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: history

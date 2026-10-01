@@ -6,6 +6,7 @@ title: インスタンスダンジョンへの浄界転生
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アインノーラ_uses_強制決闘権_p2426]]"

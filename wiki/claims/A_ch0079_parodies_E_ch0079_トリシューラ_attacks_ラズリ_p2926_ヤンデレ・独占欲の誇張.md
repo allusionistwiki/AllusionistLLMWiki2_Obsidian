@@ -6,6 +6,7 @@ title: ヤンデレ独占欲の誇張
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_トリシューラ_attacks_ラズリ_p2926]]"

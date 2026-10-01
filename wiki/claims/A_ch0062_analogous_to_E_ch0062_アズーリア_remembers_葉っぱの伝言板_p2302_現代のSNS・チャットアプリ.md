@@ -6,6 +6,7 @@ title: SNS・チャットアプリへの類似
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_アズーリア_remembers_葉っぱの伝言板_p2302]]"

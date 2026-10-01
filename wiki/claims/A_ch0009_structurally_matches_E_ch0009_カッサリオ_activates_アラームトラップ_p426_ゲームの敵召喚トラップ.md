@@ -6,6 +6,7 @@ title: 敵召喚トラップの模倣
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_カッサリオ_activates_アラームトラップ_p426]]"

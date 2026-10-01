@@ -6,6 +6,7 @@ title: 哲学的ゾンビへの暗喩
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_ガルズ_other_死人の森の断章_p2100]]"

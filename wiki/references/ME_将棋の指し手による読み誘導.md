@@ -5,6 +5,7 @@ title: 将棋の指し手による読み誘導
 
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

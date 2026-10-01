@@ -6,6 +6,7 @@ title: 組織の責任転嫁
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_神官_other_アズーリアへの攻略_p1834]]"

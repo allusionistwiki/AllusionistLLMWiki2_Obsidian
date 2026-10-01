@@ -6,6 +6,7 @@ title: VR/AR技術
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_サイバーカラテ道場_p1165]]"

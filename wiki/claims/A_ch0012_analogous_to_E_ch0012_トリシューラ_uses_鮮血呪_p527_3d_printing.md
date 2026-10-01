@@ -6,6 +6,7 @@ title: 3Dプリント的記号実体化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_uses_鮮血呪_p527]]"

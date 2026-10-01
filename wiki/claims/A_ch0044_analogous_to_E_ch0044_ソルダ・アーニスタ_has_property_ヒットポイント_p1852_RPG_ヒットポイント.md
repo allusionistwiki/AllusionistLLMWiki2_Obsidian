@@ -6,6 +6,7 @@ title: ヒットポイントの物理実装
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0044_ソルダ・アーニスタ_has_property_ヒットポイント_p1852]]"

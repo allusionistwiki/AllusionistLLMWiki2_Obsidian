@@ -6,6 +6,7 @@ title: 密教法具への転生
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_貴人_says_呪いのかたち_p2579]]"

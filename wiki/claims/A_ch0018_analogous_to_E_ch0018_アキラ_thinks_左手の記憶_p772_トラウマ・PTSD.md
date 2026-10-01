@@ -6,6 +6,7 @@ title: PTSDフラッシュバックによる行動決定
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_アキラ_thinks_左手の記憶_p772]]"

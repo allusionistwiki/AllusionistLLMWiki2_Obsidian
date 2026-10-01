@@ -6,6 +6,7 @@ title: ダモクレスの剣による王座脅威
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_クレイ_reveals_ダモクレスの剣_p3050]]"

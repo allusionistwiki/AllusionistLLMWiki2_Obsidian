@@ -6,6 +6,7 @@ title: トリシューラへの異常反応比喩
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_ハル_says_アキラの変態性_p1263]]"

@@ -6,6 +6,7 @@ title: アストラル体による仮想サロン
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_アキラ_makes_談話室_p1246]]"

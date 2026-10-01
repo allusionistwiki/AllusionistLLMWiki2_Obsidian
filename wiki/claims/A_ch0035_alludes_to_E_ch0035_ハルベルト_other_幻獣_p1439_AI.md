@@ -6,6 +6,7 @@ title: AI的幻獣制御システム
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_ハルベルト_other_幻獣_p1439]]"

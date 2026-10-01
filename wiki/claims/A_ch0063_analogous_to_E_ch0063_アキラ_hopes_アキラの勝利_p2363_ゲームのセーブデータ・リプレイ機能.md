@@ -6,6 +6,7 @@ title: セーブデータ・リプレイへの転生
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_アキラ_hopes_アキラの勝利_p2363]]"

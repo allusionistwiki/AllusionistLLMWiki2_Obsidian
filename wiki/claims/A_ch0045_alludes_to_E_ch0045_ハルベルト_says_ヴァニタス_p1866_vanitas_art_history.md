@@ -6,6 +6,7 @@ title: 虚しさ寓意画ヴァニタス
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0045_ハルベルト_says_ヴァニタス_p1866]]"

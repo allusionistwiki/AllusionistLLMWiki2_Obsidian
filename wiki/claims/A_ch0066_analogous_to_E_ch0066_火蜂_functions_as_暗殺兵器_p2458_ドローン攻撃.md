@@ -6,6 +6,7 @@ title: ドローン攻撃の自動追尾
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_火蜂_attacks_ガルズ_p2458]]"

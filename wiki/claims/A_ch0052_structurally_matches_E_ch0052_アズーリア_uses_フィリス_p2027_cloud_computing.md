@@ -6,6 +6,7 @@ title: クラウドコンピューティングへの構造対応
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_アズーリア_uses_フィリス_p2027]]"

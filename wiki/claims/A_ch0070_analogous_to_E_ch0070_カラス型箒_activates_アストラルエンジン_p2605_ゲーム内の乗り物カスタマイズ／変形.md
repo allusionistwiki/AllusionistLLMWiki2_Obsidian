@@ -6,6 +6,7 @@ title: 乗り物変形への転生
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_カラス型箒_activates_アストラルエンジン_p2605]]"

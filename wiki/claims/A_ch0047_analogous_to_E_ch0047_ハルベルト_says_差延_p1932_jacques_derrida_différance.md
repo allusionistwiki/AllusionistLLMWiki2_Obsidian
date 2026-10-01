@@ -6,6 +6,7 @@ title: デリダの差延の引用
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_差延_p1932]]"

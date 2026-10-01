@@ -6,6 +6,7 @@ title: 倫理を欠いた技術の死
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0075_カイン_says_心なき拳_p2836]]"

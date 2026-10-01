@@ -6,6 +6,7 @@ title: 仲間を捨て石とする功利主義的葛藤
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_アズーリア_confesses_捨て石_p118]]"

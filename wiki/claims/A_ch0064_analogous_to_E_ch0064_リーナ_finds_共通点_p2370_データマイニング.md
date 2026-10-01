@@ -6,6 +6,7 @@ title: データマイニングへの現場調査
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_リーナ_finds_共通点_p2370]]"

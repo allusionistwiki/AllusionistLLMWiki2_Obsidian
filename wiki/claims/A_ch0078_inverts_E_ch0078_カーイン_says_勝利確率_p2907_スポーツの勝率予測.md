@@ -6,6 +6,7 @@ title: データ分析逆説による運の強調
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0078_カーイン_says_勝利確率_p2907]]"

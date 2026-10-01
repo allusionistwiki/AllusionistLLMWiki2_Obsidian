@@ -5,6 +5,7 @@ title: 完全な相互理解
 
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

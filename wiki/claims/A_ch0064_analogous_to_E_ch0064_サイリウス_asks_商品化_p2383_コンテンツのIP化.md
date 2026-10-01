@@ -6,6 +6,7 @@ title: コンテンツIP化の写し鏡
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_サイリウス_asks_商品化_p2383]]"

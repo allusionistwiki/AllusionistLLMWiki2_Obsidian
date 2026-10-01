@@ -6,6 +6,7 @@ title: 弥勒菩薩による衆生救済の暗喩
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_ベル・ペリグランティア_says_メートリアン_p2570]]"

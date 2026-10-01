@@ -6,6 +6,7 @@ title: 殉教の美辞麗句と残酷さの対比
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_アズーリア_thinks_地獄への覚悟_p1532]]"

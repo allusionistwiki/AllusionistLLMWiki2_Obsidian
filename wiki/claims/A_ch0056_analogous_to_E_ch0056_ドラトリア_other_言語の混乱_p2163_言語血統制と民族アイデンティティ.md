@@ -6,6 +6,7 @@ title: 言語血統制と民族アイデンティティ
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_ドラトリア_other_言語の混乱_p2163]]"

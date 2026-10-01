@@ -6,6 +6,7 @@ title: 老化による縮小現象
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_夜の民_has_property_老齢化による縮小_p1824]]"

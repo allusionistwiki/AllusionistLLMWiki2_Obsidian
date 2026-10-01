@@ -6,6 +6,7 @@ title: ポスト正常科学の逆転
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0055_ジル_other_科学的思考_p2134]]"

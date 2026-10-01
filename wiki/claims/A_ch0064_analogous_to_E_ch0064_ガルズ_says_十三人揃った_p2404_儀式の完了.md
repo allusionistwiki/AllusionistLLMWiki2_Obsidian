@@ -6,6 +6,7 @@ title: オカルト儀式の完了構造
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ガルズ_says_十三人揃った_p2404]]"

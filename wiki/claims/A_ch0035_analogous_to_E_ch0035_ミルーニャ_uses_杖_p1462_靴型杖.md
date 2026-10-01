@@ -6,6 +6,7 @@ title: 靴型杖の身体拡張メタファー
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_ミルーニャ_uses_杖_p1462]]"

@@ -6,6 +6,7 @@ title: 形而上学的実在論への物語現実化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_コルセスカ_other_物語と現実の同一性_p929]]"

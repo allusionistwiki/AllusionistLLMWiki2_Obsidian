@@ -6,6 +6,7 @@ title: 自警団による無政府状態の私刑
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_第五階層_defines_私刑の法_p191]]"

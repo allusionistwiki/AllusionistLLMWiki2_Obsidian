@@ -6,6 +6,7 @@ title: RPG固定パーティの模倣
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0055_黒百合の子供たち_bonds_一大勢力_p2118]]"

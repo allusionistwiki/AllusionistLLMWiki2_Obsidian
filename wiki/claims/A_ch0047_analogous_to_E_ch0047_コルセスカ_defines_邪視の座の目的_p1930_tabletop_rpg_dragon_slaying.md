@@ -6,6 +6,7 @@ title: TRPG竜退治のゲーム化
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_コルセスカ_defines_邪視の座の目的_p1930]]"

@@ -6,6 +6,7 @@ title: ネットメディア・炎上構造の模倣
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_アキラの存在_p284]]"

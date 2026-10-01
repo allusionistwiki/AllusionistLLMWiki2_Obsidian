@@ -6,6 +6,7 @@ title: 食品の擬人化マーケティング
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_トントロポロロンズ_says_食べて_p1820]]"

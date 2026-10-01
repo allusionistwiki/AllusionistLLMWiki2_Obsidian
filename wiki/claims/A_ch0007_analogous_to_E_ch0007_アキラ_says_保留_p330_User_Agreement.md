@@ -6,6 +6,7 @@ title: 利用規約同意プロセスの模倣
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_アキラ_says_保留_p330]]"

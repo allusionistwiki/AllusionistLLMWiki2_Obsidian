@@ -6,6 +6,7 @@ title: サピア＝ウォーフ仮説の身体化
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0072_アキラ_other_斧槍_p2697]]"

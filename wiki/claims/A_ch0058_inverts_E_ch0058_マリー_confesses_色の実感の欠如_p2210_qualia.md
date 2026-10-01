@@ -6,6 +6,7 @@ title: クオリアの理論と体験のギャップ
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0058_マリー_confesses_色の実感の欠如_p2210]]"

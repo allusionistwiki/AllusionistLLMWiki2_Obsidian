@@ -6,6 +6,7 @@ title: 拡張現実による世界改変
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0045_ガルズ_activates_浄界_p1875]]"

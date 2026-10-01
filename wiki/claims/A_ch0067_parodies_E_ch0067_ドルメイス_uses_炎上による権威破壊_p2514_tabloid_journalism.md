@@ -6,6 +6,7 @@ title: タブロイド報道による権威破壊
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ドルメイス_betrays_松明の騎士団_p2514]]"

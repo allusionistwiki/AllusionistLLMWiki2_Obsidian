@@ -6,6 +6,7 @@ title: 遺伝子覚醒の構造対応
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_天眼の民_has_property_先祖返り_p2591]]"

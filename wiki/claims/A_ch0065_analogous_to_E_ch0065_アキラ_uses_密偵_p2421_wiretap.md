@@ -6,6 +6,7 @@ title: 通信傍受としての盗撮映像
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_uses_密偵_p2421]]"

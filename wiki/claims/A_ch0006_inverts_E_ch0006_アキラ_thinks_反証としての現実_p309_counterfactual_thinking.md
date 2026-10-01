@@ -6,6 +6,7 @@ title: 反事実的思考による価値再評価
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0006_アキラ_thinks_反証としての現実_p309]]"

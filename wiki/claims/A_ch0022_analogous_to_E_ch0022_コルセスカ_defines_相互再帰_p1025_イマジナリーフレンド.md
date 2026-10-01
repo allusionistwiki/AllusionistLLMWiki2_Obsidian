@@ -6,6 +6,7 @@ title: イマジナリーフレンドへの相互再帰
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_コルセスカ_defines_相互再帰_p1025]]"

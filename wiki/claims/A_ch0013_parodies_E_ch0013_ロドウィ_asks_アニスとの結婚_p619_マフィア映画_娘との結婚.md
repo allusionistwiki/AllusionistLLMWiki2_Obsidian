@@ -6,6 +6,7 @@ title: マフィア映画の娘結婚
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0013_ロドウィ_asks_アニスとの結婚_p619]]"

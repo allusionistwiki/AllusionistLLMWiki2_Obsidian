@@ -6,6 +6,7 @@ title: VRアバターと遅延
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0076_アズーリア_has_property_ぎこちない身体_p2863]]"

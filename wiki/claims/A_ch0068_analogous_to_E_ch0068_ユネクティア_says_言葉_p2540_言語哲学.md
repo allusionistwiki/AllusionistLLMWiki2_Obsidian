@@ -6,6 +6,7 @@ title: 言語哲学の記号脆弱性
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ユネクティア_says_言葉_p2540]]"

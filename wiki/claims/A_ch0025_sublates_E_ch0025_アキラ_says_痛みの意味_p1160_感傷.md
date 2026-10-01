@@ -6,6 +6,7 @@ title: 感傷の止揚
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_アキラ_says_痛みの意味_p1160]]"

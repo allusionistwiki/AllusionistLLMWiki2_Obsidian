@@ -6,6 +6,7 @@ title: 強化外骨格のSF
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_鮮血のトリシューラ_p1185]]"

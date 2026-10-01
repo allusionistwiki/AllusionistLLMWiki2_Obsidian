@@ -6,6 +6,7 @@ title: 儀式の虚しさと労働の疎外感
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_アズーリア_thinks_儀式の虚しさ_p1267]]"

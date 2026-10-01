@@ -6,6 +6,7 @@ title: AI行動予測アルゴリズムのメタファー
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0078_ちびシューラ_helps_アキラ_p2904]]"

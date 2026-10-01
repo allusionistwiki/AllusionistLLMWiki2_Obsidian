@@ -6,6 +6,7 @@ title: ネット炎上構造の再現
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_探索者協会_attacks_アキラ_p674]]"

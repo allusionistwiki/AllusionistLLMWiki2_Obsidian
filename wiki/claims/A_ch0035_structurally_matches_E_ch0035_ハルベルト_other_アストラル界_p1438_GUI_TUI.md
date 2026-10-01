@@ -6,6 +6,7 @@ title: GUIとTUIの呪術界対比
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_ハルベルト_other_アストラル界_p1438]]"

@@ -6,6 +6,7 @@ title: SNS世論操作手法の異世界移植
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_トリシューラ_makes_情報操作の解析_p756]]"

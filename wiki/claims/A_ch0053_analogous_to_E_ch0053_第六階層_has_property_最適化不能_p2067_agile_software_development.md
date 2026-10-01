@@ -6,6 +6,7 @@ title: アジャイル開発への適応的比喩
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_第六階層_has_property_最適化不能_p2067]]"

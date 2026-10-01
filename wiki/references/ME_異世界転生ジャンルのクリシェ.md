@@ -5,6 +5,7 @@ title: 異世界転生クリシェ
 
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: internet_culture

@@ -6,6 +6,7 @@ title: 天才の国家権力による徴用
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0057_狂姫_says_幽閉からの解放_p2186]]"

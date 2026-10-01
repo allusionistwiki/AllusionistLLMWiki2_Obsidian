@@ -6,6 +6,7 @@ title: ハードウェア仕様への自己認識パロディ
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0006_アキラ_thinks_馬鹿_p310]]"

@@ -5,6 +5,7 @@ title: 歴史修正主義
 
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

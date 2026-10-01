@@ -6,6 +6,7 @@ title: 格ゲー入力演出の模倣
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_アキラ_attacks_カッサリオ_p461]]"

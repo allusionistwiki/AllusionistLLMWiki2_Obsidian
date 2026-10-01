@@ -6,6 +6,7 @@ title: 認知行動療法のリフレーミング
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0057_狂姫_says_心理療法_p2182]]"

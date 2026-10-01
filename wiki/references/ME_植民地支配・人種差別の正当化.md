@@ -5,6 +5,7 @@ title: 差別の正当化
 
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: history

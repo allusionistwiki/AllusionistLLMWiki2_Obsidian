@@ -6,6 +6,7 @@ title: AIの権利論への暗喩
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0028_ケイト_says_人間扱い_p1237]]"

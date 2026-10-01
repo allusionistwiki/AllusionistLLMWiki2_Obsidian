@@ -6,6 +6,7 @@ title: 強化外骨格へのSF的移植
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0011_トリシューラ_activates_パワードエクゾスケルトン_p490]]"

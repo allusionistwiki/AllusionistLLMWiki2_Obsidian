@@ -6,6 +6,7 @@ title: APM指標の呪術的メカニクス化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_トリシューラ_says_打鍵速度と技量_p749]]"

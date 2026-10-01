@@ -6,6 +6,7 @@ title: ハイデガー哲学による存在論
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_コルセスカ_other_翻訳の原理_p217]]"

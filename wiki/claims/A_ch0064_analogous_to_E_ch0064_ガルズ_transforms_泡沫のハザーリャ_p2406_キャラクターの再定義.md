@@ -6,6 +6,7 @@ title: キャラ再定義のメタ変身
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ガルズ_transforms_泡沫のハザーリャ_p2406]]"

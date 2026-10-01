@@ -6,6 +6,7 @@ title: 制御不能なパンデミック
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_エスフェイル_says_エルネトモラン_p2552]]"

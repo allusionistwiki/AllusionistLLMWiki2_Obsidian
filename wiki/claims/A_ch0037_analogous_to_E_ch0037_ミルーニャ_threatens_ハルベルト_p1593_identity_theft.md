@@ -6,6 +6,7 @@ title: 名前による権力規定とアイデンティティ盗用
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_threatens_ハルベルト_p1593]]"

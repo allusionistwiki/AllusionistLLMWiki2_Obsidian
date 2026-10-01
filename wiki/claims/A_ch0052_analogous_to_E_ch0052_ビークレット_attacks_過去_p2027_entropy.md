@@ -6,6 +6,7 @@ title: エントロピー増大の不可逆性
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_ビークレット_attacks_過去_p2027]]"

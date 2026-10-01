@@ -6,6 +6,7 @@ title: 神殺しの武器としての神滅具
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_コルセスカ_takes_神滅具_p1208]]"

@@ -6,6 +6,7 @@ title: ガチャの希少性と潜在解放
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0039_ハルベルト_other_ナト_p1735]]"

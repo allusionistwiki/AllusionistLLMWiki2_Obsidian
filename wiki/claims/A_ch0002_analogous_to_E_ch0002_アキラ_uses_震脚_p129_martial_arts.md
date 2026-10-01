@@ -6,6 +6,7 @@ title: 義肢前提のサイバーカラテを肉体で実践
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_アキラ_uses_震脚_p129]]"

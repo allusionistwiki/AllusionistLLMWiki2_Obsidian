@@ -10,7 +10,7 @@ chapter_range:
 theme: 自己と他者の反転
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-02'
 macro_analogy: '[[A_structural_合わせ鏡_ナルキッソス]]'
 ---
 # 合わせ鏡編

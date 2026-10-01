@@ -6,6 +6,7 @@ title: 介錯
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_kills_キロン_p1193]]"

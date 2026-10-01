@@ -6,6 +6,7 @@ title: セイレーンの歌による破壊
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0055_カタルマリーナ_other_ジル_p2129]]"

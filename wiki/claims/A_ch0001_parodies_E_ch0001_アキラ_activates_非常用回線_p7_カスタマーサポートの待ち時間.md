@@ -6,6 +6,7 @@ title: 生死境でのサポート待ち時間ジングル
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_activates_緊急連絡_p7]]"

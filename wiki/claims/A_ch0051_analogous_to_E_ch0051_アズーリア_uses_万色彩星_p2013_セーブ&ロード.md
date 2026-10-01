@@ -6,6 +6,7 @@ title: セーブ＆ロードの巻き戻し
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0051_アズーリア_uses_万色彩星_p2013]]"

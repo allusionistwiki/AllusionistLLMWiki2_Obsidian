@@ -6,6 +6,7 @@ title: ナノテク・メタマテリアルへの熱制御転用
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_アキラ_uses_熱学発勁_p1129]]"

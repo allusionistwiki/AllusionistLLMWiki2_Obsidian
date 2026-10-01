@@ -6,6 +6,7 @@ title: AIと魂の定義の哲学的議論
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0003_ガドール_defines_魂と呪術_p174]]"

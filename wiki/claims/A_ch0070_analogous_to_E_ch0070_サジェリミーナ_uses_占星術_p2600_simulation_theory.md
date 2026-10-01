@@ -6,6 +6,7 @@ title: シミュレーション仮説への転生
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_サジェリミーナ_other_ペレケテンヌル_p2600]]"

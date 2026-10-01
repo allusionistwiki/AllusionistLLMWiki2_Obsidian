@@ -6,6 +6,7 @@ title: マルチタスクへの言語的転生
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_エスフェイル_has_property_四分割_p2544]]"

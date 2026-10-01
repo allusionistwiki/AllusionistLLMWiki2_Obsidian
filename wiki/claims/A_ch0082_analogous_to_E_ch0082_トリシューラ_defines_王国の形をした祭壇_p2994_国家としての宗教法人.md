@@ -6,6 +6,7 @@ title: 女王崇拝循環による国家型宗教法人
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_トリシューラ_defines_王国の形をした祭壇_p2994]]"

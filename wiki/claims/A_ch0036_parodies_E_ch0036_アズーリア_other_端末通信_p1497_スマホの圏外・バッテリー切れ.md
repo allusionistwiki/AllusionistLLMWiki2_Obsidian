@@ -6,6 +6,7 @@ title: スマホ圏外・電池切れのパロディ
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_アズーリア_other_端末通信_p1497]]"

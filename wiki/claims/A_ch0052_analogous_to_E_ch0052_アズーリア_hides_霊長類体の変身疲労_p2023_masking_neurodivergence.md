@@ -6,6 +6,7 @@ title: 神経多様性のマスキング
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_アズーリア_hides_霊長類体の変身疲労_p2023]]"

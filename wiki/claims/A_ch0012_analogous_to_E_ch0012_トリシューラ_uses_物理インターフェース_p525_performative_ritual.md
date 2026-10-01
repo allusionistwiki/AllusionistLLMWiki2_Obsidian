@@ -6,6 +6,7 @@ title: 儀礼的遂行による人間性担保
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_uses_物理インターフェース_p525]]"

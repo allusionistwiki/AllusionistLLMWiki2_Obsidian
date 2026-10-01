@@ -6,6 +6,7 @@ title: ファウスト的取引と改名
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_ハルベルト_remembers_取引の記憶_p2161]]"

@@ -6,6 +6,7 @@ title: 転生を保険商品とするリスク管理風刺
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_says_悲惨な異世界への希望_p4]]"

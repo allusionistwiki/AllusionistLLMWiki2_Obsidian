@@ -6,6 +6,7 @@ title: 植民地主義
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_ヲルヲーラ_threatens_人類_p2735]]"

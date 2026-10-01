@@ -6,6 +6,7 @@ title: 三叉槍
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_氷血のコルセスカ_p1187]]"

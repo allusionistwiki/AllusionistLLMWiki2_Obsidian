@@ -5,6 +5,7 @@ title: 密教曼荼羅
 
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

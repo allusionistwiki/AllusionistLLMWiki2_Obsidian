@@ -6,6 +6,7 @@ title: 防犯意識としての食事警戒
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_アキラ_other_食事拒否の理由_p256]]"

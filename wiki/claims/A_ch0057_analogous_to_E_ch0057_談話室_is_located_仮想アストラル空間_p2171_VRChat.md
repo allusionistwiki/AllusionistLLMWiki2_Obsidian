@@ -6,6 +6,7 @@ title: VRChatの集会所構造
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0057_談話室_is_located_仮想アストラル空間_p2171]]"

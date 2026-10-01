@@ -6,6 +6,7 @@ title: 物理法則へのミーム理論拡張
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_摸倣子_p1922]]"

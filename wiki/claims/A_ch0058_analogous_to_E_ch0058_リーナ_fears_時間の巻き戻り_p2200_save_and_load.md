@@ -6,6 +6,7 @@ title: ゲームのセーブ＆ロード機能
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0058_リーナ_fears_時間の巻き戻り_p2200]]"

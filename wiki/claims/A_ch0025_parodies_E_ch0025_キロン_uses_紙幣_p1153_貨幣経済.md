@@ -6,6 +6,7 @@ title: 貨幣経済への信用ミーム露呈
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_キロン_uses_紙幣_p1153]]"

@@ -6,6 +6,7 @@ title: 安楽死の倫理的葛藤
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_アキラ_remembers_カインの死_p470]]"

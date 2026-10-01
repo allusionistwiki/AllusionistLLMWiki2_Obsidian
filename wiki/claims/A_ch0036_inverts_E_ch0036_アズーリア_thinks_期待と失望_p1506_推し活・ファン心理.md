@@ -6,6 +6,7 @@ title: 推し活の闇の逆転構造
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_アズーリア_thinks_期待と失望_p1506]]"

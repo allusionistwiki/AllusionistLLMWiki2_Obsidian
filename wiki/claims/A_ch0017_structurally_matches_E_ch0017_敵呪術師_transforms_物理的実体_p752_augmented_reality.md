@@ -6,6 +6,7 @@ title: 拡張現実によるバーチャルの実体化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_敵呪術師_transforms_物理的実体_p752]]"

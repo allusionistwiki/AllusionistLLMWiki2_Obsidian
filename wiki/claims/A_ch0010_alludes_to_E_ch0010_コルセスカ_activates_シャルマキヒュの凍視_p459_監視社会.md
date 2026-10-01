@@ -6,6 +6,7 @@ title: 監視社会の不可避性
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_コルセスカ_activates_シャルマキヒュの凍視_p459]]"

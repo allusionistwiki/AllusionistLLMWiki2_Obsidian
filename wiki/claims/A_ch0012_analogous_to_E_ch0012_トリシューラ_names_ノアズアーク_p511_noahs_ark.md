@@ -6,6 +6,7 @@ title: ノアの方舟命名による自己言及
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_names_ノアズアーク_p511]]"

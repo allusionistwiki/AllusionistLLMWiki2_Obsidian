@@ -6,6 +6,7 @@ title: 平行世界同一人物の自己同一性対峙
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_クナータ_says_平行世界の同一人物_p1279]]"

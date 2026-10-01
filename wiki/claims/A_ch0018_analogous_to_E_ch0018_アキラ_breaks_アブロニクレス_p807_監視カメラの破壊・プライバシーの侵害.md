@@ -6,6 +6,7 @@ title: 監視カメラ破壊によるプライバシー抵抗
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_アキラ_breaks_アブロニクレス_p807]]"

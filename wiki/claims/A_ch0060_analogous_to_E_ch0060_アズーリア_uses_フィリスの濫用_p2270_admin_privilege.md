@@ -6,6 +6,7 @@ title: 言語による現実操作の管理者権限
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_アズーリア_uses_フィリスの濫用_p2270]]"

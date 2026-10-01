@@ -6,6 +6,7 @@ title: 虐待からの解放としての死の肯定
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_says_父への祝福_p1539]]"

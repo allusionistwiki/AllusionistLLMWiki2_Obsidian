@@ -6,6 +6,7 @@ title: 総合格闘技ルールへの拡張
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0078_アキラ_names_師範代_p2911]]"

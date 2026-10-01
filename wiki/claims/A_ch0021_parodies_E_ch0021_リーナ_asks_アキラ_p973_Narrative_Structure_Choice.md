@@ -6,6 +6,7 @@ title: 物語構造選択へのマルチエンディング化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_リーナ_asks_アキラ_p973]]"

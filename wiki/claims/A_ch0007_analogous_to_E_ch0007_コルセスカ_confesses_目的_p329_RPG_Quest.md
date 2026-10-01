@@ -6,6 +6,7 @@ title: RPGクエスト構造の標準化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_コルセスカ_confesses_目的_p329]]"

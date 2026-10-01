@@ -6,6 +6,7 @@ title: 主観時間加速による精神的拷問
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_コルセスカ_attacks_キロン_p1188]]"

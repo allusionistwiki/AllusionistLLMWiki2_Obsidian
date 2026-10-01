@@ -6,6 +6,7 @@ title: 言語魔術師による多様性示唆
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0013_店員_other_古代語_p599]]"

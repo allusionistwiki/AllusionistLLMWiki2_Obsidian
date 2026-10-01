@@ -6,6 +6,7 @@ title: クオリア共有の不可能性
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0034_アズーリア_asks_空の色_p1413]]"

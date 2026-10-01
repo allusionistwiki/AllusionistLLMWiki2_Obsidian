@@ -6,6 +6,7 @@ title: 情報格差拡大への批判
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_オープンソース_p1917]]"

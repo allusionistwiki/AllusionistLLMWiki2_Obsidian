@@ -6,6 +6,7 @@ title: VR・AR技術の模倣
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0040_杖の技術体系_defines_仮想現実_p1750]]"

@@ -6,6 +6,7 @@ title: 外骨格インターフェースの可視化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0023_コルセスカ_uses_二人羽織_p1062]]"

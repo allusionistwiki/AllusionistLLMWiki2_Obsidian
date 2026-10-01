@@ -6,6 +6,7 @@ title: 区別不可能を本物とするチューリングテスト
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_ヴァージリア_other_エミュレータの本物性_p2275]]"

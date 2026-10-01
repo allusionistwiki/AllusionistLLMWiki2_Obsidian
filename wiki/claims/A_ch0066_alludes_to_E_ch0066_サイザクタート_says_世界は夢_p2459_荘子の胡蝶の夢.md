@@ -6,6 +6,7 @@ title: 胡蝶の夢による主客境界の曖昧化
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_サイザクタート_says_世界は夢_p2459]]"

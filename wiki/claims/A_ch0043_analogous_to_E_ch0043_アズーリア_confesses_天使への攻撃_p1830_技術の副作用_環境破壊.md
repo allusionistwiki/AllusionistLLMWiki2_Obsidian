@@ -6,6 +6,7 @@ title: 技術の副作用による崩壊
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_アズーリア_confesses_天使への攻撃_p1830]]"

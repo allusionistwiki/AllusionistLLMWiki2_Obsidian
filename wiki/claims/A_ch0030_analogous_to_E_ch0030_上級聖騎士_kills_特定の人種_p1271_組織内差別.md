@@ -6,6 +6,7 @@ title: 特定人種選別殺害の組織内差別
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_上級聖騎士_kills_特定の人種_p1271]]"

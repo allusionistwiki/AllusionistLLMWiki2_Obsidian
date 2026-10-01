@@ -6,6 +6,7 @@ title: 魔法をバグ修正で風刺
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0027_トリシューラ_says_維持期間の短さ_p1212]]"

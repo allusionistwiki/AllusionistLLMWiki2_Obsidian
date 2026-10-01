@@ -6,6 +6,7 @@ title: 修道騎士の道徳的外傷
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_アズーリア_thinks_地獄への覚悟_p1532]]"

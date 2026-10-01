@@ -6,6 +6,7 @@ title: 神話揺動者のミームと自己言及性
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0031_アズーリア_names_神話揺動者_p1300]]"

@@ -6,6 +6,7 @@ title: 相撲の決まり手
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0077_幻像_says_発気_p2877]]"

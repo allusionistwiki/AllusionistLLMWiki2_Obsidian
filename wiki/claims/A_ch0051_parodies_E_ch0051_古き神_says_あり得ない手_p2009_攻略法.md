@@ -6,6 +6,7 @@ title: 詰み状態の裏技攻略法
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0051_古き神_says_あり得ない手_p2009]]"

@@ -6,6 +6,7 @@ title: コキュートスへの地獄最下層暗喩
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ガルズ_says_死の世界_p2429]]"

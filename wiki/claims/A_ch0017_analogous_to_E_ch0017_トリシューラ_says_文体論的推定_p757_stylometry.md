@@ -6,6 +6,7 @@ title: 文体計量学による呪術的特定
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_トリシューラ_says_文体論的推定_p757]]"

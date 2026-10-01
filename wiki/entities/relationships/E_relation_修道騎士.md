@@ -8,7 +8,7 @@ aliases: []
 first_appearance: ch0031
 spoiler_after: ch0031
 document_status: active
-created: '2026-10-01'
+created: '2026-10-02'
 updated: '2026-10-02'
 ---
 # 修道騎士
@@ -18,8 +18,6 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
-- **unknown**: 全ての修道騎士は彼女に対して礼を欠くことが絶対にできない。装備品の調整に関して手を抜かれれば、自らの生死に直結するからだ。
-- **unknown**: 全ての修道騎士は彼女に対して礼を欠くことが絶対にできない。装備品の調整に関して手を抜かれれば、自らの生死に直結するからだ。
 - **unknown**: 全ての修道騎士は彼女に対して礼を欠くことが絶対にできない。装備品の調整に関して手を抜かれれば、自らの生死に直結するからだ。
 
 <!-- /AUTO-GENERATED:relationship -->

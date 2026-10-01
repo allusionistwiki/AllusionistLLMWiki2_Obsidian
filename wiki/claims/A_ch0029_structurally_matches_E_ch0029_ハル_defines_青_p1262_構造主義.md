@@ -6,6 +6,7 @@ title: 色連関による構造主義的画定
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_ハル_defines_青_p1262]]"

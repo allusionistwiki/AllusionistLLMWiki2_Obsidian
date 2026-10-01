@@ -6,6 +6,7 @@ title: 転生殺し屋をトラック運転手と命名
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_reveals_前世の職業_p17]]"

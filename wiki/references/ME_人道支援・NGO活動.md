@@ -5,6 +5,7 @@ title: 人道支援・NGO
 
 
 
+
 type: external_reference
 created: "2026-10-01"
 subtype: popular_culture

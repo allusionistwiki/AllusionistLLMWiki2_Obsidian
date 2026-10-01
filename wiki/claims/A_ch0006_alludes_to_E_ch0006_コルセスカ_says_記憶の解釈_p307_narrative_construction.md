@@ -6,6 +6,7 @@ title: ナラティブ構築としての記憶
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0006_コルセスカ_says_記憶の解釈_p307]]"

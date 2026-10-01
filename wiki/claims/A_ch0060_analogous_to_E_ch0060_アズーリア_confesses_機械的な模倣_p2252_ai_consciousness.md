@@ -6,6 +6,7 @@ title: 模倣に過ぎないAIの意識
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_アズーリア_confesses_機械的な模倣_p2252]]"
