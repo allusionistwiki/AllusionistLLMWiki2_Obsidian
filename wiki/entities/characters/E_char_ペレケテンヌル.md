@@ -1,0 +1,31 @@
+---
+schema_version: "5.1"
+id: E_char_ペレケテンヌル
+type: entity
+subtype: character
+canonical_name: ペレケテンヌル
+first_appearance: ch0043
+spoiler_after: ch0043
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# ペレケテンヌル
+
+守護天使であり、その力を借りる神働術が使えなくなったと報告される存在である。サジェリミーナが錬金術の守護天使として召喚を試みるが、機械天使が破損しており不発に終わる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0043 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「一昨日と言えば、何故かペレケテンヌル様への祈りが届かなくなったという報告が相次いでおりまして――」（ch0043）
+> 錬金術の守護天使たるペレケテンヌルを象徴する三角形の配列が完成した。 作り出された次元の裂け目から、全身を破損して自己修復作業中の機械天使が出現する。（ch0070）
+
+## 関連クレーム
+
+- [[A_ch0043_analogous_to_E_ch0043_ペレケテンヌル_loses_神働術の力_p1829_サーバー障害_機能停止|サーバー障害による機能停止]]
+- [[A_ch0070_analogous_to_E_ch0070_サジェリミーナ_uses_占星術_p2600_simulation_theory|シミュレーション仮説への転生]]
+
+<!-- AUTO:END -->

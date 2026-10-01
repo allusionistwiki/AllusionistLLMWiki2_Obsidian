@@ -1,0 +1,33 @@
+---
+schema_version: "5.1"
+id: E_char_第十二魔将ズタークスターク
+type: entity
+subtype: character
+canonical_name: 第十二魔将ズタークスターク
+first_appearance: ch0066
+spoiler_after: ch0066
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 第十二魔将ズタークスターク
+
+アリスの仮想使い魔である魔将である。網膜を灼く稲妻という異名を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0066 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 第十二魔将、網膜を灼く稲妻ズタークスターク。アリスの仮想使い魔。（ch0066）
+> 第十二魔将、網膜を灼く稲妻ズタークスターク。アリスの仮想使い魔。（ch0067）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-REL:BEGIN -->
+## 関係キャラクター
+
+- [[E_char_網膜を灼く稲妻|網膜を灼く稲妻]] — 命名（2 観測）
+
+<!-- AUTO-REL:END -->

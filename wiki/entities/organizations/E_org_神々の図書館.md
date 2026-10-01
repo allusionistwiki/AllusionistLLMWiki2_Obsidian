@@ -1,0 +1,30 @@
+---
+schema_version: "5.1"
+id: E_org_神々の図書館
+type: entity
+subtype: organization
+canonical_name: 神々の図書館
+first_appearance: ch0056
+spoiler_after: ch0056
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 神々の図書館
+
+第四衛星太陰のグラマー界に位置する組織である。あらゆる言語情報を管理して世界の秩序を維持している。エラー検出により言語管理機能が一瞬だけ停滞することがある。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0056 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> その日、第四衛星太陰のグラマー界に位置する『神々の図書館』で、珍しくエラーが検出された。（ch0056）
+> 第四衛星である太陰の『神々の図書館』はありとあらゆる言語情報を管理し、世界の秩序を維持している。（ch0071）
+
+## 関連クレーム
+
+- [[A_ch0056_analogous_to_E_ch0056_神々の図書館_stops_言語管理機能_p2162_中央集権型言語管理システム|言語管理OS停止とバベルの逆転]]
+
+<!-- AUTO:END -->

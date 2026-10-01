@@ -1,0 +1,31 @@
+---
+schema_version: "5.1"
+id: E_org_サイバーカラテ道場
+type: entity
+subtype: organization
+canonical_name: サイバーカラテ道場
+first_appearance: ch0012
+spoiler_after: ch0012
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# サイバーカラテ道場
+
+アキラの技術とブランドを基盤として設立が提案された組織である。物理的な本部は存在せず、サイバーカラテという枠組みそのものが本部であり、人々の心の中に存在するとされる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0012 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「アキラくんの【サイバーカラテ道場】に門下生を募ってお金とればいいんだよ」 「はぁ？」（ch0012）
+> 道場に本部は存在しない。それは、形の無いサイバーカラテという枠組みそれ自体が本部である為だ。サイバーカラテ道場は、いつでも人々の心の中にある。（ch0071）
+
+## 関連クレーム
+
+- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_other_サイバーカラテ道場_p567_open_source|オープンソース型ビジネスモデル]]
+- [[A_ch0071_analogous_to_E_ch0071_サイバーカラテ道場_defines_本部_p2644_クラウドサーバー|クラウドサーバーの構造]]
+
+<!-- AUTO:END -->

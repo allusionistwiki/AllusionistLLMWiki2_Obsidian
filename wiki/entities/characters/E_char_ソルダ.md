@@ -16,7 +16,7 @@ created: "2026-09-30"
 初代松明の騎士フォグラントを参照する引喩系神働術「アリュージョン」を発動し、300秒間だけ真の英雄となる。アズーリアに試験の合格品である花を差し出し、自分の正体（松明の騎士団総団長）を明かす。
 
 <!-- AUTO:BEGIN -->
-**初出**: ch0042 ｜ **観測イベント**: 6 件（1 話に出現）
+**初出**: ch0042 ｜ **観測イベント**: 9 件（2 話に出現）
 
 ## 代表引用
 
@@ -31,5 +31,7 @@ created: "2026-09-30"
 - [[A_ch0042_alludes_to_E_ch0042_ソルダ_confesses_冬の魔女コルセスカ_p1813_Fairy_Tale_Romance|おとぎ話的恋愛の暗喩]]
 - [[A_ch0042_inverts_E_ch0042_ソルダ_other_竜神信教信徒_p1809_Colonial_Administration|植民地行政的なラベル付け]]
 - [[A_ch0042_structurally_matches_E_ch0042_ソルダ_uses_アリュージョン_p1806_Metaphor_Mechanic|比喩による現実改変]]
+- [[A_ch0065_analogous_to_E_ch0065_ズタークスターク_kills_ソルダ_p2446_respawn_loop|リスポーンループとしての即死蘇生]]
+- [[A_ch0065_analogous_to_E_ch0065_ズタークスターク_kills_ソルダ_p2446_ゲームの即死ループ|即死ループとしての蘇生即死]]
 
 <!-- AUTO:END -->

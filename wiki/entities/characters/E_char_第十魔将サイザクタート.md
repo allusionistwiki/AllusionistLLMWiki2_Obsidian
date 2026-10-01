@@ -1,0 +1,33 @@
+---
+schema_version: "5.1"
+id: E_char_第十魔将サイザクタート
+type: entity
+subtype: character
+canonical_name: 第十魔将サイザクタート
+first_appearance: ch0066
+spoiler_after: ch0066
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 第十魔将サイザクタート
+
+虹犬種に属する第十魔将であり、「三つ首の番犬」という異名を持つ。極彩色の道化服を纏い、三つの首を持つ特殊な外見をしており、呪術の矢を放つなどして戦闘に関与する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0066 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 第十魔将、三つ首の番犬サイザクタート。虹犬種。ヴァルレメス（ch0066）
+> 第十魔将、三つ首の番犬サイザクタート。虹犬種。（ch0067）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-REL:BEGIN -->
+## 関係キャラクター
+
+- [[E_char_三つ首の番犬|三つ首の番犬]] — 命名（2 観測）
+
+<!-- AUTO-REL:END -->
