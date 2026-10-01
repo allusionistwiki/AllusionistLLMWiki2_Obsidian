@@ -1,4 +1,5 @@
 ---
+title: "青嶺瑠璃とSpeaの正体"
 schema_version: "5.1"
 id: MY_ch0059_青嶺瑠璃とSpeaの正体
 type: mystery

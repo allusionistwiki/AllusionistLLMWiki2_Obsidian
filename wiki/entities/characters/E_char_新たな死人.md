@@ -1,4 +1,5 @@
 ---
+title: "新たな死人"
 schema_version: '5.1'
 id: E_char_新たな死人
 type: entity

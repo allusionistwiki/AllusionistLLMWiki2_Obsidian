@@ -1,4 +1,5 @@
 ---
+title: "再生者"
 schema_version: '5.1'
 id: E_term_再生者
 type: entity

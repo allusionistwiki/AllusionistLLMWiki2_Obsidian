@@ -1,4 +1,5 @@
 ---
+title: "肉体"
 schema_version: "5.1"
 id: E_char_肉体
 type: entity

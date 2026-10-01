@@ -1,4 +1,5 @@
 ---
+title: "殺し屋"
 schema_version: '5.1'
 id: E_org_殺し屋
 type: entity

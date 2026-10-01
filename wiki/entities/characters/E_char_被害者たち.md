@@ -1,4 +1,5 @@
 ---
+title: "被害者たち"
 schema_version: '5.1'
 id: E_char_被害者たち
 type: entity

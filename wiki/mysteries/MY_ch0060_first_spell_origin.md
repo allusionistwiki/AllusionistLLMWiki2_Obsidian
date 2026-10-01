@@ -1,4 +1,5 @@
 ---
+title: "first_spell_origin"
 schema_version: "5.1"
 id: MY_ch0060_first_spell_origin
 type: mystery

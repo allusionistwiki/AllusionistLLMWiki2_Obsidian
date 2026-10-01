@@ -1,4 +1,5 @@
 ---
+title: "アキラの視界"
 schema_version: "5.1"
 id: E_char_アキラの視界
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "グラル・アーニスタ"
 schema_version: '5.1'
 id: E_char_グラル・アーニスタ
 type: entity

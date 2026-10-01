@@ -1,4 +1,5 @@
 ---
+title: "多世界連合"
 schema_version: '5.1'
 id: E_org_多世界連合
 type: entity

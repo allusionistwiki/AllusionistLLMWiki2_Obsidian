@@ -1,4 +1,5 @@
 ---
+title: "レッドレッデル"
 schema_version: '5.1'
 id: E_term_レッドレッデル
 type: entity

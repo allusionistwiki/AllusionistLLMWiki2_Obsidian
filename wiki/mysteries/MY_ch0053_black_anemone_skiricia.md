@@ -1,4 +1,5 @@
 ---
+title: "black_anemone_skiricia"
 schema_version: "5.1"
 id: MY_ch0053_black_anemone_skiricia
 type: mystery

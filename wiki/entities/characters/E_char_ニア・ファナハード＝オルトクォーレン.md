@@ -1,4 +1,5 @@
 ---
+title: "ニア・ファナハード＝オルトクォーレン"
 schema_version: '5.1'
 id: E_char_ニア・ファナハード＝オルトクォーレン
 type: entity

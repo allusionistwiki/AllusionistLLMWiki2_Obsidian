@@ -1,4 +1,5 @@
 ---
+title: "ナト"
 schema_version: '5.1'
 id: E_item_ナト
 type: entity

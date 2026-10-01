@@ -1,4 +1,5 @@
 ---
+title: "ファルファレロ"
 schema_version: '5.1'
 id: E_char_ファルファレロ
 type: entity

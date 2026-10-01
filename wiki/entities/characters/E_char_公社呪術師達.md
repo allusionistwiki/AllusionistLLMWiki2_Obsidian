@@ -1,4 +1,5 @@
 ---
+title: "公社呪術師達"
 schema_version: '5.1'
 id: E_char_公社呪術師達
 type: entity

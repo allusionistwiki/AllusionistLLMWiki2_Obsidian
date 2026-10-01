@@ -1,4 +1,5 @@
 ---
+title: "迷宮"
 schema_version: '5.1'
 id: E_term_迷宮
 type: entity

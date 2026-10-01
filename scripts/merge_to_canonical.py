@@ -170,6 +170,7 @@ def build_new_entity_file(entity_name: str, entity_type: str, episode: str, aspe
         "schema_version": "5.1",
         "id": f"E_{prefix}_{entity_name}",
         "type": "entity",
+        "title": entity_name,
         "subtype": TYPE_SUBTYPE.get(entity_type, entity_type),
         "canonical_name": entity_name,
         "aliases": [],

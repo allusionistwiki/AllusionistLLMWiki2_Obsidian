@@ -1,4 +1,5 @@
 ---
+title: "公営娼館"
 schema_version: '5.1'
 id: E_term_公営娼館
 type: entity

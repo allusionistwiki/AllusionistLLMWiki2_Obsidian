@@ -1,4 +1,5 @@
 ---
+title: "spec_defect"
 schema_version: "5.1"
 id: MY_ch0006_spec_defect
 type: mystery

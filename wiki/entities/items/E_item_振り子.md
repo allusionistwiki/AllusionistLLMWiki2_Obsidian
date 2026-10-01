@@ -1,4 +1,5 @@
 ---
+title: "振り子"
 schema_version: '5.1'
 id: E_item_振り子
 type: entity

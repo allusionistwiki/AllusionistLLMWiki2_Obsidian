@@ -1,4 +1,5 @@
 ---
+title: "造井玲"
 schema_version: '5.1'
 id: E_char_造井玲
 type: entity

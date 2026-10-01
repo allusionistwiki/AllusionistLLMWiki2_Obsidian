@@ -1,4 +1,5 @@
 ---
+title: "転生保険"
 schema_version: '5.1'
 id: E_term_転生保険
 type: entity

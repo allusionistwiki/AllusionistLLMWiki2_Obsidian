@@ -1,4 +1,5 @@
 ---
+title: "邪眼"
 schema_version: '5.1'
 id: E_item_邪眼
 type: entity

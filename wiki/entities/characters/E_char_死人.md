@@ -1,4 +1,5 @@
 ---
+title: "死人"
 schema_version: '5.1'
 id: E_char_死人
 type: entity

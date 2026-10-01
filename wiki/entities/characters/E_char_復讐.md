@@ -1,4 +1,5 @@
 ---
+title: "復讐"
 schema_version: "5.1"
 id: E_char_復讐
 type: entity

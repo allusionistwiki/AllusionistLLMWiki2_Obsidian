@@ -1,4 +1,5 @@
 ---
+title: "予備候補"
 schema_version: "5.1"
 id: E_char_予備候補
 type: entity

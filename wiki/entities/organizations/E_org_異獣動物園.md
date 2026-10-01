@@ -1,4 +1,5 @@
 ---
+title: "異獣動物園"
 schema_version: '5.1'
 id: E_org_異獣動物園
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "古き神"
 schema_version: '5.1'
 id: E_char_古き神
 type: entity

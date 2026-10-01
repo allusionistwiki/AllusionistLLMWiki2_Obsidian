@@ -1,4 +1,5 @@
 ---
+title: "マリーの顔"
 schema_version: '5.1'
 id: E_char_マリーの顔
 type: entity

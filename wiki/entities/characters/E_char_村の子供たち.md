@@ -1,4 +1,5 @@
 ---
+title: "村の子供たち"
 schema_version: '5.1'
 id: E_char_村の子供たち
 type: entity

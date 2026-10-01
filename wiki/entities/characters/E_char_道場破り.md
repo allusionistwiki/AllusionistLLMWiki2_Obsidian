@@ -1,4 +1,5 @@
 ---
+title: "道場破り"
 schema_version: '5.1'
 id: E_char_道場破り
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "歌姫カタルマリーナとSpearの同一性"
 schema_version: "5.1"
 id: MY_ch0064_歌姫カタルマリーナとSpearの同一性
 type: mystery

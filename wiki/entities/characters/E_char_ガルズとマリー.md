@@ -1,4 +1,5 @@
 ---
+title: "ガルズとマリー"
 schema_version: '5.1'
 id: E_char_ガルズとマリー
 type: entity

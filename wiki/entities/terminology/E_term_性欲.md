@@ -1,4 +1,5 @@
 ---
+title: "性欲"
 schema_version: '5.1'
 id: E_term_性欲
 type: entity

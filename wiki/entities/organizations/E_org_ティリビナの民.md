@@ -1,4 +1,5 @@
 ---
+title: "ティリビナの民"
 schema_version: '5.1'
 id: E_org_ティリビナの民
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "金髪の美少年"
 schema_version: '5.1'
 id: E_char_金髪の美少年
 type: entity

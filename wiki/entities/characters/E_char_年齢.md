@@ -1,4 +1,5 @@
 ---
+title: "年齢"
 schema_version: "5.1"
 id: E_char_年齢
 type: entity

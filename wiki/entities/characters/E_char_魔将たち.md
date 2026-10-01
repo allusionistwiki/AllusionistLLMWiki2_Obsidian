@@ -1,4 +1,5 @@
 ---
+title: "魔将たち"
 schema_version: '5.1'
 id: E_char_魔将たち
 type: entity

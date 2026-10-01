@@ -1,4 +1,5 @@
 ---
+title: "呪い"
 schema_version: "5.1"
 id: E_char_呪い
 type: entity

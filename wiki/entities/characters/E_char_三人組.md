@@ -1,4 +1,5 @@
 ---
+title: "三人組"
 schema_version: '5.1'
 id: E_char_三人組
 type: entity

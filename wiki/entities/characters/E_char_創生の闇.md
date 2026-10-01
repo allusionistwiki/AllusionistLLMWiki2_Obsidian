@@ -1,4 +1,5 @@
 ---
+title: "創生の闇"
 schema_version: "5.1"
 id: E_char_創生の闇
 type: entity

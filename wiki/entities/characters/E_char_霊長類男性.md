@@ -1,4 +1,5 @@
 ---
+title: "霊長類男性"
 schema_version: '5.1'
 id: E_char_霊長類男性
 type: entity

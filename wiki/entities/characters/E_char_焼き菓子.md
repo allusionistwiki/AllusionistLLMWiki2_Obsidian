@@ -1,4 +1,5 @@
 ---
+title: "焼き菓子"
 schema_version: "5.1"
 id: E_char_焼き菓子
 type: entity

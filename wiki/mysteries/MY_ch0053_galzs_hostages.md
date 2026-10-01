@@ -1,4 +1,5 @@
 ---
+title: "galzs_hostages"
 schema_version: "5.1"
 id: MY_ch0053_galzs_hostages
 type: mystery

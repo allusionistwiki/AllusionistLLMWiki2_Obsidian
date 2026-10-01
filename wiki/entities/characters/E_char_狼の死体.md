@@ -1,4 +1,5 @@
 ---
+title: "狼の死体"
 schema_version: '5.1'
 id: E_char_狼の死体
 type: entity

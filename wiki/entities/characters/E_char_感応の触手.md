@@ -1,4 +1,5 @@
 ---
+title: "感応の触手"
 schema_version: "5.1"
 id: E_char_感応の触手
 type: entity

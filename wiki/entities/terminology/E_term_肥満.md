@@ -1,4 +1,5 @@
 ---
+title: "肥満"
 schema_version: '5.1'
 id: E_term_肥満
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "上司"
 schema_version: '5.1'
 id: E_char_上司
 type: entity

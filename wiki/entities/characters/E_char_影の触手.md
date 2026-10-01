@@ -1,4 +1,5 @@
 ---
+title: "影の触手"
 schema_version: "5.1"
 id: E_char_影の触手
 type: entity

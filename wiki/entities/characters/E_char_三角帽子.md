@@ -1,4 +1,5 @@
 ---
+title: "三角帽子"
 schema_version: "5.1"
 id: E_char_三角帽子
 type: entity

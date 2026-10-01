@@ -1,4 +1,5 @@
 ---
+title: "第十魔将サイザクタート"
 schema_version: '5.1'
 id: E_char_第十魔将サイザクタート
 type: entity

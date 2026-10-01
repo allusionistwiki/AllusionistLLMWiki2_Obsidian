@@ -1,4 +1,5 @@
 ---
+title: "歌姫Spear"
 schema_version: '5.1'
 id: E_char_歌姫Spear
 type: entity

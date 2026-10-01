@@ -1,4 +1,5 @@
 ---
+title: "時の尖塔"
 schema_version: '5.1'
 id: E_term_時の尖塔
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "杖の技術体系"
 schema_version: '5.1'
 id: E_term_杖の技術体系
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "イェレイド"
 schema_version: '5.1'
 id: E_char_イェレイド
 type: entity

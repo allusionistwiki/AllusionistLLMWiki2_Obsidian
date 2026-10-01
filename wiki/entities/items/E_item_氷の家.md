@@ -1,4 +1,5 @@
 ---
+title: "氷の家"
 schema_version: "5.1"
 id: E_item_氷の家
 type: entity

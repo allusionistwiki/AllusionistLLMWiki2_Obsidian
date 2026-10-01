@@ -1,4 +1,5 @@
 ---
+title: "Black_Lily_Palace_Gathering"
 schema_version: "5.1"
 id: MY_ch0040_Black_Lily_Palace_Gathering
 type: mystery

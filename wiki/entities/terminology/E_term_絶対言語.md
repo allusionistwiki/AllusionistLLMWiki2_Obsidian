@@ -1,4 +1,5 @@
 ---
+title: "絶対言語"
 schema_version: '5.1'
 id: E_term_絶対言語
 type: entity

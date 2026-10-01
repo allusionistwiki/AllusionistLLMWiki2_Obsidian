@@ -1,4 +1,5 @@
 ---
+title: "自律型の邪眼群"
 schema_version: '5.1'
 id: E_item_自律型の邪眼群
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "地上最強の男"
 schema_version: "5.1"
 id: E_char_地上最強の男
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "融合体"
 schema_version: '5.1'
 id: E_char_融合体
 type: entity

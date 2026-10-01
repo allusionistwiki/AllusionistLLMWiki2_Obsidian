@@ -1,4 +1,5 @@
 ---
+title: "治癒符"
 schema_version: "5.1"
 id: E_char_治癒符
 type: entity

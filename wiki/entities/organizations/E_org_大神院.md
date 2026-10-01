@@ -1,4 +1,5 @@
 ---
+title: "大神院"
 schema_version: '5.1'
 id: E_org_大神院
 type: entity

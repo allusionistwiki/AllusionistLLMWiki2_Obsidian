@@ -1,4 +1,5 @@
 ---
+title: "六人"
 schema_version: '5.1'
 id: E_term_六人
 type: entity

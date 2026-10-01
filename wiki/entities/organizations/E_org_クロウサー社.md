@@ -1,4 +1,5 @@
 ---
+title: "クロウサー社"
 schema_version: '5.1'
 id: E_org_クロウサー社
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "お姉様"
 schema_version: '5.1'
 id: E_term_お姉様
 type: entity

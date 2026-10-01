@@ -1,4 +1,5 @@
 ---
+title: "voice_identity"
 schema_version: "5.1"
 id: MY_ch0006_voice_identity
 type: mystery

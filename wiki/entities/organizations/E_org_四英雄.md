@@ -1,4 +1,5 @@
 ---
+title: "四英雄"
 schema_version: '5.1'
 id: E_org_四英雄
 type: entity

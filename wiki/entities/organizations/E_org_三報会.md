@@ -1,4 +1,5 @@
 ---
+title: "三報会"
 schema_version: '5.1'
 id: E_org_三報会
 type: entity

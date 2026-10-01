@@ -1,4 +1,5 @@
 ---
+title: "残心プリセット"
 schema_version: "5.1"
 id: E_item_残心プリセット
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "アキラ"
 schema_version: "5.1"
 id: E_org_アキラ
 type: entity

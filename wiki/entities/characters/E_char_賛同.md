@@ -1,4 +1,5 @@
 ---
+title: "賛同"
 schema_version: "5.1"
 id: E_char_賛同
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "高位呪術師"
 schema_version: "5.1"
 id: E_char_高位呪術師
 type: entity

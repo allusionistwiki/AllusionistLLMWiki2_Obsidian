@@ -1,4 +1,5 @@
 ---
+title: "azuria_absence"
 schema_version: "5.1"
 id: MY_ch0006_azuria_absence
 type: mystery

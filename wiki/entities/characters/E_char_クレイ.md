@@ -1,4 +1,5 @@
 ---
+title: "クレイ"
 schema_version: '5.1'
 id: E_char_クレイ
 type: entity

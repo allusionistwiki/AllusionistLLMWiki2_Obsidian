@@ -1,4 +1,5 @@
 ---
+title: "骨の花"
 schema_version: '5.1'
 id: E_item_骨の花
 type: entity

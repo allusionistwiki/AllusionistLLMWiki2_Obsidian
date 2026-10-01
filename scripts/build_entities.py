@@ -218,7 +218,7 @@ def main() -> None:
         claims = sorted(d["claims"])
         body = render_body(d, note, page_id, s, claims, claim_titles)
         fm = (f"---\nschema_version: \"5.1\"\nid: {page_id}\ntype: entity\n"
-              f"subtype: {t}\ncanonical_name: {s}\n"
+              f"subtype: {t}\ncanonical_name: {s}\ntitle: \"{s}\"\n"
               f"first_appearance: {d['first']}\nspoiler_after: {d['first']}\n"
               f"document_status: active\nreview_status: llm_verified\n"
               f"created: \"2026-09-30\"\n---\n")

@@ -1,4 +1,5 @@
 ---
+title: "トリギス"
 schema_version: '5.1'
 id: E_char_トリギス
 type: entity

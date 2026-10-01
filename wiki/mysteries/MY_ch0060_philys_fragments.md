@@ -1,4 +1,5 @@
 ---
+title: "philys_fragments"
 schema_version: "5.1"
 id: MY_ch0060_philys_fragments
 type: mystery

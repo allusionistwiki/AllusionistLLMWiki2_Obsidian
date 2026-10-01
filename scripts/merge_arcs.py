@@ -134,6 +134,7 @@ def build_new_arc_file(arc_def: dict, episodes: list[str], open_mysteries: list[
         "id": f"{arc_id}_{slug}",
         "type": "arc",
         "canonical_name": name,
+        "title": name,
         "arc_number": arc_number,
         "chapter_range": arc_def.get("chapters", {}),
         "theme": theme,

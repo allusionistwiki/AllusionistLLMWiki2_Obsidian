@@ -1,4 +1,5 @@
 ---
+title: "Lazuli_Jaffarim"
 schema_version: "5.1"
 id: MY_ch0027_Lazuli_Jaffarim
 type: mystery

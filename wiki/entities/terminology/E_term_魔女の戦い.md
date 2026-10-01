@@ -1,4 +1,5 @@
 ---
+title: "魔女の戦い"
 schema_version: '5.1'
 id: E_term_魔女の戦い
 type: entity

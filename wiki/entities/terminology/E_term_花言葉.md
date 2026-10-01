@@ -1,4 +1,5 @@
 ---
+title: "花言葉"
 schema_version: '5.1'
 id: E_term_花言葉
 type: entity

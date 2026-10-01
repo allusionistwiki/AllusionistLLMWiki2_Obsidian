@@ -1,4 +1,5 @@
 ---
+title: "ロドウィ・フーシィ・インギィ"
 schema_version: "5.1"
 id: E_char_ロドウィ・フーシィ・インギィ
 type: entity

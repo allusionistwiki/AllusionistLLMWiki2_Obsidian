@@ -1,4 +1,5 @@
 ---
+title: "ズタークスターク"
 schema_version: "5.1"
 id: E_term_ズタークスターク
 type: entity

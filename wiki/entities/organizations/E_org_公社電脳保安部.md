@@ -1,4 +1,5 @@
 ---
+title: "公社電脳保安部"
 schema_version: '5.1'
 id: E_org_公社電脳保安部
 type: entity

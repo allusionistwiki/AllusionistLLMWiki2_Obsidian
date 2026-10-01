@@ -1,4 +1,5 @@
 ---
+title: "亜竜人の少女"
 schema_version: '5.1'
 id: E_char_亜竜人の少女
 type: entity

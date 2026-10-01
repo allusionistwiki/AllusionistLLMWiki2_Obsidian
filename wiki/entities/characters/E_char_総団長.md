@@ -1,4 +1,5 @@
 ---
+title: "総団長"
 schema_version: '5.1'
 id: E_char_総団長
 type: entity

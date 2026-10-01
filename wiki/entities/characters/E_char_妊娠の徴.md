@@ -1,4 +1,5 @@
 ---
+title: "妊娠の徴"
 schema_version: "5.1"
 id: E_char_妊娠の徴
 type: entity

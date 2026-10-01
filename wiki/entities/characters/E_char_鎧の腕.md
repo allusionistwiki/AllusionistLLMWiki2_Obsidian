@@ -1,4 +1,5 @@
 ---
+title: "鎧の腕"
 schema_version: "5.1"
 id: E_char_鎧の腕
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "神滅具"
 schema_version: '5.1'
 id: E_term_神滅具
 type: entity

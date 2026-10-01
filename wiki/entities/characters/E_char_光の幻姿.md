@@ -1,4 +1,5 @@
 ---
+title: "光の幻姿"
 schema_version: "5.1"
 id: E_char_光の幻姿
 type: entity

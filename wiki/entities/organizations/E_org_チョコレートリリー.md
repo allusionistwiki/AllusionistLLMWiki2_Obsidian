@@ -1,4 +1,5 @@
 ---
+title: "チョコレートリリー"
 schema_version: '5.1'
 id: E_org_チョコレートリリー
 type: entity

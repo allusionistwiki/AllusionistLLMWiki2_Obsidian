@@ -1,4 +1,5 @@
 ---
+title: "アインノーラ"
 schema_version: '5.1'
 id: E_char_アインノーラ
 type: entity

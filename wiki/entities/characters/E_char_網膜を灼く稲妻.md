@@ -1,4 +1,5 @@
 ---
+title: "網膜を灼く稲妻"
 schema_version: "5.1"
 id: E_char_網膜を灼く稲妻
 type: entity

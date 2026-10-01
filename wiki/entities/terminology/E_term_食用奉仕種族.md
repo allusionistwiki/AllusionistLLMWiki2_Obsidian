@@ -1,4 +1,5 @@
 ---
+title: "食用奉仕種族"
 schema_version: '5.1'
 id: E_term_食用奉仕種族
 type: entity

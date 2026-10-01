@@ -1,4 +1,5 @@
 ---
+title: "ドラトリア"
 schema_version: '5.1'
 id: E_org_ドラトリア
 type: entity

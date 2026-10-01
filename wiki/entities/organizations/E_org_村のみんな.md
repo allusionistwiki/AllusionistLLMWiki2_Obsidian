@@ -1,4 +1,5 @@
 ---
+title: "村のみんな"
 schema_version: '5.1'
 id: E_org_村のみんな
 type: entity

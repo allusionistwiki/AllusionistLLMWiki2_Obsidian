@@ -1,4 +1,5 @@
 ---
+title: "ゼオーティア"
 schema_version: '5.1'
 id: E_term_ゼオーティア
 type: entity

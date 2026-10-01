@@ -1,4 +1,5 @@
 ---
+title: "手袋"
 schema_version: "5.1"
 id: E_item_手袋
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "黒百合宮行き"
 schema_version: "5.1"
 id: E_char_黒百合宮行き
 type: entity

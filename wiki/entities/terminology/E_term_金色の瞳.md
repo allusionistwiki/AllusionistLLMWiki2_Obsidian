@@ -1,4 +1,5 @@
 ---
+title: "金色の瞳"
 schema_version: '5.1'
 id: E_term_金色の瞳
 type: entity

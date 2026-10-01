@@ -1,4 +1,5 @@
 ---
+title: "青嶺瑠璃"
 schema_version: '5.1'
 id: E_char_青嶺瑠璃
 type: entity

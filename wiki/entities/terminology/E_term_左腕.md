@@ -1,4 +1,5 @@
 ---
+title: "左腕"
 schema_version: "5.1"
 id: E_term_左腕
 type: entity

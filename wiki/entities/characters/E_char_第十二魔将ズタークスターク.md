@@ -1,4 +1,5 @@
 ---
+title: "第十二魔将ズタークスターク"
 schema_version: '5.1'
 id: E_char_第十二魔将ズタークスターク
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "引き金を引いた責任"
 schema_version: "5.1"
 id: E_char_引き金を引いた責任
 type: entity

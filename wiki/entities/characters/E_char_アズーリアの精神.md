@@ -1,4 +1,5 @@
 ---
+title: "アズーリアの精神"
 schema_version: "5.1"
 id: E_char_アズーリアの精神
 type: entity

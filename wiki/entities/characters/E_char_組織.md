@@ -1,4 +1,5 @@
 ---
+title: "組織"
 schema_version: "5.1"
 id: E_char_組織
 type: entity

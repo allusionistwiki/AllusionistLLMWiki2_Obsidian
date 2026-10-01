@@ -1,4 +1,5 @@
 ---
+title: "猫耳の少年"
 schema_version: '5.1'
 id: E_char_猫耳の少年
 type: entity

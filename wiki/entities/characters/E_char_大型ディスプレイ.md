@@ -1,4 +1,5 @@
 ---
+title: "大型ディスプレイ"
 schema_version: "5.1"
 id: E_char_大型ディスプレイ
 type: entity

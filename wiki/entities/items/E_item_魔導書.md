@@ -1,4 +1,5 @@
 ---
+title: "魔導書"
 schema_version: '5.1'
 id: E_item_魔導書
 type: entity

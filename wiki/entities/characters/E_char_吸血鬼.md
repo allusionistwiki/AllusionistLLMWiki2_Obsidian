@@ -1,4 +1,5 @@
 ---
+title: "吸血鬼"
 schema_version: '5.1'
 id: E_char_吸血鬼
 type: entity

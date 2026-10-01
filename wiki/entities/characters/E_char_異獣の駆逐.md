@@ -1,4 +1,5 @@
 ---
+title: "異獣の駆逐"
 schema_version: "5.1"
 id: E_char_異獣の駆逐
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "女神候補選定編"
 schema_version: '5.1'
 id: ARC_01_女神候補選定編
 type: arc

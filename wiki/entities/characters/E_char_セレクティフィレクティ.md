@@ -1,4 +1,5 @@
 ---
+title: "セレクティフィレクティ"
 schema_version: "5.1"
 id: E_char_セレクティフィレクティ
 type: entity

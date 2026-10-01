@@ -1,4 +1,5 @@
 ---
+title: "二重スリット実験"
 schema_version: "5.1"
 id: E_char_二重スリット実験
 type: entity

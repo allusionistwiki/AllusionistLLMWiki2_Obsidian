@@ -1,4 +1,5 @@
 ---
+title: "襲撃者"
 schema_version: '5.1'
 id: E_char_襲撃者
 type: entity

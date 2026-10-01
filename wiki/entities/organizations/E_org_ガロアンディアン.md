@@ -1,4 +1,5 @@
 ---
+title: "ガロアンディアン"
 schema_version: '5.1'
 id: E_org_ガロアンディアン
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "フィリス"
 schema_version: '5.1'
 id: E_item_フィリス
 type: entity

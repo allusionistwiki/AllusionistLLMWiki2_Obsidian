@@ -1,4 +1,5 @@
 ---
+title: "グレンデルヒ＝ライニンサル"
 schema_version: '5.1'
 id: E_char_グレンデルヒ＝ライニンサル
 type: entity

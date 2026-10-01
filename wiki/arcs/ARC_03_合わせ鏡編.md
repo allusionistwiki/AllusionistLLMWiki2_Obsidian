@@ -1,4 +1,5 @@
 ---
+title: "合わせ鏡編"
 schema_version: '5.1'
 id: ARC_03_合わせ鏡編
 type: arc

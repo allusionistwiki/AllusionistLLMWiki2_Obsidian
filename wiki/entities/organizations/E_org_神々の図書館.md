@@ -1,4 +1,5 @@
 ---
+title: "神々の図書館"
 schema_version: '5.1'
 id: E_org_神々の図書館
 type: entity

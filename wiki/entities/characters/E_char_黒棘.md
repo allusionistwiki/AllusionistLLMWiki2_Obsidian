@@ -1,4 +1,5 @@
 ---
+title: "黒棘"
 schema_version: "5.1"
 id: E_char_黒棘
 type: entity

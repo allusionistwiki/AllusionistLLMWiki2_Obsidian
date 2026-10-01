@@ -1,4 +1,5 @@
 ---
+title: "陥穽"
 schema_version: "5.1"
 id: E_char_陥穽
 type: entity

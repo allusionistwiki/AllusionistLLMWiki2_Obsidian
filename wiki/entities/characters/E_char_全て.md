@@ -1,4 +1,5 @@
 ---
+title: "全て"
 schema_version: "5.1"
 id: E_char_全て
 type: entity

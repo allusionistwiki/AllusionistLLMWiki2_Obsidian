@@ -1,4 +1,5 @@
 ---
+title: "akira_answer"
 schema_version: "5.1"
 id: MY_ch0053_akira_answer
 type: mystery

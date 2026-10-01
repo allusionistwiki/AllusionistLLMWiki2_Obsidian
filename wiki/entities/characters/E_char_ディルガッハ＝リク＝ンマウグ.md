@@ -1,4 +1,5 @@
 ---
+title: "ディルガッハ＝リク＝ンマウグ"
 schema_version: '5.1'
 id: E_char_ディルガッハ＝リク＝ンマウグ
 type: entity

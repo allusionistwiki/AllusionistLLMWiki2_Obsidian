@@ -1,4 +1,5 @@
 ---
+title: "聖女様"
 schema_version: '5.1'
 id: E_char_聖女様
 type: entity

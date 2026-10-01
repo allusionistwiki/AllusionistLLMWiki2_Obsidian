@@ -1,4 +1,5 @@
 ---
+title: "巨大狼の刃"
 schema_version: "5.1"
 id: E_char_巨大狼の刃
 type: entity

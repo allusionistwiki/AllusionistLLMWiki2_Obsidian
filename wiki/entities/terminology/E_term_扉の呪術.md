@@ -1,4 +1,5 @@
 ---
+title: "扉の呪術"
 schema_version: '5.1'
 id: E_term_扉の呪術
 type: entity

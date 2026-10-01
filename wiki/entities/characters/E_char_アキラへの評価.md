@@ -1,4 +1,5 @@
 ---
+title: "アキラへの評価"
 schema_version: "5.1"
 id: E_char_アキラへの評価
 type: entity

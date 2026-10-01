@@ -1,4 +1,5 @@
 ---
+title: "青い造花"
 schema_version: '5.1'
 id: E_item_青い造花
 type: entity

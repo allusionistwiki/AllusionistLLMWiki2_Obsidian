@@ -1,4 +1,5 @@
 ---
+title: "草の民の伝令"
 schema_version: '5.1'
 id: E_char_草の民の伝令
 type: entity

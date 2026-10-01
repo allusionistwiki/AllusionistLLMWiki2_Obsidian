@@ -1,4 +1,5 @@
 ---
+title: "ラーゼフ・ピュクシス"
 schema_version: '5.1'
 id: E_term_ラーゼフ・ピュクシス
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "変異の三手"
 schema_version: '5.1'
 id: E_org_変異の三手
 type: entity

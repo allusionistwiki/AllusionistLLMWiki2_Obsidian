@@ -1,4 +1,5 @@
 ---
+title: "ディスペータ"
 schema_version: '5.1'
 id: E_char_ディスペータ
 type: entity

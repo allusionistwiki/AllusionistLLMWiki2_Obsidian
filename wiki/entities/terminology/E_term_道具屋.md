@@ -1,4 +1,5 @@
 ---
+title: "道具屋"
 schema_version: "5.1"
 id: E_term_道具屋
 type: entity

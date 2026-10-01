@@ -1,4 +1,5 @@
 ---
+title: "次元移動者"
 schema_version: '5.1'
 id: E_term_次元移動者
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "探索者の城"
 schema_version: '5.1'
 id: E_term_探索者の城
 type: entity

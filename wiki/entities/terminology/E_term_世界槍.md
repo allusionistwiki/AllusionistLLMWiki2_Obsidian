@@ -1,4 +1,5 @@
 ---
+title: "世界槍"
 schema_version: '5.1'
 id: E_term_世界槍
 type: entity

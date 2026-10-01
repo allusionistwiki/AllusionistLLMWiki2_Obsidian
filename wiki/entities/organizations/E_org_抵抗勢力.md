@@ -1,4 +1,5 @@
 ---
+title: "抵抗勢力"
 schema_version: '5.1'
 id: E_org_抵抗勢力
 type: entity

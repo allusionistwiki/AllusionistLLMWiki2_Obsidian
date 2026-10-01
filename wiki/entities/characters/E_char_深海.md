@@ -1,4 +1,5 @@
 ---
+title: "深海"
 schema_version: "5.1"
 id: E_char_深海
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "アキラの価値"
 schema_version: "5.1"
 id: E_char_アキラの価値
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "Virginia_Ear_Urge"
 schema_version: "5.1"
 id: MY_ch0040_Virginia_Ear_Urge
 type: mystery

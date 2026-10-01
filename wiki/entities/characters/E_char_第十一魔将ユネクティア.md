@@ -1,4 +1,5 @@
 ---
+title: "第十一魔将ユネクティア"
 schema_version: '5.1'
 id: E_char_第十一魔将ユネクティア
 type: entity

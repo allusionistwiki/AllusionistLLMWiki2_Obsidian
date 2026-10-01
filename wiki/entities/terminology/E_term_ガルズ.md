@@ -1,4 +1,5 @@
 ---
+title: "ガルズ"
 schema_version: "5.1"
 id: E_term_ガルズ
 type: entity

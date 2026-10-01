@@ -1,4 +1,5 @@
 ---
+title: "転移門"
 schema_version: '5.1'
 id: E_item_転移門
 type: entity

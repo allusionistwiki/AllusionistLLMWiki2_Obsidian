@@ -1,4 +1,5 @@
 ---
+title: "人影"
 schema_version: '5.1'
 id: E_char_人影
 type: entity

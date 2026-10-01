@@ -1,4 +1,5 @@
 ---
+title: "静謐"
 schema_version: "5.1"
 id: E_term_静謐
 type: entity

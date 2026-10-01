@@ -1,4 +1,5 @@
 ---
+title: "動画"
 schema_version: '5.1'
 id: E_item_動画
 type: entity

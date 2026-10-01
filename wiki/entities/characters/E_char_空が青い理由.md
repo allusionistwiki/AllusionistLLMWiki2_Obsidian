@@ -1,4 +1,5 @@
 ---
+title: "空が青い理由"
 schema_version: "5.1"
 id: E_char_空が青い理由
 type: entity

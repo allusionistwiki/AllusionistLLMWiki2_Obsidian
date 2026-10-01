@@ -1,4 +1,5 @@
 ---
+title: "血液"
 schema_version: "5.1"
 id: E_char_血液
 type: entity

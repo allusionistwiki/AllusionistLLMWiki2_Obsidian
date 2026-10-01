@@ -1,4 +1,5 @@
 ---
+title: "契約者"
 schema_version: '5.1'
 id: E_char_契約者
 type: entity

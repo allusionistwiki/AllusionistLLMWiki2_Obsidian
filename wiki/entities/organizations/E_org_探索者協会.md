@@ -1,4 +1,5 @@
 ---
+title: "探索者協会"
 schema_version: '5.1'
 id: E_org_探索者協会
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "クリア先生"
 schema_version: '5.1'
 id: E_char_クリア先生
 type: entity

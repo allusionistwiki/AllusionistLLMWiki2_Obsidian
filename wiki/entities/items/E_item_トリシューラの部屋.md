@@ -1,4 +1,5 @@
 ---
+title: "トリシューラの部屋"
 schema_version: '5.1'
 id: E_item_トリシューラの部屋
 type: entity

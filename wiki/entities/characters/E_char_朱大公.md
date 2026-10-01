@@ -1,4 +1,5 @@
 ---
+title: "朱大公"
 schema_version: "5.1"
 id: E_char_朱大公
 type: entity

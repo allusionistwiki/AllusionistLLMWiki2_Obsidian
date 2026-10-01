@@ -1,4 +1,5 @@
 ---
+title: "彼女"
 schema_version: '5.1'
 id: E_char_彼女
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "肉体言語"
 schema_version: "5.1"
 id: E_char_肉体言語
 type: entity

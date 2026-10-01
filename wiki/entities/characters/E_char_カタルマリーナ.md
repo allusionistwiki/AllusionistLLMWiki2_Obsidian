@@ -1,4 +1,5 @@
 ---
+title: "カタルマリーナ"
 schema_version: '5.1'
 id: E_char_カタルマリーナ
 type: entity

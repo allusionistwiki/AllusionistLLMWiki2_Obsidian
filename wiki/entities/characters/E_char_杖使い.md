@@ -1,4 +1,5 @@
 ---
+title: "杖使い"
 schema_version: '5.1'
 id: E_char_杖使い
 type: entity

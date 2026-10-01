@@ -1,4 +1,5 @@
 ---
+title: "金鎖の庭園"
 schema_version: '5.1'
 id: E_term_金鎖の庭園
 type: entity

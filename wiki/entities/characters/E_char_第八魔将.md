@@ -1,4 +1,5 @@
 ---
+title: "第八魔将"
 schema_version: "5.1"
 id: E_char_第八魔将
 type: entity

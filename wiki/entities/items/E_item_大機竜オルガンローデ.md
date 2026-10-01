@@ -1,4 +1,5 @@
 ---
+title: "大機竜オルガンローデ"
 schema_version: '5.1'
 id: E_item_大機竜オルガンローデ
 type: entity

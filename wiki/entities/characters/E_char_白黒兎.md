@@ -1,4 +1,5 @@
 ---
+title: "白黒兎"
 schema_version: '5.1'
 id: E_char_白黒兎
 type: entity

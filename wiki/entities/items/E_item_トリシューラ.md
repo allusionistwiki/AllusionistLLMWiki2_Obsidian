@@ -1,4 +1,5 @@
 ---
+title: "トリシューラ"
 schema_version: '5.1'
 id: E_item_トリシューラ
 type: entity

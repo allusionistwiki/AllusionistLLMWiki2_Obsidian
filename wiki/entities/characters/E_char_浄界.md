@@ -1,4 +1,5 @@
 ---
+title: "浄界"
 schema_version: "5.1"
 id: E_char_浄界
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "自動礼拝機"
 schema_version: '5.1'
 id: E_item_自動礼拝機
 type: entity

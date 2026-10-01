@@ -1,4 +1,5 @@
 ---
+title: "赤い髪の魔女"
 schema_version: '5.1'
 id: E_char_赤い髪の魔女
 type: entity

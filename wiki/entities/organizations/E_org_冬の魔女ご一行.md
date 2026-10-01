@@ -1,4 +1,5 @@
 ---
+title: "冬の魔女ご一行"
 schema_version: '5.1'
 id: E_org_冬の魔女ご一行
 type: entity

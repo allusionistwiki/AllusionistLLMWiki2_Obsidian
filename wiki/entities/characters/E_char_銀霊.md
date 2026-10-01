@@ -1,4 +1,5 @@
 ---
+title: "銀霊"
 schema_version: "5.1"
 id: E_char_銀霊
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "流儀"
 schema_version: "5.1"
 id: E_char_流儀
 type: entity

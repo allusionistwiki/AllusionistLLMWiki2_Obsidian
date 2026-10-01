@@ -1,4 +1,5 @@
 ---
+title: "奉竜山の拳法"
 schema_version: '5.1'
 id: E_term_奉竜山の拳法
 type: entity

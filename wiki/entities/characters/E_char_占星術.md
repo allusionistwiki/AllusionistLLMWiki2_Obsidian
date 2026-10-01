@@ -1,4 +1,5 @@
 ---
+title: "占星術"
 schema_version: "5.1"
 id: E_char_占星術
 type: entity

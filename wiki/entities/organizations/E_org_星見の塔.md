@@ -1,4 +1,5 @@
 ---
+title: "星見の塔"
 schema_version: '5.1'
 id: E_org_星見の塔
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "サイバーカラテ道場第五階層支部"
 schema_version: '5.1'
 id: E_term_サイバーカラテ道場第五階層支部
 type: entity

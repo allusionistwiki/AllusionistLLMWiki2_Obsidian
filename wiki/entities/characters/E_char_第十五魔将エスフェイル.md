@@ -1,4 +1,5 @@
 ---
+title: "第十五魔将エスフェイル"
 schema_version: '5.1'
 id: E_char_第十五魔将エスフェイル
 type: entity

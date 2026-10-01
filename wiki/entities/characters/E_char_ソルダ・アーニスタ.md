@@ -1,4 +1,5 @@
 ---
+title: "ソルダ・アーニスタ"
 schema_version: '5.1'
 id: E_char_ソルダ・アーニスタ
 type: entity

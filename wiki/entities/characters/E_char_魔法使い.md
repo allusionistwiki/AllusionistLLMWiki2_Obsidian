@@ -1,4 +1,5 @@
 ---
+title: "魔法使い"
 schema_version: '5.1'
 id: E_char_魔法使い
 type: entity

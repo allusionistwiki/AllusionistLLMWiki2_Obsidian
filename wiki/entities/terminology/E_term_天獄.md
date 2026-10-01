@@ -1,4 +1,5 @@
 ---
+title: "天獄"
 schema_version: '5.1'
 id: E_term_天獄
 type: entity

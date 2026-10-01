@@ -1,4 +1,5 @@
 ---
+title: "射影聖遺物"
 schema_version: "5.1"
 id: E_term_射影聖遺物
 type: entity

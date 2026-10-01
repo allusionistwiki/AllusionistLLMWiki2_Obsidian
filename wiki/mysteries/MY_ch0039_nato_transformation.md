@@ -1,4 +1,5 @@
 ---
+title: "nato_transformation"
 schema_version: "5.1"
 id: MY_ch0039_nato_transformation
 type: mystery

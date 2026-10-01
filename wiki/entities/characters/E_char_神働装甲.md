@@ -1,4 +1,5 @@
 ---
+title: "神働装甲"
 schema_version: "5.1"
 id: E_char_神働装甲
 type: entity

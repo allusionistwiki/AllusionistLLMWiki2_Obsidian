@@ -1,4 +1,5 @@
 ---
+title: "Metrian_Trauma"
 schema_version: "5.1"
 id: MY_ch0040_Metrian_Trauma
 type: mystery

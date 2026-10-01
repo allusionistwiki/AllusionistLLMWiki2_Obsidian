@@ -1,4 +1,5 @@
 ---
+title: "盤外の夜"
 schema_version: "5.1"
 id: E_item_盤外の夜
 type: entity

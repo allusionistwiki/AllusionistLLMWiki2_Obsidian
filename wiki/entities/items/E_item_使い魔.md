@@ -1,4 +1,5 @@
 ---
+title: "使い魔"
 schema_version: '5.1'
 id: E_item_使い魔
 type: entity

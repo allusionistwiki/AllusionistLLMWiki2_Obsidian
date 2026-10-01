@@ -1,4 +1,5 @@
 ---
+title: "血統呪術"
 schema_version: '5.1'
 id: E_term_血統呪術
 type: entity

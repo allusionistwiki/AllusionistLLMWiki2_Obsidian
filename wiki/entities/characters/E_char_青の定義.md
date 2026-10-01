@@ -1,4 +1,5 @@
 ---
+title: "青の定義"
 schema_version: "5.1"
 id: E_char_青の定義
 type: entity

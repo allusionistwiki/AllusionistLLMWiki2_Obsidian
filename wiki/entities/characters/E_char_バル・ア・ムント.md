@@ -1,4 +1,5 @@
 ---
+title: "バル・ア・ムント"
 schema_version: '5.1'
 id: E_char_バル・ア・ムント
 type: entity

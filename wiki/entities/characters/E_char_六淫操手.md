@@ -1,4 +1,5 @@
 ---
+title: "六淫操手"
 schema_version: "5.1"
 id: E_char_六淫操手
 type: entity

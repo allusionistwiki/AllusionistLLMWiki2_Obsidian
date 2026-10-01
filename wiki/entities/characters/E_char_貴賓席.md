@@ -1,4 +1,5 @@
 ---
+title: "貴賓席"
 schema_version: "5.1"
 id: E_char_貴賓席
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "異界の黙示録"
 schema_version: '5.1'
 id: E_item_異界の黙示録
 type: entity

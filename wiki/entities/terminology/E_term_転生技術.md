@@ -1,4 +1,5 @@
 ---
+title: "転生技術"
 schema_version: '5.1'
 id: E_term_転生技術
 type: entity

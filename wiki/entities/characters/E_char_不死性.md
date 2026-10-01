@@ -1,4 +1,5 @@
 ---
+title: "不死性"
 schema_version: "5.1"
 id: E_char_不死性
 type: entity

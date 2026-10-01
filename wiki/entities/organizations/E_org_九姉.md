@@ -1,4 +1,5 @@
 ---
+title: "九姉"
 schema_version: '5.1'
 id: E_org_九姉
 type: entity

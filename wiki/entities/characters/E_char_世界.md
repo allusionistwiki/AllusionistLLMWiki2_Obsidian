@@ -1,4 +1,5 @@
 ---
+title: "世界"
 schema_version: "5.1"
 id: E_char_世界
 type: entity

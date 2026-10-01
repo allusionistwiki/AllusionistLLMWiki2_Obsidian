@@ -1,4 +1,5 @@
 ---
+title: "第五階層掌握者"
 schema_version: '5.1'
 id: E_char_第五階層掌握者
 type: entity

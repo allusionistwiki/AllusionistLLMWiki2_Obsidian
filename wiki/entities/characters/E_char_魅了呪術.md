@@ -1,4 +1,5 @@
 ---
+title: "魅了呪術"
 schema_version: "5.1"
 id: E_char_魅了呪術
 type: entity

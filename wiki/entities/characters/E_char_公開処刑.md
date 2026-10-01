@@ -1,4 +1,5 @@
 ---
+title: "公開処刑"
 schema_version: "5.1"
 id: E_char_公開処刑
 type: entity

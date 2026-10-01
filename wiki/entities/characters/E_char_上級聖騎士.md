@@ -1,4 +1,5 @@
 ---
+title: "上級聖騎士"
 schema_version: '5.1'
 id: E_char_上級聖騎士
 type: entity

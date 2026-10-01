@@ -1,4 +1,5 @@
 ---
+title: "第一の試練編"
 schema_version: '5.1'
 id: ARC_02_第一の試練編
 type: arc

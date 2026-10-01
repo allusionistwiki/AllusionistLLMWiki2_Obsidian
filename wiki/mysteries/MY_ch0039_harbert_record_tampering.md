@@ -1,4 +1,5 @@
 ---
+title: "harbert_record_tampering"
 schema_version: "5.1"
 id: MY_ch0039_harbert_record_tampering
 type: mystery

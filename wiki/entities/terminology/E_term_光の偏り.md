@@ -1,4 +1,5 @@
 ---
+title: "光の偏り"
 schema_version: '5.1'
 id: E_term_光の偏り
 type: entity

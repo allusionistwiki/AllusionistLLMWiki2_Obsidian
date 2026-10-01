@@ -1,4 +1,5 @@
 ---
+title: "mayferra_gloves"
 schema_version: "5.1"
 id: MY_ch0060_mayferra_gloves
 type: mystery

@@ -1,4 +1,5 @@
 ---
+title: "骨組みの花"
 schema_version: '5.1'
 id: E_org_骨組みの花
 type: entity

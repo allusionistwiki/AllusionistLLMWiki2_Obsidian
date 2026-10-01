@@ -1,4 +1,5 @@
 ---
+title: "火蜂"
 schema_version: '5.1'
 id: E_item_火蜂
 type: entity

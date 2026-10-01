@@ -1,4 +1,5 @@
 ---
+title: "Azures_Psychological_Crack"
 schema_version: "5.1"
 id: MY_ch0040_Azures_Psychological_Crack
 type: mystery

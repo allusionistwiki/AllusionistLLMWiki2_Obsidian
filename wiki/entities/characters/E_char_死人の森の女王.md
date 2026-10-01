@@ -1,4 +1,5 @@
 ---
+title: "死人の森の女王"
 schema_version: '5.1'
 id: E_char_死人の森の女王
 type: entity

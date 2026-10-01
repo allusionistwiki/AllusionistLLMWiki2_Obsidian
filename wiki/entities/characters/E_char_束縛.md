@@ -1,4 +1,5 @@
 ---
+title: "束縛"
 schema_version: "5.1"
 id: E_char_束縛
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "多数決"
 schema_version: "5.1"
 id: E_char_多数決
 type: entity

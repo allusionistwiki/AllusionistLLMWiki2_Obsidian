@@ -1,4 +1,5 @@
 ---
+title: "生命吸収"
 schema_version: "5.1"
 id: E_char_生命吸収
 type: entity

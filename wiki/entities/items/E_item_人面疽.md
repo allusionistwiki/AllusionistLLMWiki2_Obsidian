@@ -1,4 +1,5 @@
 ---
+title: "人面疽"
 schema_version: '5.1'
 id: E_item_人面疽
 type: entity

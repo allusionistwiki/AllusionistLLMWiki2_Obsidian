@@ -1,4 +1,5 @@
 ---
+title: "黒いアネモネ"
 schema_version: '5.1'
 id: E_item_黒いアネモネ
 type: entity

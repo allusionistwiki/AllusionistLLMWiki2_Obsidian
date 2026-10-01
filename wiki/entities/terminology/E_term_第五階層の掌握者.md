@@ -1,4 +1,5 @@
 ---
+title: "第五階層の掌握者"
 schema_version: '5.1'
 id: E_term_第五階層の掌握者
 type: entity

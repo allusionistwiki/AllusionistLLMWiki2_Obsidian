@@ -1,4 +1,5 @@
 ---
+title: "サイバーカラテ道場"
 schema_version: "5.1"
 id: E_item_サイバーカラテ道場
 type: entity

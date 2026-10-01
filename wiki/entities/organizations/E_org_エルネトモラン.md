@@ -1,4 +1,5 @@
 ---
+title: "エルネトモラン"
 schema_version: '5.1'
 id: E_org_エルネトモラン
 type: entity

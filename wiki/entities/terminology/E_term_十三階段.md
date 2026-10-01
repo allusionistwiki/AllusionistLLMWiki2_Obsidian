@@ -1,4 +1,5 @@
 ---
+title: "十三階段"
 schema_version: '5.1'
 id: E_term_十三階段
 type: entity

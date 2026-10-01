@@ -1,4 +1,5 @@
 ---
+title: "審判役"
 schema_version: "5.1"
 id: E_char_審判役
 type: entity

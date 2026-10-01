@@ -1,4 +1,5 @@
 ---
+title: "第六騎士修道会"
 schema_version: '5.1'
 id: E_org_第六騎士修道会
 type: entity

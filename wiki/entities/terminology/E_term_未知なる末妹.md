@@ -1,4 +1,5 @@
 ---
+title: "未知なる末妹"
 schema_version: '5.1'
 id: E_term_未知なる末妹
 type: entity

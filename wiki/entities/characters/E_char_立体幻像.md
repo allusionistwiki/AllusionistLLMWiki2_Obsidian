@@ -1,4 +1,5 @@
 ---
+title: "立体幻像"
 schema_version: "5.1"
 id: E_char_立体幻像
 type: entity

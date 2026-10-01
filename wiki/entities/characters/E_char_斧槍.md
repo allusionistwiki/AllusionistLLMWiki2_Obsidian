@@ -1,4 +1,5 @@
 ---
+title: "斧槍"
 schema_version: '5.1'
 id: E_char_斧槍
 type: entity

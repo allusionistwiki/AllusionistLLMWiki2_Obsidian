@@ -1,4 +1,5 @@
 ---
+title: "鰓耳の民"
 schema_version: '5.1'
 id: E_char_鰓耳の民
 type: entity

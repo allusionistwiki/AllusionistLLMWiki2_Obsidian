@@ -1,4 +1,5 @@
 ---
+title: "街娼"
 schema_version: '5.1'
 id: E_char_街娼
 type: entity

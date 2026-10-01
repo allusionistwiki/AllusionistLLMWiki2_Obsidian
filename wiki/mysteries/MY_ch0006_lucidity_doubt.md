@@ -1,4 +1,5 @@
 ---
+title: "lucidity_doubt"
 schema_version: "5.1"
 id: MY_ch0006_lucidity_doubt
 type: mystery

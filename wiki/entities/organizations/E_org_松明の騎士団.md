@@ -1,4 +1,5 @@
 ---
+title: "松明の騎士団"
 schema_version: '5.1'
 id: E_org_松明の騎士団
 type: entity

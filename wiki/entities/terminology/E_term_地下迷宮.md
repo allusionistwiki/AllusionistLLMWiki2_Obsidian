@@ -1,4 +1,5 @@
 ---
+title: "地下迷宮"
 schema_version: '5.1'
 id: E_term_地下迷宮
 type: entity

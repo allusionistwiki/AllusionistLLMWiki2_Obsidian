@@ -1,4 +1,5 @@
 ---
+title: "リールエルバ・ヴォーン・アム＝オルトクォーレン"
 schema_version: '5.1'
 id: E_char_リールエルバ・ヴォーン・アム＝オルトクォーレン
 type: entity

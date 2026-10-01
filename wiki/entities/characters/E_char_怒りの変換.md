@@ -1,4 +1,5 @@
 ---
+title: "怒りの変換"
 schema_version: "5.1"
 id: E_char_怒りの変換
 type: entity

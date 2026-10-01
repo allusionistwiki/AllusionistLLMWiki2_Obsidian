@@ -1,4 +1,5 @@
 ---
+title: "呪力"
 schema_version: "5.1"
 id: E_term_呪力
 type: entity

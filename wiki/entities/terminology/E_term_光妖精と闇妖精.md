@@ -1,4 +1,5 @@
 ---
+title: "光妖精と闇妖精"
 schema_version: '5.1'
 id: E_term_光妖精と闇妖精
 type: entity

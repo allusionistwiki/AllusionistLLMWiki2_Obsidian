@@ -1,4 +1,5 @@
 ---
+title: "第九魔将ピッチャールー"
 schema_version: '5.1'
 id: E_char_第九魔将ピッチャールー
 type: entity

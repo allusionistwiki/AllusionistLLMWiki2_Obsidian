@@ -1,4 +1,5 @@
 ---
+title: "槍神教"
 schema_version: '5.1'
 id: E_org_槍神教
 type: entity

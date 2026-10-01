@@ -1,4 +1,5 @@
 ---
+title: "悪鬼たち"
 schema_version: '5.1'
 id: E_phrase_悪鬼たち
 type: entity

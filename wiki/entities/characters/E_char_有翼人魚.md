@@ -1,4 +1,5 @@
 ---
+title: "有翼人魚"
 schema_version: "5.1"
 id: E_char_有翼人魚
 type: entity

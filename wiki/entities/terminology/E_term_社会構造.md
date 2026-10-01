@@ -1,4 +1,5 @@
 ---
+title: "社会構造"
 schema_version: '5.1'
 id: E_term_社会構造
 type: entity

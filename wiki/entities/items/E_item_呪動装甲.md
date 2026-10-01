@@ -1,4 +1,5 @@
 ---
+title: "呪動装甲"
 schema_version: "5.1"
 id: E_item_呪動装甲
 type: entity

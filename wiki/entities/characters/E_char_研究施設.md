@@ -1,4 +1,5 @@
 ---
+title: "研究施設"
 schema_version: "5.1"
 id: E_char_研究施設
 type: entity

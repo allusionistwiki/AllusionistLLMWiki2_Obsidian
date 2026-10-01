@@ -1,4 +1,5 @@
 ---
+title: "単眼巨人"
 schema_version: '5.1'
 id: E_char_単眼巨人
 type: entity

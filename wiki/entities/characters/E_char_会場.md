@@ -1,4 +1,5 @@
 ---
+title: "会場"
 schema_version: "5.1"
 id: E_char_会場
 type: entity

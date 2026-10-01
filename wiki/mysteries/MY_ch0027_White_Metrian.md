@@ -1,4 +1,5 @@
 ---
+title: "White_Metrian"
 schema_version: "5.1"
 id: MY_ch0027_White_Metrian
 type: mystery

@@ -1,4 +1,5 @@
 ---
+title: "葬送式典"
 schema_version: '5.1'
 id: E_term_葬送式典
 type: entity

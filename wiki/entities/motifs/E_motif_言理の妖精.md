@@ -1,4 +1,5 @@
 ---
+title: "言理の妖精"
 schema_version: '5.1'
 id: E_motif_言理の妖精
 type: entity

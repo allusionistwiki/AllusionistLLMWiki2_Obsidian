@@ -1,4 +1,5 @@
 ---
+title: "アズーリアの心"
 schema_version: "5.1"
 id: E_char_アズーリアの心
 type: entity

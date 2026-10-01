@@ -1,4 +1,5 @@
 ---
+title: "紙幣"
 schema_version: "5.1"
 id: E_item_紙幣
 type: entity

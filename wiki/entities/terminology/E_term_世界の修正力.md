@@ -1,4 +1,5 @@
 ---
+title: "世界の修正力"
 schema_version: '5.1'
 id: E_term_世界の修正力
 type: entity

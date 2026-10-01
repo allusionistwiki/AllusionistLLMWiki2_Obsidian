@@ -1,4 +1,5 @@
 ---
+title: "目的"
 schema_version: "5.1"
 id: E_char_目的
 type: entity

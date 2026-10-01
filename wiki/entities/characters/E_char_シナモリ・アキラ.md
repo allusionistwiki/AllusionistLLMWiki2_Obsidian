@@ -1,4 +1,5 @@
 ---
+title: "シナモリ・アキラ"
 schema_version: '5.1'
 id: E_char_シナモリ・アキラ
 type: entity

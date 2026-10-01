@@ -1,4 +1,5 @@
 ---
+title: "霊薬"
 schema_version: "5.1"
 id: E_item_霊薬
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "骨の槍"
 schema_version: '5.1'
 id: E_item_骨の槍
 type: entity

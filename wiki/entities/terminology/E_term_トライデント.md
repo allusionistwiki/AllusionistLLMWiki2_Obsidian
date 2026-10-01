@@ -1,4 +1,5 @@
 ---
+title: "トライデント"
 schema_version: "5.1"
 id: E_term_トライデント
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "敵"
 schema_version: '5.1'
 id: E_char_敵
 type: entity

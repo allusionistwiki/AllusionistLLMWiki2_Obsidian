@@ -1,4 +1,5 @@
 ---
+title: "言語魔術師たち"
 schema_version: '5.1'
 id: E_org_言語魔術師たち
 type: entity

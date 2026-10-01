@@ -1,4 +1,5 @@
 ---
+title: "病室"
 schema_version: "5.1"
 id: E_char_病室
 type: entity

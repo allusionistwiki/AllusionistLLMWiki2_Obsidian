@@ -1,4 +1,5 @@
 ---
+title: "第六階層"
 schema_version: "5.1"
 id: E_char_第六階層
 type: entity

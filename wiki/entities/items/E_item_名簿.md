@@ -1,4 +1,5 @@
 ---
+title: "名簿"
 schema_version: '5.1'
 id: E_item_名簿
 type: entity

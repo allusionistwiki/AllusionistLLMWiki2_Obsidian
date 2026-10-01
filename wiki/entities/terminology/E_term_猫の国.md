@@ -1,4 +1,5 @@
 ---
+title: "猫の国"
 schema_version: '5.1'
 id: E_term_猫の国
 type: entity

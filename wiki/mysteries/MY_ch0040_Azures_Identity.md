@@ -1,4 +1,5 @@
 ---
+title: "Azures_Identity"
 schema_version: "5.1"
 id: MY_ch0040_Azures_Identity
 type: mystery

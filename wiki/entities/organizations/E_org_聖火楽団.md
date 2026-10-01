@@ -1,4 +1,5 @@
 ---
+title: "聖火楽団"
 schema_version: '5.1'
 id: E_org_聖火楽団
 type: entity

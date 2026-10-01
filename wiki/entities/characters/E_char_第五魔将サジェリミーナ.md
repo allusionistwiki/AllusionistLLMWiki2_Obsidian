@@ -1,4 +1,5 @@
 ---
+title: "第五魔将サジェリミーナ"
 schema_version: '5.1'
 id: E_char_第五魔将サジェリミーナ
 type: entity

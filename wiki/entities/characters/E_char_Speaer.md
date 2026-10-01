@@ -1,4 +1,5 @@
 ---
+title: "Speaer"
 schema_version: '5.1'
 id: E_char_Speaer
 type: entity

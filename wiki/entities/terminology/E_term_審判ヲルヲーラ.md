@@ -1,4 +1,5 @@
 ---
+title: "審判ヲルヲーラ"
 schema_version: '5.1'
 id: E_term_審判ヲルヲーラ
 type: entity

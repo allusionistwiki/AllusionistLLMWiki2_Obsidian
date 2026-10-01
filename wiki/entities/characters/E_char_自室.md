@@ -1,4 +1,5 @@
 ---
+title: "自室"
 schema_version: "5.1"
 id: E_char_自室
 type: entity

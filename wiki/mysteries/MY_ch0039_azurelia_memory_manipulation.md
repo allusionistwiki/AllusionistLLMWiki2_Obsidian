@@ -1,4 +1,5 @@
 ---
+title: "azurelia_memory_manipulation"
 schema_version: "5.1"
 id: MY_ch0039_azurelia_memory_manipulation
 type: mystery

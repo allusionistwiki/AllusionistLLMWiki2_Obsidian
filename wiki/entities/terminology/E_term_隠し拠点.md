@@ -1,4 +1,5 @@
 ---
+title: "隠し拠点"
 schema_version: "5.1"
 id: E_term_隠し拠点
 type: entity

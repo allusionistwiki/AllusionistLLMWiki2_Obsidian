@@ -1,4 +1,5 @@
 ---
+title: "霊媒"
 schema_version: '5.1'
 id: E_term_霊媒
 type: entity

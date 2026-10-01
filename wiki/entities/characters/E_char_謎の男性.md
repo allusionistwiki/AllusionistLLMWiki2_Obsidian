@@ -1,4 +1,5 @@
 ---
+title: "謎の男性"
 schema_version: '5.1'
 id: E_char_謎の男性
 type: entity

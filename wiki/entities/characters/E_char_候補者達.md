@@ -1,4 +1,5 @@
 ---
+title: "候補者達"
 schema_version: '5.1'
 id: E_char_候補者達
 type: entity

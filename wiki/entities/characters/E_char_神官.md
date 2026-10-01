@@ -1,4 +1,5 @@
 ---
+title: "神官"
 schema_version: "5.1"
 id: E_char_神官
 type: entity

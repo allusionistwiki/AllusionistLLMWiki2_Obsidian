@@ -1,4 +1,5 @@
 ---
+title: "智神の盾"
 schema_version: '5.1'
 id: E_org_智神の盾
 type: entity

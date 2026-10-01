@@ -1,4 +1,5 @@
 ---
+title: "見立て殺人"
 schema_version: "5.1"
 id: E_char_見立て殺人
 type: entity

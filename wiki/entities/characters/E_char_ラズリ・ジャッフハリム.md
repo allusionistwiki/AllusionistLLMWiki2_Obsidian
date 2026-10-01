@@ -1,4 +1,5 @@
 ---
+title: "ラズリ・ジャッフハリム"
 schema_version: '5.1'
 id: E_char_ラズリ・ジャッフハリム
 type: entity

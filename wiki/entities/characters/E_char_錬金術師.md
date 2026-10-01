@@ -1,4 +1,5 @@
 ---
+title: "錬金術師"
 schema_version: "5.1"
 id: E_char_錬金術師
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "呪具"
 schema_version: '5.1'
 id: E_item_呪具
 type: entity

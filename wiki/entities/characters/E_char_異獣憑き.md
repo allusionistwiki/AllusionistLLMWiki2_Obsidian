@@ -1,4 +1,5 @@
 ---
+title: "異獣憑き"
 schema_version: "5.1"
 id: E_char_異獣憑き
 type: entity

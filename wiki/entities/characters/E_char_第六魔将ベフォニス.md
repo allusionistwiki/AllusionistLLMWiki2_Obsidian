@@ -1,4 +1,5 @@
 ---
+title: "第六魔将ベフォニス"
 schema_version: '5.1'
 id: E_char_第六魔将ベフォニス
 type: entity

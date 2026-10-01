@@ -1,4 +1,5 @@
 ---
+title: "セルフ・ディファレンス・エンジン"
 schema_version: '5.1'
 id: E_term_セルフ・ディファレンス・エンジン
 type: entity

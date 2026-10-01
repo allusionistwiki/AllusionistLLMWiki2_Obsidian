@@ -1,4 +1,5 @@
 ---
+title: "エル・ア・フィリス"
 schema_version: '5.1'
 id: E_char_エル・ア・フィリス
 type: entity

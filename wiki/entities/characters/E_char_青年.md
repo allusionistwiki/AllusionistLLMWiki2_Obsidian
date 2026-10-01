@@ -1,4 +1,5 @@
 ---
+title: "青年"
 schema_version: '5.1'
 id: E_char_青年
 type: entity

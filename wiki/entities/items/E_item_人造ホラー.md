@@ -1,4 +1,5 @@
 ---
+title: "人造ホラー"
 schema_version: '5.1'
 id: E_item_人造ホラー
 type: entity

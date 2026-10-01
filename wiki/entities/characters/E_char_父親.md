@@ -1,4 +1,5 @@
 ---
+title: "父親"
 schema_version: '5.1'
 id: E_char_父親
 type: entity

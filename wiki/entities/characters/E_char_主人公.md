@@ -1,4 +1,5 @@
 ---
+title: "主人公"
 schema_version: '5.1'
 id: E_char_主人公
 type: entity

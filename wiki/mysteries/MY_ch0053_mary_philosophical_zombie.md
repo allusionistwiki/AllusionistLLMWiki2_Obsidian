@@ -1,4 +1,5 @@
 ---
+title: "mary_philosophical_zombie"
 schema_version: "5.1"
 id: MY_ch0053_mary_philosophical_zombie
 type: mystery

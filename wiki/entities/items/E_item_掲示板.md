@@ -1,4 +1,5 @@
 ---
+title: "掲示板"
 schema_version: '5.1'
 id: E_item_掲示板
 type: entity

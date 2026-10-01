@@ -1,4 +1,5 @@
 ---
+title: "アズーリアへの感謝"
 schema_version: "5.1"
 id: E_char_アズーリアへの感謝
 type: entity

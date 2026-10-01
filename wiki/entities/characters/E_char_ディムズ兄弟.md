@@ -1,4 +1,5 @@
 ---
+title: "ディムズ兄弟"
 schema_version: '5.1'
 id: E_char_ディムズ兄弟
 type: entity

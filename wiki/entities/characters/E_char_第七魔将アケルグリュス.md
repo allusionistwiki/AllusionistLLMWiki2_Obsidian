@@ -1,4 +1,5 @@
 ---
+title: "第七魔将アケルグリュス"
 schema_version: '5.1'
 id: E_char_第七魔将アケルグリュス
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "痩せた黒蜥蜴"
 schema_version: "5.1"
 id: E_char_痩せた黒蜥蜴
 type: entity

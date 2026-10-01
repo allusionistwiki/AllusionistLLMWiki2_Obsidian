@@ -1,4 +1,5 @@
 ---
+title: "言理の妖精語りて曰く"
 schema_version: "5.1"
 id: E_term_言理の妖精語りて曰く
 type: entity

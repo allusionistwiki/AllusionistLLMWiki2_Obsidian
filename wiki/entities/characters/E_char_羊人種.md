@@ -1,4 +1,5 @@
 ---
+title: "羊人種"
 schema_version: '5.1'
 id: E_char_羊人種
 type: entity

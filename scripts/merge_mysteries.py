@@ -97,6 +97,7 @@ def build_new_mystery_file(mystery_data: dict, episode: str) -> str:
         "schema_version": "5.1",
         "id": f"MY_{slug}",
         "type": "mystery",
+        "title": re.sub(r"^ch\d{4}_", "", slug),
         "mystery_status": status,
         "timeline": timeline,
         "related_facts": mystery_data.get("related_facts", []),

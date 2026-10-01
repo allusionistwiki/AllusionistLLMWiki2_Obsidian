@@ -1,4 +1,5 @@
 ---
+title: "守護の九槍第五位"
 schema_version: '5.1'
 id: E_term_守護の九槍第五位
 type: entity

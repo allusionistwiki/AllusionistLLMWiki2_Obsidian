@@ -1,4 +1,5 @@
 ---
+title: "マリー・スー・ヘレゼクシュ"
 schema_version: '5.1'
 id: E_char_マリー・スー・ヘレゼクシュ
 type: entity

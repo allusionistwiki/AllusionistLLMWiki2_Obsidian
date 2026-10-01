@@ -1,4 +1,5 @@
 ---
+title: "観光客"
 schema_version: '5.1'
 id: E_char_観光客
 type: entity

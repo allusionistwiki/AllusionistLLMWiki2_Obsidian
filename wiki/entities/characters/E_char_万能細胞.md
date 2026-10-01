@@ -1,4 +1,5 @@
 ---
+title: "万能細胞"
 schema_version: "5.1"
 id: E_char_万能細胞
 type: entity

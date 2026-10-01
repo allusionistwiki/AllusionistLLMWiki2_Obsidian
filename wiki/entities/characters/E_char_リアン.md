@@ -1,4 +1,5 @@
 ---
+title: "リアン"
 schema_version: '5.1'
 id: E_char_リアン
 type: entity

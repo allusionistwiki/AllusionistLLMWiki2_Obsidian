@@ -1,4 +1,5 @@
 ---
+title: "ベル・ペリグランティア"
 schema_version: '5.1'
 id: E_char_ベル・ペリグランティア
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "空"
 schema_version: '5.1'
 id: E_term_空
 type: entity

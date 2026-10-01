@@ -1,4 +1,5 @@
 ---
+title: "Azuria_Herezekshu"
 schema_version: "5.1"
 id: MY_ch0027_Azuria_Herezekshu
 type: mystery

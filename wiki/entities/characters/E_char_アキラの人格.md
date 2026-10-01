@@ -1,4 +1,5 @@
 ---
+title: "アキラの人格"
 schema_version: "5.1"
 id: E_char_アキラの人格
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "azurelia_identity_color"
 schema_version: "5.1"
 id: MY_ch0039_azurelia_identity_color
 type: mystery

@@ -1,4 +1,5 @@
 ---
+title: "敵対勢力"
 schema_version: "5.1"
 id: E_char_敵対勢力
 type: entity

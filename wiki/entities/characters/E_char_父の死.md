@@ -1,4 +1,5 @@
 ---
+title: "父の死"
 schema_version: "5.1"
 id: E_char_父の死
 type: entity

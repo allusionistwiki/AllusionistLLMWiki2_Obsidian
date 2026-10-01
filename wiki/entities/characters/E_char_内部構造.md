@@ -1,4 +1,5 @@
 ---
+title: "内部構造"
 schema_version: "5.1"
 id: E_char_内部構造
 type: entity

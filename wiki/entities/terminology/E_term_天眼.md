@@ -1,4 +1,5 @@
 ---
+title: "天眼"
 schema_version: "5.1"
 id: E_term_天眼
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "夜月騎士団"
 schema_version: '5.1'
 id: E_char_夜月騎士団
 type: entity

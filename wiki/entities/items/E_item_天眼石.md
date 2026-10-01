@@ -1,4 +1,5 @@
 ---
+title: "天眼石"
 schema_version: "5.1"
 id: E_item_天眼石
 type: entity

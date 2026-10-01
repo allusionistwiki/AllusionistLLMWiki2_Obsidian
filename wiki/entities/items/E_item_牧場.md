@@ -1,4 +1,5 @@
 ---
+title: "牧場"
 schema_version: '5.1'
 id: E_item_牧場
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "クエスドレム"
 schema_version: '5.1'
 id: E_char_クエスドレム
 type: entity

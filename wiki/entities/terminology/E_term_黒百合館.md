@@ -1,4 +1,5 @@
 ---
+title: "黒百合館"
 schema_version: "5.1"
 id: E_term_黒百合館
 type: entity

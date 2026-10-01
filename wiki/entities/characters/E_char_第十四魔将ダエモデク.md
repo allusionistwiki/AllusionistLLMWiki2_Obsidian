@@ -1,4 +1,5 @@
 ---
+title: "第十四魔将ダエモデク"
 schema_version: '5.1'
 id: E_char_第十四魔将ダエモデク
 type: entity

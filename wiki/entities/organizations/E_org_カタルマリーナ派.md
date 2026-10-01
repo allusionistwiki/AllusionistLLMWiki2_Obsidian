@@ -1,4 +1,5 @@
 ---
+title: "カタルマリーナ派"
 schema_version: '5.1'
 id: E_org_カタルマリーナ派
 type: entity

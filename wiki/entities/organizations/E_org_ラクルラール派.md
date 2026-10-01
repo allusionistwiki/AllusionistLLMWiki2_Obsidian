@@ -1,4 +1,5 @@
 ---
+title: "ラクルラール派"
 schema_version: '5.1'
 id: E_org_ラクルラール派
 type: entity

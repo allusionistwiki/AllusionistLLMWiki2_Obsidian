@@ -1,4 +1,5 @@
 ---
+title: "端末"
 schema_version: '5.1'
 id: E_term_端末
 type: entity

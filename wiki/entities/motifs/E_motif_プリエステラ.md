@@ -1,4 +1,5 @@
 ---
+title: "プリエステラ"
 schema_version: '5.1'
 id: E_motif_プリエステラ
 type: entity

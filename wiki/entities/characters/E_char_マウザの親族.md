@@ -1,4 +1,5 @@
 ---
+title: "マウザの親族"
 schema_version: '5.1'
 id: E_char_マウザの親族
 type: entity

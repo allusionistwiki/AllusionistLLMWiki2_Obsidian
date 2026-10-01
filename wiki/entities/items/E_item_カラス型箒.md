@@ -1,4 +1,5 @@
 ---
+title: "カラス型箒"
 schema_version: '5.1'
 id: E_item_カラス型箒
 type: entity

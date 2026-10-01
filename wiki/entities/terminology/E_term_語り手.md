@@ -1,4 +1,5 @@
 ---
+title: "語り手"
 schema_version: '5.1'
 id: E_term_語り手
 type: entity

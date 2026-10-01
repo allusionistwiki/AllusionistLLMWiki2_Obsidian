@@ -1,4 +1,5 @@
 ---
+title: "奈落"
 schema_version: "5.1"
 id: E_char_奈落
 type: entity

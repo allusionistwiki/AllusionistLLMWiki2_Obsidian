@@ -1,4 +1,5 @@
 ---
+title: "猫の取り替え子"
 schema_version: '5.1'
 id: E_char_猫の取り替え子
 type: entity

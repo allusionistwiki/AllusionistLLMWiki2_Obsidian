@@ -1,4 +1,5 @@
 ---
+title: "巨漢"
 schema_version: '5.1'
 id: E_char_巨漢
 type: entity

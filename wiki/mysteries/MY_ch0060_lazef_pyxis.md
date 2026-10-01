@@ -1,4 +1,5 @@
 ---
+title: "lazef_pyxis"
 schema_version: "5.1"
 id: MY_ch0060_lazef_pyxis
 type: mystery

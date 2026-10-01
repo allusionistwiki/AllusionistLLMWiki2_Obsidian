@@ -1,4 +1,5 @@
 ---
+title: "戦場小説"
 schema_version: '5.1'
 id: E_term_戦場小説
 type: entity

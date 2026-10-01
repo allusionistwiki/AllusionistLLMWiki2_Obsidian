@@ -1,4 +1,5 @@
 ---
+title: "保険屋"
 schema_version: '5.1'
 id: E_org_保険屋
 type: entity

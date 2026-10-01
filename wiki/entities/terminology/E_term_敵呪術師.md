@@ -1,4 +1,5 @@
 ---
+title: "敵呪術師"
 schema_version: '5.1'
 id: E_term_敵呪術師
 type: entity

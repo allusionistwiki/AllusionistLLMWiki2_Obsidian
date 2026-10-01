@@ -1,4 +1,5 @@
 ---
+title: "地上"
 schema_version: "5.1"
 id: E_char_地上
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "岩壁"
 schema_version: '5.1'
 id: E_term_岩壁
 type: entity

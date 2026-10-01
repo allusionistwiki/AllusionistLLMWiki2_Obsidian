@@ -1,4 +1,5 @@
 ---
+title: "夜の民の司教"
 schema_version: '5.1'
 id: E_char_夜の民の司教
 type: entity

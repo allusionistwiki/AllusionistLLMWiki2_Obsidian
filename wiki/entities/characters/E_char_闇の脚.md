@@ -1,4 +1,5 @@
 ---
+title: "闇の脚"
 schema_version: "5.1"
 id: E_char_闇の脚
 type: entity

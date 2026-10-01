@@ -1,4 +1,5 @@
 ---
+title: "死人の森"
 schema_version: '5.1'
 id: E_term_死人の森
 type: entity

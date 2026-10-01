@@ -1,4 +1,5 @@
 ---
+title: "アストラル空間"
 schema_version: '5.1'
 id: E_term_アストラル空間
 type: entity

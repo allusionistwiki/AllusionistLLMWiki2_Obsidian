@@ -1,4 +1,5 @@
 ---
+title: "ドッグフード"
 schema_version: "5.1"
 id: E_char_ドッグフード
 type: entity

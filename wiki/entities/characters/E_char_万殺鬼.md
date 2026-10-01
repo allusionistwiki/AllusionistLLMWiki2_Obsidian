@@ -1,4 +1,5 @@
 ---
+title: "万殺鬼"
 schema_version: "5.1"
 id: E_char_万殺鬼
 type: entity

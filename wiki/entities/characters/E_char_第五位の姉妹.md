@@ -1,4 +1,5 @@
 ---
+title: "第五位の姉妹"
 schema_version: "5.1"
 id: E_char_第五位の姉妹
 type: entity

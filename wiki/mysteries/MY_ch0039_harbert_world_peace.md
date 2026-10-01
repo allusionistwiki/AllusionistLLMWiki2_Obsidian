@@ -1,4 +1,5 @@
 ---
+title: "harbert_world_peace"
 schema_version: "5.1"
 id: MY_ch0039_harbert_world_peace
 type: mystery

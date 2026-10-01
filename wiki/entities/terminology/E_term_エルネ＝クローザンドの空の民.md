@@ -1,4 +1,5 @@
 ---
+title: "エルネ＝クローザンドの空の民"
 schema_version: '5.1'
 id: E_term_エルネ＝クローザンドの空の民
 type: entity

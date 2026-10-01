@@ -1,4 +1,5 @@
 ---
+title: "大型車輌"
 schema_version: '5.1'
 id: E_item_大型車輌
 type: entity

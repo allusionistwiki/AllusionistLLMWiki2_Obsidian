@@ -1,4 +1,5 @@
 ---
+title: "万色彩星"
 schema_version: "5.1"
 id: E_term_万色彩星
 type: entity

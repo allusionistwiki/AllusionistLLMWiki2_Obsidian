@@ -1,4 +1,5 @@
 ---
+title: "第七位"
 schema_version: '5.1'
 id: E_char_第七位
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "ドルネイフ"
 schema_version: '5.1'
 id: E_char_ドルネイフ
 type: entity

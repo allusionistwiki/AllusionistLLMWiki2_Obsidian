@@ -1,4 +1,5 @@
 ---
+title: "観客"
 schema_version: '5.1'
 id: E_org_観客
 type: entity

@@ -1,4 +1,5 @@
 ---
+title: "紀元槍"
 schema_version: '5.1'
 id: E_term_紀元槍
 type: entity
