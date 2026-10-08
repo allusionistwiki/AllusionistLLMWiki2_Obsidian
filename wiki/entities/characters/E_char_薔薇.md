@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_薔薇
+type: entity
+subtype: character
+canonical_name: 薔薇
+title: "薔薇"
+first_appearance: ch0110
+spoiler_after: ch0110
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 薔薇
+
+フェロニアに薔薇を差し出し慰める一方で、薔薇を操って山賊の内側から血肉を飛散させるという残酷な能力を持つ。優しさと暴力性が同居する不気味な存在である。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0110 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 見れば、鮮やかな大花香月季が一輪、彼女の目の前に差し出されている。「美しい女性に沈んだ表情は似合わない――君は笑うべきだ。この薔薇のように」（ch0110）
+> カーインがぱちりと指を弾くと、音に呼応したかのように薔薇が散った。「醜く弱いのならば、せめて死に花だけは美しくしてあげよう」（ch0110）
+
+<!-- AUTO:END -->

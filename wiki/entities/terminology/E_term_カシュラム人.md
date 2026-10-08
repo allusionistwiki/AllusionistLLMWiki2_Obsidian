@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_term_カシュラム人
+type: entity
+subtype: terminology
+canonical_name: カシュラム人
+title: "カシュラム人"
+first_appearance: ch0106
+spoiler_after: ch0106
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# カシュラム人
+
+正式名称をカシュート＝ラームとする地域の人々。信仰を理解しない他者を蔑みと哀れみを込めて『マシュラム人』と呼ぶ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0106 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 次の舞台はカシュラム――正式にはカシュート＝ラームだけど、まあどっちでもいいか。（ch0106）
+> ゆえに、カシュラム人は彼らの信仰を理解しないものたちを蔑みと哀れみを込めて『マシュラム人』と呼ぶのだとか。（ch0106）
+
+<!-- AUTO:END -->

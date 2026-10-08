@@ -1,0 +1,28 @@
+---
+schema_version: "5.1"
+id: E_item_右腕
+type: entity
+subtype: item
+canonical_name: 右腕
+title: "右腕"
+first_appearance: ch0104
+spoiler_after: ch0104
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 右腕
+
+産み落とされた後、蛇のように移動して父親であるヴァージルに向かう右腕。手刀の形を作り呪文の文字を切り裂いたり、黒い本を閉じて投げつけたりするなどの行動をとる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0104 ｜ **観測イベント**: 3 件（1 話に出現）
+
+## 代表引用
+
+> 右腕は、それが産まれる原因となった父親の下に向かう。（ch0104）
+> それを、手刀の形を作った右腕が鮮やかに切り裂いていく。（ch0104）
+> 一振りの剣となって空中を乱舞する手刀は、全ての文字を引き裂いたかと思うと浮遊する黒い本を強引に掴んで閉じてしまう。（ch0104）
+
+<!-- AUTO:END -->
