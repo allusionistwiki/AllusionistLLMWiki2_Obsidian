@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_植民地支配_労働力
 title: 植民地労働力
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: history
 canonical_name: "植民地支配_労働力"
 domain: "World History"

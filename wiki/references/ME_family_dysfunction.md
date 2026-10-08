@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_family_dysfunction
 title: 機能不全家庭
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "family_dysfunction"
 domain: "Contemporary Culture"

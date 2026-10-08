@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_NPO_偽善
 title: NPO偽善
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "NPO_偽善"
 domain: "Contemporary Culture"

@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_source_code
 title: ソースコード
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "source_code"
 domain: "Contemporary Culture"

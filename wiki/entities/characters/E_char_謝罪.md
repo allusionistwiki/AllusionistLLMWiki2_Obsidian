@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_謝罪
+type: entity
+subtype: character
+canonical_name: 謝罪
+title: "謝罪"
+first_appearance: ch0017
+spoiler_after: ch0017
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 謝罪
+
+深夜に衝動的にアキラへ「ごめんなさい」というメールを送る行為であり、理由は明かされない。後にアキラの不調に気づけなかったことを悲痛な声で繰り返し謝罪する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0017 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 『ごめんなさい、ただ謝られても意味が分からないですね。（ch0017）
+> 「私が真っ先に気がつかないといけなかったのに、楽しくて、夢中になって、自分のことばっかり考えていて――最低だ、私。ごめんなさい、アキラ、本当に――」（ch0088）
+
+<!-- AUTO:END -->

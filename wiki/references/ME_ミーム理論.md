@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_ミーム理論
 title: ミーム理論
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: internet_culture
 canonical_name: "ミーム理論"
 domain: "Internet Culture"

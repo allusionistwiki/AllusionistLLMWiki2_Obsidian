@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_転生作品の転生概念
 title: 転生＝死の逆転
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "転生作品の転生概念"
 domain: "Contemporary Culture"

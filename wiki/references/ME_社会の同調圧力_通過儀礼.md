@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_社会の同調圧力_通過儀礼
 title: 同調圧力と通過儀礼
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "社会の同調圧力_通過儀礼"
 domain: "Contemporary Culture"

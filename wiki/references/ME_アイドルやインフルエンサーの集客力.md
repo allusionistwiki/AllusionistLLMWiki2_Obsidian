@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_アイドルやインフルエンサーの集客力
 title: インフルエンサー集客力
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "アイドルやインフルエンサーの集客力"
 domain: "Contemporary Culture"

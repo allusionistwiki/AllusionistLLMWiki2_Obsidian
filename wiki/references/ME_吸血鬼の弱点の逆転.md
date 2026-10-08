@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_吸血鬼の弱点の逆転
 title: 吸血鬼の弱点の逆転
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "吸血鬼の弱点の逆転"
 domain: "Contemporary Culture"

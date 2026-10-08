@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_セキュリティ対策
 title: セキュリティ対策
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "セキュリティ対策"
 domain: "Contemporary Culture"

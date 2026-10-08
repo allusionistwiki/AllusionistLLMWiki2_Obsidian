@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_組織の意向
 title: 組織の意向
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "組織の意向"
 domain: "Contemporary Culture"

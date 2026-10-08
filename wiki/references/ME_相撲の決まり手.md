@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_相撲の決まり手
 title: 相撲の決まり手
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "相撲の決まり手"
 domain: "Contemporary Culture"

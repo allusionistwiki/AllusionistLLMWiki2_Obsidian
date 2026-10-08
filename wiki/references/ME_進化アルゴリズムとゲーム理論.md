@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_進化アルゴリズムとゲーム理論
 title: 進化アルゴリズム
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "進化アルゴリズムとゲーム理論"
 domain: "Contemporary Consumer Culture"

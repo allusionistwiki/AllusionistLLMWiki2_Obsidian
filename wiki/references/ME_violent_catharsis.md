@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_violent_catharsis
 title: 暴力カタルシス
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "violent_catharsis"
 domain: "Contemporary Culture"

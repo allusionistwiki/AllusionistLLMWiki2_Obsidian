@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_認知バイアス・自己成就予言
 title: 認知バイアスと自己成就予言
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: psychology
 canonical_name: "認知バイアス・自己成就予言"
 domain: "Psychology"

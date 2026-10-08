@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_corporate_coverup
 title: 企業隠蔽
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "corporate_coverup"
 domain: "Contemporary Culture"

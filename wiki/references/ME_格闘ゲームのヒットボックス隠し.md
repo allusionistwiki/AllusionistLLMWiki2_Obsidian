@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_格闘ゲームのヒットボックス隠し
 title: 格闘ゲームのヒットボックス隠し
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "格闘ゲームのヒットボックス隠し"
 domain: "Contemporary Consumer Culture"

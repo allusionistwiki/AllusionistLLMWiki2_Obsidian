@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_利用規約への同意
 title: 利用規約への同意
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "利用規約への同意"
 domain: "Contemporary Culture"

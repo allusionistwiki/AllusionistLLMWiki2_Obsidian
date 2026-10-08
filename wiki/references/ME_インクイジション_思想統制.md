@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_インクイジション_思想統制
 title: 宗教裁判
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: philosophy
 canonical_name: "インクイジション_思想統制"
 domain: "Ethics & Philosophy"

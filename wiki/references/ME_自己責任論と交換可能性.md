@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_自己責任論と交換可能性
 title: 自己責任と交換可能性
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "自己責任論と交換可能性"
 domain: "Contemporary Culture"

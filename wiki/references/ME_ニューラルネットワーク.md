@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_ニューラルネットワーク
 title: ニューラルネットワーク
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: internet_culture
 canonical_name: "ニューラルネットワーク"
 domain: "Internet Culture"

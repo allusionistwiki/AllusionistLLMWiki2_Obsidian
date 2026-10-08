@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_academic_publishing
 title: 学術出版
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "academic_publishing"
 domain: "Contemporary Culture"

@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_ゲームのボス戦_パターン学習
 title: ボス戦攻略
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "ゲームのボス戦_パターン学習"
 domain: "Contemporary Consumer Culture"

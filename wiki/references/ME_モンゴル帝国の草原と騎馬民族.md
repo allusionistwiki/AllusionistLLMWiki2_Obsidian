@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_モンゴル帝国の草原と騎馬民族
 title: モンゴル騎馬民族
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "モンゴル帝国の草原と騎馬民族"
 domain: "Contemporary Culture"

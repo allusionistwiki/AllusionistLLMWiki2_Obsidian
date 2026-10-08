@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_同胞殺し
 title: 同胞殺し
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "同胞殺し"
 domain: "Contemporary Culture"

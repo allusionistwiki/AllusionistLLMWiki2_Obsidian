@@ -28,6 +28,11 @@ def main() -> None:
         args = [str(n) for n in range(lo, hi + 1)]
         r = subprocess.run([sys.executable, "scripts/pipeline.py", *args],
                            cwd=ROOT, check=False)
+        if r.returncode != 0:
+            # 失敗時は progress を進めず、即座に停止（continue すると
+            # 全チャンクが空振りして ALL DONE になる）
+            print(f"[chunk ch{lo:04d}-ch{hi:04d}] FAILED rc={r.returncode} — 停止", flush=True)
+            sys.exit(r.returncode)
         PROGRESS.write_text(str(hi), encoding="utf-8")
         print(f"[chunk ch{lo:04d}-ch{hi:04d}] pipeline rc={r.returncode}", flush=True)
         subprocess.run([sys.executable, "scripts/commit_all.py", "-m",

@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_知的財産権とライセンス
 title: 知的財産権
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "知的財産権とライセンス"
 domain: "Contemporary Culture"

@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_異世界転生_チート能力の宝の持ち腐れ
 title: チート能力の宝の持ち腐れ
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "異世界転生_チート能力の宝の持ち腐れ"
 domain: "Contemporary Culture"

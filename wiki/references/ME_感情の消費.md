@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_感情の消費
 title: 感情の消費
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "感情の消費"
 domain: "Contemporary Culture"

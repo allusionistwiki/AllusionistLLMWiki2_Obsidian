@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_hidden_variable_theory
 title: 隠れた変数理論
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "hidden_variable_theory"
 domain: "Contemporary Culture"

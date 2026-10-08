@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_デジタルデータ_完全削除
 title: データ完全削除
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "デジタルデータ_完全削除"
 domain: "Contemporary Culture"

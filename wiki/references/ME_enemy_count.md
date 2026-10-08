@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_enemy_count
 title: 敵数カウント
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "enemy_count"
 domain: "Contemporary Culture"

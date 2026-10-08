@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_ゲームの即死ループ
 title: 即死ループ
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "ゲームの即死ループ"
 domain: "Contemporary Consumer Culture"

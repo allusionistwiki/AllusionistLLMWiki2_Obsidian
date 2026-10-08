@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_言論統制
 title: 言論統制
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "言論統制"
 domain: "Contemporary Culture"

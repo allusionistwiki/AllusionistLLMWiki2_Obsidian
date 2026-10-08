@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_電子決済やデジタル通貨
 title: 電子決済
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "電子決済やデジタル通貨"
 domain: "Contemporary Culture"

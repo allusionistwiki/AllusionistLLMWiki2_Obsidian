@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_トラウマ・PTSD
 title: トラウマ・PTSD
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: psychology
 canonical_name: "トラウマ・PTSD"
 domain: "Psychology"

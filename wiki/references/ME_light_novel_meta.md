@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_light_novel_meta
 title: メタ小説
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "light_novel_meta"
 domain: "Contemporary Culture"

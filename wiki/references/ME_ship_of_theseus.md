@@ -2,10 +2,8 @@
 schema_version: "5.1"
 id: ME_ship_of_theseus
 title: テセウスの船
-
-
 type: external_reference
-created: "2026-10-01"
+created: "2026-10-08"
 subtype: popular_culture
 canonical_name: "ship_of_theseus"
 domain: "Contemporary Culture"
