@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_分散型ネットワーク・P2P通信
 title: 分散型ネットワーク
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: internet_culture
 canonical_name: "分散型ネットワーク・P2P通信"
 domain: "Internet Culture"

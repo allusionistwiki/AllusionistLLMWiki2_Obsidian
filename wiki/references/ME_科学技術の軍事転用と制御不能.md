@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_科学技術の軍事転用と制御不能
 title: 技術の軍事転用と暴走
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "科学技術の軍事転用と制御不能"
 domain: "Contemporary Culture"

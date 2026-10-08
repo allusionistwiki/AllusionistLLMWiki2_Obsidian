@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_技術移転と保護の取引
 title: 技術移転取引
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "技術移転と保護の取引"
 domain: "Contemporary Culture"

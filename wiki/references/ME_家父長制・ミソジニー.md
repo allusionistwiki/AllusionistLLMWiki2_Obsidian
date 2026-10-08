@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_家父長制・ミソジニー
 title: 家父長制・ミソジニー
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "家父長制・ミソジニー"
 domain: "Contemporary Culture"

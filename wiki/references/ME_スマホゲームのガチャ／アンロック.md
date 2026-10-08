@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_スマホゲームのガチャ／アンロック
 title: ガチャ・アンロック
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "スマホゲームのガチャ／アンロック"
 domain: "Contemporary Consumer Culture"

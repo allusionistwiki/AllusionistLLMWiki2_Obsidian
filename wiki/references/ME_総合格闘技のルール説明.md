@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_総合格闘技のルール説明
 title: 総合格闘技ルール
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "総合格闘技のルール説明"
 domain: "Contemporary Consumer Culture"

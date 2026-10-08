@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_term_氷血呪
+type: entity
+subtype: terminology
+canonical_name: 氷血呪
+title: "氷血呪"
+first_appearance: ch0145
+spoiler_after: ch0145
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 氷血呪
+
+トライデントへの奉仕や融血呪の代償に対抗し、自我を固定化するために必要な呪術。コルセスカの呪力に呼応して融血呪を中和する効果を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0145 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「クロウサーの奴隷、ラクルラールの奴隷、トライデントの奴隷。そんなものに甘んじる俺ではない。ならば『俺』を固定化する中和剤が必要だ――なるほど、それが氷血呪というわけか」（ch0145）
+> 「これが氷血呪の本来の使い方というわけだ――断片ではあるが『覚えた』ぞ」（ch0159）
+
+<!-- AUTO:END -->

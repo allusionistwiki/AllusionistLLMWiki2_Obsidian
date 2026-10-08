@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ゲームの戦闘システム_即死演出
 title: 即死演出
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "ゲームの戦闘システム_即死演出"
 domain: "Contemporary Consumer Culture"

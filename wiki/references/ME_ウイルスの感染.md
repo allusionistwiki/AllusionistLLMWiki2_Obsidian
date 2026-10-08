@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ウイルスの感染
 title: ウイルス感染
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "ウイルスの感染"
 domain: "Contemporary Culture"

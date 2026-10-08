@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_セーブ＆ロード
 title: セーブ＆ロード
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "セーブ＆ロード"
 domain: "Contemporary Culture"

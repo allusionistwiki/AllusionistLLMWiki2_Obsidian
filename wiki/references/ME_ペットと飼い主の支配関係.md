@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ペットと飼い主の支配関係
 title: ペットの支配関係
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "ペットと飼い主の支配関係"
 domain: "Contemporary Culture"

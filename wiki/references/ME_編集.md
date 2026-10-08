@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_編集
 title: 編集
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "編集"
 domain: "Contemporary Culture"

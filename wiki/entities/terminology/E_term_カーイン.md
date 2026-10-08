@@ -1,0 +1,31 @@
+---
+schema_version: "5.1"
+id: E_term_カーイン
+type: entity
+subtype: terminology
+canonical_name: カーイン
+title: "カーイン"
+first_appearance: ch0078
+spoiler_after: ch0078
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# カーイン
+
+その動きや表情は、サイバーカラテの予測を誘導するための『情報的牽制』として機能する。ワルシューラは、高位吸血鬼の眷族となった第二から第三世代の吸血鬼であると推測している。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0078 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 何もかもが情報の提示によってサイバーカラテの予測を誘導する為の『情報的牽制』である。（ch0078）
+> ワルシューラはこれまでに得られた情報から『高位吸血鬼の眷族となった第二から第三世代の吸血鬼』だと推測した。（ch0155）
+
+## 関連クレーム
+
+- [[A_ch0078_structurally_matches_E_ch0078_カーイン_has_property_情報的牽制_p2905_将棋の指し手による読み誘導|将棋の誘い手概念との一致]]
+
+<!-- AUTO:END -->

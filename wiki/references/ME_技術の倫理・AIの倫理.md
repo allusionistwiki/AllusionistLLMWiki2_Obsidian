@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_技術の倫理・AIの倫理
 title: 技術の倫理・AIの倫理
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: philosophy
 canonical_name: "技術の倫理・AIの倫理"
 domain: "Ethics & Philosophy"

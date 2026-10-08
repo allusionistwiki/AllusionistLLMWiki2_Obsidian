@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_英雄の自己満足_被害の無視
 title: 英雄の自己満足
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "英雄の自己満足_被害の無視"
 domain: "Contemporary Culture"

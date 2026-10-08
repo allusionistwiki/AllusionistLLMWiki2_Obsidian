@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_bricolage_vs_engineering
 title: ブリコラージュ
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "bricolage_vs_engineering"
 domain: "Contemporary Culture"

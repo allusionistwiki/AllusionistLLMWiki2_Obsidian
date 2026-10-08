@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_マルチメディアコンテンツの強制配信
 title: マルチメディア強制配信
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "マルチメディアコンテンツの強制配信"
 domain: "Contemporary Culture"

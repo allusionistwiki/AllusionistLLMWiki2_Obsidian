@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ネット世論
 title: ネット世論
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: internet_culture
 canonical_name: "ネット世論"
 domain: "Internet Culture"

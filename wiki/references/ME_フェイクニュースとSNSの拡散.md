@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_フェイクニュースとSNSの拡散
 title: フェイクニュース拡散
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: internet_culture
 canonical_name: "フェイクニュースとSNSの拡散"
 domain: "Internet Culture"

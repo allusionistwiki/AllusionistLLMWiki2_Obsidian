@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_cartel_and_market_manipulation
 title: カルテル・市場操作
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "cartel_and_market_manipulation"
 domain: "Contemporary Culture"

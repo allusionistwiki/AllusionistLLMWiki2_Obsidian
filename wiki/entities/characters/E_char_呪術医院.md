@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_呪術医院
+type: entity
+subtype: character
+canonical_name: 呪術医院
+title: "呪術医院"
+first_appearance: ch0155
+spoiler_after: ch0155
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 呪術医院
+
+半透明のシナモリアキラ『火車』が出現し、トリシューラのいる院長室へ進撃する舞台となる場所である。ヴァージルがその映像を確認し、予想外の状況に呆然とする対象ともなっている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0155 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 半透明のシナモリアキラ『火車』が出現し、増え続ける狂怖を従えて進撃を開始。（ch0155）
+> 戦況を把握すべく呪術医院の映像を表示したとたん、呆けた表情になって固まってしまう。（ch0155）
+
+<!-- AUTO:END -->

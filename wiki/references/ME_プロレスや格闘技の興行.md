@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_プロレスや格闘技の興行
 title: プロレス興行
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "プロレスや格闘技の興行"
 domain: "Contemporary Consumer Culture"

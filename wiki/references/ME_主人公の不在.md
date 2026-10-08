@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_主人公の不在
 title: 主人公不在
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "主人公の不在"
 domain: "Contemporary Culture"

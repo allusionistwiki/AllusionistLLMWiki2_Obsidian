@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_現代の経営自己啓発書
 title: 経営自己啓発書
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "現代の経営自己啓発書"
 domain: "Contemporary Culture"

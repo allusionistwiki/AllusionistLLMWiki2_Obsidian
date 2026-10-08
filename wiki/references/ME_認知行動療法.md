@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_認知行動療法
 title: 認知行動療法
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: psychology
 canonical_name: "認知行動療法"
 domain: "Psychology"

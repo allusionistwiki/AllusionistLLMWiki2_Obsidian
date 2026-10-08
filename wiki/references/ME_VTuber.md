@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_VTuber
 title: VTuber
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "VTuber"
 domain: "Contemporary Culture"

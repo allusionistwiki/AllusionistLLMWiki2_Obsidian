@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_紀人
+type: entity
+subtype: character
+canonical_name: 紀人
+title: "紀人"
+first_appearance: ch0141
+spoiler_after: ch0141
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 紀人
+
+闘争の昂ぶりの中で魂を球神に接近させ、半ば以上『紀人』に近づいた状態。どこでもない場所において、彼と彼女がいることでシナモリアキラが確かに存在していることを支える要素として描かれる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0141 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> （戦車の業――信じられない、ルバーブは今、闘争の昂ぶりの中でメルカバわざ魂を限りなく球神に接近させている。『行』によって紀元槍に到達ぎょうしようとしているんだ）（ch0141）
+> そこはどこでもないけれど、彼と彼女はいまここに。 紀人シナモリアキラは、確かに存在していた。（ch0156）
+
+<!-- AUTO:END -->

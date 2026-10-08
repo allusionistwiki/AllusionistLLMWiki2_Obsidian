@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_Text_Chat
 title: テキストチャット
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "Text_Chat"
 domain: "Contemporary Culture"

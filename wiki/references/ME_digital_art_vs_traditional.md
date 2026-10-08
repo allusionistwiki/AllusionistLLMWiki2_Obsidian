@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_digital_art_vs_traditional
 title: デジタルと伝統の境界
 type: external_reference
-created: "2026-10-08"
+created: "2026-10-09"
 subtype: popular_culture
 canonical_name: "digital_art_vs_traditional"
 domain: "Contemporary Culture"
