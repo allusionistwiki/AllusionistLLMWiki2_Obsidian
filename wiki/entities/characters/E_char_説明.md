@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_説明
+type: entity
+subtype: character
+canonical_name: 説明
+title: "説明"
+first_appearance: ch0140
+spoiler_after: ch0140
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 説明
+
+マラード王が混乱の中で求めた概念であり、兄弟関係の説明に苦戦する様子が見られる。自分自身とアイコンタクトで意思疎通を図るという特異な挙動を示す。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0140 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「待て、待ってくれ！　お前たちは一体何を言っている？！　何故こんなことが起きているのだ、誰か俺に説明してくれ！」（ch0140）
+> カーインは何かを期待するような目でマラードを見ていた。　思えばさっきからずっと、奇妙な五人の男たちはアルト・イヴニルというよりもマラードに対して語り掛けているようだった。（ch0243）
+
+<!-- AUTO:END -->

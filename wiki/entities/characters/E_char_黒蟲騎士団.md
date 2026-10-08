@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_黒蟲騎士団
+type: entity
+subtype: character
+canonical_name: 黒蟲騎士団
+title: "黒蟲騎士団"
+first_appearance: ch0210
+spoiler_after: ch0210
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 黒蟲騎士団
+
+蜻蛉翅を持つ眼鏡の長身男性を中心人物とする集団。人体を媒介に顕現し、支配力によって意識を掌握する能力を持つとされる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0210 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 一歩前に進み出たのは真ん中にいた眼鏡の男。特注らしき背広は縦のスリットと三枚布を固定するためのボタンを持ち、二対の蜻蛉翅が真横に向かって伸びている。（ch0210）
+> 人体を媒介に顕現するグレンデルヒ＝アルレッキーノは恐るべき支配力で黒蟲騎士団の意識を掌握しきっていた。（ch0243）
+
+<!-- AUTO:END -->

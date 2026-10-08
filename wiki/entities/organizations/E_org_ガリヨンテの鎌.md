@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_org_ガリヨンテの鎌
+type: entity
+subtype: organization
+canonical_name: ガリヨンテの鎌
+title: "ガリヨンテの鎌"
+first_appearance: ch0236
+spoiler_after: ch0236
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# ガリヨンテの鎌
+
+第八階層を中心に活動する武装商会であり、稲穂と根菜と鎌のシンボルを掲げている。ジュティアとミナが不自然な取引を行っていた相手である。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0236 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 『稲穂と根菜と鎌』というシンボルを掲げた飛行船が混ざっている。『ガリヨンテの鎌』という名で知られる、第八階層を中心に活動する武装商会の持ち物だった。（ch0236）
+> プーハニアの調べた情報によれば、ジュティアとミナの二人組は『ガリヨンテの鎌』という商会と不自然な取引を行っていたという。（ch0237）
+
+<!-- AUTO:END -->
