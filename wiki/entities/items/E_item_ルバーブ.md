@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_item_ルバーブ
+type: entity
+subtype: item
+canonical_name: ルバーブ
+title: "ルバーブ"
+first_appearance: ch0125
+spoiler_after: ch0125
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# ルバーブ
+
+ラフディ勢が披露した人参のケーキに甘く煮込んだ豆を埋め込む際に使用される食材である。オレンジの皮と混ぜたマーマレードとしておみやげにされる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0125 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 意外にもそれは人参のケーキ。色合いといい形といい素朴な感じで、綺麗な円形をしていた。平らな表面に埋め込まれているのは甘く煮込んだ豆。（ch0125）
+> （アキラくん、あれは大黄だよ。あるいは、この世界における大黄 ルバーブ に相当する植物かな。（ch0125）
+
+<!-- AUTO:END -->

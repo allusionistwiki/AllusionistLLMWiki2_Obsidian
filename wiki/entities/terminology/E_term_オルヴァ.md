@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_term_オルヴァ
+type: entity
+subtype: terminology
+canonical_name: オルヴァ
+title: "オルヴァ"
+first_appearance: ch0125
+spoiler_after: ch0125
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# オルヴァ
+
+手間のかかる煮込み料理の行程を早回しするために時空間操作の邪視を使用する技術である。左右の手から灰色の光を発生させる呪術として描写される。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0125 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> （オルヴァが使う時空間操作の邪視で、手間のかかる煮込みの行程とか早回ししてるみたいだよー。（ch0125）
+> オルヴァは料理の際、何故か左右の手から灰色の光と紫色の光を発生させていた。（ch0125）
+
+<!-- AUTO:END -->
