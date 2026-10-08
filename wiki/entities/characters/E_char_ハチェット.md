@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_ハチェット
+type: entity
+subtype: character
+canonical_name: ハチェット
+title: "ハチェット"
+first_appearance: ch0212
+spoiler_after: ch0212
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# ハチェット
+
+アレッシオの使い魔である少女で、軍歌を歌いながら手斧を投擲し、襲撃者を殺戮する。修道騎士たちはハチェットを新しい霊詞の歌姫（ボーカルフェアリー）だと噂し、その声に注目している。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0212 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 「おお、感謝します。やはり持つべきものは優秀な使い魔ですな」（ch0212）
+> 「あれ、新しい霊詞の歌姫じゃないのか」「あんなボカフェ見たことないぞ。マーチＰが新作ひっさげて祝祭で新しいコをお披露目するって噂は本当だったんだな」（ch0212）
+
+<!-- AUTO:END -->

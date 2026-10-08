@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_ケアヴ三世
+type: entity
+subtype: character
+canonical_name: ケアヴ三世
+title: "ケアヴ三世"
+first_appearance: ch0204
+spoiler_after: ch0204
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# ケアヴ三世
+
+夢馬としてアストラル界の底から悪夢を具現化し、ユディーアに精神汚染を与える存在。ゴーリーに心臓を貫かれ、呪いを炸裂させて撃破される。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0204 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> アストラル界の更に底、人類の無意識を反映した夢界と物質界が接続され、不条理な現象がこちら側に流出する。悪夢が具現する。（ch0204）
+> 背後から黒馬の心臓を貫いたゴーリーが裂帛の気合いを込めて叫んだ。右腕の刺青が禍々しい紫色に発光し、敵の体内で呪いを炸裂させる。（ch0204）
+
+<!-- AUTO:END -->

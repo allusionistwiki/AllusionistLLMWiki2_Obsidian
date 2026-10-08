@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_世界槍
+type: entity
+subtype: character
+canonical_name: 世界槍
+title: "世界槍"
+first_appearance: ch0073
+spoiler_after: ch0073
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 世界槍
+
+異獣の天使ハザーリャが海綿質の身体で出現し、融け合う対象。巨大な甲虫に取り憑かれ、腹に木製の時計を埋め込まれている状態も確認されている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0073 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 序列十三位――つまりは異獣の天使ハザーリャは深海を司ると言われている。細かい網目状の海綿質繊維によって構成された身体が次元を引き裂いて出現し（ch0073）
+> 世界槍に取り憑いた甲虫は、その腹に木製の時計を埋め込まれていた。（ch0208）
+
+<!-- AUTO:END -->

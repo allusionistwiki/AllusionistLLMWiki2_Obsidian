@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_王殺し
+type: entity
+subtype: character
+canonical_name: 王殺し
+title: "王殺し"
+first_appearance: ch0205
+spoiler_after: ch0205
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 王殺し
+
+依頼対象の暗殺者であり、動画配信者としてシェロンの弟子を自称する。アッシュカラーの髪を狼のようにセットし、犬歯を覗かせる美形の男。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0205 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> ティリビナ人が依頼したのは『王殺し』と呼ばれる当代一の人気暗殺者。動画配信者にして革命請負人。（ch0205）
+> 力強い狼を思わせるアッシュカラーの髪は丁寧にセットされている。（ch0205）
+
+<!-- AUTO:END -->
