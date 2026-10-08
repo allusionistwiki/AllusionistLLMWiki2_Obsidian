@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_マーブシュズール
+type: entity
+subtype: character
+canonical_name: マーブシュズール
+title: "マーブシュズール"
+first_appearance: ch0167
+spoiler_after: ch0167
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# マーブシュズール
+
+最古の夢占い師にして言語支配者として登場する。捧げられた夢を運用し、冷凍睡眠者に代わりの人生を与える役割を担っている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0167 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 最古の夢占い師にして言語支配者がひとり、マーブシュズール。（ch0167）
+> その言語支配者は捧げられた夢を参照し、夢すら見ないほど冷たく眠った自らの信徒たちに『夢見人』としての代わりの人生を与える。（ch0167）
+
+<!-- AUTO:END -->

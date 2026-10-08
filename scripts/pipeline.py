@@ -37,7 +37,9 @@ def run_fixers() -> None:
 
 
 def main() -> int:
-    args = [int(a) for a in sys.argv[1:]]
+    argv = sys.argv[1:]
+    no_fixers = "--no-fixers" in argv
+    args = [int(a) for a in argv if not a.startswith("--")]
     config = load_config()
     if not args:
         args = list(range(config["chapter_range"]["start"],
@@ -60,7 +62,8 @@ def main() -> int:
                 stages.append(f"{name}=ERR({e})")
         print(f"[ch{c:04d}] " + " ".join(stages), flush=True)
         results.append((c, stages))
-    run_fixers()
+    if not no_fixers:
+        run_fixers()
     print("=== 出力整形（fixers）完了。lint 確認: python scripts/lint.py --severity error ===")
     return 0
 

@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_爆破
+type: entity
+subtype: character
+canonical_name: 爆破
+title: "爆破"
+first_appearance: ch0046
+spoiler_after: ch0046
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 爆破
+
+最初の爆破で命を落とす出来事。理知的な少女が身体の内側から爆破され、バラバラになって発見される惨劇として描かれる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0046 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 最初の爆破で命を落としたのは、あの夜の民の司教、群青様だった。（ch0046）
+> 危険だと周囲が止めるのも聞かずにそう言った理知的な少女は、後に身体の内側から爆破されてバラバラになっているところを発見された。（ch0169）
+
+<!-- AUTO:END -->
