@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_通信
+type: entity
+subtype: character
+canonical_name: 通信
+title: "通信"
+first_appearance: ch0001
+spoiler_after: ch0001
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 通信
+
+サポートセンターとの連絡手段であり、アキラによって意図的に途切れさせられたり、戦場からの呼びかけが無視されたりする。作中では、外部との接続を遮断する行為や、特定の通信を素知らぬ顔で無視する行動が描かれている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0001 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> その場しのぎの言葉のつもりだったが、どういうわけか現実になってしまったようだ。音が途切れ途切れになったかと思うと、そのままぷつりと消えてしまった。（ch0001）
+> 端末に『戦場に戻れ』という旨の通信が入るが、帽子のアヴロノは素知らぬ顔で無視（ch0181）
+
+<!-- AUTO:END -->
