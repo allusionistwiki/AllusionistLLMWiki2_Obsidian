@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_パーン・ガレニス・クロウサー
+type: entity
+subtype: character
+canonical_name: パーン・ガレニス・クロウサー
+title: "パーン・ガレニス・クロウサー"
+first_appearance: ch0124
+spoiler_after: ch0124
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# パーン・ガレニス・クロウサー
+
+外交を闘争と捉え、文化を用いた戦いが始まっていると王たちに説く人物である。空の競技場を一条の稲妻のように駆け抜け、圧倒的な速度で飛翔する能力を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0124 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「いいか、外交という名の闘争は既に始まっているのだ。文化という武器を用いての戦いがな。（ch0124）
+> 空の競技場を一条の稲妻が駆け抜けていく。 他を圧倒する速度での飛翔。（ch0137）
+
+<!-- AUTO:END -->

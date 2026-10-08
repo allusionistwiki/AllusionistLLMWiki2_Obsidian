@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_org_黄獣騎士団
+type: entity
+subtype: organization
+canonical_name: 黄獣騎士団
+title: "黄獣騎士団"
+first_appearance: ch0100
+spoiler_after: ch0100
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 黄獣騎士団
+
+虎頭の男率いる獣たちと、虫たちが整然と隊伍をなして対立・揉めている存在である。屈強な獣人が多い特徴を持ち、石像兵を翻弄し大地の民たちを蹴散らす戦闘力を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0100 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「ほう。またしても【黄獣騎士団】は【黒蟲騎士団】と揉めているのですか。全く、困った連中ですな」（ch0100）
+> 屈強な獣人の多い【黄獣騎士団】と機動力に優れる【黒蟲騎士団】が石像兵を翻弄し、大地の民たちを蹴散らしている。（ch0135）
+
+<!-- AUTO:END -->

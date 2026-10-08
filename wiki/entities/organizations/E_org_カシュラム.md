@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_org_カシュラム
+type: entity
+subtype: organization
+canonical_name: カシュラム
+title: "カシュラム"
+first_appearance: ch0107
+spoiler_after: ch0107
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# カシュラム
+
+オルヴァの絶望から天変地異が起き、黒蛇と炎によって王国が滅亡する運命にある。マラード陛下への恋心（邪恋）により、内部から放火し国を滅ぼす要因ともなっている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0107 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> カシュラムは滅亡した。炎は九日九晩に渡って王国を焼き尽くし、巨大な黒蛇が人々を喰らった。（ch0107）
+> カシュラムの領地が、炎上している。こちらの兵が火をつけたのではない。内側から、カシュラム人たちが自ら放火したのである。（ch0136）
+
+<!-- AUTO:END -->
