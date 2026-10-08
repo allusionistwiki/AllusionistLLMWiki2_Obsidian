@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_賢者
+type: entity
+subtype: character
+canonical_name: 賢者
+title: "賢者"
+first_appearance: ch0153
+spoiler_after: ch0153
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 賢者
+
+紫の王が不在の席を埋めるため、純粋な機能として招かれた存在。世界を愛する歌や憎む怨嗟、そして異物の呼び声を聞く役割を担っている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0153 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 紫は賢者として招かれた。不在の席を埋めるため、必要とされたのは紫という色彩。彼は純粋な機能としてその力を振るった。（ch0153）
+> 世界を愛する歌が聞こえる。輝く黄金のような美しい魂の歌が。世界を憎む怨嗟が聞こえる。割れた鏡のような醜い心の呪いが。それはこの世界には在らざる異物の呼び声だ。（ch0153）
+
+<!-- AUTO:END -->

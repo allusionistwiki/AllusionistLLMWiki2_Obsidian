@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_term_アルマ
+type: entity
+subtype: terminology
+canonical_name: アルマ
+title: "アルマ"
+first_appearance: ch0141
+spoiler_after: ch0141
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# アルマ
+
+侮蔑の言葉で敵の注意を引きつけ、熟練した前衛としての技術を見せる。背の高いものから破壊する術「神の怒り《ナチュラルディザスター》」を使用する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0141 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「は、情けない。ラフディの戦士っていうのはその程度？ そんなんじゃトントロポロロンズだって平気で跳ね返せるよ」 【嘲弄】の呪術だ。（ch0141）
+> 稲妻の雨が塔を次々と破壊。ちびシューラによればこの【神の怒り《ナチュラルディザスター》】という術は背の高いものから順番に破壊していくらしい。（ch0144）
+
+<!-- AUTO:END -->

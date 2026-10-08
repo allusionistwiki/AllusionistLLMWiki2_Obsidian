@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_term_聖婚
+type: entity
+subtype: terminology
+canonical_name: 聖婚
+title: "聖婚"
+first_appearance: ch0095
+spoiler_after: ch0095
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 聖婚
+
+神との交合を模倣し豊穣を祝福する古代の演劇の一形態である儀式である。マラードを強制的に支配・隷属・同化させるための儀式として開始されるなど、支配と隷属の文脈で用いられる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0095 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> その名を、『聖婚』と言う。 ハザーリャの大いなる神体と聖婚を行う女王クレナリーザは、本来ならば神殿であり宮殿でもあるヒュールサスの中心で一身に尊敬を集めるはずだった。（ch0095）
+> 残酷なまでの束縛と支配。 アレッテの邪眼が爛々と輝き、紅紫に世界が染まる。 そして、それは始まった。「聖婚」（ch0145）
+
+<!-- AUTO:END -->

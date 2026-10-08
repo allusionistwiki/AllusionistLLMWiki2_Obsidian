@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_term_小鬼
+type: entity
+subtype: terminology
+canonical_name: 小鬼
+title: "小鬼"
+first_appearance: ch0153
+spoiler_after: ch0153
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 小鬼
+
+繁殖を通じて世界を歪め、汚染する存在。宇宙300秒前仮説のような世界観を持ち、過去を改竄できる能力を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0153 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 「世界の変貌は奴の『繁殖』が原因だ。奴らは異常な速さでぽこぽこ増えて自分の世界を広げる。個体として次を繋ぐのではない。自己を複製し、世界そのものが繁殖するのだ」（ch0153）
+> 「『宇宙３００秒前仮説』という世界観を内面化した異形どもだよ。種族的平均値としてはおよそ３００秒まで時間を遡って事象を改竄できる。たとえ完全に死んでいてもな」（ch0153）
+
+<!-- AUTO:END -->
