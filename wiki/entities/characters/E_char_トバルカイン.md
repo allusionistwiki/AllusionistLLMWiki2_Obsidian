@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_トバルカイン
+type: entity
+subtype: character
+canonical_name: トバルカイン
+title: "トバルカイン"
+first_appearance: ch0119
+spoiler_after: ch0119
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# トバルカイン
+
+旧カインとも呼ばれる骨狼であり、ルウテトに擦り寄り、母なる女王として懐いている。シナモリアキラの絶命に関連する場面にも登場する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0119 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 装甲に包まれた頭部が、宙を舞う。 頭部を粉砕され、首から上を失ったシナモリアキラは、ここに絶命した。（ch0119）
+> 傍をついてくる骨狼のカイン――いや、今は新たな名を得たトバルカインがカチカチと鳴き声を上げてルウテトに擦り寄っていく。やはり母なる女王に良く懐いている。（ch0121）
+
+<!-- AUTO:END -->
