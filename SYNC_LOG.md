@@ -2,6 +2,7 @@
 
 | vault commit | work commit | 日付 | 内容 |
 |:---|:---|:---|:---|
+| 8d58d7c0 | 7aee206 | 2026-10-08 | ch0104-ch0113 解析（events/facts/analysis/autopilot） |
 | 5d18d7f6 | 641c238 | 2026-10-08 | ch0094-ch0103 解析（events/facts/analysis/autopilot） |
 | c732c6c4 | d6b6e26 | 2026-10-08 | ch0084-ch0093 解析（events/facts/analysis/autopilot） |
 | d72ecd7 | 6353715 | 2026-10-02 | episodes summary frontmatter から E_relation_ 参照を除去（relationship 統合廃止の残響）— lint 3207 files passed |
