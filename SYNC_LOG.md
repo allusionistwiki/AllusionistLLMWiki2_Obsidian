@@ -2,6 +2,7 @@
 
 | vault commit | work commit | 日付 | 内容 |
 |:---|:---|:---|:---|
+| 5d18d7f6 | 641c238 | 2026-10-08 | ch0094-ch0103 解析（events/facts/analysis/autopilot） |
 | c732c6c4 | d6b6e26 | 2026-10-08 | ch0084-ch0093 解析（events/facts/analysis/autopilot） |
 | d72ecd7 | 6353715 | 2026-10-02 | episodes summary frontmatter から E_relation_ 参照を除去（relationship 統合廃止の残響）— lint 3207 files passed |
 | 9ca91af | 6745014 | 2026-10-02 | Wiki 修正（ch0083 確定）: merge_to_canonical の relationship 統合を無効化（E_relation_* 廃止）+ ch0084 残骸完全除去 + arc_definitions 死リンク解消 + 死リンク行除去 + 表示層再生成 |
