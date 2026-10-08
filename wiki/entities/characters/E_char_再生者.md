@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_再生者
+type: entity
+subtype: character
+canonical_name: 再生者
+title: "再生者"
+first_appearance: ch0064
+spoiler_after: ch0064
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 再生者
+
+天の御殿から舞い降りる死霊と虚空の泡を接触させることで、実体を持った存在として甦らせる現象である。死人との交合により、腹を突き破って赤子として生み出されることもある。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0064 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 天の御殿から舞い降りる死霊と虚空に浮かび上がる泡がガルズの周囲に浮かぶ。 死霊と泡が接触すると、死霊は実体を持った存在となり、確かな形でこの世に甦っていく。 再生者――甦った者。（ch0064）
+> 血と苦痛に塗れた交合により、急速に女王の腹が膨らみ、腹部を突き破って赤子が生まれてくる。（ch0095）
+
+<!-- AUTO:END -->
