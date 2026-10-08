@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_謎の少年
+type: entity
+subtype: character
+canonical_name: 謎の少年
+title: "謎の少年"
+first_appearance: ch0191
+spoiler_after: ch0191
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 謎の少年
+
+女のように見える男子用制服の少年で、クレイのそばに現れる。星の海を広げ、宇宙的光景によって空間を押し広げ、盗賊たちをクレイから引き離す。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0191 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> いつのまに出現していたのだろう、どこか女のようにも見える、男子用制服を着た少年がクレイのそばで星の海を広げている。（ch0191）
+> クレイを守るように立ちはだかった謎の少年により阻まれた。彼が広げる宇宙的光景が空間を押し広げると、クレイとの距離はどんどん離れていくばかりでちっとも縮まろうとしない。（ch0191）
+
+<!-- AUTO:END -->

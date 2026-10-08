@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_org_民衆
+type: entity
+subtype: organization
+canonical_name: 民衆
+title: "民衆"
+first_appearance: ch0191
+spoiler_after: ch0191
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 民衆
+
+レイに死者を葬る資格を与えてほしいと嘆願した集団である。レイが愛を捨て、父との愛を拒絶し母との愛も捨てたと非難した。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0191 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 「どうか私に死者たちを葬る資格を与えて下さい、王よ！ 何故あなたの法はかくも苛烈なのですか。私たちの内なる法と慈悲の心は嘆き叫んでおります」（ch0191）
+> 「父との愛を拒絶し、母との愛までも捨てるというなら、その証を法の剣で示せ」（ch0191）
+
+<!-- AUTO:END -->
