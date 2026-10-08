@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_疎外感
+type: entity
+subtype: character
+canonical_name: 疎外感
+title: "疎外感"
+first_appearance: ch0108
+spoiler_after: ch0108
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 疎外感
+
+レオとカーインの間に自分が入り込めない関係性を感じ、独占欲に近い感情を抱く。少女は見た目が違うため同世代の子供たちから異端として疎まれており、疎外感を感じている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0108 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> なんだろうこの疎外感。 特にレオは、こう、俺の方が先に縁を持っていたはずなのに――というか何だこの感情。独占欲か。（ch0108）
+> 見た目が違う。それゆえに同世代の子供たちから異端として疎まれていた少女にとっての数少ない友達。（ch0228）
+
+<!-- AUTO:END -->

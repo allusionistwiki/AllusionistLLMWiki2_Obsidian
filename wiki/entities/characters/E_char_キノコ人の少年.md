@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_キノコ人の少年
+type: entity
+subtype: character
+canonical_name: キノコ人の少年
+title: "キノコ人の少年"
+first_appearance: ch0227
+spoiler_after: ch0227
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# キノコ人の少年
+
+掃除屋として知られるキノコ人の少年であり、同族の少年をライラへの寝返り（裏切り）として糾弾する。エリカが掌から稲妻を迸らせて攻撃しようとする対象となる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0227 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 「『掃除屋』、まさかお前がライラ・ラプスに寝返るなんてな！　エリカ様への恩義を忘れる不忠者め！」（ch0227）
+> 傲慢な顕花が罵り声を上げ、銀フードの女が掌から稲妻を迸らせ（ch0227）
+
+<!-- AUTO:END -->

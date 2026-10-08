@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_item_携帯端末
+type: entity
+subtype: item
+canonical_name: 携帯端末
+title: "携帯端末"
+first_appearance: ch0140
+spoiler_after: ch0140
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 携帯端末
+
+ガロアンディアンへの敵意表明として技術機器が破壊される。地面に落ちた携帯端末が「あなたは正式なテストユーザーに選ばれました」という音を響かせる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0140 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> ある者は携帯端末や応援用の拡声器を破壊して見せた。技術力を誇りとするガロアンディアンとトリシューラに対する敵意の表明。（ch0140）
+> 地面に落ちた携帯端末が、奇妙な音を響かせている。「おめでとうございます。あなたは正式なテストユーザーに選ばれました」（ch0228）
+
+<!-- AUTO:END -->
