@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_冥府下り
+type: entity
+subtype: character
+canonical_name: 冥府下り
+title: "冥府下り"
+first_appearance: ch0262
+spoiler_after: ch0262
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 冥府下り
+
+空使いの称号継承のため、血族の中から名乗り出た者たちが決行する行為である。クリーナーは死を統べる魔導書の力を用い、飛翔から墜落へのシームレスな変遷を経てこれを開始した。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0262 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 血族の中から我こそがと名乗り出た者たちが空使いの称号を受け継ぐために冥府下りを決行した。（ch0262）
+> 一方で死を統べる魔導書から力を借りているクリーナーはますますその速度を増してトップ集団へと迫っていく。（ch0264）
+
+<!-- AUTO:END -->
