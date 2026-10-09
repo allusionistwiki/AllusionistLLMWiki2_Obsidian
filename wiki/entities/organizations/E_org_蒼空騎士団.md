@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_org_蒼空騎士団
+type: entity
+subtype: organization
+canonical_name: 蒼空騎士団
+title: "蒼空騎士団"
+first_appearance: ch0135
+spoiler_after: ch0135
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 蒼空騎士団
+
+空から呪術による爆撃を行う航空戦力として活動している組織である。配下の翼竜騎士の半数以上が死亡し、不敗の誇りが崩壊する事態に直面している。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0135 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 航空戦力である【蒼空騎士団】が膜構造の翼を広げて飛翔し、空から呪術による爆撃を行っている。（ch0135）
+> 配下の翼竜騎士たちも半数以上が岩塊の上で骸を晒すか、あるいは果ての無い空の下へと墜ちていくかしていた。見るも無残な壊滅。それがかつてガロアンディアンの空で不敗を誇った蒼空騎士団の末路だ。（ch0252）
+
+<!-- AUTO:END -->

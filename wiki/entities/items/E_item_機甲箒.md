@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_item_機甲箒
+type: entity
+subtype: item
+canonical_name: 機甲箒
+title: "機甲箒"
+first_appearance: ch0210
+spoiler_after: ch0210
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 機甲箒
+
+担いで歩行する道具であり、負圧で穢れを吸引しエアフィルターで聖俗を分離する簡易聖別によって飛翔する。移動手段として機能するとともに、聖俗を分離する機構を備えている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0210 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 機甲箒を担いで歩くミルーニャにお礼を言う。（ch0210）
+> あらゆる機甲箒は原則として『浄化』によって飛翔している。送風機により負圧を作り出して『穢れ』を吸引、エアフィルターで『聖俗』を分離する簡易聖別を実行、作り出された簡易浄界の呪力を展開して飛翔。（ch0250）
+
+<!-- AUTO:END -->

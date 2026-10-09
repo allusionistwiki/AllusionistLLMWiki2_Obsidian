@@ -56,37 +56,49 @@ def phase1(c: int, config: dict, client, schema) -> tuple[int, str]:
 
 
 def main() -> None:
-    argv = [int(a) for a in sys.argv[1:]]
+    argv = sys.argv[1:]
+    if argv and argv[0] == "--only":
+        chapters = [int(x) for x in argv[1].split(",")]
+        run_chunk(chapters)
+        print("REDO DONE", flush=True)
+        return
     config = load_config()
     start = 0
     if PROGRESS.exists():
         start = int(PROGRESS.read_text(encoding="utf-8").strip() or 0)
-    start = (argv[0] if len(argv) >= 1 else start + 1)
-    end = argv[1] if len(argv) >= 2 else END_DEFAULT
+    start = (int(argv[0]) if len(argv) >= 1 else start + 1)
+    end = int(argv[1]) if len(argv) >= 2 else END_DEFAULT
     print(f"開始: ch{start:04d}（progress 完了 {PROGRESS.read_text() if PROGRESS.exists() else 0}）", flush=True)
-    schema = load_schema("event.schema.json")
-    client = create_client(config)
     for lo in range(start, end + 1, CHUNK):
         hi = min(lo + CHUNK - 1, end)
-        chapters = list(range(lo, hi + 1))
-        with ThreadPoolExecutor(max_workers=WORKERS) as ex:
-            results = list(ex.map(lambda c: phase1(c, config, client, schema), chapters))
-        failed = [c for c, line in results if "ERR" in line]
-        # Phase2: autopilot は逐列（共有正規層への書き込み）
-        for c in chapters:
-            try:
-                autopilot_process(c, config, client)
-            except Exception as e:
-                print(f"[ch{c:04d}] autopilot=ERR({e})", flush=True)
-                failed.append(c)
-        run_fixers()
-        PROGRESS.write_text(str(hi), encoding="utf-8")
-        print(f"[chunk ch{lo:04d}-ch{hi:04d}] done (failed: {failed})", flush=True)
-        subprocess.run([sys.executable, "scripts/commit_all.py", "-m",
-                        f"ch{lo:04d}-ch{hi:04d} 解析（章並列4: events/facts/analysis 並列 + autopilot 逐列）"],
-                       cwd=ROOT, check=False)
-        print(f"[chunk ch{lo:04d}-ch{hi:04d}] committed", flush=True)
+        run_chunk(list(range(lo, hi + 1)))
     print("ALL DONE", flush=True)
+
+
+def run_chunk(chapters: list[int]) -> None:
+    config = load_config()
+    schema = load_schema("event.schema.json")
+    client = create_client(config)
+    lo, hi = chapters[0], chapters[-1]
+    with ThreadPoolExecutor(max_workers=WORKERS) as ex:
+        results = list(ex.map(lambda c: phase1(c, config, client, schema), chapters))
+    failed = [c for c, line in results if "ERR" in line]
+    # Phase2: autopilot は逐列（共有正規層への書き込み）
+    for c in chapters:
+        try:
+            autopilot_process(c, config, client)
+        except Exception as e:
+            print(f"[ch{c:04d}] autopilot=ERR({e})", flush=True)
+            failed.append(c)
+    run_fixers()
+    if lo == hi + 1 - len(chapters) and lo <= (int(PROGRESS.read_text()) if PROGRESS.exists() else 0) + 1:
+        # 連続チャンクのときだけ progress を進める
+        PROGRESS.write_text(str(hi), encoding="utf-8")
+    print(f"[chunk ch{lo:04d}-ch{hi:04d}] done (failed: {failed})", flush=True)
+    subprocess.run([sys.executable, "scripts/commit_all.py", "-m",
+                    f"ch{lo:04d}-ch{hi:04d} 解析（章並列4: events/facts/analysis 並列 + autopilot 逐列）"],
+                   cwd=ROOT, check=False)
+    print(f"[chunk ch{lo:04d}-ch{hi:04d}] committed", flush=True)
 
 
 if __name__ == "__main__":

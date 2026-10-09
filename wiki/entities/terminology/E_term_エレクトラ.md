@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_term_エレクトラ
+type: entity
+subtype: terminology
+canonical_name: エレクトラ
+title: "エレクトラ"
+first_appearance: ch0245
+spoiler_after: ch0245
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# エレクトラ
+
+個々の加速ロジックによる世界色の違いを観察し、呪文妨害の可能性を推測する現象。音速を超えた宣名圧を発生させ、レナリアを牽制する効果を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0245 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 「個々の加速ロジックに由来する世界色の違い。詳細な性質が把握できれば呪文による妨害が可能になるかもしれません。推測できますか？」（ch0245）
+> 音速を超えた『ユディーア』という宣名が大気を振るわせてレナリアに到達するよりも先に『己の中の自己への確信』だけを抽出・加速して宣名圧を発生させた。（ch0245）
+
+<!-- AUTO:END -->
