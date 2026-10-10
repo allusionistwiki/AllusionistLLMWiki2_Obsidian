@@ -57,6 +57,33 @@ ANALYSIS_SYSTEM_PROMPT = """
 """
 
 
+def _to_items(result) -> list[dict]:
+    """LLM 出力の正規化: items キー / claims+mysteries+themes 分割 dict / 素の配列 / 単一 dict に対応.
+
+    UD 無検閲モデルは {"claims":[...], "mysteries":[...], "themes":[...]} の
+    dict で返すことがあり、旧コードだと dict ごと1件として扱われ
+    analysis が 1 件（claims=1）に潰れていた。kind を補って平坦化する。
+    """
+    if isinstance(result, list):
+        return [i for i in result if isinstance(i, dict)]
+    if not isinstance(result, dict):
+        return []
+    if "items" in result and isinstance(result["items"], list):
+        return [i for i in result["items"] if isinstance(i, dict)]
+    items: list[dict] = []
+    kind_map = {"claims": "claim", "mysteries": "mystery", "themes": "theme"}
+    for key, kind in kind_map.items():
+        arr = result.get(key)
+        if isinstance(arr, list):
+            for it in arr:
+                if isinstance(it, dict):
+                    it.setdefault("kind", kind)
+                    items.append(it)
+    if items:
+        return items
+    return [result] if result else []
+
+
 def build_event_digest(events: list[dict]) -> str:
     lines = []
     for e in events:
@@ -99,9 +126,7 @@ def analyze_chapter(chapter_num: int, config: dict, client) -> dict | None:
     content = session.chat(ask, json_mode=True)
     content = strip_code_fence(content)
     result = parse_json_lenient(content, 1)
-    items = result.get("items", result) if isinstance(result, dict) else result
-    if not isinstance(items, list):
-        items = [items] if isinstance(items, dict) else []
+    items = _to_items(result)
 
     # quote 原文照合（機械ゲート）
     raw_norm = norm_text(raw_text)
