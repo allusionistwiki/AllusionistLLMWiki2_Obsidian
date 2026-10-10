@@ -2,6 +2,7 @@
 
 | vault commit | work commit | 日付 | 内容 |
 |:---|:---|:---|:---|
+| 788a984a | aaaee23 | 2026-10-11 | autopilot 審査バグ修正（json_object 厳格モードの空応答で全件reject→lenient主経路へ）に伴う 21 話再審査・昇格（ch0041,0118,0143,0147,0172,0187,0197,0200,0202,0214,0220,0225,0226,0229,0234,0246,0254,0258,0263,0268,0272）+ 表示層再生成 |
 | 644e84e1 | ea2f4aa | 2026-10-11 | E_relation 死リンク恒久修正: merge_episodes.py で relationship 型を除外 + episodes 15ファイルの残存参照除去。E_org_Frozen/Torch 入れ子ファイル修正（merge_to_canonical でスラッシュ→_、参照は E_org_Frozen_Torch に統一）。Lint 5318 files passed |
 | d28f9a24 | eeecb4e | 2026-10-11 | 品質リカバリー完了（無検閲サーバー+analysis 1件バグ修正）: 全272話 events/facts/analysis 揃い、薄い成果物0。表示層再生成（集計/エンティティ/関係性マップ/公開インデックス） |
 | ed40bc43 | 42ffefe | 2026-10-10 | ch0226-ch0272 解析（章並列4: events/facts/analysis 並列 + autopilot 逐列） |

@@ -1,0 +1,28 @@
+=== autopilot redo start: 21 話 [41, 118, 143, 147, 172, 187, 197, 200, 202, 214, 220, 225, 226, 229, 234, 246, 254, 258, 263, 268, 272]
+ch0041 done
+ch0118 done
+ch0143 done
+ch0147 done
+ch0172 done
+ch0187 done
+ch0197 done
+ch0200 done
+ch0202 done
+ch0214 done
+ch0220 done
+ch0225 done
+ch0226 done
+ch0229 done
+ch0234 done
+ch0246 done
+ch0254 done
+ch0258 done
+ch0263 done
+ch0268 done
+ch0272 done
+scripts/merge_all.py rc=0:  / ✅ すべての変換が完了しました
+scripts/shorten_titles.py rc=0: クレーム短題: +9（累計 1122） / frontmatter 書込: ME 918 件, クレーム 1106 件
+scripts/build_entities.py rc=0:   言葉: 4 /   モチーフ: 6
+scripts/build_relationship_map.py rc=0: 関係エッジ: 40（元三つ組 4456）、キャラページ注入 224 件
+scripts/build_public_index.py rc=1:            ~~~~~^^^^^^^^^^ / IndexError: string index out of range
+scripts/lint.py --severity error rc=1: チェックファイル数: 5547 / エラーあり: 236
