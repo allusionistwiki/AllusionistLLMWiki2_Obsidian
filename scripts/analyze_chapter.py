@@ -128,6 +128,29 @@ def analyze_chapter(chapter_num: int, config: dict, client) -> dict | None:
     result = parse_json_lenient(content, 1)
     items = _to_items(result)
 
+    # フォールバック: セッション方式（digest のみ）では原文の重い章が 1 件に潰れることがある。
+    # 原文を直接添付した単発呼び出しを最大3回試す（ch0197 実測: 1件/15件/1件 — 温度ゆらぎで
+    # 当たりを引ける。ch0222: 1件→14件）。2件以上取れたら打ち切り。
+    if len(items) < 2:
+        from llm_client import call_llm
+        ask_direct = (f"以下が {chapter} の原文です。抽出済みのイベント一覧（SPO）を添付します:\n\n"
+                      f"{raw_text}\n\n{digest}\n\n"
+                      f"この {chapter} に対して、タスク1（アナロジー最低5件）・タスク2（伏線候補全部）"
+                      "・タスク3（主題候補を複数・重み付き）を JSON 配列で出力してください。")
+        for attempt in range(3):
+            try:
+                retry = strip_code_fence(call_llm(client, config, ask_direct,
+                                                  system_prompt=ANALYSIS_SYSTEM_PROMPT,
+                                                  json_mode=True))
+                retry_items = _to_items(parse_json_lenient(retry, 1))
+            except Exception as e:
+                print(f"[{chapter}] direct retry {attempt+1} 失敗: {e}")
+                continue
+            if len(retry_items) > len(items):
+                items = retry_items
+            if len(items) >= 2:
+                break
+
     # quote 原文照合（機械ゲート）
     raw_norm = norm_text(raw_text)
     verified = 0
