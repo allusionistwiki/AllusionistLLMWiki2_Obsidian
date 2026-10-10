@@ -1,0 +1,28 @@
+---
+schema_version: "5.1"
+id: E_char_トロメリア
+type: entity
+subtype: character
+canonical_name: トロメリア
+title: "トロメリア"
+first_appearance: ch0200
+spoiler_after: ch0200
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# トロメリア
+
+存在感が希薄だが印象に残る若い男として現れ、カーインの首筋に骨の剣を押し当てる。特務魔将であり、暴君ビシャマルの魔術師団時代から暗躍している。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0200 ｜ **観測イベント**: 3 件（3 話に出現）
+
+## 代表引用
+
+> 軽薄な口調で言うのは若い男だった。（ch0200）
+> いや、既に侵食は終わっていたのだ。クレイが矢面に立って戦っている間、トロメリアは密かに相手の浄界を改竄する下準備を済ませていた。（ch0202）
+> トロメリア：特務魔将。暴君ビシャマルの魔術師団時代から暗躍中。（ch0232）
+
+<!-- AUTO:END -->
