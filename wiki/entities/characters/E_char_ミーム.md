@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_ミーム
+type: entity
+subtype: character
+canonical_name: ミーム
+title: "ミーム"
+first_appearance: ch0234
+spoiler_after: ch0234
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# ミーム
+
+SNS上でシナモリアキラ同士の握手画像が自作自演としてミーム化し、コルセスカが遺憾の意を表明する騒ぎを引き起こした現象である。リーナの台詞も面白おかしく加工され、事後捏造のフェイク映像を通じて大流行し、呪文として用いられるようになった。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0234 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 何故かシナモリアキラとシナモリアキラが握手をして自作自演の和解をするシーンがミーム化。（ch0234）
+> それはもはや呪文として用いられていた。主に反対意見を根拠不在のまま否定するために。（ch0264）
+
+<!-- AUTO:END -->
