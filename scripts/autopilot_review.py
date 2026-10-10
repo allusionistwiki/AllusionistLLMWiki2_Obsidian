@@ -60,7 +60,7 @@ def load_analysis(chapter: str) -> dict | None:
     return yaml.safe_load(p.read_text(encoding="utf-8"))
 
 
-def review_items(client, config, chapter: str, items: list[dict]) -> list[dict]:
+def review_items(client, config: dict, chapter: str, items: list[dict]) -> list[dict]:
     compact = []
     for i, it in enumerate(items):
         compact.append({
@@ -73,20 +73,24 @@ def review_items(client, config, chapter: str, items: list[dict]) -> list[dict]:
         })
     user = (f"以下は {chapter} の分析提案です。審査してください:\n\n"
             + json.dumps(compact, ensure_ascii=False, indent=1))
-    content = client.chat.completions.create(
-        model=config["llm"]["model"],
-        messages=[{"role": "system", "content": REVIEW_SYSTEM_PROMPT},
-                  {"role": "user", "content": user}],
-        temperature=0.1, max_tokens=config["llm"].get("max_tokens", 64000),
-        response_format={"type": "json_object"},
-        extra_body={"chat_template_kwargs": {"enable_thinking": False}},
-    ).choices[0].message.content
-    content = strip_code_fence(content)
-    result = parse_json_lenient(content, 1)
-    verdicts = result.get("reviews", result) if isinstance(result, dict) else result
-    if not isinstance(verdicts, list):
-        verdicts = []
-    return verdicts
+    from llm_client import call_llm
+    verdicts: list[dict] = []
+    # 厳格 json_object モードはモデルの JSON 崩れで 502（structured_output_failed）になるうえ、
+    # 成功時も verdict 配列が空になる実測あり。lenient な通常呼び出しを主経路にし、
+    # parse_json_lenient で救う（ch0222: lenient で 14/14 件揃うことを実測）。
+    for attempt in range(3):
+        content = None
+        try:
+            content = call_llm(client, config, user,
+                               system_prompt=REVIEW_SYSTEM_PROMPT, json_mode=False)
+        except Exception as e:
+            print(f"[{chapter}] review 呼び出し失敗({e}) retry {attempt+1}")
+            continue
+        result = parse_json_lenient(strip_code_fence(content), 1)
+        verdicts = result.get("reviews", result) if isinstance(result, dict) else result
+        if isinstance(verdicts, list) and verdicts:
+            return verdicts
+    return []
 
 
 def slug(s: str) -> str:
