@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_暗がり
+type: entity
+subtype: character
+canonical_name: 暗がり
+title: "暗がり"
+first_appearance: ch0096
+spoiler_after: ch0096
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 暗がり
+
+光の射さぬ暗がりから蜂蜜色の髪と灰色の瞳を持つ少女セレスが現れ、グレンデルヒに反論した場所である。他者の存在に依存する使い魔の気配が消えると、暗がりからの声も途絶える。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0096 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> だがそのとき。 光の射し込まぬ暗がり、空間の片隅からじわりと染み出すようにして、何者かの影がその場に現れた。（ch0096）
+> 暗がりから声が途絶える。他者の存在に依存する使い魔の気配が消えていく。（ch0225）
+
+<!-- AUTO:END -->
