@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_殺人鬼
 type: entity
 subtype: character
 canonical_name: 殺人鬼
-title: "殺人鬼"
+title: 殺人鬼
 first_appearance: ch0123
 spoiler_after: ch0123
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 殺人鬼
@@ -27,3 +28,12 @@ created: "2026-09-30"
 > 「なにあれ。オリジナルちゃんっぽさ皆無じゃね？ しかもアミアウィズ使ってるしオルヴァの名前呼んでるし。ぼーとくっしょ。（ch0150）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「カジュアルな殺しってのはさぁ、つまり命の価値を肉と一緒に解体する行為なんだよね。これが俺のスタイルでファッション。
+- **unknown**: 「なにあれ。オリジナルちゃんっぽさ皆無じゃね？ しかもアミアウィズ使ってるしオルヴァの名前呼んでるし。ぼーとくっしょ。
+- **unknown**: シナモリアキラっつーか、その劣化コピー的な？ オリジナルちゃんマジリスペクトしてるわけよ。
+
+<!-- /AUTO-GENERATED:speech -->

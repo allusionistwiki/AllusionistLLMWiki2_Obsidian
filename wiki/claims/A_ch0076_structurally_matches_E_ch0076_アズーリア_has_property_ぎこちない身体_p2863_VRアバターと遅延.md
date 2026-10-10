@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0076_structurally_matches_E_ch0076_アズーリア_has_property_ぎこちない身体_p2863_VRアバターと遅延
 title: VRアバターと遅延
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0076_アズーリア_has_property_ぎこちない身体_p2863]]"

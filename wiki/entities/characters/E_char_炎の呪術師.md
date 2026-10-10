@@ -1,5 +1,5 @@
 ---
-title: "炎の呪術師"
+title: 炎の呪術師
 schema_version: '5.1'
 id: E_char_炎の呪術師
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0008
 spoiler_after: ch0008
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 炎の呪術師
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「ようこそ。そして死ね」
 - **unknown**: 「ようこそ。そして死ね」
 - **unknown**: 「ようこそ。そして死ね」
 - **unknown**: 「ようこそ。そして死ね」

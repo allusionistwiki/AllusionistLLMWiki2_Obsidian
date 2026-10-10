@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0052_analogous_to_E_ch0052_アズーリア_remembers_長老の教え_p2053_social_conformity
 title: 同調圧力の内面化
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_アズーリア_remembers_長老の教え_p2053]]"

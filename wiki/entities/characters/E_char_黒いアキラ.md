@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_黒いアキラ
 type: entity
 subtype: character
 canonical_name: 黒いアキラ
-title: "黒いアキラ"
+title: 黒いアキラ
 first_appearance: ch0184
 spoiler_after: ch0184
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 黒いアキラ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 「ばぶー」 赤子アキラへの転生。『老いては子に従え』という直前の呪文を逆手にとった戦術である。（ch0184）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「ばぶー」 赤子アキラへの転生。『老いては子に従え』という直前の呪文を逆手にとった戦術である。
+
+<!-- /AUTO-GENERATED:action -->

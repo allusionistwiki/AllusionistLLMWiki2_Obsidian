@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_歌姫_other_洗脳_p2638_アルゴリズムによる情報フィルタリング
 title: アルゴリズム誘導による洗脳
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_歌姫_other_洗脳_p2638]]"

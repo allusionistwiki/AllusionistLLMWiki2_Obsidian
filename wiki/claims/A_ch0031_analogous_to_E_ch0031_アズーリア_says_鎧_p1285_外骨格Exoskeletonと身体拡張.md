@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0031_analogous_to_E_ch0031_アズーリア_says_鎧_p1285_外骨格Exoskeletonと身体拡張
 title: 外骨格と身体拡張
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0031_アズーリア_says_鎧_p1285]]"

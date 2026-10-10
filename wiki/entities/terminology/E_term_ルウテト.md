@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ルウテト
 type: entity
 subtype: terminology
 canonical_name: ルウテト
-title: "ルウテト"
+title: ルウテト
 first_appearance: ch0121
 spoiler_after: ch0121
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ルウテト
@@ -28,3 +29,10 @@ created: "2026-09-30"
 > 「私ね、妊娠してるの」（ch0192）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「私ね、妊娠してるの」
+
+<!-- /AUTO-GENERATED:action -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_fears_レオ_p1207_権威への畏怖
 title: 上位権威への畏怖による戦意喪失
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_fears_レオ_p1207]]"

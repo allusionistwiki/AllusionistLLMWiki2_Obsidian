@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_黒い魔導書
 type: entity
 subtype: item
 canonical_name: 黒い魔導書
-title: "黒い魔導書"
+title: 黒い魔導書
 first_appearance: ch0061
 spoiler_after: ch0061
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 黒い魔導書
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > すると手の中に収まっていた黒い魔導書が輝き、するべきことを教えてくれた。意識を盤上の一か所に集中させる。するとより詳細な下界の様子を知覚することができ、他の大量の情報が意識から消えていく。（ch0269）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: すると手の中に収まっていた黒い魔導書が輝き、するべきことを教えてくれた。意識を盤上の一か所に集中させる。するとより詳細な下界の様子を知覚することができ、他の大量の情報が意識から消えていく。
+
+<!-- /AUTO-GENERATED:action -->

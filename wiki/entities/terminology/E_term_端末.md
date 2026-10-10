@@ -1,5 +1,5 @@
 ---
-title: "端末"
+title: 端末
 schema_version: '5.1'
 id: E_term_端末
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0013
 spoiler_after: ch0013
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 端末
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: この世界における端末とは、通信と情報処理の役割を果たす小型の機器のことを指します。
 - **unknown**: この世界における端末とは、通信と情報処理の役割を果たす小型の機器のことを指します。
 - **unknown**: この世界における端末とは、通信と情報処理の役割を果たす小型の機器のことを指します。
 - **unknown**: この世界における端末とは、通信と情報処理の役割を果たす小型の機器のことを指します。

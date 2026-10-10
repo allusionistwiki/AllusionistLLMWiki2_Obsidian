@@ -1,0 +1,39 @@
+---
+schema_version: '5.1'
+id: E_org_ハグレス
+type: entity
+title: ハグレス
+subtype: organization
+canonical_name: ハグレス
+aliases: []
+first_appearance: ch0234
+spoiler_after: ch0234
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# ハグレス
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: もう片方は黒衣や虹の弓持つ若者など、良く知られているゼオーティアの神々に次々と姿を変える個体。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「ミシャルヒとカーズガンは僕からのプレゼントだ。上手く使ってほしい」
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「おかげで首尾よく絡みつけた。持つべきものは友達だね。君たちが幽月から来訪したあの時、共存を選択した僕は賢明だった」
+- **unknown**: 「その認識は改めるべきだよ、ダウザール。ソルダは『守護の九槍』に代わる新たな戦力を準備している。『金鎖騎士団』という妙な集団だ」
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_使い魔
 type: entity
 subtype: terminology
 canonical_name: 使い魔
-title: "使い魔"
+title: 使い魔
 first_appearance: ch0035
 spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 使い魔
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > そうした在り方は主従の間に強い結びつきを生み、原始的な『使い魔』としての形が成立する。時に、その絆の深さは家族にも匹敵するほどだ。（ch0262）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: そうした在り方は主従の間に強い結びつきを生み、原始的な『使い魔』としての形が成立する。時に、その絆の深さは家族にも匹敵するほどだ。
+- **unknown**: だが『使い魔』の真髄は『人間関係』だ。 関係性を結ぶ相手が強く在る必要はない。選択肢の多さも強さのひとつ。
+
+<!-- /AUTO-GENERATED:symbolic -->

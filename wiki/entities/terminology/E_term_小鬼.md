@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_小鬼
 type: entity
 subtype: terminology
 canonical_name: 小鬼
-title: "小鬼"
+title: 小鬼
 first_appearance: ch0153
 spoiler_after: ch0153
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 小鬼
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「『宇宙３００秒前仮説』という世界観を内面化した異形どもだよ。種族的平均値としてはおよそ３００秒まで時間を遡って事象を改竄できる。たとえ完全に死んでいてもな」（ch0153）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「世界の変貌は奴の『繁殖』が原因だ。奴らは異常な速さでぽこぽこ増えて自分の世界を広げる。個体として次を繋ぐのではない。自己を複製し、世界そのものが繁殖するのだ」
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「『宇宙３００秒前仮説』という世界観を内面化した異形どもだよ。種族的平均値としてはおよそ３００秒まで時間を遡って事象を改竄できる。たとえ完全に死んでいてもな」
+
+<!-- /AUTO-GENERATED:speech -->

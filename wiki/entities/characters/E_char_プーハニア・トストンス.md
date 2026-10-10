@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_プーハニア・トストンス
 type: entity
 subtype: character
 canonical_name: プーハニア・トストンス
-title: "プーハニア・トストンス"
+title: プーハニア・トストンス
 first_appearance: ch0214
 spoiler_after: ch0214
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # プーハニア・トストンス
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 「多分な。俺の予想じゃ、この祝祭でまた増えるね。入れ替わりもあるかもな」（ch0214）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 呪具いじりが得意とはなんとも意外ではあるが、何でもそのむかし違法な箒レースに関わっていた頃に覚えた特技らしい。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ブルドッグ頭の虹犬は、当日になって箒の整備係兼ボディガードを買って出てくれたプーハニア・トストンスという『公社』所属の『おまわりさん』である。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「へえ。そいつは例の『智神の盾』の典礼総監様ってやつかい」
+- **unknown**: 「俺に言わせりゃ抜け道だらけの宣誓さ。殺し合いと戦争が禁止ってだけ。誓ってる対象がシナモリアキラなんだぜ？　むしろ喧嘩は推奨ってな。
+- **unknown**: 「多分な。俺の予想じゃ、この祝祭でまた増えるね。入れ替わりもあるかもな」
+
+<!-- /AUTO-GENERATED:speech -->

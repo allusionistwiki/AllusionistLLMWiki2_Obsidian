@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0028_parodies_E_ch0028_契約者_fights_武将_p1233_戦国武将の英雄譚
 title: 戦国英雄譚の消費対象化
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0028_契約者_fights_武将_p1233]]"

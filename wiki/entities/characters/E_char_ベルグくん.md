@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ベルグくん
 type: entity
 subtype: character
 canonical_name: ベルグくん
-title: "ベルグくん"
+title: ベルグくん
 first_appearance: ch0087
 spoiler_after: ch0087
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ベルグくん
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 見上げるように巨大な藍色の呪動装甲。巨大なピコハン『忘却』を振り回すことで人類の集合無意識にアクセスし、あらゆるものを夢の底から忘却させる。紀人であろうと容赦なく存在ごと打ち砕くその猛攻に、さしものゼドも必死で回避せざるを得ない。（ch0194）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 見上げるように巨大な藍色の呪動装甲。巨大なピコハン『忘却』を振り回すことで人類の集合無意識にアクセスし、あらゆるものを夢の底から忘却させる。紀人であろうと容赦なく存在ごと打ち砕くその猛攻に、さしものゼドも必死で回避せざるを得ない。
+- **unknown**: 不可視化を解除された魔女の下僕が、彼女の前に出て盾となったのだ。　「レッテにひどいことをするな！」　それは、片手で抱えられるような、とても小さな人形だった。　角の丸い、可愛らしい意匠の甲冑に丸盾、そして玩具の槌で重武装した戦士。
+
+<!-- /AUTO-GENERATED:action -->

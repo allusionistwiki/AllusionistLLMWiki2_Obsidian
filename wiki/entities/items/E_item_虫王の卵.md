@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_虫王の卵
 type: entity
 subtype: item
 canonical_name: 虫王の卵
-title: "虫王の卵"
+title: 虫王の卵
 first_appearance: ch0208
 spoiler_after: ch0208
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 虫王の卵
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 「『単独では』というのはどういう意味だ？」「資格のある者が『虫王の卵』を用いれば、理性を有した邪神が復活するとのことです。」（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「彼によると、ントゥガ族の至宝である『虫王の卵』は単独では破壊衝動を発散するだけの自律型使い魔でしかなく、時間経過で呪力が枯渇すれば自壊するとのことです」
+- **unknown**: 「『単独では』というのはどういう意味だ？」「資格のある者が『虫王の卵』を用いれば、理性を有した邪神が復活するとのことです。」
+
+<!-- /AUTO-GENERATED:speech -->

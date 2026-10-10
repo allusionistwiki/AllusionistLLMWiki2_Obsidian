@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アーザノエル
 type: entity
 subtype: character
 canonical_name: アーザノエル
-title: "アーザノエル"
+title: アーザノエル
 first_appearance: ch0120
 spoiler_after: ch0120
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アーザノエル
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「あなたがアーザノエルか」「私の棲み家にようこそ。歓迎する、品森晶」（ch0120）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 赤い髪、緑の瞳、黒銀の躯体、そして良く観察すれば半身たる氷の少女に似ているとわかる顔の造作。普段の明るさを取り払った無表情と口調からは、より姉に似た面影が覗いているように見えた。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「あなたがアーザノエルか」「私の棲み家にようこそ。歓迎する、品森晶」
+
+<!-- /AUTO-GENERATED:speech -->

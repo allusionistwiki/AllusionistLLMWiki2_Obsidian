@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ジュティア＆ミナ
 type: entity
 subtype: character
 canonical_name: ジュティア＆ミナ
-title: "ジュティア＆ミナ"
+title: ジュティア＆ミナ
 first_appearance: ch0218
 spoiler_after: ch0218
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ジュティア＆ミナ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 「ここで予選三位のペアが参戦！ ダンジョンで磨いた実戦派！ カレルヘインの妖精鍛冶が生み出したとんでもないモンスターマシンを引っ提げて、かつての九英雄パーティ『潤い広場』の二番隊隊長と副隊長というベテラン探索者が殴り込み！ ジュティア＆ミナ（ch0233）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「ここで予選三位のペアが参戦！ ダンジョンで磨いた実戦派！ カレルヘインの妖精鍛冶が生み出したとんでもないモンスターマシンを引っ提げて、かつての九英雄パーティ『潤い広場』の二番隊隊長と副隊長というベテラン探索者が殴り込み！ ジュティア＆ミナ！」
+
+<!-- /AUTO-GENERATED:visual -->

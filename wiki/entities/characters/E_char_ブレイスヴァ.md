@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ブレイスヴァ
 type: entity
 subtype: character
 canonical_name: ブレイスヴァ
-title: "ブレイスヴァ"
+title: ブレイスヴァ
 first_appearance: ch0096
 spoiler_after: ch0096
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ブレイスヴァ
@@ -35,3 +36,10 @@ created: "2026-09-30"
 - [[E_char_オルヴァ|オルヴァ]] — 発言(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 大いなる女王は母のようであり妻のようでもあり、オルヴァに原初の安寧を思い起こさせた。
+
+<!-- /AUTO-GENERATED:symbolic -->

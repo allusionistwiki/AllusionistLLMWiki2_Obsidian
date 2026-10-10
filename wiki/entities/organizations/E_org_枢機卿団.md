@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_枢機卿団
 type: entity
 subtype: organization
 canonical_name: 枢機卿団
-title: "枢機卿団"
+title: 枢機卿団
 first_appearance: ch0196
 spoiler_after: ch0196
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 枢機卿団
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「由々しき事態だな。よもや第八世界槍の認識封鎖を破られるなど。揺り籠の掌握にも失敗し、過日は第一階層に魔将の侵入を許す始末。君が槍の裔でなければ既にその任を解かれているところだぞ」（ch0196）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 少年――『松明の騎士団』を統べるソルダ・アーニスタは槍神教全ての頂点に立つ『教皇機関』の補佐組織・枢機卿団の呼び出しを受けていた。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「由々しき事態だな。よもや第八世界槍の認識封鎖を破られるなど。揺り籠の掌握にも失敗し、過日は第一階層に魔将の侵入を許す始末。君が槍の裔でなければ既にその任を解かれているところだぞ」
+
+<!-- /AUTO-GENERATED:speech -->

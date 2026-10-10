@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_システム
 type: entity
 subtype: terminology
 canonical_name: システム
-title: "システム"
+title: システム
 first_appearance: ch0149
 spoiler_after: ch0149
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # システム
@@ -28,3 +29,27 @@ created: "2026-09-30"
 > 対象識別コード『絡新婦』の追跡調査を継続する。（ch0149）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 対象識別コード『鵺』の追跡調査を継続する。
+- **unknown**: 対象識別コード『大入道』の追跡調査を継続する。
+- **unknown**: 対象識別コード『鎌鼬』の追跡調査を継続する。
+- **unknown**: 対象識別コード『百々目鬼』の追跡調査を継続する。
+- **unknown**: 対象識別コード『絡新婦』の追跡調査を継続する。
+- **unknown**: 対象識別コード『鬼』の追跡調査を継続する。
+- **unknown**: 対象識別コード『塗壁』の追跡調査を継続する。
+- **unknown**: 対象識別コード『子泣き爺』の追跡調査を継続する。
+- **unknown**: 対象識別コード『件』の追跡調査を継続する。
+- **unknown**: 対象識別コード『九尾』の追跡調査を不本意ながら継続せざるを得ない。
+- **unknown**: 対象識別コード『大蛇』の来訪を歓迎する。待ってたよ、私のプロトタイプ・アキラ姫。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『ユーザー名の登録を確認』をいう文字列が空中に明滅し、立体幻像が次々とその形を変えていく。『アカウント移行に伴う引継ぎ』という文字列に意識をフォーカスさせると、隣のアバターも同じ作業を行っている最中だった。
+
+<!-- /AUTO-GENERATED:speech -->

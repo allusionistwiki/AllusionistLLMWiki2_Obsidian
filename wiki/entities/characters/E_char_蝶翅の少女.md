@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_蝶翅の少女
 type: entity
 subtype: character
 canonical_name: 蝶翅の少女
-title: "蝶翅の少女"
+title: 蝶翅の少女
 first_appearance: ch0005
 spoiler_after: ch0005
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 蝶翅の少女
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 「第五階層の治安は世界最悪だし！　ヤバイサイボーグとか胡散臭い格闘家とかが世界の至宝である美少年を狙ってて目障りだから何とかして欲しいし！　あと美少年売春の合法化はよ。とーぜん全部独占で」（ch0186）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「第五階層の治安は世界最悪だし！　ヤバイサイボーグとか胡散臭い格闘家とかが世界の至宝である美少年を狙ってて目障りだから何とかして欲しいし！　あと美少年売春の合法化はよ。とーぜん全部独占で」
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_セロナ
 type: entity
 subtype: character
 canonical_name: セロナ
-title: "セロナ"
+title: セロナ
 first_appearance: ch0191
 spoiler_after: ch0191
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # セロナ
@@ -28,3 +29,11 @@ created: "2026-09-30"
 > セロナをぶん殴ったのは俺だった。球体ドローンから唐突に生えてきた左腕が勝手に動いていたのだ。（ch0195）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 今回の異変で第五階層だけではなく、各階層の『緑』が本格的に目覚め始めます。第八世界槍ティルブ＝ユグドラシルの再生を目指して、ね」
+- **unknown**: 「凍結状態にあるアルメ＝アーニスタの前世体――あれを仇敵であるティリビナ人と巨人は血眼になって探していますが、僕はその所在を掴んでいます」
+
+<!-- /AUTO-GENERATED:speech -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0012_analogous_to_E_ch0012_ちびシューラ_other_アキラ_p561_harem_game
 title: ハーレムゲームへの権力構造風刺
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_ちびシューラ_other_アキラ_p561]]"

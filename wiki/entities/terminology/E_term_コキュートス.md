@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_コキュートス
 type: entity
 subtype: terminology
 canonical_name: コキュートス
-title: "コキュートス"
+title: コキュートス
 first_appearance: ch0131
 spoiler_after: ch0131
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # コキュートス
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > かすかに、氷の右腕が共鳴しているのを感じた。彼女の浄界、『コキュートス』が活性化している気配も。（ch0161）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 【コキュートス】がゲームという形式に落とし込んでしまったこの『戦争』は、決められたルールに則ったものであるため『無法』とは受け取られない。ゆえに、第五階層の物質創造能力はルールに従って戦う限り剥奪されず
+
+<!-- /AUTO-GENERATED:symbolic -->

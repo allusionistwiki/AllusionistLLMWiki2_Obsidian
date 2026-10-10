@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_アルマ
 type: entity
 subtype: terminology
 canonical_name: アルマ
-title: "アルマ"
+title: アルマ
 first_appearance: ch0141
 spoiler_after: ch0141
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アルマ
@@ -28,3 +29,17 @@ created: "2026-09-30"
 > 「ありがとう。なんかごめん。前世で大変なのは同じなのに、私ばっかり頼っちゃって」（ch0180）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 同時に、アルマの目の前で何もかもが音もなく停止した。 正確には、彼女が前方に伸ばした手から発生している不可視の力場によって強制的に動きを止められているのだ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「は、情けない。ラフディの戦士っていうのはその程度？ そんなんじゃトントロポロロンズだって平気で跳ね返せるよ」 【嘲弄】の呪術だ。
+
+<!-- /AUTO-GENERATED:speech -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0056_analogous_to_E_ch0056_ドラトリア_other_本国と北部_p2166_ナショナリズムと移民排斥
 title: ナショナリズムと移民排斥の分断
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_ドラトリア_other_本国と北部_p2166]]"

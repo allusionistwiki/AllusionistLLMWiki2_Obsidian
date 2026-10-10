@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0055_structurally_matches_E_ch0055_ジル_other_夜の民_p2133_bricolage_vs_engineering
 title: ブリコラージュとエンジニアリングの対比
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0055_ジル_other_夜の民_p2133]]"

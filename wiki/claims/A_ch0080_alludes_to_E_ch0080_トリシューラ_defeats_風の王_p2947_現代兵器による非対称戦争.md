@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0080_alludes_to_E_ch0080_トリシューラ_defeats_風の王_p2947_現代兵器による非対称戦争
 title: 非対称戦争の転写
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_トリシューラ_defeats_風の王_p2947]]"

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_悪鬼
 type: entity
 subtype: character
 canonical_name: 悪鬼
-title: "悪鬼"
+title: 悪鬼
 first_appearance: ch0239
 spoiler_after: ch0239
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 悪鬼
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 無神論を主張する黒曜石の槍が偽神の誘惑を跳ねのけ、使い魔の凝視水牛が悪鬼の群れを地に這わせる。（ch0239）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 通路を曲がった先、絶叫の発生源らしき病室に殺到しているのは夥しい数の悪鬼の群れ。
+
+<!-- /AUTO-GENERATED:action -->

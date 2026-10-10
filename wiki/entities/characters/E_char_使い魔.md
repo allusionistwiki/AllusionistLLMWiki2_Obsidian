@@ -1,6 +1,6 @@
 ---
-title: "使い魔"
-schema_version: "5.1"
+title: 使い魔
+schema_version: '5.1'
 id: E_char_使い魔
 type: entity
 subtype: character
@@ -9,7 +9,8 @@ first_appearance: ch0022
 spoiler_after: ch0022
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 使い魔
@@ -39,3 +40,17 @@ created: "2026-09-30"
 - [[E_char_ハルベルト|ハルベルト]] — 使用(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 人形姫の前に立ちはだかった二つの影によって。一つは血塗れの全身甲冑姿、一つは全身を暗がりに隠した長衣姿。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「レッテを傷つける奴は」「許さないぞ！」
+
+<!-- /AUTO-GENERATED:speech -->

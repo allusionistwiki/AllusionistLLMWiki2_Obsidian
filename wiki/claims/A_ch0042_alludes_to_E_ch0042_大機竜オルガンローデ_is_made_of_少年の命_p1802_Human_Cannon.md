@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0042_alludes_to_E_ch0042_大機竜オルガンローデ_is_made_of_少年の命_p1802_Human_Cannon
 title: 少年命の人間砲弾化
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_大機竜オルガンローデ_is_made_of_少年の命_p1802]]"

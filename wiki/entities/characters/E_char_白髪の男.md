@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_白髪の男
 type: entity
 subtype: character
 canonical_name: 白髪の男
-title: "白髪の男"
+title: 白髪の男
 first_appearance: ch0092
 spoiler_after: ch0092
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 白髪の男
@@ -35,3 +36,13 @@ created: "2026-09-30"
 - [[E_char_女の子|女の子]] — 関連(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: それから男の人は、上の方に見慣れない形の飾りがついた杖を頼りに立ち上がると、自分は外にいる狼たちに追われているから匿ってほしいとお願いしました。
+- **unknown**: どうしてこんなところに一人で住んでいるの？ お父さんやお母さんは？ どうやって暮らしているの？
+- **unknown**: ずっと娘とうまくいっていないこと。 自分はその子が小さかった頃に、たくさんひどいことをしてしまったこと。 男の人は今ではそのことをとても後悔しているけれど、どう謝っていいのかわからないのだそうです。
+- **unknown**: 男の人は、長いこと家を留守にしてしまっているので、残してきた娘が心配だと言います。一度家に戻って、無事を伝えたい。その後で、きちんとここに来て本を返しにくるから、どうか信じて待っていて欲しい。
+
+<!-- /AUTO-GENERATED:speech -->

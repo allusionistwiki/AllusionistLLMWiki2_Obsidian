@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_セレクティ
 type: entity
 subtype: character
 canonical_name: セレクティ
-title: "セレクティ"
+title: セレクティ
 first_appearance: ch0113
 spoiler_after: ch0113
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # セレクティ
@@ -28,3 +29,34 @@ created: "2026-09-30"
 > 魔将・セレクティ：地獄の軍勢を率いる最高指揮官。九体の神獣を操る召喚士。（ch0232）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: やや前を行く方は生真面目さが強く表情に表れており、唇は固く引き結ばれ視線は揺るぎなく前を向いている。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: セレクティ＝ベアトリーチェは『あなたのためであれば魔将の席はいつでも用意できます』と言ってくれた。
+- **unknown**: その一人である藍の天主がジャッフハリム魔軍のトップ、セレクティなんだよ。
+- **unknown**: 「来世の事などを考えるのはおやめなさいフィレクティ。それは転生者として許されない怠惰さです。今この瞬間を懸命に生きることだけが、この身に抱えた宿業に飲み込まれないための唯一の手段。『次がある』などという考えに縋ったが最後、わたくしたちは決定的な瞬間で敗北を喫するでしょう。あの時のように」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 魔将・セレクティ：地獄の軍勢を率いる最高指揮官。九体の神獣を操る召喚士。
+- **unknown**: 竜神信教の巫女・セレクティ：八家出身の竜導師長にして藍の天主。ラズリの双子の姉。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: セレクティの敗死。ティリビナ人勢力と古き神々という扱いの難しい反抗勢力をこれまで上手く抑えていたはずの天主が、予想だにしなかった形で盤上から取り除かれたのだ。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_char_ヒュドラボルテージ
+type: entity
+title: ヒュドラボルテージ
+subtype: character
+canonical_name: ヒュドラボルテージ
+aliases: []
+first_appearance: ch0166
+spoiler_after: ch0166
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# ヒュドラボルテージ
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ヒュドラボルテージはニワトリのマスコットキャラとしてぬいぐるみやストラップなどの商品を展開することで既存のアイドルファンとは違った層から広く人気を集めていたらしい。 少々間抜けだがゆるくてユーモラスな表情とふわふわずんぐりしたフォルムが親しみやすく、老若男女から好評だったとか。
+
+<!-- /AUTO-GENERATED:visual -->

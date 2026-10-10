@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_人形
 type: entity
 subtype: character
 canonical_name: 人形
-title: "人形"
+title: 人形
 first_appearance: ch0099
 spoiler_after: ch0099
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 人形
@@ -28,3 +29,17 @@ created: "2026-09-30"
 > 「言理飛翔――十倍加速」 その詠唱は音を突き破り、衝撃破が世界を破裂させる。 弾丸となった魔女が人形の一体を破砕、生み出された疾風が炎を消し飛ばす。（ch0144）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 正確には、腹部を引き裂いて、新たな人形が出現したのだ。　驚愕するクオアの前で、死に絶えたアルト・イヴニルの残骸を赤
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 誕生した人形はいずれも異形。　足が分岐して両足になっている人形がいた。酸を吐き出すハリモグラと蛇の混成種がいた。鼻が額に配置され、口が縦になっている荷運びがいた。　鼻が充電コードになっている人形がのそのそと土を口に運んでいる。
+
+<!-- /AUTO-GENERATED:visual -->

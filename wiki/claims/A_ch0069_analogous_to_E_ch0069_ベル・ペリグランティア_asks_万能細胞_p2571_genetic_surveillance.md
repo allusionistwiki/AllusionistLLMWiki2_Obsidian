@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0069_analogous_to_E_ch0069_ベル・ペリグランティア_asks_万能細胞_p2571_genetic_surveillance
 title: 遺伝子監視による倫理的懸念
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_ベル・ペリグランティア_asks_万能細胞_p2571]]"

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_無知
 type: entity
 subtype: character
 canonical_name: 無知
-title: "無知"
+title: 無知
 first_appearance: ch0092
 spoiler_after: ch0092
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 無知
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 【無知】に近い範囲になればなるほど当人が絶対の全知全能者として振る舞える度合いは高まり（ch0112）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 【無知】に近い範囲になればなるほど当人が絶対の全知全能者として振る舞える度合いは高まり
+
+<!-- /AUTO-GENERATED:speech -->

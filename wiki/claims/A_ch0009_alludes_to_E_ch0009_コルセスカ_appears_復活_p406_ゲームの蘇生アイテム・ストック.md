@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0009_alludes_to_E_ch0009_コルセスカ_appears_復活_p406_ゲームの蘇生アイテム・ストック
 title: 蘇生アイテムの蓄積
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_コルセスカ_appears_復活_p406]]"

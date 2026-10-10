@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ブレイスヴァ
 type: entity
 subtype: terminology
 canonical_name: ブレイスヴァ
-title: "ブレイスヴァ"
+title: ブレイスヴァ
 first_appearance: ch0107
 spoiler_after: ch0107
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ブレイスヴァ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 「僕たちも同じ体験をしたよ。身体の中に神さまを降ろすあの感じにとても似ていた。あれはきっと、どこか遠くから何かを伝えようとしていたんだ」「おお、それこそはブレイスヴァ！」（ch0120）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: それこそがブレイスヴァ。終端を弑するもの。
+
+<!-- /AUTO-GENERATED:name -->

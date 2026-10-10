@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_水底の存在
 type: entity
 subtype: character
 canonical_name: 水底の存在
-title: "水底の存在"
+title: 水底の存在
 first_appearance: ch0122
 spoiler_after: ch0122
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 水底の存在
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 「待っていろ、今助け出してやる。ロドウィ、アルテミシア、ローズマリー、セージ、アニス。我が魂の同胞たちよ。再生者として復活し、我と共に江湖の栄光を取り戻すのだ」（ch0122）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「終わらぬ。まだなにも終わってなどおらぬ。我らが部族の悲願を果たすまでは死ねぬのだ。たとえ狂信者どもの走狗に成り果てようと、必ずや偽りの守護天使を退け、真の守護神たるハザーリャの加護を取り戻してみせようぞ」
+- **unknown**: 「待っていろ、今助け出してやる。ロドウィ、アルテミシア、ローズマリー、セージ、アニス。我が魂の同胞たちよ。再生者として復活し、我と共に江湖の栄光を取り戻すのだ」
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ペラティア展
 type: entity
 subtype: terminology
 canonical_name: ペラティア展
-title: "ペラティア展"
+title: ペラティア展
 first_appearance: ch0246
 spoiler_after: ch0246
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ペラティア展
@@ -27,3 +28,10 @@ created: "2026-09-30"
 > この催しを取り巻く文脈を踏まえれば、それは決起集会に近い儀式だった。（ch0246）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 『ペラティア展』は大断絶によって失われた世界の記憶を呼び覚まそうとする文化的死霊術であり、槍神教と義国によって奪われた価値を取り戻さんとする呪詛でもあった。
+
+<!-- /AUTO-GENERATED:symbolic -->

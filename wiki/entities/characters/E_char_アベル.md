@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アベル
 type: entity
 subtype: character
 canonical_name: アベル
-title: "アベル"
+title: アベル
 first_appearance: ch0191
 spoiler_after: ch0191
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アベル
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 昔々の物語。 あるところにカインとアベルという兄弟がおりました。（ch0191）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: アベルは肥えた羊の仔を。
+
+<!-- /AUTO-GENERATED:action -->

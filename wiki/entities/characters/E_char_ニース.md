@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ニース
 type: entity
 subtype: character
 canonical_name: ニース
-title: "ニース"
+title: ニース
 first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ニース
@@ -26,3 +27,24 @@ created: "2026-09-30"
 > 「諸事情があって、隊長の第一班とエストさんの第三班は中継整備所で待機しています。そのかわり、一班から戦力としてローザ、ガザ、アデンを。ガロアンディアンからはマラコーダさん、グレンデルヒさん、イツノさんをお借りできました」（ch0239）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ニース：白兎、王家に仕える分析官。諜報員たちを管理する司令塔。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ニースと呼ばれた月の民は笑顔のまま無言で少年の敬礼を止めさせ、拳を腹腔に叩き込んで黙らせた。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「諸事情があって、隊長の第一班とエストさんの第三班は中継整備所で待機しています。そのかわり、一班から戦力としてローザ、ガザ、アデンを。ガロアンディアンからはマラコーダさん、グレンデルヒさん、イツノさんをお借りできました」
+
+<!-- /AUTO-GENERATED:speech -->

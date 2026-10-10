@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ポメラニアン女性
 type: entity
 subtype: character
 canonical_name: ポメラニアン女性
-title: "ポメラニアン女性"
+title: ポメラニアン女性
 first_appearance: ch0152
 spoiler_after: ch0152
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ポメラニアン女性
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 突然、女性の声が落ち着いたものになる。 はっきりとした抑揚。切れ味鋭いことば。 つぶらな瞳が、まっすぐにプーハニアを見ていた。（ch0152）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「わたしぃ、いなくなっちゃった彼を探してるんですけどぉ――良かったら、一緒に探してもらえませんかぁ？
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 突然、女性の声が落ち着いたものになる。 はっきりとした抑揚。切れ味鋭いことば。 つぶらな瞳が、まっすぐにプーハニアを見ていた。
+
+<!-- /AUTO-GENERATED:action -->

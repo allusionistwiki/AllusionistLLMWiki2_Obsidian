@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アクィラ
 type: entity
 subtype: character
 canonical_name: アクィラ
-title: "アクィラ"
+title: アクィラ
 first_appearance: ch0212
 spoiler_after: ch0212
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アクィラ
@@ -26,3 +27,24 @@ created: "2026-09-30"
 > アクィラ：禿頭・木砂義手。ハルムシオンの風に所属する工作員。リビュエー０３。（ch0232）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 背の高い書架の上に行儀悪く胡座をかいているのは、またしても黒檀の民。木と砂の呪動義肢、修道騎士の胸当てを押し上げる筋肉質で大柄な体躯、形の良い頭部を露わにした禿頭。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「おう、ばっちりだ。衝突は黒檀の民にとって『権利』ってな。多数派に媚びて生きろ？　郷に入っては郷に従え？　でかい声、でかい面、鼻つまみ者で上等じゃねえかよ、自由で対等ってんなら殴り合うべきだろ、お互いに満足するまでよお！」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: アクィラ：禿頭・木砂義手。ハルムシオンの風に所属する工作員。リビュエー０３。
+
+<!-- /AUTO-GENERATED:name -->

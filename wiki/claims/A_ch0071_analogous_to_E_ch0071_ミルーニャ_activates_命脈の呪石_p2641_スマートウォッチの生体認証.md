@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_ミルーニャ_activates_命脈の呪石_p2641_スマートウォッチの生体認証
 title: スマートウォッチ生体認証
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_ミルーニャ_activates_命脈の呪石_p2641]]"

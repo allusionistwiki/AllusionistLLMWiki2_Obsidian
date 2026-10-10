@@ -1,5 +1,5 @@
 ---
-title: "神滅具"
+title: 神滅具
 schema_version: '5.1'
 id: E_term_神滅具
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0018
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 神滅具
@@ -36,6 +36,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 実際、この世界では神滅具イコールマイナスイメージで、売れ行きは今ひとつらしい。
 - **unknown**: 実際、この世界では神滅具イコールマイナスイメージで、売れ行きは今ひとつらしい。
 - **unknown**: 実際、この世界では神滅具イコールマイナスイメージで、売れ行きは今ひとつらしい。
 - **unknown**: 実際、この世界では神滅具イコールマイナスイメージで、売れ行きは今ひとつらしい。

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ガルラ・クオール
 type: entity
 subtype: character
 canonical_name: ガルラ・クオール
-title: "ガルラ・クオール"
+title: ガルラ・クオール
 first_appearance: ch0242
 spoiler_after: ch0242
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ガルラ・クオール
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 何かに気づいたガルラを、ノゴルオゴルオが楽しそうに踏み砕く。 首が折れ、外れた頭部がころころと転がっていく。（ch0242）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 何かに気づいたガルラを、ノゴルオゴルオが楽しそうに踏み砕く。 首が折れ、外れた頭部がころころと転がっていく。
+
+<!-- /AUTO-GENERATED:action -->

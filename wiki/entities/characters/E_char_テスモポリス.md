@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_テスモポリス
 type: entity
 subtype: character
 canonical_name: テスモポリス
-title: "テスモポリス"
+title: テスモポリス
 first_appearance: ch0103
 spoiler_after: ch0103
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # テスモポリス
@@ -36,3 +37,28 @@ created: "2026-09-30"
 - [[E_char_アキラ|アキラ]] — 関連（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 蜂蜜色の髪、灰色の瞳。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 誕生したのは、信じがたい事に片方の腕のみだった。
+- **unknown**: 「とっても元気。可愛い子ですね――大きくなったら、どんな腕さんになるのかしら。いまから楽しみです」
+- **unknown**: 灰色の瞳に、俺は『流れ』を見た。
+- **unknown**: 産み落とされたのは、屍蝋化した腕。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「どうか、貴方を必要としている人たちの所に行ってあげて？ 私の味方になってくれるのは、遠い未来でかまいませんから」
+- **unknown**: 「私は決してアキラ様の敵ではありません――共にグレンデルヒを倒しましょう」
+
+<!-- /AUTO-GENERATED:speech -->

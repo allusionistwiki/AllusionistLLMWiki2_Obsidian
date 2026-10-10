@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_アキラ_kills_キロン_p1193_介錯
 title: 介錯
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_kills_キロン_p1193]]"

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_アマランサス・サナトロジー
 type: entity
 subtype: organization
 canonical_name: アマランサス・サナトロジー
-title: "アマランサス・サナトロジー"
+title: アマランサス・サナトロジー
 first_appearance: ch0166
 spoiler_after: ch0166
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アマランサス・サナトロジー
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 中心になって動き回るのは新しくアキラ化した人形軍団『アマランサス・サナトロジー』。（ch0185）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 中心になって動き回るのは新しくアキラ化した人形軍団『アマランサス・サナトロジー』。
+- **unknown**: 握手会を得意とするアイドルといえば、ここではラリスキャニアの他には『アマランサス・サナトロジー』がいる。 あのグループは総選挙が近い。 所属アイドルたちは競い合うように握手会を開催しており、至る所でアイドルと長蛇の列を作るファンという構図を目にすることができる。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 正規メンバーである十二人、二軍三軍と連なる予備メンバーを含めれば数百人にも及ぶ大所帯のアイドルユニット。
+
+<!-- /AUTO-GENERATED:visual -->

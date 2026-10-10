@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_融血呪
 type: entity
 subtype: terminology
 canonical_name: 融血呪
-title: "融血呪"
+title: 融血呪
 first_appearance: ch0054
 spoiler_after: ch0054
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 融血呪
@@ -28,3 +29,12 @@ created: "2026-09-30"
 > 融血呪。個と個の境界を対価に融合と共有の奇跡を実現させる禁忌の呪法だ。（ch0145）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 実のところ、寄生異獣の本質は『異なる二者の合一』という点にはない。融合そのものではなく、『劣化した青い血』によって繋がっていること。
+- **unknown**: 融血呪。個と個の境界を対価に融合と共有の奇跡を実現させる禁忌の呪法だ。
+- **unknown**: 融血呪が切り離され、『我々』という認識で一つになっていた集団が自壊していく。過半数から求心力を失ったイアテムから、組織の指導者として集約されていた大量の呪力が離れていった。
+
+<!-- /AUTO-GENERATED:symbolic -->

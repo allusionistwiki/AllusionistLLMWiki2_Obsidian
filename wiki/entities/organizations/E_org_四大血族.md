@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_四大血族
 type: entity
 subtype: organization
 canonical_name: 四大血族
-title: "四大血族"
+title: 四大血族
 first_appearance: ch0252
 spoiler_after: ch0252
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 四大血族
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 四人の魂に刻まれたのはクロウサーの記憶そのもの。この事実をもって、四人の勝利者たちはクロウサーの主流たる四大血族の基礎を築くことに成功したのである。（ch0262）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 四人の魂に刻まれたのはクロウサーの記憶そのもの。この事実をもって、四人の勝利者たちはクロウサーの主流たる四大血族の基礎を築くことに成功したのである。
+
+<!-- /AUTO-GENERATED:symbolic -->

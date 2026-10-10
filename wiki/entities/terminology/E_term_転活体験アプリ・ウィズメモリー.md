@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_転活体験アプリ・ウィズメモリー
 type: entity
 subtype: terminology
 canonical_name: 転活体験アプリ・ウィズメモリー
-title: "転活体験アプリ・ウィズメモリー"
+title: 転活体験アプリ・ウィズメモリー
 first_appearance: ch0224
 spoiler_after: ch0224
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 転活体験アプリ・ウィズメモリー
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 一時的に知覚機能を間借りする程度の『疑似転生』は意識や記憶が融け合ったり上書きされたりすることのない安心設計で、転生と謳ってはいるものの実際は観光施策のひとつだ。（ch0224）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「じゃじゃーん！　これこそ『転活体験アプリ・ウィズメモリー』！　この新作アプリは現在オープンベータテスト中！
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 一時的に知覚機能を間借りする程度の『疑似転生』は意識や記憶が融け合ったり上書きされたりすることのない安心設計で、転生と謳ってはいるものの実際は観光施策のひとつだ。
+
+<!-- /AUTO-GENERATED:action -->

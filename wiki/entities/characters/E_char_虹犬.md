@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_虹犬
 type: entity
 subtype: character
 canonical_name: 虹犬
-title: "虹犬"
+title: 虹犬
 first_appearance: ch0133
 spoiler_after: ch0133
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 虹犬
@@ -28,3 +29,25 @@ created: "2026-09-30"
 > 虹犬は稲妻の化身だった。 雷獣より速く動くことは誰にもできない。 最小限の動きで射撃を回避、軽戦士の斬撃を横薙ぎで妨げ、（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「とっても飛ぶのがお上手なキノコさん。私が力を貸してあげましょうか？」
+- **unknown**: ブルドッグ氏族の虹犬は苦虫を噛み潰したような表情になると、「ああくそ、なんだってんだ。もう俺は関係ねえぞ」 と言って足早にその場から離れていく。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 垂れ耳、突きだした鼻とマズル。その首から上は獣性と愛らしさを兼ね備えたビーグル犬そのもの。 虹犬、あるいは犬精と呼ばれる下方勢力の種族。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 虹犬は稲妻の化身だった。 雷獣より速く動くことは誰にもできない。 最小限の動きで射撃を回避、軽戦士の斬撃を横薙ぎで妨げ、
+
+<!-- /AUTO-GENERATED:action -->

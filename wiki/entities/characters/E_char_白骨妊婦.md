@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_白骨妊婦
 type: entity
 subtype: character
 canonical_name: 白骨妊婦
-title: "白骨妊婦"
+title: 白骨妊婦
 first_appearance: ch0168
 spoiler_after: ch0168
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 白骨妊婦
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 進退窮まった母親は、赤子に向けて叫ぶ。黙れ、うるさい、おおよそそんな意味の拒絶の意思。（ch0168）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 状況の動きがあった。白骨妊婦の腹部が発光し、中から勢い良く何かが飛び出した。それは勢い良く泣き始めて周囲の夢を改変し始める――それも凄い勢いで。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 進退窮まった母親は、赤子に向けて叫ぶ。黙れ、うるさい、おおよそそんな意味の拒絶の意思。
+
+<!-- /AUTO-GENERATED:speech -->

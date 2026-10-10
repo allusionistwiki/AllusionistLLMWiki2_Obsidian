@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ディスケイム家
 type: entity
 subtype: organization
 canonical_name: ディスケイム家
-title: "ディスケイム家"
+title: ディスケイム家
 first_appearance: ch0219
 spoiler_after: ch0219
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ディスケイム家
@@ -28,3 +29,27 @@ created: "2026-09-30"
 > かつての大悪レストロオセと聖妃レストロオセを分離し、ホラーという異獣を生み出したのはほかならぬディスケイムだ。（ch0219）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: ディスケイム家の影響力は『下』の全土に及ぶ。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: ディスケイム家は多分だけどアンタを信用してないよ。だから私を監視役に選んだ。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 亜竜の口を『扉』がわりにして、その集団は現れた。 そして、全てが終わった。 十二の精鋭人形。異形の魔戦人形師団。そんなものは何の問題にもならなかった。
+- **unknown**: ホラーを生み出したディスケイム家は、そういう認識や意識を上手に顕在化させない思考技術を幼いキニスに教え込んだ。奉竜山で身に着けた『内傷七情』の技も心を制御するにはうってつけ。
+- **unknown**: いずれにせよディスケイム家の発言力は大幅に低下した。
+- **unknown**: かつての大悪レストロオセと聖妃レストロオセを分離し、ホラーという異獣を生み出したのはほかならぬディスケイムだ。
+
+<!-- /AUTO-GENERATED:action -->

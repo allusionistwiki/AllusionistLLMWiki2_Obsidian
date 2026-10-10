@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0017_analogous_to_E_ch0017_トリシューラ_says_視覚的イメージの効用_p749_placebo_effect
 title: プラセボ効果の呪術的応用
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_トリシューラ_says_視覚的イメージの効用_p749]]"

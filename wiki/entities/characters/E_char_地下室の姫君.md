@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_地下室の姫君
 type: entity
 subtype: character
 canonical_name: 地下室の姫君
-title: "地下室の姫君"
+title: 地下室の姫君
 first_appearance: ch0170
 spoiler_after: ch0170
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 地下室の姫君
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 対として切り分けられていた私たちは不完全になった。互いに触れ合い、融け合い、ひとつの混沌として完成してしまったから。（ch0170）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 闇に閉ざされた地下室で淀みなく上下する怨嗟の旋律。反響する耳障りな歌声はどこまでも寂しくて、ただ希望が削ぎ落とされていく。
+- **unknown**: 対として切り分けられていた私たちは不完全になった。互いに触れ合い、融け合い、ひとつの混沌として完成してしまったから。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 幾重もの堅牢な守り、呪いの檻を眠らせて、衛兵のコウモリたちを下がらせることまでした。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 彼女のことを恐れ、敬い、『狂っている』と心を震わせている遠くの臣下たち。おかしなことだ。――私はただ、歌っているだけなのに。
+- **unknown**: 椅子に拘束された彼女は両手を広げることすらできなかったけれど、弛緩した体と柔らかく微笑んだ頬は確かに獣を求め、受け止めようとするものだった。
+
+<!-- /AUTO-GENERATED:relationship -->

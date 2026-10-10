@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_オルヴァ王
 type: entity
 subtype: character
 canonical_name: オルヴァ王
-title: "オルヴァ王"
+title: オルヴァ王
 first_appearance: ch0106
 spoiler_after: ch0106
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # オルヴァ王
@@ -28,3 +29,42 @@ created: "2026-09-30"
 > 十字の眼球が、内側から破裂した。そればかりではなく、細身の身体の内部から無数の棘が突き出て、その命と共に鮮血が流れていく。（ch0136）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 老人は退屈な生に倦んでいた。
+- **unknown**: 果たして、生を演じるという経験を今までしたことがあっただろうか。
+- **unknown**: オルヴァ王は絶対的な任命権を有していた。また神――というか、彼らカシュラム人にとっての神に相当すると思しき存在の『神威』によって王としての権利を与えられているため、彼は宗教の最高権威者でもあった。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 輝く十字の瞳。ノーグの血脈が伝える恐るべき眼光。大賢者オルヴァの眼差しが、全てを見通すようにこちらを貫いていた。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: そう、必要なのは未来を回想し、過去へ旅立つことだったのではないか。
+- **unknown**: サイバーカラテはブレイスヴァであり、ブレイスヴァとはオルヴァ王にとって唯一無二の武芸となっている。もはや発声すら必要としない呪的発勁が巨大な幻の顎を出現させる。
+- **unknown**: 十字の眼球が、内側から破裂した。そればかりではなく、細身の身体の内部から無数の棘が突き出て、その命と共に鮮血が流れていく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: そして、そこに『賢王』は形無き形としてあらわれるのだった。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: いつしか神への感謝と信仰に基づく労働、日々の祈りこそが『賢王』という形を定めるようになり、それは王個人と関わりなく普遍化していく。
+
+<!-- /AUTO-GENERATED:name -->

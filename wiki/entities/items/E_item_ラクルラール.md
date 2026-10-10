@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_ラクルラール
 type: entity
 subtype: item
 canonical_name: ラクルラール
-title: "ラクルラール"
-first_appearance: ch0106
-spoiler_after: ch0106
+title: ラクルラール
+first_appearance: ch0097
+spoiler_after: ch0097
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ラクルラール
@@ -28,3 +29,20 @@ created: "2026-09-30"
 > 壮年男性の片腕がぼとりと落ちて、肩から真ん丸な乳房が生えていた。（ch0097）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ――目が、ぎょろり、と。　そう動いたような感覚をその場にいる全員が覚えた。
+- **unknown**: 可動する関節部には、本来人体には存在しない部位である『球体』が嵌め込まれていたのである。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 意思を持っているかの如くに賢者セレスの目の前に立つと、腰を折り曲げて一礼する。見事なお辞儀だった。
+- **unknown**: 壮年男性の片腕がぼとりと落ちて、肩から真ん丸な乳房が生えていた。
+- **unknown**: 」　少女がそう言った時には既に、球体関節人形は姿を消していた。
+
+<!-- /AUTO-GENERATED:action -->

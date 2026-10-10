@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_竜覚
 type: entity
 subtype: terminology
 canonical_name: 竜覚
-title: "竜覚"
+title: 竜覚
 first_appearance: ch0205
 spoiler_after: ch0205
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 竜覚
@@ -27,3 +28,10 @@ created: "2026-09-30"
 > ユディーアは覚悟を決め、咄嗟に最後の手段である『竜覚』に手を伸ばす。　この世の摂理を司る紀竜との交信。（ch0259）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 竜覚は明確に規制対象に反応しており、既に自動的な天罰が下っているはずだ。銃を握るカルカブリーナの両手が焼けただれ、皮膚が燃え落ちていくのがはっきりとわかる。
+
+<!-- /AUTO-GENERATED:action -->

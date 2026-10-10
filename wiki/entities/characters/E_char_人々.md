@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_人々
 type: entity
 subtype: character
 canonical_name: 人々
-title: "人々"
+title: 人々
 first_appearance: ch0065
 spoiler_after: ch0065
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 人々
@@ -27,3 +28,17 @@ created: "2026-09-30"
 > 人々は英雄ロードデンドロンの華々しい活躍に夢中だ。二日目から始まるレース、その主役はもしかすると彼になるのではないか。新たな天主の誕生、その瞬間を目撃することができるのではないか、と。（ch0225）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 次々とレオの目の前を頼もしく通り過ぎて、背後で苦痛と恐怖に彩られた絶叫を上げて消えていく人々。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 人々は英雄ロードデンドロンの華々しい活躍に夢中だ。二日目から始まるレース、その主役はもしかすると彼になるのではないか。新たな天主の誕生、その瞬間を目撃することができるのではないか、と。
+
+<!-- /AUTO-GENERATED:speech -->

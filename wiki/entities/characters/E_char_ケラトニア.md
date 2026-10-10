@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ケラトニア
 type: entity
 subtype: character
 canonical_name: ケラトニア
-title: "ケラトニア"
+title: ケラトニア
 first_appearance: ch0259
 spoiler_after: ch0259
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ケラトニア
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 直後、上空で爆炎の花が咲いた。　三角耳の魔女は自分のすぐそばで炸裂した爆炎に呑み込まれて焼死体と化していた。（ch0259）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「貴様、よくもナサニアを！」　交戦していた鳥人の追撃を振り切って、上空から双子の残った片割れであるケラトニアが異形の男に襲い掛かる。
+
+<!-- /AUTO-GENERATED:action -->

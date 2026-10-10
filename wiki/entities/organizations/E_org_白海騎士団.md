@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_org_白海騎士団
+type: entity
+title: 白海騎士団
+subtype: organization
+canonical_name: 白海騎士団
+aliases: []
+first_appearance: ch0242
+spoiler_after: ch0242
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 白海騎士団
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ラフディを強襲し、本陣を守っていた赤眼騎士団と交戦しているのは外敵ではなく、あろうことか味方であるはずの五大騎士団だった。 突然の裏切り。第五階層の隣接異界で待機していたはずの白海騎士団が突如として第六階層に出現したことで、ラフディは大混乱に陥った。
+
+<!-- /AUTO-GENERATED:action -->

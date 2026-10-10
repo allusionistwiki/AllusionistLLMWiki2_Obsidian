@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_スキリシアの神
 type: entity
 subtype: character
 canonical_name: スキリシアの神
-title: "スキリシアの神"
+title: スキリシアの神
 first_appearance: ch0112
 spoiler_after: ch0112
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # スキリシアの神
@@ -28,3 +29,14 @@ created: "2026-09-30"
 > ああ、ヴィヴィは舞台裏に残って『劇場』を維持するように。ただしそれ以外の行動は禁止。言いつけを破ったら毎晩夢の中に触手が出てくるからね。（ch0112）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 【窮乏】、【疾病】、【無知】、【陋隘】、そして【失業】といいました。
+- **unknown**: 一応僕はスキリシアの神だからね。こういった神話を事実だと言い張ればそれは事実になってしまうんだよ。
+- **unknown**: 残念ながらアズーリアは期待外れだった。暫く青い鳥は見るのも嫌だね。だがカーティスとミシャルヒは僕の期待に応えてくれることだろう。
+- **unknown**: そういうわけで、ラクルにヴィヴィ？ 君たちの喧嘩は見ていて中々に微笑ましいけれど、今は少しだけ控えてもらえるかな？ 派閥争いは『塔』に戻ってやりたまえ。
+- **unknown**: ああ、ヴィヴィは舞台裏に残って『劇場』を維持するように。ただしそれ以外の行動は禁止。言いつけを破ったら毎晩夢の中に触手が出てくるからね。
+
+<!-- /AUTO-GENERATED:speech -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_言語の取引_p264_知的財産権とライセンス
 title: 知的財産権とライセンス
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_言語の取引_p264]]"

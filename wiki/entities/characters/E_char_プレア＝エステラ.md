@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_プレア＝エステラ
 type: entity
 subtype: character
 canonical_name: プレア＝エステラ
-title: "プレア＝エステラ"
+title: プレア＝エステラ
 first_appearance: ch0220
 spoiler_after: ch0220
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # プレア＝エステラ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 眷属種認定の働きかけを行ったティリビナ人たちの美しき巫女プレア＝エステラがそうであったように、若い世代の間で大きな価値観の変化が生まれていることは間違いない。（ch0251）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 眷属種認定の働きかけを行ったティリビナ人たちの美しき巫女プレア＝エステラがそうであったように、若い世代の間で大きな価値観の変化が生まれていることは間違いない。
+
+<!-- /AUTO-GENERATED:name -->

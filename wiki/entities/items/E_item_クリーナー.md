@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_クリーナー
 type: entity
 subtype: item
 canonical_name: クリーナー
-title: "クリーナー"
+title: クリーナー
 first_appearance: ch0249
 spoiler_after: ch0249
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # クリーナー
@@ -26,3 +27,24 @@ created: "2026-09-30"
 > 彼の目の前に広がるのは一冊の古い魔導書。『死人の森の断章』がその真価を発揮していた。（ch0262）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: クリーナーに至っては、透明な精子の内部に膝を抱えた全裸の本人が見えているという最も異様な姿だった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ごめんな、駄目な父親で、最低のクズでごめんな」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 精子の中にいる男は機体の内部から一冊の本を取り出した。呪術を学ぶものであれば、黒々とした装丁を目にしただけでわかるほどの呪力密度。
+
+<!-- /AUTO-GENERATED:action -->

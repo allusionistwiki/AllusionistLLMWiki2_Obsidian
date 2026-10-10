@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0018_analogous_to_E_ch0018_アキラ_thinks_松明の騎士団_p810_組織の論理・集団の暴力
 title: 組織の暴力性と個人信頼の対立
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_アキラ_thinks_松明の騎士団_p810]]"

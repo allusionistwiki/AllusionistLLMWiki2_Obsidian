@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_新しいクレイ
 type: entity
 subtype: character
 canonical_name: 新しいクレイ
-title: "新しいクレイ"
+title: 新しいクレイ
 first_appearance: ch0191
 spoiler_after: ch0191
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 新しいクレイ
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 柔らかな慈母の声が命ずるままに、新たなクレイはどこかたどたどしい手つきで手刀を構え、見捨てられたものに斬りかかる。逆らうことを知らない子供は、母親の暴力から逃げる術を持たない。刃は無慈悲な死をもたらす。（ch0191）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「いいのですか？ 俺などにこのような贈り物を――光栄です、陛下。大切に、ずっと大切にします。陛下の真心に応えられる戦士になることを、ここに誓いましょう。ずっとおそばで、陛下を守らせて下さい」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 柔らかな慈母の声が命ずるままに、新たなクレイはどこかたどたどしい手つきで手刀を構え、見捨てられたものに斬りかかる。逆らうことを知らない子供は、母親の暴力から逃げる術を持たない。刃は無慈悲な死をもたらす。
+
+<!-- /AUTO-GENERATED:action -->

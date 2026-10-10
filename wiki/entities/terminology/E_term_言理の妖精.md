@@ -1,5 +1,5 @@
 ---
-title: "言理の妖精"
+title: 言理の妖精
 schema_version: '5.1'
 id: E_term_言理の妖精
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0056
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 言理の妖精
@@ -42,5 +42,13 @@ updated: '2026-10-02'
 - **unknown**: 実のところ、記号や意味やその狭間の全てが言理の妖精たちなのだ。
 - **unknown**: 実のところ、記号や意味やその狭間の全てが言理の妖精たちなのだ。
 - **unknown**: 実のところ、記号や意味やその狭間の全てが言理の妖精たちなのだ。
+- **unknown**: 実のところ、記号や意味やその狭間の全てが言理の妖精たちなのだ。
 
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 世界槍という巨大な尖塔の内部であるにも関わらず、言理の妖精という神秘がその異常を現実に落とし込んだ。ガロアンディアンの頭上には第四階層があり、同時に空が広がっている。二つの事実は矛盾しながら並存しているのだっ
+
+<!-- /AUTO-GENERATED:action -->

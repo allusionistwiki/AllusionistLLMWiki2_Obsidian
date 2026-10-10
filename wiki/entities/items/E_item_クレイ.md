@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_クレイ
 type: entity
 subtype: item
 canonical_name: クレイ
-title: "クレイ"
+title: クレイ
 first_appearance: ch0082
 spoiler_after: ch0082
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # クレイ
@@ -28,3 +29,10 @@ created: "2026-09-30"
 > 斬鉄を成し遂げたのは、骨だ。真の王子となった男の胸から引き抜かれた刃は、白骨を薄く鋭く引き伸ばしたかのような異形――それこそが彼が胸に抱いていた『王国の剣』なのだった。（ch0193）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 腕の尺骨を強引に刃に仕立て上げたような、歪な骨の剣だ。
+
+<!-- /AUTO-GENERATED:visual -->

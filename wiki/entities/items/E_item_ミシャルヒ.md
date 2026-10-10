@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_ミシャルヒ
 type: entity
 subtype: item
 canonical_name: ミシャルヒ
-title: "ミシャルヒ"
+title: ミシャルヒ
 first_appearance: ch0111
 spoiler_after: ch0111
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ミシャルヒ
@@ -25,3 +26,24 @@ created: "2026-09-30"
 > リールエルバが掌を返すと、その上に黒々とした物体が形成されていく。 黒革の不気味な装丁――『断章』と呼ばれる魔導書がそこにあった。（ch0175）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「ミシャルヒと言う。ジャッフハリム四十四士がひとりにして遠い昔にお前と縁を結んだ者だ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「槍神の権威は捨て、竜神の加護を選ぶといい。『大断絶』の後、『上』に近付いたドラトリアを、ふたたび『下』に――ジャッフハリムに接近させるのだ」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: リールエルバが掌を返すと、その上に黒々とした物体が形成されていく。 黒革の不気味な装丁――『断章』と呼ばれる魔導書がそこにあった。
+
+<!-- /AUTO-GENERATED:action -->

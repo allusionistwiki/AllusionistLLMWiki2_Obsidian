@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ウネム・リビュエー・イルドアート
 type: entity
 subtype: character
 canonical_name: ウネム・リビュエー・イルドアート
-title: "ウネム・リビュエー・イルドアート"
+title: ウネム・リビュエー・イルドアート
 first_appearance: ch0251
 spoiler_after: ch0251
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ウネム・リビュエー・イルドアート
@@ -26,3 +27,24 @@ created: "2026-09-30"
 > 状況から見て死産らしいけど、遺体の近くには体液と水晶片しかなかったって（ch0251）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 昨夜未明、エルネトモラン第六区のヨグウム警備保障南辺支社で騎士修道士のウネム・リビュエー・イルドアートさんが死亡しているのが見つかりました。『人が首を吊っている』という通報があり、都市警察や救急車が駆けつけましたがウネムさんは既に亡くなっており、現場の状況から自殺とみられるということです。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 松明の騎士団所属の騎士修道士ウネムさんは亜大陸のヴアルンディニーニィ出身の３８歳。黒檀の民としてはじめて太陰の図書館司書採用試験に合格した英才として話題になりました。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 状況から見て死産らしいけど、遺体の近くには体液と水晶片しかなかったって
+
+<!-- /AUTO-GENERATED:speech -->

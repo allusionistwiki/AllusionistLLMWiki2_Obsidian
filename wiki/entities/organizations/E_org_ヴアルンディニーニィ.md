@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ヴアルンディニーニィ
 type: entity
 subtype: organization
 canonical_name: ヴアルンディニーニィ
-title: "ヴアルンディニーニィ"
+title: ヴアルンディニーニィ
 first_appearance: ch0251
 spoiler_after: ch0251
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ヴアルンディニーニィ
@@ -26,3 +27,24 @@ created: "2026-09-30"
 > 亜大陸西部の巨大文明圏といえばまず精霊都市ティシムガンドの名前が挙がるが、それに次ぐ第二の都市、麗しの古都ヴアルンディニーニィで奇妙な現象が起きている。（ch0251）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 『恵みの大樹』ディニーニィの周囲に栄えた恩寵の都には大樹の精霊と敵対する悪魔にまつわる伝承がある。悪魔によっていちど大樹が切り倒された後、民たちは生贄を捧げ三日三晩休まずに祈り続けて偉大なる天霊を招き、悪魔を退けて大樹を植え直した。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 不屈の気概と歴史を持つこの都市の民は質実剛健、更には立ちはだかる敵に対して容赦しない苛烈さで知られている。聖絶の時代、ヴィティス特任司教の志に賛同し天霊に背いたティリビナ人たちを残らず切り倒したことは街の誇りだ。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 亜大陸西部の巨大文明圏といえばまず精霊都市ティシムガンドの名前が挙がるが、それに次ぐ第二の都市、麗しの古都ヴアルンディニーニィで奇妙な現象が起きている。
+
+<!-- /AUTO-GENERATED:name -->

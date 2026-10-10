@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ジャッフハリム
 type: entity
 subtype: organization
 canonical_name: ジャッフハリム
-title: "ジャッフハリム"
+title: ジャッフハリム
 first_appearance: ch0095
 spoiler_after: ch0095
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ジャッフハリム
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 「うん。実際には苦手なままだと思うよ。ぶっちゃけそういうのはキノコ系とかコケ系とかシダ系の隠花族奴隷にやらせて『穢れ』として隔離してるんだけど。このへん折り合いつかなくて第八階層で延々揉めてんだよね～」（ch0225）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: そこに現れたのが第三の勢力、ジャッフハリムであった。
+- **unknown**: それは、地獄の中心に存在する王国にして巨大都市の名ではなかったか。 世界槍が貫く巨大な国家にして、第九階層。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「うん。実際には苦手なままだと思うよ。ぶっちゃけそういうのはキノコ系とかコケ系とかシダ系の隠花族奴隷にやらせて『穢れ』として隔離してるんだけど。このへん折り合いつかなくて第八階層で延々揉めてんだよね～」
+
+<!-- /AUTO-GENERATED:action -->

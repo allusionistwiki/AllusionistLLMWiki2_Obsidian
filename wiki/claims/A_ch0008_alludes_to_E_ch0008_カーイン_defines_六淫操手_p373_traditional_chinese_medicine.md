@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0008_alludes_to_E_ch0008_カーイン_defines_六淫操手_p373_traditional_chinese_medicine
 title: 漢方医学六淫概念の攻撃化
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_カーイン_defines_六淫操手_p373]]"

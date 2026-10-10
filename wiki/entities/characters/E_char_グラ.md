@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_グラ
 type: entity
 subtype: character
 canonical_name: グラ
-title: "グラ"
+title: グラ
 first_appearance: ch0103
 spoiler_after: ch0103
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # グラ
@@ -28,3 +29,31 @@ created: "2026-09-30"
 > 「無理です！　だって今、サイザクタートは声をかけたくないって思ってます！　なら、それを覆すだけの材料が無いと動けない！」（ch0103）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「そうだ、後でカーインを呼んで手伝ってもらいましょう。ラクルラールのことだから、人手が多い方が助かりますよね？」
+- **unknown**: （あの、だらだらと頭の中で喋られるの鬱陶しいんですけど。っつかレオさんのあれ、フリだけでしたよ。演技なんだから本気でするわけないでしょう）
+- **unknown**: 種族とか神の加護とかで所属が決まったりはしないってことです
+- **unknown**: （何だあれ、まるでグレンデルヒの奴みたいなことを）
+- **unknown**: 何この人、先輩がだいぶアレとか本当にこの職場大丈夫なの――とかグラが内心で後悔しているのが感じられる。
+- **unknown**: 「少し、胸がすっとしました。昔、サイザクタートの事、あ、子孫の方ですけど、あいつをあんな感じで悪く言う奴がいて。そう言う時、俺は我慢しなかったなって思い出しました」
+- **unknown**: 「ええ、あれはサイザクタートの遺品です。あいつから家宝を奪い取った【変異の三手】の副長、イアテムとか言う奴を第三階層の裏面で襲ってどうにか取り戻しました。
+- **unknown**: 「無理です！　だって今、サイザクタートは声をかけたくないって思ってます！　なら、それを覆すだけの材料が無いと動けない！」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 亡き幼なじみの先祖を演じる、というのは、彼なりの喪の儀式なのかもしれない。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: グラの手を伸ばして掴み上げると、楽屋の机の上に載せた。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_エルト
 type: entity
 subtype: item
 canonical_name: エルト
-title: "エルト"
+title: エルト
 first_appearance: ch0259
 spoiler_after: ch0259
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # エルト
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > それら全てが葬った魂を再利用するための機構だ。『戦い、喰らい、枯骸の王に捧ぐ』という単一の目的を達成するための殺戮墓標。（ch0259）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: それは死と過去と復活の記憶を原動力として駆動する、巨大な呪動要塞だった。
+- **unknown**: 絢爛な葬礼彫刻はザカリヘッドの移動式霊廟に特有のもの。　カイヴレーストの竜鱗が嵌葬された積層外壁、赤獅子ハーヴォストールを象った歩行柱脚、秩序の海妖サンシの女神像、
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: それら全てが葬った魂を再利用するための機構だ。『戦い、喰らい、枯骸の王に捧ぐ』という単一の目的を達成するための殺戮墓標。
+
+<!-- /AUTO-GENERATED:symbolic -->

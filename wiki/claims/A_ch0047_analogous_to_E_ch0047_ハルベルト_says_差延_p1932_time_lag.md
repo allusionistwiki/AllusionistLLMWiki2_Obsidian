@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_time_lag
 title: レイテンシとしての呪文の遅さ
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_差延_p1932]]"

@@ -1,6 +1,6 @@
 ---
-title: "英雄"
-schema_version: "5.1"
+title: 英雄
+schema_version: '5.1'
 id: E_char_英雄
 type: entity
 subtype: character
@@ -9,7 +9,8 @@ first_appearance: ch0039
 spoiler_after: ch0039
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 英雄
@@ -27,3 +28,17 @@ created: "2026-09-30"
 > それは優雅に地上に降り立つと、暗い影のように輪郭を歪ませていった。次の瞬間にそこに立っていたのは優美な幻獣とは似ても似つかない重厚な甲冑。 小柄だった。まるで子供のような背丈。（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 彼方から舞い降りる救い手を。 蒼穹の如き翼を広げて飛翔する、翼ある鹿の姿を。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: それは優雅に地上に降り立つと、暗い影のように輪郭を歪ませていった。次の瞬間にそこに立っていたのは優美な幻獣とは似ても似つかない重厚な甲冑。 小柄だった。まるで子供のような背丈。
+
+<!-- /AUTO-GENERATED:visual -->

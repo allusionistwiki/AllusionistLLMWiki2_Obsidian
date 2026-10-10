@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0079_parodies_E_ch0079_トリシューラ_attacks_ラズリ_p2926_ヤンデレ・独占欲の誇張
 title: ヤンデレ独占欲の誇張
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_トリシューラ_attacks_ラズリ_p2926]]"

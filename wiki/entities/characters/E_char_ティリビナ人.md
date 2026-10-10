@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ティリビナ人
 type: entity
 subtype: character
 canonical_name: ティリビナ人
-title: "ティリビナ人"
+title: ティリビナ人
 first_appearance: ch0014
 spoiler_after: ch0014
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ティリビナ人
@@ -28,3 +29,34 @@ created: "2026-09-30"
 > サイバーカラテユーザーたちの拳が、棒が、刃が、異獣を攻め立てる。 狂怖の歪な身体が吹き飛び、ティリビナ人の男性が殴り倒され、 ホラー 大地の民が囲まれて滅多打ちにされる。（ch0144）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ユディーアの暗い瞳にある光景が入り込んだ。　それは枯れ木のごとき樹肌を有する人間たちの集団。　ティリビナ人たちもまたこの予選に参加しようとしているのだ。
+- **unknown**: 「ねえユディーア、今の見た？ とても可愛らしい苗木の赤ちゃん！」 はしゃいだ声がしてから少し経って、ユディーアは街路の端にそれを見つけた。 樹木の肌をした種族、ティリビナ人が小さな赤子を抱いてあやしている光景。
+- **unknown**: とりわけ、植物系種族の扱いの酷さが目に余った。ただその場所にいるというだけで理不尽な暴力を受ける、舌打ちをされ、唾を吐かれるという光景が散見された。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「言理の妖精、語りて曰く」
+- **unknown**: 視線を向けると、身体が樹皮で覆われたティリビナ人がいた。「機械野郎が」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ティリビナ人たちが『街路樹の民』として眷属種認定されてからしばらく経つが、彼らの一部が地下大森林の特別保護区から地上に姿を現すようになったのは『枯れ枝剪定』と呼ばれるティリビナ人同士の抗争からだ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 樹木人たちにとって死後とは土に還り新たな命となって巡る新生。冥府は彼にとってアウェーだ。
+
+<!-- /AUTO-GENERATED:relationship -->

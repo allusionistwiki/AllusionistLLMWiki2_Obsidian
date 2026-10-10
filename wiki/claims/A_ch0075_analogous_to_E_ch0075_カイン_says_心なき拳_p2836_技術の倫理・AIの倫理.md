@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0075_analogous_to_E_ch0075_カイン_says_心なき拳_p2836_技術の倫理・AIの倫理
 title: 倫理を欠いた技術の死
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0075_カイン_says_心なき拳_p2836]]"

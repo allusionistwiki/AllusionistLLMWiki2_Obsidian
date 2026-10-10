@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_汚物屋
 type: entity
 subtype: character
 canonical_name: 汚物屋
-title: "汚物屋"
+title: 汚物屋
 first_appearance: ch0208
 spoiler_after: ch0208
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 汚物屋
@@ -28,3 +29,41 @@ created: "2026-09-30"
 > 「僕の分け身で相殺する！ 二人とも、無事でいてくれ！」 緑色の光が飛び出して、大きく口を開いた呪文竜に突撃、全ての力を使って対抗呪文を構築、アレッシオを弾き飛ばしながら消滅した。（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その時、二人の間に緑色に発光する球体が出現した。「『虫飼い』、『葬儀屋』、やめておくれ」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: ぼんやりと浮遊する緑色の光。それは穢れを浄化する神聖な力だ。死霊や死体たちは崇めるようにひざまずいて祈りを捧げている。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「かしこまりました。虫筒を持って先に移動して下さい。僕はここに残り、ライラ殿と共に敵を食い止めます」
+- **unknown**: 「『薬屋』は死番虫にその身を捧げた。僕の胸は同胞の死に張り裂けそうになっている。どうか仲間割れはやめて欲しい」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 緑色の燐光が肉体から霊体を引き剥がし、一箇所に集めていく。　傘の貴婦人が作り出していた虹の円環。次々と円の中に吸い込まれていくントゥガ族の霊魂は、内部で一塊になって肥大化していった。
+- **unknown**: あの緑の光を操っている『汚物屋』の本体がどこかに向かおうとしていること。この二人は足止め役であること。
+- **unknown**: 「僕の分け身で相殺する！ 二人とも、無事でいてくれ！」 緑色の光が飛び出して、大きく口を開いた呪文竜に突撃、全ての力を使って対抗呪文を構築、アレッシオを弾き飛ばしながら消滅した。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『汚物屋』：キノコ人解放戦線のリーダー。
+
+<!-- /AUTO-GENERATED:name -->

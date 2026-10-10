@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_民衆
 type: entity
 subtype: organization
 canonical_name: 民衆
-title: "民衆"
+title: 民衆
 first_appearance: ch0191
 spoiler_after: ch0191
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 民衆
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 「父との愛を拒絶し、母との愛までも捨てるというなら、その証を法の剣で示せ」（ch0191）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「どうか私に死者たちを葬る資格を与えて下さい、王よ！ 何故あなたの法はかくも苛烈なのですか。私たちの内なる法と慈悲の心は嘆き叫んでおります」
+- **unknown**: 「父との愛を拒絶し、母との愛までも捨てるというなら、その証を法の剣で示せ」
+
+<!-- /AUTO-GENERATED:speech -->

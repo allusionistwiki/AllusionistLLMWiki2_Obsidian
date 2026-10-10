@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_選定レース
 type: entity
 subtype: terminology
 canonical_name: 選定レース
-title: "選定レース"
+title: 選定レース
 first_appearance: ch0238
 spoiler_after: ch0238
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 選定レース
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 選定レースの起源とされているこの呪術儀式は苛烈を極め、死出の旅路に等しい難業を達成できたのはたったの四人。（ch0262）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 選定レースの起源とされているこの呪術儀式は苛烈を極め、死出の旅路に等しい難業を達成できたのはたったの四人。
+
+<!-- /AUTO-GENERATED:symbolic -->

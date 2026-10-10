@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_クレナリーザ
 type: entity
 subtype: item
 canonical_name: クレナリーザ
-title: "クレナリーザ"
+title: クレナリーザ
 first_appearance: ch0221
 spoiler_after: ch0221
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # クレナリーザ
@@ -25,3 +26,12 @@ created: "2026-09-30"
 > それから気になるのは部屋の隅に鎮座している中身の分からないトランクケース。　謎めいた再生者の忘れ物だ。 クレナリーザ 　空気のように軽いがいったい何が入っているのか。　呪われた遺物のように付きまとうそれは、気が付くと視界の隅に出現している。（ch0238）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: それから気になるのは部屋の隅に鎮座している中身の分からないトランクケース。　謎めいた再生者の忘れ物だ。
+クレナリーザ
+　空気のように軽いがいったい何が入っているのか。　呪われた遺物のように付きまとうそれは、気が付くと視界の隅に出現している。
+
+<!-- /AUTO-GENERATED:visual -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_イアテム
 type: entity
 subtype: terminology
 canonical_name: イアテム
-title: "イアテム"
+title: イアテム
 first_appearance: ch0127
 spoiler_after: ch0127
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # イアテム
@@ -28,3 +29,25 @@ created: "2026-09-30"
 > 「だがこの場所では今、大いなるハザーリャの信仰が復活しつつある！　新たな教団、そして新たな共同体！　【眠れる三頭】が、地上に居場所の無い者たちの逃げ場となる。その為には確かな足場が必要なのだ」（ch0130）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 無尽蔵のイアテムは全てが分身。使い捨ての暗殺者にして鉄砲玉。放てば戻ってこない矢のようなものだ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「というか、どうも彼はイレギュラーらしいのです。普通の周回ならば、あの位置にはグレンダイルという探索者芸人がいるはずでした。
+- **unknown**: 「ただ、どの世界でもイアテムという名の英雄は存在します。というのも彼は一つの偉業を成し遂げたから。それが【イアテムの呪いの剣】という呪術基盤」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「サテライトオーブ・スキリシア」　詠唱の直後、イアテムの姿が縦に割れる。
+
+<!-- /AUTO-GENERATED:action -->

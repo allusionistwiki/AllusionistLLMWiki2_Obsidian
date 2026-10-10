@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_アヴロニア
 type: entity
 subtype: terminology
 canonical_name: アヴロニア
-title: "アヴロニア"
+title: アヴロニア
 first_appearance: ch0129
 spoiler_after: ch0129
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アヴロニア
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > エフラスを恐れた槍の神々によって妖精郷アヴロニアは空の彼方に追放された。（ch0189）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: エフラスを恐れた槍の神々によって妖精郷アヴロニアは空の彼方に追放された。
+
+<!-- /AUTO-GENERATED:action -->

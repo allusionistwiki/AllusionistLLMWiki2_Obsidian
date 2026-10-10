@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_チリアット
 type: entity
 subtype: item
 canonical_name: チリアット
-title: "チリアット"
+title: チリアット
 first_appearance: ch0101
 spoiler_after: ch0101
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # チリアット
@@ -25,3 +26,20 @@ created: "2026-09-30"
 > 「うおおおお死にたくない～！　ウィッチオーダー十六番・ディシルキュトス！」泣き言を叫びつつも頭は冷静に戦闘を続行していた。右腕は黒鉄と融け合うような黒鱗。回収された魔将ダエモデクの細胞を利用した寄生異獣。生物と人工物が融合した漆黒の義肢が、（ch0245）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 俺はガロアンディアンの、ジャッフハリムの理念から最もかけ離れた振る舞いをしました。大切な誰かの為に身を捧げるのではなく、利己的に生存のみを欲してしまった。
+- **unknown**: ジャッフハリムを裏切り、逃亡してしまった俺に与えられた、一度きりの贖罪の機会
+- **unknown**: そう、ですな。俺はまだ、戦える。まだ、舞台は残っている
+- **unknown**: 「論外だな」 チリアットの口を借りて即答した。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「ではグラ、これを」 容易く引き抜かれた『俺の左腕』を受け取ったグラッフィアカーネこと『グラ』はそれを左腕に添えると、小道具のロープでぐるぐると縛りつける。
+
+<!-- /AUTO-GENERATED:action -->

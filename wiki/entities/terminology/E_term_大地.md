@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_大地
 type: entity
 subtype: terminology
 canonical_name: 大地
-title: "大地"
+title: 大地
 first_appearance: ch0228
 spoiler_after: ch0228
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 大地
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 神話では、地母神キュトスが槍によって貫かれたことで母なる大地は空に分かたれたという。それが最初の『大断絶』だ。（ch0268）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 大地の崩落。不安定な緑神に張り付けていた呪文が剥がれて藍神 ミュークリマ ラベル クリマ へと退行し、次々に真下に口を開けた奈落へと吸い込まれていく。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_舞台
 type: entity
 subtype: terminology
 canonical_name: 舞台
-title: "舞台"
+title: 舞台
 first_appearance: ch0091
 spoiler_after: ch0091
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 舞台
@@ -28,3 +29,31 @@ created: "2026-09-30"
 > 言葉が終わらないうちに世界が揺れ動く。時震による軋みだろう。ここは舞台裏、幕間に入ったわずかな亀裂のようなものだ。（ch0189）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: やがて二人を呼ぶ声がして、まもなく舞台が開演する。 はじめに演じられるのは美しい王の物語。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: これは舞台というゲーム盤で、展開を操作し、役を奪い合うという勝負なのだ。 俺とチリアット、グレンデルヒとゾーイ、そしてコルセスカと死人の森の女王。『役』と『役者』のペアに分かれて、それぞれが更に別の役を演じ、舞台に干渉し、展開を操作するという、即興だらけの演劇遊戯。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 暗転。月光が天井から降り注ぎ、舞台の上を照らし出す。 それは横倒しの塔だった。 朽ち果てた廃墟、石造りの骸、ここにあるのは空虚だけ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 繰り返し繰り返し、この舞台は上映されてきた。 残酷な運命に立ち向かう姫君と可憐な小人たち。 歌と踊りを織り交ぜた、悲惨と勇壮をミックスした悪趣味のショウ。 それはかつて起きた出来事。 取り返しのつかない敗北の結末だ。
+
+<!-- /AUTO-GENERATED:speech -->

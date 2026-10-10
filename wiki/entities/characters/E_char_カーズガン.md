@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_カーズガン
 type: entity
 subtype: character
 canonical_name: カーズガン
-title: "カーズガン"
+title: カーズガン
 first_appearance: ch0196
 spoiler_after: ch0196
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カーズガン
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 「おいこらっ、カーズガン、てめえっ！」 そのとき、激昂が友好の一幕に割って入った。 食ってかかったのは選手の一人。不良少年の雰囲気が抜けきれない若手レーサーのファーガストだった。巨漢は言葉には応じず、だが意味ありげな微笑を返す。（ch0233）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 第四階層の掌握者を暫定的に引き継いだカーズガンはヴィティスの配下であった修道騎士たちの進言を聞き入れ、戦闘の停止を宣言した。
+- **unknown**: 空に大穴を開けて突入してきた草の民を中心とした次元騎兵隊、その先頭で騎兵たちを率いているのは九槍が第四位、カーズガンの勇姿。
+- **unknown**: 『扉』から飛び込んできたのは巨大な馬――いや、騎乗した修道騎士だった。騎士は荒々しくそして華麗に馬を操ると、やあ、とう、といったかけ声と共に広間をひとしきり駆け回ってフォルスの隣に辿り着く。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ひとりは古き時代を直接知る夜の民、幻姿霊種族の頂点に立つ幽鬼の一角、ミシャルヒ。もうひとりは草の民の英雄、槍神教に忠誠を誓う無双の武人、カーズガン。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 『紀人カーズガンの再来』とまで言われた初代総長カーズガンが指揮するこの愚連隊は悪名高い『草裂き』の中でもとりわけ危険視された。
+
+<!-- /AUTO-GENERATED:relationship -->

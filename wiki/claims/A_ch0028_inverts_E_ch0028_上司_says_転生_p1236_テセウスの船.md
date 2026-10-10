@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0028_inverts_E_ch0028_上司_says_転生_p1236_テセウスの船
 title: テセウスの船による転生否定
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0028_上司_says_転生_p1236]]"

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_ニアホン
 type: entity
 subtype: item
 canonical_name: ニアホン
-title: "ニアホン"
+title: ニアホン
 first_appearance: ch0203
 spoiler_after: ch0203
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ニアホン
@@ -28,3 +29,11 @@ created: "2026-09-30"
 > 気安く笑いかけてくる暗殺者の女の手に、何かが握られているのが見えた。　小さな二頭身の人形にも見えるそれは、携帯端末化したエレクトラの仲間である。（ch0238）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 転生先は隣接異界の隠し病院と聞いているため、機械女王に依頼してニアホンを運ばせてもらったが、何らかのトラブルが起こったのか反応が途絶している。
+- **unknown**: ユディーアはニアホンを操作し、敵の命数を測定するアプリを起動した。
+
+<!-- /AUTO-GENERATED:action -->

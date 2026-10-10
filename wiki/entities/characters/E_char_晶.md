@@ -1,0 +1,35 @@
+---
+schema_version: '5.1'
+id: E_char_晶
+type: entity
+title: 晶
+subtype: character
+canonical_name: 晶
+aliases: []
+first_appearance: ch0155
+spoiler_after: ch0155
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 晶
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「ウィッチオーダー・プロト／アゴニスト起動。四十八番『ミュリエンティ』、絶対なる偶像を彫り出し無為なる祈りを捧げよ」
+- **unknown**: 「『崇拝』」
+- **unknown**: 切断されて『材木』となった異獣を『加工』していく。灼けた臭いが立ちこめて、異形の死体を用いた醜悪極まるオブジェが完成。
+- **unknown**: 「わたしにーさま、『完成』しそう？ なら、仕上げはわたしとお願いね」 恋い焦がれるような眼差しを自分自身に送って、少女は興奮のままに『件』を滅多打ちにしていく。
+- **unknown**: 長い黒髪を靡かせた『大蛇』の晶が水流を操って襲い掛かってくる。迎え撃つ『鎌鼬』と『件』。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「見つけた。わたしのアニムス。ねえわたしにーさま。わたしを殺して？」
+
+<!-- /AUTO-GENERATED:speech -->

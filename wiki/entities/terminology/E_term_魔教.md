@@ -1,0 +1,25 @@
+---
+schema_version: '5.1'
+id: E_term_魔教
+type: entity
+title: 魔教
+subtype: terminology
+canonical_name: 魔教
+aliases: []
+first_appearance: ch0122
+spoiler_after: ch0122
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 魔教
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「おお、偉大なるブレイスヴァ。そして、かの恐るべきあぎとを幻視した大予言者、オルヴァ・スマダルツォンよ！」魔教は、まずブレイスヴァを恐れ、それから一人の人物を崇め奉る。
+- **unknown**: 十三階段に一人ずつの生贄。それぞれが異なる階層の出身で、階段は十三の地位を表現している。それは一定の日時、場所、生贄を順番に処刑していくという条件を満たし、天の御殿より霊魂を逆流させるという大儀式。
+
+<!-- /AUTO-GENERATED:action -->

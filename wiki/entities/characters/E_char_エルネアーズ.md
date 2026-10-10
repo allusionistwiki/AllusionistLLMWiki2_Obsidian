@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_エルネアーズ
 type: entity
 subtype: character
 canonical_name: エルネアーズ
-title: "エルネアーズ"
+title: エルネアーズ
 first_appearance: ch0169
 spoiler_after: ch0169
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # エルネアーズ
@@ -27,3 +28,19 @@ created: "2026-09-30"
 > ぱかり、と建物の一部が開いて出口を示す。 ただひとり、合格を認められた鮮血の少女は一足先にその場を立ち去っていく。（ch0169）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 我関せずとばかりに横向きの椅子に腰掛けて静かに読書している少女がいた。 静かな緑の瞳に二つ結びの赤い髪、鮮血の生気と鋼鉄の無機質さを兼ね備えた人形。 もっとも小さな、か弱い少女。 彼女はただひとり、不安を感じた様子も無く寡黙に読書を続けている。
+- **unknown**: 「眠れ」 ちくり。鮮血の少女は、血のような赤い針で影を一刺し。 それだけで暗闇は微睡むように力を失い、暗い闇の底へと落ちていった。
+- **unknown**: ぱかり、と建物の一部が開いて出口を示す。 ただひとり、合格を認められた鮮血の少女は一足先にその場を立ち去っていく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「こんな時に何をしているの、エルネアーズ！」 「漫画を読んでいます」 淡々とした答えに、その場にいる全員がたじろいだ。
+
+<!-- /AUTO-GENERATED:speech -->

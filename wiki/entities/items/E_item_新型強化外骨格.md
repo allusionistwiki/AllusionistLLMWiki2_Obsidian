@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_新型強化外骨格
 type: entity
 subtype: item
 canonical_name: 新型強化外骨格
-title: "新型強化外骨格"
+title: 新型強化外骨格
 first_appearance: ch0118
 spoiler_after: ch0118
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 新型強化外骨格
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 上顎の第四前臼歯である裂肉歯が燐光に包まれて更なる大型化を遂げる。視界を妨げないように真下に伸びた牙と牙の間に透明な素材が形成され、暗色のヘルメットバイザーとなる。（ch0118）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 構えをとると、鎧は滑らかに従った。むしろ鎧の方がアキラを導くかのように息を合わせてくれている。それは意思を持った生けるマー鎧だった。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 装甲に覆われた両腕の尖端部から鏡を纏う氷の拳と歯車を回す鋼鉄の拳が迫り出した。
+- **unknown**: 上顎の第四前臼歯である裂肉歯が燐光に包まれて更なる大型化を遂げる。視界を妨げないように真下に伸びた牙と牙の間に透明な素材が形成され、暗色のヘルメットバイザーとなる。
+
+<!-- /AUTO-GENERATED:visual -->

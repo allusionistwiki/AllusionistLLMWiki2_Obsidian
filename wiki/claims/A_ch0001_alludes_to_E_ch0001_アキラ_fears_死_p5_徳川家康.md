@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0001_alludes_to_E_ch0001_アキラ_fears_死_p5_徳川家康
 title: 家康の脱糞で死の恐怖を正当化
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_wounds_左腕_p5]]"

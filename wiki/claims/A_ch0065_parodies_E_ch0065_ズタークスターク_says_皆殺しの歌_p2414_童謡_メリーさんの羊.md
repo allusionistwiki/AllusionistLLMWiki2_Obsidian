@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0065_parodies_E_ch0065_ズタークスターク_says_皆殺しの歌_p2414_童謡_メリーさんの羊
 title: メリーさんの羊への暴力転倒
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ズタークスターク_kills_警備部隊_p2414]]"

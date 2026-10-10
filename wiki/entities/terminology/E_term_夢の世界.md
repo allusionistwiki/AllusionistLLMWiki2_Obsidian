@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_夢の世界
 type: entity
 subtype: terminology
 canonical_name: 夢の世界
-title: "夢の世界"
+title: 夢の世界
 first_appearance: ch0168
 spoiler_after: ch0168
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 夢の世界
@@ -27,3 +28,18 @@ created: "2026-09-30"
 > 「私たちと利害が一致してるわけ。『上』ではあまり馴染みの無い『夢の世界』からの攻撃ならリールエルバも完璧な対処はできないんじゃないかと思って」（ch0180）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: その一方で夢の世界だけにあらゆることが適当という欠点もありそうだ。作りかけで放棄されたものがそこら中に散らばっており、諸々の権利関係なんかもかなり適当な扱いのようだ。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 途端、あらゆる光景がかき消えて一瞬にして別世界が広がっていく。茶の海の上にクッキーの島が幾つも浮いているという甘ったるい世界は、一体誰の夢なのだろう。
+- **unknown**: お菓子だらけの夢がたちまち羊水へと変化し、光という光が全て暗黒へと変換されていく。流れる大河は血に染まり、陸地の全てがピンク色の肉塊へと変貌。
+
+<!-- /AUTO-GENERATED:visual -->

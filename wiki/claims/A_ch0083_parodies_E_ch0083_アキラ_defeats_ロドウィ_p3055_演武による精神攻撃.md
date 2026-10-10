@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0083_parodies_E_ch0083_アキラ_defeats_ロドウィ_p3055_演武による精神攻撃
 title: VR格闘ゲーム的認識ハッキング
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_アキラ_defeats_ロドウィ_p3055]]"

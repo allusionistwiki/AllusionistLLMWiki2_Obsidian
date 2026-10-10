@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_org_レストロオセ派
+type: entity
+title: レストロオセ派
+subtype: organization
+canonical_name: レストロオセ派
+aliases: []
+first_appearance: ch0148
+spoiler_after: ch0148
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# レストロオセ派
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「そんな感じ。情報統制されてるけど、半年くらい前にジャッフハリム最高評議会議長レストロオセが何らかの謀略を仕掛けられたって情報は掴んでる。それから、同時期に数名の評議員が辞職してることや、呪的財産としての『王族』たちが次々と病死、唯一の生き残りが誘拐されたことも」
+
+<!-- /AUTO-GENERATED:visual -->

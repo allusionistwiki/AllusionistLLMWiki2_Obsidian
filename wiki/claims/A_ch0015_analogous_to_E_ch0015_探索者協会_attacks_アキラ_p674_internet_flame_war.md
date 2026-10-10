@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0015_analogous_to_E_ch0015_探索者協会_attacks_アキラ_p674_internet_flame_war
 title: ネット炎上構造の再現
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_探索者協会_attacks_アキラ_p674]]"

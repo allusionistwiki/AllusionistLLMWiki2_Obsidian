@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_地下アイドル空間
 type: entity
 subtype: terminology
 canonical_name: 地下アイドル空間
-title: "地下アイドル空間"
+title: 地下アイドル空間
 first_appearance: ch0165
 spoiler_after: ch0165
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 地下アイドル空間
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 生産区画付近の地下にあるのは旧白骨迷宮。（ch0222）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 地下アイドル空間に聳え立つランキング。厳しさの象徴であり、競争による質の向上にも役立つシステムだが
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 生産区画付近の地下にあるのは旧白骨迷宮。
+
+<!-- /AUTO-GENERATED:name -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_男たち
 type: entity
 subtype: character
 canonical_name: 男たち
-title: "男たち"
+title: 男たち
 first_appearance: ch0077
 spoiler_after: ch0077
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 男たち
@@ -28,3 +29,12 @@ created: "2026-09-30"
 > 動かない状況に焦れてきた男たちは強引に二人を拉致しようと懐から武器を取り出そうとする。（ch0203）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 暴漢、と一括りにしてしまうには屋台を取り囲む男たちには『色』が付きすぎていた。数は五人、いずれも黒い肌に尖り耳の半妖精、手の甲には共通した黒豚の刺青、同じ共同体に属するもの特有の同質性の高い気配。
+- **unknown**: 立ちこめる霧を盾にしながら四人の男が空中に無数の鏃をばらまく。半妖精の集団が戦意を込めて小片を睨むと、瞳に宿った輝きに呼応するように鏃の後ろに光の矢が出現。マジックミサイルと呼ばれる呪力矢が横殴りの雨となって店員とその背後の屋台に襲いかかる。
+- **unknown**: 動かない状況に焦れてきた男たちは強引に二人を拉致しようと懐から武器を取り出そうとする。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ガザ
 type: entity
 subtype: character
 canonical_name: ガザ
-title: "ガザ"
+title: ガザ
 first_appearance: ch0212
 spoiler_after: ch0212
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ガザ
@@ -27,3 +28,18 @@ created: "2026-09-30"
 > 既に戦意はないと見て、ガザとアデンがローザに浄界の解除を要請する。（ch0244）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ガザ：枝矛使いの戦士。エストの亡き父とは旧友。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 轟音。堅く重い生命樹は少女を叩き潰す直前で静止していた。ガザとアデンがすんでの所で割って入り、ヒュレーの攻撃を止めたのだ。
+- **unknown**: 既に戦意はないと見て、ガザとアデンがローザに浄界の解除を要請する。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_鎌鼬
 type: entity
 subtype: character
 canonical_name: 鎌鼬
-title: "鎌鼬"
+title: 鎌鼬
 first_appearance: ch0156
 spoiler_after: ch0156
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 鎌鼬
@@ -28,3 +29,30 @@ created: "2026-09-30"
 > 「オリジナルちゃんはさ、カッサリオステーキで呪力アップってのをやったらしーわけ。同じ理屈で、俺も吸血鬼ワイルド食いでアガりそうじゃね？」（ch0172）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「どーよ、俺のマジやべー殺意？　っつーかお前のそれ無価値じゃん？　的な価値観は。虚無っぽくね？」
+- **unknown**: データへのリスペクトと道場があれば猿真似も功夫になるってのがサイカラの極意っしょ
+- **unknown**: 「うおおすげえあれキロン戦の最後で見せた炎天使モードじゃん！ 俺あの動画見てサイバーカラテ始めたんだよね、マジ感動なんだけど！」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 妖しく輝くナイフを手にした鮮血塗れのその男、名は俺と同じシナモリアキラ。『鎌鼬』は、生肉を食い千切りながら登場した
+- **unknown**: 「オリジナルちゃんはさ、カッサリオステーキで呪力アップってのをやったらしーわけ。同じ理屈で、俺も吸血鬼ワイルド食いでアガりそうじゃね？」
+- **unknown**: 紫色の染みが侵食していく。痣というには毒々しすぎる呪祖によって、もはや彼女は霧に変化することすらできなくなっていた
+- **unknown**: 「お？ なんか当たったんじゃね？」
+- **unknown**: 切断した腕に刻んだのは自らの名。自分の一部を囮とすることで大顎の狙いを逸らし、その隙に手近なマンホールから下水道へ逃げて行ったのだ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『鎌鼬』：殺人鬼シナモリアキラをリスペクトするシリアルキラー。
+
+<!-- /AUTO-GENERATED:name -->

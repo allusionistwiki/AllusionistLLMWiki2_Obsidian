@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_犬耳ドラマー
 type: entity
 subtype: character
 canonical_name: 犬耳ドラマー
-title: "犬耳ドラマー"
+title: 犬耳ドラマー
 first_appearance: ch0168
 spoiler_after: ch0168
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 犬耳ドラマー
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 堂々と焼死体ベーシストと吸血鬼ギタリストの両方と『仲良く』しているという事実が赤裸々に語られていた。（ch0168）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 犬耳ドラマーは夢の中であってもあえて『眠り棺』を『創造』して纏い、『機械が行う正確無比な生演奏』を演じてみせる。
+- **unknown**: 堂々と焼死体ベーシストと吸血鬼ギタリストの両方と『仲良く』しているという事実が赤裸々に語られていた。
+
+<!-- /AUTO-GENERATED:action -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_イキュー_p1541_gastronomy_horror
 title: 美食追求のグルメホラー
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_other_イキュー_p1541]]"

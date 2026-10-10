@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ヘレネ
 type: entity
 subtype: character
 canonical_name: ヘレネ
-title: "ヘレネ"
+title: ヘレネ
 first_appearance: ch0230
 spoiler_after: ch0230
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ヘレネ
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > ヘレネ：ロードデンドロンの腹違いの姉。卑屈で陰気。別行動中。クイーン。（ch0232）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「その美貌のため。世界一の美女であるヘレネを巡って男たちが争ったの。ヘレネは神に選ばれた英雄に誘拐されて強引に結婚させられた。」
+- **unknown**: 「ねえ、エスト。もしも、もしもだよ？ 私があなたをさらって逃げようとしたら、どうする？ 逆に、私をさらって逃げてってお願いしたら、どうする？」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ヘレネ：ロードデンドロンの腹違いの姉。卑屈で陰気。別行動中。クイーン。
+
+<!-- /AUTO-GENERATED:name -->

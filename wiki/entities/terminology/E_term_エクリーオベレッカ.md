@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_エクリーオベレッカ
 type: entity
 subtype: terminology
 canonical_name: エクリーオベレッカ
-title: "エクリーオベレッカ"
+title: エクリーオベレッカ
 first_appearance: ch0254
 spoiler_after: ch0254
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # エクリーオベレッカ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 逆さに屹立する天の御殿。 紀神エクリーオベレッカの中に。（ch0268）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 逆さに屹立する天の御殿。紀神エクリーオベレッカの中に。
+
+<!-- /AUTO-GENERATED:visual -->

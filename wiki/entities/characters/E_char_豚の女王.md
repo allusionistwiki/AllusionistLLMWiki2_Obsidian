@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_豚の女王
 type: entity
 subtype: character
 canonical_name: 豚の女王
-title: "豚の女王"
+title: 豚の女王
 first_appearance: ch0191
 spoiler_after: ch0191
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 豚の女王
@@ -27,3 +28,20 @@ created: "2026-09-30"
 > 「私の目的は、『死人の森』のアップデート。再演によって新たな神話を生み出すことだったのです」（ch0191）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 侍女人形の遺体、蝿まみれの豚の屍がゆっくりと立ち上がる。 蘇りの過程でその腐肉は崩れ、しかして不気味に蠢き膨張し続ける。
+- **unknown**: ほっそりとしてはいるが、サイズ感の狂った巨大な手が柱の如き槍を掴み、一気に引き抜く。 槍を掲げた怪物は全身に歓喜を漲らせて叫んだ。「やっと取り戻せた。私の浄界、私の死人の森、私の世界槍、私の力。未だ完全ではありませんが、感慨深いものですね」
+- **unknown**: ぶうぶう鳴きながら豚が口と鼻から垂れ流すのは黒く濁った油だ。 ゼドは帽子を脱ぎ、頭上から降り注ぐ汚液を頭で受け止める。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「本来の第八世界槍である世界樹ティルブ＝ユグドラシルは松明の炎によって死を迎えました。その後、欠落した世界の軸を私の槍が埋めて安定化させた。それが現在の上書きされたこの世界槍というわけです」
+- **unknown**: 「私の目的は、『死人の森』のアップデート。再演によって新たな神話を生み出すことだったのです」
+
+<!-- /AUTO-GENERATED:speech -->

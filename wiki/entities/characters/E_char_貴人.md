@@ -1,5 +1,5 @@
 ---
-title: "貴人"
+title: 貴人
 schema_version: '5.1'
 id: E_char_貴人
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0069
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 貴人
@@ -40,12 +40,14 @@ updated: '2026-10-02'
 - **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
 - **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
 - **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
+- **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」
 - **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」
 - **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」
 - **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」

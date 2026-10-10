@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_マナタル勇者戦団
 type: entity
 subtype: organization
 canonical_name: マナタル勇者戦団
-title: "マナタル勇者戦団"
+title: マナタル勇者戦団
 first_appearance: ch0244
 spoiler_after: ch0244
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # マナタル勇者戦団
@@ -28,3 +29,27 @@ created: "2026-09-30"
 > 「お前たちのような惰弱な裏切り者は存在してはならない。このような分断工作を強いた卑劣なプリエステラ、槍神に媚びる淫らがましい腐れ子房を必ずや排除すべきだ！」（ch0244）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 戦いは激化の一途を辿っていた。 迫りくる過激派ティリビナ人組織、マナタル勇者戦団。 防戦一方のアルテミシアと逃げ惑うキノコ人の少年『掃除屋』。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ああ、その通りだ。お前たちのような腰抜けに目覚めの機会を与えるためにな！ この闘争を狼煙がわりに、世界中に我らの意思を示す時だ！」
+- **unknown**: 「この祝祭は絶好の機会なんだ、ぶち壊しにする気か？！」
+- **unknown**: 「お前たちのような惰弱な裏切り者は存在してはならない。このような分断工作を強いた卑劣なプリエステラ、槍神に媚びる淫らがましい腐れ子房を必ずや排除すべきだ！」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: マナタル勇者戦団の思想は、同胞たちの被害さえ厭わない過激なものだった。
+- **unknown**: 過激派集団と穏健派集団。これは『ふり』だ。おそらく、どちらも。
+
+<!-- /AUTO-GENERATED:symbolic -->

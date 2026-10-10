@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_三眼瞬知
 type: entity
 subtype: terminology
 canonical_name: 三眼瞬知
-title: "三眼瞬知"
+title: 三眼瞬知
 first_appearance: ch0245
 spoiler_after: ch0245
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 三眼瞬知
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 瞬間、槍を中心にして静止時空が広がっていく。　天眼の民の奥義、『三眼瞬知』。（ch0259）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: だがチリアットの加速ロジックは正統な三眼瞬知のものとは異なり、死を遠ざけたいという渇望によって変質していた。
+
+<!-- /AUTO-GENERATED:symbolic -->

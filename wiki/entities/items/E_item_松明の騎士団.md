@@ -1,0 +1,31 @@
+---
+schema_version: '5.1'
+id: E_item_松明の騎士団
+type: entity
+title: 松明の騎士団
+subtype: item
+canonical_name: 松明の騎士団
+aliases: []
+first_appearance: ch0177
+spoiler_after: ch0177
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 松明の騎士団
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「『松明』の偉い人が視察に来るみたい。『事前に承諾はもらったはずなのに難癖つけてくる気なの？！』って思わず拳握っちゃったけど、なんかお祭りを見てみたいんだってさ。珍しいよね、こういうこと」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「近々第四階層に配備されるって噂だよ。確か例によって異界神話からの名付けで、『ハルピュイアシリーズ』って言うんだって。全部で五機配備されるみたい」
+
+<!-- /AUTO-GENERATED:name -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_若者たち
 type: entity
 subtype: character
 canonical_name: 若者たち
-title: "若者たち"
+title: 若者たち
 first_appearance: ch0206
 spoiler_after: ch0206
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 若者たち
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 市民を守った英雄たちはいずれも十代から三十代までの若者たちだった。（ch0251）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 市民を守った英雄たちはいずれも十代から三十代までの若者たちだった。
+
+<!-- /AUTO-GENERATED:action -->

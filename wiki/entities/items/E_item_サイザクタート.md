@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_サイザクタート
 type: entity
 subtype: item
 canonical_name: サイザクタート
-title: "サイザクタート"
+title: サイザクタート
 first_appearance: ch0095
 spoiler_after: ch0095
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # サイザクタート
@@ -27,3 +28,10 @@ created: "2026-09-30"
 > 先程まで眠っていたサイザクタートの左右の頭部が目覚めていた。互いを『ディー』『ダム』と呼び合う頭部の瞳が朱色に輝くと、ヴァージルを中心とした空間が曖昧に揺らぎ、破壊に類する事象が全て巻き戻されていく。（ch0131）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 先程まで眠っていたサイザクタートの左右の頭部が目覚めていた。互いを『ディー』『ダム』と呼び合う頭部の瞳が朱色に輝くと、ヴァージルを中心とした空間が曖昧に揺らぎ、破壊に類する事象が全て巻き戻されていく。
+
+<!-- /AUTO-GENERATED:action -->

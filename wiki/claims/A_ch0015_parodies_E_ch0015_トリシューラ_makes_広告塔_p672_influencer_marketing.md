@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0015_parodies_E_ch0015_トリシューラ_makes_広告塔_p672_influencer_marketing
 title: インフルエンサー搾取の風刺
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_トリシューラ_makes_広告塔_p672]]"

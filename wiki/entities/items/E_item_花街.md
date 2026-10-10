@@ -1,0 +1,25 @@
+---
+schema_version: '5.1'
+id: E_item_花街
+type: entity
+title: 花街
+subtype: item
+canonical_name: 花街
+aliases: []
+first_appearance: ch0084
+spoiler_after: ch0084
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 花街
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 公社の管理下におかれている事は変わらないが、トリシューラによって環境の改善がなされ、公営化された賭博場や娼館。 取り仕切っていた犯罪組織は一切の慈悲無く物理的に駆逐され、夥しい量の血が流れた結果として、そこには一定の平和が訪れていた。
+- **unknown**: 多様な形態の人工交接器。簡易脱着可能な男性用乳房。感覚を任意の箇所に移動させるサービス。一時石化系の嗜好に対応した店。
+
+<!-- /AUTO-GENERATED:visual -->

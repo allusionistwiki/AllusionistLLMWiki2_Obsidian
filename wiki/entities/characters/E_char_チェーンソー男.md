@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_チェーンソー男
 type: entity
 subtype: character
 canonical_name: チェーンソー男
-title: "チェーンソー男"
+title: チェーンソー男
 first_appearance: ch0151
 spoiler_after: ch0151
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # チェーンソー男
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > レオは柔らかい微笑みを作っていつものように対話を試みようとしたが――その時、少年の三角耳が動いた。くるりと振り返って全力で駆け出す。（ch0151）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その手からぶらりと垂れ下がるものは、二つの生首。 長めの髪の毛を掴まれている、蠍尾と銃士の、無惨な末路だった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ゆっくりと、存在しない両腕が『創造』されていく。 それはチェーンソー。樹木を伐採するための機械。
+- **unknown**: その彼をして対話不可能と判断するしかない怪人は、警備ドローンを破壊しながら少年を執拗に追いかける。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 男がゆっくりと口を開いて、言った。「除伐しよう」
+- **unknown**: 男がそう名乗ったことは無いが、彼を『シナモリアキラ』と規定するのなら、その『異物』としての性質が当てはまるのかもしれなかった。
+
+<!-- /AUTO-GENERATED:speech -->

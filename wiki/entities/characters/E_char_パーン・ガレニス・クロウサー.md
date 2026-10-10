@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_パーン・ガレニス・クロウサー
 type: entity
 subtype: character
 canonical_name: パーン・ガレニス・クロウサー
-title: "パーン・ガレニス・クロウサー"
+title: パーン・ガレニス・クロウサー
 first_appearance: ch0124
 spoiler_after: ch0124
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # パーン・ガレニス・クロウサー
@@ -28,3 +29,32 @@ created: "2026-09-30"
 > 小さな身体に比して右側の鋼鉄の長い義腕は大きすぎるのか、前に突き出すようにしてバランスをとっている。（ch0233）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「いいか、外交という名の闘争は既に始まっているのだ。文化という武器を用いての戦いがな。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「ミルーニャ・アルタネイフは預かった」『空使い』候補たるリーナのパートナーが誘拐された。誘拐犯であるパーンはミルーニャを人質にとって堂々と動画を配信した。
+- **unknown**: 空の競技場を一条の稲妻が駆け抜けていく。 他を圧倒する速度での飛翔。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: パーン・ガレニス・クロウサー：ガレニス家最後の当主。クロウサー家に挑む。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 小さな身体に比して右側の鋼鉄の長い義腕は大きすぎるのか、前に突き出すようにしてバランスをとっている。
+
+<!-- /AUTO-GENERATED:visual -->

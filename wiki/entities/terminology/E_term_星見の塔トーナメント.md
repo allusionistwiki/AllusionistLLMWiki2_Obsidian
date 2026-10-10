@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_星見の塔トーナメント
 type: entity
 subtype: terminology
 canonical_name: 星見の塔トーナメント
-title: "星見の塔トーナメント"
+title: 星見の塔トーナメント
 first_appearance: ch0088
 spoiler_after: ch0088
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 星見の塔トーナメント
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > この【星見の塔トーナメント】はコルセスカの発案で行われている、歴史のある呪術儀式だそうだ。（ch0089）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: この【星見の塔トーナメント】はコルセスカの発案で行われている、歴史のある呪術儀式だそうだ。
+
+<!-- /AUTO-GENERATED:action -->

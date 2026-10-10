@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_シャーネス
 type: entity
 subtype: character
 canonical_name: シャーネス
-title: "シャーネス"
+title: シャーネス
 first_appearance: ch0253
 spoiler_after: ch0253
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # シャーネス
@@ -34,3 +35,17 @@ created: "2026-09-30"
 - [[E_char_ルスクォミーズ|ルスクォミーズ]] — 関連(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 七つの風の主。その号が暗示するのは彼女の不死性の由来だ。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: そのような『軽い』自己像では足場が定まらず、より強固な個我を持った邪視をぶつけられればあっさりと押しのけられてしまうだろう。
+
+<!-- /AUTO-GENERATED:symbolic -->

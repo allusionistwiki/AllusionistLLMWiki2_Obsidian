@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_異界
 type: entity
 subtype: terminology
 canonical_name: 異界
-title: "異界"
+title: 異界
 first_appearance: ch0102
 spoiler_after: ch0102
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 異界
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 均衡は破られ、かりそめの平穏は脆くも崩れ去った。 要塞を守っていた障壁、異界を映し出すスクリーンの一つに生じた異変によって。（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 均衡は破られ、かりそめの平穏は脆くも崩れ去った。 要塞を守っていた障壁、異界を映し出すスクリーンの一つに生じた異変によって。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_穏健派ティリビナ人
 type: entity
 subtype: character
 canonical_name: 穏健派ティリビナ人
-title: "穏健派ティリビナ人"
+title: 穏健派ティリビナ人
 first_appearance: ch0244
 spoiler_after: ch0244
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 穏健派ティリビナ人
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 「葉針派の呪剣士か。そこの君、あいつはまだ強烈な『陽閃』という切り札を隠している。それと滑るような歩法は『根潜り』だ。浮かせるか、岩などの障害物で床を作れば妨害できるはず」（ch0244）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「こんなことをしても我々の立場が悪くなるばかりだとなぜわからない！ 矛を収めろ、地上にも話し合える者はいる！」
+- **unknown**: 「葉針派の呪剣士か。そこの君、あいつはまだ強烈な『陽閃』という切り札を隠している。それと滑るような歩法は『根潜り』だ。浮かせるか、岩などの障害物で床を作れば妨害できるはず」
+
+<!-- /AUTO-GENERATED:speech -->

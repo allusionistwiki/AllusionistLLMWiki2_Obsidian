@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_レッテ
 type: entity
 subtype: character
 canonical_name: レッテ
-title: "レッテ"
+title: レッテ
 first_appearance: ch0131
 spoiler_after: ch0131
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # レッテ
@@ -28,3 +29,27 @@ created: "2026-09-30"
 > 「レッテ、泣かないで。私が付いてるわ」 砂茶の少女、侍女姿の人形がぴったりと寄り添って言った。（ch0169）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「きっとあれは一号の怨念なんだわ。置き去りにしたことを恨んでいるの」
+- **unknown**: 「大丈夫よみんな。私たちはラクルラールお姉様に、今度こそ打ち勝つの」
+- **unknown**: 「だから私はカーティスに注目したの。六王の中で、最もその痕跡を現代に遺しているスキリシアの暗君こそ私の希望」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 姫君は犠牲となり、塔の天辺から飛び降りた。 哀れ、青い糸に吊り上げられた彼女は傾いた塔を真っ逆さまに落ちていく。 上へ上へと、堕ちていく。
+- **unknown**: そうして天上に座す全能の造物主の操り人形として生まれ変わるのだ。 反抗期はおしまい、これからは正しいお勉強の時間。 折り目正しい優等生として、人形たちを導く模範生になりましょう。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ああ、けれど、それでもまだ。 どぶのように濁った瞳が、ちいさな妹を見る。 読めない漫画を大事そうに抱えた侍女服の可愛らしいぜんまいばねの人形を。
+
+<!-- /AUTO-GENERATED:visual -->

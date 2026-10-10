@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_掃除屋
 type: entity
 subtype: character
 canonical_name: 掃除屋
-title: "掃除屋"
-first_appearance: ch0227
-spoiler_after: ch0227
+title: 掃除屋
+first_appearance: ch0226
+spoiler_after: ch0226
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 掃除屋
@@ -35,3 +36,29 @@ created: "2026-09-30"
 - [[E_char_クレイ|クレイ]] — 関連(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 少年の目はトロルの岩肌にこびりついた精霊を見逃さない。彼は知っている。エリカお嬢様が見せてくれた。これはディスケイムの精霊だ。
+- **unknown**: 『掃除屋』は勤務しているペットショップ『ケイブ＆ネスト』は『影走り』の登録使い魔センターである。
+- **unknown**: 『掃除屋』はここがノゴルオゴルオの拠点であることを確信していた。
+- **unknown**: 『透視』は千里眼や天眼などと呼ばれる超知覚の一種だが、少年の実感としては『反知覚』とでも言うべき技術だった。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「『掃除屋』、まさかお前がライラ・ラプスに寝返るなんてな！　エリカ様への恩義を忘れる不忠者め！」
+- **unknown**: 「転生の『体験』っていう形で神秘を卑俗化しているところが要点なんでしょうね、あのアプリ。あとは記憶をデータとして扱うのは杖の得意技だし、実際には『サイバーカラテ道場』のデータ収集が主な目的なんじゃないでしょうか」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『掃除屋』：隠花族最速の箒乗り。エリカを慕い、いつか顕花族になることを夢見る。
+- **unknown**: 『掃除屋』：本気でやれば一位通過だった。現在はクレイと共に家出中。
+
+<!-- /AUTO-GENERATED:name -->

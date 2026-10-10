@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_感染呪術
 type: entity
 subtype: terminology
 canonical_name: 感染呪術
-title: "感染呪術"
+title: 感染呪術
 first_appearance: ch0090
 spoiler_after: ch0090
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 感染呪術
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > （釘を傷付いたり病んだりしている部位に触れさせてから地面に打ち込むことで『穢れ』を地面に転移させて癒すという感染呪術だよ。その地面は踏めば傷と病が足裏から伝わる罠だから気をつけて）（ch0141）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 感染呪術。 かつてトリシューラから受けた講義を俺なりに解釈すると、この呪術は関係性の拡張である以前に、身体性の拡張に含まれることになる。
+- **unknown**: まず『あらゆる生命は元は一つのものであった』という認識を用意する。 親子はもちろん近しい親族に至るまで、『起源が同一である』という点に繋がりを見出すことで、同質性を仮構するのだ。
+
+<!-- /AUTO-GENERATED:symbolic -->

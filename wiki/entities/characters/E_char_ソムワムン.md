@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ソムワムン
 type: entity
 subtype: character
 canonical_name: ソムワムン
-title: "ソムワムン"
+title: ソムワムン
 first_appearance: ch0136
 spoiler_after: ch0136
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ソムワムン
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > ソムワムンの巨体が、細剣に一刺しされただけで見る見るうちに萎んでいった。 『生命吸収』の呪術が刻まれた呪具なのだろう。 呪力や生命力を血液になぞらえ、蚊がそうするように吸血する。（ch0242）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「お寝坊ブランチはとうもろこしに納豆！ 数学のテストが十時ってどういうこと？！」 甲高い金切り声を発しながら、赤眼騎士団を率いる異形の怪物ソムワムンが警戒を促した。
+
+<!-- /AUTO-GENERATED:speech -->

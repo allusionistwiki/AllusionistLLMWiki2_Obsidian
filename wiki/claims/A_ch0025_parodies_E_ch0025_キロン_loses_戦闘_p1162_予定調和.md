@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0025_parodies_E_ch0025_キロン_loses_戦闘_p1162_予定調和
 title: 予定調和への逆転劇強制終了
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_キロン_loses_戦闘_p1162]]"

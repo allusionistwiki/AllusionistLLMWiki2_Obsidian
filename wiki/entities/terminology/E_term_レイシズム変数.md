@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_レイシズム変数
 type: entity
 subtype: terminology
 canonical_name: レイシズム変数
-title: "レイシズム変数"
+title: レイシズム変数
 first_appearance: ch0177
 spoiler_after: ch0177
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # レイシズム変数
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 「レイシズム変数。『光り物を追い回すしか能がないカラス』『馬鹿な鍛冶屋』『獲物も狩れない草食』『のっぽの観光客』『魚臭い田舎者』」（ch0212）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 大地の風景はたちまち変貌し、鬱蒼と生い茂るのは濃い色の密林。 その森に道は無く、緑の葉は無く、黒ずんだ葉が茂る。 節くれて曲がりくねった枝、果実は実らず腐り堕ち、毒を含んだ棘が生えている。
+
+<!-- /AUTO-GENERATED:action -->

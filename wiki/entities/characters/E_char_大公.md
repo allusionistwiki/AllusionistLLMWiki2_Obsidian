@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_大公
 type: entity
 subtype: character
 canonical_name: 大公
-title: "大公"
+title: 大公
 first_appearance: ch0153
 spoiler_after: ch0153
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 大公
@@ -26,3 +27,31 @@ created: "2026-09-30"
 > 「名前をあげる。父の呪縛ではなく、獅子王の贈り物でもない。俺があの墓標船から拾ってきた虚構の名だ。きっときみにはぴったりだよ」（ch0153）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: しかし紫とは共通する感性を有しており、「ああ、全てはむなしい」「おお、ブレイスヴァよ」 と二人して草の煙を燻らせながら、厭世的な気分に浸ることもあった。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: はぐれ者の王子は老人を見ると非難がましい口調で、「残酷なことをする」 と言った。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 長い躊躇いを断ち切るように、空から巨大な鏡が落ちてくる。断頭の刃。自由落下の死。王は機械的に命を落とした。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「名前をあげる。父の呪縛ではなく、獅子王の贈り物でもない。俺があの墓標船から拾ってきた虚構の名だ。きっときみにはぴったりだよ」
+
+<!-- /AUTO-GENERATED:name -->

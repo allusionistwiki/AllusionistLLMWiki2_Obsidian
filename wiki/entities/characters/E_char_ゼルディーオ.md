@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ゼルディーオ
 type: entity
 subtype: character
 canonical_name: ゼルディーオ
-title: "ゼルディーオ"
+title: ゼルディーオ
 first_appearance: ch0188
 spoiler_after: ch0188
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ゼルディーオ
@@ -28,3 +29,18 @@ created: "2026-09-30"
 > 迎え撃つのは学院筆頭、『星』を超えた『星』、幼き輝きのヒメとそれに付き従う六人の生徒会執行部。（ch0188）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 激怒したゼルディーオは連絡船からの屈辱信号を受け取るや否や、本国から六人の将を引き連れて学院を強襲。
+- **unknown**: ついに大魚の悪魔が投擲した長大な槍が、氷の少女の胸を貫いたのだ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「僕は槍の系譜に連なる鈴国の英雄ゼルディーオ。ナプラサフラス、ポルポフォン、シェロン、ソルダ――幾多の英雄たちに転生を重ねてようやく巡り会えた。君こそ僕の花嫁、前世からの運命で結びつけられた最果ての恋人だ！」
+
+<!-- /AUTO-GENERATED:name -->

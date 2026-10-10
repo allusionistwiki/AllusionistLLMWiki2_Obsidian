@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0060_structurally_matches_E_ch0060_アズーリア_other_ハルベルトの共有_p2277_quantum_entanglement
 title: 量子もつれへの構造対応
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_アズーリア_other_ハルベルトの共有_p2277]]"

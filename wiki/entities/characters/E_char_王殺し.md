@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_王殺し
 type: entity
 subtype: character
 canonical_name: 王殺し
-title: "王殺し"
+title: 王殺し
 first_appearance: ch0205
 spoiler_after: ch0205
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 王殺し
@@ -28,3 +29,24 @@ created: "2026-09-30"
 > 予想が正しければ、この中に『王殺し』が紛れているはずだ。三位以内に入賞すれば表彰式で機械女王の暗殺が狙える。（ch0222）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 『王殺し』は『上』の出身だが、だからといって予断は禁物だ。　彼の変身を見破るのはほとんど不可能。どんな種族に化けているか、想像すらできない。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 頭上の立体幻像を、ガロアンディアンの誰もが注視していた。 『王殺し』と呼ばれた男の美貌は夜空に口を開いた影のように幻惑的だった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「機械女王トリシューラに告ぐ。これより祝祭はお前と言う独裁者の審判へと姿を変える。お前が正しき王の器であるならば良し。もしそうでないのなら」 「覚悟しろ。この『王殺し』が、断罪の爪牙でお前の闇を照らすだろう」
+
+<!-- /AUTO-GENERATED:speech -->

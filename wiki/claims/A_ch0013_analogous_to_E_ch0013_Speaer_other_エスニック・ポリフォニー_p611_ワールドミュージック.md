@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0013_analogous_to_E_ch0013_Speaer_other_エスニック・ポリフォニー_p611_ワールドミュージック
 title: ワールドミュージックの無国籍性
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0013_Speaer_other_エスニック・ポリフォニー_p611]]"

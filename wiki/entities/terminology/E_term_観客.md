@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_term_観客
+type: entity
+title: 観客
+subtype: terminology
+canonical_name: 観客
+aliases: []
+first_appearance: ch0233
+spoiler_after: ch0233
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 観客
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「これマジ？」「『冬の魔女』と『王殺し』のガチバトル見れんじゃね？」「ガロアンディアン終了のお知らせ」「コラボで暗殺はないでしょ」「暗殺された後で二号機が出てくるんでしょ。知ってる」「『王殺し』ってこういうコラボやるタイプだったっけ」「正直言って幻滅だわ。もっとストイックに悪政を打倒していく人だと思ってた」「機械女王そこまで暴君？ 思ってたより保守的なのかな」「槍と翼ガン無視でワンちゃんかわいいね」
+
+<!-- /AUTO-GENERATED:speech -->

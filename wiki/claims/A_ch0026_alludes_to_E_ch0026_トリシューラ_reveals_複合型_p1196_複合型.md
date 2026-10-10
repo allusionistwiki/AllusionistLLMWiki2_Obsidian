@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_トリシューラ_reveals_複合型_p1196_複合型
 title: AIモデルの複合型構造
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_トリシューラ_reveals_複合型_p1196]]"

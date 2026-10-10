@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アヴロノ女性
 type: entity
 subtype: character
 canonical_name: アヴロノ女性
-title: "アヴロノ女性"
+title: アヴロノ女性
 first_appearance: ch0181
 spoiler_after: ch0181
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アヴロノ女性
@@ -28,3 +29,21 @@ created: "2026-09-30"
 > 前に出て音響符を破壊したアキラに乱射された矢が直撃。体内に潜り込んだ光の矢は爆発して熱と衝撃を撒き散らす。（ch0181）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「あー無理無理、いい加減キリ無いわこれ」　つば広帽子のアヴロノ女性がうんざりしたように言った。
+- **unknown**: 端末に『戦場に戻れ』という旨の通信が入るが、帽子のアヴロノは素知らぬ顔で無視
+- **unknown**: 通常の呪術基盤は一応有効。参照系呪文の無意味さが不自然。そもそも繋がって無いのか――瘴気は正体不明
+- **unknown**: 突如として甲高い音が響き渡り、長々とした口上を遮った。　帽子のアヴロノが音響符を投げつけたことで周囲の音が掻き消され、宣名が強制的に中断されたのだ。
+- **unknown**: 前に出て音響符を破壊したアキラに乱射された矢が直撃。体内に潜り込んだ光の矢は爆発して熱と衝撃を撒き散らす。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「汝の御名にまことは非ず！　其は原初の遊戯、幼子笑う名付けの魔法！　言理の妖精語りて曰く、『お腹ゴロゴロ村のゲリ便ブリブリ太郎』！」
+
+<!-- /AUTO-GENERATED:speech -->

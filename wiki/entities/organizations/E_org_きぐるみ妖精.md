@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_きぐるみ妖精
 type: entity
 subtype: organization
 canonical_name: きぐるみ妖精
-title: "きぐるみ妖精"
+title: きぐるみ妖精
 first_appearance: ch0163
 spoiler_after: ch0163
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # きぐるみ妖精
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「私が一番、私たちが最高、この『きぐるみ妖精』が世界を蹂躙する破壊者の名前だ！　震えて敬い、畏怖と共に興奮しろ！」（ch0163）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 広がった布の内側から迫り出した無数の砲身とミサイルポッドが一斉に火を吹いて、凄まじい破壊をもたらした。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「私が一番、私たちが最高、この『きぐるみ妖精』が世界を蹂躙する破壊者の名前だ！　震えて敬い、畏怖と共に興奮しろ！」
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ガドカレク
 type: entity
 subtype: character
 canonical_name: ガドカレク
-title: "ガドカレク"
+title: ガドカレク
 first_appearance: ch0113
 spoiler_after: ch0113
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ガドカレク
@@ -28,3 +29,23 @@ created: "2026-09-30"
 > 『他者などいない』（ch0114）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: シミュレーテッドリアリティ。上位世界が存在し、この世界はそ
+の世界によってシミュレートされた現実と区別のつかない下位世界であるという仮説。
+- **unknown**: 『他者などいない』
+- **unknown**: 【幻想再帰システム】――未知という幻想を、来るべき終端を食らいつくし続ける自己消失オートマトン。
+- **unknown**: ――勝負をしたまえ。対戦相手は用意しよう、外側を盛り上げて、試合内容も整えてやる。シナリオの出来映えは上々だ。コンセプトは黒衣の外世界人同士によるデスマッチ。どちらが偽物のアキラかを決定するのだよ。
+- **unknown**: 「我が名は【竜帝】ガドカレク。秩序を守護する九首の真竜が第五首にしてこの【紀竜と紀神の集い】の主宰である。
+- **unknown**: 「ようこそ、歓迎しよう異邦人たちよ。永久のもてなしを受けられよ。始まりも無く終わりも無い、この閉じた再演の輪の中で踊り続けるといい」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 対面に座る【竜帝】――ガドカレク＝クエスドレムは、俺の無駄な足掻きを鼻で嗤った。
+
+<!-- /AUTO-GENERATED:action -->

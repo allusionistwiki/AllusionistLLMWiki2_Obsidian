@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_マラード
 type: entity
 subtype: terminology
 canonical_name: マラード
-title: "マラード"
+title: マラード
 first_appearance: ch0123
 spoiler_after: ch0123
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # マラード
@@ -28,3 +29,11 @@ created: "2026-09-30"
 > 始まりは白い部屋。幾つもの薬瓶、消毒液の臭い、清潔な空気。 無機質な機械の音楽が響く。無数の人が目の前を通り過ぎていく。 与えられるのは色々な薬や刺激、頭蓋を貫く針と糸。（ch0144）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 出し抜けに涼しげな男の声がした。ルウテトの髪の中から小さな半透明の影が現れる。
+- **unknown**: ラフディの民が髪を扱わせたら世界一だということを教えて差し上げよう
+
+<!-- /AUTO-GENERATED:action -->

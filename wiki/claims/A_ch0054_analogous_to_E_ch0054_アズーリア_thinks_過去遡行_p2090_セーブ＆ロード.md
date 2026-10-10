@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0054_analogous_to_E_ch0054_アズーリア_thinks_過去遡行_p2090_セーブ＆ロード
 title: セーブ＆ロードへの依存
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_アズーリア_thinks_過去遡行_p2090]]"

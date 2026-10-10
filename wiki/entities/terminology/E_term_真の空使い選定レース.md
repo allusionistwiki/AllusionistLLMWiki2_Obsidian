@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_term_真の空使い選定レース
+type: entity
+title: 真の空使い選定レース
+subtype: terminology
+canonical_name: 真の空使い選定レース
+aliases: []
+first_appearance: ch0270
+spoiler_after: ch0270
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 真の空使い選定レース
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 表面的には『歴代空使いたちのレコードゴーストとの競争』と『試練である七つ風の突破』の二つの課題達成が必要だが、尋常な時間と空間の制約から解き放たれた上位次元ではそうした前提条件さえ曖昧になりかねない。 『時空に囚われぬ速度とは何か』という根本的な問題が全ての前提を覆す可能性があるからだ。ここからの選定レースはより抽象的で観念的なものになる。
+
+<!-- /AUTO-GENERATED:symbolic -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_青年_attacks_教会_p2650_宗教的トラウマとアンチ宗教運動
 title: 宗教的トラウマの破壊的解放
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_青年_other_礼拝堂_p2650]]"

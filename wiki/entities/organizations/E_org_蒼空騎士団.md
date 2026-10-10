@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_蒼空騎士団
 type: entity
 subtype: organization
 canonical_name: 蒼空騎士団
-title: "蒼空騎士団"
+title: 蒼空騎士団
 first_appearance: ch0135
 spoiler_after: ch0135
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 蒼空騎士団
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 配下の翼竜騎士たちも半数以上が岩塊の上で骸を晒すか、あるいは果ての無い空の下へと墜ちていくかしていた。見るも無残な壊滅。それがかつてガロアンディアンの空で不敗を誇った蒼空騎士団の末路だ。（ch0252）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 配下の翼竜騎士たちも半数以上が岩塊の上で骸を晒すか、あるいは果ての無い空の下へと墜ちていくかしていた。見るも無残な壊滅。それがかつてガロアンディアンの空で不敗を誇った蒼空騎士団の末路だ。
+- **unknown**: 航空戦力である【蒼空騎士団】が膜構造の翼を広げて飛翔し、空から呪術による爆撃を行っている。
+
+<!-- /AUTO-GENERATED:action -->

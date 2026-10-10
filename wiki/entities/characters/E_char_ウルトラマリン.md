@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ウルトラマリン
 type: entity
 subtype: character
 canonical_name: ウルトラマリン
-title: "ウルトラマリン"
+title: ウルトラマリン
 first_appearance: ch0096
 spoiler_after: ch0096
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ウルトラマリン
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 少女の肉体が変幻して、青い翼と蝙蝠の羽を兼ね備えた牡鹿とも鼠とも狼ともつかない奇怪な獣になる。（ch0097）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「陛下は女性も羨むほどの美しい髪とかんばせをお持ちと讃えられるほどのお方。そこでどうでしょう、一つ私のまじないで女になってみるというのは。今までとは違った視点で恋を楽しめるやもしれませぬ」
+- **unknown**: 「陛下が探すべきは恋ではありませぬ。人を探すと良いでしょう。あるいは、天空から可憐な少女が降ってくることを神々に祈ればよろしい」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 少女の肉体が変幻して、青い翼と蝙蝠の羽を兼ね備えた牡鹿とも鼠とも狼ともつかない奇怪な獣になる。
+
+<!-- /AUTO-GENERATED:action -->

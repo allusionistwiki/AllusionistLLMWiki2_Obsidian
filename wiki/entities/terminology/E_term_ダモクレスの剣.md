@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ダモクレスの剣
 type: entity
 subtype: terminology
 canonical_name: ダモクレスの剣
-title: "ダモクレスの剣"
+title: ダモクレスの剣
 first_appearance: ch0083
 spoiler_after: ch0083
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ダモクレスの剣
@@ -30,3 +31,10 @@ created: "2026-09-30"
 - [[A_ch0083_alludes_to_E_ch0083_クレイ_reveals_ダモクレスの剣_p3050_ダモクレスの剣|ダモクレスの剣による王座脅威]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 半透明の剣が豚となったブウテトにまっすぐに落ちてきて、閃光を撒き散らして消えた――かと思えば、巨大な質量の落下が発生させるような破壊も衝撃も一切無く、ただ巨大な呪力が消失しただけ。
+
+<!-- /AUTO-GENERATED:action -->

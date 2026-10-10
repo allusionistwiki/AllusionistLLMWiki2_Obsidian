@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0034_alludes_to_E_ch0034_ミルーニャ_says_父の言葉_p1404_マルセル・モースの贈与論
 title: モース贈与論の呪具循環
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0034_ミルーニャ_says_父の言葉_p1404]]"

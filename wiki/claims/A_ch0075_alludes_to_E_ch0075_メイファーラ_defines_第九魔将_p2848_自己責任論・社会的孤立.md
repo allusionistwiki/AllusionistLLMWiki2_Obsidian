@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0075_alludes_to_E_ch0075_メイファーラ_defines_第九魔将_p2848_自己責任論・社会的孤立
 title: 規範外に追放された自己責任と孤立
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0075_メイファーラ_defines_第九魔将_p2848]]"

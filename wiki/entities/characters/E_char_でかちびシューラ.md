@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_でかちびシューラ
 type: entity
 subtype: character
 canonical_name: でかちびシューラ
-title: "でかちびシューラ"
+title: でかちびシューラ
 first_appearance: ch0175
 spoiler_after: ch0175
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # でかちびシューラ
@@ -27,3 +28,19 @@ created: "2026-09-30"
 > 言いたい放題に言ってから、でかちびシューラはドローンを動かしてアマランサスを捕縛。ひょいと運搬用アームで摘んで連行していく。（ch0175）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 巨大な立体幻像となって観客たちの頭上に現れた『巨大ちびシューラ』曰く、彼女たちこそは新世代のシナモリアキラ。その名も――。「『ＳＮＡ３３３』！」
+- **unknown**: 「グループ内部の競争で序列化、階層化させて――実力で劣る下位クラスには単純で基礎的な役割を、実力が高い上位クラスには複雑で抽象的な振り付けを割り当てる。あなたたちは、全体で一つの統合体として振る舞えばそれでいい。
+- **unknown**: 「不完全な木製人形じゃダメだよ、あの儀式は。だからこそ本命は『呪文の座』を招いてのライブなの。ティリビナの巫女がいなければ新世界には届かない」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 言いたい放題に言ってから、でかちびシューラはドローンを動かしてアマランサスを捕縛。ひょいと運搬用アームで摘んで連行していく。
+
+<!-- /AUTO-GENERATED:action -->

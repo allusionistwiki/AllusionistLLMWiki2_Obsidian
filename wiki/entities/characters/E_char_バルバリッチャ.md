@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_バルバリッチャ
 type: entity
 subtype: character
 canonical_name: バルバリッチャ
-title: "バルバリッチャ"
+title: バルバリッチャ
 first_appearance: ch0179
 spoiler_after: ch0179
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # バルバリッチャ
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > バルバリッチャ：六王オルヴァ。あまり役に立たない未来予知者。ルバーブは旧友。（ch0232）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「紀神同士の激突は、ともすれば世界の均衡を揺るがしかねん。明日から世界全てが劇場と化していてもおかしくはない」「おお、ブレイスヴァ！　破滅はいまや目前に！」
+- **unknown**: 「ここはボクに任せて行って下さい。今の私では時間稼ぎくらいしかできぬが、その間に別の道に辿り着く事はできるはずです」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: バルバリッチャ：六王オルヴァ。あまり役に立たない未来予知者。ルバーブは旧友。
+
+<!-- /AUTO-GENERATED:name -->

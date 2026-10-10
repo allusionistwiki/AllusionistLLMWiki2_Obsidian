@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_散らばった大地
 type: entity
 subtype: terminology
 canonical_name: 散らばった大地
-title: "散らばった大地"
+title: 散らばった大地
 first_appearance: ch0241
 spoiler_after: ch0241
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 散らばった大地
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 天地を司る二大主神が世界の主権を握っていた調和の時代が終わり、七十と極小にして極大なる一の『散らばった大地』が生まれ、ゼオーティア世界の礎となった。（ch0268）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 散らばった大地の時代は、大いなる空の時代とも呼ばれていた。　どこまでも広がる大空と、そこに浮かぶ幾つもの大地。　かつてガロアンディアンに存在し、いま第五階層の隣接異界のひとつとして蘇った蒼空岩石群はそんな古い時代のルールが何故か更新されないまま残ってしまった地帯だ。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 大小さまざまな岩塊が次々に移動、接触、集合して新たな大地に変化していく。
+
+<!-- /AUTO-GENERATED:action -->

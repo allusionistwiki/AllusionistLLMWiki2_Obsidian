@@ -1,5 +1,5 @@
 ---
-title: "カラス型箒"
+title: カラス型箒
 schema_version: '5.1'
 id: E_item_カラス型箒
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0070
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # カラス型箒
@@ -35,6 +35,8 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 『霊魂導子の励起状態を確認。アストラルエンジン起動！』
+- **unknown**: 超高熱、超高圧のマグマ溜りへと突入。 あらゆる生物が死を免れないその空間を、成し得ぬ盾の模造品によって生存したまま突き抜けていく。
 - **unknown**: 『霊魂導子の励起状態を確認。アストラルエンジン起動！』
 - **unknown**: 超高熱、超高圧のマグマ溜りへと突入。 あらゆる生物が死を免れないその空間を、成し得ぬ盾の模造品によって生存したまま突き抜けていく。
 - **unknown**: 『霊魂導子の励起状態を確認。アストラルエンジン起動！』

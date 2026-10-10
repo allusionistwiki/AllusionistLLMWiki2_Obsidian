@@ -1,5 +1,5 @@
 ---
-title: "青い造花"
+title: 青い造花
 schema_version: '5.1'
 id: E_item_青い造花
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0003
 spoiler_after: ch0003
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 青い造花
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 蠢く造花は人狼に触れられない。目に見えない力で近付くもの全てを押しのけているかのようだった。
 - **unknown**: 蠢く造花は人狼に触れられない。目に見えない力で近付くもの全てを押しのけているかのようだった。
 - **unknown**: 蠢く造花は人狼に触れられない。目に見えない力で近付くもの全てを押しのけているかのようだった。
 - **unknown**: 蠢く造花は人狼に触れられない。目に見えない力で近付くもの全てを押しのけているかのようだった。

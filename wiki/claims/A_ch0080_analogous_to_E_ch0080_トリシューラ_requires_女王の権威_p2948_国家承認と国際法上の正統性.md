@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0080_analogous_to_E_ch0080_トリシューラ_requires_女王の権威_p2948_国家承認と国際法上の正統性
 title: 国家承認の正統性
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_トリシューラ_requires_女王の権威_p2948]]"

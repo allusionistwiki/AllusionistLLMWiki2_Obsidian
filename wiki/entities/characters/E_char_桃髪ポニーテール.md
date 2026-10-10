@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_桃髪ポニーテール
 type: entity
 subtype: character
 canonical_name: 桃髪ポニーテール
-title: "桃髪ポニーテール"
+title: 桃髪ポニーテール
 first_appearance: ch0181
 spoiler_after: ch0181
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 桃髪ポニーテール
@@ -27,3 +28,19 @@ created: "2026-09-30"
 > 桃色のポニーテールが槍の先端に巨大な矢尻を『創造』し、それに合わせるように灰色のアヴロノが固定式の巨大な弓を『創造』する。（ch0181）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 物理浄化で一掃は無理だよ。ドラトリアの『聖なる穢れ』だもん。隔離して再封印してもかえって王権を強化する結果になりそう。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 桃髪ポニーテールはちょうど良い、とばかりに呪符を槍に貼り付けてネズミまみれの男の背中に突き入れて、ぺろりと舌を出しながら片目を瞑って謝意を示す。
+- **unknown**: 転がした標的目掛けて電磁加速した槍が吸い込まれていく。イアテムの斬撃すら凌駕する『岩穿ち』の呪詛がアメーバの核を破壊し、絶命させた。
+- **unknown**: 桃色のポニーテールが槍の先端に巨大な矢尻を『創造』し、それに合わせるように灰色のアヴロノが固定式の巨大な弓を『創造』する。
+
+<!-- /AUTO-GENERATED:action -->

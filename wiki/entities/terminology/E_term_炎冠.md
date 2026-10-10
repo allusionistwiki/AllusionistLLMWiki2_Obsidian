@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_炎冠
 type: entity
 subtype: terminology
 canonical_name: 炎冠
-title: "炎冠"
+title: 炎冠
 first_appearance: ch0164
 spoiler_after: ch0164
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 炎冠
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 「おお、その姿、その気配、その呪力――見間違いようもない。まさしくあなたこそ『白の娘』。忌み人の王女よ、この時をどれだけ待ち焦がれたことか」（ch0164）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 光が震え、言葉を発した。「我が名は『炎冠』。覇王メクセトの遺産にしてその権威を受け継ぎし器なり」
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「おお、その姿、その気配、その呪力――見間違いようもない。まさしくあなたこそ『白の娘』。忌み人の王女よ、この時をどれだけ待ち焦がれたことか」
+
+<!-- /AUTO-GENERATED:speech -->

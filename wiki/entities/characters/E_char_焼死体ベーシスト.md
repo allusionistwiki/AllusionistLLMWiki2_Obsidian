@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_焼死体ベーシスト
 type: entity
 subtype: character
 canonical_name: 焼死体ベーシスト
-title: "焼死体ベーシスト"
+title: 焼死体ベーシスト
 first_appearance: ch0168
 spoiler_after: ch0168
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 焼死体ベーシスト
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > その姿は焼死体ベーシストそっくりで――いや、燃えている箇所はまさしく彼の火傷痕と完璧に一致している。そっくりと言っていい。（ch0168）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: というか、焼死体の再生者が燃え上がっている。「キャンプファイヤーかよ」「炎上する口論を囲んで踊る、か。言い得て妙だな」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 棺の外部にこれ見よがしに取り付けられた大型の熱学センサ。いまあの冷凍睡眠者はライブの熱気を感知している。『熱い演奏をしている』という分かりやすいパフォーマンス。
+
+<!-- /AUTO-GENERATED:action -->

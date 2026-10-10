@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_リーダー
 type: entity
 subtype: character
 canonical_name: リーダー
-title: "リーダー"
+title: リーダー
 first_appearance: ch0035
 spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # リーダー
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 数か月前にいちど再生者化したが直後に吸血鬼になったという、いわゆる『ドラトリア系夜の民』だ。（ch0167）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 数か月前にいちど再生者化したが直後に吸血鬼になったという、いわゆる『ドラトリア系夜の民』だ。
+
+<!-- /AUTO-GENERATED:visual -->

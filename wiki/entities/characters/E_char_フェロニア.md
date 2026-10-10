@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_フェロニア
 type: entity
 subtype: character
 canonical_name: フェロニア
-title: "フェロニア"
-first_appearance: ch0110
-spoiler_after: ch0110
+title: フェロニア
+first_appearance: ch0109
+spoiler_after: ch0109
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # フェロニア
@@ -35,3 +36,19 @@ created: "2026-09-30"
 - [[E_char_カーティス|カーティス]] — 奪う(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「どう取り繕った所で、それは『無法』です。貴方は決闘という体裁だけを整えて、営利誘拐を強引に合法であると言い張っている様子。ですが、ならばこそ先に決闘状を送るのが筋というものではないでしょうか。」
+- **unknown**: 「貴方のような方に買われるくらいなら、欲望だけで寄ってくる方の慰み物にでもなる方が遙かにましです。貴方のそれは獣欲よりもたちが悪い」
+- **unknown**: 「フェロニア」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その中の一人、奴隷の少女フェロニアは両手を温めようと息を吐きかけた。 息の白さに僅かな愉しさを感じたが、そんなものは吹けば飛ぶような儚い慰めに過ぎなかった。
+
+<!-- /AUTO-GENERATED:visual -->

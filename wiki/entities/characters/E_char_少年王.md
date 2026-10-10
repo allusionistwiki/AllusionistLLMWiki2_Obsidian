@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_少年王
 type: entity
 subtype: character
 canonical_name: 少年王
-title: "少年王"
+title: 少年王
 first_appearance: ch0153
 spoiler_after: ch0153
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 少年王
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > そこに絶望は無い。恨みは無い。嘆きは無い。彼は裏切り者の紫を憎んでいないのだ。ただ悲しんでいるだけだった。（ch0153）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: そこに絶望は無い。恨みは無い。嘆きは無い。彼は裏切り者の紫を憎んでいないのだ。ただ悲しんでいるだけだった。
+
+<!-- /AUTO-GENERATED:speech -->

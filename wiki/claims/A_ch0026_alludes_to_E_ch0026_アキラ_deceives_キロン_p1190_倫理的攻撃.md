@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_アキラ_deceives_キロン_p1190_倫理的攻撃
 title: 倫理的攻撃
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_deceives_キロン_p1190]]"

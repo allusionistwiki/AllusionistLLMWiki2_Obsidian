@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_アレッテ・イヴニル
 type: entity
 subtype: item
 canonical_name: アレッテ・イヴニル
-title: "アレッテ・イヴニル"
+title: アレッテ・イヴニル
 first_appearance: ch0141
 spoiler_after: ch0141
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アレッテ・イヴニル
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 上空で『援軍』と戦っていたアレッテ・イヴニルが密かに構築していた長大な呪文を解き放つ。 輝く文字列で構成された呪文竜――オルガンローデが天空を駆け抜ける。（ch0144）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 上空で『援軍』と戦っていたアレッテ・イヴニルが密かに構築していた長大な呪文を解き放つ。 輝く文字列で構成された呪文竜――オルガンローデが天空を駆け抜ける。
+
+<!-- /AUTO-GENERATED:action -->

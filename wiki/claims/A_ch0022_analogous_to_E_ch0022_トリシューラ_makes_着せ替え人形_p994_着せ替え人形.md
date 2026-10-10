@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0022_analogous_to_E_ch0022_トリシューラ_makes_着せ替え人形_p994_着せ替え人形
 title: 着せ替え人形遊びへの転生
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_トリシューラ_makes_着せ替え人形_p994]]"

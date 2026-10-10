@@ -1,5 +1,5 @@
 ---
-title: "第十魔将サイザクタート"
+title: 第十魔将サイザクタート
 schema_version: '5.1'
 id: E_char_第十魔将サイザクタート
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 第十魔将サイザクタート
@@ -37,6 +37,8 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 第十魔将、三つ首の番犬サイザクタート。虹犬種。
+- **unknown**: 第十魔将、三つ首の番犬サイザクタート。虹犬種。ヴァルレメス
 - **unknown**: 第十魔将、三つ首の番犬サイザクタート。虹犬種。
 - **unknown**: 第十魔将、三つ首の番犬サイザクタート。虹犬種。ヴァルレメス
 - **unknown**: 第十魔将、三つ首の番犬サイザクタート。虹犬種。

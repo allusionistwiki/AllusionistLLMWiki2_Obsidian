@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0054_parodies_E_ch0054_ガルズ_other_人類_p2099_分類学
 title: 分類学による存在の否定
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_ガルズ_other_人類_p2099]]"

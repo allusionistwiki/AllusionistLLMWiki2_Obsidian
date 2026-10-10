@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_クロウサー
 type: entity
 subtype: organization
 canonical_name: クロウサー
-title: "クロウサー"
+title: クロウサー
 first_appearance: ch0252
 spoiler_after: ch0252
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # クロウサー
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > だが自らの愛馬にクロウサーの血が流れていると知ったならどうか。生まれるのは拒否反応ではない。半身を拒絶することなど自殺同然だからだ。ゆえに草の民はクロウサーを受け入れるしかない。（ch0262）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: クロウサー。その巨大な家の主流は四つの血族である。 だが、それは現代における一般認識だ。 かつては違った。クロウサーとは、最も強大な空使いダウザールのことだったからだ。
+
+<!-- /AUTO-GENERATED:name -->

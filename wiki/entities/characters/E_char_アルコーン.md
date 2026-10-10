@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アルコーン
 type: entity
 subtype: character
 canonical_name: アルコーン
-title: "アルコーン"
+title: アルコーン
 first_appearance: ch0235
 spoiler_after: ch0235
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アルコーン
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 『新たに『外れない矢』ジュティアと『刈り取る者』ミナを加えた、この僕たちがフルグント六柱群の残り三名だ』（ch0235）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 二人の背後に揺らめくのは、確かに神の威光に見えた。それは妖精たちの母アエルガ＝ミクニーであり、炎天使たちの父ピュクティエトである。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『新たに『外れない矢』ジュティアと『刈り取る者』ミナを加えた、この僕たちがフルグント六柱群の残り三名だ』
+
+<!-- /AUTO-GENERATED:speech -->

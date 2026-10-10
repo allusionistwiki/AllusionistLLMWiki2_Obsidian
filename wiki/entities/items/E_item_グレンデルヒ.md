@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_グレンデルヒ
 type: entity
 subtype: item
 canonical_name: グレンデルヒ
-title: "グレンデルヒ"
+title: グレンデルヒ
 first_appearance: ch0094
 spoiler_after: ch0094
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # グレンデルヒ
@@ -28,3 +29,19 @@ created: "2026-09-30"
 > そして、グレンデルヒの下で変形する三角錐が司るのは悪意と加虐。 変異の三手が蠢いて、三角の翼が展開する。三角錐の内側に存在していたのは禍々しい人型のシルエット。翼持つ三手の完全者となった鋼鉄が、胴体を開いてグレンデルヒを内側に招いていく。 （ch0119）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 音速の突進、超音速の銃弾を容易く回避し、すれ違いざまに反撃の拳を叩き込む。そればかりかカード型端末に封じられた呪術を解放して追撃を加え、突撃槍と一体となって戦うゼドを引きずり降ろし、床に叩きつける。
+- **unknown**: グレンデルヒが放った渾身の一撃によって壁に叩きつけられ、今度こそ昏倒した。
+- **unknown**: その手の中に、いつの間にか見慣れぬ魔導書が現れていた。「健闘を讃えて、私も少しばかり本気でやろうか。この【神々と１２８人の魔法使いたち】は『制御盤』でね。意味がわかるだろうか？
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 対して、グレンデルヒのそれは超人が最適効率を追求して『無駄』を削ぎ落とした芸術的な天才的武術。
+
+<!-- /AUTO-GENERATED:speech -->

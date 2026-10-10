@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0053_analogous_to_E_ch0053_第六階層_has_property_最適化不能_p2067_agile_software_development
 title: アジャイル開発への適応的比喩
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_第六階層_has_property_最適化不能_p2067]]"

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_巫女たち
 type: entity
 subtype: character
 canonical_name: 巫女たち
-title: "巫女たち"
+title: 巫女たち
 first_appearance: ch0095
 spoiler_after: ch0095
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 巫女たち
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 全員が足を引きずっているのは、男たちに足の腱を切られているからである。 曰く、みだらな女たちを罰するための正当な行為。（ch0095）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 少女たちの歩みはどこかぎこちない。みな、片足を引きずるような動きで、それでも必死に神へ奉納するための舞を踊っていた。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 全員が足を引きずっているのは、男たちに足の腱を切られているからである。 曰く、みだらな女たちを罰するための正当な行為。
+
+<!-- /AUTO-GENERATED:visual -->

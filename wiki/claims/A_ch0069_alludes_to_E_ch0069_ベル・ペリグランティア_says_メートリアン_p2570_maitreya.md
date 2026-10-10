@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0069_alludes_to_E_ch0069_ベル・ペリグランティア_says_メートリアン_p2570_maitreya
 title: 弥勒菩薩による衆生救済の暗喩
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_ベル・ペリグランティア_says_メートリアン_p2570]]"

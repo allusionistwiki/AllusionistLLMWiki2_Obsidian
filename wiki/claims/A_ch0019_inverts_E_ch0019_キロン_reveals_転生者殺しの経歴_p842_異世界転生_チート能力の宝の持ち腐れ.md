@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0019_inverts_E_ch0019_キロン_reveals_転生者殺しの経歴_p842_異世界転生_チート能力の宝の持ち腐れ
 title: チート能力の宝の持ち腐れ
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0019_キロン_reveals_転生者殺しの経歴_p842]]"

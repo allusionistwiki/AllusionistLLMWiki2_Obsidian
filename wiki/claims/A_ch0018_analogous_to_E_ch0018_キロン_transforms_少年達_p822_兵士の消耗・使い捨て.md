@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0018_analogous_to_E_ch0018_キロン_transforms_少年達_p822_兵士の消耗・使い捨て
 title: 兵士の消耗品化
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_キロン_transforms_少年達_p822]]"

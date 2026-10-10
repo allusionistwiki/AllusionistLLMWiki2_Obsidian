@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ニケ
 type: entity
 subtype: character
 canonical_name: ニケ
-title: "ニケ"
+title: ニケ
 first_appearance: ch0090
 spoiler_after: ch0090
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ニケ
@@ -28,3 +29,34 @@ created: "2026-09-30"
 > 全身をバラバラに解体された、俺の主だった。 両手両足が付け根から引き千切られて天井から吊り下げられていた。胴体は強引にこじ開けられて内部構造が露わにされてしまっている。（ch0090）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 蜂蜜色の髪と灰色の瞳。眩いほどの美貌だが、その右半分が朽ち果てた死人のそれに変貌するところを目の当たりにしたばかりである。
+- **unknown**: 全身をバラバラに解体された、俺の主だった。 両手両足が付け根から引き千切られて天井から吊り下げられていた。胴体は強引にこじ開けられて内部構造が露わにされてしまっている。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「国と国との権威比べ――僣主トリシューラは不在ですが、女王対決は私の勝ち、ということでいいのかしら」
+- **unknown**: 「ヴィク」「ごきげんよう、アキラ様――今はヴィクではない気分なので、ニケと呼んでいただけませんか？」
+- **unknown**: 「心配なさらずとも、僣主トリシューラの身柄なら私の方で預かっています」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 邪視による凍結が女王に襲いかかる。だが灰色の瞳が揺らめくと、青い輝きはあっさりと吹き散らされてしまう。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「この私に同じ呪文は二度も通じません――ニケに代わって、カロンとでもお呼び下さいな」
+
+<!-- /AUTO-GENERATED:name -->

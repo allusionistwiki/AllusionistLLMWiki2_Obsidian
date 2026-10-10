@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_品森晶
 type: entity
 subtype: character
 canonical_name: 品森晶
-title: "品森晶"
+title: 品森晶
 first_appearance: ch0149
 spoiler_after: ch0149
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 品森晶
@@ -28,3 +29,27 @@ created: "2026-09-30"
 > 品森晶が、だらしなく顔を緩めてレオを抱き締めていた。左右の義肢が三角耳をひたすら撫でさすり、喉に触れたり頬を擦り付けたり匂いを嗅いだりとまるで変質者である。（ch0154）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 暴力の化身とでも呼ぶべき男と対照的に、挑戦者は象牙細工のように華奢だった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 品森晶が、だらしなく顔を緩めてレオを抱き締めていた。左右の義肢が三角耳をひたすら撫でさすり、喉に触れたり頬を擦り付けたり匂いを嗅いだりとまるで変質者である。
+- **unknown**: 抗議する間もなく、義肢が小さな体を奪って、女の顔に引き寄せていった。それから蕩けた声で言う。「ちびにゃんこ～かわいいかわいいちっちゃくて超絶かわいい～」
+- **unknown**: 認証コード『アニマ』。起動――ウィッチオーダー・プロト／アゴニスト
+- **unknown**: 頭部から叩き落とされた男は首の骨を折られて絶命している。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「私はアニマだから。アニムスを打倒し、統合することを求めている。あるいは統合されることを。アダム・カドモンへ至るためには安定が必要。
+
+<!-- /AUTO-GENERATED:speech -->

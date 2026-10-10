@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0004_analogous_to_E_ch0004_第五階層_defines_価値基準_p185_hyperinflation
 title: ハイパーインフレによる価値喪失
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_第五階層_defines_価値基準_p185]]"

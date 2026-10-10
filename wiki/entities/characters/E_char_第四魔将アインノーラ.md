@@ -1,5 +1,5 @@
 ---
-title: "第四魔将アインノーラ"
+title: 第四魔将アインノーラ
 schema_version: '5.1'
 id: E_char_第四魔将アインノーラ
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 第四魔将アインノーラ
@@ -37,6 +37,8 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 第四魔将、万殺鬼アインノーラ。牽牛種。
+- **unknown**: 第四魔将、万殺鬼アインノーラ。牽牛種。
 - **unknown**: 第四魔将、万殺鬼アインノーラ。牽牛種。
 - **unknown**: 第四魔将、万殺鬼アインノーラ。牽牛種。
 - **unknown**: 第四魔将、万殺鬼アインノーラ。牽牛種。

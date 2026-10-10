@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_仮面のシナモリアキラ
 type: entity
 subtype: character
 canonical_name: 仮面のシナモリアキラ
-title: "仮面のシナモリアキラ"
+title: 仮面のシナモリアキラ
 first_appearance: ch0152
 spoiler_after: ch0152
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 仮面のシナモリアキラ
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 認識阻害の霧――『未知』や『夜』といった神秘を強める夜の民の高位呪術だということが『わからない』ゆえに推測可能になり、シューラ犬が吠えた。（ch0152）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「無貌の民――『上』の眷属種ってやつか。へぇ、随分と序列が低いんだな――あ？ 島に外壁に山間部に――隔離？ 特別区ってお
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 認識阻害の霧――『未知』や『夜』といった神秘を強める夜の民の高位呪術だということが『わからない』ゆえに推測可能になり、シューラ犬が吠えた。
+
+<!-- /AUTO-GENERATED:action -->

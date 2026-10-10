@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ケイト
 type: entity
 subtype: terminology
 canonical_name: ケイト
-title: "ケイト"
-first_appearance: ch0119
-spoiler_after: ch0119
+title: ケイト
+first_appearance: ch0118
+spoiler_after: ch0118
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ケイト
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > トリシューラが逃げ込んだ建物は周囲のものと比較していくらか大きい。箱を組み合わせたような無骨なデザインは他と似たり寄ったりだが、そこだけが異質な存在感を有していた。どうやら、公共の施設らしい。「呪術医院か。魔女の拠点の一つなのかな」（ch0119）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ヘルメット状の頭部のフェイス部分がスクリーンとなって表示されたのは行司姿の青年。ウェーブがかかった黒髪に濃茶色の肌をしたインド人――ケイトと呼ばれていた力士の相棒が、無人機を操作しているのだ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 意識を電子化した情報的人類であるケイトが宿った無人戦闘機械は、その瞬間に定義上、肉体を全て機械化した『テセウスの船型サイボーグ』となる。
+
+<!-- /AUTO-GENERATED:speech -->

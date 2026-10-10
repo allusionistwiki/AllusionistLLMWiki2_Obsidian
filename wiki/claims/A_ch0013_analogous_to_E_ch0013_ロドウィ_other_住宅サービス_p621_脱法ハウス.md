@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0013_analogous_to_E_ch0013_ロドウィ_other_住宅サービス_p621_脱法ハウス
 title: 脱法ハウスの家賃搾取
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0013_ロドウィ_other_住宅サービス_p621]]"

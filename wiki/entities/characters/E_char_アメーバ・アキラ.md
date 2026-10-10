@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アメーバ・アキラ
 type: entity
 subtype: character
 canonical_name: アメーバ・アキラ
-title: "アメーバ・アキラ"
+title: アメーバ・アキラ
 first_appearance: ch0181
 spoiler_after: ch0181
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アメーバ・アキラ
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 転がした標的目掛けて電磁加速した槍が吸い込まれていく。イアテムの斬撃すら凌駕する『岩穿ち』の呪詛がアメーバの核を破壊し、絶命させた。（ch0181）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 壁から染み出した流動する水――あるいは液状の原生生物がくぐもった声で言った。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『外破』――これこそ俺たち病気持ちのシナモリアキラが固有に持つ『病の形』を解放する特殊宣名。
+
+<!-- /AUTO-GENERATED:speech -->

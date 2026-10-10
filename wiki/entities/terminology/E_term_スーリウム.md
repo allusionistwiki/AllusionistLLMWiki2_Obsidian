@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_スーリウム
 type: entity
 subtype: terminology
 canonical_name: スーリウム
-title: "スーリウム"
+title: スーリウム
 first_appearance: ch0205
 spoiler_after: ch0205
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # スーリウム
@@ -28,3 +29,21 @@ created: "2026-09-30"
 > ひとりの女が逆手に握った双剣で黒薔薇に斬りかかる。（ch0205）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ティリビナ人の足は黒薔薇によって導かれるまままだ。
+- **unknown**: スーリウムが支配する薔薇と操り人形が、全く別のティリビナ人、時にはアヴロノに上書きされていくのだ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: その名も誉れ高き『王殺し』、理想を追いかける孤独な狼よ。君にうってつけの夢を持ってきたんだ。
+- **unknown**: 君は裏切られ、罠にかかって槍神教の天使部隊の襲撃を受けた
+- **unknown**: 最後に残された人狼の血を、歪められた家畜の生として終わらせるつもりか？ 君は英雄にならなければいけない。なら宣名すべき名はひとつのみ
+- **unknown**: そこで見ている誰かにも言っておこう
+
+<!-- /AUTO-GENERATED:speech -->

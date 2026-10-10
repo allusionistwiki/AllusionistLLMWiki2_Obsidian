@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_リーエルノーレス
 type: entity
 subtype: item
 canonical_name: リーエルノーレス
-title: "リーエルノーレス"
+title: リーエルノーレス
 first_appearance: ch0127
 spoiler_after: ch0127
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # リーエルノーレス
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 唸りを上げる三枚の刃が頂点で三文字を連ねて呪文を発動させる。（ch0127）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 唸りを上げる三枚の刃が頂点で三文字を連ねて呪文を発動させる。
+
+<!-- /AUTO-GENERATED:visual -->

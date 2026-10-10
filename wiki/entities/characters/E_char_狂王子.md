@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_狂王子
 type: entity
 subtype: character
 canonical_name: 狂王子
-title: "狂王子"
+title: 狂王子
 first_appearance: ch0191
 spoiler_after: ch0191
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 狂王子
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「ああ、母様、母／おのれエトラメトラトン、あの魔女め／うして、僕を――」（ch0191）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 狂王子は潔癖症の仮面を血に染めて、仮初めの墓標に押し潰されて眠りにつく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ああ、母様、母／おのれエトラメトラトン、あの魔女め／うして、僕を――」
+
+<!-- /AUTO-GENERATED:speech -->

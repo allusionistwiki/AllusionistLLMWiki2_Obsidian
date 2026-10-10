@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_アキラ_bonds_トリシューラ_p1174_キリスト教の聖婚
 title: キリスト教の聖婚
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_bonds_トリシューラ_p1174]]"

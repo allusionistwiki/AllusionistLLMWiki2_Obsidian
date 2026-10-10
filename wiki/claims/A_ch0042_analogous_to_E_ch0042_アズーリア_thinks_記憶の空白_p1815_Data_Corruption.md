@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0042_analogous_to_E_ch0042_アズーリア_thinks_記憶の空白_p1815_Data_Corruption
 title: データ改ざんによる記憶操作
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_アズーリア_thinks_記憶の空白_p1815]]"

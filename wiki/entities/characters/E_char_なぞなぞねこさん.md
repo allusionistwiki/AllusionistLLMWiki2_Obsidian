@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_なぞなぞねこさん
 type: entity
 subtype: character
 canonical_name: なぞなぞねこさん
-title: "なぞなぞねこさん"
+title: なぞなぞねこさん
 first_appearance: ch0189
 spoiler_after: ch0189
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # なぞなぞねこさん
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 美貌の青年が舞うように身体を旋回させ、手刀で虚空を裂いた。すると魔獣が大きく仰け反り、悲鳴を上げてのたうち回る。（ch0189）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: すると天の彼方、島に広がる森を飛び越えて巨大な怪物が飛来する。巨躯にして矮躯、形容矛盾した異形が男子生徒たちを威圧する。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「にあ！ 地を満たし、空を駆け、海を漂うもの、ありとあらゆる生命のうちこれほどその姿と力を変えるものは他になし。脚は四つ、二つ、三つと変化し、その脚が多いほど歩みは遅々として進まぬ。にあ！ これなーんだ！」
+
+<!-- /AUTO-GENERATED:speech -->

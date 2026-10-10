@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_トランクケース
 type: entity
 subtype: item
 canonical_name: トランクケース
-title: "トランクケース"
-first_appearance: ch0256
-spoiler_after: ch0256
+title: トランクケース
+first_appearance: ch0222
+spoiler_after: ch0222
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # トランクケース
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 反射的に掲げて盾にした『あるもの』に、怨霊が吸い込まれていったのだ（ch0256）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 驚くほど軽い。というか中身の存在をまるで感じない。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 反射的に掲げて盾にした『あるもの』に、怨霊が吸い込まれていったのだ
+- **unknown**: 物質霊である呪われた包丁が即座に解呪されて消失し、複数の生首が反旗を翻して怨霊を喰らう。一塊の怨霊呪弾となって解き放たれ、水子の怨霊たちの制御を次々と奪って術者に呪いを返す
+- **unknown**: そもそも解錠のために必要な『四桁の数字に見える呪文鍵』の構造がわからない。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 謎めいた再生者の貴婦人が忘れていったものだ。メイファーラの銀貨を持って行ったあの人の、おそらくは何らかの呪い
+
+<!-- /AUTO-GENERATED:symbolic -->

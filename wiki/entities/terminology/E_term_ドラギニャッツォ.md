@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ドラギニャッツォ
 type: entity
 subtype: terminology
 canonical_name: ドラギニャッツォ
-title: "ドラギニャッツォ"
+title: ドラギニャッツォ
 first_appearance: ch0231
 spoiler_after: ch0231
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ドラギニャッツォ
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 『ドラギニャッツォ』はもしもの時の命綱だ。（ch0231）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「『名無し』をドラギニャッツォという型に嵌めればリスクを低く抑えることができる。トリシューラの慎重さは正しい」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 『ドラギニャッツォ』はもしもの時の命綱だ。
+
+<!-- /AUTO-GENERATED:symbolic -->

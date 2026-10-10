@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0074_alludes_to_E_ch0074_ズタークスターク_functions_as_哲学的ゾンビ_p2830_philosophical_zombie
 title: クオリアなき哲学的ゾンビ
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0074_ズタークスターク_functions_as_哲学的ゾンビ_p2830]]"

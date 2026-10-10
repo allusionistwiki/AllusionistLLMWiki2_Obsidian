@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_カルメダージ
 type: entity
 subtype: character
 canonical_name: カルメダージ
-title: "カルメダージ"
+title: カルメダージ
 first_appearance: ch0242
 spoiler_after: ch0242
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カルメダージ
@@ -27,3 +28,17 @@ created: "2026-09-30"
 > ぱたん。カルメダージが掌握するはずの浄界内部に小さな扉が開き、彼を招き入れる。 ごくり。アルバダオバが喉を鳴らすと、長い首を何かが通り過ぎていく。 やがて腹の中に収まったそれは断末魔の呪詛を炸裂させると共に体内から無数の棘を炸裂させたが、先（ch0242）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 総勢一万体の魔戦人形師団の中でも特に突出した力を持つ十二体。 その中には、戦史に名高いラフディ第九代国王を再現した人形がいた。 棘の王カルメダージはオルヴァ王と幾度となく争い、多くのカシュラム人を殺戮したというラフディ大元帥にして筆頭戦士であったとされている。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「『絢爛小片硝子世界』。ああ、綺麗なものほど、壊れることが真実になる」 周囲の時空を穿孔して傷つける広域殲滅用の邪視空間。 かつてカシュラムの軍勢をかき混ぜて肉片のモザイクに変えたと言い伝えられている恐るべき浄界が激流を割り、亜竜の全身を棘で埋めつくす。
+
+<!-- /AUTO-GENERATED:action -->

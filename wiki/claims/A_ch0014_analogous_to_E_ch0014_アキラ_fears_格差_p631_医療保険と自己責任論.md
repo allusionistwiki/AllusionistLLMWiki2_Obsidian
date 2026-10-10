@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0014_analogous_to_E_ch0014_アキラ_fears_格差_p631_医療保険と自己責任論
 title: 医療保険と自己責任論
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0014_アキラ_fears_格差_p631]]"

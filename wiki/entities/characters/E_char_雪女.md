@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_雪女
 type: entity
 subtype: character
 canonical_name: 雪女
-title: "雪女"
+title: 雪女
 first_appearance: ch0227
 spoiler_after: ch0227
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 雪女
@@ -28,3 +29,20 @@ created: "2026-09-30"
 > 「警告！　設定された地下区画以外のマップ外に隠れたり移動したりするグリッチは反則です！」（ch0227）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 白い着物を纏った銀雪の少女が杖を振ると、先端の呪石から呪文が展開。発光と同時に氷塊が形成され、投射された質量がシナモリアキラの背中に直撃する。
+- **unknown**: 少女が使っているのは古めかしいリクシャマー式の氷炎自動小杖《ＦＷ１８０１》。
+- **unknown**: アストラルの海から浮上した巨大な仮想使い魔が眉間を撃ち抜かれて霧散していく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 魔女はその異形を一瞥し、冷ややかに切って捨てた。「少ないですね」
+- **unknown**: 「警告！　設定された地下区画以外のマップ外に隠れたり移動したりするグリッチは反則です！」
+
+<!-- /AUTO-GENERATED:speech -->

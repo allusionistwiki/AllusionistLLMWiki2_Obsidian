@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_グレイシス
 type: entity
 subtype: character
 canonical_name: グレイシス
-title: "グレイシス"
+title: グレイシス
 first_appearance: ch0140
 spoiler_after: ch0140
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # グレイシス
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > ゼドが撃ち出した弾丸、それを俺が認識するより速く『髪の毛』が迎撃していたのだ。シナモリアキラの現在の肉体であるアマランサスが髪に宿す亜竜グレイシス。のたうつ頭髪が大蛇のように大口を開き、咆哮による音速の呪文で弾丸を叩き落とす。（ch0193）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ゼドが撃ち出した弾丸、それを俺が認識するより速く『髪の毛』が迎撃していたのだ。シナモリアキラの現在の肉体であるアマランサスが髪に宿す亜竜グレイシス。のたうつ頭髪が大蛇のように大口を開き、咆哮による音速の呪文で弾丸を叩き落とす。
+
+<!-- /AUTO-GENERATED:action -->

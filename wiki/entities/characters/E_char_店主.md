@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_char_店主
+type: entity
+title: 店主
+subtype: character
+canonical_name: 店主
+aliases: []
+first_appearance: ch0198
+spoiler_after: ch0198
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 店主
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「それにしてもカニャッツォと来たか」「知ってるの？」「知ってると言えば知ってる。ここは第五階層だからな。心配しなくてもじきに来る。それまでそこの余興でも眺めて暇を潰すんだな。お嬢さん、面倒ごとは好きかい？」
+
+<!-- /AUTO-GENERATED:speech -->

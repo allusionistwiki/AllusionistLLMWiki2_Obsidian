@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_転活体験アプリ
 type: entity
 subtype: terminology
 canonical_name: 転活体験アプリ
-title: "転活体験アプリ"
+title: 転活体験アプリ
 first_appearance: ch0223
 spoiler_after: ch0223
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 転活体験アプリ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > なんでも、観光のために祝祭期間だけ使い魔に転生してみたいって人が多いんだそうですよ。（ch0226）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 転活体験アプリ『ウィズメモリー』のオープンベータテスト開始！
+
+<!-- /AUTO-GENERATED:name -->

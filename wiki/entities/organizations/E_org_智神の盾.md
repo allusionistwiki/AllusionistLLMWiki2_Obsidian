@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_智神の盾
 type: entity
 subtype: organization
 canonical_name: 智神の盾
-title: "智神の盾"
+title: 智神の盾
 first_appearance: ch0043
 spoiler_after: ch0043
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 智神の盾
@@ -29,3 +30,11 @@ created: "2026-09-30"
 - [[A_ch0043_analogous_to_E_ch0043_智神の盾_defines_知識と教化_p1827_インクイジション_思想統制|宗教裁判による思想統制]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 第五階層に新しく生まれつつある『辺境区』。そこで活動している様々な宗教勢力の動向を調査すること。それが『宣教騎士団』である『智神の盾』からの指令だった。
+- **unknown**: 序列第六位の天使、神々の図書館の管理者ラヴァエヤナは知識を司る。こちらは内部の『異端』を裁く法の番人であり、また異質なものを排除するのではなく教化して槍神教内部に取り込む宣教を象徴してきた。
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_エルネトモラン特別区
 type: entity
 subtype: terminology
 canonical_name: エルネトモラン特別区
-title: "エルネトモラン特別区"
+title: エルネトモラン特別区
 first_appearance: ch0177
 spoiler_after: ch0177
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # エルネトモラン特別区
@@ -26,3 +27,24 @@ created: "2026-09-30"
 > 過去の魔将侵攻で破壊、放棄され、スラム化していた区画を整備復興することで生まれ変わらせた新しいエリアがここだ。地上の新参者、ティリビナの民やドラトリア系夜の民を受け入れるために急遽整備されたこの特区は、槍神教の建前とアルセミット・ドラトリア（ch0177）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 氏族トーテムである樹木から索引された精霊の加護が、空間のアストラル流を最適化しているのだ。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: エルネトモラン特別区――雑誌やニュースなんかでは、都市の中にある異界なんて言われてる新市街地。過去の魔将侵攻で破壊、放棄され、スラム化していた区画を整備復興することで生まれ変わらせた新しいエリアがここだ。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 過去の魔将侵攻で破壊、放棄され、スラム化していた区画を整備復興することで生まれ変わらせた新しいエリアがここだ。地上の新参者、ティリビナの民やドラトリア系夜の民を受け入れるために急遽整備されたこの特区は、槍神教の建前とアルセミット・ドラトリア間の外交問題との鬩ぎ合いの中に『星見の塔』による介入と裏工作が絡むことでどうにか成立した。
+
+<!-- /AUTO-GENERATED:relationship -->

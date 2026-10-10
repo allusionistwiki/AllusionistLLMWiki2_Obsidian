@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0021_analogous_to_E_ch0021_鮮血呪_defines_効果_p960_Economic_Value_Exchange
 title: 経済的価値交換への呪術定義
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_鮮血呪_defines_効果_p960]]"

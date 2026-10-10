@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_天の御殿
 type: entity
 subtype: terminology
 canonical_name: 天の御殿
-title: "天の御殿"
+title: 天の御殿
 first_appearance: ch0252
 spoiler_after: ch0252
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 天の御殿
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 逆さに屹立する天の御殿。紀神エクリーオベレッカの中に。（ch0268）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その向こうから、巨大な建造物がゆっくりと姿を現そうとしていた。 逆さまの城。天の御殿。魂が行き着く神々の居城。主なき玉座。意思なき神。
+
+<!-- /AUTO-GENERATED:visual -->

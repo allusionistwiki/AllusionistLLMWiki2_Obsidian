@@ -14,3 +14,7 @@ REDO ALL DONE
 batch 118-220 rc=0: vault: 47baeda5 / 🎉 統合コミット完了 vault=47baeda5 work=c1bae4e / [chunk ch0118-ch0220] committed / REDO DONE
 batch 225-272 rc=0: vault: 9cf9cae4 / 🎉 統合コミット完了 vault=9cf9cae4 work=07f7eeb / [chunk ch0225-ch0272] committed / REDO DONE
 REDO ALL DONE
+=== redo start: 18 話 [118, 143, 147, 187, 197, 200, 202, 214, 220, 225, 226, 229, 234, 246, 254, 263, 268, 272]
+batch 118-225 rc=0: vault: 2ed763e7 / 🎉 統合コミット完了 vault=2ed763e7 work=bc5e25a / [chunk ch0118-ch0225] committed / REDO DONE
+batch 226-272 rc=0: vault: ed40bc43 / 🎉 統合コミット完了 vault=ed40bc43 work=42ffefe / [chunk ch0226-ch0272] committed / REDO DONE
+REDO ALL DONE

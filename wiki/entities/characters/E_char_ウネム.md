@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ウネム
 type: entity
 subtype: character
 canonical_name: ウネム
-title: "ウネム"
+title: ウネム
 first_appearance: ch0212
 spoiler_after: ch0212
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ウネム
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 黒檀の民女性として史上初めて『神々の図書館』の司書資格に手が届いた才媛。（ch0231）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 黒檀の民女性として史上初めて『神々の図書館』の司書資格に手が届いた才媛。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「これから行われる『空使い』選定の儀式は、元々クロウサー家当主を決定するためのものではない」
+- **unknown**: 「我々はな、奴らのお情けで『緑』を恵んでもらっていたのさ。
+- **unknown**: 「私の応援をしてくれるかな、イルス」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ウネム：水晶アイバイザーの狂司書。六王ヴァージルの頭部を保有。リビュエー０１。
+
+<!-- /AUTO-GENERATED:name -->

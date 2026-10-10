@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_エントラグイシュ
 type: entity
 subtype: character
 canonical_name: エントラグイシュ
-title: "エントラグイシュ"
+title: エントラグイシュ
 first_appearance: ch0136
 spoiler_after: ch0136
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # エントラグイシュ
@@ -28,3 +29,10 @@ created: "2026-09-30"
 > 無数の生命が爆発するように躍動し、手足と触手の激流がエントラグイシュたちを絡めとり、内部へと引きずり込んでいく。「エントラグイシュはこれで確保だねぇ。（ch0252）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 赤子の背から肉腫が盛り上がり、その中から巨大な赤子が誕生。 それらが結合し、多頭の赤子に変貌、口から激流としか形容のできない凄まじい勢いの嘔吐をして攻撃してくる。
+
+<!-- /AUTO-GENERATED:action -->

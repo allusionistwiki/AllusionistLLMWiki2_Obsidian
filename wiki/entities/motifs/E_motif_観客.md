@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_motif_観客
 type: entity
 subtype: visual_motif
 canonical_name: 観客
-title: "観客"
+title: 観客
 first_appearance: ch0140
 spoiler_after: ch0140
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 観客
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 観客たちの『動物的熱狂』が加速する一方で、選定レースの舞台である大型スタジアムの内部には冷え冷えとした静寂が満ちる。（ch0272）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 観客たちの『動物的熱狂』が加速する一方で、選定レースの舞台である大型スタジアムの内部には冷え冷えとした静寂が満ちる。
+
+<!-- /AUTO-GENERATED:symbolic -->

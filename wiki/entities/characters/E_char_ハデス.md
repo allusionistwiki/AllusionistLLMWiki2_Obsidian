@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ハデス
 type: entity
 subtype: character
 canonical_name: ハデス
-title: "ハデス"
+title: ハデス
 first_appearance: ch0204
 spoiler_after: ch0204
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ハデス
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > 「アプリでもいいってよ。豚好きハデスの精神加工。一時的に死を偽装できるって話」（ch0239）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「アプリでもいいってよ。豚好きハデスの精神加工。一時的に死を偽装できるって話」
+- **unknown**: 祖霊と霊媒の言葉が重なり、神を名乗る男の魂が根底から否定された。存在ごと抹消された偽りの夜空が砕け、
+
+<!-- /AUTO-GENERATED:action -->

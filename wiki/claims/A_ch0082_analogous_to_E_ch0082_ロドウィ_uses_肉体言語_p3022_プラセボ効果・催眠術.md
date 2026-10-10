@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0082_analogous_to_E_ch0082_ロドウィ_uses_肉体言語_p3022_プラセボ効果・催眠術
 title: 肉体言語によるプラセボ効果の実体化
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_ロドウィ_uses_肉体言語_p3022]]"

@@ -1,6 +1,6 @@
 ---
-title: "ガロアンディアン"
-schema_version: "5.1"
+title: ガロアンディアン
+schema_version: '5.1'
 id: E_term_ガロアンディアン
 type: entity
 subtype: terminology
@@ -9,7 +9,8 @@ first_appearance: ch0027
 spoiler_after: ch0027
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ガロアンディアン
@@ -32,3 +33,32 @@ created: "2026-09-30"
 - [[A_ch0027_alludes_to_E_ch0027_トリシューラ_names_ガロアンディアン_p1218_Galactic_Empire|銀河帝国の破綻クリシェ引用]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ガロアンディアンは砂の城が波にさらわれるかのように崩れ落ちていった。 所詮は砂上の楼閣でしかなかったのだと思い知らされる。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 祝祭二日目。都市を埋めつくす音は大別して二種類。 ひとつは青空を飾る色とりどりの花火の音。 もうひとつは世界を切り取るカメラのシャッター音。 ガロアンディアンは着実に外側の常識から逸脱しつつあった。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: ガロアンディアンに『上』も『下』もない。中立的な緩衝地帯を自称するこの第五階層では表立っての衝突は忌避される。そのような空気がいつの間にか出来上がっていた。
+- **unknown**: しかしガロアンディアンでは違う。資格試験に合格し、適切な安全装置を取り付けられた製品であれば、対象のアストラル体を傷つけることなく光学映像のみを記録できる。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『理想の共生国家ガロアンディアン』とか『徳深き賢君アルト』とかいう言葉は頻繁に参照されるがゆえに人々はその響きを聞き飽きており、端的に表現すれば陳腐化した常套句と化していた。
+
+<!-- /AUTO-GENERATED:name -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ダーカンシェル
 type: entity
 subtype: character
 canonical_name: ダーカンシェル
-title: "ダーカンシェル"
+title: ダーカンシェル
 first_appearance: ch0099
 spoiler_after: ch0099
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ダーカンシェル
@@ -27,3 +28,31 @@ created: "2026-09-30"
 > 言語支配者ダーカンシェルとその子アルトは動物に言葉を与え人としての知性を与え、また逆にその特権を剥奪する権能を有していた。（ch0246）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ダーカンシェルという名の神は蜥蜴の身体と妖精の頭、虫の翅を持った生き物で、並外れて賢く、さらには強い力を持っていた。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「お前たち民、すなわち人畜に『言葉』を与えよう。それと引き替えに、お前たちは私の臣民となり、私のために尽くすのだ」
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「可愛い私の子供たち。私はもう力が衰えて、生きる気力すら湧いてこない。哀れと思うなら、私にお前たちの嫁と、子供たちを捧げておくれ」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 言語支配者ダーカンシェルとその子アルトは動物に言葉を与え人としての知性を与え、また逆にその特権を剥奪する権能を有していた。
+
+<!-- /AUTO-GENERATED:name -->

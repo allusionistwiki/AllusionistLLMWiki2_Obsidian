@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_赤子
 type: entity
 subtype: character
 canonical_name: 赤子
-title: "赤子"
+title: 赤子
 first_appearance: ch0168
 spoiler_after: ch0168
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 赤子
@@ -28,3 +29,19 @@ created: "2026-09-30"
 > その姿は焼死体ベーシストそっくりで――いや、燃えている箇所はまさしく彼の火傷痕と完璧に一致している。そっくりと言っていい。（ch0168）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 胎児は夢特有のいい加減さで骨の翼を生やして羽ばたき、雲の合間を抜けて空を華麗に舞い踊った。その姿はさながら死の天使だ。
+- **unknown**: その姿は焼死体ベーシストそっくりで――いや、燃えている箇所はまさしく彼の火傷痕と完璧に一致している。そっくりと言っていい。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: その骨の翼が加熱する空気にあてられたか、ごおごおと炎上する。そればかりではない。剥き出しの小さな頭蓋骨の半分が炎に包まれ焦げていくではないか。
+- **unknown**: するりと手指から逃れた子供は厭気のさした現世から逃れて子宮から冥府へと逆流していったのだ。生まれる事を拒絶するかのように。
+
+<!-- /AUTO-GENERATED:action -->

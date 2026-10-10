@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0003_analogous_to_E_ch0003_アキラ_other_再会_p181_社会制度による個人の圧殺
 title: 社会制度による個人の圧殺
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0003_アキラ_other_再会_p181]]"

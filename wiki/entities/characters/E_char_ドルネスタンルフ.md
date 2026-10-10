@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ドルネスタンルフ
 type: entity
 subtype: character
 canonical_name: ドルネスタンルフ
-title: "ドルネスタンルフ"
+title: ドルネスタンルフ
 first_appearance: ch0063
 spoiler_after: ch0063
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ドルネスタンルフ
@@ -37,3 +38,10 @@ created: "2026-09-30"
 - [[E_char_ミヒトネッセ|ミヒトネッセ]] — 起動(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 時折、各所から骨ばった何かや人の顔じみた輪郭が浮かび、微かな呻きが聞こえるのがひどく不気味だ。
+
+<!-- /AUTO-GENERATED:visual -->

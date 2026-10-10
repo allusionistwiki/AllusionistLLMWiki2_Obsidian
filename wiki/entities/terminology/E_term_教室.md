@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_教室
 type: entity
 subtype: terminology
 canonical_name: 教室
-title: "教室"
+title: 教室
 first_appearance: ch0189
 spoiler_after: ch0189
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 教室
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 直後、教室に大量の水が流れ込む。 大波は全てを飲み込み、残骸を深海へと誘っていく。（ch0189）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: そこには瓦礫と残骸が積み上げられた、人形たちの死体安置所しか残っていない。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: せいぜい三十人程度しか収容できないはずの室内は数千、数万の屍が敷き詰められてもなお破綻を来していない。
+
+<!-- /AUTO-GENERATED:symbolic -->

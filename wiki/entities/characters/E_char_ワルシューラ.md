@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ワルシューラ
 type: entity
 subtype: character
 canonical_name: ワルシューラ
-title: "ワルシューラ"
+title: ワルシューラ
 first_appearance: ch0135
 spoiler_after: ch0135
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ワルシューラ
@@ -28,3 +29,18 @@ created: "2026-09-30"
 > 「そいつはワルシューラ！　私の偽物だよ！　みんな騙されないで！」（ch0140）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 少年期のオルヴァに扮したヴァージルの背後で、邪悪に笑う小さなワルシューラ。
+- **unknown**: いずれも派手なアイシャドウで目の縁を強調し、悪魔的なメイクで可愛らしい顔を凶悪そうに見せている。（悪いシューラ――いわばワルシューラだよ！ 何者かによって汚染されて悪堕ちしちゃったんだ！）
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: どうやらあそこにいるのは、ヴァージルに奪われた省庁シューラたちらしい。（あれは文科シューラ、それも競技部分だけを切り分けて独立させてるんだ！ その上なんか変な改造されちゃってる！）
+
+<!-- /AUTO-GENERATED:name -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_motif_流星
 type: entity
 subtype: visual_motif
 canonical_name: 流星
-title: "流星"
+title: 流星
 first_appearance: ch0102
 spoiler_after: ch0102
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 流星
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 流星ひとつ、願いはふたつ。 瞬く間に消えてしまうあの星をこの手に掴めれば、思い出せない願いもはっきりとするのだろうか。寂しさを埋めたくて、空に手を伸ばす。 一繋がりの片割れが、どうしても思い出せない。（ch0144）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 一筋の星が流れ落ちて、夜空に尾を引いていった。 衝撃と音が木々を揺らし、鳥たちが慌てて飛び立っていく。
+
+<!-- /AUTO-GENERATED:visual -->

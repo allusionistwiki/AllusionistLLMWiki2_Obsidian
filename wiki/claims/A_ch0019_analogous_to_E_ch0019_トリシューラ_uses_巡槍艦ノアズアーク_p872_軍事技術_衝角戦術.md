@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0019_analogous_to_E_ch0019_トリシューラ_uses_巡槍艦ノアズアーク_p872_軍事技術_衝角戦術
 title: 衝角戦術の呪術的変換
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0019_トリシューラ_uses_巡槍艦ノアズアーク_p872]]"

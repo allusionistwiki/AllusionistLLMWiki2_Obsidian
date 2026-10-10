@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_マラード陛下
 type: entity
 subtype: character
 canonical_name: マラード陛下
-title: "マラード陛下"
+title: マラード陛下
 first_appearance: ch0136
 spoiler_after: ch0136
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # マラード陛下
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > 陛下が大地に命じて、私を全力で支援させているのだ。陛下を背にして負けるわけにはいかぬ。（ch0136）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 天に散らばる無数の隕石たちが、次々と大地に降り注ぐ。流星群の大半は我が王の下に辿り着く前に燃え尽きるが、せめて少しでも役に立とうと奮起した愛の奴隷たちはその身を擲って陛下の敵へ突撃を敢行し、その速度と質量で恐るべき破壊をもたらすのである。
+- **unknown**: 陛下が大地に命じて、私を全力で支援させているのだ。陛下を背にして負けるわけにはいかぬ。
+
+<!-- /AUTO-GENERATED:action -->

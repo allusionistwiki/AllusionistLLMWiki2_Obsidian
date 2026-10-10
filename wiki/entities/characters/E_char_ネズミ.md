@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ネズミ
 type: entity
 subtype: character
 canonical_name: ネズミ
-title: "ネズミ"
+title: ネズミ
 first_appearance: ch0112
 spoiler_after: ch0112
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ネズミ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > ネズミが鳴いた。七つの頭に七つの叫び。それだけで、氷のステージは粉々に砕け散った。（ch0179）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ネズミが鳴いた。七つの頭に七つの叫び。それだけで、氷のステージは粉々に砕け散った。
+
+<!-- /AUTO-GENERATED:action -->

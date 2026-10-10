@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0083_parodies_E_ch0083_バル・ア・ムント_has_property_分離能力_p3060_吸血鬼の弱点の逆転
 title: 吸血鬼弱点の戦術的逆転
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_バル・ア・ムント_has_property_分離能力_p3060]]"

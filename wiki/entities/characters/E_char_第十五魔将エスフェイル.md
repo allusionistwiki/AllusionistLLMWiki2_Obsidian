@@ -1,5 +1,5 @@
 ---
-title: "第十五魔将エスフェイル"
+title: 第十五魔将エスフェイル
 schema_version: '5.1'
 id: E_char_第十五魔将エスフェイル
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 第十五魔将エスフェイル
@@ -37,6 +37,8 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 第十五魔将、闇の脚エスフェイル。人狼種。
+- **unknown**: 第十五魔将、闇の脚エスフェイル。人狼種。ウェアウルフ
 - **unknown**: 第十五魔将、闇の脚エスフェイル。人狼種。
 - **unknown**: 第十五魔将、闇の脚エスフェイル。人狼種。ウェアウルフ
 - **unknown**: 第十五魔将、闇の脚エスフェイル。人狼種。

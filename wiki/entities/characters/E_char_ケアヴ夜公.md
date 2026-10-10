@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ケアヴ夜公
 type: entity
 subtype: character
 canonical_name: ケアヴ夜公
-title: "ケアヴ夜公"
+title: ケアヴ夜公
 first_appearance: ch0210
 spoiler_after: ch0210
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ケアヴ夜公
@@ -27,3 +28,25 @@ created: "2026-09-30"
 > 翅脈だ。翅のアストラル体を空間全域に拡張させている。周囲に張り巡らされた仮想神経こそが彼の邪視部位。虹犬の身体が引き裂かれ、その首が宙を舞った。（ch0210）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: おう。てめえライラ、俺らを舐めてんのか？ 虹犬の頬を張ったのは、正面で対峙している背広の男性ではない。
+- **unknown**: 翅脈だ。翅のアストラル体を空間全域に拡張させている。周囲に張り巡らされた仮想神経こそが彼の邪視部位。虹犬の身体が引き裂かれ、その首が宙を舞った。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 一歩前に進み出たのは真ん中にいた眼鏡の男。特注らしき背広は縦のスリットと三枚布を固定するためのボタンを持ち、二対の蜻蛉翅が真横に向かって伸びている。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: ライラ・ラプス。私は最初に言ったぞ。共闘は無い。対等な関係などあり得ないと。お前たちがこちらの傘下に加わりたいと頭を下げるのが筋だ。
+
+<!-- /AUTO-GENERATED:speech -->

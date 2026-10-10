@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_フェジェン
 type: entity
 subtype: character
 canonical_name: フェジェン
-title: "フェジェン"
+title: フェジェン
 first_appearance: ch0259
 spoiler_after: ch0259
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # フェジェン
@@ -28,3 +29,25 @@ created: "2026-09-30"
 > 「逃がすと思うか？　ステランプ、クロリヌス、この一帯にまとめて殲滅呪詛を投射しろ。ファルキノン、捕獲対象は眠らせて拉致。フルオロは引き続き後方支援を」（ch0259）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 瞬く間に魔女を死に至らしめた呪術師が、倒れた女の向こうに浮遊していた。　異様な風体の男だった。　三対の白翼が生えた背骨だけの胴体、骨と繋がった頭部には白髪と黒目の無い瞳。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 直後、上空で爆炎の花が咲いた。　三角耳の魔女は自分のすぐそばで炸裂した爆炎に呑み込まれて焼死体と化していた。
+- **unknown**: 度重なる死に激昂し、切り札である浄界を構築したフェジェンを中心に雲の上に築かれた王国という幻想的な光景が広がっていく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「逃がすと思うか？　ステランプ、クロリヌス、この一帯にまとめて殲滅呪詛を投射しろ。ファルキノン、捕獲対象は眠らせて拉致。フルオロは引き続き後方支援を」
+
+<!-- /AUTO-GENERATED:speech -->

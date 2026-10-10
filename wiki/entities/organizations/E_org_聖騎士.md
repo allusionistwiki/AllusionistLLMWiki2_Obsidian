@@ -1,5 +1,5 @@
 ---
-title: "聖騎士"
+title: 聖騎士
 schema_version: '5.1'
 id: E_org_聖騎士
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0009
 spoiler_after: ch0009
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 聖騎士
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 案の定、まだ破壊されていない通路の先から、ぞろぞろと吐き出されてくる聖騎士が六人。
 - **unknown**: 案の定、まだ破壊されていない通路の先から、ぞろぞろと吐き出されてくる聖騎士が六人。
 - **unknown**: 案の定、まだ破壊されていない通路の先から、ぞろぞろと吐き出されてくる聖騎士が六人。
 - **unknown**: 案の定、まだ破壊されていない通路の先から、ぞろぞろと吐き出されてくる聖騎士が六人。

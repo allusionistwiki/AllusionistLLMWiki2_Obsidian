@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_白い少女
 type: entity
 subtype: character
 canonical_name: 白い少女
-title: "白い少女"
+title: 白い少女
 first_appearance: ch0144
 spoiler_after: ch0144
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 白い少女
@@ -26,3 +27,25 @@ created: "2026-09-30"
 > 白い少女が空を舞う。金色の瞳を輝かせながら、黒衣の男に肉薄する。（ch0264）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「ちょっとトリシューラの使い魔！ あなたってばさっきから動けてませんけど、やる気あるんですか？！」 純白の翼をはためかせ、白い少女が降下してくる。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「はいじゃあ行きますよ――『言理の妖精語りて曰く』！！」 言うが早いか、空高く飛翔していく白い少女。 歌うような声が誰かの物語を紡ぐ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「『断章』あるじゃないですかそれですそれを使うんですよこのぽんこつっ」 「ぽんこつ言うな！」 「ぽんこつだからぽんこつって言ったんですぅー！ このぽんこつぽんこつポンコツロボット！ いいからばかみたいな力押しは止めて絆を繋いで語り直すんですよ！」
+- **unknown**: 「当然です！ 他陣営と手を取り合うんですから、対等な互助関係でなくては話になりません。このくらいでいちいち窮地に陥らないで下さい、ぽんこつ王国」
+
+<!-- /AUTO-GENERATED:speech -->

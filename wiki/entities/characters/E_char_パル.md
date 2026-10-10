@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_パル
 type: entity
 subtype: character
 canonical_name: パル
-title: "パル"
+title: パル
 first_appearance: ch0259
 spoiler_after: ch0259
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # パル
@@ -26,3 +27,31 @@ created: "2026-09-30"
 > 『秘匿騎士』パルガレード・ダゥ・オグロサーリ。あだ名はパル。（ch0259）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 落ち着いた声が響いて、更なる闖入者が悠然と姿を現した。　古めかしいデザインの呪動甲冑はファンタジー小説や中世史の資料から抜け出してきたかのよう。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 自動小杖『パレルノ四八型』の引き金を引くと同時に刻印呪石弾が起動し、ビーンズ式の詠唱によって巻き起こった旋風が毒ガスを一点に集めていった。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ユディーアの危機とあらば、僕はどんな場所であろうと駆けつけるつもりです」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『秘匿騎士』パルガレード・ダゥ・オグロサーリ。あだ名はパル。
+
+<!-- /AUTO-GENERATED:name -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アヌビス７４０
 type: entity
 subtype: character
 canonical_name: アヌビス７４０
-title: "アヌビス７４０"
+title: アヌビス７４０
 first_appearance: ch0167
 spoiler_after: ch0167
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アヌビス７４０
@@ -28,3 +29,33 @@ created: "2026-09-30"
 > 「提案がある。私たち、共闘できないかな？ 衝突を避けて、まずは上のランクを目指す。そして、壁になっているあの巨大アイドルグループを協力して倒すんだ」（ch0167）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「おごるから何でも頼んで？ 私たちは生憎と見て楽しむことしかできないから、その分そっちが味を楽しんでくれると嬉しいかな」
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: アヌビス７４０と名乗った『下』の『眠り棺』は俺たちを手近なバーに誘った。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: （アヌビス搭載型コクーンの第七世代――のローエンドモデルだね。ネットの評価によると低価格帯としては耐久性能が良くて、コスパを重視する冷凍睡眠業者に好評を博した人気の『眠り棺』みたい）
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 聞くところによれば、その財団は『クライオニクス』――いわゆる死亡直後の遺体を凍結させて未来での蘇生に望みを託すという事業を行っていたらしい。
+- **unknown**: 「問題はまだあるんだ。実は、バンド内部で三角関係っぽくなってる」
+- **unknown**: 「提案がある。私たち、共闘できないかな？ 衝突を避けて、まずは上のランクを目指す。そして、壁になっているあの巨大アイドルグループを協力して倒すんだ」
+
+<!-- /AUTO-GENERATED:speech -->

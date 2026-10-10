@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0008_structurally_matches_E_ch0008_アキラ_other_金の力_p362_pay_to_win_mechanics
 title: Pay-to-Win構造の適用
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_アキラ_other_金の力_p362]]"

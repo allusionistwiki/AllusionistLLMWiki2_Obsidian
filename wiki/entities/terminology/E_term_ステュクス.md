@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ステュクス
 type: entity
 subtype: terminology
 canonical_name: ステュクス
-title: "ステュクス"
+title: ステュクス
 first_appearance: ch0086
 spoiler_after: ch0086
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ステュクス
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 世界を彼岸と此岸に分ける悠久の大河ステュクスは穏やかに流れ続けて、降り注ぐ灰の雪を飲み込んでその青い闇を広げていく。（ch0194）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 世界を彼岸と此岸に分ける悠久の大河ステュクスは穏やかに流れ続けて、降り注ぐ灰の雪を飲み込んでその青い闇を広げていく。
+
+<!-- /AUTO-GENERATED:symbolic -->

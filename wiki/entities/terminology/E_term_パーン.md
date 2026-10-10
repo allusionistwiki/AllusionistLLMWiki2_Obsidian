@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_パーン
 type: entity
 subtype: terminology
 canonical_name: パーン
-title: "パーン"
+title: パーン
 first_appearance: ch0110
 spoiler_after: ch0110
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # パーン
@@ -28,3 +29,19 @@ created: "2026-09-30"
 > 「クロウサーの奴隷、ラクルラールの奴隷、トライデントの奴隷。そんなものに甘んじる俺ではない。ならば『俺』を固定化する中和剤が必要だ――なるほど、それが氷血呪というわけか」（ch0145）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 直後、遥かな天上より途方もなく巨大な構造物が落下してラクルラールを叩き潰した。
+- **unknown**: 禁呪とも呼ばれるクロウサーの秘術の一つ。 融け合う呪いは共有の呪い。 与えることと奪うことを同時に行うが、パーンという圧倒的に強固な『我』がそれを使えば、与えようが奪おうが結果は同じだ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「我が名はパーン。『全て』である者。下らん端役が、俺の覇道を妨げるな」
+- **unknown**: 「クロウサーの奴隷、ラクルラールの奴隷、トライデントの奴隷。そんなものに甘んじる俺ではない。ならば『俺』を固定化する中和剤が必要だ――なるほど、それが氷血呪というわけか」
+
+<!-- /AUTO-GENERATED:speech -->

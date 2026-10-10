@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ヴァージル
 type: entity
 subtype: terminology
 canonical_name: ヴァージル
-title: "ヴァージル"
+title: ヴァージル
 first_appearance: ch0129
 spoiler_after: ch0129
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ヴァージル
@@ -28,3 +29,21 @@ created: "2026-09-30"
 > 「【異戮】」 何も起きなかった。（ch0133）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「どうでも良いですけどー。それは古い時代の話で、今は天青石を セレスタイト 利用した光格子時計で一秒を定めているらしいですよー」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 跳躍したヴァージルの足下に、雷によって構成された三頭犬が出現する。
+- **unknown**: 「冥道と接続――開門する」
+- **unknown**: 同心円を描くタイルのように回転する文字列の中に、沢山のちびシューラが囚われているのが見えた。
+- **unknown**: 「世界根を捧げ、世界樹の灰を撒け。ガリヨンテの肉を裂き、レルプレアの骨を抉り、アルラウネの血を――ぐっ」
+- **unknown**: 「まとめて絶滅しろ――【智神の盾】」
+
+<!-- /AUTO-GENERATED:action -->

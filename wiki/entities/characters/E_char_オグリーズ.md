@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_オグリーズ
 type: entity
 subtype: character
 canonical_name: オグリーズ
-title: "オグリーズ"
+title: オグリーズ
 first_appearance: ch0213
 spoiler_after: ch0213
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # オグリーズ
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「あの汚点の話はやめろ。虫酸が走る。それよりガレニスの公開処刑とやらはまだ始まらんのか？ 私はそれだけを楽しみにこんな辺境まで雲を伸ばしたのだぞ」（ch0213）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「流石にファラゾーラ以外は集まっているようだな」 薄暗い会議室に通されたオトルベイト家当主・『天嵐の主』オグリーズは退屈そうに鼻を鳴らした。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「あの汚点の話はやめろ。虫酸が走る。それよりガレニスの公開処刑とやらはまだ始まらんのか？ 私はそれだけを楽しみにこんな辺境まで雲を伸ばしたのだぞ」
+
+<!-- /AUTO-GENERATED:speech -->

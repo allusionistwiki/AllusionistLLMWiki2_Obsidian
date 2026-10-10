@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_オルガンローデ
 type: entity
 subtype: terminology
 canonical_name: オルガンローデ
-title: "オルガンローデ"
+title: オルガンローデ
 first_appearance: ch0072
 spoiler_after: ch0072
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # オルガンローデ
@@ -28,3 +29,10 @@ created: "2026-09-30"
 > 彼女のオルガンローデは、『第四紀竜オルゴーの滅びの呪文』であって『第九紀竜オルガンローデ』ではない。同じ音の同じ言葉、同一起源の呪い。だが決して派生した先の意味は含まないし、認めていない。威力竜が吐き出す滅びの呪文。それこそがオルガンローデ（ch0218）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 呪文のオルガンローデは『長時間詠唱すればするだけ威力が上昇する』という性質を持つ。
+
+<!-- /AUTO-GENERATED:symbolic -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_占い師
 type: entity
 subtype: character
 canonical_name: 占い師
-title: "占い師"
+title: 占い師
 first_appearance: ch0230
 spoiler_after: ch0230
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 占い師
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「『家』への反逆。『父』への復讐。『尊厳』の回復。誘拐婚を繰り返すこと三度。赦しなき流血の果て、天と地は裏返る」（ch0230）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 呪詛の込められた木製の枷を両足と首に嵌められた哀れな囚人たち。彼らは一心不乱に水晶玉や呪札を使って未来を占い続けている。第五階層を騒がせる『占い師狩り』。その悪意が彼らを奴隷の身に貶めていた。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「『家』への反逆。『父』への復讐。『尊厳』の回復。誘拐婚を繰り返すこと三度。赦しなき流血の果て、天と地は裏返る」
+
+<!-- /AUTO-GENERATED:speech -->

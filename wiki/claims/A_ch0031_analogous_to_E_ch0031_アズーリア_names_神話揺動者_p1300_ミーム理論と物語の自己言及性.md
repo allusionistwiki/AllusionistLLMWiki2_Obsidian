@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0031_analogous_to_E_ch0031_アズーリア_names_神話揺動者_p1300_ミーム理論と物語の自己言及性
 title: 神話揺動者のミームと自己言及性
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0031_アズーリア_names_神話揺動者_p1300]]"

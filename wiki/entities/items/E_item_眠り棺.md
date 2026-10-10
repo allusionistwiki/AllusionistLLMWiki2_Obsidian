@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_眠り棺
 type: entity
 subtype: item
 canonical_name: 眠り棺
-title: "眠り棺"
+title: 眠り棺
 first_appearance: ch0167
 spoiler_after: ch0167
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 眠り棺
@@ -25,3 +26,24 @@ created: "2026-09-30"
 > 冷凍睡眠装置である『代替身体』に本人の『ふるまい』を再現させる仮想使い魔を憑依させ、覚醒後、本人に使い魔の記憶を高速で転写する（ch0167）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: そこには手足の付いた棺桶が立っていた。正確には寝台とか揺り籠と言った方がいいだろう。なにしろあれは冷凍睡眠装置なのだから。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「はじめましてシナモリアキラ。それとひさしぶり『紫の』。ちょっと話せる？」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 冷凍睡眠装置である『代替身体』に本人の『ふるまい』を再現させる仮想使い魔を憑依させ、覚醒後、本人に使い魔の記憶を高速で転写する
+
+<!-- /AUTO-GENERATED:action -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0078_analogous_to_E_ch0078_ちびシューラ_helps_アキラ_p2904_スマホゲームの自動戦闘機能
 title: AI行動予測アルゴリズムのメタファー
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0078_ちびシューラ_helps_アキラ_p2904]]"

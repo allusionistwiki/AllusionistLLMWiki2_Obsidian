@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_地竜マラード
 type: entity
 subtype: character
 canonical_name: 地竜マラード
-title: "地竜マラード"
+title: 地竜マラード
 first_appearance: ch0144
 spoiler_after: ch0144
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 地竜マラード
@@ -35,3 +36,19 @@ created: "2026-09-30"
 - [[E_char_アキラ|アキラ]] — 戦闘／攻撃(受)（4 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 見上げるほどの巨躯は松毬状の鱗片に覆われている。 まつぼっくり 後頭部から生えた長い鬣を風に棚引かせ、槍の如き尾を引き摺りながら、轍を作りつつ疾走する一頭の怪物が咆哮を轟かせた。
+- **unknown**: 髪を筋繊維や筋膜になぞらえた、テンセグリティの強化筋肉だ！ テーピングで負荷を分散するのと似たような理屈だけど、アイデア重視の無茶デザインだよ！ ずるいずるいずっこい！
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 容易く象を踏みつぶせるほどの巨体――いつか戦ったカッサリオよりも雄々しくそして痛々しい。彼は戦士でも狩人でもないというのに荒ぶる野獣であることを強要されている。運命、あるいは悲しみによって。
+- **unknown**: 地竜の巨大な前足が、長大な尾が、ラフディの見事な建造物を次々と破壊し尽くした。 その中にはマラードが手がけた美しい建築物も含まれている。
+
+<!-- /AUTO-GENERATED:action -->

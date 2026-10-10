@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_サロ
 type: entity
 subtype: character
 canonical_name: サロ
-title: "サロ"
+title: サロ
 first_appearance: ch0259
 spoiler_after: ch0259
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # サロ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 「この場は私たちに任せて行きなさい。サロなら悪いようにはしないはずよ。クロウサーへの対抗策があるのならなおさら急」（ch0259）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 博物城では浮いていたユディーアの父にとっての数少ない友人であり、幼いキニスに対しても良くしてくれた記憶がある。　奇人変人危険人物を各種取り揃えた博物城の中で数少ない良識と常識を兼ね備えた真人間だ。
+
+<!-- /AUTO-GENERATED:relationship -->

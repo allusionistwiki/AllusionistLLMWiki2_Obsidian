@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ルスクォミーズ
 type: entity
 subtype: character
 canonical_name: ルスクォミーズ
-title: "ルスクォミーズ"
+title: ルスクォミーズ
 first_appearance: ch0075
 spoiler_after: ch0075
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ルスクォミーズ
@@ -36,3 +37,21 @@ created: "2026-09-30"
 - [[E_char_ミブリナ|ミブリナ]] — 関連（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ミブリナ。お前には期待している。統合からの逸脱を。分岐からの収束を。その矛盾と閉塞を打破する希望を」
+- **unknown**: 「私という大地を超えていけ、ミブリナ。あるいはミブレル、愛しく憎い妹よ。我々はお前がここに来るのをずっと待っていた」「我々？ それは誰？」「血脈の果て。冥界の底を知る、真なる空使いたち」
+- **unknown**: 『悪鬼』とは使い魔系統に属する呪術の一種で、ある過激な思想集団や閉鎖的な血族、犯罪組織や忌み嫌われる種族として解釈され得る『集団の指向性』の名前だ。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『可能性を減らそう』という発想を最初に実行に移したのはルスクォミーズだが、発案者は未確定だ。
+- **unknown**: 第十大地ルスクォミーズによる第七大地シャーネスの補食は、極大なる人類すべての無意識下で生じた願望の反映であり、子らの救済を望む母たちの総意でもあった。
+- **unknown**: 完全な女神に至らんとしたルスクォミーズは、七女である『七つの風の主』シャーネスを喰らい尽くした。
+
+<!-- /AUTO-GENERATED:action -->

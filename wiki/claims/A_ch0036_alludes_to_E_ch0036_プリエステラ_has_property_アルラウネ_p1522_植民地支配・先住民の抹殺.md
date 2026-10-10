@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0036_alludes_to_E_ch0036_プリエステラ_has_property_アルラウネ_p1522_植民地支配・先住民の抹殺
 title: 植民地支配と先住民抹殺の暗喩
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_プリエステラ_has_property_アルラウネ_p1522]]"

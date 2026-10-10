@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_王国
 type: entity
 subtype: terminology
 canonical_name: 王国
-title: "王国"
+title: 王国
 first_appearance: ch0131
 spoiler_after: ch0131
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 王国
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > 陽光に照らされた地上の王国と、暗い影に包まれた地下の王国。王国の調和は完成された神権とそこから滴り落ちた王権によって保たれる。光の中には宝石が。闇の中には血統が。（ch0170）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 陽光に照らされた地上の王国と、暗い影に包まれた地下の王国。王国の調和は完成された神権とそこから滴り落ちた王権によって保たれる。光の中には宝石が。闇の中には血統が。
+- **unknown**: 『王国』は完全だった。のちのあらゆる『王国』の雛形、完全なる物質世界の光。
+
+<!-- /AUTO-GENERATED:symbolic -->

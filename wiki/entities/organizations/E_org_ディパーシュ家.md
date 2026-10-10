@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ディパーシュ家
 type: entity
 subtype: organization
 canonical_name: ディパーシュ家
-title: "ディパーシュ家"
+title: ディパーシュ家
 first_appearance: ch0252
 spoiler_after: ch0252
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ディパーシュ家
@@ -22,6 +23,20 @@ created: "2026-09-30"
 ## 代表引用
 
 > 歴史の流れに埋もれて廃れた行き止まりの血。それは存在しないはずの亡霊だ。（ch0252）
-> 「ディパーシュ家より報告～。第六階層で偵察中のクラウビューラ兄さまがディスケイムを発見したので監視してまーす！ それからウチの若いコがハグレスの依り代を発見～お手柄！ たぶんアダス とかレナリア入りなんで、サクっと封印しちゃうってさ～。クオ（ch0254）
+> 「それからウチの若いコがハグレスの依り代を発見～お手柄！ たぶんアダス とかレナリア入りなんで、サクっと封印しちゃうってさ～。」（ch0254）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 歴史の流れに埋もれて廃れた行き止まりの血。それは存在しないはずの亡霊だ。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「それからウチの若いコがハグレスの依り代を発見～お手柄！ たぶんアダス とかレナリア入りなんで、サクっと封印しちゃうってさ～。」
+
+<!-- /AUTO-GENERATED:speech -->

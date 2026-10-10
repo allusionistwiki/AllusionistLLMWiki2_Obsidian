@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_夢馬
 type: entity
 subtype: character
 canonical_name: 夢馬
-title: "夢馬"
+title: 夢馬
 first_appearance: ch0211
 spoiler_after: ch0211
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 夢馬
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 代償としてその形を崩壊させた夢馬は全身からどろどろとした触手を伸ばし、実体世界での存在を不安定化させていく。（ch0211）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 代償としてその形を崩壊させた夢馬は全身からどろどろとした触手を伸ばし、実体世界での存在を不安定化させていく。
+
+<!-- /AUTO-GENERATED:visual -->

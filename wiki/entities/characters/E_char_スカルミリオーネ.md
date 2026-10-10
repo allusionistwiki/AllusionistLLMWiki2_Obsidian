@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_スカルミリオーネ
 type: entity
 subtype: character
 canonical_name: スカルミリオーネ
-title: "スカルミリオーネ"
-first_appearance: ch0183
-spoiler_after: ch0183
+title: スカルミリオーネ
+first_appearance: ch0148
+spoiler_after: ch0148
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # スカルミリオーネ
@@ -28,3 +29,27 @@ created: "2026-09-30"
 > 「だが気まぐれと偶然の紀神アエルガ＝ミクニーですらこの世の全てを思うがままに動かせるわけではない。だからこそ神話の戦いが成立する。紀神に対抗する手段とて無いわけではないのだからな」（ch0190）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: そこでは額に『拾』の焼き印を押された男が一方的にルバーブ＝乱髪に殴られ、呪われ、投げ飛ばされていた。
+- **unknown**: 乱髪ことルバーブの加入により、俺たちの戦力は劇的に強化された。
+- **unknown**: 彼は非戦闘員たちの『創造力』を利用するために徴兵を強行。これには反発もあり一悶着あったのだが、あくまでも臨時、そして工兵として要塞の建築に従事するという条件付きであったため、住民の協力を取り付けることができた。
+- **unknown**: ルバーブが蓄積してきた戦争のノウハウと経験から生まれる勘。それらをトリシューラと共有し、分析することで『サイバーカラテ道場』へとフィードバックし、戦争行為を高度にモジュール化することが可能となった。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「だが気まぐれと偶然の紀神アエルガ＝ミクニーですらこの世の全てを思うがままに動かせるわけではない。だからこそ神話の戦いが成立する。紀神に対抗する手段とて無いわけではないのだからな」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: スカルミリオーネ：大地の民の猛将ルバーブ。六王マラードの側近。
+
+<!-- /AUTO-GENERATED:name -->

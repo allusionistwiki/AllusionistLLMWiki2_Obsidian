@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0070_analogous_to_E_ch0070_リーナ_uses_質量ゼロ_p2617_suicide_as_erasure
 title: 存在抹消型自殺への転生
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_リーナ_activates_十七万六千倍加速_p2617]]"

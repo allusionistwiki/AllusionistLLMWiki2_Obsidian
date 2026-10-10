@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_冥道の幼姫
 type: entity
 subtype: character
 canonical_name: 冥道の幼姫
-title: "冥道の幼姫"
+title: 冥道の幼姫
 first_appearance: ch0075
 spoiler_after: ch0075
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 冥道の幼姫
@@ -28,3 +29,17 @@ created: "2026-09-30"
 > その傍らに小さな少女が手枷と鎖付きの首輪を嵌められて立っている。（ch0113）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その傍らに小さな少女が手枷と鎖付きの首輪を嵌められて立っている。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「死せる者たちに問いましょう。王に求められるものとは何か」応じるのは六王たち。一人ずつ、その資格を口にしていく。「それは愛情」「それは道徳」「それは健康」「それは地位」
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_マイコニド
 type: entity
 subtype: character
 canonical_name: マイコニド
-title: "マイコニド"
+title: マイコニド
 first_appearance: ch0198
 spoiler_after: ch0198
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # マイコニド
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 泥や砂埃に塗れて薄汚れたキノコ人間は片腕を無くしていた。彼にこれからどんな災難が降りかかるのかはわからない。（ch0198）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 見覚えのあるものを見つけた、そういう注意の逸れ方。 街角をよたよたと歩いて行くのは、小柄なクナータよりも少しだけ小さな背丈の手足の付いたキノコだった。
+- **unknown**: 泥や砂埃に塗れて薄汚れたキノコ人間は片腕を無くしていた。彼にこれからどんな災難が降りかかるのかはわからない。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「どなたか、お金を恵んでいただけませんか。ほんの少しでいいんです」 マイコニドは明らかに困窮していた。
+
+<!-- /AUTO-GENERATED:speech -->

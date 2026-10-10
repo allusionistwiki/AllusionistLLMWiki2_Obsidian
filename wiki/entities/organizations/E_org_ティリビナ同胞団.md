@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ティリビナ同胞団
 type: entity
 subtype: organization
 canonical_name: ティリビナ同胞団
-title: "ティリビナ同胞団"
+title: ティリビナ同胞団
 first_appearance: ch0206
 spoiler_after: ch0206
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ティリビナ同胞団
@@ -28,3 +29,27 @@ created: "2026-09-30"
 > 「仲間のひとりが病院に搬送された二人を追跡、居場所を突き留めました。襲撃して拉致し、記憶を吸収した上で存在を漂白して転生枠を奪います」（ch0224）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「仲間のひとりが病院に搬送された二人を追跡、居場所を突き留めました。襲撃して拉致し、記憶を吸収した上で存在を漂白して転生枠を奪います」
+- **unknown**: ささやかな果樹園は法によらず曖昧な占有がなされていたが、あるときティリビナ同胞団に所属する樹木系の若者たちが暴力によって強奪、占拠した。キノコ人は一人が殺され二人が手足を奪われた。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 誤解の余地なく、ティリビナ同胞団は祝祭への参加を求めていた。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: それはティリビナ同胞団という総体の意思が統一されていないことを意味する。　この舞台を支配しているのは、決してスーリウムひとりではないのだ。
+- **unknown**: ティリビナ同胞団・スーリウム：顕花始祖アルラウネの子、女神レルプレアの兄。カーインとは親戚（？）。
+- **unknown**: かくしてティリビナ同胞団と緑竜騎士団は正式に同盟を結ぶことが決まった。
+
+<!-- /AUTO-GENERATED:relationship -->

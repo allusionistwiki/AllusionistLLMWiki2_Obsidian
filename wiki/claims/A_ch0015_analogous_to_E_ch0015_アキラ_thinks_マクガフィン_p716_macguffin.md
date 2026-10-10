@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0015_analogous_to_E_ch0015_アキラ_thinks_マクガフィン_p716_macguffin
 title: マクガフィンとしての自己客体化
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_アキラ_thinks_マクガフィン_p716]]"

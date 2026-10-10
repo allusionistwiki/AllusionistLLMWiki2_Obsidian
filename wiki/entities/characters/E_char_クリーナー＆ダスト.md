@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_クリーナー＆ダスト
 type: entity
 subtype: character
 canonical_name: クリーナー＆ダスト
-title: "クリーナー＆ダスト"
+title: クリーナー＆ダスト
 first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # クリーナー＆ダスト
@@ -27,3 +28,31 @@ created: "2026-09-30"
 > 「俺は最高にツイてる。だから勝つ」（ch0233）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: クリーナー＆ダスト：謎めいた黒衣のダークホース。豪運。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「そして、おおっと！ 続いて現れたのは謎の黒衣！ ダークホース戦略なのはわかるがまだ勿体ぶるつもりの様子！ 飛びたいからここまで来た！ 経歴一切不明、おそらく名前も偽名！ もしや誰かの兄弟か？！ クリーナー＆ダスト！」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 無言のまま会場の中央に移動すると、静かにコイントス。更に一枚。続けて無数に。 噴水のようなコインが、雨のように会場に降り注ぐ。 その表示は全て表。槍が示すのは勝利の刻印だ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「俺は最高にツイてる。だから勝つ」
+
+<!-- /AUTO-GENERATED:speech -->

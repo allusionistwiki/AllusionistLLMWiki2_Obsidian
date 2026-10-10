@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_白骨迷宮
 type: entity
 subtype: terminology
 canonical_name: 白骨迷宮
-title: "白骨迷宮"
+title: 白骨迷宮
 first_appearance: ch0152
 spoiler_after: ch0152
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 白骨迷宮
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > もはや探索者を喰らうダンジョンではなく華やかなショウやオーディションが行われる地下アイドルたちのステージになっていた。（ch0162）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 東地区に位置する階層周辺部の生産プラント。その真下に広がる下水道の更に下。「白骨迷宮――現在、リールエルバを誘拐した邪教集団が根城していると推測されている地下遺跡の最下層。
+- **unknown**: 「白骨迷宮――この第五階層の地下に広がるという再生者たちの奈落です。死せる生者たちの練兵場だとか、債務者たちの労働の場だとか、犯罪者たちの刑務所だとか、そういう話ですよ」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: もはや探索者を喰らうダンジョンではなく華やかなショウやオーディションが行われる地下アイドルたちのステージになっていた。
+
+<!-- /AUTO-GENERATED:symbolic -->

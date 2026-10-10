@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_右腕
 type: entity
 subtype: item
 canonical_name: 右腕
-title: "右腕"
+title: 右腕
 first_appearance: ch0104
 spoiler_after: ch0104
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 右腕
@@ -27,3 +28,12 @@ created: "2026-09-30"
 > 「ああ。といっても、手持ちの資産では足りぬ。よって、俺の『右腕』で支払う」（ch0109）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 右腕は、それが産まれる原因となった父親の下に向かう。
+- **unknown**: それを、手刀の形を作った右腕が鮮やかに切り裂いていく。
+- **unknown**: 一振りの剣となって空中を乱舞する手刀は、全ての文字を引き裂いたかと思うと浮遊する黒い本を強引に掴んで閉じてしまう。
+
+<!-- /AUTO-GENERATED:action -->

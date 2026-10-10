@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_レッサードラゴン
 type: entity
 subtype: character
 canonical_name: レッサードラゴン
-title: "レッサードラゴン"
+title: レッサードラゴン
 first_appearance: ch0198
 spoiler_after: ch0198
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # レッサードラゴン
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 灰黒の鱗は甲冑さながら。二つの角は兜の如し。鋭利な爪はさしずめ軍勢の槍衾か。 巨大な亜竜が細い瞳孔でこちらを見下ろしていた。（ch0198）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 直後に遠雷のような轟音、そして叫び声。 酒場の天井が崩落し、叩きつけられた巨大な足によって名乗りを上げた男は踏み潰された。 探していた相手の大言壮語からの即死に、流石のユディーアも動揺を禁じ得ない。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 灰黒の鱗は甲冑さながら。二つの角は兜の如し。鋭利な爪はさしずめ軍勢の槍衾か。 巨大な亜竜が細い瞳孔でこちらを見下ろしていた。
+
+<!-- /AUTO-GENERATED:visual -->

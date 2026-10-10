@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ウォレス
 type: entity
 subtype: character
 canonical_name: ウォレス
-title: "ウォレス"
+title: ウォレス
 first_appearance: ch0107
 spoiler_after: ch0107
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ウォレス
@@ -28,3 +29,30 @@ created: "2026-09-30"
 > その後頭部に、老人の指が深々と突き刺さっている。（ch0107）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「王よ。それは甘えです」
+- **unknown**: 「陛下には儂がいるではございませんか。陛下は一人ではありません。信じ合える友が、仲間がいれば出来ないことなどなにもありません。」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 伸び放題になった隠者の髪の毛と髭が、まるで蛇や長虫のように自ら動いて、老人の首に巻き付いたのである。
+- **unknown**: 「『地位の断章』は領域と空間、そして場面すら掌握する。
+- **unknown**: その後頭部に、老人の指が深々と突き刺さっている。
+- **unknown**: 更には一斉に突き出された槍がその小柄な身体を貫いた。
+- **unknown**: 「いいだろう。付け加えるなら、このままではオルヴァ王の再生そのものが失敗する危険性があるからな」
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その口から、涎で濡れた長い髪の毛が出てきたのを見てオルヴァは驚いてその場にへたり込む。
+- **unknown**: 老人の肉体が膨張し、「六十パーセント」の声が響くと同時、石肌の巨漢が豪快に殴り飛ばされた。
+
+<!-- /AUTO-GENERATED:visual -->

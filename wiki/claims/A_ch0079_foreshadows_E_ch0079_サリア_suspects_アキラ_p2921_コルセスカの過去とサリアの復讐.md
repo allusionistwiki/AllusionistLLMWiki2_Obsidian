@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0079_foreshadows_E_ch0079_サリア_suspects_アキラ_p2921_コルセスカの過去とサリアの復讐
 title: コルセスカ過去に関わる対立示唆
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_サリア_suspects_アキラ_p2921]]"

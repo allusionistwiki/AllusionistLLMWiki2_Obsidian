@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0009_analogous_to_E_ch0009_トリシューラ_reveals_全身義体_p404_サイボーグ・義肢
 title: サイボーグ義肢の提示
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_トリシューラ_reveals_全身義体_p404]]"

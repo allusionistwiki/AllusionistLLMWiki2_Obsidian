@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ちびシューラ
 type: entity
 subtype: organization
 canonical_name: ちびシューラ
-title: "ちびシューラ"
+title: ちびシューラ
 first_appearance: ch0105
 spoiler_after: ch0105
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ちびシューラ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 敵の複雑怪奇な呪術の波が映像に引きずられて零落、打撃の応酬に変質する。（ch0186）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 敵の複雑怪奇な呪術の波が映像に引きずられて零落、打撃の応酬に変質する。
+
+<!-- /AUTO-GENERATED:action -->

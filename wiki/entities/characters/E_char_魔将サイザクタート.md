@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_魔将サイザクタート
 type: entity
 subtype: character
 canonical_name: 魔将サイザクタート
-title: "魔将サイザクタート"
+title: 魔将サイザクタート
 first_appearance: ch0208
 spoiler_after: ch0208
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 魔将サイザクタート
@@ -28,3 +29,20 @@ created: "2026-09-30"
 > 「魔将サイザクタート。亡き友の雪辱、この俺が果たす」（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「我が名は魔将サイザクタート。レストロオセ四十四士と相対できる栄誉を噛みしめて死ね」
+- **unknown**: 「朱神はもう微睡んでいる。俺たちの夢が重なり合っているように」
+- **unknown**: 「魔将サイザクタート。亡き友の雪辱、この俺が果たす」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 空間に線が走る。 風景を分断する直線が、一本、二本、三本と増え続け、気付けば夥しい数の線が嵐となって魔将の周囲を取り巻き回転していく。 惨殺であった。 至近距離にいた探索者たちは残らず五体を引き裂かれて即死した。
+- **unknown**: 「まだ、だ」 魔将が立ち上がった。明らかな死に体だというのに、焼け焦げた体を強引に動かして進もうとする。
+
+<!-- /AUTO-GENERATED:action -->

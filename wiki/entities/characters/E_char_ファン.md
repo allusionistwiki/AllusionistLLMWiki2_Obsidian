@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ファン
 type: entity
 subtype: character
 canonical_name: ファン
-title: "ファン"
+title: ファン
 first_appearance: ch0166
 spoiler_after: ch0166
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ファン
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 虫のように群がる悪質なファンたちは枷から解き放たれたように、一斉にナイフを、呪符を、小弓を、折り畳みの槍を手に唾液を吐き散らしながらリーナに襲いかかろうとしている。（ch0170）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「姫ぐるみひとつ下さい。あと姫ストラップも」「姫のキャラプリントシャツ、痛すぎて一周回っていい」「姫かわいいよ姫」「姫の抱き枕カバーを抱きしめて眠る」「俺くらいになるとむしろ被る。姫と一体化する」「キャラを被るの、シナモリアキラ性だしむしろ正しさすら感じるな」「さすがでござる」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 虫のように群がる悪質なファンたちは枷から解き放たれたように、一斉にナイフを、呪符を、小弓を、折り畳みの槍を手に唾液を吐き散らしながらリーナに襲いかかろうとしている。
+
+<!-- /AUTO-GENERATED:action -->

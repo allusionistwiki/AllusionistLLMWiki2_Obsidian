@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ガリヨンテの鎌
 type: entity
 subtype: organization
 canonical_name: ガリヨンテの鎌
-title: "ガリヨンテの鎌"
+title: ガリヨンテの鎌
 first_appearance: ch0236
 spoiler_after: ch0236
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ガリヨンテの鎌
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > プーハニアの調べた情報によれば、ジュティアとミナの二人組は『ガリヨンテの鎌』という商会と不自然な取引を行っていたという。（ch0237）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『稲穂と根菜と鎌』というシンボルを掲げた飛行船が混ざっている。『ガリヨンテの鎌』という名で知られる、第八階層を中心に活動する武装商会の持ち物だった。
+
+<!-- /AUTO-GENERATED:name -->

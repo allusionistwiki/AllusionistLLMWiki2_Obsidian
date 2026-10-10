@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0043_structurally_matches_E_ch0043_神官_other_アズーリアへの攻略_p1834_組織の責任転嫁_若手への押し付け
 title: 組織の責任転嫁
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_神官_other_アズーリアへの攻略_p1834]]"

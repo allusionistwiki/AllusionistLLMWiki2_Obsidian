@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_ダスト
 type: entity
 subtype: item
 canonical_name: ダスト
-title: "ダスト"
+title: ダスト
 first_appearance: ch0249
 spoiler_after: ch0249
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ダスト
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > クリーナーが操縦する大型箒・ダストの封印が一部解除されて前面装甲が露わになる。嘴と鶏冠をイメージした白と赤の巨大な風防と一体化したガラスの中に収められていたのはミニチュアの遊戯盤。（ch0249）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: クリーナーが操縦する大型箒・ダストの封印が一部解除されて前面装甲が露わになる。嘴と鶏冠をイメージした白と赤の巨大な風防と一体化したガラスの中に収められていたのはミニチュアの遊戯盤。
+
+<!-- /AUTO-GENERATED:visual -->

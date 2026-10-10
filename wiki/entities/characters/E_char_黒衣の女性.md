@@ -1,5 +1,5 @@
 ---
-title: "黒衣の女性"
+title: 黒衣の女性
 schema_version: '5.1'
 id: E_char_黒衣の女性
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0059
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 黒衣の女性
@@ -30,6 +30,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「何度やっても同じさ。僕が無限に複製し続ける夢からは絶対に逃れられない」
 - **unknown**: 「何度やっても同じさ。僕が無限に複製し続ける夢からは絶対に逃れられない」
 - **unknown**: 「何度やっても同じさ。僕が無限に複製し続ける夢からは絶対に逃れられない」
 - **unknown**: 「何度やっても同じさ。僕が無限に複製し続ける夢からは絶対に逃れられない」

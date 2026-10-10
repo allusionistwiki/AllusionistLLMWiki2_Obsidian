@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_六本の腕の男
 type: entity
 subtype: character
 canonical_name: 六本の腕の男
-title: "六本の腕の男"
+title: 六本の腕の男
 first_appearance: ch0240
 spoiler_after: ch0240
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 六本の腕の男
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 「いつか殺してやる、まがいもの」 「楽しみにしておこう」（ch0240）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 影からぬるりと浮き上がった六本の腕が、無数の刃と矢、呪詛と記憶を纏めて受け止め、黒々とした闇の如き肌に吸い込んでいった。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「悪いが、私に矛盾史の改変は無意味だ」
+
+<!-- /AUTO-GENERATED:speech -->

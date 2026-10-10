@@ -1,5 +1,5 @@
 ---
-title: "金色の瞳"
+title: 金色の瞳
 schema_version: '5.1'
 id: E_term_金色の瞳
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0048
 spoiler_after: ch0048
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 金色の瞳
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 金色の瞳は、死という暗闇を運んで来たのだ。
 - **unknown**: 金色の瞳は、死という暗闇を運んで来たのだ。
 - **unknown**: 金色の瞳は、死という暗闇を運んで来たのだ。
 - **unknown**: 金色の瞳は、死という暗闇を運んで来たのだ。

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ラフディ
 type: entity
 subtype: character
 canonical_name: ラフディ
-title: "ラフディ"
+title: ラフディ
 first_appearance: ch0125
 spoiler_after: ch0125
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ラフディ
@@ -35,3 +36,10 @@ created: "2026-09-30"
 - [[E_char_ガロアンディアン|ガロアンディアン]] — 攻撃（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 逆にガロアンディアンとの対立姿勢を強めているのが、第五階層南西部に陣取ったラフディと、南東部のカシュラム人勢力である。
+
+<!-- /AUTO-GENERATED:relationship -->

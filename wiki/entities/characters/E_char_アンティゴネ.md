@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アンティゴネ
 type: entity
 subtype: character
 canonical_name: アンティゴネ
-title: "アンティゴネ"
+title: アンティゴネ
 first_appearance: ch0193
 spoiler_after: ch0193
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アンティゴネ
@@ -27,3 +28,18 @@ created: "2026-09-30"
 > 一方その娘アンティゴネは家族への情愛と素朴な信仰心をもって『外なる法』、すなわち人が作りだした秩序と相対する。（ch0193）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: アンティゴネはそこで首を括り、更にはアンティゴネの婚約者にしてクレオンの息子であった王子ハイモンもまた恋人の後を追って自刃する。
+- **unknown**: 妹イスメネの制止にもかかわらず彼女は叛逆者ポリュネイケスを埋葬してしまう。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 一方その娘アンティゴネは家族への情愛と素朴な信仰心をもって『外なる法』、すなわち人が作りだした秩序と相対する。
+
+<!-- /AUTO-GENERATED:symbolic -->

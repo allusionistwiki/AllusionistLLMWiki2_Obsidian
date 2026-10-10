@@ -1,6 +1,6 @@
 ---
-title: "ステュクス"
-schema_version: "5.1"
+title: ステュクス
+schema_version: '5.1'
 id: E_char_ステュクス
 type: entity
 subtype: character
@@ -9,7 +9,8 @@ first_appearance: ch0085
 spoiler_after: ch0085
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ステュクス
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 『女王』の浄界、ステュクス。悠久の大河には舞台の大橋が架かり、その上に俺たちは立たされている。（ch0193）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 世界的に有名な、本名及び顔が不明のポルノスター、【ステュクス】がそうではないかと言われているのだ。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: ポルノスターってのは一種の偶像にもなり得る。つまり、信仰を――原始的な性欲のエネルギーを一身に集めるその対象は、極まれば凄まじい呪力を宿しうるということだ。
+
+<!-- /AUTO-GENERATED:symbolic -->

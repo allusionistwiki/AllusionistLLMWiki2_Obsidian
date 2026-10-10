@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0018_analogous_to_E_ch0018_レオ_helps_弱者_p796_人道支援・NGO活動
 title: 人道支援・NGO
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_レオ_helps_弱者_p796]]"

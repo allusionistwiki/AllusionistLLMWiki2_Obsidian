@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_term_四方の王
+type: entity
+title: 四方の王
+subtype: terminology
+canonical_name: 四方の王
+aliases: []
+first_appearance: ch0098
+spoiler_after: ch0098
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 四方の王
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 伝承によれば、当時ジャッフハリムで暴虐を振るっていたという『呪わしき恐怖の化身』と四方の王は、結束した小国の連合と運命に導かれて集った四十人の強者たちによって倒され、心を入れ替えた四方の王はそれ以来ジャッフハリムを守る勇士の一員になったということです」
+
+<!-- /AUTO-GENERATED:speech -->

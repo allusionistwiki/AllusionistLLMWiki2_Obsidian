@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_骨の女王
 type: entity
 subtype: character
 canonical_name: 骨の女王
-title: "骨の女王"
+title: 骨の女王
 first_appearance: ch0156
 spoiler_after: ch0156
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 骨の女王
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 目をわずかに細めて、オルヴァは少しだけ笑った。退屈そうだった彼の表情に宿った、わずかな人間らしさ。「――そして、彼女の待ち人になってみるのも悪くは無い」（ch0156）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 骨の女王が手を前に出して歯を一度鳴らした途端、戦況は一気に覆った。戦いに斃れていった者たちが次々と立ち上がり、再び生を得て戦い始めたのだ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その顔は真っ白な頭蓋骨そのもので、眼窩には虚無が広がるばかり。
+
+<!-- /AUTO-GENERATED:visual -->

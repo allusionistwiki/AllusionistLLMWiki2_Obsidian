@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0066_alludes_to_E_ch0066_サイザクタート_says_世界は夢_p2459_荘子の胡蝶の夢
 title: 胡蝶の夢による主客境界の曖昧化
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_サイザクタート_says_世界は夢_p2459]]"

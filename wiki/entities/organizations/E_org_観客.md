@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_観客
 type: entity
 subtype: organization
 canonical_name: 観客
-title: "観客"
+title: 観客
 first_appearance: ch0064
 spoiler_after: ch0064
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 観客
@@ -34,3 +35,20 @@ created: "2026-09-30"
 - [[A_ch0064_analogous_to_E_ch0064_観客_says_かわいそう_p2397_感情の消費|感情の消費としての悲劇娯楽化]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「これってさ」「賭博でしょ？」「日本語でなんていったっけ」「八百長じゃねえの？」「買収ってこと？」「やらせかよ」
+- **unknown**: 「かわいそうだねー」「見て、とても苦しそう」「あんな姿になってまで」「もう楽にしてやった方がいいんじゃないのか」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 画面の向こうにある遠い世界の悲劇に胸を痛めながら、正しさに賛同を示す観客たちの声は風となってロードデンドロンの背を押していく。
+- **unknown**: レースの熱が通り過ぎて、観客たちの関心は岩塊が浮かぶ大空から濃霧に覆われた大海へと移り変わる。
+- **unknown**: 観客たちはまるで何者かによって操られるかのように暴徒と化した。予定調和の結末。平和的な解決など到底望めるはずもなく、愉快なエンターテインメントとしての球技大会は完全に破綻した。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_精神加工
 type: entity
 subtype: terminology
 canonical_name: 精神加工
-title: "精神加工"
+title: 精神加工
 first_appearance: ch0212
 spoiler_after: ch0212
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 精神加工
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 現代における『精神加工』は麻薬のような扱いを受けている呪術だ。（ch0222）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 現代における『精神加工』は麻薬のような扱いを受けている呪術だ。
+
+<!-- /AUTO-GENERATED:symbolic -->

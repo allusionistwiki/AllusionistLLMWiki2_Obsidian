@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_葬儀屋
 type: entity
 subtype: character
 canonical_name: 葬儀屋
-title: "葬儀屋"
+title: 葬儀屋
 first_appearance: ch0208
 spoiler_after: ch0208
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 葬儀屋
@@ -36,3 +37,52 @@ created: "2026-09-30"
 - [[E_char_アズーリア|アズーリア]] — 関連（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 奇怪な虫草の隣で冷静に言葉を紡ぐ男性の姿は霊長類に近い直立二足歩行型だ。体色は白銀、その頭はうつむきがちな筒型の花。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 聖なる意味を付与された死霊払いの簡易儀礼。 それを白銀の男が片手で防ぎ、不意打ちで炸裂した衝撃音を亡霊たちが壁を作って受け止める。
+- **unknown**: すると『葬儀屋』はキノコまみれの死者たちを助け起こそうとする。
+- **unknown**: 銀の男が片手で防ぎ、不意打ちで炸裂した衝撃音を亡霊たちが壁を作って受け止める。アレッシオが瞠目する。「今のを防ぐとは」
+- **unknown**: 呪力が爆ぜる。私の影が押し負けて、アレッシオが詠唱していた呪文が崩壊した。会話の片手間で圧倒されている。敵の呪力は魔将に匹敵するかそれ以上だ。
+- **unknown**: 巨大な『虻』の口の中からのそりと大柄な体躯の男が出現する。害虫に喰われた者だろうか。
+- **unknown**: 『葬儀屋』の声が耳障りな雑音となって私の頭の中で響く行進曲を妨げた。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『葬儀屋』はこともなげに返す。「そんな奴がひとりくらいは居てもいいだろう」
+- **unknown**: 「私は葬礼を取り仕切る祭司の末裔だ。そもそも死体の扱いを忌み仕事とお前たちに任せきりにしていること自体が間違いの元。この道を選んだ以上、お前たちと同じようにするのが道理というもの」
+- **unknown**: 「頼むぞ、敵兵の屍を骨までしゃぶり尽くしてやれ」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 私は相手が見せた『人間性』をとっかかりにして呪文の準備を始めたが、あえて茶番を演じるタイプの罠という可能性も否定できない。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 何故だろう。呪力の感触がエストに似ている？ 正確に言えば、プリエステラがティリビナの巫女として『アルラウネ断章』という血に眠る力を振るった時に感じる気配がこの二人からも感じられるのだ。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『葬儀屋』：顕花族でありながら隠花族の味方をするエリカの兄。
+
+<!-- /AUTO-GENERATED:name -->

@@ -1,5 +1,5 @@
 ---
-title: "ドラトリア系夜の民"
+title: ドラトリア系夜の民
 schema_version: '5.1'
 id: E_term_ドラトリア系夜の民
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0080
 spoiler_after: ch0080
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # ドラトリア系夜の民
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 三ヶ月前から激増したという『ドラトリア系夜の民』なる種族の権力者だとか。
 - **unknown**: 三ヶ月前から激増したという『ドラトリア系夜の民』なる種族の権力者だとか。
 - **unknown**: 三ヶ月前から激増したという『ドラトリア系夜の民』なる種族の権力者だとか。
 - **unknown**: 三ヶ月前から激増したという『ドラトリア系夜の民』なる種族の権力者だとか。

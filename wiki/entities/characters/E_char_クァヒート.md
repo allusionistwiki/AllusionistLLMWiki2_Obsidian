@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_クァヒート
 type: entity
 subtype: character
 canonical_name: クァヒート
-title: "クァヒート"
+title: クァヒート
 first_appearance: ch0213
 spoiler_after: ch0213
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # クァヒート
@@ -28,3 +29,25 @@ created: "2026-09-30"
 > ミブリナの弟が拓いたクァヒートの雲土からエンハドーラという傑物が生まれることになったのは喜ばしいことだ。（ch0265）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: その男の息子が東方では名の知られた英傑であることは周知の事実だった。グレンデルヒと並び立つ叡智、オリヴィアに比肩しうる呪術ともてはやされる天空の支配者。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「この『神鳴』のクァヒート家の他にクロウサーを立て直すにふさわしい血統などあるものか。お飾りの小娘など嫁にして鳥籠に閉じ込めてしまえ」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 男は後ろに控えているはずの息子、『英雄』と呼ばれる若き呪術師から返事が無い事を訝しんで振り返り、そこで目を疑うようなものを見た。
+- **unknown**: 父親は愛する息子の無惨な最期に呆然としていたが、悲しみよりも先にしなければならないことを思い出し、何も考えずに実行した。
+
+<!-- /AUTO-GENERATED:action -->

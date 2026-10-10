@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_リーヴァリオン
 type: entity
 subtype: character
 canonical_name: リーヴァリオン
-title: "リーヴァリオン"
+title: リーヴァリオン
 first_appearance: ch0240
 spoiler_after: ch0240
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # リーヴァリオン
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 今この時より、私こそがミェス・リヴァ。華麗なる紀人スーリウム・ミェス・リーヴァリオンだ」（ch0253）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 今この時より、私こそがミェス・リヴァ。華麗なる紀人スーリウム・ミェス・リーヴァリオンだ」
+
+<!-- /AUTO-GENERATED:action -->

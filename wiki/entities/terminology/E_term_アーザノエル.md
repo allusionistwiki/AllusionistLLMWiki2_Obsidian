@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_アーザノエル
 type: entity
 subtype: terminology
 canonical_name: アーザノエル
-title: "アーザノエル"
+title: アーザノエル
 first_appearance: ch0120
 spoiler_after: ch0120
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アーザノエル
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 背負った曼荼羅の立体幻像が回転し、中央で瞳が見開かれていく。 いまこそ仏眼仏母が目覚める時。（ch0156）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 背負った曼荼羅の立体幻像が回転し、中央で瞳が見開かれていく。 いまこそ仏眼仏母が目覚める時。
+
+<!-- /AUTO-GENERATED:action -->

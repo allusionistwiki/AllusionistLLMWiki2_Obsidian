@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0025_analogous_to_E_ch0025_トリシューラ_says_交差する杖_p1136_ヘルマプロディートス
 title: ヘルマプロディートスへの陰陽融合
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_トリシューラ_says_交差する杖_p1136]]"

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_セイグリン
 type: entity
 subtype: character
 canonical_name: セイグリン
-title: "セイグリン"
+title: セイグリン
 first_appearance: ch0213
 spoiler_after: ch0213
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # セイグリン
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 有翼氷河が北辺の上空を覆ったあの日、まだ少年だったあなたは信じられないくらい眩しくて、愚かで、可能性に満ちていた。無為に生き過ぎた私にもまだ光を直視することができるんだって、信じられない気持ちになったものだわ。（ch0251）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 言葉通り、雲状の足で宙に軌跡を残して移動するのは『黒雲翁』セイグリン。
+
+<!-- /AUTO-GENERATED:visual -->

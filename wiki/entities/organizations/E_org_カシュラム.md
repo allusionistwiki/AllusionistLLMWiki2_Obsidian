@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_カシュラム
 type: entity
 subtype: organization
 canonical_name: カシュラム
-title: "カシュラム"
+title: カシュラム
 first_appearance: ch0107
 spoiler_after: ch0107
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カシュラム
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > だが外界の揺らぎ、時空の亀裂から侵入してきた無数の闇によってカシュラムは絶望の底に叩き落された。（ch0150）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: だが外界の揺らぎ、時空の亀裂から侵入してきた無数の闇によってカシュラムは絶望の底に叩き落された。
+- **unknown**: カシュラムは滅亡した。炎は九日九晩に渡って王国を焼き尽くし、巨大な黒蛇が人々を喰らった。
+
+<!-- /AUTO-GENERATED:action -->

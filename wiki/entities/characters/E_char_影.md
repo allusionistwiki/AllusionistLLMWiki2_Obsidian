@@ -1,5 +1,5 @@
 ---
-title: "影"
+title: 影
 schema_version: '5.1'
 id: E_char_影
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0059
 spoiler_after: ch0059
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 影
 
@@ -19,6 +19,8 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 不思議と地面は水面のように少女の身体を飲み込んで、そのまま羊飼いは消失してしまう。
+- **unknown**: ああ、私の目の前で争う沢山の影と黒衣の女性は、私の内心の葛藤を可視化した天使と悪魔なのだろうか？
 - **unknown**: ああ、私の目の前で争う沢山の影と黒衣の女性は、私の内心の葛藤を可視化した天使と悪魔なのだろうか？
 - **unknown**: ああ、私の目の前で争う沢山の影と黒衣の女性は、私の内心の葛藤を可視化した天使と悪魔なのだろうか？
 - **unknown**: ああ、私の目の前で争う沢山の影と黒衣の女性は、私の内心の葛藤を可視化した天使と悪魔なのだろうか？
@@ -26,3 +28,11 @@ updated: '2026-10-02'
 - **unknown**: ああ、私の目の前で争う沢山の影と黒衣の女性は、私の内心の葛藤を可視化した天使と悪魔なのだろうか？
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「お前は、何だ？」
+- **unknown**: お前の母は、誰だ？
+
+<!-- /AUTO-GENERATED:speech -->

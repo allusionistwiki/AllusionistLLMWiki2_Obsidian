@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_カルカブリーナ
 type: entity
 subtype: terminology
 canonical_name: カルカブリーナ
-title: "カルカブリーナ"
+title: カルカブリーナ
 first_appearance: ch0145
 spoiler_after: ch0145
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カルカブリーナ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 竜覚は明確に規制対象に反応しており、既に自動的な天罰が下っているはずだ。銃を握るカルカブリーナの両手が焼けただれ、皮膚が燃え落ちていくのがはっきりとわかる。（ch0222）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: この近くにはトリシューラが各地域に建設した呪術医院が存在しており、地竜が暴れたあと散り散りになったトリシューラの部下たちは拠点であり避難所でもあるその場所に集まっているとのことだ。
+
+<!-- /AUTO-GENERATED:name -->

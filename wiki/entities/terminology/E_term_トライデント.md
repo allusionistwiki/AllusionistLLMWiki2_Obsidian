@@ -1,6 +1,6 @@
 ---
-title: "トライデント"
-schema_version: "5.1"
+title: トライデント
+schema_version: '5.1'
 id: E_term_トライデント
 type: entity
 subtype: terminology
@@ -9,7 +9,8 @@ first_appearance: ch0054
 spoiler_after: ch0054
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # トライデント
@@ -28,3 +29,11 @@ created: "2026-09-30"
 > しかし『主君のためと言いながら幼い王を傀儡に仕立て上げる佞臣』という構図は不滅だ。（ch0201）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 人類は家族を選べない。この大前提がある限り、パンゲオン世界ロマンカインドファミリアのあらゆる生命はトライデントという枠組に帰結する。
+- **unknown**: しかし『主君のためと言いながら幼い王を傀儡に仕立て上げる佞臣』という構図は不滅だ。
+
+<!-- /AUTO-GENERATED:symbolic -->

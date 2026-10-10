@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_トピアリー
 type: entity
 subtype: item
 canonical_name: トピアリー
-title: "トピアリー"
+title: トピアリー
 first_appearance: ch0228
 spoiler_after: ch0228
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # トピアリー
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 庭園内のトピアリーは全てかりそめの命を与えられた使い魔だ。 加えて、絶えず姿を変える迷路は決して脱出を許さない。（ch0244）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 庭園内のトピアリーは全てかりそめの命を与えられた使い魔だ。 加えて、絶えず姿を変える迷路は決して脱出を許さない。
+
+<!-- /AUTO-GENERATED:symbolic -->

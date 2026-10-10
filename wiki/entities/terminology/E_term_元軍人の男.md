@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_元軍人の男
 type: entity
 subtype: terminology
 canonical_name: 元軍人の男
-title: "元軍人の男"
+title: 元軍人の男
 first_appearance: ch0150
 spoiler_after: ch0150
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 元軍人の男
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 続けて元軍人が「ＮＯＫＯＴＴＡ」と叫んだ。 闘気が鎧となって全身を覆い、両の拳に一際強い輝きが収束。（ch0150）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「これぞ秘技・雷破拳――稲妻は俺に効かん！」
+- **unknown**: 続けて元軍人が「ＮＯＫＯＴＴＡ」と叫んだ。 闘気が鎧となって全身を覆い、両の拳に一際強い輝きが収束。
+
+<!-- /AUTO-GENERATED:action -->

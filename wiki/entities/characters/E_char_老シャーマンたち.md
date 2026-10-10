@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_char_老シャーマンたち
+type: entity
+title: 老シャーマンたち
+subtype: character
+canonical_name: 老シャーマンたち
+aliases: []
+first_appearance: ch0251
+spoiler_after: ch0251
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 老シャーマンたち
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 一部の過激派ティリビナ人が実行しようとした呪術テロを同じティリビナ人が阻止したことで亜大陸では大きな話題となったが、象徴的だったのはその年代差だろう。テロリストグループは揃って高齢の老シャーマンたちだったのに対して、
+
+<!-- /AUTO-GENERATED:action -->

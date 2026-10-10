@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_少女たち
 type: entity
 subtype: character
 canonical_name: 少女たち
-title: "少女たち"
+title: 少女たち
 first_appearance: ch0169
 spoiler_after: ch0169
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 少女たち
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 「私はどんな難解な専門書だって読める」 「私だって詩情を解します。修辞学、音韻論、文献学、解釈学、あらゆるデータベースを参照して詩を吟ずることさえできるのですよ」 「一級の芸術品の真贋を見極めることくらいなら――あと、基準さえ設定しておけば（ch0169）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 次第に鮮明になっていく廃墟の光景、目を引くのは不気味に横たわる幾つもの人形、その残骸。 人形である少女たちにとって、死体にも等しい。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「私はどんな難解な専門書だって読める」 「私だって詩情を解します。修辞学、音韻論、文献学、解釈学、あらゆるデータベースを参照して詩を吟ずることさえできるのですよ」 「一級の芸術品の真贋を見極めることくらいなら――あと、基準さえ設定しておけば評価だって」 だが、彼女たちに漫画を読むことはできない。
+
+<!-- /AUTO-GENERATED:speech -->

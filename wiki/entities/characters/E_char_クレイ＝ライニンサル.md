@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_クレイ＝ライニンサル
 type: entity
 subtype: character
 canonical_name: クレイ＝ライニンサル
-title: "クレイ＝ライニンサル"
+title: クレイ＝ライニンサル
 first_appearance: ch0082
 spoiler_after: ch0082
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # クレイ＝ライニンサル
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 勝ったにも関わらず、女性的なまでに美しい顔を悔しそうに歪める男の名は、やはりというべきか、【変異の三手】が副長の一人、クレイ＝ライニンサルだ。（ch0089）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 勝ったにも関わらず、女性的なまでに美しい顔を悔しそうに歪める男の名は、やはりというべきか、【変異の三手】が副長の一人、クレイ＝ライニンサルだ。
+
+<!-- /AUTO-GENERATED:name -->

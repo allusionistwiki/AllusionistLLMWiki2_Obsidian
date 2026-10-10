@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_アズーリア勇者団
 type: entity
 subtype: organization
 canonical_name: アズーリア勇者団
-title: "アズーリア勇者団"
+title: アズーリア勇者団
 first_appearance: ch0177
 spoiler_after: ch0177
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アズーリア勇者団
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「我らは祖国アルセミットを憂う者たちである！ 新たに認められし眷族たちよ、この都市に寄生する犯罪者予備軍、劣等たる猿、最下位の眷族種どもを駆逐し、諸君らが真に地上の同胞であることを示すのだ！ 仲間を守りたいなら戦え！ 魔将どもを引き裂いた黒（ch0177）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 呪文による爆撃を繰り返しながら影の翼で飛翔するのは、私そっくりなフォルムの黒い神働装甲たちだった。その数は十機にも達する。ところどころ急ごしらえな箇所が露出しており、違法改造した粗悪な鎧であることがわかった。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「我らは祖国アルセミットを憂う者たちである！ 新たに認められし眷族たちよ、この都市に寄生する犯罪者予備軍、劣等たる猿、最下位の眷族種どもを駆逐し、諸君らが真に地上の同胞であることを示すのだ！ 仲間を守りたいなら戦え！ 魔将どもを引き裂いた黒騎士アズーリアのように！ いざ叫べ、発勁用意！」
+
+<!-- /AUTO-GENERATED:speech -->

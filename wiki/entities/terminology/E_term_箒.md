@@ -1,0 +1,32 @@
+---
+schema_version: '5.1'
+id: E_term_箒
+type: entity
+title: 箒
+subtype: terminology
+canonical_name: 箒
+aliases: []
+first_appearance: ch0214
+spoiler_after: ch0214
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 箒
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 改造した自作箒、ぼろぼろの中古品、継ぎ接ぎ部品の骨董品までありとあらゆる箒が出揃っているが、いずれからもアンダーグラウンドの臭気が漂っていた。
+- **unknown**: 「あそこの四輪車、磨き粉散布車じゃない？　あっちの二人乗りのクレンザー箒はなんか魔改造したマジックミサイルっぽいし、これ箒レースでいいんだよね？」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 箒という言葉が示す対象は幾つもある。　古典的なものは長細い木の棒に枝の束を取り付けた掃き掃除の道具。転じて浄化呪術に用いる祭具。そこから派生して一般的な家庭用呪具、清掃業者のトレードマークとしての『吸引箒』。さらにそこから発展し、複数の文脈が重ね合わさった『浄化によって生じる推進力を利用した飛行用の乗り物』である『機甲箒』、すなわちフライトビークル。
+
+<!-- /AUTO-GENERATED:symbolic -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0027_analogous_to_E_ch0027_第五階層_defines_強者打倒の価値_p1224_PvP_game_economy
 title: PvP経済圏のキルボーナス実装
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0027_第五階層_defines_強者打倒の価値_p1224]]"

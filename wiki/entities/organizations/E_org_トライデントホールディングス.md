@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_トライデントホールディングス
 type: entity
 subtype: organization
 canonical_name: トライデントホールディングス
-title: "トライデントホールディングス"
+title: トライデントホールディングス
 first_appearance: ch0112
 spoiler_after: ch0112
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # トライデントホールディングス
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > カーティスと行動を共にして、可能ならば殺害せよ。（ch0112）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 民間警備会社から転生保険会社に出向しているゾーイ・アキラとケイトの所属は、共にトライデントホールディングス傘下の子会社である。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: カーティスと行動を共にして、可能ならば殺害せよ。
+
+<!-- /AUTO-GENERATED:speech -->

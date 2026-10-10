@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_マリナ
 type: entity
 subtype: character
 canonical_name: マリナ
-title: "マリナ"
+title: マリナ
 first_appearance: ch0209
 spoiler_after: ch0209
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # マリナ
@@ -28,3 +29,28 @@ created: "2026-09-30"
 > プリエステラがマリナに手を差し伸べていた。挑むように睨み付けたアイシャを宥めるようにイルスが割って入り、マリナが微笑みながらプリエステラに何かを言った。（ch0209）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ね、エストにだけ、もう一つの秘密を教えるね。私の、ティリビナ人としての名前」
+- **unknown**: 「えと、態度だけおっきい人は置いといて報告ね。プリエステラは心を開いてくれそう。『器』に向いてるよ。本当の意味でアルラウネ断章に愛された巫女だね。
+- **unknown**: 「私は黒檀の民とティリビナ人との間に生まれたの。ずっと黒檀の民として生きてきたけど、レルプレアへの信仰心を隠して槍に祈るのはとてもつらかった」
+- **unknown**: だから、殺すのなら自分の遺体が残らないようにしてほしいとマリナは言った。死体から事実が露見しないように、真実ごと
+- **unknown**: 「それから、お願い。最後にレルプレアに祈らせて。本物の巫女さまに祝福してもらえるなら、他に望むことはないから」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 戦闘が終わったタイミングでやってきた人物はイルスも知る顔だった。　予想していたが、はっきりと突きつけられると言葉が浮かばない。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: マリナ：卑屈で陰気、半分ティリビナ人、レルプレアの巫女。リビュエー０２。
+
+<!-- /AUTO-GENERATED:name -->

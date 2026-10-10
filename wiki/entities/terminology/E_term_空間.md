@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_空間
 type: entity
 subtype: terminology
 canonical_name: 空間
-title: "空間"
+title: 空間
 first_appearance: ch0093
 spoiler_after: ch0093
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 空間
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > しかし、敷地の外に出てしばらくすると深い霧が立ちこめ、気付くとエントランスホールに立っているという不思議な現象に見舞われる。（ch0153）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 奥に深い森が広がる『空間』が、まるで紙のように引き裂かれたかと思うと、大掛かりな舞台装置が現れる。
+
+<!-- /AUTO-GENERATED:visual -->

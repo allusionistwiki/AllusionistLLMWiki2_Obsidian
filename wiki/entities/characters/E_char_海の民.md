@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_海の民
 type: entity
 subtype: character
 canonical_name: 海の民
-title: "海の民"
+title: 海の民
 first_appearance: ch0133
 spoiler_after: ch0133
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 海の民
@@ -27,3 +28,10 @@ created: "2026-09-30"
 > 男は突如として憤怒の形相になったかと思うと店員の頭を鷲掴みにしてカウンターに叩きつけた。躊躇いのない暴力に店内の時間が止まる。（ch0173）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 男は突如として憤怒の形相になったかと思うと店員の頭を鷲掴みにしてカウンターに叩きつけた。躊躇いのない暴力に店内の時間が止まる。
+
+<!-- /AUTO-GENERATED:action -->

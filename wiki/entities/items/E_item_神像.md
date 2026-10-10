@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_神像
 type: entity
 subtype: item
 canonical_name: 神像
-title: "神像"
+title: 神像
 first_appearance: ch0239
 spoiler_after: ch0239
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 神像
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 直後、紀人の力である神像が熱と光を放射しながら爆発した。　正確には、紀人の権能を再現していた偽物が。（ch0239）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 三階から落下してきた神像はちびニアだけではなく複数の獅子に取り囲まれてその動きを封じられていた。
+- **unknown**: 直後、紀人の力である神像が熱と光を放射しながら爆発した。　正確には、紀人の権能を再現していた偽物が。
+
+<!-- /AUTO-GENERATED:action -->

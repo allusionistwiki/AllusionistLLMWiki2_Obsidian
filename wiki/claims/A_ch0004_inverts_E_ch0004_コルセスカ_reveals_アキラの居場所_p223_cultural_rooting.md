@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0004_inverts_E_ch0004_コルセスカ_reveals_アキラの居場所_p223_cultural_rooting
 title: 文化的根拠欠如への学習観反転
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_コルセスカ_reveals_アキラの居場所_p223]]"

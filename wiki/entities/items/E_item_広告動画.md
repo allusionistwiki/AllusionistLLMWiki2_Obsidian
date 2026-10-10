@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_広告動画
 type: entity
 subtype: item
 canonical_name: 広告動画
-title: "広告動画"
+title: 広告動画
 first_appearance: ch0122
 spoiler_after: ch0122
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 広告動画
@@ -26,3 +27,25 @@ created: "2026-09-30"
 > エリカは長方形の携帯端末を取り出すと手慣れた仕草で操作を始めた。　宙空に浮かび上がった立体幻像が音と光を発する。（ch0224）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 青い髪の球体関節人形がカメラの方を向くとカタカタと笑う。それを見た家族が談笑する。両親に手を引かれた小さな子供が人形を欲しがる。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 資格の習得を促す広告。機械に仕事を奪われた分だけ、その機械に関連した仕事が必要になってくるのだという理屈が述べられる。
+- **unknown**: 小さな子供は、父親と一緒に内側の機械を組み立て、母親と一緒に人形の目を彩色し、服を縫製して飾り立てる。大写しになる文字――『最初の先生は、すぐそばにいる』
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ぶつりと、全ての映像が消えた。そこは暗闇。無数の画面が瓦礫のように積み上がった散らかった空間だ。
+
+<!-- /AUTO-GENERATED:action -->

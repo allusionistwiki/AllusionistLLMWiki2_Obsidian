@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_キノコ人
 type: entity
 subtype: organization
 canonical_name: キノコ人
-title: "キノコ人"
+title: キノコ人
 first_appearance: ch0206
 spoiler_after: ch0206
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # キノコ人
@@ -26,3 +27,25 @@ created: "2026-09-30"
 > ある日、カマソッソ氏族は友人となったキノコ人が迫害され困窮していると聞いて彼らの共同体に住まいと仕事を紹介すると持ちかける。その結果がこれだ。友人たちからも食い物にされたキノコ人たちは世界の全てを憎んでいる。（ch0207）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 巨大化したキノコの怪物たちは半球状に膨らんだ頭部を風船のように膨張させ、大きく跳躍した。着地と同時、キノコ人たちは帽子を被り直すかのように傘を下げる。傘裏のひだから散布された黒紫の煙は必殺の呪毒。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: キノコ人たちには長老樹の根に取り付いて養分や穢れを吸い取るという習性がある。古くから種族の使命と定められていたのはゴミ処理や埋葬などの汚れ仕事で、それらを埋めた土から呪力を得る姿は多数派にとっては軽蔑の対象であった。
+- **unknown**: この夜の民にも似たあり方と暗所を好む性質から、彼らは多数派の樹木系ティリビナ人から陰花族と蔑まれていた。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 傘と柄のような物理的実体はキノコ人たちの本体ではない。彼らにとっての核はその足下、影の中に広がった霊的菌糸体である。
+
+<!-- /AUTO-GENERATED:symbolic -->

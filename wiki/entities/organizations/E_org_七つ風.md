@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_七つ風
 type: entity
 subtype: organization
 canonical_name: 七つ風
-title: "七つ風"
+title: 七つ風
 first_appearance: ch0252
 spoiler_after: ch0252
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 七つ風
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > ライラと名乗った虹犬の貴婦人と、彼女に続く超越者たちは空使い直属の特務親衛隊、またの名を『七つ風』。現代の基準で言えば全員が第七階梯、すなわち巨人位階に到達している高位呪術師集団だ。（ch0269）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 空使いダウザールは直属の特務親衛隊、『七つ風』を従えていたという。 彼らはかつてパーン・ガレニス・クロウサーの反逆を阻んだ壁であり、現代の基準で言えば全員が第七階梯、すなわち巨人位階に到達している高位呪術師集団であった。
+
+<!-- /AUTO-GENERATED:name -->

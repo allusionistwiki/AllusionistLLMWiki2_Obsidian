@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アキレギア
 type: entity
 subtype: character
 canonical_name: アキレギア
-title: "アキレギア"
+title: アキレギア
 first_appearance: ch0230
 spoiler_after: ch0230
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アキレギア
@@ -28,3 +29,40 @@ created: "2026-09-30"
 > 「なら名無し野郎の奪取シナリオが上手くいく方にお祈りしようかね。望み薄だけど」（ch0239）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: だがそれ以上に目につくのは左右で性質の異なる呪術義肢だった。左腕が木、右手が砂。枝葉は蛇のようにくねり、砂は絶えず流動し続ける。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 曰く、『今や組織を牛耳っているのは新しくやってきたアサブの情婦である』、と。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「お手並み拝見ってとこか。せいぜい暴れてくれよ？　あんまショボいと『正義の味方』がやりづれえからよ」
+- **unknown**: 「なら名無し野郎の奪取シナリオが上手くいく方にお祈りしようかね。望み薄だけど」
+- **unknown**: 「お前にしかできねえよ。シナモリアキラの『リビコッコ』って役は」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 顔を寄せた女が熱い吐息を男の耳に当てた。お手本のように情熱的な、魅了のまじない。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: アキレギア：アサブの愛人。事実上組織を取り仕切り、少数派の権利回復運動を主導。
+
+<!-- /AUTO-GENERATED:name -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_トバルカイン
 type: entity
 subtype: character
 canonical_name: トバルカイン
-title: "トバルカイン"
+title: トバルカイン
 first_appearance: ch0119
 spoiler_after: ch0119
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # トバルカイン
@@ -28,3 +29,25 @@ created: "2026-09-30"
 > アルマに燃やされたトバルカインだが、鶏の生き血と断末魔の絶叫を浴びせながら再生者専用の治療呪術を行ったらあっさりと復活した。（ch0135）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 傍をついてくる骨狼のカイン――いや、今は新たな名を得たトバルカインがカチカチと鳴き声を上げてルウテトに擦り寄っていく。やはり母なる女王に良く懐いている。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: アルマに燃やされたトバルカインだが、鶏の生き血と断末魔の絶叫を浴びせながら再生者専用の治療呪術を行ったらあっさりと復活した。
+- **unknown**: 子豚となったブウテトはぶうぶう言いながらお散歩に出かけて行方不明になってしまったが、危険な目にあっている所を骨狼のトバルカインに助け出された。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: すぐに番犬が出迎えてくれたので、屈み込んで頭を撫でる。「よしよし、仕事お疲れ」 骨狼のトバルカインがカタカタ歯を鳴らしながら俺の周囲を回る。
+
+<!-- /AUTO-GENERATED:visual -->

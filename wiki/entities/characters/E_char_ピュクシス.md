@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ピュクシス
 type: entity
 subtype: character
 canonical_name: ピュクシス
-title: "ピュクシス"
+title: ピュクシス
 first_appearance: ch0146
 spoiler_after: ch0146
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ピュクシス
@@ -28,3 +29,51 @@ created: "2026-09-30"
 > 彼女のデザインは古代ジャッフハリム時代の彫像がベースだと聞いている。古き良き時代の再現。それがピュクシスという人造魔女の設計理念だ。（ch0272）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 彼女のデザインは古代ジャッフハリム時代の彫像がベースだと聞いている。古き良き時代の再現。それがピュクシスという人造魔女の設計理念だ。
+- **unknown**: 普通、人の本質をあらわす『まことの名』を変えることはできない。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 師匠である穴掘りニースフリルと永劫線ノエレッテが私に与えたデザイナー能力は『歴史の参照』だ。魔導書や遺物も併用するが、過去の人物をじかに再現する際には『永劫線』にアクセスして引っ張り出す。
+- **unknown**: 「最適な未来は一つだ。アズーリアの心が求める素晴らしいチョコを作って与えること。それのみがこのチョコバカ、いやバカチョコを飢餓の牢獄から解き放つ」
+- **unknown**: 「アズーリアがチョコ化しているのは、チョコ生命が飢えにさらされたからに他ならないチョコ。魂の危機が生存欲求を高めた結果、チョコ生存本能がチョコ化を選択したというわけだチョコ」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 魔女盛装の黒いローブで出迎えたトリシューラとは反対に、くたびれた白衣姿でこの場に現れたのは尽くす礼を持たないという意思表示、ではなく単にずぼらなだけだろう。
+- **unknown**: とても懐かしい姿。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『盾』の呪術技官ラーゼフ・ピュクシスという名はそれなりに重みを持っている。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 実際のところ『塔』で開発された姉妹機の二人は協力関係にある。
+- **unknown**: 異獣憑き部門の管理官で、『智神の盾』では典礼総監の役職までくっ付いてきたって話だけど
+- **unknown**: クロウサー家が『塔』の魔女候補であるピュクシスを娶ったのは必然だった。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 瞬間、ラーゼフ・ピュクシスの瞳から光が消失。
+
+<!-- /AUTO-GENERATED:action -->

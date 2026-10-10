@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_盲目の守護者像
 type: entity
 subtype: item
 canonical_name: 盲目の守護者像
-title: "盲目の守護者像"
+title: 盲目の守護者像
 first_appearance: ch0066
 spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 盲目の守護者像
@@ -30,3 +31,10 @@ created: "2026-09-30"
 - [[A_ch0066_analogous_to_E_ch0066_ミルーニャ_activates_盲目の守護者像_p2476_ガチャ|ガチャの即時召喚演出]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: メートリアンの内的宇宙『アルタネイフ呪具百貨』から飛び出した『盲目の守護者像』が通路の四方を豪快に破壊しながら出現。悪鬼の群れを吹き飛ばし、ついでに病室の入り口に片腕を突っ込む。
+
+<!-- /AUTO-GENERATED:action -->

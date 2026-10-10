@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ちびラズリ
 type: entity
 subtype: character
 canonical_name: ちびラズリ
-title: "ちびラズリ"
+title: ちびラズリ
 first_appearance: ch0090
 spoiler_after: ch0090
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ちびラズリ
@@ -27,3 +28,24 @@ created: "2026-09-30"
 > 「目覚めよ――カッサリオ」 俺とコルセスカは同時に反応した。その意味を店員さんに問いただすより先に、下腹部に熱を感じて呻く。（ch0090）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 全く、天然で魅了の呪術を振りまいてるとか、恐ろしい人だな。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 失われた内力のバランスを取り戻す為に、練り上げられた陽の気を俺の中に注ぎ込んで正常なバランスに戻す。荒っぽい手段だが、呪力の伝導効率が極めて良い俺だからこそ可能な治療法ということらしい。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「目覚めよ――カッサリオ」 俺とコルセスカは同時に反応した。その意味を店員さんに問いただすより先に、下腹部に熱を感じて呻く。
+
+<!-- /AUTO-GENERATED:action -->

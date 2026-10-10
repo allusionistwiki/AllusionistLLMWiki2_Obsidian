@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0010_alludes_to_E_ch0010_コルセスカ_activates_シャルマキヒュの凍視_p459_監視社会
 title: 監視社会の不可避性
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_コルセスカ_activates_シャルマキヒュの凍視_p459]]"

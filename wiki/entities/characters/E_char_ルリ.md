@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ルリ
 type: entity
 subtype: character
 canonical_name: ルリ
-title: "ルリ"
+title: ルリ
 first_appearance: ch0160
 spoiler_after: ch0160
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ルリ
@@ -26,3 +27,12 @@ created: "2026-09-30"
 > 心的代行者であるきみは『その体の彼』とはほとんど別人だよね。だから、きみを調律して『品森晶』としての人格を維持している私は、きみという架空のキャラクターの作者に等しい――（ch0160）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: きみもだよ、アキラ・シナモリ・プロタゴニスト。さ、横になって。メンテナンスを始めよう。
+- **unknown**: 現在主流となっているタイプの感覚・情動制御アプリを開発した学者の一人は感覚制御技術を演劇に喩えているね
+- **unknown**: 心的代行者であるきみは『その体の彼』とはほとんど別人だよね。だから、きみを調律して『品森晶』としての人格を維持している私は、きみという架空のキャラクターの作者に等しい――
+
+<!-- /AUTO-GENERATED:speech -->

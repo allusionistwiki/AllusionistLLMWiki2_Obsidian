@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_グリュプス
 type: entity
 subtype: item
 canonical_name: グリュプス
-title: "グリュプス"
+title: グリュプス
 first_appearance: ch0247
 spoiler_after: ch0247
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # グリュプス
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 第五階層の王権を機械女王と分かち合う天空の守護者。この猫科魔獣の役割は単純だ。すなわち、紀人シナモリアキラを中継する送受信装置である。（ch0247）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: それは最強の猫科魔獣として知られていた。ガロアンディアンにただ一頭のみ存在する鳥にして獣の王。前は鷲、後ろは火猫、その心臓は流転する黄金。神性と王権、神と人を媒介する象徴たる幻獣の中の幻獣。鷲獅子。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 第五階層の王権を機械女王と分かち合う天空の守護者。この猫科魔獣の役割は単純だ。すなわち、紀人シナモリアキラを中継する送受信装置である。
+
+<!-- /AUTO-GENERATED:action -->

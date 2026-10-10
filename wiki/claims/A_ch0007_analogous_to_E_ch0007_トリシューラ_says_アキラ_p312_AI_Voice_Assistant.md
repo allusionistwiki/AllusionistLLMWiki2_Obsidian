@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0007_analogous_to_E_ch0007_トリシューラ_says_アキラ_p312_AI_Voice_Assistant
 title: AI音声アシスタント特性の指喩
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_トリシューラ_says_アキラ_p312]]"

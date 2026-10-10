@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_黒衣
 type: entity
 subtype: character
 canonical_name: 黒衣
-title: "黒衣"
+title: 黒衣
 first_appearance: ch0052
 spoiler_after: ch0052
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 黒衣
@@ -35,3 +36,10 @@ created: "2026-09-30"
 - [[E_char_アズーリア|アズーリア]] — 装着(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 先頭集団はリスクをとって岩塊を潜り抜けていく命がけのコースを選んだ黒衣
+
+<!-- /AUTO-GENERATED:action -->

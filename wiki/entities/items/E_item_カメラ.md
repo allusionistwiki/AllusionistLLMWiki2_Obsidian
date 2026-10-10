@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_カメラ
 type: entity
 subtype: item
 canonical_name: カメラ
-title: "カメラ"
+title: カメラ
 first_appearance: ch0231
 spoiler_after: ch0231
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カメラ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 『感魂性を持ったフィルムの上に被写体の魂を焼き付ける』という呪力を纏うカメラは地域によっては奪魂機とも呼ばれ、一般的には法で規制された凶器である。（ch0233）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 『感魂性を持ったフィルムの上に被写体の魂を焼き付ける』という呪力を纏うカメラは地域によっては奪魂機とも呼ばれ、一般的には法で規制された凶器である。
+
+<!-- /AUTO-GENERATED:symbolic -->

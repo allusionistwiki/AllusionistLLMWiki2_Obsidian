@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ぺラティア
 type: entity
 subtype: terminology
 canonical_name: ぺラティア
-title: "ぺラティア"
+title: ぺラティア
 first_appearance: ch0219
 spoiler_after: ch0219
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ぺラティア
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 『大断絶』という名の世界の変容によって。　世界は天地に引き裂かれ、多くの空間が歪み、幾つかの大地が永久に消えた。（ch0219）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: ぺラティアだけは紀竜信仰を守るための聖域として不可侵であり続けた。　この地だけは守らなくてはならない。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 『塔』の竜騎士ディシルキュトスの逆鱗城砦、ディスケイム家の接近、山岳王ベフォニスの庇護、至高天主との盟約、クエスドレム大公の援助、太陽炉の供儀、極天主の宣言、ディスカレイル王との約定、戦乙女の求婚、灰竜王国の成立、ジャッフハリムの解放、保護されるべき呪的資源としての特別王族区認定。
+
+<!-- /AUTO-GENERATED:relationship -->

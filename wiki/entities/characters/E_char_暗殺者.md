@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_暗殺者
 type: entity
 subtype: character
 canonical_name: 暗殺者
-title: "暗殺者"
+title: 暗殺者
 first_appearance: ch0218
 spoiler_after: ch0218
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 暗殺者
@@ -27,3 +28,17 @@ created: "2026-09-30"
 > レナリア：シェボリズを狙う暗殺者。ユディーアと手を組む。（ch0232）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 音も無く、黒ずくめの影が足元からぬるりと現れた。夜の民の暗殺者。その腕に巻き付けているのは待機状態の滅びの呪文。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 先ほどの予選レースにおいてこの巫女が使用していたオルガンローデが、出力だけが絶大という典型的な『バニラ・オルガンローデ』であると見て取ったからこそ強襲に踏み切ったのだろう。
+
+<!-- /AUTO-GENERATED:action -->

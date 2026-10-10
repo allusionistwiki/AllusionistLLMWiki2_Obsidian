@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_高射砲
 type: entity
 subtype: item
 canonical_name: 高射砲
-title: "高射砲"
+title: 高射砲
 first_appearance: ch0135
 spoiler_after: ch0135
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 高射砲
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 大型バリスタや石像兵による大地の呪力を纏った投石を、弾道予報を応用した高射砲の対空射撃によって撃ち落とす。（ch0135）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 上を向いた高射砲が正確無比な射撃で投石を防御し、その勢いのまま敵陣へと攻撃を加えていた。
+- **unknown**: 大型バリスタや石像兵による大地の呪力を纏った投石を、弾道予報を応用した高射砲の対空射撃によって撃ち落とす。
+
+<!-- /AUTO-GENERATED:action -->

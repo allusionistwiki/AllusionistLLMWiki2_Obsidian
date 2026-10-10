@@ -1,5 +1,5 @@
 ---
-title: "彼"
+title: 彼
 schema_version: '5.1'
 id: E_char_彼
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0030
 spoiler_after: ch0030
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 彼
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 裁く資格を持つただ一人は、一月前に第五階層という混沌の中に消えて、今もその消息が知れない。
 - **unknown**: 裁く資格を持つただ一人は、一月前に第五階層という混沌の中に消えて、今もその消息が知れない。
 - **unknown**: 裁く資格を持つただ一人は、一月前に第五階層という混沌の中に消えて、今もその消息が知れない。
 - **unknown**: 裁く資格を持つただ一人は、一月前に第五階層という混沌の中に消えて、今もその消息が知れない。

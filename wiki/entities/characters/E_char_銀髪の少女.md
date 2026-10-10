@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_銀髪の少女
 type: entity
 subtype: character
 canonical_name: 銀髪の少女
-title: "銀髪の少女"
+title: 銀髪の少女
 first_appearance: ch0204
 spoiler_after: ch0204
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 銀髪の少女
@@ -28,3 +29,27 @@ created: "2026-09-30"
 > 「調べて欲しいのはとあるティリビナ人の遺体。今日の夕刻、じゃなくてもう昨日か。酒場のど真ん中で殺害された、『ティリビナ同胞団』の幹部と目される重要人物」（ch0204）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「そういう時はね、小規模な『創造』で誤魔化せばいいの。簡単でクラフトしょ？」
+- **unknown**: あらゆる過去を見通す八つの眼と輝く両腕、七本の尻尾を持つ外なる神。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「提案があるんだけど、ここで矛を収める気は無い？　このまま続けるとこのあたりの彩域が使い物にならなくなっちゃう。せっかくの良質な土地なのに、勿体ないと思わない？」
+- **unknown**: 「言っておくけど、私はこの身体と後ろのコたちを含めて寄り代を三十人、第五階層に待機させている。たとえ相手が名高い傘の魔女であろうとも、命数の五割は削って見せるわ」
+- **unknown**: 「調べて欲しいのはとあるティリビナ人の遺体。今日の夕刻、じゃなくてもう昨日か。酒場のど真ん中で殺害された、『ティリビナ同胞団』の幹部と目される重要人物」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「私はレナリア・Ｖ・オルガナ。暗殺者で、いちおう紀人。よろしくね」
+
+<!-- /AUTO-GENERATED:name -->

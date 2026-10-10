@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_獣の耳を持つ少女
 type: entity
 subtype: character
 canonical_name: 獣の耳を持つ少女
-title: "獣の耳を持つ少女"
+title: 獣の耳を持つ少女
 first_appearance: ch0170
 spoiler_after: ch0170
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 獣の耳を持つ少女
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 私を襲ったのは、鋭い爪の一撃ではなく、柔らかな手の感触で。おっかなびっくり頬をなぞる感触がどこまでもやさしかったのを覚えている。（ch0170）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 驚くべきことに、まだ小さな――幼かった当時の私よりも一つ二つは年下と思えるような少女がそこにいた。いや、真に驚くべきは彼女の頭頂部にふたつ、三角形の耳が乗っていたことなのだが
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 獣は剥き出しの荒々しさでもって檻に爪を立てようとしていた。血が記憶する狩猟の性が命ずるままに、牙を光らせて飛び掛かる。
+- **unknown**: 私を襲ったのは、鋭い爪の一撃ではなく、柔らかな手の感触で。おっかなびっくり頬をなぞる感触がどこまでもやさしかったのを覚えている。
+
+<!-- /AUTO-GENERATED:action -->

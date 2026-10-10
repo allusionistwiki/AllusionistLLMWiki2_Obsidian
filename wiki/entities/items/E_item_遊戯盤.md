@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_遊戯盤
 type: entity
 subtype: item
 canonical_name: 遊戯盤
-title: "遊戯盤"
+title: 遊戯盤
 first_appearance: ch0249
 spoiler_after: ch0249
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 遊戯盤
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 気付けば、リーナとダウザールの中間地点に遊戯盤が出現している。 それはちっぽけなようで、とてつもなく広大な世界だった。（ch0269）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 気付けば、リーナとダウザールの中間地点に遊戯盤が出現している。 それはちっぽけなようで、とてつもなく広大な世界だった。
+
+<!-- /AUTO-GENERATED:visual -->

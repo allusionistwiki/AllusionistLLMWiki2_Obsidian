@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_エンハ
 type: entity
 subtype: character
 canonical_name: エンハ
-title: "エンハ"
-first_appearance: ch0249
-spoiler_after: ch0249
+title: エンハ
+first_appearance: ch0234
+spoiler_after: ch0234
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # エンハ
@@ -28,3 +29,35 @@ created: "2026-09-30"
 > トップのエンハもまた自衛手段として用意していた呪符を使用して襲い掛かってきた巨大な蜂に電撃を浴びせるが、威力が足りていないのか機体に取りつかれてしまった。（ch0249）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: とどめにクリーナーによる『泣ける』の雑な消費が追加されたことで、エンハとナックスは用意していた回想を事実上ほとんど潰されてしまったのである。
+- **unknown**: プロレーサーにとってトップ選手を風除けに使うドラフティング技術は基本中の基本。
+- **unknown**: トップのエンハもまた自衛手段として用意していた呪符を使用して襲い掛かってきた巨大な蜂に電撃を浴びせるが、威力が足りていないのか機体に取りつかれてしまった。
+- **unknown**: 無造作に。そしてごく自然に。 兄が弟の首を引き千切った。 さながら鞘から刃を抜くように、エンハは競技者というよりむしろ戦士のように闘志を滾らせていた。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 逆走とは愚かな女だ。突飛な行動で勝てるほどレースは甘くない
+- **unknown**: 「今度こそクァヒートの血をゾラの本流に！ リーナ・ゾラ・クロウサーは俺たちが娶る。邪魔する全てを排除して！ 偉大なる空と槍にかけて、俺たちは勝利を誓おう！」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: テキストベース・サーキットにおける位置エネルギーという点でトップのエンハは二番手以降につけているとも言える。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 半身を削り取られる痛みに呻くエンハとナックスの兄弟。
+
+<!-- /AUTO-GENERATED:visual -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_青い血
 type: entity
 subtype: item
 canonical_name: 青い血
-title: "青い血"
+title: 青い血
 first_appearance: ch0262
 spoiler_after: ch0262
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 青い血
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 恍惚の中、馬のアストラル体から溢れ出した青い血が機甲箒とレーサーをどろどろに融かしてひとつの生命へと変質させていった。（ch0262）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 恍惚の中、馬のアストラル体から溢れ出した青い血が機甲箒とレーサーをどろどろに融かしてひとつの生命へと変質させていった。
+
+<!-- /AUTO-GENERATED:action -->

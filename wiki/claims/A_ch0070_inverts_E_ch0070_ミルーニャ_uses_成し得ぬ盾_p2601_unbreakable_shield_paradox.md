@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0070_inverts_E_ch0070_ミルーニャ_uses_成し得ぬ盾_p2601_unbreakable_shield_paradox
 title: 絶対防御パラドックスの逆用
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_ミルーニャ_uses_成し得ぬ盾_p2601]]"

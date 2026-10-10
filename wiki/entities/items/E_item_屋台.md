@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_屋台
 type: entity
 subtype: item
 canonical_name: 屋台
-title: "屋台"
+title: 屋台
 first_appearance: ch0198
 spoiler_after: ch0198
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 屋台
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 流れ矢が背後の屋台に直撃し、腐敗の呪詛をまき散らして崩壊させていく。（ch0203）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 二人が辿り着いたのは移動式の屋台だった。赤い看板には『クレープ』と『占い』という文字が記号付きで大きく記されている。どうやら注文すると簡単な占いもしてくれるらしく、パラソルやメニューボードの下にカードやら水晶玉やらが飾られていた。
+
+<!-- /AUTO-GENERATED:visual -->

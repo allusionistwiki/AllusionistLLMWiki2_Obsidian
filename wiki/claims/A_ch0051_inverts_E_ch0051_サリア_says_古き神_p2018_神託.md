@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0051_inverts_E_ch0051_サリア_says_古き神_p2018_神託
 title: 神託の絶対性への逆転
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0051_サリア_says_古き神_p2018]]"

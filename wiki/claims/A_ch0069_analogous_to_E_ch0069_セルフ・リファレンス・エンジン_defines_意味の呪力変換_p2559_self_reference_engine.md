@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0069_analogous_to_E_ch0069_セルフ・リファレンス・エンジン_defines_意味の呪力変換_p2559_self_reference_engine
 title: 自己参照エンジンによる言語魔術
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_セルフ・リファレンス・エンジン_defines_意味の呪力変換_p2559]]"

@@ -1,0 +1,39 @@
+---
+schema_version: '5.1'
+id: E_char_王
+type: entity
+title: 王
+subtype: character
+canonical_name: 王
+aliases: []
+first_appearance: ch0190
+spoiler_after: ch0190
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 王
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 容赦のない裁き、死の斬撃が女教師を塵に変えた。王の剣は槍の秩序を認めない。ゆえに裁定は絶対であった。
+- **unknown**: 「黙れっ」若き王は侮辱に更なる死の罰で応じる。手刀が遙か天上へと斬撃の言の葉を飛ばし、大剣を吊す糸を断ち切った。傲慢な男の頭部に落下した刃が不要な役者を退場させていく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 彼にとって父は尊敬すべき対象だ。あの優しく不器用なブルドッグがそのような忌まわしい、口にすることすらはばかられる性的スキャンダルを抱えているはずがない。そのはずだ。それでも、呪いは王の胸に残った。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 衝撃から立ち直った王が自らの胸に乗ったものを見ると、それは黄砂色の長い髪を持った、それはそれは見事な少女人形だった。若き王は赤面した。少女は全裸だったのだ。
+
+<!-- /AUTO-GENERATED:visual -->

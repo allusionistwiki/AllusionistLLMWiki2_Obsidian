@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ゴーリー
 type: entity
 subtype: character
 canonical_name: ゴーリー
-title: "ゴーリー"
+title: ゴーリー
 first_appearance: ch0204
 spoiler_after: ch0204
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ゴーリー
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > ゴーリー：にっこりゴーリー。鉄マスクの巨漢。迷宮刑罰者たちのリーダー。（ch0232）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ゴーリー：にっこりゴーリー。鉄マスクの巨漢。迷宮刑罰者たちのリーダー。
+
+<!-- /AUTO-GENERATED:name -->

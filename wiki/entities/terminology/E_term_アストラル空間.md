@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_アストラル空間
 type: entity
 subtype: terminology
 canonical_name: アストラル空間
-title: "アストラル空間"
+title: アストラル空間
 first_appearance: ch0040
 spoiler_after: ch0040
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アストラル空間
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > ここは転生アプリのユーザーたちのために用意された、導入用の仮想アストラル空間だ。クローズドな純白の正方形内部にいるのはひとつの身体に相乗りした二人。（ch0238）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ここは転生アプリのユーザーたちのために用意された、導入用の仮想アストラル空間だ。クローズドな純白の正方形内部にいるのはひとつの身体に相乗りした二人。
+- **unknown**: 広大無辺なアストラル空間。　そこは空であり海であり大地であり、宇宙であった。　乱数によって自動生成された無秩序なフィールドには方眼紙のようなマス目が重なって表示されている。
+
+<!-- /AUTO-GENERATED:visual -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_蠍コーダマラ尾
 type: entity
 subtype: character
 canonical_name: 蠍コーダマラ尾
-title: "蠍コーダマラ尾"
+title: 蠍コーダマラ尾
 first_appearance: ch0181
 spoiler_after: ch0181
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 蠍コーダマラ尾
@@ -27,3 +28,24 @@ created: "2026-09-30"
 > 突如、ためらいが混じった声が響き、青い流水の膜が薄く蠍尾の周囲を覆い隠した。（ch0181）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 砂袋を担いだシナモリアキラ。彼の胸の中心に刻印された『参』の数字を毒針で貫き、致命的な呪毒を注ぎ込む。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 見えない壁が、精神活動を含めたあらゆる動きを封じている。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「妊娠しないからゴムとか使わないんだって」「不特定多数と関係」「ああいう閉じたコミュニティって外から見えないからさー」
+
+<!-- /AUTO-GENERATED:speech -->

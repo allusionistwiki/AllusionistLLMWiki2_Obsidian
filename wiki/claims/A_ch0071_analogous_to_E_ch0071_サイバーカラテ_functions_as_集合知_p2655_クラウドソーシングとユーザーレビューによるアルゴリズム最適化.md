@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_サイバーカラテ_functions_as_集合知_p2655_クラウドソーシングとユーザーレビューによるアルゴリズム最適化
 title: レビュー最適化の類似
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_サイバーカラテ_other_ユーザー_p2655]]"

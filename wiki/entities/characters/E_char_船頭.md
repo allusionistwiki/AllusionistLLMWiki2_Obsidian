@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_船頭
 type: entity
 subtype: character
 canonical_name: 船頭
-title: "船頭"
+title: 船頭
 first_appearance: ch0172
 spoiler_after: ch0172
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 船頭
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 『まことの名を見つけろ』と（ch0172）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: クレイ。お前は、いつ、どこで、誰によって生み出された？
+- **unknown**: 『まことの名を見つけろ』と
+
+<!-- /AUTO-GENERATED:speech -->

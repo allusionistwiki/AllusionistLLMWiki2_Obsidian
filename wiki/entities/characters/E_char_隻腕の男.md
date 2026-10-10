@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_隻腕の男
 type: entity
 subtype: character
 canonical_name: 隻腕の男
-title: "隻腕の男"
+title: 隻腕の男
 first_appearance: ch0164
 spoiler_after: ch0164
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 隻腕の男
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 怒りの込められた声が通路の奥から響いてくる。「は－。ねーわ。ほんっとキツイって。マジねーわ。とどめ無しとかもう冒涜っしょ。ありえねえ、死ねよお前マジでよお。つか殺す」（ch0164）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 怒りの込められた声が通路の奥から響いてくる。「は－。ねーわ。ほんっとキツイって。マジねーわ。とどめ無しとかもう冒涜っしょ。ありえねえ、死ねよお前マジでよお。つか殺す」
+
+<!-- /AUTO-GENERATED:action -->

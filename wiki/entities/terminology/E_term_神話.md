@@ -1,5 +1,5 @@
 ---
-title: "神話"
+title: 神話
 schema_version: '5.1'
 id: E_term_神話
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0029
 spoiler_after: ch0029
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 神話
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: だから昼の間は彼女の目を自分に向けられるように、青い絵の具で星々の輝きを覆い隠してしまったのだ、と。
 - **unknown**: だから昼の間は彼女の目を自分に向けられるように、青い絵の具で星々の輝きを覆い隠してしまったのだ、と。
 - **unknown**: だから昼の間は彼女の目を自分に向けられるように、青い絵の具で星々の輝きを覆い隠してしまったのだ、と。
 - **unknown**: だから昼の間は彼女の目を自分に向けられるように、青い絵の具で星々の輝きを覆い隠してしまったのだ、と。

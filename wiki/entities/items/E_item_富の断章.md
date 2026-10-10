@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_富の断章
 type: entity
 subtype: item
 canonical_name: 富の断章
-title: "富の断章"
+title: 富の断章
 first_appearance: ch0164
 spoiler_after: ch0164
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 富の断章
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 腕の中で『断章』が熱を持つ。ひとりでに記録を綴る呪われた書物が、『物語』を記し始めたのだ。誰かを主人公にした、壮大な叙事詩のはじまりを。（ch0164）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 宙に浮き、併走する黒い魔導書『富の断章』が妖しげな紫紺の光を放っていた。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 直後、灼熱が迷宮を焼いた。階段の奥から溢れ出した炎が私とクレイの目の前に壁を作り出したのだ。
+- **unknown**: 腕の中で『断章』が熱を持つ。ひとりでに記録を綴る呪われた書物が、『物語』を記し始めたのだ。誰かを主人公にした、壮大な叙事詩のはじまりを。
+
+<!-- /AUTO-GENERATED:action -->

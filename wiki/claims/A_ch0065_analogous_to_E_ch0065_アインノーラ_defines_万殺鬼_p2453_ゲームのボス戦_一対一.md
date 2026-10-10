@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アインノーラ_defines_万殺鬼_p2453_ゲームのボス戦_一対一
 title: ゲームボス戦メカニクスへの強制決闘
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アインノーラ_defines_万殺鬼_p2453]]"

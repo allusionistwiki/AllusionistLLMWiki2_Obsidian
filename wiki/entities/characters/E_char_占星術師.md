@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_占星術師
 type: entity
 subtype: character
 canonical_name: 占星術師
-title: "占星術師"
+title: 占星術師
 first_appearance: ch0231
 spoiler_after: ch0231
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 占星術師
@@ -28,3 +29,19 @@ created: "2026-09-30"
 > 「一手遅い。悪いが終わりだ」　何かが破綻して、巨大な気配が霧散していく。（ch0231）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: そもそも、自分は誰と戦っている？　目の前に命の気配はない。　　用意された案山子に誘導され、まんまと囮に食いついた影の使い魔たちが炎であぶられているだけ。
+- **unknown**: 知っているはずのことが、どうしても思い出せない。全てがわからない。なぜ自分はここにいるのか。誰と戦っているのか。「忘れてしまいました」
+- **unknown**: 「いと高き夜光天の支配者、樹殻貪るサラーワイブに願い奉る」　喚起するのは最も古き悪霊。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: どうやら女の模倣体で活動している夜の民、ペリュトン系の淫魔ラハブらしき呪術師は、いったいどういう素性の人物なのか。
+
+<!-- /AUTO-GENERATED:visual -->

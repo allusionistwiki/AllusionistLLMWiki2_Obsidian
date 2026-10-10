@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アダス
 type: entity
 subtype: character
 canonical_name: アダス
-title: "アダス"
+title: アダス
 first_appearance: ch0191
 spoiler_after: ch0191
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アダス
@@ -28,3 +29,20 @@ created: "2026-09-30"
 > 「笑わせるな。共感ごっこなら余所でやれ」 思わず罵声が出た。凄まじく苛立たしい。遮断できないほどに、不快感が絶え間なく湧き上がってくる。（ch0191）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 薄茶のくたびれたコートにテンガロンハット、無精髭の陰気な顔。このゼドの気配は、初めて対面するものではないと確信する。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「俺は俺、殺し屋紛いのアダス、盗賊崩れのゼドだ。狙いは『死人の森』に眠る財宝、古代の叡智、失われた神秘。目的は一貫して変わっていない」
+- **unknown**: 「安心しろアキラ。せっかく紀人に至れた後輩をいきなり狩るなんてマナー違反はしない。むしろその逆。俺はお前を守ってやりたいんだ」
+- **unknown**: 「この俺、アダスの本質は盗賊ではなく殺し屋だ。依頼されれば契約通り、上質な死を顧客にお届けする。安楽死代行から戦いで散りたい戦士の相手役までこなすクリーンな人殺しが売りで、市民に愛される優しい死神ともっぱらの評判だ」
+- **unknown**: 「俺と習合しないか、転生者セト。紀人になったばかりでは抵抗があるかもしれないが、なに、遅かれ早かれいずれは経験しなければならないことだ」
+
+<!-- /AUTO-GENERATED:speech -->

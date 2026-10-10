@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0017_parodies_E_ch0017_トリシューラ_activates_アストラル界へのダイブ_p748_hacker_movie_trope
 title: ハッキング描写のステレオタイプ模倣
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_トリシューラ_activates_アストラル界へのダイブ_p748]]"

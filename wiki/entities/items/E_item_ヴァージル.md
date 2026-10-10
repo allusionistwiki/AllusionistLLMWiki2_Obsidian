@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_ヴァージル
 type: entity
 subtype: item
 canonical_name: ヴァージル
-title: "ヴァージル"
+title: ヴァージル
 first_appearance: ch0099
 spoiler_after: ch0099
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ヴァージル
@@ -28,3 +29,10 @@ created: "2026-09-30"
 > ヴァージルは右手に漆黒の『断章』を、左手に青い髪のラクルラール人形を乗せてまっすぐな言葉を紡いだ。（ch0145）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ヴァージルが煌めく水晶のオブジェや精巧な石の彫像を持ってきて「さあどうぞ召し上がれ」と言い出して周囲を困惑させたり
+
+<!-- /AUTO-GENERATED:action -->

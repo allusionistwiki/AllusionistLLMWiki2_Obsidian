@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_断章
 type: entity
 subtype: item
 canonical_name: 断章
-title: "断章"
+title: 断章
 first_appearance: ch0100
 spoiler_after: ch0100
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 断章
@@ -17,7 +18,7 @@ created: "2026-09-30"
 ダエモデクが持つ黒い装丁の九巻本の五巻目。正義の原理を示し『内なる法』を根付かせる力がある。ディーテの言葉に呼応して光を放ち、世界を埋め尽くす閃光を爆発させる。
 
 <!-- AUTO:BEGIN -->
-**初出**: ch0100 ｜ **観測イベント**: 10 件（8 話に出現）
+**初出**: ch0100 ｜ **観測イベント**: 11 件（8 話に出現）
 
 ## 代表引用
 
@@ -28,3 +29,33 @@ created: "2026-09-30"
 > 第一断章【尊敬】はカーティスに。第二断章【技能】はパーンに。（ch0132）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「前回が『愛情』でしたから、恐らくあちらの手にあるのは『道徳』です。あれには正義の原理を示し、『内なる法』を人の心に根付かせる力があります。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 心で溢れそうな『断章』は、永劫の闇の中で静かに項を増やし続けた。 文字列は無尽蔵に無制限に増えて漆黒の塊へと変貌する。
+- **unknown**: 第一断章【尊敬】はカーティスに。第二断章【技能】はパーンに。
+- **unknown**: ディーテの言葉に呼応するように、浮遊する『断章』が光を放つ。時を追う事に強くなっていく輝きがある閾値を超えた時、閃光が爆発したように広がって、やがて世界を埋め尽くした。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: コルセスカの周囲に白い光が収束し、それが弾けると八つの書物が出現した。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 漂う『尊敬』の書がありとあらゆる出来事を書き連ねていく。
+
+<!-- /AUTO-GENERATED:symbolic -->

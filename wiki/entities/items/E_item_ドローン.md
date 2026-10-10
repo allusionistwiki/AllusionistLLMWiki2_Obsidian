@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_ドローン
 type: entity
 subtype: item
 canonical_name: ドローン
-title: "ドローン"
+title: ドローン
 first_appearance: ch0227
 spoiler_after: ch0227
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ドローン
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 表示されたイメージ映像の中で、飛翔していたドローンが過酷な環境に耐え切れず次々に破損していく。もし選手たちが同じような目に遭ったらどうなるのか。 想像を絶するほどの危険さに観客たちは思わず息を呑んだ。（ch0233）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 倒されたシナモリアキラはドローンに回収されて場外へ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 表示されたイメージ映像の中で、飛翔していたドローンが過酷な環境に耐え切れず次々に破損していく。もし選手たちが同じような目に遭ったらどうなるのか。 想像を絶するほどの危険さに観客たちは思わず息を呑んだ。
+
+<!-- /AUTO-GENERATED:visual -->

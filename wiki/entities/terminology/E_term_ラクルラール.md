@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ラクルラール
 type: entity
 subtype: terminology
 canonical_name: ラクルラール
-title: "ラクルラール"
+title: ラクルラール
 first_appearance: ch0049
 spoiler_after: ch0049
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ラクルラール
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 「なるほど、巨人殺しの冒険者と援助者たち――その銀の腕は【猫の国】で言うところの【代替王権】というわけだ」（ch0140）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「虐殺には文法がある――人間集団の傾向や性質が一定の枠内に収まるのなら、その振る舞いを理解することで新しい虐殺の呪文を唱える事ができる筈」
+- **unknown**: 「終末。末世。致命的な破局――すなわち言震。それこそが、『最後の救世主』を誕生させるための呼び水だ。
+- **unknown**: それが【虐め】という古代から存在する力ある使い魔系呪術だと、ラクルラールは自慢の弟子を褒めちぎっていた。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「ラクルラールは『法』で倒せるって？ なんかよくわからん話だ。敵の正体は犯罪者か何かか？」「似たようなものかな。規模が段違いだけど」
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 四番目のラクルラールと名乗った存在は無傷のまま口を開く。
+
+<!-- /AUTO-GENERATED:visual -->

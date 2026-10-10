@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ラウス＝ベフォニス
 type: entity
 subtype: character
 canonical_name: ラウス＝ベフォニス
-title: "ラウス＝ベフォニス"
+title: ラウス＝ベフォニス
 first_appearance: ch0149
 spoiler_after: ch0149
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ラウス＝ベフォニス
@@ -35,3 +36,24 @@ created: "2026-09-30"
 - [[E_char_アキラ|アキラ]] — 攻撃(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 「決着はまたいずれ。我らの道が交わったその時に」「おう！　おら、次は今よりもっと強くなってっからよ！　楽しみにしとけ」
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: そのまま振り向かず、背中の幻肢孔から最大出力の『巨人の拳』を解き放つ。背後で凄まじい轟音。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 己の存在の全てをたった一つのものに捧げた彼は、その『唯一無二』を失った瞬間、存在の意味を失った。
+
+<!-- /AUTO-GENERATED:symbolic -->

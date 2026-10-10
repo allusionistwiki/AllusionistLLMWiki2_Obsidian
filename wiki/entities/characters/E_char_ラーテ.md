@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ラーテ
 type: entity
 subtype: character
 canonical_name: ラーテ
-title: "ラーテ"
+title: ラーテ
 first_appearance: ch0251
 spoiler_after: ch0251
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ラーテ
@@ -28,3 +29,25 @@ created: "2026-09-30"
 > 「ダウザール特務親衛隊『七つ風』序列二位、号は『高風』」（ch0261）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ファーガスト。私と新たな『蹄鉄の四血族』を作りましょう？ かつて私が、ダウザールと共に四つの血族を作り出した時のように」
+- **unknown**: 『蹄の民』は文字がないだけで知能レベルは普通に俺らと遜色ないからね？
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ケルピーモードすげええええ　飛翔海流に突っ込んで無事とか　ラーテちゃん有能すぎ
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「ダウザール特務親衛隊『七つ風』序列二位、号は『高風』」
+
+<!-- /AUTO-GENERATED:name -->

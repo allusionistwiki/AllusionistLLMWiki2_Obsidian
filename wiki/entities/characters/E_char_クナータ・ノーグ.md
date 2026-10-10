@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_クナータ・ノーグ
 type: entity
 subtype: character
 canonical_name: クナータ・ノーグ
-title: "クナータ・ノーグ"
+title: クナータ・ノーグ
 first_appearance: ch0196
 spoiler_after: ch0196
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # クナータ・ノーグ
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 病院内での激戦を、少し離れた地点で観察していたクナータ・ノーグは、静かに目を閉じて回想を始めた。これから起きる未来の光景。その記憶を掬い出すように。（ch0244）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 四隅に、あるいは中心に、偏在とも遍在とも言えない揺らぎ。それは不確定な未来のように。
+- **unknown**: 守護の九槍第二位、聖女とも称される可憐な予言者クナータ・ノーグ。槍の穂先で揺れる神秘的な紫色の炎が、カシュラム系アヴロノであるノーグ氏族最後の生き残りの横顔を照らす。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 病院内での激戦を、少し離れた地点で観察していたクナータ・ノーグは、静かに目を閉じて回想を始めた。これから起きる未来の光景。その記憶を掬い出すように。
+- **unknown**: 閃光のような狙撃が過去に遡って飛翔し、小さな猫型端末の意識を刈り取った。紫槍歯虎の精霊が宿る対霊狙撃杖は少女の背丈を遥かに上回るほどに長大。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「信仰とは、果たして超越的な力への盲従のことでしょうか」
+
+<!-- /AUTO-GENERATED:speech -->

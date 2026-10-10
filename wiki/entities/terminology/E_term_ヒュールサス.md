@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ヒュールサス
 type: entity
 subtype: terminology
 canonical_name: ヒュールサス
-title: "ヒュールサス"
+title: ヒュールサス
 first_appearance: ch0102
 spoiler_after: ch0102
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ヒュールサス
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > 五分の状況で、私たちは遂に舞台の上に辿り着く。昇降機が停止して、土俵は舞台の床と一つになる。ここは【世界劇場】の中心。演劇空間の基点となるヒュールサスだ。（ch0115）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 森の多いその一帯は昔からヒュールサスと呼ばれていた。
+- **unknown**: 「それはきっと、冥界に繋がっている【冥道】だからだよ。この土地、ヒュールサスというのは、古い言葉で『冥界への道』を意味している。
+
+<!-- /AUTO-GENERATED:name -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_実況
 type: entity
 subtype: character
 canonical_name: 実況
-title: "実況"
+title: 実況
 first_appearance: ch0215
 spoiler_after: ch0215
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 実況
@@ -34,3 +35,10 @@ created: "2026-09-30"
 - [[E_char_トリシューラ|トリシューラ]] — 発言(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「大変な展開になってきましたー！　蒼空岩石群コースに突入して早々に順位が激変！　これまで先頭をキープしていたパーン選手を抜いて、一位に躍り出たのはまさかのダークホース・クリーナー＆ダストペアだ！
+
+<!-- /AUTO-GENERATED:speech -->

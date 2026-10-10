@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_キニス
 type: entity
 subtype: character
 canonical_name: キニス
-title: "キニス"
-first_appearance: ch0245
-spoiler_after: ch0245
+title: キニス
+first_appearance: ch0197
+spoiler_after: ch0197
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # キニス
@@ -28,3 +29,32 @@ created: "2026-09-30"
 > 偉大なるアルト王の血を引く者よ。誉れ高きダーカンシェルの言葉を受け継ぐ子よ。恐るべきカズキスの呪いを刻まれた器よ。（ch0246）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: それでもキニスは、たぶん父のことが好きだった。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 展示の演出は灰色だ。滅ぼされた文明は灰都の名を与えられ、過去の中に封じられている。だがそれ以上に、その中心で朽ちた玉座に背を預ける幼子には色彩が欠落していた。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 偉大なるアルト王の血を引く者よ。誉れ高きダーカンシェルの言葉を受け継ぐ子よ。恐るべきカズキスの呪いを刻まれた器よ。
+- **unknown**: 「せんせい？」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 希望。それが実在するかもしれないという未来から目を背け、怯えて縮こまる。
+
+<!-- /AUTO-GENERATED:action -->

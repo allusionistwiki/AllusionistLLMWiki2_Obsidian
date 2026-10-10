@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_楽園の抱擁
 type: entity
 subtype: terminology
 canonical_name: 楽園の抱擁
-title: "楽園の抱擁"
+title: 楽園の抱擁
 first_appearance: ch0225
 spoiler_after: ch0225
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 楽園の抱擁
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 「『楽園の抱擁』はいわば内世界型の浄界を普遍化した汎用奥義に近い。突き詰めれば、呪術的な技術などなくとも『カーイン』という存在の個我を持続しようと強く念じ続ければできるようになります。つまり気合や根性に近い」（ch0225）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 本来なら、カーインはスーリウムの『生命吸収』によって存在の全てを奪われていたはずだ。だが最上位の生命賦活呪術はそれほどの窮地さえも覆す。 究極の治癒、復活の儀式、復元の呪詛、そういったほとんど不死に近い現象を再現するのがカーインが使用した呪術基盤だが、
+- **unknown**: 「『楽園の抱擁』はいわば内世界型の浄界を普遍化した汎用奥義に近い。突き詰めれば、呪術的な技術などなくとも『カーイン』という存在の個我を持続しようと強く念じ続ければできるようになります。つまり気合や根性に近い」
+
+<!-- /AUTO-GENERATED:action -->

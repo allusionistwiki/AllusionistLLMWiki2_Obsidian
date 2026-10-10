@@ -1,5 +1,5 @@
 ---
-title: "第九魔将ピッチャールー"
+title: 第九魔将ピッチャールー
 schema_version: '5.1'
 id: E_char_第九魔将ピッチャールー
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 第九魔将ピッチャールー
@@ -38,6 +38,8 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 第九魔将、賛同のピッチャールー。旧世界の古代兵器。
+- **unknown**: 第九魔将、賛同のピッチャールー。旧世界の古代兵器。
 - **unknown**: 第九魔将、賛同のピッチャールー。旧世界の古代兵器。
 - **unknown**: 第九魔将、賛同のピッチャールー。旧世界の古代兵器。
 - **unknown**: 第九魔将、賛同のピッチャールー。旧世界の古代兵器。

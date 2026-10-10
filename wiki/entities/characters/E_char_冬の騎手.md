@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_冬の騎手
 type: entity
 subtype: character
 canonical_name: 冬の騎手
-title: "冬の騎手"
+title: 冬の騎手
 first_appearance: ch0172
 spoiler_after: ch0172
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 冬の騎手
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > クレイの全身全霊のライブに呼応した冬の騎手たちは、王子を勝利に導くためにバックダンサーとして馳せ参じたのだ（ch0172）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: クレイは空を埋め尽くす女王の軍勢を見た。何も無い虚空を疾走する、あれこそが青ざめた死
+- **unknown**: 人の手で鍛え上げられた鋼鉄や落雷以外によって熾された炎でのみ倒せるという
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: クレイの全身全霊のライブに呼応した冬の騎手たちは、王子を勝利に導くためにバックダンサーとして馳せ参じたのだ
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,6 +1,6 @@
 ---
-title: "キュトス"
-schema_version: "5.1"
+title: キュトス
+schema_version: '5.1'
 id: E_term_キュトス
 type: entity
 subtype: terminology
@@ -9,7 +9,8 @@ first_appearance: ch0035
 spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # キュトス
@@ -27,3 +28,18 @@ created: "2026-09-30"
 > 神話では、地母神キュトスが槍によって貫かれたことで母なる大地は空に分かたれたという。それが最初の『大断絶』だ。（ch0268）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: キュトスというのはそもそもあらゆる地母神像が神話として揺らいだ後に立ち現れる神的イメージ、つまりは『紀神』だ
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 神話では、地母神キュトスが槍によって貫かれたことで母なる大地は空に分かたれたという。それが最初の『大断絶』だ。
+- **unknown**: かつて槍神の対であった不死女神キュトスは、無数の欠片に引き裂かれた後もなお強大な女神としての権能を有している。 総体としてのキュトスの姉妹は天なる槍神と拮抗するだけの力をもった地母神だ。
+
+<!-- /AUTO-GENERATED:symbolic -->

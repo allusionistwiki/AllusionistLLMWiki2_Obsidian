@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_カシュラム人
 type: entity
 subtype: terminology
 canonical_name: カシュラム人
-title: "カシュラム人"
+title: カシュラム人
 first_appearance: ch0106
 spoiler_after: ch0106
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カシュラム人
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > ゆえに、カシュラム人は彼らの信仰を理解しないものたちを蔑みと哀れみを込めて『マシュラム人』と呼ぶのだとか。（ch0106）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 次の舞台はカシュラム――正式にはカシュート＝ラームだけど、まあどっちでもいいか。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: ゆえに、カシュラム人は彼らの信仰を理解しないものたちを蔑みと哀れみを込めて『マシュラム人』と呼ぶのだとか。
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_カシュラム人
 type: entity
 subtype: organization
 canonical_name: カシュラム人
-title: "カシュラム人"
+title: カシュラム人
 first_appearance: ch0107
 spoiler_after: ch0107
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カシュラム人
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > カシュラムの領地が、炎上している。こちらの兵が火をつけたのではない。内側から、カシュラム人たちが自ら放火したのである。（ch0136）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 現状の地位を脅かされることを根源的な恐怖として深層意識に刻み込まれたカシュラム人は、下から上へと突き上げる力に強い恐れを抱く。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: カシュラムの領地が、炎上している。こちらの兵が火をつけたのではない。内側から、カシュラム人たちが自ら放火したのである。
+
+<!-- /AUTO-GENERATED:action -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_白血呪_p1680_科学技術の軍事転用と制御不能
 title: 技術の軍事転用と暴走
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_ミルーニャ_reveals_白血呪_p1680]]"

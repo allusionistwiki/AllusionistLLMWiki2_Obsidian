@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ネッスス
 type: entity
 subtype: character
 canonical_name: ネッスス
-title: "ネッスス"
+title: ネッスス
 first_appearance: ch0196
 spoiler_after: ch0196
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ネッスス
@@ -35,3 +36,19 @@ created: "2026-09-30"
 - [[E_char_フォルス|フォルス]] — 停止(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 藍色の炎が灯る下で、鋭く小さい黒目が私に狙いを定めている。脱色された短髪、細い眉に三白眼、ノコギリじみたギザギザの歯。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「おいガキ、英雄が辛くなったら言えや。金出しゃ贖宥状くらい馬鹿みてえに刷ってやる。特別サービスで俺様の告解室に招待してもいいぜ」
+- **unknown**: 「『この世界』にはな。目を閉じてよく観ろ。影が揺らめいてるだろうが」
+- **unknown**: 「シナモリアキラって紀人は俺様に狩らせろ。異邦の神なら俺らの流儀で染めればそれで終わりだ。クソみてえに浄化して天使コレクションに加えてやるよ」
+
+<!-- /AUTO-GENERATED:speech -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0021_analogous_to_E_ch0021_コルセスカ_names_アキラ_p933_Gacha_Party_Building
 title: ガチャパーティ編成への仲間加入
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_コルセスカ_names_アキラ_p933]]"

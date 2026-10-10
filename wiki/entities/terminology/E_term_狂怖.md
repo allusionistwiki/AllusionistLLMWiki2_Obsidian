@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_狂怖
 type: entity
 subtype: terminology
 canonical_name: 狂怖
-title: "狂怖"
+title: 狂怖
 first_appearance: ch0144
 spoiler_after: ch0144
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 狂怖
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 再生者たちの狂乱するさまは生者たちに恐怖と忌避感を抱かせ、それを呼び水にして『狂怖』と呼ばれる異形の怪物たちが地の底から這い出してくる。（ch0148）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 再生者たちの狂乱するさまは生者たちに恐怖と忌避感を抱かせ、それを呼び水にして『狂怖』と呼ばれる異形の怪物たちが地の底から這い出してくる。
+- **unknown**: 大地から湧き出しているのは、恐怖そのものだ。 無辜の犠牲が生まれる度、地の底から湧き出る異形の怪物。 虐殺の種から咲いた異形の花。一つとして同じ姿は無く、この上無いおぞましさからそれらが同種の邪悪であることは明白。
+
+<!-- /AUTO-GENERATED:visual -->

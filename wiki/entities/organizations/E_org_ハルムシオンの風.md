@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ハルムシオンの風
 type: entity
 subtype: organization
 canonical_name: ハルムシオンの風
-title: "ハルムシオンの風"
+title: ハルムシオンの風
 first_appearance: ch0220
 spoiler_after: ch0220
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ハルムシオンの風
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 第五階層内で自在に作り出せるかりそめの宿ではなく、大地に根付いた棲家。しかしその外観は膨れ上がった出来損ないの砦もどきと言ったところ。（ch0230）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 第五階層内で自在に作り出せるかりそめの宿ではなく、大地に根付いた棲家。しかしその外観は膨れ上がった出来損ないの砦もどきと言ったところ。
+
+<!-- /AUTO-GENERATED:visual -->

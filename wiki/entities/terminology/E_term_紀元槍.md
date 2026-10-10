@@ -1,5 +1,5 @@
 ---
-title: "紀元槍"
+title: 紀元槍
 schema_version: '5.1'
 id: E_term_紀元槍
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0047
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 紀元槍
@@ -41,6 +41,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 世界それ自体を――紀元槍を浸食する紀元槍の端末。自己を参照し続ける再帰的な幻想。
 - **unknown**: 世界それ自体を――紀元槍を浸食する紀元槍の端末。自己を参照し続ける再帰的な幻想。
 - **unknown**: 世界それ自体を――紀元槍を浸食する紀元槍の端末。自己を参照し続ける再帰的な幻想。
 - **unknown**: 世界それ自体を――紀元槍を浸食する紀元槍の端末。自己を参照し続ける再帰的な幻想。

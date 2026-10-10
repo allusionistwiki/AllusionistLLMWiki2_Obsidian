@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_ヒュドラボルテージ
 type: entity
 subtype: item
 canonical_name: ヒュドラボルテージ
-title: "ヒュドラボルテージ"
+title: ヒュドラボルテージ
 first_appearance: ch0165
 spoiler_after: ch0165
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ヒュドラボルテージ
@@ -28,3 +29,20 @@ created: "2026-09-30"
 > 使ったが最後、持ち主の命を燃やし尽くしながら小型の 熱核融合炉となり、周囲の全てを焼き尽くす疑似太陽と化す――とかなんとか」（ch0165）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: デフォルメされた体型のマスコットキャラというか、ぬいぐるみもどきというか、なんとなく今のトリシューラと似ている。 全体的にニワトリっぽいが、オレンジの炎に包まれた翼ではばたくたびに火の粉が散っていて
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: ミルーニャこそメクセトの名を継ぐ真なる中原の覇王であると。
+- **unknown**: 彼の心臓部である『太陽核』と呼ばれるコアユニットが『リールエルバ』を名乗る魔女に盗まれ、最下層に隔離されてしまったから、だそうだ。
+- **unknown**: 「で、その元になったのが『氷血のコルセスカ』と『炎冠のヒュドラボルテージ』なわけ。コアちゃんが減速、ヒュドちゃんが加速ね」
+- **unknown**: 使ったが最後、持ち主の命を燃やし尽くしながら小型の 熱核融合炉となり、周囲の全てを焼き尽くす疑似太陽と化す――とかなんとか」
+
+<!-- /AUTO-GENERATED:speech -->

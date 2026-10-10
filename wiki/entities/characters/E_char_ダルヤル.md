@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ダルヤル
 type: entity
 subtype: character
 canonical_name: ダルヤル
-title: "ダルヤル"
+title: ダルヤル
 first_appearance: ch0224
 spoiler_after: ch0224
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ダルヤル
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > ダルヤル：ロードデンドロンの影武者。準英雄級の実力者。蛍火豹を使役。ナイト。（ch0232）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ダルヤル：ロードデンドロンの影武者。準英雄級の実力者。蛍火豹を使役。ナイト。
+
+<!-- /AUTO-GENERATED:name -->

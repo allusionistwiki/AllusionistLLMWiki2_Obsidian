@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_org_ネオジェネシス
+type: entity
+title: ネオジェネシス
+subtype: organization
+canonical_name: ネオジェネシス
+aliases: []
+first_appearance: ch0221
+spoiler_after: ch0221
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# ネオジェネシス
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 魂と運気をチップにする違法儀式『妖精博打』で本選出場予定の黒衣戦略レーサーが圧勝し、紀神アエルガ＝ミクニーを降臨させよしょうたいふめいうとしていた『ネオジェネシス』を名乗るカード賭博集団が事故死。
+
+<!-- /AUTO-GENERATED:action -->

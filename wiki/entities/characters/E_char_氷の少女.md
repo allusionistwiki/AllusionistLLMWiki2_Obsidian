@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_氷の少女
 type: entity
 subtype: character
 canonical_name: 氷の少女
-title: "氷の少女"
+title: 氷の少女
 first_appearance: ch0107
 spoiler_after: ch0107
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 氷の少女
@@ -28,3 +29,19 @@ created: "2026-09-30"
 > 「氷血呪の完全解放――その演技。これで世界は終焉を迎え、この劇は強制的に終幕を迎える。」（ch0107）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「同じ英雄でも、あの男とは大違い。本当に優しい子なのね。」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「隠者ウォレス＝グレンデルヒ！ 王と対になる存在として、その役割を果たして貰うっ！ 富める王と貧しき乞食よ、入れ替われっ！」
+- **unknown**: 少女の氷の腹を突き破って、手刀の形を作った右腕が髪の毛を切断していく。
+- **unknown**: 「氷血呪の完全解放――その演技。これで世界は終焉を迎え、この劇は強制的に終幕を迎える。」
+
+<!-- /AUTO-GENERATED:action -->

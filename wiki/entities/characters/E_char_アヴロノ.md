@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アヴロノ
 type: entity
 subtype: character
 canonical_name: アヴロノ
-title: "アヴロノ"
+title: アヴロノ
 first_appearance: ch0048
 spoiler_after: ch0048
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アヴロノ
@@ -28,3 +29,11 @@ created: "2026-09-30"
 > 関わっているのは十中八九、ネビロン氏族のアヴロノたちだろう。（ch0221）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: アヴロノの蜂型魔弾による制圧射撃が敵集団の移動を妨げ、地上側についたティリビナ人たちがマナタル勇者戦団の説得を試みる。
+- **unknown**: 同時に黒肌のアヴロノたちが一斉に呪術を発動、頭上から降り注ぐ流れ星の豪雨。
+
+<!-- /AUTO-GENERATED:action -->

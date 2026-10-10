@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_理知的な少女
 type: entity
 subtype: character
 canonical_name: 理知的な少女
-title: "理知的な少女"
+title: 理知的な少女
 first_appearance: ch0169
 spoiler_after: ch0169
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 理知的な少女
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「下らないお遊びになど付き合っていられるか。希望は外にこそある。私はたとえひとりでも脱出するぞ」（ch0169）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 危険だと周囲が止めるのも聞かずにそう言った理知的な少女は、後に身体の内側から爆破されてバラバラになっているところを発見された。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「下らないお遊びになど付き合っていられるか。希望は外にこそある。私はたとえひとりでも脱出するぞ」
+
+<!-- /AUTO-GENERATED:speech -->

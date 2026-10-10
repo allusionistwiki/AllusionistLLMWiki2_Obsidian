@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_マレブランケ
 type: entity
 subtype: terminology
 canonical_name: マレブランケ
-title: "マレブランケ"
+title: マレブランケ
 first_appearance: ch0122
 spoiler_after: ch0122
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # マレブランケ
@@ -27,3 +28,10 @@ created: "2026-09-30"
 > 現在、マレブランケの空席はカニャッツォ、リビコッコ、ドラギニャッツォ、ルビカンテの四つ。（ch0231）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『マレブランケ』とは紀人都市における議会に相当する、専制君主トリシューラが選んだ紀人の意思決定機関なのだという。
+
+<!-- /AUTO-GENERATED:name -->

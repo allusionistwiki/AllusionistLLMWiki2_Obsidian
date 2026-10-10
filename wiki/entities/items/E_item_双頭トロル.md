@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_双頭トロル
 type: entity
 subtype: item
 canonical_name: 双頭トロル
-title: "双頭トロル"
+title: 双頭トロル
 first_appearance: ch0202
 spoiler_after: ch0202
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 双頭トロル
@@ -25,3 +26,18 @@ created: "2026-09-30"
 > 圧縮された神話の奔流は容易く剣を打ち砕き、真下にいたクレイごと大地を陥没させた。（ch0202）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: もう一人はひと目でそれとわかる岩肌種だった。ごつごつとしたトロル
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 蔑むような一瞥が空間を薙ぎ払った。双頭トロルの目がかっと輝いたかと思うと、その視線上に存在したあらゆるものが動きを停止させ、灰色の物言わぬ石像と化していく。石化の邪視だ、それも極めて強力な。
+- **unknown**: 双頭トロルが地の底から呼び出した使い魔が大地を鳴動させ、腕の一振りで『公社』のビルが粉砕される。
+
+<!-- /AUTO-GENERATED:action -->

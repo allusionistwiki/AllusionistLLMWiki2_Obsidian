@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_牢獄街
 type: entity
 subtype: terminology
 canonical_name: 牢獄街
-title: "牢獄街"
+title: 牢獄街
 first_appearance: ch0204
 spoiler_after: ch0204
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 牢獄街
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > むせかえるような『朱』の色彩。ユディーアは灰神の痕跡を精査することを諦めた。この一帯は朱の彩域が強い。（ch0204）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: むせかえるような『朱』の色彩。ユディーアは灰神の痕跡を精査することを諦めた。この一帯は朱の彩域が強い。
+
+<!-- /AUTO-GENERATED:visual -->

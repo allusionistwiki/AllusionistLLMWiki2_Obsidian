@@ -1,6 +1,6 @@
 ---
-title: "サリア"
-schema_version: "5.1"
+title: サリア
+schema_version: '5.1'
 id: E_term_サリア
 type: entity
 subtype: terminology
@@ -9,7 +9,8 @@ first_appearance: ch0051
 spoiler_after: ch0051
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # サリア
@@ -28,3 +29,10 @@ created: "2026-09-30"
 > スーリウムが支配する薔薇と操り人形が、全く別のティリビナ人、時にはアヴロノに上書きされていくのだ。（ch0205）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ひとりの女が逆手に握った双剣で黒薔薇に斬りかかる。
+
+<!-- /AUTO-GENERATED:action -->

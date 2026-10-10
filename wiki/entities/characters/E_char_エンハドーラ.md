@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_エンハドーラ
 type: entity
 subtype: character
 canonical_name: エンハドーラ
-title: "エンハドーラ"
+title: エンハドーラ
 first_appearance: ch0235
 spoiler_after: ch0235
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # エンハドーラ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > ミブリナの弟が拓いたクァヒートの雲土からエンハドーラという傑物が生まれることになったのは喜ばしいことだ。（ch0265）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ミブリナの弟が拓いたクァヒートの雲土からエンハドーラという傑物が生まれることになったのは喜ばしいことだ。
+
+<!-- /AUTO-GENERATED:action -->

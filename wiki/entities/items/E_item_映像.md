@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_映像
 type: entity
 subtype: item
 canonical_name: 映像
-title: "映像"
+title: 映像
 first_appearance: ch0175
 spoiler_after: ch0175
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 映像
@@ -26,3 +27,13 @@ created: "2026-09-30"
 > 頑迷な海の民による児童割礼、死や重大事故の危険性がある成人儀式、宗派や民族間での血腥い争いが陰惨さを強調されながら映し出される。（ch0186）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 荒廃した都市部。砂埃を巻き上げて突き進む装甲車。杖を担いだ歩兵たちが悲壮な表情で戦場と化した街で呪術戦闘を繰り広げる。
+- **unknown**: 真っ暗な画面に大写しとなる『そこに未来はありますか』の文字。
+- **unknown**: 頑迷な海の民による児童割礼、死や重大事故の危険性がある成人儀式、宗派や民族間での血腥い争いが陰惨さを強調されながら映し出される。
+- **unknown**: 映像の中で、交互に映し出されていくのはパイプを咥えた煙出し人形と、華やかで溌剌とした印象の少女。片方はアマランサス陣営、片方はトリシューラ陣営に所属し、今まさに激突しようとしているアイドルたちのひとり。
+
+<!-- /AUTO-GENERATED:visual -->

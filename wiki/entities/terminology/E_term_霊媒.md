@@ -1,5 +1,5 @@
 ---
-title: "霊媒"
+title: 霊媒
 schema_version: '5.1'
 id: E_term_霊媒
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0057
 spoiler_after: ch0057
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 霊媒
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 霊媒は自らの身に超越的存在――神や霊といった不確かな『何か』を降ろし、その言葉を『代弁』する。
 - **unknown**: 霊媒は自らの身に超越的存在――神や霊といった不確かな『何か』を降ろし、その言葉を『代弁』する。
 - **unknown**: 霊媒は自らの身に超越的存在――神や霊といった不確かな『何か』を降ろし、その言葉を『代弁』する。
 - **unknown**: 霊媒は自らの身に超越的存在――神や霊といった不確かな『何か』を降ろし、その言葉を『代弁』する。

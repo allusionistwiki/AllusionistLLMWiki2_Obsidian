@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_先輩
 type: entity
 subtype: character
 canonical_name: 先輩
-title: "先輩"
+title: 先輩
 first_appearance: ch0190
 spoiler_after: ch0190
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 先輩
@@ -34,3 +35,11 @@ created: "2026-09-30"
 - [[E_char_レイ|レイ]] — 思い出す(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「まだ信じられません、先輩。俺が実の父を殺し、母を陵辱するようなあさましい怪物になってしまうだなんて」
+- **unknown**: なにもわからない少年に、飼育委員で占い研究会でトップアイドルという謎めいた盲目の先輩は教えてくれた。死の女王島、その中に建てられた秘密の学院。そこには世界の忘れ物が隠されていると。
+
+<!-- /AUTO-GENERATED:speech -->

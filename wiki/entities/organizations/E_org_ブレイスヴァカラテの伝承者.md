@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_org_ブレイスヴァカラテの伝承者
+type: entity
+title: ブレイスヴァカラテの伝承者
+subtype: organization
+canonical_name: ブレイスヴァカラテの伝承者
+aliases: []
+first_appearance: ch0147
+spoiler_after: ch0147
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# ブレイスヴァカラテの伝承者
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 彼らは『サイバーカラテ道場』にアーカイブされた古流武術――ブレイスヴァカラテの伝承者たち。六王たちが第五階層を争乱の渦に巻き込んで以来、破竹の勢いでランキングを駆け上がっている手練れたちだった。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_首長亜竜
 type: entity
 subtype: terminology
 canonical_name: 首長亜竜
-title: "首長亜竜"
+title: 首長亜竜
 first_appearance: ch0242
 spoiler_after: ch0242
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 首長亜竜
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 首の長い亜竜たちが大きく息を吸い込み、すぼめた口を前に突きだす。 吐き出された息は破壊そのものだ。濁流の如き大河の氾濫が世界を砕く。 波濤の吐息。抵抗を許さぬ膨大な質量が周囲を薙ぎ払った。（ch0242）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: それは現代に蘇った古代亜竜の一種だ。首長亜竜。遊泳用の平たいヒレを大きく動かし、円錐形の胴体から伸びた尾を優美にくねらせて水中を駆ける水棲の亜竜である。
+- **unknown**: ひとつは巨大さ。 数の少ない水棲亜竜の騎士団員たちは、いずれも見上げるような巨体である。 大きさとは強さだ。首長亜竜はただ存在しているだけで周囲を威圧し、その重みであらゆるものを捻じ伏せることができた。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 首の長い亜竜たちが大きく息を吸い込み、すぼめた口を前に突きだす。 吐き出された息は破壊そのものだ。濁流の如き大河の氾濫が世界を砕く。 波濤の吐息。抵抗を許さぬ膨大な質量が周囲を薙ぎ払った。
+
+<!-- /AUTO-GENERATED:action -->

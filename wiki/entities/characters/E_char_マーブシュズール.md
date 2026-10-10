@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_マーブシュズール
 type: entity
 subtype: character
 canonical_name: マーブシュズール
-title: "マーブシュズール"
+title: マーブシュズール
 first_appearance: ch0167
 spoiler_after: ch0167
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # マーブシュズール
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > その言語支配者は捧げられた夢を参照し、夢すら見ないほど冷たく眠った自らの信徒たちに『夢見人』としての代わりの人生を与える。（ch0167）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 最古の夢占い師にして言語支配者がひとり、マーブシュズール。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: その言語支配者は捧げられた夢を参照し、夢すら見ないほど冷たく眠った自らの信徒たちに『夢見人』としての代わりの人生を与える。
+
+<!-- /AUTO-GENERATED:action -->

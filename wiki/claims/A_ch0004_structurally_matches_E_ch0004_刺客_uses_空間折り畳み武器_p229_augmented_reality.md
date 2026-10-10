@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0004_structurally_matches_E_ch0004_刺客_uses_空間折り畳み武器_p229_augmented_reality
 title: 拡張現実的な空間折り畳み武器
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_刺客_uses_空間折り畳み武器_p229]]"

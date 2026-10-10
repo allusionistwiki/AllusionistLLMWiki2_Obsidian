@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0082_analogous_to_E_ch0082_女性_uses_女の勘_p3008_認知バイアス・自己成就予言
 title: 女の勘による認知バイアスと自己成就予言
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_女性_uses_女の勘_p3008]]"

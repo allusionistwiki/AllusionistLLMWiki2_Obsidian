@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_機械天使
 type: entity
 subtype: item
 canonical_name: 機械天使
-title: "機械天使"
+title: 機械天使
 first_appearance: ch0119
 spoiler_after: ch0119
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 機械天使
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 第一の天使アーウィソーラは血液嗜好症を、第二の天使カウァエールは手淫性愛を、第三の天使ミシェムドーガは寝取られ趣味を、第四の天使アバトは屍体性愛を、第五の天使オルクパレルは獣姦を、第六の天使パールガレーデは人形愛を、第七の天使クレーグレンは（ch0119）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 第一の天使アーウィソーラは血液嗜好症を、第二の天使カウァエールは手淫性愛を、第三の天使ミシェムドーガは寝取られ趣味を、第四の天使アバトは屍体性愛を、第五の天使オルクパレルは獣姦を、第六の天使パールガレーデは人形愛を、第七の天使クレーグレンは幼児行動性愛をそれぞれ司ると言われており、機械天使たちはそれオートネピオフィリアを体現した奇怪な姿をしていた。
+
+<!-- /AUTO-GENERATED:visual -->

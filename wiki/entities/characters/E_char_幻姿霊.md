@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_幻姿霊
 type: entity
 subtype: character
 canonical_name: 幻姿霊
-title: "幻姿霊"
+title: 幻姿霊
 first_appearance: ch0096
 spoiler_after: ch0096
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 幻姿霊
@@ -28,3 +29,20 @@ created: "2026-09-30"
 > 粘つくような操り糸。それが影に触れようとした瞬間。より巨大な青い奔流が影から溢れ出し、か細い糸を飲み込んでしまう。（ch0122）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 瞬間、黒い布の中央を突き抜けて何かが飛び出し、男の鳩尾に叩き込まれた。その場の誰も、一切の予備動作を感知できなかった。鋭い槍を思わせる貫手。
+- **unknown**: それらが倒れて呻く男たちの目の中に侵入し、脳の中を探っていく。絶叫が、夜の闇に谺した。
+- **unknown**: 粘つくような操り糸。それが影に触れようとした瞬間。より巨大な青い奔流が影から溢れ出し、か細い糸を飲み込んでしまう。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「やはりここにいたか、カーイン」フードの内側で、鋭く端整な顔が歪む。それは怒りか悲しみか。「何故、ジャッフハリムを裏切った――」
+- **unknown**: 「誰も彼もが、私を置いていく。なあ、パーンよ。私はいつまで待てばいい？」
+
+<!-- /AUTO-GENERATED:speech -->

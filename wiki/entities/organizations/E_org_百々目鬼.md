@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_百々目鬼
 type: entity
 subtype: organization
 canonical_name: 百々目鬼
-title: "百々目鬼"
+title: 百々目鬼
 first_appearance: ch0155
 spoiler_after: ch0155
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 百々目鬼
@@ -27,3 +28,19 @@ created: "2026-09-30"
 > 『鎌鼬』は『百々目鬼』の共用チャットでサイバーカラテ談義に花を咲かせていた。（ch0156）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『百々目鬼』たちはワルシューラ経由で虹犬と視界を共有しながらカーインの正体を分析し続ける。
+- **unknown**: 命令に従って、呪術医院に運び込まれて拘束されていた『鎌鼬』が起き上がり、『件』が目を覚ます。
+- **unknown**: 自警団の本部は大混乱に陥っていた。主立った言語魔術師たちが軒並み廃人と化している。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『鎌鼬』は『百々目鬼』の共用チャットでサイバーカラテ談義に花を咲かせていた。
+
+<!-- /AUTO-GENERATED:speech -->

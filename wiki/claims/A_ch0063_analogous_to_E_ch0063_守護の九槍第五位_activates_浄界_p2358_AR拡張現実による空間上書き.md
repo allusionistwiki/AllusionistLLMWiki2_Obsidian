@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0063_analogous_to_E_ch0063_守護の九槍第五位_activates_浄界_p2358_AR拡張現実による空間上書き
 title: ARによる上書きへの転生
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_守護の九槍第五位_activates_浄界_p2358]]"

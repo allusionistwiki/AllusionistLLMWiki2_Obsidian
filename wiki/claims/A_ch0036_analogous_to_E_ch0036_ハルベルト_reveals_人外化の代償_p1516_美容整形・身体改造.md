@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0036_analogous_to_E_ch0036_ハルベルト_reveals_人外化の代償_p1516_美容整形・身体改造
 title: 美容整形・身体改造の比喩
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_ハルベルト_reveals_人外化の代償_p1516]]"

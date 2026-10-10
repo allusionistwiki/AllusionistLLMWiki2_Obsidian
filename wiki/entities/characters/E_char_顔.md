@@ -1,0 +1,31 @@
+---
+schema_version: '5.1'
+id: E_char_顔
+type: entity
+title: 顔
+subtype: character
+canonical_name: 顔
+aliases: []
+first_appearance: ch0248
+spoiler_after: ch0248
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 顔
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その疑念に応じるかのように、ユディーアを拘束する文字列の鎖から二つの顔がにょきにょきと生えてくる。涙を流す男と喜色満面の男。両者共に、盗賊王とよく似た印象の顔つきだった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ヒャッハー！ 喜べ女！ テメエは戻ってきたのさ！ 俺たちフルグント六柱、群体紀人の懐になあ！ 俺たち『シェロンの弟子』はこれまで代替メンバーでフルグントを回してきたが、テメエは正規メンバー！ 大歓迎だ畜生め！ 俺たちはお役御免だな！」
+
+<!-- /AUTO-GENERATED:speech -->

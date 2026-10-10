@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0016_structurally_matches_E_ch0016_セージ_takes_少女の肉体_p734_サイボーグ_身体拡張
 title: サイボーグ身体拡張への呪術的転生
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0016_セージ_takes_少女の肉体_p734]]"

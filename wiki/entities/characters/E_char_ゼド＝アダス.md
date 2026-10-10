@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ゼド＝アダス
 type: entity
 subtype: character
 canonical_name: ゼド＝アダス
-title: "ゼド＝アダス"
+title: ゼド＝アダス
 first_appearance: ch0247
 spoiler_after: ch0247
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ゼド＝アダス
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 鷲獅子は仇敵が器を見出した事実に反応して現れた。ちょうどいい位置にいた依り代に宿ったシナモリアキラ＝チリアットは戦意を燃やしている。（ch0247）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 入り込んでいたのは別のもう一柱。それは盗賊王の呼び名で知られる高名な探索者であると同時に、ガロアンディアンでは最高額の賞金首として知られる紀人の敵対者。ゼド＝アダス。あらゆる異能を盗み、全ての価値を貶め、欲望に溺れる財の強奪者。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「さあ降りてこいアキラ。今度の遊びは前よりもっと楽しいぞ！　お前の大切な価値、尊い記憶と共にあるアズーリアとはまだ再会できていないよなあ？！　本番前にそのお友達が俺に奪われてしまったぞ！　さあどうするどうする？！」
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,5 +1,5 @@
 ---
-title: "邪眼"
+title: 邪眼
 schema_version: '5.1'
 id: E_item_邪眼
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0008
 spoiler_after: ch0008
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 邪眼
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 扁平に広がった目玉は門、あるいは扉としての役割を果たしていたのか。
 - **unknown**: 扁平に広がった目玉は門、あるいは扉としての役割を果たしていたのか。
 - **unknown**: 扁平に広がった目玉は門、あるいは扉としての役割を果たしていたのか。
 - **unknown**: 扁平に広がった目玉は門、あるいは扉としての役割を果たしていたのか。

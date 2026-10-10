@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_世界槍_p1926_simulation_hypothesis
 title: シミュレーション仮説との一致
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_世界槍_p1926]]"

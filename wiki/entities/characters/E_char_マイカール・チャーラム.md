@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_マイカール・チャーラム
 type: entity
 subtype: character
 canonical_name: マイカール・チャーラム
-title: "マイカール・チャーラム"
+title: マイカール・チャーラム
 first_appearance: ch0154
 spoiler_after: ch0154
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # マイカール・チャーラム
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 「先生、私は間違っていたのでしょうか」「うーん。そうだね。あなたはどう考えてるのかな？」（ch0154）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 『マイカール・チャーラム』はおおむねこのような凡庸な男だった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「先生、私は間違っていたのでしょうか」「うーん。そうだね。あなたはどう考えてるのかな？」
+
+<!-- /AUTO-GENERATED:speech -->

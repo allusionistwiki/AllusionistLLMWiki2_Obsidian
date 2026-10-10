@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_炎天使
 type: entity
 subtype: character
 canonical_name: 炎天使
-title: "炎天使"
+title: 炎天使
 first_appearance: ch0142
 spoiler_after: ch0142
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 炎天使
@@ -28,3 +29,10 @@ created: "2026-09-30"
 > 追い抜かれまいと対抗しようとしたダウザールは、そこで目を見開く。 嘲笑と同時にふたたびトップに躍り出るパーン。 老人は愕然とした表情で己の肩を見ていた。 そこには、パーンと同じように小さな炎天使がしがみついている。 ミナの化身はまだジュティ（ch0237）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: デフォルメされた二頭身の人形。古代の貫頭衣に燃え盛る翼。 クリーナーの箒とファーガストの使い魔に、炎天使がへばりついている。 ミナの呪術によって既に選手たちに憑依していたそれらは、不安定な明滅を繰り返しながらも何らかの条件によってその姿を明瞭に現わして奇妙な告知を繰り返す。
+
+<!-- /AUTO-GENERATED:visual -->

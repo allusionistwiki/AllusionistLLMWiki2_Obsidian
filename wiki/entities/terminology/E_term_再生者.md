@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_再生者
 type: entity
 subtype: terminology
 canonical_name: 再生者
-title: "再生者"
+title: 再生者
 first_appearance: ch0061
 spoiler_after: ch0061
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 再生者
@@ -27,3 +28,25 @@ created: "2026-09-30"
 > かなり荒っぽいプレイで怪我をしても、既に死んでいる再生者は平然としている。肉体の力を常に限界まで発揮させることができる再生者の運動量は明らかに生者たちを上回っていた。（ch0137）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 人々はその子供たちを呪いを込めて【再生者】と呼んだ。 オルクス その赤子たちは、新しく生まれた命ではなく、過去に死んでいった人々が甦った存在であったからだ。
+- **unknown**: 再生者というのは確か前時代に存在した、一度死んでから復活した眷族種の名前だ。その性質上、生前の種族が存在する二重の眷族種。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 竜王国とラフディの軍勢を構成しているのは古代から甦った再生者たちであるため、ほぼ無尽蔵の体力を持つ。が、肉体が完全に損壊してしまえばしばらく戦線復帰はできない。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: かなり荒っぽいプレイで怪我をしても、既に死んでいる再生者は平然としている。肉体の力を常に限界まで発揮させることができる再生者の運動量は明らかに生者たちを上回っていた。
+
+<!-- /AUTO-GENERATED:visual -->

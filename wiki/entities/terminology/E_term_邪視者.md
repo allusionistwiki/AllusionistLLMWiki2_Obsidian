@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_邪視者
 type: entity
 subtype: terminology
 canonical_name: 邪視者
-title: "邪視者"
+title: 邪視者
 first_appearance: ch0044
 spoiler_after: ch0044
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 邪視者
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > ゆえに小鬼に堕ちることを望まない邪視者は他者に己の傲慢を承認させようとする。必要なのは他者との調和、妥協、あるいは協力の強制、それとわからぬような洗脳、誘導。人を惹きつけ納得させる程の強烈なカリスマ。魅力を持つ者、すなわち邪視者。ファシネイ（ch0184）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 邪視者は最速で呪術を発動させる。詠唱が必要であるため最も呪術の発動が遅い呪文使いの天敵とも言われる。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ゆえに小鬼に堕ちることを望まない邪視者は他者に己の傲慢を承認させようとする。必要なのは他者との調和、妥協、あるいは協力の強制、それとわからぬような洗脳、誘導。人を惹きつけ納得させる程の強烈なカリスマ。魅力を持つ者、すなわち邪視者。ファシネイター
+
+<!-- /AUTO-GENERATED:name -->

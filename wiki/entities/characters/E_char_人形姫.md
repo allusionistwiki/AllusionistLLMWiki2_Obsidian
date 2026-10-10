@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_人形姫
 type: entity
 subtype: character
 canonical_name: 人形姫
-title: "人形姫"
+title: 人形姫
 first_appearance: ch0169
 spoiler_after: ch0169
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 人形姫
@@ -26,3 +27,26 @@ created: "2026-09-30"
 > 「落ち着いて。息を吸って、吐いて、隣の子のぜんまいを回してあげなさい」（ch0169）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「よくできました。そうね、ここはずっと明るい夕べの楽園。瞳に浮かべた想像を、せいいっぱいに羽ばたかせ、どこまでだって飛んでいい。どこでもいつでも、大人には内緒のおもちゃ箱よ」
+- **unknown**: 「わからない？ その色の付いた玻璃の瞳でよく見てごらんなさい」
+- **unknown**: 「落ち着いて。息を吸って、吐いて、隣の子のぜんまいを回してあげなさい」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 鈴の付いた杖を持ち、姫君は人形を率いていく。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 小人たちに請われるままに、美しいお姫様は昔語りを歌い出す。 流れるように、奏でるように。 沢山の歌声と共に古い世界を演じ始める。
+
+<!-- /AUTO-GENERATED:action -->

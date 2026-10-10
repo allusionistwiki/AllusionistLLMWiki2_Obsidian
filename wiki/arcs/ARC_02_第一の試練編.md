@@ -1,5 +1,5 @@
 ---
-title: "第一の試練編"
+title: 第一の試練編
 schema_version: '5.1'
 id: ARC_02_第一の試練編
 type: arc
@@ -11,7 +11,7 @@ chapter_range:
 theme: 試練と成長
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-01'
+updated: '2026-10-10'
 ---
 # 第一の試練編
 
@@ -58,6 +58,21 @@ updated: '2026-10-01'
 - [[O_ch0083_summary]]
 - [[O_ch0084_summary]]
 - [[O_ch0085_summary]]
+- [[O_ch0086_summary]]
+- [[O_ch0087_summary]]
+- [[O_ch0088_summary]]
+- [[O_ch0089_summary]]
+- [[O_ch0090_summary]]
+- [[O_ch0091_summary]]
+- [[O_ch0092_summary]]
+- [[O_ch0093_summary]]
+- [[O_ch0094_summary]]
+- [[O_ch0095_summary]]
+- [[O_ch0096_summary]]
+- [[O_ch0097_summary]]
+- [[O_ch0098_summary]]
+- [[O_ch0099_summary]]
+- [[O_ch0100_summary]]
 
 <!-- /AUTO-GENERATED:episodes -->
 <!-- AUTO-GENERATED:mysteries -->

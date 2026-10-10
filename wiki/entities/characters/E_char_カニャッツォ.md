@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_カニャッツォ
 type: entity
 subtype: character
 canonical_name: カニャッツォ
-title: "カニャッツォ"
+title: カニャッツォ
 first_appearance: ch0089
 spoiler_after: ch0089
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カニャッツォ
@@ -28,3 +29,37 @@ created: "2026-09-30"
 > 無慈悲な脳天砕きによってカニャッツォはどうと倒れ、かりそめ のリングが夢のように消えていく。（ch0090）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 彼の容貌は、ブルドッグの頭部を持った獣人、という言葉で簡単に形容できる。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 暗転する視界に半透明のアストラル体が映っていた。『天眼』の超知覚をすり抜けるほど希薄な、それでも呪詛を叩きつけることができる疑似霊体。 『カニャッツォ』と名乗ったシナモリアキラだ。 亜竜に潰されて死亡したあと、この男は自動的に再起動していた。
+- **unknown**: 狆くしゃは昨今の男性性を増大させる風潮の影響を受けて看護師へカニャッツォのセクハラで謹慎処分を受けるという不祥事まで起こしている。
+- **unknown**: 「おらあああああ！」
+- **unknown**: 同時にカニャッツォが爆発四散して即死。無惨な死に様に誰もが目を覆いそうになるが、直後。「ふっかあぁぁぁつ！」
+- **unknown**: 「いやあ、負けた負けた。カーインの奴、まぁた強くなりやがったな。追いつけるのはいつになることやら」
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「こ、この度は、私の不適切な発言で大変なご迷惑を――」
+- **unknown**: 「『安産型』という発言の意図につきましては、相手方を中傷するような意図があったわけではなく、あくまでも褒め言葉として使用したものです。
+- **unknown**: 「実は、俺がトリシューラの姐さんに紹介したんだよ。ジャッフハリムにいた頃にちょっとした縁があってな。まあ見てな、かなり使える奴だからよ」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: カニャッツォ：空席。前任者は『安産型スキャンダル』で炎上したプーハニア。
+
+<!-- /AUTO-GENERATED:name -->

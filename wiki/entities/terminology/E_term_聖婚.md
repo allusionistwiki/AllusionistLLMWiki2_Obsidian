@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_聖婚
 type: entity
 subtype: terminology
 canonical_name: 聖婚
-title: "聖婚"
+title: 聖婚
 first_appearance: ch0095
 spoiler_after: ch0095
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 聖婚
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 呪術的、祭祀上の手続きとして王と王妃がレルプレア神の名の下に聖婚する。　その行為はティリビナ人たちの心をまとめ上げ、ロードデンドロンに絶大なカリスマを付与することになる。（ch0220）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: その名を、『聖婚』と言う。 ハザーリャの大いなる神体と聖婚を行う女王クレナリーザは、本来ならば神殿であり宮殿でもあるヒュールサスの中心で一身に尊敬を集めるはずだった。
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ロワスカーグ
 type: entity
 subtype: character
 canonical_name: ロワスカーグ
-title: "ロワスカーグ"
+title: ロワスカーグ
 first_appearance: ch0074
 spoiler_after: ch0074
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ロワスカーグ
@@ -27,3 +28,11 @@ created: "2026-09-30"
 > 「矛盾の竜、耳長き司書妖精たちの王、最も若く最も古き摂理の化身。理をここに示せ――第六紀竜・ロワスカーグ」（ch0158）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: パーンの右腕は大顎を開いて標的に食らいつき、喉奥から熱線を放って射線上の全てを焼き尽くした。
+- **unknown**: 矛盾竜ロワスカーグは、世界の歪みを発見すると、その習性に従って自動的にユネクティアだった混沌を捕まえて、一口に丸呑みした。
+
+<!-- /AUTO-GENERATED:action -->

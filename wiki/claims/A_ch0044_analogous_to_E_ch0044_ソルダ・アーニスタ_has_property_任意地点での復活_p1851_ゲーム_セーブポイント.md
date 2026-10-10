@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0044_analogous_to_E_ch0044_ソルダ・アーニスタ_has_property_任意地点での復活_p1851_ゲーム_セーブポイント
 title: セーブポイントへの帰還
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0044_ソルダ・アーニスタ_has_property_任意地点での復活_p1851]]"

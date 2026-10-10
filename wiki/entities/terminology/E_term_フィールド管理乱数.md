@@ -1,5 +1,5 @@
 ---
-title: "フィールド管理乱数"
+title: フィールド管理乱数
 schema_version: '5.1'
 id: E_term_フィールド管理乱数
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0040
 spoiler_after: ch0040
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # フィールド管理乱数
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: その時、フィールドを管理する乱数が強い向かい風を発生させた。
 - **unknown**: その時、フィールドを管理する乱数が強い向かい風を発生させた。
 - **unknown**: その時、フィールドを管理する乱数が強い向かい風を発生させた。
 - **unknown**: その時、フィールドを管理する乱数が強い向かい風を発生させた。

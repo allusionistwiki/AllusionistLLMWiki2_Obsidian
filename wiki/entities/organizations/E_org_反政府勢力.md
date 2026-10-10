@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_反政府勢力
 type: entity
 subtype: organization
 canonical_name: 反政府勢力
-title: "反政府勢力"
+title: 反政府勢力
 first_appearance: ch0148
 spoiler_after: ch0148
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 反政府勢力
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > クロウサー家はアルト・イヴニルから反政府勢力と名指しされている俺たちを支援すると公言しており、マスメディアに介入することで圧政を敷く独裁者に正義の戦いを挑むトリシューラ、というような宣伝を行ってくれているようだった。（ch0148）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その他、幹部集団マレブランケとシナモリアキラの名もしっかりと並んでいる。  とはいえ組織としての屋台骨は揺らいで瓦解寸前だ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ――そう、ガロアンディアンに抵抗する『反政府勢力』。  指名手配されている首謀者の名は、トリシューラ。
+
+<!-- /AUTO-GENERATED:name -->

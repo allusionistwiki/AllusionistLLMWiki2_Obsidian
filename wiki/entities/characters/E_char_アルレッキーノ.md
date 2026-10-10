@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アルレッキーノ
 type: entity
 subtype: character
 canonical_name: アルレッキーノ
-title: "アルレッキーノ"
+title: アルレッキーノ
 first_appearance: ch0151
 spoiler_after: ch0151
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アルレッキーノ
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > アルレッキーノ：英雄グレンデルヒ。パブリックドメイン。（ch0232）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「シナモリアキラにトリシューラ。貴様ら馬鹿だろう」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: アルレッキーノ：英雄グレンデルヒ。パブリックドメイン。
+
+<!-- /AUTO-GENERATED:name -->

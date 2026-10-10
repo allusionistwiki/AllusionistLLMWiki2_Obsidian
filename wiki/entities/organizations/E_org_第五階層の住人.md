@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_org_第五階層の住人
+type: entity
+title: 第五階層の住人
+subtype: organization
+canonical_name: 第五階層の住人
+aliases: []
+first_appearance: ch0141
+spoiler_after: ch0141
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 第五階層の住人
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 第五階層の住人たちは見境なしに暴れ、狂乱している。アレッテ・イヴニルの扇動によってガロアンディアンとラフディという二つの勢力は相争うように仕向けられたが、人が入り乱れる観客席でそんな区別など出来ている者はいない。
+
+<!-- /AUTO-GENERATED:action -->

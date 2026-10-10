@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0043_analogous_to_E_ch0043_ペイル_transforms_身体能力向上_p1828_臨死体験_PTSDの逆転
 title: 臨死体験とPTSD逆転
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ペイル_transforms_身体能力向上_p1828]]"

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_亜竜人
 type: entity
 subtype: character
 canonical_name: 亜竜人
-title: "亜竜人"
+title: 亜竜人
 first_appearance: ch0151
 spoiler_after: ch0151
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 亜竜人
@@ -28,3 +29,17 @@ created: "2026-09-30"
 > 亜竜人。分厚い鱗の鎧と鋭い鉤爪の剣で武装した生まれながらの戦士がそこにいた。（ch0200）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 横柄、粗暴、我侭、自分本位、他人を利用できる道具程度にしか思っていない、上手くいかないとすぐに怒鳴り散らし腕力に訴える――その他さまざまなトラブルを引き起こす問題児。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 男からはかつての巨大な呪力と威厳、そして身の内に溢れる自らの正義と信念といったものをすべて失っているように見えた。
+
+<!-- /AUTO-GENERATED:visual -->

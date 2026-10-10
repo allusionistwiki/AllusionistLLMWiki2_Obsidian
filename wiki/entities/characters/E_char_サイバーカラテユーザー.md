@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_サイバーカラテユーザー
 type: entity
 subtype: character
 canonical_name: サイバーカラテユーザー
-title: "サイバーカラテユーザー"
+title: サイバーカラテユーザー
 first_appearance: ch0089
 spoiler_after: ch0089
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # サイバーカラテユーザー
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > サイバーカラテユーザーたちの拳が、棒が、刃が、異獣を攻め立てる。 狂怖の歪な身体が吹き飛び、ティリビナ人の男性が殴り倒され、 ホラー 大地の民が囲まれて滅多打ちにされる。（ch0144）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「発勁用意！　ＮＯＫＯＴＴＡ！」　清澄な空気を、サイバーカラテユーザーたちの力強い発声が切り裂いていく。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: サイバーカラテユーザーたちの拳が、棒が、刃が、異獣を攻め立てる。 狂怖の歪な身体が吹き飛び、ティリビナ人の男性が殴り倒され、 ホラー 大地の民が囲まれて滅多打ちにされる。
+
+<!-- /AUTO-GENERATED:action -->

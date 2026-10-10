@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ガルラ
 type: entity
 subtype: character
 canonical_name: ガルラ
-title: "ガルラ"
+title: ガルラ
 first_appearance: ch0159
 spoiler_after: ch0159
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ガルラ
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「ぼくはガルラだよ！」少女人形の名乗りと共に、脇から飛び出すローブ姿の更に小さな人形。（ch0168）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ガルラと呼ばれた呪術師が放った絶大な呪力は無数の光線となって中空を走り、海の民たちを次々と殺戮していった。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ぼくはガルラだよ！」少女人形の名乗りと共に、脇から飛び出すローブ姿の更に小さな人形。
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_火蜂
 type: entity
 subtype: character
 canonical_name: 火蜂
-title: "火蜂"
+title: 火蜂
 first_appearance: ch0066
 spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 火蜂
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 蜂だ。鋭角な針と凶暴そうな体躯、それと奇妙に膨らんだ背中。 何だろう、これ？ ユディーアは眉根を寄せた。（ch0198）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 蜂だ。鋭角な針と凶暴そうな体躯、それと奇妙に膨らんだ背中。 何だろう、これ？ ユディーアは眉根を寄せた。
+
+<!-- /AUTO-GENERATED:action -->

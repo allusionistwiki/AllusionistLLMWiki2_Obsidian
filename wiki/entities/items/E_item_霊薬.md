@@ -1,6 +1,6 @@
 ---
-title: "霊薬"
-schema_version: "5.1"
+title: 霊薬
+schema_version: '5.1'
 id: E_item_霊薬
 type: entity
 subtype: item
@@ -9,7 +9,8 @@ first_appearance: ch0085
 spoiler_after: ch0085
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 霊薬
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 依存性が高く、特定の夢を見せることができるらしい。得られた証言はこうだ。『森の奥でママが待ってる』（ch0085）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: カプセル型の薬だった。三角錐の形で、脇に日本語の説明文が記されている。洒落にならない効用――そして、圧倒的な安価さだった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 依存性が高く、特定の夢を見せることができるらしい。得られた証言はこうだ。『森の奥でママが待ってる』
+
+<!-- /AUTO-GENERATED:speech -->

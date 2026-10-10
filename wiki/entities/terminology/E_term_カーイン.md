@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_カーイン
 type: entity
 subtype: terminology
 canonical_name: カーイン
-title: "カーイン"
+title: カーイン
 first_appearance: ch0078
 spoiler_after: ch0078
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カーイン
@@ -32,3 +33,33 @@ created: "2026-09-30"
 - [[A_ch0078_structurally_matches_E_ch0078_カーイン_has_property_情報的牽制_p2905_将棋の指し手による読み誘導|将棋の誘い手概念との一致]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 不意を突いた初撃、あの時点で既に囚われていた。　長い廊下、その光景に目を凝らす。　そこはどこまでも果てしなく続く永遠の閉鎖回廊。
+- **unknown**: 何かが改変された。あの瞬間、世界がはっきりと変容した。　確定したはずの未来を書き換えられた、そんな感覚。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 高密度の呪力によって構成された打撃が少女の肉体を砕き、そのまま崩壊させた。あまりにも呆気ない結末。まるで意趣返しのような。
+- **unknown**: 必殺であったはずの一撃は男の周囲に立ちこめていた瘴気でわずかに減速し、右腕によって真横に捌かれる。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 漆黒の肌、苦痛に歪んだ顔、その額から生えているのは二本の角だった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「自称ではない。私は誇り高き武人、ロウ・カーインだ」
+
+<!-- /AUTO-GENERATED:speech -->

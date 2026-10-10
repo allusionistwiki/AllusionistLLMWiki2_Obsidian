@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_ズタークスターク_says_誕生日の歌_p2413_31536000_seconds
 title: 一年の秒数による誕生日希少性の定義
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ズタークスターク_says_誕生日の歌_p2413]]"

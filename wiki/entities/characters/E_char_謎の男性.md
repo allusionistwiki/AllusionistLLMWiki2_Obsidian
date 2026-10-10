@@ -1,5 +1,5 @@
 ---
-title: "謎の男性"
+title: 謎の男性
 schema_version: '5.1'
 id: E_char_謎の男性
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0062
 spoiler_after: ch0062
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 謎の男性
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 見知らぬ長身の男性がカッサリオを攻撃してアキラの窮地を救ったり
 - **unknown**: 見知らぬ長身の男性がカッサリオを攻撃してアキラの窮地を救ったり
 - **unknown**: 見知らぬ長身の男性がカッサリオを攻撃してアキラの窮地を救ったり
 - **unknown**: 見知らぬ長身の男性がカッサリオを攻撃してアキラの窮地を救ったり

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_死の女王島
 type: entity
 subtype: terminology
 canonical_name: 死の女王島
-title: "死の女王島"
+title: 死の女王島
 first_appearance: ch0172
 spoiler_after: ch0172
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 死の女王島
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > この島そのものに囚われたまま大地と同化していくであろう――見よ、お前の足下を！（ch0172）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: そこは『死人の森の女王』がハザーリャ神を取り込んだ際に封印した幾つもの『内海』にぽつりと浮かんでいた
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: この島そのものに囚われたまま大地と同化していくであろう――見よ、お前の足下を！
+
+<!-- /AUTO-GENERATED:symbolic -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_ダウザール
 type: entity
 subtype: item
 canonical_name: ダウザール
-title: "ダウザール"
+title: ダウザール
 first_appearance: ch0255
 spoiler_after: ch0255
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ダウザール
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > ダウザールはその偉業を称えて愛馬チェダラーテの霊妙なる蹄鉄を贈った。（ch0262）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 古き空使いダウザールが『第一の死』を迎えたあと
+- **unknown**: ダウザールはその偉業を称えて愛馬チェダラーテの霊妙なる蹄鉄を贈った。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_メートリアン
 type: entity
 subtype: item
 canonical_name: メートリアン
-title: "メートリアン"
+title: メートリアン
 first_appearance: ch0259
 spoiler_after: ch0259
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # メートリアン
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > いいですかリーナ、あなたが積み上げてきたものを信じて！　箒は杖、飛ぶための道具は言葉！　意思だけで飛ぶなら、機甲箒ではなく書を箒にしなさい。死人の森の断章を預けます。（ch0267）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: いいですかリーナ、あなたが積み上げてきたものを信じて！　箒は杖、飛ぶための道具は言葉！　意思だけで飛ぶなら、機甲箒ではなく書を箒にしなさい。死人の森の断章を預けます。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,5 +1,5 @@
 ---
-title: "第十三魔将クエスドレム"
+title: 第十三魔将クエスドレム
 schema_version: '5.1'
 id: E_char_第十三魔将クエスドレム
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 第十三魔将クエスドレム
@@ -37,6 +37,8 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 第十三魔将、朱大公クエスドレム。地獄の王族。
+- **unknown**: 第十三魔将、朱大公クエスドレム。地獄の王族。
 - **unknown**: 第十三魔将、朱大公クエスドレム。地獄の王族。
 - **unknown**: 第十三魔将、朱大公クエスドレム。地獄の王族。
 - **unknown**: 第十三魔将、朱大公クエスドレム。地獄の王族。

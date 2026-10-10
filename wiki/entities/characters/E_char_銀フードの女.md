@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_銀フードの女
 type: entity
 subtype: character
 canonical_name: 銀フードの女
-title: "銀フードの女"
+title: 銀フードの女
 first_appearance: ch0223
 spoiler_after: ch0223
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 銀フードの女
@@ -27,3 +28,19 @@ created: "2026-09-30"
 > 「余計なお世話かもしれませんが、そういった軽薄な態度は相手によっては不快感を与えることがあります。場合に応じた使い分けが必要なこともあるかと」（ch0223）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 気配もなくユディーアの傍らに接近していた銀フードのティリビナ人女性が、人目につかない建物と建物の間へと先導する。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ところで綺麗な白神だね。白星都市で修行でもした？」 グリア クロウジャナス 「いえ、ザドーナです」
+- **unknown**: 「あの、念のため。これから紹介する人物は、非常に古いタイプの正統な騎士です。付け加えて言うなら、貴方の出自を非常に重要視しておられます」
+- **unknown**: 「余計なお世話かもしれませんが、そういった軽薄な態度は相手によっては不快感を与えることがあります。場合に応じた使い分けが必要なこともあるかと」
+
+<!-- /AUTO-GENERATED:speech -->

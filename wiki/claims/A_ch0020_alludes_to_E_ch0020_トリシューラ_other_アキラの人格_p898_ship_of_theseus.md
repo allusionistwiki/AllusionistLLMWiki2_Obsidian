@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0020_alludes_to_E_ch0020_トリシューラ_other_アキラの人格_p898_ship_of_theseus
 title: テセウスの船の暗喩
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_トリシューラ_other_アキラの人格_p898]]"

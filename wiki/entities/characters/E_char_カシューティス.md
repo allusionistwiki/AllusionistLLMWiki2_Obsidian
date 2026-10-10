@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_カシューティス
 type: entity
 subtype: character
 canonical_name: カシューティス
-title: "カシューティス"
+title: カシューティス
 first_appearance: ch0251
 spoiler_after: ch0251
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カシューティス
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 今この時より、私こそがミェス・リヴァ。華麗なる紀人スーリウム・ミェス・リーヴァリオンだ」（ch0253）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 雌伏の時は終わった　今こそリーヴァリオンの光を示す時　救世主の母たるクナータは我が手中にある　もはや来訪者も神の子も恐れるに値せず　翼を広げ、我らが神の威光を示せ　クロウサーどもの妄言、空使いなどという虚飾を葬り、新秩序を我が手に
+
+<!-- /AUTO-GENERATED:speech -->

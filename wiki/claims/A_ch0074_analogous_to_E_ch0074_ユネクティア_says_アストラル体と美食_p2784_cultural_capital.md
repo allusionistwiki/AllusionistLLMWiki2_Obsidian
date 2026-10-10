@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0074_analogous_to_E_ch0074_ユネクティア_says_アストラル体と美食_p2784_cultural_capital
 title: 食文化ミームとしての文化資本
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0074_ユネクティア_says_アストラル体と美食_p2784]]"

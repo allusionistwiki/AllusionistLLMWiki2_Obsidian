@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_敵集団
 type: entity
 subtype: character
 canonical_name: 敵集団
-title: "敵集団"
+title: 敵集団
 first_appearance: ch0035
 spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 敵集団
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0035_alludes_to_E_ch0035_哲学的ゾンビ_appears_敵集団_p1470_哲学的ゾンビ|哲学的ゾンビの迷宮具現化]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 温泉浄界の使い手に至ってはメートリアンの救出を阻止しており、彼女はアストラル体のまま温泉にぶくぶくと沈んでいた
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_でかちびシューラ
 type: entity
 subtype: item
 canonical_name: でかちびシューラ
-title: "でかちびシューラ"
+title: でかちびシューラ
 first_appearance: ch0214
 spoiler_after: ch0214
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # でかちびシューラ
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「というわけで、本選にはシード選手以外も参加できるんだ！　本日行われる予選レースを勝ち抜いた上位三名！　当日飛び入り大歓迎のこのレースを勝ち抜いて、異次元の箒レースに参加しちゃおう！（ch0214）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 第五階層の空に出現した巨大な二頭身、『でかちびシューラ』の立体幻像が口上を並べ立てるのをぼんやり眺めながら、ユディーアは感心していた。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「というわけで、本選にはシード選手以外も参加できるんだ！　本日行われる予選レースを勝ち抜いた上位三名！　当日飛び入り大歓迎のこのレースを勝ち抜いて、異次元の箒レースに参加しちゃおう！
+
+<!-- /AUTO-GENERATED:speech -->

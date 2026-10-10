@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ニゲラ
 type: entity
 subtype: character
 canonical_name: ニゲラ
-title: "ニゲラ"
+title: ニゲラ
 first_appearance: ch0210
 spoiler_after: ch0210
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ニゲラ
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > ニゲラ：元ボーステンタクス夜月騎士団の影槍士。鹿頭人身でアズの武術の師匠。（ch0232）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その寝台の上で苦しそうにうなされている二人の姿を見て、私は思わず息をのんだ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ニゲラ：元ボーステンタクス夜月騎士団の影槍士。鹿頭人身でアズの武術の師匠。
+
+<!-- /AUTO-GENERATED:name -->

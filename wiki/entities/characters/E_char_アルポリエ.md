@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アルポリエ
 type: entity
 subtype: character
 canonical_name: アルポリエ
-title: "アルポリエ"
+title: アルポリエ
 first_appearance: ch0251
 spoiler_after: ch0251
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アルポリエ
@@ -27,3 +28,25 @@ created: "2026-09-30"
 > あの日、私たちが遂に届かなかった世界を変革する力。それがとうとう見つかった。喜ばしいことに候補は二つ。どちらに転んでも北辺の秩序は新しい形へと生まれ変わることでしょう。（ch0251）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 愛しいセイグリンへ　この手紙が届く頃には情勢が変わっているかもしれないけれど、アストラルの海を介する危険を冒すことができない以上、いつものようにスティングに託します。長旅で疲れていると思うから、そちらに着いたら羽を撫でて、好物の雲肉を与えてあげてちょうだい。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 結局、あの占いが的中してしまったわね。いまや私が作り上げた十翼熾は完全に瓦解してしまった。支柱となるはずだったオベロンが賢天主に敗れ、皇帝陛下が瞳を閉じられた時点でこの流れは必然だったのかもしれない。
+- **unknown**: あの日、私たちが遂に届かなかった世界を変革する力。それがとうとう見つかった。喜ばしいことに候補は二つ。どちらに転んでも北辺の秩序は新しい形へと生まれ変わることでしょう。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 有翼氷河が北辺の上空を覆ったあの日、まだ少年だったあなたは信じられないくらい眩しくて、愚かで、可能性に満ちていた。無為に生き過ぎた私にもまだ光を直視することができるんだって、信じられない気持ちになったものだわ。
+
+<!-- /AUTO-GENERATED:relationship -->

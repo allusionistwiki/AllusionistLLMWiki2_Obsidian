@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0017_alludes_to_E_ch0017_コルセスカ_defines_ICE_p753_ice_acronym
 title: ICE（侵入対策）の呪術的再定義
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_コルセスカ_defines_ICE_p753]]"

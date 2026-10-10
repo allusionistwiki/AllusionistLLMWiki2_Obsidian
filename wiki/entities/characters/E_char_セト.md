@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_セト
 type: entity
 subtype: character
 canonical_name: セト
-title: "セト"
+title: セト
 first_appearance: ch0195
 spoiler_after: ch0195
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # セト
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > ただその在り方に見惚れただけだ。その美しさと醜さに惹かれただけだ。トリシューラとコルセスカに出会わず、第六階層に転生していたなら、きっとシナモリアキラはイェレイドに運命を感じていた。（ch0195）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: ただその在り方に見惚れただけだ。その美しさと醜さに惹かれただけだ。トリシューラとコルセスカに出会わず、第六階層に転生していたなら、きっとシナモリアキラはイェレイドに運命を感じていた。
+
+<!-- /AUTO-GENERATED:relationship -->

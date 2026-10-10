@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_外世界人
 type: entity
 subtype: terminology
 canonical_name: 外世界人
-title: "外世界人"
+title: 外世界人
 first_appearance: ch0002
 spoiler_after: ch0002
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 外世界人
@@ -26,3 +27,24 @@ created: "2026-09-30"
 > 実際であり虚であるもの。 仮想的な糸。 それらが自分たちの手足に絡みつくのを感じて、二人は即座に『了解』した。（ch0091）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 心温まる姉妹同士のやり取りから遠く離れて、ある【扉】の一つから、脂肪と筋肉、超杖技術が凝縮された怪物的な巨大質量が古代世界に落下していた。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 周囲は既に闇に包まれていた。 そこは夜の世界。 天頂に世界の出入り口たる穴――夜月が開いた、漆黒の底。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 実際であり虚であるもの。 仮想的な糸。 それらが自分たちの手足に絡みつくのを感じて、二人は即座に『了解』した。
+
+<!-- /AUTO-GENERATED:speech -->

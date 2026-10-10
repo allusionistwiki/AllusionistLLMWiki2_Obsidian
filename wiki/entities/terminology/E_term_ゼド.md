@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ゼド
 type: entity
 subtype: terminology
 canonical_name: ゼド
-title: "ゼド"
+title: ゼド
 first_appearance: ch0085
 spoiler_after: ch0085
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ゼド
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > ゼド＝アダスの狙いはシナモリアキラの『罪』の再演だ。それが呪術的な価値の獲得に繋がるのか盗賊王の個人的趣味かはともかく、ユディーアの身体を乗っ取ることで『介錯』を誘っているのはまず間違いない。（ch0248）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: ゼド＝アダスの狙いはシナモリアキラの『罪』の再演だ。それが呪術的な価値の獲得に繋がるのか盗賊王の個人的趣味かはともかく、ユディーアの身体を乗っ取ることで『介錯』を誘っているのはまず間違いない。
+
+<!-- /AUTO-GENERATED:speech -->

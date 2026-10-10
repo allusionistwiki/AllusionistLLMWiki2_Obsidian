@@ -1,6 +1,6 @@
 ---
-title: "ニセアキラ"
-schema_version: "5.1"
+title: ニセアキラ
+schema_version: '5.1'
 id: E_char_ニセアキラ
 type: entity
 subtype: character
@@ -9,7 +9,8 @@ first_appearance: ch0085
 spoiler_after: ch0085
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ニセアキラ
@@ -28,3 +29,19 @@ created: "2026-09-30"
 > 結果は全滅。仇には三倍の報いを受けさせるというのが連中の信条だが――奴らが受けたのは三倍どころじゃない。（ch0085）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 【三報会】が完全に潰された。文字通り、物理的に拠点ごと叩き潰されたって話だ。
+- **unknown**: サイバーカラテ特有の――『発勁用意』とかいう発声を耳にした者が何人もいる
+- **unknown**: 結果は全滅。仇には三倍の報いを受けさせるというのが連中の信条だが――奴らが受けたのは三倍どころじゃない。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 象なら俺の銃で狩れるんだがな――どうやらこいつはそれ以上の怪物だ。いつだったか、お前が『俺は一般人だ』とか馬鹿みたいなことをぬかして、異世界の超人の話をしただろう
+
+<!-- /AUTO-GENERATED:symbolic -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_王妃
 type: entity
 subtype: character
 canonical_name: 王妃
-title: "王妃"
+title: 王妃
 first_appearance: ch0099
 spoiler_after: ch0099
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 王妃
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 「まあ、ぼうやったら。自分がブレイスヴァと一つだということにもう気づいているのね。でも駄目よ、まだ何もかもが貪られる時ではないの。終わりに至るまで、ブレイスヴァの訪れを辛抱強く待つのですよ――しかしいま貪られるも待ち続けた果てに貪られるも同（ch0152）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「まあ、ぼうやったら。自分がブレイスヴァと一つだということにもう気づいているのね。でも駄目よ、まだ何もかもが貪られる時ではないの。終わりに至るまで、ブレイスヴァの訪れを辛抱強く待つのですよ――しかしいま貪られるも待ち続けた果てに貪られるも同じ！ 全てはブレイスヴァの中に！ おお、ぼうや、なんと良くブレイスヴァを恐れ、正しく理解している子なのかしら？！」
+
+<!-- /AUTO-GENERATED:speech -->

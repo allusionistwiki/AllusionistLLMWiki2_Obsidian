@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ガルラくん
 type: entity
 subtype: character
 canonical_name: ガルラくん
-title: "ガルラくん"
+title: ガルラくん
 first_appearance: ch0087
 spoiler_after: ch0087
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ガルラくん
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 朱色のローブを纏ったガルラくんの腹部が開くと、中には小さな箱庭。浄界『朱色廃園』の美しいお庭では自動機械の女の子が首のない夫や可愛い結合双生児ちゃんと暮らしているが色々あって最後には全員死ぬ。再演された悲劇の結婚が、現実の結婚に破綻を押し付（ch0194）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「レッテ、不用意な言動は慎んで。曲がりなりにもこれは言語支配者の遺産なんだからね」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 朱色のローブを纏ったガルラくんの腹部が開くと、中には小さな箱庭。浄界『朱色廃園』の美しいお庭では自動機械の女の子が首のない夫や可愛い結合双生児ちゃんと暮らしているが色々あって最後には全員死ぬ。再演された悲劇の結婚が、現実の結婚に破綻を押し付けた。
+
+<!-- /AUTO-GENERATED:action -->

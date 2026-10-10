@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ハチェット
 type: entity
 subtype: character
 canonical_name: ハチェット
-title: "ハチェット"
+title: ハチェット
 first_appearance: ch0212
 spoiler_after: ch0212
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ハチェット
@@ -28,3 +29,31 @@ created: "2026-09-30"
 > 傍らに浮かぶボーカルフェアリー・ハチェットが『歌姫』の声で歌い出す。（ch0229）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 金銀二色のツインテール、同パターンのオッドアイ、電飾で飾られたレトロフューチャーをイメージさせる衣装からほっそりとした手足が伸びた現実感に乏しい半妖精の少女。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「どちらも必要。私は、声なき歌を紡ぎたい」 その言葉は、大気を震わせることなく響いた。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 傍らに浮かぶボーカルフェアリー・ハチェットが『歌姫』の声で歌い出す。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ハチェット：ボーカルフェアリー。『歌姫Ｓｐｅａｒ』の声をサンプリングした仮想使い魔。
+
+<!-- /AUTO-GENERATED:name -->

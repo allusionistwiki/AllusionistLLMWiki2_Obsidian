@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ミブレル
 type: entity
 subtype: character
 canonical_name: ミブレル
-title: "ミブレル"
+title: ミブレル
 first_appearance: ch0058
 spoiler_after: ch0058
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ミブレル
@@ -35,3 +36,37 @@ created: "2026-09-30"
 - [[E_char_リーナ|リーナ]] — 関連（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 指導を直接担当している『妹分』が来ないことに気付かないなどということはあり得ないようにも思えるが、ミブレルはリーナの師だけあって割といいかげんな性格をしている。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『七つ風』の秘儀を、再びクロウサーに取り戻すために
+- **unknown**: 『塔』の中にはカネッサやカルルアルルアのように並行矛盾史を専門に扱う魔女もいますが、あれはとても危うい魔道です。
+- **unknown**: 『逆立ちしても無理』という前提から『逆立ち』の見立てによって現実を歪めようとするのは詐術として破綻が大きすぎる
+- **unknown**: 七つ風の中で個我を失わない、強い目的意識を定めなさい
+- **unknown**: あなたは天才ですよ。でなければ、私の『群雲』に意識流を親和させることさえできなかったでしょう。
+- **unknown**: 生まれつき自由な者は、本当に自由を知っていると言えるでしょうか？
+- **unknown**: 今よりミブリナと名乗りなさい、目的を持たぬ放浪者。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: この時、リーナの目の前に漂う雲は厳格な目をしたティドロソフのようであり
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 魔女ミブレルとして振る舞い、パーンを鍛え上げた。
+
+<!-- /AUTO-GENERATED:action -->

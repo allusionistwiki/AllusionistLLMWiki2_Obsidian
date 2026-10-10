@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ハジュラフィン
 type: entity
 subtype: character
 canonical_name: ハジュラフィン
-title: "ハジュラフィン"
+title: ハジュラフィン
 first_appearance: ch0189
 spoiler_after: ch0189
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ハジュラフィン
@@ -35,3 +36,20 @@ created: "2026-09-30"
 - [[E_char_ルウテト|ルウテト]] — 関連(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「この森が皇帝陛下の直轄領ね。ならばあのお方が不在の間、彼の右腕であるこのハジュラフィンがお預かりするのが道理というもの。帰還の日まで、この冬の美を凝縮させたような森は全部アタシのもの。たまんないわあ」
+- **unknown**: 「一応、形式上訊ねておくけど。劣化なき魂の継承、冥道の秘儀を教えてもらいにきたわ。もちろん、嫌なら力ずくで話してもらうけど、どうする？」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 蛇蝎将ハジュラフィンは蛇蝎王と名を改め、西方のいずこかにあるという秘境、『銀の森』に向かっていた。
+- **unknown**: 彼は長い蠍の尾を伸ばし、ルウテトの肉体を幾度と無く突き刺した。
+- **unknown**: そう言って致命傷を負った蛇蝎王はその場から逃げ去った。
+
+<!-- /AUTO-GENERATED:action -->

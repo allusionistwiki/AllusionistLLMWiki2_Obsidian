@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_猫科魔獣
 type: entity
 subtype: item
 canonical_name: 猫科魔獣
-title: "猫科魔獣"
+title: 猫科魔獣
 first_appearance: ch0222
 spoiler_after: ch0222
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 猫科魔獣
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 三階から落下してきた神像はちびニアだけではなく複数の獅子に取り囲まれてその動きを封じられていた。（ch0239）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 上空にオルゴーの滅びの呪文を構築して破壊活動を行おうとしたテロリストを獅子の炎が焼き尽くし、
+
+<!-- /AUTO-GENERATED:action -->

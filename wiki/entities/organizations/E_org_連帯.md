@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_連帯
 type: entity
 subtype: organization
 canonical_name: 連帯
-title: "連帯"
+title: 連帯
 first_appearance: ch0053
 spoiler_after: ch0053
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 連帯
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0053_analogous_to_E_ch0053_連帯_defines_攻略速度の決定_p2065_cartel_and_market_manipulation|カルテル・市場操作の構造一致]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「槍神教と巨大企業群、そして各国を束ねる【連帯】は談合によって攻略速度を決定している。利益を最大化し、三者の間で分配する為にね。
+
+<!-- /AUTO-GENERATED:action -->

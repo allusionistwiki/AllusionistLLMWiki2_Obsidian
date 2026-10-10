@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_花獣ビテロ
 type: entity
 subtype: character
 canonical_name: 花獣ビテロ
-title: "花獣ビテロ"
+title: 花獣ビテロ
 first_appearance: ch0208
 spoiler_after: ch0208
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 花獣ビテロ
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > 背の花が大きく開いたかと思うと、その中心からまばゆい光が放たれる。発光するエネルギー塊は空中に静止すると、回転しながら小さな光の玉を次々に全方位に撃ち出していった。（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 射出された爪は害虫の甲殻をたやすく貫通した。花獣は爪と繋がった蔦のようなワイヤーを一瞬にして巻き取ることで害虫に急速接近、死骸を足場にすることで次の獲物への狙いを定める。
+- **unknown**: 背の花が大きく開いたかと思うと、その中心からまばゆい光が放たれる。発光するエネルギー塊は空中に静止すると、回転しながら小さな光の玉を次々に全方位に撃ち出していった。
+
+<!-- /AUTO-GENERATED:action -->

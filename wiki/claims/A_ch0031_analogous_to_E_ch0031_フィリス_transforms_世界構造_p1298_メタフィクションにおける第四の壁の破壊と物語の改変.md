@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0031_analogous_to_E_ch0031_フィリス_transforms_世界構造_p1298_メタフィクションにおける第四の壁の破壊と物語の改変
 title: 第四の壁の破壊
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0031_フィリス_transforms_世界構造_p1298]]"

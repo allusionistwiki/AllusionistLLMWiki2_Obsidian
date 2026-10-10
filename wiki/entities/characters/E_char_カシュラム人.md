@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_カシュラム人
 type: entity
 subtype: character
 canonical_name: カシュラム人
-title: "カシュラム人"
+title: カシュラム人
 first_appearance: ch0167
 spoiler_after: ch0167
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カシュラム人
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 「推しのブログと自撮りから恋人の影を見出す、おおこれぞブレイス」（ch0167）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 曲のテンポに合わせるように、音楽的に老いていく。楽しげに朽ち、快く果て、骨と皮ばかりの身軽な死へと突き進む。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「推しのブログと自撮りから恋人の影を見出す、おおこれぞブレイス」
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_魔竜
 type: entity
 subtype: terminology
 canonical_name: 魔竜
-title: "魔竜"
+title: 魔竜
 first_appearance: ch0184
 spoiler_after: ch0184
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 魔竜
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 「ところが、魔竜レーレンタークはその過程に介入できる。『Ｅ－Ｅ』が正しく情報を処理しても、表層の『シナモリアキラ』に正しく入力されず、『異なる名前』にデータが出力されてしまう。そしてアキラくんというシステムそのものがずらされていく」（ch0184）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 「けど、このやり方では魔竜の本質には届いていないんだ。なぜならここにあるのは、魔竜の影だから」
+- **unknown**: 「未来のリールエルバが手足なら、頭であるカーティスの『紀源』は過去にある。魔竜も同じ。今ここにいるあの巨大ネズミは、過去に存在する魔竜本体が現代に投げかけている影そのものなんだ」
+- **unknown**: 「うん、そうなんだと思う。あれは私たちの中に在る。正確には、私たちとカーティスたちとの関係性の狭間に存在する『使い魔』なんだ」
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「魔竜とは、『罪』」
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「ところが、魔竜レーレンタークはその過程に介入できる。『Ｅ－Ｅ』が正しく情報を処理しても、表層の『シナモリアキラ』に正しく入力されず、『異なる名前』にデータが出力されてしまう。そしてアキラくんというシステムそのものがずらされていく」
+
+<!-- /AUTO-GENERATED:action -->

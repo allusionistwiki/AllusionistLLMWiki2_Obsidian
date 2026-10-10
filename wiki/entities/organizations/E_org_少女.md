@@ -1,0 +1,25 @@
+---
+schema_version: '5.1'
+id: E_org_少女
+type: entity
+title: 少女
+subtype: organization
+canonical_name: 少女
+aliases: []
+first_appearance: ch0171
+spoiler_after: ch0171
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 少女
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ひと目見た瞬間、少女は心を呪縛された。熱病にうなされ、来る日も来る日も雷光のような光景を目蓋の裏で想起するばかり。しまいには加熱した瞳は盲いて曇り、永遠の暗闇に舞い手の姿を幻視するようになった。
+- **unknown**: 厳しい母が寂滅した後、それらの秘蹟を惜しむことなく民草に分け与え続けた少女はいつしか『羊飼い』として人々に崇められるようになっていった。 すなわち、新興宗教の始まりである。
+
+<!-- /AUTO-GENERATED:action -->

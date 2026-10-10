@@ -1,6 +1,6 @@
 ---
-title: "リールエルバ"
-schema_version: "5.1"
+title: リールエルバ
+schema_version: '5.1'
 id: E_term_リールエルバ
 type: entity
 subtype: terminology
@@ -9,7 +9,8 @@ first_appearance: ch0063
 spoiler_after: ch0063
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # リールエルバ
@@ -28,3 +29,10 @@ created: "2026-09-30"
 > 「その混乱につけ込んだ何者かが存在した。恐ろしく強力な言語支配者、あるいは言語魔術師の集団によって、古びた『空洞説』が無理矢理ねじ込まれた――地底にはもう一つの世界がある、そんな幻想を」（ch0179）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 先日、私のちょっとしたユーモアから着想を得たリールエルバは、プリエステラと協力して夜の民とティリビナの民との親睦を深めることを思いついた。新参者の両種族同士、エルネトモランに馴染んでもらうためのお菓子作りイベントを開催することにしたのだった。名付けて『立春アズチョコ祭り』――街を救った英雄の名前を冠することで、エルネトモラン全体のお祭りにしたかったからだとか。
+
+<!-- /AUTO-GENERATED:action -->

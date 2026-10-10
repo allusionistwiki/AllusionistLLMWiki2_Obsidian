@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_地下アイドルランキング
 type: entity
 subtype: terminology
 canonical_name: 地下アイドルランキング
-title: "地下アイドルランキング"
+title: 地下アイドルランキング
 first_appearance: ch0163
 spoiler_after: ch0163
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 地下アイドルランキング
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「上位はおおまかに変動は無し――いや、十位と十一位が入れ替わってるな」（ch0163）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 一位：『狂イ姫－†囚焉舞イ血ル妬環ノ華†』
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「上位はおおまかに変動は無し――いや、十位と十一位が入れ替わってるな」
+
+<!-- /AUTO-GENERATED:action -->

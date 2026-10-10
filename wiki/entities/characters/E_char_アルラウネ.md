@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アルラウネ
 type: entity
 subtype: character
 canonical_name: アルラウネ
-title: "アルラウネ"
+title: アルラウネ
 first_appearance: ch0222
 spoiler_after: ch0222
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アルラウネ
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「エスト？ 少しいいかしら」 ノックの音。樹妖精の少女は椅子から立ち上がって「どうぞ」と アルラウネ 答えた。（ch0228）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ロードデンドロンの背後に半透明の女が寄り添う。すみれ色の瞳をした白肌の巫女。その姿が知り合いに瓜二つに見えて、ユディーアはぞっとした。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「エスト？ 少しいいかしら」 ノックの音。樹妖精の少女は椅子から立ち上がって「どうぞ」と アルラウネ 答えた。
+
+<!-- /AUTO-GENERATED:action -->

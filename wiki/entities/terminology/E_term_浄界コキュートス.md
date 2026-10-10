@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_浄界コキュートス
 type: entity
 subtype: terminology
 canonical_name: 浄界コキュートス
-title: "浄界コキュートス"
+title: 浄界コキュートス
 first_appearance: ch0115
 spoiler_after: ch0115
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 浄界コキュートス
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 【コキュートス】は森羅万象型。個別の一元宇宙、それらを内包する多元宇宙といった全ての可能な宇宙を包み込む集合。概念的に規定された無限の終わりにして永劫の彼方。すなわち、【最果て】。（ch0115）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 【コキュートス】は森羅万象型。個別の一元宇宙、それらを内包する多元宇宙といった全ての可能な宇宙を包み込む集合。概念的に規定された無限の終わりにして永劫の彼方。すなわち、【最果て】。
+
+<!-- /AUTO-GENERATED:symbolic -->

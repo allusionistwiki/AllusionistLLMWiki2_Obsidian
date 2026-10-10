@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_神々
 type: entity
 subtype: terminology
 canonical_name: 神々
-title: "神々"
+title: 神々
 first_appearance: ch0057
 spoiler_after: ch0057
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 神々
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0057_analogous_to_E_ch0057_神々_has_property_目的追求_p2177_資本主義|資本主義の搾取的労働関係]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 神々はただ高次元において己の目的を追求しているだけであり、その達成の為に必要だから眷族種や信奉者たちに加護を与えているに過ぎない。
+
+<!-- /AUTO-GENERATED:speech -->

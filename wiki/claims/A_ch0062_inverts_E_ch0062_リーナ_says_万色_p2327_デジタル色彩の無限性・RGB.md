@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0062_inverts_E_ch0062_リーナ_says_万色_p2327_デジタル色彩の無限性・RGB
 title: デジタル色彩・RGBへの逆転
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_リーナ_says_万色_p2327]]"

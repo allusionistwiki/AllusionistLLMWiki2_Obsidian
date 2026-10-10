@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ローザ・パルサ
 type: entity
 subtype: character
 canonical_name: ローザ・パルサ
-title: "ローザ・パルサ"
+title: ローザ・パルサ
 first_appearance: ch0209
 spoiler_after: ch0209
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ローザ・パルサ
@@ -27,3 +28,25 @@ created: "2026-09-30"
 > ローザ・パルサ：西北系アヴロノで北辺帝国の公爵令嬢。スパイ疑惑？（ch0232）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 白を基調とした北辺式修道服に茨と鎖を巻き付かせ、ふわふわした膝上スカートを揺らしながら私の胸に飛び込んで来る。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「他の人は『ちょっとは削れてるかな』感があるんだけど、あのわんこは首をチョキンしても空間ぐねっても水とか地面とか殴ってる感じ！」
+- **unknown**: 「それから私がもうひとり出てきて囮になってくれたり。あと燃えるニワトリが放火して山火事になりかけてた！　消火活動で大変そうだった！」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ローザ・パルサ：西北系アヴロノで北辺帝国の公爵令嬢。スパイ疑惑？
+
+<!-- /AUTO-GENERATED:name -->

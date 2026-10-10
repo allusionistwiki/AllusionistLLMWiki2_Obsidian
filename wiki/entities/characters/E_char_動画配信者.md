@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_動画配信者
 type: entity
 subtype: character
 canonical_name: 動画配信者
-title: "動画配信者"
+title: 動画配信者
 first_appearance: ch0181
 spoiler_after: ch0181
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 動画配信者
@@ -28,3 +29,19 @@ created: "2026-09-30"
 > 動画配信者は端末を持ち上げ、空中の瘴気に過去の映像を投影してみせた。（ch0181）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 即死した瞬間に自らを中心とした映像を『加工』して死を回避した超高位動画配信者は、第五階層が破壊されていく光景を配信しながら叫んだ。
+- **unknown**: 動画配信者は端末を持ち上げ、空中の瘴気に過去の映像を投影してみせた。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: お、恐れ多くもリールエルバ新女王？　いや国王陛下？　に突撃インタビュー！　しちゃったりしてもいいっすかね、どうでしょ実際
+- **unknown**: この凄惨な破壊行為を、亡き妹殿下の前で正しいと言えますか
+
+<!-- /AUTO-GENERATED:speech -->

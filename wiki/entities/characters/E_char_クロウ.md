@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_クロウ
 type: entity
 subtype: character
 canonical_name: クロウ
-title: "クロウ"
+title: クロウ
 first_appearance: ch0215
 spoiler_after: ch0215
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # クロウ
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 「エキゾチックエフェクト狙いかよ！」 後先を考えずに突撃を敢行しようとしていたクロウが悔しそうに叫ぶ。（ch0216）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 己の翼で飛翔する鳥人は霊薬によるドーピングがもたらす『肉体の力』で、複座式マジックミサイルはアヴロノたちが持つ『自然の力』で加速を続け、文明を無効化するハイマンの妨害を潜り抜けていく。
+- **unknown**: 不死狩りの鳥人『啄み』クロウ選手！ 鳥の羽は箒に使われるから自分こそ生きた箒と主張して本大会に出場！ 霊薬ドーピングによる加速はまるで稲妻だ！
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「エキゾチックエフェクト狙いかよ！」 後先を考えずに突撃を敢行しようとしていたクロウが悔しそうに叫ぶ。
+
+<!-- /AUTO-GENERATED:speech -->

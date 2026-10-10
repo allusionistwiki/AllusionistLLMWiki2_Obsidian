@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アキラデルヒ
 type: entity
 subtype: character
 canonical_name: アキラデルヒ
-title: "アキラデルヒ"
+title: アキラデルヒ
 first_appearance: ch0118
 spoiler_after: ch0118
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アキラデルヒ
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 「それと、アキラの身体は返して貰います」（ch0118）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 一人のグレンデルヒは道着を纏っており、左腕が黒銀の義肢という姿。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「そして私は貴様のものではない、魔女風情が調子に乗るな。真の英雄を軟弱な女ごときが使役しようなどという思い上がりは、この私が正してくれよう」
+- **unknown**: 「貴様ら魔女のまじないなど使うはずが無いだろう。これは私なりの再解釈だ。英雄に相応しい形への上書きというものだよ。サイバーカラテの『遠当て』を見せてやろう。発勁用意――撃てっ！」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 黒銀の義肢、アーザノエルの御手【ウィッチオーダー】がその真価を発揮する。
+- **unknown**: アキラデルヒの腕が突き出されるのと連動して九つの砲身が唸りを上げ、それぞれの銃口から様々な呪術が発動していく。
+
+<!-- /AUTO-GENERATED:action -->

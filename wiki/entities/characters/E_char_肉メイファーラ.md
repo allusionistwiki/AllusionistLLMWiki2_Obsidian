@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_肉メイファーラ
 type: entity
 subtype: character
 canonical_name: 肉メイファーラ
-title: "肉メイファーラ"
+title: 肉メイファーラ
 first_appearance: ch0253
 spoiler_after: ch0253
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 肉メイファーラ
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > こちらが何かを言う前に偽ファーラは緑色の鬼火じみた呪術光に包まれて姿を消してしまった（ch0253）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「待って！　あたし、ちゃんと本物だよ！　合流が遅れたのは上からの命令で要人警護任務があったってだけだし、レース会場で後任に引き継いだ時に虹犬の工作員たちの情報を入手したの。それで急いで知らせなきゃってここまで来たんだよ。チョコレートリリーとしての思い出だってある。疑うならなんでも質問して！」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: こちらが何かを言う前に偽ファーラは緑色の鬼火じみた呪術光に包まれて姿を消してしまった
+
+<!-- /AUTO-GENERATED:action -->

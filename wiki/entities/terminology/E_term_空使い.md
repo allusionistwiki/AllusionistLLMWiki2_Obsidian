@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_空使い
 type: entity
 subtype: terminology
 canonical_name: 空使い
-title: "空使い"
+title: 空使い
 first_appearance: ch0110
 spoiler_after: ch0110
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 空使い
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 「その先に待つのは地獄か。はたまた天獄か。二度と戻れぬリスク、死という絶対の恐怖を乗り越えた者だけに『空使い』の栄冠は与えられるのです！ 果たしてこのレースから生還できるのは何人なのか！ 栄光を掴む者は現れるのか！ 全ては彼ら次第！」（ch0233）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「呪術的には『天主』を決定するための『彩域の試し』。キャカラノート王の十二賢者たちが行った奇跡の再演。これから始まるのはそういう儀式だ」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「その先に待つのは地獄か。はたまた天獄か。二度と戻れぬリスク、死という絶対の恐怖を乗り越えた者だけに『空使い』の栄冠は与えられるのです！ 果たしてこのレースから生還できるのは何人なのか！ 栄光を掴む者は現れるのか！ 全ては彼ら次第！」
+
+<!-- /AUTO-GENERATED:speech -->

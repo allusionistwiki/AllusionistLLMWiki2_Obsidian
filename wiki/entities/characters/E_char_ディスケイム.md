@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ディスケイム
 type: entity
 subtype: character
 canonical_name: ディスケイム
-title: "ディスケイム"
+title: ディスケイム
 first_appearance: ch0207
 spoiler_after: ch0207
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ディスケイム
@@ -34,3 +35,10 @@ created: "2026-09-30"
 - [[E_char_ユディーア|ユディーア]] — 考える(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『盤面』を眺めつつ、様子見の一手。その両手は一心不乱に土を掻き出し掘り進む。
+
+<!-- /AUTO-GENERATED:action -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0068_parodies_E_ch0068_ユネクティア_says_交換可能_p2542_ゲームのキャラクター交換
 title: キャラ交換による固有性の否定
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ユネクティア_says_交換可能_p2542]]"

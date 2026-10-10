@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_黄獣騎士団
 type: entity
 subtype: organization
 canonical_name: 黄獣騎士団
-title: "黄獣騎士団"
+title: 黄獣騎士団
 first_appearance: ch0100
 spoiler_after: ch0100
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 黄獣騎士団
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 屈強な獣人の多い【黄獣騎士団】と機動力に優れる【黒蟲騎士団】が石像兵を翻弄し、大地の民たちを蹴散らしている。（ch0135）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 屈強な獣人の多い【黄獣騎士団】と機動力に優れる【黒蟲騎士団】が石像兵を翻弄し、大地の民たちを蹴散らしている。
+- **unknown**: 「ほう。またしても【黄獣騎士団】は【黒蟲騎士団】と揉めているのですか。全く、困った連中ですな」
+
+<!-- /AUTO-GENERATED:action -->

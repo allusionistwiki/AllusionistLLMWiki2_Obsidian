@@ -1,0 +1,28 @@
+++ date
++ echo '=== refresh start 2026年 10月 10日 土曜日 23:57:05     ==='
+=== refresh start 2026年 10月 10日 土曜日 23:57:05     ===
++ python scripts/aggregate_events.py
++ tail -2
+
+272/272 章を集約
++ python scripts/merge_all.py
++ tail -2
+
+✅ すべての変換が完了しました
++ python scripts/shorten_titles.py
++ tail -2
+frontmatter 書込: ME 918 件, クレーム 962 件
++ python scripts/build_entities.py
++ tail -3
+  アイテム: 160
+  言葉: 4
+  モチーフ: 6
++ python scripts/build_relationship_map.py
++ tail -2
+関係エッジ: 40（元三つ組 4456）、キャラページ注入 224 件
++ python scripts/build_public_index.py
++ tail -2
+生成: index.md, nav/ 81+1 ページ, 節インデックス 3 ページ
+話割当: claims 962/962, mysteries 410/410
++ python scripts/lint.py --severity error
++ tail -3

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_魔竜レーレンターク
 type: entity
 subtype: terminology
 canonical_name: 魔竜レーレンターク
-title: "魔竜レーレンターク"
+title: 魔竜レーレンターク
 first_appearance: ch0176
 spoiler_after: ch0176
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 魔竜レーレンターク
@@ -26,3 +27,24 @@ created: "2026-09-30"
 > 尾の蛇は力任せにダモクレスの剣を割り砕き、新たな王の目の前に立ち塞がった暗雲を一瞬で払いのけてみせた。（ch0176）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: アイドルたちの祭典の果て、魔竜は七つ首のネズミという姿で顕現した。それは多産と生命の象徴としてか、はたまた瘴気の運び手としてか。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: それは日と月と星を喰らうもの。古き影たちが語り伝える超越種『蝕』。アタリア 豊穣を喰らう寒々しき呪い。その名は魔竜レーレンターク。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 尾の蛇は力任せにダモクレスの剣を割り砕き、新たな王の目の前に立ち塞がった暗雲を一瞬で払いのけてみせた。
+
+<!-- /AUTO-GENERATED:action -->

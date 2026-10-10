@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_マレブランケ
 type: entity
 subtype: organization
 canonical_name: マレブランケ
-title: "マレブランケ"
+title: マレブランケ
 first_appearance: ch0081
 spoiler_after: ch0081
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # マレブランケ
@@ -27,3 +28,31 @@ created: "2026-09-30"
 > 「祝祭期間中はランク上位の『マレブランケ』を見つけたら自由に挑んでランク戦を仕掛けられるってもっぱらの噂だ。（ch0214）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 「私たち【マレブランケ】は女王陛下と使い魔である貴方の爪となりあらゆる敵を討ち滅ぼすべく身を粉にして働く所存――どうかこき使って頂戴ね」
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 年若いファルが戦いの恐怖に怯え、牙猪チリアットが克服したはずの死への恐怖を思い出してしまい泣き喚く。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 情報・呪術戦担当の中傷者は敵地に潜入したまま消息を断ち、銃士は重傷でしばらく戦線復帰は不可能、道化はボイコットを決め込んでいる。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「祝祭期間中はランク上位の『マレブランケ』を見つけたら自由に挑んでランク戦を仕掛けられるってもっぱらの噂だ。
+
+<!-- /AUTO-GENERATED:speech -->

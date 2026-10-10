@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_王さま
 type: entity
 subtype: character
 canonical_name: 王さま
-title: "王さま"
+title: 王さま
 first_appearance: ch0114
 spoiler_after: ch0114
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 王さま
@@ -27,3 +28,19 @@ created: "2026-09-30"
 > 王さまはたった一人で王さまたちに立ち向かい、女の子に逃げるように言います。（ch0114）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 王さまは、自分に相応しい相手を占いで探し出して、攫ってきました。
+- **unknown**: 王さまはたった一人で王さまたちに立ち向かい、女の子に逃げるように言います。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 王さまはいつもひとりぼっち。
+- **unknown**: これからはあなたが私の女王さまですと言ってひざまずき、女の子の足下から伸びる影に口づけをしました。
+
+<!-- /AUTO-GENERATED:speech -->

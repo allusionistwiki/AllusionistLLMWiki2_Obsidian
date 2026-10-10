@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_チェダラーテ
 type: entity
 subtype: character
 canonical_name: チェダラーテ
-title: "チェダラーテ"
+title: チェダラーテ
 first_appearance: ch0262
 spoiler_after: ch0262
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # チェダラーテ
@@ -27,3 +28,25 @@ created: "2026-09-30"
 > チェダラーテが選手とひとつになったことで、その膨大な文脈がテキストベース・サーキットというルールの中で機能し始めたのだ。（ch0262）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: つまり神馬チェダラーテは、血族にクロウサーの力を与えた『母』であったのだ。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ファーガスト。私のいとし子。この青い血を受け止め、ひとつになりましょう？」
+- **unknown**: 「ああ、ようやく願いが叶うのね！　ファーガスト、私たちのいとし器！」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: チェダラーテが選手とひとつになったことで、その膨大な文脈がテキストベース・サーキットというルールの中で機能し始めたのだ。
+
+<!-- /AUTO-GENERATED:action -->

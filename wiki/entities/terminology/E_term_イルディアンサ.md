@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_イルディアンサ
 type: entity
 subtype: terminology
 canonical_name: イルディアンサ
-title: "イルディアンサ"
+title: イルディアンサ
 first_appearance: ch0080
 spoiler_after: ch0080
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # イルディアンサ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 「禁忌林檎――【イルディアンサ】！！」（ch0127）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 第四衛星イルディアンサはあらゆる勢力から中立を保っており、全世界が不可侵の協定を結んでいるとのこと。
+
+<!-- /AUTO-GENERATED:name -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0044_analogous_to_E_ch0044_ハルベルト_reveals_フラベウファの異常性_p1855_プログラミング_nullポインタ
 title: NULLポインタとしての存在
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0044_ハルベルト_reveals_フラベウファの異常性_p1855]]"

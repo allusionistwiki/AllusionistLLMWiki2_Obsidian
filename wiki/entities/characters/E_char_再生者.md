@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_再生者
 type: entity
 subtype: character
 canonical_name: 再生者
-title: "再生者"
+title: 再生者
 first_appearance: ch0064
 spoiler_after: ch0064
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 再生者
@@ -28,3 +29,10 @@ created: "2026-09-30"
 > リズムに乗ってさえいれば移動に乗じて進行方向にいる相手をぶっ飛ばしてもいい、という暗黙のルールが存在しているようだった。（ch0162）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: リズムに乗ってさえいれば移動に乗じて進行方向にいる相手をぶっ飛ばしてもいい、という暗黙のルールが存在しているようだった。
+
+<!-- /AUTO-GENERATED:action -->

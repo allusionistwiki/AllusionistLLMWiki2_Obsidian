@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ラフディーボール
 type: entity
 subtype: terminology
 canonical_name: ラフディーボール
-title: "ラフディーボール"
+title: ラフディーボール
 first_appearance: ch0137
 spoiler_after: ch0137
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ラフディーボール
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 失敗と苦境はより効率的な成果を生み出すための材料でしかない。多くのフィードバックが、前進のためのエネルギーとなる。（ch0139）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ラフディーボールでは呪術の使用が認められている。その上、グレンデルヒを倒す為の演劇呪術によってサイバーカラテはラフディで独自の発展を遂げていた。
+- **unknown**: もう一つは棘付きの球を投げ合う危険な競技、ラフディーボールだ。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: ボールをゴールに入れれば九点が入るが、ゴールの外側で地面に叩きつけて炸裂させても数点が入る可能性があるということだ。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 元々のラフディーボールは現代のような競技というよりも、神に捧げる儀式という側面が強かった。
+- **unknown**: 九つの棘は一種の呪的な手榴弾であり、地面に強く叩きつけると地脈と反応して炸裂し、周囲に棘を撒き散らす。
+
+<!-- /AUTO-GENERATED:symbolic -->

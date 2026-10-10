@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_クオア・リア・クロウサー
 type: entity
 subtype: character
 canonical_name: クオア・リア・クロウサー
-title: "クオア・リア・クロウサー"
+title: クオア・リア・クロウサー
 first_appearance: ch0241
 spoiler_after: ch0241
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # クオア・リア・クロウサー
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 「馬鹿、な。この私が、地を這うラフディの人形などに」（ch0252）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 天翔ける亜竜、クオア・リア・クロウサーは巨体を大きくよろめかせる。飛ぶことさえままならず、穴だらけの翼を畳んだクオアは硬い大地の上に倒れ込んだ。何かを言おうとして詰まり、喉から大量の吐血。潰れた片目は見えておらず、片足を引きずらねば歩くことさえままならない。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「馬鹿、な。この私が、地を這うラフディの人形などに」
+
+<!-- /AUTO-GENERATED:speech -->

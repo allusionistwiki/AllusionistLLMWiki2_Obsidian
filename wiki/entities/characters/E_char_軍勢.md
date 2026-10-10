@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_軍勢
 type: entity
 subtype: character
 canonical_name: 軍勢
-title: "軍勢"
+title: 軍勢
 first_appearance: ch0123
 spoiler_after: ch0123
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 軍勢
@@ -28,3 +29,17 @@ created: "2026-09-30"
 > 魔女はその異形を一瞥し、冷ややかに切って捨てた。「少ないですね」（ch0227）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『雪女』に攻撃を加えているのは首無し馬に乗った男だった。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「俺は体内に百のシナモリアキラの因子を内包している。お前という新たなシナモリアキラの可能性を見せてくれ、『雪女』よ」
+
+<!-- /AUTO-GENERATED:speech -->

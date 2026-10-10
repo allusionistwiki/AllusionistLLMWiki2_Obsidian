@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_ヨミル・バーンステイン_names_自分_p2425_スマホゲームのガチャ／ユニット
 title: 高コストユニットの環境メタによる瞬殺
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ヨミル・バーンステイン_names_自分_p2425]]"

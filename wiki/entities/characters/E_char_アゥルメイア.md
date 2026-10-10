@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アゥルメイア
 type: entity
 subtype: character
 canonical_name: アゥルメイア
-title: "アゥルメイア"
+title: アゥルメイア
 first_appearance: ch0219
 spoiler_after: ch0219
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アゥルメイア
@@ -27,3 +28,25 @@ created: "2026-09-30"
 > 師アゥルメイアはすぐさま本格的な竜導師としての修行をユディーアに始めさせたし、双子たちとの縁がここで十分に活かされたからだ。（ch0219）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 赤蜥蜴人たちを統べる竜血公。ディスケイム家の頂点に立つ長老たちのひとり。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 城主である『金爪』のアゥルメイアからしてかつて第三位の巫女を務めていた古竜だ。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『エレクトラ』に竜覚を叩き込んだ師。血統魔術師の祖。
+- **unknown**: 師アゥルメイアはすぐさま本格的な竜導師としての修行をユディーアに始めさせたし、双子たちとの縁がここで十分に活かされたからだ。
+
+<!-- /AUTO-GENERATED:action -->

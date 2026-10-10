@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_トリシューラ_says_アダム・カドモン_p1176_カバラの生命の樹
 title: カバラの原初の人間アダム
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_トリシューラ_says_アダム・カドモン_p1176]]"

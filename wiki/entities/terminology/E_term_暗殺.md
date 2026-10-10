@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_暗殺
 type: entity
 subtype: terminology
 canonical_name: 暗殺
-title: "暗殺"
+title: 暗殺
 first_appearance: ch0075
 spoiler_after: ch0075
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 暗殺
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 暗殺。呪術世界におけるそれは、なにも生命を絶つことだけを指すのではない。　名誉、誇り、社会的評価。形のないものを損なうことで、不死すら実現する大呪術師に致命的な打撃を与える。（ch0214）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 暗殺。呪術世界におけるそれは、なにも生命を絶つことだけを指すのではない。　名誉、誇り、社会的評価。形のないものを損なうことで、不死すら実現する大呪術師に致命的な打撃を与える。
+
+<!-- /AUTO-GENERATED:symbolic -->

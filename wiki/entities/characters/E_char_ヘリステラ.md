@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ヘリステラ
 type: entity
 subtype: character
 canonical_name: ヘリステラ
-title: "ヘリステラ"
+title: ヘリステラ
 first_appearance: ch0090
 spoiler_after: ch0090
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ヘリステラ
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 「逃、が、さ、な、い」（ch0091）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「そうか、貴方が、ヘリステラか」
+- **unknown**: 「そうそう。本当は中立の私が介入するのは良くないんだけどね。グレンデルヒがああなっているのはこちらにも責任があるし――彼がこの世界に次元侵略者を招き入れて好き勝手にしようとしているのは見逃せない」
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「永劫線を通じて、古代へと遡ってもらうわ。グレンデルヒに勝利する為には、あなたもまたより強大な力を手にしなくてはならない。たとえば、その左腕の新しい機能とか、勝利への布石を置いてくるとかね」
+- **unknown**: 「私の妹たちを、よろしくお願いね」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「逃、が、さ、な、い」
+
+<!-- /AUTO-GENERATED:action -->

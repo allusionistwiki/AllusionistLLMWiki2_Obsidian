@@ -1,5 +1,5 @@
 ---
-title: "裏庭"
+title: 裏庭
 schema_version: '5.1'
 id: E_term_裏庭
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0041
 spoiler_after: ch0041
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 裏庭
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: そこは、黒や紫といった暗鬱な色ばかりの表とは異なり、透き通るような青で満たされた空間だった。
 - **unknown**: そこは、黒や紫といった暗鬱な色ばかりの表とは異なり、透き通るような青で満たされた空間だった。
 - **unknown**: そこは、黒や紫といった暗鬱な色ばかりの表とは異なり、透き通るような青で満たされた空間だった。
 - **unknown**: そこは、黒や紫といった暗鬱な色ばかりの表とは異なり、透き通るような青で満たされた空間だった。

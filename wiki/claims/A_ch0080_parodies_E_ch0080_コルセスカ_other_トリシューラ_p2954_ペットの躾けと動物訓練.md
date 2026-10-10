@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0080_parodies_E_ch0080_コルセスカ_other_トリシューラ_p2954_ペットの躾けと動物訓練
 title: ペット躾けの戯画化
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_コルセスカ_other_トリシューラ_p2954]]"

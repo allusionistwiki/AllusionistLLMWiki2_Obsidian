@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ティリビナ人
 type: entity
 subtype: terminology
 canonical_name: ティリビナ人
-title: "ティリビナ人"
+title: ティリビナ人
 first_appearance: ch0205
 spoiler_after: ch0205
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ティリビナ人
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 馬鹿げた振る舞いによって生じた空気の緩み。 その『間』を狙い澄まして、ティリビナ人たちが最も警戒していた『爆撃』が発動。（ch0228）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 馬鹿げた振る舞いによって生じた空気の緩み。 その『間』を狙い澄まして、ティリビナ人たちが最も警戒していた『爆撃』が発動。
+
+<!-- /AUTO-GENERATED:action -->

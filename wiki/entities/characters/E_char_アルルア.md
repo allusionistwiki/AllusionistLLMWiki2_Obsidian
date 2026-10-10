@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アルルア
 type: entity
 subtype: character
 canonical_name: アルルア
-title: "アルルア"
+title: アルルア
 first_appearance: ch0240
 spoiler_after: ch0240
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アルルア
@@ -27,3 +28,18 @@ created: "2026-09-30"
 > エレクトラはこれが三眼瞬知、すなわち限定的な時間停止能力に対する予防策だと気付いた。 発動した呪文が端から逆再生されて破綻していくのだ。（ch0240）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その女にはまなざしから上の全てがなかった。 鼻梁と眼の狭間で上下に分割された頭部。 灰色のドレスのあちこちには四角い欠落。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 時間を巻き戻し続ける時計が体内からゆっくりと現れて、存在しない頭部の代わりに彼女の顔になる。
+- **unknown**: エレクトラはこれが三眼瞬知、すなわち限定的な時間停止能力に対する予防策だと気付いた。 発動した呪文が端から逆再生されて破綻していくのだ。
+
+<!-- /AUTO-GENERATED:action -->

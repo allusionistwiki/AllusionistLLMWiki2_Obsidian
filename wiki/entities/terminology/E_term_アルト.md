@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_アルト
 type: entity
 subtype: terminology
 canonical_name: アルト
-title: "アルト"
+title: アルト
 first_appearance: ch0131
 spoiler_after: ch0131
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アルト
@@ -25,3 +26,18 @@ created: "2026-09-30"
 > アルトの残された左目が強く発光する。すると無数のイアテムが一瞬にして動きを停止させ、更には肌に氷が張り付いていく。（ch0131）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: アルトはトリシューラに断って近くにあったブティックから詰め襟の軍服に似た上着を拝借。
+- **unknown**: アルトの残された左目が強く発光する。すると無数のイアテムが一瞬にして動きを停止させ、更には肌に氷が張り付いていく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「奪われたからといって、他の誰かから奪うというのでは秩序が保たれぬ。集団としての規律、国家としての法、守るべき人倫。道徳を重んじぬ者はもはや人ではなく獣でしかない。」
+
+<!-- /AUTO-GENERATED:speech -->

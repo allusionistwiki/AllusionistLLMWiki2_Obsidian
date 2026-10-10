@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_幻覚のリールエルバ
 type: entity
 subtype: character
 canonical_name: 幻覚のリールエルバ
-title: "幻覚のリールエルバ"
+title: 幻覚のリールエルバ
 first_appearance: ch0179
 spoiler_after: ch0179
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 幻覚のリールエルバ
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 「馬鹿みたい。ようやく解放されたのに、また囚われにいくというの？ いい加減に認めなさいな。ドラトリアは私たちの牢獄だった。あの暗い暗い奈落の玉座は、私の生涯を閉ざす檻なのよ。生まれた時から攫われていた。また誘拐されにいくの？ 自分から、進ん（ch0179）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 実在はしない。『狂い姫』にだけ見える、彼女の頭の中にしかいない架空のリールエルバ。代替品である『トリシル一号』がいつの頃からか見るようになった、『本物のリールエルバ』の幻覚、あるいは妄想だった。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「馬鹿みたい。ようやく解放されたのに、また囚われにいくというの？ いい加減に認めなさいな。ドラトリアは私たちの牢獄だった。あの暗い暗い奈落の玉座は、私の生涯を閉ざす檻なのよ。生まれた時から攫われていた。また誘拐されにいくの？ 自分から、進んで？ くっだらないわぁ！」
+
+<!-- /AUTO-GENERATED:speech -->

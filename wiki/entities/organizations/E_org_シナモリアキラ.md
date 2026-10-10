@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_シナモリアキラ
 type: entity
 subtype: organization
 canonical_name: シナモリアキラ
-title: "シナモリアキラ"
+title: シナモリアキラ
 first_appearance: ch0155
 spoiler_after: ch0155
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # シナモリアキラ
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > しかし、規模が増大すればするほど都市全体の管理は困難となる。（ch0225）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 言葉遊びと神話になぞらえた人口の水増し、即席の国力倍増計画。転生都市シナモリアキラの力はかつてないほどに膨れ上がっていた。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: しかし、規模が増大すればするほど都市全体の管理は困難となる。
+
+<!-- /AUTO-GENERATED:action -->

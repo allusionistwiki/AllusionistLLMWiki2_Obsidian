@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_紀神エクリーオベレッカ
 type: entity
 subtype: terminology
 canonical_name: 紀神エクリーオベレッカ
-title: "紀神エクリーオベレッカ"
+title: 紀神エクリーオベレッカ
 first_appearance: ch0268
 spoiler_after: ch0268
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 紀神エクリーオベレッカ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 空に浮かぶ霊城、その名は紀神エクリーオベレッカ。 死後に魂が行き着く先であるという天の国は、ゼオーティアの紀元神話において逆さに屹立する巨大建造物として表現される。（ch0269）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 空に浮かぶ霊城、その名は紀神エクリーオベレッカ。 死後に魂が行き着く先であるという天の国は、ゼオーティアの紀元神話において逆さに屹立する巨大建造物として表現される。
+
+<!-- /AUTO-GENERATED:visual -->

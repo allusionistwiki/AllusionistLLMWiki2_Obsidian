@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_シダリス
 type: entity
 subtype: character
 canonical_name: シダリス
-title: "シダリス"
+title: シダリス
 first_appearance: ch0211
 spoiler_after: ch0211
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # シダリス
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > 「すまねえオヤジ。俺たちは、大切なことを忘れちまってた」（ch0243）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「すまねえオヤジ。俺たちは、大切なことを忘れちまってた」
+- **unknown**: 「まずは謝罪と感謝を。あのライラという女には我々も手を焼いておりましてね。そちらの協力がなければ排除は難しかったでしょう」
+
+<!-- /AUTO-GENERATED:speech -->

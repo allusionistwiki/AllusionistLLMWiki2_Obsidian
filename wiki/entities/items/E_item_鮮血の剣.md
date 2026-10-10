@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_鮮血の剣
 type: entity
 subtype: item
 canonical_name: 鮮血の剣
-title: "鮮血の剣"
+title: 鮮血の剣
 first_appearance: ch0184
 spoiler_after: ch0184
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 鮮血の剣
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 死を吸い込む王者の剣。ダモクレスの剣すら砕いてみせたそれは、鮮血呪の応用形でありトリシューラの王権でもある呪いの形だ。（ch0184）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 死を吸い込む王者の剣。ダモクレスの剣すら砕いてみせたそれは、鮮血呪の応用形でありトリシューラの王権でもある呪いの形だ。
+
+<!-- /AUTO-GENERATED:symbolic -->

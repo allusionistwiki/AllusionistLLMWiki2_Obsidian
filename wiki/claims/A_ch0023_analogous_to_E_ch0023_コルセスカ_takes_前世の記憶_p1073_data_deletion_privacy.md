@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0023_analogous_to_E_ch0023_コルセスカ_takes_前世の記憶_p1073_data_deletion_privacy
 title: データ削除による依存強制
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0023_コルセスカ_takes_前世の記憶_p1073]]"

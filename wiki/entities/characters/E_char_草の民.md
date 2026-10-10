@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_草の民
 type: entity
 subtype: character
 canonical_name: 草の民
-title: "草の民"
+title: 草の民
 first_appearance: ch0063
 spoiler_after: ch0063
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 草の民
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > ファーガスト・バン・ガディン・ファザ・シャミギラ（シャミギラ族ガディン家の息子ファーガスト）はフリグサナ出身、草の民の機甲箒レーサー、探索者、一代騎士、神馬騎乗士、準二級言語魔術師。オトルベイトモーター・レーシングチーム所属。（ch0251）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 貴賓席の端に見えるのは、中原の騎馬民族である草の民たちだろう。一人一人美しい毛並みの馬を連れており、席の横には馬専用の空間が用意されている。
+
+<!-- /AUTO-GENERATED:visual -->

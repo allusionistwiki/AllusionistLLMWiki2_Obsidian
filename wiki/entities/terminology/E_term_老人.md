@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_老人
 type: entity
 subtype: terminology
 canonical_name: 老人
-title: "老人"
+title: 老人
 first_appearance: ch0150
 spoiler_after: ch0150
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 老人
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 俺はこれを『Ｅ－Ｅ』と呼んでいる。最近になって拝借した名前だがな（ch0151）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 考えた結果、『七色表情筋トレーニング』で強引に表情を取り繕うことにした。
+
+<!-- /AUTO-GENERATED:action -->

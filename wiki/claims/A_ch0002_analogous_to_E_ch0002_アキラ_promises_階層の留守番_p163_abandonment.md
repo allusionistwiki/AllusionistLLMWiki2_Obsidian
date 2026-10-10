@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0002_analogous_to_E_ch0002_アキラ_promises_階層の留守番_p163_abandonment
 title: 言語障壁による養育放棄の象徴
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_アキラ_promises_階層の留守番_p163]]"

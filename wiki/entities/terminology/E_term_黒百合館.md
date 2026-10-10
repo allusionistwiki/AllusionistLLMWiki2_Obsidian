@@ -1,6 +1,6 @@
 ---
-title: "黒百合館"
-schema_version: "5.1"
+title: 黒百合館
+schema_version: '5.1'
 id: E_term_黒百合館
 type: entity
 subtype: terminology
@@ -9,7 +9,8 @@ first_appearance: ch0085
 spoiler_after: ch0085
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 黒百合館
@@ -28,3 +29,25 @@ created: "2026-09-30"
 > ここでは、死とは性的な欲求を満たすことと同義。性行為とは、すなわち殺戮である。（ch0085）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 咲き誇る黒紫。それを美しいととるか毒々しいととるかは人によるだろうが、俺にはその色彩が魔性を宿しているように思えた。
+- **unknown**: カタカタと剥き出しの歯を打ち鳴らし、空洞の眼窩から眼球を零れ落とし、腐乱した乳房がべちゃりと床を汚していく。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「当館では、貴方が死体を陵辱するのではなく、死体が貴方を陵辱いたします」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: ここでは、死とは性的な欲求を満たすことと同義。性行為とは、すなわち殺戮である。
+
+<!-- /AUTO-GENERATED:symbolic -->

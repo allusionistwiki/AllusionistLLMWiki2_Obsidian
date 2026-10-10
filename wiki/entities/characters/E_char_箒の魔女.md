@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_箒の魔女
 type: entity
 subtype: character
 canonical_name: 箒の魔女
-title: "箒の魔女"
+title: 箒の魔女
 first_appearance: ch0144
 spoiler_after: ch0144
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 箒の魔女
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 空を旋回する箒の魔女は人形たちを翻弄し、遂には天使すら破滅の渦へと誘い込んでしまった。（ch0145）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 空を旋回する箒の魔女は人形たちを翻弄し、遂には天使すら破滅の渦へと誘い込んでしまった。
+- **unknown**: 「言理飛翔――十倍加速」 その詠唱は音を突き破り、衝撃破が世界を破裂させる。 弾丸となった魔女が人形の一体を破砕、生み出された疾風が炎を消し飛ばす。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「恋バナで『本物』とか『真実』とか言っちゃうのってロマンチック～♪ 可愛い、それふつーにカワイイって！ 敵だけどちょっと友達になれそうだと思ったね！ シアンとマゼンタだし色合い的にも！ 知らんけど！」
+
+<!-- /AUTO-GENERATED:speech -->

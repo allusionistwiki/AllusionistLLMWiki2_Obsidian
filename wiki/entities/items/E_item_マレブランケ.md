@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_マレブランケ
 type: entity
 subtype: item
 canonical_name: マレブランケ
-title: "マレブランケ"
+title: マレブランケ
 first_appearance: ch0120
 spoiler_after: ch0120
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # マレブランケ
@@ -25,3 +26,12 @@ created: "2026-09-30"
 > 人形の手の甲に浮かび上がったそれは引っ掻き傷のような紋様だ。「これがマレブランケのシンボル。（ch0231）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「これまでトリシューラは難敵を封印するための首輪としてマレブランケを使ってきた。グレンデルヒ、ルバーブ、オルヴァ、そして私。
+- **unknown**: 現在、マレブランケの空席はカニャッツォ、リビコッコ、ドラギニャッツォ、ルビカンテの四つ。
+- **unknown**: 人形の手の甲に浮かび上がったそれは引っ掻き傷のような紋様だ。「これがマレブランケのシンボル。
+
+<!-- /AUTO-GENERATED:visual -->

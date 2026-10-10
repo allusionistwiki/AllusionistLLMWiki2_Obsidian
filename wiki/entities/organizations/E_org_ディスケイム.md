@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_ディスケイム
 type: entity
 subtype: organization
 canonical_name: ディスケイム
-title: "ディスケイム"
+title: ディスケイム
 first_appearance: ch0207
 spoiler_after: ch0207
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ディスケイム
@@ -27,3 +28,17 @@ created: "2026-09-30"
 > ディスケイムからの緊急連絡が届いたのは普段使いの連絡先ではない。 『メイファーラ』が使用しているアバター、『目玉』に宛てられたメッセージだった。（ch0223）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: あの厄介な実家ときたら、星辰国と洞窟国に挟まれた片田舎、東ジャンザビオンの僻地でこそこそ交配実験ばかりやっている偏屈者集団のくせに、色々な勢力に取り入る手腕だけは一流だから手に負えない。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ディスケイムからの緊急連絡が届いたのは普段使いの連絡先ではない。 『メイファーラ』が使用しているアバター、『目玉』に宛てられたメッセージだった。
+
+<!-- /AUTO-GENERATED:action -->

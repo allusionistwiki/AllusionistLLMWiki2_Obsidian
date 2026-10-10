@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0029_parodies_E_ch0029_アキラ_makes_蒼穹_p1246_ゲームの背景画像
 title: 感覚再現技術によるゲーム背景生成
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_アキラ_makes_蒼穹_p1246]]"

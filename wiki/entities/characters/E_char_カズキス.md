@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_カズキス
 type: entity
 subtype: character
 canonical_name: カズキス
-title: "カズキス"
+title: カズキス
 first_appearance: ch0243
 spoiler_after: ch0243
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カズキス
@@ -28,3 +29,27 @@ created: "2026-09-30"
 > 言語支配者ダーカンシェル、亜竜王アルトらの父祖として知られる原始妖精カズキスは、あまりにも広範な地域に影響力を及ぼしたがゆえに、妖精王や始祖吸血鬼、古竜や巨人など様々な姿で語られる神話世界の住人である。（ch0243）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 黒霞の中から出現したのは、何のひねりもなく巨大な黒蝶の翅だった。　だがその中心にあるのは美しい少年の形だ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 原始妖精とはアヴロノたちの始祖神である。　かのスーリウムが『花のアヴロノ』という始祖神の意思を受け継いでいるように、サンデリアーナもまた異なる始祖神の意思を受け継いでいた。
+- **unknown**: 言語支配者ダーカンシェル、亜竜王アルトらの父祖として知られる原始妖精カズキスは、あまりにも広範な地域に影響力を及ぼしたがゆえに、妖精王や始祖吸血鬼、古竜や巨人など様々な姿で語られる神話世界の住人である。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「何をしている、シダリス。貴様をダーカンシェルのように甘やかした覚えはない。速やかに余に従え。我らの敵を駆逐せよ」
+- **unknown**: 「平伏せ」　傲慢に言い放つその力だけでも脅威であり、ラプンシエルとミヒトネッセは瘴気の風に押されて攻め込むことさえできない。
+- **unknown**: 「気にするな。子の不始末くらい、鷹揚に受け止めるのが親の度量だ」
+
+<!-- /AUTO-GENERATED:speech -->

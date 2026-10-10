@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_フィフウィブレス
 type: entity
 subtype: character
 canonical_name: フィフウィブレス
-title: "フィフウィブレス"
+title: フィフウィブレス
 first_appearance: ch0097
 spoiler_after: ch0097
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # フィフウィブレス
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > やむなく自らの名の半分を切り離し、霊王フィフウィブレスという自らの本質と最大の武器であった魔導書を手放した闇妖精は、ちっぽけな蝶々となって遠くへと逃げていった。（ch0097）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 確か、グ、グ、グール、いや、グレン？」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 自らの死人操りの術が、何の意味も成さなくなっていた。　既にこの国に墓は無いのだ。　そしてまた、屍体も全て焼かれてしまって原形を留めていない。
+- **unknown**: やむなく自らの名の半分を切り離し、霊王フィフウィブレスという自らの本質と最大の武器であった魔導書を手放した闇妖精は、ちっぽけな蝶々となって遠くへと逃げていった。
+
+<!-- /AUTO-GENERATED:action -->

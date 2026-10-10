@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_キノコ人
 type: entity
 subtype: character
 canonical_name: キノコ人
-title: "キノコ人"
+title: キノコ人
 first_appearance: ch0198
 spoiler_after: ch0198
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # キノコ人
@@ -28,3 +29,36 @@ created: "2026-09-30"
 > キノコ人たちの肉体が膨張し、見上げるような巨体へと変容していった。（ch0206）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ずんぐりとした筒型体型と頭部で広がった傘が特徴的なキノコ人たちは、別の地点から侵入してきたティリビナ勢力の戦争奴隷たちだろう。
+- **unknown**: 手足の付いた大きなキノコ型のティリビナ人たちが、寝台に拘束されて呻き続けている。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「顕花様を吸い殺していいなら、死ぬのだって怖くないや！」
+- **unknown**: 溢れ出した瘴気が緑色の燐光に導かれ、老人たちの体内に吸い込まれていった。その場には虫とキノコが融合したかのような怪物が出現していた。
+- **unknown**: 幻は現実となり、上下は反転し、縮尺は歪んでいく。極限まで縮んだ猿人は山より大きなキノコ人に踏み潰され、虚空から湧き出た名状しがたい姿の異獣が修道騎士に襲いかかる。
+- **unknown**: キノコ人たちの肉体が膨張し、見上げるような巨体へと変容していった。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「お嬢様万歳！」「顕花様に勝利を！」
+- **unknown**: 驚くべきことに、死体が口を開いた。私が知る死霊術の類ではない。死体に寄生するタイプのキノコ人が喋っているのだ。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: どのような思惑か、キノコ人たちは死者であるヴィティスを第四階層の掌握者に据えたまま間接的に階層を制圧しようとしていた。
+
+<!-- /AUTO-GENERATED:relationship -->

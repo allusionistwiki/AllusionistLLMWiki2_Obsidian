@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_世界劇場
 type: entity
 subtype: terminology
 canonical_name: 世界劇場
-title: "世界劇場"
+title: 世界劇場
 first_appearance: ch0091
 spoiler_after: ch0091
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 世界劇場
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 黙ったままの意思よりも、音として発話された意思の方が重みがある。（ch0103）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 黙ったままの意思よりも、音として発話された意思の方が重みがある。
+
+<!-- /AUTO-GENERATED:symbolic -->

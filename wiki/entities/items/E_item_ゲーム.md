@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_ゲーム
 type: entity
 subtype: item
 canonical_name: ゲーム
-title: "ゲーム"
+title: ゲーム
 first_appearance: ch0021
 spoiler_after: ch0021
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ゲーム
@@ -29,3 +30,10 @@ created: "2026-09-30"
 - [[A_ch0021_analogous_to_E_ch0021_コルセスカ_uses_ゲーム_p924_RPG_character_growth|RPGキャラ成長への自己投影]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 主人公である【死人の森の女王】――名前は変更可能らしく、コルセスカは実名でプレイしていた――を操作して、彼女が辿ってきた物語を追体験するというゲームで、ほとんど『史実』に近い筋書きとのことだった。
+
+<!-- /AUTO-GENERATED:speech -->

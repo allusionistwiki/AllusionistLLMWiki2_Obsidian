@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_髭大夫
 type: entity
 subtype: character
 canonical_name: 髭大夫
-title: "髭大夫"
+title: 髭大夫
 first_appearance: ch0160
 spoiler_after: ch0160
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 髭大夫
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > まことの名をオルヴァ、仮の名を『髭大夫』という老人は小さく肯きを返した。（ch0167）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 蛹が羽化して成虫になるように、朽ち果てた肉体の内側から新たな存在が新生したのだ。顕れたのは若々しい姿の男。
+
+<!-- /AUTO-GENERATED:action -->

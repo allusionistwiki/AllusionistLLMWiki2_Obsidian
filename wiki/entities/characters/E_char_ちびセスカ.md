@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ちびセスカ
 type: entity
 subtype: character
 canonical_name: ちびセスカ
-title: "ちびセスカ"
+title: ちびセスカ
 first_appearance: ch0090
 spoiler_after: ch0090
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ちびセスカ
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 「つまりグレンデルヒは実はアキラであり、サイバーカラテが力を増す事によって利益を得るサイバーカラテユーザーです！ 貴方はグレンデルヒではなく、アキラだったということです！」（ch0090）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ちびセスカ、招きに応じて参上しました――死人の森の女王。貴方と【変異の三手】には報いを受けさせる。死よりも過酷な、英雄の精神すら歪めて壊す最悪の拷問で、徹底的に！」
+- **unknown**: 「トリシューラは確かに『いる』んです！ 第一、作り事だったら何だというのですか。妄想でも現実でも、トリシューラはトリシューラです。冬の魔女コルセスカが、神話の魔女がそうであるように フィクション ！」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「つまりグレンデルヒは実はアキラであり、サイバーカラテが力を増す事によって利益を得るサイバーカラテユーザーです！ 貴方はグレンデルヒではなく、アキラだったということです！」
+
+<!-- /AUTO-GENERATED:action -->

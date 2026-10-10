@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_char_自称シナモリアキラ
+type: entity
+title: 自称シナモリアキラ
+subtype: character
+canonical_name: 自称シナモリアキラ
+aliases: []
+first_appearance: ch0148
+spoiler_after: ch0148
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 自称シナモリアキラ
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「そいつらがより『俺』に近い異界の情報を求めて墓標船に殺到した？ 」「うん。そして、彼らはそれぞれに成果を持ち帰った。大まかに十二分割されて第五階層の各地に拡散されているみたい。さいわい各地の監視網が何人かの『自称シナモリアキラ』たちの動向を捕捉できたから、現在追跡中だよ」
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_フェブルウス＝コルセスカ
 type: entity
 subtype: character
 canonical_name: フェブルウス＝コルセスカ
-title: "フェブルウス＝コルセスカ"
+title: フェブルウス＝コルセスカ
 first_appearance: ch0091
 spoiler_after: ch0091
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # フェブルウス＝コルセスカ
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 「グレンデルヒ様。いつまでもそのお姿のままでは、それを利用して存在を上書きされかねません。【変異の三手】ここにあり、と示す為にもどうか元のお姿になって下さいますよう、お願い申し上げます」（ch0091）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「グレンデルヒ様。いつまでもそのお姿のままでは、それを利用して存在を上書きされかねません。【変異の三手】ここにあり、と示す為にもどうか元のお姿になって下さいますよう、お願い申し上げます」
+
+<!-- /AUTO-GENERATED:speech -->

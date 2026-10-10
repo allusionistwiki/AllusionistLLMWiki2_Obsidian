@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_オー
 type: entity
 subtype: character
 canonical_name: オー
-title: "オー"
+title: オー
 first_appearance: ch0042
 spoiler_after: ch0042
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # オー
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > オー：最終魔将。四人の魔将を引き連れて世界槍のどこかに根城を構えている。（ch0232）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: オー：最終魔将。四人の魔将を引き連れて世界槍のどこかに根城を構えている。
+
+<!-- /AUTO-GENERATED:name -->

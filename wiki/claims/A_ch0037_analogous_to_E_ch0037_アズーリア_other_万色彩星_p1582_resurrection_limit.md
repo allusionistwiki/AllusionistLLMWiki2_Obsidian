@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_アズーリア_other_万色彩星_p1582_resurrection_limit
 title: 蘇生の限界へのメタフィクショナル拒絶
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_アズーリア_other_万色彩星_p1582]]"

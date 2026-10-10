@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_境界動物解放戦線
 type: entity
 subtype: organization
 canonical_name: 境界動物解放戦線
-title: "境界動物解放戦線"
+title: 境界動物解放戦線
 first_appearance: ch0247
 spoiler_after: ch0247
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 境界動物解放戦線
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > だがユディーアは知っている。彼らは同時に『異獣という呪い』によって政治的に迫害された種族を守ろうとする人権団体、そして『異獣認定の濫用』によって小鬼化した浸食型異界災害を鎮圧する狂怖狩りの精鋭集団でもある。（ch0247）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 猿人として知られているントゥガ族のような言語と知性、文明と魂のボーダーについての議論が盛んな種族を保護し、その権利を拡張するための運動を展開する世界で最も過激な動物愛護団体というのが世間的な評価である。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: だがユディーアは知っている。彼らは同時に『異獣という呪い』によって政治的に迫害された種族を守ろうとする人権団体、そして『異獣認定の濫用』によって小鬼化した浸食型異界災害を鎮圧する狂怖狩りの精鋭集団でもある。
+
+<!-- /AUTO-GENERATED:action -->

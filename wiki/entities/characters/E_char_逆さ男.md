@@ -1,0 +1,25 @@
+---
+schema_version: '5.1'
+id: E_char_逆さ男
+type: entity
+title: 逆さ男
+subtype: character
+canonical_name: 逆さ男
+aliases: []
+first_appearance: ch0211
+spoiler_after: ch0211
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 逆さ男
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ここは共闘すべきだと思うが、どうかな」「元より第五階層と敵対するつもりはない。人質の安全を優先したために連絡が遅れたことは謝罪しよう」
+- **unknown**: 「マレブランケのアルレッキーノとして宣言しよう。アズーリア・ヘレゼクシュが『槍の民ではない』という確証が持てるまで、第五階層の主要都市部への侵入、すなわち紀人都市シナモリアキラとの接触を禁止する」
+
+<!-- /AUTO-GENERATED:speech -->

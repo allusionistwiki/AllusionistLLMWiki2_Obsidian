@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_大断絶
 type: entity
 subtype: terminology
 canonical_name: 大断絶
-title: "大断絶"
+title: 大断絶
 first_appearance: ch0219
 spoiler_after: ch0219
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 大断絶
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > それが最初の『大断絶』だ。（ch0268）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『大断絶』という名の世界の変容によって。　世界は天地に引き裂かれ、多くの空間が歪み、幾つかの大地が永久に消えた。
+
+<!-- /AUTO-GENERATED:action -->

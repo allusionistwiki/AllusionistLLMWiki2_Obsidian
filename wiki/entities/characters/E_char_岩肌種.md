@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_岩肌種
 type: entity
 subtype: character
 canonical_name: 岩肌種
-title: "岩肌種"
+title: 岩肌種
 first_appearance: ch0149
 spoiler_after: ch0149
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 岩肌種
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 『ラウス＝ベフォニス』――跡目は兄貴に譲ったんだげども、おっ死んだっつーんだからなぁ。（ch0149）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: おらはシナモリアキラってもんだ。武のてっぺんさ目指してる
+- **unknown**: 『ラウス＝ベフォニス』――跡目は兄貴に譲ったんだげども、おっ死んだっつーんだからなぁ。
+
+<!-- /AUTO-GENERATED:speech -->

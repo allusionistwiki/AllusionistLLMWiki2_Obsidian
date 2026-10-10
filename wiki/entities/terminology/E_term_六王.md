@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_六王
 type: entity
 subtype: terminology
 canonical_name: 六王
-title: "六王"
+title: 六王
 first_appearance: ch0081
 spoiler_after: ch0081
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 六王
@@ -32,3 +33,19 @@ created: "2026-09-30"
 - [[A_ch0081_alludes_to_E_ch0081_六王_names_高位再生者_p2960_神話的系譜と王権|神話的系譜と王権]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 偉大なる女王に仕えし六人の高位再生者。　オルクス＝ハイ　【死人の森】よりも更に古い六つの王国から死後甦った偉大なる六王。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 六王たちの国号宣名によって、第五階層にはガロアンディアン以外の『王国』が出現している。これによって相対的に弱まったガロアンディアンの領土は縮小し、六王たちは空いた領域を奪っていった。
+- **unknown**: 「我ら六王、生まれと育ちは違えど、終の棲家は根の国と定めた再生者。ならばやるべきことは一つ！ 根菜と残飯の名に於いて、死人の森の軍勢はこれより食材の選定を開始する。
+- **unknown**: 途端、六王の動きが一斉に停止する。それから全員の顔が蒼白になり、あわてたようにルウテトに詰め寄って、
+
+<!-- /AUTO-GENERATED:action -->

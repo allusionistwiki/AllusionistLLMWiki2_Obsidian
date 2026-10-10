@@ -1,5 +1,5 @@
 ---
-title: "アリュージョニスト"
+title: アリュージョニスト
 schema_version: '5.1'
 id: E_char_アリュージョニスト
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0071
 spoiler_after: ch0071
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # アリュージョニスト
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: その英雄の名は、幻想再帰のアリュージョニスト。
 - **unknown**: その英雄の名は、幻想再帰のアリュージョニスト。
 - **unknown**: その英雄の名は、幻想再帰のアリュージョニスト。
 - **unknown**: その英雄の名は、幻想再帰のアリュージョニスト。

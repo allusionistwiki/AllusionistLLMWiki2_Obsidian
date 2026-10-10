@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_竜神信教
 type: entity
 subtype: organization
 canonical_name: 竜神信教
-title: "竜神信教"
+title: 竜神信教
 first_appearance: ch0042
 spoiler_after: ch0042
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 竜神信教
@@ -28,3 +29,31 @@ created: "2026-09-30"
 > 九人いる巫女はあくまでも祭儀を執り行うために存在する霊媒であるため、全員が武闘派というわけではない。エスメラルダがそうであるように、五番目から九番目までの巫女は戦う力を持たない。だが、一番目から四番目は違う。（ch0218）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 竜神信教と槍神教は不倶戴天の敵同士だ。その図式はほぼ『上』と『下』の対立の構図を引き写したものである。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 行き交う人が身に付けている竜数珠が、店舗の軒先に飾られた紐が、この一帯が竜神信教の勢力圏内であることを示している。蜥蜴人の割合も高めで、ちらほらと角付きの亜竜人も混じっているようだ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 偉大なる藍色の天主セレクティフィレクティを組織の頂点である竜導師長に据えたこの宗教勢力はセレクティ派とも呼ばれている。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 九人いる巫女はあくまでも祭儀を執り行うために存在する霊媒であるため、全員が武闘派というわけではない。エスメラルダがそうであるように、五番目から九番目までの巫女は戦う力を持たない。だが、一番目から四番目は違う。
+
+<!-- /AUTO-GENERATED:speech -->

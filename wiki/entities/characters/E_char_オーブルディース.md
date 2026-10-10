@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_オーブルディース
 type: entity
 subtype: character
 canonical_name: オーブルディース
-title: "オーブルディース"
+title: オーブルディース
 first_appearance: ch0265
 spoiler_after: ch0265
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # オーブルディース
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 他の三人はここまで至っていない。オーブルディース、ボール、クガルヤイム。（ch0268）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『冠聖堂』オーブルディース・エジーメ・クロウサー。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 他の三人はここまで至っていない。オーブルディース、ボール、クガルヤイム。
+
+<!-- /AUTO-GENERATED:action -->

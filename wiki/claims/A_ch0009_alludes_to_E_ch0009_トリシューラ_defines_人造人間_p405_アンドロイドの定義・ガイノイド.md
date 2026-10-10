@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0009_alludes_to_E_ch0009_トリシューラ_defines_人造人間_p405_アンドロイドの定義・ガイノイド
 title: ガイノイドの定義
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_トリシューラ_defines_人造人間_p405]]"

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ジーゼロ
 type: entity
 subtype: character
 canonical_name: ジーゼロ
-title: "ジーゼロ"
+title: ジーゼロ
 first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ジーゼロ
@@ -35,3 +36,25 @@ created: "2026-09-30"
 - [[E_char_テセト|テセト]] — 攻撃（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: ジーゼロ：ヨグウム警備保障が送り出す自動運転箒。杖のオルガンローデ。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『ボクを頑張って作ってくれた皆のために、ぜったいに勝ってみせる！』割り込んだのは、電子的に加工された少年の無垢な言葉。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『ジジババ死ね』『もういいよ老害は』『世代交代はよ』『リーナちゃん写して』
+- **unknown**: 自動運転箒のジーゼロは技術の高度さが仇になった形だよね～。
+
+<!-- /AUTO-GENERATED:speech -->

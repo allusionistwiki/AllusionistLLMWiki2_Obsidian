@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ラープ人
 type: entity
 subtype: character
 canonical_name: ラープ人
-title: "ラープ人"
+title: ラープ人
 first_appearance: ch0211
 spoiler_after: ch0211
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ラープ人
@@ -25,3 +26,12 @@ created: "2026-09-30"
 > 膨張し続ける熱を制御しきれず、不死にも思える生命力の男はそのまま自壊していった。（ch0211）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 赤肌のラープ人。両手に灯した巨大な猛火はおそらく『爆撃』。 解き放たれた呪力が炸裂。無数の火の玉が放物線を描いて四方へと飛んでいく。
+- **unknown**: 『爆撃』ではない。より上位の『貪炎』だ。 炎の蛇が半球障壁を術者の片腕ごと溶融させながら進撃。
+- **unknown**: 膨張し続ける熱を制御しきれず、不死にも思える生命力の男はそのまま自壊していった。
+
+<!-- /AUTO-GENERATED:action -->

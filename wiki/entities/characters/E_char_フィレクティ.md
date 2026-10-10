@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_フィレクティ
 type: entity
 subtype: character
 canonical_name: フィレクティ
-title: "フィレクティ"
+title: フィレクティ
 first_appearance: ch0113
 spoiler_after: ch0113
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # フィレクティ
@@ -27,3 +28,10 @@ created: "2026-09-30"
 > フィレクティ＝ラズリは『竜母様の守護者はあなたにしかできないことです』と断言した。（ch0219）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: フィレクティ＝ラズリは『竜母様の守護者はあなたにしかできないことです』と断言した。
+
+<!-- /AUTO-GENERATED:speech -->

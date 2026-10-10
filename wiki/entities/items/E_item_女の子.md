@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_女の子
 type: entity
 subtype: item
 canonical_name: 女の子
-title: "女の子"
+title: 女の子
 first_appearance: ch0092
 spoiler_after: ch0092
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 女の子
@@ -28,3 +29,18 @@ created: "2026-09-30"
 > 六冊目は、誰からも恋されて、誰にでも恋したけれど、一生満たされることがなかった王様の話。（ch0092）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: たくさんの人に囲まれている時の方が、ひとりきりの時よりさみしく感じられるものだというのです。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ずっと、ずうっと前、もう思い出せないほど昔。女の子は、冒険をする人でした。
+- **unknown**: 女の子は自分で自分の右半身をパンのように千切って地面に埋めます。すると、そこから立派な柘榴の木が生えてきました。
+
+<!-- /AUTO-GENERATED:action -->

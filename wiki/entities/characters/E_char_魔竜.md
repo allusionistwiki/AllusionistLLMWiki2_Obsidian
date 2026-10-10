@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_魔竜
 type: entity
 subtype: character
 canonical_name: 魔竜
-title: "魔竜"
+title: 魔竜
 first_appearance: ch0180
 spoiler_after: ch0180
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 魔竜
@@ -28,3 +29,10 @@ created: "2026-09-30"
 > 魔竜との戦いにおいて主役となっているのは上空から九門の砲塔で呪術射撃を続けるグレンデルヒ、無尽蔵に生み出される巨大石像を操りながら自身も戦車の如き勢いで魔竜に攻撃を仕掛けるルバーブ、荒ぶる天災として魔竜と正面から格闘するアルマの三人だが（ch0181）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 見え透いた挑発であり、多くの物語の筋では賢者の口車に乗せられて怪物はこのまま封じられてしまうのが常ではあるが、魔竜はそのような呪文に捕らわれたりはしなかった。空気を読まない踏みつけがルヴァオを圧殺する。
+
+<!-- /AUTO-GENERATED:action -->

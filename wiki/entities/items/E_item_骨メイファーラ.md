@@ -1,0 +1,38 @@
+---
+schema_version: '5.1'
+id: E_item_骨メイファーラ
+type: entity
+title: 骨メイファーラ
+subtype: item
+canonical_name: 骨メイファーラ
+aliases: []
+first_appearance: ch0253
+spoiler_after: ch0253
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 骨メイファーラ
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 新たな闖入者は、豪奢なドレスを身に纏った貴婦人だった。だが襟と裾から覗いた素肌は生者のものではありえない。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「わきまえなさい、召喚士。豹変幻術で取り繕えるのは表層だけ。帰ってお前の主に伝えるといいわ。呪文の座と手を結びたいのなら、虚飾よりも虚構を用いるべきだと」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 骸骨貴婦人の姿をした『だれか』と私の間を、『メイファーラ』が飛んでいく。飛翔する私の友達は、銀貨の形をしているはずだ。
+
+<!-- /AUTO-GENERATED:action -->

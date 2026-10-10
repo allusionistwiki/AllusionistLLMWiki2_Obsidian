@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_char_賢者たち
+type: entity
+title: 賢者たち
+subtype: character
+canonical_name: 賢者たち
+aliases: []
+first_appearance: ch0096
+spoiler_after: ch0096
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 賢者たち
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 曰く、「頭蓋を開き脳を洗い、微弱な稲妻を流せばたちどころに最上の快楽が得られましょうぞ。真実とは得てしてその程度のものでございます」「恋とはすなわち生の躍動。すなわち極限における命の実感こそがそれを生み出すのです。愛しき相手と殺し合われませ」
+
+<!-- /AUTO-GENERATED:speech -->

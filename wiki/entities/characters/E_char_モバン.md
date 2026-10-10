@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_モバン
 type: entity
 subtype: character
 canonical_name: モバン
-title: "モバン"
+title: モバン
 first_appearance: ch0208
 spoiler_after: ch0208
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # モバン
@@ -26,3 +27,18 @@ created: "2026-09-30"
 > 「第七位の命令なんぞクソ食らえだ。全員で団結して俺たちの地上を守る。それがあるべき修道騎士の姿だろうが。やってやるぜ、俺たちで」（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「はあ？ 肝心な時にクソの役にも、いや邪神と相打ちなら役には立っているのか、だがどうせならもう一匹をどうにかしてから死んでくれ！」
+- **unknown**: 「待ってくれ。金鎖経由で本隊に報告が行ってないのか？ あの害虫の親玉を生む卵がまだ三つある。キノコ人の武装集団が第五階層に持ち込もうとしているんだ。」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 「第七位の命令なんぞクソ食らえだ。全員で団結して俺たちの地上を守る。それがあるべき修道騎士の姿だろうが。やってやるぜ、俺たちで」
+
+<!-- /AUTO-GENERATED:relationship -->

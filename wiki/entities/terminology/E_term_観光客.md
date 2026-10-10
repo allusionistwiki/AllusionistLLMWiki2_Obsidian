@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_観光客
 type: entity
 subtype: terminology
 canonical_name: 観光客
-title: "観光客"
+title: 観光客
 first_appearance: ch0225
 spoiler_after: ch0225
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 観光客
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 新たな探索者の職能区分『観光客』は曰く付きの杖を運用する呪術師だ。（ch0233）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『冥府の住人』となる条件、戻らずの果実を口にしたことで『創造権』を獲得した観光客たちは、思い思いに第五階層ならではの幻想遊びに精を出し、滞在時間に関係なく『ガロアンディアン人』としての立場を手に入れていく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 新たな探索者の職能区分『観光客』は曰く付きの杖を運用する呪術師だ。
+
+<!-- /AUTO-GENERATED:name -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_王さまたち
 type: entity
 subtype: character
 canonical_name: 王さまたち
-title: "王さまたち"
+title: 王さまたち
 first_appearance: ch0114
 spoiler_after: ch0114
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 王さまたち
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 女の子は微笑んで、途方もない人数の王さまたちを丸ごと抱きしめたのです。（ch0114）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 王さまたちは女の子に噛み付いて、一つになろうとしました。
+
+<!-- /AUTO-GENERATED:action -->

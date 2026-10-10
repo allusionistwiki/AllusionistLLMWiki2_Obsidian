@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_レナリア
 type: entity
 subtype: terminology
 canonical_name: レナリア
-title: "レナリア"
+title: レナリア
 first_appearance: ch0205
 spoiler_after: ch0205
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # レナリア
@@ -27,3 +28,45 @@ created: "2026-09-30"
 > 六つに連なる宣名のコイン。『死神の腕』シェロン、『弱者の盗人』クラララリア、『刈り取る者』ティーアードゥ、『猫の死』ダーカンシェル、『こぼれない鎌』ラウス、そして『外れない矢』レメス。（ch0248）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: レナリア・Ｖ・オルガナ。 第七世界槍の文明圏ではよく知られた名である。それもとびきりの悪名だ。
+- **unknown**: ティリビナ人が依頼したのは『王殺し』と呼ばれる当代一の人気暗殺者。動画配信者にして革命請負人。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: そのかわりにあたしに協力しろってことですね。
+- **unknown**: 私、彼のファンなのね。ずっと追いかけてて、ひとつになって融け合いたいって夜ごとに夢を作るほど大好き。
+- **unknown**: 最悪の結末は彼が『マレブランケ』入りしてシナモリアキラにされてしまうこと。
+- **unknown**: 平たく言うとレイプして血肉を喰らいたいなって。きゃっ、言っちゃた！
+- **unknown**: メイちゃんって呼ぶわ
+- **unknown**: 魂を夢界に囚われて操り人形にされてるのがあまりにも惨めで見ていられなかったから、解放してあげたのよ
+- **unknown**: 近頃、第五階層ではある噂が流れているの。それは『祝祭の中でシナモリアキラ選が行われる』という噂
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: ここにある実体は影みたいなもの。私の核は集合無意識の底、夢界にある。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: この子はあなたと同じ天眼の民。ザイ・ジャエトの遠き裔、名前はレナ
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 一晩中ずーっと誰かの夢に潜って調律するのって久しぶり。注げる善の朱神も枯渇しちゃったし
+
+<!-- /AUTO-GENERATED:action -->

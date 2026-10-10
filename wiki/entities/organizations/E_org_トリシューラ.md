@@ -1,6 +1,6 @@
 ---
-title: "トリシューラ"
-schema_version: "5.1"
+title: トリシューラ
+schema_version: '5.1'
 id: E_org_トリシューラ
 type: entity
 subtype: organization
@@ -9,7 +9,8 @@ first_appearance: ch0012
 spoiler_after: ch0012
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # トリシューラ
@@ -33,3 +34,17 @@ created: "2026-09-30"
 - [[A_ch0082_analogous_to_E_ch0082_トリシューラ_defines_王国の形をした祭壇_p2994_国家としての宗教法人|女王崇拝循環による国家型宗教法人]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「トリシューラは自己の存在を世界に拡大、拡張することを望んでいるようですね。つまり、次の段階としてガロアンディアンの領土を広げるつもりでしょう」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: カーティスが敗北した現在では再びトリシューラの管理下に置かれている。
+
+<!-- /AUTO-GENERATED:relationship -->

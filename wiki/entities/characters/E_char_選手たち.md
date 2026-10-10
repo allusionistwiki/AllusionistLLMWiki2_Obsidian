@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_選手たち
 type: entity
 subtype: character
 canonical_name: 選手たち
-title: "選手たち"
+title: 選手たち
 first_appearance: ch0237
 spoiler_after: ch0237
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 選手たち
@@ -34,3 +35,24 @@ created: "2026-09-30"
 - [[E_char_精子|精子]] — appears_as（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 選手たちが市街地上空のワープゲートに次々と飛び込む。 次なる舞台は隣接異界・蒼空岩石群。 複雑怪奇な乱気流と散らばった岩塊が待ち受ける、苛烈な暴風域である。 箒乗りたちは、立ちはだかる塵に挑むように風を切って飛んでいく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 選手たちのビジュアルが白いおたまじゃくしに置き換わっていた。というより、どう見ても精子だった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 更には選手たちが精子になぞらえられたことで、選定のための試 練は熾烈な生存競争へとその性質を変えつつあった。 朱色に染まった夢世界を抜けた精子たちは熾烈なデッドヒートを繰り広げ、『到達』することだけを至上の目的と定めてひたすらに加速する。
+
+<!-- /AUTO-GENERATED:symbolic -->

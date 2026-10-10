@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_アキラ_says_信用できない語り手_p2371_動画の再生回数
 title: 再生回数操作のネット文化
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_アキラ_says_信用できない語り手_p2371]]"

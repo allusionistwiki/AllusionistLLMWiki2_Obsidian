@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_呪術儀式
 type: entity
 subtype: terminology
 canonical_name: 呪術儀式
-title: "呪術儀式"
+title: 呪術儀式
 first_appearance: ch0069
 spoiler_after: ch0069
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 呪術儀式
@@ -27,3 +28,10 @@ created: "2026-09-30"
 > 『祝祭』という『場』に大勢が参加することで、その呪術儀式は参加者全員が共同で成立させるための巨大な仕組みに変質していく。複数人で行う約束や誓約は強固な縛りとなって世界全体に対する強制力となるのだ。（ch0214）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 三つの呪術儀式、その最初のひとつである【過去】の歌が甦ろうとしていた。曲名は――【この夜が明けるまであと百万の祈り】。
+
+<!-- /AUTO-GENERATED:name -->

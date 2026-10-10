@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_老人
 type: entity
 subtype: character
 canonical_name: 老人
-title: "老人"
+title: 老人
 first_appearance: ch0014
 spoiler_after: ch0014
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 老人
@@ -35,3 +36,30 @@ created: "2026-09-30"
 - [[E_char_カーイン|カーイン]] — 攻撃（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 遡る、遡る。老人は少年期を過ぎ去り、母親の胎内へと回帰する。
+- **unknown**: 風が唸る音と共に、鋭い攻防が立て続けに空間を引き裂いた。 丹田狙いの貫手を弾く拳、腕をとろうとする動きごと巻き込んで引きつけようとする罠、それらを囮として放った本命打としての膝蹴り、そして頭突き――いや違う、噛み付き。
+- **unknown**: 軍配が上がったのは老人の拳。 六淫を押し込まれ、打撃を受けてしまうカーイン。頭部を押さえて膝をついた。
+- **unknown**: 『七色表情筋トレーニング』によるカーインへの挑発行為だった。 カーインは容易く引っかかった。
+- **unknown**: いつの間にか頭部から抜け出していた小人は影の中に飛び込むとそのまま逃走していった。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「はっ、抜かせガキ。てめえ吸血鬼じゃねえだろう」
+- **unknown**: 俺はこれを『Ｅ－Ｅ』と呼んでいる。最近になって拝借した名前だがな
+- **unknown**: もう耐えなくてもいいんだ。欲望を解放しろよカーイン。好きに力を振るえ、気ままに生きろ。我慢は身体に毒だぜぇ？
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その額には円形の穴が開いており、そこから脳細胞で構成されたような異形の小人が上半身をさらけ出していた。
+
+<!-- /AUTO-GENERATED:visual -->

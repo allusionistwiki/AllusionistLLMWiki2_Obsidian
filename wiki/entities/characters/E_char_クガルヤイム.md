@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_クガルヤイム
 type: entity
 subtype: character
 canonical_name: クガルヤイム
-title: "クガルヤイム"
+title: クガルヤイム
 first_appearance: ch0265
 spoiler_after: ch0265
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # クガルヤイム
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 現世に自己を再構成して最初に行ったのは自分を殺した仇を始末すること。（ch0265）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『刎首公』クガルヤイム・ガレニス・クロウサー。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ごとり。ある日、ミブリナの首が落ちた。「一芸頼みの無能めが。冥府で己の不遜を詫びろ」 至近距離で放たれた刃は光。
+
+<!-- /AUTO-GENERATED:action -->

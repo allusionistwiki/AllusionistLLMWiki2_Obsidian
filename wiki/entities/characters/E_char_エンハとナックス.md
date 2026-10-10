@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_エンハとナックス
 type: entity
 subtype: character
 canonical_name: エンハとナックス
-title: "エンハとナックス"
+title: エンハとナックス
 first_appearance: ch0235
 spoiler_after: ch0235
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # エンハとナックス
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > そしてクロウサーの本流であるダウザールやパーンとの最大の違いは、若さだった。（ch0249）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: そしてクロウサーの本流であるダウザールやパーンとの最大の違いは、若さだった。
+
+<!-- /AUTO-GENERATED:symbolic -->

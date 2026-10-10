@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0023_alludes_to_E_ch0023_アキラ_other_キロン_p1083_cyberpunk_culture
 title: サイバーパンク文化の暗喩
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0023_アキラ_other_キロン_p1083]]"

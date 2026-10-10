@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_黒蟲騎士団
 type: entity
 subtype: organization
 canonical_name: 黒蟲騎士団
-title: "黒蟲騎士団"
+title: 黒蟲騎士団
 first_appearance: ch0100
 spoiler_after: ch0100
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 黒蟲騎士団
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 背中の翅をはじめとした特徴から虫態アヴロノとわかるが、ラプンシエルたちは男たちが黒蟲騎士団の最精鋭であることを最初から知っていた。（ch0243）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: だが、彼らはこの状況に至る直前にハタラドゥールと交戦し、消耗を強いられていた。
+- **unknown**: 前衛が障壁術で足止めをしている間に残りが非戦闘員を避難させていく。 黒蟲騎士団の練度は高かった。
+- **unknown**: 屈強な獣人の多い【黄獣騎士団】と機動力に優れる【黒蟲騎士団】が石像兵を翻弄し、大地の民たちを蹴散らしている。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 亜竜王アルトの父祖ダーカンシェルをさらに遡り、その父神カズキスはこの『黒蟲騎士団』の団長たちの親でもあるといいます
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 背中の翅をはじめとした特徴から虫態アヴロノとわかるが、ラプンシエルたちは男たちが黒蟲騎士団の最精鋭であることを最初から知っていた。
+
+<!-- /AUTO-GENERATED:visual -->

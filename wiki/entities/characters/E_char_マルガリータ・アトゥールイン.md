@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_char_マルガリータ・アトゥールイン
+type: entity
+title: マルガリータ・アトゥールイン
+subtype: character
+canonical_name: マルガリータ・アトゥールイン
+aliases: []
+first_appearance: ch0233
+spoiler_after: ch0233
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# マルガリータ・アトゥールイン
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「まずは予選一位通過！ 竜神信教から参戦！ 四家威力派の紀竜霊媒！ 『真珠』のマルガリータ・アトゥールイン！ 機甲箒はご存じシェイドランと工神工房のコラボレーションモデル！ 最新鋭の紀竜翼機・『威風』が、鈴国六千年の呪文飛翔と共にそのヴェールを脱ぐ！」
+
+<!-- /AUTO-GENERATED:visual -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_呪術師
 type: entity
 subtype: character
 canonical_name: 呪術師
-title: "呪術師"
+title: 呪術師
 first_appearance: ch0029
 spoiler_after: ch0029
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 呪術師
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > かろうじて無事な道に交通呪文を描き、国際規格の道路標識杖を掲げた呪術師が魔竜の前に立ちはだかった。しかし巨大ネズミの進撃は止まらない。（ch0181）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: そして、とある呪術師はこう語る。「青は青じゃないものによって規定される」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: かろうじて無事な道に交通呪文を描き、国際規格の道路標識杖を掲げた呪術師が魔竜の前に立ちはだかった。しかし巨大ネズミの進撃は止まらない。
+
+<!-- /AUTO-GENERATED:action -->

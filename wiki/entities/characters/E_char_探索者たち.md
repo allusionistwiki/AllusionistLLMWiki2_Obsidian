@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_探索者たち
 type: entity
 subtype: character
 canonical_name: 探索者たち
-title: "探索者たち"
+title: 探索者たち
 first_appearance: ch0180
 spoiler_after: ch0180
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 探索者たち
@@ -28,3 +29,14 @@ created: "2026-09-30"
 > 高名な英雄ではなく、名も無き探索者が始祖吸血鬼という大物を倒した。ならば我々にだってまだ勝ち目はある。（ch0181）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: シナモリアキラは素手で自らの腹から肉を引き千切り、包丁で背中や肩の肉を削ぎ落とす。時には骨ごと切り離して鍋に突っ込んでいく。
+- **unknown**: 魔竜との戦いにおいて主役となっているのは上空から九門の砲塔で呪術射撃を続けるグレンデルヒ、無尽蔵に生み出される巨大石像を操りながら自身も戦車の如き勢いで魔竜に攻撃を仕掛けるルバーブ、荒ぶる天災として魔竜と正面から格闘するアルマの三人だが
+- **unknown**: つまり、魔竜には文脈を絡めた攻撃が一切通用しない。
+- **unknown**: 高名な英雄ではなく、名も無き探索者が始祖吸血鬼という大物を倒した。ならば我々にだってまだ勝ち目はある。
+- **unknown**: そうした実力者たちに『カシュラム』という権威から地位と呪力が与えられたことにより、無自覚のまま彼らは魔竜に抗い続けている。
+
+<!-- /AUTO-GENERATED:action -->

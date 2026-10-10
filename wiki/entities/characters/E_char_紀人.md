@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_紀人
 type: entity
 subtype: character
 canonical_name: 紀人
-title: "紀人"
+title: 紀人
 first_appearance: ch0141
 spoiler_after: ch0141
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 紀人
@@ -27,3 +28,10 @@ created: "2026-09-30"
 > 「換装・五番」 紀人の無機質な言葉が響く。（ch0248）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「換装・五番」 紀人の無機質な言葉が響く。
+
+<!-- /AUTO-GENERATED:speech -->

@@ -1,6 +1,6 @@
 ---
-title: "巨人"
-schema_version: "5.1"
+title: 巨人
+schema_version: '5.1'
 id: E_char_巨人
 type: entity
 subtype: character
@@ -9,7 +9,8 @@ first_appearance: ch0064
 spoiler_after: ch0064
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 巨人
@@ -34,3 +35,10 @@ created: "2026-09-30"
 - [[A_ch0068_alludes_to_E_ch0068_ユネクティア_has_property_巨人_p2556_神格化|技術極致による神格化]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 巨大な幻肢はフェロニアを包み込んだまま地の底へと引き摺り込んでいく。
+
+<!-- /AUTO-GENERATED:action -->

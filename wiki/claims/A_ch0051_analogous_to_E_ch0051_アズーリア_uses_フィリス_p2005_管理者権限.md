@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0051_analogous_to_E_ch0051_アズーリア_uses_フィリス_p2005_管理者権限
 title: 管理者権限へのアクセス
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0051_アズーリア_uses_フィリス_p2005]]"

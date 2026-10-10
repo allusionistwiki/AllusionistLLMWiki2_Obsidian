@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_伐採者
 type: entity
 subtype: character
 canonical_name: 伐採者
-title: "伐採者"
+title: 伐採者
 first_appearance: ch0153
 spoiler_after: ch0153
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 伐採者
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 即死したかに思われたチェーンソー男が起き上がっていた。いや、跳ね起きたと形容する方が正確かもしれない。手裏剣がひとりでに抜けて床に落ちる。（ch0153）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 伐採者がチェーンソーを振るう。すると血に呪われたその機械から人々の断末魔が聴こえてくる。レオは犠牲になったティリビナ人たちの痛みと苦しみを、そのアストラルの音を聴く異形の耳で受け取ってしまっていた。
+- **unknown**: 即死したかに思われたチェーンソー男が起き上がっていた。いや、跳ね起きたと形容する方が正確かもしれない。手裏剣がひとりでに抜けて床に落ちる。
+
+<!-- /AUTO-GENERATED:action -->

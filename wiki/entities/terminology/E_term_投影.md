@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_投影
 type: entity
 subtype: terminology
 canonical_name: 投影
-title: "投影"
+title: 投影
 first_appearance: ch0130
 spoiler_after: ch0130
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 投影
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 欲望を『投影』する呪術。『誇り高き男』としての自己を守るために自らの情欲を否定し、相手が自分を欲望していると思い込む邪視的な防衛機制。（ch0130）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 欲望を『投影』する呪術。『誇り高き男』としての自己を守るために自らの情欲を否定し、相手が自分を欲望していると思い込む邪視的な防衛機制。
+
+<!-- /AUTO-GENERATED:symbolic -->

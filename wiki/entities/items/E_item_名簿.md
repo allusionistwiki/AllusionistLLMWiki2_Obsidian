@@ -1,5 +1,5 @@
 ---
-title: "名簿"
+title: 名簿
 schema_version: '5.1'
 id: E_item_名簿
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0046
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 名簿
@@ -30,6 +30,8 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 殺害予告が記された名簿――その中には、歌姫Ｓｐｅａｒの名が確かに存在した。
+- **unknown**: 声明文はありふれた体制批判と涜神の呪詛だったが、名簿の方が常軌を逸していた。
 - **unknown**: 殺害予告が記された名簿――その中には、歌姫Ｓｐｅａｒの名が確かに存在した。
 - **unknown**: 声明文はありふれた体制批判と涜神の呪詛だったが、名簿の方が常軌を逸していた。
 - **unknown**: 殺害予告が記された名簿――その中には、歌姫Ｓｐｅａｒの名が確かに存在した。

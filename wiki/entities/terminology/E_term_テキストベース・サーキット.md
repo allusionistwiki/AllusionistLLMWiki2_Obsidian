@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_テキストベース・サーキット
 type: entity
 subtype: terminology
 canonical_name: テキストベース・サーキット
-title: "テキストベース・サーキット"
+title: テキストベース・サーキット
 first_appearance: ch0215
 spoiler_after: ch0215
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # テキストベース・サーキット
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > テキストベース・サーキットでは『描写の陳腐化』は減速に繋がります。（ch0249）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: テキストベース・サーキットでは『描写の陳腐化』は減速に繋がります。
+- **unknown**: そのレースでは音速を突破してはならない。『音が取れていない』場合は『門』のワープスピードに乗れないからだ。 そのレースでは物語に記されなくてはならない。『筆が乗っていない』のであれば吹き荒れる作風を受けて飛ぶことができないからだ。
+
+<!-- /AUTO-GENERATED:symbolic -->

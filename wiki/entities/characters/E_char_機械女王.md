@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_機械女王
 type: entity
 subtype: character
 canonical_name: 機械女王
-title: "機械女王"
+title: 機械女王
 first_appearance: ch0157
 spoiler_after: ch0157
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 機械女王
@@ -28,3 +29,20 @@ created: "2026-09-30"
 > タイミングを見計らったように会場に放送が響く。機械女王とクロウサー家が協議した結果、新たにダウザールのために特別参加枠が用意されたという内容だったが（ch0235）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 病院からの脱出経路とその後の目標地点、罠や待ち伏せの詳細な情報、さらに施設そのものが『花火の打ち上げ』により『打ち上げ用の空き地』になるまでのタイムリミットが示される。最終的には『ここには何もなかった』ということにするつもりらしい。
+- **unknown**: 号砲が鳴り響き、世界はひとつながりの道となる。テキストベース・サーキット。
+- **unknown**: 『祝祭期間中、バトルロイヤルゲームがやりたい』という要望を受けた機械女王は快諾。
+- **unknown**: 機械女王はその中で『瘴気』と『穢れ』という暗い過去を封印することに成功した。その『封印』というのがこの区画。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: タイミングを見計らったように会場に放送が響く。機械女王とクロウサー家が協議した結果、新たにダウザールのために特別参加枠が用意されたという内容だったが
+
+<!-- /AUTO-GENERATED:speech -->

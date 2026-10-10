@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_チリアット
 type: entity
 subtype: terminology
 canonical_name: チリアット
-title: "チリアット"
+title: チリアット
 first_appearance: ch0098
 spoiler_after: ch0098
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # チリアット
@@ -26,3 +27,19 @@ created: "2026-09-30"
 > 代償による呪術の強化。その代表例が寿命の消費だ。彼は死から遠ざかる代償として、己の命を削っていた。（ch0245）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「俺はかつてジャッフハリムが誇る四十四人の勇士にして第十四魔将であるダエモデクに仕えていました。俺にとって彼は尊敬すべき主であり、恩人であり、かけがえのない友人だった。お、俺は、そんな彼を命惜しさにみ、見捨て、て――」
+- **unknown**: 「師範代、古きガロアンディアンに関してですが、俺はそれについて幾ばくかの知識、そして縁があります」
+- **unknown**: 「四十四士は偉大なるレストロオセ様に忠誠を誓う下方勢力きっての勇者たちですが、その中で最も強き力を有していた四方の王はレストロオセ様とあくまで対等な存在でありました。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 決意を新たにしていたそのとき、俺は右腕がひとりでに動いて左腕に触れていることに気付いた。チリアットが何かを伝えたがっているのを察して、意識の中で問いかける。
+
+<!-- /AUTO-GENERATED:action -->

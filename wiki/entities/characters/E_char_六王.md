@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_六王
 type: entity
 subtype: character
 canonical_name: 六王
-title: "六王"
-first_appearance: ch0123
-spoiler_after: ch0123
+title: 六王
+first_appearance: ch0115
+spoiler_after: ch0115
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 六王
@@ -35,3 +36,22 @@ created: "2026-09-30"
 - [[E_char_発勁用意|発勁用意]] — 発言（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 六王はブウテトの中から飛び出して、それぞれアストラル体のままガロアンディアンを視察中だ。本人たちたっての希望であり、断る理由は無かったので承諾した。
+- **unknown**: 一般参加者が帰って行くが、六王はトリシューラとなにやら話し込んでいた。各自が自由に歓談するという体裁で、個別に交渉や情報交換が始まっているのだ。
+- **unknown**: ――面白い。
+- **unknown**: 六つの【断章】が光を放ち、そのうちの一つが空に浮かぶ太陰へと呪文を届かせる。情報の海底で眠り続けていた石版が輝き、冥道が開いていく。ヴァージルが作り出した冥府へ続く門。そこから飛び出した六条の魂魄がヒュールサスに飛来して、土の中に飲み込まれていく。
+- **unknown**: その事を全員で確かめ合うと、六王は静かに目を閉じて土の中に還っていく。次に目覚めた時、彼らは盟主と共に決戦に挑むのだ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 六王たちが口々に語るのは、シナモリアキラが再演によって過去へと干渉したその結果。彼らに刻み付けられた『身体性の記憶』だ。
+- **unknown**: 「無論、これこそ本家本元のサイバーカラテ、またの名をラフディ相撲」「元祖サイバーカラテは竜王国で誕生したものだ。あらゆる流派を統合した万能の武術が、この多種族が混淆する王国で生まれたのは必然と言えるだろう」
+
+<!-- /AUTO-GENERATED:speech -->

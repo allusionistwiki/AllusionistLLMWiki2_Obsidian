@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_死番虫
 type: entity
 subtype: character
 canonical_name: 死番虫
-title: "死番虫"
+title: 死番虫
 first_appearance: ch0208
 spoiler_after: ch0208
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 死番虫
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 本を喰らう死番虫は呪文竜を腕の一振りで引き裂き、内包する言葉の全てを貪らんと口吻を蠢かせる。腹の時計が物語を古びさせ、呪文の意味を劣化させていく。（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 世界槍に取り憑いた甲虫は、その腹に木製の時計を埋め込まれていた。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 秒針が動くたび、甲虫の周囲に存在するあらゆる生命が色褪せていく。 鳥は衰弱して墜ち、植物は枯れて死に、猿人は老いて天命が尽きた。 寿命を司る死神は時計を持つという。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 死番虫の巨大な顎が世界槍の穂先を粉々に砕き、ついでとばかりに滅びの呪文を貪り喰った。呪文竜が断末魔の声を上げると同時、浮遊する大量の魔導書に穴が穿たれていく。本喰らいである死番虫によって呪文ごと魔導書が捕食されているのだ。
+- **unknown**: 死番虫の大顎がキノコ人呪術師の胴体を捕らえ、いとも容易く噛み千切る。 あとには剥き出しの暴力だけが残された。
+- **unknown**: 本を喰らう死番虫は呪文竜を腕の一振りで引き裂き、内包する言葉の全てを貪らんと口吻を蠢かせる。腹の時計が物語を古びさせ、呪文の意味を劣化させていく。
+
+<!-- /AUTO-GENERATED:action -->

@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0068_analogous_to_E_ch0068_ユネクティア_says_言葉_p2540_言語哲学
 title: 言語哲学の記号脆弱性
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ユネクティア_says_言葉_p2540]]"

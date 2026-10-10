@@ -1,5 +1,5 @@
 ---
-title: "第六魔将ベフォニス"
+title: 第六魔将ベフォニス
 schema_version: '5.1'
 id: E_char_第六魔将ベフォニス
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 第六魔将ベフォニス
@@ -37,6 +37,8 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 第六魔将、石喰いのベフォニス。岩肌種。
+- **unknown**: 第六魔将、石喰いのベフォニス。岩肌種。トロル
 - **unknown**: 第六魔将、石喰いのベフォニス。岩肌種。
 - **unknown**: 第六魔将、石喰いのベフォニス。岩肌種。トロル
 - **unknown**: 第六魔将、石喰いのベフォニス。岩肌種。

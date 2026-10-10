@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_カルパオッソ
 type: entity
 subtype: character
 canonical_name: カルパオッソ
-title: "カルパオッソ"
+title: カルパオッソ
 first_appearance: ch0272
 spoiler_after: ch0272
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # カルパオッソ
@@ -28,3 +29,10 @@ created: "2026-09-30"
 > 「俺たちクロウサーはジャッフハリムが誕生するより前から異獣と戦い続けてきた。いや、ここはあえて『ホラー』と呼ぶべきかな」（ch0272）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 選定レースが終わり、正式に空使いとして認められた直後に婚約を発表。祝祭のフィナーレを飾る電撃的かつ華々しい結婚式で世界に新たなリーダーの誕生を知らしめるのさ。
+
+<!-- /AUTO-GENERATED:speech -->

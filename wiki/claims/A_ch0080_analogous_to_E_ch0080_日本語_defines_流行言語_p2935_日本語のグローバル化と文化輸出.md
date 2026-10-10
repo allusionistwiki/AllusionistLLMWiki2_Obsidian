@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0080_analogous_to_E_ch0080_日本語_defines_流行言語_p2935_日本語のグローバル化と文化輸出
 title: 日本語の文化輸出
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_日本語_defines_流行言語_p2935]]"

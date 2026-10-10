@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_巡槍艦ノアズアーク
 type: entity
 subtype: item
 canonical_name: 巡槍艦ノアズアーク
-title: "巡槍艦ノアズアーク"
+title: 巡槍艦ノアズアーク
 first_appearance: ch0019
 spoiler_after: ch0019
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 巡槍艦ノアズアーク
@@ -30,3 +31,17 @@ created: "2026-09-30"
 - [[A_ch0019_analogous_to_E_ch0019_トリシューラ_uses_巡槍艦ノアズアーク_p872_軍事技術_衝角戦術|衝角戦術の呪術的変換]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: まるで堤防が決壊するようだった。耳を劈く轟音と共に、船体が半ばからへし折れて内側から爆風と瓦礫、粉塵などが弾け飛んでいく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 巡槍艦ノアズアーク。きぐるみの魔女トリシューラが所有する次元巡洋艦は、現在グレンデルヒ率いる【変異の三手】によって制御を奪われてしまっている。巡槍艦は壁面を破壊することなく透過して港に乗り付けていた。
+
+<!-- /AUTO-GENERATED:visual -->

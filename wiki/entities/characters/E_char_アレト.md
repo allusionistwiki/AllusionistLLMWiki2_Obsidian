@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_アレト
 type: entity
 subtype: character
 canonical_name: アレト
-title: "アレト"
+title: アレト
 first_appearance: ch0140
 spoiler_after: ch0140
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # アレト
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 大地に手をついて呪いの文言を唱え始めた彼は、数秒の後に呪いを返されて崩れ落ちた。目から黒い血を流し、口から歯をぼろぼろと落としながら肉と骨を朽ち果てさせている。（ch0140）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「しかし、そうしますとアルト王にも影響が」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 大地に手をついて呪いの文言を唱え始めた彼は、数秒の後に呪いを返されて崩れ落ちた。目から黒い血を流し、口から歯をぼろぼろと落としながら肉と骨を朽ち果てさせている。
+
+<!-- /AUTO-GENERATED:action -->

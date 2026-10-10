@@ -1,5 +1,5 @@
 ---
-title: "魔将たち"
+title: 魔将たち
 schema_version: '5.1'
 id: E_org_魔将たち
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0072
 spoiler_after: ch0072
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # 魔将たち
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 魔将たちは怒りと悲しみを込めて渾身の集中攻撃を行う。
 - **unknown**: 魔将たちは怒りと悲しみを込めて渾身の集中攻撃を行う。
 - **unknown**: 魔将たちは怒りと悲しみを込めて渾身の集中攻撃を行う。
 - **unknown**: 魔将たちは怒りと悲しみを込めて渾身の集中攻撃を行う。

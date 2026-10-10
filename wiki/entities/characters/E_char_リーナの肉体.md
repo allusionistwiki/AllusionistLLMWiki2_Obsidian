@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_char_リーナの肉体
+type: entity
+title: リーナの肉体
+subtype: character
+canonical_name: リーナの肉体
+aliases: []
+first_appearance: ch0270
+spoiler_after: ch0270
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# リーナの肉体
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ひとつ、今まさに『下界』でダウザールの傀儡と化しているリーナの肉体が、『青い血』によって徐々に変質していること。それも外からの変化ではない。リーナの身の内に流れる血液がそのまま置き換えられていた。
+
+<!-- /AUTO-GENERATED:visual -->

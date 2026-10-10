@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0053_analogous_to_E_ch0053_連帯_defines_攻略速度の決定_p2065_cartel_and_market_manipulation
 title: カルテル・市場操作の構造一致
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_連帯_defines_攻略速度の決定_p2065]]"

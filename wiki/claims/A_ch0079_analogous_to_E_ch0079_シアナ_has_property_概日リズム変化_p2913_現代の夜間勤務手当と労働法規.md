@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0079_analogous_to_E_ch0079_シアナ_has_property_概日リズム変化_p2913_現代の夜間勤務手当と労働法規
 title: 労働環境均一化概念のアナロジー
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_シアナ_has_property_概日リズム変化_p2913]]"

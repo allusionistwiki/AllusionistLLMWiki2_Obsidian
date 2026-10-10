@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_炎の天使
 type: entity
 subtype: character
 canonical_name: 炎の天使
-title: "炎の天使"
+title: 炎の天使
 first_appearance: ch0143
 spoiler_after: ch0143
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 炎の天使
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 聖なる炎が呪文の雷とぶつかり合って、金色の鎖がヴァージルの腕に絡みつく。 あらゆる呪文を無効化する炎天使に少年の攻撃は全く通用しない。（ch0145）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 聖なる炎が呪文の雷とぶつかり合って、金色の鎖がヴァージルの腕に絡みつく。 あらゆる呪文を無効化する炎天使に少年の攻撃は全く通用しない。
+
+<!-- /AUTO-GENERATED:action -->

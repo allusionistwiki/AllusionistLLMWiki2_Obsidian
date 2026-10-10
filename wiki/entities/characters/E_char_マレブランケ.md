@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_マレブランケ
 type: entity
 subtype: character
 canonical_name: マレブランケ
-title: "マレブランケ"
+title: マレブランケ
 first_appearance: ch0081
 spoiler_after: ch0081
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # マレブランケ
@@ -32,3 +33,10 @@ created: "2026-09-30"
 - [[A_ch0081_structurally_matches_E_ch0081_イアテム_defeats_マレブランケ_p2985_ネットワークセキュリティの脆弱性|通信経路乗っ取りによるセキュリティ脆弱性]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: そして身柄を狙われたマレブランケの一員カルカブリーナ。
+
+<!-- /AUTO-GENERATED:action -->

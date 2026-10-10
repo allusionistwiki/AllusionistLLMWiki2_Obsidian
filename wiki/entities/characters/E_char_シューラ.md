@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_シューラ
 type: entity
 subtype: character
 canonical_name: シューラ
-title: "シューラ"
+title: シューラ
 first_appearance: ch0104
 spoiler_after: ch0104
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # シューラ
@@ -28,3 +29,28 @@ created: "2026-09-30"
 > 【星見の塔】有数の銃士であるシューラにかかれば赤子の手を捻るより容易くやっつけられるってこと）（ch0135）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: テンガロンハットとダスターコートを身に着けた銃士シューラが元気よく二丁拳銃を乱射していた。『弾道予報』を立ち上げながらゴーグル型端末に各種予測結果を表示して次々と弾丸を命中させていく。
+- **unknown**: 【星見の塔】有数の銃士であるシューラにかかれば赤子の手を捻るより容易くやっつけられるってこと）
+- **unknown**: 唐突に響いた声が、前触れ無く出現した姿が、俺にとって最もなじみ深いものだったから。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「我ながら悪役の思考だなあ」（アキラくんにも『サイバーカラテ道場』の化身としての自覚が出てきたみたいでシューラは安心だよ。もっと悪い奴になろうね！）
+- **unknown**: 今のシューラは、他の三人の末妹候補と休戦してるの」
+- **unknown**: いざというときの為のバックアップ、スタンドアロンシューラ、ただ今起動したよ！
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 牙やコウモリの羽を生やした小悪魔シューラが三叉槍を掲げて喜んでいた。
+
+<!-- /AUTO-GENERATED:visual -->

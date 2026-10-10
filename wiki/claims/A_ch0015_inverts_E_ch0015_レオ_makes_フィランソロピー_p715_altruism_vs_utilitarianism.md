@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0015_inverts_E_ch0015_レオ_makes_フィランソロピー_p715_altruism_vs_utilitarianism
 title: 博愛と功利主義の逆転
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_レオ_makes_フィランソロピー_p715]]"

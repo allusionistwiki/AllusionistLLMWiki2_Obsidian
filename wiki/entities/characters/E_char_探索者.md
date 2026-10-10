@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_探索者
 type: entity
 subtype: character
 canonical_name: 探索者
-title: "探索者"
+title: 探索者
 first_appearance: ch0021
 spoiler_after: ch0021
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 探索者
@@ -28,3 +29,14 @@ created: "2026-09-30"
 > 探索者と学者は顔を見合わせ、無言で走り出した。 他にできる事などない。追い縋る大量の怪虫たちを蹴散らしながら逃走する。（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 応戦しようと呪符や杖を掲げた探索者たちはその圧倒的な質量に圧倒され、不気味な複眼から放射される魔力に屈していった。
+- **unknown**: 探索者とおぼしき数人の男たちが学者の命を救っていた。有無を言わさずに手を引かれる。
+- **unknown**: 探索者と学者は顔を見合わせ、無言で走り出した。 他にできる事などない。追い縋る大量の怪虫たちを蹴散らしながら逃走する。
+- **unknown**: 矢を追いかけるようにして短剣と丸盾を装備した軽戦士が疾走、その後ろに蛇槍を構えた呪槍士が続く。
+- **unknown**: 軽戦士の盾が妖しく輝いて紋様に見えた目蓋が開き、呪槍士の蛇槍が棍棒に巻き付いた。邪視による呪縛が雷撃を封殺し、使い魔武装が虹犬の手に噛み付こうと牙を剥く。
+
+<!-- /AUTO-GENERATED:action -->

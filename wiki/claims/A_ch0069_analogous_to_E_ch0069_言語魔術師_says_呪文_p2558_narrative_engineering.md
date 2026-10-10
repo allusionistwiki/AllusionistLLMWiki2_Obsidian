@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0069_analogous_to_E_ch0069_言語魔術師_says_呪文_p2558_narrative_engineering
 title: 物語工学への転生
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_言語魔術師たち_says_呪文_p2558]]"

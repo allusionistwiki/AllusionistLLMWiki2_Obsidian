@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0023_structurally_matches_E_ch0023_コルセスカ_uses_二人羽織_p1062_exoskeleton_interface
 title: 外骨格インターフェースの可視化
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0023_コルセスカ_uses_二人羽織_p1062]]"

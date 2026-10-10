@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_char_レストロオセ四十四士の後継者
+type: entity
+title: レストロオセ四十四士の後継者
+subtype: character
+canonical_name: レストロオセ四十四士の後継者
+aliases: []
+first_appearance: ch0246
+spoiler_after: ch0246
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# レストロオセ四十四士の後継者
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 企画を立案したのは自らの娘を展示の目玉に据えたレストロオセ四十四士の後継者。
+
+<!-- /AUTO-GENERATED:action -->

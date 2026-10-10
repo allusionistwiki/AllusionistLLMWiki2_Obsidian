@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_巨大シナモリアキラ
 type: entity
 subtype: character
 canonical_name: 巨大シナモリアキラ
-title: "巨大シナモリアキラ"
+title: 巨大シナモリアキラ
 first_appearance: ch0181
 spoiler_after: ch0181
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 巨大シナモリアキラ
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 桃色のポニーテールが槍の先端に巨大な矢尻を『創造』し、それに合わせるように灰色のアヴロノが固定式の巨大な弓を『創造』する。（ch0181）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: そして、『分身』を殺されたことで激怒した『本体』がその擬態を解除。
+
+<!-- /AUTO-GENERATED:visual -->

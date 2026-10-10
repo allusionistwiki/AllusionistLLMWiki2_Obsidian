@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ハザーリャ
 type: entity
 subtype: character
 canonical_name: ハザーリャ
-title: "ハザーリャ"
+title: ハザーリャ
 first_appearance: ch0073
 spoiler_after: ch0073
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ハザーリャ
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > その座を追われ、新たな神にして女王の権能の一部となったハザーリャが笑い出す。雄々しき男神そのものとなった巨大な槍の中にいるのは、もはやお馴染みとなった宿敵グレンデルヒだ。（ch0115）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 序列十三位――つまりは異獣の天使ハザーリャは深海を司ると言われている。細かい網目状の海綿質繊維によって構成された身体が次元を引き裂いて出現し
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: その座を追われ、新たな神にして女王の権能の一部となったハザーリャが笑い出す。雄々しき男神そのものとなった巨大な槍の中にいるのは、もはやお馴染みとなった宿敵グレンデルヒだ。
+
+<!-- /AUTO-GENERATED:symbolic -->

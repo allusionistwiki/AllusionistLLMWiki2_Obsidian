@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_天使
 type: entity
 subtype: character
 canonical_name: 天使
-title: "天使"
+title: 天使
 first_appearance: ch0145
 spoiler_after: ch0145
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 天使
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 空を旋回する箒の魔女は人形たちを翻弄し、遂には天使すら破滅の渦へと誘い込んでしまった。（ch0145）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 爆心地に天使の残骸が横たわっている。 ダモクレスの剣による王国の滅亡に巻き込まれたようだ。
+
+<!-- /AUTO-GENERATED:visual -->

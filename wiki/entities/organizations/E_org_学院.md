@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_学院
 type: entity
 subtype: organization
 canonical_name: 学院
-title: "学院"
+title: 学院
 first_appearance: ch0188
 spoiler_after: ch0188
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 学院
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > お知らせします。雄々しき父兄の方々が到着されました。猛々しくも勇ましいその雄姿を称えるため、生徒の皆さんで来訪をお祝いしましょう（ch0188）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 槍船は迎え入れるように『門』を開いた学院の中に、一気に穂先を挿入した。
+
+<!-- /AUTO-GENERATED:action -->

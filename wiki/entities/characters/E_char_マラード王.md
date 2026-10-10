@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_マラード王
 type: entity
 subtype: character
 canonical_name: マラード王
-title: "マラード王"
+title: マラード王
 first_appearance: ch0098
 spoiler_after: ch0098
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # マラード王
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 「――だが同時に、不安にもなるのだ。お前が俺の知るルバーブではなくなっていくような、そんな不吉な予感を覚えてしまう」（ch0143）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 本来の筋書きはこうだ。 マラード王は霊王フィフウィブレス＝ハルハハールに『美しさ』で勝負を挑む。 どれだけ多くの女性を誘惑できるかという競い合いで勝利した王は、自信を喪失して弱体化した霊王を追い返すことに成功する。
+
+<!-- /AUTO-GENERATED:speech -->

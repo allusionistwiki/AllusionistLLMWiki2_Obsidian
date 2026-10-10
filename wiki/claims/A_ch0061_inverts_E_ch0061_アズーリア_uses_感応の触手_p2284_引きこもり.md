@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0061_inverts_E_ch0061_アズーリア_uses_感応の触手_p2284_引きこもり
 title: 引きこもりへの逆転
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0061_アズーリア_uses_感応の触手_p2284]]"

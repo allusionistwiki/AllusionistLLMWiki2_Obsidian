@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_冷凍睡眠者
 type: entity
 subtype: character
 canonical_name: 冷凍睡眠者
-title: "冷凍睡眠者"
+title: 冷凍睡眠者
 first_appearance: ch0168
 spoiler_after: ch0168
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 冷凍睡眠者
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 淡々と言い放つオルヴァは、片手でごっそりと空間を抉り取った。すると次の瞬間、彼の目の前に『引き寄せ』される冷凍睡眠者。アポート（ch0168）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 冷凍睡眠者をはじめとする朱色の信奉者は、天主に夢を預けて恩恵を得ている。彼らは互いに夢世界で自己表現をし、コミュニケーションをとり、自在な創造行為を行うのだった。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_一行
 type: entity
 subtype: terminology
 canonical_name: 一行
-title: "一行"
+title: 一行
 first_appearance: ch0161
 spoiler_after: ch0161
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 一行
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 暗幕によって光量を制限された空間、天井の中心だけが円形の採光窓となって光の柱を落としている。光に照らされた中央、そこに誰かがいた。（ch0200）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「ぶひっ、ぶひぃぃぃぃ！！」「ほうら、豚は豚らしく可愛くぶひっと鳴いてご覧なさい？」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 暗幕によって光量を制限された空間、天井の中心だけが円形の採光窓となって光の柱を落としている。光に照らされた中央、そこに誰かがいた。
+
+<!-- /AUTO-GENERATED:action -->

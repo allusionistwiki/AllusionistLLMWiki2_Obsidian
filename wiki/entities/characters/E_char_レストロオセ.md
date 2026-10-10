@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_レストロオセ
 type: entity
 subtype: character
 canonical_name: レストロオセ
-title: "レストロオセ"
+title: レストロオセ
 first_appearance: ch0100
 spoiler_after: ch0100
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # レストロオセ
@@ -28,3 +29,32 @@ created: "2026-09-30"
 > 全身の肉が削ぎ落とされて骨だけになった少女が、足下から這い上がってくる百足や蛇を振り払いながら足を進めていく。（ch0107）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「忌むべき呪妃、レストロオセ。聞くところによると、言語支配者と呼ばれる卓越した神秘の担い手であるとか」
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 「皆殺し、皆殺し――わたくしの目の前に存在するものは全て、全て、ぐつぐつ煮込んで美味しく料理して、綺麗に盛りつけした後で捨てましょう。」
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 巨大な闇の中に閉じ込められた王の姿が見えなくなる。
+- **unknown**: 球となった肩から脚が伸び、膝があるべき場所と手首が連結される。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「人間は不意に訪れた病や事故などにより特に意味も無く死に！ 次の瞬間には隕石の落下、火山の噴火、地震や津波などの天変地異により人類は滅亡する！ これがリアル！」
+
+<!-- /AUTO-GENERATED:speech -->

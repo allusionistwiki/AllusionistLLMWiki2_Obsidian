@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_モーエン
 type: entity
 subtype: character
 canonical_name: モーエン
-title: "モーエン"
-first_appearance: ch0270
-spoiler_after: ch0270
+title: モーエン
+first_appearance: ch0268
+spoiler_after: ch0268
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # モーエン
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > エジーメきっての天才、ダウザールやミブリナに続く偉大な魔女にしてクロウサー中興の祖とも呼ばれる大呪術師は、しかし晩年を苦悩の中で過ごした。 下界の猥雑さと困難さ、社会の複雑性に圧倒され続け、己の愚かさに絶望する日々。（ch0271）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 闇を突き抜け、上昇し、光の中を飛ぶ。そこに、古い巨人たちの姿があった。モーエン。ダウザール。そしてレメス。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: クロウサー中興の祖、大魔女モーエンによって築き上げられた呪術体系の基礎となる概念だが、その偉業に反して大魔女そのひとの人となりはあまり知られていない。 いまやその理由は明白だ。偉大な先駆者、翼牛に騎乗した黒髪の美女モーエンが荒ぶる姿を見ながら、リーナは『初手から飛ばし過ぎだろ』と思った。
+
+<!-- /AUTO-GENERATED:name -->

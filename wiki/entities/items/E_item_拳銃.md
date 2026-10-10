@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_拳銃
 type: entity
 subtype: item
 canonical_name: 拳銃
-title: "拳銃"
+title: 拳銃
 first_appearance: ch0220
 spoiler_after: ch0220
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 拳銃
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 多くの者の予想を裏切って、銃口から飛び出したのは花だった。　色鮮やかな、ピンク色の石楠花。（ch0220）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 多くの者の予想を裏切って、銃口から飛び出したのは花だった。　色鮮やかな、ピンク色の石楠花。
+
+<!-- /AUTO-GENERATED:visual -->

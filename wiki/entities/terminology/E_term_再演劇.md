@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_term_再演劇
+type: entity
+title: 再演劇
+subtype: terminology
+canonical_name: 再演劇
+aliases: []
+first_appearance: ch0193
+spoiler_after: ch0193
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# 再演劇
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: この再演劇のベースとなっているのは、基幹参照世界におけるソフォクレスの悲劇『アンティゴネ』。そこに『オイディプス』とかアイスキュロスの『テーバイ攻めの七将』の要素も混ざっているけど、あくまでメインは『アンティゴネ』だと思っていい。
+
+<!-- /AUTO-GENERATED:symbolic -->

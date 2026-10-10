@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_風の便り
 type: entity
 subtype: item
 canonical_name: 風の便り
-title: "風の便り"
+title: 風の便り
 first_appearance: ch0263
 spoiler_after: ch0263
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 風の便り
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 死を覚悟して戦場に赴いた巨人の、魂を込めた願いが切々と綴られていく。重さを与えられた愛情がそこにあった。（ch0263）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 死を覚悟して戦場に赴いた巨人の、魂を込めた願いが切々と綴られていく。重さを与えられた愛情がそこにあった。
+
+<!-- /AUTO-GENERATED:symbolic -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_レゴン
 type: entity
 subtype: character
 canonical_name: レゴン
-title: "レゴン"
+title: レゴン
 first_appearance: ch0080
 spoiler_after: ch0080
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # レゴン
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 俺のカード型端末の一つから飛び出した悪霊レゴン――グロテスクな臓物に顔の部位をくっつけたような怪物の姿が漆黒の靄につつまれたかと思うと、次の瞬間にはその姿が変化していた。（ch0090）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 俺のカード型端末の一つから飛び出した悪霊レゴン――グロテスクな臓物に顔の部位をくっつけたような怪物の姿が漆黒の靄につつまれたかと思うと、次の瞬間にはその姿が変化していた。
+
+<!-- /AUTO-GENERATED:visual -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ノノ
 type: entity
 subtype: character
 canonical_name: ノノ
-title: "ノノ"
+title: ノノ
 first_appearance: ch0259
 spoiler_after: ch0259
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ノノ
@@ -27,3 +28,31 @@ created: "2026-09-30"
 > 『蟻王子』ノノンナンノン・メルタ・ディスケイム。あだ名はノノ。（ch0259）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 手足のみを覆う虫態甲殻の具足にサンダル、それらを固定する帯に腰布だけという古代の闘技奴隷じみた装い。野性味に溢れる筋肉質な身体はしかし決して品性を損なうことなく、博物館に展示された美術品のようだった。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 無数の小さな蟻たちが寄り集まって人型を形成し、それが見る間にアヴロノに変身したのだ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 少年はちらりとユディーアを一瞥したあとはすぐに目を逸らし、周囲の敵に視線を送る。　ユディーアにはわかる。これは『興味ありません』のアピールだ。　なぜかこうするとノノはとても優しくなるのだ。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『蟻王子』ノノンナンノン・メルタ・ディスケイム。あだ名はノノ。
+
+<!-- /AUTO-GENERATED:name -->

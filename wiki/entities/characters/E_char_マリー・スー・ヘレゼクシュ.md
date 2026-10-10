@@ -1,5 +1,5 @@
 ---
-title: "マリー・スー・ヘレゼクシュ"
+title: マリー・スー・ヘレゼクシュ
 schema_version: '5.1'
 id: E_char_マリー・スー・ヘレゼクシュ
 type: entity
@@ -10,7 +10,7 @@ first_appearance: ch0041
 spoiler_after: ch0041
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 # マリー・スー・ヘレゼクシュ
 
@@ -19,6 +19,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 魔女として与えられた名はマリー・スー。号は澄明――アズール。
 - **unknown**: 魔女として与えられた名はマリー・スー。号は澄明――アズール。
 - **unknown**: 魔女として与えられた名はマリー・スー。号は澄明――アズール。
 - **unknown**: 魔女として与えられた名はマリー・スー。号は澄明――アズール。

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_映像内の少女
 type: entity
 subtype: character
 canonical_name: 映像内の少女
-title: "映像内の少女"
+title: 映像内の少女
 first_appearance: ch0175
 spoiler_after: ch0175
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 映像内の少女
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 」「ちがうよ、私、捨ててなんかない！ 日が暮れるまで探して、それでも見つからなくて――ごめんね、ずっとつらかったよね」（ch0175）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「私はね、このシナモリアキラという呪いで誰であろうと倒して生き延びる。たとえ相手があんたでも！」
+- **unknown**: 」「ちがうよ、私、捨ててなんかない！ 日が暮れるまで探して、それでも見つからなくて――ごめんね、ずっとつらかったよね」
+
+<!-- /AUTO-GENERATED:speech -->

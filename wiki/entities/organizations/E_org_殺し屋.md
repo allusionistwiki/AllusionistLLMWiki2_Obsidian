@@ -1,5 +1,5 @@
 ---
-title: "殺し屋"
+title: 殺し屋
 schema_version: '5.1'
 id: E_org_殺し屋
 type: entity
@@ -10,7 +10,7 @@ spoiler_after: ch0028
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-02'
+updated: '2026-10-10'
 ---
 
 # 殺し屋
@@ -34,6 +34,7 @@ updated: '2026-10-02'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
 - **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
 - **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
 - **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。

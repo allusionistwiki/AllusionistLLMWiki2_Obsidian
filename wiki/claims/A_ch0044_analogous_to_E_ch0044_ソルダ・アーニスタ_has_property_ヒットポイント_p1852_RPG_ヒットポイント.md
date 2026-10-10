@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0044_analogous_to_E_ch0044_ソルダ・アーニスタ_has_property_ヒットポイント_p1852_RPG_ヒットポイント
 title: ヒットポイントの物理実装
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0044_ソルダ・アーニスタ_has_property_ヒットポイント_p1852]]"

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_セリアック
 type: entity
 subtype: terminology
 canonical_name: セリアック
-title: "セリアック"
+title: セリアック
 first_appearance: ch0182
 spoiler_after: ch0182
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # セリアック
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > ドラトリアの礎にして災いであるカーティスの制御盤にして牢獄の鍵。抑制剤にして鎖と首輪。 そして、権力を裁定する秩序の剣。（ch0182）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: セリアックというのは病の名前なのだと、いつかディスペータお姉さまが教えてくれました。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: ドラトリアの礎にして災いであるカーティスの制御盤にして牢獄の鍵。抑制剤にして鎖と首輪。 そして、権力を裁定する秩序の剣。
+
+<!-- /AUTO-GENERATED:symbolic -->

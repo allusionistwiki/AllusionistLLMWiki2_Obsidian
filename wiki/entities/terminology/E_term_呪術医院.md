@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_呪術医院
 type: entity
 subtype: terminology
 canonical_name: 呪術医院
-title: "呪術医院"
+title: 呪術医院
 first_appearance: ch0119
 spoiler_after: ch0119
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 呪術医院
@@ -27,3 +28,11 @@ created: "2026-09-30"
 > 第五階層南部ブロックにある呪術医院は有事の際に自給自足で設備を維持できるように作られている。エネルギーや水、食糧などの用意があり、ある程度の期間までなら籠城が可能なこの場所は拠点とするには丁度良かった。（ch0148）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 第五階層南部ブロックにある呪術医院は有事の際に自給自足で設備を維持できるように作られている。エネルギーや水、食糧などの用意があり、ある程度の期間までなら籠城が可能なこの場所は拠点とするには丁度良かった。
+- **unknown**: ずらりと並んだ透明な円筒形のケースは緑色の液体で満たされており、その中には幾つもの管に繋がれた脳が浮かんでいる。剥き出しの脳だけでなく、目を閉じた状態の頭部、首だけになった人間が数多くそこで『生かされて』いた。
+
+<!-- /AUTO-GENERATED:visual -->

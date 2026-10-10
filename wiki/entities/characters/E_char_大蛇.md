@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_大蛇
 type: entity
 subtype: character
 canonical_name: 大蛇
-title: "大蛇"
+title: 大蛇
 first_appearance: ch0156
 spoiler_after: ch0156
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 大蛇
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > 挟撃するように水竜滅呪に乗った『大蛇』が行列に追い付き、百のシナモリアキラをなぎ倒しながらわけのわからない繰り言をまくしたてる。（ch0227）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: ぬばたまの黒髪、着物のテイストを取り入れた衣装を纏った義肢の乙女。『大蛇』の晶。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 挟撃するように水竜滅呪に乗った『大蛇』が行列に追い付き、百のシナモリアキラをなぎ倒しながらわけのわからない繰り言をまくしたてる。
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ランキング
 type: entity
 subtype: terminology
 canonical_name: ランキング
-title: "ランキング"
+title: ランキング
 first_appearance: ch0167
 spoiler_after: ch0167
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ランキング
@@ -28,3 +29,20 @@ created: "2026-09-30"
 > 二位：『ハンズ・オブ・グローリー』（ch0167）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 一位：『狂イ姫－†囚焉舞イ血ル妬環ノ華†』 二位：『ハンズ・オブ・グローリー』 三位：『アマランサス・サナトロジー』 四位：『動物想』 五位：『パイロマスター・イン・ヘルファイア』 六位：『ラリスキャニア』 七位：『チョコレートリリー・空組』 八位：『シナモリアキラ』 九位：『塩れもねいど』 十位：『キラメキ時代』
+- **unknown**: 一位：『狂イ姫－†囚焉舞イ血ル妬環ノ華†』リールエルバシュウエンマイチルトワノハナ
+- **unknown**: 七位：『チョコレートリリー・空組』
+- **unknown**: 三位：『アマランサス・サナトロジー』
+- **unknown**: 九位：『シナモリアキラ』
+- **unknown**: 二位：『ハンズ・オブ・グローリー』
+- **unknown**: 五位：『動物想』ファウナ
+- **unknown**: 八位：『ラリスキャニア』
+- **unknown**: 六位：『うずめ』
+- **unknown**: 十位：『Ｆｒｏｚｅｎ／Ｔｏｒｃｈ』
+- **unknown**: 四位：『パイロマスター・イン・ヘルファイア』
+
+<!-- /AUTO-GENERATED:visual -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_賢者
 type: entity
 subtype: character
 canonical_name: 賢者
-title: "賢者"
+title: 賢者
 first_appearance: ch0153
 spoiler_after: ch0153
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 賢者
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 世界を愛する歌が聞こえる。輝く黄金のような美しい魂の歌が。世界を憎む怨嗟が聞こえる。割れた鏡のような醜い心の呪いが。それはこの世界には在らざる異物の呼び声だ。（ch0153）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 世界を愛する歌が聞こえる。輝く黄金のような美しい魂の歌が。世界を憎む怨嗟が聞こえる。割れた鏡のような醜い心の呪いが。それはこの世界には在らざる異物の呼び声だ。
+
+<!-- /AUTO-GENERATED:speech -->

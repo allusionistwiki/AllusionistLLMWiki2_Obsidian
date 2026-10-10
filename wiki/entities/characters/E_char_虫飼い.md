@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_虫飼い
 type: entity
 subtype: character
 canonical_name: 虫飼い
-title: "虫飼い"
+title: 虫飼い
 first_appearance: ch0208
 spoiler_after: ch0208
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 虫飼い
@@ -28,3 +29,33 @@ created: "2026-09-30"
 > 「足ひっぱんなっつーか邪魔すっとてめーも殺すぞ『葬儀屋』」（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 『虫飼い』という呼び名の通り、虫と草を融合させた姿の異獣は周囲の害虫たちを完璧に手懐けていた。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「変わり者だよねー。顕花のくせにあちしらの味方しちゃってさー」
+- **unknown**: 「行け、虫ちゃんたち」
+- **unknown**: 「足ひっぱんなっつーか邪魔すっとてめーも殺すぞ『葬儀屋』」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「やらせるか！ 起きろ、あちしの可愛い『虻』ちゃん！」 私が翼を広げて飛び立ち、『虫飼い』が叫ぶのと同時、大地を割って超巨大な害虫が出現した。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『虫飼い』：冬虫夏草の支配者。虫神の力を利用して同胞たちのために戦う。
+
+<!-- /AUTO-GENERATED:name -->

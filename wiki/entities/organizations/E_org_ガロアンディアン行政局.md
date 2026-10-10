@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_org_ガロアンディアン行政局
+type: entity
+title: ガロアンディアン行政局
+subtype: organization
+canonical_name: ガロアンディアン行政局
+aliases: []
+first_appearance: ch0244
+spoiler_after: ch0244
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# ガロアンディアン行政局
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ガロアンディアン行政局よりお知らせです」 ちびシューラの仕業だろうか、病院内への全体放送だ。 「たったいま、マレブランケのメンバーであるファルファレロとカルカブリーナ及びこちらで保護している名無しの王を祝祭で行われるオークションに出品することが決定しました」
+
+<!-- /AUTO-GENERATED:speech -->

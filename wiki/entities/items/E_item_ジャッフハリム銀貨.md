@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_item_ジャッフハリム銀貨
+type: entity
+title: ジャッフハリム銀貨
+subtype: item
+canonical_name: ジャッフハリム銀貨
+aliases: []
+first_appearance: ch0198
+spoiler_after: ch0198
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# ジャッフハリム銀貨
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 表には女性の横顔。ジャッフハリムの聖妃レストロオセの肖像。 裏には竜神の威容。竜神信教徒が祈りを捧げる創世竜の想像図。 光の加減と呪力に反応して、女性の顔は聖と邪の相反する側面を映し出し、竜の姿は九つに入れ替わる。
+
+<!-- /AUTO-GENERATED:visual -->

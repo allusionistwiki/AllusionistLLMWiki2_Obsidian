@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ちびアキラ
 type: entity
 subtype: character
 canonical_name: ちびアキラ
-title: "ちびアキラ"
+title: ちびアキラ
 first_appearance: ch0156
 spoiler_after: ch0156
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ちびアキラ
@@ -26,3 +27,17 @@ created: "2026-09-30"
 > トリシューラは『サイバーカラテ道場』の仮想空間上でデフォルメアバターとなって軽やかにステップを踏む。ダンスの相手は同じように小さくなった彼女の使い魔だ。（ch0156）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: それを再利用したものが『ちびアキラ』――トリシューラの視界隅で気まぐれに着せ替え人形にされてグロッキーになっているデフォルメされた青年の人工知性だった。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ああ。どこまでだって付き合うよ」
+
+<!-- /AUTO-GENERATED:speech -->

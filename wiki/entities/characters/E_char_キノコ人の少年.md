@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_キノコ人の少年
 type: entity
 subtype: character
 canonical_name: キノコ人の少年
-title: "キノコ人の少年"
+title: キノコ人の少年
 first_appearance: ch0227
 spoiler_after: ch0227
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # キノコ人の少年
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 「追いかけましょう、クレイさん！ 僕、中が透けて視えたんです！ アルテミシアさんのアストラル体に、あの時のトロルが入ってた！」（ch0244）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「追いかけましょう、クレイさん！ 僕、中が透けて視えたんです！ アルテミシアさんのアストラル体に、あの時のトロルが入ってた！」
+
+<!-- /AUTO-GENERATED:speech -->

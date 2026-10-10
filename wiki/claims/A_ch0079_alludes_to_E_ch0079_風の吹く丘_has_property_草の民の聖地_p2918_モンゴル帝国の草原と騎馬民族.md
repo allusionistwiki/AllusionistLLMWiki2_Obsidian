@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0079_alludes_to_E_ch0079_風の吹く丘_has_property_草の民の聖地_p2918_モンゴル帝国の草原と騎馬民族
 title: モンゴル騎馬民族文化の移植
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_風の吹く丘_has_property_草の民の聖地_p2918]]"

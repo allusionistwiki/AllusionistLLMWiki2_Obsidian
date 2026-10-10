@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ザラ
 type: entity
 subtype: character
 canonical_name: ザラ
-title: "ザラ"
+title: ザラ
 first_appearance: ch0259
 spoiler_after: ch0259
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ザラ
@@ -27,3 +28,24 @@ created: "2026-09-30"
 > 『酩酊の魔人』ツァルヴリス・トラスタリ・ディスケイム。あだ名はザラ。（ch0259）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ぐだぐだバカ言ってんじゃねえよカスども。サボってっと殺すぞココ」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 彼の真っ赤な瞳が現実を改変することはなかった。にもかかわらず、上下が反転した視界に映った全てのクロウサー陣営が一斉に邪視を奪われている。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『酩酊の魔人』ツァルヴリス・トラスタリ・ディスケイム。あだ名はザラ。
+
+<!-- /AUTO-GENERATED:name -->

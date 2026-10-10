@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_学者
 type: entity
 subtype: character
 canonical_name: 学者
-title: "学者"
+title: 学者
 first_appearance: ch0208
 spoiler_after: ch0208
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 学者
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > 「気を付けろ！ あの虹犬、キノコ人と組んでントゥガ族と修道騎士を襲ってた奴だ！」（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「これは予兆に過ぎない！ 来訪者が、虫の王が復活する！ ントゥガ族が守ってきた邪神ダレッキノの卵がキノコ人たちに奪われ、孵化したんだ！」
+- **unknown**: 「気を付けろ！ あの虹犬、キノコ人と組んでントゥガ族と修道騎士を襲ってた奴だ！」
+
+<!-- /AUTO-GENERATED:speech -->

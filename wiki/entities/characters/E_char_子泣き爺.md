@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_子泣き爺
 type: entity
 subtype: character
 canonical_name: 子泣き爺
-title: "子泣き爺"
+title: 子泣き爺
 first_appearance: ch0154
 spoiler_after: ch0154
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 子泣き爺
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > 「始祖か。奇遇だな、私もだ」男とも女ともつかない声がして、老人は慌ててそちらへ視線を向ける。（ch0154）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 「悪いなあ、ラウス＝ベフォニスさんよ。あんたの感覚、いただくぜ」
+
+<!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ミブリナ
 type: entity
 subtype: character
 canonical_name: ミブリナ
-title: "ミブリナ"
+title: ミブリナ
 first_appearance: ch0215
 spoiler_after: ch0215
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ミブリナ
@@ -35,3 +36,29 @@ created: "2026-09-30"
 - [[E_char_ルスクォミーズ|ルスクォミーズ]] — 関連(受)（2 観測）
 
 <!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 少女の背に生えた想像の翼はクロウサーの誰よりも大きく立派だった。それでも彼女は無価値なままだ。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「天空の果て、上昇の彼方に待ち受けるのも既知の結末だ。どこまで行っても檻の中、魂は雲に融け、肉体は血に融ける。ならばその先は。さらにその向こうは」
+- **unknown**: 「めんどくさい」　正直、めちゃめちゃイヤだった。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 暗がりの果て。死の行き着く先に待ち受けていたのは光。下降と落下の向こうには上昇と飛翔がある。奈落への旅路は、昇天に等しい。
+- **unknown**: 冥府の底にあるダウザールの亡骸。それは残骸に過ぎず、クロウサーの真実は遙か彼方にあった。
+- **unknown**: 魔女として再誕したミブリナは、もういちど挑戦者として戦うことができる。
+- **unknown**: ミブリナが作り上げた場所は、理想的な空気を維持することができている。
+- **unknown**: ミブリナは歓喜の中で飛翔を続けた。今も、まだ。
+
+<!-- /AUTO-GENERATED:action -->

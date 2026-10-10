@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_生徒
 type: entity
 subtype: character
 canonical_name: 生徒
-title: "生徒"
+title: 生徒
 first_appearance: ch0187
 spoiler_after: ch0187
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 生徒
@@ -25,3 +26,10 @@ created: "2026-09-30"
 > ラクルラール先生の授業は的確だった。個々人の資質に合わせた指導、助言、調整、管理。（ch0187）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: カラフルなライフルを担ぎ、揃いの青い体操着に身を包み、闇を駆け抜ける『心』を狙い撃つ。
+
+<!-- /AUTO-GENERATED:visual -->

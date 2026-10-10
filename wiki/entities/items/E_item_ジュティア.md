@@ -1,0 +1,27 @@
+---
+schema_version: '5.1'
+id: E_item_ジュティア
+type: entity
+title: ジュティア
+subtype: item
+canonical_name: ジュティア
+aliases: []
+first_appearance: ch0235
+spoiler_after: ch0235
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-10'
+---
+# ジュティア
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『あの子とはじめて出会った時のこと、よく覚えている。こんな馬鹿な奴がいるのかって』
+- **unknown**: 加速しようとする選手たちに背後から追い縋ったのは、紛れもなく足を引こうとする妨害の意思。最後尾から狙い撃つ、必中の念を込めた魔弾。
+- **unknown**: 膨れ上がる呪力の余波を読み取ったリーナが驚愕して悲鳴を上げる。探索者ペアを基点にして世界が変質していく。だが出現したのは一見して未熟とわかる不完全な浄界だった。
+- **unknown**: 「ハッピー、ぶちかませ」「ラメント、歌って」喜銃と愴銃。女神が作り出したオーパーツにして情動を射出する異能の兵器。
+
+<!-- /AUTO-GENERATED:action -->

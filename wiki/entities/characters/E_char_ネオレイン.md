@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ネオレイン
 type: entity
 subtype: character
 canonical_name: ネオレイン
-title: "ネオレイン"
+title: ネオレイン
 first_appearance: ch0255
 spoiler_after: ch0255
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ネオレイン
@@ -28,3 +29,11 @@ created: "2026-09-30"
 > 浮遊するホスト呪術師たちが絶叫と共に爆炎に呑み込まれ、その死体を足場にした死霊術士ネオレインが女を殴って鍛えた拳で使い魔を砕く。（ch0259）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 浮遊するホスト呪術師たちが絶叫と共に爆炎に呑み込まれ、その死体を足場にした死霊術士ネオレインが女を殴って鍛えた拳で使い魔を砕く。
+- **unknown**: 店中から集まった彼らによる勢いのある呪文は何だろう、『頌歌』なのだろうか。
+
+<!-- /AUTO-GENERATED:action -->

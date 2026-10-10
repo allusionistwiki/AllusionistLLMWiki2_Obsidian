@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_挑戦者たち
 type: entity
 subtype: character
 canonical_name: 挑戦者たち
-title: "挑戦者たち"
+title: 挑戦者たち
 first_appearance: ch0027
 spoiler_after: ch0027
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 挑戦者たち
@@ -26,3 +27,10 @@ created: "2026-09-30"
 > 鎧袖一触されていく挑戦者たちの表情にはさしたる悔しさがない。　高名な強者に『一丁揉んでもらえる』ということで記念に突っ込んでいっただけなのだろう。（ch0214）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 鎧袖一触されていく挑戦者たちの表情にはさしたる悔しさがない。　高名な強者に『一丁揉んでもらえる』ということで記念に突っ込んでいっただけなのだろう。
+
+<!-- /AUTO-GENERATED:relationship -->

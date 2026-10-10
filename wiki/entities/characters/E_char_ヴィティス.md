@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ヴィティス
 type: entity
 subtype: character
 canonical_name: ヴィティス
-title: "ヴィティス"
+title: ヴィティス
 first_appearance: ch0196
 spoiler_after: ch0196
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ヴィティス
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > どのような思惑か、キノコ人たちは死者であるヴィティスを第四階層の掌握者に据えたまま間接的に階層を制圧しようとしていた。（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「無茶を言うな。この場から撤退したらヴィティスの呪いで異獣認定されるだろうが。同じことをやった連中をさんざん殺してきたのを忘れたわけじゃないだろう」
+- **unknown**: 「第四階層掌握者として宣言する。これより管理権限を『汚物屋』『葬儀屋』『虫飼い』の三名に委譲。第四階層をキノコ人たちの聖地に認定し、特別保護区として解放。私は彼らが主張するあらゆる権利を認める」
+- **unknown**: 「レイシズム変数」 瞬間、『われわれ』という言葉の鎖が第四階層を覆い尽くす。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 胸部や腹部の深手は見ただけでわかる致命傷。見るものに強烈な印象を残す『うろ』の瞳、あらゆる光を飲み込むかのような眼球には元々希薄だった生気が失われている。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ヴィティス：守護の九槍・第七位。キノコ人との戦闘で死亡。『虫飼い』の傀儡に。
+
+<!-- /AUTO-GENERATED:action -->

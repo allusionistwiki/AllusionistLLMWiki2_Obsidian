@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_夜の民
 type: entity
 subtype: character
 canonical_name: 夜の民
-title: "夜の民"
+title: 夜の民
 first_appearance: ch0152
 spoiler_after: ch0152
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 夜の民
@@ -28,3 +29,25 @@ created: "2026-09-30"
 > 全身をすっぽり覆う黒衣もここではさほど目立たない。私のような装いをした『夜の民』たちはそこらじゅうにいるからだ。（ch0177）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 見ると、その長い脚に何かがへばりついている。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「了解。ようやく姫さん直伝の『きらきら蝙蝠』が試せる。こいつは楽しみだ」
+- **unknown**: 「お願いです、スマルト助祭様を勝たせてあげてください」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 全身をすっぽり覆う黒衣もここではさほど目立たない。私のような装いをした『夜の民』たちはそこらじゅうにいるからだ。
+
+<!-- /AUTO-GENERATED:visual -->

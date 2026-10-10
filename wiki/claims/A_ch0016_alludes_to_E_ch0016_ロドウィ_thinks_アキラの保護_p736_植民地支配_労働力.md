@@ -3,6 +3,7 @@ schema_version: "5.1"
 id: A_ch0016_alludes_to_E_ch0016_ロドウィ_thinks_アキラの保護_p736_植民地支配_労働力
 title: 植民地労働力搾取の暗喩
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0016_ロドウィ_thinks_アキラの保護_p736]]"

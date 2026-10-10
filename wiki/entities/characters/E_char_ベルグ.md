@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ベルグ
 type: entity
 subtype: character
 canonical_name: ベルグ
-title: "ベルグ"
+title: ベルグ
 first_appearance: ch0141
 spoiler_after: ch0141
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # ベルグ
@@ -25,3 +26,17 @@ created: "2026-09-30"
 > 「適当に衒学ムーブしてマウントとる相手もいないのに唐突だよ？ 大丈夫？」（ch0161）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: アルトは、頭上に何かがあることに気が付いた。 影が差す。巨大な質量の気配。 藍色の血に濡れた全身甲冑が、その巨躯を生かして途方もなく巨大な戦鎚を振り上げている。反応する間も無く、アルトは鉄槌によって押し潰された。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「適当に衒学ムーブしてマウントとる相手もいないのに唐突だよ？ 大丈夫？」
+
+<!-- /AUTO-GENERATED:speech -->

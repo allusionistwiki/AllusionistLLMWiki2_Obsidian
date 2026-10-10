@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_女神
 type: entity
 subtype: character
 canonical_name: 女神
-title: "女神"
+title: 女神
 first_appearance: ch0119
 spoiler_after: ch0119
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-10'
 ---
 
 # 女神
@@ -28,3 +29,26 @@ created: "2026-09-30"
 > 「に、彼女は今度こそ女神になろうとした。自らの力、その可能性を極限まで追求して、冬という本質を拡張し続けたのです」（ch0121）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「生と死の女神は、未来転生者でした。遙かな未来から過去へとやり直しにきた時間遡行者。『もう一度』という願いを実現するため
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: それは、生と死の女神が力を月のように満ち欠けさせる過程であり、命が凍り付いて行く冬と、生命が誕生していく春を象徴しているのだと。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 力を分け与えた事で、女神は一時的に弱体化する。
+- **unknown**: 「に、彼女は今度こそ女神になろうとした。自らの力、その可能性を極限まで追求して、冬という本質を拡張し続けたのです」
+- **unknown**: 「やがて、女神が思い描いた物語――不思議な本の中から『理想の使い魔たち』を呼び出すことができるようになった時、その転生者のところに迎えがやってきました。車椅子の女神――ありとあらゆる路を往く女王にして車輪を司る不死なる化身」
+
+<!-- /AUTO-GENERATED:action -->
