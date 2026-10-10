@@ -4,6 +4,7 @@ id: A_ch0052_inverts_E_ch0052_アズーリア_thinks_霊長類体の制限_p2049
 title: 進化心理学の規範抑制
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_アズーリア_thinks_霊長類体の制限_p2049]]"

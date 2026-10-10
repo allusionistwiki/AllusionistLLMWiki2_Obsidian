@@ -10,7 +10,7 @@ first_appearance: ch0196
 spoiler_after: ch0196
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 穂先
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 「ここは、第一階層じゃないんですね。異世界――第零階層、とかですか？」「その理解で概ね正しい。ここでは全てが凍っている。時も、意味も、価値も。」
 - **unknown**: 「ここは、第一階層じゃないんですね。異世界――第零階層、とかですか？」「その理解で概ね正しい。ここでは全てが凍っている。時も、意味も、価値も。」
 
 <!-- /AUTO-GENERATED:visual -->

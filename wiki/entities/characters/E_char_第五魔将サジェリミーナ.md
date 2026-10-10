@@ -10,7 +10,7 @@ spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 第五魔将サジェリミーナ
@@ -37,6 +37,8 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 第五魔将、銀霊サジェリミーナ。銀霊種。
+- **unknown**: 第五魔将、銀霊サジェリミーナ。銀霊種。クイックシルバー
 - **unknown**: 第五魔将、銀霊サジェリミーナ。銀霊種。
 - **unknown**: 第五魔将、銀霊サジェリミーナ。銀霊種。クイックシルバー
 - **unknown**: 第五魔将、銀霊サジェリミーナ。銀霊種。

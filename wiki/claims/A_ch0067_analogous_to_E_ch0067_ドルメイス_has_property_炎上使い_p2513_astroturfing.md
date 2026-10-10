@@ -4,6 +4,7 @@ id: A_ch0067_analogous_to_E_ch0067_ドルメイス_has_property_炎上使い_p25
 title: アストロターフィングの炎上
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ドルメイス_has_property_炎上使い_p2513]]"

@@ -10,7 +10,7 @@ first_appearance: ch0262
 spoiler_after: ch0262
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 四人
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 青い血が四人の中に入り込むと、彼らの身体には始祖クロウサーの象徴とされる四つの記号が顕れたという。
 - **unknown**: 青い血が四人の中に入り込むと、彼らの身体には始祖クロウサーの象徴とされる四つの記号が顕れたという。
 
 <!-- /AUTO-GENERATED:visual -->

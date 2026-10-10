@@ -10,7 +10,7 @@ spoiler_after: ch0225
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # トライデントの細胞
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: トロメリアとカーイン。トライデントの細胞がひとり、『脳』のルーシメアに仕える二人が闇の中で言葉を交わしていた。
 - **unknown**: トロメリアとカーイン。トライデントの細胞がひとり、『脳』のルーシメアに仕える二人が闇の中で言葉を交わしていた。
 
 <!-- /AUTO-GENERATED:relationship -->

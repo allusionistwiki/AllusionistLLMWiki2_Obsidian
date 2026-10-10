@@ -10,7 +10,7 @@ first_appearance: ch0169
 spoiler_after: ch0169
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 見えない糸
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 天上から垂れ落ちる見えない糸は人形たちに残酷なさだめを強いていく。
 - **unknown**: 天上から垂れ落ちる見えない糸は人形たちに残酷なさだめを強いていく。
 
 <!-- /AUTO-GENERATED:visual -->

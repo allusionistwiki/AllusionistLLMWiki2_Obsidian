@@ -4,6 +4,7 @@ id: A_ch0064_analogous_to_E_ch0064_ガルズ_transforms_泡沫のハザーリャ
 title: キャラ再登場のメタ演出
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ガルズ_transforms_泡沫のハザーリャ_p2406]]"

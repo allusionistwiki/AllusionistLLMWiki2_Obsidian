@@ -10,7 +10,7 @@ first_appearance: ch0216
 spoiler_after: ch0216
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 鉄願の民
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 鉄願の民が持つ『杖』を無効化する力は極めて強力だが、このような自然由来の呪術には完全に無力だ。
 - **unknown**: 鉄願の民が持つ『杖』を無効化する力は極めて強力だが、このような自然由来の呪術には完全に無力だ。
 
 <!-- /AUTO-GENERATED:symbolic -->

@@ -4,6 +4,7 @@ id: A_ch0074_alludes_to_E_ch0074_ソルダ_says_聖婚への期待_p2828_hieros_
 title: 終末を演出する聖婚儀礼
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0074_ソルダ_says_聖婚への期待_p2828]]"

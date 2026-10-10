@@ -10,7 +10,7 @@ spoiler_after: ch0088
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 星見の塔トーナメント
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: この【星見の塔トーナメント】はコルセスカの発案で行われている、歴史のある呪術儀式だそうだ。
 - **unknown**: この【星見の塔トーナメント】はコルセスカの発案で行われている、歴史のある呪術儀式だそうだ。
 
 <!-- /AUTO-GENERATED:action -->

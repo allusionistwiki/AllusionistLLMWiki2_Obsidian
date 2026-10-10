@@ -10,7 +10,7 @@ first_appearance: ch0145
 spoiler_after: ch0145
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 竜王国の五将軍
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 竜王国の五将軍――ラフディとの戦いであれだけ圧倒的な強さを見せていた奴らが敵に回るのか
 - **unknown**: 竜王国の五将軍――ラフディとの戦いであれだけ圧倒的な強さを見せていた奴らが敵に回るのか
 
 <!-- /AUTO-GENERATED:visual -->

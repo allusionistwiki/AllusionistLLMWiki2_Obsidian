@@ -10,7 +10,7 @@ first_appearance: ch0169
 spoiler_after: ch0169
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 青い操りの髪の毛
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 彼女たちの頭上には細い糸。 青い操りの髪の毛は、遙かな天上へと伸びていく。
 - **unknown**: 彼女たちの頭上には細い糸。 青い操りの髪の毛は、遙かな天上へと伸びていく。
 
 <!-- /AUTO-GENERATED:visual -->

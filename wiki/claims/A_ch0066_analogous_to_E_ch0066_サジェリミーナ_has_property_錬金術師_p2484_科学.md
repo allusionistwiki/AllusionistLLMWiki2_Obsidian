@@ -4,6 +4,7 @@ id: A_ch0066_analogous_to_E_ch0066_サジェリミーナ_has_property_錬金術�
 title: 科学による魔法ルール無効化
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_サジェリミーナ_reveals_錬金術師_p2484]]"

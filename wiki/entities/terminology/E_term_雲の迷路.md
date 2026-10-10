@@ -10,7 +10,7 @@ first_appearance: ch0249
 spoiler_after: ch0249
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 雲の迷路
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 選手たちを阻むのは青空を遮る雲の迷路。
 - **unknown**: 選手たちを阻むのは青空を遮る雲の迷路。
 
 <!-- /AUTO-GENERATED:visual -->

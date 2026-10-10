@@ -10,7 +10,7 @@ first_appearance: ch0162
 spoiler_after: ch0162
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ランキング
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 頭上の巨大スクリーン。 そこにはずらりと人名やユニット名らしきものが並び、その横には順位と得点が表示されていた。
 - **unknown**: 頭上の巨大スクリーン。 そこにはずらりと人名やユニット名らしきものが並び、その横には順位と得点が表示されていた。
 
 <!-- /AUTO-GENERATED:visual -->

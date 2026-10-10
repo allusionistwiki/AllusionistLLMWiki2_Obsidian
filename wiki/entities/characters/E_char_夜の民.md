@@ -10,7 +10,7 @@ spoiler_after: ch0152
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 夜の民
@@ -34,6 +34,7 @@ updated: '2026-10-10'
 ## 行動・動作
 
 - **unknown**: 見ると、その長い脚に何かがへばりついている。
+- **unknown**: 見ると、その長い脚に何かがへばりついている。
 
 <!-- /AUTO-GENERATED:action -->
 
@@ -42,12 +43,15 @@ updated: '2026-10-10'
 
 - **unknown**: 「了解。ようやく姫さん直伝の『きらきら蝙蝠』が試せる。こいつは楽しみだ」
 - **unknown**: 「お願いです、スマルト助祭様を勝たせてあげてください」
+- **unknown**: 「了解。ようやく姫さん直伝の『きらきら蝙蝠』が試せる。こいつは楽しみだ」
+- **unknown**: 「お願いです、スマルト助祭様を勝たせてあげてください」
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 全身をすっぽり覆う黒衣もここではさほど目立たない。私のような装いをした『夜の民』たちはそこらじゅうにいるからだ。
 - **unknown**: 全身をすっぽり覆う黒衣もここではさほど目立たない。私のような装いをした『夜の民』たちはそこらじゅうにいるからだ。
 
 <!-- /AUTO-GENERATED:visual -->

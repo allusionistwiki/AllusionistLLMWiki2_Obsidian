@@ -10,7 +10,7 @@ first_appearance: ch0205
 spoiler_after: ch0205
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ゴーリー
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: ものは相談なんだが、あんたが行って説得してきてくれねえか。
 - **unknown**: ものは相談なんだが、あんたが行って説得してきてくれねえか。
 
 <!-- /AUTO-GENERATED:speech -->

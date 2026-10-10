@@ -10,7 +10,7 @@ spoiler_after: ch0085
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 霊薬
@@ -31,12 +31,14 @@ updated: '2026-10-10'
 ## 視覚的記述
 
 - **unknown**: カプセル型の薬だった。三角錐の形で、脇に日本語の説明文が記されている。洒落にならない効用――そして、圧倒的な安価さだった。
+- **unknown**: カプセル型の薬だった。三角錐の形で、脇に日本語の説明文が記されている。洒落にならない効用――そして、圧倒的な安価さだった。
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 依存性が高く、特定の夢を見せることができるらしい。得られた証言はこうだ。『森の奥でママが待ってる』
 - **unknown**: 依存性が高く、特定の夢を見せることができるらしい。得られた証言はこうだ。『森の奥でママが待ってる』
 
 <!-- /AUTO-GENERATED:speech -->

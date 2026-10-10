@@ -10,7 +10,7 @@ first_appearance: ch0169
 spoiler_after: ch0169
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 幼子
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「わかったよ、ここは夢の舞台だ！」
 - **unknown**: 「わかったよ、ここは夢の舞台だ！」
 
 <!-- /AUTO-GENERATED:action -->

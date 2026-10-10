@@ -10,7 +10,7 @@ spoiler_after: ch0051
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # サリア
@@ -33,6 +33,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: ひとりの女が逆手に握った双剣で黒薔薇に斬りかかる。
 - **unknown**: ひとりの女が逆手に握った双剣で黒薔薇に斬りかかる。
 
 <!-- /AUTO-GENERATED:action -->

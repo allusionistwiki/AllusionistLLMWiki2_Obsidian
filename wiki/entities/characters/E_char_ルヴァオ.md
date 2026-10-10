@@ -10,7 +10,7 @@ spoiler_after: ch0181
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # ルヴァオ
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: ネズミの王を名乗る煙の怪物、その身の証を立てたいと望むならば、言理の妖精にかけて、この小さな箱に入ってみせよ！
 - **unknown**: ネズミの王を名乗る煙の怪物、その身の証を立てたいと望むならば、言理の妖精にかけて、この小さな箱に入ってみせよ！
 
 <!-- /AUTO-GENERATED:speech -->

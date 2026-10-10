@@ -4,6 +4,7 @@ id: A_ch0026_alludes_to_E_ch0026_アキラ_bonds_トリシューラ_p1174_キリ
 title: キリスト教の聖婚
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_bonds_トリシューラ_p1174]]"

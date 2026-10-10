@@ -10,7 +10,7 @@ first_appearance: ch0257
 spoiler_after: ch0257
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 青い血
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 浄界の破綻。百目のクロウサー、イナータルゴによる調和さえ塗りつぶして、青い血が全てを呑み込んだ。
 - **unknown**: 浄界の破綻。百目のクロウサー、イナータルゴによる調和さえ塗りつぶして、青い血が全てを呑み込んだ。
 
 <!-- /AUTO-GENERATED:visual -->

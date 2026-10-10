@@ -10,7 +10,7 @@ first_appearance: ch0254
 spoiler_after: ch0254
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 風聞
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 風は噂で、噂は風。 アナロジーが作用する限り、それらは限りなく近しい呪文となる。
 - **unknown**: 風は噂で、噂は風。 アナロジーが作用する限り、それらは限りなく近しい呪文となる。
 
 <!-- /AUTO-GENERATED:symbolic -->

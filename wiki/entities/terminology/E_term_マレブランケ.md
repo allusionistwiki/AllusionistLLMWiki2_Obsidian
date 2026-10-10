@@ -10,7 +10,7 @@ spoiler_after: ch0122
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # マレブランケ
@@ -32,6 +32,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 『マレブランケ』とは紀人都市における議会に相当する、専制君主トリシューラが選んだ紀人の意思決定機関なのだという。
 - **unknown**: 『マレブランケ』とは紀人都市における議会に相当する、専制君主トリシューラが選んだ紀人の意思決定機関なのだという。
 
 <!-- /AUTO-GENERATED:name -->

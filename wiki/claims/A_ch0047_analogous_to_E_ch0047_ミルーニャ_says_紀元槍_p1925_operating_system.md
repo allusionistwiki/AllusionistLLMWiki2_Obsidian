@@ -4,6 +4,7 @@ id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_operatin
 title: 世界をOSと捉える構造
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_紀元槍_p1925]]"

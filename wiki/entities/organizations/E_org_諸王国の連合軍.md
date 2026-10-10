@@ -10,7 +10,7 @@ first_appearance: ch0156
 spoiler_after: ch0156
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 諸王国の連合軍
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 諸王国の連合軍は槍を掲げて巨悪に立ち向かっていた。
 - **unknown**: 諸王国の連合軍は槍を掲げて巨悪に立ち向かっていた。
 
 <!-- /AUTO-GENERATED:action -->

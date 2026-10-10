@@ -10,7 +10,7 @@ spoiler_after: ch0218
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 実況者
@@ -31,6 +31,9 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: ペアで三位に入賞したジュティア＆ミナ両選手！
+- **unknown**: 堂々の一位は当日飛び入り参加、『シェイドラン』より出走のマルガリータ・ジャッフハリム選手！
+- **unknown**: 惜しくも二位となったロードデンドロン選手
 - **unknown**: ペアで三位に入賞したジュティア＆ミナ両選手！
 - **unknown**: 堂々の一位は当日飛び入り参加、『シェイドラン』より出走のマルガリータ・ジャッフハリム選手！
 - **unknown**: 惜しくも二位となったロードデンドロン選手

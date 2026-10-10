@@ -4,6 +4,7 @@ id: A_ch0079_analogous_to_E_ch0079_リーナ_says_経営の心得_p2916_現代�
 title: 経営自己啓発言説の構造反映
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_リーナ_says_経営の心得_p2916]]"

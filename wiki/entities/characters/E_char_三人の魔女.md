@@ -10,7 +10,7 @@ first_appearance: ch0144
 spoiler_after: ch0144
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 三人の魔女
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 三人の魔女が放つ光は空から地上へと下るせせらぎとなってこちらに流れ込み、溢れんばかりの呪力が全身に宿る。
 - **unknown**: 三人の魔女が放つ光は空から地上へと下るせせらぎとなってこちらに流れ込み、溢れんばかりの呪力が全身に宿る。
 
 <!-- /AUTO-GENERATED:action -->

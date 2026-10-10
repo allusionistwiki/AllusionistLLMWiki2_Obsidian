@@ -4,6 +4,7 @@ id: A_ch0004_analogous_to_E_ch0004_アキラ_uses_義手充電_p186_smartphone_b
 title: スマホバッテリー依存の誇張
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_アキラ_uses_義手充電_p186]]"

@@ -4,6 +4,7 @@ id: A_ch0020_analogous_to_E_ch0020_トリシューラ_other_世界更新の条�
 title: 世界構築の権限行使
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_トリシューラ_other_世界更新の条件_p904]]"

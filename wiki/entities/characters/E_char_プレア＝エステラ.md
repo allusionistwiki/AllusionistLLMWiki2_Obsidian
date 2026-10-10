@@ -10,7 +10,7 @@ spoiler_after: ch0220
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # プレア＝エステラ
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 眷属種認定の働きかけを行ったティリビナ人たちの美しき巫女プレア＝エステラがそうであったように、若い世代の間で大きな価値観の変化が生まれていることは間違いない。
 - **unknown**: 眷属種認定の働きかけを行ったティリビナ人たちの美しき巫女プレア＝エステラがそうであったように、若い世代の間で大きな価値観の変化が生まれていることは間違いない。
 
 <!-- /AUTO-GENERATED:name -->

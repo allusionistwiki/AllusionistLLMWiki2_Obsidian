@@ -10,7 +10,7 @@ first_appearance: ch0114
 spoiler_after: ch0114
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 兎の男の子
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 閉じた環っかではなくて、ぐるぐると昇っていくらせんがいいと、兎の男の子が言いました。
 - **unknown**: 閉じた環っかではなくて、ぐるぐると昇っていくらせんがいいと、兎の男の子が言いました。
 
 <!-- /AUTO-GENERATED:speech -->

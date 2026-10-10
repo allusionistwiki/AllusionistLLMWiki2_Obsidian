@@ -10,7 +10,7 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 二家調停派
 
@@ -22,5 +22,6 @@ updated: '2026-10-10'
 - **unknown**: 二家調停派・瑠璃 フィレクティ・ナアマリリス。セレクティの
 ラズリ
 双子の妹。
+- **unknown**: 二家調停派・瑠璃 フィレクティ・ナアマリリス。セレクティの
 
 <!-- /AUTO-GENERATED:name -->

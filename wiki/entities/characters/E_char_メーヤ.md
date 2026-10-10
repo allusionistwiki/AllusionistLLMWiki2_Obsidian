@@ -10,7 +10,7 @@ spoiler_after: ch0268
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # メーヤ
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「おそらのかけっこ！ メーヤもやるの！」
 - **unknown**: 「おそらのかけっこ！ メーヤもやるの！」
 
 <!-- /AUTO-GENERATED:speech -->

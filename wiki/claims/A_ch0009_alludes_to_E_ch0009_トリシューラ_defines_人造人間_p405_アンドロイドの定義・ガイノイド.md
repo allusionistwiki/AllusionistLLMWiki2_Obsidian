@@ -4,6 +4,7 @@ id: A_ch0009_alludes_to_E_ch0009_トリシューラ_defines_人造人間_p405_�
 title: ガイノイドの定義
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_トリシューラ_defines_人造人間_p405]]"

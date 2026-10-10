@@ -10,7 +10,7 @@ first_appearance: ch0186
 spoiler_after: ch0186
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 第五階層の人々
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 第五階層の人々はひとまず安堵に胸をなで下ろしていた。
 - **unknown**: 第五階層の人々はひとまず安堵に胸をなで下ろしていた。
 
 <!-- /AUTO-GENERATED:speech -->

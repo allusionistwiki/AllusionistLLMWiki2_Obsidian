@@ -4,6 +4,7 @@ id: A_ch0030_analogous_to_E_ch0030_松明の騎士団_other_彼_p1274_組織の�
 title: 組織論理による個人の意図的見捨て
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_松明の騎士団_other_彼_p1274]]"

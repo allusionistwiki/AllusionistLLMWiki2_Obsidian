@@ -10,7 +10,7 @@ first_appearance: ch0243
 spoiler_after: ch0243
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 精神干渉波
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: だが広域に展開された異常な強度の精神干渉波によってあらゆるアストラル界経由の探知が疎外されており、偵察用ドローンもことごとく破壊されていた。
 - **unknown**: だが広域に展開された異常な強度の精神干渉波によってあらゆるアストラル界経由の探知が疎外されており、偵察用ドローンもことごとく破壊されていた。
 
 <!-- /AUTO-GENERATED:action -->

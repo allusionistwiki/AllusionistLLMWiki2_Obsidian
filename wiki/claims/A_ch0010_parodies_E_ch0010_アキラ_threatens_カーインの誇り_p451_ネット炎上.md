@@ -4,6 +4,7 @@ id: A_ch0010_parodies_E_ch0010_アキラ_threatens_カーインの誇り_p451_�
 title: ネット炎上の構造模倣
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_アキラ_threatens_カーインの誇り_p451]]"

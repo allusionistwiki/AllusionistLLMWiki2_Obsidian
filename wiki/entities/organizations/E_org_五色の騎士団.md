@@ -10,7 +10,7 @@ first_appearance: ch0100
 spoiler_after: ch0100
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 五色の騎士団
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 竜王国が誇る【五色の騎士団】はいずれも劣らぬ英傑揃いだが、彼らの力をもってしてもジャッフハリムの異形の軍勢は難敵と認めざるを得ないのが現状だった。
 - **unknown**: 竜王国が誇る【五色の騎士団】はいずれも劣らぬ英傑揃いだが、彼らの力をもってしてもジャッフハリムの異形の軍勢は難敵と認めざるを得ないのが現状だった。
 
 <!-- /AUTO-GENERATED:action -->

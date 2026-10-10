@@ -4,6 +4,7 @@ id: A_ch0055_alludes_to_E_ch0055_ジル_reveals_虐殺の真相_p2130_historical
 title: 歴史修正主義による真相の歪曲
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0055_ジル_reveals_虐殺の真相_p2130]]"

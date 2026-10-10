@@ -10,7 +10,7 @@ first_appearance: ch0248
 spoiler_after: ch0248
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 鷲獅子
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「元よりお前に任せるはずの任務だ。王を守れ、チリアット」 「この命に代えても」 その言葉に偽りはなかった。 一切の躊躇なく、牙猪は己の腕で自害を果たした。
 - **unknown**: 「元よりお前に任せるはずの任務だ。王を守れ、チリアット」 「この命に代えても」 その言葉に偽りはなかった。 一切の躊躇なく、牙猪は己の腕で自害を果たした。
 
 <!-- /AUTO-GENERATED:speech -->

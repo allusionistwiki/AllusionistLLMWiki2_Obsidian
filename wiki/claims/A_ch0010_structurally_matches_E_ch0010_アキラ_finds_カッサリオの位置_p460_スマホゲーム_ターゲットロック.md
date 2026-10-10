@@ -4,6 +4,7 @@ id: A_ch0010_structurally_matches_E_ch0010_アキラ_finds_カッサリオの位
 title: スマホゲームのターゲットロック
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_アキラ_finds_カッサリオの位置_p460]]"

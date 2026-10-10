@@ -10,7 +10,7 @@ spoiler_after: ch0141
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 紀人
@@ -32,6 +32,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「換装・五番」 紀人の無機質な言葉が響く。
 - **unknown**: 「換装・五番」 紀人の無機質な言葉が響く。
 
 <!-- /AUTO-GENERATED:speech -->

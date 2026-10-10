@@ -10,7 +10,7 @@ first_appearance: ch0231
 spoiler_after: ch0231
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 亜竜王
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 「基幹参照世界において、亜竜王の名は徳に通じる。古代における徳とは、男らしさや原始的名誉という側面を強く表象していた。
 - **unknown**: 「基幹参照世界において、亜竜王の名は徳に通じる。古代における徳とは、男らしさや原始的名誉という側面を強く表象していた。
 
 <!-- /AUTO-GENERATED:symbolic -->

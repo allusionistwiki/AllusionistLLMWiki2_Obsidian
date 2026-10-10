@@ -10,7 +10,7 @@ first_appearance: ch0227
 spoiler_after: ch0227
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 一反木綿
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 空飛ぶ絨毯に乗った大男が巨大な突撃槍義手でペットショップの外壁を粉砕する。
 - **unknown**: 空飛ぶ絨毯に乗った大男が巨大な突撃槍義手でペットショップの外壁を粉砕する。
 
 <!-- /AUTO-GENERATED:action -->

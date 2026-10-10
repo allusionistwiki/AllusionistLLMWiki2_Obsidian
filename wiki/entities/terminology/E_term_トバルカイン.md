@@ -10,7 +10,7 @@ spoiler_after: ch0118
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # トバルカイン
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 其れこそは全ての黒金を鍛える者。あらゆる武装を作り出す、刃の鍛え手。死者を踏み越えた果てに叡智を築き上げる原初の鍛冶師。
 - **unknown**: 其れこそは全ての黒金を鍛える者。あらゆる武装を作り出す、刃の鍛え手。死者を踏み越えた果てに叡智を築き上げる原初の鍛冶師。
 
 <!-- /AUTO-GENERATED:symbolic -->

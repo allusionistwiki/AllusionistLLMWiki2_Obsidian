@@ -10,7 +10,7 @@ first_appearance: ch0134
 spoiler_after: ch0134
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 砲撃
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 三つに分かれたその砲撃は、意気揚々と撤収しようとしていたラクルラールの頭部、胸、腰を貫いて彼方へと伸びていった。
 - **unknown**: 三つに分かれたその砲撃は、意気揚々と撤収しようとしていたラクルラールの頭部、胸、腰を貫いて彼方へと伸びていった。
 
 <!-- /AUTO-GENERATED:action -->

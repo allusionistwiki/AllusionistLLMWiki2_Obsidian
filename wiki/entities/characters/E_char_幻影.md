@@ -10,7 +10,7 @@ spoiler_after: ch0068
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 幻影
@@ -34,6 +34,7 @@ updated: '2026-10-10'
 ## 視覚的記述
 
 - **unknown**: 暗闇。無限の時のなか、入れ替わり立ち替わり美貌の男たちが現れる
+- **unknown**: 暗闇。無限の時のなか、入れ替わり立ち替わり美貌の男たちが現れる
 
 <!-- /AUTO-GENERATED:visual -->
 
@@ -41,12 +42,14 @@ updated: '2026-10-10'
 ## 行動・動作
 
 - **unknown**: 刃と刃が火花を散らし、剣舞とも型稽古ともつかぬ一幕が延々と続けられる
+- **unknown**: 刃と刃が火花を散らし、剣舞とも型稽古ともつかぬ一幕が延々と続けられる
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 女王が神であるためにはね。古代ヒュールサスの信仰を殺し、まつろわせるために君はいるんだ
 - **unknown**: 女王が神であるためにはね。古代ヒュールサスの信仰を殺し、まつろわせるために君はいるんだ
 
 <!-- /AUTO-GENERATED:speech -->

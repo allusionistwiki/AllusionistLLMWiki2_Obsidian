@@ -10,7 +10,7 @@ spoiler_after: ch0263
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 風の便り
@@ -25,11 +25,16 @@ updated: '2026-10-10'
 > こちら、父君より託された『風の便り』でございます。リーナ様宛の、最後の遺言。（ch0263）
 > 死を覚悟して戦場に赴いた巨人の、魂を込めた願いが切々と綴られていく。重さを与えられた愛情がそこにあった。（ch0263）
 
+## 関連クレーム
+
+- [[A_ch0263_inverts_E_ch0263_風の便り_other_父の情愛_p8329_emotional_manipulation|家督継承を強制する父の呪文]]
+
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 死を覚悟して戦場に赴いた巨人の、魂を込めた願いが切々と綴られていく。重さを与えられた愛情がそこにあった。
 - **unknown**: 死を覚悟して戦場に赴いた巨人の、魂を込めた願いが切々と綴られていく。重さを与えられた愛情がそこにあった。
 
 <!-- /AUTO-GENERATED:symbolic -->

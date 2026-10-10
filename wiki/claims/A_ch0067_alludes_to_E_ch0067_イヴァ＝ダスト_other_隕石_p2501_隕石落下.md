@@ -4,6 +4,7 @@ id: A_ch0067_alludes_to_E_ch0067_イヴァ＝ダスト_other_隕石_p2501_隕石
 title: 隕石落下の絶滅ロマン
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_イヴァ＝ダスト_other_隕石_p2501]]"

@@ -10,7 +10,7 @@ first_appearance: ch0191
 spoiler_after: ch0191
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ハッピー
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「殺し、奪い、勝ち取る！ これぞ盗賊の掟、英雄の性ってな。」「人生はそれだけだ。他の紀人どもはぜんぶ紛い物、なにもかも薄っぺらな糞、糞、糞だ！」
 - **unknown**: 「殺し、奪い、勝ち取る！ これぞ盗賊の掟、英雄の性ってな。」「人生はそれだけだ。他の紀人どもはぜんぶ紛い物、なにもかも薄っぺらな糞、糞、糞だ！」
 
 <!-- /AUTO-GENERATED:speech -->

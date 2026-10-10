@@ -10,7 +10,7 @@ first_appearance: ch0251
 spoiler_after: ch0251
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ヨグウムの無人機
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: ヨグウムの無人機、あれの暴走ってこっから脱走した怨霊の仕業らしい
 - **unknown**: ヨグウムの無人機、あれの暴走ってこっから脱走した怨霊の仕業らしい
 
 <!-- /AUTO-GENERATED:speech -->

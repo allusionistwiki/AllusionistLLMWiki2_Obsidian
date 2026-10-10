@@ -10,7 +10,7 @@ first_appearance: ch0124
 spoiler_after: ch0124
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # サイバーカラテお料理道場
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: より優れた料理を作って映像や匂い、食感や味を記憶に焼き付け、サイバーカラテお料理道場に情報をアップロードすると評価点が得られるとか。
 - **unknown**: より優れた料理を作って映像や匂い、食感や味を記憶に焼き付け、サイバーカラテお料理道場に情報をアップロードすると評価点が得られるとか。
 
 <!-- /AUTO-GENERATED:action -->

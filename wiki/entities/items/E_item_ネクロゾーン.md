@@ -10,7 +10,7 @@ first_appearance: ch0137
 spoiler_after: ch0137
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ネクロゾーン
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 葬送呪紋が刻まれた【ネクロゾーン】や改良されたパイルバンカーの【ナタリエル】は死者の魂に直接打撃を与えることが可能な義肢だ。
 - **unknown**: 葬送呪紋が刻まれた【ネクロゾーン】や改良されたパイルバンカーの【ナタリエル】は死者の魂に直接打撃を与えることが可能な義肢だ。
 
 <!-- /AUTO-GENERATED:name -->

@@ -10,7 +10,7 @@ spoiler_after: ch0112
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # トライデントホールディングス
@@ -31,12 +31,14 @@ updated: '2026-10-10'
 ## 名称・呼称
 
 - **unknown**: 民間警備会社から転生保険会社に出向しているゾーイ・アキラとケイトの所属は、共にトライデントホールディングス傘下の子会社である。
+- **unknown**: 民間警備会社から転生保険会社に出向しているゾーイ・アキラとケイトの所属は、共にトライデントホールディングス傘下の子会社である。
 
 <!-- /AUTO-GENERATED:name -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: カーティスと行動を共にして、可能ならば殺害せよ。
 - **unknown**: カーティスと行動を共にして、可能ならば殺害せよ。
 
 <!-- /AUTO-GENERATED:speech -->

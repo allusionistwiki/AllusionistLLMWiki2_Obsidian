@@ -10,7 +10,7 @@ first_appearance: ch0262
 spoiler_after: ch0262
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 四人の呪術師
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 常識を超え、理解を阻む壁を壊して死せるダウザールの魂と謁見した四人の呪術師たち。
 - **unknown**: 常識を超え、理解を阻む壁を壊して死せるダウザールの魂と謁見した四人の呪術師たち。
 
 <!-- /AUTO-GENERATED:action -->

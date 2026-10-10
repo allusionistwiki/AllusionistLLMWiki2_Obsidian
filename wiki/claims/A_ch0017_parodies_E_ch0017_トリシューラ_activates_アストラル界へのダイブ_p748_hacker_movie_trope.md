@@ -4,6 +4,7 @@ id: A_ch0017_parodies_E_ch0017_トリシューラ_activates_アストラル界�
 title: ハッキング描写のステレオタイプ模倣
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_トリシューラ_activates_アストラル界へのダイブ_p748]]"

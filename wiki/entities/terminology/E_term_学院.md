@@ -10,7 +10,7 @@ first_appearance: ch0189
 spoiler_after: ch0189
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 学院
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: やがて学院を埋め尽くしていた人形の屍に異変が生じた。物言わぬ残骸に亀裂が走る。卵の殻を内側からつつくような音がして、やがて生まれたのは無垢なる天使。
 - **unknown**: やがて学院を埋め尽くしていた人形の屍に異変が生じた。物言わぬ残骸に亀裂が走る。卵の殻を内側からつつくような音がして、やがて生まれたのは無垢なる天使。
 
 <!-- /AUTO-GENERATED:action -->

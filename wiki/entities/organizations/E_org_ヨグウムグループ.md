@@ -10,7 +10,7 @@ first_appearance: ch0233
 spoiler_after: ch0233
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ヨグウムグループ
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: 経営者一族はクロウサー家との婚姻を通して深い関係を築いていた。それを証明するように、クロウサー家側の重鎮である『黒雲翁』セイグリンが登場。
 - **unknown**: 経営者一族はクロウサー家との婚姻を通して深い関係を築いていた。それを証明するように、クロウサー家側の重鎮である『黒雲翁』セイグリンが登場。
 
 <!-- /AUTO-GENERATED:relationship -->

@@ -10,7 +10,7 @@ spoiler_after: ch0068
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 幻姿霊
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 『社会不安を招く』として地上で排斥される最も大きな原因となったこの伝承ゆえに、幻姿霊たちは古くから鏡から出現する暗殺者として時の権力者たちに恐れられてきた。
 - **unknown**: 『社会不安を招く』として地上で排斥される最も大きな原因となったこの伝承ゆえに、幻姿霊たちは古くから鏡から出現する暗殺者として時の権力者たちに恐れられてきた。
 
 <!-- /AUTO-GENERATED:name -->

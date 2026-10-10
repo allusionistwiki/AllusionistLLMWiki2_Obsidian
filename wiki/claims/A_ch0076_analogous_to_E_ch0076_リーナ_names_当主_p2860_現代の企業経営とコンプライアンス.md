@@ -4,6 +4,7 @@ id: A_ch0076_analogous_to_E_ch0076_リーナ_names_当主_p2860_現代の企業�
 title: 企業経営とコンプライアンス
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0076_リーナ_names_当主_p2860]]"

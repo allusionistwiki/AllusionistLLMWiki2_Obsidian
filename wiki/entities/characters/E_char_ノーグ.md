@@ -10,7 +10,7 @@ first_appearance: ch0150
 spoiler_after: ch0150
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ノーグ
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: ノーグという血脈は、その瞬間に創造された。
 - **unknown**: ノーグという血脈は、その瞬間に創造された。
 
 <!-- /AUTO-GENERATED:name -->

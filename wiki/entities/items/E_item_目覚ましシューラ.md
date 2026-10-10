@@ -10,7 +10,7 @@ first_appearance: ch0088
 spoiler_after: ch0088
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 目覚ましシューラ
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 端末から光学投影された目覚ましシューラが元気よく飛び跳ねた。（朝だよー朝だよー朝だよー）
 - **unknown**: 端末から光学投影された目覚ましシューラが元気よく飛び跳ねた。（朝だよー朝だよー朝だよー）
 
 <!-- /AUTO-GENERATED:visual -->

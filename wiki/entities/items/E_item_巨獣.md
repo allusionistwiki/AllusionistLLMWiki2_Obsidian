@@ -10,7 +10,7 @@ first_appearance: ch0121
 spoiler_after: ch0121
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 巨獣
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: ルウテトが従えていた巨獣は八つの断章の中に吸い込まれていき、六王もまた姿を消した。
 - **unknown**: ルウテトが従えていた巨獣は八つの断章の中に吸い込まれていき、六王もまた姿を消した。
 
 <!-- /AUTO-GENERATED:action -->

@@ -4,6 +4,7 @@ id: A_ch0012_analogous_to_E_ch0012_トリシューラ_other_サイバーカラ�
 title: オープンソース型ビジネスモデル
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_other_サイバーカラテ道場_p567]]"

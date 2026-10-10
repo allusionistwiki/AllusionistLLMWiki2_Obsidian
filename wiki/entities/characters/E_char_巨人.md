@@ -10,7 +10,7 @@ spoiler_after: ch0064
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 巨人
@@ -39,6 +39,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 巨大な幻肢はフェロニアを包み込んだまま地の底へと引き摺り込んでいく。
 - **unknown**: 巨大な幻肢はフェロニアを包み込んだまま地の底へと引き摺り込んでいく。
 
 <!-- /AUTO-GENERATED:action -->

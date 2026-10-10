@@ -10,7 +10,7 @@ spoiler_after: ch0133
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 海の民
@@ -32,6 +32,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 男は突如として憤怒の形相になったかと思うと店員の頭を鷲掴みにしてカウンターに叩きつけた。躊躇いのない暴力に店内の時間が止まる。
 - **unknown**: 男は突如として憤怒の形相になったかと思うと店員の頭を鷲掴みにしてカウンターに叩きつけた。躊躇いのない暴力に店内の時間が止まる。
 
 <!-- /AUTO-GENERATED:action -->

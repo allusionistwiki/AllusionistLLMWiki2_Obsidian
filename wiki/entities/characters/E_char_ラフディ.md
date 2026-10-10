@@ -10,7 +10,7 @@ spoiler_after: ch0125
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # ラフディ
@@ -40,6 +40,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: 逆にガロアンディアンとの対立姿勢を強めているのが、第五階層南西部に陣取ったラフディと、南東部のカシュラム人勢力である。
 - **unknown**: 逆にガロアンディアンとの対立姿勢を強めているのが、第五階層南西部に陣取ったラフディと、南東部のカシュラム人勢力である。
 
 <!-- /AUTO-GENERATED:relationship -->

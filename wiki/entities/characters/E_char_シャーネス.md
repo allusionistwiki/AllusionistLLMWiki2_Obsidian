@@ -10,7 +10,7 @@ spoiler_after: ch0253
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # シャーネス
@@ -40,12 +40,14 @@ updated: '2026-10-10'
 ## 名称・呼称
 
 - **unknown**: 七つの風の主。その号が暗示するのは彼女の不死性の由来だ。
+- **unknown**: 七つの風の主。その号が暗示するのは彼女の不死性の由来だ。
 
 <!-- /AUTO-GENERATED:name -->
 
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: そのような『軽い』自己像では足場が定まらず、より強固な個我を持った邪視をぶつけられればあっさりと押しのけられてしまうだろう。
 - **unknown**: そのような『軽い』自己像では足場が定まらず、より強固な個我を持った邪視をぶつけられればあっさりと押しのけられてしまうだろう。
 
 <!-- /AUTO-GENERATED:symbolic -->

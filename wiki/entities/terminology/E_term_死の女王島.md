@@ -10,7 +10,7 @@ spoiler_after: ch0172
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 死の女王島
@@ -31,12 +31,14 @@ updated: '2026-10-10'
 ## 視覚的記述
 
 - **unknown**: そこは『死人の森の女王』がハザーリャ神を取り込んだ際に封印した幾つもの『内海』にぽつりと浮かんでいた
+- **unknown**: そこは『死人の森の女王』がハザーリャ神を取り込んだ際に封印した幾つもの『内海』にぽつりと浮かんでいた
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: この島そのものに囚われたまま大地と同化していくであろう――見よ、お前の足下を！
 - **unknown**: この島そのものに囚われたまま大地と同化していくであろう――見よ、お前の足下を！
 
 <!-- /AUTO-GENERATED:symbolic -->

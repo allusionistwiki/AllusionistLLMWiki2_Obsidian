@@ -10,7 +10,7 @@ first_appearance: ch0233
 spoiler_after: ch0233
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 写真
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 呪いは祝福へと変わっていく。 写真は祝祭の記憶そのものだ。 異質な景色を記録する、未知なる世界の非日常。 パシャリと音がして、新しい過去が刻まれていく。
 - **unknown**: 呪いは祝福へと変わっていく。 写真は祝祭の記憶そのものだ。 異質な景色を記録する、未知なる世界の非日常。 パシャリと音がして、新しい過去が刻まれていく。
 
 <!-- /AUTO-GENERATED:symbolic -->

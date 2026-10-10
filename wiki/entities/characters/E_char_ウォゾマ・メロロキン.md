@@ -10,7 +10,7 @@ first_appearance: ch0102
 spoiler_after: ch0102
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ウォゾマ・メロロキン
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 長身の男が現れるや否や、出し抜けに問いかけられる。 蓬髪を振り乱した、不敵な面構え。
 - **unknown**: 長身の男が現れるや否や、出し抜けに問いかけられる。 蓬髪を振り乱した、不敵な面構え。
 
 <!-- /AUTO-GENERATED:visual -->

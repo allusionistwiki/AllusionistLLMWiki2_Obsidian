@@ -10,7 +10,7 @@ spoiler_after: ch0154
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # マイカール・チャーラム
@@ -32,12 +32,14 @@ updated: '2026-10-10'
 ## 視覚的記述
 
 - **unknown**: 『マイカール・チャーラム』はおおむねこのような凡庸な男だった。
+- **unknown**: 『マイカール・チャーラム』はおおむねこのような凡庸な男だった。
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「先生、私は間違っていたのでしょうか」「うーん。そうだね。あなたはどう考えてるのかな？」
 - **unknown**: 「先生、私は間違っていたのでしょうか」「うーん。そうだね。あなたはどう考えてるのかな？」
 
 <!-- /AUTO-GENERATED:speech -->

@@ -10,7 +10,7 @@ first_appearance: ch0263
 spoiler_after: ch0263
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 使者
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: こちら、父君より託された『風の便り』でございます。リーナ様宛の、最後の遺言。
 - **unknown**: こちら、父君より託された『風の便り』でございます。リーナ様宛の、最後の遺言。
 
 <!-- /AUTO-GENERATED:action -->

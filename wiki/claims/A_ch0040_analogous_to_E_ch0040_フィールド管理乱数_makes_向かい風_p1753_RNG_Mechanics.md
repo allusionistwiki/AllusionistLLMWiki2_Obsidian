@@ -4,6 +4,7 @@ id: A_ch0040_analogous_to_E_ch0040_フィールド管理乱数_makes_向かい�
 title: 戦況を左右する乱数操作
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0040_フィールド管理乱数_makes_向かい風_p1753]]"

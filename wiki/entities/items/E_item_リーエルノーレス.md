@@ -10,7 +10,7 @@ spoiler_after: ch0127
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # リーエルノーレス
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 唸りを上げる三枚の刃が頂点で三文字を連ねて呪文を発動させる。
 - **unknown**: 唸りを上げる三枚の刃が頂点で三文字を連ねて呪文を発動させる。
 
 <!-- /AUTO-GENERATED:visual -->

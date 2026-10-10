@@ -10,7 +10,7 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # メープル
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: メープル：ティリビナ人の男性。『聖絶』を生き延びた老練な葉刃士。
 - **unknown**: メープル：ティリビナ人の男性。『聖絶』を生き延びた老練な葉刃士。
 
 <!-- /AUTO-GENERATED:name -->

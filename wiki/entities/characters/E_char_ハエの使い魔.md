@@ -10,7 +10,7 @@ first_appearance: ch0207
 spoiler_after: ch0207
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ハエの使い魔
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 誘われるようにキノコに殺到した虫たちの羽音は唐突に途切れてしまう。ふらふらと落下して、無数の巨大ハエたちはことごとく絶命していった。
 - **unknown**: 誘われるようにキノコに殺到した虫たちの羽音は唐突に途切れてしまう。ふらふらと落下して、無数の巨大ハエたちはことごとく絶命していった。
 
 <!-- /AUTO-GENERATED:action -->

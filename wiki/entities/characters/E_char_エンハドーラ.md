@@ -10,7 +10,7 @@ spoiler_after: ch0235
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # エンハドーラ
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: ミブリナの弟が拓いたクァヒートの雲土からエンハドーラという傑物が生まれることになったのは喜ばしいことだ。
 - **unknown**: ミブリナの弟が拓いたクァヒートの雲土からエンハドーラという傑物が生まれることになったのは喜ばしいことだ。
 
 <!-- /AUTO-GENERATED:action -->

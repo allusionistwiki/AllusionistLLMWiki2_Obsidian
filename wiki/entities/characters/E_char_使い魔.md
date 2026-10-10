@@ -10,7 +10,7 @@ spoiler_after: ch0022
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 使い魔
@@ -45,12 +45,14 @@ updated: '2026-10-10'
 ## 行動・動作
 
 - **unknown**: 人形姫の前に立ちはだかった二つの影によって。一つは血塗れの全身甲冑姿、一つは全身を暗がりに隠した長衣姿。
+- **unknown**: 人形姫の前に立ちはだかった二つの影によって。一つは血塗れの全身甲冑姿、一つは全身を暗がりに隠した長衣姿。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「レッテを傷つける奴は」「許さないぞ！」
 - **unknown**: 「レッテを傷つける奴は」「許さないぞ！」
 
 <!-- /AUTO-GENERATED:speech -->

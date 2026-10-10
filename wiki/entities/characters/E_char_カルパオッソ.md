@@ -10,7 +10,7 @@ spoiler_after: ch0272
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # カルパオッソ
@@ -33,6 +33,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 選定レースが終わり、正式に空使いとして認められた直後に婚約を発表。祝祭のフィナーレを飾る電撃的かつ華々しい結婚式で世界に新たなリーダーの誕生を知らしめるのさ。
 - **unknown**: 選定レースが終わり、正式に空使いとして認められた直後に婚約を発表。祝祭のフィナーレを飾る電撃的かつ華々しい結婚式で世界に新たなリーダーの誕生を知らしめるのさ。
 
 <!-- /AUTO-GENERATED:speech -->

@@ -10,7 +10,7 @@ first_appearance: ch0137
 spoiler_after: ch0137
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ギゼリア
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: それか建築能力に特化したクラフトアーム【ギゼリア】で墓標を建てて封印するという手もある。
 - **unknown**: それか建築能力に特化したクラフトアーム【ギゼリア】で墓標を建てて封印するという手もある。
 
 <!-- /AUTO-GENERATED:name -->

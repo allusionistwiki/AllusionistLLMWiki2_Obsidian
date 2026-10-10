@@ -10,7 +10,7 @@ first_appearance: ch0090
 spoiler_after: ch0090
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 群衆
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 改めて目に見える形として『機械である』という事実を突きつけられたことで、『所詮は人形』という認識が強まりつつあるのだった。
 - **unknown**: 改めて目に見える形として『機械である』という事実を突きつけられたことで、『所詮は人形』という認識が強まりつつあるのだった。
 
 <!-- /AUTO-GENERATED:speech -->

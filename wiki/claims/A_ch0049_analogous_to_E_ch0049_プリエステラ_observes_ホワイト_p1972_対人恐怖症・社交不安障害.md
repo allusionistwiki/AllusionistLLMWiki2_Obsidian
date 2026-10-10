@@ -4,6 +4,7 @@ id: A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_ホワイト_p197
 title: 社交不安障害の症状描写
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0049_プリエステラ_observes_ホワイト_p1972]]"

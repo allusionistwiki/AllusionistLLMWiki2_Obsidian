@@ -10,7 +10,7 @@ first_appearance: ch0087
 spoiler_after: ch0087
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # イルディアンサ
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: イルディアンサにおいては、交易、経済、情報、通信、行政の全てが首都に集約されている
 - **unknown**: イルディアンサにおいては、交易、経済、情報、通信、行政の全てが首都に集約されている
 
 <!-- /AUTO-GENERATED:visual -->

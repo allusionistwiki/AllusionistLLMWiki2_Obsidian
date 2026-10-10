@@ -10,7 +10,7 @@ first_appearance: ch0106
 spoiler_after: ch0106
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 猫の取り替え子
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 【猫の取り替え子】という極めて稀少な存在であるというから、
 - **unknown**: 【猫の取り替え子】という極めて稀少な存在であるというから、
 
 <!-- /AUTO-GENERATED:speech -->

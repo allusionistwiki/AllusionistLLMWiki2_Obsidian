@@ -10,7 +10,7 @@ spoiler_after: ch0156
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 骨の女王
@@ -32,12 +32,14 @@ updated: '2026-10-10'
 ## 行動・動作
 
 - **unknown**: 骨の女王が手を前に出して歯を一度鳴らした途端、戦況は一気に覆った。戦いに斃れていった者たちが次々と立ち上がり、再び生を得て戦い始めたのだ。
+- **unknown**: 骨の女王が手を前に出して歯を一度鳴らした途端、戦況は一気に覆った。戦いに斃れていった者たちが次々と立ち上がり、再び生を得て戦い始めたのだ。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: その顔は真っ白な頭蓋骨そのもので、眼窩には虚無が広がるばかり。
 - **unknown**: その顔は真っ白な頭蓋骨そのもので、眼窩には虚無が広がるばかり。
 
 <!-- /AUTO-GENERATED:visual -->

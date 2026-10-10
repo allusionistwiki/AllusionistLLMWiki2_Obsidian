@@ -4,6 +4,7 @@ id: A_ch0075_analogous_to_E_ch0075_天獄_defines_恐怖による掌握_p2837_�
 title: ブラック企業による恐怖支配
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0075_天獄_defines_恐怖による掌握_p2837]]"

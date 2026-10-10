@@ -10,7 +10,7 @@ spoiler_after: ch0163
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # マジカルアピール
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: そうしたものが結実することで生み出されるアピールこそ『マジカルアピール』なのだという。
 - **unknown**: そうしたものが結実することで生み出されるアピールこそ『マジカルアピール』なのだという。
 
 <!-- /AUTO-GENERATED:symbolic -->

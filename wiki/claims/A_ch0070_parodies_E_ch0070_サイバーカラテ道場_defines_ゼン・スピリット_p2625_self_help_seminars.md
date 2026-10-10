@@ -4,6 +4,7 @@ id: A_ch0070_parodies_E_ch0070_サイバーカラテ道場_defines_ゼン・ス�
 title: 自己啓発セミナーの風刺
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_サイバーカラテ道場_appears_アプリ_p2625]]"

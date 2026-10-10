@@ -10,7 +10,7 @@ spoiler_after: ch0188
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 学院
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 槍船は迎え入れるように『門』を開いた学院の中に、一気に穂先を挿入した。
 - **unknown**: 槍船は迎え入れるように『門』を開いた学院の中に、一気に穂先を挿入した。
 
 <!-- /AUTO-GENERATED:action -->

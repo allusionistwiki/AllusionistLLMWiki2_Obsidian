@@ -4,6 +4,7 @@ id: A_ch0055_analogous_to_E_ch0055_主人公_thinks_色の違い_p2112_qualia_pr
 title: クオリア問題への不安
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0055_主人公_thinks_色の違い_p2112]]"

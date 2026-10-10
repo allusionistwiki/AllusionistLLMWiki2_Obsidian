@@ -10,7 +10,7 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 八家浄罪派
 
@@ -22,5 +22,6 @@ updated: '2026-10-10'
 - **unknown**: 八家浄罪派・王攵瑰／薔薇 正式な巫女セレクティの代理。
 まいかい
 ロザリンダ
+- **unknown**: 八家浄罪派・王攵瑰／薔薇 正式な巫女セレクティの代理。
 
 <!-- /AUTO-GENERATED:name -->

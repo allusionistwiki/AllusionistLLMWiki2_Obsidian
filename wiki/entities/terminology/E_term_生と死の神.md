@@ -10,7 +10,7 @@ first_appearance: ch0094
 spoiler_after: ch0094
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 生と死の神
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: なんでも、この辺りで崇められている生と死の神は演劇の神でもあるらしい。
 - **unknown**: なんでも、この辺りで崇められている生と死の神は演劇の神でもあるらしい。
 
 <!-- /AUTO-GENERATED:speech -->

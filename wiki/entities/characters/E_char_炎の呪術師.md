@@ -10,7 +10,7 @@ first_appearance: ch0008
 spoiler_after: ch0008
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 炎の呪術師
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「ようこそ。そして死ね」
 - **unknown**: 「ようこそ。そして死ね」
 - **unknown**: 「ようこそ。そして死ね」
 - **unknown**: 「ようこそ。そして死ね」

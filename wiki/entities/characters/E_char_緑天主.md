@@ -10,7 +10,7 @@ spoiler_after: ch0205
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 緑天主
@@ -34,5 +34,6 @@ updated: '2026-10-10'
 - **unknown**: 緑天主は背後や足元から追い縋り、手足に絡みつこうとする蔦や
 ロードデンドロン
 茨から必死になって逃れようとしていた。
+- **unknown**: 緑天主は背後や足元から追い縋り、手足に絡みつこうとする蔦や
 
 <!-- /AUTO-GENERATED:visual -->

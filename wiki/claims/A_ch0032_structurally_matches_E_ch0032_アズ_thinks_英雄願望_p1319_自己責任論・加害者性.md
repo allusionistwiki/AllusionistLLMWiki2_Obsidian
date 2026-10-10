@@ -4,6 +4,7 @@ id: A_ch0032_structurally_matches_E_ch0032_アズ_thinks_英雄願望_p1319_自�
 title: 自己責任論と加害者性
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0032_アズ_thinks_英雄願望_p1319]]"

@@ -4,6 +4,7 @@ id: A_ch0064_analogous_to_E_ch0064_アキラ_helps_アキラ_p2381_ゲームの�
 title: ゲームのシナリオ分岐への誘導
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_アキラ_other_物語素体_p2381]]"

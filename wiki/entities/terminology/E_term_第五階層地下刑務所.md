@@ -10,7 +10,7 @@ first_appearance: ch0166
 spoiler_after: ch0166
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 第五階層地下刑務所
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 民間の事業者たちが地下に『創造』した巨大刑務所は『死人の森』クラフトという異界と混じり合って異形の牢獄兼処刑場と化していた。
 - **unknown**: 民間の事業者たちが地下に『創造』した巨大刑務所は『死人の森』クラフトという異界と混じり合って異形の牢獄兼処刑場と化していた。
 
 <!-- /AUTO-GENERATED:visual -->

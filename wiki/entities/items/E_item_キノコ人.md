@@ -10,7 +10,7 @@ spoiler_after: ch0223
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # キノコ人
@@ -31,12 +31,14 @@ updated: '2026-10-10'
 ## 象徴・比喩
 
 - **unknown**: ティリビナ人の呪術は自然を対象とするものが基本だから、『人を操る』ことは専門外なのだが、キノコ人たちの寄生呪術なら話は別だ。
+- **unknown**: ティリビナ人の呪術は自然を対象とするものが基本だから、『人を操る』ことは専門外なのだが、キノコ人たちの寄生呪術なら話は別だ。
 
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 閃光がキノコ人たちを焼き、命が散っていく。 迸る魂のエネルギーが円形の門を形成し、空間を歪めていった。
 - **unknown**: 閃光がキノコ人たちを焼き、命が散っていく。 迸る魂のエネルギーが円形の門を形成し、空間を歪めていった。
 
 <!-- /AUTO-GENERATED:action -->

@@ -4,6 +4,7 @@ id: A_ch0029_alludes_to_E_ch0029_ハル_says_アキラの変態性_p1263_トリ�
 title: トリシューラへの異常反応比喩
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_ハル_says_アキラの変態性_p1263]]"

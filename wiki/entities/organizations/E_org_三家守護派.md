@@ -10,7 +10,7 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 三家守護派
 
@@ -22,5 +22,6 @@ updated: '2026-10-10'
 - **unknown**: 三家守護派・琥珀 ユディーアの巫女名。初代巫女アゥルメイア
 エレクトラ
 の弟子。
+- **unknown**: 三家守護派・琥珀 ユディーアの巫女名。初代巫女アゥルメイア
 
 <!-- /AUTO-GENERATED:name -->

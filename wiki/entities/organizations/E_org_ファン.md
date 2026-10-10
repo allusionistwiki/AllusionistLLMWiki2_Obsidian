@@ -10,7 +10,7 @@ first_appearance: ch0175
 spoiler_after: ch0175
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ファン
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「キラちゃーん、がんばってー！」「応援してるよー」「キラちゃんモクモクしてー！」「モクモク可愛いよ！」
 - **unknown**: 「キラちゃーん、がんばってー！」「応援してるよー」「キラちゃんモクモクしてー！」「モクモク可愛いよ！」
 
 <!-- /AUTO-GENERATED:speech -->

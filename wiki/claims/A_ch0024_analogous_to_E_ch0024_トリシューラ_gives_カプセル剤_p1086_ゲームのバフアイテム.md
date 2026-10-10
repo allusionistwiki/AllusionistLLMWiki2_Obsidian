@@ -4,6 +4,7 @@ id: A_ch0024_analogous_to_E_ch0024_トリシューラ_gives_カプセル剤_p108
 title: ゲームバフアイテムへの戦闘前服用
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_トリシューラ_gives_カプセル剤_p1086]]"

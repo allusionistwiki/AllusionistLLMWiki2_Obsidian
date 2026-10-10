@@ -10,7 +10,7 @@ spoiler_after: ch0153
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 賢者
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 世界を愛する歌が聞こえる。輝く黄金のような美しい魂の歌が。世界を憎む怨嗟が聞こえる。割れた鏡のような醜い心の呪いが。それはこの世界には在らざる異物の呼び声だ。
 - **unknown**: 世界を愛する歌が聞こえる。輝く黄金のような美しい魂の歌が。世界を憎む怨嗟が聞こえる。割れた鏡のような醜い心の呪いが。それはこの世界には在らざる異物の呼び声だ。
 
 <!-- /AUTO-GENERATED:speech -->

@@ -4,6 +4,7 @@ id: A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_白血呪_p1680_バ�
 title: 不死の民主化と倫理崩壊
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_ミルーニャ_reveals_白血呪_p1680]]"

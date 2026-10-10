@@ -4,6 +4,7 @@ id: A_ch0024_analogous_to_E_ch0024_アキラ_uses_射影三昧耶形_p1108_VRア
 title: VRアバター的エミュレーション
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_アキラ_uses_射影三昧耶形_p1108]]"

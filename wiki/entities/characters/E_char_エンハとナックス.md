@@ -10,7 +10,7 @@ spoiler_after: ch0235
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # エンハとナックス
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: そしてクロウサーの本流であるダウザールやパーンとの最大の違いは、若さだった。
 - **unknown**: そしてクロウサーの本流であるダウザールやパーンとの最大の違いは、若さだった。
 
 <!-- /AUTO-GENERATED:symbolic -->

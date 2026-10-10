@@ -10,7 +10,7 @@ spoiler_after: ch0125
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # ルバーブ
@@ -32,12 +32,14 @@ updated: '2026-10-10'
 ## 視覚的記述
 
 - **unknown**: 意外にもそれは人参のケーキ。色合いといい形といい素朴な感じで、綺麗な円形をしていた。平らな表面に埋め込まれているのは甘く煮込んだ豆。
+- **unknown**: 意外にもそれは人参のケーキ。色合いといい形といい素朴な感じで、綺麗な円形をしていた。平らな表面に埋め込まれているのは甘く煮込んだ豆。
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: （アキラくん、あれは大黄だよ。あるいは、この世界における大黄 ルバーブ に相当する植物かな。
 - **unknown**: （アキラくん、あれは大黄だよ。あるいは、この世界における大黄 ルバーブ に相当する植物かな。
 
 <!-- /AUTO-GENERATED:action -->

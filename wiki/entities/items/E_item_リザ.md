@@ -10,7 +10,7 @@ first_appearance: ch0125
 spoiler_after: ch0125
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # リザ
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: リザと呼ばれた女性はブラウスの前ボタンを開くと腕を自らの腹部に突っ込み、胎内から骨の剣を引きずり出す。
 - **unknown**: リザと呼ばれた女性はブラウスの前ボタンを開くと腕を自らの腹部に突っ込み、胎内から骨の剣を引きずり出す。
 
 <!-- /AUTO-GENERATED:action -->

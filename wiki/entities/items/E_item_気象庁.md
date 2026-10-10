@@ -10,7 +10,7 @@ spoiler_after: ch0157
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 気象庁
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: パーンが起動させた『気象庁』はその宣名の通り流星の如く一直線に突き進み、呪術障壁を突き破って男根城右側ドームに墜落。
 - **unknown**: パーンが起動させた『気象庁』はその宣名の通り流星の如く一直線に突き進み、呪術障壁を突き破って男根城右側ドームに墜落。
 
 <!-- /AUTO-GENERATED:action -->

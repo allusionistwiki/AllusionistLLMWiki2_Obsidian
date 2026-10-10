@@ -10,7 +10,7 @@ spoiler_after: ch0165
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 地下アイドル空間
@@ -25,11 +25,16 @@ updated: '2026-10-10'
 > 地下アイドル空間に聳え立つランキング。厳しさの象徴であり、競争による質の向上にも役立つシステムだが（ch0167）
 > 生産区画付近の地下にあるのは旧白骨迷宮。（ch0222）
 
+## 関連クレーム
+
+- [[A_ch0222_parodies_E_ch0222_地下アイドル空間_is_located_旧白骨迷宮_p7362_Idol_Otaku_Culture|冥界のアイドル文化消費]]
+
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 地下アイドル空間に聳え立つランキング。厳しさの象徴であり、競争による質の向上にも役立つシステムだが
 - **unknown**: 地下アイドル空間に聳え立つランキング。厳しさの象徴であり、競争による質の向上にも役立つシステムだが
 
 <!-- /AUTO-GENERATED:visual -->
@@ -37,6 +42,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 生産区画付近の地下にあるのは旧白骨迷宮。
 - **unknown**: 生産区画付近の地下にあるのは旧白骨迷宮。
 
 <!-- /AUTO-GENERATED:name -->

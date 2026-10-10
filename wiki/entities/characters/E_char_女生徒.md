@@ -10,7 +10,7 @@ first_appearance: ch0189
 spoiler_after: ch0189
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 女生徒
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 荒れ果てた校舎に消えていくその後ろ姿を、黄砂色の髪をした女生徒がじっと睨みつけていた。彼女だけが、その呟きを耳にしていた。
 - **unknown**: 荒れ果てた校舎に消えていくその後ろ姿を、黄砂色の髪をした女生徒がじっと睨みつけていた。彼女だけが、その呟きを耳にしていた。
 
 <!-- /AUTO-GENERATED:action -->

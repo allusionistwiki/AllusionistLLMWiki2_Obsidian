@@ -10,7 +10,7 @@ first_appearance: ch0003
 spoiler_after: ch0003
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ゼオーティア
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: この世界を、多くの異世界がゼオーティアと呼んだ。
 - **unknown**: この世界を、多くの異世界がゼオーティアと呼んだ。
 - **unknown**: この世界を、多くの異世界がゼオーティアと呼んだ。
 - **unknown**: この世界を、多くの異世界がゼオーティアと呼んだ。

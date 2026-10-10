@@ -4,6 +4,7 @@ id: A_ch0081_analogous_to_E_ch0081_トリシューラ_uses_指ミサイル_p2978
 title: 指ミサイルによる身体拡張と兵器化
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0081_トリシューラ_uses_指ミサイル_p2978]]"

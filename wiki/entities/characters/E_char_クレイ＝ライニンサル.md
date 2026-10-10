@@ -10,7 +10,7 @@ spoiler_after: ch0082
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # クレイ＝ライニンサル
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 勝ったにも関わらず、女性的なまでに美しい顔を悔しそうに歪める男の名は、やはりというべきか、【変異の三手】が副長の一人、クレイ＝ライニンサルだ。
 - **unknown**: 勝ったにも関わらず、女性的なまでに美しい顔を悔しそうに歪める男の名は、やはりというべきか、【変異の三手】が副長の一人、クレイ＝ライニンサルだ。
 
 <!-- /AUTO-GENERATED:name -->

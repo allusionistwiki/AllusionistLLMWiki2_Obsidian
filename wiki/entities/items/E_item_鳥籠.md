@@ -10,7 +10,7 @@ first_appearance: ch0217
 spoiler_after: ch0217
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 鳥籠
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: ガロアンディアンの目が届かぬ遥か上空、天竜境界の干渉に晒されない安全地帯。祝祭の厳重な監視網をかいくぐるかのように構築された隔離された異界。
 - **unknown**: ガロアンディアンの目が届かぬ遥か上空、天竜境界の干渉に晒されない安全地帯。祝祭の厳重な監視網をかいくぐるかのように構築された隔離された異界。
 
 <!-- /AUTO-GENERATED:visual -->

@@ -10,7 +10,7 @@ first_appearance: ch0262
 spoiler_after: ch0262
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 蹄鉄
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 彼らが蹄鉄を現世に持ち帰ると、それは青い輝きと共に高貴なる血を滴らせた。
 - **unknown**: 彼らが蹄鉄を現世に持ち帰ると、それは青い輝きと共に高貴なる血を滴らせた。
 
 <!-- /AUTO-GENERATED:visual -->

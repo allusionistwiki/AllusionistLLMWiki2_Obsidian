@@ -10,7 +10,7 @@ first_appearance: ch0181
 spoiler_after: ch0181
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 扉職人
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 魔竜は大量の影と共に飲み込まれ、扉諸共に消失した。
 - **unknown**: 魔竜は大量の影と共に飲み込まれ、扉諸共に消失した。
 
 <!-- /AUTO-GENERATED:action -->

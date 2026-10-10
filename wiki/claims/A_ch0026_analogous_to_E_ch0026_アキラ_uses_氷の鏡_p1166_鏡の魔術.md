@@ -4,6 +4,7 @@ id: A_ch0026_analogous_to_E_ch0026_アキラ_uses_氷の鏡_p1166_鏡の魔術
 title: 鏡の魔術による反射
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_氷の鏡_p1166]]"

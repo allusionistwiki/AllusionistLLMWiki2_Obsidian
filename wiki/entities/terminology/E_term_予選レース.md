@@ -10,7 +10,7 @@ first_appearance: ch0214
 spoiler_after: ch0214
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 予選レース
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 妨害あり乱闘あり。ルール無用の大騒ぎ。　伝統のある『空使い』選定レースではできない馬鹿みたいな展開も許容される盛大な『前座』がこの予選レースの本質だ。
 - **unknown**: 妨害あり乱闘あり。ルール無用の大騒ぎ。　伝統のある『空使い』選定レースではできない馬鹿みたいな展開も許容される盛大な『前座』がこの予選レースの本質だ。
 
 <!-- /AUTO-GENERATED:symbolic -->

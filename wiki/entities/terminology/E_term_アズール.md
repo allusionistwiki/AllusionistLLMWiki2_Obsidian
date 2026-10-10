@@ -10,7 +10,7 @@ first_appearance: ch0072
 spoiler_after: ch0072
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # アズール
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 「号は澄明、性は摸倣、その起源は幻獣」
 - **unknown**: 「号は澄明、性は摸倣、その起源は幻獣」
 - **unknown**: 「号は澄明、性は摸倣、その起源は幻獣」
 - **unknown**: 「号は澄明、性は摸倣、その起源は幻獣」

@@ -10,7 +10,7 @@ first_appearance: ch0100
 spoiler_after: ch0100
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 火器
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 正々堂々たる勇士と勇士の戦いを穢す卑怯者の武器。あるべき秩序をねじ曲げ、徒に屍を生み出すだけのものなどあってはならぬ。
 - **unknown**: 正々堂々たる勇士と勇士の戦いを穢す卑怯者の武器。あるべき秩序をねじ曲げ、徒に屍を生み出すだけのものなどあってはならぬ。
 
 <!-- /AUTO-GENERATED:symbolic -->

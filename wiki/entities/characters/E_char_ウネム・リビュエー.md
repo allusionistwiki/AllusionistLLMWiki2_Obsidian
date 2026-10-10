@@ -10,7 +10,7 @@ spoiler_after: ch0177
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # ウネム・リビュエー
@@ -31,12 +31,14 @@ updated: '2026-10-10'
 ## 名称・呼称
 
 - **unknown**: 「挨拶が遅れたな、『盾』の黒騎士。私は『守護の九槍』第七位――」
+- **unknown**: 「挨拶が遅れたな、『盾』の黒騎士。私は『守護の九槍』第七位――」
 
 <!-- /AUTO-GENERATED:name -->
 
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: 『守護の九槍』第七位――あれは、私の敵。かつて私たちキール斑を、否、より正確には小隊規模であったキール隊を敵側に売り、故意に壊滅に追い込んだ最悪の裏切り者。それが奴らなのだから。
 - **unknown**: 『守護の九槍』第七位――あれは、私の敵。かつて私たちキール斑を、否、より正確には小隊規模であったキール隊を敵側に売り、故意に壊滅に追い込んだ最悪の裏切り者。それが奴らなのだから。
 
 <!-- /AUTO-GENERATED:relationship -->

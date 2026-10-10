@@ -4,6 +4,7 @@ id: A_ch0019_analogous_to_E_ch0019_トリシューラ_uses_巡槍艦ノアズア
 title: 衝角戦術の呪術的変換
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0019_トリシューラ_uses_巡槍艦ノアズアーク_p872]]"

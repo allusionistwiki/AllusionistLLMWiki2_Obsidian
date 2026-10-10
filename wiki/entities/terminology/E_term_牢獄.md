@@ -10,7 +10,7 @@ first_appearance: ch0192
 spoiler_after: ch0192
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 牢獄
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: いつの間にか新しく出現していた扉にはこんな紙が貼り付けられていた。『生殖しないと出られない部屋』と。
 - **unknown**: いつの間にか新しく出現していた扉にはこんな紙が貼り付けられていた。『生殖しないと出られない部屋』と。
 
 <!-- /AUTO-GENERATED:visual -->

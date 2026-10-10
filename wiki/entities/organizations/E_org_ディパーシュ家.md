@@ -10,7 +10,7 @@ spoiler_after: ch0252
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # ディパーシュ家
@@ -31,12 +31,14 @@ updated: '2026-10-10'
 ## 象徴・比喩
 
 - **unknown**: 歴史の流れに埋もれて廃れた行き止まりの血。それは存在しないはずの亡霊だ。
+- **unknown**: 歴史の流れに埋もれて廃れた行き止まりの血。それは存在しないはずの亡霊だ。
 
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「それからウチの若いコがハグレスの依り代を発見～お手柄！ たぶんアダス とかレナリア入りなんで、サクっと封印しちゃうってさ～。」
 - **unknown**: 「それからウチの若いコがハグレスの依り代を発見～お手柄！ たぶんアダス とかレナリア入りなんで、サクっと封印しちゃうってさ～。」
 
 <!-- /AUTO-GENERATED:speech -->

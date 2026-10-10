@@ -10,7 +10,7 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 一家創世派
 
@@ -22,5 +22,6 @@ updated: '2026-10-10'
 - **unknown**: 一家創世派・賢金 神人や紀仙とも呼ばれる生ける彩域・天頂城
 ティンクトゥラ
 砦。
+- **unknown**: 一家創世派・賢金 神人や紀仙とも呼ばれる生ける彩域・天頂城
 
 <!-- /AUTO-GENERATED:name -->

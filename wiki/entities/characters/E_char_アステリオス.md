@@ -10,7 +10,7 @@ first_appearance: ch0198
 spoiler_after: ch0198
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # アステリオス
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「みてみてユディーア、あそこの露店で牽牛種の錬金術師が牛黄を アステリオス ごおう 売っていたわ！ やっぱり自分の胆嚢から取り出したのかしら？」
 - **unknown**: 「みてみてユディーア、あそこの露店で牽牛種の錬金術師が牛黄を アステリオス ごおう 売っていたわ！ やっぱり自分の胆嚢から取り出したのかしら？」
 
 <!-- /AUTO-GENERATED:speech -->

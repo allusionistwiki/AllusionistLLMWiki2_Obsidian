@@ -10,7 +10,7 @@ first_appearance: ch0187
 spoiler_after: ch0187
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 射撃
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 撃ち抜いた心は流星となる。アイドルたちの仕事はその星を観測することだ。
 - **unknown**: 撃ち抜いた心は流星となる。アイドルたちの仕事はその星を観測することだ。
 
 <!-- /AUTO-GENERATED:symbolic -->

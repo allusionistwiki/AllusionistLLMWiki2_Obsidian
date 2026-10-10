@@ -10,7 +10,7 @@ spoiler_after: ch0205
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # ティリビナ人
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 馬鹿げた振る舞いによって生じた空気の緩み。 その『間』を狙い澄まして、ティリビナ人たちが最も警戒していた『爆撃』が発動。
 - **unknown**: 馬鹿げた振る舞いによって生じた空気の緩み。 その『間』を狙い澄まして、ティリビナ人たちが最も警戒していた『爆撃』が発動。
 
 <!-- /AUTO-GENERATED:action -->

@@ -10,7 +10,7 @@ first_appearance: ch0206
 spoiler_after: ch0206
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 硬貨
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 「天意よ、羽ばたけ」　セラメルの命令に従い、硬貨に炎の翼が生える。
 - **unknown**: 「天意よ、羽ばたけ」　セラメルの命令に従い、硬貨に炎の翼が生える。
 
 <!-- /AUTO-GENERATED:visual -->

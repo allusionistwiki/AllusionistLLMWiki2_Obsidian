@@ -4,6 +4,7 @@ id: A_ch0071_analogous_to_E_ch0071_異界の黙示録_functions_as_銀河系の�
 title: グーテンベルク銀河の情報爆発
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_異界の黙示録_other_銀河系_p2635]]"

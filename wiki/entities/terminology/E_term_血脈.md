@@ -10,7 +10,7 @@ spoiler_after: ch0110
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 血脈
@@ -31,6 +31,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: パーンの纏う【血脈】は明るい藍色なのだ。それはラクルラールの支配すら受け付けない無敵の護りとして機能していた。
 - **unknown**: パーンの纏う【血脈】は明るい藍色なのだ。それはラクルラールの支配すら受け付けない無敵の護りとして機能していた。
 
 <!-- /AUTO-GENERATED:visual -->

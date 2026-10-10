@@ -10,7 +10,7 @@ spoiler_after: ch0123
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # マラード
@@ -33,6 +33,8 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 出し抜けに涼しげな男の声がした。ルウテトの髪の中から小さな半透明の影が現れる。
+- **unknown**: ラフディの民が髪を扱わせたら世界一だということを教えて差し上げよう
 - **unknown**: 出し抜けに涼しげな男の声がした。ルウテトの髪の中から小さな半透明の影が現れる。
 - **unknown**: ラフディの民が髪を扱わせたら世界一だということを教えて差し上げよう
 

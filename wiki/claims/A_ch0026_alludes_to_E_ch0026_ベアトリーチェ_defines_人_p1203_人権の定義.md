@@ -4,6 +4,7 @@ id: A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_defines_人_p1203_人権�
 title: 曖昧な人権の境界線
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_defines_人_p1203]]"

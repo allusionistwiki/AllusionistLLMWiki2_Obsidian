@@ -10,7 +10,7 @@ first_appearance: ch0187
 spoiler_after: ch0187
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # アイドル
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: アイドルは心を撃ち抜く。 だから生徒たちは皆、この学院で射撃の訓練を受ける。
 - **unknown**: アイドルは心を撃ち抜く。 だから生徒たちは皆、この学院で射撃の訓練を受ける。
 
 <!-- /AUTO-GENERATED:symbolic -->

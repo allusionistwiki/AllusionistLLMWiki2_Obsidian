@@ -10,7 +10,7 @@ spoiler_after: ch0129
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # アヴロニア
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: エフラスを恐れた槍の神々によって妖精郷アヴロニアは空の彼方に追放された。
 - **unknown**: エフラスを恐れた槍の神々によって妖精郷アヴロニアは空の彼方に追放された。
 
 <!-- /AUTO-GENERATED:action -->

@@ -10,7 +10,7 @@ spoiler_after: ch0228
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # レルプレア
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 語り遊ぶ詞を藍域に届かせたのは見事。だがこちらにも負けられない理由がある。緑天主レルプレアの彩域を蘇らせるため、悪いが加減はしてやれない
 - **unknown**: 語り遊ぶ詞を藍域に届かせたのは見事。だがこちらにも負けられない理由がある。緑天主レルプレアの彩域を蘇らせるため、悪いが加減はしてやれない
 
 <!-- /AUTO-GENERATED:speech -->

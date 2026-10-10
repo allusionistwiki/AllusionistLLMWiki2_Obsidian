@@ -10,7 +10,7 @@ first_appearance: ch0114
 spoiler_after: ch0114
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 約束
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: 女王さまは、そう呼んでくれる人々の尊敬無しには上に立ち続けることはできません。
 - **unknown**: 女王さまは、そう呼んでくれる人々の尊敬無しには上に立ち続けることはできません。
 
 <!-- /AUTO-GENERATED:relationship -->

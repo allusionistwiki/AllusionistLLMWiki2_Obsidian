@@ -4,6 +4,7 @@ id: A_ch0006_foreshadows_E_ch0006_謎の声_says_頭を良くする_p310_cogniti
 title: 認知改変の伏線
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0006_謎の声_says_頭を良くする_p310]]"

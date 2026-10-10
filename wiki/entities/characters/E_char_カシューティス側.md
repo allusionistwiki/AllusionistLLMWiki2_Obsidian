@@ -10,7 +10,7 @@ first_appearance: ch0251
 spoiler_after: ch0251
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # カシューティス側
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 『了解、カシューティス様の名において、降臨儀式の起動準備に入ります』『輝ける貪りあれ』
 - **unknown**: 『了解、カシューティス様の名において、降臨儀式の起動準備に入ります』『輝ける貪りあれ』
 
 <!-- /AUTO-GENERATED:action -->

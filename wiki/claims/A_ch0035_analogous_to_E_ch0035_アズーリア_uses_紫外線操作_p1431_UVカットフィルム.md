@@ -4,6 +4,7 @@ id: A_ch0035_analogous_to_E_ch0035_アズーリア_uses_紫外線操作_p1431_UV
 title: UVカット技術の呪術転用
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_アズーリア_uses_紫外線操作_p1431]]"

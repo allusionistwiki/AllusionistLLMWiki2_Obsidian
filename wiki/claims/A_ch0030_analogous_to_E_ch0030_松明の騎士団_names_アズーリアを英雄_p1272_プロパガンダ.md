@@ -4,6 +4,7 @@ id: A_ch0030_analogous_to_E_ch0030_松明の騎士団_names_アズーリアを�
 title: 失策隠蔽の英雄仕立てプロパガンダ
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_松明の騎士団_names_アズーリアを英雄_p1272]]"

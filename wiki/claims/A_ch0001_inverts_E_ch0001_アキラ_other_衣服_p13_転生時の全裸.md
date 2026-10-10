@@ -4,6 +4,7 @@ id: A_ch0001_inverts_E_ch0001_アキラ_other_衣服_p13_転生時の全裸
 title: 全裸転生を保険責任への逆転
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_other_衣服_p13]]"

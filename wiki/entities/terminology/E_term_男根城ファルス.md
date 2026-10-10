@@ -10,7 +10,7 @@ first_appearance: ch0135
 spoiler_after: ch0135
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 男根城ファルス
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: コルセスカが囚われている男根城ファルスとかいうふざけた建造物は、アストラルの海中に存在するという。
 - **unknown**: コルセスカが囚われている男根城ファルスとかいうふざけた建造物は、アストラルの海中に存在するという。
 
 <!-- /AUTO-GENERATED:visual -->

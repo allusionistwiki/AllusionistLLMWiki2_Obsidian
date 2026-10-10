@@ -4,6 +4,7 @@ id: A_ch0064_analogous_to_E_ch0064_サイリウス_uses_質量操作呪術_p2388
 title: 物理法則改変のチート能力
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_サイリウス_uses_質量操作呪術_p2388]]"

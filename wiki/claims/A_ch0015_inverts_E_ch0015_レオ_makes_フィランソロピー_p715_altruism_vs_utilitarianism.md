@@ -4,6 +4,7 @@ id: A_ch0015_inverts_E_ch0015_レオ_makes_フィランソロピー_p715_altruis
 title: 博愛と功利主義の逆転
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_レオ_makes_フィランソロピー_p715]]"

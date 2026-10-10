@@ -10,7 +10,7 @@ first_appearance: ch0233
 spoiler_after: ch0233
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 万獣祭
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 古き良き万獣祭に殺し合いは不要。代わりに尊ばれるのは競争だ。 その共通認識を象徴するイベントが、今まさに始まろうとしていた。
 - **unknown**: 古き良き万獣祭に殺し合いは不要。代わりに尊ばれるのは競争だ。 その共通認識を象徴するイベントが、今まさに始まろうとしていた。
 
 <!-- /AUTO-GENERATED:speech -->

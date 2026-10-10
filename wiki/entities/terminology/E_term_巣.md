@@ -10,7 +10,7 @@ first_appearance: ch0212
 spoiler_after: ch0212
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 巣
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: おぞましい刑場、あるいは拷問室、そうでなければ悪夢の芸術。　それらの要素を内包した、それは『巣』だった。
 - **unknown**: おぞましい刑場、あるいは拷問室、そうでなければ悪夢の芸術。　それらの要素を内包した、それは『巣』だった。
 
 <!-- /AUTO-GENERATED:visual -->

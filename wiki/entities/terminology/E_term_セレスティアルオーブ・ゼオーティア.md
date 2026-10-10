@@ -10,7 +10,7 @@ first_appearance: ch0186
 spoiler_after: ch0186
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # セレスティアルオーブ・ゼオーティア
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 直後、極大の『生命吸収』が第五階層を襲った。
 - **unknown**: 直後、極大の『生命吸収』が第五階層を襲った。
 
 <!-- /AUTO-GENERATED:action -->

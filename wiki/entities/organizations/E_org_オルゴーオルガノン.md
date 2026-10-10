@@ -10,7 +10,7 @@ first_appearance: ch0219
 spoiler_after: ch0219
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # オルゴーオルガノン
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 『オルゴーオルガノン』と言えば、確か時代遅れの『非自律型オルガンローデ』を開発研究している呪石兵器メーカーの名だ。
 - **unknown**: 『オルゴーオルガノン』と言えば、確か時代遅れの『非自律型オルガンローデ』を開発研究している呪石兵器メーカーの名だ。
 
 <!-- /AUTO-GENERATED:symbolic -->

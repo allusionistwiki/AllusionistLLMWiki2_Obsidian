@@ -4,6 +4,7 @@ id: A_ch0060_analogous_to_E_ch0060_夜の民_has_property_摸倣と複製_p2249_
 title: 虚構自律のシミュレーション仮説
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_夜の民_has_property_摸倣と複製_p2249]]"

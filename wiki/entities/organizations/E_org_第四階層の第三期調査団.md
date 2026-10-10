@@ -10,7 +10,7 @@ first_appearance: ch0208
 spoiler_after: ch0208
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 第四階層の第三期調査団
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 第四階層の第三期調査団はその大半が壊滅し、今や逃げまどうだけの無力な餌となり果てていた。
 - **unknown**: 第四階層の第三期調査団はその大半が壊滅し、今や逃げまどうだけの無力な餌となり果てていた。
 
 <!-- /AUTO-GENERATED:action -->

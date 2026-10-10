@@ -10,7 +10,7 @@ spoiler_after: ch0082
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # クレイ
@@ -33,6 +33,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 腕の尺骨を強引に刃に仕立て上げたような、歪な骨の剣だ。
 - **unknown**: 腕の尺骨を強引に刃に仕立て上げたような、歪な骨の剣だ。
 
 <!-- /AUTO-GENERATED:visual -->

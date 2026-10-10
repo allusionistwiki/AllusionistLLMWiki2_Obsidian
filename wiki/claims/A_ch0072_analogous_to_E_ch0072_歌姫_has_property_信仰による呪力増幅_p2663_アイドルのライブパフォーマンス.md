@@ -4,6 +4,7 @@ id: A_ch0072_analogous_to_E_ch0072_歌姫_has_property_信仰による呪力増�
 title: アイドルのライブパフォーマンス
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0072_歌姫_has_property_信仰による呪力増幅_p2663]]"

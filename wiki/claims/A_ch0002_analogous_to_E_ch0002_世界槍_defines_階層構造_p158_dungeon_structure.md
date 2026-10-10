@@ -4,6 +4,7 @@ id: A_ch0002_analogous_to_E_ch0002_世界槍_defines_階層構造_p158_dungeon_s
 title: ダンジョン構造の物理再定義
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_世界槍_defines_階層構造_p158]]"

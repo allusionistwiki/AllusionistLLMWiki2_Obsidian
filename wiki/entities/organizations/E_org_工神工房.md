@@ -10,7 +10,7 @@ first_appearance: ch0219
 spoiler_after: ch0219
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 工神工房
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: 元々、工神工房は北部の岩肌人たちとの繋がりがあった。ノゴルオゴルオとの付き合いだって昨日今日の話じゃないの
 - **unknown**: 元々、工神工房は北部の岩肌人たちとの繋がりがあった。ノゴルオゴルオとの付き合いだって昨日今日の話じゃないの
 
 <!-- /AUTO-GENERATED:relationship -->

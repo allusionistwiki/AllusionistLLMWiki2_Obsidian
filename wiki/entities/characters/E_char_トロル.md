@@ -10,7 +10,7 @@ first_appearance: ch0228
 spoiler_after: ch0228
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # トロル
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「さて。こっからはおらの手番だ」
 - **unknown**: 「さて。こっからはおらの手番だ」
 
 <!-- /AUTO-GENERATED:speech -->

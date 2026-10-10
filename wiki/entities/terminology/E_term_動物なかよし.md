@@ -10,7 +10,7 @@ first_appearance: ch0264
 spoiler_after: ch0264
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 動物なかよし
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 動物たちと交わる愛はどのような場面でも否定することを許されない絶対的な教理となったのだ。
 - **unknown**: 動物たちと交わる愛はどのような場面でも否定することを許されない絶対的な教理となったのだ。
 
 <!-- /AUTO-GENERATED:symbolic -->

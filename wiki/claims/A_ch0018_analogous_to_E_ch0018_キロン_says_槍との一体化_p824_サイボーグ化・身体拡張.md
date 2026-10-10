@@ -4,6 +4,7 @@ id: A_ch0018_analogous_to_E_ch0018_キロン_says_槍との一体化_p824_サイ
 title: サイボーグ化による人間性の喪失
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_キロン_says_槍との一体化_p824]]"

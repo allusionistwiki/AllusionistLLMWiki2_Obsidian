@@ -10,7 +10,7 @@ first_appearance: ch0265
 spoiler_after: ch0265
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # アルカェ
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: アルカェ、ヌト、ゾート、ミアスカ、デルゴ、そしてジャッフハリム一世らが死力を尽くして人類文明圏の土台をようやく固定したが
 - **unknown**: アルカェ、ヌト、ゾート、ミアスカ、デルゴ、そしてジャッフハリム一世らが死力を尽くして人類文明圏の土台をようやく固定したが
 
 <!-- /AUTO-GENERATED:action -->

@@ -10,7 +10,7 @@ spoiler_after: ch0064
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 再生者
@@ -33,6 +33,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: リズムに乗ってさえいれば移動に乗じて進行方向にいる相手をぶっ飛ばしてもいい、という暗黙のルールが存在しているようだった。
 - **unknown**: リズムに乗ってさえいれば移動に乗じて進行方向にいる相手をぶっ飛ばしてもいい、という暗黙のルールが存在しているようだった。
 
 <!-- /AUTO-GENERATED:action -->

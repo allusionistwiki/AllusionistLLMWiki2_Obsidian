@@ -10,7 +10,7 @@ spoiler_after: ch0091
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 世界劇場
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 黙ったままの意思よりも、音として発話された意思の方が重みがある。
 - **unknown**: 黙ったままの意思よりも、音として発話された意思の方が重みがある。
 
 <!-- /AUTO-GENERATED:symbolic -->

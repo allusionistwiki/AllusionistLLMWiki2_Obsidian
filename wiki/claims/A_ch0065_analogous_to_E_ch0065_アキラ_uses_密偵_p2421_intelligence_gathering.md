@@ -4,6 +4,7 @@ id: A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_intelligence_gath
 title: 情報収集としての密偵運用
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_uses_密偵_p2421]]"

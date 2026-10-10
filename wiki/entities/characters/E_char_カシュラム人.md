@@ -10,7 +10,7 @@ spoiler_after: ch0167
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # カシュラム人
@@ -32,12 +32,14 @@ updated: '2026-10-10'
 ## 視覚的記述
 
 - **unknown**: 曲のテンポに合わせるように、音楽的に老いていく。楽しげに朽ち、快く果て、骨と皮ばかりの身軽な死へと突き進む。
+- **unknown**: 曲のテンポに合わせるように、音楽的に老いていく。楽しげに朽ち、快く果て、骨と皮ばかりの身軽な死へと突き進む。
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「推しのブログと自撮りから恋人の影を見出す、おおこれぞブレイス」
 - **unknown**: 「推しのブログと自撮りから恋人の影を見出す、おおこれぞブレイス」
 
 <!-- /AUTO-GENERATED:speech -->

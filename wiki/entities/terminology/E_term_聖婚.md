@@ -10,7 +10,7 @@ spoiler_after: ch0095
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 聖婚
@@ -31,6 +31,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: その名を、『聖婚』と言う。 ハザーリャの大いなる神体と聖婚を行う女王クレナリーザは、本来ならば神殿であり宮殿でもあるヒュールサスの中心で一身に尊敬を集めるはずだった。
 - **unknown**: その名を、『聖婚』と言う。 ハザーリャの大いなる神体と聖婚を行う女王クレナリーザは、本来ならば神殿であり宮殿でもあるヒュールサスの中心で一身に尊敬を集めるはずだった。
 
 <!-- /AUTO-GENERATED:speech -->

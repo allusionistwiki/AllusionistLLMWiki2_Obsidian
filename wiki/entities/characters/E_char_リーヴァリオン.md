@@ -10,7 +10,7 @@ spoiler_after: ch0240
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # リーヴァリオン
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 今この時より、私こそがミェス・リヴァ。華麗なる紀人スーリウム・ミェス・リーヴァリオンだ」
 - **unknown**: 今この時より、私こそがミェス・リヴァ。華麗なる紀人スーリウム・ミェス・リーヴァリオンだ」
 
 <!-- /AUTO-GENERATED:action -->

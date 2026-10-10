@@ -10,7 +10,7 @@ spoiler_after: ch0072
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # オルガンローデ
@@ -33,6 +33,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 呪文のオルガンローデは『長時間詠唱すればするだけ威力が上昇する』という性質を持つ。
 - **unknown**: 呪文のオルガンローデは『長時間詠唱すればするだけ威力が上昇する』という性質を持つ。
 
 <!-- /AUTO-GENERATED:symbolic -->

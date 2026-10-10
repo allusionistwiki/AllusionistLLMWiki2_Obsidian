@@ -10,7 +10,7 @@ spoiler_after: ch0114
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 王さまたち
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 王さまたちは女の子に噛み付いて、一つになろうとしました。
 - **unknown**: 王さまたちは女の子に噛み付いて、一つになろうとしました。
 
 <!-- /AUTO-GENERATED:action -->

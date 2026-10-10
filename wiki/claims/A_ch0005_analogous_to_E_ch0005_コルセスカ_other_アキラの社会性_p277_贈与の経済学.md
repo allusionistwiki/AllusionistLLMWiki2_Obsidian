@@ -4,6 +4,7 @@ id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの社会性_p
 title: 贈与の経済学と善意搾取
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_アキラの社会性_p277]]"

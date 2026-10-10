@@ -4,6 +4,7 @@ id: A_ch0020_analogous_to_E_ch0020_コルセスカ_uses_右目のセンサー機
 title: 視線入力インターフェースの類似
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_コルセスカ_uses_右目のセンサー機能_p916]]"

@@ -10,7 +10,7 @@ first_appearance: ch0214
 spoiler_after: ch0214
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 花火
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 昼の花火が青空で散ると、爆音じみた歓声が地から沸き上がった。
 - **unknown**: 昼の花火が青空で散ると、爆音じみた歓声が地から沸き上がった。
 
 <!-- /AUTO-GENERATED:visual -->

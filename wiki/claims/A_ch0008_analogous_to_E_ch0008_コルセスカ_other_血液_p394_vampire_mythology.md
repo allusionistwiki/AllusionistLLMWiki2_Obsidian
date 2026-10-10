@@ -4,6 +4,7 @@ id: A_ch0008_analogous_to_E_ch0008_コルセスカ_other_血液_p394_vampire_myt
 title: 吸血鬼伝承の工芸行為への転換
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_コルセスカ_other_血液_p394]]"

@@ -10,7 +10,7 @@ first_appearance: ch0203
 spoiler_after: ch0203
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 偽りの太陽と星空
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 偽りの太陽と星空が入れ替わり、昼が眠り夜が目覚める。
 - **unknown**: 偽りの太陽と星空が入れ替わり、昼が眠り夜が目覚める。
 
 <!-- /AUTO-GENERATED:visual -->

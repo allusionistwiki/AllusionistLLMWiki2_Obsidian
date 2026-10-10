@@ -10,7 +10,7 @@ first_appearance: ch0106
 spoiler_after: ch0106
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 書斎劇
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「あれは演じられる予定の無い劇の台本――役者不在の演劇呪文。膨大な数のダミー演劇をぶつけてやるってわけ。
 - **unknown**: 「あれは演じられる予定の無い劇の台本――役者不在の演劇呪文。膨大な数のダミー演劇をぶつけてやるってわけ。
 
 <!-- /AUTO-GENERATED:speech -->

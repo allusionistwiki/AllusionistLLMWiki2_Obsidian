@@ -10,7 +10,7 @@ first_appearance: ch0210
 spoiler_after: ch0210
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 巨大建造物
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 見上げると、それらは巨大な呪石円環を挟むための支柱だとわかった。これらは空中に設置されたコース。
 - **unknown**: 見上げると、それらは巨大な呪石円環を挟むための支柱だとわかった。これらは空中に設置されたコース。
 
 <!-- /AUTO-GENERATED:visual -->

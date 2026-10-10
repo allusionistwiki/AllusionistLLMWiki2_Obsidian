@@ -10,7 +10,7 @@ spoiler_after: ch0252
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 四大血族
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 四人の魂に刻まれたのはクロウサーの記憶そのもの。この事実をもって、四人の勝利者たちはクロウサーの主流たる四大血族の基礎を築くことに成功したのである。
 - **unknown**: 四人の魂に刻まれたのはクロウサーの記憶そのもの。この事実をもって、四人の勝利者たちはクロウサーの主流たる四大血族の基礎を築くことに成功したのである。
 
 <!-- /AUTO-GENERATED:symbolic -->

@@ -10,7 +10,7 @@ first_appearance: ch0239
 spoiler_after: ch0239
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 石像
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 石像が巨大な右手を開く。やわらかく保持していたのは包帯でぐるぐる巻きにされた眼鏡の少年だった。
 - **unknown**: 石像が巨大な右手を開く。やわらかく保持していたのは包帯でぐるぐる巻きにされた眼鏡の少年だった。
 
 <!-- /AUTO-GENERATED:action -->

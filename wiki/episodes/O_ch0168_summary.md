@@ -7,7 +7,7 @@ chapter: ch0168
 spoiler_after: ch0168
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 characters:
 - '[[E_char_アキラ]]'
 - '[[E_char_カイン]]'
@@ -31,6 +31,7 @@ terminology:
 - '[[E_term_夢の世界]]'
 - '[[E_term_サイバーカラテ]]'
 organizations:
+- '[[E_org_Frozen/Torch]]'
 - '[[E_org_Frozen_Torch]]'
 ---
 # ch0168
@@ -75,7 +76,7 @@ organizations:
 
 ### 組織
 
-- [[E_org_Frozen_Torch]]
+- [[E_org_Frozen/Torch]]
 
 <!-- /AUTO-GENERATED:links -->
 

@@ -10,7 +10,7 @@ first_appearance: ch0264
 spoiler_after: ch0264
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 死人の森の断章
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 「そうだね。あれは前世の魂が持ち込んだ第五階層の至宝、『死人の森の断章』に違いないよ！」
 - **unknown**: 「そうだね。あれは前世の魂が持ち込んだ第五階層の至宝、『死人の森の断章』に違いないよ！」
 
 <!-- /AUTO-GENERATED:name -->

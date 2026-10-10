@@ -4,6 +4,7 @@ id: A_ch0009_alludes_to_E_ch0009_アキラ_bonds_カーイン_p424_武侠小説�
 title: 武侠の義理による共闘
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_アキラ_bonds_カーイン_p424]]"

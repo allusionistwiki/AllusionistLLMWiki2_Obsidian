@@ -4,6 +4,7 @@ id: A_ch0009_parodies_E_ch0009_アキラ_other_斧_p428_アプリのユーザー
 title: アプリ評価による信頼性
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_アキラ_other_斧_p428]]"

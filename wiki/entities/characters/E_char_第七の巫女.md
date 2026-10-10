@@ -10,7 +10,7 @@ first_appearance: ch0185
 spoiler_after: ch0185
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 第七の巫女
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: その正体こそ古代から歌声を響かせ続ける永劫不朽の黄金アイドルが一人。
 - **unknown**: その正体こそ古代から歌声を響かせ続ける永劫不朽の黄金アイドルが一人。
 
 <!-- /AUTO-GENERATED:name -->

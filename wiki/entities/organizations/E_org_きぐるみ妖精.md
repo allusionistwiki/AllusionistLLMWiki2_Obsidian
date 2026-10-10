@@ -10,7 +10,7 @@ spoiler_after: ch0163
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # きぐるみ妖精
@@ -31,12 +31,14 @@ updated: '2026-10-10'
 ## 行動・動作
 
 - **unknown**: 広がった布の内側から迫り出した無数の砲身とミサイルポッドが一斉に火を吹いて、凄まじい破壊をもたらした。
+- **unknown**: 広がった布の内側から迫り出した無数の砲身とミサイルポッドが一斉に火を吹いて、凄まじい破壊をもたらした。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「私が一番、私たちが最高、この『きぐるみ妖精』が世界を蹂躙する破壊者の名前だ！　震えて敬い、畏怖と共に興奮しろ！」
 - **unknown**: 「私が一番、私たちが最高、この『きぐるみ妖精』が世界を蹂躙する破壊者の名前だ！　震えて敬い、畏怖と共に興奮しろ！」
 
 <!-- /AUTO-GENERATED:speech -->

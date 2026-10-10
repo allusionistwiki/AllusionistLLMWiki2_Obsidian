@@ -10,7 +10,7 @@ spoiler_after: ch0160
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 髭大夫
@@ -31,6 +31,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 蛹が羽化して成虫になるように、朽ち果てた肉体の内側から新たな存在が新生したのだ。顕れたのは若々しい姿の男。
 - **unknown**: 蛹が羽化して成虫になるように、朽ち果てた肉体の内側から新たな存在が新生したのだ。顕れたのは若々しい姿の男。
 
 <!-- /AUTO-GENERATED:action -->

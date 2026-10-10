@@ -4,6 +4,7 @@ id: A_ch0043_analogous_to_E_ch0043_羊人種_says_食べられることが幸せ
 title: 家畜化の自己肯定
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_羊人種_says_食べられることが幸せ_p1821]]"

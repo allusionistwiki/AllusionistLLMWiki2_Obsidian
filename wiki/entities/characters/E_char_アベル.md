@@ -10,7 +10,7 @@ spoiler_after: ch0191
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # アベル
@@ -31,6 +31,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: アベルは肥えた羊の仔を。
 - **unknown**: アベルは肥えた羊の仔を。
 
 <!-- /AUTO-GENERATED:action -->

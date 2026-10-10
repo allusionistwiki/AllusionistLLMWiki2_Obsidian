@@ -4,6 +4,7 @@ id: A_ch0068_structurally_matches_E_ch0068_ユネクティア_says_フィリス_
 title: 言語の力による物理暴力の逆転
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ユネクティア_breaks_フィリス_p2540]]"

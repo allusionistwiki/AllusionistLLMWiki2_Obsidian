@@ -4,6 +4,7 @@ id: A_ch0036_structurally_matches_E_ch0036_アズーリア_activates_アスト�
 title: VRアバター操作のメタファー
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_アズーリア_activates_アストラル体_p1499]]"

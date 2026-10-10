@@ -4,6 +4,7 @@ id: A_ch0063_analogous_to_E_ch0063_ミルーニャ_learns_サイバーカラテ_
 title: マルチクラスへの転生
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_ミルーニャ_learns_サイバーカラテ_p2336]]"

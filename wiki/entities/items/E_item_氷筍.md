@@ -10,7 +10,7 @@ first_appearance: ch0212
 spoiler_after: ch0212
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 氷筍
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 『氷筍』の本質は言ってみれば棺であり、同時にその鍵でもある。　冷凍睡眠によって擬死状態に陥らせた存在を封じ込める装置。
 - **unknown**: 『氷筍』の本質は言ってみれば棺であり、同時にその鍵でもある。　冷凍睡眠によって擬死状態に陥らせた存在を封じ込める装置。
 
 <!-- /AUTO-GENERATED:speech -->

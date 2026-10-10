@@ -10,7 +10,7 @@ first_appearance: ch0249
 spoiler_after: ch0249
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 卜占
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 突き詰めると数字の変動を睨みつけるだけの単純極まりない乱数の奴隷。
 - **unknown**: 突き詰めると数字の変動を睨みつけるだけの単純極まりない乱数の奴隷。
 
 <!-- /AUTO-GENERATED:symbolic -->

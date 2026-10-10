@@ -4,6 +4,7 @@ id: A_ch0034_parodies_E_ch0034_アズーリア_confesses_見よう見まね_p138
 title: コピペ文化の呪文批判
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0034_アズーリア_confesses_見よう見まね_p1381]]"

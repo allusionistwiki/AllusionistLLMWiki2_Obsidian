@@ -10,7 +10,7 @@ first_appearance: ch0253
 spoiler_after: ch0253
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 運営サイド
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 『予定通り選手たちを万全な態勢で受け入れてね！』という普段通りのものだけ。
 - **unknown**: 『予定通り選手たちを万全な態勢で受け入れてね！』という普段通りのものだけ。
 
 <!-- /AUTO-GENERATED:speech -->

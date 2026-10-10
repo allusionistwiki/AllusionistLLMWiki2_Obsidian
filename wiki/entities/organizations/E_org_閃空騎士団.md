@@ -10,7 +10,7 @@ first_appearance: ch0251
 spoiler_after: ch0251
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 閃空騎士団
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: その後、大魔将ズタークスターク戦で閃空騎士団は壊滅。ファーガストは唯一の生還者となり、奮戦を称えて大神院からアルセミット国籍の付与と特別栄誉勲章が授与された。
 - **unknown**: その後、大魔将ズタークスターク戦で閃空騎士団は壊滅。ファーガストは唯一の生還者となり、奮戦を称えて大神院からアルセミット国籍の付与と特別栄誉勲章が授与された。
 
 <!-- /AUTO-GENERATED:action -->

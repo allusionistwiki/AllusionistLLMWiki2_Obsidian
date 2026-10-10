@@ -10,7 +10,7 @@ spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 敵集団
@@ -34,6 +34,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 温泉浄界の使い手に至ってはメートリアンの救出を阻止しており、彼女はアストラル体のまま温泉にぶくぶくと沈んでいた
 - **unknown**: 温泉浄界の使い手に至ってはメートリアンの救出を阻止しており、彼女はアストラル体のまま温泉にぶくぶくと沈んでいた
 
 <!-- /AUTO-GENERATED:action -->

@@ -10,7 +10,7 @@ first_appearance: ch0249
 spoiler_after: ch0249
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 乱気流と浮遊する岩塊
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 挑む者たちを惑わせる壁となるのは乱気流と浮遊する岩塊。
 - **unknown**: 挑む者たちを惑わせる壁となるのは乱気流と浮遊する岩塊。
 
 <!-- /AUTO-GENERATED:visual -->

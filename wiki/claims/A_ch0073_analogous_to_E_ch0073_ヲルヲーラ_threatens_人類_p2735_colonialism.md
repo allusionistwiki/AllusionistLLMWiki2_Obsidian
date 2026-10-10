@@ -4,6 +4,7 @@ id: A_ch0073_analogous_to_E_ch0073_ヲルヲーラ_threatens_人類_p2735_coloni
 title: 植民地主義
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_ヲルヲーラ_threatens_人類_p2735]]"

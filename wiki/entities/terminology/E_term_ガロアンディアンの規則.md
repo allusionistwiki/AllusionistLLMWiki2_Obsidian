@@ -10,7 +10,7 @@ first_appearance: ch0214
 spoiler_after: ch0214
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ガロアンディアンの規則
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 箒レースと言っても時代や地域ごとに規則はかなり違う。　ガロアンディアンのそれは特に緩い。おそらく機械女王の気質が反映されているのだろう。
 - **unknown**: 箒レースと言っても時代や地域ごとに規則はかなり違う。　ガロアンディアンのそれは特に緩い。おそらく機械女王の気質が反映されているのだろう。
 
 <!-- /AUTO-GENERATED:speech -->

@@ -10,7 +10,7 @@ spoiler_after: ch0136
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # エントラグイシュ
@@ -33,6 +33,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 赤子の背から肉腫が盛り上がり、その中から巨大な赤子が誕生。 それらが結合し、多頭の赤子に変貌、口から激流としか形容のできない凄まじい勢いの嘔吐をして攻撃してくる。
 - **unknown**: 赤子の背から肉腫が盛り上がり、その中から巨大な赤子が誕生。 それらが結合し、多頭の赤子に変貌、口から激流としか形容のできない凄まじい勢いの嘔吐をして攻撃してくる。
 
 <!-- /AUTO-GENERATED:action -->

@@ -4,6 +4,7 @@ id: A_ch0018_analogous_to_E_ch0018_レオ_says_おまけ_p770_ガチャの天井
 title: ガチャの天井・優遇措置
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_レオ_says_おまけ_p770]]"

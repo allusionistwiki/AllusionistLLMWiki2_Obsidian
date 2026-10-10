@@ -10,7 +10,7 @@ spoiler_after: ch0265
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # オーブルディース
@@ -31,12 +31,14 @@ updated: '2026-10-10'
 ## 名称・呼称
 
 - **unknown**: 『冠聖堂』オーブルディース・エジーメ・クロウサー。
+- **unknown**: 『冠聖堂』オーブルディース・エジーメ・クロウサー。
 
 <!-- /AUTO-GENERATED:name -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 他の三人はここまで至っていない。オーブルディース、ボール、クガルヤイム。
 - **unknown**: 他の三人はここまで至っていない。オーブルディース、ボール、クガルヤイム。
 
 <!-- /AUTO-GENERATED:action -->

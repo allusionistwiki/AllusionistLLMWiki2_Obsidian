@@ -4,6 +4,7 @@ id: A_ch0074_inverts_E_ch0074_ユガーシャ_uses_竪琴_p2796_narrative_contro
 title: 感情を制御する逆転の物語操作
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0074_ユガーシャ_uses_竪琴_p2796]]"

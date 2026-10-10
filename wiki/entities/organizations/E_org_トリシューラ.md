@@ -10,7 +10,7 @@ spoiler_after: ch0012
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # トリシューラ
@@ -39,12 +39,14 @@ updated: '2026-10-10'
 ## セリフ・発言
 
 - **unknown**: 「トリシューラは自己の存在を世界に拡大、拡張することを望んでいるようですね。つまり、次の段階としてガロアンディアンの領土を広げるつもりでしょう」
+- **unknown**: 「トリシューラは自己の存在を世界に拡大、拡張することを望んでいるようですね。つまり、次の段階としてガロアンディアンの領土を広げるつもりでしょう」
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: カーティスが敗北した現在では再びトリシューラの管理下に置かれている。
 - **unknown**: カーティスが敗北した現在では再びトリシューラの管理下に置かれている。
 
 <!-- /AUTO-GENERATED:relationship -->

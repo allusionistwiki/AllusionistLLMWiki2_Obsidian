@@ -10,7 +10,7 @@ first_appearance: ch0148
 spoiler_after: ch0148
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 不死の軍勢
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 不死の軍勢同士の戦いには果てが無く、朝となく夜となく断末魔の悲鳴と再生の産声が上がり続けているさまはさながら奈落の底。
 - **unknown**: 不死の軍勢同士の戦いには果てが無く、朝となく夜となく断末魔の悲鳴と再生の産声が上がり続けているさまはさながら奈落の底。
 
 <!-- /AUTO-GENERATED:visual -->

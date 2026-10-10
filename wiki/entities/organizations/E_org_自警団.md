@@ -10,7 +10,7 @@ first_appearance: ch0149
 spoiler_after: ch0149
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 自警団
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 我らはサイバーカラテの理念を体現する者。我らはシナモリアキラの意思の代行者。我らはこの第五階層の治安を守る自警団である。
 - **unknown**: 我らはサイバーカラテの理念を体現する者。我らはシナモリアキラの意思の代行者。我らはこの第五階層の治安を守る自警団である。
 
 <!-- /AUTO-GENERATED:action -->

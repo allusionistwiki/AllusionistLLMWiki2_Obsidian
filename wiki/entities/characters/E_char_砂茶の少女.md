@@ -10,7 +10,7 @@ first_appearance: ch0169
 spoiler_after: ch0169
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 砂茶の少女
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「レッテ、泣かないで。私が付いてるわ」 砂茶の少女、侍女姿の人形がぴったりと寄り添って言った。
 - **unknown**: 「レッテ、泣かないで。私が付いてるわ」 砂茶の少女、侍女姿の人形がぴったりと寄り添って言った。
 
 <!-- /AUTO-GENERATED:speech -->

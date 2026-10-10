@@ -10,7 +10,7 @@ first_appearance: ch0094
 spoiler_after: ch0094
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 思考台本
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 呪術によって仮想的に存在する『思考台本』をもう一度確認して目を疑った。内容が、変化している。
 - **unknown**: 呪術によって仮想的に存在する『思考台本』をもう一度確認して目を疑った。内容が、変化している。
 
 <!-- /AUTO-GENERATED:action -->

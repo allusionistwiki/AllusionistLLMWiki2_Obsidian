@@ -10,7 +10,7 @@ first_appearance: ch0239
 spoiler_after: ch0239
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 塔
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「認証コード『アニマ』。ウィッチオーダー起動、四十二番『ハルシャニア』！」
 - **unknown**: 「認証コード『アニマ』。ウィッチオーダー起動、四十二番『ハルシャニア』！」
 
 <!-- /AUTO-GENERATED:action -->

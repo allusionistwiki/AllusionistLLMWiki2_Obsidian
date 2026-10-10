@@ -10,7 +10,7 @@ first_appearance: ch0249
 spoiler_after: ch0249
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 元空使いと箒兄弟
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: つけて巻き返しを図ろうとしているのは堅実に風を読んで飛翔する元空使いと箒兄弟。
 - **unknown**: つけて巻き返しを図ろうとしているのは堅実に風を読んで飛翔する元空使いと箒兄弟。
 
 <!-- /AUTO-GENERATED:action -->

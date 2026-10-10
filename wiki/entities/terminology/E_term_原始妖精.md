@@ -10,7 +10,7 @@ first_appearance: ch0243
 spoiler_after: ch0243
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 原始妖精
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: サンデリアーナの血には神権が眠っている。　ティリビナ人がアルラウネ断章と呼ぶ血の魔導書が脅威の技を実現していた。
 - **unknown**: サンデリアーナの血には神権が眠っている。　ティリビナ人がアルラウネ断章と呼ぶ血の魔導書が脅威の技を実現していた。
 
 <!-- /AUTO-GENERATED:symbolic -->

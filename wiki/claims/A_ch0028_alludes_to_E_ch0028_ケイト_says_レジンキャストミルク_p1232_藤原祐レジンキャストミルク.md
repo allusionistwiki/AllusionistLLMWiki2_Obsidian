@@ -4,6 +4,7 @@ id: A_ch0028_alludes_to_E_ch0028_ケイト_says_レジンキャストミルク_p
 title: 転生黎明期作品のメタ引用
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0028_ケイト_says_レジンキャストミルク_p1232]]"

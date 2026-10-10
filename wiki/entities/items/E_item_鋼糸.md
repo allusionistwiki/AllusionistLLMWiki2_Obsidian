@@ -10,7 +10,7 @@ first_appearance: ch0186
 spoiler_after: ch0186
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 鋼糸
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 極めて細い鋼糸が全ての甲冑をバターのように切断すると、断面から大量の液体が流れていった。
 - **unknown**: 極めて細い鋼糸が全ての甲冑をバターのように切断すると、断面から大量の液体が流れていった。
 
 <!-- /AUTO-GENERATED:action -->

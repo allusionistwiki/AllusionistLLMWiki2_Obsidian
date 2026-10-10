@@ -10,7 +10,7 @@ spoiler_after: ch0239
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 悪鬼
@@ -31,6 +31,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 通路を曲がった先、絶叫の発生源らしき病室に殺到しているのは夥しい数の悪鬼の群れ。
 - **unknown**: 通路を曲がった先、絶叫の発生源らしき病室に殺到しているのは夥しい数の悪鬼の群れ。
 
 <!-- /AUTO-GENERATED:action -->

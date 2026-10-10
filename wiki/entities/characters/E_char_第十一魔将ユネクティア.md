@@ -10,7 +10,7 @@ spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 第十一魔将ユネクティア
@@ -37,6 +37,8 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 第十一魔将、光の幻姿ユネクティア。幻姿霊種。
+- **unknown**: 第十一魔将、光の幻姿ユネクティア。幻姿霊種。スペクター
 - **unknown**: 第十一魔将、光の幻姿ユネクティア。幻姿霊種。
 - **unknown**: 第十一魔将、光の幻姿ユネクティア。幻姿霊種。スペクター
 - **unknown**: 第十一魔将、光の幻姿ユネクティア。幻姿霊種。

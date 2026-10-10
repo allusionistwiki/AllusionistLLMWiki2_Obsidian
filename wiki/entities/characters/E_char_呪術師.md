@@ -10,7 +10,7 @@ spoiler_after: ch0029
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 呪術師
@@ -32,12 +32,14 @@ updated: '2026-10-10'
 ## セリフ・発言
 
 - **unknown**: そして、とある呪術師はこう語る。「青は青じゃないものによって規定される」
+- **unknown**: そして、とある呪術師はこう語る。「青は青じゃないものによって規定される」
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: かろうじて無事な道に交通呪文を描き、国際規格の道路標識杖を掲げた呪術師が魔竜の前に立ちはだかった。しかし巨大ネズミの進撃は止まらない。
 - **unknown**: かろうじて無事な道に交通呪文を描き、国際規格の道路標識杖を掲げた呪術師が魔竜の前に立ちはだかった。しかし巨大ネズミの進撃は止まらない。
 
 <!-- /AUTO-GENERATED:action -->

@@ -10,7 +10,7 @@ first_appearance: ch0106
 spoiler_after: ch0106
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 緞帳
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 緞帳が上がっていく。
 - **unknown**: 緞帳が上がっていく。
 
 <!-- /AUTO-GENERATED:action -->

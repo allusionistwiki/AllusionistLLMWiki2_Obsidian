@@ -4,6 +4,7 @@ id: A_ch0068_alludes_to_E_ch0068_ユネクティア_makes_環状列石_p2534_ス
 title: ストーンサークルの呪力収束
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ユネクティア_makes_環状列石_p2534]]"

@@ -10,7 +10,7 @@ spoiler_after: ch0186
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 眼鏡の少年
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「女王は僕らナードの気持ちを考えてくれないんだ。ファッションとか知りませんよ、服より新しいタブレットとか端末の周辺機器とかが買いたいのに。」
 - **unknown**: 「女王は僕らナードの気持ちを考えてくれないんだ。ファッションとか知りませんよ、服より新しいタブレットとか端末の周辺機器とかが買いたいのに。」
 
 <!-- /AUTO-GENERATED:speech -->

@@ -4,6 +4,7 @@ id: A_ch0069_analogous_to_E_ch0069_セルフ・リファレンス・エンジン
 title: 自己参照エンジンによるLLM的変換
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_セルフ・リファレンス・エンジン_defines_意味の呪力変換_p2559]]"

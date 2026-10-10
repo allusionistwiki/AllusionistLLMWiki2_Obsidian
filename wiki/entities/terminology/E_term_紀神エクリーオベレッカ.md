@@ -10,7 +10,7 @@ spoiler_after: ch0268
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 紀神エクリーオベレッカ
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 空に浮かぶ霊城、その名は紀神エクリーオベレッカ。 死後に魂が行き着く先であるという天の国は、ゼオーティアの紀元神話において逆さに屹立する巨大建造物として表現される。
 - **unknown**: 空に浮かぶ霊城、その名は紀神エクリーオベレッカ。 死後に魂が行き着く先であるという天の国は、ゼオーティアの紀元神話において逆さに屹立する巨大建造物として表現される。
 
 <!-- /AUTO-GENERATED:visual -->

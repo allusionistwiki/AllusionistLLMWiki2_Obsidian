@@ -10,7 +10,7 @@ first_appearance: ch0186
 spoiler_after: ch0186
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 牛頭ジャッフハリム人
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 機械女王に下った獄卒の牛頭ジャッフハリム人は無骨な対洗脳甲冑に身を包んでラクルラール対策も十分な筈であった。
 - **unknown**: 機械女王に下った獄卒の牛頭ジャッフハリム人は無骨な対洗脳甲冑に身を包んでラクルラール対策も十分な筈であった。
 
 <!-- /AUTO-GENERATED:visual -->

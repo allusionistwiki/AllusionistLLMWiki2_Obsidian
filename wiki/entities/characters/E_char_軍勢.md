@@ -10,7 +10,7 @@ spoiler_after: ch0123
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 軍勢
@@ -34,12 +34,14 @@ updated: '2026-10-10'
 ## 行動・動作
 
 - **unknown**: 『雪女』に攻撃を加えているのは首無し馬に乗った男だった。
+- **unknown**: 『雪女』に攻撃を加えているのは首無し馬に乗った男だった。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「俺は体内に百のシナモリアキラの因子を内包している。お前という新たなシナモリアキラの可能性を見せてくれ、『雪女』よ」
 - **unknown**: 「俺は体内に百のシナモリアキラの因子を内包している。お前という新たなシナモリアキラの可能性を見せてくれ、『雪女』よ」
 
 <!-- /AUTO-GENERATED:speech -->

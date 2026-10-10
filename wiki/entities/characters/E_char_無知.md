@@ -10,7 +10,7 @@ spoiler_after: ch0092
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 無知
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 【無知】に近い範囲になればなるほど当人が絶対の全知全能者として振る舞える度合いは高まり
 - **unknown**: 【無知】に近い範囲になればなるほど当人が絶対の全知全能者として振る舞える度合いは高まり
 
 <!-- /AUTO-GENERATED:speech -->

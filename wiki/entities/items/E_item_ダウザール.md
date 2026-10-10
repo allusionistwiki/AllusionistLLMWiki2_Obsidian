@@ -10,7 +10,7 @@ spoiler_after: ch0255
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # ダウザール
@@ -30,6 +30,8 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 古き空使いダウザールが『第一の死』を迎えたあと
+- **unknown**: ダウザールはその偉業を称えて愛馬チェダラーテの霊妙なる蹄鉄を贈った。
 - **unknown**: 古き空使いダウザールが『第一の死』を迎えたあと
 - **unknown**: ダウザールはその偉業を称えて愛馬チェダラーテの霊妙なる蹄鉄を贈った。
 

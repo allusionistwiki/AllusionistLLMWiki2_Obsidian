@@ -10,7 +10,7 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # チョコレートリリー・アズーリア
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: チョコレートリリー・アズーリア：守護の九槍・第九位。ハルベルトの使い魔。夜の民の英雄。
 - **unknown**: チョコレートリリー・アズーリア：守護の九槍・第九位。ハルベルトの使い魔。夜の民の英雄。
 
 <!-- /AUTO-GENERATED:name -->

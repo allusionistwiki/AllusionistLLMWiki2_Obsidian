@@ -4,6 +4,7 @@ id: A_ch0066_analogous_to_E_ch0066_ナト_appears_白銀のカラス型神働装
 title: ドローンへの操者依存性
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_ナト_appears_白銀のカラス型神働装甲_p2461]]"

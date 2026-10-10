@@ -10,7 +10,7 @@ spoiler_after: ch0161
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 一行
@@ -31,12 +31,14 @@ updated: '2026-10-10'
 ## 視覚的記述
 
 - **unknown**: 「ぶひっ、ぶひぃぃぃぃ！！」「ほうら、豚は豚らしく可愛くぶひっと鳴いてご覧なさい？」
+- **unknown**: 「ぶひっ、ぶひぃぃぃぃ！！」「ほうら、豚は豚らしく可愛くぶひっと鳴いてご覧なさい？」
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 暗幕によって光量を制限された空間、天井の中心だけが円形の採光窓となって光の柱を落としている。光に照らされた中央、そこに誰かがいた。
 - **unknown**: 暗幕によって光量を制限された空間、天井の中心だけが円形の採光窓となって光の柱を落としている。光に照らされた中央、そこに誰かがいた。
 
 <!-- /AUTO-GENERATED:action -->

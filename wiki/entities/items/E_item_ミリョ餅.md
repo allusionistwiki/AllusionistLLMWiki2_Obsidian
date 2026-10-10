@@ -10,7 +10,7 @@ first_appearance: ch0135
 spoiler_after: ch0135
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ミリョ餅
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 「なんだそれは」「昔からある携行糧食だよ。運気が良くなるってジンクスがあるから戦場での生存率が少しだけ上がるの」
 - **unknown**: 「なんだそれは」「昔からある携行糧食だよ。運気が良くなるってジンクスがあるから戦場での生存率が少しだけ上がるの」
 
 <!-- /AUTO-GENERATED:symbolic -->

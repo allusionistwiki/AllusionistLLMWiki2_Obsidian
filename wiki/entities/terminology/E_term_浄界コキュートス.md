@@ -10,7 +10,7 @@ spoiler_after: ch0115
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 浄界コキュートス
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 【コキュートス】は森羅万象型。個別の一元宇宙、それらを内包する多元宇宙といった全ての可能な宇宙を包み込む集合。概念的に規定された無限の終わりにして永劫の彼方。すなわち、【最果て】。
 - **unknown**: 【コキュートス】は森羅万象型。個別の一元宇宙、それらを内包する多元宇宙といった全ての可能な宇宙を包み込む集合。概念的に規定された無限の終わりにして永劫の彼方。すなわち、【最果て】。
 
 <!-- /AUTO-GENERATED:symbolic -->

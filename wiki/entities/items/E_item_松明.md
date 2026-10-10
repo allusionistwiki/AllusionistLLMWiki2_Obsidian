@@ -10,7 +10,7 @@ first_appearance: ch0206
 spoiler_after: ch0206
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 松明
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 「えっと？　なんでこんな倉庫内にぽつんと松明が？」「ここが中間地点、いや違うな。多分ボス前だ。用心しな」
 - **unknown**: 「えっと？　なんでこんな倉庫内にぽつんと松明が？」「ここが中間地点、いや違うな。多分ボス前だ。用心しな」
 
 <!-- /AUTO-GENERATED:visual -->

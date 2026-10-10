@@ -4,6 +4,7 @@ id: A_ch0029_analogous_to_E_ch0029_アキラ_uses_GUI_p1245_グラフィカル�
 title: 呪術システムへのGUI移植
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_アキラ_uses_GUI_p1245]]"

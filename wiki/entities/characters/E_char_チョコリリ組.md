@@ -10,7 +10,7 @@ spoiler_after: ch0184
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # チョコリリ組
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 即席のライブステージが完成し、カードを手にした『チョコレートリリー空組』が瞬時に揃いのアイドル衣装を身に纏った。真の呪術戦が始まろうとしていた。
 - **unknown**: 即席のライブステージが完成し、カードを手にした『チョコレートリリー空組』が瞬時に揃いのアイドル衣装を身に纏った。真の呪術戦が始まろうとしていた。
 
 <!-- /AUTO-GENERATED:action -->

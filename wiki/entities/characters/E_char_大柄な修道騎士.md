@@ -10,7 +10,7 @@ first_appearance: ch0209
 spoiler_after: ch0209
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 大柄な修道騎士
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「つまり何か？　第七位のアホが死にやがった上に死霊術師に操られたせいでこの階層が丸ごと敵のもんになっちまったと？　間抜けかよクソったれ！」
 - **unknown**: 「つまり何か？　第七位のアホが死にやがった上に死霊術師に操られたせいでこの階層が丸ごと敵のもんになっちまったと？　間抜けかよクソったれ！」
 
 <!-- /AUTO-GENERATED:speech -->

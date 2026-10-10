@@ -4,6 +4,7 @@ id: A_ch0018_analogous_to_E_ch0018_キロン_transforms_少年_p812_武器の擬
 title: 兵器の人間化
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_キロン_transforms_少年_p812]]"

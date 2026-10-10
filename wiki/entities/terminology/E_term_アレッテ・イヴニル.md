@@ -10,7 +10,7 @@ spoiler_after: ch0141
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # アレッテ・イヴニル
@@ -32,6 +32,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: アレッテ・イヴニルはアルト王の名前と地位を簒奪し、融血呪によってマラード王の存在を己の中に取り込んだ。その結果として手に入れた戦力がガロアンディアンの五人の騎士だ。
 - **unknown**: アレッテ・イヴニルはアルト王の名前と地位を簒奪し、融血呪によってマラード王の存在を己の中に取り込んだ。その結果として手に入れた戦力がガロアンディアンの五人の騎士だ。
 
 <!-- /AUTO-GENERATED:symbolic -->

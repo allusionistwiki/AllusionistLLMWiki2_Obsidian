@@ -10,7 +10,7 @@ first_appearance: ch0180
 spoiler_after: ch0180
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 六人のカーイン
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「天人相応。経絡臓腑の小宇宙に六気が通じれば、天の六候は人の六淫に転ず――ならばその逆も然り。さて、よもや今更これを卑怯とは言うまいな？」
 - **unknown**: 「天人相応。経絡臓腑の小宇宙に六気が通じれば、天の六候は人の六淫に転ず――ならばその逆も然り。さて、よもや今更これを卑怯とは言うまいな？」
 
 <!-- /AUTO-GENERATED:speech -->

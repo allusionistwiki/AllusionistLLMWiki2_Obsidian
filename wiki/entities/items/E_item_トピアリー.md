@@ -10,7 +10,7 @@ spoiler_after: ch0228
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # トピアリー
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 庭園内のトピアリーは全てかりそめの命を与えられた使い魔だ。 加えて、絶えず姿を変える迷路は決して脱出を許さない。
 - **unknown**: 庭園内のトピアリーは全てかりそめの命を与えられた使い魔だ。 加えて、絶えず姿を変える迷路は決して脱出を許さない。
 
 <!-- /AUTO-GENERATED:symbolic -->

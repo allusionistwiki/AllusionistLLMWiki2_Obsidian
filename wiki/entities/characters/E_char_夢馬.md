@@ -10,7 +10,7 @@ spoiler_after: ch0211
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 夢馬
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 代償としてその形を崩壊させた夢馬は全身からどろどろとした触手を伸ばし、実体世界での存在を不安定化させていく。
 - **unknown**: 代償としてその形を崩壊させた夢馬は全身からどろどろとした触手を伸ばし、実体世界での存在を不安定化させていく。
 
 <!-- /AUTO-GENERATED:visual -->

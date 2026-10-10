@@ -10,7 +10,7 @@ spoiler_after: ch0150
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 老人
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 考えた結果、『七色表情筋トレーニング』で強引に表情を取り繕うことにした。
 - **unknown**: 考えた結果、『七色表情筋トレーニング』で強引に表情を取り繕うことにした。
 
 <!-- /AUTO-GENERATED:action -->

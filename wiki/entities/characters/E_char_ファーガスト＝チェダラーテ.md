@@ -10,7 +10,7 @@ first_appearance: ch0262
 spoiler_after: ch0262
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ファーガスト＝チェダラーテ
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: いずれにせよ、ファーガスト＝チェダラーテは人であり、馬であり、箒でもある『何か』へと生まれ変わった。
 - **unknown**: いずれにせよ、ファーガスト＝チェダラーテは人であり、馬であり、箒でもある『何か』へと生まれ変わった。
 
 <!-- /AUTO-GENERATED:visual -->

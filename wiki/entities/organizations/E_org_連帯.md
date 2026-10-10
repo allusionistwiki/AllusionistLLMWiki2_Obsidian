@@ -10,7 +10,7 @@ spoiler_after: ch0053
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 連帯
@@ -34,6 +34,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「槍神教と巨大企業群、そして各国を束ねる【連帯】は談合によって攻略速度を決定している。利益を最大化し、三者の間で分配する為にね。
 - **unknown**: 「槍神教と巨大企業群、そして各国を束ねる【連帯】は談合によって攻略速度を決定している。利益を最大化し、三者の間で分配する為にね。
 
 <!-- /AUTO-GENERATED:action -->

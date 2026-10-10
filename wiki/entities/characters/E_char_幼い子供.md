@@ -10,7 +10,7 @@ first_appearance: ch0169
 spoiler_after: ch0169
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 幼い子供
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「エリちゃんは研究がしたいのです。放って置いてほしいのです」 そう言った幼い子供は茨に包み込まれて醒めない眠りに閉じ込められて。
 - **unknown**: 「エリちゃんは研究がしたいのです。放って置いてほしいのです」 そう言った幼い子供は茨に包み込まれて醒めない眠りに閉じ込められて。
 
 <!-- /AUTO-GENERATED:speech -->

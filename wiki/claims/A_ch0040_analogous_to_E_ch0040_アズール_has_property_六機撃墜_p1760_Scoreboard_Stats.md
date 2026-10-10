@@ -4,6 +4,7 @@ id: A_ch0040_analogous_to_E_ch0040_アズール_has_property_六機撃墜_p1760_
 title: FPS風スコアボード表示
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0040_アズール_has_property_六機撃墜_p1760]]"

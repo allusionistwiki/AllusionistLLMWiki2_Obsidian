@@ -10,7 +10,7 @@ spoiler_after: ch0099
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # ヴァージル
@@ -33,6 +33,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: ヴァージルが煌めく水晶のオブジェや精巧な石の彫像を持ってきて「さあどうぞ召し上がれ」と言い出して周囲を困惑させたり
 - **unknown**: ヴァージルが煌めく水晶のオブジェや精巧な石の彫像を持ってきて「さあどうぞ召し上がれ」と言い出して周囲を困惑させたり
 
 <!-- /AUTO-GENERATED:action -->

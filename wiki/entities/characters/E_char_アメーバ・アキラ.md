@@ -10,7 +10,7 @@ spoiler_after: ch0181
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # アメーバ・アキラ
@@ -32,12 +32,14 @@ updated: '2026-10-10'
 ## 視覚的記述
 
 - **unknown**: 壁から染み出した流動する水――あるいは液状の原生生物がくぐもった声で言った。
+- **unknown**: 壁から染み出した流動する水――あるいは液状の原生生物がくぐもった声で言った。
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 『外破』――これこそ俺たち病気持ちのシナモリアキラが固有に持つ『病の形』を解放する特殊宣名。
 - **unknown**: 『外破』――これこそ俺たち病気持ちのシナモリアキラが固有に持つ『病の形』を解放する特殊宣名。
 
 <!-- /AUTO-GENERATED:speech -->

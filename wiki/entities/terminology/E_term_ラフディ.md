@@ -10,7 +10,7 @@ spoiler_after: ch0135
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # ラフディ
@@ -31,6 +31,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: この地は『ほんとうの愛情』を夢見る王女様が美しい王様を攫って囲うために作り出した、欲望と切望がどろどろに融け合った飴細工の王国。
 - **unknown**: この地は『ほんとうの愛情』を夢見る王女様が美しい王様を攫って囲うために作り出した、欲望と切望がどろどろに融け合った飴細工の王国。
 
 <!-- /AUTO-GENERATED:symbolic -->

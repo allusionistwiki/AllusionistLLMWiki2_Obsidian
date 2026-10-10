@@ -4,6 +4,7 @@ id: A_ch0008_inverts_E_ch0008_アキラ_other_復讐の連鎖_p380_vendetta_logi
 title: 仇討ち論理の逆転
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_アキラ_other_復讐の連鎖_p380]]"

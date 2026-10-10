@@ -10,7 +10,7 @@ first_appearance: ch0219
 spoiler_after: ch0219
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # セインディア
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 嘘だ。セインディアの博物城は幼いキニスに王族としての意識を植え付けた。
 - **unknown**: 嘘だ。セインディアの博物城は幼いキニスに王族としての意識を植え付けた。
 
 <!-- /AUTO-GENERATED:action -->

@@ -10,7 +10,7 @@ first_appearance: ch0089
 spoiler_after: ch0089
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 会場
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 試合用のジョイントマットは転倒や衝撃のダメージを効率的に吸収する防御呪術が付与されている。
 - **unknown**: 試合用のジョイントマットは転倒や衝撃のダメージを効率的に吸収する防御呪術が付与されている。
 
 <!-- /AUTO-GENERATED:visual -->

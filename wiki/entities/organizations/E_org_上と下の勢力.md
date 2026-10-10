@@ -10,7 +10,7 @@ first_appearance: ch0174
 spoiler_after: ch0174
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 上と下の勢力
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 同時に彼らは死者の軍勢を欲しがってもいるから、内乱が発生している今、両勢力は介入の機会を窺っている。
 - **unknown**: 同時に彼らは死者の軍勢を欲しがってもいるから、内乱が発生している今、両勢力は介入の機会を窺っている。
 
 <!-- /AUTO-GENERATED:speech -->

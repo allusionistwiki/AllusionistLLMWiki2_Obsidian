@@ -10,7 +10,7 @@ first_appearance: ch0249
 spoiler_after: ch0249
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 蒼空岩石群ステージ
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: この蒼空岩石群ステージの厄介なポイントは『煩雑なのに単調な情報量が多いこと』です。
 - **unknown**: この蒼空岩石群ステージの厄介なポイントは『煩雑なのに単調な情報量が多いこと』です。
 
 <!-- /AUTO-GENERATED:symbolic -->

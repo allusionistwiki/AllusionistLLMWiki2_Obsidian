@@ -4,6 +4,7 @@ id: A_ch0011_alludes_to_E_ch0011_コルセスカ_says_世界よ凍れ_p488_時�
 title: 戦闘における時間凍結
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0011_コルセスカ_says_世界よ凍れ_p488]]"

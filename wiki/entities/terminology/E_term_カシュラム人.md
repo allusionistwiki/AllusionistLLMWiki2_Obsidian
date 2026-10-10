@@ -10,7 +10,7 @@ spoiler_after: ch0106
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # カシュラム人
@@ -31,12 +31,14 @@ updated: '2026-10-10'
 ## 名称・呼称
 
 - **unknown**: 次の舞台はカシュラム――正式にはカシュート＝ラームだけど、まあどっちでもいいか。
+- **unknown**: 次の舞台はカシュラム――正式にはカシュート＝ラームだけど、まあどっちでもいいか。
 
 <!-- /AUTO-GENERATED:name -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: ゆえに、カシュラム人は彼らの信仰を理解しないものたちを蔑みと哀れみを込めて『マシュラム人』と呼ぶのだとか。
 - **unknown**: ゆえに、カシュラム人は彼らの信仰を理解しないものたちを蔑みと哀れみを込めて『マシュラム人』と呼ぶのだとか。
 
 <!-- /AUTO-GENERATED:speech -->

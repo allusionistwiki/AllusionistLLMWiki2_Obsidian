@@ -4,6 +4,7 @@ id: A_ch0063_analogous_to_E_ch0063_神働装甲_functions_as_カラス型と人�
 title: 変形ロボット玩具への転生
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_神働装甲_functions_as_カラス型と人型の変形装甲_p2361]]"

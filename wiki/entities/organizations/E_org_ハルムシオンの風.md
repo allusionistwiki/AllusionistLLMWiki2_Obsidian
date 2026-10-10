@@ -10,7 +10,7 @@ spoiler_after: ch0220
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # ハルムシオンの風
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 第五階層内で自在に作り出せるかりそめの宿ではなく、大地に根付いた棲家。しかしその外観は膨れ上がった出来損ないの砦もどきと言ったところ。
 - **unknown**: 第五階層内で自在に作り出せるかりそめの宿ではなく、大地に根付いた棲家。しかしその外観は膨れ上がった出来損ないの砦もどきと言ったところ。
 
 <!-- /AUTO-GENERATED:visual -->

@@ -10,7 +10,7 @@ spoiler_after: ch0219
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 大断絶
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 『大断絶』という名の世界の変容によって。　世界は天地に引き裂かれ、多くの空間が歪み、幾つかの大地が永久に消えた。
 - **unknown**: 『大断絶』という名の世界の変容によって。　世界は天地に引き裂かれ、多くの空間が歪み、幾つかの大地が永久に消えた。
 
 <!-- /AUTO-GENERATED:action -->

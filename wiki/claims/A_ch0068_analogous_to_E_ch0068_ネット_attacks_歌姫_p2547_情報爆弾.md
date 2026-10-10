@@ -4,6 +4,7 @@ id: A_ch0068_analogous_to_E_ch0068_ネット_attacks_歌姫_p2547_情報爆弾
 title: フェイクニュースの情報爆弾
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ネット_attacks_歌姫_p2547]]"

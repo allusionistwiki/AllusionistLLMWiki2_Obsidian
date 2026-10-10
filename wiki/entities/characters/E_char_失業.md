@@ -10,7 +10,7 @@ first_appearance: ch0112
 spoiler_after: ch0112
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 失業
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 二人はこのままでは【無知】に殺されてしまうと思い、洞窟の外に出て行くことにしました。
 - **unknown**: 二人はこのままでは【無知】に殺されてしまうと思い、洞窟の外に出て行くことにしました。
 
 <!-- /AUTO-GENERATED:action -->

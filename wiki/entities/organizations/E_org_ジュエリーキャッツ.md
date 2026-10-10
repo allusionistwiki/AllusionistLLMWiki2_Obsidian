@@ -10,7 +10,7 @@ spoiler_after: ch0163
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # ジュエリーキャッツ
@@ -31,12 +31,14 @@ updated: '2026-10-10'
 ## 名称・呼称
 
 - **unknown**: アクセサリーショップ、『ジュエリーキャッツ』。
+- **unknown**: アクセサリーショップ、『ジュエリーキャッツ』。
 
 <!-- /AUTO-GENERATED:name -->
 
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 国家資格を持つ錬金術師が商品開発を行っていることもあってその品質は極めて高く、出店早々、ネット上でも大いに話題を呼んだ。
 - **unknown**: 国家資格を持つ錬金術師が商品開発を行っていることもあってその品質は極めて高く、出店早々、ネット上でも大いに話題を呼んだ。
 
 <!-- /AUTO-GENERATED:visual -->

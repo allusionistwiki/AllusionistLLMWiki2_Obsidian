@@ -10,7 +10,7 @@ first_appearance: ch0236
 spoiler_after: ch0236
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 飛行船群
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 第五階層の上空に、虚飾の風が吹く。 人々が見上げるテキストベース・サーキットよりも更なる高みに浮かぶ大小の飛行船。
 - **unknown**: 第五階層の上空に、虚飾の風が吹く。 人々が見上げるテキストベース・サーキットよりも更なる高みに浮かぶ大小の飛行船。
 
 <!-- /AUTO-GENERATED:visual -->

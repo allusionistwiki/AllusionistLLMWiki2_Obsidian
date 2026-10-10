@@ -10,7 +10,7 @@ first_appearance: ch0243
 spoiler_after: ch0243
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 黒蟲騎士
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 風の障壁は最初から存在していなかったかのように消失し、黒蟲騎士はこの場に現れた時のように反対側に移動している。まるで、彼一人だけ時間が巻き戻されたかのように。
 - **unknown**: 風の障壁は最初から存在していなかったかのように消失し、黒蟲騎士はこの場に現れた時のように反対側に移動している。まるで、彼一人だけ時間が巻き戻されたかのように。
 
 <!-- /AUTO-GENERATED:action -->

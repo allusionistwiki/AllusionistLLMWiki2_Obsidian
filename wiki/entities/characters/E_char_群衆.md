@@ -10,7 +10,7 @@ spoiler_after: ch0109
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 群衆
@@ -31,6 +31,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「間違いねえ、あれは――【鎧の腕】だ！」「狂犬野郎が出やがった！」
 - **unknown**: 「間違いねえ、あれは――【鎧の腕】だ！」「狂犬野郎が出やがった！」
 
 <!-- /AUTO-GENERATED:speech -->

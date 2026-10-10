@@ -4,6 +4,7 @@ id: A_ch0011_analogous_to_E_ch0011_ちびシューラ_says_負担の分散_p494_
 title: MMORPG的パーティ構成
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0011_ちびシューラ_says_負担の分散_p494]]"

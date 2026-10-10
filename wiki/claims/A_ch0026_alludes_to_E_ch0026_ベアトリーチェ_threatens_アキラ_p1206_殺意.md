@@ -4,6 +4,7 @@ id: A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_threatens_アキラ_p1206
 title: 手ずからの殺意の表明
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_threatens_アキラ_p1206]]"

@@ -10,7 +10,7 @@ spoiler_after: ch0028
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 殺し屋
@@ -34,6 +34,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
 - **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
 - **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
 - **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。

@@ -10,7 +10,7 @@ first_appearance: ch0089
 spoiler_after: ch0089
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 警備ドローン
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 何に使うのかわからない賞品を売りさばこうとしたりしては警備ドローンに掴まって連行されていく。恐らく行き先は『反省室』だろう。
 - **unknown**: 何に使うのかわからない賞品を売りさばこうとしたりしては警備ドローンに掴まって連行されていく。恐らく行き先は『反省室』だろう。
 
 <!-- /AUTO-GENERATED:action -->

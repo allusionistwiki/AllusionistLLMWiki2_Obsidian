@@ -10,7 +10,7 @@ spoiler_after: ch0134
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 人形たち
@@ -31,12 +31,14 @@ updated: '2026-10-10'
 ## 行動・動作
 
 - **unknown**: 突如として正体不明の人形たちに襲撃された。
+- **unknown**: 突如として正体不明の人形たちに襲撃された。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 問題はそれが延々と湧き出してくること。明らかにこちらの消耗だけを狙っていた。
 - **unknown**: 問題はそれが延々と湧き出してくること。明らかにこちらの消耗だけを狙っていた。
 
 <!-- /AUTO-GENERATED:symbolic -->

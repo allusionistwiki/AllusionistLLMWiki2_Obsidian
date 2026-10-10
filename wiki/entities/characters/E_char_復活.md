@@ -27,5 +27,6 @@ created: "2026-09-30"
 ## 関連クレーム
 
 - [[A_ch0009_alludes_to_E_ch0009_コルセスカ_appears_復活_p406_ゲームの蘇生アイテム・ストック|蘇生アイテムの蓄積]]
+- [[A_ch0118_parodies_E_ch0118_カニャッツォ_dies_復活_p4141_video_game_respawn_mechanic|無敵状態でのゲーム的復活]]
 
 <!-- AUTO:END -->

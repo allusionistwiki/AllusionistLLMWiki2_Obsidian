@@ -10,7 +10,7 @@ first_appearance: ch0112
 spoiler_after: ch0112
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ナレーター
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: ――つまるところ、これは恋の物語だ。
 - **unknown**: ――つまるところ、これは恋の物語だ。
 
 <!-- /AUTO-GENERATED:speech -->

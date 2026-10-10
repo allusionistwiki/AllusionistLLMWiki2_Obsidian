@@ -10,7 +10,7 @@ first_appearance: ch0149
 spoiler_after: ch0149
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 元軍人
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 足りぬな。ズタークスタークとの決戦で失われたあの屍の山にはまだ到底届いておらぬ。武の頂は遥か天の彼方、か。
 - **unknown**: 足りぬな。ズタークスタークとの決戦で失われたあの屍の山にはまだ到底届いておらぬ。武の頂は遥か天の彼方、か。
 
 <!-- /AUTO-GENERATED:speech -->

@@ -4,6 +4,7 @@ id: A_ch0021_parodies_E_ch0021_コルセスカ_other_神滅具収集_p933_Comple
 title: コンプリート主義への収集動機置換
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_コルセスカ_other_神滅具収集_p933]]"

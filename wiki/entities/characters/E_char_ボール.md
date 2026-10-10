@@ -10,7 +10,7 @@ first_appearance: ch0265
 spoiler_after: ch0265
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ボール
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 『玉璽王』ボール・マウザ・クロウサー。
 - **unknown**: 『玉璽王』ボール・マウザ・クロウサー。
 
 <!-- /AUTO-GENERATED:name -->

@@ -10,7 +10,7 @@ spoiler_after: ch0057
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 神々
@@ -34,6 +34,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 神々はただ高次元において己の目的を追求しているだけであり、その達成の為に必要だから眷族種や信奉者たちに加護を与えているに過ぎない。
 - **unknown**: 神々はただ高次元において己の目的を追求しているだけであり、その達成の為に必要だから眷族種や信奉者たちに加護を与えているに過ぎない。
 
 <!-- /AUTO-GENERATED:speech -->

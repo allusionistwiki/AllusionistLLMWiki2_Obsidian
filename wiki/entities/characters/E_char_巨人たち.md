@@ -10,7 +10,7 @@ first_appearance: ch0254
 spoiler_after: ch0254
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 巨人たち
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 老いた身体を若返らせ、己の全能域を拡張し、常識を改変しながら槍を振り回す。
 - **unknown**: 老いた身体を若返らせ、己の全能域を拡張し、常識を改変しながら槍を振り回す。
 
 <!-- /AUTO-GENERATED:action -->

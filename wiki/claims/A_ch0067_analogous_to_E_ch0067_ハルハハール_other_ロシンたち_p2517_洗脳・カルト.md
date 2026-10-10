@@ -4,6 +4,7 @@ id: A_ch0067_analogous_to_E_ch0067_ハルハハール_other_ロシンたち_p251
 title: 心話による洗脳・カルト
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ハルハハール_other_ロシンたち_p2517]]"

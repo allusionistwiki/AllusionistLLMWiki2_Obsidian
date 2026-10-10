@@ -10,7 +10,7 @@ first_appearance: ch0219
 spoiler_after: ch0219
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 脳
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 不快極まりない悪運の紀竜が求めているのが『竜母』の誕生であるなら、目的の達成と同時にユディーアは運命の呪縛から逃れることができるかもしれない。
 - **unknown**: 不快極まりない悪運の紀竜が求めているのが『竜母』の誕生であるなら、目的の達成と同時にユディーアは運命の呪縛から逃れることができるかもしれない。
 
 <!-- /AUTO-GENERATED:symbolic -->

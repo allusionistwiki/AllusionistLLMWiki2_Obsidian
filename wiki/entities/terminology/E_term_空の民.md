@@ -10,7 +10,7 @@ spoiler_after: ch0048
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 空の民
@@ -34,6 +34,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 「空の民は、夜の民と対比させて朝の民とも言われてますからね。太陽の光を浴びるとやたら元気になるんですよ」
 - **unknown**: 「空の民は、夜の民と対比させて朝の民とも言われてますからね。太陽の光を浴びるとやたら元気になるんですよ」
 
 <!-- /AUTO-GENERATED:name -->

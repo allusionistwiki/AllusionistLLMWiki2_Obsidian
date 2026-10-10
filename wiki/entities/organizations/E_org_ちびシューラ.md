@@ -10,7 +10,7 @@ spoiler_after: ch0105
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # ちびシューラ
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 敵の複雑怪奇な呪術の波が映像に引きずられて零落、打撃の応酬に変質する。
 - **unknown**: 敵の複雑怪奇な呪術の波が映像に引きずられて零落、打撃の応酬に変質する。
 
 <!-- /AUTO-GENERATED:action -->

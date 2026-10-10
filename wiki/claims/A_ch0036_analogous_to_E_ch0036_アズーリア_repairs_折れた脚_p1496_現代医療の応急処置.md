@@ -4,6 +4,7 @@ id: A_ch0036_analogous_to_E_ch0036_アズーリア_repairs_折れた脚_p1496_�
 title: 現代医療的応急処置の模倣
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_アズーリア_repairs_折れた脚_p1496]]"

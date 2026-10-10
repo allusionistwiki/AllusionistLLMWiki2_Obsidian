@@ -10,7 +10,7 @@ first_appearance: ch0123
 spoiler_after: ch0123
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # マラコーダ
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: かつてトライデント第十三の細胞、【尻尾】であった私がトリシューラ陛下にお仕えしてるのはその証明ってわけ。
 - **unknown**: かつてトライデント第十三の細胞、【尻尾】であった私がトリシューラ陛下にお仕えしてるのはその証明ってわけ。
 
 <!-- /AUTO-GENERATED:speech -->

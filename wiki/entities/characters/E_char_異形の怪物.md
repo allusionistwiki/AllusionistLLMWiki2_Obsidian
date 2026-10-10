@@ -10,7 +10,7 @@ spoiler_after: ch0100
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 異形の怪物
@@ -30,6 +30,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: ありとあらゆる生物を滅茶苦茶に混ぜ合わせ、融かして固めたかのような異形。固体とも液体ともつかない肉腫が流動しながら蠢き、破壊と殺戮を撒き散らし、見る者を恐怖に陥れる。
 - **unknown**: ありとあらゆる生物を滅茶苦茶に混ぜ合わせ、融かして固めたかのような異形。固体とも液体ともつかない肉腫が流動しながら蠢き、破壊と殺戮を撒き散らし、見る者を恐怖に陥れる。
 
 <!-- /AUTO-GENERATED:visual -->

@@ -4,6 +4,7 @@ id: A_ch0059_inverts_E_ch0059_ハルベルト_has_property_呪い_p2222_親の�
 title: 過保護として再定義された呪い
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0059_ハルベルト_has_property_呪い_p2222]]"

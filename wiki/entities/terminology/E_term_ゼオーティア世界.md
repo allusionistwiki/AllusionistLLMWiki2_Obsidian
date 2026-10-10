@@ -10,7 +10,7 @@ first_appearance: ch0268
 spoiler_after: ch0268
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ゼオーティア世界
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 天地を司る二大主神が世界の主権を握っていた調和の時代が終わり、七十と極小にして極大なる一の『散らばった大地』が生まれ、ゼオーティア世界の礎となった。
 - **unknown**: 天地を司る二大主神が世界の主権を握っていた調和の時代が終わり、七十と極小にして極大なる一の『散らばった大地』が生まれ、ゼオーティア世界の礎となった。
 
 <!-- /AUTO-GENERATED:name -->

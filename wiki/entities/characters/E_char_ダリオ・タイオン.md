@@ -10,7 +10,7 @@ first_appearance: ch0239
 spoiler_after: ch0239
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # ダリオ・タイオン
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 敷地の外側、施設を覆い隠す木立の向こうからよろよろとした足取りで誰かが現れる。　一見して燕尾服を纏った紳士だが、顔面が半球状に抉れているのが異様だった。
 - **unknown**: 敷地の外側、施設を覆い隠す木立の向こうからよろよろとした足取りで誰かが現れる。　一見して燕尾服を纏った紳士だが、顔面が半球状に抉れているのが異様だった。
 
 <!-- /AUTO-GENERATED:visual -->

@@ -4,6 +4,7 @@ id: A_ch0026_alludes_to_E_ch0026_コルセスカ_takes_神滅具_p1208_奪取
 title: 戦利品としての神滅具奪取
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_コルセスカ_takes_神滅具_p1208]]"

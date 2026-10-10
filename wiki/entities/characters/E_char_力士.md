@@ -10,7 +10,7 @@ spoiler_after: ch0118
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 
 # 力士
@@ -26,11 +26,16 @@ updated: '2026-10-10'
 > 「何がシナモリアキラだ。何が【鎧の腕】だ。お前は惨めな人生の敗残者だろう？　なあ、セト――」（ch0118）
 > 「百パーセントだ――制限解除、システム【蹴速】を解放する」（ch0118）
 
+## 関連クレーム
+
+- [[A_ch0118_analogous_to_E_ch0118_力士_says_アキラへの否定_p4157_utilitarian_ethics_resource_allocation|転生資源の功利主義的配分]]
+
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「何がシナモリアキラだ。何が【鎧の腕】だ。お前は惨めな人生の敗残者だろう？　なあ、セト――」
 - **unknown**: 「何がシナモリアキラだ。何が【鎧の腕】だ。お前は惨めな人生の敗残者だろう？　なあ、セト――」
 
 <!-- /AUTO-GENERATED:speech -->
@@ -38,6 +43,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「百パーセントだ――制限解除、システム【蹴速】を解放する」
 - **unknown**: 「百パーセントだ――制限解除、システム【蹴速】を解放する」
 
 <!-- /AUTO-GENERATED:action -->

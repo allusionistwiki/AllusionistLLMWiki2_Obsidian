@@ -4,6 +4,7 @@ id: A_ch0043_analogous_to_E_ch0043_ペイル_transforms_身体能力向上_p1828
 title: 臨死体験とPTSD逆転
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ペイル_transforms_身体能力向上_p1828]]"

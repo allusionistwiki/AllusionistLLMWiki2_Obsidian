@@ -10,7 +10,7 @@ first_appearance: ch0228
 spoiler_after: ch0228
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 浄界型呪術
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 浄界型の呪術は後から発動した方が不利というのが大原則だ。
 - **unknown**: 浄界型の呪術は後から発動した方が不利というのが大原則だ。
 
 <!-- /AUTO-GENERATED:speech -->

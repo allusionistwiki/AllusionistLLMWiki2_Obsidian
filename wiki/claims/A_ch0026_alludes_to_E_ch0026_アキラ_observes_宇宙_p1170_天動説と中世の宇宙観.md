@@ -4,6 +4,7 @@ id: A_ch0026_alludes_to_E_ch0026_アキラ_observes_宇宙_p1170_天動説と中
 title: 天動説と宇宙観
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_observes_宇宙_p1170]]"

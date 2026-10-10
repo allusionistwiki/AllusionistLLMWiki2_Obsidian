@@ -10,7 +10,7 @@ first_appearance: ch0095
 spoiler_after: ch0095
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 死人たち
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 大量の死人が地の底から這い出し、柱に群がると、骨張った手で女王の全身をまさぐり、鋭い指先を柔肌に突き刺していく。
 - **unknown**: 大量の死人が地の底から這い出し、柱に群がると、骨張った手で女王の全身をまさぐり、鋭い指先を柔肌に突き刺していく。
 
 <!-- /AUTO-GENERATED:action -->

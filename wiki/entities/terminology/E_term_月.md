@@ -10,7 +10,7 @@ first_appearance: ch0097
 spoiler_after: ch0097
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-10'
+updated: '2026-10-11'
 ---
 # 月
 
@@ -19,6 +19,7 @@ updated: '2026-10-10'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 月が、偉大なるドルネスタンルフの化身が翳りつつある！　それも四つ全てが、一斉にだ！」
 - **unknown**: 月が、偉大なるドルネスタンルフの化身が翳りつつある！　それも四つ全てが、一斉にだ！」
 
 <!-- /AUTO-GENERATED:visual -->

@@ -4,6 +4,7 @@ id: A_ch0038_alludes_to_E_ch0038_アキラ_observes_ミルーニャの過去_p16
 title: 児童虐待とPTSDのトラウマ
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_アキラ_observes_ミルーニャの過去_p1691]]"

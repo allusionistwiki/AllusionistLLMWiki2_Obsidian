@@ -4,6 +4,7 @@ id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_threatens_ハルベルト_p15
 title: 王位簒奪とアイデンティティ乗っ取り
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_threatens_ハルベルト_p1593]]"
