@@ -2,6 +2,7 @@
 
 | vault commit | work commit | 日付 | 内容 |
 |:---|:---|:---|:---|
+| 8c3b112c | d2b74bc | 2026-10-10 | ch0118-ch0200 解析（章並列4: events/facts/analysis 並列 + autopilot 逐列） |
 | af79413e | 66d9910 | 2026-10-10 | ch0120-ch0202 解析（章並列4: events/facts/analysis 並列 + autopilot 逐列） |
 | e2f7b277 | d731778 | 2026-10-09 | ch0264-ch0272 解析（章並列4: events/facts/analysis 並列 + autopilot 逐列） |
 | b7628ddf | fdd4000 | 2026-10-09 | ch0254-ch0263 解析（章並列4: events/facts/analysis 並列 + autopilot 逐列） |
