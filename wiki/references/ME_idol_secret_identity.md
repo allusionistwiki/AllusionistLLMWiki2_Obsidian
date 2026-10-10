@@ -4,6 +4,7 @@ id: ME_idol_secret_identity
 title: アイドルの二重生活
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

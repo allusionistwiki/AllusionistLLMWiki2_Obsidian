@@ -5,6 +5,7 @@ title: 砂糖菓子による古典的囮戦術
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_アズーリア_saves_ハルベルト_p1584]]"

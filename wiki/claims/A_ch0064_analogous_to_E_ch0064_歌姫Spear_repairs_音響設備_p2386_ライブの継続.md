@@ -5,6 +5,7 @@ title: ライブ継続による混沌の覆い隠し
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_歌姫Spear_repairs_音響設備_p2386]]"

@@ -5,6 +5,7 @@ title: サイバーパンク的義体化
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ナト_uses_神働装甲_p1829]]"

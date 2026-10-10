@@ -4,6 +4,7 @@ id: ME_引きこもり
 title: 引きこもり
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

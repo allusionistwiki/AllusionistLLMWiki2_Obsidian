@@ -5,6 +5,7 @@ title: ブラックボックスの裏処理
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_ベフォニス_defines_灰の色号_p2477]]"

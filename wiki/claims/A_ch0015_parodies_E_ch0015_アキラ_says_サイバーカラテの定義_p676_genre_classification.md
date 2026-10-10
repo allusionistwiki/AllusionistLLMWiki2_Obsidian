@@ -5,6 +5,7 @@ title: ジャンル分類へのアイデンティティ政治
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_アキラ_says_サイバーカラテの定義_p676]]"

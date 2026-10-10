@@ -5,6 +5,7 @@ title: 企業経営とコンプライアンス
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0076_リーナ_names_当主_p2860]]"

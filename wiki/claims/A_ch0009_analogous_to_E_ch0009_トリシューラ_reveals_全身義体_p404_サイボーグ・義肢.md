@@ -5,6 +5,7 @@ title: サイボーグ義肢の提示
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_トリシューラ_reveals_全身義体_p404]]"

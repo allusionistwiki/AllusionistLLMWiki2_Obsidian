@@ -5,6 +5,7 @@ title: ガチャの即時召喚演出
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_ミルーニャ_activates_盲目の守護者像_p2476]]"

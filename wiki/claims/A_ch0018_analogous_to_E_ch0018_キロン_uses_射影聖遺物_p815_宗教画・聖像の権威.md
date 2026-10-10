@@ -5,6 +5,7 @@ title: 宗教画と聖像の権威
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_キロン_uses_射影聖遺物_p815]]"

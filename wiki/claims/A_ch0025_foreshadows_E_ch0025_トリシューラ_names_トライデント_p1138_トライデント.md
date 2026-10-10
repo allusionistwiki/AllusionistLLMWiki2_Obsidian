@@ -5,6 +5,7 @@ title: トライデントへの個の消滅暗示
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_トリシューラ_names_トライデント_p1138]]"

@@ -5,6 +5,7 @@ title: 試行錯誤の残酷な逆転
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_アキラ_other_失敗の許容_p917]]"

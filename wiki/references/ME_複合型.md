@@ -4,6 +4,7 @@ id: ME_複合型
 title: 複合型
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

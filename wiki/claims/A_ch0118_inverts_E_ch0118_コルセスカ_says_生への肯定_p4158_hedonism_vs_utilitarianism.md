@@ -2,8 +2,9 @@
 schema_version: "5.1"
 id: A_ch0118_inverts_E_ch0118_コルセスカ_says_生への肯定_p4158_hedonism_vs_utilitarianism
 title: 快楽主義による功利主義否定
+
 type: analytical_claim
-created: 2026-10-11
+created: '2026-10-11'
 subject: "[[E_ch0118_コルセスカ_says_生への肯定_p4158]]"
 predicate: inverts
 object: "[[ME_hedonism_vs_utilitarianism]]"
@@ -14,7 +15,7 @@ spoiler_after: ch0118
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: 2026-10-11}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-11"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

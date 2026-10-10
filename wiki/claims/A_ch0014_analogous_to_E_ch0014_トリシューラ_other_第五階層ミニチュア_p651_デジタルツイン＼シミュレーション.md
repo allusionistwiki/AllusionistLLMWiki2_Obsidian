@@ -5,6 +5,7 @@ title: デジタルツインの監視
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0014_トリシューラ_other_第五階層ミニチュア_p651]]"

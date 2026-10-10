@@ -4,6 +4,7 @@ id: ME_スマホ依存とSNSの通知
 title: スマホ依存
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: internet_culture

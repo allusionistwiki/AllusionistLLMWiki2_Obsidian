@@ -5,6 +5,7 @@ title: 機械生産と人間文化活動の逆転分業
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_工員_makes_文化的活動_p2998]]"

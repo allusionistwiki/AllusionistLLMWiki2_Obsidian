@@ -1,0 +1,25 @@
+---
+schema_version: "5.1"
+id: ME_ゲームのテクスチャ崩壊
+title: テクスチャ崩壊
+type: external_reference
+
+subtype: popular_culture
+canonical_name: "ゲームのテクスチャ崩壊"
+aliases: []
+domain: "culture"
+document_status: active
+referenced_by: []
+relations: []
+created: "2026-10-11"
+updated: "2026-10-11"
+---
+# ゲームのテクスチャ崩壊
+
+<!-- AUTO:BEGIN -->
+（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+
+## 本作での参照
+
+- [[A_ch0200_parodies_E_ch0200_ユディーア_transforms_銀貨_p6732_ゲームのテクスチャ崩壊]]
+<!-- AUTO:END -->

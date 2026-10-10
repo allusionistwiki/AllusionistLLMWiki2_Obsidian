@@ -5,6 +5,7 @@ title: 早起き健康法への種族のパロディ
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0048_空の民_has_property_朝の民_p1947]]"

@@ -5,6 +5,7 @@ title: 無敵モード・バグへの転生
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_ミルーニャ_uses_成し得ぬ盾_p2601]]"

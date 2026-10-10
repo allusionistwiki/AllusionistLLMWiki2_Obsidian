@@ -4,6 +4,7 @@ id: ME_感情の消費
 title: 感情の消費
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

@@ -5,6 +5,7 @@ title: 無資格医療と権威のズレ
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_トリシューラ_reveals_無資格_p316]]"

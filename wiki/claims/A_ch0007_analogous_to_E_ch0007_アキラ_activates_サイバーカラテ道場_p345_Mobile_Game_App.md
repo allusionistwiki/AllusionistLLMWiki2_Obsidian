@@ -5,6 +5,7 @@ title: スマホゲームアプリへの呪術置換
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_アキラ_activates_サイバーカラテ道場_p345]]"

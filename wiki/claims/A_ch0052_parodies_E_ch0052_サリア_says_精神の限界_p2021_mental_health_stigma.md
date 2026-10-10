@@ -5,6 +5,7 @@ title: 精神疾患のスティグマ
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_サリア_says_精神の限界_p2021]]"

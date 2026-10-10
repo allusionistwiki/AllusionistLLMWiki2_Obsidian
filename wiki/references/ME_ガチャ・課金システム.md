@@ -4,6 +4,7 @@ id: ME_ガチャ・課金システム
 title: ガチャ・課金システム
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

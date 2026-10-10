@@ -4,6 +4,7 @@ id: ME_medical_technology
 title: 医療技術
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

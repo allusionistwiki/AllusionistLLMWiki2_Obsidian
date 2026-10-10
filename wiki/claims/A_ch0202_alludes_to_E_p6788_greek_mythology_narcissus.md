@@ -2,9 +2,10 @@
 schema_version: "5.1"
 id: A_ch0202_alludes_to_E_p6788_greek_mythology_narcissus
 title: 美的全体主義を暗喩するギリシャ神話のナルシス
+
 type: analytical_claim
-created: 2026-10-11
-subject: "[[E_p6788]]"
+created: '2026-10-11'
+subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"
 predicate: alludes_to
 object: "[[ME_greek_mythology_narcissus]]"
 epistemic_status: hypothesized
@@ -14,7 +15,7 @@ spoiler_after: ch0202
 evidence_strength: moderate
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: 2026-10-11}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-11"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

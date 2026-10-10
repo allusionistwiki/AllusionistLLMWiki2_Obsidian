@@ -5,6 +5,7 @@ title: NPO偽善による暴力正当化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0016_ロドウィ_says_弱者救済_p735]]"

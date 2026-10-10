@@ -105,6 +105,25 @@ def promote(chapter: str, items: list[dict], verdicts: list[dict], log: list[str
     today = date.today().isoformat()
     counts = {"claims": 0, "mysteries": 0, "rejected": 0}
     vmap = {v.get("index"): v for v in verdicts}
+    # events 層の実 event_id（LLM が locator を落とした subject を解決して死リンクを防ぐ）
+    event_ids: set[str] = set()
+    ev_path = ROOT.parent / "AllusionistLLMWiki2_Work" / "events" / f"{chapter}.jsonl"
+    if ev_path.exists():
+        for line in ev_path.read_text(encoding="utf-8").splitlines():
+            try:
+                eid = json.loads(line).get("event_id")
+                if eid:
+                    event_ids.add(eid)
+            except json.JSONDecodeError:
+                pass
+
+    def resolve_subject(subj: str) -> str:
+        if not subj.startswith("E_") or not event_ids:
+            return subj
+        if subj in event_ids:
+            return subj
+        cands = sorted(e for e in event_ids if e.startswith(subj + "_"))
+        return cands[0] if cands else subj
     for i, it in enumerate(items):
         v = vmap.get(i, {"verdict": "reject", "reason": "審査応答なし"})
         verdict = v.get("verdict", "reject")
@@ -113,7 +132,7 @@ def promote(chapter: str, items: list[dict], verdicts: list[dict], log: list[str
             continue
         if it.get("kind") == "claim":
             obj = slug((it.get("object") or "ME_外部参照").replace("[[ME_", "").replace("]]", ""))
-            subj = slug((it.get("subject") or "").replace("[[", "").replace("]]", ""))
+            subj = resolve_subject(slug((it.get("subject") or "").replace("[[", "").replace("]]", "")))
             claim_text = v.get("revised_claim") if verdict == "revise" else it.get("claim", "")
             fname = f"A_{chapter}_{it.get('predicate', 'alludes_to')}_{subj}_{obj}.md"
             path = ROOT / "wiki" / "claims" / fname
@@ -124,7 +143,7 @@ def promote(chapter: str, items: list[dict], verdicts: list[dict], log: list[str
 schema_version: "5.1"
 id: A_{chapter}_{it.get('predicate','alludes_to')}_{subj}_{obj}
 type: analytical_claim
-created: {today}
+created: "{today}"
 subject: "[[{subj}]]"
 predicate: {it.get('predicate', 'alludes_to')}
 object: "[[ME_{obj}]]"
@@ -135,7 +154,7 @@ spoiler_after: {chapter}
 evidence_strength: {it.get('confidence', 'moderate')}
 provenance:
   proposed_by: {{kind: agent, id: swift-1.5-iq3_xxs}}
-  reviewed_by: {{kind: agent, id: swift-1.5-iq3_xxs, date: {today}}}
+  reviewed_by: {{kind: agent, id: swift-1.5-iq3_xxs, date: "{today}"}}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -159,7 +178,7 @@ provenance:
 schema_version: "5.1"
 id: MY_{chapter}_{name}
 type: mystery
-created: {today}
+created: "{today}"
 mystery_status: candidate
 spoiler_after: {chapter}
 review_status: llm_verified
@@ -167,7 +186,7 @@ timeline:
   introduced: {chapter}
 provenance:
   proposed_by: {{kind: agent, id: swift-1.5-iq3_xxs}}
-  reviewed_by: {{kind: agent, id: swift-1.5-iq3_xxs, date: {today}}}
+  reviewed_by: {{kind: agent, id: swift-1.5-iq3_xxs, date: "{today}"}}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

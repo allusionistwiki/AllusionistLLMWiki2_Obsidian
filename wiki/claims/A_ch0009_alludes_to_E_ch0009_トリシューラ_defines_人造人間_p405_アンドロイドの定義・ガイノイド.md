@@ -5,6 +5,7 @@ title: ガイノイドの定義
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_トリシューラ_defines_人造人間_p405]]"

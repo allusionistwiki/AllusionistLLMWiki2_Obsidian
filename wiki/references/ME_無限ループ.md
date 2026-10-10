@@ -4,6 +4,7 @@ id: ME_無限ループ
 title: 無限ループ
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

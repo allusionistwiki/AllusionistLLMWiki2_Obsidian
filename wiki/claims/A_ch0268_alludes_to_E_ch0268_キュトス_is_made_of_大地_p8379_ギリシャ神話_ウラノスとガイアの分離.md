@@ -2,8 +2,9 @@
 schema_version: "5.1"
 id: A_ch0268_alludes_to_E_ch0268_キュトス_is_made_of_大地_p8379_ギリシャ神話_ウラノスとガイアの分離
 title: 天地分離神話の暗喩
+
 type: analytical_claim
-created: 2026-10-11
+created: '2026-10-11'
 subject: "[[E_ch0268_キュトス_is_made_of_大地_p8379]]"
 predicate: alludes_to
 object: "[[ME_ギリシャ神話_ウラノスとガイアの分離]]"
@@ -14,7 +15,7 @@ spoiler_after: ch0268
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: 2026-10-11}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-11"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

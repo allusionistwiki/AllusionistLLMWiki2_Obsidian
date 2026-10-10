@@ -5,6 +5,7 @@ title: 無意味言語の儀礼形式主義
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_アズーリア_says_無意味な言語_p1266]]"

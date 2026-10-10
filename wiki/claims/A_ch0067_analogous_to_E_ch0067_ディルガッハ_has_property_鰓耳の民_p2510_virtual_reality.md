@@ -5,6 +5,7 @@ title: アストラル界の仮想現実
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ディルガッハ＝リク＝ンマウグ_has_property_鰓耳の民_p2510]]"

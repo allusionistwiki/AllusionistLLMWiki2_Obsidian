@@ -31,7 +31,7 @@ terminology:
 - '[[E_term_夢の世界]]'
 - '[[E_term_サイバーカラテ]]'
 organizations:
-- '[[E_org_Frozen/Torch]]'
+- '[[E_org_Frozen_Torch]]'
 - '[[E_org_Frozen_Torch]]'
 ---
 # ch0168
@@ -76,7 +76,7 @@ organizations:
 
 ### 組織
 
-- [[E_org_Frozen/Torch]]
+- [[E_org_Frozen_Torch]]
 
 <!-- /AUTO-GENERATED:links -->
 

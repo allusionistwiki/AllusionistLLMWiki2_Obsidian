@@ -5,6 +5,7 @@ title: アンドロギュヌスへの分離起源強調
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_コルセスカ_says_アンドロギュヌス_p1137]]"

@@ -4,6 +4,7 @@ id: ME_open_source_development
 title: オープンソース開発
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

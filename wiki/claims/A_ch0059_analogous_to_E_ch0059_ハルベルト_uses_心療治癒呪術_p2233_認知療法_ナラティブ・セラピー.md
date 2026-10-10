@@ -5,6 +5,7 @@ title: 問題外部化のナラティブセラピー
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0059_ハルベルト_uses_心療治癒呪術_p2233]]"

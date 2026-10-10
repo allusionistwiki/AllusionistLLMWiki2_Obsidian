@@ -5,6 +5,7 @@ title: シェルピンスキーのギャスケット
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_世界槍_has_property_自己相似形_p2720]]"

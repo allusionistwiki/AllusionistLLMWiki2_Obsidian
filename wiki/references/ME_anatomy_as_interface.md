@@ -4,6 +4,7 @@ id: ME_anatomy_as_interface
 title: 身体インターフェース
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

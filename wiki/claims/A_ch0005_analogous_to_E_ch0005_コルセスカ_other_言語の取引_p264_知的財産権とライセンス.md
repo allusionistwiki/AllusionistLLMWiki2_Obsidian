@@ -5,6 +5,7 @@ title: 知的財産権とライセンス
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_言語の取引_p264]]"

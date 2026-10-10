@@ -5,6 +5,7 @@ title: ミームの拡散
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_アズーリア_uses_言理の妖精語りて曰く_p2765]]"

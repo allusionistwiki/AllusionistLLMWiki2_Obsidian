@@ -5,6 +5,7 @@ title: ジェノサイドの浄化論理の模倣
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_キロン_says_異獣の駆逐_p817]]"

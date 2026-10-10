@@ -5,6 +5,7 @@ title: 機能不全家族と血縁の呪縛
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0049_プリエステラ_thinks_家族の空虚さ_p1959]]"

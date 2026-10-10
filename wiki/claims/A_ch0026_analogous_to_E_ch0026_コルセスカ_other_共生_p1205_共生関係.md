@@ -5,6 +5,7 @@ title: 魂結合への相利共生適用
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_コルセスカ_other_共生_p1205]]"

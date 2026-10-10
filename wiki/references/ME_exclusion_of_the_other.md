@@ -4,6 +4,7 @@ id: ME_exclusion_of_the_other
 title: 他者排除
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

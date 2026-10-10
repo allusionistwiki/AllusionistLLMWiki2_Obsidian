@@ -4,6 +4,7 @@ id: ME_量子力学の観測問題
 title: 量子力学の観測問題
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

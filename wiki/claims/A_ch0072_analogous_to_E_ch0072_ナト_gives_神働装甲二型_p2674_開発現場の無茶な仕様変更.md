@@ -5,6 +5,7 @@ title: 開発現場の無茶な仕様変更
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0072_ナト_gives_神働装甲二型_p2674]]"

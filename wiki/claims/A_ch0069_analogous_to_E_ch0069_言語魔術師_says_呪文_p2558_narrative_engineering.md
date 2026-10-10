@@ -5,6 +5,7 @@ title: 物語工学への転生
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_言語魔術師たち_says_呪文_p2558]]"

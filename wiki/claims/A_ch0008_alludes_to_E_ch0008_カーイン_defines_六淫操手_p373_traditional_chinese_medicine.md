@@ -5,6 +5,7 @@ title: 漢方医学六淫概念の攻撃化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_カーイン_defines_六淫操手_p373]]"

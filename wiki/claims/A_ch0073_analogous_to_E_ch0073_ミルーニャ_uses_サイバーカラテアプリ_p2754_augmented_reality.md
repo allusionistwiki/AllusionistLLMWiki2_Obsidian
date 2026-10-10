@@ -5,6 +5,7 @@ title: 拡張現実
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_ミルーニャ_uses_サイバーカラテアプリ_p2754]]"

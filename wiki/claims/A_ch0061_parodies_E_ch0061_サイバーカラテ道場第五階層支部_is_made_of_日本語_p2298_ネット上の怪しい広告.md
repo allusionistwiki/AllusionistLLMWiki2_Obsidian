@@ -5,6 +5,7 @@ title: 怪しいネット広告へのパロディ
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0061_サイバーカラテ道場第五階層支部_is_made_of_日本語_p2298]]"

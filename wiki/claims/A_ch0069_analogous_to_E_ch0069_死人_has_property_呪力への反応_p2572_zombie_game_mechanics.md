@@ -5,6 +5,7 @@ title: ゾンビ検知メカニクスへの転生
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_エルネトモラン_has_property_死人の溢れ_p2572]]"

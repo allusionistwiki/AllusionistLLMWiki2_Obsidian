@@ -4,6 +4,7 @@ id: ME_resource_check
 title: リソース確認
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

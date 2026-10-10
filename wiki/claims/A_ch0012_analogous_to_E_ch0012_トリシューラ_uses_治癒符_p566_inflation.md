@@ -5,6 +5,7 @@ title: インフレによる経済支配権奪取
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_uses_治癒符_p566]]"

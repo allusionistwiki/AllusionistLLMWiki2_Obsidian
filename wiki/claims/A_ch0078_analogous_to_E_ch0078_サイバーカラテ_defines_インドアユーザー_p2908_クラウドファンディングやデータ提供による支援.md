@@ -5,6 +5,7 @@ title: データエコシステム構造の模倣
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0078_サイバーカラテ_defines_インドアユーザー_p2908]]"

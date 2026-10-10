@@ -5,6 +5,7 @@ title: 肉体言語によるプラセボ効果の実体化
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_ロドウィ_uses_肉体言語_p3022]]"

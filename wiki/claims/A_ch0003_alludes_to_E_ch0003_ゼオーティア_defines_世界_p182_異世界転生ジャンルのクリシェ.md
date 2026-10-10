@@ -5,6 +5,7 @@ title: 異世界転生クリシェへの皮肉
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0003_ゼオーティア_defines_世界_p182]]"

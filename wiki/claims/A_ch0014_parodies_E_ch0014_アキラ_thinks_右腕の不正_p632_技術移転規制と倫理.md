@@ -5,6 +5,7 @@ title: 技術移転倫理のメタ批判
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0014_アキラ_thinks_右腕の不正_p632]]"

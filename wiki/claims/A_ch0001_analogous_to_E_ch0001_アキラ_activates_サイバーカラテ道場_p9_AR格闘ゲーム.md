@@ -5,6 +5,7 @@ title: AR格闘ゲームUIを模した戦闘描写
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_activates_サイバーカラテ道場_p9]]"

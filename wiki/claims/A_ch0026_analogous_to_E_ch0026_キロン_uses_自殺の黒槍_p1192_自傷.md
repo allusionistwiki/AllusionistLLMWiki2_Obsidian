@@ -5,6 +5,7 @@ title: 自傷行為の呪術再現
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_キロン_uses_自殺の黒槍_p1192]]"

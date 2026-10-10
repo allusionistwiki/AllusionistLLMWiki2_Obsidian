@@ -5,6 +5,7 @@ title: OSSコミュニティ理想の指喩
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_reveals_第五階層の崩壊_p577]]"

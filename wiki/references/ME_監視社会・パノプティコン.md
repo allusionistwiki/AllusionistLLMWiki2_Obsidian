@@ -4,6 +4,7 @@ id: ME_監視社会・パノプティコン
 title: パノプティコン
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

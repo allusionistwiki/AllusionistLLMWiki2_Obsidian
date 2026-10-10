@@ -4,6 +4,7 @@ id: ME_mental_health_stigma
 title: 精神疾患のスティグマ
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

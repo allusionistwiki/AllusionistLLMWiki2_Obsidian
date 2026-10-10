@@ -2,8 +2,9 @@
 schema_version: "5.1"
 id: A_ch0222_parodies_E_ch0222_地下アイドル空間_is_located_旧白骨迷宮_p7362_Idol_Otaku_Culture
 title: 冥界のアイドル文化消費
+
 type: analytical_claim
-created: 2026-10-11
+created: '2026-10-11'
 subject: "[[E_ch0222_地下アイドル空間_is_located_旧白骨迷宮_p7362]]"
 predicate: parodies
 object: "[[ME_Idol_Otaku_Culture]]"
@@ -14,7 +15,7 @@ spoiler_after: ch0222
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: 2026-10-11}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-11"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

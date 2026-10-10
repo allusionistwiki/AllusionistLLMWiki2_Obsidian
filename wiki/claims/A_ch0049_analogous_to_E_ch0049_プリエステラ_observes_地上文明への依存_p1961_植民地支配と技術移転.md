@@ -5,6 +5,7 @@ title: 植民地支配下の技術依存の逆説
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0049_プリエステラ_observes_地上文明への依存_p1961]]"

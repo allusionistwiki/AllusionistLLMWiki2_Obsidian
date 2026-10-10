@@ -5,6 +5,7 @@ title: 猿轡による言論統制と主体性剥奪
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_アズーリア_loses_交渉の機会_p1272]]"

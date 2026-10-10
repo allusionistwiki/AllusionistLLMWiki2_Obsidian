@@ -5,6 +5,7 @@ title: 模造の月による代理戦争
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_夜月騎士団_attacks_エスフェイル_p2500]]"

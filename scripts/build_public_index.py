@@ -49,6 +49,11 @@ def kanji_num(n: int) -> str:
         return "十"
     if n < 20:
         return "十" + KANJI[n - 11]
+    if n >= 100:
+        # 100〜999: 百の位 + 以降（例 272 → 百七十二）
+        hundreds, rest = divmod(n, 100)
+        tail = kanji_num(rest) if rest else ""
+        return (KANJI[hundreds - 1] if hundreds > 1 else "") + "百" + tail
     tens, ones = divmod(n, 10)
     return KANJI[tens - 1] + "十" + (KANJI[ones - 1] if ones else "")
 

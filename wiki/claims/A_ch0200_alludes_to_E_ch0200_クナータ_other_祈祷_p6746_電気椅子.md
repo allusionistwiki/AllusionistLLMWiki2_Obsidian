@@ -2,8 +2,9 @@
 schema_version: "5.1"
 id: A_ch0200_alludes_to_E_ch0200_クナータ_other_祈祷_p6746_電気椅子
 title: 死を管理する装置としての電気椅子
+
 type: analytical_claim
-created: 2026-10-11
+created: '2026-10-11'
 subject: "[[E_ch0200_クナータ_other_祈祷_p6746]]"
 predicate: alludes_to
 object: "[[ME_電気椅子]]"
@@ -14,7 +15,7 @@ spoiler_after: ch0200
 evidence_strength: explicit
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: 2026-10-11}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-11"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

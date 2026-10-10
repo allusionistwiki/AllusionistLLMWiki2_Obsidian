@@ -2,8 +2,9 @@
 schema_version: "5.1"
 id: A_ch0226_alludes_to_E_ch0226_エリカ_says_動物の権利の欺瞞_p7452_Utilitarianism_vs_Animal_Rights
 title: 功利主義と動物権利の対立
+
 type: analytical_claim
-created: 2026-10-11
+created: '2026-10-11'
 subject: "[[E_ch0226_エリカ_says_動物の権利の欺瞞_p7452]]"
 predicate: alludes_to
 object: "[[ME_Utilitarianism_vs_Animal_Rights]]"
@@ -14,7 +15,7 @@ spoiler_after: ch0226
 evidence_strength: explicit
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: 2026-10-11}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-11"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

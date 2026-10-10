@@ -5,6 +5,7 @@ title: 国際資格の階層化
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_言語魔術師試験_defines_国際規格資格_p2941]]"

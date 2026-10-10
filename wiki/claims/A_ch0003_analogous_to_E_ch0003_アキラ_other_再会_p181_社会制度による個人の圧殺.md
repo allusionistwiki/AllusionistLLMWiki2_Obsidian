@@ -5,6 +5,7 @@ title: 社会制度による個人の圧殺
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0003_アキラ_other_再会_p181]]"

@@ -5,6 +5,7 @@ title: 神話的系譜と王権
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0081_六王_names_高位再生者_p2960]]"

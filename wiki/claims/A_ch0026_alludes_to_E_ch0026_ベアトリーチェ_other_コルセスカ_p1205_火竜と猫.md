@@ -5,6 +5,7 @@ title: 火竜と猫への仕えの暗示
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_other_コルセスカ_p1205]]"

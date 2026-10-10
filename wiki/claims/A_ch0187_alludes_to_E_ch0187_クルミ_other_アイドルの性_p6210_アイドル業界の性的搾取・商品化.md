@@ -2,8 +2,9 @@
 schema_version: "5.1"
 id: A_ch0187_alludes_to_E_ch0187_クルミ_other_アイドルの性_p6210_アイドル業界の性的搾取・商品化
 title: アイドル業界の性的搾取暗喩
+
 type: analytical_claim
-created: 2026-10-11
+created: '2026-10-11'
 subject: "[[E_ch0187_クルミ_other_アイドルの性_p6210]]"
 predicate: alludes_to
 object: "[[ME_アイドル業界の性的搾取・商品化]]"
@@ -14,7 +15,7 @@ spoiler_after: ch0187
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: 2026-10-11}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-11"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

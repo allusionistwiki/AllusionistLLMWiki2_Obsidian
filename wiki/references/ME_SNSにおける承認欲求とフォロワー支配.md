@@ -4,6 +4,7 @@ id: ME_SNSにおける承認欲求とフォロワー支配
 title: SNS承認欲求支配
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: internet_culture

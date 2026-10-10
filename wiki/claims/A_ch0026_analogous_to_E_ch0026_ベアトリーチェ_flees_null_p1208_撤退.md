@@ -5,6 +5,7 @@ title: 戦闘からの撤退の模倣
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_flees_null_p1208]]"

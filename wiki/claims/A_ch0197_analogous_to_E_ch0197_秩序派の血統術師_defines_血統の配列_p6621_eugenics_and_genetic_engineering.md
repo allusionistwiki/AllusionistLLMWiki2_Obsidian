@@ -2,8 +2,9 @@
 schema_version: "5.1"
 id: A_ch0197_analogous_to_E_ch0197_秩序派の血統術師_defines_血統の配列_p6621_eugenics_and_genetic_engineering
 title: 人間改良を暗示する優生学と遺伝子工学
+
 type: analytical_claim
-created: 2026-10-11
+created: '2026-10-11'
 subject: "[[E_ch0197_秩序派の血統術師_defines_血統の配列_p6621]]"
 predicate: analogous_to
 object: "[[ME_eugenics_and_genetic_engineering]]"
@@ -14,7 +15,7 @@ spoiler_after: ch0197
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: 2026-10-11}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-11"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

@@ -5,6 +5,7 @@ title: 科学超越の魔術的論理破綻
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_コルセスカ_kills_刺客_p232]]"

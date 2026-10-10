@@ -5,6 +5,7 @@ title: 自動応答システムへの接続
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_アズーリア_activates_金鎖システム_p1794]]"

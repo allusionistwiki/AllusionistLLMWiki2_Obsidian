@@ -4,6 +4,7 @@ id: ME_boss_taunt
 title: ボス挑発
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

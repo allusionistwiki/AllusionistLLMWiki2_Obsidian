@@ -4,6 +4,7 @@ id: ME_heroic_narrative_trope
 title: 英雄叙事の逆転
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

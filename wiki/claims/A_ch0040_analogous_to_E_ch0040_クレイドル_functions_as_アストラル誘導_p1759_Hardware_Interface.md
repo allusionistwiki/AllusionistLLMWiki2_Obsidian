@@ -5,6 +5,7 @@ title: VRヘッドセット的接続装置
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0040_クレイドル_functions_as_アストラル誘導_p1759]]"

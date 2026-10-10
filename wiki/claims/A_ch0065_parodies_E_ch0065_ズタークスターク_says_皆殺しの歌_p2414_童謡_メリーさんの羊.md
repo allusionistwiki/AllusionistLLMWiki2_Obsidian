@@ -5,6 +5,7 @@ title: メリーさんの羊への暴力転倒
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ズタークスターク_kills_警備部隊_p2414]]"

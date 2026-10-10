@@ -5,6 +5,7 @@ title: 技術の軍事転用と暴走
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_ミルーニャ_reveals_白血呪_p1680]]"

@@ -5,6 +5,7 @@ title: インフルエンサー搾取の風刺
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_トリシューラ_makes_広告塔_p672]]"

@@ -5,6 +5,7 @@ title: 自己責任論と加害者性
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0032_アズ_thinks_英雄願望_p1319]]"

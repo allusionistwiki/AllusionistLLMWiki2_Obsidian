@@ -5,6 +5,7 @@ title: ウイルス感染の比喩
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ガルズ_uses_融血呪_p2385]]"

@@ -5,6 +5,7 @@ title: マクガフィンへの主人公定義
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_アキラ_names_マクガフィン_p1008]]"

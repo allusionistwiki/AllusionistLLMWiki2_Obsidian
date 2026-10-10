@@ -5,6 +5,7 @@ title: 輪廻転生の呪術化
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_輪廻_p1173]]"

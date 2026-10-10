@@ -5,6 +5,7 @@ title: 例外処理とスタック停止の模倣
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_コルセスカ_defines_キーワード定義凍結_p393]]"

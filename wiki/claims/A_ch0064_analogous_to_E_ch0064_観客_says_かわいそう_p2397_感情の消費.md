@@ -5,6 +5,7 @@ title: 感情の消費としての悲劇娯楽化
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_観客_says_かわいそう_p2397]]"

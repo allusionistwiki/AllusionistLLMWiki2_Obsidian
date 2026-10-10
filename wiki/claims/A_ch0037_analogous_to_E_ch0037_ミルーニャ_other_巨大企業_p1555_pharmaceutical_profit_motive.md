@@ -5,6 +5,7 @@ title: 製薬業界の利潤優先への風刺
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_other_巨大企業_p1555]]"

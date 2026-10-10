@@ -4,6 +4,7 @@ id: ME_privilege_and_exclusion
 title: 特権と排除
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

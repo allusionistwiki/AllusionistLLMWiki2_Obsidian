@@ -5,6 +5,7 @@ title: ガチャ・アンロック的な解放
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0072_アキラ_uses_金鎖_p2697]]"

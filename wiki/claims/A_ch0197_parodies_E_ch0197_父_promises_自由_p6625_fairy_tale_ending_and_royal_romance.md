@@ -2,8 +2,9 @@
 schema_version: "5.1"
 id: A_ch0197_parodies_E_ch0197_父_promises_自由_p6625_fairy_tale_ending_and_royal_romance
 title: 虚構性が暴かれるおとぎ話のハッピーエンド
+
 type: analytical_claim
-created: 2026-10-11
+created: '2026-10-11'
 subject: "[[E_ch0197_父_promises_自由_p6625]]"
 predicate: parodies
 object: "[[ME_fairy_tale_ending_and_royal_romance]]"
@@ -14,7 +15,7 @@ spoiler_after: ch0197
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: 2026-10-11}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-11"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

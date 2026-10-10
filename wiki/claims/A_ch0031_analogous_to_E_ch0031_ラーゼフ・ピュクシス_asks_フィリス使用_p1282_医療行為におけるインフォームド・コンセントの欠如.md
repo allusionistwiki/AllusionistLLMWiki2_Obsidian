@@ -5,6 +5,7 @@ title: インフォームド・コンセント欠如
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0031_ラーゼフ・ピュクシス_asks_フィリス使用_p1282]]"

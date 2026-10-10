@@ -5,6 +5,7 @@ title: 時間の矢の呪術的可視化
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_白焔_has_property_時間流_p1987]]"

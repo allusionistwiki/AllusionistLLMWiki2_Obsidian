@@ -5,6 +5,7 @@ title: ゲームデザインのメタコメント
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_コルセスカ_other_やり直しの支援_p917]]"

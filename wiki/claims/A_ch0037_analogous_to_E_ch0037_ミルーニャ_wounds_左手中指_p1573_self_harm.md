@@ -5,6 +5,7 @@ title: 自傷行為の心理的カタルシス
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_wounds_左手中指_p1573]]"

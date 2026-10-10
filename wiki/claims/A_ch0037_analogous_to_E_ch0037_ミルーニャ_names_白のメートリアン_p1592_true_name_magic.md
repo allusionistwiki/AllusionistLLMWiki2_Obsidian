@@ -5,6 +5,7 @@ title: 真名による存在定義の書き換え
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_names_白のメートリアン_p1592]]"

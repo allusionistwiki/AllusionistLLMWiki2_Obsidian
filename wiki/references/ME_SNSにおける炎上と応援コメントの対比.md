@@ -4,6 +4,7 @@ id: ME_SNSにおける炎上と応援コメントの対比
 title: SNS炎上と応援対比
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: internet_culture

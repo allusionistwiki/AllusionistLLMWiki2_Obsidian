@@ -4,6 +4,7 @@ id: ME_Battle_Royale_Game
 title: バトルロイヤル
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

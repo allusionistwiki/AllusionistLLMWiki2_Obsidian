@@ -5,6 +5,7 @@ title: ヒエロス・ガモスへの暗喩
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0061_ハザーリャ_other_生殖と蘇生_p2292]]"

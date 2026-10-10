@@ -5,6 +5,7 @@ title: スマホ地図アプリ操作を模した巻物
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_キール_uses_自動地図巻物_p45]]"

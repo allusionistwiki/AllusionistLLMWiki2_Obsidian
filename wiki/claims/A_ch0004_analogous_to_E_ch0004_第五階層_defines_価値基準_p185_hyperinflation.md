@@ -5,6 +5,7 @@ title: ハイパーインフレによる価値喪失
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_第五階層_defines_価値基準_p185]]"

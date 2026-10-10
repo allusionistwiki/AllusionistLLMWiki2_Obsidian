@@ -5,6 +5,7 @@ title: 同胞殺しの倫理的葛藤
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_エスフェイル_kills_修道騎士_p2550]]"

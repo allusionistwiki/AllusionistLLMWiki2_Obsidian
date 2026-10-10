@@ -5,6 +5,7 @@ title: マッチポンプへの需要創出操作
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_トリシューラ_makes_治癒符の需要_p1153]]"

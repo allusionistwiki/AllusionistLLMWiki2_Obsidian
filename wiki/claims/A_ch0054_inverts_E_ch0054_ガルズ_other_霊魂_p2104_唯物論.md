@@ -5,6 +5,7 @@ title: 唯物論による霊魂の解体
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_ガルズ_other_霊魂_p2104]]"

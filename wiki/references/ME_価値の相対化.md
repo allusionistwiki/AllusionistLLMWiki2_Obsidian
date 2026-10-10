@@ -4,6 +4,7 @@ id: ME_価値の相対化
 title: 価値の相対化
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

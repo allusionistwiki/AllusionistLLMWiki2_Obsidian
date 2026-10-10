@@ -4,6 +4,7 @@ id: ME_サーバー障害_機能停止
 title: サーバー障害
 
 
+
 type: external_reference
 created: "2026-10-10"
 subtype: popular_culture

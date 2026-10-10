@@ -5,6 +5,7 @@ title: アイドル産業のコンテンツ化
 
 
 
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0076_ヴァージリア_names_アクス_p2867]]"

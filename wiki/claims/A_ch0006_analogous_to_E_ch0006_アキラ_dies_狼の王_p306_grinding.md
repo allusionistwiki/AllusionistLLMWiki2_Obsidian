@@ -5,6 +5,7 @@ title: 作業的戦闘の無意味さ
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0006_アキラ_dies_狼の王_p306]]"

@@ -5,6 +5,7 @@ title: SNSプラットフォームによる支配構造
 
 
 
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_other_マッチングシステム_p573]]"
