@@ -1,0 +1,31 @@
+---
+schema_version: "5.1"
+id: E_term_呪文
+type: entity
+subtype: terminology
+canonical_name: 呪文
+title: "呪文"
+first_appearance: ch0073
+spoiler_after: ch0073
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 呪文
+
+サイバーカラテ使いたちが情報を共有し、集合知によって構築を効率化・最適化する技術体系である。ロードデンドロンの言葉は、呪文の心得がある者に対して開戦の狼煙として警戒を促す役割を果たす。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0073 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> サイバーカラテの使い手たちが、妖精の扱い方についての情報を交換し、その使用方法の最適化を試みた時から、それは始まった。 試されていない可能性の穴が次々と埋まっていく。 効率化された手法。（ch0073）
+> 夢想家の言葉、詩人の響き、そして役者の発声。　ユディーアのみならず、その場にいた呪文の心得がある者すべてが警戒したはずだ。　開戦の狼煙は既に上がっている。（ch0220）
+
+## 関連クレーム
+
+- [[A_ch0073_analogous_to_E_ch0073_サイバーカラテ使い_other_呪文_p2767_open_source_development|オープンソース開発]]
+
+<!-- AUTO:END -->
