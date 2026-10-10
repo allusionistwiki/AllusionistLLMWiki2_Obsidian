@@ -25,8 +25,6 @@ terminology:
 - '[[E_term_幻灯劇]]'
 items:
 - '[[E_item_セレナイト]]'
-relationships:
-- '[[E_relation_フィレクティ]]'
 arc: '[[ARC_03_合わせ鏡編]]'
 ---
 # ch0113
@@ -67,9 +65,6 @@ arc: '[[ARC_03_合わせ鏡編]]'
 - [[E_item_セレナイト]]
 
 ### 関係性
-
-- [[E_relation_フィレクティ]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

@@ -31,3 +31,8 @@ frontmatter 書込: ME 918 件, クレーム 962 件
 エラーあり: 22
 + python scripts/commit_all.py -m '品質リカバリー完了（無検閲サーバー+analysis 1件バグ修正）: 全272話 events/facts/analysis 揃い、薄い成果物0。表示層再生成（集計/エンティティ/関係性マップ/公開インデックス）'
 + tail -3
+work: eeecb4e
+vault: d28f9a24
+🎉 統合コミット完了 vault=d28f9a24 work=eeecb4e
++ echo 'REFRESH_DONE rc=0'
+REFRESH_DONE rc=0

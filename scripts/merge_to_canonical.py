@@ -220,7 +220,8 @@ def process_staging_file(staging_path: Path, dry_run: bool = False) -> dict:
             results["skipped"] += 1
             continue
         entity_type = entity_data.get("entity_type", m.group(1))
-        entity_name_clean = m.group(2)
+        # 名前にスラッシュが含まれると入れ子ファイルになる（E_org_Frozen/Torch 実例）
+        entity_name_clean = m.group(2).replace("/", "_").replace("\\", "_")
         aspects = entity_data.get("aspects", {})
 
         # relationship は build_relationship_map.py が担当（E_relation_* は

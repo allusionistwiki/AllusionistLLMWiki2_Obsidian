@@ -23,8 +23,6 @@ terminology:
 - '[[E_term_世界槍]]'
 - '[[E_term_言理飛翔]]'
 - '[[E_term_ミブレル]]'
-relationships:
-- '[[E_relation_ミブリナ]]'
 ---
 # ch0265
 
@@ -60,9 +58,6 @@ relationships:
 - [[E_term_ミブレル]]
 
 ### 関係性
-
-- [[E_relation_ミブリナ]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

@@ -26,8 +26,6 @@ terminology:
 - '[[E_term_第五階層]]'
 items:
 - '[[E_item_鮮血の剣]]'
-relationships:
-- '[[E_relation_トリシューラ]]'
 ---
 # ch0184
 
@@ -68,9 +66,6 @@ relationships:
 - [[E_item_鮮血の剣]]
 
 ### 関係性
-
-- [[E_relation_トリシューラ]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

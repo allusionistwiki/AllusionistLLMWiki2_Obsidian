@@ -19,8 +19,6 @@ terminology:
 - '[[E_term_第五階層]]'
 - '[[E_term_ラクルラール派]]'
 - '[[E_term_イアテム]]'
-relationships:
-- '[[E_relation_コルセスカ]]'
 arc: '[[ARC_03_合わせ鏡編]]'
 ---
 # ch0128
@@ -53,9 +51,6 @@ arc: '[[ARC_03_合わせ鏡編]]'
 - [[E_term_イアテム]]
 
 ### 関係性
-
-- [[E_relation_コルセスカ]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

@@ -42,9 +42,6 @@ items:
 - '[[E_item_豹]]'
 - '[[E_item_カルカブリーナ]]'
 - '[[E_item_サハリック]]'
-relationships:
-- '[[E_relation_アサブ]]'
-- '[[E_relation_スーリウム]]'
 ---
 # ch0222
 
@@ -101,10 +98,6 @@ relationships:
 - [[E_item_サハリック]]
 
 ### 関係性
-
-- [[E_relation_アサブ]]
-- [[E_relation_スーリウム]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

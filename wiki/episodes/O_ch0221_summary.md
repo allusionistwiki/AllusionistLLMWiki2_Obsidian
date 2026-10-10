@@ -22,8 +22,6 @@ organizations:
 - '[[E_org_クロウサー分家]]'
 motifs:
 - '[[E_motif_祝祭]]'
-relationships:
-- '[[E_relation_ティリビナ人]]'
 ---
 # ch0221
 
@@ -60,9 +58,6 @@ relationships:
 - [[E_motif_祝祭]]
 
 ### 関係性
-
-- [[E_relation_ティリビナ人]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

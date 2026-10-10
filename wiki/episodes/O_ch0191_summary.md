@@ -40,9 +40,6 @@ characters:
 organizations:
 - '[[E_org_六王]]'
 - '[[E_org_民衆]]'
-relationships:
-- '[[E_relation_カイン]]'
-- '[[E_relation_母]]'
 ---
 # ch0191
 
@@ -95,10 +92,6 @@ relationships:
 - [[E_org_民衆]]
 
 ### 関係性
-
-- [[E_relation_カイン]]
-- [[E_relation_母]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

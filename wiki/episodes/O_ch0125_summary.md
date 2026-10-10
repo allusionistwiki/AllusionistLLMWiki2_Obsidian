@@ -26,8 +26,6 @@ items:
 - '[[E_item_パーン]]'
 - '[[E_item_ヴァージル]]'
 - '[[E_item_リザ]]'
-relationships:
-- '[[E_relation_六王]]'
 arc: '[[ARC_03_合わせ鏡編]]'
 ---
 # ch0125
@@ -71,9 +69,6 @@ arc: '[[ARC_03_合わせ鏡編]]'
 - [[E_item_リザ]]
 
 ### 関係性
-
-- [[E_relation_六王]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

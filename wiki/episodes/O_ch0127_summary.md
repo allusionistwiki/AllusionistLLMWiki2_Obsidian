@@ -20,8 +20,6 @@ terminology:
 - '[[E_term_イアテム]]'
 items:
 - '[[E_item_リーエルノーレス]]'
-relationships:
-- '[[E_relation_ロウ・カーイン]]'
 arc: '[[ARC_03_合わせ鏡編]]'
 ---
 # ch0127
@@ -57,9 +55,6 @@ arc: '[[ARC_03_合わせ鏡編]]'
 - [[E_item_リーエルノーレス]]
 
 ### 関係性
-
-- [[E_relation_ロウ・カーイン]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

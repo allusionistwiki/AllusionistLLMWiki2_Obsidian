@@ -31,8 +31,6 @@ terminology:
 - '[[E_term_ミヒトネッセ]]'
 - '[[E_term_リーナ]]'
 - '[[E_term_ちびシューラ]]'
-relationships:
-- '[[E_relation_女王]]'
 ---
 # ch0180
 
@@ -76,9 +74,6 @@ relationships:
 - [[E_term_ちびシューラ]]
 
 ### 関係性
-
-- [[E_relation_女王]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

@@ -26,8 +26,6 @@ terminology:
 - '[[E_term_浄界コキュートス]]'
 items:
 - '[[E_item_コルセスカ]]'
-relationships:
-- '[[E_relation_女王]]'
 arc: '[[ARC_03_合わせ鏡編]]'
 ---
 # ch0115
@@ -69,9 +67,6 @@ arc: '[[ARC_03_合わせ鏡編]]'
 - [[E_item_コルセスカ]]
 
 ### 関係性
-
-- [[E_relation_女王]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

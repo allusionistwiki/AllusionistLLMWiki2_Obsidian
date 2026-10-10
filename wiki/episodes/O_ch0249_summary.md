@@ -37,9 +37,6 @@ terminology:
 - '[[E_term_卜占]]'
 items:
 - '[[E_item_ダスト]]'
-relationships:
-- '[[E_relation_クリーナー＆ダストペア]]'
-- '[[E_relation_ダウザールとパーン]]'
 ---
 # ch0249
 
@@ -91,10 +88,6 @@ relationships:
 - [[E_item_ダスト]]
 
 ### 関係性
-
-- [[E_relation_クリーナー＆ダストペア]]
-- [[E_relation_ダウザールとパーン]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

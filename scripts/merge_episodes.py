@@ -71,6 +71,10 @@ def collect_links_from_staging(staging_data: dict) -> dict:
     for entity in staging_data.get("entities", []):
         target = entity.get("canonical_target", "")
         key = KEY_MAP.get(entity.get("entity_type", ""))
+        # relationship は除外（E_relation_* ページは存在しない。関係性は
+        # build_relationship_map.py が専任。混ぜると episodes に死リンクが出る）
+        if key == "relationships":
+            continue
         if target and key and target not in links[key]:
             links[key].append(target)
 

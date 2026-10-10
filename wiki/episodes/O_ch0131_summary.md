@@ -26,8 +26,6 @@ terminology:
 - '[[E_term_コルセスカ]]'
 items:
 - '[[E_item_サイザクタート]]'
-relationships:
-- '[[E_relation_レッテ]]'
 arc: '[[ARC_03_合わせ鏡編]]'
 ---
 # ch0131
@@ -69,9 +67,6 @@ arc: '[[ARC_03_合わせ鏡編]]'
 - [[E_item_サイザクタート]]
 
 ### 関係性
-
-- [[E_relation_レッテ]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

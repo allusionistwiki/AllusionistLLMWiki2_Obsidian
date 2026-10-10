@@ -32,8 +32,6 @@ items:
 - '[[E_item_盤上遊戯]]'
 - '[[E_item_剣の駒]]'
 - '[[E_item_女王の生首]]'
-relationships:
-- '[[E_relation_マラコーダ]]'
 ---
 # ch0189
 
@@ -80,9 +78,6 @@ relationships:
 - [[E_item_女王の生首]]
 
 ### 関係性
-
-- [[E_relation_マラコーダ]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ

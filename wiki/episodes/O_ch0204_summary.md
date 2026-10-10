@@ -21,9 +21,6 @@ terminology:
 - '[[E_term_迷宮刑]]'
 items:
 - '[[E_item_ニアホン]]'
-relationships:
-- '[[E_relation_ウルムゾリム]]'
-- '[[E_relation_ゴーリー]]'
 ---
 # ch0204
 
@@ -59,10 +56,6 @@ relationships:
 - [[E_item_ニアホン]]
 
 ### 関係性
-
-- [[E_relation_ウルムゾリム]]
-- [[E_relation_ゴーリー]]
-
 <!-- /AUTO-GENERATED:links -->
 
 ## メモ
