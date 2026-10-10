@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_寄生・宿主関係
 title: 寄生と宿主
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "寄生・宿主関係"
 domain: "Contemporary Culture"

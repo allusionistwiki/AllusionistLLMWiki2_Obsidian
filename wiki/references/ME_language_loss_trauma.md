@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_language_loss_trauma
 title: 言語喪失トラウマ
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "language_loss_trauma"
 domain: "Contemporary Culture"

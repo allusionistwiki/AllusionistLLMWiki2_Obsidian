@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_sunk_cost_fallacy
 title: サンクコストの誤謬
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "sunk_cost_fallacy"
 domain: "Contemporary Culture"

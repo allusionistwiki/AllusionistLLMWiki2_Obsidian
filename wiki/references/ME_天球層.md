@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_天球層
 title: 天球層
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "天球層"
 domain: "Contemporary Culture"

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_撤退
 title: 戦闘撤退
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "撤退"
 domain: "Contemporary Culture"

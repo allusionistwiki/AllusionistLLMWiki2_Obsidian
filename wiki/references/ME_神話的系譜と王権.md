@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_神話的系譜と王権
 title: 神話的系譜と王権
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: mythology
 canonical_name: "神話的系譜と王権"
 domain: "Mythology"

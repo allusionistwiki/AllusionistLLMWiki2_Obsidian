@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_哲学的ゾンビ
 title: 哲学的ゾンビ
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: philosophy
 canonical_name: "哲学的ゾンビ"
 domain: "Ethics & Philosophy"

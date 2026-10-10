@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_コンテンツ産業と労働搾取
 title: コンテンツ搾取
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "コンテンツ産業と労働搾取"
 domain: "Contemporary Culture"

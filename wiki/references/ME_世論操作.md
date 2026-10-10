@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_世論操作
 title: 世論操作
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "世論操作"
 domain: "Contemporary Culture"

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_言語血統制と民族アイデンティティ
 title: 言語血統制
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "言語血統制と民族アイデンティティ"
 domain: "Contemporary Culture"

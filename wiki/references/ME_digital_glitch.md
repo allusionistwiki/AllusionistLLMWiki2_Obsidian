@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_digital_glitch
 title: デジタルグリッチ
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "digital_glitch"
 domain: "Contemporary Culture"

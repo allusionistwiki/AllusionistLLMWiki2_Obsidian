@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_管理者権限
 title: 管理者権限
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "管理者権限"
 domain: "Contemporary Culture"

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_S&M的関係の肯定
 title: S&M関係の肯定
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "S&M的関係の肯定"
 domain: "Contemporary Culture"

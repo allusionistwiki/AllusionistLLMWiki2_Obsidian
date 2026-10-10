@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_現代の学校いじめ・同調圧力
 title: 学校いじめ・同調圧力
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "現代の学校いじめ・同調圧力"
 domain: "Contemporary Culture"

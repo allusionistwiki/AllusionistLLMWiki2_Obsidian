@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_開発現場の無茶な仕様変更
 title: 無茶な仕様変更
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "開発現場の無茶な仕様変更"
 domain: "Contemporary Culture"

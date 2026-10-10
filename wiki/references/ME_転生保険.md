@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_転生保険
 title: 転生保険
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "転生保険"
 domain: "Contemporary Consumer Culture"

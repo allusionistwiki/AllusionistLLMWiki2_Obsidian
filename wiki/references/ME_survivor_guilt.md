@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_survivor_guilt
 title: 生存者罪悪感
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "survivor_guilt"
 domain: "Contemporary Culture"

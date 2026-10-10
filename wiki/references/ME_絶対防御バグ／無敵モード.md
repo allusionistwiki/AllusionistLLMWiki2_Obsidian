@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_絶対防御バグ／無敵モード
 title: 無敵モード・バグ
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "絶対防御バグ／無敵モード"
 domain: "Contemporary Culture"

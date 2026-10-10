@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_現代兵器による非対称戦争
 title: 非対称戦争
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "現代兵器による非対称戦争"
 domain: "Contemporary Culture"

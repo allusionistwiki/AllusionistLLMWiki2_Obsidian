@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_クラウドデータ共有とアプリ連携
 title: クラウド連携
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "クラウドデータ共有とアプリ連携"
 domain: "Contemporary Consumer Culture"

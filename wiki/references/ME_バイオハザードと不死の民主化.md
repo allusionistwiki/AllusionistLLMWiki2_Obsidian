@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_バイオハザードと不死の民主化
 title: 不死の民主化
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "バイオハザードと不死の民主化"
 domain: "Contemporary Culture"

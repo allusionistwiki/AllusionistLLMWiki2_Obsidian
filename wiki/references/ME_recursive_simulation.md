@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_recursive_simulation
 title: 再帰的シミュレーション
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "recursive_simulation"
 domain: "Contemporary Culture"

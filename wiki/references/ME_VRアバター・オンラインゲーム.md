@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_VRアバター・オンラインゲーム
 title: VRアバター
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "VRアバター・オンラインゲーム"
 domain: "Contemporary Consumer Culture"

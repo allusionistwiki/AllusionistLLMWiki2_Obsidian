@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_花言葉
 title: 花言葉
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "花言葉"
 domain: "Contemporary Culture"

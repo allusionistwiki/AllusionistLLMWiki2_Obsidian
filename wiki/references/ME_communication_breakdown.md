@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_communication_breakdown
 title: コミュニケーション不全
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "communication_breakdown"
 domain: "Contemporary Culture"

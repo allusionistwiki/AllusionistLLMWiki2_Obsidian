@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ゲームのシナリオ分岐
 title: シナリオ分岐
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "ゲームのシナリオ分岐"
 domain: "Contemporary Consumer Culture"

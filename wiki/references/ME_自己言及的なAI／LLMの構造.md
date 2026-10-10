@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_自己言及的なAI／LLMの構造
 title: 自己言及型AI
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "自己言及的なAI／LLMの構造"
 domain: "Contemporary Culture"

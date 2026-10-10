@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_色による心理効果
 title: 色彩の心理効果
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: psychology
 canonical_name: "色による心理効果"
 domain: "Psychology"

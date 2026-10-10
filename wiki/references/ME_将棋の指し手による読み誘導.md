@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_将棋の指し手による読み誘導
 title: 将棋の指し手による読み誘導
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "将棋の指し手による読み誘導"
 domain: "Contemporary Culture"

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ear_stone
 title: 耳石器
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "ear_stone"
 domain: "Contemporary Culture"

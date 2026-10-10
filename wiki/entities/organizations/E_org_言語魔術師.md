@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_org_言語魔術師
+type: entity
+subtype: organization
+canonical_name: 言語魔術師
+title: "言語魔術師"
+first_appearance: ch0147
+spoiler_after: ch0147
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 言語魔術師
+
+世界を説明する神話という視座を持つ最古の神話の紡ぎ手たちが自らを名乗った組織である。カーインの罠により主立った構成員が廃人と化し、壊滅的な被害を受けた。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0147 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 世界を説明すること。それは神話という視座。 最古の神話を紡ぐものたちは、自らを言語魔術師と名付けた。（ch0147）
+> 自警団の本部は大混乱に陥っていた。主立った言語魔術師たちが軒並み廃人と化している。（ch0155）
+
+<!-- AUTO:END -->

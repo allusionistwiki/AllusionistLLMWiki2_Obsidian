@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_ドラトリア
+type: entity
+subtype: character
+canonical_name: ドラトリア
+title: "ドラトリア"
+first_appearance: ch0147
+spoiler_after: ch0147
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# ドラトリア
+
+吸血鬼の王カーティスが群れをなして夜の世界を駆け抜け、移動先として向かう場所である。アストラルネット経由で高位呪術が防壁を抜けて炸裂し、国家言語魔術師団の内応も利用して国内を混乱させる舞台となる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0147 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> カーティスが群れをなして夜の世界を駆け抜けていく。（ch0147）
+> 『炎上』や『虜』といった高位呪術がアストラルの海を乱れ飛び、ドラトリアが誇る高位呪術防壁の網をするりと抜けていった。（ch0181）
+
+<!-- AUTO:END -->

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_pharmaceutical_profit_motive
 title: 製薬業界の利潤追求
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "pharmaceutical_profit_motive"
 domain: "Contemporary Culture"

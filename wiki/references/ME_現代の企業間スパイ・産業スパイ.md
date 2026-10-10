@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_現代の企業間スパイ・産業スパイ
 title: 産業スパイ
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "現代の企業間スパイ・産業スパイ"
 domain: "Contemporary Culture"

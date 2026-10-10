@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ゲーム内の乗り物カスタマイズ／変形
 title: 乗り物変形
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "ゲーム内の乗り物カスタマイズ／変形"
 domain: "Contemporary Consumer Culture"

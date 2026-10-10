@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_国際資格試験とキャリアの階層化
 title: 国際資格試験とキャリアの階層化
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "国際資格試験とキャリアの階層化"
 domain: "Contemporary Culture"

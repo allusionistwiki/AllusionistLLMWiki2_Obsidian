@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_singularity
 title: 技術的特異点
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "singularity"
 domain: "Contemporary Culture"

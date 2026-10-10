@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_自律型AI
 title: 自律型AI
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "自律型AI"
 domain: "Contemporary Culture"

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ドローン攻撃
 title: ドローン攻撃
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "ドローン攻撃"
 domain: "Contemporary Culture"

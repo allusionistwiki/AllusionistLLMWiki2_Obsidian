@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ゲームのセーブデータ・リプレイ機能
 title: セーブデータ・リプレイ
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "ゲームのセーブデータ・リプレイ機能"
 domain: "Contemporary Consumer Culture"

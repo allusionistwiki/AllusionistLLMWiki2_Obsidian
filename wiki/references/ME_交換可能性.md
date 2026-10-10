@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_交換可能性
 title: 交換可能性
 type: external_reference
-created: "2026-10-09"
+created: "2026-10-10"
 subtype: popular_culture
 canonical_name: "交換可能性"
 domain: "Contemporary Culture"
