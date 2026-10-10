@@ -2,6 +2,7 @@
 
 | vault commit | work commit | 日付 | 内容 |
 |:---|:---|:---|:---|
+| d28f9a24 | eeecb4e | 2026-10-11 | 品質リカバリー完了（無検閲サーバー+analysis 1件バグ修正）: 全272話 events/facts/analysis 揃い、薄い成果物0。表示層再生成（集計/エンティティ/関係性マップ/公開インデックス） |
 | ed40bc43 | 42ffefe | 2026-10-10 | ch0226-ch0272 解析（章並列4: events/facts/analysis 並列 + autopilot 逐列） |
 | 2ed763e7 | bc5e25a | 2026-10-10 | ch0118-ch0225 解析（章並列4: events/facts/analysis 並列 + autopilot 逐列） |
 | 9cf9cae4 | 07f7eeb | 2026-10-10 | ch0225-ch0272 解析（章並列4: events/facts/analysis 並列 + autopilot 逐列） |

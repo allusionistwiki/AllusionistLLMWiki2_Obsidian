@@ -26,3 +26,8 @@ frontmatter 書込: ME 918 件, クレーム 962 件
 話割当: claims 962/962, mysteries 410/410
 + python scripts/lint.py --severity error
 + tail -3
+└────────┴──────┘
+チェックファイル数: 5319
+エラーあり: 22
++ python scripts/commit_all.py -m '品質リカバリー完了（無検閲サーバー+analysis 1件バグ修正）: 全272話 events/facts/analysis 揃い、薄い成果物0。表示層再生成（集計/エンティティ/関係性マップ/公開インデックス）'
++ tail -3
