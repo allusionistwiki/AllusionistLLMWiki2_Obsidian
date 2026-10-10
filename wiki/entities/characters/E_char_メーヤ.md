@@ -1,0 +1,28 @@
+---
+schema_version: "5.1"
+id: E_char_メーヤ
+type: entity
+subtype: character
+canonical_name: メーヤ
+title: "メーヤ"
+first_appearance: ch0268
+spoiler_after: ch0268
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# メーヤ
+
+パーンに「ガキ」「バカ」と呼ばれ、子守ではないと拒絶される存在である。パーンの箒にしがみつき、空のかけっこへの参加を主張し、パーンに負けないと挑発する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0268 ｜ **観測イベント**: 3 件（1 話に出現）
+
+## 代表引用
+
+> 「ええい離れろガキ！ 誰だこんなバカを連れてきたのは！ 他の弟子どもに面倒を見させろ！ 俺は子守をしに来たのではないぞ！」（ch0268）
+> 「おそらのかけっこ！ メーヤもやるの！」（ch0268）
+> 「メーヤまけないもん！ ざこいパーンおにいちゃんはメーヤのおけつをおいかけるんだよ！」（ch0268）
+
+<!-- AUTO:END -->
