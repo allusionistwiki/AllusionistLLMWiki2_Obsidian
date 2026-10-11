@@ -177,7 +177,7 @@ def main() -> int:
             e["chapter_title"] = chapters[cno]
     facts = load_facts()
     build_deferrals(meta, facts)
-    build_appearances(meta, facts)
+    # appearances 索引は build_appearance_pages.py の管轄（ここで再生成すると旧フォーマットで上書きされる）
     return 0
 
 
