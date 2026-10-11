@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
 """追加索引生成: 「今はまだ」先延ばし索引 + キャラ容姿描写索引.
 
-- wiki/deferrals/index.md : 原文本文中の「今はまだ」系表現（先延ばしモティーフ）を
-  章→話→引用文の順で列挙（他インデックスと同フォーマット）。
-- wiki/appearances/index.md : Work/facts の character 記述から容姿・外見描写を
-  抽出し、キャラ別に列挙。キャラページがあればリンク。
-
-raw/ と Work/facts は gitignore 対象（非公開）だが、生成物は wiki 側に入る。
+一次データ: Work/deferral_facts/chNNNN.jsonl（専用再解析 extract_deferral_appearance.py の出力）。
+- deferral: quote + refers_to（先延ばしされている具体的対象）+ who + paragraph
+- appearance: quote + character + features + note + paragraph
+deferral_facts に deferral が無い章は raw 機械スキャンにフォールバック。
 """
 from __future__ import annotations
 
@@ -20,6 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent
 WIKI = ROOT / "wiki"
 RAW = ROOT / "raw"
 WORK = ROOT.parent / "AllusionistLLMWiki2_Work"
+FACTS = WORK / "deferral_facts"
 
 sys.path.insert(0, str(ROOT / "scripts"))
 from build_public_index import (  # noqa: E402
@@ -30,16 +29,8 @@ from build_public_index import (  # noqa: E402
 )
 
 DEFER_PAT = re.compile(
-    r"今はまだ|今のところまだ|現時点ではまだ|まだ存在しな|まだない|まだ無い"
-)
+    r"今はまだ|今のところまだ|現時点ではまだ|まだ存在しな|まだない|まだ無い")
 PAGE_MARK = re.compile(r"【p(\d+)】")
-
-APPEAR_PAT = re.compile(
-    r"髪|瞳|目|顔|肌|肌色|身長|体格|体系|姿|風体|外見|容貌|風貌|服|衣装|服装|鎧|兜|盾|"
-    r"傷|痣|義手|義腕|義足|義体|翼|角\b|尾\b|爪|小柄|大柄|細身|痩身|巨躯|肥|白髪|黒髪|"
-    r"銀髪|金髪|赤毛|茶髪|青い|紅い|蒼い|白い肌|黒い肌|日焼け|眼鏡|巨乳|美少女|美青年|"
-    r"美男|美女|醜|老い|若々|幼い|子供のような|声.*?(高い|低い|掠|低)"
-)
 
 
 def clean_sentence(text: str, start: int, end: int) -> str:
@@ -49,8 +40,8 @@ def clean_sentence(text: str, start: int, end: int) -> str:
     le = le + 1 if le >= 0 else min(end + 120, len(text))
     sent = text[ls + 1:le]
     sent = re.sub(r"【p\d+】", "", sent)
-    sent = re.sub(r"^\s*\d+\s*$", "", sent, flags=re.M)
-    sent = " ".join(s.strip() for s in sent.splitlines() if s.strip())
+    sent = " ".join(s.strip() for s in sent.splitlines()
+                    if s.strip() and not s.strip().isdigit())
     return sent[:200]
 
 
@@ -59,99 +50,124 @@ def nearest_page(text: str, pos: int) -> str:
     return f"p{pages[-1]}" if pages else ""
 
 
-def build_deferrals(meta: dict) -> int:
-    out_dir = WIKI / "deferrals"
-    out_dir.mkdir(exist_ok=True)
-    by_ep: dict[str, list[str]] = defaultdict(list)
-    total = 0
+def load_facts() -> dict[str, list[dict]]:
+    out: dict[str, list[dict]] = defaultdict(list)
+    for jl in sorted(FACTS.glob("ch*.jsonl")):
+        for line in jl.read_text(encoding="utf-8").splitlines():
+            try:
+                out[jl.stem].append(json.loads(line))
+            except json.JSONDecodeError:
+                continue
+    return out
+
+
+def collect_deferrals(facts: dict) -> dict[str, list[dict]]:
+    """章ごとの deferral 記録。専用解析の無い章は raw 機械スキャンで補う（対象未解析）."""
+    by_ep: dict[str, list[dict]] = {}
     for p in sorted(RAW.glob("ch*.txt")):
+        recs = [r for r in facts.get(p.stem, []) if r["kind"] == "deferral"]
+        if recs:
+            by_ep[p.stem] = recs
+            continue
         text = p.read_text(encoding="utf-8", errors="ignore")
+        recs = []
         for m in DEFER_PAT.finditer(text):
             sent = clean_sentence(text, m.start(), m.end())
-            if not sent:
-                continue
-            pg = nearest_page(text, m.start())
-            suffix = f"（{pg}）" if pg else ""
-            by_ep[p.stem].append(f"{sent}{suffix}")
-            total += 1
+            if sent:
+                recs.append({"kind": "deferral", "episode": p.stem,
+                             "paragraph": nearest_page(text, m.start()),
+                             "quote": sent, "refers_to": "", "who": ""})
+        if recs:
+            by_ep[p.stem] = recs
+    return by_ep
+
+
+def build_deferrals(meta: dict, facts: dict) -> int:
+    out_dir = WIKI / "deferrals"
+    out_dir.mkdir(exist_ok=True)
+    by_ep = collect_deferrals(facts)
+    total = sum(len(v) for v in by_ep.values())
     lines = [fm("「今はまだ」先延ばし索引",
-               "原文本文中の「今はまだ」系表現（決断の先延ばし・留保のモティーフ）を話別に列挙した索引",
+               "原文中の「今はまだ」系表現と、それが先延ばししている具体的対象の索引",
                "deferrals/index")]
     lines.append("# 「今はまだ」先延ばし索引\n")
     lines.append(
         f"全 **{total} 箇所**（{len(by_ep)} 話）。本作の反復モティーフである「今はまだ」——"
-        "決断・開示・到達を意図的に先延ばし続ける留保の表現を、原文から章・話別に抽出した索引です。"
+        "決断・開示・到達を意図的に先延ばし続ける留保の表現です。各項目は原文引用と、"
+        "専用解析が特定した**先延ばしされている具体的対象**（何がまだなのか）を載せています。"
         "ch0158 の「『今はまだ』という留保が物語をどこまでも遅延させていく」という自己言及が"
         "このモティーフの核心を示しています。\n")
     cur_chapter = None
     for ch in sorted(by_ep):
+        recs = by_ep[ch]
         e = meta.get(ch, {})
         cno = e.get("chapter")
         if cno != cur_chapter:
             cur_chapter = cno
             ct = e.get("chapter_title", "")
             lines.append(f"\n## 第{kanji_num(int(cno))}章　{ct}\n" if cno and ct
-                         else f"\n## 章未指定\n")
+                         else "\n## 章未指定\n")
         lines.append(episode_heading(ch, meta) + "\n")
-        for s in by_ep[ch]:
-            lines.append(f"- {s}")
+        for r in recs:
+            who = f" ｜ 発言: {r['who']}" if r.get("who") else ""
+            pg = r.get("paragraph", "")
+            cite = f"（{pg}）" if pg else ""
+            target = r.get("refers_to") or "（対象未解析）"
+            lines.append(f"- {target}{who}{cite}")
+            if r.get("quote"):
+                lines.append(f"  > {r['quote'][:160]}")
         lines.append("")
     (out_dir / "index.md").write_text("\n".join(lines), encoding="utf-8")
     print(f"deferrals: {total} 箇所 / {len(by_ep)} 話")
     return total
 
 
-def build_appearances(meta: dict) -> int:
+def build_appearances(meta: dict, facts: dict) -> int:
     out_dir = WIKI / "appearances"
     out_dir.mkdir(exist_ok=True)
     char_pages = {p.stem for p in (WIKI / "entities" / "characters").glob("E_char_*.md")}
     by_char: dict[str, dict] = {}
-    for jl in sorted(WORK.glob("facts/ch*.jsonl")):
-        for line in jl.read_text(encoding="utf-8").splitlines():
-            try:
-                r = json.loads(line)
-            except json.JSONDecodeError:
+    for ch, recs in facts.items():
+        for r in recs:
+            if r["kind"] != "appearance":
                 continue
-            if r.get("entity_type") != "character":
-                continue
-            name = (r.get("subject") or "").strip()
+            name = (r.get("character") or "").strip()
             if not name:
                 continue
-            desc = " ".join(filter(None, [r.get("is_a"), r.get("observation")]))
-            if not APPEAR_PAT.search(desc):
-                continue
-            d = by_char.setdefault(name, {"eps": [], "items": [], "count": 0})
+            d = by_char.setdefault(name, {"items": [], "count": 0, "eps": set()})
             d["count"] += 1
-            ep = r.get("episode", jl.stem)
-            if ep not in d["eps"]:
-                d["eps"].append(ep)
-            key = desc[:80]
-            if len(d["items"]) < 12 and key not in {i[0] for i in d["items"]}:
-                q = (r.get("quote") or "")[:120]
-                d["items"].append((key, q, ep, r.get("paragraph", "")))
+            d["eps"].add(ch)
+            if len(d["items"]) < 15:
+                d["items"].append(r)
     ordered = sorted(by_char.items(), key=lambda kv: -kv[1]["count"])
+    total_desc = sum(d["count"] for d in by_char.values())
     lines = [fm("キャラ容姿描写索引",
                "キャラクターの容姿・外見描写を原文典拠付きでキャラ別に列挙した索引",
                "appearances/index")]
     lines.append("# キャラ容姿描写索引\n")
     lines.append(
-        f"全 **{len(ordered)} キャラ**。Work/facts 層から容姿・外見に関する記述"
-        "（髪・瞳・体格・服装・義肢・声など）を抽出し、観測数の多い順に列挙しています。"
-        "各項目は初出話の典拠付きです。個別キャラの来歴はキャラページへ。\n")
+        f"全 **{len(ordered)} キャラ・{total_desc} 記述**。専用解析が原文から抽出した"
+        "容姿・外見描写（髪・瞳・体格・服装・義肢・声など）を、観測数の多い順に列挙しています。"
+        "性格・行動描写は含みません。各項目は原文引用と出現話の典拠付きです。"
+        "個別キャラの来歴はキャラページへ。\n")
     for name, d in ordered:
-        first = min(d["eps"]) if d["eps"] else "ch????"
+        first = min(d["eps"])
         head = f"## [[{name}|{name}]]" if f"E_char_{name}" in char_pages else f"## {name}"
         lines.append(f"\n{head}\n")
-        lines.append(f"初出: [[nav/{first}|{first[2:].lstrip('0') or '0'}話]] ｜ 容姿記述 {d['count']} 件\n")
-        for key, q, ep, para in d["items"]:
-            epn = ep[2:].lstrip("0") or "0"
-            cite = f"（{para}）" if para else ""
-            lines.append(f"- {key} ｜ 典拠: [[nav/{ep}|{epn}話]]{cite}")
-            if q:
-                lines.append(f"  > {q}")
+        epn = first[2:].lstrip("0") or "0"
+        lines.append(f"初出: [[nav/{first}|{epn}話]] ｜ 容姿記述 {d['count']} 件\n")
+        for r in d["items"]:
+            feats = "・".join((r.get("features") or [])[:6])
+            pg = r.get("paragraph", "")
+            cite = f"（{pg}）" if pg else ""
+            ep = r["episode"]
+            lines.append(f"- {r.get('note', '')} ｜ {feats} ｜ 典拠: "
+                         f"[[nav/{ep}|{ep[2:].lstrip('0') or '0'}話]]{cite}")
+            if r.get("quote"):
+                lines.append(f"  > {r['quote'][:140]}")
         lines.append("")
     (out_dir / "index.md").write_text("\n".join(lines), encoding="utf-8")
-    print(f"appearances: {len(ordered)} キャラ")
+    print(f"appearances: {len(ordered)} キャラ / {total_desc} 記述")
     return len(ordered)
 
 
@@ -164,8 +180,9 @@ def main() -> int:
         cno = e.get("chapter")
         if cno is not None and cno in chapters:
             e["chapter_title"] = chapters[cno]
-    build_deferrals(meta)
-    build_appearances(meta)
+    facts = load_facts()
+    build_deferrals(meta, facts)
+    build_appearances(meta, facts)
     return 0
 
 

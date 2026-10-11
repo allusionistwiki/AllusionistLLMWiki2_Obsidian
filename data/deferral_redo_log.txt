@@ -1,0 +1,2172 @@
+=== run start 2026-10-11 09:47:55 todo=271 ===
+1/271 [ch0002]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+2/271 [ch0003]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+3/271 [ch0004]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+4/271 [ch0005]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+5/271 [ch0006]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+6/271 [ch0007]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+7/271 [ch0008]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+8/271 [ch0009]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+9/271 [ch0010]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+10/271 [ch0011]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+11/271 [ch0012]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+12/271 [ch0013]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+13/271 [ch0014]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+14/271 [ch0015]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+15/271 [ch0016]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+16/271 [ch0017]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+17/271 [ch0018]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+18/271 [ch0019]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+19/271 [ch0020]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+20/271 [ch0021]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+21/271 [ch0022]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+22/271 [ch0023]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+23/271 [ch0024]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+24/271 [ch0025]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+25/271 [ch0026]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+26/271 [ch0027]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+27/271 [ch0028]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+28/271 [ch0029]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+29/271 [ch0030]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+30/271 [ch0031]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+31/271 [ch0032]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+32/271 [ch0033]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+33/271 [ch0034]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+34/271 [ch0035]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+35/271 [ch0036]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+36/271 [ch0037]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+37/271 [ch0038]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+38/271 [ch0039]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+39/271 [ch0040]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+40/271 [ch0041]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+41/271 [ch0042]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+42/271 [ch0043]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+43/271 [ch0044]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+44/271 [ch0045]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+45/271 [ch0046]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+46/271 [ch0047]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+47/271 [ch0048]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+48/271 [ch0049]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+49/271 [ch0050]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+50/271 [ch0051]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+51/271 [ch0052]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+52/271 [ch0053]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+53/271 [ch0054]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+54/271 [ch0055]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+55/271 [ch0056]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+56/271 [ch0057]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+57/271 [ch0058]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+58/271 [ch0059]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+59/271 [ch0060]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+60/271 [ch0061]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+61/271 [ch0062]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+62/271 [ch0063]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+63/271 [ch0064]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+64/271 [ch0065]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+65/271 [ch0066]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+66/271 [ch0067]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+67/271 [ch0068]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+68/271 [ch0069]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+69/271 [ch0070]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+70/271 [ch0071]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+71/271 [ch0072]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+72/271 [ch0073]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+73/271 [ch0074]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+74/271 [ch0075]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+75/271 [ch0076]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+76/271 [ch0077]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+77/271 [ch0078]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+78/271 [ch0079]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+79/271 [ch0080]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+80/271 [ch0081]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+81/271 [ch0082]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+82/271 [ch0083]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+83/271 [ch0084]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+84/271 [ch0085]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+85/271 [ch0086]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+86/271 [ch0087]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+87/271 [ch0088]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+88/271 [ch0089]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+89/271 [ch0090]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+90/271 [ch0091]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+91/271 [ch0092]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+92/271 [ch0093]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+93/271 [ch0094]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+94/271 [ch0095]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+95/271 [ch0096]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+96/271 [ch0097]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+97/271 [ch0098]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+98/271 [ch0099]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+99/271 [ch0100]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+100/271 [ch0101]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+101/271 [ch0102]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+102/271 [ch0103]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+103/271 [ch0104]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+104/271 [ch0105]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+105/271 [ch0106]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+106/271 [ch0107]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+107/271 [ch0108]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+108/271 [ch0109]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+109/271 [ch0110]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+110/271 [ch0111]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+111/271 [ch0112]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+112/271 [ch0113]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+113/271 [ch0114]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+114/271 [ch0115]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+115/271 [ch0116]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+116/271 [ch0117]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+117/271 [ch0118]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+118/271 [ch0119]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+119/271 [ch0120]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+120/271 [ch0121]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+121/271 [ch0122]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+122/271 [ch0123]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+123/271 [ch0124]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+124/271 [ch0125]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+125/271 [ch0126]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+126/271 [ch0127]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+127/271 [ch0128]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+128/271 [ch0129]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+129/271 [ch0130]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+130/271 [ch0131]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+131/271 [ch0132]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+132/271 [ch0133]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+133/271 [ch0134]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+134/271 [ch0135]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+135/271 [ch0136]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+136/271 [ch0137]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+137/271 [ch0138]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+138/271 [ch0139]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+139/271 [ch0140]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+140/271 [ch0141]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+141/271 [ch0142]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+142/271 [ch0143]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+143/271 [ch0144]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+144/271 [ch0145]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+145/271 [ch0146]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+146/271 [ch0147]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+147/271 [ch0148]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+148/271 [ch0149]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+149/271 [ch0150]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+150/271 [ch0151]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+151/271 [ch0152]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+152/271 [ch0153]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+153/271 [ch0154]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+154/271 [ch0155]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+155/271 [ch0156]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+156/271 [ch0157]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+157/271 [ch0158]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+158/271 [ch0159]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+159/271 [ch0160]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+160/271 [ch0161]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+161/271 [ch0162]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+162/271 [ch0163]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+163/271 [ch0164]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+164/271 [ch0165]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+165/271 [ch0166]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+166/271 [ch0167]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+167/271 [ch0168]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+168/271 [ch0169]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+169/271 [ch0170]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+170/271 [ch0171]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+171/271 [ch0172]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+172/271 [ch0173]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+173/271 [ch0174]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+174/271 [ch0175]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+175/271 [ch0176]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+176/271 [ch0177]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+177/271 [ch0178]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+178/271 [ch0179]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+179/271 [ch0180]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+180/271 [ch0181]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+181/271 [ch0182]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+182/271 [ch0183]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+183/271 [ch0184]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+184/271 [ch0185]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+185/271 [ch0186]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+186/271 [ch0187]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+187/271 [ch0188]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+188/271 [ch0189]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+189/271 [ch0190]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+190/271 [ch0191]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+191/271 [ch0192]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+192/271 [ch0193]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+193/271 [ch0194]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+194/271 [ch0195]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+195/271 [ch0196]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+196/271 [ch0197]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+197/271 [ch0198]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+198/271 [ch0199]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+199/271 [ch0200]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+200/271 [ch0201]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+201/271 [ch0202]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+202/271 [ch0203]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+203/271 [ch0204]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+204/271 [ch0205]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+205/271 [ch0206]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+206/271 [ch0207]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+207/271 [ch0208]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+208/271 [ch0209]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+209/271 [ch0210]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+210/271 [ch0211]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+211/271 [ch0212]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+212/271 [ch0213]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+213/271 [ch0214]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+214/271 [ch0215]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+215/271 [ch0216]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+216/271 [ch0217]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+217/271 [ch0218]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+218/271 [ch0219]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+219/271 [ch0220]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+220/271 [ch0221]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+221/271 [ch0222]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+222/271 [ch0223]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+223/271 [ch0224]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+224/271 [ch0225]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+225/271 [ch0226]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+226/271 [ch0227]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+227/271 [ch0228]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+228/271 [ch0229]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+229/271 [ch0230]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+230/271 [ch0231]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+231/271 [ch0232]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+232/271 [ch0233]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+233/271 [ch0234]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+234/271 [ch0235]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+235/271 [ch0236]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+236/271 [ch0237]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+237/271 [ch0238]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+238/271 [ch0239]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+239/271 [ch0240]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+240/271 [ch0241]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+241/271 [ch0242]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+242/271 [ch0243]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+243/271 [ch0244]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+244/271 [ch0245]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+245/271 [ch0246]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+246/271 [ch0247]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+247/271 [ch0248]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+248/271 [ch0249]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+249/271 [ch0250]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+250/271 [ch0251]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+251/271 [ch0252]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+252/271 [ch0253]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+253/271 [ch0254]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+254/271 [ch0255]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+255/271 [ch0256]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+256/271 [ch0257]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+257/271 [ch0258]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+258/271 [ch0259]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+259/271 [ch0260]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+260/271 [ch0261]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+261/271 [ch0262]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+262/271 [ch0263]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+263/271 [ch0264]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+264/271 [ch0265]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+265/271 [ch0266]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+266/271 [ch0267]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+267/271 [ch0268]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+268/271 [ch0269]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+269/271 [ch0270]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+270/271 [ch0271]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+271/271 [ch0272]  rc=1
+  stderr: se_json_lenient, strip_code_fence  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\scripts\llm_client.py", line 18, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+=== DEFERRAL REDO DONE 2026-10-11 09:48:22 ===
+=== run start 2026-10-11 09:49:41 todo=271 ===
+1/271 [ch0002] TOTAL deferrals=0 appearances=11 rc=0
+2/271 [ch0003] TOTAL deferrals=1 appearances=24 rc=0
+3/271 [ch0004] TOTAL deferrals=0 appearances=22 rc=0
+4/271 [ch0005] TOTAL deferrals=0 appearances=26 rc=0
+5/271 [ch0006] TOTAL deferrals=0 appearances=0 rc=0
+6/271 [ch0007] TOTAL deferrals=0 appearances=19 rc=0
+7/271 [ch0008] TOTAL deferrals=0 appearances=12 rc=0
+8/271 [ch0009] TOTAL deferrals=0 appearances=23 rc=0
+9/271 [ch0010] TOTAL deferrals=0 appearances=24 rc=0
+10/271 [ch0011] TOTAL deferrals=1 appearances=31 rc=0
+11/271 [ch0012] TOTAL deferrals=0 appearances=18 rc=0
+12/271 [ch0013] TOTAL deferrals=0 appearances=18 rc=0
+13/271 [ch0014] TOTAL deferrals=0 appearances=36 rc=0
+14/271 [ch0015] TOTAL deferrals=0 appearances=47 rc=0
+15/271 [ch0016] TOTAL deferrals=0 appearances=20 rc=0
+16/271 [ch0017] TOTAL deferrals=0 appearances=8 rc=0
+17/271 [ch0018] TOTAL deferrals=0 appearances=39 rc=0
+18/271 [ch0019] TOTAL deferrals=0 appearances=33 rc=0
+19/271 [ch0020] TOTAL deferrals=0 appearances=41 rc=0
+20/271 [ch0021] TOTAL deferrals=0 appearances=17 rc=0
+21/271 [ch0022] TOTAL deferrals=0 appearances=20 rc=0
+22/271 [ch0023] TOTAL deferrals=0 appearances=16 rc=0
+23/271 [ch0024] TOTAL deferrals=1 appearances=19 rc=0
+24/271 [ch0025] TOTAL deferrals=0 appearances=8 rc=0
+25/271 [ch0026] TOTAL deferrals=1 appearances=17 rc=0
+26/271 [ch0027] TOTAL deferrals=0 appearances=17 rc=0
+27/271 [ch0028] TOTAL deferrals=0 appearances=5 rc=0
+28/271 [ch0029] TOTAL deferrals=0 appearances=30 rc=0
+29/271 [ch0030] TOTAL deferrals=0 appearances=9 rc=0
+30/271 [ch0031] TOTAL deferrals=0 appearances=15 rc=0
+31/271 [ch0032] TOTAL deferrals=0 appearances=9 rc=0
+32/271 [ch0033] TOTAL deferrals=0 appearances=18 rc=0
+33/271 [ch0034] TOTAL deferrals=1 appearances=27 rc=0
+34/271 [ch0035] TOTAL deferrals=0 appearances=52 rc=0
+35/271 [ch0036] TOTAL deferrals=0 appearances=17 rc=0
+36/271 [ch0037] TOTAL deferrals=1 appearances=37 rc=0
+37/271 [ch0038] TOTAL deferrals=0 appearances=50 rc=0
+38/271 [ch0039] TOTAL deferrals=1 appearances=17 rc=0
+39/271 [ch0040] TOTAL deferrals=0 appearances=4 rc=0
+40/271 [ch0041] TOTAL deferrals=0 appearances=14 rc=0
+41/271 [ch0042] TOTAL deferrals=0 appearances=8 rc=0
+42/271 [ch0043] TOTAL deferrals=0 appearances=21 rc=0
+43/271 [ch0044] TOTAL deferrals=0 appearances=10 rc=0
+44/271 [ch0045] TOTAL deferrals=0 appearances=8 rc=0
+45/271 [ch0046] TOTAL deferrals=0 appearances=9 rc=0
+46/271 [ch0047] TOTAL deferrals=0 appearances=31 rc=0
+47/271 [ch0048] TOTAL deferrals=0 appearances=8 rc=0
+48/271 [ch0049] TOTAL deferrals=0 appearances=21 rc=0
+49/271 [ch0050] TOTAL deferrals=0 appearances=8 rc=0
+50/271 [ch0051] TOTAL deferrals=0 appearances=13 rc=0
+51/271 [ch0052] TOTAL deferrals=0 appearances=19 rc=0
+52/271 [ch0053] TOTAL deferrals=0 appearances=8 rc=0
+53/271 [ch0054] TOTAL deferrals=0 appearances=16 rc=0
+54/271 [ch0055] TOTAL deferrals=0 appearances=18 rc=0
+55/271 [ch0056] TOTAL deferrals=0 appearances=11 rc=0
+56/271 [ch0057] TOTAL deferrals=0 appearances=37 rc=0
+57/271 [ch0058] TOTAL deferrals=0 appearances=17 rc=0
+58/271 [ch0059] TOTAL deferrals=0 appearances=32 rc=0
+59/271 [ch0060] TOTAL deferrals=0 appearances=21 rc=0
+60/271 [ch0061] TOTAL deferrals=0 appearances=9 rc=0
+61/271 [ch0062] TOTAL deferrals=0 appearances=11 rc=0
+62/271 [ch0063] TOTAL deferrals=0 appearances=35 rc=0
+63/271 [ch0064] TOTAL deferrals=1 appearances=23 rc=0
+64/271 [ch0065] TOTAL deferrals=0 appearances=35 rc=0
+65/271 [ch0066] TOTAL deferrals=0 appearances=42 rc=0
+66/271 [ch0067] TOTAL deferrals=0 appearances=25 rc=0
+67/271 [ch0068] TOTAL deferrals=0 appearances=15 rc=0
+68/271 [ch0069] TOTAL deferrals=0 appearances=15 rc=0
+69/271 [ch0070] TOTAL deferrals=1 appearances=9 rc=0
+70/271 [ch0071] TOTAL deferrals=0 appearances=26 rc=0
+71/271 [ch0072] TOTAL deferrals=0 appearances=28 rc=0
+72/271 [ch0073] TOTAL deferrals=1 appearances=24 rc=0
+73/271 [ch0074] TOTAL deferrals=2 appearances=22 rc=0
+74/271 [ch0075] TOTAL deferrals=0 appearances=3 rc=0
+75/271 [ch0076] TOTAL deferrals=0 appearances=4 rc=0
+76/271 [ch0077] TOTAL deferrals=0 appearances=38 rc=0
+77/271 [ch0078] TOTAL deferrals=0 appearances=10 rc=0
+78/271 [ch0079] TOTAL deferrals=1 appearances=22 rc=0
+79/271 [ch0080] TOTAL deferrals=0 appearances=11 rc=0
+80/271 [ch0081] TOTAL deferrals=0 appearances=32 rc=0
+81/271 [ch0082] TOTAL deferrals=0 appearances=25 rc=0
+82/271 [ch0083] TOTAL deferrals=0 appearances=30 rc=0
+83/271 [ch0084] TOTAL deferrals=0 appearances=12 rc=0
+84/271 [ch0085] TOTAL deferrals=0 appearances=15 rc=0
+85/271 [ch0086] TOTAL deferrals=0 appearances=40 rc=0
+86/271 [ch0087] TOTAL deferrals=0 appearances=12 rc=0
+87/271 [ch0088] TOTAL deferrals=0 appearances=13 rc=0
+88/271 [ch0089] TOTAL deferrals=0 appearances=73 rc=0
+89/271 [ch0090] TOTAL deferrals=0 appearances=34 rc=0
+90/271 [ch0091] TOTAL deferrals=0 appearances=26 rc=0
+91/271 [ch0092] TOTAL deferrals=0 appearances=6 rc=0
+92/271 [ch0093] TOTAL deferrals=0 appearances=24 rc=0
+93/271 [ch0094] TOTAL deferrals=0 appearances=10 rc=0
+94/271 [ch0095] TOTAL deferrals=0 appearances=8 rc=0
+95/271 [ch0096] TOTAL deferrals=0 appearances=47 rc=0
+96/271 [ch0097] TOTAL deferrals=1 appearances=30 rc=0
+97/271 [ch0098] TOTAL deferrals=0 appearances=6 rc=0
+98/271 [ch0099] TOTAL deferrals=0 appearances=17 rc=0
+99/271 [ch0100] TOTAL deferrals=1 appearances=17 rc=0
+100/271 [ch0101] TOTAL deferrals=1 appearances=4 rc=0
+101/271 [ch0102] TOTAL deferrals=0 appearances=36 rc=0
+102/271 [ch0103] TOTAL deferrals=0 appearances=4 rc=0
+103/271 [ch0104] TOTAL deferrals=0 appearances=59 rc=0
+104/271 [ch0105] TOTAL deferrals=0 appearances=12 rc=0
+105/271 [ch0106] TOTAL deferrals=0 appearances=8 rc=0
+106/271 [ch0107] TOTAL deferrals=0 appearances=45 rc=0
+107/271 [ch0108] TOTAL deferrals=0 appearances=11 rc=0
+108/271 [ch0109] TOTAL deferrals=0 appearances=25 rc=0
+109/271 [ch0110] TOTAL deferrals=1 appearances=31 rc=0
+110/271 [ch0111] TOTAL deferrals=1 appearances=45 rc=0
+111/271 [ch0112] TOTAL deferrals=0 appearances=32 rc=0
+112/271 [ch0113] TOTAL deferrals=0 appearances=16 rc=0
+113/271 [ch0114] TOTAL deferrals=1 appearances=9 rc=0
+114/271 [ch0115] TOTAL deferrals=0 appearances=69 rc=0
+115/271 [ch0116] TOTAL deferrals=0 appearances=25 rc=0
+116/271 [ch0117] TOTAL deferrals=0 appearances=17 rc=0
+117/271 [ch0118] TOTAL deferrals=0 appearances=30 rc=0
+118/271 [ch0119] TOTAL deferrals=1 appearances=33 rc=0
+119/271 [ch0120] TOTAL deferrals=0 appearances=18 rc=0
+120/271 [ch0121] TOTAL deferrals=0 appearances=8 rc=0
+121/271 [ch0122] TOTAL deferrals=1 appearances=14 rc=0
+122/271 [ch0123] TOTAL deferrals=0 appearances=9 rc=0
+123/271 [ch0124] TOTAL deferrals=0 appearances=12 rc=0
+124/271 [ch0125] TOTAL deferrals=0 appearances=14 rc=0
+125/271 [ch0126] TOTAL deferrals=0 appearances=10 rc=0
+126/271 [ch0127] TOTAL deferrals=0 appearances=31 rc=0
+127/271 [ch0128] TOTAL deferrals=0 appearances=18 rc=0
+128/271 [ch0129] TOTAL deferrals=0 appearances=7 rc=0
+129/271 [ch0130] TOTAL deferrals=0 appearances=12 rc=0
+130/271 [ch0131] TOTAL deferrals=0 appearances=33 rc=0
+131/271 [ch0132] TOTAL deferrals=1 appearances=16 rc=0
+132/271 [ch0133] TOTAL deferrals=0 appearances=22 rc=0
+133/271 [ch0134] TOTAL deferrals=0 appearances=16 rc=0
+134/271 [ch0135] TOTAL deferrals=0 appearances=9 rc=0
+135/271 [ch0136] TOTAL deferrals=0 appearances=22 rc=0
+136/271 [ch0137] TOTAL deferrals=0 appearances=5 rc=0
+137/271 [ch0138] TOTAL deferrals=0 appearances=13 rc=0
+138/271 [ch0139] TOTAL deferrals=0 appearances=18 rc=0
+139/271 [ch0140] TOTAL deferrals=0 appearances=29 rc=0
+140/271 [ch0141] TOTAL deferrals=0 appearances=19 rc=0
+141/271 [ch0142] TOTAL deferrals=0 appearances=37 rc=0
+142/271 [ch0143] TOTAL deferrals=0 appearances=16 rc=0
+143/271 [ch0144] TOTAL deferrals=0 appearances=23 rc=0
+144/271 [ch0145] TOTAL deferrals=0 appearances=56 rc=0
+145/271 [ch0146] TOTAL deferrals=0 appearances=21 rc=0
+146/271 [ch0147] TOTAL deferrals=0 appearances=38 rc=0
+147/271 [ch0148] TOTAL deferrals=0 appearances=4 rc=0
+148/271 [ch0149] TOTAL deferrals=0 appearances=41 rc=0
+149/271 [ch0150] TOTAL deferrals=0 appearances=34 rc=0
+150/271 [ch0151] TOTAL deferrals=1 appearances=19 rc=0
+151/271 [ch0152] TOTAL deferrals=0 appearances=22 rc=0
+152/271 [ch0153] TOTAL deferrals=0 appearances=57 rc=0
+153/271 [ch0154] TOTAL deferrals=0 appearances=37 rc=0
+154/271 [ch0155] TOTAL deferrals=0 appearances=18 rc=0
+155/271 [ch0156] TOTAL deferrals=0 appearances=25 rc=0
+156/271 [ch0157] TOTAL deferrals=0 appearances=22 rc=0
+157/271 [ch0158] TOTAL deferrals=2 appearances=36 rc=0
+158/271 [ch0159] TOTAL deferrals=0 appearances=37 rc=0
+159/271 [ch0160] TOTAL deferrals=1 appearances=31 rc=0
+160/271 [ch0161] TOTAL deferrals=0 appearances=7 rc=0
+161/271 [ch0162] TOTAL deferrals=0 appearances=15 rc=0
+162/271 [ch0163] TOTAL deferrals=0 appearances=16 rc=0
+163/271 [ch0164] TOTAL deferrals=0 appearances=28 rc=0
+164/271 [ch0165] TOTAL deferrals=0 appearances=14 rc=0
+165/271 [ch0166] TOTAL deferrals=0 appearances=9 rc=0
+166/271 [ch0167] TOTAL deferrals=0 appearances=19 rc=0
+167/271 [ch0168] TOTAL deferrals=0 appearances=32 rc=0
+168/271 [ch0169] TOTAL deferrals=0 appearances=26 rc=0
+169/271 [ch0170] TOTAL deferrals=0 appearances=16 rc=0
+170/271 [ch0171] TOTAL deferrals=0 appearances=12 rc=0
+171/271 [ch0172] TOTAL deferrals=1 appearances=41 rc=0
+172/271 [ch0173] TOTAL deferrals=0 appearances=19 rc=0
+173/271 [ch0174] TOTAL deferrals=0 appearances=30 rc=0
+174/271 [ch0175] TOTAL deferrals=1 appearances=31 rc=0
+175/271 [ch0176] TOTAL deferrals=0 appearances=16 rc=0
+176/271 [ch0177] TOTAL deferrals=1 appearances=37 rc=0
+177/271 [ch0178] TOTAL deferrals=0 appearances=20 rc=0
+178/271 [ch0179] TOTAL deferrals=0 appearances=26 rc=0
+179/271 [ch0180] TOTAL deferrals=0 appearances=57 rc=0
+180/271 [ch0181] TOTAL deferrals=0 appearances=33 rc=0
+181/271 [ch0182] TOTAL deferrals=0 appearances=35 rc=0
+182/271 [ch0183] TOTAL deferrals=0 appearances=32 rc=0
+183/271 [ch0184] TOTAL deferrals=1 appearances=18 rc=0
+184/271 [ch0185] TOTAL deferrals=0 appearances=10 rc=0
+185/271 [ch0186] TOTAL deferrals=0 appearances=36 rc=0
+186/271 [ch0187] TOTAL deferrals=1 appearances=21 rc=0
+187/271 [ch0188] TOTAL deferrals=2 appearances=14 rc=0
+188/271 [ch0189] TOTAL deferrals=0 appearances=20 rc=0
+189/271 [ch0190] TOTAL deferrals=0 appearances=26 rc=0
+190/271 [ch0191] TOTAL deferrals=0 appearances=27 rc=0
+191/271 [ch0192] TOTAL deferrals=0 appearances=22 rc=0
+192/271 [ch0193] TOTAL deferrals=0 appearances=41 rc=0
+193/271 [ch0194] TOTAL deferrals=2 appearances=21 rc=0
+194/271 [ch0195] TOTAL deferrals=4 appearances=52 rc=0
+195/271 [ch0196] TOTAL deferrals=1 appearances=13 rc=0
+196/271 [ch0197] TOTAL deferrals=0 appearances=10 rc=0
+197/271 [ch0198] TOTAL deferrals=0 appearances=23 rc=0
+198/271 [ch0199] TOTAL deferrals=0 appearances=33 rc=0
+199/271 [ch0200] TOTAL deferrals=1 appearances=15 rc=0
+200/271 [ch0201] TOTAL deferrals=3 appearances=6 rc=0
+201/271 [ch0202] TOTAL deferrals=0 appearances=27 rc=0
+202/271 [ch0203] TOTAL deferrals=0 appearances=9 rc=0
+203/271 [ch0204] TOTAL deferrals=0 appearances=27 rc=0
+204/271 [ch0205] TOTAL deferrals=0 appearances=25 rc=0
+205/271 [ch0206] TOTAL deferrals=1 appearances=11 rc=0
+206/271 [ch0207] TOTAL deferrals=1 appearances=18 rc=0
+207/271 [ch0208] TOTAL deferrals=1 appearances=45 rc=0
+208/271 [ch0209] TOTAL deferrals=0 appearances=35 rc=0
+209/271 [ch0210] TOTAL deferrals=0 appearances=17 rc=0
+210/271 [ch0211] TOTAL deferrals=0 appearances=28 rc=0
+211/271 [ch0212] TOTAL deferrals=1 appearances=22 rc=0
+212/271 [ch0213] TOTAL deferrals=0 appearances=11 rc=0
+213/271 [ch0214] TOTAL deferrals=0 appearances=11 rc=0
+214/271 [ch0215] TOTAL deferrals=0 appearances=7 rc=0
+215/271 [ch0216] TOTAL deferrals=0 appearances=7 rc=0
+216/271 [ch0217] TOTAL deferrals=0 appearances=22 rc=0
+217/271 [ch0218] TOTAL deferrals=0 appearances=4 rc=0
+218/271 [ch0219] TOTAL deferrals=0 appearances=5 rc=0
+219/271 [ch0220] TOTAL deferrals=0 appearances=10 rc=0
+220/271 [ch0221] TOTAL deferrals=0 appearances=6 rc=0
+221/271 [ch0222] TOTAL deferrals=0 appearances=7 rc=0
+222/271 [ch0223] TOTAL deferrals=0 appearances=6 rc=0
+223/271 [ch0224] TOTAL deferrals=0 appearances=8 rc=0
+224/271 [ch0225] TOTAL deferrals=1 appearances=4 rc=0
+225/271 [ch0226] TOTAL deferrals=0 appearances=18 rc=0
+226/271 [ch0227] TOTAL deferrals=0 appearances=20 rc=0
+227/271 [ch0228] TOTAL deferrals=0 appearances=14 rc=0
+228/271 [ch0229] TOTAL deferrals=0 appearances=31 rc=0
+229/271 [ch0230] TOTAL deferrals=0 appearances=19 rc=0
+230/271 [ch0231] TOTAL deferrals=1 appearances=16 rc=0
+231/271 [ch0232] TOTAL deferrals=0 appearances=24 rc=0
+232/271 [ch0233] TOTAL deferrals=0 appearances=19 rc=0
+233/271 [ch0234] TOTAL deferrals=0 appearances=18 rc=0
+234/271 [ch0235] TOTAL deferrals=0 appearances=20 rc=0
+235/271 [ch0236] TOTAL deferrals=0 appearances=31 rc=0
+236/271 [ch0237] TOTAL deferrals=1 appearances=22 rc=0
+237/271 [ch0238] TOTAL deferrals=0 appearances=17 rc=0
+238/271 [ch0239] TOTAL deferrals=0 appearances=40 rc=0
+239/271 [ch0240] TOTAL deferrals=0 appearances=8 rc=0
+240/271 [ch0241] TOTAL deferrals=0 appearances=11 rc=0
+241/271 [ch0242] TOTAL deferrals=0 appearances=27 rc=0
+242/271 [ch0243] TOTAL deferrals=0 appearances=12 rc=0
+243/271 [ch0244] TOTAL deferrals=0 appearances=8 rc=0
+244/271 [ch0245] TOTAL deferrals=0 appearances=25 rc=0
+245/271 [ch0246] TOTAL deferrals=0 appearances=4 rc=0
+246/271 [ch0247] TOTAL deferrals=1 appearances=6 rc=0
+247/271 [ch0248] TOTAL deferrals=0 appearances=15 rc=0
+248/271 [ch0249] TOTAL deferrals=0 appearances=12 rc=0
+249/271 [ch0250] TOTAL deferrals=0 appearances=53 rc=0
+250/271 [ch0251] TOTAL deferrals=0 appearances=2 rc=0
+251/271 [ch0252] TOTAL deferrals=0 appearances=13 rc=0
+252/271 [ch0253] TOTAL deferrals=1 appearances=9 rc=0
+253/271 [ch0254] TOTAL deferrals=0 appearances=4 rc=0
+254/271 [ch0255] TOTAL deferrals=0 appearances=8 rc=0
+255/271 [ch0256] TOTAL deferrals=0 appearances=17 rc=0
+256/271 [ch0257] TOTAL deferrals=0 appearances=17 rc=0
+257/271 [ch0258] TOTAL deferrals=0 appearances=11 rc=0
+258/271 [ch0259] TOTAL deferrals=0 appearances=11 rc=0
+259/271 [ch0260] TOTAL deferrals=0 appearances=4 rc=0
+260/271 [ch0261] TOTAL deferrals=0 appearances=5 rc=0
+261/271 [ch0262] TOTAL deferrals=0 appearances=1 rc=0
+262/271 [ch0263] TOTAL deferrals=0 appearances=2 rc=0
+263/271 [ch0264] TOTAL deferrals=0 appearances=7 rc=0
+264/271 [ch0265] TOTAL deferrals=0 appearances=3 rc=0
+265/271 [ch0266] TOTAL deferrals=0 appearances=4 rc=0
+266/271 [ch0267] TOTAL deferrals=1 appearances=2 rc=0
+267/271 [ch0268] TOTAL deferrals=0 appearances=2 rc=0
+268/271 [ch0269] TOTAL deferrals=0 appearances=2 rc=0
+269/271 [ch0270] TOTAL deferrals=0 appearances=2 rc=0
+270/271 [ch0271] TOTAL deferrals=0 appearances=5 rc=0
+271/271 [ch0272] TOTAL deferrals=0 appearances=8 rc=0
+=== DEFERRAL REDO DONE 2026-10-11 11:50:02 ===
