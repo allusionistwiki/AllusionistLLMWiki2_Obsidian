@@ -1,0 +1,33 @@
+---
+title: ユディーア（偽ユディーア/使い魔）（容姿）
+schema_version: '5.1'
+id: E_char_ユディーア（偽ユディーア_使い魔）_容姿
+type: entity
+subtype: character
+canonical_name: ユディーア（偽ユディーア/使い魔）
+first_appearance: ch0245
+spoiler_after: ch0245
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# ユディーア（偽ユディーア/使い魔）｜容姿
+
+## 要約
+
+（要約生成中）
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0245|245話]] ｜ 容姿記述 3 件
+
+- ほっそりとしたシルエットの女性 ｜ 体格・性別 ｜ 典拠: [[nav/ch0245|245話]]（p7983）
+  > ほっそりとしたシルエットの女だ。
+- 首や関節からキノコが生えた不気味な身体 ｜ 身体構造 ｜ 典拠: [[nav/ch0245|245話]]（p7983）
+  > 無数のキノコが首や関節から生えた人形とも生体ともつかない身体。
+- 天眼の民、亜竜人、蜥蜴人いずれかの気配 ｜ 種族 ｜ 典拠: [[nav/ch0245|245話]]（p7983）
+  > 気配からして天眼の民、それか亜竜人か蜥蜴人。
+<!-- AUTO:END -->

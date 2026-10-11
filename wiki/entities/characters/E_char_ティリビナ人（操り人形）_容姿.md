@@ -1,0 +1,31 @@
+---
+title: ティリビナ人（操り人形）（容姿）
+schema_version: '5.1'
+id: E_char_ティリビナ人（操り人形）_容姿
+type: entity
+subtype: character
+canonical_name: ティリビナ人（操り人形）
+first_appearance: ch0205
+spoiler_after: ch0205
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# ティリビナ人（操り人形）｜容姿
+
+## 要約
+
+（要約生成中）
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0205|205話]] ｜ 容姿記述 2 件
+
+- がっしりと太い足、眠たげな瞳 ｜ 足・瞳 ｜ 典拠: [[nav/ch0205|205話]]（p6876）
+  > 樹木がよたよたと歩いていた。がっしりと太い足が草を踏む音はたどたどしく、眠たげな瞳は茫洋としてどこを見ているのかはっきりとしない。
+- 樹皮に覆われた身体 ｜ 肌/体表 ｜ 典拠: [[nav/ch0205|205話]]（p6876）
+  > ティリビナ人の異様な状態の原因は、樹皮に覆われた身体に巻き付いた蔓と、その発生源である片手に握られた一輪の黒薔薇だった。
+<!-- AUTO:END -->

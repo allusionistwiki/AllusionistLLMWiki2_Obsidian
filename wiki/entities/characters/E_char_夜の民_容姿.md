@@ -1,0 +1,35 @@
+---
+title: 夜の民（容姿）
+schema_version: '5.1'
+id: E_char_夜の民_容姿
+type: entity
+subtype: character
+canonical_name: 夜の民
+first_appearance: ch0054
+spoiler_after: ch0054
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 夜の民｜容姿
+
+## 要約
+
+黒い肌（黒檀）。小柄な体。黒衣を纏い、フードで全身を隠している人物が多数。
+
+キャラ本ページ: [[E_char_夜の民|夜の民]]
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0054|54話]] ｜ 容姿記述 3 件
+
+- 黒い肌が特徴（黒檀と呼ばれる）。 ｜ 肌 ｜ 典拠: [[nav/ch0054|54話]]（p2106）
+  > 黒い肌の民を『黒檀』、白い肌の民を『白樺』といった具合に名付けることで
+- 黒衣を纏っている人物が多数いる ｜ 服装（黒衣） ｜ 典拠: [[nav/ch0177|177話]]（p5866）
+  > 黒衣に慣れていないのか、裾を踏んづけたり地面に引き摺ったりしてしまう人もいた
+- フードで小柄な体を隠している。 ｜ 服装・身高 ｜ 典拠: [[nav/ch0208|208話]]（p7001）
+  > フードで小柄な体躯を隠した夜の民
+<!-- AUTO:END -->

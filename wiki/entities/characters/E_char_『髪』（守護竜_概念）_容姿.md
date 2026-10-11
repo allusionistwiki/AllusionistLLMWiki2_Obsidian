@@ -1,0 +1,29 @@
+---
+title: 『髪』（守護竜/概念）（容姿）
+schema_version: '5.1'
+id: E_char_『髪』（守護竜_概念）_容姿
+type: entity
+subtype: character
+canonical_name: 『髪』（守護竜/概念）
+first_appearance: ch0219
+spoiler_after: ch0219
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 『髪』（守護竜/概念）｜容姿
+
+## 要約
+
+（要約生成中）
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0219|219話]] ｜ 容姿記述 1 件
+
+- 異形の髪 ｜ 髪 ｜ 典拠: [[nav/ch0219|219話]]（p7307）
+  > 異形の『髪』が教えてくれたこと。
+<!-- AUTO:END -->

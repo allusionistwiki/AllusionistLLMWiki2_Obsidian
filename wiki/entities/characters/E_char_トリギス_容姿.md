@@ -1,0 +1,35 @@
+---
+title: トリギス（容姿）
+schema_version: '5.1'
+id: E_char_トリギス_容姿
+type: entity
+subtype: character
+canonical_name: トリギス
+first_appearance: ch0044
+spoiler_after: ch0044
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# トリギス｜容姿
+
+## 要約
+
+標準的な呪動装甲を身に着け、腰の後ろから長い尻尾が生えている。尻尾は腰に帯のように巻き付けられている。
+
+キャラ本ページ: [[E_char_トリギス|トリギス]]
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0044|44話]] ｜ 容姿記述 3 件
+
+- 標準的な呪動装甲を身に着けている。 ｜ 服装 ｜ 典拠: [[nav/ch0044|44話]]（p1843）
+  > 標準的な呪動装甲に身を包んだ修道騎士。
+- 腰の後ろから長い尻尾が生えている。 ｜ 異形 ｜ 典拠: [[nav/ch0044|44話]]（p1843）
+  > 特徴的なのは、その腰の後ろから長い尻尾が生えていること。今
+- 尻尾を腰に帯のように巻き付けている。 ｜ 異形 ｜ 典拠: [[nav/ch0044|44話]]（p1844）
+  > は腰に帯のようにして巻き付けていた。
+<!-- AUTO:END -->

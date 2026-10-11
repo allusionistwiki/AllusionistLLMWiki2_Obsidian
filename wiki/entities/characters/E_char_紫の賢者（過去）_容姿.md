@@ -1,0 +1,33 @@
+---
+title: 紫の賢者（過去）（容姿）
+schema_version: '5.1'
+id: E_char_紫の賢者（過去）_容姿
+type: entity
+subtype: character
+canonical_name: 紫の賢者（過去）
+first_appearance: ch0153
+spoiler_after: ch0153
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 紫の賢者（過去）｜容姿
+
+## 要約
+
+牙の五指。「話により」少年から老人まで包含。十字の瞳。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0153|153話]] ｜ 容姿記述 3 件
+
+- 容姿描写なし ｜ 典拠: [[nav/ch0153|153話]]（p5176）
+  > 優しい気持ちに包まれながら、純粋にただ祈る。この煌めく黄金時代が、忌まわしい破滅に砕かれる事を。
+- 牙の五指を持つ ｜ 手 ｜ 典拠: [[nav/ch0153|153話]]（p5176）
+  > 牙の五指で腹腔を食い破り、しつこく抉った。
+- 少年から老人までを包含し、十字の瞳を持つ ｜ 瞳・年齢外見 ｜ 典拠: [[nav/ch0153|153話]]（p5178）
+  > それは少年であり、青年であり、老人でもある、十字の瞳の愚かな賢者。
+<!-- AUTO:END -->

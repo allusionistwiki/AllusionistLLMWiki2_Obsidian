@@ -1,0 +1,35 @@
+---
+title: エルネアーズ（容姿）
+schema_version: '5.1'
+id: E_char_エルネアーズ_容姿
+type: entity
+subtype: character
+canonical_name: エルネアーズ
+first_appearance: ch0169
+spoiler_after: ch0169
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# エルネアーズ｜容姿
+
+## 要約
+
+赤い髪を二つ結びにし、緑の瞳を持つ。小さくか弱い体格。鮮血を連想させる赤い針を使用する。
+
+キャラ本ページ: [[E_char_エルネアーズ|エルネアーズ]]
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0169|169話]] ｜ 容姿記述 3 件
+
+- 緑の瞳、二つ結びの赤い髪 ｜ 髪・瞳 ｜ 典拠: [[nav/ch0169|169話]]（p5639）
+  > 静かな緑の瞳に二つ結びの赤い髪、鮮血の生気と鋼鉄の無機質さを兼ね備えた人形。
+- 小さくか弱い体格 ｜ 体格 ｜ 典拠: [[nav/ch0169|169話]]（p5639）
+  > もっとも小さな、か弱い少女。
+- 「鮮血の少女」と呼ばれる、赤い針を使用 ｜ 外見・武器 ｜ 典拠: [[nav/ch0169|169話]]（p5640）
+  > 鮮血の少女は、血のような赤い針で影を一刺し。
+<!-- AUTO:END -->

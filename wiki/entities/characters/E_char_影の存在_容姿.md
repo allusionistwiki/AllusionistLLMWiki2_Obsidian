@@ -1,0 +1,29 @@
+---
+title: 影の存在（容姿）
+schema_version: '5.1'
+id: E_char_影の存在_容姿
+type: entity
+subtype: character
+canonical_name: 影の存在
+first_appearance: ch0172
+spoiler_after: ch0172
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 影の存在｜容姿
+
+## 要約
+
+黒衣を纏い、性別を断定し難い顔立ちをしている。男にも女にも見える特徴的な容貌を持つ。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0172|172話]] ｜ 容姿記述 1 件
+
+- 黒衣を着ており、男にも女にも見える。 ｜ 服装・顔立ち ｜ 典拠: [[nav/ch0172|172話]]（p5715）
+  > 黒衣の内側は判然としない。男のようであり、女のようでもあり、
+<!-- AUTO:END -->

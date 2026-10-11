@@ -1,0 +1,29 @@
+---
+title: シナモリアキラ（変身後）（容姿）
+schema_version: '5.1'
+id: E_char_シナモリアキラ（変身後）_容姿
+type: entity
+subtype: character
+canonical_name: シナモリアキラ（変身後）
+first_appearance: ch0176
+spoiler_after: ch0176
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# シナモリアキラ（変身後）｜容姿
+
+## 要約
+
+熱と柔らかさを持つ生身の人間の肌色と人間の関節。変身前は白磁の肌と球体関節。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0176|176話]] ｜ 容姿記述 1 件
+
+- 球体関節から人間の関節へ、白磁の肌から生身の人間の色へ変化した状態。 ｜ 身体構造（人間の関節）・肌（熱とやわらかさを持つ生身） ｜ 典拠: [[nav/ch0176|176話]]（5858）
+  > 球体関節は滑らかな人間の関節に、温度のない白磁の肌は熱とやわらかさを持つ生身へと置き換えられていった。
+<!-- AUTO:END -->

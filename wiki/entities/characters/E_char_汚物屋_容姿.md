@@ -1,0 +1,33 @@
+---
+title: 汚物屋（容姿）
+schema_version: '5.1'
+id: E_char_汚物屋_容姿
+type: entity
+subtype: character
+canonical_name: 汚物屋
+first_appearance: ch0208
+spoiler_after: ch0208
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 汚物屋｜容姿
+
+## 要約
+
+物理的な人体描写はなく、緑色に発光する球体として存在する。
+
+キャラ本ページ: [[E_char_汚物屋|汚物屋]]
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0208|208話]] ｜ 容姿記述 2 件
+
+- 物理的な人体描写は無く、緑色に発光する球体として現れる。 ｜ 体 ｜ 典拠: [[nav/ch0208|208話]]（p7026）
+  > その時、二人の間に緑色に発光する球体が出現した。
+- 緑色の光として存在する。 ｜ 体・色 ｜ 典拠: [[nav/ch0208|208話]]（p7026）
+  > ぼんやりと浮遊する緑色の光。それは穢れを浄化する神聖な力だ。
+<!-- AUTO:END -->

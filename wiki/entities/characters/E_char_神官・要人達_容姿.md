@@ -1,0 +1,29 @@
+---
+title: 神官・要人達（容姿）
+schema_version: '5.1'
+id: E_char_神官・要人達_容姿
+type: entity
+subtype: character
+canonical_name: 神官・要人達
+first_appearance: ch0043
+spoiler_after: ch0043
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 神官・要人達｜容姿
+
+## 要約
+
+腹部が突き出た肥満体系。顎には脂肪が蓄積している。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0043|43話]] ｜ 容姿記述 1 件
+
+- 突き出たお腹、脂肪の蓄えた顎、肥満体系。 ｜ 体格（肥満・恰幅よし）・お腹・顎（脂肪） ｜ 典拠: [[nav/ch0043|43話]]（p1819）
+  > まあるい天使ドルネスタンルフもかくやというような突きだしたお腹。たっぷりと脂肪を蓄えた顎。食卓を囲むお歴々は揃いも揃って恰幅が良く、小さな私は明らかに場違いだった。
+<!-- AUTO:END -->

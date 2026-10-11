@@ -1,0 +1,29 @@
+---
+title: カインの足下の狼（容姿）
+schema_version: '5.1'
+id: E_char_カインの足下の狼_容姿
+type: entity
+subtype: character
+canonical_name: カインの足下の狼
+first_appearance: ch0077
+spoiler_after: ch0077
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# カインの足下の狼｜容姿
+
+## 要約
+
+腐乱により内臓が露出し赤い筋肉が見える。足先は純白。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0077|77話]] ｜ 容姿記述 1 件
+
+- 腐乱による内臓露出、赤い筋肉、純白の足先 ｜ 体表・四肢 ｜ 典拠: [[nav/ch0077|77話]]（p2889）
+  > 四つ脚の狼は、胴体部分を大きく窪ませて内臓を露わにしていた。垂れ下がる臓物と突き出た骨。筋肉の繊維が赤々としている。足の先は全て純白
+<!-- AUTO:END -->

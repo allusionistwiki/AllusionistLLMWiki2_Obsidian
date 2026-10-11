@@ -1,0 +1,31 @@
+---
+title: ビテロ（容姿）
+schema_version: '5.1'
+id: E_char_ビテロ_容姿
+type: entity
+subtype: character
+canonical_name: ビテロ
+first_appearance: ch0208
+spoiler_after: ch0208
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# ビテロ｜容姿
+
+## 要約
+
+熊と犬の中間のような巨大な黒い獣。背に花を背負い、産毛に覆われた幼げな顔と尖った鼻先を持つ。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0208|208話]] ｜ 容姿記述 2 件
+
+- 花を背負った熊と犬の中間のような巨大な獣。 ｜ 尺寸 ｜ 典拠: [[nav/ch0208|208話]]（p7004）
+  > 高さは少女の背丈の倍近く、横幅も彼女が両手を広げて届かないほどだ。
+- 黒い獣で背に花を背負う。産毛に覆われた幼げな顔と尖った鼻先。 ｜ 毛・顔・鼻・体色 ｜ 典拠: [[nav/ch0208|208話]]（p7004）
+  > 花を背負った熊と犬の中間じみた黒い獣。産毛に覆われた幼げな顔立ちと尖った鼻先をプリエステラの頬に寄せ、においを嗅ぐようにくんくんと鳴いた。
+<!-- AUTO:END -->

@@ -1,0 +1,29 @@
+---
+title: 漆黒のシャクティ（容姿）
+schema_version: '5.1'
+id: E_char_漆黒のシャクティ_容姿
+type: entity
+subtype: character
+canonical_name: 漆黒のシャクティ
+first_appearance: ch0024
+spoiler_after: ch0024
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 漆黒のシャクティ｜容姿
+
+## 要約
+
+黒い肌を持ち、尼僧の格好の服装を身につけている。肌色と宗教的な装束が外見の要約である。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0024|24話]] ｜ 容姿記述 1 件
+
+- 黒い肌で尼僧の姿。 ｜ 肌・服装 ｜ 典拠: [[nav/ch0024|24話]]（p1112）
+  > 想起されたのは、黒い肌の尼僧。あらゆる異世界、あらゆる時空を想像と予測のみによって見透かすという恐るべき視野の求道者である。
+<!-- AUTO:END -->

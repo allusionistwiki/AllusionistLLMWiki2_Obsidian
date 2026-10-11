@@ -1,0 +1,29 @@
+---
+title: 吸血鬼の少女（容姿）
+schema_version: '5.1'
+id: E_char_吸血鬼の少女_容姿
+type: entity
+subtype: character
+canonical_name: 吸血鬼の少女
+first_appearance: ch0084
+spoiler_after: ch0084
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 吸血鬼の少女｜容姿
+
+## 要約
+
+吸血鬼の種族の少女。詳細な外見描写は記載されていない。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0084|84話]] ｜ 容姿記述 1 件
+
+- 吸血鬼の少女 ｜ 種族・性別 ｜ 典拠: [[nav/ch0084|84話]]（3088）
+  > あの吸血鬼の少女は最近になってようやく地下から表舞台に出てこられるようになったと聞いている。
+<!-- AUTO:END -->

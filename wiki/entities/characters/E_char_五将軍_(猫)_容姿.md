@@ -1,0 +1,31 @@
+---
+title: 五将軍 (猫)（容姿）
+schema_version: '5.1'
+id: E_char_五将軍_(猫)_容姿
+type: entity
+subtype: character
+canonical_name: 五将軍 (猫)
+first_appearance: ch0145
+spoiler_after: ch0145
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 五将軍 (猫)｜容姿
+
+## 要約
+
+黄色い毛の巨大な猫。上顎犬歯が刃のような長い牙。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0145|145話]] ｜ 容姿記述 2 件
+
+- 黄色い猫。巨大化し、上顎犬歯が刃のような牙となる。 ｜ 毛色・牙・体型 ｜ 典拠: [[nav/ch0145|145話]]（p4947）
+  > 黄色い猫が吠える。　小さく可愛らしいと思ったのは束の間で、一瞬のうちに巨大化したかと思うと上顎犬歯が鋭く伸びて刃の如き牙となった。剣歯虎の
+- 長い牙を持つ猫。 ｜ 牙 ｜ 典拠: [[nav/ch0145|145話]]（p4947）
+  > 尾を喰らう世界蛇の幻影を背負い、長い牙の猫が唸る。
+<!-- AUTO:END -->

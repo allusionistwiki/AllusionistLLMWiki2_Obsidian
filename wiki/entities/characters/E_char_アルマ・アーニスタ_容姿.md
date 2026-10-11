@@ -1,0 +1,33 @@
+---
+title: アルマ・アーニスタ（容姿）
+schema_version: '5.1'
+id: E_char_アルマ・アーニスタ_容姿
+type: entity
+subtype: character
+canonical_name: アルマ・アーニスタ
+first_appearance: ch0183
+spoiler_after: ch0183
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# アルマ・アーニスタ｜容姿
+
+## 要約
+
+黄金の兜と鎧を身につけた天使的装い。四対（計8枚）の翼を持つ。
+
+キャラ本ページ: [[E_char_アルマ・アーニスタ|アルマ・アーニスタ]]
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0183|183話]] ｜ 容姿記述 2 件
+
+- 四対八枚の翼を持つ天使的装い ｜ 黄金の鎧・燃える翼 ｜ 典拠: [[nav/ch0183|183話]]（p6061）
+  > 橙色に近い黄金の鎧を身にまとい、四対八枚の燃える翼を広げた炎の天使。
+- 兜を被る ｜ 黄金の兜 ｜ 典拠: [[nav/ch0183|183話]]（p6061）
+  > 黄金の兜の下で、アルマの表情が強ばった。
+<!-- AUTO:END -->

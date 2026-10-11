@@ -1,0 +1,33 @@
+---
+title: イツノ（アキラ）（容姿）
+schema_version: '5.1'
+id: E_char_イツノ（アキラ）_容姿
+type: entity
+subtype: character
+canonical_name: イツノ（アキラ）
+first_appearance: ch0163
+spoiler_after: ch0163
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# イツノ（アキラ）｜容姿
+
+## 要約
+
+長い黒髪を垂らし、着物スタイルで十二単のような派手な重めの衣装を着用している。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0163|163話]] ｜ 容姿記述 3 件
+
+- 長い黒髪 ｜ 髪 ｜ 典拠: [[nav/ch0163|163話]]（p5512）
+  > 手入れの面倒な長い黒髪をトリシューラに任せて身支度を行う。
+- 着物スタイル ｜ 服装 ｜ 典拠: [[nav/ch0163|163話]]（p5519）
+  > ステージを往く俺はいつも通りの着物スタイル。
+- 十二単のような派手なテイストを取り入れた重めの衣装 ｜ 服装 ｜ 典拠: [[nav/ch0163|163話]]（p5519）
+  > 十二単のような派手なテイストも取り入れた重めの衣装
+<!-- AUTO:END -->

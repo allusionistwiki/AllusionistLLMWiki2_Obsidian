@@ -1,0 +1,29 @@
+---
+title: コルセスカ（氷像）（容姿）
+schema_version: '5.1'
+id: E_char_コルセスカ（氷像）_容姿
+type: entity
+subtype: character
+canonical_name: コルセスカ（氷像）
+first_appearance: ch0118
+spoiler_after: ch0118
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# コルセスカ（氷像）｜容姿
+
+## 要約
+
+アキラと体格が一致している。氷像であるため顔の詳細は不明。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0118|118話]] ｜ 容姿記述 1 件
+
+- アキラと体格は一致するが顔は似ていない氷像。 ｜ 体格・顔（氷像ゆえ不明） ｜ 典拠: [[nav/ch0118|118話]]（p4143）
+  > 体格だけが一致しているが、顔かたちは似ても似つかない。氷像ゆえに細かい容貌は判然としないが、表情に浮かぶ気質からして完全に別人だ。
+<!-- AUTO:END -->

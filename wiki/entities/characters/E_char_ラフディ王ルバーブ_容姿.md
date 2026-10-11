@@ -1,0 +1,33 @@
+---
+title: ラフディ王ルバーブ（容姿）
+schema_version: '5.1'
+id: E_char_ラフディ王ルバーブ_容姿
+type: entity
+subtype: character
+canonical_name: ラフディ王ルバーブ
+first_appearance: ch0214
+spoiler_after: ch0214
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# ラフディ王ルバーブ｜容姿
+
+## 要約
+
+男性、まん丸い巨体。大地の民を思わせるシルエット。
+
+キャラ本ページ: [[E_char_ラフディ王ルバーブ|ラフディ王ルバーブ]]
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0214|214話]] ｜ 容姿記述 2 件
+
+- まん丸い巨体を持つ男性。 ｜ 体格(まん丸い巨体)・男 ｜ 典拠: [[nav/ch0214|214話]]（p7214）
+  > 地面に轍を作りながら挑戦者たちを薙ぎ倒していくまん丸い巨体の男
+- 大地の民を思わせるシルエット。 ｜ シルエット ｜ 典拠: [[nav/ch0214|214話]]（p7214）
+  > 大地の民らしきシルエット
+<!-- AUTO:END -->

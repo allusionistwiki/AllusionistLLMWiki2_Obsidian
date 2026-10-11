@@ -1,0 +1,29 @@
+---
+title: 仮面の下（鵺の姿/幻視・パピヨン氏族）（容姿）
+schema_version: '5.1'
+id: E_char_仮面の下（鵺の姿_幻視・パピヨン氏族）_容姿
+type: entity
+subtype: character
+canonical_name: 仮面の下（鵺の姿/幻視・パピヨン氏族）
+first_appearance: ch0152
+spoiler_after: ch0152
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 仮面の下（鵺の姿/幻視・パピヨン氏族）｜容姿
+
+## 要約
+
+蝶の翅のような特徴的な耳を持ち、強く美しい容姿。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0152|152話]] ｜ 容姿記述 1 件
+
+- 特徴的な耳（蝶の翅のような耳）を持ち、強く美しい容姿 ｜ 耳・顔立ち ｜ 典拠: [[nav/ch0152|152話]]（p5160）
+  > 特徴的な耳のパピヨン氏族。気位の高い、強く美しい女性だった。
+<!-- AUTO:END -->

@@ -1,0 +1,29 @@
+---
+title: 言理の妖精（異形）（容姿）
+schema_version: '5.1'
+id: E_char_言理の妖精（異形）_容姿
+type: entity
+subtype: character
+canonical_name: 言理の妖精（異形）
+first_appearance: ch0065
+spoiler_after: ch0065
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 言理の妖精（異形）｜容姿
+
+## 要約
+
+蝙蝠のような羽と蜥蜴のような尻尾を持つ怪物。長く歪んだ顔には鋭い牙と凶暴な顎が備わっている。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0065|65話]] ｜ 容姿記述 1 件
+
+- 蝙蝠のような羽、蜥蜴のような尻尾、長く歪んだ顔を持つ異形の怪物。 ｜ 長い首・鋭い牙・歪んだ顔・凶暴な顎・蝙蝠の羽・蜥蜴の尻尾 ｜ 典拠: [[nav/ch0065|65話]]（p2434）
+  > 長い首、鋭い牙、くしゃくしゃに歪んだ顔に凶暴な顎、蝙蝠めいた羽に蜥蜴の尻尾、かぎ爪の付いた短い足。
+<!-- AUTO:END -->

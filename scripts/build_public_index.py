@@ -159,7 +159,9 @@ def main() -> None:
     myst_by_ep: dict[str, list[dict]] = defaultdict(list)
     for m in mysteries:
         myst_by_ep[m["ch"]].append(m)
-    eps = sorted((set(claims_by_ep) | set(myst_by_ep)) - {"ch????"})
+    # nav は全話（meta の 272 話）分生成する。claims/mysteries のない話もハブとして持つ
+    meta = load_episode_meta()
+    eps = sorted((set(claims_by_ep) | set(myst_by_ep) | set(meta)) - {"ch????"})
     unassigned = "ch????" in claims_by_ep or "ch????" in myst_by_ep
 
     # 用語改定前の生成物（chapters/）を掃除

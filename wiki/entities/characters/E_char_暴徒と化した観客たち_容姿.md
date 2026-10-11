@@ -1,0 +1,29 @@
+---
+title: 暴徒と化した観客たち（容姿）
+schema_version: '5.1'
+id: E_char_暴徒と化した観客たち_容姿
+type: entity
+subtype: character
+canonical_name: 暴徒と化した観客たち
+first_appearance: ch0140
+spoiler_after: ch0140
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 暴徒と化した観客たち｜容姿
+
+## 要約
+
+目が血走り、喉を枯らしている。
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0140|140話]] ｜ 容姿記述 1 件
+
+- 目が血走り、喉を枯らして罵声を吐き出している。 ｜ 目・喉・声 ｜ 典拠: [[nav/ch0140|140話]]（p4751）
+  > 暴徒と化した観客たちは目を血走らせ、喉も涸れよとばかりに罵声を吐き出している。
+<!-- AUTO:END -->

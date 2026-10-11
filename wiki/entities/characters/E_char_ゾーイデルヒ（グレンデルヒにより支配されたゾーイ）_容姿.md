@@ -1,0 +1,29 @@
+---
+title: ゾーイデルヒ（グレンデルヒにより支配されたゾーイ）（容姿）
+schema_version: '5.1'
+id: E_char_ゾーイデルヒ（グレンデルヒにより支配されたゾーイ）_容姿
+type: entity
+subtype: character
+canonical_name: ゾーイデルヒ（グレンデルヒにより支配されたゾーイ）
+first_appearance: ch0119
+spoiler_after: ch0119
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# ゾーイデルヒ（グレンデルヒにより支配されたゾーイ）｜容姿
+
+## 要約
+
+（要約生成中）
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0119|119話]] ｜ 容姿記述 1 件
+
+- 蓬髪の壮年男性の顔（グレンデルヒの顔）が上書きされている ｜ 髪・顔・年齢 ｜ 典拠: [[nav/ch0119|119話]]（p4183）
+  > その顔を雑に上書きするように蓬髪の壮年男性の顔が貼り付けられる。
+<!-- AUTO:END -->
