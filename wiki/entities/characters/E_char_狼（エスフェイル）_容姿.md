@@ -1,0 +1,31 @@
+---
+title: 狼（エスフェイル）（容姿）
+schema_version: '5.1'
+id: E_char_狼（エスフェイル）_容姿
+type: entity
+subtype: character
+canonical_name: 狼（エスフェイル）
+first_appearance: ch0001
+spoiler_after: ch0001
+document_status: active
+review_status: llm_verified
+created: '2026-10-11'
+updated: '2026-10-11'
+description: キャラ容姿描写ページ
+---
+
+# 狼（エスフェイル）｜容姿
+
+## 要約
+
+（要約生成中）
+
+<!-- AUTO:BEGIN -->
+
+初出: [[nav/ch0001|1話]] ｜ 容姿記述 2 件
+
+- 茶色の毛皮で、人間より低い体高。ぴんと立った耳を持つ中型の狼。 ｜ 毛皮・体格・外見 ｜ 典拠: [[nav/ch0001|1話]]（p72）
+  > そして、その三人と相対する狼。茶色の毛皮、人間より低い体高、ぴんと立った耳。
+- 四本の脚が闇のように濃い黒色をしている。 ｜ 脚・色 ｜ 典拠: [[nav/ch0001|1話]]（p72）
+  > 異様だったのは、その四本の脚が、闇のように濃い黒色だったこと。
+<!-- AUTO:END -->

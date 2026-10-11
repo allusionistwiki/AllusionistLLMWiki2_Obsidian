@@ -5,8 +5,8 @@ id: E_char_俺（アキラ）_容姿
 type: entity
 subtype: character
 canonical_name: 俺（アキラ）
-first_appearance: ch0104
-spoiler_after: ch0104
+first_appearance: ch0001
+spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
 created: '2026-10-11'
@@ -22,8 +22,12 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0104|104話]] ｜ 容姿記述 3 件
+初出: [[nav/ch0001|1話]] ｜ 容姿記述 5 件
 
+- 身長は170cmほど。 ｜ 身長 ｜ 典拠: [[nav/ch0001|1話]]（p21）
+  > 身長１７０センチメートルほどの俺が手を伸ばせば届きそうなほど低いものだったが
+- 右腕は最先端の技術で作られたサイバネ義肢で、表皮は特注のチタン合金製。 ｜ 義肢 ｜ 典拠: [[nav/ch0001|1話]]（p4）
+  > 俺の右腕の肘から先は、現在の地球における最先端の電子制御技術によって作られたサイバネ義肢だ。表皮は特注のチタン合金製。
 - 左半身の肌で他者の力を感じ取る描写あり ｜ 肌（左半身） ｜ 典拠: [[nav/ch0104|104話]]（3708）
   > その圧倒的な力が左半身の肌で感じられるのだ。
 - 実体のないデフォルメされた姿 ｜ 姿・デフォルメ・実体 ｜ 典拠: [[nav/ch0104|104話]]（3730）

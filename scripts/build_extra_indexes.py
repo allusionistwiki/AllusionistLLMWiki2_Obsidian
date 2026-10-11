@@ -64,21 +64,12 @@ def load_facts() -> dict[str, list[dict]]:
 
 
 def collect_deferrals(facts: dict) -> dict[str, list[dict]]:
-    """章ごとの deferral 記録。専用解析の無い章は raw 機械スキャンで補う（対象未解析）."""
+    """章ごとの deferral 記録。専用解析（extract_deferrals.py）が全 272 話をカバー済みのため
+    raw 機械スキャンのフォールバックは使わない（refers_to 無し項目が混ざって水増しされるため）。"""
     by_ep: dict[str, list[dict]] = {}
     for p in sorted(RAW.glob("ch*.txt")):
-        recs = [r for r in facts.get(p.stem, []) if r["kind"] == "deferral"]
-        if recs:
-            by_ep[p.stem] = recs
-            continue
-        text = p.read_text(encoding="utf-8", errors="ignore")
-        recs = []
-        for m in DEFER_PAT.finditer(text):
-            sent = clean_sentence(text, m.start(), m.end())
-            if sent:
-                recs.append({"kind": "deferral", "episode": p.stem,
-                             "paragraph": nearest_page(text, m.start()),
-                             "quote": sent, "refers_to": "", "who": ""})
+        recs = [r for r in facts.get(p.stem, [])
+                if r["kind"] == "deferral" and (r.get("refers_to") or "").strip()]
         if recs:
             by_ep[p.stem] = recs
     return by_ep
