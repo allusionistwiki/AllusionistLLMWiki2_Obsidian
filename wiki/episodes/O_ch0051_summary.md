@@ -16,7 +16,6 @@ characters:
 terminology:
 - '[[E_term_世界の修正力]]'
 - '[[E_term_未来の私]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0051
 

@@ -33,7 +33,6 @@ items:
 - '[[E_item_グレイシス]]'
 motifs:
 - '[[E_motif_言震]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0099
 

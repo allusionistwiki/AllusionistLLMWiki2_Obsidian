@@ -22,7 +22,6 @@ terminology:
 items:
 - '[[E_item_幻像]]'
 - '[[E_item_人面疽]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0077
 

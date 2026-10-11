@@ -28,7 +28,6 @@ terminology:
 - '[[E_term_ネット]]'
 items:
 - '[[E_item_使い魔]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0068
 

@@ -39,7 +39,6 @@ organizations:
 items:
 - '[[E_item_リーナ]]'
 - '[[E_item_死人の森の断章]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0061
 

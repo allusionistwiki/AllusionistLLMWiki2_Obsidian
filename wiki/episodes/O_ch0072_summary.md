@@ -41,7 +41,6 @@ organizations:
 items:
 - '[[E_item_ナト]]'
 - '[[E_item_神働装甲]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0072
 

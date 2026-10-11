@@ -30,7 +30,6 @@ characters:
 - '[[E_char_黒衣の女性]]'
 terminology:
 - '[[E_term_ハルベルト]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0059
 

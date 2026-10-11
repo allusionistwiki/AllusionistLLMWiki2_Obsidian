@@ -26,7 +26,6 @@ organizations:
 - '[[E_org_ジャッフハリム]]'
 items:
 - '[[E_item_アキラ]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0095
 

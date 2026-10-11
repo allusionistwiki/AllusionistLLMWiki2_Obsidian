@@ -29,7 +29,6 @@ items:
 - '[[E_item_思考台本]]'
 motifs:
 - '[[E_motif_俺]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0094
 

@@ -29,7 +29,6 @@ terminology:
 - '[[E_term_霊媒]]'
 items:
 - '[[E_item_陶磁器容器]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0057
 

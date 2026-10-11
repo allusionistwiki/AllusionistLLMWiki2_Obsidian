@@ -38,7 +38,6 @@ organizations:
 items:
 - '[[E_item_会場]]'
 - '[[E_item_立体映像の掛け軸]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0089
 

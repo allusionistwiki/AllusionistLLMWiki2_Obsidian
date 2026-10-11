@@ -23,7 +23,6 @@ terminology:
 organizations:
 - '[[E_org_リールエルバ]]'
 - '[[E_org_変異の三手]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0083
 

@@ -25,7 +25,6 @@ terminology:
 - '[[E_term_外世界人]]'
 items:
 - '[[E_item_ゼド]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0091
 

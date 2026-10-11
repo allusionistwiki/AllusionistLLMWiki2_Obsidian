@@ -15,18 +15,6 @@ arcs:
       女神候補者たちが選定され、最初の試練に挑む物語。
       各候補者の能力と背景が提示される。
 
-  - id: ARC_02
-    name: 第一の試練編
-    slug: 第一の試練編
-    chapters:
-      start: ch0051
-      end: ch0100
-    theme: 試練と成長
-    macro_analogy: ""
-    description: |
-      第一の試練に挑む候補者たちの物語。
-      協力と対立が交錯する。
-
   - id: ARC_03
     name: 合わせ鏡編
     slug: 合わせ鏡編

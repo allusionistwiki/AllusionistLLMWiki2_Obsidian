@@ -21,7 +21,6 @@ terminology:
 - '[[E_term_空間]]'
 items:
 - '[[E_item_蓄光呪符]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0093
 

@@ -25,7 +25,6 @@ organizations:
 items:
 - '[[E_item_アキラ]]'
 - '[[E_item_花街]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0084
 

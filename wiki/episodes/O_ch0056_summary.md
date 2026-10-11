@@ -22,7 +22,6 @@ terminology:
 organizations:
 - '[[E_org_神々の図書館]]'
 - '[[E_org_ドラトリア]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0056
 

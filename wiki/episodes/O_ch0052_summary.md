@@ -22,7 +22,6 @@ organizations:
 - '[[E_org_骨組みの花]]'
 items:
 - '[[E_item_ミルーニャ]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0052
 

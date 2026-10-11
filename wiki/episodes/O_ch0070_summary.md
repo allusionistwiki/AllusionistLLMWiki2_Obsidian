@@ -39,7 +39,6 @@ organizations:
 - '[[E_org_紀元神群]]'
 items:
 - '[[E_item_カラス型箒]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0070
 

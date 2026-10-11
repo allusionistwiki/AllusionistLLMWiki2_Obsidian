@@ -41,7 +41,6 @@ items:
 - '[[E_item_神働装甲]]'
 - '[[E_item_金鎖]]'
 relationships:
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0063
 

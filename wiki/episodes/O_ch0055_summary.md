@@ -30,7 +30,6 @@ organizations:
 items:
 - '[[E_item_クリア先生]]'
 - '[[E_item_お菓子の小屋]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0055
 

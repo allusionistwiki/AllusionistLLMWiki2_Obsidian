@@ -20,7 +20,6 @@ organizations:
 - '[[E_org_トライデント]]'
 motifs:
 - '[[E_motif_言理の妖精]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0076
 

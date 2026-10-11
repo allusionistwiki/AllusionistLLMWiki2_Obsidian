@@ -41,7 +41,6 @@ organizations:
 items:
 - '[[E_item_ディルガッハ]]'
 relationships:
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0067
 

@@ -37,7 +37,6 @@ terminology:
 - '[[E_term_サイバーカラテ使い]]'
 items:
 - '[[E_item_振り子]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0073
 

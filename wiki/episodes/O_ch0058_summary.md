@@ -21,7 +21,6 @@ terminology:
 - '[[E_term_空]]'
 organizations:
 - '[[E_org_クロウサー家]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0058
 

@@ -32,7 +32,6 @@ items:
 - '[[E_item_使い魔]]'
 - '[[E_item_神託機械]]'
 relationships:
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0053
 

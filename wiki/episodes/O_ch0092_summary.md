@@ -14,7 +14,6 @@ characters:
 - '[[E_char_大人たち]]'
 terminology:
 - '[[E_term_森]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0092
 

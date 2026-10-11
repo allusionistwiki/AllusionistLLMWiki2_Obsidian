@@ -23,7 +23,6 @@ terminology:
 - '[[E_term_四方の王]]'
 items:
 - '[[E_item_霊王]]'
-arc: '[[ARC_02_第一の試練編]]'
 ---
 # ch0098
 
