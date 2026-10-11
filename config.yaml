@@ -6,8 +6,8 @@ project:
 llm:
   base_url: "http://127.0.0.1:8080/v1"   # Strata（旧 MiaAI-Lab: http://127.0.0.1:8888/v1）
   api_key: "local"                        # 任意（空でも可）
-  model: "swift-1.5-iq3_xxs"             # Swift ESP 無検閲版（refusal projection 起動、run-swift-iq3_xxs-ESP.bat）
-  temperature: 0.1
+  model: "swift-1.5-iq3_xxs"             # Swift 検閲版（通常サーバー run-swift-iq3_xxs.bat）
+  temperature: 1.0                       # Qwen 公式推奨値
   max_tokens: 64000                         # 262k コンテキスト対応（32Kでも不足との判断、倍化）
   timeout: 900                            # 16Kトークン生成（~57tok/s ≈ 280s）+ 大きなprompt読込に対応
   stream: false                           # A: ストリーミング応答（体感短縮）
