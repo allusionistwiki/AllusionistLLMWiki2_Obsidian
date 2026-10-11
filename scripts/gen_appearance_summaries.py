@@ -88,6 +88,24 @@ def main() -> int:
         cache.update(got)
         CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"batch {i//BATCH+1}: {len(got)}/{len(batch)}（累計 {len(cache)}）")
+    # LLM が JSON 崩壊で繰り返し失敗するキャラは、抽出済み note/features の機械連結で埋める
+    # （LLM 要約ではなく原文事実の機械要約。review_status は llm_verified の記述自体が原文照合済み）
+    mech = 0
+    for n in [x for x in by_char if x not in cache]:
+        parts = []
+        for r in by_char[n][:5]:
+            feats = "・".join((r.get("features") or [])[:4])
+            t = (r.get("note") or "").strip()
+            if feats:
+                t = f"{t}（{feats}）" if t else feats
+            if t:
+                parts.append(t)
+        if parts:
+            cache[n] = " ／ ".join(parts[:5])
+            mech += 1
+    if mech:
+        CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"機械要約で補充: {mech}")
     print(f"APPEARANCE SUMMARIES DONE: {len(cache)}/{len(by_char)}")
     return 0
 
