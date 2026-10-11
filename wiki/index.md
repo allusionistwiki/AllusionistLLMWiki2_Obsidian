@@ -17,6 +17,8 @@ description: 本作の多層アナロジー（引喩・神話参照・展開の�
 - [[claims/index|アナロジークレーム全集]] — 引喩の主張すべて
 - [[mysteries/index|伏線台帳]] — 仕掛けられた謎の追跡
 - [[references/index|外部参照]] — 引喩先の現代文化・思想の解説
+- [[deferrals/index|「今はまだ」先延ばし索引]] — 原文中の先延ばしモティーフ全箇所
+- [[appearances/index|キャラ容姿描写索引]] — 容姿・外見描写のキャラ別索引
 
 ## 統計
 
