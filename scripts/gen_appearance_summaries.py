@@ -14,7 +14,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 WORK = ROOT.parent / "AllusionistLLMWiki2_Work"
-FACTS = WORK / "deferral_facts"
+FACTS = WORK / "appearance_facts"  # 専用解析B の出力
 CACHE = ROOT / "data" / "appearance_summaries.json"
 CFG = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))["llm"]
 

@@ -18,7 +18,8 @@ ROOT = Path(__file__).resolve().parent.parent
 WIKI = ROOT / "wiki"
 RAW = ROOT / "raw"
 WORK = ROOT.parent / "AllusionistLLMWiki2_Work"
-FACTS = WORK / "deferral_facts"
+FACTS = WORK / "deferral_facts"      # kind=deferral（専用解析A extract_deferrals.py）
+APPEAR_FACTS = WORK / "appearance_facts"  # kind=appearance（専用解析B extract_appearances.py）
 
 sys.path.insert(0, str(ROOT / "scripts"))
 from build_public_index import (  # noqa: E402
@@ -52,12 +53,13 @@ def nearest_page(text: str, pos: int) -> str:
 
 def load_facts() -> dict[str, list[dict]]:
     out: dict[str, list[dict]] = defaultdict(list)
-    for jl in sorted(FACTS.glob("ch*.jsonl")):
-        for line in jl.read_text(encoding="utf-8").splitlines():
-            try:
-                out[jl.stem].append(json.loads(line))
-            except json.JSONDecodeError:
-                continue
+    for d in (FACTS, APPEAR_FACTS):
+        for jl in sorted(d.glob("ch*.jsonl")):
+            for line in jl.read_text(encoding="utf-8").splitlines():
+                try:
+                    out[jl.stem].append(json.loads(line))
+                except json.JSONDecodeError:
+                    continue
     return out
 
 
@@ -109,6 +111,8 @@ def build_deferrals(meta: dict, facts: dict) -> int:
                          else "\n## 章未指定\n")
         lines.append(episode_heading(ch, meta) + "\n")
         for r in recs:
+            if not (r.get("refers_to") or "").strip():
+                continue  # LLM が「先延ばしの示唆なし」と判定した箇所は索引から除外
             who = f" ｜ 発言: {r['who']}" if r.get("who") else ""
             pg = r.get("paragraph", "")
             cite = f"（{pg}）" if pg else ""

@@ -26,7 +26,16 @@ from llm_client import call_llm, parse_json_lenient, strip_code_fence  # noqa: E
 RAW = ROOT / "raw"
 OUT_DIR = ROOT.parent / "AllusionistLLMWiki2_Work" / "deferral_facts"
 
-DEFER_PAT = re.compile(r"今はまだ|今のところまだ|現時点ではまだ|まだ存在しな|まだない|まだ無い")
+# 拡張: カンマ/改行またぎ「今は、まだ」＋同型の先延ばし示唆（いずれ/そのうち/時期が来たら/準備ができたら/追って/未定 等）
+DEFER_PAT = re.compile(
+    r"今は[、,・\s]*まだ|今のところまだ|現時点ではまだ|まだ存在しな|まだない|まだ無い"
+    r"|今(では|じゃ)ない|今は(やめ|控|自重|我慢|堪)"
+    r"|まだ先|時期が来|そのうち|いずれ"
+    r"|準備ができ(たら|い|次第)|決まり次第|追って"
+    r"|後(で|日)に?(教|伝え|回|連|報告|知ら)"
+    r"|未定|決めていない|決められていない"
+    r"|まだだった|まだまだ|わからないままだ|知らないままだ|知らぬままだ"
+    r"|見えないままだ|届かぬままだ|及ばぬままだ")
 PAGE_MARK = re.compile(r"【p(\d+)】")
 APPEAR_HINT = re.compile(
     r"髪|瞳|目|顔|肌|身長|体格|姿|風体|外見|容貌|風貌|服|衣装|鎧|兜|傷|義手|義腕|義足|義体|"
@@ -34,7 +43,9 @@ APPEAR_HINT = re.compile(
 
 SYSTEM = (
     "あなたは日本の長編小説の分析者です。二つの専用タスクを JSON で出力します。\n"
-    "タスクA【今はまだ】: 原文中の「今はまだ」系表現の箇所ごとに、"
+    "タスクA【今はまだ】: 原文中の「今はまだ」「今は、まだ」および同型の先延ばし示唆"
+    "（「いずれ」「そのうち」「時期が来たら」「準備ができたら」「追って」「未定」「今ではない」"
+    "「今はやめておく」等）の箇所ごとに、"
     "『何が先延ばし・留保・未達とされているのか』を特定する。抽象的な「先延ばし」ではなく、"
     "文脈から具体的な対象（例:「アキラへの攻撃の開始」「真実の開示」「第五階層への到達」）を記述する。"
     "発言者がいれば記す。\n"
@@ -80,21 +91,36 @@ def norm(s: str) -> str:
     return re.sub(r"[\s\u3000]+", "", s)
 
 
-def process_chapter(ch: str, config: dict, client) -> dict:
+def process_chapter(ch: str, config: dict, client, deferral_only: bool = False) -> dict:
     text = (RAW / f"{ch}.txt").read_text(encoding="utf-8", errors="ignore")
     defers, appears = scan_hits(text)
     if not defers and not appears:
         return {"chapter": ch, "deferrals": 0, "appearances": 0, "skipped": True}
     raw_norm = norm(text)
     records: list[dict] = []
+    kept_appearances: list[dict] = []
+    if deferral_only:
+        # 既存 jsonl の appearance 記録は保持し、deferral のみ再生成して差し替える
+        jp = OUT_DIR / f"{ch}.jsonl"
+        if jp.exists():
+            for line in jp.read_text(encoding="utf-8").splitlines():
+                try:
+                    r = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                if r.get("kind") == "appearance":
+                    kept_appearances.append(r)
+        records.extend(kept_appearances)
 
     # タスクA: 「今はまだ」箇所（ヒット箇所＋前後文脈を渡す）
     if defers:
         ctx = "\n".join(f"[{i}] (p{p}) {s}" for i, (p, s) in enumerate(defers))
         ask = (f"以下は {ch} の原文全文です。\n\n{text}\n\n"
-               f"上記原文中の「今はまだ」系表現のヒット箇所を以下に列挙します（番号付き）:\n{ctx}\n\n"
+               f"上記原文中の「今はまだ」系表現・先延ばし示唆（いずれ/そのうち/時期が来たら/"
+               f"準備ができたら/追って/未定/今ではない 等を含む）のヒット箇所を以下に列挙します（番号付き）:\n{ctx}\n\n"
                "タスクAのみ出力してください: 各番号の箇所について、原文の文脈を読んで "
                "refers_to（先延ばしされている具体的対象）と who を特定し、quote には該当原文をそのまま。"
+               "文脈上、単なる比喩や無関係な「まだ」で先延ばしの示唆が無い箇所は refers_to を空文字にすること。"
                'JSON: {"deferrals":[{"index":0,"paragraph":"pNNN","quote":"...","refers_to":"...","who":"..."}]}')
         recs = _ask(ask, config, client, raw_norm)
         for r in recs:
@@ -156,10 +182,12 @@ def main() -> int:
     llm = config["llm"]
     client = OpenAI(base_url=llm["base_url"], api_key=llm.get("api_key", "local"))
     chapters = sorted(p.stem for p in RAW.glob("ch*.txt"))
-    todo = sys.argv[1:] if len(sys.argv) > 1 else chapters
+    args = sys.argv[1:]
+    deferral_only = "--deferral-only" in args
+    todo = [a for a in args if not a.startswith("--")] or chapters
     tot_d = tot_a = 0
     for ch in todo:
-        r = process_chapter(ch, config, client)
+        r = process_chapter(ch, config, client, deferral_only=deferral_only)
         tot_d += r.get("deferrals", 0)
         tot_a += r.get("appearances", 0)
         print(f"[{ch}] deferrals={r.get('deferrals', 0)} appearances={r.get('appearances', 0)}")
