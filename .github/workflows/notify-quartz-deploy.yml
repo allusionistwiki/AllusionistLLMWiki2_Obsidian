@@ -15,7 +15,7 @@ jobs:
           code=$(curl -sS -o /tmp/resp.json -w "%{http_code}" -X POST \
             -H "Authorization: Bearer ${{ secrets.QUARTZ_DISPATCH_TOKEN }}" \
             -H "Accept: application/vnd.github+json" \
-            https://api.github.com/repos/allusionistwiki/AllusionistWiki/dispatches \
+            https://api.github.com/repos/allusionistwiki/AllusionistWiki2/dispatches \
             -d '{"event_type":"vault-updated","client_payload":{"source":"AllusionistLLMWiki2_Obsidian"}}')
           echo "HTTP $code"; cat /tmp/resp.json
           test "$code" = "204"
