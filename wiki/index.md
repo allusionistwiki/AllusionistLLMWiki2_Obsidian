@@ -11,6 +11,7 @@ description: 本作の多層アナロジー（引喩・神話参照・展開の�
 ## 入り口
 
 - **[ポータル（全 Wiki 統合索引）](https://allusionistwiki.github.io/)** — 本組織の全 Wiki（本家 Wiki / L1 解析層 / ゆらぎの神話 Wiki）横断の入口
+- **[L1 下位層索引](https://allusionistwiki.github.io/AllusionistWiki2/l1/)** — 本 Wiki（表示＝最新層）と同じ構造の下位層。来歴・審査データの起点
 - [話ナビゲーション](nav/index.md) — 話ごとのアナロジー・伏線一覧（第1話〜）
 - [登場人物一覧](characters/index.md) — キャラクター入口（主要キャラから各ページへ）
 - [関係性マップ](relationships/index.md) — キャラ間の関係グラフ

@@ -1,14 +1,14 @@
 ---
 title: エンティティ（登場人物・用語・組織）
 id: entities/index
-description: 作中エンティティの総覧。キャラクター入口は [こちら](https://allusionistwiki.github.io/AllusionistWiki/l1/characters/index.html)
+description: 作中エンティティの総覧。キャラクター入口は [こちら](https://allusionistwiki.github.io/AllusionistWiki2/l1/characters/index.html)
 ---
 
 # エンティティ
 
 イベント観測から自動集約した作中エンティティの総覧です。各ページに初出・観測数・代表引用・関連クレームが集まります。
 
-キャラクター入口: [登場人物一覧](https://allusionistwiki.github.io/AllusionistWiki/l1/characters/index.html)（トップページからも直接）
+キャラクター入口: [登場人物一覧](https://allusionistwiki.github.io/AllusionistWiki2/l1/characters/index.html)（トップページからも直接）
 
 ## キャラクター（1233 件）
 
