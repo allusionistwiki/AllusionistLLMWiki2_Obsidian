@@ -35,7 +35,16 @@ def chapter_key(p: Path) -> str:
     m = re.search(r"ch(\d+)", p.name)
     return m.group(1) if m else p.name
 
-build(WIKI / "entities/characters", "キャラクター索引")
-build(WIKI / "entities/items", "アイテム索引")
-build(WIKI / "entities/terminology", "用語索引")
+LABELS = {
+    "characters": "キャラクター索引",
+    "items": "アイテム索引",
+    "terminology": "用語索引",
+    "motifs": "モティーフ索引",
+    "organizations": "組織索引",
+    "phrases": "フレーズ索引",
+}
+for sub, label in LABELS.items():
+    folder = WIKI / "entities" / sub
+    if folder.is_dir():
+        build(folder, label)
 build(WIKI / "episodes", "話別サマリー索引", sort_key=chapter_key)
