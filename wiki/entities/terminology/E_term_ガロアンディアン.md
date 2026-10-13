@@ -30,7 +30,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0027_alludes_to_E_ch0027_トリシューラ_names_ガロアンディアン_p1218_Galactic_Empire|銀河帝国の破綻クリシェ引用]]
+- [[A_ch0027_alludes_to_E_ch0027_トリシューラ_names_ガロアンディアン_p1218_Galactic_Empire|「ガロアンディアン」という造語は、銀河（Galactic）規模の多民族・多種族を技術で平等に束ねようとして破綻した帝国のクリシ…]]
 
 <!-- AUTO:END -->
 

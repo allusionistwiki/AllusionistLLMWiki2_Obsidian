@@ -30,7 +30,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0053_analogous_to_E_ch0053_第六階層_has_property_最適化不能_p2067_agile_software_development|アジャイル開発への適応的比喩]]
+- [[A_ch0053_analogous_to_E_ch0053_第六階層_has_property_最適化不能_p2067_agile_software_development|第六階層が「攻略の最適化ができない」「効果的な対策方法などをその場その場で探り出していくしかできない」とされる点は、仕様が決ま…]]
 
 <!-- AUTO:END -->
 

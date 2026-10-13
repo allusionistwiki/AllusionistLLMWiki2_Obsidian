@@ -29,7 +29,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0037_analogous_to_E_ch0037_松明の騎士団_betrays_ティリビナの民_p1529_colonialism|植民地主義的な土地収奪]]
+- [[A_ch0037_analogous_to_E_ch0037_松明の騎士団_betrays_ティリビナの民_p1529_colonialism|大神院がティリビナの民の故郷を焼き払い権利を剥奪した歴史は、植民地支配における原住民の土地収奪と文化破壊の構造と一致する]]
 
 <!-- AUTO:END -->
 

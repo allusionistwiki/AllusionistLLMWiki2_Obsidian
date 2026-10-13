@@ -27,8 +27,8 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0069_alludes_to_E_ch0069_貴人_uses_金剛杵_p2578_vajra|金剛杵による神聖権力の象徴]]
-- [[A_ch0069_analogous_to_E_ch0069_貴人_uses_金剛杵_p2579_buddhist_iconography|密教法具への転生]]
+- [[A_ch0069_alludes_to_E_ch0069_貴人_uses_金剛杵_p2578_vajra|駕籠の中から現れる「中央に柄があり、その上下に槍の穂先めいた刃が付いた武器」は、仏教密教の法具である金剛杵（ヴァジュラ）を指喩…]]
+- [[A_ch0069_analogous_to_E_ch0069_貴人_uses_金剛杵_p2579_buddhist_iconography|金剛杵（ヴァジュラ）を用いて磁力結界を構築する描写は、密教の法具をSF的な兵器・防御システムとして再解釈したものである]]
 
 <!-- AUTO:END -->
 

@@ -30,8 +30,8 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0040_analogous_to_E_ch0040_アズール_has_property_六機撃墜_p1760_Scoreboard_Stats|FPS風スコアボード表示]]
-- [[A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_アズール_p1969_理想化された他者・推し|推しへの崇拝と自己肯定感の欠如]]
+- [[A_ch0040_analogous_to_E_ch0040_アズール_has_property_六機撃墜_p1760_Scoreboard_Stats|アズールの六機撃墜、被弾ゼロという詳細なスコア表示は、FPSゲームのキルデス比（K/D）やスコアボードによる成績評価システムを…]]
+- [[A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_アズール_p1969_理想化された他者・推し|アズールを「圧倒的な高み」「自由」として崇拝し、自分との違いに絶望するプリエステラの感情は、理想化された他者への羨望と自己肯定…]]
 
 <!-- AUTO:END -->
 

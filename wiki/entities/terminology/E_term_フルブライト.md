@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0040_analogous_to_E_ch0040_フルブライト_names_三叉槍_p1756_Party_System|MMO風固定パーティ結成]]
+- [[A_ch0040_analogous_to_E_ch0040_フルブライト_names_三叉槍_p1756_Party_System|最終選定前にもかかわらず『三叉槍』を襲名し特別枠で出場する二人は、MMORPGにおける固定パーティやギルドの結成、およびその特…]]
 
 <!-- AUTO:END -->

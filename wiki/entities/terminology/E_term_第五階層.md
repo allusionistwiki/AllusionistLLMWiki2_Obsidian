@@ -30,11 +30,11 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0004_analogous_to_E_ch0004_第五階層_defines_価値基準_p185_hyperinflation|ハイパーインフレによる価値喪失]]
-- [[A_ch0004_analogous_to_E_ch0004_第五階層_defines_私刑の法_p191_vigilante_justice|自警団による無政府状態の私刑]]
-- [[A_ch0018_analogous_to_E_ch0018_第五階層_transforms_迷宮_p784_都市計画・再開発・ジェントリフィケーション|都市再開発]]
-- [[A_ch0027_analogous_to_E_ch0027_第五階層_defines_強者打倒の価値_p1224_PvP_game_economy|PvP経済圏のキルボーナス実装]]
-- [[A_ch0083_analogous_to_E_ch0083_第五階層_has_property_物質創造能力_p3034_3Dプリンターによる生体維持|3Dプリントによる生体維持]]
+- [[A_ch0004_analogous_to_E_ch0004_第五階層_defines_価値基準_p185_hyperinflation|第五階層の闇市場における貨幣の暴落は、極度のインフレや経済崩壊下での価値基準の喪失を模している]]
+- [[A_ch0004_analogous_to_E_ch0004_第五階層_defines_私刑の法_p191_vigilante_justice|第五階層における「人狼」への私刑は、法執行機関が存在しない無政府状態における自警団活動や、群衆によるリンチの構造を反映している]]
+- [[A_ch0018_analogous_to_E_ch0018_第五階層_transforms_迷宮_p784_都市計画・再開発・ジェントリフィケーション|既存建造物の消滅と壁への再構成は、権力による生活空間の強制書き換えや、都市計画における既存コミュニティの解体を模している]]
+- [[A_ch0027_analogous_to_E_ch0027_第五階層_defines_強者打倒の価値_p1224_PvP_game_economy|「強者の打倒」が通貨生成の条件となり、格下を倒すとレートが下がるというシステムは、MMORPGやPvPゲームにおける「キルボー…]]
+- [[A_ch0083_analogous_to_E_ch0083_第五階層_has_property_物質創造能力_p3034_3Dプリンターによる生体維持|第五階層の物質創造能力は、欠損した皮膚を絶えず生成し維持するという、高度な医療技術（3Dプリント）のメタファーである]]
 
 <!-- AUTO:END -->
 

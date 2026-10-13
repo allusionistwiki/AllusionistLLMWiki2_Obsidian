@@ -28,7 +28,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0069_analogous_to_E_ch0069_死人_has_property_呪力への反応_p2572_zombie_game_mechanics|ゾンビ検知メカニクスへの転生]]
+- [[A_ch0069_analogous_to_E_ch0069_死人_has_property_呪力への反応_p2572_zombie_game_mechanics|死人が呪力（魔力）に反応して襲いかかるという設定は、ゲーム的なステルス・検知メカニクスをファンタジー世界に実装したものである]]
 
 <!-- AUTO:END -->
 

@@ -30,8 +30,8 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0003_structurally_matches_E_ch0003_人狼_attacks_ヲルヲーラ_p179_システム管理者権限の行使|管理者権限の絶対的行使]]
-- [[A_ch0073_analogous_to_E_ch0073_ヲルヲーラ_threatens_人類_p2735_colonialism|植民地主義]]
+- [[A_ch0003_structurally_matches_E_ch0003_人狼_attacks_ヲルヲーラ_p179_システム管理者権限の行使|ヲルヲーラが「新世界の秩序」を称し、それに歯向かう者を排除する展開は、ゲームサーバーの管理者（GM）による秩序維持権限や、シス…]]
+- [[A_ch0073_analogous_to_E_ch0073_ヲルヲーラ_threatens_人類_p2735_colonialism|多世界連合が人類を「未成熟な子供」「土着民族」と定義し、管理・教育を宣言する言説は、植民地支配における文明化の使命（civil…]]
 
 <!-- AUTO:END -->
 

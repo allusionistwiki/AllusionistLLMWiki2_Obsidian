@@ -30,7 +30,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0226_structurally_matches_E_ch0226_塗壁_other_ベフォニスの器_p7470_Possession_Possession|魂の所有権と器の交換]]
+- [[A_ch0226_structurally_matches_E_ch0226_塗壁_other_ベフォニスの器_p7470_Possession_Possession|「アストラル体を流用しただけの別物」としての存在は、憑依や乗り移りといったオカルト的現象、あるいは魂の所有権という概念を物理的…]]
 
 <!-- AUTO:END -->
 

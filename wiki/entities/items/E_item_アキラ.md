@@ -30,18 +30,18 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0001_analogous_to_E_ch0001_アキラ_activates_サイバーカラテ道場_p9_AR格闘ゲーム|AR格闘ゲームUIを模した戦闘描写]]
-- [[A_ch0001_parodies_E_ch0001_アキラ_activates_ノーペイン_p103_安楽死の倫理|技術による安楽死倫理の消去]]
-- [[A_ch0002_analogous_to_E_ch0002_アキラ_activates_Doppler_p127_smartphone_apps|脳内アプリのメモリ管理]]
-- [[A_ch0004_analogous_to_E_ch0004_アキラ_uses_義手充電_p186_smartphone_battery|スマホバッテリー依存の誇張]]
-- [[A_ch0005_analogous_to_E_ch0005_アキラ_activates_残心プリセット_p302_自律型AIと脳侵襲技術|自律型AIによる脳侵襲代替]]
-- [[A_ch0005_analogous_to_E_ch0005_アキラ_uses_感情制御アプリE-E_p254_精神薬物療法と自己管理|精神薬物療法としての感情制御]]
-- [[A_ch0007_analogous_to_E_ch0007_アキラ_activates_サイバーカラテ道場_p345_Mobile_Game_App|スマホゲームアプリへの呪術置換]]
-- [[A_ch0008_analogous_to_E_ch0008_アキラ_uses_残心プリセット_p382_safety_override|安全装置解除概念の身体制御]]
-- [[A_ch0008_analogous_to_E_ch0008_アキラ_uses_音響処理アプリDoppler_p361_augmented_reality_game|ARゲーム索敵メカニクスの適用]]
-- [[A_ch0012_analogous_to_E_ch0012_アキラ_uses_盤外の夜_p548_game_ai|ゲームAIによるチートの技術化]]
-- [[A_ch0013_structurally_matches_E_ch0013_アキラ_wears_急場凌ぎの義肢_p596_サイバーパンク_義肢|サイバーパンク義肢の機能不全]]
-- [[A_ch0014_parodies_E_ch0014_アキラ_thinks_右腕の不正_p632_技術移転規制と倫理|技術移転倫理のメタ批判]]
+- [[A_ch0001_analogous_to_E_ch0001_アキラ_activates_サイバーカラテ道場_p9_AR格闘ゲーム|視界にデフォルメされた人体が投影され、「GOOD!」などの文字が表示される戦闘描写は、AR技術を用いた格闘ゲームやフィットネス…]]
+- [[A_ch0001_parodies_E_ch0001_アキラ_activates_ノーペイン_p103_安楽死の倫理|介錯支援アプリ「ノーペイン」は、安楽死や殺人の罪悪感を技術で消去する現代の倫理的ジレンマ（技術による感情の管理）を極端に描いて…]]
+- [[A_ch0002_analogous_to_E_ch0002_アキラ_activates_Doppler_p127_smartphone_apps|アキラが脳内にインストールされたアプリを起動・管理し、メモリ不足でアプリを切り替える様子は、現代のスマートフォンにおけるアプリ…]]
+- [[A_ch0004_analogous_to_E_ch0004_アキラ_uses_義手充電_p186_smartphone_battery|義手の充電を「食事同然の日常」と表現し、電力不足を生存の危機とする描写は、現代のスマートフォン依存症（バッテリー切れへの不安）…]]
+- [[A_ch0005_analogous_to_E_ch0005_アキラ_activates_残心プリセット_p302_自律型AIと脳侵襲技術|脳や脊髄を介さず義肢を自律制御するアプリは、脳侵襲型BCI（ブレイン・コンピュータ・インターフェース）が未発達な世界における…]]
+- [[A_ch0005_analogous_to_E_ch0005_アキラ_uses_感情制御アプリE-E_p254_精神薬物療法と自己管理|感情や衝動をアプリで抑制し「何も感じない夜」を過ごす描写は、現代の精神科治療における薬物療法（SSRI等）や、SNS断ち、マイ…]]
+- [[A_ch0007_analogous_to_E_ch0007_アキラ_activates_サイバーカラテ道場_p345_Mobile_Game_App|「格闘動作制御アプリ」「感覚・感情制御アプリ」「索敵アプリ」という用語群は、現代のスマートフォンゲームやARアプリのインターフ…]]
+- [[A_ch0008_analogous_to_E_ch0008_アキラ_uses_残心プリセット_p382_safety_override|アキラが「安全性を優先することによって不可避的に発生するセキュリティホールを塞ぐために、現代の日本では使用するアプリケーション…]]
+- [[A_ch0008_analogous_to_E_ch0008_アキラ_uses_音響処理アプリDoppler_p361_augmented_reality_game|視覚を奪われた状態で音響アプリ『Doppler』を駆使し、敵の位置を特定して攻撃する様子は、ARゲームやFPSゲームにおけるミ…]]
+- [[A_ch0012_analogous_to_E_ch0012_アキラ_uses_盤外の夜_p548_game_ai|アキラが起動するゲーミングアプリ『盤外の夜』は、現実のゲームAIや最適化アルゴリズムを指し、異世界における「チート」が技術的な…]]
+- [[A_ch0013_structurally_matches_E_ch0013_アキラ_wears_急場凌ぎの義肢_p596_サイバーパンク_義肢|アキラが装着する「動かすことのできない装飾用の急場凌ぎの義肢」は、サイバーパンク作品における義体化の過渡期や、機能不全なサイバ…]]
+- [[A_ch0014_parodies_E_ch0014_アキラ_thinks_右腕の不正_p632_技術移転規制と倫理|異世界への技術持ち込みを「犯罪行為」「不正」と定義し、主人公が自らの優位性を罪悪感として捉える点は、技術移転規制や植民地支配に…]]
 
 <!-- AUTO:END -->
 

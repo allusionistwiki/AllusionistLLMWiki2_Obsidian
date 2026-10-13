@@ -28,7 +28,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0118_analogous_to_E_ch0118_ケイト_defines_テセウスの船型サイボーグ_p4151_theseus_paradox|テセウスの船型サイボーグ]]
+- [[A_ch0118_analogous_to_E_ch0118_ケイト_defines_テセウスの船型サイボーグ_p4151_theseus_paradox|意識を電子化した人間が機械の身体を得ることで「テセウスの船型サイボーグ」と定義されることは、同一性のパラドックス（テセウスの船…]]
 
 <!-- AUTO:END -->
 

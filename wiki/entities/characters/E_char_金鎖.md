@@ -28,15 +28,15 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_ammo_check|残弾確認としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_ammo_count|残弾数管理としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_inventory|インベントリとしての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_inventory_check|所持品確認としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_inventory_management|所持品管理としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_lightning_rod|避雷針としての金鎖雷撃回避]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_resource_check|リソース確認としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_resource_management|リソース管理としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_status_check|ステータス確認としての金鎖数え]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_ammo_check|金鎖の数を数える行為は、ゲームにおける残弾確認を模している]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_ammo_count|アキラが左手の金鎖の数を数え、使用回数が7から9に増えていると認識することは、ゲームにおける残弾数やスキル使用回数の管理を模し…]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_inventory|金鎖の数を数える行為は、ゲームにおけるインベントリ（所持品）の確認を模している]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_inventory_check|金鎖の数を数える行為は、ゲームにおけるインベントリ確認を模している]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_inventory_management|金鎖の数を数える行為は、ゲームにおけるインベントリ管理を模している]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_lightning_rod|アキラが金鎖を避雷針として使用し雷撃を逃がす行為は、物理的な避雷針の機能のメタファーである]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_resource_check|金鎖の数を数える行為は、ゲームにおけるリソース確認を模している]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_resource_management|金鎖の数を数え、使用回数の変化を把握することは、ゲームにおけるリソース管理を模している]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_status_check|金鎖の数を数える行為は、ゲームにおけるステータス確認を模している]]
 
 <!-- AUTO:END -->
 

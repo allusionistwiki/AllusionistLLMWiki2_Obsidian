@@ -27,7 +27,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0263_inverts_E_ch0263_風の便り_other_父の情愛_p8329_emotional_manipulation|家督継承を強制する父の呪文]]
+- [[A_ch0263_inverts_E_ch0263_風の便り_other_父の情愛_p8329_emotional_manipulation|遺言という形式を用いた父からのメッセージは、本来の愛ではなく、娘を家督継承という義務に縛り付けるための「呪文（強制力）」として…]]
 
 <!-- AUTO:END -->
 

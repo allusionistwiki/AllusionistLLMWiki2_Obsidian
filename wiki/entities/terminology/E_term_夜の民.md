@@ -30,11 +30,11 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0043_alludes_to_E_ch0043_夜の民_has_property_老齢化による縮小_p1824_生物の老化_縮小現象|老化による縮小現象]]
-- [[A_ch0048_inverts_E_ch0048_夜の民_has_property_黒衣の下着_p1950_私服の自己責任|私服自己責任への呪力の逆転]]
-- [[A_ch0054_alludes_to_E_ch0054_夜の民_has_property_黒花翁草_p2107_花言葉|花言葉による運命の象徴]]
-- [[A_ch0055_structurally_matches_E_ch0055_ジル_other_夜の民_p2133_bricolage_vs_engineering|ブリコラージュとエンジニアリングの対比]]
-- [[A_ch0060_analogous_to_E_ch0060_夜の民_has_property_摸倣と複製_p2249_simulation_theory|虚構自律のシミュレーション仮説]]
+- [[A_ch0043_alludes_to_E_ch0043_夜の民_has_property_老齢化による縮小_p1824_生物の老化_縮小現象|老いと共に身体が小さくなり赤子に近付くという生態は、生物学的な老化現象を極端にデフォルメしたファンタジー的設定である]]
+- [[A_ch0048_inverts_E_ch0048_夜の民_has_property_黒衣の下着_p1950_私服の自己責任|「誰も見なくても、私がそういう服を着ているって知ってるでしょう]]
+- [[A_ch0054_alludes_to_E_ch0054_夜の民_has_property_黒花翁草_p2107_花言葉|夜の民の異名である「黒花翁草（アネモネ）」と、その花言葉「残酷な真実」「絶望」の結びつきは、花言葉の文化における象徴的意味付け…]]
+- [[A_ch0055_structurally_matches_E_ch0055_ジル_other_夜の民_p2133_bricolage_vs_engineering|夜の民の思考様式は、レヴィ=ストロースが定義した『ブリコラージュ』（既知の寄せ集め）と『エンジニアリング』（理論に基づく設計）…]]
+- [[A_ch0060_analogous_to_E_ch0060_夜の民_has_property_摸倣と複製_p2249_simulation_theory|夜の民による精巧な夢の創造は、現実を凌駕するほどの完成度を持つ「虚構の自律性」を示すメタフィクショナルな構造である]]
 
 <!-- AUTO:END -->
 

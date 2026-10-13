@@ -30,7 +30,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0042_sublates_E_ch0042_アルスタ_teaches_復讐と愛_p1792_Nietzsche_Will_to_Power|力への意志による復讐肯定]]
+- [[A_ch0042_sublates_E_ch0042_アルスタ_teaches_復讐と愛_p1792_Nietzsche_Will_to_Power|復讐を「愛の証明」と定義し、怒りをエネルギー源とするアルスタの思想は、ニーチェ的な「力への意志」や、価値の転換（復讐の肯定）を…]]
 
 <!-- AUTO:END -->
 

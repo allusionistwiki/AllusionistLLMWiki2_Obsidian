@@ -26,7 +26,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0055_inverts_E_ch0055_ジル_other_科学的思考_p2134_post_normal_science|ポスト正常科学の逆転]]
-- [[A_ch0055_structurally_matches_E_ch0055_ジル_other_夜の民_p2133_bricolage_vs_engineering|ブリコラージュとエンジニアリングの対比]]
+- [[A_ch0055_inverts_E_ch0055_ジル_other_科学的思考_p2134_post_normal_science|不確かな物理法則を前提とした反科学的思考こそが実践的な科学的思考になり得るという主張は、ポスト・ニュートン科学や複雑系科学の思…]]
+- [[A_ch0055_structurally_matches_E_ch0055_ジル_other_夜の民_p2133_bricolage_vs_engineering|夜の民の思考様式は、レヴィ=ストロースが定義した『ブリコラージュ』（既知の寄せ集め）と『エンジニアリング』（理論に基づく設計）…]]
 
 <!-- AUTO:END -->

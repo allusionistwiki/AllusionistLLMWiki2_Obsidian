@@ -27,7 +27,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0021_analogous_to_E_ch0021_コルセスカ_uses_ゲーム_p924_RPG_character_growth|RPGキャラ成長への自己投影]]
+- [[A_ch0021_analogous_to_E_ch0021_コルセスカ_uses_ゲーム_p924_RPG_character_growth|コルセスカがゲーム内のキャラクターをレベル上限まで強化し、苦手な属性の敵とも戦い続ける行為は、彼女が現実の自己をゲームのキャラ…]]
 
 <!-- AUTO:END -->
 

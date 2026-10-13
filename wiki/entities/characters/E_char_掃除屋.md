@@ -30,7 +30,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0226_analogous_to_E_ch0226_掃除屋_observes_精霊_p7451_AR_SNS_Filter|ARフィルターによる現実選択]]
+- [[A_ch0226_analogous_to_E_ch0226_掃除屋_observes_精霊_p7451_AR_SNS_Filter|少年の「透視」能力は、現実の景色から不要な情報を除去し、望む景色だけを選択して映し出すARフィルターやSNSのアルゴリズムに類…]]
 
 <!-- AUTO:END -->
 

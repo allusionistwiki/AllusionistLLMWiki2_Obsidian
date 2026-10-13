@@ -30,9 +30,9 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0055_alludes_to_E_ch0055_ジル_reveals_聴力喪失の理由_p2129_siren_song|セイレーンの歌による破壊]]
-- [[A_ch0055_alludes_to_E_ch0055_ジル_reveals_虐殺の真相_p2130_historical_revisionism|歴史修正主義による真相の歪曲]]
-- [[A_ch0055_analogous_to_E_ch0055_ジル_reveals_構造の欠落_p2132_syntactic_structure|構文構造の欠落]]
+- [[A_ch0055_alludes_to_E_ch0055_ジル_reveals_聴力喪失の理由_p2129_siren_song|カタルマリーナの歌声が聴いた者の心を砕くという設定は、ギリシャ神話のセイレーン（歌で航海者を死に至らしめる）を想起させる]]
+- [[A_ch0055_alludes_to_E_ch0055_ジル_reveals_虐殺の真相_p2130_historical_revisionism|パレルノ山の虐殺が『槍神教に都合のいいようにねじ曲げられた歴史』であるという記述は、勝者による歴史の書き換え（歴史修正主義）を…]]
+- [[A_ch0055_analogous_to_E_ch0055_ジル_reveals_構造の欠落_p2132_syntactic_structure|主人公の欠落は、言語の構文だけでなく、事象間の因果や文脈を結ぶ「構造的理解」の欠如を示唆する]]
 
 <!-- AUTO:END -->
 

@@ -30,7 +30,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0055_structurally_matches_E_ch0055_黒百合の子供たち_bonds_一大勢力_p2118_party_system|RPG固定パーティの模倣]]
+- [[A_ch0055_structurally_matches_E_ch0055_黒百合の子供たち_bonds_一大勢力_p2118_party_system|8人の生徒が役割分担（防御、迎撃、索敵、遊撃）を行い集団名を持つことで呪力が高まるという仕組みは、RPGのパーティシステムを模…]]
 
 <!-- AUTO:END -->
 

@@ -30,8 +30,8 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0055_analogous_to_E_ch0055_主人公_loses_ベアトリーチェ_p2109_language_loss_trauma|言語喪失トラウマ]]
-- [[A_ch0055_analogous_to_E_ch0055_主人公_thinks_色の違い_p2112_qualia_problem|クオリア問題への不安]]
+- [[A_ch0055_analogous_to_E_ch0055_主人公_loses_ベアトリーチェ_p2109_language_loss_trauma|妹を呼び止める言葉を失った体験は、トラウマによる「表現の不能」や「沈黙」のメタファーである]]
+- [[A_ch0055_analogous_to_E_ch0055_主人公_thinks_色の違い_p2112_qualia_problem|自分が知覚する色と他者が知覚する色が同一であるかという不安は、哲学のクオリア問題（主観的体験の非共有性）を指している]]
 
 <!-- AUTO:END -->
 

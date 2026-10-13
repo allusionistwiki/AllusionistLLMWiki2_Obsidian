@@ -27,7 +27,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0222_parodies_E_ch0222_地下アイドル空間_is_located_旧白骨迷宮_p7362_Idol_Otaku_Culture|冥界のアイドル文化消費]]
+- [[A_ch0222_parodies_E_ch0222_地下アイドル空間_is_located_旧白骨迷宮_p7362_Idol_Otaku_Culture|冥界を地下アイドルのステージとして描く構造は、死後の世界を娯楽・観光資源として消費するガロアンディアンの特異な社会構造を示して…]]
 
 <!-- AUTO:END -->
 

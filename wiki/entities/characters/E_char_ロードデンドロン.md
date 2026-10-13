@@ -30,7 +30,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0220_parodies_E_ch0220_ロードデンドロン_says_美しさと面白さ_p7319_modern_media_politics|ポピュリズム的支配戦略]]
+- [[A_ch0220_parodies_E_ch0220_ロードデンドロン_says_美しさと面白さ_p7319_modern_media_politics|ロードデンドロンの主張は、論理や正義ではなく「美しさと面白さ」という感性への訴求によって社会秩序を再編しようとする、ポピュリズ…]]
 
 <!-- AUTO:END -->
 

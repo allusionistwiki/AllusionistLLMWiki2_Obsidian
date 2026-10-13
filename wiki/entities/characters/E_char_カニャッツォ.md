@@ -30,7 +30,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0118_parodies_E_ch0118_カニャッツォ_dies_復活_p4141_video_game_respawn_mechanic|無敵状態でのゲーム的復活]]
+- [[A_ch0118_parodies_E_ch0118_カニャッツォ_dies_復活_p4141_video_game_respawn_mechanic|頭上の赤い球体（ライフ）が空になると爆発四散し、直後に無敵状態で復活する挙動は、アクションゲームにおけるキャラクターの死亡とリ…]]
 
 <!-- AUTO:END -->
 

@@ -29,7 +29,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0008_alludes_to_E_ch0008_カーイン_defines_六淫操手_p373_traditional_chinese_medicine|漢方医学六淫概念の攻撃化]]
+- [[A_ch0008_alludes_to_E_ch0008_カーイン_defines_六淫操手_p373_traditional_chinese_medicine|カーインが「六淫（風邪、寒邪、暑邪、湿邪、燥邪、火邪）」を操作し、体内の気・血・水を調整して病を発生させるという能力は、漢方医…]]
 
 <!-- AUTO:END -->
 

@@ -30,8 +30,8 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0045_structurally_matches_E_ch0045_ガルズ_activates_浄界_p1875_augmented_reality|拡張現実による世界改変]]
-- [[A_ch0063_analogous_to_E_ch0063_守護の九槍第五位_activates_浄界_p2358_AR拡張現実による空間上書き|ARによる上書きへの転生]]
+- [[A_ch0045_structurally_matches_E_ch0045_ガルズ_activates_浄界_p1875_augmented_reality|ガルズの邪視による世界改変は、現実世界にデジタル情報（死者の姿）を上書きして表示するAR（拡張現実）技術の極限形態であり、視覚…]]
+- [[A_ch0063_analogous_to_E_ch0063_守護の九槍第五位_activates_浄界_p2358_AR拡張現実による空間上書き|己の心に描いた世界で現実を書き換える「浄界」は、AR技術によって物理空間に仮想オブジェクトを重ね合わせ、知覚を改変する技術の魔…]]
 
 <!-- AUTO:END -->
 

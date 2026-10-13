@@ -28,7 +28,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0067_analogous_to_E_ch0067_ディルガッハ_has_property_鰓耳の民_p2510_virtual_reality|アストラル界の仮想現実]]
+- [[A_ch0067_analogous_to_E_ch0067_ディルガッハ_has_property_鰓耳の民_p2510_virtual_reality|鰓耳の民がアストラル界を「海」と認識し、アバター（機体）として泳ぐ描写は、VR（仮想現実）空間におけるアバター操作や没入体験の…]]
 
 <!-- AUTO:END -->
 

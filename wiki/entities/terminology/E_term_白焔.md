@@ -27,7 +27,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0050_structurally_matches_E_ch0050_白焔_has_property_時間流_p1987_熱力学の時間矢印|時間の矢の呪術的可視化]]
+- [[A_ch0050_structurally_matches_E_ch0050_白焔_has_property_時間流_p1987_熱力学の時間矢印|【白焔】が物理現象ではなく『ものごとの始まりと終わり』という時間的経過そのものとして定義される点は、物理学におけるエントロピー…]]
 
 <!-- AUTO:END -->
 

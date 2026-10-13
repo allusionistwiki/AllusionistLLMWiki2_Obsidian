@@ -30,7 +30,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0073_analogous_to_E_ch0073_マリー_uses_思考の根茎_p2747_neural_network|神経ネットワーク]]
+- [[A_ch0073_analogous_to_E_ch0073_マリー_uses_思考の根茎_p2747_neural_network|脳内の電気信号を増幅して呪文とする「思考の根茎」は、神経ネットワークのシグナル伝達を物理的なエネルギー放出（雷撃）として可視化…]]
 
 <!-- AUTO:END -->
 

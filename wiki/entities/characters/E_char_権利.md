@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0039_analogous_to_E_ch0039_ミルーニャ_other_権利_p1745_game_ranking_system|ゲームランキングへの襲名転生]]
+- [[A_ch0039_analogous_to_E_ch0039_ミルーニャ_other_権利_p1745_game_ranking_system|予備候補間の勝利による順位入れ替えや、襲名による対決権利の発生は、格闘ゲームやオンラインゲームにおけるランキングシステム、およ…]]
 
 <!-- AUTO:END -->

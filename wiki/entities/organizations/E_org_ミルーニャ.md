@@ -26,7 +26,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_巨大企業_p1555_monopoly|市場独占による格差構造の批判]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_巨大企業_p1555_pharmaceutical_profit_motive|製薬業界の利潤優先への風刺]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_巨大企業_p1555_monopoly|巨大企業が市場を支配し、必要な物資を独占する描写は、資本主義における独占と格差の構造を批判している]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_巨大企業_p1555_pharmaceutical_profit_motive|治癒符の流通を絞って利益を追求する巨大企業の描写は、現実の製薬業界における薬価高騰やアクセス格差、利潤優先の医療システムを批判…]]
 
 <!-- AUTO:END -->

@@ -6,7 +6,7 @@ description: 全アナロジークレームの章別・話別インデックス
 
 # アナロジークレーム全集（章・話別）
 
-全 **1106 件**。[話ナビゲーション](/AllusionistWiki/l1/nav/index.html) / [伏線台帳](/AllusionistWiki/l1/mysteries/index.html) / [外部参照](/AllusionistWiki/l1/references/index.html)
+全 **1106 件**。[話ナビゲーション](https://allusionistwiki.github.io/AllusionistWiki/l1/nav/index.html) / [伏線台帳](https://allusionistwiki.github.io/AllusionistWiki/l1/mysteries/index.html) / [外部参照](https://allusionistwiki.github.io/AllusionistWiki/l1/references/index.html)
 
 ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイベント（ノーペイン起動, p103）が「安楽死の倫理」をパロディにしている、という主張。
 

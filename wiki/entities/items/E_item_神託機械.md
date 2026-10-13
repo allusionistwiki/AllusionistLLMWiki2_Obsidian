@@ -27,7 +27,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0053_analogous_to_E_ch0053_神託機械_is_made_of_歴代の当主の眼球_p2067_legacy_system_and_survivor_bias|レガシーシステムと生存者バイアス]]
+- [[A_ch0053_analogous_to_E_ch0053_神託機械_is_made_of_歴代の当主の眼球_p2067_legacy_system_and_survivor_bias|歴代の当主の眼球を集積して演算する「神託機械」は、過去のデータ（死者の視座）に依存し、現在の状況（劣等感）を反映したバイアスの…]]
 
 <!-- AUTO:END -->
 

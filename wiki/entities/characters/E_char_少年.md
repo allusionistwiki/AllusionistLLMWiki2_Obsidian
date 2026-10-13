@@ -30,9 +30,9 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0007_analogous_to_E_ch0007_男_threatens_少年_p334_Social_Media_Viral|SNSバイラルと動画信仰の模倣]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_transforms_少年_p812_武器の擬人化・兵器の人間化|兵器の人間化]]
-- [[A_ch0226_inverts_E_ch0226_少年_has_property_邪視の才能_p7450_Toxic_Positivity|毒のポジティブシンキングの逆転]]
+- [[A_ch0007_analogous_to_E_ch0007_男_threatens_少年_p334_Social_Media_Viral|動画による脅迫と、その下に並ぶコメント欄（同意するチェックボックス）は、SNSにおける炎上や世論形成、そして「動画信仰」と呼ば…]]
+- [[A_ch0018_analogous_to_E_ch0018_キロン_transforms_少年_p812_武器の擬人化・兵器の人間化|少年たちが武器（弓、槍、馬）へと変化する現象は、兵器を人間（兵士）として運用する構造の極端な比喩であり、人間が道具として消費さ…]]
+- [[A_ch0226_inverts_E_ch0226_少年_has_property_邪視の才能_p7450_Toxic_Positivity|「不都合な事実を直視しない才能」が「優れた邪視者の証明」とされることは、現実の「ポジティブシンキング」や「自己責任論」における…]]
 
 <!-- AUTO:END -->
 

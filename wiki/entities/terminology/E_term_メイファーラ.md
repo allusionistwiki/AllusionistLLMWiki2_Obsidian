@@ -30,7 +30,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0074_analogous_to_E_ch0074_メイファーラ_says_細胞の序列_p2825_central_nervous_system|意味を脱構築する中枢神経系]]
+- [[A_ch0074_analogous_to_E_ch0074_メイファーラ_says_細胞の序列_p2825_central_nervous_system|トライデントの細胞間の通信・優先順位は、生物の中枢神経系（脳・脊髄）の階層構造を模倣しているが、メイファーラはこれを「意味を持…]]
 
 <!-- AUTO:END -->
 

@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0039_analogous_to_E_ch0039_松明の騎士団_uses_金鎖_p1734_surveillance_camera_system|金鎖による監視カメラ化]]
+- [[A_ch0039_analogous_to_E_ch0039_松明の騎士団_uses_金鎖_p1734_surveillance_camera_system|松明の騎士団の金鎖による視界映像の共有と本部への送信は、ネットワーク化されたリアルタイム情報共有システム（テレメトリ）のメタフ…]]
 
 <!-- AUTO:END -->

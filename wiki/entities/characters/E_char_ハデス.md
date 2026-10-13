@@ -28,7 +28,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0222_alludes_to_E_ch0222_ハデス_disappears_魂_p7381_Greek_Mythology_Hades|ギリシャ神話ハデスの引用]]
+- [[A_ch0222_alludes_to_E_ch0222_ハデス_disappears_魂_p7381_Greek_Mythology_Hades|冥府の管理者を僭称する敵対勢力の首領が『ハデス』と名乗り、冥界を支配しようとする設定は、ギリシャ神話の冥界の王ハデスを直接的に…]]
 
 <!-- AUTO:END -->
 

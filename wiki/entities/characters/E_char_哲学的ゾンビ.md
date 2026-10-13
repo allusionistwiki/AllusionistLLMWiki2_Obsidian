@@ -29,9 +29,9 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0035_alludes_to_E_ch0035_哲学的ゾンビ_appears_敵集団_p1470_哲学的ゾンビ|哲学的ゾンビの迷宮具現化]]
-- [[A_ch0065_alludes_to_E_ch0065_ズタークスターク_defines_哲学的ゾンビ_p2415_philosophical_zombie|哲学的ゾンビとしての意識欠如]]
-- [[A_ch0069_analogous_to_E_ch0069_マリー_has_property_哲学的ゾンビ_p2560_philosophical_zombie|哲学的ゾンビによる心身分離]]
+- [[A_ch0035_alludes_to_E_ch0035_哲学的ゾンビ_appears_敵集団_p1470_哲学的ゾンビ|霊体や魂を取り払われた状態で物質的には人間と変わりないが、飢餓感だけで行動する敵集団を「哲学的ゾンビ」と呼称し、意識の不在と社…]]
+- [[A_ch0065_alludes_to_E_ch0065_ズタークスターク_defines_哲学的ゾンビ_p2415_philosophical_zombie|ズタークスタークが「哲学的ゾンビ」と定義されることは、外見や振る舞い（アリスの再現）は人間と区別がつかないが、内的な意識（クオ…]]
+- [[A_ch0069_analogous_to_E_ch0069_マリー_has_property_哲学的ゾンビ_p2560_philosophical_zombie|マリーの状態は、心（クオリア）を持たず物理的な反応のみを行う「哲学的ゾンビ」の思想実験を、異世界におけるアストラル体（精神）と…]]
 
 <!-- AUTO:END -->
 

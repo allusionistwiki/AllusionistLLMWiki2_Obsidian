@@ -30,7 +30,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_ハルハハール_p2416_beauty_filter|美顔フィルターによる美の強制]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_ハルハハール_p2416_beauty_filter|ハルハハールの「美しい」という認識のみを強制的に押しつける魅了は、SNSやアプリにおける「美しさ」の強制表示（フィルター等）の…]]
 
 <!-- AUTO:END -->
 

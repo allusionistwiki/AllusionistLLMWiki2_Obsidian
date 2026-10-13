@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0073_analogous_to_E_ch0073_サイバーカラテ使い_other_呪文_p2767_open_source_development|オープンソース開発]]
+- [[A_ch0073_analogous_to_E_ch0073_サイバーカラテ使い_other_呪文_p2767_open_source_development|呪文の構築をサイバーカラテ使いが情報を共有し最適化していく様子は、オープンソースソフトウェア開発におけるコミュニティによるコー…]]
 
 <!-- AUTO:END -->

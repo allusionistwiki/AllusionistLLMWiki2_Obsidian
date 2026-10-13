@@ -27,7 +27,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0048_parodies_E_ch0048_空の民_has_property_朝の民_p1947_早起き健康法|早起き健康法への種族のパロディ]]
+- [[A_ch0048_parodies_E_ch0048_空の民_has_property_朝の民_p1947_早起き健康法|「朝が来たら起きる]]
 
 <!-- AUTO:END -->
 

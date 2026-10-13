@@ -30,8 +30,8 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0220_analogous_to_E_ch0220_ちびニア_appears_立体幻像_p7313_smartphone_notification_system|スマホ通知機能の模倣]]
-- [[A_ch0220_inverts_E_ch0220_ちびニア_says_せーりゃくけっこん_p7325_romantic_comedy_trope|ラブコメクリシェの解体]]
+- [[A_ch0220_analogous_to_E_ch0220_ちびニア_appears_立体幻像_p7313_smartphone_notification_system|第五階層の各地に散った『ちびニア』からのリアルタイム情報収集は、現代のスマートフォンにおけるプッシュ通知やSNSのタイムライン…]]
+- [[A_ch0220_inverts_E_ch0220_ちびニア_says_せーりゃくけっこん_p7325_romantic_comedy_trope|公開プロポーズというロマンティックな演出に対し、「政略結婚」という冷徹な現実的解釈を付与することで、ラブコメ的なクリシェをメタ…]]
 
 <!-- AUTO:END -->
 

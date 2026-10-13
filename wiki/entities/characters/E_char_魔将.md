@@ -28,11 +28,11 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_count|敵数カウントとしての影数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_counting|敵数カウントとしての影数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_tracking|敵追跡としての影数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_situation_analysis|状況分析としての敵数判断]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_threat_assessment|脅威評価としての敵数判断]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_threat_evaluation|脅威評価としての敵数判断]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_count|積層鏡に集結した影を数える行為は、ゲームにおける敵の数を数えることを模している]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_counting|積層鏡に集結した影を数える行為は、ゲームにおける敵の数を数えることを模している]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_tracking|積層鏡に集結した影を数える行為は、ゲームにおける敵の追跡を模している]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_situation_analysis|敵の数を数え、自分一人では無理だと判断することは、ゲームにおける状況分析を模している]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_threat_assessment|敵の数を数え「とても私一人でどうにかなるような数じゃない」と判断することは、ゲームにおける脅威評価（Threat Assess…]]
+- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_threat_evaluation|敵の数を数え、自分一人では無理だと判断することは、ゲームにおける脅威評価を模している]]
 
 <!-- AUTO:END -->

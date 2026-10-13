@@ -30,18 +30,18 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0034_alludes_to_E_ch0034_ミルーニャ_says_父の言葉_p1404_マルセル・モースの贈与論|モース贈与論の呪具循環]]
-- [[A_ch0036_analogous_to_E_ch0036_ミルーニャ_suspects_ハルベルトの重力操作_p1501_保険・リスク管理|保険・リスク管理の適用]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_names_白のメートリアン_p1592_true_name_magic|真名による存在定義の書き換え]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_肉塊_p1590_body_horror|肉体の変容と侵食のボディホラー]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_肉塊_p1590_zombie|死体からの復活というゾンビ的クリシェ]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_父の浮気_p1558_family_dysfunction|機能不全家庭におけるトラウマ連鎖]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_父の浮気_p1558_family_trauma|家庭内トラウマの連鎖描写]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_真の目的_p1592_defiance_of_fate|運命論への反抗と死の克服]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_恨みの対象_p1561_revenge|恨み解消手段としての復讐心理]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_恨みの対象_p1561_scapegoating|恨み投影のスケープゴート構造]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_父への祝福_p1539_death_as_release|虐待からの解放としての死の肯定]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_threatens_ハルベルト_p1593_identity_theft|名前による権力規定とアイデンティティ盗用]]
+- [[A_ch0034_alludes_to_E_ch0034_ミルーニャ_says_父の言葉_p1404_マルセル・モースの贈与論|「呪具は必要としている人の手に渡ってはじめて意味を持つ」というミルーニャの信条は、物品が交換・贈与されることで社会的な意味（霊…]]
+- [[A_ch0036_analogous_to_E_ch0036_ミルーニャ_suspects_ハルベルトの重力操作_p1501_保険・リスク管理|ミルーニャが「保険として」衝撃緩和材を用意し、最悪の事態（墜落死）に備える行動は、現代のリスク管理や保険商品の概念をファンタジ…]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_names_白のメートリアン_p1592_true_name_magic|「まことの名」を宣言することで存在の定義を書き換える行為は、神話やファンタジーにおける「真名」の概念、およびアイデンティティの…]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_肉塊_p1590_body_horror|死体から肉塊が発生し、新たな形態で復活する描写は、ボディ・ホラーにおける「肉体の変容と侵食」のジャンル的クリシェに該当する]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_肉塊_p1590_zombie|死体から新たな存在が湧き出す描写は、ゾンビやアンデッドの復活、および「死体の反乱」というホラーのクリシェに該当する]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_父の浮気_p1558_family_dysfunction|ミルーニャの家庭環境は、機能不全家庭における親の責任放棄と子のトラウマの連鎖を描写している]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_父の浮気_p1558_family_trauma|ミルーニャの父による浮気と母の死、そして父の無謀な死という一連の出来事は、機能不全家庭におけるトラウマの連鎖を描写している]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_真の目的_p1592_defiance_of_fate|「不幸の敵」「死を打ち砕くもの」という宣言は、運命論に対する抵抗と、死の克服という究極的な目標への執着を示す]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_恨みの対象_p1561_revenge|復讐の対象があることへの羨望は、復讐が恨みを解消する手段として機能する心理的構造を示す]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_恨みの対象_p1561_scapegoating|恨みをぶつける対象があることが「幸せ」であり、対象がないことが「恨みが膨れ上がる」という論理は、社会心理学におけるスケープゴー…]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_父への祝福_p1539_death_as_release|ミルーニャがプリエステラの父の死を「幸福」と祝福するのは、虐待からの解放としての死の肯定的側面を強調する]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_threatens_ハルベルト_p1593_identity_theft|ハルベルトを殺し、その名を襲うという宣言は、アイデンティティの盗用と継承、および「名前」が権力と存在を規定する世界観を示す]]
 
 <!-- AUTO:END -->
 

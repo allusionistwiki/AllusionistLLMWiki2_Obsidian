@@ -29,8 +29,8 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_鮮血呪_p527_3d_printing|3Dプリント的記号実体化]]
-- [[A_ch0021_analogous_to_E_ch0021_鮮血呪_defines_効果_p960_Economic_Value_Exchange|経済的価値交換への呪術定義]]
+- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_鮮血呪_p527_3d_printing|模型を本物に置き換える呪術は、シミュレーション（模型）と実体（本物）の境界を消去するメタフィクション的な技術であり、記号が実体…]]
+- [[A_ch0021_analogous_to_E_ch0021_鮮血呪_defines_効果_p960_Economic_Value_Exchange|鮮血呪が「交換不可能なものと交換可能なものを交換する」と定義され、生贄を「価値の切り売り」として描かれることは、経済学における…]]
 
 <!-- AUTO:END -->
 

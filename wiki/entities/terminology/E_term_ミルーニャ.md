@@ -30,18 +30,18 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_イキュー_p1541_gastronomy_horror|美食追求のグルメホラー]]
-- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_白血呪_p1680_バイオハザードと不死の民主化|不死の民主化と倫理崩壊]]
-- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_白血呪_p1680_科学技術の軍事転用と制御不能|技術の軍事転用と暴走]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_makes_二重スリット実験_p1919_double_slit_experiment_quantum_mechanics|二重スリット実験の呪術的再構成]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_世界槍_p1926_simulation_hypothesis|シミュレーション仮説との一致]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_摸倣子_p1922_memetics|物理法則へのミーム理論拡張]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_akashic_records|アカシックレコードの物理的実体化]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_console_game|世界構造へのゲームメタファー適用]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_database|データベースによる現実生成]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_operating_system|世界をOSと捉える構造]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_source_code|世界維持のソースコード機能]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_world_maintenance|システムによる世界維持管理]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_イキュー_p1541_gastronomy_horror|「甘いもの」を追求し、あらゆるものを溶かして食らうイキューの生態は、美食の追求が怪物化し、他者を消費する恐怖（グルメ・ホラー）…]]
+- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_白血呪_p1680_バイオハザードと不死の民主化|ミルーニャがフィリスを用いて不死性を量産し、既存の価値を崩壊させようとする計画は、技術の民主化が社会構造を破壊する「バイオハザ…]]
+- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_白血呪_p1680_科学技術の軍事転用と制御不能|ミルーニャが「白血呪」を発動し、世界を「呪う邪神」になろうとする野望は、科学技術（呪術）が制御不能な破壊力（邪神化）へと変貌す…]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_makes_二重スリット実験_p1919_double_slit_experiment_quantum_mechanics|杖使いによる二重スリット実験は、量子力学における干渉縞の生成を、呪術の適性によるパラダイムシフトとして再構成している]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_世界槍_p1926_simulation_hypothesis|世界が巨大な世界槍（シミュレーション）内部に構築されているという説明は、シミュレーション仮説（世界は上位存在による計算である）…]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_摸倣子_p1922_memetics|「摸倣子（ミーム）」が世界のゆらぎや干渉の原因として機能する設定は、リチャード・ドーキンスのミーム理論を物理法則レベルに拡張し…]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_akashic_records|「紀元槍」は、世界の全情報を記録する「アカシックレコード」の物理的・構造的な実体化（制御盤）として描かれている]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_console_game|紀元槍を「制御盤（コンソール）」と呼ぶことは、世界がゲーム的なインターフェースによって操作可能であることを示唆し、ゲームのメタ…]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_database|「アカシックレコード」を「制御盤」と呼ぶことは、世界の全情報をデータベースとして管理し、そこから現実を生成・更新するという情報…]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_operating_system|「紀元槍の制御盤」という表現は、世界をOS（オペレーティングシステム）として捉え、その制御盤（コンソール）から世界を操作できる…]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_source_code|「紀元槍」が「世界の死を引き延ばし続けている...機械」とされるのは、世界を維持するソースコード（生命維持システム）としての機…]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_world_maintenance|「世界の死を引き延ばし続けている」という記述は、世界が何らかのシステムによって維持・管理されているという管理論的な世界観を示し…]]
 
 <!-- AUTO:END -->
 

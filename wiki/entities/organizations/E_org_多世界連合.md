@@ -27,7 +27,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0002_analogous_to_E_ch0002_多世界連合_defines_審判役の目的_p166_un_security_council|国連安保理の介入政策模倣]]
+- [[A_ch0002_analogous_to_E_ch0002_多世界連合_defines_審判役の目的_p166_un_security_council|多世界連合安全保障理事会が審判役を派遣し、世界間の戦争を管理・仲裁する構造は、現実の国際連合安全保障理事会の機能と介入政策を模…]]
 
 <!-- AUTO:END -->
 

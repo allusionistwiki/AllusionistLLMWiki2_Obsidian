@@ -30,7 +30,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0027_structurally_matches_E_ch0027_店員さん_names_ラズリ・ジャッフハリム_p1222_Lazuli|店員名によるラピスラズリ暗示]]
+- [[A_ch0027_structurally_matches_E_ch0027_店員さん_names_ラズリ・ジャッフハリム_p1222_Lazuli|店員の名前「ラズリ」は、青い宝石「ラピスラズリ」を想起させ、彼女が神秘的・象徴的な存在である可能性を示唆する]]
 
 <!-- AUTO:END -->
 

@@ -30,9 +30,9 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0002_analogous_to_E_ch0002_世界槍_defines_階層構造_p158_dungeon_structure|ダンジョン構造の物理再定義]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_世界槍_p1926_simulation_hypothesis|シミュレーション仮説との一致]]
-- [[A_ch0073_analogous_to_E_ch0073_世界槍_has_property_自己相似形_p2720_sierpinski_carpet|シェルピンスキーのギャスケット]]
+- [[A_ch0002_analogous_to_E_ch0002_世界槍_defines_階層構造_p158_dungeon_structure|世界槍が地上と地獄を繋ぎ、内部に空間を折り畳み、掌握者のイメージで構造が決まるという設定は、ゲーム的な「迷宮（ダンジョン）」の…]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_世界槍_p1926_simulation_hypothesis|世界が巨大な世界槍（シミュレーション）内部に構築されているという説明は、シミュレーション仮説（世界は上位存在による計算である）…]]
+- [[A_ch0073_analogous_to_E_ch0073_世界槍_has_property_自己相似形_p2720_sierpinski_carpet|世界槍の構造は、正方形を9分割し中央を取り除く処理を繰り返すフラクタル幾何学（シェルピンスキーのギャスケット）の三次元版として…]]
 
 <!-- AUTO:END -->
 

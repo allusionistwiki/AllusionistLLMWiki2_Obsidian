@@ -27,7 +27,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0015_analogous_to_E_ch0015_探索者協会_attacks_アキラ_p674_internet_flame_war|ネット炎上構造の再現]]
+- [[A_ch0015_analogous_to_E_ch0015_探索者協会_attacks_アキラ_p674_internet_flame_war|功績の独占を巡る争いが、匿名のネットユーザーによる断片的な情報に基づく「炎上」へと発展する様子は、現代のSNSにおけるキャンセ…]]
 
 <!-- AUTO:END -->
 

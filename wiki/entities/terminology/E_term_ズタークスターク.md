@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0074_alludes_to_E_ch0074_ズタークスターク_functions_as_哲学的ゾンビ_p2830_philosophical_zombie|クオリアなき哲学的ゾンビ]]
+- [[A_ch0074_alludes_to_E_ch0074_ズタークスターク_functions_as_哲学的ゾンビ_p2830_philosophical_zombie|ズタークスタークが作り出す「哲学的ゾンビ」は、デカルトの心身二元論やチャーマーズの思考実験における、外見は人間だが内的経験（ク…]]
 
 <!-- AUTO:END -->

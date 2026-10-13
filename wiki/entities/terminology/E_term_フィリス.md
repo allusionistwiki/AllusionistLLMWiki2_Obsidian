@@ -30,9 +30,9 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0031_analogous_to_E_ch0031_フィリス_transforms_世界構造_p1298_メタフィクションにおける第四の壁の破壊と物語の改変|第四の壁の破壊]]
-- [[A_ch0060_alludes_to_E_ch0060_フィリス_functions_as_悪戯好きの妖精_p2269_digital_glitch|記号遊離のデジタルグリッチ]]
-- [[A_ch0072_structurally_matches_E_ch0072_フィリス_functions_as_歌姫の力の模倣_p2666_機械学習における模倣学習ImitationLearning|模倣学習]]
+- [[A_ch0031_analogous_to_E_ch0031_フィリス_transforms_世界構造_p1298_メタフィクションにおける第四の壁の破壊と物語の改変|フィリスが「世界の中にある君というメタテクストを浸食する」「世界そのものに対して浸食を行う」という記述は、物語の構造（メタテク…]]
+- [[A_ch0060_alludes_to_E_ch0060_フィリス_functions_as_悪戯好きの妖精_p2269_digital_glitch|フィリスによる言葉の解釈の反転は、言語記号と意味の間に生じる「意味の破綻」や「記号の遊離」を擬人化したものである]]
+- [[A_ch0072_structurally_matches_E_ch0072_フィリス_functions_as_歌姫の力の模倣_p2666_機械学習における模倣学習ImitationLearning|フィリスが歌姫の力を「模倣」し、「類似したものは同じ」とみなされる法則で同調する仕組みは、教師モデルの出力を模倣して学習するA…]]
 
 <!-- AUTO:END -->
 

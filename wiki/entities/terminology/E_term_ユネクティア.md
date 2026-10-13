@@ -29,7 +29,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0074_analogous_to_E_ch0074_ユネクティア_says_アストラル体と美食_p2784_cultural_capital|食文化ミームとしての文化資本]]
-- [[A_ch0074_structurally_matches_E_ch0074_ユネクティア_reveals_トライデントの細胞構成_p2782_apocalypse_19_beasts|十九魔将に構造対応する細胞構成]]
+- [[A_ch0074_analogous_to_E_ch0074_ユネクティア_says_アストラル体と美食_p2784_cultural_capital|食用奉仕種族への「アストラル体」付与は、彼らを単なる肉体ではなく「食文化のミーム」として消費対象に組み込むプロセスである]]
+- [[A_ch0074_structurally_matches_E_ch0074_ユネクティア_reveals_トライデントの細胞構成_p2782_apocalypse_19_beasts|トライデントの19人の細胞は、ヨハネの黙示録に記される「19の獣」や「ジャッフハリムの十九魔将」という終末論的伝承に構造を対応…]]
 
 <!-- AUTO:END -->

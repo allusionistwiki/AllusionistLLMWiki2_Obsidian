@@ -30,8 +30,8 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0263_alludes_to_E_ch0263_ミブレル_other_自由の定義_p8322_sartre_freedom|依存を自由の自覚とする逆説]]
-- [[A_ch0263_parodies_E_ch0263_ミブレル_other_リーナの呪文_p8320_linguistic_performativity|言語遂行性パロディ]]
+- [[A_ch0263_alludes_to_E_ch0263_ミブレル_other_自由の定義_p8322_sartre_freedom|道具（箒）への依存を欠落と捉える視点に対し、教師が「依存こそが自由の自覚を促す」と逆説的な問いを投げかけることで、技術への依存…]]
+- [[A_ch0263_parodies_E_ch0263_ミブレル_other_リーナの呪文_p8320_linguistic_performativity|比喩表現を文字通りの呪文として処理し、その論理的破綻を指摘する場面は、言語の遂行性や魔法のルールを厳密に定義するファンタジー設…]]
 
 <!-- AUTO:END -->
 

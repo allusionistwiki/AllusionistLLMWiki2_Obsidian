@@ -30,12 +30,12 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0047_analogous_to_E_ch0047_青年_says_異獣駆逐_p1914_hate_speech|ヘイトスピーチへの駆逐の転生]]
-- [[A_ch0047_analogous_to_E_ch0047_青年_transforms_思想_p1914_propaganda_brainwashing|プロパガンダへの思想の転生]]
-- [[A_ch0069_alludes_to_E_ch0069_青年_says_異獣の排除_p2577_exclusion_of_the_other|均質な祈りによる他者排除の風刺]]
-- [[A_ch0069_analogous_to_E_ch0069_青年_says_異獣の排除_p2577_exclusion_of_the_other|他者排除への転生]]
-- [[A_ch0071_analogous_to_E_ch0071_青年_attacks_教会_p2650_宗教的トラウマとアンチ宗教運動|宗教的トラウマの破壊的解放]]
-- [[A_ch0071_analogous_to_E_ch0071_青年_other_礼拝堂_p2650_ネット上の匿名の暴走|ネット匿名性の暴走心理]]
+- [[A_ch0047_analogous_to_E_ch0047_青年_says_異獣駆逐_p1914_hate_speech|青年の「異獣駆逐」の叫びは、他者（異獣）を排除し正義を定義する排外主義的な政治運動の構造を模している]]
+- [[A_ch0047_analogous_to_E_ch0047_青年_transforms_思想_p1914_propaganda_brainwashing|青年の思想の急変は、外部からの介入による「順正化処理」という技術的な操作によって引き起こされた現象として描かれている]]
+- [[A_ch0069_alludes_to_E_ch0069_青年_says_異獣の排除_p2577_exclusion_of_the_other|危機下で「均質な祈り」を名目に異獣（他者）を排除する青年の行動は、社会におけるマイノリティへのヘイトや排外主義の構造を風刺して…]]
+- [[A_ch0069_analogous_to_E_ch0069_青年_says_異獣の排除_p2577_exclusion_of_the_other|礼拝堂での「均質な祈りに異物は必要無い」という青年の主張は、危機下における同調圧力と、マイノリティ（異獣）を排除して秩序を維持…]]
+- [[A_ch0071_analogous_to_E_ch0071_青年_attacks_教会_p2650_宗教的トラウマとアンチ宗教運動|槍神教への洗脳が解除され、怒り狂って教会を破壊する青年の描写は、宗教的支配からの解放に伴う激しい反動と暴力化を象徴している]]
+- [[A_ch0071_analogous_to_E_ch0071_青年_other_礼拝堂_p2650_ネット上の匿名の暴走|洗脳解除後の青年が怒り狂い破壊行為に及ぶ様子は、匿名性や扇動によって暴走するネットユーザーの心理状態を反映している]]
 
 <!-- AUTO:END -->
 

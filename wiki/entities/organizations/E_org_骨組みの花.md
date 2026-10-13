@@ -28,7 +28,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0053_analogous_to_E_ch0053_骨組みの花_other_無謀な任務_p2066_sunk_cost_fallacy|サンクコストの誤謬の構造]]
+- [[A_ch0053_analogous_to_E_ch0053_骨組みの花_other_無謀な任務_p2066_sunk_cost_fallacy|均衡が崩れたことへの「脊髄反射」で無謀な任務が決定され、人質まで取られて逃げられなくなった状況は、過去の投資（劣等感や期待）に…]]
 
 <!-- AUTO:END -->
 

@@ -30,11 +30,11 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_reveals_歌姫Spear_p1938_idol_secret_identity|アイドルの二重生活]]
-- [[A_ch0048_analogous_to_E_ch0048_歌姫Spear_functions_as_ネットミーム_p1942_ネットアイドル|ネットアイドルへの歌姫の転生]]
-- [[A_ch0048_structurally_matches_E_ch0048_歌姫Spear_names_カタルマリーナ_p1941_炎上商法|炎上商法への改名の構造対応]]
-- [[A_ch0064_analogous_to_E_ch0064_歌姫Spear_other_ライブ_p2378_アイドルのライブ|アイドルライブ構造の異世界移植]]
-- [[A_ch0064_analogous_to_E_ch0064_歌姫Spear_repairs_音響設備_p2386_ライブの継続|ライブ継続による混沌の覆い隠し]]
+- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_reveals_歌姫Spear_p1938_idol_secret_identity|ハルベルトが「歌姫Spear」としての正体を明かす展開は、アイドルが秘密の活動（裏の顔）を持つというエンタメ業界のクリシェ（二…]]
+- [[A_ch0048_analogous_to_E_ch0048_歌姫Spear_functions_as_ネットミーム_p1942_ネットアイドル|実体不在の歌姫Spearは、現代のVTuberやネットアイドルが「実体が見えないこと」を逆手に取り、捏造や誹謗中傷を燃料に存在…]]
+- [[A_ch0048_structurally_matches_E_ch0048_歌姫Spear_names_カタルマリーナ_p1941_炎上商法|不吉な名前（カタルマリーナ）で活動し、忌み嫌われ忘れ去られた後に改名して復活する経緯は、現代のネット文化における「炎上」を認知…]]
+- [[A_ch0064_analogous_to_E_ch0064_歌姫Spear_other_ライブ_p2378_アイドルのライブ|歌姫のライブは、新曲発表、セットリスト、観客の呪術灯（サイリウム）振りなど、現代のアイドルライブの構造をそのまま異世界に移植し…]]
+- [[A_ch0064_analogous_to_E_ch0064_歌姫Spear_repairs_音響設備_p2386_ライブの継続|異常事態（血の雨）の中でもライブを中断せず、歌で設備を修復するのは、エンターテインメントが現実の混沌を覆い隠す力を持つことの象…]]
 
 <!-- AUTO:END -->
 

@@ -30,9 +30,9 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0053_analogous_to_E_ch0053_マリー_other_アストラル体の自傷_p2070_philosophical_zombie|哲学的ゾンビ概念の直接引用]]
-- [[A_ch0058_inverts_E_ch0058_マリー_confesses_色の実感の欠如_p2210_qualia|クオリアの理論と体験のギャップ]]
-- [[A_ch0069_analogous_to_E_ch0069_マリー_has_property_哲学的ゾンビ_p2560_philosophical_zombie|哲学的ゾンビによる心身分離]]
+- [[A_ch0053_analogous_to_E_ch0053_マリー_other_アストラル体の自傷_p2070_philosophical_zombie|マリーが「アストラル体や感覚質の存在しない哲学的ゾンビ」として法的に異獣分類される描写は、心（クオリア）を欠いた存在としての「…]]
+- [[A_ch0058_inverts_E_ch0058_マリー_confesses_色の実感の欠如_p2210_qualia|「青い」という概念の理論的理解と、その主観的体験（クオリア）の間のギャップを、マリーの「実感がない」という悩みを通じて提示して…]]
+- [[A_ch0069_analogous_to_E_ch0069_マリー_has_property_哲学的ゾンビ_p2560_philosophical_zombie|マリーの状態は、心（クオリア）を持たず物理的な反応のみを行う「哲学的ゾンビ」の思想実験を、異世界におけるアストラル体（精神）と…]]
 
 <!-- AUTO:END -->
 

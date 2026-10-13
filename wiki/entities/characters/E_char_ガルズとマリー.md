@@ -28,7 +28,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0052_analogous_to_E_ch0052_アズーリア_threatens_ガルズとマリー_p2032_human_shield|人間盾の戦術資源化]]
+- [[A_ch0052_analogous_to_E_ch0052_アズーリア_threatens_ガルズとマリー_p2032_human_shield|囚人を「囮」として使う発想は、非戦闘員を戦術資源として消費する冷酷な合理性を示している]]
 
 <!-- AUTO:END -->
 

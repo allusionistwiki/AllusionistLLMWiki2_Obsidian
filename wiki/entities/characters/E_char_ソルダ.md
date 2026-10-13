@@ -30,12 +30,12 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0042_alludes_to_E_ch0042_ソルダ_confesses_冬の魔女コルセスカ_p1813_Fairy_Tale_Romance|おとぎ話的恋愛の暗喩]]
-- [[A_ch0042_inverts_E_ch0042_ソルダ_other_竜神信教信徒_p1809_Colonial_Administration|植民地行政的なラベル付け]]
-- [[A_ch0042_structurally_matches_E_ch0042_ソルダ_uses_アリュージョン_p1806_Metaphor_Mechanic|比喩による現実改変]]
-- [[A_ch0065_analogous_to_E_ch0065_ズタークスターク_kills_ソルダ_p2446_respawn_loop|リスポーンループとしての即死蘇生]]
-- [[A_ch0065_analogous_to_E_ch0065_ズタークスターク_kills_ソルダ_p2446_ゲームの即死ループ|即死ループとしての蘇生即死]]
-- [[A_ch0074_alludes_to_E_ch0074_ソルダ_says_聖婚への期待_p2828_hieros_gamos|終末を演出する聖婚儀礼]]
+- [[A_ch0042_alludes_to_E_ch0042_ソルダ_confesses_冬の魔女コルセスカ_p1813_Fairy_Tale_Romance|ソルダとコルセスカの物語は、グリム童話や北欧神話に見られる「凍結された愛」や「運命の再会」をモチーフとしたおとぎ話の構造を模し…]]
+- [[A_ch0042_inverts_E_ch0042_ソルダ_other_竜神信教信徒_p1809_Colonial_Administration|ソルダによる「人から異獣へのラベル付け」は、植民地支配における「文明人/野蛮人」の二分法や、行政による住民の強制移住・追放を彷…]]
+- [[A_ch0042_structurally_matches_E_ch0042_ソルダ_uses_アリュージョン_p1806_Metaphor_Mechanic|「引喩系神働術」という能力名は、作品タイトル『幻想再帰のアリュージョニスト』の核心概念であり、物語の構造そのものが「比喩（アリ…]]
+- [[A_ch0065_analogous_to_E_ch0065_ズタークスターク_kills_ソルダ_p2446_respawn_loop|ソルダが即死し、蘇生し、再び即死するループは、ゲームにおける「リスポーン（復活）」機能とその無意味さを皮肉ったものである]]
+- [[A_ch0065_analogous_to_E_ch0065_ズタークスターク_kills_ソルダ_p2446_ゲームの即死ループ|ソルダが蘇生するたびに即死し続ける描写は、ゲームにおける「リスポーン即死」や「セーブポイントでの無限ループ」を連想させる]]
+- [[A_ch0074_alludes_to_E_ch0074_ソルダ_says_聖婚への期待_p2828_hieros_gamos|ソルダが語る「聖婚」は、古代神話における神々の結婚（ヒエロス・ガモス）を模倣し、世界の終末と再生を婚姻儀礼として演出する試みで…]]
 
 <!-- AUTO:END -->
 

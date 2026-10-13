@@ -28,6 +28,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0220_analogous_to_E_ch0220_ロードデンドロン_makes_動画_p7326_political_advertising_campaign|選挙CM的プロパガンダ戦]]
+- [[A_ch0220_analogous_to_E_ch0220_ロードデンドロン_makes_動画_p7326_political_advertising_campaign|ロードデンドロンが祝祭という舞台で流す動画は、候補者が選挙戦で流すポジティブなCMや、SNSでのイメージ戦略そのものであり、政…]]
 
 <!-- AUTO:END -->
