@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_異界の黙示録_functions_as_銀河系の創造_p2635_グーテンベルク銀河系とインターネットの爆発的拡散
-title: グーテンベルク銀河の情報爆発
-
-
-
-
+title: "「異界の黙示録」による情報の自己複製と銀河系創造は、マクルーハンが提唱した「グーテンベルク銀河系」概念、すなわち印刷技術からデ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_異界の黙示録_other_銀河系_p2635]]"

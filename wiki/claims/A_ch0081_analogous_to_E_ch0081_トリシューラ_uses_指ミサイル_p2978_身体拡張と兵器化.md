@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0081_analogous_to_E_ch0081_トリシューラ_uses_指ミサイル_p2978_身体拡張と兵器化
-title: 指ミサイルによる身体拡張と兵器化
-
-
-
-
+title: "指がミサイルになるという描写は、SFにおける身体拡張（サイバーパンク）の極致であり、人体そのものが兵器庫となる恐怖を表現している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0081_トリシューラ_uses_指ミサイル_p2978]]"

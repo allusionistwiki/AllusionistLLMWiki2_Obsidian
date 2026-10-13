@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0200_inverts_E_ch0200_ユディーア_other_人間形態_p6743_変身解除の苦痛
-title: 人間社会への復帰を伴う変身解除の苦痛
-
+title: "人間形態への強制変換が嘔吐を伴う激しい拒絶反応として描かれ、異形の存在から人間社会への復帰が苦痛を伴うプロセスであることが示唆…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0200_ユディーア_other_人間形態_p6743]]"

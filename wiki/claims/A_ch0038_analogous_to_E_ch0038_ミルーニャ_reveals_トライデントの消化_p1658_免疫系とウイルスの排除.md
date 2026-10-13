@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_トライデントの消化_p1658_免疫系とウイルスの排除
-title: 免疫系によるウイルス排除
-
-
-
-
+title: "ミルーニャがトライデント（青い流体）を逆に喰い、取り込んだと語ることは、寄生者（ウイルス）が宿主を支配するプロセスを逆転させ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_ミルーニャ_reveals_トライデントの消化_p1658]]"

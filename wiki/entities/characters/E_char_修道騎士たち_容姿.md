@@ -9,8 +9,8 @@ first_appearance: ch0079
 spoiler_after: ch0079
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0079|79話]] ｜ 容姿記述 1 件
+初出: [79話](../../nav/ch0079.md) ｜ 容姿記述 1 件
 
-- 神働装甲を身に纏い、体内に寄生異獣を宿している ｜ 服装・身体 ｜ 典拠: [[nav/ch0079|79話]]（p2930）
+- 神働装甲を身に纏い、体内に寄生異獣を宿している ｜ 服装・身体 ｜ 典拠: [79話](../../nav/ch0079.md)（p2930）
   > 新型の武装である神働装甲を身に纏い、寄生異獣を宿した異獣憑き
 <!-- AUTO:END -->

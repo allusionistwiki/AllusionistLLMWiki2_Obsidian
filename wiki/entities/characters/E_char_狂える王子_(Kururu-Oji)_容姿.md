@@ -9,8 +9,8 @@ first_appearance: ch0147
 spoiler_after: ch0147
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0147|147話]] ｜ 容姿記述 1 件
+初出: [147話](../../nav/ch0147.md) ｜ 容姿記述 1 件
 
-- 狂える、と形容される外見・雰囲気 ｜ 王子・狂気 ｜ 典拠: [[nav/ch0147|147話]]（p4995）
+- 狂える、と形容される外見・雰囲気 ｜ 王子・狂気 ｜ 典拠: [147話](../../nav/ch0147.md)（p4995）
   > 狂える王子
 <!-- AUTO:END -->

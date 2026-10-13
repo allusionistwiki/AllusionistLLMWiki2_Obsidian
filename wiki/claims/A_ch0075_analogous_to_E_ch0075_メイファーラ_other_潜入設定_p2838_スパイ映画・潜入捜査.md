@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0075_analogous_to_E_ch0075_メイファーラ_other_潜入設定_p2838_スパイ映画・潜入捜査
-title: カバレッジ作成のスパイ映画
-
-
-
-
+title: "文化近似度が高い地域出身という設定で潜入することは、スパイ映画における『カバレッジ（偽装経歴）』の作成プロセスそのものである"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0075_メイファーラ_other_潜入設定_p2838]]"

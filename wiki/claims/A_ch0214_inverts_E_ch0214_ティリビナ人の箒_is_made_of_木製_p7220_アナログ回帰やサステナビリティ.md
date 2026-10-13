@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0214_inverts_E_ch0214_ティリビナ人の箒_is_made_of_木製_p7220_アナログ回帰やサステナビリティ
-title: 木製箒による非標準技術の潜在力
-
+title: "高度な技術（呪動機）を排除した自然由来の素材が、静音性や祈祷効率において未知数ながら対抗しうる可能性を示すことで、標準化された…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0214_ティリビナ人の箒_is_made_of_木製_p7220]]"

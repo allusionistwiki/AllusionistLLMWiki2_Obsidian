@@ -9,8 +9,8 @@ first_appearance: ch0138
 spoiler_after: ch0138
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0138|138話]] ｜ 容姿記述 1 件
+初出: [138話](../../nav/ch0138.md) ｜ 容姿記述 1 件
 
-- 二メートル近い巨漢 ｜ 体格 ｜ 典拠: [[nav/ch0138|138話]]（p4720）
+- 二メートル近い巨漢 ｜ 体格 ｜ 典拠: [138話](../../nav/ch0138.md)（p4720）
   > 上から押さえつけられたアルマは前を相手チームに許してしまう。
 <!-- AUTO:END -->

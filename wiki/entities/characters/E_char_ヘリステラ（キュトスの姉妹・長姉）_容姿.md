@@ -9,8 +9,8 @@ first_appearance: ch0091
 spoiler_after: ch0091
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0091|91話]] ｜ 容姿記述 1 件
+初出: [91話](../../nav/ch0091.md) ｜ 容姿記述 1 件
 
-- 長姉の外見と移動装置 ｜ 年齢（分かりづらい）・顔（怪訝そうに歪む）・移動手段（車椅子） ｜ 典拠: [[nav/ch0091|91話]]（3429）
+- 長姉の外見と移動装置 ｜ 年齢（分かりづらい）・顔（怪訝そうに歪む）・移動手段（車椅子） ｜ 典拠: [91話](../../nav/ch0091.md)（3429）
   > 車椅子の女性は、年齢の分かりづらい顔を怪訝そうに歪めた。
 <!-- AUTO:END -->

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0079_alludes_to_E_ch0079_トリシューラ_defines_機械が死ぬ戦争_p2919_無人兵器戦争と倫理的回避
-title: 無人兵器戦争の倫理ジレンマ
-
-
-
-
+title: "「人が死なない戦争」を「機械が死ぬ戦争」と定義し、ドローンによる模擬戦争を緩衝材として機能させる描写は、現代の無人兵器戦争にお…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_トリシューラ_defines_機械が死ぬ戦争_p2919]]"

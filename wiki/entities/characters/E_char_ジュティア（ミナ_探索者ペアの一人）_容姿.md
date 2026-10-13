@@ -9,8 +9,8 @@ first_appearance: ch0235
 spoiler_after: ch0235
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0235|235話]] ｜ 容姿記述 1 件
+初出: [235話](../../nav/ch0235.md) ｜ 容姿記述 1 件
 
-- 燐血の民（炎の翼を持つ文脈からジュティアと推測されるが、原文は不明確なため特徴みとめる）。 ｜ 種族/特徴 ｜ 典拠: [[nav/ch0235|235話]]（p7733）
+- 燐血の民（炎の翼を持つ文脈からジュティアと推測されるが、原文は不明確なため特徴みとめる）。 ｜ 種族/特徴 ｜ 典拠: [235話](../../nav/ch0235.md)（p7733）
   > 燐血の民が笑った。
 <!-- AUTO:END -->

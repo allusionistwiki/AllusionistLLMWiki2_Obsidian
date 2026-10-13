@@ -9,8 +9,8 @@ first_appearance: ch0109
 spoiler_after: ch0109
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0109|109話]] ｜ 容姿記述 1 件
+初出: [109話](../../nav/ch0109.md) ｜ 容姿記述 1 件
 
-- 制服を身に纏う ｜ 服装（制服） ｜ 典拠: [[nav/ch0109|109話]]（p3841）
+- 制服を身に纏う ｜ 服装（制服） ｜ 典拠: [109話](../../nav/ch0109.md)（p3841）
   > 周囲から制服を身に纏った衛兵たちが集まってくる。
 <!-- AUTO:END -->

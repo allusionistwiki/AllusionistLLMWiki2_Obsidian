@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0038_structurally_matches_E_ch0038_アキラ_confesses_妹の目的_p1636_オルタナティブ・ヒストリーと魂の乗っ取り
-title: 魂の乗っ取りによる再定義
-
-
-
-
+title: "妹が「セレクティフィレクティ」に魂を乗っ取られているという設定は、人格の乗っ取り（憑依）や、記憶・人格の改変による「死んだはず…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_アキラ_confesses_妹の目的_p1636]]"

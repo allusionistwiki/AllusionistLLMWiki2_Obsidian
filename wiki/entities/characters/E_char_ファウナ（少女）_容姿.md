@@ -9,8 +9,8 @@ first_appearance: ch0171
 spoiler_after: ch0171
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0171|171話]] ｜ 容姿記述 1 件
+初出: [171話](../../nav/ch0171.md) ｜ 容姿記述 1 件
 
-- 失明しており、瞳は曇っている ｜ 瞳 ｜ 典拠: [[nav/ch0171|171話]]（p5686）
+- 失明しており、瞳は曇っている ｜ 瞳 ｜ 典拠: [171話](../../nav/ch0171.md)（p5686）
   > 加熱した瞳は盲いて曇り、永遠の暗闇に舞い手の姿を幻視するようになった
 <!-- AUTO:END -->

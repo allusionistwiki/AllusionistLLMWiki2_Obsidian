@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_真の目的_p1592_defiance_of_fate
-title: 運命論への反抗と死の克服
-
-
-
-
+title: "「不幸の敵」「死を打ち砕くもの」という宣言は、運命論に対する抵抗と、死の克服という究極的な目標への執着を示す"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_reveals_真の目的_p1592]]"

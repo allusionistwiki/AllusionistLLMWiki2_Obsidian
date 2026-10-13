@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0079_analogous_to_E_ch0079_トリシューラ_makes_模擬戦争_p2919_プロレスや格闘技の興行
-title: 暴力興行化による緊張緩和構造
-
-
-
-
+title: "敵対勢力間で行われるドローン同士の争いが「スポーツやゲームのように」運営され、技術アピールや協賛企業の利害が絡むという描写は…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_トリシューラ_makes_模擬戦争_p2919]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0029_analogous_to_E_ch0029_アキラ_fears_精神書き換え_p1252_マインドコントロール
-title: マインドコントロールへの恐怖
-
-
-
-
+title: "アキラが精神構造を書き換えられ「意思を持たない奉仕種族」になることを恐れる描写は、SFやホラーにおけるマインドコントロール、あ…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_アキラ_fears_精神書き換え_p1252]]"

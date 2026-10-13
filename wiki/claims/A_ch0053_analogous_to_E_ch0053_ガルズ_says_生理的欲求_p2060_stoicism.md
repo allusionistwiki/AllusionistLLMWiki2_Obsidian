@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0053_analogous_to_E_ch0053_ガルズ_says_生理的欲求_p2060_stoicism
-title: ストア哲学の禁欲主義的変奏
-
-
-
-
+title: "ガルズがマリーに「生理的欲求など所詮は死の前ではまやかしでしかない」と説くのは、快楽や苦痛といった身体的感覚を理性で超越しよう…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_ガルズ_says_生理的欲求_p2060]]"

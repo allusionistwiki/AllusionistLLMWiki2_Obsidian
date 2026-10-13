@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0083_analogous_to_E_ch0083_トリシューラ_requires_誓約_p3064_利用規約への同意
-title: アルゴリズム的自動執行システム
-
-
-
-
+title: "トリシューラの罰則は、物理的な振る舞いを監視し情状酌量なく発動する、アルゴリズム的な自動執行システムに類似している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_トリシューラ_requires_誓約_p3064]]"

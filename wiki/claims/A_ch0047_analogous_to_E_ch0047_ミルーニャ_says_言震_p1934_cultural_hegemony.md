@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_cultural_hegemony
-title: 言語支配への図書館の転生
-
-
-
-
+title: "「図書館」が言語を管理し、秩序を保つという設定は、文化ヘゲモニー（言語支配）が社会の安定と戦争防止に寄与するという構造を暗示し…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_言震_p1934]]"

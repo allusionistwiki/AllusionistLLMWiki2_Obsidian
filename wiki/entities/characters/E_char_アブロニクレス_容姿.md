@@ -9,8 +9,8 @@ first_appearance: ch0018
 spoiler_after: ch0018
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0018|18話]] ｜ 容姿記述 1 件
+初出: [18話](../../nav/ch0018.md) ｜ 容姿記述 1 件
 
-- 拳ほどの大きさの剥き出しの眼球 ｜ 眼球 ｜ 典拠: [[nav/ch0018|18話]]（p803）
+- 拳ほどの大きさの剥き出しの眼球 ｜ 眼球 ｜ 典拠: [18話](../../nav/ch0018.md)（p803）
   > 拳ほどの大きさの、剥き出しになった眼球。
 <!-- AUTO:END -->

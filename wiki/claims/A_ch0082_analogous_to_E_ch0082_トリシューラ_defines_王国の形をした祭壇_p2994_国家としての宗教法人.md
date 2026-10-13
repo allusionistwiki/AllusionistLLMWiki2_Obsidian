@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0082_analogous_to_E_ch0082_トリシューラ_defines_王国の形をした祭壇_p2994_国家としての宗教法人
-title: 女王崇拝循環による国家型宗教法人
-
-
-
-
+title: "国家の構造が、女王をミームの発生源（偶像）とし、住人がその偶像を崇拝・維持することで女王の力を強化し、女王が住人を庇護するとい…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_トリシューラ_defines_王国の形をした祭壇_p2994]]"

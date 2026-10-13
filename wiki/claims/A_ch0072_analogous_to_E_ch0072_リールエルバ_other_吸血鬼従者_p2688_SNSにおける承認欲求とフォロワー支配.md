@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0072_analogous_to_E_ch0072_リールエルバ_other_吸血鬼従者_p2688_SNSにおける承認欲求とフォロワー支配
-title: SNS承認欲求による支配構造
-
-
-
-
+title: "リールエルバが下僕たちの数（承認/従属）に応じて力を増す構造は、現代社会における「承認」が権力や影響力を構成するメカニズムの象…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0072_リールエルバ_other_吸血鬼従者_p2688]]"

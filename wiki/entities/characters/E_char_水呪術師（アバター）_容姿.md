@@ -9,8 +9,8 @@ first_appearance: ch0017
 spoiler_after: ch0017
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0017|17話]] ｜ 容姿記述 1 件
+初出: [17話](../../nav/ch0017.md) ｜ 容姿記述 1 件
 
-- 流体のような少女型アバター ｜ 身体 ｜ 典拠: [[nav/ch0017|17話]]（p751）
+- 流体のような少女型アバター ｜ 身体 ｜ 典拠: [17話](../../nav/ch0017.md)（p751）
   > 画面内部に、水滴をモチーフにした少女型のアバターが出現する。流体じみた少女は赤熱する壁を盾にしながら流水の鞭を伸ばし、ちびシューラに攻撃を加えていく。
 <!-- AUTO:END -->

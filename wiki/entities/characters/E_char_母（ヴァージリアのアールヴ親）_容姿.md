@@ -9,8 +9,8 @@ first_appearance: ch0059
 spoiler_after: ch0059
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0059|59話]] ｜ 容姿記述 1 件
+初出: [59話](../../nav/ch0059.md) ｜ 容姿記述 1 件
 
-- 少女めいた、優しくて穏やかな外見/雰囲気 ｜ 雰囲気・外見 ｜ 典拠: [[nav/ch0059|59話]]（p2224）
+- 少女めいた、優しくて穏やかな外見/雰囲気 ｜ 雰囲気・外見 ｜ 典拠: [59話](../../nav/ch0059.md)（p2224）
   > 生まれながらの貴人であり、浮世離れした一面が一般に言われる残酷さに転じる事もあったが、それでも優しく穏やかな、少女めいた人だった
 <!-- AUTO:END -->

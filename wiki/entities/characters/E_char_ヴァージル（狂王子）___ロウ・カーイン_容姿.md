@@ -9,8 +9,8 @@ first_appearance: ch0156
 spoiler_after: ch0156
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0156|156話]] ｜ 容姿記述 1 件
+初出: [156話](../../nav/ch0156.md) ｜ 容姿記述 1 件
 
-- カーインは得体の知れない存在として描かれる ｜ 存在感（カーイン） ｜ 典拠: [[nav/ch0156|156話]]（p5301）
+- カーインは得体の知れない存在として描かれる ｜ 存在感（カーイン） ｜ 典拠: [156話](../../nav/ch0156.md)（p5301）
   > 認めねばならない。狂王子にとって、このカーインという得体の知れない何かは紛れもない脅威なのだと。今度こそ完全に意識を戦場から切り離す。
 <!-- AUTO:END -->

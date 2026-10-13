@@ -9,8 +9,8 @@ first_appearance: ch0111
 spoiler_after: ch0111
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0111|111話]] ｜ 容姿記述 1 件
+初出: [111話](../../nav/ch0111.md) ｜ 容姿記述 1 件
 
-- レオという名前で呼ばれている ｜ レオ ｜ 典拠: [[nav/ch0111|111話]]（p3914）
+- レオという名前で呼ばれている ｜ レオ ｜ 典拠: [111話](../../nav/ch0111.md)（p3914）
   > レオは、退屈そうに欠伸をした。
 <!-- AUTO:END -->

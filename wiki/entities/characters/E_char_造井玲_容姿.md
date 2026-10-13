@@ -9,8 +9,8 @@ first_appearance: ch0028
 spoiler_after: ch0028
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0028|28話]] ｜ 容姿記述 1 件
+初出: [28話](../../nav/ch0028.md) ｜ 容姿記述 1 件
 
-- 上司の前でなくした後の表情は、だらけており目はとろんとしている。 ｜ とろんとした目 ｜ 典拠: [[nav/ch0028|28話]]（p1236）
+- 上司の前でなくした後の表情は、だらけており目はとろんとしている。 ｜ とろんとした目 ｜ 典拠: [28話](../../nav/ch0028.md)（p1236）
   > 一転してだらけた本性をさらけ出す。造井玲はとろんとした目でビル街を眺めていた。ぞういあきら
 <!-- AUTO:END -->

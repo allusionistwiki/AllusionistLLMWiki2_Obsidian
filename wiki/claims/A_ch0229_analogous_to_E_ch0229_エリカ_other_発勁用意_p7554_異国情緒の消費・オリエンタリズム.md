@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0229_analogous_to_E_ch0229_エリカ_other_発勁用意_p7554_異国情緒の消費・オリエンタリズム
-title: オリエンタリズムの記号化
-
+title: "「発勁用意」などの掛け声が意味を解体され音素として機能し、異界の呪として呪力に変換される仕組みは、言語の文脈的意味を剥奪し純粋…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0229_エリカ_other_発勁用意_p7554]]"

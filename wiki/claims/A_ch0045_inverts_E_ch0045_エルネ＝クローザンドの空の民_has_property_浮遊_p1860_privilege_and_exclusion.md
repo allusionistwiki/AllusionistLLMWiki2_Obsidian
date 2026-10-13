@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0045_inverts_E_ch0045_エルネ＝クローザンドの空の民_has_property_浮遊_p1860_privilege_and_exclusion
-title: 浮遊による特権と排除
-
-
-
-
+title: "足音を立てない（浮遊する）ことが「余裕」や「安全」の象徴である第一区において、地上の人間（アズーリア）の足音が「不作法な異音」…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0045_エルネ＝クローザンドの空の民_has_property_浮遊_p1860]]"

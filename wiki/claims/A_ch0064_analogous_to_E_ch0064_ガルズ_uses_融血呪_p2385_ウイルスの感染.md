@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_ガルズ_uses_融血呪_p2385_ウイルスの感染
-title: ウイルス感染の比喩
-
-
-
-
+title: "融血呪が他者の浄界（海）を浸食し、体積を増して術者を食らい尽くす様子は、ウイルスが宿主を乗っ取るプロセスの比喩である"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ガルズ_uses_融血呪_p2385]]"

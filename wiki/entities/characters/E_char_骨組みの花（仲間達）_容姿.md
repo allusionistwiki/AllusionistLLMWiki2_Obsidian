@@ -9,8 +9,8 @@ first_appearance: ch0052
 spoiler_after: ch0052
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0052|52話]] ｜ 容姿記述 1 件
+初出: [52話](../../nav/ch0052.md) ｜ 容姿記述 1 件
 
-- 白骨化・腐敗した手足を持つ死人。長槍、槌矛、鉄槌、投げナイフを装備している。 ｜ 武装・身体描写 ｜ 典拠: [[nav/ch0052|52話]]（p2041）
+- 白骨化・腐敗した手足を持つ死人。長槍、槌矛、鉄槌、投げナイフを装備している。 ｜ 武装・身体描写 ｜ 典拠: [52話](../../nav/ch0052.md)（p2041）
   > 長槍や槌矛、鉄槌などを構えた前衛が突撃し、斥候が呪符を巻き付けた投げナイフを投擲する。
 <!-- AUTO:END -->

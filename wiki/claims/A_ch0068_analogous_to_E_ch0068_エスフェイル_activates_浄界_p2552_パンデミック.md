@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0068_analogous_to_E_ch0068_エスフェイル_activates_浄界_p2552_パンデミック
-title: 制御不能なパンデミック
-
-
-
-
+title: "死人の溢れと死の拡大は、制御不能な魔術的・社会的崩壊の連鎖を象徴する"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_エスフェイル_says_エルネトモラン_p2552]]"

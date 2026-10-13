@@ -9,8 +9,8 @@ first_appearance: ch0206
 spoiler_after: ch0206
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0206|206話]] ｜ 容姿記述 1 件
+初出: [206話](../../nav/ch0206.md) ｜ 容姿記述 1 件
 
-- 眼帯を着用した初老の岩肌種 ｜ 眼帯・年齢（初老）・種族 ｜ 典拠: [[nav/ch0206|206話]]（p6902）
+- 眼帯を着用した初老の岩肌種 ｜ 眼帯・年齢（初老）・種族 ｜ 典拠: [206話](../../nav/ch0206.md)（p6902）
   > 眼帯をした初老の岩肌種は「この槍、いい面構えをしてやがる」などと嬉しそうな顔で足を砥石に変化させる。
 <!-- AUTO:END -->

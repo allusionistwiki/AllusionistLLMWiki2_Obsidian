@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0067_alludes_to_E_ch0067_イヴァ＝ダスト_other_隕石_p2501_隕石落下
-title: 隕石落下の絶滅ロマン
-
-
-
-
+title: "イヴァ＝ダストが時空を超えて隕石を呼び寄せる描写は、SF作品における「隕石落下による絶滅」や、天体現象を武器化するロマンを指し…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_イヴァ＝ダスト_other_隕石_p2501]]"

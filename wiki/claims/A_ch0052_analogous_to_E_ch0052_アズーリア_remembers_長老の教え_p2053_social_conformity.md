@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0052_analogous_to_E_ch0052_アズーリア_remembers_長老の教え_p2053_social_conformity
-title: 同調圧力の内面化
-
-
-
-
+title: "「霊長類の真似をし、黒衣で覆い隠す」という長老の教えは、マイノリティがマジョリティ社会で生き残るために自己を偽装する同調圧力の…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_アズーリア_remembers_長老の教え_p2053]]"

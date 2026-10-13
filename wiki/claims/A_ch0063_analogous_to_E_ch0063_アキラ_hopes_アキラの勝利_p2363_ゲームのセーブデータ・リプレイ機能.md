@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0063_analogous_to_E_ch0063_アキラ_hopes_アキラの勝利_p2363_ゲームのセーブデータ・リプレイ機能
-title: セーブデータ・リプレイへの転生
-
-
-
-
+title: "「物語素体」を駆動させ、遠く離れた場所の戦いを「加工」して届ける行為は、ゲームの録画・リプレイ機能や、プレイヤーの行動をデータ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_アキラ_hopes_アキラの勝利_p2363]]"

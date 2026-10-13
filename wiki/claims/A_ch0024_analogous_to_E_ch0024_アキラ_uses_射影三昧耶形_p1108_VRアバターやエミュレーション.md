@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0024_analogous_to_E_ch0024_アキラ_uses_射影三昧耶形_p1108_VRアバターやエミュレーション
-title: VRアバター的エミュレーション
-
-
-
-
+title: "ウィッチオーダーが「射影三昧耶形」を発動し、特定の魔女（ヴァレリアンヌ）の知識や能力を脳内に想起・エミュレートする仕組みは、V…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_アキラ_uses_射影三昧耶形_p1108]]"

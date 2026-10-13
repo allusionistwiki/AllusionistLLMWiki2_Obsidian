@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0059_foreshadows_E_ch0059_ハルベルト_has_property_不死性_p2224_条件付き不死_解呪条件
-title: 末妹限定の条件付き不死
-
-
-
-
+title: "ハルベルトの不死性が「紀元槍に至り末妹になることのみ」で解呪されるという条件は、物語の終盤における「末妹」の定義や、その条件達…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0059_ハルベルト_has_property_不死性_p2224]]"

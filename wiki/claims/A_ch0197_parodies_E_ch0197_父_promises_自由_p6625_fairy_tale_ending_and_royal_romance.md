@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0197_parodies_E_ch0197_父_promises_自由_p6625_fairy_tale_ending_and_royal_romance
-title: 虚構性が暴かれるおとぎ話のハッピーエンド
-
+title: "父が王となり子供たちを救うという展開は、おとぎ話やロマンス小説の「ハッピーエンド」のテンプレートを模倣しているが、娘によって「…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0197_父_promises_自由_p6625]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0023_analogous_to_E_ch0023_コルセスカ_takes_前世の記憶_p1073_data_deletion_privacy
-title: データ削除による依存強制
-
-
-
-
+title: "コルセスカによる前世の記憶の削除は、アキラのアイデンティティを魔女との関係性のみへと再構築する、依存関係の強制形成を象徴している"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0023_コルセスカ_takes_前世の記憶_p1073]]"

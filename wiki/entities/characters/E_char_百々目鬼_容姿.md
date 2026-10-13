@@ -9,8 +9,8 @@ first_appearance: ch0154
 spoiler_after: ch0154
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0154|154話]] ｜ 容姿記述 1 件
+初出: [154話](../../nav/ch0154.md) ｜ 容姿記述 1 件
 
-- 腕に瞳がある ｜ 腕 ｜ 典拠: [[nav/ch0154|154話]]（p5256）
+- 腕に瞳がある ｜ 腕 ｜ 典拠: [154話](../../nav/ch0154.md)（p5256）
   > 自警団員たちは背筋を正し、腕の瞳を胸の前で示す敬礼を行う。
 <!-- AUTO:END -->

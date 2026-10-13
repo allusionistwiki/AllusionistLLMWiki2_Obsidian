@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0056_analogous_to_E_ch0056_ドラトリア_other_本国と北部_p2166_ナショナリズムと移民排斥
-title: ナショナリズムと移民排斥の分断
-
-
-
-
+title: "ドラトリアにおける言語管理機能の喪失と、それに対する高齢移民層の「非国民」宣言は、言語がアイデンティティの境界線として機能し…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_ドラトリア_other_本国と北部_p2166]]"

@@ -9,8 +9,8 @@ first_appearance: ch0118
 spoiler_after: ch0118
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0118|118話]] ｜ 容姿記述 1 件
+初出: [118話](../../nav/ch0118.md) ｜ 容姿記述 1 件
 
-- 黄褐色のスーツを着用、巻物を所持。 ｜ 服装（黄褐色スーツ）・持ち物（巻物） ｜ 典拠: [[nav/ch0118|118話]]（p4132）
+- 黄褐色のスーツを着用、巻物を所持。 ｜ 服装（黄褐色スーツ）・持ち物（巻物） ｜ 典拠: [118話](../../nav/ch0118.md)（p4132）
   > もう一人は黄褐色のスーツに身を包み巻物を手にしている。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0099
 spoiler_after: ch0099
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0099|99話]] ｜ 容姿記述 1 件
+初出: [99話](../../nav/ch0099.md) ｜ 容姿記述 1 件
 
-- 大きな頭、鋭い牙 ｜ 顔立ち・歯 ｜ 典拠: [[nav/ch0099|99話]]（p3598）
+- 大きな頭、鋭い牙 ｜ 顔立ち・歯 ｜ 典拠: [99話](../../nav/ch0099.md)（p3598）
   > 続けて大きな頭と鋭い牙の亜竜はこう言った。
 <!-- AUTO:END -->

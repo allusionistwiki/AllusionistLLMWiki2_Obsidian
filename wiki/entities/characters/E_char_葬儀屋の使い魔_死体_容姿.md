@@ -9,8 +9,8 @@ first_appearance: ch0208
 spoiler_after: ch0208
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0208|208話]] ｜ 容姿記述 1 件
+初出: [208話](../../nav/ch0208.md) ｜ 容姿記述 1 件
 
-- 死体のあちこちからキノコが生えている。 ｜ 肌 ｜ 典拠: [[nav/ch0208|208話]]（p7024）
+- 死体のあちこちからキノコが生えている。 ｜ 肌 ｜ 典拠: [208話](../../nav/ch0208.md)（p7024）
   > 遺骸の素肌のあちこちからキノコが生えている。
 <!-- AUTO:END -->

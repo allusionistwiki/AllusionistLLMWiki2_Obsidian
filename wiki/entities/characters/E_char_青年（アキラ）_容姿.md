@@ -9,8 +9,8 @@ first_appearance: ch0003
 spoiler_after: ch0003
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0003|3話]] ｜ 容姿記述 1 件
+初出: [3話](../../nav/ch0003.md) ｜ 容姿記述 1 件
 
-- 掌の描写。 ｜ 左腕（掌） ｜ 典拠: [[nav/ch0003|3話]]（p180）
+- 掌の描写。 ｜ 左腕（掌） ｜ 典拠: [3話](../../nav/ch0003.md)（p180）
   > 左腕を挟んで、意識のない相手を見つめる。ややあって、唇が主無き掌の上に重ねられた。
 <!-- AUTO:END -->

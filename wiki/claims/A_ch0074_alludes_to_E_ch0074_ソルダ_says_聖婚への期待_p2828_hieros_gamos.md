@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0074_alludes_to_E_ch0074_ソルダ_says_聖婚への期待_p2828_hieros_gamos
-title: 終末を演出する聖婚儀礼
-
-
-
-
+title: "ソルダが語る「聖婚」は、古代神話における神々の結婚（ヒエロス・ガモス）を模倣し、世界の終末と再生を婚姻儀礼として演出する試みで…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0074_ソルダ_says_聖婚への期待_p2828]]"

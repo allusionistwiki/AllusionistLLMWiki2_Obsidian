@@ -9,8 +9,8 @@ first_appearance: ch0167
 spoiler_after: ch0167
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0167|167話]] ｜ 容姿記述 1 件
+初出: [167話](../../nav/ch0167.md) ｜ 容姿記述 1 件
 
--  ｜ 義肢（念動マニピュレータ、自律型眠り棺） ｜ 典拠: [[nav/ch0167|167話]]（p5594）
+-  ｜ 義肢（念動マニピュレータ、自律型眠り棺） ｜ 典拠: [167話](../../nav/ch0167.md)（p5594）
   > 念動マニピュレータで生演奏する自律型の『眠り棺』
 <!-- AUTO:END -->

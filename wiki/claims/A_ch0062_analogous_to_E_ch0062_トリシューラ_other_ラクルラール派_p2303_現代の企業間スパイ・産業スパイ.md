@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0062_analogous_to_E_ch0062_トリシューラ_other_ラクルラール派_p2303_現代の企業間スパイ・産業スパイ
-title: 産業スパイへの類似
-
-
-
-
+title: "派閥抗争の中で敵対勢力に属しながらも、人質を盾に情報交換を行うトリシューラの行動は、現代の企業間における産業スパイや、競合他社…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_トリシューラ_other_ラクルラール派_p2303]]"

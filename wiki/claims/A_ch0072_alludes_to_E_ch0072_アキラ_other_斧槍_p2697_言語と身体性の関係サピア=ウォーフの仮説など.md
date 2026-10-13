@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0072_alludes_to_E_ch0072_アキラ_other_斧槍_p2697_言語と身体性の関係サピア=ウォーフの仮説など
-title: サピア＝ウォーフ仮説の身体化
-
-
-
-
+title: "舌が調音器官であり語源と密接な繋がりがあるという記述は、言語が思考や知覚を規定するという言語哲学・認知科学の概念を参照している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0072_アキラ_other_斧槍_p2697]]"

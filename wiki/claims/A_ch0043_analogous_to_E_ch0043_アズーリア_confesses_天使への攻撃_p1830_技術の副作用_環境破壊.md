@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0043_analogous_to_E_ch0043_アズーリア_confesses_天使への攻撃_p1830_技術の副作用_環境破壊
-title: 技術の副作用による崩壊
-
-
-
-
+title: "天使を攻撃した結果として世界全体の術が使えなくなるという記述は、技術の副作用による環境破壊やシステム全体の崩壊を連想させる"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_アズーリア_confesses_天使への攻撃_p1830]]"

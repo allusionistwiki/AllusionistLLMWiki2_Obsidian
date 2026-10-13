@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0059_structurally_matches_E_ch0059_青嶺瑠璃_other_悪夢_p2237_ループもの_タイムリープ
-title: セーブロード的なタイムリープ
-
-
-
-
+title: "「不具合が発生したので、最初からやり直し」というナレーションと、同じ状況が繰り返される構造は、ループものジャンルにおける「セー…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0059_青嶺瑠璃_other_悪夢_p2237]]"

@@ -9,8 +9,8 @@ first_appearance: ch0018
 spoiler_after: ch0018
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0018|18話]] ｜ 容姿記述 1 件
+初出: [18話](../../nav/ch0018.md) ｜ 容姿記述 1 件
 
-- 屈強な肉体を露出、ラバーマスクとボールギャグを着用 ｜ 体格・服装・顔・表情 ｜ 典拠: [[nav/ch0018|18話]]（p787）
+- 屈強な肉体を露出、ラバーマスクとボールギャグを着用 ｜ 体格・服装・顔・表情 ｜ 典拠: [18話](../../nav/ch0018.md)（p787）
   > 屈強な肉体を全て露わにし、頭部をラバーマスクで覆い隠してボールギャグを口に咥えているという変態的な格好だ。
 <!-- AUTO:END -->

@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0147_parodies_E_ch0147_絶対美少女吸血姫神リールエルバ様教団_アイドルオタク文化_推し活
-title: 推し活文化への教団パロディ
-
+title: "リールエルバを崇拝する教団の狂信的な行動や、豚の鳴き真似をさせるという屈辱的な奉仕は、現代のアイドルオタク文化における過剰な推…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0147_オルヴァ_has_property_時空操作_p5013]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0036_inverts_E_ch0036_アズーリア_thinks_期待と失望_p1506_推し活・ファン心理
-title: 推し活の闇の逆転構造
-
-
-
-
+title: "師匠に対して「素敵な人」という理想像を投影し、その裏切り（現実の欠点）に激怒するアズーリアの心理は、アイドルやキャラクターに対…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_アズーリア_thinks_期待と失望_p1506]]"

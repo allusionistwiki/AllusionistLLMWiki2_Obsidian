@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_模造品_p1598_ゲームのバランス調整とパッチ
-title: ゲームのバランス調整とパッチ
-
-
-
-
+title: "ミルーニャが「自殺の黒槍」を自傷効果の蓄積・遅延という仕様変更（パッチ）で改良し、本家（メクセト製）より優れていると自慢する様…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_ミルーニャ_reveals_模造品_p1598]]"

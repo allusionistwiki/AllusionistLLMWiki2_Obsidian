@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_reality_construction
-title: 現実の社会構成主義
-
-
-
-
+title: "「記述された情報によって私は構築されている」という記述は、社会構成主義（現実は社会的な記述・言語によって構築される）の原理と一…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_メタテクストの改変_p1924]]"

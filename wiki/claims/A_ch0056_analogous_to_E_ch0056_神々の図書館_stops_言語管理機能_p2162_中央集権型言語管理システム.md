@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0056_analogous_to_E_ch0056_神々の図書館_stops_言語管理機能_p2162_中央集権型言語管理システム
-title: 言語管理OS停止とバベルの逆転
-
-
-
-
+title: "『神々の図書館』による言語の自動管理とその機能停止は、言語が現実の秩序を維持する基盤（OS/プロトコル）として機能していること…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_神々の図書館_stops_言語管理機能_p2162]]"

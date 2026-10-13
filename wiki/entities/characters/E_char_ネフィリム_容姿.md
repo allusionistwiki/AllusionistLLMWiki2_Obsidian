@@ -9,8 +9,8 @@ first_appearance: ch0190
 spoiler_after: ch0190
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0190|190話]] ｜ 容姿記述 1 件
+初出: [190話](../../nav/ch0190.md) ｜ 容姿記述 1 件
 
-- 眼鏡をかけている小柄な少年 ｜ 顔・体型 ｜ 典拠: [[nav/ch0190|190話]]（p6280）
+- 眼鏡をかけている小柄な少年 ｜ 顔・体型 ｜ 典拠: [190話](../../nav/ch0190.md)（p6280）
   > 眼鏡の小柄な少年が発言すると、
 <!-- AUTO:END -->

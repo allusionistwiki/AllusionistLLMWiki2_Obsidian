@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0070_parodies_E_ch0070_サイバーカラテ道場_defines_ゼン・スピリット_p2625_self_help_seminars
-title: 自己啓発セミナーの風刺
-
-
-
-
+title: "「座禅無しでゼン・スピリット」「誰でも明鏡止水」という謳い文句は、現代の自己啓発セミナーや胡散臭い健康食品の誇大広告を風刺して…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_サイバーカラテ道場_appears_アプリ_p2625]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_アキラ_other_物語素体_p2381_インタラクティブフィクション
-title: インタラクティブフィクションの構造
-
-
-
-
+title: "観客の欲求が戦闘結果を決定するのは、読者の選択が物語の結末を変えるインタラクティブフィクションの構造である"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_アキラ_other_物語素体_p2381]]"

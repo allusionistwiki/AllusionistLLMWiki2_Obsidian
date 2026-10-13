@@ -9,8 +9,8 @@ first_appearance: ch0119
 spoiler_after: ch0119
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0119|119話]] ｜ 容姿記述 1 件
+初出: [119話](../../nav/ch0119.md) ｜ 容姿記述 1 件
 
-- 蓬髪の壮年男性の顔（グレンデルヒの顔）が上書きされている ｜ 髪・顔・年齢 ｜ 典拠: [[nav/ch0119|119話]]（p4183）
+- 蓬髪の壮年男性の顔（グレンデルヒの顔）が上書きされている ｜ 髪・顔・年齢 ｜ 典拠: [119話](../../nav/ch0119.md)（p4183）
   > その顔を雑に上書きするように蓬髪の壮年男性の顔が貼り付けられる。
 <!-- AUTO:END -->

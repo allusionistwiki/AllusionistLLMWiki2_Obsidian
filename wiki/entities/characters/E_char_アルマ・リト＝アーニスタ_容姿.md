@@ -9,8 +9,8 @@ first_appearance: ch0165
 spoiler_after: ch0165
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0165|165話]] ｜ 容姿記述 1 件
+初出: [165話](../../nav/ch0165.md) ｜ 容姿記述 1 件
 
-- 中性的な顔立ちの女性（立体映像として） ｜ 顔立ち ｜ 典拠: [[nav/ch0165|165話]]（p5560）
+- 中性的な顔立ちの女性（立体映像として） ｜ 顔立ち ｜ 典拠: [165話](../../nav/ch0165.md)（p5560）
   > 小さな体が卓上で硬直し、口がぱかりと開いて喉から光が放出される。中空に立体映像が浮かび上がり、中性的な顔立ちの女性が映し出された。
 <!-- AUTO:END -->

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アケルグリュス_uses_歌声_p2417_siren_song
-title: セイレーンの歌としての歌声魅了
-
-
-
-
+title: "有翼人魚種アケルグリュスの歌声による魅了は、ギリシャ神話のセイレーン（セイレーン）が船乗りを魅了し座礁させる伝承を指している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アケルグリュス_uses_歌声_p2417]]"

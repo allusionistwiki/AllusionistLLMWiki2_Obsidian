@@ -9,8 +9,8 @@ first_appearance: ch0190
 spoiler_after: ch0190
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0190|190話]] ｜ 容姿記述 1 件
+初出: [190話](../../nav/ch0190.md) ｜ 容姿記述 1 件
 
-- 鋭い視線がなまくらと化し、呼吸が乱れている ｜ 瞳・表情 ｜ 典拠: [[nav/ch0190|190話]]（p6277）
+- 鋭い視線がなまくらと化し、呼吸が乱れている ｜ 瞳・表情 ｜ 典拠: [190話](../../nav/ch0190.md)（p6277）
   > クレイの反応は鈍い。鋭い視線はなまくらと化し、整えられているはずの呼吸も乱れている。
 <!-- AUTO:END -->

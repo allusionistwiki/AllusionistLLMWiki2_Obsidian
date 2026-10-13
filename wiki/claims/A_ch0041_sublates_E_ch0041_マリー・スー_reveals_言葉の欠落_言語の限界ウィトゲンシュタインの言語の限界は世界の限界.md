@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0041_sublates_E_ch0041_マリー・スー_reveals_言葉の欠落_言語の限界ウィトゲンシュタインの言語の限界は世界の限界
-title: 言語の限界の体現
-
+title: "マリーが「言葉が何かすらもわからない」と述べることは、言語が世界を記述するツールであるにもかかわらず、その本質を認識できないと…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0041_マリー・スー_reveals_言葉の欠落_p1780]]"

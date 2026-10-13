@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0074_analogous_to_E_ch0074_センジュ_says_サイバーカラテ批判_p2804_metaheuristics
-title: 武術哲学を欠くメタヒューリスティクス
-
-
-
-
+title: "センジュが批判する「サイバーカラテ」は、集合知に基づく最適化アルゴリズム（メタヒューリスティクス）であり、伝統的な武術の「体系…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0074_センジュ_says_サイバーカラテ批判_p2804]]"

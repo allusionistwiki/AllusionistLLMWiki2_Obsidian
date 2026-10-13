@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0043_parodies_E_ch0043_ソルダ・アーニスタ_fights_第六階層_p1832_ゲームのボス戦_パターン学習
-title: ボス戦攻略のパターン学習
-
-
-
-
+title: "ソルダが第六階層のボス（イェレイド）に挑み続け、パターン化された動きで戦う描写は、ゲームにおけるボス戦の攻略過程（パターン学習…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ソルダ・アーニスタ_fights_第六階層_p1832]]"

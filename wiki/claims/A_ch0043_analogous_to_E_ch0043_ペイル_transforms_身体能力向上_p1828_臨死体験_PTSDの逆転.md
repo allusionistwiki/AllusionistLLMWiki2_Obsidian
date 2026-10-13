@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0043_analogous_to_E_ch0043_ペイル_transforms_身体能力向上_p1828_臨死体験_PTSDの逆転
-title: 臨死体験とPTSD逆転
-
-
-
-
+title: "重傷を負うことで身体能力（霊感）が向上する記述は、欠損を補うための代償的な強化（ファンタジー的な義体化）を連想させる"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ペイル_transforms_身体能力向上_p1828]]"

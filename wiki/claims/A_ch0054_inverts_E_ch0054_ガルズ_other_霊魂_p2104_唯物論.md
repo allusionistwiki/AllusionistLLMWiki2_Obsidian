@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0054_inverts_E_ch0054_ガルズ_other_霊魂_p2104_唯物論
-title: 唯物論による霊魂の解体
-
-
-
-
+title: "ガルズが霊魂を「死を恐れる人間の恐怖が具現したまやかし」として唯物論的に解体し、心は脳という物質の産物に過ぎないと断定する行為…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_ガルズ_other_霊魂_p2104]]"

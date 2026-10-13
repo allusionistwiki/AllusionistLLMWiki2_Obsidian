@@ -9,8 +9,8 @@ first_appearance: ch0150
 spoiler_after: ch0150
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0150|150話]] ｜ 容姿記述 1 件
+初出: [150話](../../nav/ch0150.md) ｜ 容姿記述 1 件
 
-- ケロイド状の肌 ｜ 肌 ｜ 典拠: [[nav/ch0150|150話]]（p5096）
+- ケロイド状の肌 ｜ 肌 ｜ 典拠: [150話](../../nav/ch0150.md)（p5096）
   > ケロイド状に変化した肌と雷撃を弾いた事実が証明している。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0178
 spoiler_after: ch0178
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0178|178話]] ｜ 容姿記述 1 件
+初出: [178話](../../nav/ch0178.md) ｜ 容姿記述 1 件
 
-- ミルーニャ: 据わった目。リーナ: 髪（落ちる描写） ｜ 瞳・髪 ｜ 典拠: [[nav/ch0178|178話]]（p5911）
+- ミルーニャ: 据わった目。リーナ: 髪（落ちる描写） ｜ 瞳・髪 ｜ 典拠: [178話](../../nav/ch0178.md)（p5911）
   > 据わった目でゼドを睨み据えるミルーニャの背後、リーナの目の前でも一筋の髪の毛がひらひらと落ちていく。
 <!-- AUTO:END -->

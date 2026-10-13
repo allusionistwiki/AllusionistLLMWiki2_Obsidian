@@ -9,8 +9,8 @@ first_appearance: ch0077
 spoiler_after: ch0077
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0077|77話]] ｜ 容姿記述 1 件
+初出: [77話](../../nav/ch0077.md) ｜ 容姿記述 1 件
 
-- 腐乱による内臓露出、赤い筋肉、純白の足先 ｜ 体表・四肢 ｜ 典拠: [[nav/ch0077|77話]]（p2889）
+- 腐乱による内臓露出、赤い筋肉、純白の足先 ｜ 体表・四肢 ｜ 典拠: [77話](../../nav/ch0077.md)（p2889）
   > 四つ脚の狼は、胴体部分を大きく窪ませて内臓を露わにしていた。垂れ下がる臓物と突き出た骨。筋肉の繊維が赤々としている。足の先は全て純白
 <!-- AUTO:END -->

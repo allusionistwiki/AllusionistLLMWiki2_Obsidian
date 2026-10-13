@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_ヨミル・バーンステイン_names_自分_p2425_gacha_army
-title: ガチャ軍団の大量投入戦略の脆さ
-
-
-
-
+title: "ヨミルが「一万の自動鎧を操る」と宣言し瞬殺される様子は、大量のユニットを投入する戦略の脆さを示唆している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ヨミル・バーンステイン_names_自分_p2425]]"

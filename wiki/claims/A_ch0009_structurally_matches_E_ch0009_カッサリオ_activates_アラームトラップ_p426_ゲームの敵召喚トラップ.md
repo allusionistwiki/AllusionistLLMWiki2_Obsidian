@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0009_structurally_matches_E_ch0009_カッサリオ_activates_アラームトラップ_p426_ゲームの敵召喚トラップ
-title: 敵召喚トラップの模倣
-
-
-
-
+title: "カッサリオの音は、過去の宝箱開封時のアラームとリズムが一致しており、ゲーム的な「敵の増援を呼ぶトラップ」のメカニズムを模倣して…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_カッサリオ_activates_アラームトラップ_p426]]"

@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0187_alludes_to_E_ch0187_クルミ_other_アイドルの性_p6210_アイドル業界の性的搾取・商品化
-title: アイドル業界の性的搾取暗喩
-
+title: "クルミが「性を商品化することなんて日常茶飯事」「写真撮影は私たちの魂を切り取って、安売りしていく」と語ることは、現実のアイドル…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0187_クルミ_other_アイドルの性_p6210]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0059_alludes_to_E_ch0059_第七位_kills_修道騎士_p2228_組織内いじめ_権力闘争
-title: 組織内権力闘争による人材浪費
-
-
-
-
+title: "第四階層の掌握者による「味方殺し」や「兵力の無為な損耗」は、ファンタジー迷宮攻略の文脈において、権力闘争による人材の浪費を風刺…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0059_第七位_kills_修道騎士_p2228]]"

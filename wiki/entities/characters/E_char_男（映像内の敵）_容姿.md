@@ -9,8 +9,8 @@ first_appearance: ch0007
 spoiler_after: ch0007
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0007|7話]] ｜ 容姿記述 1 件
+初出: [7話](../../nav/ch0007.md) ｜ 容姿記述 1 件
 
-- アキラを敗北させた男（映像を通じて出現） ｜ 存在 ｜ 典拠: [[nav/ch0007|7話]]（p334）
+- アキラを敗北させた男（映像を通じて出現） ｜ 存在 ｜ 典拠: [7話](../../nav/ch0007.md)（p334）
   > 『ご覧の通り、ここにいるのは数日前、君が助けた少年だ。
 <!-- AUTO:END -->

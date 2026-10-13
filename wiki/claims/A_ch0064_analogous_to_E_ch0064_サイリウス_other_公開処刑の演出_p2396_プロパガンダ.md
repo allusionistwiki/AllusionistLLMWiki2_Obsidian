@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_サイリウス_other_公開処刑の演出_p2396_プロパガンダ
-title: プロパガンダによる暴力正当化
-
-
-
-
+title: "サイリウスが観客を巻き込んで処刑を演出するのは、権力者が世論を操作して暴力を正当化するプロパガンダの構造である"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_サイリウス_other_公開処刑の演出_p2396]]"

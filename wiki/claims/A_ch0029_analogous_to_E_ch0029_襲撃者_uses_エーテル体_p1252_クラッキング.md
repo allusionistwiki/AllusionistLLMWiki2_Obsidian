@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0029_analogous_to_E_ch0029_襲撃者_uses_エーテル体_p1252_クラッキング
-title: 精神書き換えのサイバークラッキング
-
-
-
-
+title: "襲撃者がエーテル体でアキラの精神構造を書き換えようとする行為は、現代のサイバーセキュリティにおける「クラッキング（不正侵入・改…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_襲撃者_uses_エーテル体_p1252]]"

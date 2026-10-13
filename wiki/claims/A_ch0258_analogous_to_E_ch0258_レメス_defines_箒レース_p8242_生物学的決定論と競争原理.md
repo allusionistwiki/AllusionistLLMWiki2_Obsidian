@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0258_analogous_to_E_ch0258_レメス_defines_箒レース_p8242_生物学的決定論と競争原理
-title: 精子の競争を正当化する生物決定論
-
+title: "レメスがレースを「精子が卵子に向かうのと同じ絶対のルール」と定義し、競争を生物学的必然として正当化する"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0258_レメス_defines_箒レース_p8242]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0081_structurally_matches_E_ch0081_イアテム_defeats_マレブランケ_p2985_ネットワークセキュリティの脆弱性
-title: 通信経路乗っ取りによるセキュリティ脆弱性
-
-
-
-
+title: "サイバーカラテの連携プログラムがクラッキングされ、情報が欺瞞される展開は、現代のネットワークセキュリティにおける「信頼できる通…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0081_イアテム_defeats_マレブランケ_p2985]]"

@@ -9,8 +9,8 @@ first_appearance: ch0055
 spoiler_after: ch0055
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0055|55話]] ｜ 容姿記述 1 件
+初出: [55話](../../nav/ch0055.md) ｜ 容姿記述 1 件
 
-- きらきらした服と装飾品、風のauraを纏う ｜ clothing・accessories・aura ｜ 典拠: [[nav/ch0055|55話]]（p2110）
+- きらきらした服と装飾品、風のauraを纏う ｜ clothing・accessories・aura ｜ 典拠: [55話](../../nav/ch0055.md)（p2110）
   > なんだかとってもきらきらした服やぱーっとした装飾品を身につけていて、身体の回りを『風』や『波』がぐるぐるしていた。
 <!-- AUTO:END -->

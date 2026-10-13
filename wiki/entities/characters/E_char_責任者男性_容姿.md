@@ -9,8 +9,8 @@ first_appearance: ch0210
 spoiler_after: ch0210
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0210|210話]] ｜ 容姿記述 1 件
+初出: [210話](../../nav/ch0210.md) ｜ 容姿記述 1 件
 
-- 小太りの男性。施設の責任者。 ｜ 体格・性別 ｜ 典拠: [[nav/ch0210|210話]]（p7094）
+- 小太りの男性。施設の責任者。 ｜ 体格・性別 ｜ 典拠: [210話](../../nav/ch0210.md)（p7094）
   > 施設内から出てきた小太りの男性
 <!-- AUTO:END -->

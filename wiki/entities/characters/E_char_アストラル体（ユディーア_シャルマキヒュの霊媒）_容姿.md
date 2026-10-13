@@ -9,8 +9,8 @@ first_appearance: ch0070
 spoiler_after: ch0070
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0070|70話]] ｜ 容姿記述 1 件
+初出: [70話](../../nav/ch0070.md) ｜ 容姿記述 1 件
 
-- メイファーラと瓜二つの顔と体格をする女性。片方だけの髪の房がある。 ｜ 顔・体格・髪 ｜ 典拠: [[nav/ch0070|70話]]（p2589）
+- メイファーラと瓜二つの顔と体格をする女性。片方だけの髪の房がある。 ｜ 顔・体格・髪 ｜ 典拠: [70話](../../nav/ch0070.md)（p2589）
   > 瓜二つの顔、体格をした女性の片方だけの髪の房
 <!-- AUTO:END -->

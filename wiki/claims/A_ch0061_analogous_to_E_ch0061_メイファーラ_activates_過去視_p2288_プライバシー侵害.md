@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0061_analogous_to_E_ch0061_メイファーラ_activates_過去視_p2288_プライバシー侵害
-title: プライバシー侵害への類似
-
-
-
-
+title: "接触感応による過去視が「個人情報の保護に配慮すべき」と評されることで、監視技術やデータ収集におけるプライバシー問題への批判を暗…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0061_メイファーラ_activates_過去視_p2288]]"

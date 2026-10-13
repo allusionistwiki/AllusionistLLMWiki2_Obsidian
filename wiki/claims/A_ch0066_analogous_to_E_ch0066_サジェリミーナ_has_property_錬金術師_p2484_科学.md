@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0066_analogous_to_E_ch0066_サジェリミーナ_has_property_錬金術師_p2484_科学
-title: 科学による魔法ルール無効化
-
-
-
-
+title: "サジェリミーナが「錬金術」を用い、一般的な魔将の弱点（神働術遮断）が通用しないという記述は、魔法（神秘）と科学（技術）の対立…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_サジェリミーナ_reveals_錬金術師_p2484]]"

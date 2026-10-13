@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0038_alludes_to_E_ch0038_アキラ_observes_ミルーニャの過去_p1691_児童虐待とPTSDのトラウマ
-title: 児童虐待とPTSDのトラウマ
-
-
-
-
+title: "ミルーニャの過去における「ごめんなさい」「ぶたないで」という反復的な叫びと、親からの暴力・ネグレクトの描写は、現実の深刻な児童…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_アキラ_observes_ミルーニャの過去_p1691]]"

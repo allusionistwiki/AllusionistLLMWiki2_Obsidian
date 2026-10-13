@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0068_inverts_E_ch0068_ユネクティア_says_光_p2537_光と影の対立
-title: 光と影の同一視
-
-
-
-
+title: "通常「光＝善/秩序」「影＝悪/混沌」とされる対立を、「影とは光のことだ」と定義し、光と影を同一視することで、善悪の二項対立を解…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ユネクティア_says_光_p2537]]"

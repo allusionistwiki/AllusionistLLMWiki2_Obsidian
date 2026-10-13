@@ -9,8 +9,8 @@ first_appearance: ch0172
 spoiler_after: ch0172
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0172|172話]] ｜ 容姿記述 1 件
+初出: [172話](../../nav/ch0172.md) ｜ 容姿記述 1 件
 
-- 片目が切り裂かれ隻眼になる。 ｜ 顔立ち ｜ 典拠: [[nav/ch0172|172話]]（p5714）
+- 片目が切り裂かれ隻眼になる。 ｜ 顔立ち ｜ 典拠: [172話](../../nav/ch0172.md)（p5714）
   > 片目が切り裂かれると、隻眼となった男が役目を果たして消える
 <!-- AUTO:END -->

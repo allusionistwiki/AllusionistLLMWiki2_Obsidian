@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0080_analogous_to_E_ch0080_アキラ_other_レゴン_p2935_クラウドデータ共有とアプリ連携
-title: クラウド連携の模倣
-
-
-
-
+title: "カード型端末を用いた召喚獣データの送信は、現代のスマートフォンアプリ間でのデータ共有やクラウド連携をファンタジー的に表現している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_アキラ_other_レゴン_p2935]]"

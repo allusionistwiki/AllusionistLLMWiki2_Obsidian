@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0254_analogous_to_E_p8165_populism_populism_politics
-title: 低俗なポピュリズムへの迎合
-
+title: "ダウザールが統治を「低俗なポピュリズムへの迎合」と定義するのは、大衆の感情に訴えることで権力を維持するポピュリズム政治への冷笑…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0254_アルゾラ・クロウサー_is_made_of_ゾラ分家_p8154]]"

@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0258_analogous_to_E_ch0258_ハグレス_other_過去の封印_p8251_検閲と秩序維持のための抑圧
-title: 性欲の検閲と秩序維持の抑圧
-
+title: "ハグレスがレメスの「性欲」を「死の欲動」で相殺し封印した行為は、社会秩序維持のために本能や混沌を制度的に検閲・封じ込める構造に…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0258_ハグレス_other_過去の封印_p8251]]"

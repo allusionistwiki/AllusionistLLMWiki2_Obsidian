@@ -9,8 +9,8 @@ first_appearance: ch0252
 spoiler_after: ch0252
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0252|252話]] ｜ 容姿記述 1 件
+初出: [252話](../../nav/ch0252.md) ｜ 容姿記述 1 件
 
-- 額に輝く載冠をのせている。 ｜ 額に輝く冠 ｜ 典拠: [[nav/ch0252|252話]]（p8122）
+- 額に輝く載冠をのせている。 ｜ 額に輝く冠 ｜ 典拠: [252話](../../nav/ch0252.md)（p8122）
   > 彼らの額には輝く冠が載っており、
 <!-- AUTO:END -->

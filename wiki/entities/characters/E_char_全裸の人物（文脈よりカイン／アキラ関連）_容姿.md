@@ -9,8 +9,8 @@ first_appearance: ch0061
 spoiler_after: ch0061
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0061|61話]] ｜ 容姿記述 1 件
+初出: [61話](../../nav/ch0061.md) ｜ 容姿記述 1 件
 
-- 第五階層に現れた人物の全裸の姿への言及 ｜ 服装：全裸 ｜ 典拠: [[nav/ch0061|61話]]（p2292）
+- 第五階層に現れた人物の全裸の姿への言及 ｜ 服装：全裸 ｜ 典拠: [61話](../../nav/ch0061.md)（p2292）
   > 連想して、第五階層に突如として現れた全裸を思い出してしまい、憂鬱になる。
 <!-- AUTO:END -->

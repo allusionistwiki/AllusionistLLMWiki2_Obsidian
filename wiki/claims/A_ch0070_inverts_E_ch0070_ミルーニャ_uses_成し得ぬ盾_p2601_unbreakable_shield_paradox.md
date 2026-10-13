@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0070_inverts_E_ch0070_ミルーニャ_uses_成し得ぬ盾_p2601_unbreakable_shield_paradox
-title: 絶対防御パラドックスの逆用
-
-
-
-
+title: "「成し得ぬ盾」の伝承を逆解釈し、「攻撃者と防御者が無事である限り決して砕けぬ盾」として絶対防御を実現するのは、論理の逆転（パラ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_ミルーニャ_uses_成し得ぬ盾_p2601]]"

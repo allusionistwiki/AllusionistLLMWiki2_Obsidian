@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0012_analogous_to_E_ch0012_トリシューラ_names_ノアズアーク_p511_noahs_ark
-title: ノアの方舟命名による自己言及
-
-
-
-
+title: "トリシューラが巡槍艦マツヤを「ノアズアーク」と命名するのは、作品内のメタフィクション的命名遊びであり、神話的権威を借用して自ら…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_names_ノアズアーク_p511]]"

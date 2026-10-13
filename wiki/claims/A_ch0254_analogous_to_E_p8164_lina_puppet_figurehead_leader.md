@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0254_analogous_to_E_p8164_lina_puppet_figurehead_leader
-title: 空っぽな操り人形としての指導者
-
+title: "リーナが「空っぽな操り人形」と呼ばれることは、実権を持たず象徴として利用される指導者や、メディアに踊らされるアイドル的な存在を…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0254_アルゾラ・クロウサー_is_made_of_ゾラ分家_p8154]]"

@@ -9,8 +9,8 @@ first_appearance: ch0186
 spoiler_after: ch0186
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,9 +22,9 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0186|186話]] ｜ 容姿記述 1 件
+初出: [186話](../../nav/ch0186.md) ｜ 容姿記述 1 件
 
-- 二人は揃いの制服を着用している ｜ 服装（揃いの制服） ｜ 典拠: [[nav/ch0186|186話]]（p6199）
+- 二人は揃いの制服を着用している ｜ 服装（揃いの制服） ｜ 典拠: [186話](../../nav/ch0186.md)（p6199）
   > 氷のような白銀は快活、血のような漆黒は沈鬱。
 揃いの制服を着てはいても正反対の雰囲気の少女たち。
 <!-- AUTO:END -->

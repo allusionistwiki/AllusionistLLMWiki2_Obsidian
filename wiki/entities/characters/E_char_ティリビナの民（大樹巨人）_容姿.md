@@ -9,8 +9,8 @@ first_appearance: ch0038
 spoiler_after: ch0038
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0038|38話]] ｜ 容姿記述 1 件
+初出: [38話](../../nav/ch0038.md) ｜ 容姿記述 1 件
 
-- 樹皮のような肌で、硬質で分厚い樹皮に覆われている。 ｜ 肌・頭・髪 ｜ 典拠: [[nav/ch0038|38話]]（p1666）
+- 樹皮のような肌で、硬質で分厚い樹皮に覆われている。 ｜ 肌・頭・髪 ｜ 典拠: [38話](../../nav/ch0038.md)（p1666）
   > 樹皮のような全身が更に硬質で分厚い樹皮で覆われていき、それらが人が組み合わさった輪郭を包み込んでいく。
 <!-- AUTO:END -->

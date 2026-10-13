@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0263_parodies_E_ch0263_ミブレル_other_リーナの呪文_p8320_linguistic_performativity
-title: 言語遂行性パロディ
-
+title: "比喩表現を文字通りの呪文として処理し、その論理的破綻を指摘する場面は、言語の遂行性や魔法のルールを厳密に定義するファンタジー設…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0263_ミブレル_other_リーナの呪文_p8320]]"

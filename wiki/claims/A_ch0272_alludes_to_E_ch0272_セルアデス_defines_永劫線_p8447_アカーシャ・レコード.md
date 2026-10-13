@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0272_alludes_to_E_ch0272_セルアデス_defines_永劫線_p8447_アカーシャ・レコード
-title: アカーシャ・レコード暗喩
-
+title: "「永劫線」は時間と空間を超越した情報の遍在を定義しており、アカーシャ・レコードや集合的無意識といった「宇宙の記憶庫」概念と構造…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0272_セルアデス_defines_永劫線_p8447]]"

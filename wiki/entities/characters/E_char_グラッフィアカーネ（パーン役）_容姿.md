@@ -9,8 +9,8 @@ first_appearance: ch0110
 spoiler_after: ch0110
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0110|110話]] ｜ 容姿記述 1 件
+初出: [110話](../../nav/ch0110.md) ｜ 容姿記述 1 件
 
-- 眼鏡をかけた威圧的な眼光 ｜ 眼鏡・眼光 ｜ 典拠: [[nav/ch0110|110話]]（p3856）
+- 眼鏡をかけた威圧的な眼光 ｜ 眼鏡・眼光 ｜ 典拠: [110話](../../nav/ch0110.md)（p3856）
   > 眼鏡越しの威圧的な眼光と共に、その全てが吹き散らされた。
 <!-- AUTO:END -->

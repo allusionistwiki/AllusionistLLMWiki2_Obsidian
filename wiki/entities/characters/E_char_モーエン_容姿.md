@@ -9,8 +9,8 @@ first_appearance: ch0270
 spoiler_after: ch0270
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0270|270話]] ｜ 容姿記述 1 件
+初出: [270話](../../nav/ch0270.md) ｜ 容姿記述 1 件
 
-- 黒髪であり、美女と描かれている ｜ 髪・顔立ち ｜ 典拠: [[nav/ch0270|270話]]（p8398）
+- 黒髪であり、美女と描かれている ｜ 髪・顔立ち ｜ 典拠: [270話](../../nav/ch0270.md)（p8398）
   > 翼牛に騎乗した黒髪の美女モーエン
 <!-- AUTO:END -->

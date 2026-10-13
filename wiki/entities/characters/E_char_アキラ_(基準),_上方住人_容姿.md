@@ -9,8 +9,8 @@ first_appearance: ch0005
 spoiler_after: ch0005
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0005|5話]] ｜ 容姿記述 1 件
+初出: [5話](../../nav/ch0005.md) ｜ 容姿記述 1 件
 
-- アキラと同じような人型。肌の色や顔立ち、体格に差異がある。 ｜ 肌・顔立ち・体格 ｜ 典拠: [[nav/ch0005|5話]]（p237）
+- アキラと同じような人型。肌の色や顔立ち、体格に差異がある。 ｜ 肌・顔立ち・体格 ｜ 典拠: [5話](../../nav/ch0005.md)（p237）
   > すれ違う人々の半分は俺と似たような『上』系の人種で差異は肌の色や顔立ち、体格程度のものだ。
 <!-- AUTO:END -->

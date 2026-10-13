@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0197_inverts_E_ch0197_父_other_冒険と自由_p6623_hero_journey_call_to_adventure
-title: 社会から排除される英雄の旅の冒険への招待
-
+title: "父の冒険譚は英雄の旅の「冒険への招待」だが、それは秩序ある社会（博物城）からは「不純物」や「悪影響」として排除される異端の行為…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0197_父_other_冒険と自由_p6623]]"

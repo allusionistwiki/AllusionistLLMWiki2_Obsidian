@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0254_analogous_to_E_p8156_hagless_isolation_political_ouster
-title: 政治的失脚と追放
-
+title: "ハグレスが味方に見捨てられ孤立する様子は、権力闘争に敗れた政治家や経営者が突然の失脚・追放を受ける現実の政治劇を反映している"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0254_アルゾラ・クロウサー_is_made_of_ゾラ分家_p8154]]"

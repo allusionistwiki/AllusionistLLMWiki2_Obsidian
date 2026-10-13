@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0013_analogous_to_E_ch0013_Speaer_other_エスニック・ポリフォニー_p611_ワールドミュージック
-title: ワールドミュージックの無国籍性
-
-
-
-
+title: "歌姫Speaerの音楽が「無国籍」「エスニック風」「背景の見えない軽薄さ」と多様な解釈を生むことは、現代のグローバル化された音…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0013_Speaer_other_エスニック・ポリフォニー_p611]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0035_alludes_to_E_ch0035_アズーリア_uses_ミレノプリズム_p1493_模倣と解析
-title: リバースエンジニアリング的呪術
-
-
-
-
+title: "「静謐」による呪術構造の解析と、その本質を掌握して「全く同じ呪術を再現する」という行為は、リバースエンジニアリングやオープンソ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_アズーリア_uses_ミレノプリズム_p1493]]"

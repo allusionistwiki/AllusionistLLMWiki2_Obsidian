@@ -9,8 +9,8 @@ first_appearance: ch0145
 spoiler_after: ch0145
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0145|145話]] ｜ 容姿記述 1 件
+初出: [145話](../../nav/ch0145.md) ｜ 容姿記述 1 件
 
-- 少年。頬を膨らませる。兎耳を持つ。 ｜ 頬・耳 ｜ 典拠: [[nav/ch0145|145話]]（p4953）
+- 少年。頬を膨らませる。兎耳を持つ。 ｜ 頬・耳 ｜ 典拠: [145話](../../nav/ch0145.md)（p4953）
   > 少年は軽く頬を膨らませ、兎耳を軽く動かした。
 <!-- AUTO:END -->

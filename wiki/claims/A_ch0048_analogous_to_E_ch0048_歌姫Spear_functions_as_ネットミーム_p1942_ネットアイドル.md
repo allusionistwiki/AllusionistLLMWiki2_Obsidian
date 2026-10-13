@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0048_analogous_to_E_ch0048_歌姫Spear_functions_as_ネットミーム_p1942_ネットアイドル
-title: ネットアイドルへの歌姫の転生
-
-
-
-
+title: "実体不在の歌姫Spearは、現代のVTuberやネットアイドルが「実体が見えないこと」を逆手に取り、捏造や誹謗中傷を燃料に存在…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0048_歌姫Spear_functions_as_ネットミーム_p1942]]"

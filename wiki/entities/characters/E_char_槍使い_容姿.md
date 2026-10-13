@@ -9,8 +9,8 @@ first_appearance: ch0242
 spoiler_after: ch0242
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0242|242話]] ｜ 容姿記述 1 件
+初出: [242話](../../nav/ch0242.md) ｜ 容姿記述 1 件
 
-- 美貌で戦乙女の女装 ｜ 顔立ち・服装 ｜ 典拠: [[nav/ch0242|242話]]（p7922）
+- 美貌で戦乙女の女装 ｜ 顔立ち・服装 ｜ 典拠: [242話](../../nav/ch0242.md)（p7922）
   > 戦乙女の女装をした美貌の槍使いが静止時空の中を悠然と舞う。
 <!-- AUTO:END -->

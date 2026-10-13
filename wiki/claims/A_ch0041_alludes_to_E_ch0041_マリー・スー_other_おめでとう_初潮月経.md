@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0041_alludes_to_E_ch0041_マリー・スー_other_おめでとう_初潮月経
-title: 初潮の祝福
-
+title: "ヴァージリアが「黒い血」を流し、マリーが「おめでとう」と書く反応は、初潮（月経）を「祝福すべき成長の証」として扱う文化的・生物…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0041_マリー・スー_other_おめでとう_p1779]]"

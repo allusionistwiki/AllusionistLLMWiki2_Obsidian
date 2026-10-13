@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0080_structurally_matches_E_ch0080_槍神教_other_吸血鬼_p2937_植民地支配における現地エリートへの同化政策
-title: 植民地支配の同化政策
-
-
-
-
+title: "吸血鬼化により権力基盤が脅かされた槍神教が、排除を断念し吸血鬼を「人」と認める過程は、支配層が被支配層の同化や権力移転を容認せ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_槍神教_other_吸血鬼_p2937]]"

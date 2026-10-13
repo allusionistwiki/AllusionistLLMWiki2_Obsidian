@@ -9,8 +9,8 @@ first_appearance: ch0065
 spoiler_after: ch0065
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,10 +24,10 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0065|65話]] ｜ 容姿記述 2 件
+初出: [65話](../../nav/ch0065.md) ｜ 容姿記述 2 件
 
-- 壮年の修道騎士。 ｜ 壮年修道騎士 ｜ 典拠: [[nav/ch0065|65話]]（p2449）
+- 壮年の修道騎士。 ｜ 壮年修道騎士 ｜ 典拠: [65話](../../nav/ch0065.md)（p2449）
   > 第十位の壮年修道騎士が頭痛を堪えるようにしながら苦言を呈する。
--  ｜ 顔立ち ｜ 典拠: [[nav/ch0068|68話]]（p2545）
+-  ｜ 顔立ち ｜ 典拠: [68話](../../nav/ch0068.md)（p2545）
   > 万殺鬼アインノーラの決闘に敗れたバルの首が掲げられる。
 <!-- AUTO:END -->

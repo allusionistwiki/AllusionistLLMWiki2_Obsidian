@@ -9,8 +9,8 @@ first_appearance: ch0239
 spoiler_after: ch0239
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0239|239話]] ｜ 容姿記述 1 件
+初出: [239話](../../nav/ch0239.md) ｜ 容姿記述 1 件
 
-- 燕尾服、半球状に抉れた顔面 ｜ 服装・顔立ち ｜ 典拠: [[nav/ch0239|239話]]（p7837）
+- 燕尾服、半球状に抉れた顔面 ｜ 服装・顔立ち ｜ 典拠: [239話](../../nav/ch0239.md)（p7837）
   > 一見して燕尾服を纏った紳士だが、顔面が半球状に抉れているのが異様だった
 <!-- AUTO:END -->

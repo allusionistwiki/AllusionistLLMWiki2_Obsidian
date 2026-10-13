@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0036_analogous_to_E_ch0036_ミルーニャ_suspects_ハルベルトの重力操作_p1501_保険・リスク管理
-title: 保険・リスク管理の適用
-
-
-
-
+title: "ミルーニャが「保険として」衝撃緩和材を用意し、最悪の事態（墜落死）に備える行動は、現代のリスク管理や保険商品の概念をファンタジ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_ミルーニャ_suspects_ハルベルトの重力操作_p1501]]"

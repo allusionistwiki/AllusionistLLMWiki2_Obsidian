@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0069_alludes_to_E_ch0069_青年_says_異獣の排除_p2577_exclusion_of_the_other
-title: 均質な祈りによる他者排除の風刺
-
-
-
-
+title: "危機下で「均質な祈り」を名目に異獣（他者）を排除する青年の行動は、社会におけるマイノリティへのヘイトや排外主義の構造を風刺して…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_青年_says_異獣の排除_p2577]]"

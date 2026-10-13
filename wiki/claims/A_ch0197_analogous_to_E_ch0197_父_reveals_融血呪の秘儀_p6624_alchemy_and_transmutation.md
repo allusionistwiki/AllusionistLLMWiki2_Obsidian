@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0197_analogous_to_E_ch0197_父_reveals_融血呪の秘儀_p6624_alchemy_and_transmutation
-title: 血統の境界を越える錬金術と変容
-
+title: "血液が青に変化し、異なる血統の力が融け合う「融血呪」は、血統の純粋性や境界を越える禁忌的な変容を象徴している"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0197_父_reveals_融血呪の秘儀_p6624]]"

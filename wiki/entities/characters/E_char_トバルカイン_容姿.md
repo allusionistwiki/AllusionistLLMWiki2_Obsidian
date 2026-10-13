@@ -9,8 +9,8 @@ first_appearance: ch0121
 spoiler_after: ch0121
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0121|121話]] ｜ 容姿記述 1 件
+初出: [121話](../../nav/ch0121.md) ｜ 容姿記述 1 件
 
-- 骨狼。骨のみで構成される狼。 ｜ 身体構成 ｜ 典拠: [[nav/ch0121|121話]]（4279）
+- 骨狼。骨のみで構成される狼。 ｜ 身体構成 ｜ 典拠: [121話](../../nav/ch0121.md)（4279）
   > 傍をついてくる骨狼のカイン――いや、今は新たな名を得たトバルカインがカチカチと鳴き声を上げてルウテトに擦り寄っていく。
 <!-- AUTO:END -->

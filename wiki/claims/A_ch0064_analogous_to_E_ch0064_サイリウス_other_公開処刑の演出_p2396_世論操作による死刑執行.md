@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_サイリウス_other_公開処刑の演出_p2396_世論操作による死刑執行
-title: 世論操作による死刑執行
-
-
-
-
+title: "サイリウスが観客に「慈悲」という名目でガルズの死を望ませる行為は、世論を誘導して処刑を正当化する政治的・社会的な構造を批判的に…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_サイリウス_other_公開処刑の演出_p2396]]"

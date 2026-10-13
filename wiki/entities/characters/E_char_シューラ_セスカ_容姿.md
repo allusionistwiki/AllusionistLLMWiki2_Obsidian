@@ -9,8 +9,8 @@ first_appearance: ch0264
 spoiler_after: ch0264
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0264|264話]] ｜ 容姿記述 1 件
+初出: [264話](../../nav/ch0264.md) ｜ 容姿記述 1 件
 
-- 四角い頭をしており、ぷるぷるとした質感の小柄な姿 ｜ 頭（四角）・体格（ちび/小柄）・質感（ぷるぷる） ｜ 典拠: [[nav/ch0264|264話]]（p8332）
+- 四角い頭をしており、ぷるぷるとした質感の小柄な姿 ｜ 頭（四角）・体格（ちび/小柄）・質感（ぷるぷる） ｜ 典拠: [264話](../../nav/ch0264.md)（p8332）
   > ぷるぷるした四角い頭のちびシューラとちびセスカ
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0217
 spoiler_after: ch0217
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0217|217話]] ｜ 容姿記述 1 件
+初出: [217話](../../nav/ch0217.md) ｜ 容姿記述 1 件
 
-- 十字の瞳。病的な白さの肌。悲嘆と憂いの表情。 ｜ 瞳・肌・表情 ｜ 典拠: [[nav/ch0217|217話]]（7253）
+- 十字の瞳。病的な白さの肌。悲嘆と憂いの表情。 ｜ 瞳・肌・表情 ｜ 典拠: [217話](../../nav/ch0217.md)（7253）
   > 十字の瞳。病的な白さの肌。悲嘆と憂いの張り付いた表情。
 <!-- AUTO:END -->

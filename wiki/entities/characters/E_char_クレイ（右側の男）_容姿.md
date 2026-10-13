@@ -9,8 +9,8 @@ first_appearance: ch0081
 spoiler_after: ch0081
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0081|81話]] ｜ 容姿記述 1 件
+初出: [81話](../../nav/ch0081.md) ｜ 容姿記述 1 件
 
-- 深く厳かな低音域の声。 ｜ 声 ｜ 典拠: [[nav/ch0081|81話]]（p2970）
+- 深く厳かな低音域の声。 ｜ 声 ｜ 典拠: [81話](../../nav/ch0081.md)（p2970）
   > 深く、厳かな声。雄々しさというものを巌のように押し固めたような低さ。
 <!-- AUTO:END -->

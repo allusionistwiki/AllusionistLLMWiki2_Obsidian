@@ -9,8 +9,8 @@ first_appearance: ch0209
 spoiler_after: ch0209
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0209|209話]] ｜ 容姿記述 1 件
+初出: [209話](../../nav/ch0209.md) ｜ 容姿記述 1 件
 
-- 顔の横から垂れる長耳 (象牙色、淡褐色、薄紫色) ｜ 耳・髪 ｜ 典拠: [[nav/ch0209|209話]]（p7042）
+- 顔の横から垂れる長耳 (象牙色、淡褐色、薄紫色) ｜ 耳・髪 ｜ 典拠: [209話](../../nav/ch0209.md)（p7042）
   > ハルベルトの傍には三人の兎人が控えており、常に周囲を警戒している。顔の横から垂れている長耳は象牙色、淡褐色、薄紫色の三種。
 <!-- AUTO:END -->

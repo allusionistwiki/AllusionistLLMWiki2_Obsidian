@@ -9,8 +9,8 @@ first_appearance: ch0114
 spoiler_after: ch0114
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0114|114話]] ｜ 容姿記述 1 件
+初出: [114話](../../nav/ch0114.md) ｜ 容姿記述 1 件
 
-- 四本脚。角のような雄々しい門歯を持つ。 ｜ 体格・牙 ｜ 典拠: [[nav/ch0114|114話]]（p4010）
+- 四本脚。角のような雄々しい門歯を持つ。 ｜ 体格・牙 ｜ 典拠: [114話](../../nav/ch0114.md)（p4010）
   > 角と見紛うばかりの雄々しい門歯を持った四本脚のイッカク
 <!-- AUTO:END -->

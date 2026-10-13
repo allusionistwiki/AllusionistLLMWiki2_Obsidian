@@ -9,8 +9,8 @@ first_appearance: ch0115
 spoiler_after: ch0115
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0115|115話]] ｜ 容姿記述 1 件
+初出: [115話](../../nav/ch0115.md) ｜ 容姿記述 1 件
 
-- 安らかで朽ちていく。 ｜ 表情・状態 ｜ 典拠: [[nav/ch0115|115話]]（p4046）
+- 安らかで朽ちていく。 ｜ 表情・状態 ｜ 典拠: [115話](../../nav/ch0115.md)（p4046）
   > 老犬は安らかな表情で目を瞑り、そのまま動かなくなると、急速にその身を朽ち果てさせていった。
 <!-- AUTO:END -->

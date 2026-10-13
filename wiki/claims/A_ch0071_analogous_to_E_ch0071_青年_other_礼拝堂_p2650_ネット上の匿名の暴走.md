@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_青年_other_礼拝堂_p2650_ネット上の匿名の暴走
-title: ネット匿名性の暴走心理
-
-
-
-
+title: "洗脳解除後の青年が怒り狂い破壊行為に及ぶ様子は、匿名性や扇動によって暴走するネットユーザーの心理状態を反映している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_青年_other_礼拝堂_p2650]]"

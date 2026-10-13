@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0072_analogous_to_E_ch0072_アキラ_uses_金鎖_p2697_スマホゲームのガチャ／アンロック
-title: ガチャ・アンロック的な解放
-
-
-
-
+title: "金鎖を砕いて左手の指（部位）を解放し、新たな武器（斧槍）や能力を得るプロセスは、ゲームにおけるキャラクターの限界突破や装備アン…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0072_アキラ_uses_金鎖_p2697]]"

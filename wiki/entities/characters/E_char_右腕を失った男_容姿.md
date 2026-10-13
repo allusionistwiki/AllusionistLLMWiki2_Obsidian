@@ -9,8 +9,8 @@ first_appearance: ch0011
 spoiler_after: ch0011
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0011|11話]] ｜ 容姿記述 1 件
+初出: [11話](../../nav/ch0011.md) ｜ 容姿記述 1 件
 
-- 右腕がなく、路上で暮らしている ｜ 右腕 ｜ 典拠: [[nav/ch0011|11話]]（p477）
+- 右腕がなく、路上で暮らしている ｜ 右腕 ｜ 典拠: [11話](../../nav/ch0011.md)（p477）
   > ある男が義肢を羨ましそうに見ている。右腕を失った男。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0238
 spoiler_after: ch0238
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0238|238話]] ｜ 容姿記述 1 件
+初出: [238話](../../nav/ch0238.md) ｜ 容姿記述 1 件
 
-- ポニーテール（髪房）を指す ｜ 髪: 髪房（角・尾） ｜ 典拠: [[nav/ch0238|238話]]（p7802）
+- ポニーテール（髪房）を指す ｜ 髪: 髪房（角・尾） ｜ 典拠: [238話](../../nav/ch0238.md)（p7802）
   > 角であり髪房であり尾でもある、火と風を象徴する呪物。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0152
 spoiler_after: ch0152
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0152|152話]] ｜ 容姿記述 1 件
+初出: [152話](../../nav/ch0152.md) ｜ 容姿記述 1 件
 
-- 特徴的な耳（蝶の翅のような耳）を持ち、強く美しい容姿 ｜ 耳・顔立ち ｜ 典拠: [[nav/ch0152|152話]]（p5160）
+- 特徴的な耳（蝶の翅のような耳）を持ち、強く美しい容姿 ｜ 耳・顔立ち ｜ 典拠: [152話](../../nav/ch0152.md)（p5160）
   > 特徴的な耳のパピヨン氏族。気位の高い、強く美しい女性だった。
 <!-- AUTO:END -->

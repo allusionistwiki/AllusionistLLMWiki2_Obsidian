@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0046_structurally_matches_E_ch0046_六人_other_黒百合_p1901_rpg_party_structure
-title: RPGパーティ構成の模倣
-
-
-
-
+title: "探索者集団の構成人数（6人）や、リーダーの選出、名前付けといったプロセスは、TRPGやMMORPGにおけるパーティ結成のクリシ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0046_六人_other_黒百合_p1901]]"

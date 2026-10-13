@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_白血呪_p1680_バイオハザードと不死の民主化
-title: 不死の民主化と倫理崩壊
-
-
-
-
+title: "ミルーニャがフィリスを用いて不死性を量産し、既存の価値を崩壊させようとする計画は、技術の民主化が社会構造を破壊する「バイオハザ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_ミルーニャ_reveals_白血呪_p1680]]"

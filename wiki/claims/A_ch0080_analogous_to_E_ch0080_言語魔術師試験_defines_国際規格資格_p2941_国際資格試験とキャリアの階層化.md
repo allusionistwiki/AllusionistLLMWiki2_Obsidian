@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0080_analogous_to_E_ch0080_言語魔術師試験_defines_国際規格資格_p2941_国際資格試験とキャリアの階層化
-title: 国際資格の階層化
-
-
-
-
+title: "言語魔術師試験の級位制度は、現実の資格試験による社会的序列の固定化を模倣し、呪術世界における権力構造を可視化している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_言語魔術師試験_defines_国際規格資格_p2941]]"

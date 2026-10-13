@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0076_analogous_to_E_ch0076_リーナ_names_当主_p2860_現代の企業経営とコンプライアンス
-title: 企業経営とコンプライアンス
-
-
-
-
+title: "リーナが当主として忙しく飛び回り、速度制限違反で捕まるという「前代未聞の不祥事」を起こす描写は、彼女の破天荒な行動様式が組織の…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0076_リーナ_names_当主_p2860]]"

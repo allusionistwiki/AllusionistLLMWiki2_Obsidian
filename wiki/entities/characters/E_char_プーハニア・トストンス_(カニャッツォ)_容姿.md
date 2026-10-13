@@ -9,8 +9,8 @@ first_appearance: ch0150
 spoiler_after: ch0150
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,12 +22,12 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0150|150話]] ｜ 容姿記述 2 件
+初出: [150話](../../nav/ch0150.md) ｜ 容姿記述 2 件
 
-- 巨体 ｜ 体格 ｜ 典拠: [[nav/ch0150|150話]]（p5086）
+- 巨体 ｜ 体格 ｜ 典拠: [150話](../../nav/ch0150.md)（p5086）
   > 狆くッツォ
 カニャ
 しゃが巨体を縮こまらせて謝罪していた。
-- しわくちゃで赤い顔 ｜ 顔 ｜ 典拠: [[nav/ch0150|150話]]（p5089）
+- しわくちゃで赤い顔 ｜ 顔 ｜ 典拠: [150話](../../nav/ch0150.md)（p5089）
   > しわくちゃの顔が赤く染まる。
 <!-- AUTO:END -->

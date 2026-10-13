@@ -9,8 +9,8 @@ first_appearance: ch0120
 spoiler_after: ch0120
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0120|120話]] ｜ 容姿記述 1 件
+初出: [120話](../../nav/ch0120.md) ｜ 容姿記述 1 件
 
-- 禿頭の女。 ｜ 頭(禿頭) ｜ 典拠: [[nav/ch0120|120話]]（p4273）
+- 禿頭の女。 ｜ 頭(禿頭) ｜ 典拠: [120話](../../nav/ch0120.md)（p4273）
   > またやろうぜ、と破顔する禿頭の女からは、何かが吹っ切れたような雰囲気が感じられた。
 <!-- AUTO:END -->

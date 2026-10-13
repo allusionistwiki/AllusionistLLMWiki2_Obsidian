@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0079_analogous_to_E_ch0079_シアナ_has_property_概日リズム変化_p2913_現代の夜間勤務手当と労働法規
-title: 労働環境均一化概念のアナロジー
-
-
-
-
+title: "異世界の種族特性（概日リズム）を呪術で改変し、昼間労働者と同じ待遇にする描写は、身体的な差異を技術で補正して労働環境を均一化す…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_シアナ_has_property_概日リズム変化_p2913]]"

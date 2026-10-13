@@ -9,8 +9,8 @@ first_appearance: ch0137
 spoiler_after: ch0137
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0137|137話]] ｜ 容姿記述 1 件
+初出: [137話](../../nav/ch0137.md) ｜ 容姿記述 1 件
 
-- 丸々としたふくよかな体型と豊かな髪が共通している。 ｜ 体型・髪 ｜ 典拠: [[nav/ch0137|137話]]（p4691）
+- 丸々としたふくよかな体型と豊かな髪が共通している。 ｜ 体型・髪 ｜ 典拠: [137話](../../nav/ch0137.md)（p4691）
   > 丸々としたふくよかな体型に、豊かな髪という共通点を持った人々。
 <!-- AUTO:END -->

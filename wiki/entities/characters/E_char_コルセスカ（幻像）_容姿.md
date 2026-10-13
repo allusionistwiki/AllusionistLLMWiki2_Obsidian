@@ -9,8 +9,8 @@ first_appearance: ch0115
 spoiler_after: ch0115
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0115|115話]] ｜ 容姿記述 1 件
+初出: [115話](../../nav/ch0115.md) ｜ 容姿記述 1 件
 
-- 老齢の魔女、幼い少女、人食い鬼、右腕の異能などの幻像。 ｜ 年齢・存在形態 ｜ 典拠: [[nav/ch0115|115話]]（p4038）
+- 老齢の魔女、幼い少女、人食い鬼、右腕の異能などの幻像。 ｜ 年齢・存在形態 ｜ 典拠: [115話](../../nav/ch0115.md)（p4038）
   > 老齢の魔女が、幼い少女が、人食い鬼が、右腕に宿る封印された異能が、力士の重装甲を剥ぎ取っていく。
 <!-- AUTO:END -->

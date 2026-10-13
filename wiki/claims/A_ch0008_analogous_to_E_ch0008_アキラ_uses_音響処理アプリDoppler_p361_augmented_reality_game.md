@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0008_analogous_to_E_ch0008_アキラ_uses_音響処理アプリDoppler_p361_augmented_reality_game
-title: ARゲーム索敵メカニクスの適用
-
-
-
-
+title: "視覚を奪われた状態で音響アプリ『Doppler』を駆使し、敵の位置を特定して攻撃する様子は、ARゲームやFPSゲームにおけるミ…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_アキラ_uses_音響処理アプリDoppler_p361]]"

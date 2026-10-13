@@ -9,8 +9,8 @@ first_appearance: ch0115
 spoiler_after: ch0115
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0115|115話]] ｜ 容姿記述 1 件
+初出: [115話](../../nav/ch0115.md) ｜ 容姿記述 1 件
 
-- 流線型で白、銀、青の色。 ｜ 形状・カラーリング ｜ 典拠: [[nav/ch0115|115話]]（p4026）
+- 流線型で白、銀、青の色。 ｜ 形状・カラーリング ｜ 典拠: [115話](../../nav/ch0115.md)（p4026）
   > レスポンスは良好、使用感も抜群。
 <!-- AUTO:END -->

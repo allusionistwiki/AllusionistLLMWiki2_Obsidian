@@ -9,8 +9,8 @@ first_appearance: ch0220
 spoiler_after: ch0220
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0220|220話]] ｜ 容姿記述 1 件
+初出: [220話](../../nav/ch0220.md) ｜ 容姿記述 1 件
 
-- 大柄で枯葉を纏った姿（動画には登場せず、記述として存在）。 ｜ 服装・体格 ｜ 典拠: [[nav/ch0220|220話]]（p7321）
+- 大柄で枯葉を纏った姿（動画には登場せず、記述として存在）。 ｜ 服装・体格 ｜ 典拠: [220話](../../nav/ch0220.md)（p7321）
   > 動画に登場しているのは子供や若者だけだ。年経た古株、大柄で枯葉を纏った老人たちはどこにも見当たらない。
 <!-- AUTO:END -->

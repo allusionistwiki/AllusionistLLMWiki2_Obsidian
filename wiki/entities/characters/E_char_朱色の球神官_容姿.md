@@ -9,8 +9,8 @@ first_appearance: ch0195
 spoiler_after: ch0195
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0195|195話]] ｜ 容姿記述 1 件
+初出: [195話](../../nav/ch0195.md) ｜ 容姿記述 1 件
 
-- 軍団長および王の側近の球神官 ｜ 朱色 ｜ 典拠: [[nav/ch0195|195話]]（p6551）
+- 軍団長および王の側近の球神官 ｜ 朱色 ｜ 典拠: [195話](../../nav/ch0195.md)（p6551）
   > 軍団長のひとり、側近である朱色の球神官が王の身を案じて言った。
 <!-- AUTO:END -->

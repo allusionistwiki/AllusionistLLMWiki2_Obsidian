@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0060_structurally_matches_E_ch0060_アズーリア_other_ハルベルトの共有_p2277_quantum_entanglement
-title: 量子もつれへの構造対応
-
-
-
-
+title: "名前（記号）が二人の間を行き来し、存在を共有する構造は、記号の意味が相互に依存し合う「記号の相互依存性」と構造的に類似している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_アズーリア_other_ハルベルトの共有_p2277]]"

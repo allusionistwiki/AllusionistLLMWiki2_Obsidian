@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0118_analogous_to_E_ch0118_ケイト_defines_テセウスの船型サイボーグ_p4151_theseus_paradox
-title: テセウスの船型サイボーグ
-
+title: "意識を電子化した人間が機械の身体を得ることで「テセウスの船型サイボーグ」と定義されることは、同一性のパラドックス（テセウスの船…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0118_ケイト_defines_テセウスの船型サイボーグ_p4151]]"

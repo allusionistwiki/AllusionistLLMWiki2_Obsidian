@@ -9,8 +9,8 @@ first_appearance: ch0021
 spoiler_after: ch0021
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0021|21話]] ｜ 容姿記述 1 件
+初出: [21話](../../nav/ch0021.md) ｜ 容姿記述 1 件
 
-- 赤い髪と緑色の瞳を持つ小さな妖精のような姿 ｜ 髪・瞳 ｜ 典拠: [[nav/ch0021|21話]]（p923）
+- 赤い髪と緑色の瞳を持つ小さな妖精のような姿 ｜ 髪・瞳 ｜ 典拠: [21話](../../nav/ch0021.md)（p923）
   > 赤い髪と緑色の瞳をした妖精
 <!-- AUTO:END -->

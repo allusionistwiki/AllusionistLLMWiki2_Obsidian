@@ -9,8 +9,8 @@ first_appearance: ch0234
 spoiler_after: ch0234
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0234|234話]] ｜ 容姿記述 1 件
+初出: [234話](../../nav/ch0234.md) ｜ 容姿記述 1 件
 
-- 体格の良い男性。 ｜ 体格の良い ｜ 典拠: [[nav/ch0234|234話]]（p7688）
+- 体格の良い男性。 ｜ 体格の良い ｜ 典拠: [234話](../../nav/ch0234.md)（p7688）
   > 寄り添うような距離の近さが印象に残る二人だった。体格の良い兄が細身の弟の肩を抱いている。
 <!-- AUTO:END -->

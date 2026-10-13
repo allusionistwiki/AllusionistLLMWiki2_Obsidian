@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0013_analogous_to_E_ch0013_治癒符_appears_空からの散布_p625_ヘリコプターマネー
-title: ヘリコプターマネーのインフレ
-
-
-
-
+title: "無人の回転翼機が大量の治癒符（通貨）を階層にばらまく様子は、経済危機時の「ヘリコプターマネー」政策や、ゲーム内でのアイテム配布…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0013_治癒符_appears_空からの散布_p625]]"

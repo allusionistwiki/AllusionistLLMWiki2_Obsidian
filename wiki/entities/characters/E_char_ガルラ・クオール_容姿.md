@@ -9,8 +9,8 @@ first_appearance: ch0194
 spoiler_after: ch0194
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0194|194話]] ｜ 容姿記述 1 件
+初出: [194話](../../nav/ch0194.md) ｜ 容姿記述 1 件
 
-- 朱色のローブを纏う。腹部が開く。 ｜ 服装・腹部(開く) ｜ 典拠: [[nav/ch0194|194話]]（p6489）
+- 朱色のローブを纏う。腹部が開く。 ｜ 服装・腹部(開く) ｜ 典拠: [194話](../../nav/ch0194.md)（p6489）
   > 朱色のローブを纏ったガルラくんの腹部が開くと、中には小さな箱庭。
 <!-- AUTO:END -->

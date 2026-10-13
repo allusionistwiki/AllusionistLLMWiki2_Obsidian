@@ -9,8 +9,8 @@ first_appearance: ch0097
 spoiler_after: ch0097
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0097|97話]] ｜ 容姿記述 1 件
+初出: [97話](../../nav/ch0097.md) ｜ 容姿記述 1 件
 
-- 青い翼と蝙蝠の羽を持つ獣に変身 ｜ 体格 ｜ 典拠: [[nav/ch0097|97話]]（p3558）
+- 青い翼と蝙蝠の羽を持つ獣に変身 ｜ 体格 ｜ 典拠: [97話](../../nav/ch0097.md)（p3558）
   > 少女の肉体が変幻して、青い翼と蝙蝠の羽を兼ね備えた牡鹿とも鼠とも狼ともつかない奇怪な獣になる。
 <!-- AUTO:END -->

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0066_analogous_to_E_ch0066_ピッチャールー_attacks_呪術反応端末_p2473_自動迎撃システム
-title: 自動迎撃トラップの原理
-
-
-
-
+title: "呪術（エネルギー）に反応して殺到する金属球は、ゲームにおける「敵の攻撃（呪文）を検知して自動迎撃するトラップ」や「敵のアクショ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_ピッチャールー_attacks_プリエステラ_p2473]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0077_alludes_to_E_ch0077_ウィクトーリア_says_ママ_p2902_マタニティ・ホラー／母性恐怖
-title: マタニティ・ホラー
-
-
-
-
+title: "ウィクトーリアがカインを「ママ」と呼び、胎内（死人の森）へ引き込む描写は、母性への回帰を死（胎内への回帰）として描くマタニティ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0077_ウィクトーリア_says_ママ_p2902]]"

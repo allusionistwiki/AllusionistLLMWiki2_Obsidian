@@ -9,8 +9,8 @@ first_appearance: ch0039
 spoiler_after: ch0039
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0039|39話]] ｜ 容姿記述 1 件
+初出: [39話](../../nav/ch0039.md) ｜ 容姿記述 1 件
 
-- サンズが朱色で呼ばれる。 ｜ 色 ｜ 典拠: [[nav/ch0039|39話]]（p1748）
+- サンズが朱色で呼ばれる。 ｜ 色 ｜ 典拠: [39話](../../nav/ch0039.md)（p1748）
   > 朱のサンズ
 <!-- AUTO:END -->

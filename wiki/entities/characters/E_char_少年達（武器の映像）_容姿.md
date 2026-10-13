@@ -9,8 +9,8 @@ first_appearance: ch0019
 spoiler_after: ch0019
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0019|19話]] ｜ 容姿記述 1 件
+初出: [19話](../../nav/ch0019.md) ｜ 容姿記述 1 件
 
-- 武器から現れた映像は美貌の少年たち。 ｜ 少年たち ｜ 典拠: [[nav/ch0019|19話]]（p862）
+- 武器から現れた映像は美貌の少年たち。 ｜ 少年たち ｜ 典拠: [19話](../../nav/ch0019.md)（p862）
   > その上に、ラグが走る。表示されたのは、無垢で純粋な、美貌の少年たち。
 <!-- AUTO:END -->

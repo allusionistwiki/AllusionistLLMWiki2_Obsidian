@@ -9,8 +9,8 @@ first_appearance: ch0022
 spoiler_after: ch0022
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0022|22話]] ｜ 容姿記述 1 件
+初出: [22話](../../nav/ch0022.md) ｜ 容姿記述 1 件
 
-- 人形のような瞳 ｜ 瞳 ｜ 典拠: [[nav/ch0022|22話]]（p983）
+- 人形のような瞳 ｜ 瞳 ｜ 典拠: [22話](../../nav/ch0022.md)（p983）
   > 初めてその人形のような瞳を見た瞬間、仲良くなりたいと、幼い感情が湧き上がった。
 <!-- AUTO:END -->

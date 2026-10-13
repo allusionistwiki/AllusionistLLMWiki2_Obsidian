@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_イキュー_has_property_味覚による邪視_p1564_sensory_deprivation
-title: 味覚支配の感覚遮断
-
-
-
-
+title: "視覚を失い味覚のみで世界を認識するイキューの生態は、感覚の代償と知覚の歪み、および「味覚」が世界を支配する極端な身体性を示して…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_イキュー_has_property_味覚による邪視_p1564]]"

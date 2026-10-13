@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_intelligence_gathering
-title: 情報収集としての密偵運用
-
-
-
-
+title: "密偵による情報収集は、ゲームにおける情報収集（Intelligence Gathering）を模している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_uses_密偵_p2421]]"

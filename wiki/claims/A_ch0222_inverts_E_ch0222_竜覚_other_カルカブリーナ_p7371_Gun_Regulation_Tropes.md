@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0222_inverts_E_ch0222_竜覚_other_カルカブリーナ_p7371_Gun_Regulation_Tropes
-title: 最強武器クリシェの逆転
-
+title: "異世界において銃器が『英雄性を否定する無慈悲な暴力』として天罰（竜覚）の対象となるのは、一般的に銃が最強の武器として扱われるジ…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0222_竜覚_other_カルカブリーナ_p7371]]"

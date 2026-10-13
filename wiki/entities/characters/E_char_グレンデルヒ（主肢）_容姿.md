@@ -9,8 +9,8 @@ first_appearance: ch0119
 spoiler_after: ch0119
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0119|119話]] ｜ 容姿記述 1 件
+初出: [119話](../../nav/ch0119.md) ｜ 容姿記述 1 件
 
-- 黄褐色のスーツを着用している ｜ 服装 ｜ 典拠: [[nav/ch0119|119話]]（p4168）
+- 黄褐色のスーツを着用している ｜ 服装 ｜ 典拠: [119話](../../nav/ch0119.md)（p4168）
   > 黄褐色のスーツを着た主肢グレンデルヒは、空中で彼女を待ち構えていた。
 <!-- AUTO:END -->

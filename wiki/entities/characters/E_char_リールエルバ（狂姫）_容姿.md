@@ -9,8 +9,8 @@ first_appearance: ch0057
 spoiler_after: ch0057
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0057|57話]] ｜ 容姿記述 1 件
+初出: [57話](../../nav/ch0057.md) ｜ 容姿記述 1 件
 
-- アバター詳細。緑髪、赤い瞳、精巧な唇。 ｜ 緑の髪・赤い瞳・唇 ｜ 典拠: [[nav/ch0057|57話]]（p2172）
+- アバター詳細。緑髪、赤い瞳、精巧な唇。 ｜ 緑の髪・赤い瞳・唇 ｜ 典拠: [57話](../../nav/ch0057.md)（p2172）
   > 緑の髪を揺らしながら、少女の赤い瞳が嗜虐的に揺らめく。精巧なつくりの唇を嘲笑の形に歪めて、【狂姫】は喉を鳴らした。
 <!-- AUTO:END -->

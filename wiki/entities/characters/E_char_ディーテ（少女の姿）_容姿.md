@@ -9,8 +9,8 @@ first_appearance: ch0100
 spoiler_after: ch0100
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0100|100話]] ｜ 容姿記述 1 件
+初出: [100話](../../nav/ch0100.md) ｜ 容姿記述 1 件
 
-- 蜂蜜色の髪と灰色の瞳を持つ幼い少女の姿。 ｜ 髪・眼 ｜ 典拠: [[nav/ch0100|100話]]（p3640）
+- 蜂蜜色の髪と灰色の瞳を持つ幼い少女の姿。 ｜ 髪・眼 ｜ 典拠: [100話](../../nav/ch0100.md)（p3640）
   > 蜂蜜色の髪と灰色の瞳の少女が喋る三叉槍ディーテであると
 <!-- AUTO:END -->

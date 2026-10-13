@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0080_analogous_to_E_ch0080_トリシューラ_requires_女王の権威_p2948_国家承認と国際法上の正統性
-title: 国家承認の正統性
-
-
-
-
+title: "ガロアンディアンが「王国」として呪術的に成立するために、既存の歴史（死人の森）との対峙や権威の継承が必要という設定は、現実の国…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0080_トリシューラ_requires_女王の権威_p2948]]"

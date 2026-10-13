@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0054_analogous_to_E_ch0054_ガルズ_other_眼球コンピュータ_p2095_全身監視カメラシステム
-title: 全身監視カメラによる支配
-
-
-
-
+title: "ガルズの全身に埋め込まれた眼球は、ガルズが自身の世界観（事実）を全方位から拡張・支配するための「認識の可視化装置」であり、物語…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_ガルズ_other_眼球コンピュータ_p2095]]"

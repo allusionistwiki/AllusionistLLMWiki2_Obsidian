@@ -9,8 +9,8 @@ first_appearance: ch0179
 spoiler_after: ch0179
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0179|179話]] ｜ 容姿記述 1 件
+初出: [179話](../../nav/ch0179.md) ｜ 容姿記述 1 件
 
-- （引用の文脈上、名前のみ登場。直接的な容姿描写は直前・直後にないため最小限の記載） ｜ 服装 ｜ 典拠: [[nav/ch0179|179話]]（p5948）
+- （引用の文脈上、名前のみ登場。直接的な容姿描写は直前・直後にないため最小限の記載） ｜ 服装 ｜ 典拠: [179話](../../nav/ch0179.md)（p5948）
   > 「イツノ姫！　あとカーインもいるのは何で？」
 <!-- AUTO:END -->

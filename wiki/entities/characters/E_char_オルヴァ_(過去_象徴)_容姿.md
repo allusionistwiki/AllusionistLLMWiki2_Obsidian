@@ -9,8 +9,8 @@ first_appearance: ch0147
 spoiler_after: ch0147
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0147|147話]] ｜ 容姿記述 1 件
+初出: [147話](../../nav/ch0147.md) ｜ 容姿記述 1 件
 
-- 獅子王としての象徴的外見（方舟・猫との関連） ｜ 獅子王・方舟・猫の叡智 ｜ 典拠: [[nav/ch0147|147話]]（p5029）
+- 獅子王としての象徴的外見（方舟・猫との関連） ｜ 獅子王・方舟・猫の叡智 ｜ 典拠: [147話](../../nav/ch0147.md)（p5029）
   > 王子は流れ着いた方舟に触れ、猫の叡智を授かることで獅子王となった。
 <!-- AUTO:END -->

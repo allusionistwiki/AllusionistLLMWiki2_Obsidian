@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0012_analogous_to_E_ch0012_ちびシューラ_other_アキラ_p561_harem_game
-title: ハーレムゲームへの権力構造風刺
-
-
-
-
+title: "使い魔契約を「ハーレム構築」「寵愛の競い合い」と表現するのは、異世界の権力構造を現代の消費文化（ゲーム・アイドル文化）の用語で…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_ちびシューラ_other_アキラ_p561]]"

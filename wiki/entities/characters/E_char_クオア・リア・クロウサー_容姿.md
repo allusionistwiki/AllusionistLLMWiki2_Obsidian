@@ -9,8 +9,8 @@ first_appearance: ch0252
 spoiler_after: ch0252
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0252|252話]] ｜ 容姿記述 1 件
+初出: [252話](../../nav/ch0252.md) ｜ 容姿記述 1 件
 
-- 左目が潰れて潰れ、左足を引きずっている巨体の翼竜。 ｜ 片目・片足・巨体 ｜ 典拠: [[nav/ch0252|252話]]（p8107）
+- 左目が潰れて潰れ、左足を引きずっている巨体の翼竜。 ｜ 片目・片足・巨体 ｜ 典拠: [252話](../../nav/ch0252.md)（p8107）
   > 潰れた片目は見えておらず、片足を引きずらねば歩くことさえままならない。
 <!-- AUTO:END -->

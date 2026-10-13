@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0072_analogous_to_E_ch0072_ナト_gives_神働装甲二型_p2674_開発現場の無茶な仕様変更
-title: 開発現場の無茶な仕様変更
-
-
-
-
+title: "ラーゼフからの「完成直後に無茶な注文をするなこの大馬鹿者」という伝言は、ソフトウェア開発や製造業における突発的な仕様変更への現…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0072_ナト_gives_神働装甲二型_p2674]]"

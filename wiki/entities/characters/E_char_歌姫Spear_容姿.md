@@ -9,8 +9,8 @@ first_appearance: ch0048
 spoiler_after: ch0048
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,10 +24,10 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0048|48話]] ｜ 容姿記述 2 件
+初出: [48話](../../nav/ch0048.md) ｜ 容姿記述 2 件
 
-- 天上の美声、楽神の囀りと言われる歌声 ｜ 声 ｜ 典拠: [[nav/ch0048|48話]]（p1943）
+- 天上の美声、楽神の囀りと言われる歌声 ｜ 声 ｜ 典拠: [48話](../../nav/ch0048.md)（p1943）
   > 地上において知らぬ者無き天上の美声、楽神の囀り
-- 左右非対称な耳を持つ ｜ 耳 ｜ 典拠: [[nav/ch0048|48話]]（p1944）
+- 左右非対称な耳を持つ ｜ 耳 ｜ 典拠: [48話](../../nav/ch0048.md)（p1944）
   > その両耳が、左右非対称であること。
 <!-- AUTO:END -->

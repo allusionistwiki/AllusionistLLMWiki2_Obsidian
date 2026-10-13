@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0246_analogous_to_E_ch0246_キニス_appears_as_灰都の中心の幼子_p7997_child_as_symbol_of_nation
-title: 国家の象徴としての幼子
-
+title: "灰色の廃墟の中で色彩を欠いた少女を「作品」として展示し、観客に哀れみと崇敬を抱かせる構造は、戦争や災害の被害者（特に子供）をメ…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0246_キニス_appears_as_灰都の中心の幼子_p7997]]"

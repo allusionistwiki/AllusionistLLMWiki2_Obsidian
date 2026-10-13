@@ -9,8 +9,8 @@ first_appearance: ch0041
 spoiler_after: ch0041
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0041|41話]] ｜ 容姿記述 1 件
+初出: [41話](../../nav/ch0041.md) ｜ 容姿記述 1 件
 
-- 赤い瞳と緑の髪を持つが、アストラル体として半透明の肢体をしている。 ｜ 瞳・髪・肢体 ｜ 典拠: [[nav/ch0041|41話]]（p1767-1768）
+- 赤い瞳と緑の髪を持つが、アストラル体として半透明の肢体をしている。 ｜ 瞳・髪・肢体 ｜ 典拠: [41話](../../nav/ch0041.md)（p1767-1768）
   > 赤い瞳。鮮やかな緑の髪。均整の取れた肢体は半透明。
 <!-- AUTO:END -->

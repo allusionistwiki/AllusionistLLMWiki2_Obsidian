@@ -9,8 +9,8 @@ first_appearance: ch0071
 spoiler_after: ch0071
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0071|71話]] ｜ 容姿記述 1 件
+初出: [71話](../../nav/ch0071.md) ｜ 容姿記述 1 件
 
-- 細い腕を持つ女性。 ｜ 細腕・女性 ｜ 典拠: [[nav/ch0071|71話]]（p2648）
+- 細い腕を持つ女性。 ｜ 細腕・女性 ｜ 典拠: [71話](../../nav/ch0071.md)（p2648）
   > 細腕の女性が割り込んで
 <!-- AUTO:END -->

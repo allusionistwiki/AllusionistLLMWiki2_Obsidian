@@ -9,8 +9,8 @@ first_appearance: ch0035
 spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0035|35話]] ｜ 容姿記述 1 件
+初出: [35話](../../nav/ch0035.md) ｜ 容姿記述 1 件
 
-- 顔の詳細は曖昧模糊とした印象しか残っていないが、特徴的な腕を持つ。 ｜ 腕 ｜ 典拠: [[nav/ch0035|35話]]（p1422）
+- 顔の詳細は曖昧模糊とした印象しか残っていないが、特徴的な腕を持つ。 ｜ 腕 ｜ 典拠: [35話](../../nav/ch0035.md)（p1422）
   > 声を聴けば思い出すだろうし、あの特徴的な腕を見れば一目で誰なのかは把握できるに違いないのだけれど。
 <!-- AUTO:END -->

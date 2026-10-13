@@ -9,8 +9,8 @@ first_appearance: ch0174
 spoiler_after: ch0174
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0174|174話]] ｜ 容姿記述 1 件
+初出: [174話](../../nav/ch0174.md) ｜ 容姿記述 1 件
 
-- 左右非対称の兎耳を持つ少年。 ｜ 髪:兎耳(髪の一部?)・身長:少年 ｜ 典拠: [[nav/ch0174|174話]]（p5774）
+- 左右非対称の兎耳を持つ少年。 ｜ 髪:兎耳(髪の一部?)・身長:少年 ｜ 典拠: [174話](../../nav/ch0174.md)（p5774）
   > 今度は左右非対称の兎耳を持った少年だ。
 <!-- AUTO:END -->

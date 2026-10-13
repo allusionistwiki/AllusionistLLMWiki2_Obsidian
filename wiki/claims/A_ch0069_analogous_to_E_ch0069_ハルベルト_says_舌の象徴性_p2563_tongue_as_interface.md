@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0069_analogous_to_E_ch0069_ハルベルト_says_舌の象徴性_p2563_tongue_as_interface
-title: 舌のインターフェースによる契約
-
-
-
-
+title: "舌を「触手のアナロジー」とし、口内への侵入を契約の儀式とする描写は、言語（調音器官）を物理的な接続インターフェース（触手）とし…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_ハルベルト_says_舌の象徴性_p2563]]"

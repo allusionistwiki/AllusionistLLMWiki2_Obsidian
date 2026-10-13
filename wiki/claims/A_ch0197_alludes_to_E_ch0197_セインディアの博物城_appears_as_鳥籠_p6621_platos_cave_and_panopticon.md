@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0197_alludes_to_E_ch0197_セインディアの博物城_appears_as_鳥籠_p6621_platos_cave_and_panopticon
-title: 知の閉鎖性を象徴するプラトンの洞窟とパノプティコン
-
+title: "外観が鳥籠のように見える博物城は、管理された知の閉鎖性と、そこから排除された「自由」の不在を象徴する空間として描かれている"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0197_セインディアの博物城_appears_as_鳥籠_p6621]]"

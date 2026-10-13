@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0053_analogous_to_E_ch0053_ガルズ_says_血族の呪い_p2063_corporate_bureaucracy
-title: 企業官僚制の暴力の比喩
-
-
-
-
+title: "クロウサー家を「感情はもちろん、知性や理性なども無いから、たとえ身内だろうと平気で圧殺しようとする」「自動的に動き続けるだけの…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_ガルズ_says_血族の呪い_p2063]]"

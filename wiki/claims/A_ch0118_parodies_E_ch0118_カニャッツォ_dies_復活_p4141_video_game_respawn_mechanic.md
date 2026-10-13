@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0118_parodies_E_ch0118_カニャッツォ_dies_復活_p4141_video_game_respawn_mechanic
-title: 無敵状態でのゲーム的復活
-
+title: "頭上の赤い球体（ライフ）が空になると爆発四散し、直後に無敵状態で復活する挙動は、アクションゲームにおけるキャラクターの死亡とリ…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0118_カニャッツォ_dies_復活_p4141]]"

@@ -9,8 +9,8 @@ first_appearance: ch0063
 spoiler_after: ch0063
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0063|63話]] ｜ 容姿記述 1 件
+初出: [63話](../../nav/ch0063.md) ｜ 容姿記述 1 件
 
-- 美しい毛並みの馬連れの描写（種族の特徴として） ｜ 動物 ｜ 典拠: [[nav/ch0063|63話]]（p2348）
+- 美しい毛並みの馬連れの描写（種族の特徴として） ｜ 動物 ｜ 典拠: [63話](../../nav/ch0063.md)（p2348）
   > 一人一人美しい毛並みの馬を連れており
 <!-- AUTO:END -->

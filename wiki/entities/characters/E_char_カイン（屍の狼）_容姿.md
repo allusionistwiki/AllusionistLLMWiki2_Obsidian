@@ -9,8 +9,8 @@ first_appearance: ch0091
 spoiler_after: ch0091
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0091|91話]] ｜ 容姿記述 1 件
+初出: [91話](../../nav/ch0091.md) ｜ 容姿記述 1 件
 
-- 変わり果てた姿 ｜ 四肢（骨の四つ脚）・種族/状態（屍の狼） ｜ 典拠: [[nav/ch0091|91話]]（3418）
+- 変わり果てた姿 ｜ 四肢（骨の四つ脚）・種族/状態（屍の狼） ｜ 典拠: [91話](../../nav/ch0091.md)（3418）
   > 足下に、骨の四つ脚を持った屍の狼が近付いてくる。
 <!-- AUTO:END -->

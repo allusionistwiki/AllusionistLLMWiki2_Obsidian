@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0053_analogous_to_E_ch0053_連帯_defines_攻略速度の決定_p2065_cartel_and_market_manipulation
-title: カルテル・市場操作の構造一致
-
-
-
-
+title: "槍神教、巨大企業群、各国が談合して攻略速度を決定し利益を分配する構造は、現実のカルテル（価格協定）や市場操作、寡占企業による利…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_連帯_defines_攻略速度の決定_p2065]]"

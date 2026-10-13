@@ -9,8 +9,8 @@ first_appearance: ch0044
 spoiler_after: ch0044
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0044|44話]] ｜ 容姿記述 1 件
+初出: [44話](../../nav/ch0044.md) ｜ 容姿記述 1 件
 
-- 金色の瞳を持つ（回想）。 ｜ 瞳 ｜ 典拠: [[nav/ch0044|44話]]（p1849）
+- 金色の瞳を持つ（回想）。 ｜ 瞳 ｜ 典拠: [44話](../../nav/ch0044.md)（p1849）
   > ふと、記憶が甦る。あの金色の瞳。骨の花。
 <!-- AUTO:END -->

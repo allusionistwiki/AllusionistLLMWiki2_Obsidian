@@ -9,8 +9,8 @@ first_appearance: ch0200
 spoiler_after: ch0200
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,10 +22,10 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0200|200話]] ｜ 容姿記述 2 件
+初出: [200話](../../nav/ch0200.md) ｜ 容姿記述 2 件
 
-- 剥落後の本性。漆黒の肌と額の双角 ｜ 肌・顔立ち・角 ｜ 典拠: [[nav/ch0200|200話]]（p6737）
+- 剥落後の本性。漆黒の肌と額の双角 ｜ 肌・顔立ち・角 ｜ 典拠: [200話](../../nav/ch0200.md)（p6737）
   > 漆黒の肌、苦痛に歪んだ顔、その額から生えているのは二本の角だった。
--  ｜ 典拠: [[nav/ch0200|200話]]（p6739）
+-  ｜ 典拠: [200話](../../nav/ch0200.md)（p6739）
   > 一足のみで間合いが詰まる。
 <!-- AUTO:END -->

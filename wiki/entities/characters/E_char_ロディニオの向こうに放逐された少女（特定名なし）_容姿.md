@@ -9,8 +9,8 @@ first_appearance: ch0051
 spoiler_after: ch0051
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0051|51話]] ｜ 容姿記述 1 件
+初出: [51話](../../nav/ch0051.md) ｜ 容姿記述 1 件
 
-- 白い肌を持つ少女 ｜ 肌・体格 ｜ 典拠: [[nav/ch0051|51話]]（p2005）
+- 白い肌を持つ少女 ｜ 肌・体格 ｜ 典拠: [51話](../../nav/ch0051.md)（p2005）
   > あの白い女の子は災難だったよね。
 <!-- AUTO:END -->

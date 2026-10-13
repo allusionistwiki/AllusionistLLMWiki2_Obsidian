@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0027_alludes_to_E_ch0027_トリシューラ_says_インド神話との類似_p1214_Hindu_mythology_Sati
-title: サティ神話の神話構造原型
-
-
-
-
+title: "トリシューラの名前（Trishula＝三叉戟）と、破壊神シヴァが愛するサティの死を嘆き、その遺体をブラフマーが引き裂いたという…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0027_トリシューラ_says_インド神話との類似_p1214]]"

@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0041_analogous_to_E_ch0041_マリー・スー_has_property_甘味_糖分依存中毒性
-title: 快楽と苦痛の表裏一体
-
+title: "マリーの顔が「甘い」ことでヴァージリアが「食べてしまいたい」と衝動に駆られ、舌を噛む行為は、甘味への渇望が自傷行為へと転化し…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0041_ダーシェンカ_finds_マリー・スー_p1766]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0051_alludes_to_E_ch0051_古き神_names_アズーリア_p2010_メシア
-title: メシア概念の管理者権限変換
-
-
-
-
+title: "アズーリアが「依巫」として世界の修正力を行使する存在であることは、宗教的なメシア（救世主）の概念をゲーム的な「管理者権限」へと…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0051_古き神_names_アズーリア_p2010]]"

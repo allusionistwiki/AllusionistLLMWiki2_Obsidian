@@ -9,8 +9,8 @@ first_appearance: ch0093
 spoiler_after: ch0093
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0093|93話]] ｜ 容姿記述 1 件
+初出: [93話](../../nav/ch0093.md) ｜ 容姿記述 1 件
 
-- 陥没した胴体を持つ狼の屍 ｜ 状態・頭部・胴体 ｜ 典拠: [[nav/ch0093|93話]]（p3457）
+- 陥没した胴体を持つ狼の屍 ｜ 状態・頭部・胴体 ｜ 典拠: [93話](../../nav/ch0093.md)（p3457）
   > 物言わぬ狼の頭部と、陥没した胴体
 <!-- AUTO:END -->

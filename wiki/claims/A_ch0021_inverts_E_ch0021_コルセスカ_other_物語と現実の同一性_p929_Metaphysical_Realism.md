@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0021_inverts_E_ch0021_コルセスカ_other_物語と現実の同一性_p929_Metaphysical_Realism
-title: 形而上学的実在論への物語現実化
-
-
-
-
+title: "「物語の中の登場人物も現実に生きている人たちも必死に生きている」というコルセスカの結論は、フィクションと現実の境界を解体し、物…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_コルセスカ_other_物語と現実の同一性_p929]]"

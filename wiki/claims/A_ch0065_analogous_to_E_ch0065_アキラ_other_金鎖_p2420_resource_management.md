@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_resource_management
-title: リソース管理としての金鎖数え
-
-
-
-
+title: "金鎖の数を数え、使用回数の変化を把握することは、ゲームにおけるリソース管理を模している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_other_金鎖_p2420]]"

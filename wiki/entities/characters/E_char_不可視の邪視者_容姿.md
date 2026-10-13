@@ -9,8 +9,8 @@ first_appearance: ch0242
 spoiler_after: ch0242
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0242|242話]] ｜ 容姿記述 1 件
+初出: [242話](../../nav/ch0242.md) ｜ 容姿記述 1 件
 
-- 幼さを残した甲高い声 ｜ 声 ｜ 典拠: [[nav/ch0242|242話]]（p7914）
+- 幼さを残した甲高い声 ｜ 声 ｜ 典拠: [242話](../../nav/ch0242.md)（p7914）
   > どこか幼さを残した甲高い声が響くと、アルバダオバの巨体の至る所から無数の棘が突き出す。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0141
 spoiler_after: ch0141
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0141|141話]] ｜ 容姿記述 1 件
+初出: [141話](../../nav/ch0141.md) ｜ 容姿記述 1 件
 
-- 全身甲冑を着た巨躯 ｜ 服装・体格 ｜ 典拠: [[nav/ch0141|141話]]（p4822）
+- 全身甲冑を着た巨躯 ｜ 服装・体格 ｜ 典拠: [141話](../../nav/ch0141.md)（p4822）
   > 藍色の血に濡れた全身甲冑が、その巨躯を生かして途方もなく巨大な戦鎚を振り上げている。
 <!-- AUTO:END -->

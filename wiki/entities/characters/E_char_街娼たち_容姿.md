@@ -9,8 +9,8 @@ first_appearance: ch0015
 spoiler_after: ch0015
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0015|15話]] ｜ 容姿記述 1 件
+初出: [15話](../../nav/ch0015.md) ｜ 容姿記述 1 件
 
-- 背中に煌びやかな蝶の翅を生やしている ｜ 背中の翅（蝶の翅） ｜ 典拠: [[nav/ch0015|15話]]（p689）
+- 背中に煌びやかな蝶の翅を生やしている ｜ 背中の翅（蝶の翅） ｜ 典拠: [15話](../../nav/ch0015.md)（p689）
   > 煌びやかな蝶の翅を露わな背中に生やした街娼たちばかり。
 <!-- AUTO:END -->

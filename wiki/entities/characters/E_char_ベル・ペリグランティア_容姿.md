@@ -9,8 +9,8 @@ first_appearance: ch0069
 spoiler_after: ch0069
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0069|69話]] ｜ 容姿記述 1 件
+初出: [69話](../../nav/ch0069.md) ｜ 容姿記述 1 件
 
-- 瑠璃色のゆったりした長衣を着用。表情は宗教画の聖人のよう ｜ 服装・表情 ｜ 典拠: [[nav/ch0069|69話]]（p2569）
+- 瑠璃色のゆったりした長衣を着用。表情は宗教画の聖人のよう ｜ 服装・表情 ｜ 典拠: [69話](../../nav/ch0069.md)（p2569）
   > ゆったりとした長衣は瑠璃色で、表情は宗教画の聖人のよう。
 <!-- AUTO:END -->

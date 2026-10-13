@@ -9,8 +9,8 @@ first_appearance: ch0099
 spoiler_after: ch0099
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0099|99話]] ｜ 容姿記述 1 件
+初出: [99話](../../nav/ch0099.md) ｜ 容姿記述 1 件
 
-- 細かい沢山の糸で出来ている ｜ 其他部位 ｜ 典拠: [[nav/ch0099|99話]]（p3605）
+- 細かい沢山の糸で出来ている ｜ 其他部位 ｜ 典拠: [99話](../../nav/ch0099.md)（p3605）
   > 「このグレイシスは、糸竜と言って細かい沢山の糸で出来ているのだ。
 <!-- AUTO:END -->

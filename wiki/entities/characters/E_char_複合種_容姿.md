@@ -9,8 +9,8 @@ first_appearance: ch0009
 spoiler_after: ch0009
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0009|9話]] ｜ 容姿記述 1 件
+初出: [9話](../../nav/ch0009.md) ｜ 容姿記述 1 件
 
-- キメラのような異形の姿・複合的な外見 ｜ 形態 ｜ 典拠: [[nav/ch0009|9話]]（p430）
+- キメラのような異形の姿・複合的な外見 ｜ 形態 ｜ 典拠: [9話](../../nav/ch0009.md)（p430）
   > 複数の生き物がごちゃごちゃに混ぜ合わされたような、キメラのごとき異形で、その姿や性質も個体ごとに大きく異なる。
 <!-- AUTO:END -->

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_inter_textuality
-title: 間テクスト性の世界改変
-
-
-
-
+title: "フィリスの特性を「メタテクストの改変」「アリュージョン（引喩）」と呼ぶことは、文学理論における間テクスト性（クリステヴァ等）の…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_メタテクストの改変_p1924]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0040_analogous_to_E_ch0040_メートリアン_says_挑発_p1759_Text_Chat
-title: テキストチャットでの挑発
-
-
-
-
+title: "訓練室で直接話さず、端末の通信アプリで高速打鍵して挑発を送信する行為は、オンラインゲームやSNSにおけるテキストチャットでの挑…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0040_メートリアン_says_挑発_p1759]]"

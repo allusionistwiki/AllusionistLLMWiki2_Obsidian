@@ -9,8 +9,8 @@ first_appearance: ch0069
 spoiler_after: ch0069
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0069|69話]] ｜ 容姿記述 1 件
+初出: [69話](../../nav/ch0069.md) ｜ 容姿記述 1 件
 
-- 目が虚ろ ｜ 瞳 ｜ 典拠: [[nav/ch0069|69話]]（p2574）
+- 目が虚ろ ｜ 瞳 ｜ 典拠: [69話](../../nav/ch0069.md)（p2574）
   > その目の前に、虚ろな目をした男が現れる。
 <!-- AUTO:END -->

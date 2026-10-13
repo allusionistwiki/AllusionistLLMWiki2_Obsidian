@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_杖の座の目的_p1930_singularity
-title: 技術的特異点での存在形態移行
-
-
-
-
+title: "「人類という枠組みを変容させる」ことは、技術的特異点（シンギュラリティ）において人間がAIや機械と融合し、新たな存在形態へ移行…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_defines_杖の座の目的_p1930]]"

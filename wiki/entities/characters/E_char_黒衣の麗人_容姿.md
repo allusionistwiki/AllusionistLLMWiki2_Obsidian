@@ -9,8 +9,8 @@ first_appearance: ch0268
 spoiler_after: ch0268
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0268|268話]] ｜ 容姿記述 1 件
+初出: [268話](../../nav/ch0268.md) ｜ 容姿記述 1 件
 
-- 黒い衣服を着た美女 ｜ 服装・顔立ち ｜ 典拠: [[nav/ch0268|268話]]（p8382）
+- 黒い衣服を着た美女 ｜ 服装・顔立ち ｜ 典拠: [268話](../../nav/ch0268.md)（p8382）
   > 黒衣の麗人がミブリナの前に立ちはだかる
 <!-- AUTO:END -->

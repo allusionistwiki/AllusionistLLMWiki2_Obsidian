@@ -9,8 +9,8 @@ first_appearance: ch0145
 spoiler_after: ch0145
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0145|145話]] ｜ 容姿記述 1 件
+初出: [145話](../../nav/ch0145.md) ｜ 容姿記述 1 件
 
-- 半透明の三頭犬。牙剥き出し。 ｜ 半透明・頭数・牙 ｜ 典拠: [[nav/ch0145|145話]]（p4953）
+- 半透明の三頭犬。牙剥き出し。 ｜ 半透明・頭数・牙 ｜ 典拠: [145話](../../nav/ch0145.md)（p4953）
   > その背後で、半透明の三頭犬が牙を剥いて世界を虹色に染め上げる。
 <!-- AUTO:END -->

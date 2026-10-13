@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0067_analogous_to_E_ch0067_ディムズ兄弟_uses_万色精霊_p2499_色による心理効果
-title: 色彩の心理効果の具現化
-
-
-
-
+title: "万色精霊が色彩のイメージを実体化して攻撃する描写は、抽象的な概念（色）を物理的な力に変換するファンタジー的な魔法の構造を示して…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ディムズ兄弟_uses_万色精霊_p2499]]"

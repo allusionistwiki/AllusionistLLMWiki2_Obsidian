@@ -9,8 +9,8 @@ first_appearance: ch0156
 spoiler_after: ch0156
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0156|156話]] ｜ 容姿記述 1 件
+初出: [156話](../../nav/ch0156.md) ｜ 容姿記述 1 件
 
-- 粗暴な男。レオは少年で優しく見守る ｜ 年齢・表情 ｜ 典拠: [[nav/ch0156|156話]]（p5298）
+- 粗暴な男。レオは少年で優しく見守る ｜ 年齢・表情 ｜ 典拠: [156話](../../nav/ch0156.md)（p5298）
   > 同室の『　』――元は亜竜の王であった粗暴な男が、何かに魅入られたかのようにその光景を並んで眺める。その背後で二人を優しく見守るのはレオ。
 <!-- AUTO:END -->

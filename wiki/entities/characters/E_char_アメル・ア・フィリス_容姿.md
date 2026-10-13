@@ -9,8 +9,8 @@ first_appearance: ch0064
 spoiler_after: ch0064
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0064|64話]] ｜ 容姿記述 1 件
+初出: [64話](../../nav/ch0064.md) ｜ 容姿記述 1 件
 
-- 人の形をとった雷光 ｜ 姿 ｜ 典拠: [[nav/ch0064|64話]]（p2408）
+- 人の形をとった雷光 ｜ 姿 ｜ 典拠: [64話](../../nav/ch0064.md)（p2408）
   > 人の形をとった雷光の魔女が、天空で莫大な呪力を放出しながら覚醒する。
 <!-- AUTO:END -->

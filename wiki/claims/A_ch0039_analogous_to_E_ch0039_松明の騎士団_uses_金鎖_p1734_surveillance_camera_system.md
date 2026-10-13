@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0039_analogous_to_E_ch0039_松明の騎士団_uses_金鎖_p1734_surveillance_camera_system
-title: 金鎖による監視カメラ化
-
-
-
-
+title: "松明の騎士団の金鎖による視界映像の共有と本部への送信は、ネットワーク化されたリアルタイム情報共有システム（テレメトリ）のメタフ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0039_松明の騎士団_uses_金鎖_p1734]]"

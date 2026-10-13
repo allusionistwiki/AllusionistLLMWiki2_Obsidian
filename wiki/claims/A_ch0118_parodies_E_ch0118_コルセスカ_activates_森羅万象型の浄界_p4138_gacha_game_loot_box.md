@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0118_parodies_E_ch0118_コルセスカ_activates_森羅万象型の浄界_p4138_gacha_game_loot_box
-title: ガチャ的アイテムドロップ演出
-
+title: "浮遊する箱からランダムなアイテム（有用な武器や罠、爆弾など）が出てくる様子は、ガチャゲームやローグライクゲームにおけるアイテム…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0118_コルセスカ_activates_森羅万象型の浄界_p4138]]"

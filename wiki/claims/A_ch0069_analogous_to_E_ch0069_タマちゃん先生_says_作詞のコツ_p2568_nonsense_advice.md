@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0069_analogous_to_E_ch0069_タマちゃん先生_says_作詞のコツ_p2568_nonsense_advice
-title: 形式主義による創造の本質戯画
-
-
-
-
+title: "「クルクル回って優雅にターン"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_タマちゃん先生_says_作詞のコツ_p2568]]"

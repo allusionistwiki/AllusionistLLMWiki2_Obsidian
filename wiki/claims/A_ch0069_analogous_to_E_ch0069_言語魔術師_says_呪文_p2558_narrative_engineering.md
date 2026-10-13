@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0069_analogous_to_E_ch0069_言語魔術師_says_呪文_p2558_narrative_engineering
-title: 物語工学への転生
-
-
-
-
+title: "物語素体を参照して現実を改変するという呪文の定義は、プロンプトエンジニアリングやナラティブ・エンジニアリング（物語による現実操…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_言語魔術師たち_says_呪文_p2558]]"

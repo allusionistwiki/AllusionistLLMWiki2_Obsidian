@@ -9,8 +9,8 @@ first_appearance: ch0265
 spoiler_after: ch0265
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0265|265話]] ｜ 容姿記述 1 件
+初出: [265話](../../nav/ch0265.md) ｜ 容姿記述 1 件
 
-- 老化による醜悪な外見 ｜ 顔立ち・体格 ｜ 典拠: [[nav/ch0265|265話]]（p8360）
+- 老化による醜悪な外見 ｜ 顔立ち・体格 ｜ 典拠: [265話](../../nav/ch0265.md)（p8360）
   > 醜く権力にしがみつくばかりで老醜を晒し
 <!-- AUTO:END -->

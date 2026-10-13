@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0023_foreshadows_E_ch0023_トリシューラ_reveals_上位トリシューラ_p1040_cloud_computing
-title: クラウド構造の階層支配
-
-
-
-
+title: "トリシューラの階層構造は、上位存在による下位存在への一方的なアクセス権限を規定し、管理と被管理の非対称な関係を示している"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0023_トリシューラ_reveals_上位トリシューラ_p1040]]"

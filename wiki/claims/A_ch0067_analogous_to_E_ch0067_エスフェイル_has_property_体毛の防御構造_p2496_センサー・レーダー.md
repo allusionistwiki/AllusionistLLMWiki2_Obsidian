@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0067_analogous_to_E_ch0067_エスフェイル_has_property_体毛の防御構造_p2496_センサー・レーダー
-title: センサーレーダーの自動回避
-
-
-
-
+title: "エスフェイルの体毛が外部の呪力に反応して危機を伝達し反射的に回避する仕組みは、現代の自動運転車やミサイル迎撃システムにおけるセ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_エスフェイル_has_property_体毛の防御構造_p2496]]"

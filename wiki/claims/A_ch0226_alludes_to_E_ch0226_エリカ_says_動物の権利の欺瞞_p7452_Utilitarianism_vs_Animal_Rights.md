@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0226_alludes_to_E_ch0226_エリカ_says_動物の権利の欺瞞_p7452_Utilitarianism_vs_Animal_Rights
-title: 功利主義と動物権利の対立
-
+title: "エリカの台詞は、功利主義的な幸福最大化と動物の権利擁護という倫理的対立軸を、ペットショップという空間を通じて批判的に言及している"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0226_エリカ_says_動物の権利の欺瞞_p7452]]"

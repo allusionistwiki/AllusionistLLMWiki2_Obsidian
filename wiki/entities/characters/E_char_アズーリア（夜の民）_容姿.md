@@ -9,8 +9,8 @@ first_appearance: ch0038
 spoiler_after: ch0038
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0038|38話]] ｜ 容姿記述 1 件
+初出: [38話](../../nav/ch0038.md) ｜ 容姿記述 1 件
 
-- 鹿と鳥の特徴（角と翼）を持つ青い鳥のような姿。 ｜ 髪・身体特徴 ｜ 典拠: [[nav/ch0038|38話]]（p1719）
+- 鹿と鳥の特徴（角と翼）を持つ青い鳥のような姿。 ｜ 髪・身体特徴 ｜ 典拠: [38話](../../nav/ch0038.md)（p1719）
   > 青い鳥。鹿と鳥の特徴を併せ持つ、影の世界の住人。
 <!-- AUTO:END -->

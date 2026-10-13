@@ -9,8 +9,8 @@ first_appearance: ch0143
 spoiler_after: ch0143
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0143|143話]] ｜ 容姿記述 1 件
+初出: [143話](../../nav/ch0143.md) ｜ 容姿記述 1 件
 
-- 白髪、赤眼、有翼 ｜ 髪・瞳 ｜ 典拠: [[nav/ch0143|143話]]（p4878）
+- 白髪、赤眼、有翼 ｜ 髪・瞳 ｜ 典拠: [143話](../../nav/ch0143.md)（p4878）
   > 白髪赤眼の有翼王メクセト
 <!-- AUTO:END -->

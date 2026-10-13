@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0200_parodies_E_ch0200_ユディーア_transforms_銀貨_p6732_ゲームのテクスチャ崩壊
-title: 存在の剥落を連想させるゲームのテクスチャ崩壊
-
+title: "人間が銀貨になる描写が「テクスチャが、存在が剥落していくように」と表現されており、現実の物理現象ではなくゲーム的なグラフィック…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0200_ユディーア_transforms_銀貨_p6732]]"

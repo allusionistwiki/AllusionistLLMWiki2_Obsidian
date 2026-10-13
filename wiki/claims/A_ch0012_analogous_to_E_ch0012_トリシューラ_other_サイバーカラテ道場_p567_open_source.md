@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0012_analogous_to_E_ch0012_トリシューラ_other_サイバーカラテ道場_p567_open_source
-title: オープンソース型ビジネスモデル
-
-
-
-
+title: "サイバーカラテの型を無料動画で公開し、詳細を有料で提供するモデルは、フリーミアム戦略やコンテンツ販売のビジネスモデルを模している"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_other_サイバーカラテ道場_p567]]"

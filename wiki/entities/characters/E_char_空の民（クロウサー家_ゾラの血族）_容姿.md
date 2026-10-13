@@ -9,8 +9,8 @@ first_appearance: ch0070
 spoiler_after: ch0070
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0070|70話]] ｜ 容姿記述 1 件
+初出: [70話](../../nav/ch0070.md) ｜ 容姿記述 1 件
 
-- 翼耳を持つ人々。 ｜ 耳 ｜ 典拠: [[nav/ch0070|70話]]（p2596）
+- 翼耳を持つ人々。 ｜ 耳 ｜ 典拠: [70話](../../nav/ch0070.md)（p2596）
   > 翼耳を有するゾラの血族
 <!-- AUTO:END -->

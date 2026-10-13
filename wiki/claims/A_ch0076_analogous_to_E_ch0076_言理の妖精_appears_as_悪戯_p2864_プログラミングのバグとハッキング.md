@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0076_analogous_to_E_ch0076_言理の妖精_appears_as_悪戯_p2864_プログラミングのバグとハッキング
-title: バグとハッキング
-
-
-
-
+title: "「言理の妖精語りて曰く」という呪文が建材をお菓子に変える悪戯として機能し、作業員が元に戻そうとするが一部が残るという現象は、言…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0076_言理の妖精_appears_as_悪戯_p2864]]"

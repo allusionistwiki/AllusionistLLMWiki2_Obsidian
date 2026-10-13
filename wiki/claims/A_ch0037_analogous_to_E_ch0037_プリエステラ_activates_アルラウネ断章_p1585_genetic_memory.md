@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_プリエステラ_activates_アルラウネ断章_p1585_genetic_memory
-title: 遺伝的記憶の幻想的拡張
-
-
-
-
+title: "遺伝子に刻まれた「種の記憶」から呪術を発動させる設定は、DNAに情報が記録されているという科学的概念の幻想的拡張である"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_プリエステラ_activates_アルラウネ断章_p1585]]"

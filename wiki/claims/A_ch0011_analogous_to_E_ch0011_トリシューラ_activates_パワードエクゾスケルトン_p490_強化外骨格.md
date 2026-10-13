@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0011_analogous_to_E_ch0011_トリシューラ_activates_パワードエクゾスケルトン_p490_強化外骨格
-title: 強化外骨格へのSF的移植
-
-
-
-
+title: "魔法世界における「きぐるみ」や「甲冑」を、現代の軍事技術であるパワードエクゾスケルトン（強化外骨格）として描写し、SF的ガジェ…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0011_トリシューラ_activates_パワードエクゾスケルトン_p490]]"

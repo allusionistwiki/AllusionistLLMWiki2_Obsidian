@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0067_analogous_to_E_ch0067_エスフェイル_uses_模造の月_p2500_proxy_war
-title: 模造の月による代理戦争
-
-
-
-
+title: "エスフェイルが「模造の月」を介して死人の腕を操り、直接戦闘を回避しつつ攻撃する様子は、代理人（プロキシ）を用いた間接的な支配・…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_夜月騎士団_attacks_エスフェイル_p2500]]"

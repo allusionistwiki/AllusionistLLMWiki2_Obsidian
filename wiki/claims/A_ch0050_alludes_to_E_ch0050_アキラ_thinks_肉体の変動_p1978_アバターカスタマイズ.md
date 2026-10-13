@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0050_alludes_to_E_ch0050_アキラ_thinks_肉体の変動_p1978_アバターカスタマイズ
-title: アバターカスタムと自己同一性
-
-
-
-
+title: "肉体サイズの変動を『私』の歪みとして拒絶する心理は、ゲームにおけるアバターのカスタマイズ機能に対し、自己同一性の希薄化を懸念す…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_アキラ_thinks_肉体の変動_p1978]]"

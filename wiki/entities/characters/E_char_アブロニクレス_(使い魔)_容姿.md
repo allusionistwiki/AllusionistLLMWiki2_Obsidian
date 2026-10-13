@@ -9,8 +9,8 @@ first_appearance: ch0026
 spoiler_after: ch0026
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0026|26話]] ｜ 容姿記述 1 件
+初出: [26話](../../nav/ch0026.md) ｜ 容姿記述 1 件
 
-- 使い魔【八万の眼球】。空中に浮遊する膨大な数の眼球。 ｜ 眼球・浮遊 ｜ 典拠: [[nav/ch0026|26話]]（p1196）
+- 使い魔【八万の眼球】。空中に浮遊する膨大な数の眼球。 ｜ 眼球・浮遊 ｜ 典拠: [26話](../../nav/ch0026.md)（p1196）
   > 空中に浮遊する、夥しい数の目、目、目。
 <!-- AUTO:END -->

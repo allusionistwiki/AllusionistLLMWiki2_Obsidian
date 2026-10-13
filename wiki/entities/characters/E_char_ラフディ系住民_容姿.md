@@ -9,8 +9,8 @@ first_appearance: ch0125
 spoiler_after: ch0125
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0125|125話]] ｜ 容姿記述 1 件
+初出: [125話](../../nav/ch0125.md) ｜ 容姿記述 1 件
 
-- 髪が長く、ふくよかな体型の者が多い。 ｜ 髪・体格 ｜ 典拠: [[nav/ch0125|125話]]（p4363）
+- 髪が長く、ふくよかな体型の者が多い。 ｜ 髪・体格 ｜ 典拠: [125話](../../nav/ch0125.md)（p4363）
   > 見事だ。器用なディルトーワが興したラフディは見事に栄えてくれたな
 <!-- AUTO:END -->

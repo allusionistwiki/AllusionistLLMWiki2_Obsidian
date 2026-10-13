@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_makes_家ルキー妖精_p1916_smart_home_automation
-title: スマートホームの魔法版
-
-
-
-
+title: "ハルベルトの「家ルキー妖精」による家事自動化は、スマートホーム技術や家事代行ロボット（ルンバ等）の自動化概念の魔法版である"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_makes_家ルキー妖精_p1916]]"

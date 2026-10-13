@@ -9,8 +9,8 @@ first_appearance: ch0056
 spoiler_after: ch0056
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0056|56話]] ｜ 容姿記述 1 件
+初出: [56話](../../nav/ch0056.md) ｜ 容姿記述 1 件
 
-- 三角形の耳を持つ猫のような生物 ｜ 三角の耳 ｜ 典拠: [[nav/ch0056|56話]]（p2161）
+- 三角形の耳を持つ猫のような生物 ｜ 三角の耳 ｜ 典拠: [56話](../../nav/ch0056.md)（p2161）
   > 目の前に三角の耳をした猫の取り替え子が立っている。
 <!-- AUTO:END -->

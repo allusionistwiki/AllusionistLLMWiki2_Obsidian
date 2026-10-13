@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0068_structurally_matches_E_ch0068_ユネクティア_says_フィリス_p2540_言語の力
-title: 言語の力による物理暴力の逆転
-
-
-
-
+title: "フィリス（言理の妖精）が「ただの言葉」であるという弱点を突かれる構造は、言語が現実を規定する力を持つというウィトゲンシュタイン…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ユネクティア_breaks_フィリス_p2540]]"

@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0187_parodies_E_ch0187_射撃_transforms_流星_p6201_アイドルのライブ演出
-title: 戦闘をエンタメ化するアイドルのライブ演出
-
+title: "射撃によって生じる「流星」は、戦闘行為が観客（アイドル）にとっての観測対象（芸術・エンタメ）へと変換される、作品内の「戦闘＝パ…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0187_射撃_transforms_流星_p6201]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0061_analogous_to_E_ch0061_アズーリア_uses_感応の触手_p2296_プログラミングのデバッグ
-title: デバッグへの類似
-
-
-
-
+title: "呪文操作を「指で打鍵するよりも速い入出力」と表現し、物理的な入力装置を介さない「感応」による直結的な情報処理の優位性を示している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0061_アズーリア_uses_感応の触手_p2296]]"

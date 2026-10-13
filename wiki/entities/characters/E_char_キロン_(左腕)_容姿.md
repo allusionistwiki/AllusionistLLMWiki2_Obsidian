@@ -9,8 +9,8 @@ first_appearance: ch0024
 spoiler_after: ch0024
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0024|24話]] ｜ 容姿記述 1 件
+初出: [24話](../../nav/ch0024.md) ｜ 容姿記述 1 件
 
-- 黒基調に銀のラインが入った腕。 ｜ 左腕・色 ｜ 典拠: [[nav/ch0024|24話]]（p1089）
+- 黒基調に銀のラインが入った腕。 ｜ 左腕・色 ｜ 典拠: [24話](../../nav/ch0024.md)（p1089）
   > 黒を基調とした色彩に銀のラインが入ったその腕は、どこかその作り手を思わせるデザインだった。
 <!-- AUTO:END -->

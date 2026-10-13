@@ -9,8 +9,8 @@ first_appearance: ch0084
 spoiler_after: ch0084
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0084|84話]] ｜ 容姿記述 1 件
+初出: [84話](../../nav/ch0084.md) ｜ 容姿記述 1 件
 
-- 吸血鬼の少女 ｜ 種族・性別 ｜ 典拠: [[nav/ch0084|84話]]（3088）
+- 吸血鬼の少女 ｜ 種族・性別 ｜ 典拠: [84話](../../nav/ch0084.md)（3088）
   > あの吸血鬼の少女は最近になってようやく地下から表舞台に出てこられるようになったと聞いている。
 <!-- AUTO:END -->

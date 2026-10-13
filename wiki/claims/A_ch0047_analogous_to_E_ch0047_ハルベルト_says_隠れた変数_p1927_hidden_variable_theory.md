@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_隠れた変数_p1927_hidden_variable_theory
-title: 量子力学の隠れた変数理論のメタファー
-
-
-
-
+title: "ハルベルトが定義する「隠れた変数（ヒドゥンヴァリアブル）」は、アインシュタインらが提唱した量子力学の補完理論（EPRパラドック…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_隠れた変数_p1927]]"

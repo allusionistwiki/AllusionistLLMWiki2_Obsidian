@@ -9,8 +9,8 @@ first_appearance: ch0149
 spoiler_after: ch0149
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0149|149話]] ｜ 容姿記述 1 件
+初出: [149話](../../nav/ch0149.md) ｜ 容姿記述 1 件
 
-- 奴隷の如き姿。痩けた頬、虚ろな目。 ｜ 顔立ち・表情 ｜ 典拠: [[nav/ch0149|149話]]（5071）
+- 奴隷の如き姿。痩けた頬、虚ろな目。 ｜ 顔立ち・表情 ｜ 典拠: [149話](../../nav/ch0149.md)（5071）
   > 奴隷の如き姿の男は、痩けた頬と虚ろな目でのろのろと動く。
 <!-- AUTO:END -->

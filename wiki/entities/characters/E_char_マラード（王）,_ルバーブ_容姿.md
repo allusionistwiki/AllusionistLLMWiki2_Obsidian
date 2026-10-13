@@ -9,8 +9,8 @@ first_appearance: ch0096
 spoiler_after: ch0096
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0096|96話]] ｜ 容姿記述 1 件
+初出: [96話](../../nav/ch0096.md) ｜ 容姿記述 1 件
 
-- 硬直し目を見開く ｜ 表情 ｜ 典拠: [[nav/ch0096|96話]]（p3525）
+- 硬直し目を見開く ｜ 表情 ｜ 典拠: [96話](../../nav/ch0096.md)（p3525）
   > その姿を見て、マラード王とルバーブが硬直し、目を見開いた。
 <!-- AUTO:END -->

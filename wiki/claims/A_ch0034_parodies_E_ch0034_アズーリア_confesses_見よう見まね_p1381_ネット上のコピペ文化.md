@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0034_parodies_E_ch0034_アズーリア_confesses_見よう見まね_p1381_ネット上のコピペ文化
-title: コピペ文化の呪文批判
-
-
-
-
+title: "ハルベルトがアズーリアの呪文構成を「コピーアンドペースト」と断じ、文脈（語群の選択）を無視した引用の拙さを叱責するのは、ネット…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0034_アズーリア_confesses_見よう見まね_p1381]]"

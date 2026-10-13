@@ -9,8 +9,8 @@ first_appearance: ch0047
 spoiler_after: ch0047
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0047|47話]] ｜ 容姿記述 1 件
+初出: [47話](../../nav/ch0047.md) ｜ 容姿記述 1 件
 
-- 瞳が強く、奥の奥まで貫くような視線であり、綺麗な佇まい。 ｜ 瞳・佇まい ｜ 典拠: [[nav/ch0047|47話]]（p1927）
+- 瞳が強く、奥の奥まで貫くような視線であり、綺麗な佇まい。 ｜ 瞳・佇まい ｜ 典拠: [47話](../../nav/ch0047.md)（p1927）
   > お師様は、私をまっすぐに見ながら言った。 瞳の強さで、奥の奥まで貫かれる。 最初に助けて貰った時の、綺麗な佇まいを思い出した。
 <!-- AUTO:END -->

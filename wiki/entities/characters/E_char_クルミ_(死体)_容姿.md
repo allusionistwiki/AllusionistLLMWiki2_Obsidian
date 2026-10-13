@@ -9,8 +9,8 @@ first_appearance: ch0191
 spoiler_after: ch0191
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0191|191話]] ｜ 容姿記述 1 件
+初出: [191話](../../nav/ch0191.md) ｜ 容姿記述 1 件
 
-- 腐った豚のような無惨な相貌 ｜ 顔立ち・身体全体 ｜ 典拠: [[nav/ch0191|191話]]（p6325）
+- 腐った豚のような無惨な相貌 ｜ 顔立ち・身体全体 ｜ 典拠: [191話](../../nav/ch0191.md)（p6325）
   > 腐り落ちた人形の肉、美しかった容貌は無惨な畜生のものと成り果てる。その面相はさながら腐った豚。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0152
 spoiler_after: ch0152
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0152|152話]] ｜ 容姿記述 1 件
+初出: [152話](../../nav/ch0152.md) ｜ 容姿記述 1 件
 
-- 仮面の下は捩れた肉塊と無数の生物を組み合わせた異形 ｜ 顔・身体 ｜ 典拠: [[nav/ch0152|152話]]（p5166）
+- 仮面の下は捩れた肉塊と無数の生物を組み合わせた異形 ｜ 顔・身体 ｜ 典拠: [152話](../../nav/ch0152.md)（p5166）
   > 仮面の下に存在していたのは、捩れた肉塊と無数の生物を組み合わせた異形。
 <!-- AUTO:END -->

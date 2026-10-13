@@ -9,8 +9,8 @@ first_appearance: ch0259
 spoiler_after: ch0259
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0259|259話]] ｜ 容姿記述 1 件
+初出: [259話](../../nav/ch0259.md) ｜ 容姿記述 1 件
 
-- 真っ赤な瞳を持つ（邪視を放射する勢いがある） ｜ 真っ赤な瞳・邪視 ｜ 典拠: [[nav/ch0259|259話]]（p8266）
+- 真っ赤な瞳を持つ（邪視を放射する勢いがある） ｜ 真っ赤な瞳・邪視 ｜ 典拠: [259話](../../nav/ch0259.md)（p8266）
   > 彼の真っ赤な瞳が現実を改変することはなかった。
 <!-- AUTO:END -->

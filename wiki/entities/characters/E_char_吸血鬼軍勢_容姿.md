@@ -9,8 +9,8 @@ first_appearance: ch0180
 spoiler_after: ch0180
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0180|180話]] ｜ 容姿記述 1 件
+初出: [180話](../../nav/ch0180.md) ｜ 容姿記述 1 件
 
-- ネズミやコウモリ、漆黒に染まる ｜ 体・色（漆黒） ｜ 典拠: [[nav/ch0180|180話]]（p5954）
+- ネズミやコウモリ、漆黒に染まる ｜ 体・色（漆黒） ｜ 典拠: [180話](../../nav/ch0180.md)（p5954）
   > おびただしい数のネズミやコウモリが尖兵となり、第五階層にわずかに残されていたガロアンディアンの痕跡が漆黒に染め上げられていく。
 <!-- AUTO:END -->

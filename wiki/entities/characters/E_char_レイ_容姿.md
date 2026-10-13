@@ -9,8 +9,8 @@ first_appearance: ch0190
 spoiler_after: ch0190
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,10 +24,10 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0190|190話]] ｜ 容姿記述 2 件
+初出: [190話](../../nav/ch0190.md) ｜ 容姿記述 2 件
 
-- 可憐な美少女へと変貌した姿 ｜ 顔立ち・性別外見 ｜ 典拠: [[nav/ch0190|190話]]（p6270）
+- 可憐な美少女へと変貌した姿 ｜ 顔立ち・性別外見 ｜ 典拠: [190話](../../nav/ch0190.md)（p6270）
   > いつの間にやら、ごく自然なことのようにレイもまた可憐な美少女へと変貌を遂げていた。
-- 黒髪 ｜ 髪 ｜ 典拠: [[nav/ch0191|191話]]（p6292）
+- 黒髪 ｜ 髪 ｜ 典拠: [191話](../../nav/ch0191.md)（p6292）
   > あの黒髪の艶やかさ
 <!-- AUTO:END -->

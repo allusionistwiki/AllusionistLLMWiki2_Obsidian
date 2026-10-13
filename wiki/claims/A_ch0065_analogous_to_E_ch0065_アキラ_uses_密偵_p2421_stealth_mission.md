@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_stealth_mission
-title: ステルスミッションとしての密偵派遣
-
-
-
-
+title: "密偵を敵陣に送り込む行為は、ゲームにおけるステルスミッションを模している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_uses_密偵_p2421]]"

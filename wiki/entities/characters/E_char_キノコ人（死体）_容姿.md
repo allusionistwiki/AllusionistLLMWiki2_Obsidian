@@ -9,8 +9,8 @@ first_appearance: ch0207
 spoiler_after: ch0207
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0207|207話]] ｜ 容姿記述 1 件
+初出: [207話](../../nav/ch0207.md) ｜ 容姿記述 1 件
 
-- 目が空洞化し、黒い雫（涙）が滴り落ちる。 ｜ 空洞・黒い雫 ｜ 典拠: [[nav/ch0207|207話]]（p6940）
+- 目が空洞化し、黒い雫（涙）が滴り落ちる。 ｜ 空洞・黒い雫 ｜ 典拠: [207話](../../nav/ch0207.md)（p6940）
   > 横たえられた異獣の目とおぼしき空洞から、黒い雫が滴り落ちていった。
 <!-- AUTO:END -->

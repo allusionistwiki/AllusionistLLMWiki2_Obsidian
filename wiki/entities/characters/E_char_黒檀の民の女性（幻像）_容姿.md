@@ -9,8 +9,8 @@ first_appearance: ch0271
 spoiler_after: ch0271
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0271|271話]] ｜ 容姿記述 1 件
+初出: [271話](../../nav/ch0271.md) ｜ 容姿記述 1 件
 
-- 顔に水晶のバイザーを着用 ｜ 顔 ｜ 典拠: [[nav/ch0271|271話]]（p8423）
+- 顔に水晶のバイザーを着用 ｜ 顔 ｜ 典拠: [271話](../../nav/ch0271.md)（p8423）
   > リンチによって殺害された男性に縋りつく黒檀の民女性の顔には水晶のバイザー。
 <!-- AUTO:END -->

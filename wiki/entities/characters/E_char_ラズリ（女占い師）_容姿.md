@@ -9,8 +9,8 @@ first_appearance: ch0176
 spoiler_after: ch0176
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0176|176話]] ｜ 容姿記述 1 件
+初出: [176話](../../nav/ch0176.md) ｜ 容姿記述 1 件
 
-- 細い指先を持ち、顎がヴェールで隠されている。 ｜ 手（細い指先）・顔（顎にヴェール） ｜ 典拠: [[nav/ch0176|176話]]（5851）
+- 細い指先を持ち、顎がヴェールで隠されている。 ｜ 手（細い指先）・顔（顎にヴェール） ｜ 典拠: [176話](../../nav/ch0176.md)（5851）
   > 女占い師は細い指先をヴェールで隠された顎に当てて言った。
 <!-- AUTO:END -->

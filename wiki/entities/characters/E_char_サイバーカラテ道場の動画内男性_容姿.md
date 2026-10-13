@@ -9,8 +9,8 @@ first_appearance: ch0070
 spoiler_after: ch0070
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0070|70話]] ｜ 容姿記述 1 件
+初出: [70話](../../nav/ch0070.md) ｜ 容姿記述 1 件
 
-- 道着を着ている。 ｜ 服装 ｜ 典拠: [[nav/ch0070|70話]]（p2624）
+- 道着を着ている。 ｜ 服装 ｜ 典拠: [70話](../../nav/ch0070.md)（p2624）
   > 道着姿の男
 <!-- AUTO:END -->

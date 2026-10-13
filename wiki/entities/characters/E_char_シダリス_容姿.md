@@ -9,8 +9,8 @@ first_appearance: ch0211
 spoiler_after: ch0211
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0211|211話]] ｜ 容姿記述 1 件
+初出: [211話](../../nav/ch0211.md) ｜ 容姿記述 1 件
 
-- 黒蟲騎士団の代表（黒服）。 ｜ 服装 ｜ 典拠: [[nav/ch0211|211話]]（p7135）
+- 黒蟲騎士団の代表（黒服）。 ｜ 服装 ｜ 典拠: [211話](../../nav/ch0211.md)（p7135）
   > 虫騎士シダリスと名乗った黒蟲騎士団の代表は私たちに対して友好的だった。
 <!-- AUTO:END -->

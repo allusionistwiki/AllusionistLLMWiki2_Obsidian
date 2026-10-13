@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0268_analogous_to_E_ch0268_ルスクォミーズ_other_可能性の減衰_p8379_量子力学_波動関数の収束
-title: 波動関数収束の類似
-
+title: "「可能性を減らす」という概念や「ゆらぎの中にある」という表現は、量子力学における観測による波動関数の収束や、多世界解釈における…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0268_ルスクォミーズ_other_可能性の減衰_p8379]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0017_alludes_to_E_ch0017_トリシューラ_says_打鍵速度と技量_p749_gaming_mechanics
-title: APM指標の呪術的メカニクス化
-
-
-
-
+title: "打鍵速度が技量とイコールであるという設定は、リズムゲームやMMOにおける「APM（Actions Per Minute）」がプ…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_トリシューラ_says_打鍵速度と技量_p749]]"

@@ -9,8 +9,8 @@ first_appearance: ch0255
 spoiler_after: ch0255
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0255|255話]] ｜ 容姿記述 1 件
+初出: [255話](../../nav/ch0255.md) ｜ 容姿記述 1 件
 
-- がっしりした体格、髭、高い声 ｜ 体格・顔立ち・声 ｜ 典拠: [[nav/ch0255|255話]]（p8197）
+- がっしりした体格、髭、高い声 ｜ 体格・顔立ち・声 ｜ 典拠: [255話](../../nav/ch0255.md)（p8197）
   > がっしりした体格、髭の似合う中年そこそこの年齢、幾つもの風船を手にした男の声は、見た目からすると意外なほどに高かった。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0040
 spoiler_after: ch0040
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0040|40話]] ｜ 容姿記述 1 件
+初出: [40話](../../nav/ch0040.md) ｜ 容姿記述 1 件
 
-- 両足が存在せず、車椅子で移動している ｜ 足・義肢・移動手段 ｜ 典拠: [[nav/ch0040|40話]]（p1755）
+- 両足が存在せず、車椅子で移動している ｜ 足・義肢・移動手段 ｜ 典拠: [40話](../../nav/ch0040.md)（p1755）
   > 両足が失われており車椅子で生活していることも、その壮絶な過去を想像させて他の候補達をおののかせる一因となっている。
 <!-- AUTO:END -->

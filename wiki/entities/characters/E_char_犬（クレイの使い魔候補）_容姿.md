@@ -9,8 +9,8 @@ first_appearance: ch0226
 spoiler_after: ch0226
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0226|226話]] ｜ 容姿記述 1 件
+初出: [226話](../../nav/ch0226.md) ｜ 容姿記述 1 件
 
-- 白い毛並み、大型 ｜ 毛色・体格 ｜ 典拠: [[nav/ch0226|226話]]（p7461）
+- 白い毛並み、大型 ｜ 毛色・体格 ｜ 典拠: [226話](../../nav/ch0226.md)（p7461）
   > 白い毛並みの大型犬
 <!-- AUTO:END -->

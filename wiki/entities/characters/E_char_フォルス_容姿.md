@@ -9,8 +9,8 @@ first_appearance: ch0196
 spoiler_after: ch0196
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0196|196話]] ｜ 容姿記述 1 件
+初出: [196話](../../nav/ch0196.md) ｜ 容姿記述 1 件
 
-- 頭上に光輪、長い髪、六枚の翼を持つ ｜ 頭上 (光輪)・髪 (長い・光の奔流)・背 (六枚の翼) ｜ 典拠: [[nav/ch0196|196話]]（p6585）
+- 頭上に光輪、長い髪、六枚の翼を持つ ｜ 頭上 (光輪)・髪 (長い・光の奔流)・背 (六枚の翼) ｜ 典拠: [196話](../../nav/ch0196.md)（p6585）
   > 頭上には燃える光輪、長い髪は光の奔流、背には六枚の翼
 <!-- AUTO:END -->

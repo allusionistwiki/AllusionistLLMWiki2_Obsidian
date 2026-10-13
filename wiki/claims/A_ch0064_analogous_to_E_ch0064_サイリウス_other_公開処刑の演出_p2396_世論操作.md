@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_サイリウス_other_公開処刑の演出_p2396_世論操作
-title: 世論操作による暴力正当化
-
-
-
-
+title: "サイリウスが観客に「慈悲」を求めさせるのは、世論を操作して暴力を正当化する政治的な手法の比喩である"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_サイリウス_other_公開処刑の演出_p2396]]"

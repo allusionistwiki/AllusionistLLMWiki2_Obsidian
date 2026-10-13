@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0066_analogous_to_E_ch0066_サイザクタート_defines_朱の色号_p2460_ゲームのセーブポイント
-title: 死亡直前リロードのメタファー
-
-
-
-
+title: "起きた出来事を一瞬のみ無かったことにできる能力は、ゲームにおける「死亡直前のセーブデータからのリロード」や「タイムリセット」の…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_サイザクタート_defines_朱の色号_p2460]]"

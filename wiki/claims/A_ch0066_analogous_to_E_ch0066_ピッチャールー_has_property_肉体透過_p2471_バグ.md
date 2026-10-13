@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0066_analogous_to_E_ch0066_ピッチャールー_has_property_肉体透過_p2471_バグ
-title: 碰撞判定バグの模倣
-
-
-
-
+title: "ピッチャールーの腕が物理的に干渉し合うはずの状態で透過・再生を繰り返す現象は、ゲームにおける碰撞判定のバグや、意図しない挙動（…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_メイファーラ_fights_ピッチャールー_p2471]]"

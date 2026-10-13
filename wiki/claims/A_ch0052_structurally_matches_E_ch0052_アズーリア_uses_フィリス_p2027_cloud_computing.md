@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0052_structurally_matches_E_ch0052_アズーリア_uses_フィリス_p2027_cloud_computing
-title: クラウドコンピューティングへの構造対応
-
-
-
-
+title: "独角兎（仮想使い魔）の処理能力を借りて時間遡行を補助する様子は、個人端末の計算能力不足をクラウドサーバーで補完する構造と一致する"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_アズーリア_uses_フィリス_p2027]]"

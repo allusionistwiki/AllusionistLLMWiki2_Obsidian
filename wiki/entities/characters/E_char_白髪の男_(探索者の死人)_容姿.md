@@ -9,8 +9,8 @@ first_appearance: ch0071
 spoiler_after: ch0071
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0071|71話]] ｜ 容姿記述 1 件
+初出: [71話](../../nav/ch0071.md) ｜ 容姿記述 1 件
 
-- 白发で目が虚ろ。杖に弩を付けた武器を持つ。 ｜ 虚ろな目・白髪・特殊な武器(杖+弩) ｜ 典拠: [[nav/ch0071|71話]]（p2652）
+- 白发で目が虚ろ。杖に弩を付けた武器を持つ。 ｜ 虚ろな目・白髪・特殊な武器(杖+弩) ｜ 典拠: [71話](../../nav/ch0071.md)（p2652）
   > 虚ろな目をした白髪の男。杖の上に弩が取り付けられた独特な武器。
 <!-- AUTO:END -->

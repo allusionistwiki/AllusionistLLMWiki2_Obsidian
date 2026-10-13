@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_alludes_to_E_ch0065_ズタークスターク_defines_哲学的ゾンビ_p2415_philosophical_zombie
-title: 哲学的ゾンビとしての意識欠如
-
-
-
-
+title: "ズタークスタークが「哲学的ゾンビ」と定義されることは、外見や振る舞い（アリスの再現）は人間と区別がつかないが、内的な意識（クオ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ズタークスターク_defines_哲学的ゾンビ_p2415]]"

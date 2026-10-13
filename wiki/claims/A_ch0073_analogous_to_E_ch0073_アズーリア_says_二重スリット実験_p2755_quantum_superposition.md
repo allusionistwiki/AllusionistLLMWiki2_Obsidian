@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0073_analogous_to_E_ch0073_アズーリア_says_二重スリット実験_p2755_quantum_superposition
-title: 量子重ね合わせ
-
-
-
-
+title: "矛盾する二つの認識（杖的・邪視的）を同時に成立させる手法は、量子力学における二重スリット実験の重ね合わせ状態のアナロジーとして…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_アズーリア_says_二重スリット実験_p2755]]"

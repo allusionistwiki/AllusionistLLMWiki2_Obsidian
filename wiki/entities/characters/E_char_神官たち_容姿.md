@@ -9,8 +9,8 @@ first_appearance: ch0065
 spoiler_after: ch0065
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0065|65話]] ｜ 容姿記述 1 件
+初出: [65話](../../nav/ch0065.md) ｜ 容姿記述 1 件
 
-- でっぷりと太った体格で神官服を着た男性たち。 ｜ 太った体・神官服・男性 ｜ 典拠: [[nav/ch0065|65話]]（p2423）
+- でっぷりと太った体格で神官服を着た男性たち。 ｜ 太った体・神官服・男性 ｜ 典拠: [65話](../../nav/ch0065.md)（p2423）
   > 新たに出現したのはでっぷりと太った神官服の男性たち。
 <!-- AUTO:END -->

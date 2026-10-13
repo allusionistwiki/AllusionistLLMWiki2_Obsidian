@@ -9,8 +9,8 @@ first_appearance: ch0151
 spoiler_after: ch0151
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0151|151話]] ｜ 容姿記述 1 件
+初出: [151話](../../nav/ch0151.md) ｜ 容姿記述 1 件
 
-- 老女期から死に至るまで、痩せ細っていく姿 ｜ 体格 ｜ 典拠: [[nav/ch0151|151話]]（p5114）
+- 老女期から死に至るまで、痩せ細っていく姿 ｜ 体格 ｜ 典拠: [151話](../../nav/ch0151.md)（p5114）
   > 寝台に横たわり、徐々に痩せ細って末期を受け入れていく光景。
 <!-- AUTO:END -->

@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0268_structurally_matches_E_ch0268_ミブリナ_thinks_無限の虚空_p8383_ゲーム_エンドコンテンツの無限回廊
-title: 無限回廊の構造対応
-
+title: "「どこまで行っても檻の中」「終わらない挑戦」という描写は、MMORPGや高難度アクションゲームにおけるエンドコンテンツの無限反…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0268_ミブリナ_thinks_無限の虚空_p8383]]"

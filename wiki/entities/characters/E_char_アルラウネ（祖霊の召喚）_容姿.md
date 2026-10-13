@@ -9,8 +9,8 @@ first_appearance: ch0222
 spoiler_after: ch0222
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0222|222話]] ｜ 容姿記述 1 件
+初出: [222話](../../nav/ch0222.md) ｜ 容姿記述 1 件
 
-- 半透明な姿、すみれ色の瞳、白肌、巫女の装束。 ｜ 瞳・肌・服装/属性 ｜ 典拠: [[nav/ch0222|222話]]（p7380）
+- 半透明な姿、すみれ色の瞳、白肌、巫女の装束。 ｜ 瞳・肌・服装/属性 ｜ 典拠: [222話](../../nav/ch0222.md)（p7380）
   > ロードデンドロンの背後に半透明の女が寄り添う。すみれ色の瞳をした白肌の巫女。
 <!-- AUTO:END -->

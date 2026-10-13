@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0035_analogous_to_E_ch0035_アズーリア_uses_紫外線操作_p1431_UVカットフィルム
-title: UVカット技術の呪術転用
-
-
-
-
+title: "紫外線を操作して影と同化し、鳥類（天眼の民）の視覚から隠れるという戦術は、現代のUVカットフィルムや遮光カーテン、日焼け止めク…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_アズーリア_uses_紫外線操作_p1431]]"

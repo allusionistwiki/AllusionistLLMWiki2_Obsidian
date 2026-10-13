@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0009_inverts_E_ch0009_トリシューラ_says_カッサリオ_p399_生物兵器の倫理
-title: 生物兵器としての定義
-
-
-
-
+title: "カッサリオは自然の生物ではなく、いにしえの言語魔術師が作り出した「召喚者以外は皆殺しにする」という仕様を持つ生物兵器として定義…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_トリシューラ_says_カッサリオ_p399]]"

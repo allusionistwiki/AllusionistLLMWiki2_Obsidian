@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0060_alludes_to_E_ch0060_フィリス_functions_as_悪戯好きの妖精_p2269_digital_glitch
-title: 記号遊離のデジタルグリッチ
-
-
-
-
+title: "フィリスによる言葉の解釈の反転は、言語記号と意味の間に生じる「意味の破綻」や「記号の遊離」を擬人化したものである"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_フィリス_functions_as_悪戯好きの妖精_p2269]]"

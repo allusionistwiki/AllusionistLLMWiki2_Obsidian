@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_ユネクティア_uses_多数決_p2431_民主主義の機能不全
-title: 多数決を装う独裁の風刺
-
-
-
-
+title: "魔将たちが「多数決」で行動を決めるが、実質的にユネクティアの意見が通る構造は、形式上の民主主義が実質的な独裁や同調圧力によって…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ユネクティア_other_多数決_p2431]]"

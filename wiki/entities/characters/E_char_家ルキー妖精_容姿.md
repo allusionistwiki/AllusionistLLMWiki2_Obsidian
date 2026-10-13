@@ -9,8 +9,8 @@ first_appearance: ch0047
 spoiler_after: ch0047
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0047|47話]] ｜ 容姿記述 1 件
+初出: [47話](../../nav/ch0047.md) ｜ 容姿記述 1 件
 
-- 半透明の少女の姿をしており、虫のような翅を広げている。 ｜ 身体・翅 ｜ 典拠: [[nav/ch0047|47話]]（p1916）
+- 半透明の少女の姿をしており、虫のような翅を広げている。 ｜ 身体・翅 ｜ 典拠: [47話](../../nav/ch0047.md)（p1916）
   > 役目を終えた半透明の少女は、虫のような翅を広げてそのまま外に出て行った。
 <!-- AUTO:END -->

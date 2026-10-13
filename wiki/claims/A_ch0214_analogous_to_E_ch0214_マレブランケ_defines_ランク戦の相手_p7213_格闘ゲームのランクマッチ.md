@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0214_analogous_to_E_ch0214_マレブランケ_defines_ランク戦の相手_p7213_格闘ゲームのランクマッチ
-title: 祝祭期間の自由なランクマッチング
-
+title: "祝祭期間中に特定の強者（マレブランケ）に自由に挑んでランク戦を仕掛けられるというシステムは、格闘ゲームやオンラインRPGにおけ…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0214_マレブランケ_defines_ランク戦の相手_p7213]]"

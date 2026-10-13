@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0143_alludes_to_E_ch0143_少女_appears_箒_p4893_魔女っ子アニメ_ジャンル
-title: 魔女っ子アニメのメタ介入
-
+title: "箒に乗って空を飛び、魔導書や呪文で戦う少女たちの登場は、日本の「魔女っ子」アニメや魔法少女ジャンルのクリシェを意図的に引用し…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0143_少女_appears_箒_p4893]]"

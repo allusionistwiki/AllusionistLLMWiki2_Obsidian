@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_地獄への覚悟_p1532_moral_injury
-title: 修道騎士の道徳的外傷
-
-
-
-
+title: "修道騎士として同族を殺し続けることによる「地獄への堕ちる」という自覚は、兵士や執行者が経験する道徳的外傷（モラル・インジュリー…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_アズーリア_thinks_地獄への覚悟_p1532]]"

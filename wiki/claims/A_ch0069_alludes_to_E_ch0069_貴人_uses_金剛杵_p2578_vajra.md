@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0069_alludes_to_E_ch0069_貴人_uses_金剛杵_p2578_vajra
-title: 金剛杵による神聖権力の象徴
-
-
-
-
+title: "駕籠の中から現れる「中央に柄があり、その上下に槍の穂先めいた刃が付いた武器」は、仏教密教の法具である金剛杵（ヴァジュラ）を指喩…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_貴人_uses_金剛杵_p2578]]"

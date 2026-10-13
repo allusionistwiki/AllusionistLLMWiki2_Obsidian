@@ -9,8 +9,8 @@ first_appearance: ch0181
 spoiler_after: ch0181
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0181|181話]] ｜ 容姿記述 1 件
+初出: [181話](../../nav/ch0181.md) ｜ 容姿記述 1 件
 
-- 側頭部にドアノブ、髭面 ｜ 顔立ち ｜ 典拠: [[nav/ch0181|181話]]（p6003）
+- 側頭部にドアノブ、髭面 ｜ 顔立ち ｜ 典拠: [181話](../../nav/ch0181.md)（p6003）
   > 左右の側頭部からドアノブを生やした髭面の男が突如として虚空に出現し、不敵に笑う。
 <!-- AUTO:END -->

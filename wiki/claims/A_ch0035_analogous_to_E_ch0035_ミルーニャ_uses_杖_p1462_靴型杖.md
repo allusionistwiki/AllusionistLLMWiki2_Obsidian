@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0035_analogous_to_E_ch0035_ミルーニャ_uses_杖_p1462_靴型杖
-title: 靴型杖の身体拡張メタファー
-
-
-
-
+title: "杖を「第三の足」として靴の形にし、大地との接触面を広くして地脈から呪力を引き出す設定は、身体拡張による環境データ収集のメタファ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_ミルーニャ_uses_杖_p1462]]"

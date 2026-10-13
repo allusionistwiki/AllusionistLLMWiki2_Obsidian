@@ -9,8 +9,8 @@ first_appearance: ch0035
 spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0035|35話]] ｜ 容姿記述 1 件
+初出: [35話](../../nav/ch0035.md) ｜ 容姿記述 1 件
 
-- 背中からバターを塗ったトーストが生えた翼猫。 ｜ 外見（トーストの翼）・種（翼猫） ｜ 典拠: [[nav/ch0035|35話]]（p1482）
+- 背中からバターを塗ったトーストが生えた翼猫。 ｜ 外見（トーストの翼）・種（翼猫） ｜ 典拠: [35話](../../nav/ch0035.md)（p1482）
   > 出現した仮想使い魔は、バターを塗ったトーストを背中から二つ生やした、奇怪な翼猫。
 <!-- AUTO:END -->

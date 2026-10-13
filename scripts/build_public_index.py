@@ -238,7 +238,7 @@ def main() -> None:
             e = meta.get(ch)
             label = f"{e['label']}　{e['title']}" if e else f"第{ep_no(ch)}話"
             disp = f"第{kanji_num(int(ep_no(ch)))}話：{label}" if e else f"第{ep_no(ch)}話"
-            lines.append(f"| [[nav/{ch}|{disp}]] | {len(cs)} | {len(myst_by_ep.get(ch, []))} | {len(mes)} |")
+            lines.append(f"| [{disp}]({ch}.md) | {len(cs)} | {len(myst_by_ep.get(ch, []))} | {len(mes)} |")
     if unassigned:
         lines.append(f"| （話未指定） | {len(claims_by_ep.get('ch????', []))} | {len(myst_by_ep.get('ch????', []))} | 0 |")
     lines.append("")
@@ -282,7 +282,7 @@ def main() -> None:
         "アナロジークレーム全集（章・話別）",
         "全アナロジークレームの章別・話別インデックス",
         "claims/index",
-        f"全 **{len(claims)} 件**。[[nav/index|話ナビゲーション]] / [[mysteries/index|伏線台帳]] / [[references/index|外部参照]]\n\n"
+        f"全 **{len(claims)} 件**。[話ナビゲーション](../nav/index.md) / [伏線台帳](../mysteries/index.md) / [外部参照](../references/index.md)\n\n"
         "ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイベント（ノーペイン起動, p103）が「安楽死の倫理」をパロディにしている、という主張。")
 
     section_index(
@@ -333,15 +333,15 @@ def main() -> None:
                  "本作に仕掛けられた**引喩・パロディ・逆転**を、原文引用（ページ番号付き）と審査根拠とともに"
                  "体系化する分析Wikiです。\n")
     lines.append("## 入り口\n")
-    lines.append("- [[nav/index|話ナビゲーション]] — 話ごとのアナロジー・伏線一覧（第1話〜）")
-    lines.append("- [[characters/index|登場人物一覧]] — キャラクター入口（主要キャラから各ページへ）")
-    lines.append("- [[relationships/index|関係性マップ]] — キャラ間の関係グラフ")
-    lines.append("- [[entities/index|エンティティ総覧]] — 用語・組織・アイテム・モチーフ")
-    lines.append("- [[claims/index|アナロジークレーム全集]] — 引喩の主張すべて")
-    lines.append("- [[mysteries/index|伏線台帳]] — 仕掛けられた謎の追跡")
-    lines.append("- [[references/index|外部参照]] — 引喩先の現代文化・思想の解説")
-    lines.append("- [[deferrals/index|「今はまだ」先延ばし索引]] — 原文中の先延ばしモティーフ全箇所")
-    lines.append("- [[appearances/index|キャラ容姿描写索引]] — 容姿・外見描写のキャラ別索引\n")
+    lines.append("- [話ナビゲーション](nav/index.md) — 話ごとのアナロジー・伏線一覧（第1話〜）")
+    lines.append("- [登場人物一覧](characters/index.md) — キャラクター入口（主要キャラから各ページへ）")
+    lines.append("- [関係性マップ](relationships/index.md) — キャラ間の関係グラフ")
+    lines.append("- [エンティティ総覧](entities/index.md) — 用語・組織・アイテム・モチーフ")
+    lines.append("- [アナロジークレーム全集](claims/index.md) — 引喩の主張すべて")
+    lines.append("- [伏線台帳](mysteries/index.md) — 仕掛けられた謎の追跡")
+    lines.append("- [外部参照](references/index.md) — 引喩先の現代文化・思想の解説")
+    lines.append("- [「今はまだ」先延ばし索引](deferrals/index.md) — 原文中の先延ばしモティーフ全箇所")
+    lines.append("- [キャラ容姿描写索引](appearances/index.md) — 容姿・外見描写のキャラ別索引\n")
     lines.append("## 統計\n")
     lines.append(f"- 解析済み: **第1話〜第{ep_no(eps[-1])}話**（{n_ep} 話）")
     lines.append(f"- アナロジークレーム: **{len(claims)}** 件")

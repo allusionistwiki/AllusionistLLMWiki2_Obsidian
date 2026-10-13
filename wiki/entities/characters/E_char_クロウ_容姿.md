@@ -9,8 +9,8 @@ first_appearance: ch0215
 spoiler_after: ch0215
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0215|215話]] ｜ 容姿記述 1 件
+初出: [215話](../../nav/ch0215.md) ｜ 容姿記述 1 件
 
-- 鳥人（鳥の羽を有する外見）である。 ｜ 種族/外見 ｜ 典拠: [[nav/ch0215|215話]]（p7233）
+- 鳥人（鳥の羽を有する外見）である。 ｜ 種族/外見 ｜ 典拠: [215話](../../nav/ch0215.md)（p7233）
   > 不死狩りの鳥人『啄み』クロウ選手
 <!-- AUTO:END -->

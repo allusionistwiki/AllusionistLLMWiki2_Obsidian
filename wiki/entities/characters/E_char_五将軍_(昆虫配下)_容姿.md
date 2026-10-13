@@ -9,8 +9,8 @@ first_appearance: ch0145
 spoiler_after: ch0145
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0145|145話]] ｜ 容姿記述 1 件
+初出: [145話](../../nav/ch0145.md) ｜ 容姿記述 1 件
 
-- 死番虫、虻、天道虫、蟷螂。 ｜ 外見 ｜ 典拠: [[nav/ch0145|145話]]（p4947）
+- 死番虫、虻、天道虫、蟷螂。 ｜ 外見 ｜ 典拠: [145話](../../nav/ch0145.md)（p4947）
   > 背後に付き従うのは四体の虫。死番虫、虻、天道虫、蟷螂。
 <!-- AUTO:END -->

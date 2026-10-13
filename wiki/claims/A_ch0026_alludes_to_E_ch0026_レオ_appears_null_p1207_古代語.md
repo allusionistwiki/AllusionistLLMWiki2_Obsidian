@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_レオ_appears_null_p1207_古代語
-title: 古代語に宿る高位の由来
-
-
-
-
+title: "レオが古代語を話すという記述は、彼が古い文化や高位の存在に由来することを示唆する"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_レオ_appears_null_p1207]]"

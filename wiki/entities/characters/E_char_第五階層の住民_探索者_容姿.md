@@ -9,8 +9,8 @@ first_appearance: ch0027
 spoiler_after: ch0027
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0027|27話]] ｜ 容姿記述 1 件
+初出: [27話](../../nav/ch0027.md) ｜ 容姿記述 1 件
 
-- 失われた四肢や感覚器が修復・回復した姿。 ｜ 義肢・身体機能の回復 ｜ 典拠: [[nav/ch0027|27話]]（p1212）
+- 失われた四肢や感覚器が修復・回復した姿。 ｜ 義肢・身体機能の回復 ｜ 典拠: [27話](../../nav/ch0027.md)（p1212）
   > 失われた四肢、感覚器などが戻っている。
 <!-- AUTO:END -->

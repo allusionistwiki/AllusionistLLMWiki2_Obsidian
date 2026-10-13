@@ -9,8 +9,8 @@ first_appearance: ch0136
 spoiler_after: ch0136
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0136|136話]] ｜ 容姿記述 1 件
+初出: [136話](../../nav/ch0136.md) ｜ 容姿記述 1 件
 
-- 赤子の顔と低い声 ｜ 顔(赤子の顔)・声(低い) ｜ 典拠: [[nav/ch0136|136話]]（p4684）
+- 赤子の顔と低い声 ｜ 顔(赤子の顔)・声(低い) ｜ 典拠: [136話](../../nav/ch0136.md)（p4684）
   > のそり、と赤子の顔がオルヴァ王の口から出て来ると、低い声でこう言った。
 <!-- AUTO:END -->

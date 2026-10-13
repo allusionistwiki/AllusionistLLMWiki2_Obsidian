@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0246_analogous_to_E_ch0246_ペラティア展_functions_as_文化的死霊術_p7996_political_ideology_as_performance
-title: 政治イデオロギーの演出
-
+title: "失われた文化を「文化的死霊術」と呼び、観客の「熱意」や「決意」を燃え上がらせる装置として機能させる描写は、政治的プロパガンダや…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0246_ペラティア展_functions_as_文化的死霊術_p7996]]"

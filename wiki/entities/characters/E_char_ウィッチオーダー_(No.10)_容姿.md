@@ -9,8 +9,8 @@ first_appearance: ch0024
 spoiler_after: ch0024
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0024|24話]] ｜ 容姿記述 1 件
+初出: [24話](../../nav/ch0024.md) ｜ 容姿記述 1 件
 
-- 鮮やかな深紅を基調とした義肢。 ｜ 義肢・色 ｜ 典拠: [[nav/ch0024|24話]]（p1128）
+- 鮮やかな深紅を基調とした義肢。 ｜ 義肢・色 ｜ 典拠: [24話](../../nav/ch0024.md)（p1128）
   > 七十一のうち、【星見の塔】によって使用が制限されている上位一桁の形態を除けば最上位となる十番の義肢。鮮やかな深紅を基調とした義肢には、一見して特殊な兵装は存在しない。
 <!-- AUTO:END -->

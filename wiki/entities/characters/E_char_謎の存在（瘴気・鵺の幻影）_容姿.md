@@ -9,8 +9,8 @@ first_appearance: ch0152
 spoiler_after: ch0152
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0152|152話]] ｜ 容姿記述 1 件
+初出: [152話](../../nav/ch0152.md) ｜ 容姿記述 1 件
 
-- 緑色の髪と長い牙を持つ ｜ 髪・牙 ｜ 典拠: [[nav/ch0152|152話]]（p5163）
+- 緑色の髪と長い牙を持つ ｜ 髪・牙 ｜ 典拠: [152話](../../nav/ch0152.md)（p5163）
   > 緑色の髪に長い牙、大勢にして孤独。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0228
 spoiler_after: ch0228
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0228|228話]] ｜ 容姿記述 1 件
+初出: [228話](../../nav/ch0228.md) ｜ 容姿記述 1 件
 
-- 岩のような質感の肌を持つ。 ｜ 岩肌 ｜ 典拠: [[nav/ch0228|228話]]（p7516）
+- 岩のような質感の肌を持つ。 ｜ 岩肌 ｜ 典拠: [228話](../../nav/ch0228.md)（p7516）
   > 岩肌種の笑みが獣の獰猛さを露にした。
 <!-- AUTO:END -->

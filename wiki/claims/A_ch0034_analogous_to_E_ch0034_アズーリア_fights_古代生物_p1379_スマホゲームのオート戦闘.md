@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0034_analogous_to_E_ch0034_アズーリア_fights_古代生物_p1379_スマホゲームのオート戦闘
-title: オート戦闘的戦局悪化
-
-
-
-
+title: "アズーリアの呪文が敵集団を薙ぎ払う予定が、最も弱い個体を一匹仕留めるだけで失敗し、敵の怒りを買って集中攻撃を受ける様子は、計画…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0034_アズーリア_fights_古代生物_p1379]]"

@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0202_parodies_E_p6777_gacha_game_tutorial
-title: 女神啓示のチュートリアル化メタ描写
-
+title: "女神からの啓示を、ゲームにおける退屈なチュートリアルやイベントCGのスキップ対象としてメタ的に描写している"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"

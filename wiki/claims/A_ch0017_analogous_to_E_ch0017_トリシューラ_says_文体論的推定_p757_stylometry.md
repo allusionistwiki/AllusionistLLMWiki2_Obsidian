@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0017_analogous_to_E_ch0017_トリシューラ_says_文体論的推定_p757_stylometry
-title: 文体計量学による呪術的特定
-
-
-
-
+title: "テキストの「筆致」や「文体」から個人を特定する手法は、現実の統計言語学における「文体計量学（Stylometry）」や、ネット…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0017_トリシューラ_says_文体論的推定_p757]]"

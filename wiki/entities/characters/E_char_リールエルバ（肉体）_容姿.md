@@ -9,8 +9,8 @@ first_appearance: ch0063
 spoiler_after: ch0063
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0063|63話]] ｜ 容姿記述 1 件
+初出: [63話](../../nav/ch0063.md) ｜ 容姿記述 1 件
 
-- 痩せ細った肉体 ｜ 体格 ｜ 典拠: [[nav/ch0063|63話]]（p2346）
+- 痩せ細った肉体 ｜ 体格 ｜ 典拠: [63話](../../nav/ch0063.md)（p2346）
   > 豪華絢爛なドレスに包まれて地下千メフィーテに幽閉され、長年の拘束でひどく痩せ細っているという。
 <!-- AUTO:END -->

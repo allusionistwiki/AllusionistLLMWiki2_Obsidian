@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0246_analogous_to_E_ch0246_キュレーター_has_property_独自の裁量権_p7996_museum_curator_authority
-title: 学芸員のキュレーション権
-
+title: "博物城のキュレーターが「企画者であり、祭司でもある」とされる描写は、現代の美術館学芸員が単なる管理者ではなく、展示を通じて物語…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0246_キュレーター_has_property_独自の裁量権_p7996]]"

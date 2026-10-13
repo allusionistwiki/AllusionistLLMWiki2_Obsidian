@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0073_analogous_to_E_ch0073_世界槍_has_property_自己相似形_p2720_sierpinski_carpet
-title: シェルピンスキーのギャスケット
-
-
-
-
+title: "世界槍の構造は、正方形を9分割し中央を取り除く処理を繰り返すフラクタル幾何学（シェルピンスキーのギャスケット）の三次元版として…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_世界槍_has_property_自己相似形_p2720]]"

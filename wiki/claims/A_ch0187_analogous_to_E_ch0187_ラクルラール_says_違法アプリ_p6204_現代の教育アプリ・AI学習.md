@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0187_analogous_to_E_ch0187_ラクルラール_says_違法アプリ_p6204_現代の教育アプリ・AI学習
-title: AI教育アプリの脅威の類似
-
+title: "「誰でも簡単に技術が習得できる」と謳う違法教育アプリは、現代のAIによる個別最適化学習や、既存の教育制度を脅かすEdTechサ…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0187_ラクルラール_says_違法アプリ_p6204]]"

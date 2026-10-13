@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0057_analogous_to_E_ch0057_狂姫_says_幽閉からの解放_p2186_技術移転規制
-title: 天才の国家権力による徴用
-
-
-
-
+title: "天才的な頭脳を借りに権力者が訪れるという状況は、高度な知能を持つ人物が国家権力によって徴用・利用される構造を指喩している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0057_狂姫_says_幽閉からの解放_p2186]]"

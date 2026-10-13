@@ -9,8 +9,8 @@ first_appearance: ch0050
 spoiler_after: ch0050
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0050|50話]] ｜ 容姿記述 1 件
+初出: [50話](../../nav/ch0050.md) ｜ 容姿記述 1 件
 
-- 燃えるような貴婦人の姿 ｜ 服装・雰囲気 ｜ 典拠: [[nav/ch0050|50話]]（p2001）
+- 燃えるような貴婦人の姿 ｜ 服装・雰囲気 ｜ 典拠: [50話](../../nav/ch0050.md)（p2001）
   > 白い火柱の中から、燃えるような貴婦人がその姿を現した。
 <!-- AUTO:END -->

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0067_analogous_to_E_ch0067_ハルハハール_other_ロシンたち_p2517_洗脳・カルト
-title: 心話による洗脳・カルト
-
-
-
-
+title: "ハルハハールが「心話」を用いてロシンたちに同胞意識を植え付け、抵抗を放棄させる様子は、呪術的な「共振」を利用した心理的支配であ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ハルハハール_other_ロシンたち_p2517]]"

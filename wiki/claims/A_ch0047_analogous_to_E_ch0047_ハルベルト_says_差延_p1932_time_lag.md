@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_time_lag
-title: レイテンシとしての呪文の遅さ
-
-
-
-
+title: "言語の「遅れ」が呪文の遅さの原因であるという説明は、情報伝達におけるレイテンシ（遅延）が処理速度を決定するという情報工学の原理…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_差延_p1932]]"

@@ -9,8 +9,8 @@ first_appearance: ch0115
 spoiler_after: ch0115
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0115|115話]] ｜ 容姿記述 1 件
+初出: [115話](../../nav/ch0115.md) ｜ 容姿記述 1 件
 
-- 青い血を流す。 ｜ 血液 ｜ 典拠: [[nav/ch0115|115話]]（p4043）
+- 青い血を流す。 ｜ 血液 ｜ 典拠: [115話](../../nav/ch0115.md)（p4043）
   > 溢れ出した青い血が大地に染み込んでいくと、その下から実体を持たない亡霊たちが這い出してくる。
 <!-- AUTO:END -->

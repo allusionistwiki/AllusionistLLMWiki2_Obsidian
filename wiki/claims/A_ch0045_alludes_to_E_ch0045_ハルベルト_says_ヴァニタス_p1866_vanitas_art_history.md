@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0045_alludes_to_E_ch0045_ハルベルト_says_ヴァニタス_p1866_vanitas_art_history
-title: 虚しさ寓意画ヴァニタス
-
-
-
-
+title: "「ヴァニタス」は17世紀オランダ絵画などで流行した「人生の虚しさ」を寓意する静物画のジャンルであり、ガルズの絵画は伝統的な美術…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0045_ハルベルト_says_ヴァニタス_p1866]]"

@@ -9,8 +9,8 @@ first_appearance: ch0169
 spoiler_after: ch0169
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0169|169話]] ｜ 容姿記述 1 件
+初出: [169話](../../nav/ch0169.md) ｜ 容姿記述 1 件
 
-- 侍女服を着たぜんまいばね付きの人形 ｜ 服装・仕掛け ｜ 典拠: [[nav/ch0169|169話]]（p5641）
+- 侍女服を着たぜんまいばね付きの人形 ｜ 服装・仕掛け ｜ 典拠: [169話](../../nav/ch0169.md)（p5641）
   > 読めない漫画を大事そうに抱えた侍女服の可愛らしいぜんまいばねの人形を。
 <!-- AUTO:END -->

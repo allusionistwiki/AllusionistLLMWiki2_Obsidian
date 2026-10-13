@@ -9,8 +9,8 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0232|232話]] ｜ 容姿記述 1 件
+初出: [232話](../../nav/ch0232.md) ｜ 容姿記述 1 件
 
-- 黒い衣服をまとっている。 ｜ 服装（黒衣） ｜ 典拠: [[nav/ch0232|232話]]（p7654）
+- 黒い衣服をまとっている。 ｜ 服装（黒衣） ｜ 典拠: [232話](../../nav/ch0232.md)（p7654）
   > クリーナー＆ダスト：謎めいた黒衣のダークホース。
 <!-- AUTO:END -->

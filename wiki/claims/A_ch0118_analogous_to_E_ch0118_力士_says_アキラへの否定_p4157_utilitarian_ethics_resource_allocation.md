@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0118_analogous_to_E_ch0118_力士_says_アキラへの否定_p4157_utilitarian_ethics_resource_allocation
-title: 転生資源の功利主義的配分
-
+title: "転生技術が保険に組み込まれ、二重転生が予算超過であり他者の機会を奪うと指摘する力士の論理は、限られた資源を最適配分する功利主義…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0118_力士_says_アキラへの否定_p4157]]"

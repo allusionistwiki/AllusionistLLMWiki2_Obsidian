@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0118_analogous_to_E_ch0118_コルセスカ_activates_森羅万象型の浄界_p4138_video_game_logic
-title: 現実侵食のゲームロジック
-
+title: "コルセスカの浄界により、現実世界にゲーム的な要素（アイテムボックス、HPゲージ、復活、当たり判定）が適用される現象は、ビデオゲ…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0118_コルセスカ_activates_森羅万象型の浄界_p4138]]"

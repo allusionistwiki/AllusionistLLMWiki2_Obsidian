@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_防御オーブ_p257_セキュリティシステム
-title: セキュリティシステムのメタファー
-
-
-
-
+title: "自動的に攻撃を防御し反撃するオーブは、現代のセキュリティシステム（侵入検知、自動防御）のメタファーである"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_防御オーブ_p257]]"

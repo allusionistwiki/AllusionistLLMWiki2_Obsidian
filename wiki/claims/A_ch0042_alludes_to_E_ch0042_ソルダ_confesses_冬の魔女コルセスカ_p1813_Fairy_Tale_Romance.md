@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0042_alludes_to_E_ch0042_ソルダ_confesses_冬の魔女コルセスカ_p1813_Fairy_Tale_Romance
-title: おとぎ話的恋愛の暗喩
-
-
-
-
+title: "ソルダとコルセスカの物語は、グリム童話や北欧神話に見られる「凍結された愛」や「運命の再会」をモチーフとしたおとぎ話の構造を模し…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_ソルダ_confesses_冬の魔女コルセスカ_p1813]]"

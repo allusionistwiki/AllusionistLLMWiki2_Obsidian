@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0043_alludes_to_E_ch0043_夜の民_has_property_老齢化による縮小_p1824_生物の老化_縮小現象
-title: 老化による縮小現象
-
-
-
-
+title: "老いと共に身体が小さくなり赤子に近付くという生態は、生物学的な老化現象を極端にデフォルメしたファンタジー的設定である"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_夜の民_has_property_老齢化による縮小_p1824]]"

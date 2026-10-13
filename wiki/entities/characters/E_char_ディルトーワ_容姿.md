@@ -9,8 +9,8 @@ first_appearance: ch0099
 spoiler_after: ch0099
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0099|99話]] ｜ 容姿記述 1 件
+初出: [99話](../../nav/ch0099.md) ｜ 容姿記述 1 件
 
-- アルトに比べてとても小さいモグラ ｜ 体格 ｜ 典拠: [[nav/ch0099|99話]]（p3604）
+- アルトに比べてとても小さいモグラ ｜ 体格 ｜ 典拠: [99話](../../nav/ch0099.md)（p3604）
   > アルトに比べてとても小さな動物の名前は、モグラのディルトーワと言った。
 <!-- AUTO:END -->

@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0229_analogous_to_E_ch0229_スーリウム_activates_反転する世界_p7586_世界観の反転・ユートピア／ディストピア
-title: ユートピアのディストピア反転
-
+title: "スーリウムが世界を反転させ、美しい花園が一瞬で屍の山（悪夢）に変貌する描写は、理想郷の表象が裏返ることで露呈するディストピア的…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0229_スーリウム_activates_反転する世界_p7586]]"

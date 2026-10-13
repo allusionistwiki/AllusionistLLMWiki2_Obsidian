@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0006_inverts_E_ch0006_アキラ_thinks_反証としての現実_p309_counterfactual_thinking
-title: 反事実的思考による価値再評価
-
-
-
-
+title: "悪夢（もし六人と出会わなかったら）という反事実的なシミュレーションを見ることで、現実の記憶の価値を逆説的に確認する構造は、反事…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0006_アキラ_thinks_反証としての現実_p309]]"

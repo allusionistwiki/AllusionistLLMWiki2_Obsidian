@@ -9,8 +9,8 @@ first_appearance: ch0162
 spoiler_after: ch0162
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0162|162話]] ｜ 容姿記述 1 件
+初出: [162話](../../nav/ch0162.md) ｜ 容姿記述 1 件
 
-- 三人のうち一人は肌や表情が白い。 ｜ 顔色・表情 ｜ 典拠: [[nav/ch0162|162話]]（p5486）
+- 三人のうち一人は肌や表情が白い。 ｜ 顔色・表情 ｜ 典拠: [162話](../../nav/ch0162.md)（p5486）
   > ノリノリの二人に比べて白い子がやけくそ気味に笑顔を作っているのが少し気になるが。
 <!-- AUTO:END -->

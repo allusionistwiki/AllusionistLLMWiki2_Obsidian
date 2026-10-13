@@ -9,8 +9,8 @@ first_appearance: ch0086
 spoiler_after: ch0086
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0086|86話]] ｜ 容姿記述 1 件
+初出: [86話](../../nav/ch0086.md) ｜ 容姿記述 1 件
 
-- 皺だらけの黒い、矮躯の死体。 ｜ 皺・肌（黒い）・体格（矮躯） ｜ 典拠: [[nav/ch0086|86話]]（p3148）
+- 皺だらけの黒い、矮躯の死体。 ｜ 皺・肌（黒い）・体格（矮躯） ｜ 典拠: [86話](../../nav/ch0086.md)（p3148）
   > 皺だらけの黒い矮躯。
 <!-- AUTO:END -->

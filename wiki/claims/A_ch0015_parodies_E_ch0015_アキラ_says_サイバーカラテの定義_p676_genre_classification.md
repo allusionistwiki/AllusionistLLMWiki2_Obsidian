@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0015_parodies_E_ch0015_アキラ_says_サイバーカラテの定義_p676_genre_classification
-title: ジャンル分類へのアイデンティティ政治
-
-
-
-
+title: "「サイバーカラテ」が既存の武術カテゴリー（空手、中国武術）に収まらないと激怒する場面は、ジャンル分類への執着や「俺のジャンルは…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_アキラ_says_サイバーカラテの定義_p676]]"

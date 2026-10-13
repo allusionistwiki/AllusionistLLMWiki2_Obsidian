@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_wounds_左手中指_p1573_sacrifice
-title: 自己犠牲による呪術発動
-
-
-
-
+title: "呪術の発動に自らの身体の一部を犠牲にする行為は、魔法の代償としての「生贄」の伝統的な構造を踏襲している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_wounds_左手中指_p1573]]"

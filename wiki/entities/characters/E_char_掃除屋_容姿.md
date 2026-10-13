@@ -9,8 +9,8 @@ first_appearance: ch0239
 spoiler_after: ch0239
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,10 +24,10 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0239|239話]] ｜ 容姿記述 2 件
+初出: [239話](../../nav/ch0239.md) ｜ 容姿記述 2 件
 
-- 少年、古めかしい箒 ｜ 年齢・所持品 ｜ 典拠: [[nav/ch0239|239話]]（p7852）
+- 少年、古めかしい箒 ｜ 年齢・所持品 ｜ 典拠: [239話](../../nav/ch0239.md)（p7852）
   > 古めかしい箒を抱えたキノコ人の少年
-- 大きく震える大きな傘 ｜ 外見 ｜ 典拠: [[nav/ch0239|239話]]（p7852）
+- 大きく震える大きな傘 ｜ 外見 ｜ 典拠: [239話](../../nav/ch0239.md)（p7852）
   > 大きな傘をびくびくと震えさせている
 <!-- AUTO:END -->

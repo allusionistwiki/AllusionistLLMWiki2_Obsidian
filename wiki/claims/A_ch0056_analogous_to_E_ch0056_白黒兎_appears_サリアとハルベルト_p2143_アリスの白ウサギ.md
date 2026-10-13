@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0056_analogous_to_E_ch0056_白黒兎_appears_サリアとハルベルト_p2143_アリスの白ウサギ
-title: アリスの白ウサギ的誘い
-
-
-
-
+title: "片眼鏡と帽子を被った白黒の兎は、ルイス・キャロルの『不思議の国のアリス』における白ウサギ（時を管理し、異世界への入口を示す存在…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_白黒兎_appears_サリアとハルベルト_p2143]]"

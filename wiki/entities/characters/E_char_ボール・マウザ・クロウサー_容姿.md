@@ -9,8 +9,8 @@ first_appearance: ch0265
 spoiler_after: ch0265
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0265|265話]] ｜ 容姿記述 1 件
+初出: [265話](../../nav/ch0265.md) ｜ 容姿記述 1 件
 
-- 金色の瞳 ｜ 瞳 ｜ 典拠: [[nav/ch0265|265話]]（p8358）
+- 金色の瞳 ｜ 瞳 ｜ 典拠: [265話](../../nav/ch0265.md)（p8358）
   > ボールの金眼に魂を呪縛され
 <!-- AUTO:END -->

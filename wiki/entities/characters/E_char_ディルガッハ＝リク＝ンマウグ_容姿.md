@@ -9,8 +9,8 @@ first_appearance: ch0067
 spoiler_after: ch0067
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0067|67話]] ｜ 容姿記述 1 件
+初出: [67話](../../nav/ch0067.md) ｜ 容姿記述 1 件
 
-- 魚の鰓を思わせる耳 ｜ 耳 ｜ 典拠: [[nav/ch0067|67話]]（p2510）
+- 魚の鰓を思わせる耳 ｜ 耳 ｜ 典拠: [67話](../../nav/ch0067.md)（p2510）
   > 魚の鰓を思わせる耳をした彼ら
 <!-- AUTO:END -->

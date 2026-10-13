@@ -9,8 +9,8 @@ first_appearance: ch0111
 spoiler_after: ch0111
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0111|111話]] ｜ 容姿記述 1 件
+初出: [111話](../../nav/ch0111.md) ｜ 容姿記述 1 件
 
-- 岩石のような肌 ｜ 肌・再生 ｜ 典拠: [[nav/ch0111|111話]]（p3920）
+- 岩石のような肌 ｜ 肌・再生 ｜ 典拠: [111話](../../nav/ch0111.md)（p3920）
   > 彼らの肌は岩石の如き強靱さを誇り、高い生命力を持つため多少の傷はたちまち再生してしまう。
 <!-- AUTO:END -->

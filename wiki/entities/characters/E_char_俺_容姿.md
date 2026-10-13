@@ -9,8 +9,8 @@ first_appearance: ch0089
 spoiler_after: ch0089
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0089|89話]] ｜ 容姿記述 1 件
+初出: [89話](../../nav/ch0089.md) ｜ 容姿記述 1 件
 
-- どてらを羽織り額に保温符を貼る。 ｜ 服装 ｜ 典拠: [[nav/ch0089|89話]]（p3316）
+- どてらを羽織り額に保温符を貼る。 ｜ 服装 ｜ 典拠: [89話](../../nav/ch0089.md)（p3316）
   > 椅子に座り、身体を冷やさないようにどてらを羽織り、額に保温符を貼り付けてごほごほと咳をしながら、俺はそう言った。
 <!-- AUTO:END -->

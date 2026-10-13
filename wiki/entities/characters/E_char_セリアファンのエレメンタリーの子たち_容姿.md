@@ -9,8 +9,8 @@ first_appearance: ch0182
 spoiler_after: ch0182
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0182|182話]] ｜ 容姿記述 1 件
+初出: [182話](../../nav/ch0182.md) ｜ 容姿記述 1 件
 
-- 猫耳や尻尾などの猫グッズを身に着けている ｜ アクセサリー ｜ 典拠: [[nav/ch0182|182話]]（p6028）
+- 猫耳や尻尾などの猫グッズを身に着けている ｜ アクセサリー ｜ 典拠: [182話](../../nav/ch0182.md)（p6028）
   > 猫耳から尻尾アクセまで猫グッズだらけ
 <!-- AUTO:END -->

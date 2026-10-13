@@ -9,8 +9,8 @@ first_appearance: ch0236
 spoiler_after: ch0236
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0236|236話]] ｜ 容姿記述 1 件
+初出: [236話](../../nav/ch0236.md) ｜ 容姿記述 1 件
 
-- 老人だが幼児性を持ち、巨人と小鬼の狭間と形容される ｜ 体型的な比喐 ｜ 典拠: [[nav/ch0236|236話]]（7747）
+- 老人だが幼児性を持ち、巨人と小鬼の狭間と形容される ｜ 体型的な比喐 ｜ 典拠: [236話](../../nav/ch0236.md)（7747）
   > 老人の幼児性。巨人と小鬼の狭間でかろうじて踏みとどまってい
 <!-- AUTO:END -->

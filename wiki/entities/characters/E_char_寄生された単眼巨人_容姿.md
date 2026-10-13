@@ -9,8 +9,8 @@ first_appearance: ch0035
 spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0035|35話]] ｜ 容姿記述 1 件
+初出: [35話](../../nav/ch0035.md) ｜ 容姿記述 1 件
 
-- 金色の瞳。 ｜ 瞳（金色） ｜ 典拠: [[nav/ch0035|35話]]（p1476）
+- 金色の瞳。 ｜ 瞳（金色） ｜ 典拠: [35話](../../nav/ch0035.md)（p1476）
   > 金色の瞳を光らせた単眼巨人。
 <!-- AUTO:END -->

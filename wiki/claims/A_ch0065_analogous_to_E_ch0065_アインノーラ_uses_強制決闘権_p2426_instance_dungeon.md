@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アインノーラ_uses_強制決闘権_p2426_instance_dungeon
-title: インスタンスダンジョンへの浄界転生
-
-
-
-
+title: "アインノーラの「無数の浄界を創り出して同時に一対一で戦う」能力は、MMORPGにおけるインスタンスダンジョン（プレイヤーごとに…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アインノーラ_uses_強制決闘権_p2426]]"

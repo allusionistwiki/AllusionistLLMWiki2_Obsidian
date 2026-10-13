@@ -9,8 +9,8 @@ first_appearance: ch0003
 spoiler_after: ch0003
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0003|3話]] ｜ 容姿記述 1 件
+初出: [3話](../../nav/ch0003.md) ｜ 容姿記述 1 件
 
-- 左腕を欠損しているが、義手という記載はない（後述の描写で義手と判明）。 ｜ 右腕のみ（左腕欠損） ｜ 典拠: [[nav/ch0003|3話]]（p171）
+- 左腕を欠損しているが、義手という記載はない（後述の描写で義手と判明）。 ｜ 右腕のみ（左腕欠損） ｜ 典拠: [3話](../../nav/ch0003.md)（p171）
   > 意識を失った隻腕義手の男を、その倍はあろうかという体格の影が見下ろしていた。
 <!-- AUTO:END -->

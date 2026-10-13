@@ -9,8 +9,8 @@ first_appearance: ch0118
 spoiler_after: ch0118
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0118|118話]] ｜ 容姿記述 1 件
+初出: [118話](../../nav/ch0118.md) ｜ 容姿記述 1 件
 
-- 巨大な異形、力士。 ｜ 体格（巨大な異形と記載されているが、後述で力士と判明） ｜ 典拠: [[nav/ch0118|118話]]（p4157）
+- 巨大な異形、力士。 ｜ 体格（巨大な異形と記載されているが、後述で力士と判明） ｜ 典拠: [118話](../../nav/ch0118.md)（p4157）
   > ゾーイ・アキラの突進を、巨大な異形が正面から受け止める。
 <!-- AUTO:END -->

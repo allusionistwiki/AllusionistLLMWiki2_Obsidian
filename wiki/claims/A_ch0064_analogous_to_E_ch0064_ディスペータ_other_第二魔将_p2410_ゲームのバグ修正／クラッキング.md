@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_ディスペータ_other_第二魔将_p2410_ゲームのバグ修正／クラッキング
-title: バグ修正によるデータ改変
-
-
-
-
+title: "第二魔将が「クラッキング」されて少女になっているという記述は、ゲームやソフトウェアのバグ修正、あるいはハッキングによるデータ改…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ディスペータ_other_第二魔将_p2410]]"

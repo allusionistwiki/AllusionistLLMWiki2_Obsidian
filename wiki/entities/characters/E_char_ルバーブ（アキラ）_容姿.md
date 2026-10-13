@@ -9,8 +9,8 @@ first_appearance: ch0143
 spoiler_after: ch0143
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0143|143話]] ｜ 容姿記述 1 件
+初出: [143話](../../nav/ch0143.md) ｜ 容姿記述 1 件
 
-- 鉄と氷で作られた偽りの両腕 ｜ 義肢 ｜ 典拠: [[nav/ch0143|143話]]（p4896）
+- 鉄と氷で作られた偽りの両腕 ｜ 義肢 ｜ 典拠: [143話](../../nav/ch0143.md)（p4896）
   > 拳を握りしめる為の、鉄と氷の偽りの両腕。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0181
 spoiler_after: ch0181
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0181|181話]] ｜ 容姿記述 1 件
+初出: [181話](../../nav/ch0181.md) ｜ 容姿記述 1 件
 
-- 巨大なゲル状、体内に人骨、真っ赤な眼球 ｜ 体格・眼球・内部構造 ｜ 典拠: [[nav/ch0181|181話]]（p6009）
+- 巨大なゲル状、体内に人骨、真っ赤な眼球 ｜ 体格・眼球・内部構造 ｜ 典拠: [181話](../../nav/ch0181.md)（p6009）
   > 大柄な霊長類を丸呑みにできるほど巨大なゲル状生物は、その体内に無数の人骨を内包していた。上部には真っ赤な眼球が浮かんでおり
 <!-- AUTO:END -->

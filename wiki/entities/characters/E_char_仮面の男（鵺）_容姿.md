@@ -9,8 +9,8 @@ first_appearance: ch0152
 spoiler_after: ch0152
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0152|152話]] ｜ 容姿記述 1 件
+初出: [152話](../../nav/ch0152.md) ｜ 容姿記述 1 件
 
-- 認識できない顔。黒い靄が顔に集まる ｜ 顔・黒い靄 ｜ 典拠: [[nav/ch0152|152話]]（p5148）
+- 認識できない顔。黒い靄が顔に集まる ｜ 顔・黒い靄 ｜ 典拠: [152話](../../nav/ch0152.md)（p5148）
   > 男の認識できない顔に黒い靄が集まっていき、虚空に開いた穴から更なる漆黒が立ち込める。
 <!-- AUTO:END -->

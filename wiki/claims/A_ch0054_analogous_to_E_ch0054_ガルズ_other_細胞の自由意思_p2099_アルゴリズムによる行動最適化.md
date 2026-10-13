@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0054_analogous_to_E_ch0054_ガルズ_other_細胞の自由意思_p2099_アルゴリズムによる行動最適化
-title: アルゴリズムによる服従
-
-
-
-
+title: "トライデントの細胞が自発的な意志なく呪力に従う状態は、個人の主体性を剥奪し、上位存在（トライデント）の意志に最適化された「呪術…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_ガルズ_other_人類_p2099]]"

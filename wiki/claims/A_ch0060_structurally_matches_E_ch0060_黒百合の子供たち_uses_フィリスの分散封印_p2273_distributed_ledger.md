@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0060_structurally_matches_E_ch0060_黒百合の子供たち_uses_フィリスの分散封印_p2273_distributed_ledger
-title: 分散型台帳への構造対応
-
-
-
-
+title: "強力な魔将の力を分解して全員で負担を受け持つ分散封印は、単一の権限を排除し参加者全員でリスクを共有する「分散型管理」の構造と類…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_黒百合の子供たち_uses_フィリスの分散封印_p2273]]"

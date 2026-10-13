@@ -9,8 +9,8 @@ first_appearance: ch0264
 spoiler_after: ch0264
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0264|264話]] ｜ 容姿記述 1 件
+初出: [264話](../../nav/ch0264.md) ｜ 容姿記述 1 件
 
-- 機甲箒（ヒュドラボルテージ）を装着している ｜ 服装/装備（機甲/融合体） ｜ 典拠: [[nav/ch0264|264話]]（p8347）
+- 機甲箒（ヒュドラボルテージ）を装着している ｜ 服装/装備（機甲/融合体） ｜ 典拠: [264話](../../nav/ch0264.md)（p8347）
   > クリーナーの謎に包まれた機甲箒がそのヴェールを脱ぐ。神滅具ヒュドラボルテージと一体化した箒はまるで生命と機械の融合体だ。
 <!-- AUTO:END -->

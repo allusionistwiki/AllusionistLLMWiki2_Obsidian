@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0068_analogous_to_E_ch0068_エスフェイル_kills_修道騎士_p2550_同胞殺し
-title: 同胞殺しの倫理的葛藤
-
-
-
-
+title: "エスフェイルが「同胞」である夜の民の修道騎士を殺し、その名前を列挙する行為は、戦争における「同族殺し」や、敵味方の境界が曖昧に…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_エスフェイル_kills_修道騎士_p2550]]"

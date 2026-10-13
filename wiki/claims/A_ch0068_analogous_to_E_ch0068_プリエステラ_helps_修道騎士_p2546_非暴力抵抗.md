@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0068_analogous_to_E_ch0068_プリエステラ_helps_修道騎士_p2546_非暴力抵抗
-title: 非暴力抵抗の暴力誘発
-
-
-
-
+title: "プリエステラの「非殺傷呪術」による無力化は、殺さないという行為が敵対者には攻撃と見なされ、暴力を誘発する構造を描いている"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_プリエステラ_helps_修道騎士_p2546]]"

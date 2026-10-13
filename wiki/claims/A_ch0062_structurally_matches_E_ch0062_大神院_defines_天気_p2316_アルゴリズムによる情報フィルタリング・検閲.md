@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0062_structurally_matches_E_ch0062_大神院_defines_天気_p2316_アルゴリズムによる情報フィルタリング・検閲
-title: アルゴリズム検閲への構造対応
-
-
-
-
+title: "「天意を信徒に代弁する神託機械」が天気を決定し、それ以外の予報（天気占い）を無効化する構造は、現代の検索エンジンやSNSにおけ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_大神院_defines_天気_p2316]]"

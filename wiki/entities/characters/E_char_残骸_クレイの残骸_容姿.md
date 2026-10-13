@@ -9,8 +9,8 @@ first_appearance: ch0192
 spoiler_after: ch0192
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0192|192話]] ｜ 容姿記述 1 件
+初出: [192話](../../nav/ch0192.md) ｜ 容姿記述 1 件
 
-- 白骨、球体関節の手足 ｜ 骨格・関節 ｜ 典拠: [[nav/ch0192|192話]]（p6373）
+- 白骨、球体関節の手足 ｜ 骨格・関節 ｜ 典拠: [192話](../../nav/ch0192.md)（p6373）
   > 丸天井の岩穴に満ちているひんやりとした空気は死者の牢獄に相応しいものだったし、打ち棄てられた白骨や球体関節の手足などは残骸の墓場としてはひどく粗末で恐ろしげだった。
 <!-- AUTO:END -->

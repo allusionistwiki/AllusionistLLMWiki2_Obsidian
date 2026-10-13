@@ -9,8 +9,8 @@ first_appearance: ch0177
 spoiler_after: ch0177
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0177|177話]] ｜ 容姿記述 1 件
+初出: [177話](../../nav/ch0177.md) ｜ 容姿記述 1 件
 
-- 感情を窺わせない声 ｜ 声（感情がない） ｜ 典拠: [[nav/ch0177|177話]]（p5899）
+- 感情を窺わせない声 ｜ 声（感情がない） ｜ 典拠: [177話](../../nav/ch0177.md)（p5899）
   > 感情の窺えない声で白騎士に言った
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0204
 spoiler_after: ch0204
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,10 +22,10 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0204|204話]] ｜ 容姿記述 2 件
+初出: [204話](../../nav/ch0204.md) ｜ 容姿記述 2 件
 
-- 赤い肌を持つラープ人 ｜ 肌色・種族 ｜ 典拠: [[nav/ch0204|204話]]（p6851）
+- 赤い肌を持つラープ人 ｜ 肌色・種族 ｜ 典拠: [204話](../../nav/ch0204.md)（p6851）
   > レンディ『自称』赤爵。赤い肌のラープ人。
-- 赤い肌 ｜ 肌色 ｜ 典拠: [[nav/ch0204|204話]]（p6852）
+- 赤い肌 ｜ 肌色 ｜ 典拠: [204話](../../nav/ch0204.md)（p6852）
   > 赤肌の爆破魔レンディと岩肌の破戒僧ロティンが踊り子たちに襲いかかる。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0142
 spoiler_after: ch0142
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0142|142話]] ｜ 容姿記述 1 件
+初出: [142話](../../nav/ch0142.md) ｜ 容姿記述 1 件
 
-- ルバーブの髪がアキラの腕から胴へ移動する描写 ｜ 髪・腕・胴 ｜ 典拠: [[nav/ch0142|142話]]（p4824）
+- ルバーブの髪がアキラの腕から胴へ移動する描写 ｜ 髪・腕・胴 ｜ 典拠: [142話](../../nav/ch0142.md)（p4824）
   > アキラの手指に絡みついたルバーブの毛髪は意思を持った毒蛇のように密やかに這い、滑り、標的の腕から胴へと移動し、
 <!-- AUTO:END -->

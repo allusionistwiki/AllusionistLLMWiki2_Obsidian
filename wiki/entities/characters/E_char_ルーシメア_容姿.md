@@ -9,8 +9,8 @@ first_appearance: ch0201
 spoiler_after: ch0201
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0201|201話]] ｜ 容姿記述 1 件
+初出: [201話](../../nav/ch0201.md) ｜ 容姿記述 1 件
 
-- 声の調子から高圧的かつ堂々とした外見が示唆される。 ｜ 声（鷹揚な様子） ｜ 典拠: [[nav/ch0201|201話]]（p6760）
+- 声の調子から高圧的かつ堂々とした外見が示唆される。 ｜ 声（鷹揚な様子） ｜ 典拠: [201話](../../nav/ch0201.md)（p6760）
   > それを鷹揚に受け止めて、ルーシメアは言葉を続けた。
 <!-- AUTO:END -->

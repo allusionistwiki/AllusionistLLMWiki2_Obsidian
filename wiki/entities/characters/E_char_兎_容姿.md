@@ -9,8 +9,8 @@ first_appearance: ch0117
 spoiler_after: ch0117
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0117|117話]] ｜ 容姿記述 1 件
+初出: [117話](../../nav/ch0117.md) ｜ 容姿記述 1 件
 
-- 白と黒に染まった兎、長い耳 ｜ 耳・毛並み(白と黒) ｜ 典拠: [[nav/ch0117|117話]]（p4119）
+- 白と黒に染まった兎、長い耳 ｜ 耳・毛並み(白と黒) ｜ 典拠: [117話](../../nav/ch0117.md)（p4119）
   > その時黒騎士の影からぴょこんと長い耳が現れた。白と黒に染まった兎が、
 <!-- AUTO:END -->

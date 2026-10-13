@@ -9,8 +9,8 @@ first_appearance: ch0155
 spoiler_after: ch0155
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0155|155話]] ｜ 容姿記述 1 件
+初出: [155話](../../nav/ch0155.md) ｜ 容姿記述 1 件
 
-- 背後に回転する機巧曼荼羅と巨大な瞳 ｜ 瞳 ｜ 典拠: [[nav/ch0155|155話]]（5283）
+- 背後に回転する機巧曼荼羅と巨大な瞳 ｜ 瞳 ｜ 典拠: [155話](../../nav/ch0155.md)（5283）
   > 新たなアキラの背後で回転する機巧曼荼羅の中央で、巨大な瞳が強く輝いた。
 <!-- AUTO:END -->

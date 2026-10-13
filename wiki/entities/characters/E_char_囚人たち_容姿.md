@@ -9,8 +9,8 @@ first_appearance: ch0166
 spoiler_after: ch0166
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0166|166話]] ｜ 容姿記述 1 件
+初出: [166話](../../nav/ch0166.md) ｜ 容姿記述 1 件
 
-- 若い女の身体を持ち、目を血走らせている。 ｜ 身体（若い女の身体）・目（目を血走らせる） ｜ 典拠: [[nav/ch0166|166話]]（p5572）
+- 若い女の身体を持ち、目を血走らせている。 ｜ 身体（若い女の身体）・目（目を血走らせる） ｜ 典拠: [166話](../../nav/ch0166.md)（p5572）
   > 荒々しく咆哮し、若い女の身体に目を血走らせる囚人たち。
 <!-- AUTO:END -->

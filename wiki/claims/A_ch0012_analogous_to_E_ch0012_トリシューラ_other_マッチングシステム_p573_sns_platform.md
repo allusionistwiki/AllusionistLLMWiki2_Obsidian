@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0012_analogous_to_E_ch0012_トリシューラ_other_マッチングシステム_p573_sns_platform
-title: SNSプラットフォームによる支配構造
-
-
-
-
+title: "トリシューラが計画する探索者用SNSは、現代のマッチングアプリやプラットフォーム経済を模しており、ユーザーデータの収集とフィー…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_other_マッチングシステム_p573]]"

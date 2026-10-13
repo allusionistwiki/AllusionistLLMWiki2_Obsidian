@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0268_parodies_E_ch0268_パーン_other_ミブリナ_p8382_少年漫画_師弟関係の成長
-title: 師弟成長パロディ
-
+title: "成長した弟子が師匠に勝負を挑み、記録更新を狙うという展開は、少年漫画における「師匠超え」や「限界突破」の定番プロットを、魔女と…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0268_パーン_other_ミブリナ_p8382]]"

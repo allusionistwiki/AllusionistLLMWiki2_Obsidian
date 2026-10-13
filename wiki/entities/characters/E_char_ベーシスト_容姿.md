@@ -9,8 +9,8 @@ first_appearance: ch0168
 spoiler_after: ch0168
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0168|168話]] ｜ 容姿記述 1 件
+初出: [168話](../../nav/ch0168.md) ｜ 容姿記述 1 件
 
-- 俯く姿。(焼死体ベーシスト) ｜ 俯き ｜ 典拠: [[nav/ch0168|168話]]（p5620）
+- 俯く姿。(焼死体ベーシスト) ｜ 俯き ｜ 典拠: [168話](../../nav/ch0168.md)（p5620）
   > ベーシストは俯き、妊婦は顔面が真っ白になり（元々白骨だが）、ギタリストは現実を受け入れられないかのように震え、二人に必死に問いかけを続ける。
 <!-- AUTO:END -->

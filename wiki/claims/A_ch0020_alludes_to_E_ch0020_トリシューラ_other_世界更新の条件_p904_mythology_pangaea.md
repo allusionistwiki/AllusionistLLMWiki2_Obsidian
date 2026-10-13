@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0020_alludes_to_E_ch0020_トリシューラ_other_世界更新の条件_p904_mythology_pangaea
-title: パンゲア神話の暗喩
-
-
-
-
+title: "火竜メルトバーズを「原初の生命体パンゲオンの九つある首の一つ」と定義するのは、生物学的な「パンゲア（全地球超大陸）」や「パンゲ…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_トリシューラ_other_世界更新の条件_p904]]"

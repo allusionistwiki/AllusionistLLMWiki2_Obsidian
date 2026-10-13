@@ -9,8 +9,8 @@ first_appearance: ch0211
 spoiler_after: ch0211
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0211|211話]] ｜ 容姿記述 1 件
+初出: [211話](../../nav/ch0211.md) ｜ 容姿記述 1 件
 
-- 蓬髪。壮年の男性。逆さまに浮遊している。 ｜ 髪・体格・姿勢 ｜ 典拠: [[nav/ch0211|211話]]（p7116）
+- 蓬髪。壮年の男性。逆さまに浮遊している。 ｜ 髪・体格・姿勢 ｜ 典拠: [211話](../../nav/ch0211.md)（p7116）
   > それに続くようにして逆さまに浮遊する蓬髪の壮年男性が指を弾く。
 <!-- AUTO:END -->

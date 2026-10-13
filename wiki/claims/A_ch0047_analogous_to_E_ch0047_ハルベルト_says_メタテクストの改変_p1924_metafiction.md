@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_metafiction
-title: メタフィクション的構造
-
-
-
-
+title: "世界が「記述された情報」によって構築され、その記述（メタテクスト）が改変されるという構造は、メタフィクション（物語が物語である…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_メタテクストの改変_p1924]]"

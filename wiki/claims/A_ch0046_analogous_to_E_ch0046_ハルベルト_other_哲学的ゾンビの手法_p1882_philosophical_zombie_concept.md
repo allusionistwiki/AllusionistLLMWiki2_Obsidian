@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0046_analogous_to_E_ch0046_ハルベルト_other_哲学的ゾンビの手法_p1882_philosophical_zombie_concept
-title: 哲学的ゾンビの技術実装
-
-
-
-
+title: "「哲学的ゾンビ」という現代哲学の思考実験（意識を持たないが人間と区別がつかない存在）を、呪術による肉体複製と霊体憑依というSF…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0046_ハルベルト_other_哲学的ゾンビの手法_p1882]]"

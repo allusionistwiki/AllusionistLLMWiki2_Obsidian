@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0118_inverts_E_ch0118_コルセスカ_says_生への肯定_p4158_hedonism_vs_utilitarianism
-title: 快楽主義による功利主義否定
-
+title: "罪深さや他者への影響を度外視し、「世界が楽しいから生きる」という快楽主義的・実存的な肯定で、功利主義的な「より良き者の生存」論…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0118_コルセスカ_says_生への肯定_p4158]]"

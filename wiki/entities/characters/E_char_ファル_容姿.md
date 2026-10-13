@@ -9,8 +9,8 @@ first_appearance: ch0078
 spoiler_after: ch0078
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0078|78話]] ｜ 容姿記述 1 件
+初出: [78話](../../nav/ch0078.md) ｜ 容姿記述 1 件
 
-- 眼鏡の少年 ｜ 眼镜 ｜ 典拠: [[nav/ch0078|78話]]（p2907）
+- 眼鏡の少年 ｜ 眼镜 ｜ 典拠: [78話](../../nav/ch0078.md)（p2907）
   > あー、ファルはインドアユーザーとしては最高に優秀なんだけどなあ。
 <!-- AUTO:END -->

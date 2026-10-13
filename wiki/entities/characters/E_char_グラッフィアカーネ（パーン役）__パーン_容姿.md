@@ -9,8 +9,8 @@ first_appearance: ch0110
 spoiler_after: ch0110
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0110|110話]] ｜ 容姿記述 1 件
+初出: [110話](../../nav/ch0110.md) ｜ 容姿記述 1 件
 
-- 片腕の欠落と義肢（鎧の腕） ｜ 右腕・義肢 ｜ 典拠: [[nav/ch0110|110話]]（p3882）
+- 片腕の欠落と義肢（鎧の腕） ｜ 右腕・義肢 ｜ 典拠: [110話](../../nav/ch0110.md)（p3882）
   > 片腕の欠落に義肢、それと恐らくは、カインが名付けてくれた【鎧の腕】という異名の参照元。
 <!-- AUTO:END -->

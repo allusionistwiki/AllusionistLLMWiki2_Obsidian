@@ -9,8 +9,8 @@ first_appearance: ch0204
 spoiler_after: ch0204
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0204|204話]] ｜ 容姿記述 1 件
+初出: [204話](../../nav/ch0204.md) ｜ 容姿記述 1 件
 
-- 腰が曲がっている ｜ 体格 ｜ 典拠: [[nav/ch0204|204話]]（p6834）
+- 腰が曲がっている ｜ 体格 ｜ 典拠: [204話](../../nav/ch0204.md)（p6834）
   > その先にいる腰の曲がった老婆が、外見からは想像もつかないほど俊敏に硬貨を掴み取った。
 <!-- AUTO:END -->

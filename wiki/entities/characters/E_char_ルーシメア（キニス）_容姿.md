@@ -9,8 +9,8 @@ first_appearance: ch0200
 spoiler_after: ch0200
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0200|200話]] ｜ 容姿記述 1 件
+初出: [200話](../../nav/ch0200.md) ｜ 容姿記述 1 件
 
-- 澄んだ声が特徴（姿は実体不在） ｜ 声 ｜ 典拠: [[nav/ch0200|200話]]（p6747）
+- 澄んだ声が特徴（姿は実体不在） ｜ 声 ｜ 典拠: [200話](../../nav/ch0200.md)（p6747）
   > 澄んだ声が響く。
 <!-- AUTO:END -->

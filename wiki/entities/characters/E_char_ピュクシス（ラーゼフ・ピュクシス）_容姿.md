@@ -9,8 +9,8 @@ first_appearance: ch0272
 spoiler_after: ch0272
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0272|272話]] ｜ 容姿記述 1 件
+初出: [272話](../../nav/ch0272.md) ｜ 容姿記述 1 件
 
-- 人格の変容に伴い顔立ちが変化している ｜ 顔立ち ｜ 典拠: [[nav/ch0272|272話]]（p8448）
+- 人格の変容に伴い顔立ちが変化している ｜ 顔立ち ｜ 典拠: [272話](../../nav/ch0272.md)（p8448）
   > それに引きずられるように顔までもが変容していく。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0014
 spoiler_after: ch0014
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0014|14話]] ｜ 容姿記述 1 件
+初出: [14話](../../nav/ch0014.md) ｜ 容姿記述 1 件
 
-- 甲冑姿の騎士と、白く清潔な服装をした修道騎士たち。 ｜ 服装・装甲 ｜ 典拠: [[nav/ch0014|14話]]（p636）
+- 甲冑姿の騎士と、白く清潔な服装をした修道騎士たち。 ｜ 服装・装甲 ｜ 典拠: [14話](../../nav/ch0014.md)（p636）
   > 甲冑姿の者が三人、白く清潔な服装をした者が六人。集団で配給や傷病者の治療などを行っているらしい。
 <!-- AUTO:END -->

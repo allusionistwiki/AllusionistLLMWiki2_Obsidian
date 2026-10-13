@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0118_analogous_to_E_ch0118_砂場_defines_世界槍内側の可塑性空間_p4124_sandbox_game_mechanics
-title: 改変可能なサンドボックス空間
-
+title: "第五階層の空間特性が「砂場（サンドボックス）」と呼ばれ、物理・呪術的に柔らかく改変可能であることは、ゲームにおけるサンドボック…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0118_砂場_defines_世界槍内側の可塑性空間_p4124]]"

@@ -9,8 +9,8 @@ first_appearance: ch0122
 spoiler_after: ch0122
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,10 +22,10 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0122|122話]] ｜ 容姿記述 2 件
+初出: [122話](../../nav/ch0122.md) ｜ 容姿記述 2 件
 
-- 紅紫の髪に青い糸が一房混じる ｜ 髪 ｜ 典拠: [[nav/ch0122|122話]]（p4289）
+- 紅紫の髪に青い糸が一房混じる ｜ 髪 ｜ 典拠: [122話](../../nav/ch0122.md)（p4289）
   > 青い糸が、少女の紅紫の髪の中に一房だけ混じっていた
-- 絹糸のような紅紫の髪 ｜ 髪 ｜ 典拠: [[nav/ch0122|122話]]（p4290）
+- 絹糸のような紅紫の髪 ｜ 髪 ｜ 典拠: [122話](../../nav/ch0122.md)（p4290）
   > 長い長い絹糸のような紅紫の髪が一本
 <!-- AUTO:END -->

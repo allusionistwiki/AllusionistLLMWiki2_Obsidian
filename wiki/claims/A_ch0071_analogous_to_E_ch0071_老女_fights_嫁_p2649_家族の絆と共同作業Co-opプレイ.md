@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_老女_fights_嫁_p2649_家族の絆と共同作業Co-opプレイ
-title: 家族Co-opによる共同戦線
-
-
-
-
+title: "老女と嫁が背中合わせになり、共通の敵（息子/夫の成れの果て）を撃退する様子は、家族という最小単位の結束による共同戦線を指している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_老女_bonds_女性_p2649]]"

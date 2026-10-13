@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_地上文明への依存_p1961_植民地支配と技術移転
-title: 植民地支配下の技術依存の逆説
-
-
-
-
+title: "被支配者が支配者の技術（呪具）に依存して抵抗を行うという構造は、植民地支配下での技術移転や、抵抗運動が宗主国の技術体系に依存せ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0049_プリエステラ_observes_地上文明への依存_p1961]]"

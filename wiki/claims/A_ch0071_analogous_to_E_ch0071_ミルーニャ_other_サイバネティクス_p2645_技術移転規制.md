@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_ミルーニャ_other_サイバネティクス_p2645_技術移転規制
-title: 技術移転規制のメタファー
-
-
-
-
+title: "サイバネティクスが困難な世界でオカルティズム（呪術）で代替する様子は、技術の移植が規制された環境での代替技術開発や、技術移転規…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_ミルーニャ_other_サイバネティクス_p2645]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_duality
-title: 表裏の対比による人間の二面性
-
-
-
-
+title: "ミルーニャの表の顔（毒舌だが仲間想い）と裏の顔（死を否定する魔女）の対比は、人間の二面性や仮面（ペルソナ）の構造を象徴する"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591]]"

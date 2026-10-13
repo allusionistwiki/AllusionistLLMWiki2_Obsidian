@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_アズーリア_saves_ハルベルト_p1584_distraction_tactic
-title: 砂糖菓子による古典的囮戦術
-
-
-
-
+title: "砂糖菓子で敵の注意を引き、隙を作る戦術は、戦闘における囮（デコイ）や注意散漫を利用した戦術の古典的な応用である"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_アズーリア_saves_ハルベルト_p1584]]"

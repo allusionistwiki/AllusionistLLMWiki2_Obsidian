@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_イキュー_p1541_gastronomy_horror
-title: 美食追求のグルメホラー
-
-
-
-
+title: "「甘いもの」を追求し、あらゆるものを溶かして食らうイキューの生態は、美食の追求が怪物化し、他者を消費する恐怖（グルメ・ホラー）…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_other_イキュー_p1541]]"

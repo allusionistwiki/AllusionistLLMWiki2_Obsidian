@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_synchronicity
-title: 共時性による干渉
-
-
-
-
+title: "「共時的な干渉」「非局所的な応答」という説明は、因果律を超えた物理的な相互作用を示唆している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_メタテクストの改変_p1924]]"

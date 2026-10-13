@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0229_analogous_to_E_ch0229_エリカ_remembers_兄のテロリズム_p7544_植民地支配と独立運動
-title: 植民地支配と知識人の孤立
-
+title: "エリカの兄が顕花族でありながら、キノコ人（被支配種族）の組織を乗っ取ったライラ・ラプスによって篭絡された経緯は、支配階級に属し…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0229_エリカ_remembers_兄のテロリズム_p7544]]"

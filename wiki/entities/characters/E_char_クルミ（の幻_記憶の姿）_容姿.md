@@ -9,8 +9,8 @@ first_appearance: ch0188
 spoiler_after: ch0188
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0188|188話]] ｜ 容姿記述 1 件
+初出: [188話](../../nav/ch0188.md) ｜ 容姿記述 1 件
 
-- テンガロンハットとガンベルト、無精髭の無法者 ｜ ハット・ガンベルト・コート・髭 ｜ 典拠: [[nav/ch0188|188話]]（p6236）
+- テンガロンハットとガンベルト、無精髭の無法者 ｜ ハット・ガンベルト・コート・髭 ｜ 典拠: [188話](../../nav/ch0188.md)（p6236）
   > テンガロンハットにガンベルト、薄汚れたコートにうっすらとした無精髭、荒野を放浪する無法者の姿
 <!-- AUTO:END -->

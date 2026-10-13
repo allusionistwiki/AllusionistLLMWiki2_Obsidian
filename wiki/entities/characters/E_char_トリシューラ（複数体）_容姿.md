@@ -9,8 +9,8 @@ first_appearance: ch0116
 spoiler_after: ch0116
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0116|116話]] ｜ 容姿記述 1 件
+初出: [116話](../../nav/ch0116.md) ｜ 容姿記述 1 件
 
-- 互いに似ているが微妙に異なる ｜ 容姿・体格 ｜ 典拠: [[nav/ch0116|116話]]（p4089）
+- 互いに似ているが微妙に異なる ｜ 容姿・体格 ｜ 典拠: [116話](../../nav/ch0116.md)（p4089）
   > よく観察すれば、トリシューラたちはよく似ているが、その容姿や体格が少しずつ異なっている。
 <!-- AUTO:END -->

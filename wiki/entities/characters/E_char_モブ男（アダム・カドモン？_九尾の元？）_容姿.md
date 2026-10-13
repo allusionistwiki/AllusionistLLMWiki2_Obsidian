@@ -9,8 +9,8 @@ first_appearance: ch0149
 spoiler_after: ch0149
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0149|149話]] ｜ 容姿記述 1 件
+初出: [149話](../../nav/ch0149.md) ｜ 容姿記述 1 件
 
-- 頭を抱える。 ｜ 髪 ｜ 典拠: [[nav/ch0149|149話]]（5073）
+- 頭を抱える。 ｜ 髪 ｜ 典拠: [149話](../../nav/ch0149.md)（5073）
   > 蹲って頭を抱える一人の男。嫌々をするように頭を振っている。
 <!-- AUTO:END -->

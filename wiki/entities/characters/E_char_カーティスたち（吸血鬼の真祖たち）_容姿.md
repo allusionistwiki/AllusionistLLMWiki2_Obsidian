@@ -9,8 +9,8 @@ first_appearance: ch0112
 spoiler_after: ch0112
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0112|112話]] ｜ 容姿記述 1 件
+初出: [112話](../../nav/ch0112.md) ｜ 容姿記述 1 件
 
-- カーティスたちの共通特徴として、血のように赤い瞳。 ｜ 瞳：血のように赤い瞳 ｜ 典拠: [[nav/ch0112|112話]]（3938）
+- カーティスたちの共通特徴として、血のように赤い瞳。 ｜ 瞳：血のように赤い瞳 ｜ 典拠: [112話](../../nav/ch0112.md)（3938）
   > いずれの人物も、血のように赤い瞳を持ち、どこか似通った禍々しい空気を纏っている点で共通している。
 <!-- AUTO:END -->

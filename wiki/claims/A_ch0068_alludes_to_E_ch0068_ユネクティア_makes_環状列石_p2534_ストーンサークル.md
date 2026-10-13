@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0068_alludes_to_E_ch0068_ユネクティア_makes_環状列石_p2534_ストーンサークル
-title: ストーンサークルの呪力収束
-
-
-
-
+title: "ユネクティアの浄界を構成する「環状列石」は、古代のストーンサークル（ストーンサークル）を想起させ、その幾何学的配置が呪力（エネ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ユネクティア_makes_環状列石_p2534]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0081_analogous_to_E_ch0081_イアテム_uses_ウォーターカッター_p2980_現代工業技術の軍事転用
-title: 工業技術の軍事転用
-
-
-
-
+title: "「ウォーターカッター」の描写は、現代の工業技術（水流切断）を「呪術」として再定義することで、科学と魔法の境界を曖昧にする世界観…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0081_イアテム_uses_ウォーターカッター_p2980]]"

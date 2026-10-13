@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0254_analogous_to_E_p8160_circulation_of_power_feedback_loop_media_politics
-title: メディアと政治の相互支配ループ
-
+title: "夢界（世論・認識）と現実（政治的実力）が相互に因果関係を持つという記述は、メディアによる世論形成が政治を動かし、政治がメディア…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0254_アルゾラ・クロウサー_is_made_of_ゾラ分家_p8154]]"

@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0143_alludes_to_E_ch0143_アレッテ・イヴニル_attacks_少女たち_p4894_人形遣い_ギリシャ神話
-title: 運命の糸による主体性剥奪
-
+title: "アレッテ・イヴニルが「糸」でマラードや地竜を操り、人形のように扱う様子は、ギリシャ神話における運命の糸を操る存在や、操り人形劇…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0143_アレッテ・イヴニル_attacks_少女たち_p4894]]"

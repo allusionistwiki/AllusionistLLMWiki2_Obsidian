@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0229_structurally_matches_E_ch0229_エリカ_other_ステレオタイプ_p7561_キャラクター対決・ステレオタイプの武器化
-title: ステレオタイプの武器化
-
+title: "エリカが敵の「トロル」や自らの「ティリビナ」という種族的ステレオタイプ（偏見）を意図的に誇張し、神話的イメージとして具現化して…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0229_エリカ_other_ステレオタイプ_p7561]]"

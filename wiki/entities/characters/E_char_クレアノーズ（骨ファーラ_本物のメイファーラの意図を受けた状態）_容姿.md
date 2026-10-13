@@ -9,8 +9,8 @@ first_appearance: ch0253
 spoiler_after: ch0253
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0253|253話]] ｜ 容姿記述 1 件
+初出: [253話](../../nav/ch0253.md) ｜ 容姿記述 1 件
 
-- 顔は頭蓋骨であり表情が見えない。 ｜ 頭部（頭蓋骨） ｜ 典拠: [[nav/ch0253|253話]]（8133）
+- 顔は頭蓋骨であり表情が見えない。 ｜ 頭部（頭蓋骨） ｜ 典拠: [253話](../../nav/ch0253.md)（8133）
   > メイファーラの顔は頭蓋骨だから表情がよくわからないけれど、その声に込められている意思の強さは直に相対していないこちらにも伝わってきた。
 <!-- AUTO:END -->

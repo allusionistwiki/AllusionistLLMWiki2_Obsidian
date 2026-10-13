@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_四魔女の目的_p1929_godhood_achievement
-title: 神格化（アポテオシス）
-
-
-
-
+title: "四魔女の目的である「紀神の末席に加わること」は、人間が神格化されるという神話的な昇華（アポテオシス）の構造を持つ"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_四魔女の目的_p1929]]"

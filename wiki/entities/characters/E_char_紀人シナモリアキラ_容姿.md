@@ -9,8 +9,8 @@ first_appearance: ch0248
 spoiler_after: ch0248
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0248|248話]] ｜ 容姿記述 1 件
+初出: [248話](../../nav/ch0248.md) ｜ 容姿記述 1 件
 
-- 右腕は黒鱗に覆われ、左腕は純白の装甲で覆われている。 ｜ 義肢・右腕・左腕 ｜ 典拠: [[nav/ch0248|248話]]（p8023）
+- 右腕は黒鱗に覆われ、左腕は純白の装甲で覆われている。 ｜ 義肢・右腕・左腕 ｜ 典拠: [248話](../../nav/ch0248.md)（p8023）
   > 黒鱗に覆われた右腕と対をなすように、左腕を純白の装甲が覆っていく。
 <!-- AUTO:END -->

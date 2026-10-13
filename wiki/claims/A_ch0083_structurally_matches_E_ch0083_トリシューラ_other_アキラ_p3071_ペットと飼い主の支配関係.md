@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0083_structurally_matches_E_ch0083_トリシューラ_other_アキラ_p3071_ペットと飼い主の支配関係
-title: ペットと飼い主の支配関係
-
-
-
-
+title: "トリシューラとアキラの関係は、主従関係を超えた「ペット」としての所有・調教・依存という構図で定義されている"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_トリシューラ_other_アキラ_p3071]]"

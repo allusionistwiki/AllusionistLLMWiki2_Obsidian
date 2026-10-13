@@ -9,8 +9,8 @@ first_appearance: ch0068
 spoiler_after: ch0068
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0068|68話]] ｜ 容姿記述 1 件
+初出: [68話](../../nav/ch0068.md) ｜ 容姿記述 1 件
 
--  ｜ 髪・瞳・肌・体格・服装・義肢 ｜ 典拠: [[nav/ch0068|68話]]（p2546）
+-  ｜ 髪・瞳・肌・体格・服装・義肢 ｜ 典拠: [68話](../../nav/ch0068.md)（p2546）
   > ペイルとイルスは死人たちに囲まれて孤立。
 <!-- AUTO:END -->

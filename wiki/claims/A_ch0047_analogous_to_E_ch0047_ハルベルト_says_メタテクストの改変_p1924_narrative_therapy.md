@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_narrative_therapy
-title: ナラティブ・セラピー的再構成
-
-
-
-
+title: "「メタテクストの改変」によって世界（現実）が変わるという構造は、ナラティブ・セラピー（物語の書き換えによる現実の再構成）の原理…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_メタテクストの改変_p1924]]"

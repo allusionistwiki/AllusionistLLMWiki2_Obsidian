@@ -9,8 +9,8 @@ first_appearance: ch0195
 spoiler_after: ch0195
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0195|195話]] ｜ 容姿記述 1 件
+初出: [195話](../../nav/ch0195.md) ｜ 容姿記述 1 件
 
-- 欠損した人形の姿 ｜ 片腕なし・首なし ｜ 典拠: [[nav/ch0195|195話]]（p6574）
+- 欠損した人形の姿 ｜ 片腕なし・首なし ｜ 典拠: [195話](../../nav/ch0195.md)（p6574）
   > その人形には片腕が無く、首も千切れていたが、不思議とその無惨な姿がぴたりとはまっているように感じられた――やがてラクルラールの唇が、最大級の親しみを込めてある形をなぞっていく。
 <!-- AUTO:END -->

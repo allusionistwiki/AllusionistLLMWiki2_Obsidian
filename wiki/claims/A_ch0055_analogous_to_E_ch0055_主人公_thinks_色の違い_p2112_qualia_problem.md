@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0055_analogous_to_E_ch0055_主人公_thinks_色の違い_p2112_qualia_problem
-title: クオリア問題への不安
-
-
-
-
+title: "自分が知覚する色と他者が知覚する色が同一であるかという不安は、哲学のクオリア問題（主観的体験の非共有性）を指している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0055_主人公_thinks_色の違い_p2112]]"

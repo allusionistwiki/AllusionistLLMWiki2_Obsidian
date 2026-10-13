@@ -9,8 +9,8 @@ first_appearance: ch0239
 spoiler_after: ch0239
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,10 +22,10 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0239|239話]] ｜ 容姿記述 2 件
+初出: [239話](../../nav/ch0239.md) ｜ 容姿記述 2 件
 
-- 長身で美しい女性 ｜ 身長・顔立ち ｜ 典拠: [[nav/ch0239|239話]]（p7864）
+- 長身で美しい女性 ｜ 身長・顔立ち ｜ 典拠: [239話](../../nav/ch0239.md)（p7864）
   > 長身の麗人
-- 高い位置にある腰（スタイルの良さを暗示） ｜ 腰 ｜ 典拠: [[nav/ch0239|239話]]（p7864）
+- 高い位置にある腰（スタイルの良さを暗示） ｜ 腰 ｜ 典拠: [239話](../../nav/ch0239.md)（p7864）
   > その高い位置にある腰
 <!-- AUTO:END -->

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0035_inverts_E_ch0035_アズーリア_thinks_顔の認識_p1422_顔認識AI
-title: 顔認識AIの認知逆転
-
-
-
-
+title: "アズーリアが声や立ち居振る舞いから個人を識別し、顔の全体像をイメージとして記憶する描写は、人間の認知機能による人物特定プロセス…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_アズーリア_thinks_顔の認識_p1422]]"

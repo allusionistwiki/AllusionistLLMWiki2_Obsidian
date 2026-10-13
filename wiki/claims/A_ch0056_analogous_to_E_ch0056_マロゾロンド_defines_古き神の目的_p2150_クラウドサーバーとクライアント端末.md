@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0056_analogous_to_E_ch0056_マロゾロンド_defines_古き神の目的_p2150_クラウドサーバーとクライアント端末
-title: クラウド・クライアント型干渉
-
-
-
-
+title: "古き神が実世界に干渉するために「端末」を介し、霊媒を最適化されたインターフェースとして利用する構造は、超越的な存在が現実世界に…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_マロゾロンド_defines_古き神の目的_p2150]]"

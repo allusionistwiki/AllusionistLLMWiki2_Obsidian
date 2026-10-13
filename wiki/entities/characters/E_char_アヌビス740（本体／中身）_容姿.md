@@ -9,8 +9,8 @@ first_appearance: ch0167
 spoiler_after: ch0167
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0167|167話]] ｜ 容姿記述 1 件
+初出: [167話](../../nav/ch0167.md) ｜ 容姿記述 1 件
 
--  ｜ 顔立ち（犬と霊長類の中間のような顔） ｜ 典拠: [[nav/ch0167|167話]]（p5598）
+-  ｜ 顔立ち（犬と霊長類の中間のような顔） ｜ 典拠: [167話](../../nav/ch0167.md)（p5598）
   > 透明なガラス窓から、目を閉じて安らかに眠る犬と霊長類の中間のような顔が覗いていた。
 <!-- AUTO:END -->

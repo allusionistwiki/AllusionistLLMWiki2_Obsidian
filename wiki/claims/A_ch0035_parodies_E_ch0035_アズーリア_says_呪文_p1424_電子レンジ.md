@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0035_parodies_E_ch0035_アズーリア_says_呪文_p1424_電子レンジ
-title: 電子レンジへの呪文転用
-
-
-
-
+title: "「電子レンジ内のレトルト食品のごとくチンせしめん」という呪文は、現代の家電製品をファンタジーの攻撃手段として擬人化・転用するメ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_アズーリア_says_呪文_p1424]]"

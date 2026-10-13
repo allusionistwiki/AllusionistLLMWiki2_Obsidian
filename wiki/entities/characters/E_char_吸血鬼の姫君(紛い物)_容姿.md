@@ -9,8 +9,8 @@ first_appearance: ch0117
 spoiler_after: ch0117
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0117|117話]] ｜ 容姿記述 1 件
+初出: [117話](../../nav/ch0117.md) ｜ 容姿記述 1 件
 
-- 緑髪、血のような瞳、長い牙、裸体 ｜ 髪(緑)・瞳(血のような)・牙・裸体 ｜ 典拠: [[nav/ch0117|117話]]（p4104）
+- 緑髪、血のような瞳、長い牙、裸体 ｜ 髪(緑)・瞳(血のような)・牙・裸体 ｜ 典拠: [117話](../../nav/ch0117.md)（p4104）
   > 豊かな緑の髪に血のような瞳。そして、見る者を誘う妖艶な長い牙。美しい裸体を晒す吸血鬼の姫君、その紛い物
 <!-- AUTO:END -->

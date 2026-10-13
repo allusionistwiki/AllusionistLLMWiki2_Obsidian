@@ -9,8 +9,8 @@ first_appearance: ch0173
 spoiler_after: ch0173
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0173|173話]] ｜ 容姿記述 1 件
+初出: [173話](../../nav/ch0173.md) ｜ 容姿記述 1 件
 
-- 半透明で小さな赤子の手を持つ存在。 ｜ 半透明の小さな手・赤子の手 ｜ 典拠: [[nav/ch0173|173話]]（p5756）
+- 半透明で小さな赤子の手を持つ存在。 ｜ 半透明の小さな手・赤子の手 ｜ 典拠: [173話](../../nav/ch0173.md)（p5756）
   > それは半透明の小さな手。赤子の手が、ぴたぴたと頬や首に張り付いていく。
 <!-- AUTO:END -->

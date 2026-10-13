@@ -9,8 +9,8 @@ first_appearance: ch0122
 spoiler_after: ch0122
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0122|122話]] ｜ 容姿記述 1 件
+初出: [122話](../../nav/ch0122.md) ｜ 容姿記述 1 件
 
-- 赤い髪と緑の目 ｜ 髪・瞳 ｜ 典拠: [[nav/ch0122|122話]]（p4285）
+- 赤い髪と緑の目 ｜ 髪・瞳 ｜ 典拠: [122話](../../nav/ch0122.md)（p4285）
   > 赤い髪と緑の目を持った少女
 <!-- AUTO:END -->

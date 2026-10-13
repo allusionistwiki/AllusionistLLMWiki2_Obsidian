@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_歌姫_other_洗脳_p2638_アルゴリズムによる情報フィルタリング
-title: アルゴリズム誘導による洗脳
-
-
-
-
+title: "歌姫の歌が敵の忠誠心を上書きし、幻惑を与える様子は、SNSのアルゴリズムがユーザーの感情や行動を誘導・操作する現象（エコーチェ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_歌姫_other_洗脳_p2638]]"

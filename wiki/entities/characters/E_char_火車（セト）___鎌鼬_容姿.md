@@ -9,8 +9,8 @@ first_appearance: ch0195
 spoiler_after: ch0195
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0195|195話]] ｜ 容姿記述 1 件
+初出: [195話](../../nav/ch0195.md) ｜ 容姿記述 1 件
 
-- 顔面を粉砕される ｜ 顔面 ｜ 典拠: [[nav/ch0195|195話]]（p6559）
+- 顔面を粉砕される ｜ 顔面 ｜ 典拠: [195話](../../nav/ch0195.md)（p6559）
   > 唐突に湧いてきた『鎌鼬』の顔面を裏拳で粉砕する。
 <!-- AUTO:END -->

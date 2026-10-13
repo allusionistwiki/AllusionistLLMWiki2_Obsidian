@@ -9,8 +9,8 @@ first_appearance: ch0029
 spoiler_after: ch0029
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0029|29話]] ｜ 容姿記述 1 件
+初出: [29話](../../nav/ch0029.md) ｜ 容姿記述 1 件
 
-- 可愛らしいお姫様アバターを持つ ｜ 外見 ｜ 典拠: [[nav/ch0029|29話]]（p1243）
+- 可愛らしいお姫様アバターを持つ ｜ 外見 ｜ 典拠: [29話](../../nav/ch0029.md)（p1243）
   > 後ろで太鼓持ちをやっている【聖姫】さんの可愛らしいお姫様アバターがぴょこぴょこと動いて【狂姫】さんの回りを跳ねていく。
 <!-- AUTO:END -->

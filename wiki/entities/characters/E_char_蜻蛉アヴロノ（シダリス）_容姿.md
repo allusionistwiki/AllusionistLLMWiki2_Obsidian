@@ -9,8 +9,8 @@ first_appearance: ch0211
 spoiler_after: ch0211
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0211|211話]] ｜ 容姿記述 1 件
+初出: [211話](../../nav/ch0211.md) ｜ 容姿記述 1 件
 
-- 眼鏡を着用し、蜻蛉の翅を持つ。 ｜ 眼鏡・羽 ｜ 典拠: [[nav/ch0211|211話]]（p7118）
+- 眼鏡を着用し、蜻蛉の翅を持つ。 ｜ 眼鏡・羽 ｜ 典拠: [211話](../../nav/ch0211.md)（p7118）
   > 眼鏡のブリッジを支えながら蜻蛉翅のアヴロノが言った直後、
 <!-- AUTO:END -->

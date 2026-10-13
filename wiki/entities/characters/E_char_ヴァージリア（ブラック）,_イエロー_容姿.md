@@ -9,8 +9,8 @@ first_appearance: ch0055
 spoiler_after: ch0055
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0055|55話]] ｜ 容姿記述 1 件
+初出: [55話](../../nav/ch0055.md) ｜ 容姿記述 1 件
 
-- ヴァージリアの異形の耳は耶黄色（イエロー）のような非人間的な三角耳を想起させる ｜ ears ｜ 典拠: [[nav/ch0055|55話]]（p2127）
+- ヴァージリアの異形の耳は耶黄色（イエロー）のような非人間的な三角耳を想起させる ｜ ears ｜ 典拠: [55話](../../nav/ch0055.md)（p2127）
   > あの人ならざる三角の耳同様に、この世のものではない耳はこの世のものではない音を聴く。
 <!-- AUTO:END -->

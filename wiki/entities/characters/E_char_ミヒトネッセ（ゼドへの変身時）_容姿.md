@@ -9,8 +9,8 @@ first_appearance: ch0180
 spoiler_after: ch0180
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0180|180話]] ｜ 容姿記述 1 件
+初出: [180話](../../nav/ch0180.md) ｜ 容姿記述 1 件
 
-- 男性の顔（ゼド） ｜ 顔・状態（乾き） ｜ 典拠: [[nav/ch0180|180話]]（p5987）
+- 男性の顔（ゼド） ｜ 顔・状態（乾き） ｜ 典拠: [180話](../../nav/ch0180.md)（p5987）
   > その男の顔は、ひどく乾いていた。
 <!-- AUTO:END -->

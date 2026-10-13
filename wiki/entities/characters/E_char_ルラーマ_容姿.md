@@ -9,8 +9,8 @@ first_appearance: ch0272
 spoiler_after: ch0272
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0272|272話]] ｜ 容姿記述 1 件
+初出: [272話](../../nav/ch0272.md) ｜ 容姿記述 1 件
 
-- 半透明の状態、ウェディングドレス風だが水着に近い露出度の装い ｜ 服装・外見の特徴 ｜ 典拠: [[nav/ch0272|272話]]（p8439）
+- 半透明の状態、ウェディングドレス風だが水着に近い露出度の装い ｜ 服装・外見の特徴 ｜ 典拠: [272話](../../nav/ch0272.md)（p8439）
   > 半透明の女は一見するとウェディングドレス風の装いだが、よく観察すると水着に近い露出度だ。
 <!-- AUTO:END -->

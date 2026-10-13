@@ -9,8 +9,8 @@ first_appearance: ch0199
 spoiler_after: ch0199
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0199|199話]] ｜ 容姿記述 1 件
+初出: [199話](../../nav/ch0199.md) ｜ 容姿記述 1 件
 
-- カラス頭の鳥人 ｜ 頭部形状・種族 ｜ 典拠: [[nav/ch0199|199話]]（p6694）
+- カラス頭の鳥人 ｜ 頭部形状・種族 ｜ 典拠: [199話](../../nav/ch0199.md)（p6694）
   > カラス頭の鳥人、破壊された酒場の店主は大いに憤慨していた。
 <!-- AUTO:END -->

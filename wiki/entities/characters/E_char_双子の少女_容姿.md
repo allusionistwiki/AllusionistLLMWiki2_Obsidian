@@ -9,8 +9,8 @@ first_appearance: ch0242
 spoiler_after: ch0242
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0242|242話]] ｜ 容姿記述 1 件
+初出: [242話](../../nav/ch0242.md) ｜ 容姿記述 1 件
 
-- 三角耳を持つ少女の双子 ｜ 耳・性別 ｜ 典拠: [[nav/ch0242|242話]]（p7920）
+- 三角耳を持つ少女の双子 ｜ 耳・性別 ｜ 典拠: [242話](../../nav/ch0242.md)（p7920）
   > 浮遊絨毯に乗った双子がいた。そっくりな三角耳の少女たちによる上空からの爆撃が炎の雨を降らせると
 <!-- AUTO:END -->

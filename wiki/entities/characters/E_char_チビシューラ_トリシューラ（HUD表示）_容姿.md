@@ -9,8 +9,8 @@ first_appearance: ch0192
 spoiler_after: ch0192
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0192|192話]] ｜ 容姿記述 1 件
+初出: [192話](../../nav/ch0192.md) ｜ 容姿記述 1 件
 
-- お下げのある二頭身キャラクター ｜ お下げ ｜ 典拠: [[nav/ch0192|192話]]（p6346）
+- お下げのある二頭身キャラクター ｜ お下げ ｜ 典拠: [192話](../../nav/ch0192.md)（p6346）
   > 視界の隅っこ――ヘッドアップディスプレイ表示の端でお下げの二頭身キャラクターが『言わんこっちゃない』という表情をする。
 <!-- AUTO:END -->

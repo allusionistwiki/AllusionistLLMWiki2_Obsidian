@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_babel_myth
-title: バベルの塔への言震の転生
-
-
-
-
+title: "「言震」が「天地を引き裂き、地上と地獄を分かつ大戦争の切っ掛け」とされるのは、バベルの塔の神話（言語の混乱による人類の分散）の…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_言震_p1934]]"

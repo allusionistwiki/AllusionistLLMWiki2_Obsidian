@@ -9,8 +9,8 @@ first_appearance: ch0149
 spoiler_after: ch0149
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0149|149話]] ｜ 容姿記述 1 件
+初出: [149話](../../nav/ch0149.md) ｜ 容姿記述 1 件
 
-- 精悍な顔つき。 ｜ 顔立ち ｜ 典拠: [[nav/ch0149|149話]]（5068）
+- 精悍な顔つき。 ｜ 顔立ち ｜ 典拠: [149話](../../nav/ch0149.md)（5068）
   > 妖しい光を纏う捻じれた魔槍を振るい、精悍な顔つきの男が不敵な笑みを浮かべた。片腕の丸盾にはニガヨモギの紋章。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0211
 spoiler_after: ch0211
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0211|211話]] ｜ 容姿記述 1 件
+初出: [211話](../../nav/ch0211.md) ｜ 容姿記述 1 件
 
-- ソフトモヒカンの髪型。天道虫柄のネクタイを着用した黒服。 ｜ 髪・服装・装飾 ｜ 典拠: [[nav/ch0211|211話]]（p7116）
+- ソフトモヒカンの髪型。天道虫柄のネクタイを着用した黒服。 ｜ 髪・服装・装飾 ｜ 典拠: [211話](../../nav/ch0211.md)（p7116）
   > 天道虫柄のネクタイをしたソフトモヒカンの黒服が巨大な半球状障壁を展開して住民たちを保護。
 <!-- AUTO:END -->

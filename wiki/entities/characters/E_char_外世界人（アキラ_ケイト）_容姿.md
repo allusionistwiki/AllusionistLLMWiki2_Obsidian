@@ -9,8 +9,8 @@ first_appearance: ch0113
 spoiler_after: ch0113
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0113|113話]] ｜ 容姿記述 1 件
+初出: [113話](../../nav/ch0113.md) ｜ 容姿記述 1 件
 
-- 黒衣に包まれ、霊長類と思しき人物 ｜ 服装・顔立ち ｜ 典拠: [[nav/ch0113|113話]]（p3975）
+- 黒衣に包まれ、霊長類と思しき人物 ｜ 服装・顔立ち ｜ 典拠: [113話](../../nav/ch0113.md)（p3975）
   > 共に黒衣に包まれた霊長類と思しき人物が床に倒れる。正体は判然としないが、両者共に激しく消耗しているのか肩で息をしている状態だった。
 <!-- AUTO:END -->

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_thinks_地上の摂理_p1524_capitalism_resource_extraction
-title: 資本主義的収奪構造の模倣
-
-
-
-
+title: "異獣を「資源」として収奪し、利益を追求するミルーニャの論理は、現代の資本主義における環境破壊や労働搾取の構造を模倣している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_thinks_地上の摂理_p1524]]"

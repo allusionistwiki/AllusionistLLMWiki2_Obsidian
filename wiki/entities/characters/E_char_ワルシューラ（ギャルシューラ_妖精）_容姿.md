@@ -9,8 +9,8 @@ first_appearance: ch0149
 spoiler_after: ch0149
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0149|149話]] ｜ 容姿記述 1 件
+初出: [149話](../../nav/ch0149.md) ｜ 容姿記述 1 件
 
-- 濃いアイラインを描いた妖精。 ｜ 顔立ち ｜ 典拠: [[nav/ch0149|149話]]（5062）
+- 濃いアイラインを描いた妖精。 ｜ 顔立ち ｜ 典拠: [149話](../../nav/ch0149.md)（5062）
   > 周囲を邪悪な妖精たちが取り囲んでいる。濃いアイラインのワルシューラたちがけらけらと笑う。
 <!-- AUTO:END -->

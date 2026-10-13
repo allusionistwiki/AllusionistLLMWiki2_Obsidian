@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_サイバーカラテ_other_ユーザー_p2655_AppStoreのレビュー機能
-title: アプリレビュー機能の模倣
-
-
-
-
+title: "ユーザーによる星評価とコメントがアプリの信頼性（呪力）を高める仕組みは、現代のアプリストアにおけるレビューシステムそのものである"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_サイバーカラテ_other_ユーザー_p2655]]"

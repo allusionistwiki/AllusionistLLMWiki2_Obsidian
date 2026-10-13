@@ -9,8 +9,8 @@ first_appearance: ch0055
 spoiler_after: ch0055
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0055|55話]] ｜ 容姿記述 1 件
+初出: [55話](../../nav/ch0055.md) ｜ 容姿記述 1 件
 
-- 三角帽子（シアン）、三角耳（イエロー/グリーン）、似た雰囲気 ｜ accessories・body_feature ｜ 典拠: [[nav/ch0055|55話]]（p2111）
+- 三角帽子（シアン）、三角耳（イエロー/グリーン）、似た雰囲気 ｜ accessories・body_feature ｜ 典拠: [55話](../../nav/ch0055.md)（p2111）
   > 三角帽子の人と三角耳が生えた人、それからちょっとだけ私と似た雰囲気の人たちはみんな私に親切にしてくれた
 <!-- AUTO:END -->

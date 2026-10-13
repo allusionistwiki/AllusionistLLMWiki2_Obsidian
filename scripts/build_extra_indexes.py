@@ -150,14 +150,14 @@ def build_appearances(meta: dict, facts: dict) -> int:
         head = f"## [[{name}|{name}]]" if f"E_char_{name}" in char_pages else f"## {name}"
         lines.append(f"\n{head}\n")
         epn = first[2:].lstrip("0") or "0"
-        lines.append(f"初出: [[nav/{first}|{epn}話]] ｜ 容姿記述 {d['count']} 件\n")
+        lines.append(f"初出: [{epn}話](../nav/{first}.md) ｜ 容姿記述 {d['count']} 件\n")
         for r in d["items"]:
             feats = "・".join((r.get("features") or [])[:6])
             pg = r.get("paragraph", "")
             cite = f"（{pg}）" if pg else ""
             ep = r["episode"]
             lines.append(f"- {r.get('note', '')} ｜ {feats} ｜ 典拠: "
-                         f"[[nav/{ep}|{ep[2:].lstrip('0') or '0'}話]]{cite}")
+                         f"[{ep[2:].lstrip('0') or '0'}話](../nav/{ep}.md){cite}")
             if r.get("quote"):
                 lines.append(f"  > {r['quote'][:140]}")
         lines.append("")

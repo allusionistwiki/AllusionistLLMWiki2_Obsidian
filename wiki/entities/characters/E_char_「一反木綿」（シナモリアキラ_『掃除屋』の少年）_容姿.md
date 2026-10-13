@@ -9,8 +9,8 @@ first_appearance: ch0227
 spoiler_after: ch0227
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0227|227話]] ｜ 容姿記述 1 件
+初出: [227話](../../nav/ch0227.md) ｜ 容姿記述 1 件
 
-- 大男、巨大な突撃槍（ランス）の義手 ｜ 体格・義肢 ｜ 典拠: [[nav/ch0227|227話]]（p7492）
+- 大男、巨大な突撃槍（ランス）の義手 ｜ 体格・義肢 ｜ 典拠: [227話](../../nav/ch0227.md)（p7492）
   > 空飛ぶ絨毯に乗った大男が巨大な突撃槍義手でペットショップの外壁を粉砕する。
 <!-- AUTO:END -->

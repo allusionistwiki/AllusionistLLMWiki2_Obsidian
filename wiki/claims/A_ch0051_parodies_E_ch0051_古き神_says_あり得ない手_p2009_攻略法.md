@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0051_parodies_E_ch0051_古き神_says_あり得ない手_p2009_攻略法
-title: 詰み状態の裏技攻略法
-
-
-
-
+title: "「危険を恐れず、今までやらなかった事をやってみなさい」という忠告は、詰み状態のゲームにおける「あり得ない攻略法（バグ技や裏技）…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0051_古き神_says_あり得ない手_p2009]]"

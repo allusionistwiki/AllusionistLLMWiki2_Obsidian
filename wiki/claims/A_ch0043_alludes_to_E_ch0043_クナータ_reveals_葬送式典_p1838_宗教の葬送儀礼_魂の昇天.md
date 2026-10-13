@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0043_alludes_to_E_ch0043_クナータ_reveals_葬送式典_p1838_宗教の葬送儀礼_魂の昇天
-title: 魂の昇天の視覚化
-
-
-
-
+title: "「魂を空に送る」「星空のような魂の流れ」という描写は、宗教的な葬送儀礼における魂の昇天や浄化の概念を視覚的に表現している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_クナータ_reveals_葬送式典_p1838]]"

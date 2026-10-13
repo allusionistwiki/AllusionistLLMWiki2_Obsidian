@@ -9,8 +9,8 @@ first_appearance: ch0097
 spoiler_after: ch0097
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0097|97話]] ｜ 容姿記述 1 件
+初出: [97話](../../nav/ch0097.md) ｜ 容姿記述 1 件
 
-- 目が隠れるほど毛深い狼 ｜ 体格・髪・肌 ｜ 典拠: [[nav/ch0097|97話]]（p3557）
+- 目が隠れるほど毛深い狼 ｜ 体格・髪・肌 ｜ 典拠: [97話](../../nav/ch0097.md)（p3557）
   > 目が隠れるほどに毛深い狼は、恐縮するように腰を低くして答える。
 <!-- AUTO:END -->

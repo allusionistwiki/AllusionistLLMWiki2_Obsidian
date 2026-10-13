@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0147_structurally_matches_E_ch0147_サリアのループ戦闘_ゲームの周回プレイ_セーブスロット
-title: ゲーム周回プレイの構造対応
-
+title: "サリアが「七回試した」「パターン化してある」と語り、戦闘を最適化されたルートとして捉える態度は、ビデオゲームの周回プレイや攻略…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0147_オルヴァ_has_property_時空操作_p5013]]"

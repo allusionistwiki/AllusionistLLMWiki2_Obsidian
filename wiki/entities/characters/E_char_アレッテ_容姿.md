@@ -9,8 +9,8 @@ first_appearance: ch0190
 spoiler_after: ch0190
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,10 +24,10 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0190|190話]] ｜ 容姿記述 2 件
+初出: [190話](../../nav/ch0190.md) ｜ 容姿記述 2 件
 
-- 紅紫の瞳 ｜ 瞳 ｜ 典拠: [[nav/ch0190|190話]]（p6285）
+- 紅紫の瞳 ｜ 瞳 ｜ 典拠: [190話](../../nav/ch0190.md)（p6285）
   > アレッテは紅紫の瞳をまっすぐにこちらに向けてはっきりと口にした。
-- 世にも美しい男の顔に変化 ｜ 顔立ち ｜ 典拠: [[nav/ch0190|190話]]（p6285）
+- 世にも美しい男の顔に変化 ｜ 顔立ち ｜ 典拠: [190話](../../nav/ch0190.md)（p6285）
   > 女の顔が世にも美しい男のものに変わっていく。
 <!-- AUTO:END -->

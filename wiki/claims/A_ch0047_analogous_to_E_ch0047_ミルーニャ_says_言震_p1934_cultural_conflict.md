@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_cultural_conflict
-title: 文化衝突への言震の転生
-
-
-
-
+title: "「言語汚染災害」が「不毛な戦争」を引き起こすという記述は、文化衝突（カルチャー・コンフリクト）が暴力を生むという社会学の知見と…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_言震_p1934]]"

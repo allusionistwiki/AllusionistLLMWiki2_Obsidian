@@ -9,8 +9,8 @@ first_appearance: ch0180
 spoiler_after: ch0180
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0180|180話]] ｜ 容姿記述 1 件
+初出: [180話](../../nav/ch0180.md) ｜ 容姿記述 1 件
 
-- 筋肉質、水着 ｜ 上半身（露出）・服装（水着）・眼差し ｜ 典拠: [[nav/ch0180|180話]]（p5983）
+- 筋肉質、水着 ｜ 上半身（露出）・服装（水着）・眼差し ｜ 典拠: [180話](../../nav/ch0180.md)（p5983）
   > そう名乗った眼差しの強いカーインは筋肉質の上半身を晒した水着であった。本格的に泳ぐのには向かないサーフパンツにはファイアパターンが描かれ、
 <!-- AUTO:END -->

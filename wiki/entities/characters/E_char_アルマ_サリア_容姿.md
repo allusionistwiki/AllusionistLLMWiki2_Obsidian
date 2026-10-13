@@ -9,8 +9,8 @@ first_appearance: ch0033
 spoiler_after: ch0033
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0033|33話]] ｜ 容姿記述 1 件
+初出: [33話](../../nav/ch0033.md) ｜ 容姿記述 1 件
 
-- 明るい色の活動的な衣類と軽装甲を身に着けている。 ｜ 服装 ｜ 典拠: [[nav/ch0033|33話]]（p1343）
+- 明るい色の活動的な衣類と軽装甲を身に着けている。 ｜ 服装 ｜ 典拠: [33話](../../nav/ch0033.md)（p1343）
   > 腰にはそれぞれ戦棍と短剣が吊り下げられていて、明るい色の活動的な衣類と軽装甲で身を包んでいる。
 <!-- AUTO:END -->

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0053_analogous_to_E_ch0053_花言葉_defines_古代の呪文_p2057_semantic_lock_in_programming
-title: 意味の固定のメタファー
-
-
-
-
+title: "花言葉が古代の言語魔術師によって象徴性が固定され、人類の深層意識に浸透しているという設定は、プログラミング言語や記号論における…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_花言葉_defines_古代の呪文_p2057]]"

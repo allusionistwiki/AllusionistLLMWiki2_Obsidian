@@ -9,8 +9,8 @@ first_appearance: ch0178
 spoiler_after: ch0178
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0178|178話]] ｜ 容姿記述 1 件
+初出: [178話](../../nav/ch0178.md) ｜ 容姿記述 1 件
 
-- 巨漢、小柄な少女、老人など ｜ 体格・服装・年齢・外見 ｜ 典拠: [[nav/ch0178|178話]]（p5914）
+- 巨漢、小柄な少女、老人など ｜ 体格・服装・年齢・外見 ｜ 典拠: [178話](../../nav/ch0178.md)（p5914）
   > 火工術師のギター兼ボーカルの青年、斧型ベースを担いだ巨漢、竪琴じみた長弓を構えた小柄な少女、地面から姿を現す白と黒の鍵盤が刻まれた影、ドラムセットの中央に座る老人
 <!-- AUTO:END -->

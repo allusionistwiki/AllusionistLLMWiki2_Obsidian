@@ -9,8 +9,8 @@ first_appearance: ch0221
 spoiler_after: ch0221
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0221|221話]] ｜ 容姿記述 1 件
+初出: [221話](../../nav/ch0221.md) ｜ 容姿記述 1 件
 
-- 毛長（毛深い）、曲牙（長い鼻と牙）、亜竜に匹敵する巨体。 ｜ 毛・牙・体格 ｜ 典拠: [[nav/ch0221|221話]]（p7334）
+- 毛長（毛深い）、曲牙（長い鼻と牙）、亜竜に匹敵する巨体。 ｜ 毛・牙・体格 ｜ 典拠: [221話](../../nav/ch0221.md)（p7334）
   > 悠々と歩く毛長曲牙象に乗せてくれないかとサーカスの一座に頼み込んでいるマンモスらし い。「ぱおーん、だって。かわいいね」
 <!-- AUTO:END -->

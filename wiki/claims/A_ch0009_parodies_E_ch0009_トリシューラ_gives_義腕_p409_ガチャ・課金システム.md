@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0009_parodies_E_ch0009_トリシューラ_gives_義腕_p409_ガチャ・課金システム
-title: ガチャ・課金システムへの転生
-
-
-
-
+title: "悪魔との契約という劇的な瞬間が、実際には高額な義肢のセールスとサブスクリプション（弾薬費）による課金システムへと変質している"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_トリシューラ_gives_義腕_p409]]"

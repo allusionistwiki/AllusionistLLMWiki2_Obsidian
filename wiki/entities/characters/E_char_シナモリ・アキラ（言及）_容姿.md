@@ -9,8 +9,8 @@ first_appearance: ch0016
 spoiler_after: ch0016
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0016|16話]] ｜ 容姿記述 1 件
+初出: [16話](../../nav/ch0016.md) ｜ 容姿記述 1 件
 
-- パートタイム労働の最中であるという描写（視覚的描写ではないが、容姿の文脈で言及される人物像）。 ｜ 状況 ｜ 典拠: [[nav/ch0016|16話]]（p741）
+- パートタイム労働の最中であるという描写（視覚的描写ではないが、容姿の文脈で言及される人物像）。 ｜ 状況 ｜ 典拠: [16話](../../nav/ch0016.md)（p741）
   > 加えて言えば、現在彼女はパートタイム労働の最中である。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0172
 spoiler_after: ch0172
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0172|172話]] ｜ 容姿記述 1 件
+初出: [172話](../../nav/ch0172.md) ｜ 容姿記述 1 件
 
-- 頭骨が狭く、背中にコブがあり、耳が非常に長い。 ｜ 頭部・背・耳 ｜ 典拠: [[nav/ch0172|172話]]（p5717）
+- 頭骨が狭く、背中にコブがあり、耳が非常に長い。 ｜ 頭部・背・耳 ｜ 典拠: [172話](../../nav/ch0172.md)（p5717）
   > 幅の狭い頭骨、背中にコブ、長く垂れ下がった耳
 <!-- AUTO:END -->

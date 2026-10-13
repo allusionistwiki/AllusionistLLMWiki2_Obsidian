@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_死の不可逆性_p1583_grief_process
-title: グリーフワークの否認段階
-
-
-
-
+title: "ミルーニャの死に対するアズーリアの絶望と、死を否定したいという渇望は、グリーフワークにおける「否認」の段階を強く反映している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_アズーリア_thinks_死の不可逆性_p1583]]"

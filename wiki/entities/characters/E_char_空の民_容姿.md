@@ -9,8 +9,8 @@ first_appearance: ch0063
 spoiler_after: ch0063
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,10 +24,10 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0063|63話]] ｜ 容姿記述 2 件
+初出: [63話](../../nav/ch0063.md) ｜ 容姿記述 2 件
 
-- 多様な色彩と形状の帽子 ｜ 帽子 ｜ 典拠: [[nav/ch0063|63話]]（p2353）
+- 多様な色彩と形状の帽子 ｜ 帽子 ｜ 典拠: [63話](../../nav/ch0063.md)（p2353）
   > 同様に様々な色彩と形状の帽子を被っている。
-- 鳥の羽のような耳 ｜ 耳 ｜ 典拠: [[nav/ch0063|63話]]（p2353）
+- 鳥の羽のような耳 ｜ 耳 ｜ 典拠: [63話](../../nav/ch0063.md)（p2353）
   > その次に通り過ぎていった空の民は耳が鳥の羽のようになっている。
 <!-- AUTO:END -->

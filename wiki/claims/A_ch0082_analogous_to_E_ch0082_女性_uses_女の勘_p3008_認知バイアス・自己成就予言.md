@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0082_analogous_to_E_ch0082_女性_uses_女の勘_p3008_認知バイアス・自己成就予言
-title: 女の勘による認知バイアスと自己成就予言
-
-
-
-
+title: "「女の勘」という呪術は、認知バイアス（確証バイアスなど）と社会的立場を利用し、事後的に事象を言い当てることで「真実」を固定する…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_女性_uses_女の勘_p3008]]"

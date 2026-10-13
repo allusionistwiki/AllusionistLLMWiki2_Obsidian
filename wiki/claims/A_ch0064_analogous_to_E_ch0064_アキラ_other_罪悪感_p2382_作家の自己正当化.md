@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_アキラ_other_罪悪感_p2382_作家の自己正当化
-title: 作家の自己正当化心理
-
-
-
-
+title: "「呪文使いは言い訳ばかり得意」という記述は、物語の構造（言い訳）によって自らの行為を正当化しようとする作家の心理を指している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_アキラ_other_罪悪感_p2382]]"

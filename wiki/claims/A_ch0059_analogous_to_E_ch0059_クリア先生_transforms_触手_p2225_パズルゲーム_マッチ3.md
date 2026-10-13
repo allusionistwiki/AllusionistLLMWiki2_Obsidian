@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0059_analogous_to_E_ch0059_クリア先生_transforms_触手_p2225_パズルゲーム_マッチ3
-title: 恐怖を報酬に変換するマッチ3
-
-
-
-
+title: "恐怖の触手が拍手の音と共に「お菓子」に変換される現象は、恐怖を無害な報酬に変換するゲーム的メカニクスを連想させる"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0059_クリア先生_transforms_触手_p2225]]"

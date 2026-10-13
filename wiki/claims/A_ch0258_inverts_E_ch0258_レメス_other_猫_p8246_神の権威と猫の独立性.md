@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0258_inverts_E_ch0258_レメス_other_猫_p8246_神の権威と猫の独立性
-title: 猫の独立性による神権の逆転
-
+title: "レメスが猫の独立性（言うことを聞かない）によって権威を失い激昂する描写は、神の全能性の欠如と、ルール外の存在による支配の逆転を…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0258_レメス_other_猫_p8246]]"

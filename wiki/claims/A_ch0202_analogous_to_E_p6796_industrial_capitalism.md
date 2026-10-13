@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0202_analogous_to_E_p6796_industrial_capitalism
-title: 再生者資源化による資本主義的搾取
-
+title: "双頭トロルが「再生者」を資源として奪い、王国を構築しようとする欲望は、人間を道具として扱う資本主義的・植民地的搾取構造の比喩で…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"

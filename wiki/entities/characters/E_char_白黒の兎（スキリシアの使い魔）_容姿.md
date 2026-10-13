@@ -9,8 +9,8 @@ first_appearance: ch0056
 spoiler_after: ch0056
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0056|56話]] ｜ 容姿記述 1 件
+初出: [56話](../../nav/ch0056.md) ｜ 容姿記述 1 件
 
-- 白と黒の模様の兎で、片眼鏡と小さな帽子を装着している ｜ 白黒の毛並み・片眼鏡・小さな帽子 ｜ 典拠: [[nav/ch0056|56話]]（p2143）
+- 白と黒の模様の兎で、片眼鏡と小さな帽子を装着している ｜ 白黒の毛並み・片眼鏡・小さな帽子 ｜ 典拠: [56話](../../nav/ch0056.md)（p2143）
   > 白黒の兎。なぜか片眼鏡をかけて小さな帽子をかぶっている。
 <!-- AUTO:END -->

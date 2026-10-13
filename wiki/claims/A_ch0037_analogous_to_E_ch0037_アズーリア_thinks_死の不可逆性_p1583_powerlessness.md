@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_死の不可逆性_p1583_powerlessness
-title: 世界の理に抗えぬ無力感
-
-
-
-
+title: "蘇生に失敗し、死を止められないアズーリアの無力感は、主人公が世界の理（ルール）に抗えないというメタフィクショナルな限界を示す"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_アズーリア_thinks_死の不可逆性_p1583]]"

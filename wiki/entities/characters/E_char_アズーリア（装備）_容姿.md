@@ -9,8 +9,8 @@ first_appearance: ch0001
 spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0001|1話]] ｜ 容姿記述 1 件
+初出: [1話](../../nav/ch0001.md) ｜ 容姿記述 1 件
 
-- アズーリアがアキラにかけた厚手のマント。 ｜ 服装 ｜ 典拠: [[nav/ch0001|1話]]（p41）
+- アズーリアがアキラにかけた厚手のマント。 ｜ 服装 ｜ 典拠: [1話](../../nav/ch0001.md)（p41）
   > 首と、前のあわせに留め具が付いている厚手のマントだった。
 <!-- AUTO:END -->

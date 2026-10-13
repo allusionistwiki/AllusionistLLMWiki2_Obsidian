@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0172_analogous_to_E_ch0172_ゼド_says_判官贔屓_p5720_メタフィクション的ナラティブ補正
-title: メタフィクション的ナラティブ補正
-
+title: "物語内の出来事を『判官贔屓』というメタ的なナラティブ補正として明示し、フィクションの構造自体をゲーム的な介入として扱っている"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0172_ゼド_says_判官贔屓_p5720]]"

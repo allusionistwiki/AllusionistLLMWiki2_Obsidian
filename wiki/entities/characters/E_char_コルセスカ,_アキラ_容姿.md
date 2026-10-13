@@ -9,8 +9,8 @@ first_appearance: ch0005
 spoiler_after: ch0005
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0005|5話]] ｜ 容姿記述 1 件
+初出: [5話](../../nav/ch0005.md) ｜ 容姿記述 1 件
 
-- コルセスカは巨大な目、アキラは片腕がない（隻腕）。 ｜ 目・腕 ｜ 典拠: [[nav/ch0005|5話]]（p237）
+- コルセスカは巨大な目、アキラは片腕がない（隻腕）。 ｜ 目・腕 ｜ 典拠: [5話](../../nav/ch0005.md)（p237）
   > 巨大な目の女と隻腕の男の二人組はそれなりに目立つが、あくまでそれなりだった。
 <!-- AUTO:END -->

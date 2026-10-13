@@ -9,8 +9,8 @@ first_appearance: ch0189
 spoiler_after: ch0189
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0189|189話]] ｜ 容姿記述 1 件
+初出: [189話](../../nav/ch0189.md) ｜ 容姿記述 1 件
 
-- 大蛇と大蠍の甲殻の鎧を着た長身の美丈夫 ｜ 鎧・体格・顔立ち ｜ 典拠: [[nav/ch0189|189話]]（p6249）
+- 大蛇と大蠍の甲殻の鎧を着た長身の美丈夫 ｜ 鎧・体格・顔立ち ｜ 典拠: [189話](../../nav/ch0189.md)（p6249）
   > 大蛇の革と大蠍の甲殻でできた見事な鎧を着込んだ長身の美丈夫が雪道に深いくぼみを作りながら歩いていく。
 <!-- AUTO:END -->

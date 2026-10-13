@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_count
-title: 敵数カウントとしての影数え
-
-
-
-
+title: "積層鏡に集結した影を数える行為は、ゲームにおける敵の数を数えることを模している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_observes_魔将_p2420]]"

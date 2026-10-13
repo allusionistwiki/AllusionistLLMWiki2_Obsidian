@@ -9,8 +9,8 @@ first_appearance: ch0148
 spoiler_after: ch0148
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0148|148話]] ｜ 容姿記述 1 件
+初出: [148話](../../nav/ch0148.md) ｜ 容姿記述 1 件
 
-- 片目（隻眼）であることが描写されている。 ｜ 隻眼 ｜ 典拠: [[nav/ch0148|148話]]（p5038）
+- 片目（隻眼）であることが描写されている。 ｜ 隻眼 ｜ 典拠: [148話](../../nav/ch0148.md)（p5038）
   > 隻眼の男（名前は失われている）を付きっきりで看病しているし
 <!-- AUTO:END -->

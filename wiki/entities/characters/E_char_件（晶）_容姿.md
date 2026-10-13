@@ -9,8 +9,8 @@ first_appearance: ch0156
 spoiler_after: ch0156
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0156|156話]] ｜ 容姿記述 1 件
+初出: [156話](../../nav/ch0156.md) ｜ 容姿記述 1 件
 
-- 瞳を十字に輝かせる ｜ 瞳 ｜ 典拠: [[nav/ch0156|156話]]（p5299）
+- 瞳を十字に輝かせる ｜ 瞳 ｜ 典拠: [156話](../../nav/ch0156.md)（p5299）
   > 決着は近い。天で死闘を繰り広げる二人の『アキラ』のさらに上から、何か巨大な存在が降下しつつある。誰よりも早くその気配を感じ取った『件』が瞳を十字に輝かせて叫ぶ。
 <!-- AUTO:END -->

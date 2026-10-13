@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0002_analogous_to_E_ch0002_アズーリア_uses_死者を代弁する者_p114_mediumship
-title: 霊媒による死者の代弁
-
-
-
-
+title: "アズーリアが死者（カイン）の意思を仮構し、言葉によってアキラの罪悪感を癒やす行為は、シャーマニズムや霊媒による死者の代弁をメタ…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_アズーリア_uses_死者を代弁する者_p114]]"

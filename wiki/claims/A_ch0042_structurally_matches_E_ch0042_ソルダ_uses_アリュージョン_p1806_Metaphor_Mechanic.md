@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0042_structurally_matches_E_ch0042_ソルダ_uses_アリュージョン_p1806_Metaphor_Mechanic
-title: 比喩による現実改変
-
-
-
-
+title: "「引喩系神働術」という能力名は、作品タイトル『幻想再帰のアリュージョニスト』の核心概念であり、物語の構造そのものが「比喩（アリ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_ソルダ_uses_アリュージョン_p1806]]"

@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0234_analogous_to_E_ch0234_メートリアン_other_ウィズメモリー_p7705_アプリストアのレビュー文化
-title: アプリレビュー文化への転生
-
+title: "転生体験アプリの不満を星1レビューで表現し、機能改善を要望するメートリアンの行動は、現代のアプリユーザーの行動様式そのものである"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0234_メートリアン_other_ウィズメモリー_p7705]]"

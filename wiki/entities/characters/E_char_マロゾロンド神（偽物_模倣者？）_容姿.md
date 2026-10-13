@@ -9,8 +9,8 @@ first_appearance: ch0253
 spoiler_after: ch0253
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0253|253話]] ｜ 容姿記述 1 件
+初出: [253話](../../nav/ch0253.md) ｜ 容姿記述 1 件
 
-- 空を覆う夜の黒衣を纏っている。 ｜ 服装/外見（黒衣） ｜ 典拠: [[nav/ch0253|253話]]（8146）
+- 空を覆う夜の黒衣を纏っている。 ｜ 服装/外見（黒衣） ｜ 典拠: [253話](../../nav/ch0253.md)（8146）
   > 空を覆う夜の黒衣は、夜の民にとっての崇高だ。私は無言のまま影を斧にかえて、勢いよく振りかぶった。
 <!-- AUTO:END -->

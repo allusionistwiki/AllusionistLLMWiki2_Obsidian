@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0032_alludes_to_E_ch0032_タマ_other_白黒兎_p1321_不思議の国のアリス
-title: 不思議の国のアリス
-
-
-
-
+title: "帽子と片眼鏡を着用し、時を気にし、喋る白黒の兎は『不思議の国のアリス』の白ウサギを想起させ、迷宮探索という「穴」への落下を暗示…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0032_タマ_other_白黒兎_p1321]]"

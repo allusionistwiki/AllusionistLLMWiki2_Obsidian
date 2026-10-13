@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_言語の取引_p264_知的財産権とライセンス
-title: 知的財産権とライセンス
-
-
-
-
+title: "人工言語が競争入札にかけられ、権利者に使用料を払う必要があるという描写は、現代のソフトウェアライセンス、特許、著作権といった知…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_言語の取引_p264]]"

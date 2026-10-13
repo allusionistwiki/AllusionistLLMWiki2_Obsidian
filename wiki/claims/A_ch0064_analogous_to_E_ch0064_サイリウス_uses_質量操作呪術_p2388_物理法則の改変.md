@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_サイリウス_uses_質量操作呪術_p2388_物理法則の改変
-title: 物理法則改変のチート能力
-
-
-
-
+title: "質量操作呪術は、物理法則（質量と速度の関係）を意のままに改変する能力であり、ゲーム的な「チート」能力の比喩である"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_サイリウス_uses_質量操作呪術_p2388]]"

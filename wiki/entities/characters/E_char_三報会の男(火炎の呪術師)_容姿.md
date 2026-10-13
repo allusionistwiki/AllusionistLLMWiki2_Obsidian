@@ -9,8 +9,8 @@ first_appearance: ch0008
 spoiler_after: ch0008
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0008|8話]] ｜ 容姿記述 1 件
+初出: [8話](../../nav/ch0008.md) ｜ 容姿記述 1 件
 
-- 顔に派手な刺青がある男 ｜ 顔・刺青 ｜ 典拠: [[nav/ch0008|8話]]（p359）
+- 顔に派手な刺青がある男 ｜ 顔・刺青 ｜ 典拠: [8話](../../nav/ch0008.md)（p359）
   > 粗野な口調で言い放つのは顔に派手な刺青を入れた男だ。
 <!-- AUTO:END -->

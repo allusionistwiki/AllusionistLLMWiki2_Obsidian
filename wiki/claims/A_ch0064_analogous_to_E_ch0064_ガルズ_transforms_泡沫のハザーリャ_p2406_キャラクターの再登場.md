@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_ガルズ_transforms_泡沫のハザーリャ_p2406_キャラクターの再登場
-title: キャラ再登場のメタ演出
-
-
-
-
+title: "ガルズが「泡沫のハザーリャ」のような姿になるのは、既存のキャラクターのイメージを再利用し、新しい文脈で再登場させるメタ的な演出…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ガルズ_transforms_泡沫のハザーリャ_p2406]]"

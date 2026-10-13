@@ -9,8 +9,8 @@ first_appearance: ch0033
 spoiler_after: ch0033
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0033|33話]] ｜ 容姿記述 1 件
+初出: [33話](../../nav/ch0033.md) ｜ 容姿記述 1 件
 
-- 黒い三角帽子、派手な顔立ち、鳶色の瞳、明るい黄の髪。 ｜ 帽子・顔立ち・瞳・髪 ｜ 典拠: [[nav/ch0033|33話]]（p1348）
+- 黒い三角帽子、派手な顔立ち、鳶色の瞳、明るい黄の髪。 ｜ 帽子・顔立ち・瞳・髪 ｜ 典拠: [33話](../../nav/ch0033.md)（p1348）
   > 黒い三角帽子、派手めの顔立ち。悩みとは無縁そうなくりくりとした鳶色の瞳に、鮮やかな明るい黄の髪色。
 <!-- AUTO:END -->

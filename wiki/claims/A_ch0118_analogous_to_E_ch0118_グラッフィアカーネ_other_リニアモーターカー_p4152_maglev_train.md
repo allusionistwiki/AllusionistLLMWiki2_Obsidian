@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0118_analogous_to_E_ch0118_グラッフィアカーネ_other_リニアモーターカー_p4152_maglev_train
-title: リニア技術の兵器化
-
+title: "空中に構築された磁界のチューブを弾丸のように駆け抜けるリニアモーターカー型の兵器は、現実の磁気浮上式鉄道（リニア中央新幹線など…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0118_グラッフィアカーネ_other_リニアモーターカー_p4152]]"

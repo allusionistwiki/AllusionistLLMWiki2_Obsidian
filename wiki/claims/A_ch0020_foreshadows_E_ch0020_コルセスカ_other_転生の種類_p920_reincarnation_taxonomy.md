@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0020_foreshadows_E_ch0020_コルセスカ_other_転生の種類_p920_reincarnation_taxonomy
-title: 転生分類学の伏線
-
-
-
-
+title: "コルセスカが自分の転生を「異世界からのものではなく、この世界の内側でのこと」と定義するのは、本作の「転生」概念が単なる異世界転…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_コルセスカ_other_転生の種類_p920]]"

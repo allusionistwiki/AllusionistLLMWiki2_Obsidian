@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0050_analogous_to_E_ch0050_ペイル_helps_ミルーニャ_p1981_炎上マーケティング
-title: 炎上マーケティングとスケープゴート
-
-
-
-
+title: "ペイルが意図的に下品な言動で民衆の敵意を引き受け、ミルーニャへの攻撃を止める行為は、組織の危機においてあえて不人気な役割（スケ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_ペイル_helps_ミルーニャ_p1981]]"

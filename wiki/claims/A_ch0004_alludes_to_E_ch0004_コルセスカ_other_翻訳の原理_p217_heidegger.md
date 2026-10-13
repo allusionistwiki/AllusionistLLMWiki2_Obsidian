@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0004_alludes_to_E_ch0004_コルセスカ_other_翻訳の原理_p217_heidegger
-title: ハイデガー哲学による存在論
-
-
-
-
+title: "アキラとコルセスカの会話における「時制の矛盾」への言及は、ハイデガーの存在論（時間性、現存在）を引用し、言語と存在の関係を哲学…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_コルセスカ_other_翻訳の原理_p217]]"

@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0258_structurally_matches_E_ch0258_レメス_names_残る要素_p8242_性的象徴としての三段階構造
-title: 獣・森・洞窟の生殖メタファー構造
-
+title: "「獣（動物性）」「森（自然/受容）」「洞窟（産道/子宮）」というコース構成が、生殖行為のメタファーとして構造化されている"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0258_レメス_names_残る要素_p8242]]"

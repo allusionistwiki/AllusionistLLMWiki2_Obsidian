@@ -94,7 +94,7 @@ def build_pages(by_char: dict, meta: dict) -> int:
         head.append("<!-- AUTO:BEGIN -->")
         first = min(d["eps"])
         epn = first[2:].lstrip("0") or "0"
-        head.append(f"\n初出: [[nav/{first}|{epn}話]] ｜ 容姿記述 {d['count']} 件\n")
+        head.append(f"\n初出: [{epn}話](../../nav/{first}.md) ｜ 容姿記述 {d['count']} 件\n")
         for r in d["items"]:
             feats = "・".join((r.get("features") or [])[:6])
             pg = r.get("paragraph", "")
@@ -102,7 +102,7 @@ def build_pages(by_char: dict, meta: dict) -> int:
             ep = r["episode"]
             e = meta.get(ep, {})
             head.append(f"- {r.get('note', '')}{' ｜ ' + feats if feats else ''} ｜ 典拠: "
-                        f"[[nav/{ep}|{ep[2:].lstrip('0') or '0'}話]]{cite}")
+                        f"[{ep[2:].lstrip('0') or '0'}話](../../nav/{ep}.md){cite}")
             if r.get("quote"):
                 head.append(f"  > {r['quote'][:200]}")
         head.append("<!-- AUTO:END -->")
@@ -141,7 +141,7 @@ def build_index(by_char: dict, meta: dict) -> None:
         else:
             head = f"## {name} ｜ [[{pid}|容姿]]"
         lines.append(head)
-        lines.append(f"初出: [[nav/{first}|{epn}話]] ｜ 容姿記述 {d['count']} 件\n")
+        lines.append(f"初出: [{epn}話](../nav/{first}.md) ｜ 容姿記述 {d['count']} 件\n")
         if s:
             lines.append(s)
             lines.append("")

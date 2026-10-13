@@ -9,8 +9,8 @@ first_appearance: ch0167
 spoiler_after: ch0167
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0167|167話]] ｜ 容姿記述 1 件
+初出: [167話](../../nav/ch0167.md) ｜ 容姿記述 1 件
 
--  ｜ 身体（白骨死体、妊娠し腹に白骨死体の胎児がいる） ｜ 典拠: [[nav/ch0167|167話]]（p5594）
+-  ｜ 身体（白骨死体、妊娠し腹に白骨死体の胎児がいる） ｜ 典拠: [167話](../../nav/ch0167.md)（p5594）
   > 胎教にいいからという理由で音楽を始めたキーボード担当の白骨死体妊婦（当然腹の中に見えている胎児も白骨死体だ）
 <!-- AUTO:END -->

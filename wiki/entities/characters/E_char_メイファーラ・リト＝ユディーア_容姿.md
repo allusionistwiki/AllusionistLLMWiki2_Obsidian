@@ -9,8 +9,8 @@ first_appearance: ch0075
 spoiler_after: ch0075
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0075|75話]] ｜ 容姿記述 1 件
+初出: [75話](../../nav/ch0075.md) ｜ 容姿記述 1 件
 
-- 少年より少し背が高い。 ｜ 身長 ｜ 典拠: [[nav/ch0075|75話]]（2832）
+- 少年より少し背が高い。 ｜ 身長 ｜ 典拠: [75話](../../nav/ch0075.md)（2832）
   > 少女は少年より、まだ少しだけ背が高い。
 <!-- AUTO:END -->

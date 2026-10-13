@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0172_analogous_to_E_ch0172_鎌鼬_says_サイカラ_p5733_キャラクター類型論
-title: キャラクター類型論のメタ言及
-
+title: "殺人鬼というキャラクター像を『データ』や『プロファイル』として分析対象と見なし、創作におけるステレオタイプや類型論をメタ的に言…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0172_鎌鼬_says_サイカラ_p5733]]"

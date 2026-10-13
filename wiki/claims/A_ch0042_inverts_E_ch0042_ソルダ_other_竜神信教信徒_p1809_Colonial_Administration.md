@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0042_inverts_E_ch0042_ソルダ_other_竜神信教信徒_p1809_Colonial_Administration
-title: 植民地行政的なラベル付け
-
-
-
-
+title: "ソルダによる「人から異獣へのラベル付け」は、植民地支配における「文明人/野蛮人」の二分法や、行政による住民の強制移住・追放を彷…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_ソルダ_other_竜神信教信徒_p1809]]"

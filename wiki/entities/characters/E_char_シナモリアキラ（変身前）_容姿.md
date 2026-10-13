@@ -9,8 +9,8 @@ first_appearance: ch0176
 spoiler_after: ch0176
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0176|176話]] ｜ 容姿記述 1 件
+初出: [176話](../../nav/ch0176.md) ｜ 容姿記述 1 件
 
-- 白磁の肌と球体関節を持つ人形の状態。 ｜ 肌（白磁の肌）・身体構造（球体関節） ｜ 典拠: [[nav/ch0176|176話]]（5858）
+- 白磁の肌と球体関節を持つ人形の状態。 ｜ 肌（白磁の肌）・身体構造（球体関節） ｜ 典拠: [176話](../../nav/ch0176.md)（5858）
   > 温度のない白磁の肌は熱とやわらかさを持つ生身へと置き換えられていった。
 <!-- AUTO:END -->

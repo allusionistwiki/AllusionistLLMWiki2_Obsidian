@@ -9,8 +9,8 @@ first_appearance: ch0065
 spoiler_after: ch0065
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0065|65話]] ｜ 容姿記述 1 件
+初出: [65話](../../nav/ch0065.md) ｜ 容姿記述 1 件
 
-- 老いびた修道騎士。 ｜ 老修道騎士 ｜ 典拠: [[nav/ch0065|65話]]（p2449）
+- 老いびた修道騎士。 ｜ 老修道騎士 ｜ 典拠: [65話](../../nav/ch0065.md)（p2449）
   > その後ろでは第十二位の老修道騎士が必死になって【避雷針】の呪術を維持して大魔将の攻撃を凌いでいた。
 <!-- AUTO:END -->

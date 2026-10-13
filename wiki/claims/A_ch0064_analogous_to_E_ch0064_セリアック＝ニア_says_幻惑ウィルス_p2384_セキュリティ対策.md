@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_セリアック＝ニア_says_幻惑ウィルス_p2384_セキュリティ対策
-title: セキュリティ対策のメタファー
-
-
-
-
+title: "「幻惑ウィルス」を仕掛けてライブ中断を防ぐという記述は、デジタルコンテンツにおけるセキュリティ対策やバグ対策のメタファーである"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_セリアック＝ニア_says_幻惑ウィルス_p2384]]"

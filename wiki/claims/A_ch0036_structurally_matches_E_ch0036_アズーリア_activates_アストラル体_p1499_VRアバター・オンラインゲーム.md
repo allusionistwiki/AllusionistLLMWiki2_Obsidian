@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0036_structurally_matches_E_ch0036_アズーリア_activates_アストラル体_p1499_VRアバター・オンラインゲーム
-title: VRアバター操作のメタファー
-
-
-
-
+title: "肉体を置き去りにして精神のみを移動させ、アバターとして他者と接触する描写は、VR技術やオンラインゲームにおけるアバター操作のメ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_アズーリア_activates_アストラル体_p1499]]"

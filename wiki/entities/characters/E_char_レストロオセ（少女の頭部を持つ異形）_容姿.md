@@ -9,8 +9,8 @@ first_appearance: ch0156
 spoiler_after: ch0156
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0156|156話]] ｜ 容姿記述 1 件
+初出: [156話](../../nav/ch0156.md) ｜ 容姿記述 1 件
 
-- 毒蛇や爬虫類、昆虫など多数の生物が融合した不快な姿 ｜ 異形の肉体 ｜ 典拠: [[nav/ch0156|156話]]（p5284）
+- 毒蛇や爬虫類、昆虫など多数の生物が融合した不快な姿 ｜ 異形の肉体 ｜ 典拠: [156話](../../nav/ch0156.md)（p5284）
   > 緑や紫、黒や赤といったどぎつい色彩の蛇、蜘蛛、蠍、百足、長虫、そのほか嫌悪を催す不快害虫がより合わさったような肉体。
 <!-- AUTO:END -->

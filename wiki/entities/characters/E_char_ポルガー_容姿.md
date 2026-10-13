@@ -9,8 +9,8 @@ first_appearance: ch0199
 spoiler_after: ch0199
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0199|199話]] ｜ 容姿記述 1 件
+初出: [199話](../../nav/ch0199.md) ｜ 容姿記述 1 件
 
-- 声として現れる（直接的な外見描写はなし） ｜ 呼び名 ｜ 典拠: [[nav/ch0199|199話]]（p6706）
+- 声として現れる（直接的な外見描写はなし） ｜ 呼び名 ｜ 典拠: [199話](../../nav/ch0199.md)（p6706）
   > 「ポルガーお姉様。聖妃様は、救世主の生誕に間に合いそうですか？」
 <!-- AUTO:END -->

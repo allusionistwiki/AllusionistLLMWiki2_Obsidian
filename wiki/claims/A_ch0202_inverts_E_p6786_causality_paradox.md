@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0202_inverts_E_p6786_causality_paradox
-title: 言語による現実規定の因果逆転
-
+title: "「預かります」という宣言の後に現実が書き換えられるという因果の逆転は、言語が現実を規定する魔法的・プログラミング的な世界観を示…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"

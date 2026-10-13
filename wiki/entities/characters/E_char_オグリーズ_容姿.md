@@ -9,8 +9,8 @@ first_appearance: ch0213
 spoiler_after: ch0213
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0213|213話]] ｜ 容姿記述 1 件
+初出: [213話](../../nav/ch0213.md) ｜ 容姿記述 1 件
 
-- 長い白髭を持つ老呪術師。あぐらをかいた姿勢で宙に浮いて移動する。 ｜ 髪・髭・体格・移動方法 ｜ 典拠: [[nav/ch0213|213話]]（p7203）
+- 長い白髭を持つ老呪術師。あぐらをかいた姿勢で宙に浮いて移動する。 ｜ 髪・髭・体格・移動方法 ｜ 典拠: [213話](../../nav/ch0213.md)（p7203）
   > あぐらをかいたまま浮遊して移動する長い白髭の老呪術師。
 <!-- AUTO:END -->

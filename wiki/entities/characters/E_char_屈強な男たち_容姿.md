@@ -9,8 +9,8 @@ first_appearance: ch0107
 spoiler_after: ch0107
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0107|107話]] ｜ 容姿記述 1 件
+初出: [107話](../../nav/ch0107.md) ｜ 容姿記述 1 件
 
-- 腕に覚えがある屈強な体格 ｜ 体格 ｜ 典拠: [[nav/ch0107|107話]]（p3787）
+- 腕に覚えがある屈強な体格 ｜ 体格 ｜ 典拠: [107話](../../nav/ch0107.md)（p3787）
   > 老人は腕に覚えがある屈強な男たちを集め、
 <!-- AUTO:END -->

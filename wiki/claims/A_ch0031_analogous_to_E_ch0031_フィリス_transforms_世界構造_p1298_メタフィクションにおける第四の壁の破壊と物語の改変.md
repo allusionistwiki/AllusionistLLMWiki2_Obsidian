@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0031_analogous_to_E_ch0031_フィリス_transforms_世界構造_p1298_メタフィクションにおける第四の壁の破壊と物語の改変
-title: 第四の壁の破壊
-
-
-
-
+title: "フィリスが「世界の中にある君というメタテクストを浸食する」「世界そのものに対して浸食を行う」という記述は、物語の構造（メタテク…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0031_フィリス_transforms_世界構造_p1298]]"

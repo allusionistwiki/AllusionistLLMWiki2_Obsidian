@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_サイバーカラテ_defines_万能の武術_p2642_スマホゲームのガチャとアプリインストール
-title: ガチャ・インストールのメタファー
-
-
-
-
+title: "「サイバーカラテ」は、現実のスマートフォンアプリ（特に格闘ゲームやフィットネスアプリ）のインストールと、ガチャによるキャラクタ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_サイバーカラテ_defines_万能の武術_p2642]]"

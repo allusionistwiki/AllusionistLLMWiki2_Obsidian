@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0067_analogous_to_E_ch0067_ディルガッハ_has_property_鰓耳の民_p2510_virtual_reality
-title: アストラル界の仮想現実
-
-
-
-
+title: "鰓耳の民がアストラル界を「海」と認識し、アバター（機体）として泳ぐ描写は、VR（仮想現実）空間におけるアバター操作や没入体験の…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ディルガッハ＝リク＝ンマウグ_has_property_鰓耳の民_p2510]]"

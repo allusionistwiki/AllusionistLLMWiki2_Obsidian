@@ -9,8 +9,8 @@ first_appearance: ch0178
 spoiler_after: ch0178
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0178|178話]] ｜ 容姿記述 1 件
+初出: [178話](../../nav/ch0178.md) ｜ 容姿記述 1 件
 
-- ガスマスク、革製品で身を固めた青年 ｜ 服装・装备 ｜ 典拠: [[nav/ch0178|178話]]（p5914）
+- ガスマスク、革製品で身を固めた青年 ｜ 服装・装备 ｜ 典拠: [178話](../../nav/ch0178.md)（p5914）
   > ガスマスクとギター型火炎放射器、革製品で身を固めた青年。その姿に、ミルーニャたちは見覚えがあった。
 <!-- AUTO:END -->

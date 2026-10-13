@@ -9,8 +9,8 @@ first_appearance: ch0089
 spoiler_after: ch0089
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0089|89話]] ｜ 容姿記述 1 件
+初出: [89話](../../nav/ch0089.md) ｜ 容姿記述 1 件
 
-- 黒色のフード付きローブで全身を覆い隠している。 ｜ 服装 ｜ 典拠: [[nav/ch0089|89話]]（p3264）
+- 黒色のフード付きローブで全身を覆い隠している。 ｜ 服装 ｜ 典拠: [89話](../../nav/ch0089.md)（p3264）
   > カルカブリーナを破ったのは、黒色のフード付きローブで全身を覆い隠した参加者だった。
 <!-- AUTO:END -->

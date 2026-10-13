@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0079_analogous_to_E_ch0079_リーナ_says_経営の心得_p2916_現代の経営自己啓発書
-title: 経営自己啓発言説の構造反映
-
-
-
-
+title: "リーナが街頭モニタで説く「目測を誤る」といった経営論は、成功の要因を個人の判断力に帰する現代の経営自己啓発言説の構造を反映して…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_リーナ_says_経営の心得_p2916]]"

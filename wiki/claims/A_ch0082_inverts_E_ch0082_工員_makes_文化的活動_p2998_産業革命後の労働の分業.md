@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0082_inverts_E_ch0082_工員_makes_文化的活動_p2998_産業革命後の労働の分業
-title: 機械生産と人間文化活動の逆転分業
-
-
-
-
+title: "機械が工業生産を担い、人間が文化的活動（絵画、詩、ゲーム）を行うという構造は、機械化による労働の解放と、人間が「意味」や「娯楽…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_工員_makes_文化的活動_p2998]]"

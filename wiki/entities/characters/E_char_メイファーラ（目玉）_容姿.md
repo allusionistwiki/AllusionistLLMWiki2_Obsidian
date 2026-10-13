@@ -9,8 +9,8 @@ first_appearance: ch0057
 spoiler_after: ch0057
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0057|57話]] ｜ 容姿記述 1 件
+初出: [57話](../../nav/ch0057.md) ｜ 容姿記述 1 件
 
-- デフォルメされた眼球のアバター。空中に浮いている。 ｜ アバター（眼球）・浮遊 ｜ 典拠: [[nav/ch0057|57話]]（p2173）
+- デフォルメされた眼球のアバター。空中に浮いている。 ｜ アバター（眼球）・浮遊 ｜ 典拠: [57話](../../nav/ch0057.md)（p2173）
   > 暢気にお茶を楽しんでいるのは【目玉】だが、そのデフォルメされた眼球アバターはこの場から浮いている。
 <!-- AUTO:END -->

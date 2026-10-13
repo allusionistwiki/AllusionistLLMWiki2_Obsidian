@@ -9,8 +9,8 @@ first_appearance: ch0149
 spoiler_after: ch0149
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0149|149話]] ｜ 容姿記述 1 件
+初出: [149話](../../nav/ch0149.md) ｜ 容姿記述 1 件
 
-- 虚ろな目。 ｜ 目 ｜ 典拠: [[nav/ch0149|149話]]（5076）
+- 虚ろな目。 ｜ 目 ｜ 典拠: [149話](../../nav/ch0149.md)（5076）
   > 男の目は虚ろで、焦点が定まっていない。
 <!-- AUTO:END -->

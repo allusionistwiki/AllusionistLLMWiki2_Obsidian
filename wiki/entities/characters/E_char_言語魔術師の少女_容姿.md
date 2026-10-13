@@ -9,8 +9,8 @@ first_appearance: ch0202
 spoiler_after: ch0202
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0202|202話]] ｜ 容姿記述 1 件
+初出: [202話](../../nav/ch0202.md) ｜ 容姿記述 1 件
 
-- 猫カフェの店員に偽装した少女。 ｜ 少女・鼻血・猫カフェの店員に偽装 ｜ 典拠: [[nav/ch0202|202話]]（p6785）
+- 猫カフェの店員に偽装した少女。 ｜ 少女・鼻血・猫カフェの店員に偽装 ｜ 典拠: [202話](../../nav/ch0202.md)（p6785）
   > 猫カフェの店員に偽装していた言語魔術師の少女が目を回しながら鼻血を吹いて昏倒したのは、侵入者との呪文戦闘で敗北したためだろう。
 <!-- AUTO:END -->

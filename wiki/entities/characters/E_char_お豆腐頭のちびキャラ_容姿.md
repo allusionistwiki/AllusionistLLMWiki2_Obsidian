@@ -9,8 +9,8 @@ first_appearance: ch0262
 spoiler_after: ch0262
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0262|262話]] ｜ 容姿記述 1 件
+初出: [262話](../../nav/ch0262.md) ｜ 容姿記述 1 件
 
-- 頭部が豆腐のような形をしており、小柄なキャラクター ｜ 体格・頭部形状 ｜ 典拠: [[nav/ch0262|262話]]（p8317）
+- 頭部が豆腐のような形をしており、小柄なキャラクター ｜ 体格・頭部形状 ｜ 典拠: [262話](../../nav/ch0262.md)（p8317）
   > お豆腐頭のちびキャラによる『仕込み』がクリーナーの背を押して、レース展開をコントロールしていた。
 <!-- AUTO:END -->

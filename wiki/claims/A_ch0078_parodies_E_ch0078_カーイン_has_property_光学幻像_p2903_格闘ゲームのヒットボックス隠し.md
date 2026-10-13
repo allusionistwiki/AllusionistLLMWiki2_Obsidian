@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0078_parodies_E_ch0078_カーイン_has_property_光学幻像_p2903_格闘ゲームのヒットボックス隠し
-title: 格闘ゲームヒットボックス隠しの再現
-
-
-
-
+title: "乱数を参照して不規則に揺らめく光学幻像による脚の動きの隠蔽は、格闘ゲームにおける視覚的な欺瞞（ヒットボックスのズレ）を物理的に…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0078_カーイン_has_property_光学幻像_p2903]]"

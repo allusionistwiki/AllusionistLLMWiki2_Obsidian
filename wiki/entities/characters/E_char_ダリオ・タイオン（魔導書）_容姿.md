@@ -9,8 +9,8 @@ first_appearance: ch0239
 spoiler_after: ch0239
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0239|239話]] ｜ 容姿記述 1 件
+初出: [239話](../../nav/ch0239.md) ｜ 容姿記述 1 件
 
-- 人面が張り付いた魔導書 ｜ 外見 ｜ 典拠: [[nav/ch0239|239話]]（p7837）
+- 人面が張り付いた魔導書 ｜ 外見 ｜ 典拠: [239話](../../nav/ch0239.md)（p7837）
   > 表紙に張り付いた人面が引き攣った笑みを浮かべ
 <!-- AUTO:END -->

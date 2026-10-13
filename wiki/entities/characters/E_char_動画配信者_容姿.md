@@ -9,8 +9,8 @@ first_appearance: ch0181
 spoiler_after: ch0181
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0181|181話]] ｜ 容姿記述 1 件
+初出: [181話](../../nav/ch0181.md) ｜ 容姿記述 1 件
 
-- 短い髪、大きな目を持つ霊長類の若者 ｜ 髪・顔立ち ｜ 典拠: [[nav/ch0181|181話]]（p5994）
+- 短い髪、大きな目を持つ霊長類の若者 ｜ 髪・顔立ち ｜ 典拠: [181話](../../nav/ch0181.md)（p5994）
   > きょろきょろと大きな目が特徴的な短い髪をした霊長類の若者。おそらく三十には届かないだろう。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,9 +22,9 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0232|232話]] ｜ 容姿記述 1 件
+初出: [232話](../../nav/ch0232.md) ｜ 容姿記述 1 件
 
-- 「瑠璃」派に属し、「ナアマリリス（青い百合）」の名を持つ。青色系の装い。 ｜ 色（瑠璃） ｜ 典拠: [[nav/ch0232|232話]]（p7653）
+- 「瑠璃」派に属し、「ナアマリリス（青い百合）」の名を持つ。青色系の装い。 ｜ 色（瑠璃） ｜ 典拠: [232話](../../nav/ch0232.md)（p7653）
   > 二家調停派・瑠璃 
 フィレクティ・ナアマリリス。
 <!-- AUTO:END -->

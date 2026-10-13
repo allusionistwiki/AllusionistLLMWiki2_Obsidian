@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_アキラ_defines_転生_p1173_アナロジー類推
-title: 類推の法則に基づく転生
-
-
-
-
+title: "アキラが定義する転生は、類似性を同一とみなす「アナロジー」の論理に基づいており、これは呪術の基本原理（類推の法則）と一致する"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_defines_転生_p1173]]"

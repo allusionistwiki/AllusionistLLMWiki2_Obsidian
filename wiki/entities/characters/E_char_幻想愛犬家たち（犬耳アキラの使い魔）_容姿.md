@@ -9,8 +9,8 @@ first_appearance: ch0183
 spoiler_after: ch0183
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0183|183話]] ｜ 容姿記述 1 件
+初出: [183話](../../nav/ch0183.md) ｜ 容姿記述 1 件
 
-- ステレオタイプの厄介な飼い主の外見 ｜ 鋭角の眼鏡・厚化粧 ｜ 典拠: [[nav/ch0183|183話]]（p6072）
+- ステレオタイプの厄介な飼い主の外見 ｜ 鋭角の眼鏡・厚化粧 ｜ 典拠: [183話](../../nav/ch0183.md)（p6072）
   > 鋭角の眼鏡に厚化粧、戯画化された特徴を有する、フィクションなどでお馴染みの厄介な飼い主像が具現化していた。
 <!-- AUTO:END -->

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_world_tree
-title: 世界樹への槍の転生
-
-
-
-
+title: "「世界を貫く槍」という紀元槍のイメージは、北欧神話の「世界樹（ユグドラシル）」や「世界軸（Axis Mundi）」の構造を模し…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_紀元槍_p1925]]"

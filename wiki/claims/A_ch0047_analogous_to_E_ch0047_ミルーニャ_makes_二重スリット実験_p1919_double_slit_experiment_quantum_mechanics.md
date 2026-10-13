@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_makes_二重スリット実験_p1919_double_slit_experiment_quantum_mechanics
-title: 二重スリット実験の呪術的再構成
-
-
-
-
+title: "杖使いによる二重スリット実験は、量子力学における干渉縞の生成を、呪術の適性によるパラダイムシフトとして再構成している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_makes_二重スリット実験_p1919]]"

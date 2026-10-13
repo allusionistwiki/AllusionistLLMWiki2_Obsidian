@@ -9,8 +9,8 @@ first_appearance: ch0043
 spoiler_after: ch0043
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0043|43話]] ｜ 容姿記述 1 件
+初出: [43話](../../nav/ch0043.md) ｜ 容姿記述 1 件
 
-- 老齢になると赤子のように小さくなる種族特性。 ｜ 体格（老いにより縮小） ｜ 典拠: [[nav/ch0043|43話]]（p1824）
+- 老齢になると赤子のように小さくなる種族特性。 ｜ 体格（老いにより縮小） ｜ 典拠: [43話](../../nav/ch0043.md)（p1824）
   > これは霊長類もそうだけど、私達は老いと共に身体が小さくなり、赤子に近付いていく。老齢の夜の民は掌に乗るくらいの大きさとなるのが普通だ。
 <!-- AUTO:END -->

@@ -9,8 +9,8 @@ first_appearance: ch0191
 spoiler_after: ch0191
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0191|191話]] ｜ 容姿記述 1 件
+初出: [191話](../../nav/ch0191.md) ｜ 容姿記述 1 件
 
-- 白い礼服を着た美少年 ｜ 服装・顔立ち/表情 ｜ 典拠: [[nav/ch0191|191話]]（p6302）
+- 白い礼服を着た美少年 ｜ 服装・顔立ち/表情 ｜ 典拠: [191話](../../nav/ch0191.md)（p6302）
   > 上等な仕立ての白い礼服が良く似合う美少年が、槍と鎌を一体化させたような長柄武器を手にして優しそうな微笑みを見せていた
 <!-- AUTO:END -->

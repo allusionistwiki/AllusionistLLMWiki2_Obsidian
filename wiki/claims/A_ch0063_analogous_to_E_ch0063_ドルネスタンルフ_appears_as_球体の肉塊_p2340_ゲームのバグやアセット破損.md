@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0063_analogous_to_E_ch0063_ドルネスタンルフ_appears_as_球体の肉塊_p2340_ゲームのバグやアセット破損
-title: ゲームバグ・アセット破損への転生
-
-
-
-
+title: "転移門から現れた「人の皮を用いた大玉」のような球体は、3Dゲームにおけるメッシュの破綻、テクスチャの貼り付け失敗、またはアバタ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_ドルネスタンルフ_appears_as_球体の肉塊_p2340]]"

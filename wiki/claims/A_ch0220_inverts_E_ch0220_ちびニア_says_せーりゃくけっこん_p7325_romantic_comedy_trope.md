@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0220_inverts_E_ch0220_ちびニア_says_せーりゃくけっこん_p7325_romantic_comedy_trope
-title: ラブコメクリシェの解体
-
+title: "公開プロポーズというロマンティックな演出に対し、「政略結婚」という冷徹な現実的解釈を付与することで、ラブコメ的なクリシェをメタ…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0220_ちびニア_says_せーりゃくけっこん_p7325]]"

@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0143_alludes_to_E_ch0143_バーガンディア_disappears_塔_p4882_ラプンツェル_グリム童話
-title: 塔幽閉のラプンツェル的悲劇
-
+title: "王妃バーガンディアが塔に閉じ込められ、やがて姿を消すという設定は、グリム童話の『ラプンツェル』における塔への幽閉と、その悲劇的…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0143_バーガンディア_disappears_塔_p4882]]"

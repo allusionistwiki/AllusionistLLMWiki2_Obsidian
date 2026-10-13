@@ -9,8 +9,8 @@ first_appearance: ch0067
 spoiler_after: ch0067
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,10 +24,10 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0067|67話]] ｜ 容姿記述 2 件
+初出: [67話](../../nav/ch0067.md) ｜ 容姿記述 2 件
 
-- 少年であり半妖精 ｜ 体格・種族 ｜ 典拠: [[nav/ch0067|67話]]（p2516）
+- 少年であり半妖精 ｜ 体格・種族 ｜ 典拠: [67話](../../nav/ch0067.md)（p2516）
   > 序列第三十二位の少年ロシンは半妖精である。
-- 光る虫のような翅を持つ ｜ 翅 ｜ 典拠: [[nav/ch0067|67話]]（p2516）
+- 光る虫のような翅を持つ ｜ 翅 ｜ 典拠: [67話](../../nav/ch0067.md)（p2516）
   > 輝くような呪術翅を広げた、蝗の皇となって、少年は飛翔する。
 <!-- AUTO:END -->

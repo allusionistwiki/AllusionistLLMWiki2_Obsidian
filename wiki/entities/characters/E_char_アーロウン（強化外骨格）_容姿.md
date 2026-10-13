@@ -9,8 +9,8 @@ first_appearance: ch0116
 spoiler_after: ch0116
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0116|116話]] ｜ 容姿記述 1 件
+初出: [116話](../../nav/ch0116.md) ｜ 容姿記述 1 件
 
-- 狼型頭部の帽子 ｜ 服装・頭部 ｜ 典拠: [[nav/ch0116|116話]]（p4081）
+- 狼型頭部の帽子 ｜ 服装・頭部 ｜ 典拠: [116話](../../nav/ch0116.md)（p4081）
   > 顔は露出しており、特徴的な狼型頭部が装着者の頭に帽子のようにちょこんと載せられているのが独特のユーモラスさを醸し出していた。
 <!-- AUTO:END -->

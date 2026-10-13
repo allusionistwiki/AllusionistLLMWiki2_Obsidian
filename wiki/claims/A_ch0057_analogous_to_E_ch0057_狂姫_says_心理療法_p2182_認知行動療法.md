@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0057_analogous_to_E_ch0057_狂姫_says_心理療法_p2182_認知行動療法
-title: 認知行動療法のリフレーミング
-
-
-
-
+title: "他者からの視点で自己像を補強し存在を確立するという計画は、認知行動療法における認知の再構成（リフレーミング）と類似している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0057_狂姫_says_心理療法_p2182]]"

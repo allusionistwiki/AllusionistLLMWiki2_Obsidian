@@ -9,8 +9,8 @@ first_appearance: ch0091
 spoiler_after: ch0091
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0091|91話]] ｜ 容姿記述 1 件
+初出: [91話](../../nav/ch0091.md) ｜ 容姿記述 1 件
 
-- 感情を表す外見変化 ｜ 瞳/目（涙がこぼれる）・顔（悲痛に歪む） ｜ 典拠: [[nav/ch0091|91話]]（3426）
+- 感情を表す外見変化 ｜ 瞳/目（涙がこぼれる）・顔（悲痛に歪む） ｜ 典拠: [91話](../../nav/ch0091.md)（3426）
   > その瞳から涙がこぼれ落ち、顔は悲痛に歪んでいく。
 <!-- AUTO:END -->

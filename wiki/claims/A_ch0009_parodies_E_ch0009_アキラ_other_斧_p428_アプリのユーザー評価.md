@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0009_parodies_E_ch0009_アキラ_other_斧_p428_アプリのユーザー評価
-title: アプリ評価による信頼性
-
-
-
-
+title: "アプリの信頼性は「ユーザー評価平均星五つ」という現代のアプリストアの指標によって保証されている"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0009_アキラ_other_斧_p428]]"

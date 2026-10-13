@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0061_structurally_matches_E_ch0061_プリエステラ_bonds_ティリビナの民の安全_p2285_技術移転と保護の取引
-title: 技術移転取引への構造対応
-
-
-
-
+title: "技術や文化の供与と引き換えに安全を保証する構造は、異文化間の相互依存と保護の政治的取引を連想させる"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0061_プリエステラ_bonds_ティリビナの民の安全_p2285]]"

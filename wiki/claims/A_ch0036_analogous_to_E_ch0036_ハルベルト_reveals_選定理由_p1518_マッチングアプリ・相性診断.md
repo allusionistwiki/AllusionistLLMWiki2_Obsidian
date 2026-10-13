@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0036_analogous_to_E_ch0036_ハルベルト_reveals_選定理由_p1518_マッチングアプリ・相性診断
-title: マッチングアプリ的相性診断
-
-
-
-
+title: "ハルベルトがアズーリアを選んだ理由として「呪文との相性」「年齢」「趣味の共通性」を挙げることは、現代のマッチングアプリにおける…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_ハルベルト_reveals_選定理由_p1518]]"

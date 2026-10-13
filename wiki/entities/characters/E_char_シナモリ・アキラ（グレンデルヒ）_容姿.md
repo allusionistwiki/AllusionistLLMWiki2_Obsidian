@@ -9,8 +9,8 @@ first_appearance: ch0090
 spoiler_after: ch0090
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0090|90話]] ｜ 容姿記述 1 件
+初出: [90話](../../nav/ch0090.md) ｜ 容姿記述 1 件
 
-- 首筋の穿孔痕 ｜ 首筋 ｜ 典拠: [[nav/ch0090|90話]]（p3378）
+- 首筋の穿孔痕 ｜ 首筋 ｜ 典拠: [90話](../../nav/ch0090.md)（p3378）
   > その首筋の穿孔痕からは、ちびセスカとの契約の証たる繋がりが今も確かに存在している。
 <!-- AUTO:END -->

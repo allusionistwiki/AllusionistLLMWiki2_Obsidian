@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0226_structurally_matches_E_ch0226_塗壁_other_ベフォニスの器_p7470_Possession_Possession
-title: 魂の所有権と器の交換
-
+title: "「アストラル体を流用しただけの別物」としての存在は、憑依や乗り移りといったオカルト的現象、あるいは魂の所有権という概念を物理的…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0226_塗壁_other_ベフォニスの器_p7470]]"

@@ -9,8 +9,8 @@ first_appearance: ch0090
 spoiler_after: ch0090
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0090|90話]] ｜ 容姿記述 1 件
+初出: [90話](../../nav/ch0090.md) ｜ 容姿記述 1 件
 
-- 髪が銀色、右目が青色、右腕が硝子のよう ｜ 髪・瞳・腕 ｜ 典拠: [[nav/ch0090|90話]]（p3397）
+- 髪が銀色、右目が青色、右腕が硝子のよう ｜ 髪・瞳・腕 ｜ 典拠: [90話](../../nav/ch0090.md)（p3397）
   > 蜂蜜色の髪が銀色に。灰色の瞳は右側だけが青色に。右腕が指先から凍結したかと思うと、硝子細工のような作り物じみた腕になってしまう。
 <!-- AUTO:END -->

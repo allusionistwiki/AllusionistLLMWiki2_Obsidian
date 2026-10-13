@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0272_inverts_E_ch0272_融血呪_has_property_劣化した青い血_p8441_愛の融合
-title: 愛の融合の逆転
-
+title: "通常「愛」や「魂の結合」として肯定的に描かれる融合を、「劣化した青い血」による強制的な同化や、個の消滅を伴う「ホラー」として描…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0272_融血呪_has_property_劣化した青い血_p8441]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0083_alludes_to_E_ch0083_クレイ_reveals_ダモクレスの剣_p3050_ダモクレスの剣
-title: ダモクレスの剣による王座脅威
-
-
-
-
+title: "トリシューラの王座を脅かす存在として、ギリシャ神話の「ダモクレスの剣」の概念が直接的に引用されている"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_クレイ_reveals_ダモクレスの剣_p3050]]"

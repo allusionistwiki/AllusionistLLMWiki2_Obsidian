@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0018_analogous_to_E_ch0018_アキラ_attacks_負傷した少年_p820_弱者への攻撃・いじめ
-title: 弱者攻撃の戦略的合理性と倫理
-
-
-
-
+title: "アキラが最も弱った少年を狙う戦略を「鉄則」として実行し、コルセスカがそれを「卑劣」と批判する対立は、いじめや弱者への攻撃におけ…"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0018_アキラ_attacks_負傷した少年_p820]]"

@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_source_code
-title: 世界維持のソースコード機能
-
-
-
-
+title: "「紀元槍」が「世界の死を引き延ばし続けている...機械」とされるのは、世界を維持するソースコード（生命維持システム）としての機…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_紀元槍_p1925]]"

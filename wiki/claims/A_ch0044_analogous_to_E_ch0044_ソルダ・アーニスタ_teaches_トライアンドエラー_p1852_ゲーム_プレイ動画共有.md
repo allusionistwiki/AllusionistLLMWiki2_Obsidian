@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0044_analogous_to_E_ch0044_ソルダ・アーニスタ_teaches_トライアンドエラー_p1852_ゲーム_プレイ動画共有
-title: プレイ動画共有による学習
-
-
-
-
+title: "ソルダが修道騎士たちに「プレイ動画」を提供し失敗例を共有する行為は、ゲームの攻略動画やリプレイ機能によるコミュニティ全体のスキ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0044_ソルダ・アーニスタ_teaches_トライアンドエラー_p1852]]"

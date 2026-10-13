@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0055_alludes_to_E_ch0055_ジル_reveals_聴力喪失の理由_p2129_siren_song
-title: セイレーンの歌による破壊
-
-
-
-
+title: "カタルマリーナの歌声が聴いた者の心を砕くという設定は、ギリシャ神話のセイレーン（歌で航海者を死に至らしめる）を想起させる"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0055_カタルマリーナ_other_ジル_p2129]]"

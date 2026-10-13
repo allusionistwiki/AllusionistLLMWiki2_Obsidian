@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0050_alludes_to_E_ch0050_アキラ_activates_金鎖_p2002_タイムリープ
-title: 金鎖破壊によるタイムリープ
-
-
-
-
+title: "死後に金鎖が砕け時間を遡る描写は、SFにおけるタイムリープのトリガー（鍵、鎖、時計など）が破壊されることで因果律がリセットされ…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_アキラ_activates_金鎖_p2002]]"

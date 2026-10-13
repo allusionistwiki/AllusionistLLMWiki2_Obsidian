@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0077_alludes_to_E_ch0077_カイン_thinks_女王への憎悪_p2883_家父長制・ミソジニー
-title: 家父長制・ミソジニー
-
-
-
-
+title: "カインの「女は男に屈伏させられるために生まれてくる」という思想は、家父長制に基づくミソジニー（女性嫌悪）の典型であり、女王の統…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0077_カイン_thinks_女王への憎悪_p2883]]"

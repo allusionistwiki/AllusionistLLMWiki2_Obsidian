@@ -9,8 +9,8 @@ first_appearance: ch0147
 spoiler_after: ch0147
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0147|147話]] ｜ 容姿記述 1 件
+初出: [147話](../../nav/ch0147.md) ｜ 容姿記述 1 件
 
-- 左手上、右手下の構えで、五指を広げて牙のように見せる ｜ 構え・五指 ｜ 典拠: [[nav/ch0147|147話]]（p5013）
+- 左手上、右手下の構えで、五指を広げて牙のように見せる ｜ 構え・五指 ｜ 典拠: [147話](../../nav/ch0147.md)（p5013）
   > 左手を上に、右手を下に構え、広げた五指は牙の如し。
 <!-- AUTO:END -->

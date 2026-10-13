@@ -9,8 +9,8 @@ first_appearance: ch0156
 spoiler_after: ch0156
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0156|156話]] ｜ 容姿記述 1 件
+初出: [156話](../../nav/ch0156.md) ｜ 容姿記述 1 件
 
-- 暗黒の瞳を持つ少女と、十字に輝く瞳を持つオルヴァ ｜ 瞳 ｜ 典拠: [[nav/ch0156|156話]]（p5288）
+- 暗黒の瞳を持つ少女と、十字に輝く瞳を持つオルヴァ ｜ 瞳 ｜ 典拠: [156話](../../nav/ch0156.md)（p5288）
   > 暗黒を湛えた瞳と、十字に輝く瞳が交錯した。
 <!-- AUTO:END -->

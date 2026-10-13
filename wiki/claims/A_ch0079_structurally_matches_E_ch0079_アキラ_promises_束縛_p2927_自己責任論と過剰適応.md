@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0079_structurally_matches_E_ch0079_アキラ_promises_束縛_p2927_自己責任論と過剰適応
-title: 自己責任と過剰適応
-
-
-
-
+title: "アキラが「視界フィルタリング」等の技術的制限を即座に提案し応じる様子は、主の意に完全に従うための自己検閲・監視の受容を示している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_アキラ_promises_束縛_p2927]]"

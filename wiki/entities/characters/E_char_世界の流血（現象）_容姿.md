@@ -9,8 +9,8 @@ first_appearance: ch0256
 spoiler_after: ch0256
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,8 +22,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0256|256話]] ｜ 容姿記述 1 件
+初出: [256話](../../nav/ch0256.md) ｜ 容姿記述 1 件
 
-- 青い流動する血液 ｜ 色（青） ｜ 典拠: [[nav/ch0256|256話]]（p8213）
+- 青い流動する血液 ｜ 色（青） ｜ 典拠: [256話](../../nav/ch0256.md)（p8213）
   > 青い。それは流動する血液。虚空から溢れ、万物の境界を融かしていく世界の流血。
 <!-- AUTO:END -->

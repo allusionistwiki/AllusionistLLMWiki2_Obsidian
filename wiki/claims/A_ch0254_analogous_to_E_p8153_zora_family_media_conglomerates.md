@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0254_analogous_to_E_p8153_zora_family_media_conglomerates
-title: メディアコングロマリットの支配
-
+title: "ゾラ分家（アルゾラ・クロウサー）によるメディア支配は、現実の巨大メディアコングロマリットが世論形成や政治に介入する構造を指して…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0254_アルゾラ・クロウサー_is_made_of_ゾラ分家_p8154]]"

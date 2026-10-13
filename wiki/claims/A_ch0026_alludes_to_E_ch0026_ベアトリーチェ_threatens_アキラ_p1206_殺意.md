@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_threatens_アキラ_p1206_殺意
-title: 手ずからの殺意の表明
-
-
-
-
+title: "ベアトリーチェが「わたくしが手ずから殺します」と宣言するのは、明確な殺意の表明である"
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_threatens_アキラ_p1206]]"

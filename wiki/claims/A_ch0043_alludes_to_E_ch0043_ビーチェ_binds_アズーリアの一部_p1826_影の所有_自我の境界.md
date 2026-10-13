@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0043_alludes_to_E_ch0043_ビーチェ_binds_アズーリアの一部_p1826_影の所有_自我の境界
-title: 影の所有と自我の融合
-
-
-
-
+title: "妹の影に入り込んだ一部が一年後に戻ってくるという記憶は、自我の境界が曖昧になる現象や、他者との精神的融合を暗示している"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ビーチェ_binds_アズーリアの一部_p1826]]"

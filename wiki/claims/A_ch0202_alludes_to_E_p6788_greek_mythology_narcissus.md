@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0202_alludes_to_E_p6788_greek_mythology_narcissus
-title: 美的全体主義を暗喩するギリシャ神話のナルシス
-
+title: "薔薇の麗人が他者を「美」の基準で品定めし、醜い者を排除しようとする態度は、ナルシシズムや美的全体主義の暗喩である"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"

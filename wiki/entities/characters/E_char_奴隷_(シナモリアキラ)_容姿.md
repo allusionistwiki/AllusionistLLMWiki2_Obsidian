@@ -9,8 +9,8 @@ first_appearance: ch0150
 spoiler_after: ch0150
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -22,10 +22,10 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0150|150話]] ｜ 容姿記述 2 件
+初出: [150話](../../nav/ch0150.md) ｜ 容姿記述 2 件
 
-- ふらふらと歩く ｜ 動き ｜ 典拠: [[nav/ch0150|150話]]（p5104）
+- ふらふらと歩く ｜ 動き ｜ 典拠: [150話](../../nav/ch0150.md)（p5104）
   > ふらふらと自警団と殺人鬼の間をさまよい
-- 十字を形成する機械的な両目 ｜ 義眼 ｜ 典拠: [[nav/ch0150|150話]]（p5104）
+- 十字を形成する機械的な両目 ｜ 義眼 ｜ 典拠: [150話](../../nav/ch0150.md)（p5104）
   > 両目が機械的な音を立て、表面に十字を形成。
 <!-- AUTO:END -->

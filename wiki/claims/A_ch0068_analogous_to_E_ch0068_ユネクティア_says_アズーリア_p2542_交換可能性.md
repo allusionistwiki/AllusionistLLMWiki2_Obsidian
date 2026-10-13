@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0068_analogous_to_E_ch0068_ユネクティア_says_アズーリア_p2542_交換可能性
-title: 個人の交換可能性
-
-
-
-
+title: "ユネクティアの「交換可能な存在」という発言は、個人の唯一性を否定し、世界を機能単位で捉える冷徹な存在論を示す"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ユネクティア_gives_エスフェイル_p2542]]"

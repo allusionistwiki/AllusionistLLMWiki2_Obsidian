@@ -1,11 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_reveals_歌姫Spear_p1938_idol_secret_identity
-title: アイドルの二重生活
-
-
-
-
+title: "ハルベルトが「歌姫Spear」としての正体を明かす展開は、アイドルが秘密の活動（裏の顔）を持つというエンタメ業界のクリシェ（二…"
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_reveals_歌姫Spear_p1938]]"

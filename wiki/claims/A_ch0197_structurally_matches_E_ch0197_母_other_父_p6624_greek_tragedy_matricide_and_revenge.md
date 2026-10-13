@@ -1,8 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch0197_structurally_matches_E_ch0197_母_other_父_p6624_greek_tragedy_matricide_and_revenge
-title: 復讐を果たせないギリシャ悲劇の母殺しと復讐
-
+title: "冒頭と結末で繰り返される「幼いキニスに母殺しは早すぎた」という記述は、エレクトラやオレステイアなどのギリシャ悲劇における復讐譚…"
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0197_母_other_父_p6624]]"

@@ -9,8 +9,8 @@ first_appearance: ch0113
 spoiler_after: ch0113
 document_status: active
 review_status: llm_verified
-created: '2026-10-11'
-updated: '2026-10-11'
+created: '2026-10-13'
+updated: '2026-10-13'
 description: キャラ容姿描写ページ
 ---
 
@@ -24,8 +24,8 @@ description: キャラ容姿描写ページ
 
 <!-- AUTO:BEGIN -->
 
-初出: [[nav/ch0113|113話]] ｜ 容姿記述 1 件
+初出: [113話](../../nav/ch0113.md) ｜ 容姿記述 1 件
 
-- 朱一色の異様な目を持つ男性 ｜ 瞳 ｜ 典拠: [[nav/ch0113|113話]]（p3962）
+- 朱一色の異様な目を持つ男性 ｜ 瞳 ｜ 典拠: [113話](../../nav/ch0113.md)（p3962）
   > 朱一色の異様な目を持った男は、誰もいない部屋でひとりごちた。
 <!-- AUTO:END -->
