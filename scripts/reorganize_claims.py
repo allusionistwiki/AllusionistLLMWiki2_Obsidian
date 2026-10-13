@@ -76,7 +76,7 @@ def main() -> None:
     lines = ["---", "title: アナロジークレーム全集（話別）", "id: claims/index",
              "description: 全アナロジークレームの話別インデックス。各話の主張一覧",
              "---", "", "# アナロジークレーム全集（話別）", "",
-             f"全 **{sum(len(v) for v in claims_by_ep.values())} 件**。[話ナビゲーション](../nav/index.md) / [伏線台帳](../mysteries/index.md) / [外部参照](../references/index.md)", ""]
+             f"全 **{sum(len(v) for v in claims_by_ep.values())} 件**。[話ナビゲーション](/AllusionistWiki/l1/nav/index.html) / [伏線台帳](/AllusionistWiki/l1/mysteries/index.html) / [外部参照](/AllusionistWiki/l1/references/index.html)", ""]
     for ch in eps:
         n = ep_no(ch)
         lines.append(f"## 第{n}話")
