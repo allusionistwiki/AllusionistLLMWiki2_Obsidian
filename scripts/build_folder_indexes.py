@@ -48,3 +48,5 @@ for sub, label in LABELS.items():
     if folder.is_dir():
         build(folder, label)
 build(WIKI / "episodes", "話別サマリー索引", sort_key=chapter_key)
+if (WIKI / "arcs").is_dir():
+    build(WIKI / "arcs", "編（アーク）索引")
