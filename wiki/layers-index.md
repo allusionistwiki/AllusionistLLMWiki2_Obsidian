@@ -1,5 +1,8 @@
 ---
+schema_version: "5.1"
+id: layers-index
 title: 下層Wiki索引
+type: index
 description: 解析層（L1・L2・L3…）から生成される下層Wikiの索引。表示（最新）層の下に並列で増やす
 date: 2026-10-14
 ---
