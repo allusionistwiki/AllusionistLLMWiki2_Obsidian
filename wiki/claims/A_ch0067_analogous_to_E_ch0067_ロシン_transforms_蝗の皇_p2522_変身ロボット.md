@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0067_analogous_to_E_ch0067_ロシン_transforms_蝗の皇_p2522_変身ロボット
-title: "ロシンの神働装甲が「無数の箱状部品が分解され、再構成される」ことで巨大な虫に変形する描写は、変形ロボット玩具やアニメにおけるメ…"
+title: 神働装甲の変身ロボット
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ロシン_transforms_蝗の皇_p2522]]"

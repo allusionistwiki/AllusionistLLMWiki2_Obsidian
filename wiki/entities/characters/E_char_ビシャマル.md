@@ -10,7 +10,7 @@ first_appearance: ch0100
 spoiler_after: ch0100
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # ビシャマル
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 暴君ビシャマルの悪名は大陸中に轟いている。
 - **unknown**: 暴君ビシャマルの悪名は大陸中に轟いている。
 - **unknown**: 暴君ビシャマルの悪名は大陸中に轟いている。
 

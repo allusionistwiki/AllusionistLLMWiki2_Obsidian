@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0008_inverts_E_ch0008_アキラ_other_復讐の連鎖_p380_vendetta_logic
-title: "アキラが「一族郎党皆殺し」を主張するのは、伝統的な「仇討ち」の倫理（主犯のみ、一対一）を逆転させ、血族の連鎖を断ち切るための「…"
+title: 仇討ち論理の逆転
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_アキラ_other_復讐の連鎖_p380]]"

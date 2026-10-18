@@ -3,23 +3,19 @@ schema_version: "5.1"
 id: ME_母性養育の欠如と補償
 title: 母性欠如と擬似母性
 type: external_reference
-
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "母性養育の欠如と補償"
-aliases: []
-domain: "culture"
-document_status: active
-referenced_by: []
-relations: []
-created: "2026-10-11"
-updated: "2026-10-11"
+domain: "Contemporary Culture"
+review_status: llm_verified
 ---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
 # 母性養育の欠如と補償
 
-<!-- AUTO:BEGIN -->
-（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作での参照
+## 本作からの参照 (1 件)
 
-- [[A_ch0041_alludes_to_E_ch0041_ヴァージリア_thinks_母_母性養育の欠如と補償]]
-<!-- AUTO:END -->
+- [[A_ch0041_alludes_to_E_ch0041_ヴァージリア_thinks_母_母性養育の欠如と補償]] — ヴァージリアがマリーに甘える姿を見て「多忙な母から構ってもらった記憶」を思い出し、マリーを「年上の幼子」として撫でる行為は、自身の欠落した母性への渇望と、マリーへの擬似母性（姉妹愛）の投影である。

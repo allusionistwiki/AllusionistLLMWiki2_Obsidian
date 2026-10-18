@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_撮影規制_p287_顔認証技術の倫理
-title: "撮影が意識を閉じ込めるリスクがあるという設定は、顔認証技術が個人を特定・追跡し、自由を奪う現代の技術的脅威を呪術的に誇張したも…"
+title: 顔認証技術の倫理
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_撮影規制_p287]]"

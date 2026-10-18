@@ -1,6 +1,6 @@
 ---
-title: "言震"
-schema_version: "5.1"
+title: 言震
+schema_version: '5.1'
 id: E_term_言震
 type: entity
 subtype: terminology
@@ -9,7 +9,8 @@ first_appearance: ch0047
 spoiler_after: ch0047
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-19'
 ---
 
 # 言震
@@ -17,7 +18,7 @@ created: "2026-09-30"
 言語の混沌が引き起こす災厄としてミルーニャが説明する用語である。人類と哲学的ゾンビを分断した原因は言震（言語の混乱）であるとアズーリアが指摘する。
 
 <!-- AUTO:BEGIN -->
-**初出**: ch0047 ｜ **観測イベント**: 4 件（4 話に出現）
+**初出**: ch0047 ｜ **観測イベント**: 5 件（5 話に出現）
 
 ## 代表引用
 
@@ -25,14 +26,23 @@ created: "2026-09-30"
 > 「地上と地獄。地上と天獄。二つの世界に存在する視座の違いとギャップ。それが全ての原因。遠い過去に起きた言震が、人類と哲学的ゾンビを分断してしまった」（ch0073）
 > （今のガロアンディアンはかなり危うい。言震――ワードクェイクのリスクが世界トップだって事はご存じかしら）（ch0084）
 > 「終末。末世。致命的な破局――すなわち言震。それこそが、『最後の救世主』を誕生させるための呼び水だ。（ch0145）
+> 言震（ワードクェイク）。 北ドラトリアで『引き起こされた』取り返しのつかない災厄。（ch5189）
 
 ## 関連クレーム
 
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_babel_myth|「言震」が「天地を引き裂き、地上と地獄を分かつ大戦争の切っ掛け」とされるのは、バベルの塔の神話（言語の混乱による人類の分散）の…]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_communication_breakdown|「相互理解は失敗し、決定的な断絶」は、コミュニケーションの破綻が社会の分断を招くという現代のSNS社会の課題と一致する]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_cultural_conflict|「言語汚染災害」が「不毛な戦争」を引き起こすという記述は、文化衝突（カルチャー・コンフリクト）が暴力を生むという社会学の知見と…]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_cultural_hegemony|「図書館」が言語を管理し、秩序を保つという設定は、文化ヘゲモニー（言語支配）が社会の安定と戦争防止に寄与するという構造を暗示し…]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_information_war|「言震」は、言語（情報）の衝突が物理的な破壊や戦争を引き起こすという、情報戦やメディア戦争の極端なメタファーである]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_language_death|「言震」による「相互理解は失敗し、決定的な断絶」は、言語の死（言語消滅）が文化の死と社会の崩壊を招くという言語学的知見と一致する]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_babel_myth|バベルの塔への言震の転生]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_communication_breakdown|SNS分断への言震の転生]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_cultural_conflict|文化衝突への言震の転生]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_cultural_hegemony|言語支配への図書館の転生]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_information_war|情報戦への言震の転生]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_language_death|言語消滅への言震の転生]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 言震（ワードクェイク）。
+北ドラトリアで『引き起こされた』取り返しのつかない災厄。
+
+<!-- /AUTO-GENERATED:name -->

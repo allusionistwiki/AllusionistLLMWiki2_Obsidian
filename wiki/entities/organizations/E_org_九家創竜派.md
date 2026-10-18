@@ -10,7 +10,7 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 九家創竜派
 
@@ -21,6 +21,7 @@ updated: '2026-10-11'
 
 - **unknown**: 九家創竜派・石車石渠 クィ。地上から亡命してきたエンジニア。
 シャコガイ
+- **unknown**: 九家創竜派・石車石渠 クィ。地上から亡命してきたエンジニア。
 - **unknown**: 九家創竜派・石車石渠 クィ。地上から亡命してきたエンジニア。
 
 <!-- /AUTO-GENERATED:name -->

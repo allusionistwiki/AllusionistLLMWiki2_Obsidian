@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0234_parodies_E_ch0234_シナモリアキラ_appears_as_ミーム_p7686_現代SNSのトレンドと炎上
-title: "シナモリアキラのミーム化やタグ荒らし、公式アカウントの対決姿勢は、現代のSNSにおけるトレンド消費や企業アカウントの炎上対応を…"
+title: SNS炎上文化のパロディ
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0234_シナモリアキラ_appears_as_ミーム_p7686]]"

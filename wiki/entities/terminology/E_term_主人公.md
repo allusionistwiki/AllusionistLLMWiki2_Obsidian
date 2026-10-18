@@ -29,7 +29,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0055_analogous_to_E_ch0055_主人公_learns_抽象化と推論能力_p2108_machine_learning_neural_network|未知の情報を触手で吸収し分解・再構成するプロセスは、情報処理における「解析と合成」の原始的なメタファーである]]
-- [[A_ch0055_parodies_E_ch0055_主人公_observes_模倣子_p2110_augmented_reality|高級な服や装飾品から『流行ミーム』や『デザインミーム』が運動して見える描写は、AR技術による情報オーバーレイの比喩である]]
+- [[A_ch0055_analogous_to_E_ch0055_主人公_learns_抽象化と推論能力_p2108_machine_learning_neural_network|ニューラルネット的な情報処理]]
+- [[A_ch0055_parodies_E_ch0055_主人公_observes_模倣子_p2110_augmented_reality|拡張現実のミーム化]]
 
 <!-- AUTO:END -->

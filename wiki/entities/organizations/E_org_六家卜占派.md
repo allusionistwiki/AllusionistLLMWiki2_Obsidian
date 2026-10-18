@@ -10,7 +10,7 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 六家卜占派
 
@@ -21,6 +21,7 @@ updated: '2026-10-11'
 
 - **unknown**: 六家卜占派・玻璃 ピコピコ～。
 クリスタル
+- **unknown**: 六家卜占派・玻璃 ピコピコ～。
 - **unknown**: 六家卜占派・玻璃 ピコピコ～。
 
 <!-- /AUTO-GENERATED:name -->

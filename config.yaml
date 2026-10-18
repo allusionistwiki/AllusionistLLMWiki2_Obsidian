@@ -5,7 +5,7 @@ project:
 
 llm:
   base_url: "http://127.0.0.1:8080/v1"   # Strata（旧 MiaAI-Lab: http://127.0.0.1:8888/v1）
-  api_key: "local"                        # 任意（空でも可）
+  api_key: "sk-strata-7b5229230295e79e410f72a51c69a12f"                        # 任意（空でも可）
   model: "swift-1.5-iq3_xxs"             # Swift 検閲版（通常サーバー run-swift-iq3_xxs.bat）
   temperature: 1.0                       # Qwen 公式推奨値
   max_tokens: 64000                         # 262k コンテキスト対応（32Kでも不足との判断、倍化）
@@ -28,7 +28,7 @@ pipeline:
 # リポジトリ構成（v5.2 分離: vault + work、相互コミット参照で整合）
 repos:
   vault: "."                              # 本リポジトリ（AllusionistLLMWiki2）
-  work: "../AllusionistLLMWiki2_Work"    # 作業派生物リポジトリ
+  work: "../AllusionistLLMWiki2_Work"    # 作業派生物リポジトリ（archive; 書込み禁止）
 
 paths:
   raw: "raw"

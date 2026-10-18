@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0043_analogous_to_E_ch0043_智神の盾_defines_知識と教化_p1827_インクイジション_思想統制
-title: "異質なものを教化して取り込むという智神の盾の役割は、歴史的な宗教裁判（インクイジション）や思想統制の機構を連想させる"
+title: 宗教裁判による思想統制
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_智神の盾_defines_知識と教化_p1827]]"

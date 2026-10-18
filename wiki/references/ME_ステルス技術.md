@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ステルス技術
 title: ステルス技術
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ステルス技術"
 domain: "Contemporary Culture"

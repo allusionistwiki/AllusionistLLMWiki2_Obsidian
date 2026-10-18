@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0027_alludes_to_E_ch0027_トリシューラ_names_ガロアンディアン_p1218_Galactic_Empire
-title: "「ガロアンディアン」という造語は、銀河（Galactic）規模の多民族・多種族を技術で平等に束ねようとして破綻した帝国のクリシ…"
+title: 銀河帝国の破綻クリシェ引用
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0027_トリシューラ_names_ガロアンディアン_p1218]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0078_analogous_to_E_ch0078_サイバーカラテ_defines_インドアユーザー_p2908_クラウドファンディングやデータ提供による支援
-title: "インドアユーザーがアウトドアユーザーのデータ提供によって支えられ、相互に助け合う構造は、現代のデータエコシステムやクラウドソー…"
+title: データエコシステム構造の模倣
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0078_サイバーカラテ_defines_インドアユーザー_p2908]]"

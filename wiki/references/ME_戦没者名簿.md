@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_戦没者名簿
 title: 戦没者名簿
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "戦没者名簿"
 domain: "Contemporary Culture"

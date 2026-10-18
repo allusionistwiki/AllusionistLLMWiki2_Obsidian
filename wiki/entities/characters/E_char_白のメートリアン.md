@@ -27,9 +27,9 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_names_白のメートリアン_p1592_true_name_magic|「まことの名」を宣言することで存在の定義を書き換える行為は、神話やファンタジーにおける「真名」の概念、およびアイデンティティの…]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_corruption|ミルーニャが死後に「白のメートリアン」として復活し、髪が白く瞳が赤くなる変容は、内面の悪意や真の姿が外部に顕現する「腐敗」のメ…]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_duality|ミルーニャの表の顔（毒舌だが仲間想い）と裏の顔（死を否定する魔女）の対比は、人間の二面性や仮面（ペルソナ）の構造を象徴する]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_names_白のメートリアン_p1592_true_name_magic|真名による存在定義の書き換え]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_corruption|内面の悪意の顕現という腐敗メタファー]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_duality|表裏の対比による人間の二面性]]
 
 <!-- AUTO:END -->
 

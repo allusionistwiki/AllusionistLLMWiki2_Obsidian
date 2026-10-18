@@ -10,7 +10,7 @@ spoiler_after: ch0112
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # ネズミ
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: ネズミが鳴いた。七つの頭に七つの叫び。それだけで、氷のステージは粉々に砕け散った。
 - **unknown**: ネズミが鳴いた。七つの頭に七つの叫び。それだけで、氷のステージは粉々に砕け散った。
 - **unknown**: ネズミが鳴いた。七つの頭に七つの叫び。それだけで、氷のステージは粉々に砕け散った。
 

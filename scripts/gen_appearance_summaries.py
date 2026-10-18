@@ -13,7 +13,7 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-WORK = ROOT.parent / "AllusionistLLMWiki2_Work"
+from paths import WORK_DIR as WORK
 FACTS = WORK / "appearance_facts"  # 専用解析B の出力
 CACHE = ROOT / "data" / "appearance_summaries.json"
 CFG = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))["llm"]

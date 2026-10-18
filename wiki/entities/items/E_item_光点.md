@@ -10,7 +10,7 @@ first_appearance: ch0264
 spoiler_after: ch0264
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 光点
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 燃え落ちていく光の全てが、精子だったからだ。命の可能性が、恐るべき勢いで冥府へと落ちていく。
 - **unknown**: 燃え落ちていく光の全てが、精子だったからだ。命の可能性が、恐るべき勢いで冥府へと落ちていく。
 - **unknown**: 燃え落ちていく光の全てが、精子だったからだ。命の可能性が、恐るべき勢いで冥府へと落ちていく。
 

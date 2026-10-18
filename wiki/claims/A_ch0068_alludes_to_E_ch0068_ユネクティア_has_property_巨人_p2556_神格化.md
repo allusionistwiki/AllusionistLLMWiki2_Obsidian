@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0068_alludes_to_E_ch0068_ユネクティア_has_property_巨人_p2556_神格化
-title: "夜の民でありながら「邪視を極めて巨人となる」という設定は、技術や知識の極致によって人間が神格化される現象を示唆している"
+title: 技術極致による神格化
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_ユネクティア_has_property_巨人_p2556]]"

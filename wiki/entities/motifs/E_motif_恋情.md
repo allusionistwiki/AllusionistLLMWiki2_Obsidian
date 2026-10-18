@@ -10,7 +10,7 @@ first_appearance: ch0228
 spoiler_after: ch0228
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 恋情
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 燃え上がる恋情が繁茂する緑を蹂躙し、場を染め上げていた精霊たちを駆逐する。
 - **unknown**: 燃え上がる恋情が繁茂する緑を蹂躙し、場を染め上げていた精霊たちを駆逐する。
 - **unknown**: 燃え上がる恋情が繁茂する緑を蹂躙し、場を染め上げていた精霊たちを駆逐する。
 

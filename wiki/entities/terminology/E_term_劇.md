@@ -10,7 +10,7 @@ first_appearance: ch0094
 spoiler_after: ch0094
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 劇
 
@@ -21,6 +21,7 @@ updated: '2026-10-11'
 
 - **unknown**: 劇とは神事であり、神へと奉納する儀式でもあるのだとか。
 - **unknown**: 劇とは神事であり、神へと奉納する儀式でもあるのだとか。
+- **unknown**: 劇とは神事であり、神へと奉納する儀式でもあるのだとか。
 
 <!-- /AUTO-GENERATED:speech -->
 
@@ -29,12 +30,14 @@ updated: '2026-10-11'
 
 - **unknown**: 劇の中で、昔語りが始まった。
 - **unknown**: 劇の中で、昔語りが始まった。
+- **unknown**: 劇の中で、昔語りが始まった。
 
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 更なる過去へと遡る、再演の旅がまたしても始まるのだった。
 - **unknown**: 更なる過去へと遡る、再演の旅がまたしても始まるのだった。
 - **unknown**: 更なる過去へと遡る、再演の旅がまたしても始まるのだった。
 

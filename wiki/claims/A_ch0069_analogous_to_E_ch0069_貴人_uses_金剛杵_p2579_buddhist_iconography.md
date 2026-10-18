@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0069_analogous_to_E_ch0069_貴人_uses_金剛杵_p2579_buddhist_iconography
-title: "金剛杵（ヴァジュラ）を用いて磁力結界を構築する描写は、密教の法具をSF的な兵器・防御システムとして再解釈したものである"
+title: 密教法具への転生
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_貴人_says_呪いのかたち_p2579]]"

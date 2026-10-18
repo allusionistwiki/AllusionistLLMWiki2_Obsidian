@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_dungeon_structure
 title: ダンジョン構造
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "dungeon_structure"
 domain: "Contemporary Culture"

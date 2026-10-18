@@ -10,7 +10,7 @@ first_appearance: ch0106
 spoiler_after: ch0106
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 末妹候補たち
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: ある意味で、末妹候補たちはラクルラールの弟子なのだ。
 - **unknown**: ある意味で、末妹候補たちはラクルラールの弟子なのだ。
 - **unknown**: ある意味で、末妹候補たちはラクルラールの弟子なのだ。
 

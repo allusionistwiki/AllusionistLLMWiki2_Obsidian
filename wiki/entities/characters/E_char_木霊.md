@@ -10,7 +10,7 @@ spoiler_after: ch0227
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 木霊
@@ -32,12 +32,14 @@ updated: '2026-10-11'
 
 - **unknown**: 身を翻して走り出した岩肌の男を、彼方から飛来した一条の閃光が貫いた。
 - **unknown**: 身を翻して走り出した岩肌の男を、彼方から飛来した一条の閃光が貫いた。
+- **unknown**: 身を翻して走り出した岩肌の男を、彼方から飛来した一条の閃光が貫いた。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「『木霊』と呼んでくれ。貴様の舌で名が穢れる」
 - **unknown**: 「『木霊』と呼んでくれ。貴様の舌で名が穢れる」
 - **unknown**: 「『木霊』と呼んでくれ。貴様の舌で名が穢れる」
 

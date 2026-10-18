@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_names_白のメートリアン_p1592_true_name_magic
-title: "「まことの名」を宣言することで存在の定義を書き換える行為は、神話やファンタジーにおける「真名」の概念、およびアイデンティティの…"
+title: 真名による存在定義の書き換え
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_names_白のメートリアン_p1592]]"

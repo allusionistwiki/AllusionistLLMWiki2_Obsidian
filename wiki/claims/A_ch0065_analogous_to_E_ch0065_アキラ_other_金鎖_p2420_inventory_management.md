@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_inventory_management
-title: "金鎖の数を数える行為は、ゲームにおけるインベントリ管理を模している"
+title: 所持品管理としての金鎖数え
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_other_金鎖_p2420]]"

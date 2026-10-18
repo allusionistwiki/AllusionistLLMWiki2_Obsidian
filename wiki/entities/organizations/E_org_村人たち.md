@@ -10,7 +10,7 @@ first_appearance: ch0104
 spoiler_after: ch0104
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 村人たち
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「役立たずを養ってやる余裕なんざねえんだよ！」
 - **unknown**: 「役立たずを養ってやる余裕なんざねえんだよ！」
 - **unknown**: 「役立たずを養ってやる余裕なんざねえんだよ！」
 

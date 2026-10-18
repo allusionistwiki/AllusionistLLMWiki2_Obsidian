@@ -10,7 +10,7 @@ spoiler_after: ch0184
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 黒いアキラ
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「ばぶー」 赤子アキラへの転生。『老いては子に従え』という直前の呪文を逆手にとった戦術である。
 - **unknown**: 「ばぶー」 赤子アキラへの転生。『老いては子に従え』という直前の呪文を逆手にとった戦術である。
 - **unknown**: 「ばぶー」 赤子アキラへの転生。『老いては子に従え』という直前の呪文を逆手にとった戦術である。
 

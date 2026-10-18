@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_自律型AIと脳侵襲技術
 title: 自律型AIと脳侵襲技術
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "自律型AIと脳侵襲技術"
 domain: "Contemporary Culture"

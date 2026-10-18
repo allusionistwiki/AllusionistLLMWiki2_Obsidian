@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_information_war
-title: "「言震」は、言語（情報）の衝突が物理的な破壊や戦争を引き起こすという、情報戦やメディア戦争の極端なメタファーである"
+title: 情報戦への言震の転生
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_言震_p1934]]"

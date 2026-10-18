@@ -10,7 +10,7 @@ first_appearance: ch0172
 spoiler_after: ch0172
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 海
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 荒れた海を指して『わだつみが悪夢を見ている』と形容すること
 - **unknown**: 荒れた海を指して『わだつみが悪夢を見ている』と形容すること
 - **unknown**: 荒れた海を指して『わだつみが悪夢を見ている』と形容すること
 

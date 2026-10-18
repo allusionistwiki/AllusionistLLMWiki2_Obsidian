@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0035_parodies_E_ch0035_ハルベルト_says_マーフィーの法則_p1465_マーフィーの法則
-title: "「落としたパンは必ずバターやジャムが塗ってある方が下になる」というハルベルトの発言は、マーフィーの法則（悪いことは重なる）を…"
+title: マーフィーの法則の呪術的歪曲
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_ハルベルト_says_マーフィーの法則_p1465]]"

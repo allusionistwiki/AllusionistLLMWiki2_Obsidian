@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_noahs_ark
 title: ノアの方舟
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "noahs_ark"
 domain: "Contemporary Culture"

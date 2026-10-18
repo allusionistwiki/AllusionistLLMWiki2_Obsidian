@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0187_alludes_to_E_ch0187_コズエ_other_クルミの感情_p6206_ラカン鏡像段階・ナルシシズム
-title: "コズエがクルミの模倣を「同一化の自己愛」「相手を自分の解釈にあてはめてほしいままにしたいという暴力的欲望」と分析するのは、精神…"
+title: ラカン鏡像段階のナルシシズム
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0187_コズエ_other_クルミの感情_p6206]]"

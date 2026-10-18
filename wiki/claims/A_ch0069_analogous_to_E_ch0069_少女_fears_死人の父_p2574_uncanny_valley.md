@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0069_analogous_to_E_ch0069_少女_fears_死人の父_p2574_uncanny_valley
-title: "死者の記憶を再生し理性なき肉体として現れた父に対する恐怖は、不気味の谷現象やグロテスクな喪失体験を象徴している"
+title: 不気味の谷による死者の恐怖
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_少女_fears_死人の父_p2574]]"

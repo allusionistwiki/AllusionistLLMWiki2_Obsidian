@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0003_foreshadows_E_ch0003_人狼_says_アキラへの期待_p180_主人公の成長と秩序の破壊
-title: "人狼（魔女）がアキラに対し「貴方たちの作る秩序だって打ち倒して、その先へ行ける」と予言し、「もっと強くなってよね」と促すことは…"
+title: 秩序破壊と成長の伏線
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0003_人狼_says_アキラへの期待_p180]]"

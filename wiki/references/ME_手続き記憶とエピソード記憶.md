@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_手続き記憶とエピソード記憶
 title: 手続き・エピソード記憶
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "手続き記憶とエピソード記憶"
 domain: "Contemporary Culture"

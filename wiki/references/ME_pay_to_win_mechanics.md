@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_pay_to_win_mechanics
 title: Pay-to-Win
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "pay_to_win_mechanics"
 domain: "Contemporary Culture"

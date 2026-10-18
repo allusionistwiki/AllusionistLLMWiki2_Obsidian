@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_絶対言語_p1931_adamic_language
-title: "「絶対言語」の概念は、バベルの塔以前の混沌以前の完全な言語（アダム語）を回復しようとする言語学的・神学的な試みと一致する"
+title: アダム語への回帰としての絶対言語
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_defines_呪文の座の目的_p1931]]"

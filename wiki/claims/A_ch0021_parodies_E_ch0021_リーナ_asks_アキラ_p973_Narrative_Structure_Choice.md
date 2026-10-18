@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0021_parodies_E_ch0021_リーナ_asks_アキラ_p973_Narrative_Structure_Choice
-title: "リーナが「全員生き残る大団円」と「犠牲を払う悲劇」のどちらが良いかというメタ的な問いを投げかけ、アキラが「両方ぶち込む」と回答…"
+title: 物語構造選択へのマルチエンディング化
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0021_リーナ_asks_アキラ_p973]]"

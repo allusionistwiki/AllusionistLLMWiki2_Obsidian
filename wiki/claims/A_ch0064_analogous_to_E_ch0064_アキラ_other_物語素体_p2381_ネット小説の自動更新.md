@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_アキラ_other_物語素体_p2381_ネット小説の自動更新
-title: "第五階層の戦闘を「アストラルネット小説素体」として描き、観客の欲求（視聴数）が現実の勝敗を決定するという、インタラクティブなコ…"
+title: ネット小説自動更新の構造
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_アキラ_other_物語素体_p2381]]"

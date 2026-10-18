@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0060_inverts_E_ch0060_ヴァージリア_other_エミュレータの本物性_p2275_turing_test
-title: "「観測者が偽物と思えないなら本物」というヴァージリアの主張は、チューリングテストの逆説（模倣が完璧であれば区別不可能であり、区…"
+title: 区別不可能を本物とするチューリングテスト
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_ヴァージリア_other_エミュレータの本物性_p2275]]"

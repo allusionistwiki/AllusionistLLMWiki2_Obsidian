@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0147_alludes_to_E_ch0147_都市の九つの病_公害病_環境汚染
-title: "サリアが都市を恐怖の対象と見なし、大気汚染や水質汚濁などを「都市の九つの病」として列挙する描写は、近代化に伴う公害問題や環境破…"
+title: 都市の九つの病と公害批判
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0147_オルヴァ_has_property_時空操作_p5013]]"

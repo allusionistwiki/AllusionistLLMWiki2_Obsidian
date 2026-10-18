@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_gravity_metaphor
 title: 重力の比喩
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "gravity_metaphor"
 domain: "Contemporary Culture"

@@ -10,7 +10,7 @@ spoiler_after: ch0145
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 天使
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 爆心地に天使の残骸が横たわっている。 ダモクレスの剣による王国の滅亡に巻き込まれたようだ。
 - **unknown**: 爆心地に天使の残骸が横たわっている。 ダモクレスの剣による王国の滅亡に巻き込まれたようだ。
 - **unknown**: 爆心地に天使の残骸が横たわっている。 ダモクレスの剣による王国の滅亡に巻き込まれたようだ。
 

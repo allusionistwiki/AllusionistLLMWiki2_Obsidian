@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_metafiction
 title: メタフィクション
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "metafiction"
 domain: "Contemporary Culture"

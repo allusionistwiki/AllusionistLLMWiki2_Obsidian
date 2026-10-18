@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_intelligence_mission
-title: "密偵を敵陣に送り込む行為は、ゲームにおける情報収集ミッションを模している"
+title: 情報収集任務としての密偵派遣
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_uses_密偵_p2421]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0214_parodies_E_ch0214_サイバーカラテ道場_functions_as_ストリートファイトの場_p7213_オンラインゲームのPvPランキング
-title: "「サイバーカラテ道場」という名称や、ランキング上位を目指すユーザーによるギャラリー付きの戦闘描写は、現代のオンライン対戦ゲーム…"
+title: eスポーツ観戦文化への風刺
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0214_サイバーカラテ道場_functions_as_ストリートファイトの場_p7213]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0052_parodies_E_ch0052_メイファーラ_other_戦場小説_p2029_light_novel_meta
-title: "メイファーラが「読んでも読んでも終わらなくて疲れちゃう」と評する戦場小説は、長編異世界転生小説そのもの（本作）に対するメタ的な…"
+title: 長編転生小説へのメタ皮肉
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_メイファーラ_other_戦場小説_p2029]]"

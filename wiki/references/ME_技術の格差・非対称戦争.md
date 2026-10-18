@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_技術の格差・非対称戦争
 title: 非対称戦争
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "技術の格差・非対称戦争"
 domain: "Contemporary Culture"

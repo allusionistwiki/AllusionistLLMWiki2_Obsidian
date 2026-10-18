@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_人権の定義
 title: 人権の定義
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "人権の定義"
 domain: "Contemporary Culture"

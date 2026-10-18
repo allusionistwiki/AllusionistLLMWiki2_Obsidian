@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0222_analogous_to_E_ch0222_トランクケース_has_property_異常な軽さ_p7353_MacGuffin
-title: "中身が不明で物語を駆動させるだけの装置であるトランクケースは、ヒッチコックが提唱した『マクガフィン』の概念そのものである"
+title: ヒッチコック的マクガフィン
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0222_トランクケース_has_property_異常な軽さ_p7353]]"

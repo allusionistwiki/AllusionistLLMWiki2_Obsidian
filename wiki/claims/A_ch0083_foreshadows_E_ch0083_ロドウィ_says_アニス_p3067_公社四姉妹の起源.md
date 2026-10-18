@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0083_foreshadows_E_ch0083_ロドウィ_says_アニス_p3067_公社四姉妹の起源
-title: "ロドウィの死に際の言葉は、アニス（公社四姉妹の一人）とロドウィの間に存在する血縁的・歴史的な繋がりを示唆している"
+title: 公社四姉妹の起源の伏線
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_ロドウィ_says_アニス_p3067]]"

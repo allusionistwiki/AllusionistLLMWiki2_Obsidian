@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_臨死体験_PTSDの逆転
 title: 臨死体験とPTSD逆転
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "臨死体験_PTSDの逆転"
 domain: "Contemporary Culture"

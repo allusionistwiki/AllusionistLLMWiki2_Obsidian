@@ -25,7 +25,8 @@ from rich.table import Table
 
 ROOT = Path(__file__).resolve().parent.parent
 WIKI = ROOT / "wiki"
-LOG = ROOT.parent / "AllusionistLLMWiki2_Work" / "reports" / "human_ops_log.md"
+from paths import WORK_DIR
+LOG = WORK_DIR / "reports" / "human_ops_log.md"
 console = Console()
 
 

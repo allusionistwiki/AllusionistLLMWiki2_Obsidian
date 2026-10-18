@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_コルセスカ_defines_異獣_p278_バベルの塔の神話
-title: "「異獣」を「異言の民」と定義し、バベルの塔神話の裏返しとして言語の神秘性を論じることは、言語の多様性が神罰（混乱）として描かれ…"
+title: バベルの塔神話の言語論
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_defines_異獣_p278]]"

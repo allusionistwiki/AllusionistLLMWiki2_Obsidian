@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_item_無人機
+type: entity
+title: 無人機
+subtype: item
+canonical_name: 無人機
+aliases: []
+first_appearance: ch5586
+spoiler_after: ch5586
+document_status: active
+created: '2026-10-19'
+updated: '2026-10-19'
+---
+# 無人機
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: このタイミングで現れた無人機。その動きによって一時的に優位を得たティリビナ人勢力。背後関係は依然として不明なまま。すっきりとしない気分を抱えたままでは、とてもではないが勝利を喜ぶ気分にはなれない。
+
+<!-- /AUTO-GENERATED:action -->

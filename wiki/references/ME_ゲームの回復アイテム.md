@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ゲームの回復アイテム
 title: 回復アイテム
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ゲームの回復アイテム"
 domain: "Contemporary Consumer Culture"

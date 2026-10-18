@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0046_analogous_to_E_ch0046_計画_uses_研究名目_p1893_bureaucratic_euphemism
-title: "非人道的な強制移住や人体実験を正当化するために、「開発研究」や「実験」といった行政用語・科学用語を盾にする官僚的な隠蔽手法が描…"
+title: 研究名目という官僚的婉曲
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0046_計画_uses_研究名目_p1893]]"

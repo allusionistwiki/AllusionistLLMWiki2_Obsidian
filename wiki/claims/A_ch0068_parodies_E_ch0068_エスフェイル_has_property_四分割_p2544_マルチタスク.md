@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0068_parodies_E_ch0068_エスフェイル_has_property_四分割_p2544_マルチタスク
-title: "エスフェイルの四分割は、「名前」と「身体部位」の言語的関連付けによって自我を分散・維持する魔術的ロジックの具現化である"
+title: マルチタスクへの言語的転生
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0068_エスフェイル_has_property_四分割_p2544]]"

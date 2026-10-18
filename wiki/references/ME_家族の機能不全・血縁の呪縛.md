@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_家族の機能不全・血縁の呪縛
 title: 機能不全家族
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "家族の機能不全・血縁の呪縛"
 domain: "Contemporary Culture"

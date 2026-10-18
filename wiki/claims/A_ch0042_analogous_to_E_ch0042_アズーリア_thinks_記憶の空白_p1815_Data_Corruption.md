@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0042_analogous_to_E_ch0042_アズーリア_thinks_記憶の空白_p1815_Data_Corruption
-title: "記憶の空白が「呪文の羅列」による捏造であるという描写は、デジタルデータにおける改ざんや、脳への書き込みによる記憶操作（マインド…"
+title: データ改ざんによる記憶操作
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_アズーリア_thinks_記憶の空白_p1815]]"

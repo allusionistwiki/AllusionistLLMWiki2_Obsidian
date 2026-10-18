@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_ラベリング_p263_言語処理のデータベース化
-title: "言語の習得・翻訳を、個人の学習ではなく端末データベースへの「ラベリング（タグ付け）」と分類として処理する仕組みは、現代の検索エ…"
+title: 言語処理のデータベース化
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_ラベリング_p263]]"

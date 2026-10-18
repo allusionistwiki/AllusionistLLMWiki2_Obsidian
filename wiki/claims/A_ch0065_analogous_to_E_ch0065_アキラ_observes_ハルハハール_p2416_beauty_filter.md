@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_observes_ハルハハール_p2416_beauty_filter
-title: "ハルハハールの「美しい」という認識のみを強制的に押しつける魅了は、SNSやアプリにおける「美しさ」の強制表示（フィルター等）の…"
+title: 美顔フィルターによる美の強制
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_observes_ハルハハール_p2416]]"

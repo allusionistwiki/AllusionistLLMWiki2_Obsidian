@@ -10,7 +10,7 @@ spoiler_after: ch0223
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 転活体験アプリ
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 転活体験アプリ『ウィズメモリー』のオープンベータテスト開始！
 - **unknown**: 転活体験アプリ『ウィズメモリー』のオープンベータテスト開始！
 - **unknown**: 転活体験アプリ『ウィズメモリー』のオープンベータテスト開始！
 

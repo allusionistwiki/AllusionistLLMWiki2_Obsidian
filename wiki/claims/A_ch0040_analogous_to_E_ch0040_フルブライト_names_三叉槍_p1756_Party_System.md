@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0040_analogous_to_E_ch0040_フルブライト_names_三叉槍_p1756_Party_System
-title: "最終選定前にもかかわらず『三叉槍』を襲名し特別枠で出場する二人は、MMORPGにおける固定パーティやギルドの結成、およびその特…"
+title: MMO風固定パーティ結成
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0040_フルブライト_names_三叉槍_p1756]]"

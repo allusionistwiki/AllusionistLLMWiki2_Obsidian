@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ice_acronym
 title: ICE（侵入対策）
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ice_acronym"
 domain: "Contemporary Culture"

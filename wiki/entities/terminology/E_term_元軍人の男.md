@@ -10,7 +10,7 @@ spoiler_after: ch0150
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 元軍人の男
@@ -30,6 +30,8 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「これぞ秘技・雷破拳――稲妻は俺に効かん！」
+- **unknown**: 続けて元軍人が「ＮＯＫＯＴＴＡ」と叫んだ。 闘気が鎧となって全身を覆い、両の拳に一際強い輝きが収束。
 - **unknown**: 「これぞ秘技・雷破拳――稲妻は俺に効かん！」
 - **unknown**: 続けて元軍人が「ＮＯＫＯＴＴＡ」と叫んだ。 闘気が鎧となって全身を覆い、両の拳に一際強い輝きが収束。
 - **unknown**: 「これぞ秘技・雷破拳――稲妻は俺に効かん！」

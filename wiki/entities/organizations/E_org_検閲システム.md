@@ -10,7 +10,7 @@ first_appearance: ch0227
 spoiler_after: ch0227
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 検閲システム
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 彼女に対する言動が検閲され、自動で特定の文字列に変換される。
 - **unknown**: 彼女に対する言動が検閲され、自動で特定の文字列に変換される。
 - **unknown**: 彼女に対する言動が検閲され、自動で特定の文字列に変換される。
 

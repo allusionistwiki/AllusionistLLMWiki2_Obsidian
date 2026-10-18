@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_運命論の否定_自己決定
 title: 運命論の否定
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "運命論の否定_自己決定"
 domain: "Contemporary Culture"

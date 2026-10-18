@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_surveillance_camera
-title: "積層鏡を介した「盗撮映像」の表示は、監視カメラ映像のリアルタイム配信を模している"
+title: 監視カメラとしての盗撮映像
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_uses_密偵_p2421]]"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_un_security_council
 title: 国連安保理
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "un_security_council"
 domain: "Contemporary Culture"

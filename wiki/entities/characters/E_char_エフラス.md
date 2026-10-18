@@ -10,7 +10,7 @@ first_appearance: ch0189
 spoiler_after: ch0189
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # エフラス
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: かつて、偉大な皇帝があった。 妖精皇帝エフラス。運命の掌握に成功した言語支配者。
 - **unknown**: かつて、偉大な皇帝があった。 妖精皇帝エフラス。運命の掌握に成功した言語支配者。
 - **unknown**: かつて、偉大な皇帝があった。 妖精皇帝エフラス。運命の掌握に成功した言語支配者。
 

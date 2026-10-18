@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_資本主義の暴走と価値のインフレ
 title: 価値のインフレ
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "資本主義の暴走と価値のインフレ"
 domain: "Contemporary Culture"

@@ -10,7 +10,7 @@ spoiler_after: ch0130
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # イアテムの呪いの剣
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 情欲を生み出す諸悪の根源――すなわち誘惑する淫らな魔女を殺して成長するための、英雄に相応しい克己の剣。
 - **unknown**: 情欲を生み出す諸悪の根源――すなわち誘惑する淫らな魔女を殺して成長するための、英雄に相応しい克己の剣。
 - **unknown**: 情欲を生み出す諸悪の根源――すなわち誘惑する淫らな魔女を殺して成長するための、英雄に相応しい克己の剣。
 

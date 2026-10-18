@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0060_analogous_to_E_ch0060_アズーリア_confesses_機械的な模倣_p2252_ai_consciousness
-title: "アズーリアの「人間のシミュレータ」という自己認識は、AIの意識や知能が人間の模倣に過ぎないという技術哲学的議論（中国語の部屋等…"
+title: 模倣に過ぎないAIの意識
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_アズーリア_confesses_機械的な模倣_p2252]]"

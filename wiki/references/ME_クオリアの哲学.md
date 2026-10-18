@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_クオリアの哲学
 title: クオリア
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: philosophy
 canonical_name: "クオリアの哲学"
 domain: "Ethics & Philosophy"

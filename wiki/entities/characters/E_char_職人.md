@@ -10,7 +10,7 @@ first_appearance: ch0206
 spoiler_after: ch0206
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 職人
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 髭をたくわえたいかめしい顔つきの職人は骨槌を握りながら「この鉄は正直だな」とつぶやき
 - **unknown**: 髭をたくわえたいかめしい顔つきの職人は骨槌を握りながら「この鉄は正直だな」とつぶやき
 - **unknown**: 髭をたくわえたいかめしい顔つきの職人は骨槌を握りながら「この鉄は正直だな」とつぶやき
 

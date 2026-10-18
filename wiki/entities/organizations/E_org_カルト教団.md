@@ -10,7 +10,7 @@ first_appearance: ch0124
 spoiler_after: ch0124
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # カルト教団
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: だというのに要求が六王の一人カーティスを引き渡せ、とは。
 - **unknown**: だというのに要求が六王の一人カーティスを引き渡せ、とは。
 - **unknown**: だというのに要求が六王の一人カーティスを引き渡せ、とは。
 

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_組織の責任転嫁_若手への押し付け
 title: 組織の責任転嫁
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "組織の責任転嫁_若手への押し付け"
 domain: "Contemporary Culture"

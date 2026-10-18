@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_term_読者のデータベースへのアクセス
+type: entity
+title: 読者のデータベースへのアクセス
+subtype: terminology
+canonical_name: 読者のデータベースへのアクセス
+aliases: []
+first_appearance: ch5589
+spoiler_after: ch5589
+document_status: active
+created: '2026-10-19'
+updated: '2026-10-19'
+---
+# 読者のデータベースへのアクセス
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: このテキストベース・サーキットという地の文に併走する神なる視点、すなわち想定される読者のデータベースにアクセスすることは、そのまま第八階梯たる『紀』への到達にも等しい偉業だ。だとすれば、それは時間と空間を超越する。
+
+<!-- /AUTO-GENERATED:symbolic -->

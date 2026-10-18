@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0067_analogous_to_E_ch0067_ドルメイス_attacks_歌姫_p2513_情報戦
-title: "ドルメイスがアストラルネット上で工作し、文字列を炎として戦場に突き進める描写は、現代の情報戦におけるボットやアルゴリズムによる…"
+title: アストラルネットの情報戦
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ドルメイス_attacks_歌姫_p2513]]"

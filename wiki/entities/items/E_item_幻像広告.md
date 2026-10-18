@@ -10,7 +10,7 @@ first_appearance: ch0227
 spoiler_after: ch0227
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 幻像広告
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 無数の幻像広告が夜闇を斬り裂いて天を染め上げる。
 - **unknown**: 無数の幻像広告が夜闇を斬り裂いて天を染め上げる。
 - **unknown**: 無数の幻像広告が夜闇を斬り裂いて天を染め上げる。
 

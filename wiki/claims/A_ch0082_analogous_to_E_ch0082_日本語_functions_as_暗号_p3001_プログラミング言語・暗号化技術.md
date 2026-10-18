@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0082_analogous_to_E_ch0082_日本語_functions_as_暗号_p3001_プログラミング言語・暗号化技術
-title: "日本語の漢字の読み（ルビ）や文脈依存性を利用し、配置によって意味が変化する暗号化は、言語の多義性や論理的な換喩・提喩の構造を悪…"
+title: 日本語多義性悪用による暗号化技術
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_日本語_functions_as_暗号_p3001]]"

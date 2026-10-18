@@ -30,8 +30,9 @@ class LinkIndex:
         Work/events/*.jsonl の event_id を参照する（第1層参照）。
         """
         import json
+        from paths import WORK_DIR
         for sub, key in (("events", "event_id"), ("facts", "fact_id")):
-            d = Path(__file__).resolve().parents[2].parent / "AllusionistLLMWiki2_Work" / sub
+            d = WORK_DIR / sub
             if not d.exists():
                 continue
             for jl in d.glob("*.jsonl"):

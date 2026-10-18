@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0041_foreshadows_E_ch0041_ヴァージリア_promises_マリーへの教育_教師と生徒の逆転マリーがヴァージリアを導く
-title: "ヴァージリアがマリーに「一から教えてあげる」と宣言するが、マリーは既にヴァージリアを圧倒する実力者であり、この「先生」宣言は後…"
+title: 師弟逆転の伏線
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0041_ヴァージリア_promises_マリーへの教育_p1780]]"

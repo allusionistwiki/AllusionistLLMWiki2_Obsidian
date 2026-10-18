@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0041_analogous_to_E_ch0041_マリー・スー_gives_飴玉_医薬品治癒の呪力を含む飴玉
-title: "マリーが渡した「治癒の呪力を含む飴玉」は、苦痛（傷）を甘味（快楽）によって癒すという、薬の苦さに対する逆転の構造を模し、治癒行…"
+title: 甘味による治癒の逆転
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0041_マリー・スー_gives_飴玉_p1774]]"

@@ -10,7 +10,7 @@ spoiler_after: ch0176
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 夜の王
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「不貞！ 姦通魔！ そうか、お前こそが我が妻を奪う寝取り男だったか――！」
 - **unknown**: 「不貞！ 姦通魔！ そうか、お前こそが我が妻を奪う寝取り男だったか――！」
 - **unknown**: 「不貞！ 姦通魔！ そうか、お前こそが我が妻を奪う寝取り男だったか――！」
 

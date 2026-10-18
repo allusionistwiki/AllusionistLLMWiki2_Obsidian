@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0046_inverts_E_ch0046_リーナ_reveals_当事者であること_p1887_heroic_narrative_trope
-title: "通常、主人公のサポート役として登場するキャラクター（リーナ）が、実は事件の「当事者」であり強い個人的動機（復讐・救済）を持つこ…"
+title: 英雄叙事の逆転
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0046_リーナ_reveals_当事者であること_p1887]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0024_analogous_to_E_ch0024_アキラ_reveals_サイバーカラテの呪術性_p1093_ミーム理論
-title: "サイバーカラテが「ミーム（模倣子）」であり、社会や文化を構成する習慣・技能が呪力（エネルギー）を生むという設定は、リチャード・…"
+title: ミーム理論の魔力体系化
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_アキラ_reveals_サイバーカラテの呪術性_p1093]]"

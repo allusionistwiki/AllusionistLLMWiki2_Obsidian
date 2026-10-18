@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0202_alludes_to_E_p6777_norse_mythology_odin
-title: "隻眼、槍、猫をモチーフにした耳飾りという描写は、北欧神話のオーディン（隻眼、グングニル）およびフレイヤ（猫の戦車）の要素を混在…"
+title: 北欧神話のオーディンとフレイヤの擬似神格
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"

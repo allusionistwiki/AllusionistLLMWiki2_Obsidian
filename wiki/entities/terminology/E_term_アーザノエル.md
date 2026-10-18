@@ -10,7 +10,7 @@ spoiler_after: ch0120
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # アーザノエル
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 背負った曼荼羅の立体幻像が回転し、中央で瞳が見開かれていく。 いまこそ仏眼仏母が目覚める時。
 - **unknown**: 背負った曼荼羅の立体幻像が回転し、中央で瞳が見開かれていく。 いまこそ仏眼仏母が目覚める時。
 - **unknown**: 背負った曼荼羅の立体幻像が回転し、中央で瞳が見開かれていく。 いまこそ仏眼仏母が目覚める時。
 

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_義肢の経済格差
 title: 義肢の格差
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "義肢の経済格差"
 domain: "Contemporary Culture"

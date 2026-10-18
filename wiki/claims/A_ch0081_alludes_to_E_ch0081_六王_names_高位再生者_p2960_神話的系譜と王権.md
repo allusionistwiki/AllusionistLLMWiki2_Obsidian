@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0081_alludes_to_E_ch0081_六王_names_高位再生者_p2960_神話的系譜と王権
-title: "「六王」の伝承は、トリシューラの支配以前に存在した古い王国の系譜を提示し、現在の権力構造の歴史的背景を構築している"
+title: 神話的系譜と王権
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0081_六王_names_高位再生者_p2960]]"

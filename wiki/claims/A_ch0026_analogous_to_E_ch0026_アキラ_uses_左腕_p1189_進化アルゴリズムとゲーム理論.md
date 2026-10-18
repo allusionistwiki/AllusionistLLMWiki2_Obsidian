@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_アキラ_uses_左腕_p1189_進化アルゴリズムとゲーム理論
-title: "キロン体内で左腕が自己複製と適応を繰り返す様子は、進化アルゴリズム（適者生存）やゲーム理論的な協調を模倣した機械的な学習プロセ…"
+title: 進化アルゴリズムの模倣
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_左腕_p1189]]"

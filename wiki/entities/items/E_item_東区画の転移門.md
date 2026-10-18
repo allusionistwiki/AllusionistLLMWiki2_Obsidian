@@ -10,7 +10,7 @@ first_appearance: ch0186
 spoiler_after: ch0186
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 東区画の転移門
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 閉鎖された東区画の転移門から流れる光にわずかな歪みが生じる。
 - **unknown**: 閉鎖された東区画の転移門から流れる光にわずかな歪みが生じる。
 - **unknown**: 閉鎖された東区画の転移門から流れる光にわずかな歪みが生じる。
 

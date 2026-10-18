@@ -10,7 +10,7 @@ first_appearance: ch0102
 spoiler_after: ch0102
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 構造物
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 構造物の滑らかな表面に一筋の亀裂が入り、そこが蓋となって上に持ち上がったのである。
 - **unknown**: 構造物の滑らかな表面に一筋の亀裂が入り、そこが蓋となって上に持ち上がったのである。
 - **unknown**: 構造物の滑らかな表面に一筋の亀裂が入り、そこが蓋となって上に持ち上がったのである。
 

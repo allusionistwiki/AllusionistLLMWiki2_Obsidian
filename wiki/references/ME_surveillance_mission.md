@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_surveillance_mission
 title: 監視ミッション
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "surveillance_mission"
 domain: "Contemporary Culture"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_semantic_gap
-title: "言語の「ずれ」が意味の伝達を遅らせるという説明は、意味の伝達における「意味のギャップ（Semantic Gap）」の存在を示し…"
+title: 意味のギャップによる伝達遅延
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_差延_p1932]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0067_analogous_to_E_ch0067_ドルメイス_has_property_炎上使い_p2513_astroturfing
-title: "ドルメイスが「アストラルネット上で工作した結果としての【炎上】」を得意とする点は、ネット上の世論を意図的に誘導する「アストロタ…"
+title: アストロターフィングの炎上
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_ドルメイス_has_property_炎上使い_p2513]]"

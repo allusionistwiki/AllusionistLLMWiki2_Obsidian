@@ -10,7 +10,7 @@ spoiler_after: ch0031
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # パーソナルヒストリー
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 個人史を参照して人の記憶の中で奏でられる、風変わりな多声音楽。
 - **unknown**: 個人史を参照して人の記憶の中で奏でられる、風変わりな多声音楽。
 - **unknown**: 個人史を参照して人の記憶の中で奏でられる、風変わりな多声音楽。
 - **unknown**: 個人史を参照して人の記憶の中で奏でられる、風変わりな多声音楽。

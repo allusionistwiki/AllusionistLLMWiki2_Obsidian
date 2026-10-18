@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_歌姫_other_ファイアーウォール_p2637_SNSのブロック機能・モデレーション
-title: "肯定的な便箋が物理的な壁（ファイアーウォール）となる様子は、SNSにおけるモデレーションやブロック機能による誹謗中傷対策のメタ…"
+title: SNSブロック機能としての壁
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_歌姫_other_ファイアーウォール_p2637]]"

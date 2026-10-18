@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_機械学習における模倣学習ImitationLearning
 title: 模倣学習
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "機械学習における模倣学習ImitationLearning"
 domain: "Contemporary Culture"

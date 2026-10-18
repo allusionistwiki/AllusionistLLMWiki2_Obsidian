@@ -10,7 +10,7 @@ first_appearance: ch0231
 spoiler_after: ch0231
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 言葉遊び
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 言葉遊びでしかないが、それこそが呪術の本質だ。
 - **unknown**: 言葉遊びでしかないが、それこそが呪術の本質だ。
 - **unknown**: 言葉遊びでしかないが、それこそが呪術の本質だ。
 

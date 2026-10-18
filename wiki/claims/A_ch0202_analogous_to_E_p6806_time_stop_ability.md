@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0202_analogous_to_E_p6806_time_stop_ability
-title: "ユディーアの「疑似的な時間停止」は、多くのフィクションにおける最強の初見殺し能力であり、対戦相手も同能力を持つという展開は「能…"
+title: 時間停止能力対決のメタゲーム
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"

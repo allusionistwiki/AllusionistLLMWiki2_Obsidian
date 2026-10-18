@@ -10,7 +10,7 @@ spoiler_after: ch0149
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 岩肌種
@@ -30,6 +30,8 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: おらはシナモリアキラってもんだ。武のてっぺんさ目指してる
+- **unknown**: 『ラウス＝ベフォニス』――跡目は兄貴に譲ったんだげども、おっ死んだっつーんだからなぁ。
 - **unknown**: おらはシナモリアキラってもんだ。武のてっぺんさ目指してる
 - **unknown**: 『ラウス＝ベフォニス』――跡目は兄貴に譲ったんだげども、おっ死んだっつーんだからなぁ。
 - **unknown**: おらはシナモリアキラってもんだ。武のてっぺんさ目指してる

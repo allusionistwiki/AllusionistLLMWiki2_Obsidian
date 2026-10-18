@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_キャラクターの再定義
 title: キャラ再定義
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "キャラクターの再定義"
 domain: "Contemporary Culture"

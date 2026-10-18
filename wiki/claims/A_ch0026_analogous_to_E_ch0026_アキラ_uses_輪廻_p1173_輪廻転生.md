@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_アキラ_uses_輪廻_p1173_輪廻転生
-title: "左手の円環が「輪廻」の呪力を持つという設定は、仏教やヒンドゥー教の輪廻転生の概念を、呪術的な能力として具現化している"
+title: 輪廻転生の呪術化
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_uses_輪廻_p1173]]"

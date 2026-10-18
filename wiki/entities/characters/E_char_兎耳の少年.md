@@ -10,7 +10,7 @@ first_appearance: ch0174
 spoiler_after: ch0174
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 兎耳の少年
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: もその肉体が裂けて中から新たな人物が出現した。今度は左右非対称の兎耳を持った少年だ。
 - **unknown**: もその肉体が裂けて中から新たな人物が出現した。今度は左右非対称の兎耳を持った少年だ。
 - **unknown**: もその肉体が裂けて中から新たな人物が出現した。今度は左右非対称の兎耳を持った少年だ。
 

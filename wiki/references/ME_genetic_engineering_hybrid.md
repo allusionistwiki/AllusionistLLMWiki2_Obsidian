@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_genetic_engineering_hybrid
 title: 遺伝子工学キメラ
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "genetic_engineering_hybrid"
 domain: "Contemporary Culture"

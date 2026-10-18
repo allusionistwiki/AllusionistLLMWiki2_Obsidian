@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0007_analogous_to_E_ch0007_トリシューラ_reveals_無資格_p316_Unlicensed_Medicine
-title: "「社会的に独立した孤高のウィッチドクター」でありながら「医師としては無資格」という設定は、異世界の専門職権威と現代的な資格規制…"
+title: 無資格医療と権威のズレ
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_トリシューラ_reveals_無資格_p316]]"

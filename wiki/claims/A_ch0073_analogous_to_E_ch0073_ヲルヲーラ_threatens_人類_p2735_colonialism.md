@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0073_analogous_to_E_ch0073_ヲルヲーラ_threatens_人類_p2735_colonialism
-title: "多世界連合が人類を「未成熟な子供」「土着民族」と定義し、管理・教育を宣言する言説は、植民地支配における文明化の使命（civil…"
+title: 植民地主義
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_ヲルヲーラ_threatens_人類_p2735]]"

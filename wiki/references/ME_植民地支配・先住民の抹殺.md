@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_植民地支配・先住民の抹殺
 title: 植民地支配・先住民抹殺
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: history
 canonical_name: "植民地支配・先住民の抹殺"
 domain: "World History"

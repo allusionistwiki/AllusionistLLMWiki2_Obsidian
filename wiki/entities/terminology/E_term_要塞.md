@@ -10,7 +10,7 @@ first_appearance: ch0148
 spoiler_after: ch0148
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 要塞
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 『要塞は堅牢である』というイメージから大規模な『聖域』となって内部を守護していた。
 - **unknown**: 『要塞は堅牢である』というイメージから大規模な『聖域』となって内部を守護していた。
 - **unknown**: 『要塞は堅牢である』というイメージから大規模な『聖域』となって内部を守護していた。
 

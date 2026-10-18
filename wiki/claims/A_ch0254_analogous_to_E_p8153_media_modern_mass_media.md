@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0254_analogous_to_E_p8153_media_modern_mass_media
-title: "作中のマスメディア（新聞、水晶テレビ）は、現代のマスコミが神官の託宣（権威）を継承し、情報を支配する構造を風刺している"
+title: マスコミによる権威継承
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0254_アルゾラ・クロウサー_is_made_of_ゾラ分家_p8154]]"

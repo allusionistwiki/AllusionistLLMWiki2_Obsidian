@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_semiotics
-title: "言語を「差異の構造」と定義し、「ずれ」と「遅れ」を論じるのは、ソシュール以降の記号論（セミオティクス）の基本原理そのものである"
+title: 記号論の差異構造としての言語
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_差延_p1932]]"

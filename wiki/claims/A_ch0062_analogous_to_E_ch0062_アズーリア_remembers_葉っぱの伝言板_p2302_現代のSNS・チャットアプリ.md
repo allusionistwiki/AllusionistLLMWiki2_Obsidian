@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0062_analogous_to_E_ch0062_アズーリア_remembers_葉っぱの伝言板_p2302_現代のSNS・チャットアプリ
-title: "異世界における魔法的な連絡手段（葉っぱの伝言板）が、現代のチャットアプリのUI（文字列の連続表示）と構造的に一致し、技術の進歩…"
+title: SNS・チャットアプリへの類似
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_アズーリア_remembers_葉っぱの伝言板_p2302]]"

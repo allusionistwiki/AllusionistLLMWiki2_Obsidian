@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0066_analogous_to_E_ch0066_ミルーニャ_activates_盲目の守護者像_p2476_ガチャ
-title: "右手親指の爪を「解錠」して体内倉庫から巨大な石像を取り出す行為は、ゲームにおけるインベントリからの即時アイテム召喚（またはガチ…"
+title: ガチャの即時召喚演出
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_ミルーニャ_activates_盲目の守護者像_p2476]]"

@@ -3,23 +3,19 @@ schema_version: "5.1"
 id: ME_オンラインゲームのPvPランキング
 title: PvPランキング
 type: external_reference
-
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "オンラインゲームのPvPランキング"
-aliases: []
-domain: "culture"
-document_status: active
-referenced_by: []
-relations: []
-created: "2026-10-11"
-updated: "2026-10-11"
+domain: "Contemporary Consumer Culture"
+review_status: llm_verified
 ---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
 # オンラインゲームのPvPランキング
 
-<!-- AUTO:BEGIN -->
-（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作での参照
+## 本作からの参照 (1 件)
 
-- [[A_ch0214_parodies_E_ch0214_サイバーカラテ道場_functions_as_ストリートファイトの場_p7213_オンラインゲームのPvPランキング]]
-<!-- AUTO:END -->
+- [[A_ch0214_parodies_E_ch0214_サイバーカラテ道場_functions_as_ストリートファイトの場_p7213_オンラインゲームのPvPランキング]] — 「サイバーカラテ道場」という名称や、ランキング上位を目指すユーザーによるギャラリー付きの戦闘描写は、現代のオンライン対戦ゲームやeスポーツの観戦文化を風刺している。

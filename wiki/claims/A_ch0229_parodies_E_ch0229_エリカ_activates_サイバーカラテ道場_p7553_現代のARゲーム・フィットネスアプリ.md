@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0229_parodies_E_ch0229_エリカ_activates_サイバーカラテ道場_p7553_現代のARゲーム・フィットネスアプリ
-title: "エリカが戦闘中に視界へ拡張現実を表示し、最適化された軌道やリズムポイント（good）をガイドカーソルで提示される描写は、現代の…"
+title: ARフィットネスアプリのUI模倣
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0229_エリカ_activates_サイバーカラテ道場_p7553]]"

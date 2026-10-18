@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ユーザー生成コンテンツUGCの質
 title: UGCの質
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ユーザー生成コンテンツUGCの質"
 domain: "Contemporary Culture"

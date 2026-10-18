@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0147_alludes_to_E_ch0147_カシュラム人の定義_ミーム_文化的アイデンティティ
-title: "カシュラム人が血統や言語ではなく「理解」や「終末思想への共感」によって定義される民族であるという設定は、ミームやイデオロギーに…"
+title: ミームによる集合的アイデンティティ
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0147_オルヴァ_has_property_時空操作_p5013]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_alludes_to_E_ch0071_セルフ・ディファレンス・エンジン_defines_紀元槍_p2631_自己言及的なAI／LLMの構造
-title: "「非線形参照型差延機関（セルフ・ディファレンス・エンジン）」という名称は、自己参照によって出力を生成する現代の言語モデル（LL…"
+title: 自己言及型AIの暗喩
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_セルフ・ディファレンス・エンジン_defines_非線形参照型差延機関_p2631]]"

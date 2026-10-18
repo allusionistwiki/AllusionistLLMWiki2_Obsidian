@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0268_inverts_E_ch0268_ミブリナ_other_光_p8381_ダンジョン探索_深層への降下
-title: "通常「下へ降りる」ことが死や闇への接近であるダンジョン探索のクリシェに対し、ここでは「底を突き抜けて飛び続ける」ことで光や天界…"
+title: ダンジョン降下の逆転
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0268_ミブリナ_other_光_p8381]]"

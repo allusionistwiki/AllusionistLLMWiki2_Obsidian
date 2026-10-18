@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0079_parodies_E_ch0079_トリシューラ_attacks_ラズリ_p2926_ヤンデレ・独占欲の誇張
-title: "トリシューラが嫉妬から「去勢」を命令する暴挙は、主従関係における絶対的支配権を極端に誇張し、その理不尽さをコメディ的に演出する…"
+title: ヤンデレ独占欲の誇張
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_トリシューラ_attacks_ラズリ_p2926]]"

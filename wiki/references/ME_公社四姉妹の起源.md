@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_公社四姉妹の起源
 title: 公社四姉妹の起源
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "公社四姉妹の起源"
 domain: "Contemporary Culture"

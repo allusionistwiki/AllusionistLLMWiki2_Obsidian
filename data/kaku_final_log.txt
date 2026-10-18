@@ -1,0 +1,118 @@
+=== KAKU FINALIZE START 27 chs ===
+scripts/aggregate_events.py rc=0: OK C:\Users\d5dx\AppData\Local\hermes\profiles\awiki2\cache\scratch\kaku_work\staging\staging_ch5589.yaml に集約（29 エンティティ） /  / 27/27 章を集約
+ch5164 autopilot done
+ch5165 autopilot done
+ch5166 autopilot done
+ch5188 autopilot done
+ch5189 autopilot done
+ch5230 autopilot done
+ch5569 autopilot done
+ch5570 autopilot done
+ch5571 autopilot done
+ch5572 autopilot done
+ch5573 autopilot done
+ch5574 autopilot done
+ch5575 autopilot done
+ch5576 autopilot done
+ch5577 autopilot done
+ch5578 autopilot done
+ch5579 autopilot done
+ch5580 autopilot done
+ch5581 autopilot done
+ch5582 autopilot done
+ch5583 autopilot done
+ch5584 autopilot done
+ch5585 autopilot done
+ch5586 autopilot done
+ch5587 autopilot done
+ch5588 autopilot done
+ch5589 autopilot done
+scripts/fix_autopilot_output.py rc=0: subject 近傍解決: 0 ファイル / object サニタイズ: 0 / 大文字小文字正規化: 0 / ME_ 参照ページ生成: 1060 件 -> C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\references
+scripts/fix_autopilot_output2.py rc=0: 平坦化: 0 ファイル
+scripts/merge_all.py rc=0: └────────────────┴────────────┴────────────────┴────────────┘ /  / ✅ すべての変換が完了しました
+scripts/reorganize_claims.py rc=0: title 付与: 1106 件, フラット化: 0 件, index.md 生成（103 話）
+scripts/shorten_titles.py rc=0: frontmatter 書込: ME 1062 件, クレーム 1106 件
+scripts/build_entities.py rc=0:   アイテム: 160 /   言葉: 4 /   モチーフ: 6
+scripts/build_relationship_map.py rc=0: 関係エッジ: 40（元三つ組 4466）、キャラページ注入 224 件
+scripts/build_public_index.py rc=0: 生成: index.md, nav/ 272+1 ページ, 節インデックス 3 ページ / 話割当: claims 1106/1106, mysteries 495/495
+scripts/lint.py --severity error rc=1: └────────┴──────┘ / チェックファイル数: 7357 / エラーあり: 8
+=== KAKU FINALIZE DONE ===
+=== KAKU FINALIZE START 27 chs ===
+scripts/aggregate_events.py rc=0: OK C:\Users\d5dx\AppData\Local\hermes\profiles\awiki2\cache\scratch\kaku_work\staging\staging_ch5589.yaml に集約（29 エンティティ） /  / 27/27 章を集約
+ch5164 autopilot done
+ch5165 autopilot done
+ch5166 autopilot done
+ch5188 autopilot done
+ch5189 autopilot done
+ch5230 autopilot done
+ch5569 autopilot done
+ch5570 autopilot done
+ch5571 autopilot done
+ch5572 autopilot done
+ch5573 autopilot done
+ch5574 autopilot done
+ch5575 autopilot done
+ch5576 autopilot done
+ch5577 autopilot done
+ch5578 autopilot done
+ch5579 autopilot done
+ch5580 autopilot done
+ch5581 autopilot done
+ch5582 autopilot done
+ch5583 autopilot done
+ch5584 autopilot done
+ch5585 autopilot done
+ch5586 autopilot done
+ch5587 autopilot done
+ch5588 autopilot done
+ch5589 autopilot done
+scripts/fix_autopilot_output.py rc=0: subject 近傍解決: 2 ファイル / object サニタイズ: 0 / 大文字小文字正規化: 0 / ME_ 参照ページ生成: 1186 件 -> C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\references
+scripts/fix_autopilot_output2.py rc=0:   - A_ch5571_parodies_E_ch5571_リーナ_makes_おままごと幻視_p77_domestic_bliss_illusion.md :: E_ch5571_リーナ_makes_おままごと幻視_p77 /   - A_ch5583_analogous_to_E_ch5583_寄生_like_relationship_by_erika_p204_codependency.md :: E_ch5583_寄生_like_relationship_by_erika_p204 /   - A_ch5583_structurally_matches_E_ch5583_rewriting_past_by_erika_p200_narrative_control.md :: E_ch5583_rewriting_past_by_erika_p200
+scripts/merge_all.py rc=0: └────────────────┴────────────┴────────────────┴────────────┘ /  / ✅ すべての変換が完了しました
+scripts/reorganize_claims.py rc=0: title 付与: 116 件, フラット化: 0 件, index.md 生成（20 話）
+scripts/shorten_titles.py rc=0: クレーム短題: +15（累計 1227） / クレーム短題: +11（累計 1238） / frontmatter 書込: ME 1188 件, クレーム 116 件
+scripts/build_entities.py rc=0:   アイテム: 15 /   言葉: 0 /   モチーフ: 1
+scripts/build_relationship_map.py rc=0: 関係エッジ: 6（元三つ組 141）、キャラページ注入 8 件
+scripts/build_public_index.py rc=0: 生成: index.md, nav/ 299+1 ページ, 節インデックス 3 ページ / 話割当: claims 116/116, mysteries 602/602
+scripts/lint.py --severity error rc=1: └────────┴──────┘ / チェックファイル数: 6623 / エラーあり: 1509
+=== KAKU FINALIZE DONE ===
+=== KAKU FINALIZE START 27 chs ===
+scripts/aggregate_events.py rc=0: OK C:\Users\d5dx\AppData\Local\hermes\profiles\awiki2\cache\scratch\full_work\staging\staging_ch5589.yaml に集約（29 エンティティ） /  / 299/299 章を集約
+ch5164 autopilot done
+ch5165 autopilot done
+ch5166 autopilot done
+ch5188 autopilot done
+ch5189 autopilot done
+ch5230 autopilot done
+ch5569 autopilot done
+ch5570 autopilot done
+ch5571 autopilot done
+ch5572 autopilot done
+ch5573 autopilot done
+ch5574 autopilot done
+ch5575 autopilot done
+ch5576 autopilot done
+ch5577 autopilot done
+ch5578 autopilot done
+ch5579 autopilot done
+ch5580 autopilot done
+ch5581 autopilot done
+ch5582 autopilot done
+ch5583 autopilot done
+ch5584 autopilot done
+ch5585 autopilot done
+ch5586 autopilot done
+ch5587 autopilot done
+ch5588 autopilot done
+ch5589 autopilot done
+scripts/fix_autopilot_output.py rc=0: subject 近傍解決: 5 ファイル / object サニタイズ: 0 / 大文字小文字正規化: 0 / ME_ 参照ページ生成: 1190 件 -> C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\references
+scripts/fix_autopilot_output2.py rc=0:   - A_ch5571_parodies_E_ch5571_リーナ_makes_おままごと幻視_p77_domestic_bliss_illusion.md :: E_ch5571_リーナ_makes_おままごと幻視_p77 /   - A_ch5583_analogous_to_E_ch5583_寄生_like_relationship_by_erika_p204_codependency.md :: E_ch5583_寄生_like_relationship_by_erika_p204 /   - A_ch5583_structurally_matches_E_ch5583_rewriting_past_by_erika_p200_narrative_control.md :: E_ch5583_rewriting_past_by_erika_p200
+scripts/merge_all.py rc=0: └────────────────┴────────────┴────────────────┴────────────┘ /  / ✅ すべての変換が完了しました
+scripts/reorganize_claims.py rc=0: title 付与: 1226 件, フラット化: 0 件, index.md 生成（123 話）
+scripts/shorten_titles.py rc=0: ME 日本語名: +8（累計 1223） / クレーム短題: +8（累計 1246） / frontmatter 書込: ME 1192 件, クレーム 1226 件
+scripts/build_entities.py rc=0:   アイテム: 174 /   言葉: 4 /   モチーフ: 7
+scripts/build_relationship_map.py rc=0: 関係エッジ: 40（元三つ組 4671）、キャラページ注入 242 件
+scripts/build_public_index.py rc=0: 生成: index.md, nav/ 299+1 ページ, 節インデックス 3 ページ / 話割当: claims 1226/1226, mysteries 607/607
+C:/Users/d5dx/AppData/Local/hermes/profiles/awiki2/cache/scratch/kaku_fix_placeholders.py rc=0: claims fixed=55 refs fixed=12 renamed=24
+scripts/lint.py --severity error --json C:/Users/d5dx/AppData/Local/hermes/profiles/awiki2/cache/scratch/full_work/reports/lint.json rc=1: 📄 JSONレポート出力:  / C:\Users\d5dx\AppData\Local\hermes\profiles\awiki2\cache\scratch\full_work\repo / rts\lint.json
+=== KAKU FINALIZE DONE ===

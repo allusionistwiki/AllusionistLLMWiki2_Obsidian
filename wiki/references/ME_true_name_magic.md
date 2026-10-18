@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_true_name_magic
 title: 真名の魔法
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "true_name_magic"
 domain: "Contemporary Culture"

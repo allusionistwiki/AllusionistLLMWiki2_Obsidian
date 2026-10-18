@@ -10,7 +10,7 @@ spoiler_after: ch0047
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 紀元槍
@@ -27,20 +27,21 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_akashic_records|「紀元槍」は、世界の全情報を記録する「アカシックレコード」の物理的・構造的な実体化（制御盤）として描かれている]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_console_game|紀元槍を「制御盤（コンソール）」と呼ぶことは、世界がゲーム的なインターフェースによって操作可能であることを示唆し、ゲームのメタ…]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_database|「アカシックレコード」を「制御盤」と呼ぶことは、世界の全情報をデータベースとして管理し、そこから現実を生成・更新するという情報…]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_operating_system|「紀元槍の制御盤」という表現は、世界をOS（オペレーティングシステム）として捉え、その制御盤（コンソール）から世界を操作できる…]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_source_code|「紀元槍」が「世界の死を引き延ばし続けている...機械」とされるのは、世界を維持するソースコード（生命維持システム）としての機…]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_world_maintenance|「世界の死を引き延ばし続けている」という記述は、世界が何らかのシステムによって維持・管理されているという管理論的な世界観を示し…]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_world_tree|「世界を貫く槍」という紀元槍のイメージは、北欧神話の「世界樹（ユグドラシル）」や「世界軸（Axis Mundi）」の構造を模し…]]
-- [[A_ch0069_analogous_to_E_ch0069_紀元槍_functions_as_自己参照の再帰的幻想_p2558_recursive_simulation|世界それ自体を浸食する紀元槍の端末であり、自己を参照し続ける再帰的な幻想という記述は、シミュレーション仮説や、物語が現実を生成…]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_akashic_records|アカシックレコードの物理的実体化]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_console_game|世界構造へのゲームメタファー適用]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_database|データベースによる現実生成]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_operating_system|世界をOSと捉える構造]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_source_code|世界維持のソースコード機能]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_world_maintenance|システムによる世界維持管理]]
+- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_world_tree|世界樹への槍の転生]]
+- [[A_ch0069_analogous_to_E_ch0069_紀元槍_functions_as_自己参照の再帰的幻想_p2558_recursive_simulation|再帰的シミュレーションへの転生]]
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 世界それ自体を――紀元槍を浸食する紀元槍の端末。自己を参照し続ける再帰的な幻想。
 - **unknown**: 世界それ自体を――紀元槍を浸食する紀元槍の端末。自己を参照し続ける再帰的な幻想。
 - **unknown**: 世界それ自体を――紀元槍を浸食する紀元槍の端末。自己を参照し続ける再帰的な幻想。
 - **unknown**: 世界それ自体を――紀元槍を浸食する紀元槍の端末。自己を参照し続ける再帰的な幻想。

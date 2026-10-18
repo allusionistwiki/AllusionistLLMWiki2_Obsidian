@@ -10,7 +10,7 @@ first_appearance: ch0169
 spoiler_after: ch0169
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 幼い声
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「ここはどこ？」 響く幼い声に、優しげな答えが返される。
 - **unknown**: 「ここはどこ？」 響く幼い声に、優しげな答えが返される。
 - **unknown**: 「ここはどこ？」 響く幼い声に、優しげな答えが返される。
 

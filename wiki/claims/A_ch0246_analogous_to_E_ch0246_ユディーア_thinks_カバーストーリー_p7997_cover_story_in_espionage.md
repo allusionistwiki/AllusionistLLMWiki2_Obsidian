@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0246_analogous_to_E_ch0246_ユディーア_thinks_カバーストーリー_p7997_cover_story_in_espionage
-title: "公式な経歴説明を「嘘ではないが全てを語っていない欺瞞呪文」として「カバーストーリー」と呼ぶことは、スパイ活動や情報戦における偽…"
+title: スパイのカバーストーリー
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0246_アテンプレク_has_property_金猿のふん_p7999]]"

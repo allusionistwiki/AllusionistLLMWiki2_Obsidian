@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_アキラ_says_ゲーム_p1206_現代のゲーム文化
-title: "アキラが「ゲームしてました」と答えるのは、異世界転生者としての生活がゲーム的な消費活動に終始していたこと、およびアキラ自身のゲ…"
+title: ゲーム文化への没入
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_says_ゲーム_p1206]]"

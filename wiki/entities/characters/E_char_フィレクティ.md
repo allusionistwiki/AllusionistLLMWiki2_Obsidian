@@ -10,7 +10,7 @@ spoiler_after: ch0113
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # フィレクティ
@@ -32,6 +32,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: フィレクティ＝ラズリは『竜母様の守護者はあなたにしかできないことです』と断言した。
 - **unknown**: フィレクティ＝ラズリは『竜母様の守護者はあなたにしかできないことです』と断言した。
 - **unknown**: フィレクティ＝ラズリは『竜母様の守護者はあなたにしかできないことです』と断言した。
 

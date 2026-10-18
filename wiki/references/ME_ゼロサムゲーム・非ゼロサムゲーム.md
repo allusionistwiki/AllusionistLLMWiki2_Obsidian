@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ゼロサムゲーム・非ゼロサムゲーム
 title: ゼロサム／非ゼロサム
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ゼロサムゲーム・非ゼロサムゲーム"
 domain: "Contemporary Consumer Culture"

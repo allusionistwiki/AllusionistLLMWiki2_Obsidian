@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_戦争の倫理規定
 title: 戦争倫理
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: philosophy
 canonical_name: "戦争の倫理規定"
 domain: "Ethics & Philosophy"

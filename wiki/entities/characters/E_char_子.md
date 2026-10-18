@@ -10,7 +10,7 @@ first_appearance: ch0191
 spoiler_after: ch0191
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 子
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: そうして子は自らの父を、そして兄弟を殺すことを決意したのです。
 - **unknown**: そうして子は自らの父を、そして兄弟を殺すことを決意したのです。
 - **unknown**: そうして子は自らの父を、そして兄弟を殺すことを決意したのです。
 

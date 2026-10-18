@@ -10,7 +10,7 @@ first_appearance: ch0186
 spoiler_after: ch0186
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # ラクルラール球
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「――セレスティアルオーブ・ゼオーティア」
 - **unknown**: 「――セレスティアルオーブ・ゼオーティア」
 - **unknown**: 「――セレスティアルオーブ・ゼオーティア」
 

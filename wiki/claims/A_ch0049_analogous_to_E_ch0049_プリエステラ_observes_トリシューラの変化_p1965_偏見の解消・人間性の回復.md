@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_トリシューラの変化_p1965_偏見の解消・人間性の回復
-title: "トリシューラを「不自然」「恐ろしい」と見ていたプリエステラが、彼女がコルセスカとじゃれ合う姿を見て「人間らしさ」を見出す過程は…"
+title: 接触による偏見解消と人間性回復
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0049_プリエステラ_observes_トリシューラの変化_p1965]]"

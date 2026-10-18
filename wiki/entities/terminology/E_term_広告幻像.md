@@ -10,7 +10,7 @@ first_appearance: ch0223
 spoiler_after: ch0223
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 広告幻像
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 胡散臭くて軽薄な文字列、いかにもな『第五階層らしさ』が陰鬱な日常からの救いを呼びかけてくる。
 - **unknown**: 胡散臭くて軽薄な文字列、いかにもな『第五階層らしさ』が陰鬱な日常からの救いを呼びかけてくる。
 - **unknown**: 胡散臭くて軽薄な文字列、いかにもな『第五階層らしさ』が陰鬱な日常からの救いを呼びかけてくる。
 

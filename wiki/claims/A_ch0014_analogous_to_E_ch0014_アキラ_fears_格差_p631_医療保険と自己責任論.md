@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0014_analogous_to_E_ch0014_アキラ_fears_格差_p631_医療保険と自己責任論
-title: "「保険に加入できるかできないかの違い」が生死・再起の機会を決定づける構造は、現代社会における医療保険制度の格差や、自己責任論に…"
+title: 医療保険と自己責任論
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0014_アキラ_fears_格差_p631]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0063_analogous_to_E_ch0063_ミルーニャ_learns_サイバーカラテ_p2336_ネットゲームのマルチクラス
-title: "ミルーニャの疑問は、本作がゲーム的メカニクス（クラス/職業の重複取得）を世界内の論理として採用していることを示すメタ的記述である"
+title: マルチクラスへの転生
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_ミルーニャ_learns_サイバーカラテ_p2336]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_reconnaissance
-title: "密偵を敵陣に送り込み情報を得る行為は、ゲームにおける偵察（Reconnaissance）を模している"
+title: 偵察としての密偵派遣
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_uses_密偵_p2421]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_自傷
-title: "黒槍が「使い手自身」を傷つけるという設定は、自傷行為のメカニズムを呪術的に再現している"
+title: 自傷行為の呪術再現
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_キロン_uses_自殺の黒槍_p1192]]"

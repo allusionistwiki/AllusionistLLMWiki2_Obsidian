@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_輪廻転生
 title: 輪廻転生
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "輪廻転生"
 domain: "Contemporary Culture"

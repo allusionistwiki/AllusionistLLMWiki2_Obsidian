@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_杖の座の目的_p1930_death_denial
-title: "「全人類の不死」への追求は、アーネスト・ベッカーが指摘した「死の否認（Denial of Death）」という人間の根源的な心…"
+title: 死の否認の極致としての不死追求
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_defines_杖の座の目的_p1930]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0020_analogous_to_E_ch0020_コルセスカ_uses_右目のセンサー機能_p916_eye_tracking_interface
-title: "コルセスカの右目が眼球運動から意思を予測して操作を代行する機能は、現代の視線入力インターフェース（アイトラッキング）のSF的拡…"
+title: 視線入力インターフェースの類似
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0020_コルセスカ_uses_右目のセンサー機能_p916]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0202_alludes_to_E_p6800_divine_right_of_kings
-title: "虹犬の貴婦人が「人は神に跪くもの」として序列を正当化する思想は、王権神授説やカースト制度といった階級社会のイデオロギーを反映し…"
+title: 階級社会を正当化する王権神授説
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"

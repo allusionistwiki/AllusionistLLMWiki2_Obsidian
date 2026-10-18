@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_スマートウォッチの生体認証
 title: スマートウォッチの生体認証
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "スマートウォッチの生体認証"
 domain: "Contemporary Culture"

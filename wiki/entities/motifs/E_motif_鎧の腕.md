@@ -10,7 +10,7 @@ first_appearance: ch0085
 spoiler_after: ch0085
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 鎧の腕
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 今はもう存在しない『鎧の腕』が、血に濡れて悲鳴を上げているようだった。
 - **unknown**: 今はもう存在しない『鎧の腕』が、血に濡れて悲鳴を上げているようだった。
 - **unknown**: 今はもう存在しない『鎧の腕』が、血に濡れて悲鳴を上げているようだった。
 

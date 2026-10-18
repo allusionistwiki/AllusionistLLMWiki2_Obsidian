@@ -10,7 +10,7 @@ spoiler_after: ch0212
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 精神加工
@@ -27,13 +27,14 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0222_alludes_to_E_ch0222_精神加工_has_property_麻薬的な扱い_p7368_Drug_Control_Laws|精神支配（洗脳）が戦闘中に困難であり、麻薬のように規制・管理されているという記述は、現代の薬物規制法や倫理観を魔法体系に投影し…]]
+- [[A_ch0222_alludes_to_E_ch0222_精神加工_has_property_麻薬的な扱い_p7368_Drug_Control_Laws|薬物規制法の魔法体系投影]]
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 現代における『精神加工』は麻薬のような扱いを受けている呪術だ。
 - **unknown**: 現代における『精神加工』は麻薬のような扱いを受けている呪術だ。
 - **unknown**: 現代における『精神加工』は麻薬のような扱いを受けている呪術だ。
 

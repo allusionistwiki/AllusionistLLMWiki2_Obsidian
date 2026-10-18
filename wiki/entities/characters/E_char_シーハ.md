@@ -10,7 +10,7 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # シーハ
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: シーハ：エストの幼馴染みのティリビナ女性。樹木医。
 - **unknown**: シーハ：エストの幼馴染みのティリビナ女性。樹木医。
 - **unknown**: シーハ：エストの幼馴染みのティリビナ女性。樹木医。
 

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_ミルーニャ_other_サイバネティクスとオカルティズム_p2645_VR／AR技術による身体拡張とゲームの没入感
-title: "サイバネティクス（義肢）が困難な世界で、オカルティズム（呪術）とアストラルネット（VR/AR）を組み合わせ「心技体」を再現する…"
+title: VR/AR没入体験へのサイバネ転生
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_ミルーニャ_other_サイバネティクス_p2645]]"

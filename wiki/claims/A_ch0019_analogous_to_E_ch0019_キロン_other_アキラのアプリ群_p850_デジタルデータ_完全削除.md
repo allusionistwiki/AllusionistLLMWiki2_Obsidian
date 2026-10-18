@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0019_analogous_to_E_ch0019_キロン_other_アキラのアプリ群_p850_デジタルデータ_完全削除
-title: "キロンの呪術がアキラの脳内アプリ（サイバーカラテ道場、E-Emulator等）を破壊し、前世の記憶を「虫喰い」にして消去する様…"
+title: 脳内アプリの完全削除
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0019_キロン_other_アキラのアプリ群_p850]]"

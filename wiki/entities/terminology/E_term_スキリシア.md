@@ -10,7 +10,7 @@ spoiler_after: ch0127
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # スキリシア
@@ -31,6 +31,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: スキリシアを構成する闇は変幻自在。常にその姿を変容させるがゆえに一度として同じ顔を見せることは無い。
 - **unknown**: スキリシアを構成する闇は変幻自在。常にその姿を変容させるがゆえに一度として同じ顔を見せることは無い。
 - **unknown**: スキリシアを構成する闇は変幻自在。常にその姿を変容させるがゆえに一度として同じ顔を見せることは無い。
 

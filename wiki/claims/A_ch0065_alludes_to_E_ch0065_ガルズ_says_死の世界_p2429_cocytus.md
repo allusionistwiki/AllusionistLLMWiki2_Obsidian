@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_alludes_to_E_ch0065_ガルズ_says_死の世界_p2429_cocytus
-title: "ガルズが言及する「コキュートスの封印」は、ダンテの『神曲』地獄篇における地獄の最下層（氷の地獄）を指している"
+title: コキュートスへの地獄最下層暗喩
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ガルズ_says_死の世界_p2429]]"

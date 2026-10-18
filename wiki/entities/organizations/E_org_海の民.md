@@ -10,7 +10,7 @@ first_appearance: ch0186
 spoiler_after: ch0186
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 海の民
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 独自の信仰を持った海の民が新たな聖地を求めて侵攻を開始。
 - **unknown**: 独自の信仰を持った海の民が新たな聖地を求めて侵攻を開始。
 - **unknown**: 独自の信仰を持った海の民が新たな聖地を求めて侵攻を開始。
 

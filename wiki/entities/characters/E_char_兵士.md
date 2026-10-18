@@ -10,7 +10,7 @@ spoiler_after: ch0097
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 兵士
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: きっと祝祭が終わるまでは大丈夫。根拠のない楽観が大量死を招いた。
 - **unknown**: きっと祝祭が終わるまでは大丈夫。根拠のない楽観が大量死を招いた。
 - **unknown**: きっと祝祭が終わるまでは大丈夫。根拠のない楽観が大量死を招いた。
 

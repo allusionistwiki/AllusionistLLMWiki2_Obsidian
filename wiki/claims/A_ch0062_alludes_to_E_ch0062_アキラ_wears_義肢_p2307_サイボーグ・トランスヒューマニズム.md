@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0062_alludes_to_E_ch0062_アキラ_wears_義肢_p2307_サイボーグ・トランスヒューマニズム
-title: "アキラが義肢（円筒形の左腕）を装着し、肉体の一部を機械化している描写は、人間の身体拡張を追求するトランスヒューマニズム、および…"
+title: サイボーグ・トランスヒューへの暗喩
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_アキラ_wears_義肢_p2307]]"

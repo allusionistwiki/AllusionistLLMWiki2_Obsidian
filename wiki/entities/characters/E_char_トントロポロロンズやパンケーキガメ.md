@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_char_トントロポロロンズやパンケーキガメ
+type: entity
+title: トントロポロロンズやパンケーキガメ
+subtype: character
+canonical_name: トントロポロロンズやパンケーキガメ
+aliases: []
+first_appearance: ch5230
+spoiler_after: ch5230
+document_status: active
+created: '2026-10-19'
+updated: '2026-10-19'
+---
+# トントロポロロンズやパンケーキガメ
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: けれど、トントロポロロンズやパンケーキガメといった単純な思考しかできないものたちは、愛玩動物（ペット）として可愛がられる道よりは、今まで通り食べられることを望む者が多かった。
+
+<!-- /AUTO-GENERATED:speech -->

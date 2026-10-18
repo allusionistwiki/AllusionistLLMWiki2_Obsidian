@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_char_マリーアズーリア内
+type: entity
+title: マリーアズーリア内
+subtype: character
+canonical_name: マリーアズーリア内
+aliases: []
+first_appearance: ch5230
+spoiler_after: ch5230
+document_status: active
+created: '2026-10-19'
+updated: '2026-10-19'
+---
+# マリーアズーリア内
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 昨日も、ガルズにこんな助言を受けた、ガルズとこんなことを話した、と報告のメールが沢山届いた。私の中にいるマリーは少しだけ複雑そうに――けれど嬉しそうにそれを受け止めていた。私たちの関係性が『こういう風』になったのは、みんなで話し合った結果なので、多分、これでいいんだと思う。
+
+<!-- /AUTO-GENERATED:action -->

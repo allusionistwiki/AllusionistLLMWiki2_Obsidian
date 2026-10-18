@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0051_analogous_to_E_ch0051_サリア_confesses_コアとの喧嘩_p2015_通信障害
-title: "コアとの『繋がり』が切れている状態は、オンラインゲームにおけるサーバーとの通信断絶や、パートナーとのマッチング切断に比喩される"
+title: 通信障害による切断
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0051_サリア_confesses_コアとの喧嘩_p2015]]"

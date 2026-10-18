@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0053_analogous_to_E_ch0053_骨組みの花_other_無謀な任務_p2066_sunk_cost_fallacy
-title: "均衡が崩れたことへの「脊髄反射」で無謀な任務が決定され、人質まで取られて逃げられなくなった状況は、過去の投資（劣等感や期待）に…"
+title: サンクコストの誤謬の構造
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_骨組みの花_other_無謀な任務_p2066]]"

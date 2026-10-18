@@ -10,7 +10,7 @@ spoiler_after: ch0118
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 力士
@@ -28,7 +28,7 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0118_analogous_to_E_ch0118_力士_says_アキラへの否定_p4157_utilitarian_ethics_resource_allocation|転生技術が保険に組み込まれ、二重転生が予算超過であり他者の機会を奪うと指摘する力士の論理は、限られた資源を最適配分する功利主義…]]
+- [[A_ch0118_analogous_to_E_ch0118_力士_says_アキラへの否定_p4157_utilitarian_ethics_resource_allocation|転生資源の功利主義的配分]]
 
 <!-- AUTO:END -->
 
@@ -37,12 +37,14 @@ updated: '2026-10-11'
 
 - **unknown**: 「何がシナモリアキラだ。何が【鎧の腕】だ。お前は惨めな人生の敗残者だろう？　なあ、セト――」
 - **unknown**: 「何がシナモリアキラだ。何が【鎧の腕】だ。お前は惨めな人生の敗残者だろう？　なあ、セト――」
+- **unknown**: 「何がシナモリアキラだ。何が【鎧の腕】だ。お前は惨めな人生の敗残者だろう？　なあ、セト――」
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「百パーセントだ――制限解除、システム【蹴速】を解放する」
 - **unknown**: 「百パーセントだ――制限解除、システム【蹴速】を解放する」
 - **unknown**: 「百パーセントだ――制限解除、システム【蹴速】を解放する」
 

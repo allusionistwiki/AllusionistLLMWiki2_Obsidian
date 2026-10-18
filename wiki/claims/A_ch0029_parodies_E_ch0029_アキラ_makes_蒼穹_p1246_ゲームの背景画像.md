@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0029_parodies_E_ch0029_アキラ_makes_蒼穹_p1246_ゲームの背景画像
-title: "アキラが「唯一自慢できる感覚再現の技術」として蒼穹（空）を生成する行為は、アストラル界における環境（背景）の視覚的・感覚的な構…"
+title: 感覚再現技術によるゲーム背景生成
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_アキラ_makes_蒼穹_p1246]]"

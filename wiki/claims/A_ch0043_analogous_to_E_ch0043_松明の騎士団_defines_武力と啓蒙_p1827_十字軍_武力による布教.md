@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0043_analogous_to_E_ch0043_松明の騎士団_defines_武力と啓蒙_p1827_十字軍_武力による布教
-title: "異教徒を平定し葬るという松明の騎士団の役割は、十字軍における武力による布教や異教徒の弾圧を連想させる"
+title: 十字軍の武力布教
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_松明の騎士団_defines_武力と啓蒙_p1827]]"

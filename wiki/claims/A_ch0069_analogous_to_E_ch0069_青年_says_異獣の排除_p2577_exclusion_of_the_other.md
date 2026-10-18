@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0069_analogous_to_E_ch0069_青年_says_異獣の排除_p2577_exclusion_of_the_other
-title: "礼拝堂での「均質な祈りに異物は必要無い」という青年の主張は、危機下における同調圧力と、マイノリティ（異獣）を排除して秩序を維持…"
+title: 他者排除への転生
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_青年_says_異獣の排除_p2577]]"

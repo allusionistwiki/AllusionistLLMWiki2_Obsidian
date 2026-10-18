@@ -10,7 +10,7 @@ first_appearance: ch0225
 spoiler_after: ch0225
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 小カーイン
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: レストロオセ四十四士として知られているのは小カーイン、すなわちスーリウムの兄だ。
 - **unknown**: レストロオセ四十四士として知られているのは小カーイン、すなわちスーリウムの兄だ。
 - **unknown**: レストロオセ四十四士として知られているのは小カーイン、すなわちスーリウムの兄だ。
 

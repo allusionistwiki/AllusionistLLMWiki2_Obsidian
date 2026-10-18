@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0043_structurally_matches_E_ch0043_アズーリア_transforms_分裂_p1826_多重人格_解離
-title: "フォークにぶつかった衝撃で四つに分裂する描写は、物理的分裂を通じて自我の分散や解離を暗示している"
+title: 多重人格と解離
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_アズーリア_transforms_分裂_p1826]]"

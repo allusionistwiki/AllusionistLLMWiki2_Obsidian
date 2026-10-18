@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0234_analogous_to_E_ch0234_ダウザール_appears_as_青い血液の群体_p7680_神話における原初の混沌
-title: "ダウザールの流動する青い血液という描写は、個体としての形を失い、無秩序な生物の集合体へと還元された存在の恐怖を視覚化している"
+title: 原初の混沌の視覚化
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0234_ダウザール_appears_as_青い血液の群体_p7680]]"

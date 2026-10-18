@@ -10,7 +10,7 @@ first_appearance: ch0122
 spoiler_after: ch0122
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 青髪の人形
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 人形が、赤毛の少女と一緒に名前を呼ぶ。『ア、キ、ラ、く、ん』
 - **unknown**: 人形が、赤毛の少女と一緒に名前を呼ぶ。『ア、キ、ラ、く、ん』
 - **unknown**: 人形が、赤毛の少女と一緒に名前を呼ぶ。『ア、キ、ラ、く、ん』
 

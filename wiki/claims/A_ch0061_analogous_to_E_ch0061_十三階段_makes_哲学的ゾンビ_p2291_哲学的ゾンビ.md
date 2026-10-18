@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0061_analogous_to_E_ch0061_十三階段_makes_哲学的ゾンビ_p2291_哲学的ゾンビ
-title: "霊魂を破壊された人間を「哲学的ゾンビ」と呼称し、心（クオリア）を欠いた状態の人間を指す哲学用語をそのまま用いている"
+title: 哲学的ゾンビへの類似
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0061_十三階段_makes_哲学的ゾンビ_p2291]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_撮影規制_p287_プライバシー保護と肖像権
-title: "記憶に基づく念写以外の撮影が禁止され、撮影が呪殺や意識の閉じ込めに利用されるという設定は、現代の監視カメラ社会、顔認証技術、お…"
+title: プライバシー保護と肖像権
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_撮影規制_p287]]"

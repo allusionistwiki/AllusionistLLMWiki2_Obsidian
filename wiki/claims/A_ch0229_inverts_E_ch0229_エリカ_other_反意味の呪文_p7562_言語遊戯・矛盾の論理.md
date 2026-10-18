@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0229_inverts_E_ch0229_エリカ_other_反意味の呪文_p7562_言語遊戯・矛盾の論理
-title: "「丸い三角」や「赤い青」といった論理的矛盾を含む言葉の羅列が、知覚ではなく記号操作によって成立する呪文として機能する点は、言語…"
+title: 言語遊戯と矛盾の論理
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0229_エリカ_other_反意味の呪文_p7562]]"

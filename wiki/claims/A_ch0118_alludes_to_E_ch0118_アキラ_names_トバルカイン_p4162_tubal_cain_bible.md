@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0118_alludes_to_E_ch0118_アキラ_names_トバルカイン_p4162_tubal_cain_bible
-title: "新型強化外骨格の名前「トバルカイン」は、聖書創世記に登場する「あらゆる青銅と鉄の道具を作る者」であるカインの子孫、トバル・カイ…"
+title: 聖書由来の兵器命名
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0118_アキラ_names_トバルカイン_p4162]]"

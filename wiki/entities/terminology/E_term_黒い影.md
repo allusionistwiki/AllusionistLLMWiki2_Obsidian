@@ -10,7 +10,7 @@ first_appearance: ch0169
 spoiler_after: ch0169
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 黒い影
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 夜な夜な襲い来る正体不明の黒い影。
 - **unknown**: 夜な夜な襲い来る正体不明の黒い影。
 - **unknown**: 夜な夜な襲い来る正体不明の黒い影。
 

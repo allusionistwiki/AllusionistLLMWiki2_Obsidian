@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0078_structurally_matches_E_ch0078_カーイン_has_property_情報的牽制_p2905_将棋の指し手による読み誘導
-title: "カーインの動きや表情がサイバーカラテの予測を誘導する『情報的牽制』として機能する構造は、将棋における相手のAIや人間の読み筋を…"
+title: 将棋の誘い手概念との一致
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0078_カーイン_has_property_情報的牽制_p2905]]"

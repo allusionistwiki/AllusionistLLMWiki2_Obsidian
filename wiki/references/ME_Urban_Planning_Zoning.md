@@ -3,23 +3,19 @@ schema_version: "5.1"
 id: ME_Urban_Planning_Zoning
 title: 都市計画ゾーニング
 type: external_reference
-
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "Urban_Planning_Zoning"
-aliases: []
-domain: "culture"
-document_status: active
-referenced_by: []
-relations: []
-created: "2026-10-11"
-updated: "2026-10-11"
+domain: "Contemporary Culture"
+review_status: llm_verified
 ---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
 # Urban_Planning_Zoning
 
-<!-- AUTO:BEGIN -->
-（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作での参照
+## 本作からの参照 (1 件)
 
-- [[A_ch0222_structurally_matches_E_ch0222_ガロアンディアン主街区_defines_機能別モジュール_p7354_Urban_Planning_Zoning]]
-<!-- AUTO:END -->
+- [[A_ch0222_structurally_matches_E_ch0222_ガロアンディアン主街区_defines_機能別モジュール_p7354_Urban_Planning_Zoning]] — 時間帯によって機能が変わる「移動式再演博物館」は、歴史や景観を時間軸で操作・消費するガロアンディアンの特異な都市設計を示している。

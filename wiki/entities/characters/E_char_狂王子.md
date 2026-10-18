@@ -10,7 +10,7 @@ spoiler_after: ch0191
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 狂王子
@@ -32,12 +32,14 @@ updated: '2026-10-11'
 
 - **unknown**: 狂王子は潔癖症の仮面を血に染めて、仮初めの墓標に押し潰されて眠りにつく。
 - **unknown**: 狂王子は潔癖症の仮面を血に染めて、仮初めの墓標に押し潰されて眠りにつく。
+- **unknown**: 狂王子は潔癖症の仮面を血に染めて、仮初めの墓標に押し潰されて眠りにつく。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「ああ、母様、母／おのれエトラメトラトン、あの魔女め／うして、僕を――」
 - **unknown**: 「ああ、母様、母／おのれエトラメトラトン、あの魔女め／うして、僕を――」
 - **unknown**: 「ああ、母様、母／おのれエトラメトラトン、あの魔女め／うして、僕を――」
 

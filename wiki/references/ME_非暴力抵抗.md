@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_非暴力抵抗
 title: 非暴力抵抗
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "非暴力抵抗"
 domain: "Contemporary Culture"

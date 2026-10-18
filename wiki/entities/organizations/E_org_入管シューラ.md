@@ -10,7 +10,7 @@ spoiler_after: ch0186
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 入管シューラ
@@ -30,6 +30,8 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 敷地内の全モニタが乗っ取られ奇妙な幻が上映される。
+- **unknown**: この『門』付近のちびシューラ全てが情報的に孤立させられていた。
 - **unknown**: 敷地内の全モニタが乗っ取られ奇妙な幻が上映される。
 - **unknown**: この『門』付近のちびシューラ全てが情報的に孤立させられていた。
 - **unknown**: 敷地内の全モニタが乗っ取られ奇妙な幻が上映される。

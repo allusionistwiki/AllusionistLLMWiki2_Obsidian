@@ -10,7 +10,7 @@ first_appearance: ch0223
 spoiler_after: ch0223
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 博物城の前世持ち
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 『転生なんて碌なものじゃない』と博物城の前世持ちたちは言っていた。
 - **unknown**: 『転生なんて碌なものじゃない』と博物城の前世持ちたちは言っていた。
 - **unknown**: 『転生なんて碌なものじゃない』と博物城の前世持ちたちは言っていた。
 

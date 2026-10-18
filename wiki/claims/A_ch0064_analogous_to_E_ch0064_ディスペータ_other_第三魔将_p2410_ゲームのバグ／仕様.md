@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_ディスペータ_other_第三魔将_p2410_ゲームのバグ／仕様
-title: "第三魔将が「言いくるめられて」封印されるのは、ゲームの仕様やバグによって敵が無力化される状況を指している"
+title: バグ仕様による無力化
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ディスペータ_other_第三魔将_p2410]]"

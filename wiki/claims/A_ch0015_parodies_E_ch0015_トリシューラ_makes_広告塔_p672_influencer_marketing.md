@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0015_parodies_E_ch0015_トリシューラ_makes_広告塔_p672_influencer_marketing
-title: "トリシューラが肖像権を盾に法外な金銭を要求する行為は、現代の権利ビジネスや法的圧力を悪用した搾取構造を風刺している"
+title: インフルエンサー搾取の風刺
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0015_トリシューラ_makes_広告塔_p672]]"

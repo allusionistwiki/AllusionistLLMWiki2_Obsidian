@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0035_parodies_E_ch0035_ハルベルト_other_バタードキャット_p1483_バタードッグの法則
-title: "「選択的重力の猫（バタードキャット）」という幻獣は、ネットミームである「バタードッグの法則（バターを塗ったパンと猫を結合させる…"
+title: バタードッグの法則の幻獣化
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_ハルベルト_other_バタードキャット_p1483]]"

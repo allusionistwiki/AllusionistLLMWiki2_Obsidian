@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_椅子取りゲーム
 title: 椅子取りゲーム
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "椅子取りゲーム"
 domain: "Contemporary Consumer Culture"

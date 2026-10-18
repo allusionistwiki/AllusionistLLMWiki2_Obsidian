@@ -7,7 +7,7 @@ chapter: ch0168
 spoiler_after: ch0168
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 characters:
 - '[[E_char_アキラ]]'
 - '[[E_char_カイン]]'

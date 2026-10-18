@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_アキラ_observes_宇宙_p1170_天動説と中世の宇宙観
-title: "死後の意識で見た多層構造の宇宙は、エウダイモーン（幸福）やフェーリム（悪意）といった概念を伴い、中世の天球層モデル（トマス・ア…"
+title: 天動説と宇宙観
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_observes_宇宙_p1170]]"

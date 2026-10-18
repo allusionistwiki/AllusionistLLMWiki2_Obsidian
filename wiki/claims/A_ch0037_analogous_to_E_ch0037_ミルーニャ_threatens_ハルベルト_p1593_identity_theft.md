@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_threatens_ハルベルト_p1593_identity_theft
-title: "ハルベルトを殺し、その名を襲うという宣言は、アイデンティティの盗用と継承、および「名前」が権力と存在を規定する世界観を示す"
+title: 名前による権力規定とアイデンティティ盗用
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_threatens_ハルベルト_p1593]]"

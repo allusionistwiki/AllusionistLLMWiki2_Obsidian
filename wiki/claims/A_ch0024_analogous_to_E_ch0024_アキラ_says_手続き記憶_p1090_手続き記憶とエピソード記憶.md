@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0024_analogous_to_E_ch0024_アキラ_says_手続き記憶_p1090_手続き記憶とエピソード記憶
-title: "アキラが「エピソード記憶は削れても、手続き記憶は削れない」と述べ、サイバーカラテの型が身体に残ることを説明するのは、心理学にお…"
+title: 手続き記憶の身体定着
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_アキラ_says_手続き記憶_p1090]]"

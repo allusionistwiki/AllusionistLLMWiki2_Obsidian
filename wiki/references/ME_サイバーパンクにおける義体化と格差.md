@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_サイバーパンクにおける義体化と格差
 title: 義体化と格差
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "サイバーパンクにおける義体化と格差"
 domain: "Contemporary Culture"

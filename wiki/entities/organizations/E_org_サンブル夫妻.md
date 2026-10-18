@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_org_サンブル夫妻
+type: entity
+title: サンブル夫妻
+subtype: organization
+canonical_name: サンブル夫妻
+aliases: []
+first_appearance: ch5572
+spoiler_after: ch5572
+document_status: active
+created: '2026-10-19'
+updated: '2026-10-19'
+---
+# サンブル夫妻
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 限定的な復活とはいえ、女神ルウテトの加護によって再生者という巨大マーケットが生まれる余地ができている。再生者問題が今後どのような動きを見せるにせよ、これを見逃すサンブル夫妻ではない。愛は広げなければならないからだ。
+
+<!-- /AUTO-GENERATED:action -->

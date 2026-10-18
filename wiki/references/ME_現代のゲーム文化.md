@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_現代のゲーム文化
 title: ゲーム文化
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "現代のゲーム文化"
 domain: "Contemporary Consumer Culture"

@@ -10,7 +10,7 @@ first_appearance: ch0174
 spoiler_after: ch0174
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # イアテムの剣
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: ぼたり、と雫が落ちる。イアテムの剣は水毀れしていた。
 - **unknown**: ぼたり、と雫が落ちる。イアテムの剣は水毀れしていた。
 - **unknown**: ぼたり、と雫が落ちる。イアテムの剣は水毀れしていた。
 

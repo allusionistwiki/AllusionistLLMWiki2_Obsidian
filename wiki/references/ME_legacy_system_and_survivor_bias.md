@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_legacy_system_and_survivor_bias
 title: レガシーシステム
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "legacy_system_and_survivor_bias"
 domain: "Contemporary Culture"

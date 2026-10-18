@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0070_analogous_to_E_ch0070_カラス型箒_activates_アストラルエンジン_p2605_ゲーム内の乗り物カスタマイズ／変形
-title: "箒が錬金術と呪文によって巨大なカラス型戦闘機に変貌する描写は、ゲームにおけるキャラクターの「変形ギミック」や「アバター変更」に…"
+title: 乗り物変形への転生
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0070_カラス型箒_activates_アストラルエンジン_p2605]]"

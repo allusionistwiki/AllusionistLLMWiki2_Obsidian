@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_term_物語
+type: entity
+subtype: terminology
+canonical_name: 物語
+title: "物語"
+first_appearance: ch5589
+spoiler_after: ch5589
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 物語
+
+ショウとミズキによる危険な人魚追跡の旅を指す用語であり、愛して喰らうか壊すかの選択が迫られる展開を含む。悪意や欲望を内包しながらも、限りない愛を含んだ存在として描かれている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5589 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> かくして、ショウの運命を大きく変える愛と人喰いと異世界の物語が始まった。 恋して壊すか。愛して喰らうか。人魚が突きつける問いは儚く泡に消えていく。 選ぶのは、ひとりの少年。そのキスが、世界を殺す。（ch5589）
+> それは悪意であり、欲望であり、それでいて限りない愛を内包した物語。（ch5589）
+
+<!-- AUTO:END -->

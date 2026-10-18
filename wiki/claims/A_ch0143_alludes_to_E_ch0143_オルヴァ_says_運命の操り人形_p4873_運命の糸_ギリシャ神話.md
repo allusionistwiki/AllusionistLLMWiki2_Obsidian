@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0143_alludes_to_E_ch0143_オルヴァ_says_運命の操り人形_p4873_運命の糸_ギリシャ神話
-title: "オルヴァが「人は皆、運命の操り人形だ」と述べ、マラードがルバーブの糸で操られていると指摘する場面は、運命の糸を操る存在（モイラ…"
+title: 運命の糸による支配構造
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0143_オルヴァ_says_運命の操り人形_p4873]]"

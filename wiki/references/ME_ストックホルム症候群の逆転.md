@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ストックホルム症候群の逆転
 title: 逆ストックホルム
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ストックホルム症候群の逆転"
 domain: "Contemporary Culture"

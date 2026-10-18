@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0254_analogous_to_E_p8166_lina_sacrifice_political_marriage
-title: "リーナを「器」として扱い、次の世代を生み育てる役割を強いることは、歴史上の政略結婚や、家柄・血統を維持するための個人の犠牲を指…"
+title: 家柄維持のための政略結婚的犠牲
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0254_アルゾラ・クロウサー_is_made_of_ゾラ分家_p8154]]"

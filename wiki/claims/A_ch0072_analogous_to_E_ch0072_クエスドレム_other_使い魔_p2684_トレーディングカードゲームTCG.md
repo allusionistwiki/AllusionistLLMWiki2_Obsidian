@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0072_analogous_to_E_ch0072_クエスドレム_other_使い魔_p2684_トレーディングカードゲームTCG
-title: "クエスドレムが「四十枚一組のカード型端末」から使い魔を召喚する様子は、TCGにおけるカードプレイ（召喚）のメタファーである"
+title: TCG的な使い魔召喚
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0072_クエスドレム_other_使い魔_p2684]]"

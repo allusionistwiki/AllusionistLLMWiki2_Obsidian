@@ -10,7 +10,7 @@ spoiler_after: ch0102
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 流星
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 一筋の星が流れ落ちて、夜空に尾を引いていった。 衝撃と音が木々を揺らし、鳥たちが慌てて飛び立っていく。
 - **unknown**: 一筋の星が流れ落ちて、夜空に尾を引いていった。 衝撃と音が木々を揺らし、鳥たちが慌てて飛び立っていく。
 - **unknown**: 一筋の星が流れ落ちて、夜空に尾を引いていった。 衝撃と音が木々を揺らし、鳥たちが慌てて飛び立っていく。
 

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0036_alludes_to_E_ch0036_ハルベルト_reveals_キュトスの姉妹の候補者_p1515_アイドルグループのメンバー選抜
-title: "「いないなら作ってしまえばいい」という発想から、候補者を選出し競争させるという構造は、現代のアイドルグループやオーディション番…"
+title: アイドル選抜プロセスの暗喩
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0036_ハルベルト_reveals_キュトスの姉妹の候補者_p1515]]"

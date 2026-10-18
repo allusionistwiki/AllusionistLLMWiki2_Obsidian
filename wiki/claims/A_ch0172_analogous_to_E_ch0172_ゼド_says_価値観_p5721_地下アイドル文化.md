@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0172_analogous_to_E_ch0172_ゼド_says_価値観_p5721_地下アイドル文化
-title: "ライブの価値を金銭ではなく『熱量』や『思い入れ』に置くことで、現代の地下アイドルや推し活文化における非経済的価値観を引用している"
+title: 地下アイドルの非経済的価値観
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0172_ゼド_says_価値観_p5721]]"

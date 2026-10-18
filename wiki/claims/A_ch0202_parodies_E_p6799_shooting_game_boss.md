@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0202_parodies_E_p6799_shooting_game_boss
-title: "虹犬の貴婦人が傘から光の雨を降らせる攻撃は、シューティングゲームにおけるボスの弾幕攻撃を模倣している"
+title: 虹犬貴婦人の弾幕攻撃模倣
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"

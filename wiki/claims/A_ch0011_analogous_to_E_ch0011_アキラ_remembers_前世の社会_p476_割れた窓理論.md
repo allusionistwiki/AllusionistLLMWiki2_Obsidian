@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0011_analogous_to_E_ch0011_アキラ_remembers_前世の社会_p476_割れた窓理論
-title: "前世の社会の美辞麗句の中に「割れた窓を放置してはならない」という犯罪予防理論（割れた窓理論）を引用し、社会の正常化が構造的暴力…"
+title: 割れた窓理論の引用
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0011_アキラ_remembers_前世の社会_p476]]"

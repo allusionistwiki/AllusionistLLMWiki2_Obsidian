@@ -10,7 +10,7 @@ first_appearance: ch0255
 spoiler_after: ch0255
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 威力竜巫女
 
@@ -23,6 +23,7 @@ updated: '2026-10-11'
 マルガリータ
 オルガンローデ
 竜の寺院が取り壊される光景を見せつけられていた。
+- **unknown**: 威力竜巫女は機械仕掛けの偽紀竜型重機によって老朽化した威力
 - **unknown**: 威力竜巫女は機械仕掛けの偽紀竜型重機によって老朽化した威力
 
 <!-- /AUTO-GENERATED:visual -->

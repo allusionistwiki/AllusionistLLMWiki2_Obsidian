@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_ガルズ_says_十三人揃った_p2404_儀式の完了
-title: "「十三人揃った」という宣言は、特定の数の犠牲によって儀式が完了するという、オカルト的な儀式の構造を模している"
+title: オカルト儀式の完了構造
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ガルズ_says_十三人揃った_p2404]]"

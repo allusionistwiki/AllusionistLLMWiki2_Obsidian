@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0011_alludes_to_E_ch0011_トリシューラ_names_鮮血のトリシューラ_p487_トリシューラ
-title: "トリシューラの名前はヒンドゥー教の三柱神の一人トリシューラ（Trishula、三叉槍を持つシヴァの別名）に由来しており、彼女の…"
+title: ヒンドゥー神話の権能模倣
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0011_トリシューラ_names_鮮血のトリシューラ_p487]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0073_analogous_to_E_ch0073_カイン_says_沼女現象_p2732_philosophical_zombie
-title: "「哲学的ゾンビ」という概念は、心（クオリア）を持たないが物理的には人間と区別がつかない存在という哲学思想を、本作の「アストラル…"
+title: 哲学的ゾンビ
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_カイン_says_沼女現象_p2732]]"

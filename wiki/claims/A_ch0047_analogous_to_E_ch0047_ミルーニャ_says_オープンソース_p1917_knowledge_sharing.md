@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_knowledge_sharing
-title: "ミルーニャの主張は、知識の共有が社会全体の利益（格差是正）につながるというオープンナレッジの思想と一致する"
+title: オープンナレッジによる格差是正
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_オープンソース_p1917]]"

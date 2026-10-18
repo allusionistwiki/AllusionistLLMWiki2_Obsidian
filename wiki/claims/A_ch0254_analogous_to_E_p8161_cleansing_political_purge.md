@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0254_analogous_to_E_p8161_cleansing_political_purge
-title: "大神院内部の「大掃除」と称される粛清は、歴史上の政治的粛清や、組織内の派閥闘争における敵対勢力の排除を指している"
+title: 大掃除を装った政治的粛清
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0254_アルゾラ・クロウサー_is_made_of_ゾラ分家_p8154]]"

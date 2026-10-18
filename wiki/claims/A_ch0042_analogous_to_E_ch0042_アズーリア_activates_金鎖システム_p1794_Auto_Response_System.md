@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0042_analogous_to_E_ch0042_アズーリア_activates_金鎖システム_p1794_Auto_Response_System
-title: "呪動装甲からの通報が本部ではなく寄生異獣の自動返信システムに接続される構造は、自動応答システム（チャットボット等）のメカニズム…"
+title: 自動応答システムへの接続
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0042_アズーリア_activates_金鎖システム_p1794]]"

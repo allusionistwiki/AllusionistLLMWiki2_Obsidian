@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0060_analogous_to_E_ch0060_夜の民_has_property_摸倣と複製_p2249_simulation_theory
-title: "夜の民による精巧な夢の創造は、現実を凌駕するほどの完成度を持つ「虚構の自律性」を示すメタフィクショナルな構造である"
+title: 虚構自律のシミュレーション仮説
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_夜の民_has_property_摸倣と複製_p2249]]"

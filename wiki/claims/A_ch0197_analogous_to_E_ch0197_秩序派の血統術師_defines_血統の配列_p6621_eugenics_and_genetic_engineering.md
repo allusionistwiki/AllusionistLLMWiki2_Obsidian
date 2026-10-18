@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0197_analogous_to_E_ch0197_秩序派の血統術師_defines_血統の配列_p6621_eugenics_and_genetic_engineering
-title: "秩序派の血統術師による種族や血統の掛け合わせ・整列は、優生学や遺伝子工学に基づく人間改良の試みを暗示している"
+title: 人間改良を暗示する優生学と遺伝子工学
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0197_秩序派の血統術師_defines_血統の配列_p6621]]"

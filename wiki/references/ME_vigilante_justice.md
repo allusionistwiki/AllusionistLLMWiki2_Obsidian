@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_vigilante_justice
 title: 自警団
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "vigilante_justice"
 domain: "Contemporary Culture"

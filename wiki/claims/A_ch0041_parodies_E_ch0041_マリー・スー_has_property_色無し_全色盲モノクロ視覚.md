@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0041_parodies_E_ch0041_マリー・スー_has_property_色無し_全色盲モノクロ視覚
-title: "マリーの「色無し」能力は、視覚情報による識別を不可能にする全色盲的な特性を、敵の識別不能による優位性（無敵）として逆転させるゲ…"
+title: 全色盲的無敵メカニクス
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0041_マリー・スー_has_property_色無し_p1779]]"

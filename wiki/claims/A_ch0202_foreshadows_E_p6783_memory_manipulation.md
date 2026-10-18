@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0202_foreshadows_E_p6783_memory_manipulation
-title: "聖女の記憶が書き換わる現象は、単なる幻覚ではなく、過去改変や因果律の操作といった高度な呪術的介入を示唆している"
+title: 聖女記憶書き換えの因果律操作示唆
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"

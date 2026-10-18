@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_アズールとマリー_p1973_閉じたコミュニティ・カップル
-title: "アズールとマリーの閉じた関係への介入が「冒涜」と感じられる描写は、現代における閉鎖的コミュニティの境界線と、外部からの介入に対…"
+title: 閉じたコミュニティへの介入と倫理
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0049_プリエステラ_observes_アズールとマリー_p1973]]"

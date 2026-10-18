@@ -10,7 +10,7 @@ spoiler_after: ch0213
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # セイグリン
@@ -31,6 +31,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 言葉通り、雲状の足で宙に軌跡を残して移動するのは『黒雲翁』セイグリン。
 - **unknown**: 言葉通り、雲状の足で宙に軌跡を残して移動するのは『黒雲翁』セイグリン。
 - **unknown**: 言葉通り、雲状の足で宙に軌跡を残して移動するのは『黒雲翁』セイグリン。
 

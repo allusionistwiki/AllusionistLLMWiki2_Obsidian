@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0002_analogous_to_E_ch0002_アキラ_learns_誤転生_p167_isekai_isekai
-title: "アキラが「事故」によって意図しない世界に転生したという設定は、異世界転生ジャンルにおける「チート能力」や「意図的な転生」のクリ…"
+title: 事故による不条理な誤転生
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_アキラ_learns_誤転生_p167]]"

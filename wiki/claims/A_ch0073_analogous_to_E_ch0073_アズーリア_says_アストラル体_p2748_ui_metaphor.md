@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0073_analogous_to_E_ch0073_アズーリア_says_アストラル体_p2748_ui_metaphor
-title: "アストラル界（GUI）とグラマー界（TUI）の関係は、コンピュータのユーザーインターフェースにおける視覚的表現とテキスト表現の…"
+title: GUIとTUIの対比
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_アズーリア_says_アストラル体_p2748]]"

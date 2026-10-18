@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_char_エリカ推定
+type: entity
+title: エリカ推定
+subtype: character
+canonical_name: エリカ推定
+aliases: []
+first_appearance: ch5583
+spoiler_after: ch5583
+document_status: active
+created: '2026-10-19'
+updated: '2026-10-19'
+---
+# エリカ推定
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「デンちゃんはいつだって私たちみんなの為に怒ってくれてるんだよね。お姉ちゃん、そういうデンちゃんの優しさと暗い気持ちが大好きだよ。だってお姉ちゃんも、いつだってこの最低な世界とクソジジイどもに死ねって思ってるから」
+
+<!-- /AUTO-GENERATED:speech -->

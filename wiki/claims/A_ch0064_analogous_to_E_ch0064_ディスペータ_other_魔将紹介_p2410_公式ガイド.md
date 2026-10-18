@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_ディスペータ_other_魔将紹介_p2410_公式ガイド
-title: "後書きで魔将の情報を整理するのは、ゲームの公式ガイドや攻略本のメタ的な記述である"
+title: 公式ガイド的な記述
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ディスペータ_other_第一魔将_p2410]]"

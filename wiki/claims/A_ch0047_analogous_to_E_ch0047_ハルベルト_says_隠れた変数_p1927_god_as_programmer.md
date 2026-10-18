@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_隠れた変数_p1927_god_as_programmer
-title: "「記述された情報によって私は構築されている」という記述は、世界がプログラムであり、その記述者（神/プログラマー）が存在するとい…"
+title: 神はプログラマーというシミュレーション
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_隠れた変数_p1927]]"

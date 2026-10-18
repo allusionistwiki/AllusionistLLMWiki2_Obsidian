@@ -10,7 +10,7 @@ spoiler_after: ch0187
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 生徒
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: カラフルなライフルを担ぎ、揃いの青い体操着に身を包み、闇を駆け抜ける『心』を狙い撃つ。
 - **unknown**: カラフルなライフルを担ぎ、揃いの青い体操着に身を包み、闇を駆け抜ける『心』を狙い撃つ。
 - **unknown**: カラフルなライフルを担ぎ、揃いの青い体操着に身を包み、闇を駆け抜ける『心』を狙い撃つ。
 

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0078_analogous_to_E_ch0078_ちびシューラ_helps_アキラ_p2904_スマホゲームの自動戦闘機能
-title: "ちびシューラによる初撃パターンの予測とサジェストは、現代のAIによるビッグデータ分析に基づく行動予測アルゴリズムのメタファーで…"
+title: AI行動予測アルゴリズムのメタファー
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0078_ちびシューラ_helps_アキラ_p2904]]"

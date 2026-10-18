@@ -23,7 +23,8 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from llm_client import call_llm, parse_json_lenient, strip_code_fence  # noqa: E402
 
 RAW = ROOT / "raw"
-OUT_DIR = ROOT.parent / "AllusionistLLMWiki2_Work" / "appearance_facts"
+from paths import WORK_DIR
+OUT_DIR = WORK_DIR / "appearance_facts"
 
 APPEAR_HINT = re.compile(
     r"髪|瞳|目|顔|肌|身長|体格|姿|風体|外見|容貌|風貌|服|衣装|鎧|兜|傷|義手|義腕|義足|義体|"

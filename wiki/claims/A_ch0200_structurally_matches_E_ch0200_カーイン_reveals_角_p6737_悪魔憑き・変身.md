@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0200_structurally_matches_E_ch0200_カーイン_reveals_角_p6737_悪魔憑き・変身
-title: "仮面（社会的役割）を剥がされた人物から角が生え、正体が露わになる展開は、悪魔憑きや隠された魔性の本性が暴かれるという神話的・ホ…"
+title: 本性が暴かれる悪魔憑きと変身
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0200_カーイン_reveals_角_p6737]]"

@@ -10,7 +10,7 @@ first_appearance: ch0135
 spoiler_after: ch0135
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 弾道学
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 弾道学はサイバネティクスの基礎だ。
 - **unknown**: 弾道学はサイバネティクスの基礎だ。
 - **unknown**: 弾道学はサイバネティクスの基礎だ。
 

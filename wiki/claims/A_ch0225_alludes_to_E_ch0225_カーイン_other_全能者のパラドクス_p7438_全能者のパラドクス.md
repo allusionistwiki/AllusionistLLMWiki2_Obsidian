@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0225_alludes_to_E_ch0225_カーイン_other_全能者のパラドクス_p7438_全能者のパラドクス
-title: "「全能者が持ち上げられない石を作れるか」という問いは、哲学における全能者のパラドクスを直接的に引用し、スーリウムの全知全能とい…"
+title: 全能者のパラドクス引用
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0225_カーイン_other_全能者のパラドクス_p7438]]"

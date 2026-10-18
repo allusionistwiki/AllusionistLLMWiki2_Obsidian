@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0007_analogous_to_E_ch0007_トリシューラ_says_アキラ_p312_AI_Voice_Assistant
-title: "トリシューラの「息づかいがない」「スピーカーを通したようなアーティフィシャルな声」は、現代のAI音声アシスタントや合成音声の特…"
+title: AI音声アシスタント特性の指喩
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_トリシューラ_says_アキラ_p312]]"

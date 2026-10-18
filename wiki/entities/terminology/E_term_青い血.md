@@ -1,25 +1,27 @@
 ---
-schema_version: '5.1'
+schema_version: "5.1"
 id: E_term_青い血
 type: entity
-title: 青い血
 subtype: terminology
 canonical_name: 青い血
-aliases: []
+title: "青い血"
 first_appearance: ch0257
 spoiler_after: ch0257
 document_status: active
-created: '2026-10-10'
-updated: '2026-10-11'
+review_status: llm_verified
+created: "2026-09-30"
 ---
+
 # 青い血
 
-（本文：人間が記述する部分。自動生成では変更されません。）
+浄界の破綻を引き起こし調和を塗りつぶす現象である。ロードデンドロンとチッセをロープのように伝って侵食し、呪術的に強固なつながりを作る媒体でもある。
 
-<!-- AUTO-GENERATED:visual -->
-## 視覚的記述
+<!-- AUTO:BEGIN -->
+**初出**: ch0257 ｜ **観測イベント**: 2 件（2 話に出現）
 
-- **unknown**: 浄界の破綻。百目のクロウサー、イナータルゴによる調和さえ塗りつぶして、青い血が全てを呑み込んだ。
-- **unknown**: 浄界の破綻。百目のクロウサー、イナータルゴによる調和さえ塗りつぶして、青い血が全てを呑み込んだ。
+## 代表引用
 
-<!-- /AUTO-GENERATED:visual -->
+> 浄界の破綻。百目のクロウサー、イナータルゴによる調和さえ塗りつぶして、青い血が全てを呑み込んだ。（ch0257）
+> 青い血は、いつの間にかロードデンドロンから生命群をロープのように伝ってチッセまでも侵食している。術者であるチッセがそれによって傷つくことは無かったが、それによって両者の間には呪術的に強固なつながりができていた。（ch5584）
+
+<!-- AUTO:END -->

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0066_analogous_to_E_ch0066_グラル・アーニスタ_fights_死人_p2464_ギルドシステム
-title: "同じ姓（アーニスタ）を持つ者同士が結束し、集団を強化する神働術は、MMOにおけるギルドメンバー同士のバフ効果や連携ボーナスを模…"
+title: ギルド連携を模した神働術
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_グラル・アーニスタ_fights_死人_p2464]]"

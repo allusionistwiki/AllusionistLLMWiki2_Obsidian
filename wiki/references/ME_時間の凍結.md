@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_時間の凍結
 title: 時間凍結
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "時間の凍結"
 domain: "Contemporary Culture"

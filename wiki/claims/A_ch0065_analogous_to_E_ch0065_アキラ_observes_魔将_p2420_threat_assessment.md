@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_threat_assessment
-title: "敵の数を数え「とても私一人でどうにかなるような数じゃない」と判断することは、ゲームにおける脅威評価（Threat Assess…"
+title: 脅威評価としての敵数判断
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_observes_魔将_p2420]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0081_alludes_to_E_ch0081_ダモクレスの剣_appears_巨大な剣_p2971_ダモクレスの剣
-title: "古代ギリシャの逸話「ダモクレスの剣」を引用し、権力者の安易な地位と、その上に吊るされた死の恐怖（正当性なき権力への処断）をメタ…"
+title: ダモクレスの剣の暗喩
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0081_ダモクレスの剣_appears_巨大な剣_p2971]]"

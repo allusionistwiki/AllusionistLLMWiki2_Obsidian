@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0054_alludes_to_E_ch0054_ガルズ_other_夜の民_p2100_哲学的ゾンビ
-title: "ガルズが夜の民を「知能を持たない疑似細菌」「思考を偽装しているだけ」と定義し、魂の不在を主張する論理は、外見や振る舞いは人間と…"
+title: 哲学的ゾンビへの暗喩
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_ガルズ_other_死人の森の断章_p2100]]"

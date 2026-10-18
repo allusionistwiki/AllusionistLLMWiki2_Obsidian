@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_演武による精神攻撃
 title: 演武による精神攻撃
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "演武による精神攻撃"
 domain: "Contemporary Culture"

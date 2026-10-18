@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0055_alludes_to_E_ch0055_ジル_reveals_虐殺の真相_p2130_historical_revisionism
-title: "パレルノ山の虐殺が『槍神教に都合のいいようにねじ曲げられた歴史』であるという記述は、勝者による歴史の書き換え（歴史修正主義）を…"
+title: 歴史修正主義による真相の歪曲
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0055_ジル_reveals_虐殺の真相_p2130]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0032_alludes_to_E_ch0032_ベアトリーチェ_says_遺伝学_p1308_メンデルの遺伝学
-title: "異世界の赤ん坊が現代の遺伝学用語（対立遺伝子、隔世遺伝）を用いて説明するのは、転生者としての知識の露呈であり、メタ的に「異世界…"
+title: メンデルの遺伝学
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0032_ベアトリーチェ_says_遺伝学_p1308]]"

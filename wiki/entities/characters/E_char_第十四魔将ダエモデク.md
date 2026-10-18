@@ -10,7 +10,7 @@ spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 第十四魔将ダエモデク
@@ -37,6 +37,8 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 第十四魔将、痩せた黒蜥蜴ダエモデク。黒蜥蜴人。
+- **unknown**: 第十四魔将、痩せた黒蜥蜴ダエモデク。黒蜥蜴人。リザードマン
 - **unknown**: 第十四魔将、痩せた黒蜥蜴ダエモデク。黒蜥蜴人。
 - **unknown**: 第十四魔将、痩せた黒蜥蜴ダエモデク。黒蜥蜴人。リザードマン
 - **unknown**: 第十四魔将、痩せた黒蜥蜴ダエモデク。黒蜥蜴人。

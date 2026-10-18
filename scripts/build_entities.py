@@ -21,7 +21,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
-WORK = ROOT.parent / "AllusionistLLMWiki2_Work"
+from paths import WORK_DIR as WORK
 EVENTS = WORK / "events"
 WIKI = ROOT / "wiki"
 CACHE = ROOT / "data" / "entity_notes.json"

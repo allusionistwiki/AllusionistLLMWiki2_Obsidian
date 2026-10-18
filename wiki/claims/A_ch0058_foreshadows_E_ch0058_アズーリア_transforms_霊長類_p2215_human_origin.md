@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0058_foreshadows_E_ch0058_アズーリア_transforms_霊長類_p2215_human_origin
-title: "有翼の牡鹿から霊長類への変異は、デーモンが人間（またはその原初形態）へと回帰する、あるいは飛翔能力の喪失による存在の退化を示唆…"
+title: 人類の起源への回帰
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0058_アズーリア_transforms_霊長類_p2215]]"

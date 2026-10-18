@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_tracking
-title: "積層鏡に集結した影を数える行為は、ゲームにおける敵の追跡を模している"
+title: 敵追跡としての影数え
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_observes_魔将_p2420]]"

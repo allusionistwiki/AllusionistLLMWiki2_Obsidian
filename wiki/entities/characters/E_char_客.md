@@ -10,7 +10,7 @@ first_appearance: ch0085
 spoiler_after: ch0085
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 客
 
@@ -26,6 +26,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 断末魔の言葉は、どうしてか決まってこうだ。「ママ！　ママ！」
 - **unknown**: 断末魔の言葉は、どうしてか決まってこうだ。「ママ！　ママ！」
 - **unknown**: 断末魔の言葉は、どうしてか決まってこうだ。「ママ！　ママ！」
 

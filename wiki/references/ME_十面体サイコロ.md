@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_十面体サイコロ
 title: 十面体サイコロ
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "十面体サイコロ"
 domain: "Contemporary Culture"

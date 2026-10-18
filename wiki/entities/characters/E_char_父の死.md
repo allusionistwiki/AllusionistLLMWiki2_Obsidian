@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0037_analogous_to_E_ch0037_プリエステラ_reveals_父の死_p1538_abusive_parent|プリエステラの父による暴力と無能さ、そしてその死に対するプリエステラの安堵は、虐待的な親との関係からの解放と、その後の心理的葛…]]
+- [[A_ch0037_analogous_to_E_ch0037_プリエステラ_reveals_父の死_p1538_abusive_parent|虐待的親からの解放と葛藤]]
 
 <!-- AUTO:END -->

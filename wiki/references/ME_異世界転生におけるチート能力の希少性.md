@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_異世界転生におけるチート能力の希少性
 title: 転生チートの希少性
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "異世界転生におけるチート能力の希少性"
 domain: "Contemporary Culture"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0067_analogous_to_E_ch0067_エスフェイル_other_体毛触手_p2495_sensor_array
-title: "エスフェイルの体毛が「意思を持つ触手」として機能し、外部の呪力に反応して回避行動を取る仕組みは、センサーアレイによる自動防御シ…"
+title: センサーアレイの自動防御
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0067_エスフェイル_has_property_体毛による触手_p2495]]"

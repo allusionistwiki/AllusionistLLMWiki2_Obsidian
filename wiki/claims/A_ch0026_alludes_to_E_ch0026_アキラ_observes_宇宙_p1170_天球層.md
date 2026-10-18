@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_アキラ_observes_宇宙_p1170_天球層
-title: "「夜光天、幽冥天、精霊天、太陰天、太陽天、土塊天、火力天、水晶天、そして天堂天」という列挙は、中世の天文学における天球層の名称…"
+title: 天球層
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_observes_宇宙_p1170]]"

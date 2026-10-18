@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_operating_system
-title: "「紀元槍の制御盤」という表現は、世界をOS（オペレーティングシステム）として捉え、その制御盤（コンソール）から世界を操作できる…"
+title: 世界をOSと捉える構造
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_紀元槍_p1925]]"

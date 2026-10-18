@@ -10,7 +10,7 @@ first_appearance: ch0262
 spoiler_after: ch0262
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 血族の者たち
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 血族の中から我こそがと名乗り出た者たちが空使いの称号を受け継ぐために冥府下りを決行した。
 - **unknown**: 血族の中から我こそがと名乗り出た者たちが空使いの称号を受け継ぐために冥府下りを決行した。
 - **unknown**: 血族の中から我こそがと名乗り出た者たちが空使いの称号を受け継ぐために冥府下りを決行した。
 

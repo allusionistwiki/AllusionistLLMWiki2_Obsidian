@@ -24,7 +24,8 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from llm_client import call_llm, parse_json_lenient, strip_code_fence  # noqa: E402
 
 RAW = ROOT / "raw"
-OUT_DIR = ROOT.parent / "AllusionistLLMWiki2_Work" / "deferral_facts"
+from paths import WORK_DIR
+OUT_DIR = WORK_DIR / "deferral_facts"
 
 # 拡張: カンマ/改行またぎ「今は、まだ」＋同型の先延ばし示唆（いずれ/そのうち/時期が来たら/準備ができたら/追って/未定 等）
 DEFER_PAT = re.compile(

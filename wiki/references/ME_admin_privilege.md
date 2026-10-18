@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_admin_privilege
 title: 管理者権限
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "admin_privilege"
 domain: "Contemporary Culture"

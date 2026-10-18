@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_knowledge_monopoly
-title: "ハルベルトの「秘匿されるべきもの」という主張とミルーニャの「オープンソース」主張の対立は、知的財産権（特許）と情報共有（オープ…"
+title: 知的財産権と情報共有の対立
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_オープンソース_p1917]]"

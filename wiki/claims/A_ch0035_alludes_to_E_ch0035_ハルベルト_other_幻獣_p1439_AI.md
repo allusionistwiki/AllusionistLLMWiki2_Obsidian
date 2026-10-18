@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0035_alludes_to_E_ch0035_ハルベルト_other_幻獣_p1439_AI
-title: "「事前に設定したプランに従って決定論的な振る舞いをする仮想使い魔」であり「人工知能にすら迫る動きが可能」という記述は、現代のA…"
+title: AI的幻獣制御システム
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_ハルベルト_other_幻獣_p1439]]"

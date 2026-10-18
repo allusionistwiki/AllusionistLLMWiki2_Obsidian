@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_neural_network
 title: 神経ネットワーク
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "neural_network"
 domain: "Contemporary Culture"

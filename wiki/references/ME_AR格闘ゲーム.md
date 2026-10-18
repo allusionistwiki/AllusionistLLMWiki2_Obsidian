@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_AR格闘ゲーム
 title: AR格闘ゲーム
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "AR格闘ゲーム"
 domain: "Contemporary Consumer Culture"

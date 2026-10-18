@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0006_foreshadows_E_ch0006_謎の声_says_頭を良くする_p310_cognitive_modification
-title: "「頭を良くしてあげる」という謎の声の発言は、アキラの認知機能や精神構造に対する直接的な介入（ハッキング、改変、あるいは洗脳）が…"
+title: 認知改変の伏線
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0006_謎の声_says_頭を良くする_p310]]"

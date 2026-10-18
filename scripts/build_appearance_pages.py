@@ -15,8 +15,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 WIKI = ROOT / "wiki"
-WORK = ROOT.parent / "AllusionistLLMWiki2_Work"
-FACTS = ROOT.parent / "AllusionistLLMWiki2_Work" / "appearance_facts"  # 専用解析B の出力
+from paths import WORK_DIR as WORK
+FACTS = WORK / "appearance_facts"  # 専用解析B の出力
 CACHE = ROOT / "data" / "appearance_summaries.json"
 
 sys.path.insert(0, str(ROOT / "scripts"))

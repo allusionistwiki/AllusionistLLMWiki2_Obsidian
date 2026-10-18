@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0045_analogous_to_E_ch0045_ガルズ_uses_ペンタブレット_p1866_digital_art_vs_traditional
-title: "魔法の杖による描画とペンタブレットの使い分けは、呪術的な「実感」の有無が作品の「手触り（リアリティ）」を決定するという、魔法と…"
+title: デジタルと伝統の境界
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0045_ガルズ_uses_ペンタブレット_p1866]]"

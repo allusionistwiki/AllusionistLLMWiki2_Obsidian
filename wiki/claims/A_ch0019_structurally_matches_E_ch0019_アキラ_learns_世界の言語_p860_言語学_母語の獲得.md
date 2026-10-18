@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0019_structurally_matches_E_ch0019_アキラ_learns_世界の言語_p860_言語学_母語の獲得
-title: "アキラが「転生者としての特質（前世の記憶）」を失うことで、初めてこの世界の言語を理解できるようになるという現象は、言語習得にお…"
+title: 母語獲得の構造対応
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0019_アキラ_learns_世界の言語_p860]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0022_analogous_to_E_ch0022_トリシューラ_uses_メタマテリアル_p1017_ステルス技術
-title: "トリシューラの熱遮蔽装置は、光の回折制御という物理現象をファンタジー技術に転換したものであり、現代の光学技術やステルス技術の原…"
+title: ステルス技術のファンタジー転換
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_トリシューラ_uses_メタマテリアル_p1017]]"

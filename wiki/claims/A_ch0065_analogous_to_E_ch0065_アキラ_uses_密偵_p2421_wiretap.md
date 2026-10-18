@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_wiretap
-title: "密偵による「盗撮映像」の取得は、通信傍受（ワイヤタップ）のメタファーである"
+title: 通信傍受としての盗撮映像
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_uses_密偵_p2421]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0254_analogous_to_E_p8169_rainbow_arch_mythological_archetypes
-title: "虹を弓や橋に見立てる描写は、北欧神話のブリュンヒルデやギリシャ神話のイリスなど、虹を神々の使いや境界とする神話的アーキタイプを…"
+title: 虹を神々の使いとする神話的型
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0254_アルゾラ・クロウサー_is_made_of_ゾラ分家_p8154]]"

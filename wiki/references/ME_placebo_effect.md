@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_placebo_effect
 title: プラセボ効果
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "placebo_effect"
 domain: "Contemporary Culture"

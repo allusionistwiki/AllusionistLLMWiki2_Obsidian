@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0041_analogous_to_E_ch0041_ヴァージリア_fights_彩石の儀_戦略ゲーム将棋／チェス
-title: "ヴァージリアが「膨大な思考の果てに最適手を素早く選び取る」「展開を予測し、状況に逐次介入して理想的な状況を作り出す」という戦闘…"
+title: 戦略ゲーム的な戦闘
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0041_ヴァージリア_fights_彩石の儀_p1777]]"

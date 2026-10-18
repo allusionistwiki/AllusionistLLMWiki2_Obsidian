@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_脳-コンピュータインターフェースBCI
 title: 脳-コンピュータインターフェース
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "脳-コンピュータインターフェースBCI"
 domain: "Contemporary Culture"

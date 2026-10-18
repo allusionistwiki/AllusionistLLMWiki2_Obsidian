@@ -29,7 +29,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0036_structurally_matches_E_ch0036_アズーリア_activates_アストラル体_p1499_VRアバター・オンラインゲーム|肉体を置き去りにして精神のみを移動させ、アバターとして他者と接触する描写は、VR技術やオンラインゲームにおけるアバター操作のメ…]]
-- [[A_ch0073_analogous_to_E_ch0073_アズーリア_says_アストラル体_p2748_ui_metaphor|アストラル界（GUI）とグラマー界（TUI）の関係は、コンピュータのユーザーインターフェースにおける視覚的表現とテキスト表現の…]]
+- [[A_ch0036_structurally_matches_E_ch0036_アズーリア_activates_アストラル体_p1499_VRアバター・オンラインゲーム|VRアバター操作のメタファー]]
+- [[A_ch0073_analogous_to_E_ch0073_アズーリア_says_アストラル体_p2748_ui_metaphor|GUIとTUIの対比]]
 
 <!-- AUTO:END -->

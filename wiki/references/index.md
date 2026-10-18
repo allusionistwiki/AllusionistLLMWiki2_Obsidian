@@ -6,9 +6,188 @@ description: 引喩先の現代文化・思想・作品の解説ページ（初�
 
 # 外部参照（章・話別）
 
-全 **1060 件**。アナロジークレームの「引喩先」にあたる現代の保険商品、ガチャ課金、AR ゲーム、安楽死の倫理、テセウスの船、武侠小説……といった外部概念の解説ページです。各ページにそれを引喩として使っているクレームの一覧（backlinks）が自動で集まります。
+全 **1192 件**。アナロジークレームの「引喩先」にあたる現代の保険商品、ガチャ課金、AR ゲーム、安楽死の倫理、テセウスの船、武侠小説……といった外部概念の解説ページです。各ページにそれを引喩として使っているクレームの一覧（backlinks）が自動で集まります。
 
 分類は「その概念を引喩として使ったクレームの初出話」です。
+
+### 第5164話
+
+- [[ME_{Divine_Comedy_Inferno}|地獄篇の断絶]]
+- [[ME_{Modern_App_Safety_Features}|アプリ安全機能]]
+- [[ME_{RPG_Item_Cooldowns}|アイテムクールダウン]]
+- [[ME_{Terraforming_Terminology}|テラフォーミング]]
+- [[ME_{Time_Manipulation_Narrative_Trope}|時間操作の定石]]
+
+### 第5165話
+
+- [[ME_Bureaucracy_Compliance|官僚的コンプライアンス]]
+- [[ME_Data_Archaeology|データ考古学]]
+- [[ME_Mecha_Anime|メカアニメ]]
+- [[ME_Sacrificial_Mechanic|生命燃料機関]]
+- [[ME_Superhero_Narrative|時限ヒーロー譚]]
+- [[ME_Theater_Metaphor|劇場としての世界観]]
+
+### 第5166話
+
+- [[ME_brainwashing_propaganda|洗脳プロパガンダ]]
+- [[ME_brave_new_world|すばらしい新世界]]
+- [[ME_fairy_tale_repetition|童話反復]]
+- [[ME_yin_yang_duality|陰陽二元論]]
+
+### 第5188話
+
+- [[ME_功利主義に対する絶対的愛カント的義務論|愛のカント的義務論]]
+- [[ME_安楽死および強制的な医療介入の倫理|医療介入の倫理]]
+- [[ME_植民地支配と現地利用者の搾取構造|植民地的搾取構造]]
+- [[ME_無神論と科学的世界観による宗教的権威への対抗|無神論による権威批判]]
+- [[ME_自己保全論と利他的行動の葛藤|利他と自己保存の葛藤]]
+- [[ME_身代金としての身体切断自己犠牲|身体切断による対価]]
+
+### 第5569話
+
+- [[ME_SNS上のカップル・公共の愛|SNSカップル消費]]
+- [[ME_WiFi_SAP・世界観のコード化|現象のインターフェース化]]
+- [[ME_労働の搾取・過労死|労働搾取と過労死]]
+- [[ME_婚活アプリ・スペック検索|婚活アプリ検索]]
+- [[ME_子作り・生殖義務|生殖義務論]]
+- [[ME_恋愛リアリティショー|恋愛リアリティショー]]
+
+### 第5570話
+
+- [[ME_arranged_marriage_system|政略結婚制度]]
+- [[ME_child_labor_exploitation|児童労働搾取]]
+- [[ME_marionette_control|操り人形制御]]
+- [[ME_systemic_responsibility|構造的重負]]
+- [[ME_tragic_heroism|受容による英雄性]]
+
+### 第5571話
+
+- [[ME_internet_meme_viral_video|ネットミーム]]
+
+### 第5573話
+
+- [[ME_digital_narrative_logic|デジタル物語論理]]
+- [[ME_game_gacha_summon|ガチャ召喚]]
+- [[ME_game_loot_collection|戦利品収集]]
+- [[ME_modern_messaging_apps|SNS通知妨害]]
+- [[ME_norse_mythology|北欧神話引用]]
+- [[ME_shonen_one_shot_trope|ワンパン展開]]
+- [[ME_text_based_game_mechanics|テキストゲームの力学]]
+
+### 第5574話
+
+- [[ME_Computer_Programming_SourceCode|プログラムソース]]
+- [[ME_Historical_Jewish_Diaspora|ユダヤ人離散]]
+- [[ME_MobileGame_Gacha_Competition|ガチャ天井圧力]]
+- [[ME_Modern_University_Education|大学パロディ]]
+- [[ME_Philosophers_Stone|賢者の石]]
+- [[ME_Religious_Canonization|宗教的叙任式]]
+- [[ME_Riddle_of_Sphinx|スフィンクスの謎]]
+- [[ME_Transhumanism_Cyborg|トランスヒューマニズム]]
+
+### 第5575話
+
+- [[ME_adult_resentment_narrative|成人側の傲慢]]
+- [[ME_autonomous_ai|自律型AI]]
+- [[ME_constraint_systems|拘束システム]]
+- [[ME_isekai_escapism|異世界逃避]]
+- [[ME_karma_buddhism|仏教のカルマ]]
+- [[ME_ME_bureaucratic_slogans|官僚的標語]]
+- [[ME_physics_boiling_point|沸点の低下]]
+- [[ME_sisyphus_labors|シシュポスの労働]]
+- [[ME_tech_ethics_debate|テクノロジー倫理論争]]
+
+### 第5576話
+
+- [[ME_admin_privileges_sudo|管理者特権]]
+- [[ME_corporate_insider_trading_rules|インサイダー取引規制]]
+- [[ME_game_balancing_patch|ゲームバランス調整]]
+- [[ME_game_tournament_seasons|シーズン制トーナメント]]
+- [[ME_online_exam_platforms|自動試験システム]]
+- [[ME_programming_languages_text_based|テキストベース言語]]
+- [[ME_school_exams_makeup|追試・補習制度]]
+
+### 第5578話
+
+- [[ME_biblical_cain_mark|カインの印]]
+- [[ME_narrative_unreliability_metafiction|メタフィクション]]
+- [[ME_political_faction_names|教科書団体命名]]
+- [[ME_propaganda_education_system|プロパガンダ教育]]
+- [[ME_revisionism_history_politics|歴史修正主義]]
+- [[ME_social_darwinism_welfare_state|管理優生思想]]
+- [[ME_war_crimes_denial_politics|歴史修正と否定運動]]
+
+### 第5580話
+
+- [[ME_Idol_Game_Mechanics|アイドルゲームメカニクス]]
+- [[ME_National_History_Manipulation|歴史改竄]]
+- [[ME_Platos_Cave_Allegory|洞窟の寓話]]
+- [[ME_Political_Mercenary_Treaty|政治的傭兵条約]]
+
+### 第5582話
+
+- [[ME_birds_eye_view_statistics|鳥瞰統計]]
+- [[ME_cosmic_horror_indivisibility|コズミック・ホラー]]
+- [[ME_ecosystem_service_dependency|生態系サービス依存]]
+- [[ME_history_simulation_game|歴史シミュレーション]]
+- [[ME_nuclear_fusion_energy|核融合エネルギー]]
+- [[ME_sci_fi_alien_ecosystems|異星生態系]]
+- [[ME_semiotics_text_world|記号論的世界観]]
+- [[ME_superconductor_zero_resistance|超伝導特性]]
+- [[ME_tagging_labeling_system|タグ付け制御]]
+- [[ME_utilitarian_ethics|極端な功利主義]]
+
+### 第5583話
+
+- [[ME_bloodline_shame|血統の恥辱]]
+- [[ME_email_communication|非同期通信]]
+- [[ME_minority_politics|被害者ポリティクス]]
+- [[ME_text_based_rpg|テキストRPG]]
+
+### 第5585話
+
+- [[ME_biological_diversity_and_evolution|生物多様性進化]]
+- [[ME_holocaust_memory_and_testimony|ホロコースト証言]]
+- [[ME_media_visibility_and_body_politics|可視性と身体政治]]
+- [[ME_naturalistic_fallacy_and_survival_of_the_fittest|自然主義的誤謬]]
+- [[ME_sacrificial_victimhood_and_curse|被害者の呪い]]
+
+### 第5586話
+
+- [[ME_evolutionary_adaptation|進化適応]]
+- [[ME_game_mechanics_buff_debuff|バフ・デバフ]]
+- [[ME_quantum_physics_observation|量子観測効果]]
+- [[ME_social_engineering|ソーシャルエンジニアリング]]
+- [[ME_solar_mythology|太陽神話の逆転]]
+
+### 第5587話
+
+- [[ME_AfterlifeInFiction|フィクション内来世]]
+- [[ME_DataMigration|データ移行]]
+- [[ME_MetaReader|メタ読み]]
+- [[ME_NarrativeControl|物語支配権]]
+- [[ME_ParallelUniverseTheory|並行宇宙確定]]
+- [[ME_PlotArmor|プロットアーマー]]
+
+### 第5588話
+
+- [[ME_{character_corruption_bug}|ポリゴン崩壊グリッチ]]
+- [[ME_{content_moderation_tools}|有害コンテンツ除去]]
+- [[ME_{game_design_philosophy}|環境による導線設計]]
+- [[ME_{god_view_in_games}|ゲーム内神モード]]
+- [[ME_{identity_theft_in_metaverse}|メタ上の身元盗難]]
+- [[ME_{map_editing_tools}|マップ編集権限]]
+- [[ME_{programming_language_concept}|プログラミング言語]]
+
+### 第5589話
+
+- [[ME_common_knowledge_access|共通知識アクセス]]
+- [[ME_fourth_wall_breaking|第四の壁破壊]]
+- [[ME_inter_textuality_mechanic|相互文本性]]
+- [[ME_isekai_tensei_genre_clishes|異世界転生定石]]
+- [[ME_plot_device_exposition|導入・説明技法]]
+- [[ME_victim_blame_theory|被害者の絶対正義]]
+- [[ME_world_building_as_narrative|記述による世界法則]]
 
 ## 第一章　隻腕義手のスワンプマン
 
@@ -1388,3 +1567,19 @@ description: 引喩先の現代文化・思想・作品の解説ページ（初�
 
 - [[ME_アカーシャ・レコード|アカシックレコード]]
 - [[ME_愛の融合|愛の融合]]
+
+## 未分類（クレーム未紐付け）
+
+- [[edition-diff|版間差分内容]]
+- [[edition-map|版対応表]]
+- [[ME_codependency|共依存]]
+- [[ME_domestic_bliss_illusion|家庭の幸福の幻想]]
+- [[ME_McLuhanメディア論技術は人間の拡張|マクルーハン説]]
+- [[ME_mobile_game_gacha_avatar|ガチャアバター]]
+- [[ME_semantic_analysis_linguistics|言語論的転回]]
+- [[ME_SNSでの長文愚痴・暴走投稿|SNS愚痴投稿]]
+- [[ME_student_notes_study_habits|講義ノート風魔導書]]
+- [[ME_traditionalism_vs_innovation|伝統対革新の逆説]]
+- [[ME_動物福祉と安楽死・倫理的外傷|動物福祉と安楽死]]
+- [[ME_現代アイドル業界の搾取・イメージ戦略|アイドル産業の搾取]]
+- [[ME_量子力学観測問題と文学的解釈|観測者効果の文学]]

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0055_inverts_E_ch0055_ジル_other_科学的思考_p2134_post_normal_science
-title: "不確かな物理法則を前提とした反科学的思考こそが実践的な科学的思考になり得るという主張は、ポスト・ニュートン科学や複雑系科学の思…"
+title: ポスト正常科学の逆転
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0055_ジル_other_科学的思考_p2134]]"

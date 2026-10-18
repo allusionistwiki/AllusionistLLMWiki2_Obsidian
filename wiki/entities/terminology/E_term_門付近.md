@@ -10,7 +10,7 @@ first_appearance: ch0186
 spoiler_after: ch0186
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 門付近
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 騒音が響く『門』の付近は異様な静寂で満たされていた。宣伝文句以外の音が忽然と消えている。
 - **unknown**: 騒音が響く『門』の付近は異様な静寂で満たされていた。宣伝文句以外の音が忽然と消えている。
 - **unknown**: 騒音が響く『門』の付近は異様な静寂で満たされていた。宣伝文句以外の音が忽然と消えている。
 

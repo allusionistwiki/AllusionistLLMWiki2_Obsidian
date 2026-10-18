@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0083_analogous_to_E_ch0083_第五階層_has_property_物質創造能力_p3034_3Dプリンターによる生体維持
-title: "第五階層の物質創造能力は、欠損した皮膚を絶えず生成し維持するという、高度な医療技術（3Dプリント）のメタファーである"
+title: 3Dプリントによる生体維持
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_第五階層_has_property_物質創造能力_p3034]]"

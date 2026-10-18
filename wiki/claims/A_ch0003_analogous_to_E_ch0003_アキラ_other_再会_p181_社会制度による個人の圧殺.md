@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0003_analogous_to_E_ch0003_アキラ_other_再会_p181_社会制度による個人の圧殺
-title: "地上の独房で「無機質な社会」「組織に所属するという現実」「個人を圧殺する仕組み」に囚われ、暴力すら通用しないという描写は、異世…"
+title: 社会制度による個人の圧殺
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0003_アキラ_other_再会_p181]]"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_言語学_母語の獲得
 title: 母語の獲得
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "言語学_母語の獲得"
 domain: "Contemporary Culture"

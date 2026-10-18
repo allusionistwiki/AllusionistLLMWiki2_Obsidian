@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0059_analogous_to_E_ch0059_ハルベルト_uses_心療治癒呪術_p2233_認知療法_ナラティブ・セラピー
-title: "ハルベルトが用いる「信用できない時制と語り手の解決」を利用した過去遡及的な心療治癒呪術は、現代のナラティブ・セラピー（物語療法…"
+title: 問題外部化のナラティブセラピー
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0059_ハルベルト_uses_心療治癒呪術_p2233]]"

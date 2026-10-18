@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ネット炎上
 title: ネット炎上
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: internet_culture
 canonical_name: "ネット炎上"
 domain: "Internet Culture"

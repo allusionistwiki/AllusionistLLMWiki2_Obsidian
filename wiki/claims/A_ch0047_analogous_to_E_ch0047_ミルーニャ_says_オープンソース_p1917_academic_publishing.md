@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_academic_publishing
-title: "ミルーニャの「オープンソース」主張は、学術論文のオープンアクセス化（Open Access）運動と、知識の独占による格差拡大へ…"
+title: オープンアクセス運動としてのオープンソース
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_オープンソース_p1917]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0043_inverts_E_ch0043_クナータ_says_誕生日_p1837_転生作品の転生概念
-title: "「生まれた」という記憶が実際には「死んだ（魂が空に送られた）」瞬間であるという逆転は、異世界転生における「転生＝死」の定義を文…"
+title: 転生＝死の逆転
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_クナータ_says_誕生日_p1837]]"

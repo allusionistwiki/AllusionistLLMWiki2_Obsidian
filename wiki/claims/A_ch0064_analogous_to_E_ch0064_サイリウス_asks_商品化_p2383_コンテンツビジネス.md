@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_サイリウス_asks_商品化_p2383_コンテンツビジネス
-title: "サイリウスが第五階層の戦いを「商品化」や「偶像崇拝の呪力」として評価するのは、コンテンツの商業的価値（IP化）を問う現代のビジ…"
+title: コンテンツビジネスへの転生
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_サイリウス_asks_商品化_p2383]]"

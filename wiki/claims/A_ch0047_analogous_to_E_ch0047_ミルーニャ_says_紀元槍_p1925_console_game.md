@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_console_game
-title: "紀元槍を「制御盤（コンソール）」と呼ぶことは、世界がゲーム的なインターフェースによって操作可能であることを示唆し、ゲームのメタ…"
+title: 世界構造へのゲームメタファー適用
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_紀元槍_p1925]]"

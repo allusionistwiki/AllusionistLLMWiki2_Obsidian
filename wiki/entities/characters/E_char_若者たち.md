@@ -10,7 +10,7 @@ spoiler_after: ch0206
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 若者たち
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 市民を守った英雄たちはいずれも十代から三十代までの若者たちだった。
 - **unknown**: 市民を守った英雄たちはいずれも十代から三十代までの若者たちだった。
 - **unknown**: 市民を守った英雄たちはいずれも十代から三十代までの若者たちだった。
 

@@ -10,7 +10,7 @@ spoiler_after: ch0035
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # リーダー
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 数か月前にいちど再生者化したが直後に吸血鬼になったという、いわゆる『ドラトリア系夜の民』だ。
 - **unknown**: 数か月前にいちど再生者化したが直後に吸血鬼になったという、いわゆる『ドラトリア系夜の民』だ。
 - **unknown**: 数か月前にいちど再生者化したが直後に吸血鬼になったという、いわゆる『ドラトリア系夜の民』だ。
 

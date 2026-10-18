@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_データ復旧
 title: データ復旧
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "データ復旧"
 domain: "Contemporary Culture"

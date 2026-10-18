@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_杖の座の目的_p1930_immortality_project
-title: "ミルーニャの「全人類の不死」への執着は、現代のトランスヒューマニズムにおける不老不死技術（長寿化研究）への欲求の投影である"
+title: 不老不死技術への欲求の投影
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_defines_杖の座の目的_p1930]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0187_alludes_to_E_ch0187_クルミ_asks_コズエ_p6211_フロイトのエロスとタナトス
-title: "クルミが「闘争と性交は最も原始的な欲求のあらわれ」「エロスとタナトス"
+title: フロイトのエロスとタナトス引用
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0187_クルミ_asks_コズエ_p6211]]"

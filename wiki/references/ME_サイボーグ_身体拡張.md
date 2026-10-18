@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_サイボーグ_身体拡張
 title: サイボーグ身体拡張
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "サイボーグ_身体拡張"
 domain: "Contemporary Culture"

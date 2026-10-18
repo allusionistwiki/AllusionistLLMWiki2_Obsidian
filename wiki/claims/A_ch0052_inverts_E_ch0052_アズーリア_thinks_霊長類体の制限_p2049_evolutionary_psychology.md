@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0052_inverts_E_ch0052_アズーリア_thinks_霊長類体の制限_p2049_evolutionary_psychology
-title: "霊長類の「代理親」を参照することで自らの機能を制限していたという記述は、社会規範（擬人化）が生物としての本能的自由（触手・多頭…"
+title: 進化心理学の規範抑制
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_アズーリア_thinks_霊長類体の制限_p2049]]"

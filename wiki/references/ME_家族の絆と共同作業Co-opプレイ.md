@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_家族の絆と共同作業Co-opプレイ
 title: 家族のCo-op
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "家族の絆と共同作業Co-opプレイ"
 domain: "Contemporary Culture"

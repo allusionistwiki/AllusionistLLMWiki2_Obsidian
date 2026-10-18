@@ -10,7 +10,7 @@ first_appearance: ch0094
 spoiler_after: ch0094
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 二人
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 街道を進む二人は、劇団の一座と遭遇する。
 - **unknown**: 街道を進む二人は、劇団の一座と遭遇する。
 - **unknown**: 街道を進む二人は、劇団の一座と遭遇する。
 

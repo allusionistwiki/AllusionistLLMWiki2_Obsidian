@@ -10,7 +10,7 @@ spoiler_after: ch0220
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 拳銃
@@ -28,13 +28,14 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0220_alludes_to_E_ch0220_拳銃_appears_as_花_p7317_gun_flower_imagery|銃口から花が飛び出す演出は、暴力の象徴である銃を平和や愛の象徴である花に変換する、ヒッピー運動や反戦アートにおける「ガン・アン…]]
+- [[A_ch0220_alludes_to_E_ch0220_拳銃_appears_as_花_p7317_gun_flower_imagery|反戦アートガン・アンド・フラワー]]
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 多くの者の予想を裏切って、銃口から飛び出したのは花だった。　色鮮やかな、ピンク色の石楠花。
 - **unknown**: 多くの者の予想を裏切って、銃口から飛び出したのは花だった。　色鮮やかな、ピンク色の石楠花。
 - **unknown**: 多くの者の予想を裏切って、銃口から飛び出したのは花だった。　色鮮やかな、ピンク色の石楠花。
 

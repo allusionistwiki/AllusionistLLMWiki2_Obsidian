@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0048_structurally_matches_E_ch0048_歌姫Spear_names_カタルマリーナ_p1941_炎上商法
-title: "不吉な名前（カタルマリーナ）で活動し、忌み嫌われ忘れ去られた後に改名して復活する経緯は、現代のネット文化における「炎上」を認知…"
+title: 炎上商法への改名の構造対応
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0048_歌姫Spear_names_カタルマリーナ_p1941]]"

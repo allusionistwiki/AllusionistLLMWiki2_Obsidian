@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_天の御殿_functions_as_死の記録システム_p2407_バックアップ
-title: "「天の御殿」が死を記録し、そこから死者を呼び出すのは、データのバックアップから情報を復元する行為の比喩である"
+title: バックアップからの死者復元
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_天の御殿_functions_as_死の記録システム_p2407]]"

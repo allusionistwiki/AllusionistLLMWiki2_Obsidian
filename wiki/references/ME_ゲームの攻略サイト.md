@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ゲームの攻略サイト
 title: 攻略サイト
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ゲームの攻略サイト"
 domain: "Contemporary Consumer Culture"

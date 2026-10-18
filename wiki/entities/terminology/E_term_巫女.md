@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_term_巫女
+type: entity
+title: 巫女
+subtype: terminology
+canonical_name: 巫女
+aliases: []
+first_appearance: ch5165
+spoiler_after: ch5165
+document_status: active
+created: '2026-10-19'
+updated: '2026-10-19'
+---
+# 巫女
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 巫女というのは宗教体のほとんどで見られる特殊な神官のことだ。槍神教においては聖女がそれに相当する。最も神に近しいもの。呪的もしくは霊的な素養が高い、高次元存在と交信できるもの。竜神信教にもそうした存在がいるはずだった。
+
+<!-- /AUTO-GENERATED:name -->

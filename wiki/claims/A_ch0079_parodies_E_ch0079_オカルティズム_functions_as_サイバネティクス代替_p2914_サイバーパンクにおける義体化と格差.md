@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0079_parodies_E_ch0079_オカルティズム_functions_as_サイバネティクス代替_p2914_サイバーパンクにおける義体化と格差
-title: "電子制御義肢（サイバネティクス）が普及しない世界で、杖（呪具）が身体拡張の代替手段となるという設定は、サイバーパンク作品におけ…"
+title: 義体化格差のオカルティズム転写
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_オカルティズム_functions_as_サイバネティクス代替_p2914]]"

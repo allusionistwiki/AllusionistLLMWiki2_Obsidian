@@ -17,7 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 WIKI = ROOT / "wiki"
 RAW = ROOT / "raw"
-WORK = ROOT.parent / "AllusionistLLMWiki2_Work"
+from paths import WORK_DIR as WORK
 FACTS = WORK / "deferral_facts"      # kind=deferral（専用解析A extract_deferrals.py）
 APPEAR_FACTS = WORK / "appearance_facts"  # kind=appearance（専用解析B extract_appearances.py）
 

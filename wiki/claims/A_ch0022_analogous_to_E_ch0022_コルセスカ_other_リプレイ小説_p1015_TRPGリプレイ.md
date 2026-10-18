@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0022_analogous_to_E_ch0022_コルセスカ_other_リプレイ小説_p1015_TRPGリプレイ
-title: "コルセスカの小説は、ダイスロールによるランダム性を組み込んだTRPGリプレイ小説の形式を模倣している"
+title: TRPGリプレイへの小説形式模倣
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0022_コルセスカ_other_リプレイ小説_p1015]]"

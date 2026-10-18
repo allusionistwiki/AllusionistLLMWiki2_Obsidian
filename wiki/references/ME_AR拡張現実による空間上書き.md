@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_AR拡張現実による空間上書き
 title: ARによる上書き
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "AR拡張現実による空間上書き"
 domain: "Contemporary Consumer Culture"

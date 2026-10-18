@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_現代の夜間勤務手当と労働法規
 title: 夜間勤務と労働法規
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "現代の夜間勤務手当と労働法規"
 domain: "Contemporary Culture"

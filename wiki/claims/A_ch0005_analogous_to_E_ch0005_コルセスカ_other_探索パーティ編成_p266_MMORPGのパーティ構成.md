@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0005_analogous_to_E_ch0005_コルセスカ_other_探索パーティ編成_p266_MMORPGのパーティ構成
-title: "迷宮探索の最小単位が3人、一般は6人、最大9人という編成ルールは、MMORPGにおけるパーティ構成（タンク、ヒーラー、DPSの…"
+title: MMOパーティ構成の模倣
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0005_コルセスカ_other_探索パーティ編成_p266]]"

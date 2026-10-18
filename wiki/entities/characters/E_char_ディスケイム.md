@@ -10,7 +10,7 @@ spoiler_after: ch0207
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # ディスケイム
@@ -39,6 +39,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 『盤面』を眺めつつ、様子見の一手。その両手は一心不乱に土を掻き出し掘り進む。
 - **unknown**: 『盤面』を眺めつつ、様子見の一手。その両手は一心不乱に土を掻き出し掘り進む。
 - **unknown**: 『盤面』を眺めつつ、様子見の一手。その両手は一心不乱に土を掻き出し掘り進む。
 

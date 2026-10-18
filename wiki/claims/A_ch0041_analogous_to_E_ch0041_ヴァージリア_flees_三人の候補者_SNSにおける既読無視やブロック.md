@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0041_analogous_to_E_ch0041_ヴァージリア_flees_三人の候補者_SNSにおける既読無視やブロック
-title: "ヴァージリアが相手の言葉を「聞こえないのだから無いのと同じ」と処理する態度は、音声情報の欠落を「不在」として認知する聴覚障害者…"
+title: 既読無視的防衛機制
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0041_ヴァージリア_flees_三人の候補者_p1768]]"

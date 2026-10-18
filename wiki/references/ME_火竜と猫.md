@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_火竜と猫
 title: 火竜と猫
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "火竜と猫"
 domain: "Contemporary Culture"

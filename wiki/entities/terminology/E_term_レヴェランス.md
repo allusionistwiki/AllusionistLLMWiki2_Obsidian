@@ -10,7 +10,7 @@ first_appearance: ch0180
 spoiler_after: ch0180
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # レヴェランス
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: レヴェランス。すなわち、上演後に行う丁寧なお辞儀。 教師に、演奏者に、そして観客に。
 - **unknown**: レヴェランス。すなわち、上演後に行う丁寧なお辞儀。 教師に、演奏者に、そして観客に。
 - **unknown**: レヴェランス。すなわち、上演後に行う丁寧なお辞儀。 教師に、演奏者に、そして観客に。
 

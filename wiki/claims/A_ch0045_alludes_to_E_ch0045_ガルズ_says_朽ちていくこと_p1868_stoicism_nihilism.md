@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0045_alludes_to_E_ch0045_ガルズ_says_朽ちていくこと_p1868_stoicism_nihilism
-title: "ガルズの「飢えて朽ちていくことが自然」という主張は、苦痛や死を運命として受容するニヒリズムの哲学を、社会制度から排除された者の…"
+title: 朽ちる受容としてのニヒリズム
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0045_ガルズ_says_朽ちていくこと_p1868]]"

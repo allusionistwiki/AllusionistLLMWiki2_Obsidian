@@ -3,23 +3,19 @@ schema_version: "5.1"
 id: ME_gun_flower_imagery
 title: 銃と花のイメージ
 type: external_reference
-
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "gun_flower_imagery"
-aliases: []
-domain: "culture"
-document_status: active
-referenced_by: []
-relations: []
-created: "2026-10-11"
-updated: "2026-10-11"
+domain: "Contemporary Culture"
+review_status: llm_verified
 ---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
 # gun_flower_imagery
 
-<!-- AUTO:BEGIN -->
-（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作での参照
+## 本作からの参照 (1 件)
 
-- [[A_ch0220_alludes_to_E_ch0220_拳銃_appears_as_花_p7317_gun_flower_imagery]]
-<!-- AUTO:END -->
+- [[A_ch0220_alludes_to_E_ch0220_拳銃_appears_as_花_p7317_gun_flower_imagery]] — 銃口から花が飛び出す演出は、暴力の象徴である銃を平和や愛の象徴である花に変換する、ヒッピー運動や反戦アートにおける「ガン・アンド・フラワー」のイメージを想起させる。

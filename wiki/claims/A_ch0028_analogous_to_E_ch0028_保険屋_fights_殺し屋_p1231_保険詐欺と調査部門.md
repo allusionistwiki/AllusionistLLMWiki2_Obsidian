@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0028_analogous_to_E_ch0028_保険屋_fights_殺し屋_p1231_保険詐欺と調査部門
-title: "異世界転生を前提とした保険業界と殺し屋の対立は、超常現象を「リスク管理」の対象として官僚的に処理する、ジャンル自己言及的な構造…"
+title: 保険詐欺構造のジャンル自己言及
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0028_保険屋_fights_殺し屋_p1231]]"

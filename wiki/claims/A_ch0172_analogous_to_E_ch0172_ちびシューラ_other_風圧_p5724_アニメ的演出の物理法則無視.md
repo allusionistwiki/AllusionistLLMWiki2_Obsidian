@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0172_analogous_to_E_ch0172_ちびシューラ_other_風圧_p5724_アニメ的演出の物理法則無視
-title: "手刀の風圧で髪を切るという非現実的な演出を、世界への干渉と自己確信による『リアリティレベルの書き換え』としてメタ的に解説している"
+title: アニメ的物理法則無視の演出
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0172_ちびシューラ_other_風圧_p5724]]"

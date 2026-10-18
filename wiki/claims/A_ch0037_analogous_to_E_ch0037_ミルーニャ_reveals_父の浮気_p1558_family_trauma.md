@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_父の浮気_p1558_family_trauma
-title: "ミルーニャの父による浮気と母の死、そして父の無謀な死という一連の出来事は、機能不全家庭におけるトラウマの連鎖を描写している"
+title: 家庭内トラウマの連鎖描写
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_reveals_父の浮気_p1558]]"

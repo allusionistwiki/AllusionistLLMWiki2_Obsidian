@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ネット世論の誘導
 title: ネット世論誘導
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: internet_culture
 canonical_name: "ネット世論の誘導"
 domain: "Internet Culture"

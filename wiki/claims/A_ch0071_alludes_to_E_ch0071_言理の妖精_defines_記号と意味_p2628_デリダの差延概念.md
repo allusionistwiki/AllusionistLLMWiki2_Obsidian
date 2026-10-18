@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_alludes_to_E_ch0071_言理の妖精_defines_記号と意味_p2628_デリダの差延概念
-title: "「言理の妖精」が記号の狭間に遍在し、意味を生成する構造は、ジャック・デリダが提唱した「差延（différance）」、すなわち…"
+title: デリダ差延概念の暗喩
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_言理の妖精_defines_記号_p2628]]"

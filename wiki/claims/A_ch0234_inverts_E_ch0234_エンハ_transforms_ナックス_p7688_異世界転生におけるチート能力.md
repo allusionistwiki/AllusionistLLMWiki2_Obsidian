@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0234_inverts_E_ch0234_エンハ_transforms_ナックス_p7688_異世界転生におけるチート能力
-title: "人間を道具（箒）に貶めるという極端な身体改造は、通常は有利な『チート能力』として描かれる異世界の力を、残酷な自己犠牲と非人間化…"
+title: チート能力の残酷な逆転
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0234_エンハ_transforms_ナックス_p7688]]"

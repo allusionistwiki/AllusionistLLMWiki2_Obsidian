@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0056_analogous_to_E_ch0056_ドラトリア_other_本国と北部_p2166_フェイクニュースとSNSの拡散
-title: "念写映像の歪曲、記憶の事後改変、予断と偏見による事実の書き換えが暴動を誘発する様子は、SNSにおけるフェイクニュースの拡散、エ…"
+title: フェイクニュース拡散と事実の相対化
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_ドラトリア_other_本国と北部_p2166]]"

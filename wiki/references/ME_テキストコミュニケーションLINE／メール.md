@@ -3,23 +3,19 @@ schema_version: "5.1"
 id: ME_テキストコミュニケーションLINE／メール
 title: テキストコミュニケーション
 type: external_reference
-
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "テキストコミュニケーションLINE／メール"
-aliases: []
-domain: "culture"
-document_status: active
-referenced_by: []
-relations: []
-created: "2026-10-11"
-updated: "2026-10-11"
+domain: "Contemporary Culture"
+review_status: llm_verified
 ---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
 # テキストコミュニケーションLINE／メール
 
-<!-- AUTO:BEGIN -->
-（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作での参照
+## 本作からの参照 (1 件)
 
-- [[A_ch0041_analogous_to_E_ch0041_ヴァージリア_thinks_メートリアン_テキストコミュニケーションLINE／メール]]
-<!-- AUTO:END -->
+- [[A_ch0041_analogous_to_E_ch0041_ヴァージリア_thinks_メートリアン_テキストコミュニケーションLINE／メール]] — ヴァージリアがメートリアンとの「文字だけのやり取り」を楽だと感じるのは、現代のテキストコミュニケーション（LINE、メール）が、対面会話の圧迫感や音声の障害を回避する手段として機能する構造を反映している。

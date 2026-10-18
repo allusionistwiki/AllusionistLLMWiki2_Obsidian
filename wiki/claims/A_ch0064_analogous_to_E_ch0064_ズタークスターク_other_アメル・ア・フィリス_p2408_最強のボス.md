@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_ズタークスターク_other_アメル・ア・フィリス_p2408_最強のボス
-title: "「史上最悪の大魔将」「松明の騎士団を壊滅寸前にまで追い込んだ」という記述は、ゲームにおける最強のボスキャラクターの典型である"
+title: 最強ボスの典型
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_ズタークスターク_other_アメル・ア・フィリス_p2408]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0034_structurally_matches_E_ch0034_ハルベルト_defines_ルール_p1394_ギグエコノミーの成果主義
-title: "金箒花の「量」と「質」で点数を競い、制限時間内で成果を出さねば報酬が得られないというルールは、ギグエコノミーにおける成果主義的…"
+title: ギグエコノミー的成果主義
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0034_ハルベルト_defines_ルール_p1394]]"

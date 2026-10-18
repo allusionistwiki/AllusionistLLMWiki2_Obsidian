@@ -10,7 +10,7 @@ spoiler_after: ch0081
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # マレブランケ
@@ -30,13 +30,14 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0081_structurally_matches_E_ch0081_イアテム_defeats_マレブランケ_p2985_ネットワークセキュリティの脆弱性|サイバーカラテの連携プログラムがクラッキングされ、情報が欺瞞される展開は、現代のネットワークセキュリティにおける「信頼できる通…]]
+- [[A_ch0081_structurally_matches_E_ch0081_イアテム_defeats_マレブランケ_p2985_ネットワークセキュリティの脆弱性|通信経路乗っ取りによるセキュリティ脆弱性]]
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: そして身柄を狙われたマレブランケの一員カルカブリーナ。
 - **unknown**: そして身柄を狙われたマレブランケの一員カルカブリーナ。
 - **unknown**: そして身柄を狙われたマレブランケの一員カルカブリーナ。
 

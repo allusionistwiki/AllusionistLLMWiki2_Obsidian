@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0083_alludes_to_E_ch0083_イェレイド_appears_少女の姿_p3057_クトゥルフ神話の恐怖
-title: "イェレイドの描写は、不可視の恐怖を具現化し、生理的嫌悪を催すクトゥルフ神話的な「宇宙の恐怖」の現代的解釈である"
+title: 少女姿によるクトゥルフ神話的恐怖の具現化
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_イェレイド_appears_少女の姿_p3057]]"

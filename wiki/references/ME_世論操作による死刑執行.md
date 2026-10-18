@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_世論操作による死刑執行
 title: 世論操作による死刑
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "世論操作による死刑執行"
 domain: "Contemporary Culture"

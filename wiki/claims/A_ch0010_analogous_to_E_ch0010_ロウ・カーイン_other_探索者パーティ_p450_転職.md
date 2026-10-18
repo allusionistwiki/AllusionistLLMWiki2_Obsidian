@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0010_analogous_to_E_ch0010_ロウ・カーイン_other_探索者パーティ_p450_転職
-title: "悪鬼の用心棒から探索者パーティへの「暫定的な加入」は、状況に応じた即時的な契約形態の変更（ギグワーク）のメタファーである"
+title: ギグワーク的な転職
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_ロウ・カーイン_other_探索者パーティ_p450]]"

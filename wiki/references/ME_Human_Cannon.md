@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_Human_Cannon
 title: 人間砲弾
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "Human_Cannon"
 domain: "Contemporary Culture"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_複合型
 title: 複合型
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "複合型"
 domain: "Contemporary Culture"

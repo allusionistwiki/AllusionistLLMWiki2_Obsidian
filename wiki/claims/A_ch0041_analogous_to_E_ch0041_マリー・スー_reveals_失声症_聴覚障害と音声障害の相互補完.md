@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0041_analogous_to_E_ch0041_マリー・スー_reveals_失声症_聴覚障害と音声障害の相互補完
-title: "ヴァージリアの聴覚障害とマリーの音声障害は、音声言語の欠落を文字言語で補完する「記号の相互補完」構造を模しており、コミュニケー…"
+title: 記号の相互補完
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0041_マリー・スー_reveals_失声症_p1774]]"

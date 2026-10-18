@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0066_analogous_to_E_ch0066_ナト_appears_白銀のカラス型神働装甲_p2461_ドローン
-title: "遠隔誘導攻撃端末は、操者の霊的資質（使い魔・杖の才覚）を必須とする遠隔操作兵器であり、現代のドローン技術における「操者依存性」…"
+title: ドローンへの操者依存性
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_ナト_appears_白銀のカラス型神働装甲_p2461]]"

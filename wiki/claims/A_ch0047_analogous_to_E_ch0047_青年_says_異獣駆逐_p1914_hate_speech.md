@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_青年_says_異獣駆逐_p1914_hate_speech
-title: "青年の「異獣駆逐」の叫びは、他者（異獣）を排除し正義を定義する排外主義的な政治運動の構造を模している"
+title: ヘイトスピーチへの駆逐の転生
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_青年_says_異獣駆逐_p1914]]"

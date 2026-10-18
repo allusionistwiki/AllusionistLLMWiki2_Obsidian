@@ -10,7 +10,7 @@ spoiler_after: ch0233
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 黒衣の麗人
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 彼によって盟約の鎖から解き放たれた黒衣の麗人がミブリナの前に立ちはだかる。
 - **unknown**: 彼によって盟約の鎖から解き放たれた黒衣の麗人がミブリナの前に立ちはだかる。
 - **unknown**: 彼によって盟約の鎖から解き放たれた黒衣の麗人がミブリナの前に立ちはだかる。
 

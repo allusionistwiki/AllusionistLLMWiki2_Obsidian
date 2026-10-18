@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0007_analogous_to_E_ch0007_男_threatens_少年_p334_Social_Media_Viral
-title: "動画による脅迫と、その下に並ぶコメント欄（同意するチェックボックス）は、SNSにおける炎上や世論形成、そして「動画信仰」と呼ば…"
+title: SNSバイラルと動画信仰の模倣
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0007_男_threatens_少年_p334]]"

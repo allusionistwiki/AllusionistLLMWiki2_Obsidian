@@ -10,7 +10,7 @@ spoiler_after: ch0052
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 黒衣
@@ -40,6 +40,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 先頭集団はリスクをとって岩塊を潜り抜けていく命がけのコースを選んだ黒衣
 - **unknown**: 先頭集団はリスクをとって岩塊を潜り抜けていく命がけのコースを選んだ黒衣
 - **unknown**: 先頭集団はリスクをとって岩塊を潜り抜けていく命がけのコースを選んだ黒衣
 

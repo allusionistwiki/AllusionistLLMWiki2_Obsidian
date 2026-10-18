@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0226_parodies_E_ch0226_ちびシューラ_other_転生ランキング_p7457_MobileGame_Gacha
-title: "機械女王が発表した「転活体験アプリ」や転生ランキングは、現代のスマホゲームにおけるガチャやアバター着せ替え、およびその商業的イ…"
+title: スマホガチャの商業設計風刺
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0226_ちびシューラ_other_転生ランキング_p7457]]"

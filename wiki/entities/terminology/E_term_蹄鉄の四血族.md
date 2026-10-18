@@ -10,7 +10,7 @@ first_appearance: ch0262
 spoiler_after: ch0262
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 蹄鉄の四血族
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: クロウサーの主要血族を示す古い名に、『蹄鉄の四血族』というものがある。
 - **unknown**: クロウサーの主要血族を示す古い名に、『蹄鉄の四血族』というものがある。
 - **unknown**: クロウサーの主要血族を示す古い名に、『蹄鉄の四血族』というものがある。
 

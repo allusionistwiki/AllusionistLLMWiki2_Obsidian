@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_童謡_メリーさんの羊
 title: メリーさんの羊
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "童謡_メリーさんの羊"
 domain: "Contemporary Culture"

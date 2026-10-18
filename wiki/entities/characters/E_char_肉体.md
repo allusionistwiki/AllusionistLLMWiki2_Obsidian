@@ -1,6 +1,6 @@
 ---
-title: "肉体"
-schema_version: "5.1"
+title: 肉体
+schema_version: '5.1'
 id: E_char_肉体
 type: entity
 subtype: character
@@ -9,7 +9,8 @@ first_appearance: ch0002
 spoiler_after: ch0002
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-19'
 ---
 
 # 肉体
@@ -17,7 +18,7 @@ created: "2026-09-30"
 エスフェイルの肉体は亀裂が走り砕けて力を失い、ヲルヲーラの肉体は内側から弾け飛ぶなど、戦闘や事件によって破壊される対象として描かれる。
 
 <!-- AUTO:BEGIN -->
-**初出**: ch0002 ｜ **観測イベント**: 5 件（5 話に出現）
+**初出**: ch0002 ｜ **観測イベント**: 6 件（6 話に出現）
 
 ## 代表引用
 
@@ -28,3 +29,10 @@ created: "2026-09-30"
 > 己の命を完全に燃焼させることを厭わぬ暴走でもぎ取った一位。（ch0250）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 肉体が合一していく。向かい合った男女の上半身から下が融け合っていく。
+
+<!-- /AUTO-GENERATED:visual -->

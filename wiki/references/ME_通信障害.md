@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_通信障害
 title: 通信障害
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "通信障害"
 domain: "Contemporary Culture"

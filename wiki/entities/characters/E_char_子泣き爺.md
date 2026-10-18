@@ -10,7 +10,7 @@ spoiler_after: ch0154
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 子泣き爺
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「悪いなあ、ラウス＝ベフォニスさんよ。あんたの感覚、いただくぜ」
 - **unknown**: 「悪いなあ、ラウス＝ベフォニスさんよ。あんたの感覚、いただくぜ」
 - **unknown**: 「悪いなあ、ラウス＝ベフォニスさんよ。あんたの感覚、いただくぜ」
 

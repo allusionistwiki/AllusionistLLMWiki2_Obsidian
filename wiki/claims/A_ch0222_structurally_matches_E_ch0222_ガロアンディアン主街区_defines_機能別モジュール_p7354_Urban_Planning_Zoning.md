@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0222_structurally_matches_E_ch0222_ガロアンディアン主街区_defines_機能別モジュール_p7354_Urban_Planning_Zoning
-title: "時間帯によって機能が変わる「移動式再演博物館」は、歴史や景観を時間軸で操作・消費するガロアンディアンの特異な都市設計を示している"
+title: 時間軸による都市設計
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0222_ガロアンディアン主街区_defines_機能別モジュール_p7354]]"

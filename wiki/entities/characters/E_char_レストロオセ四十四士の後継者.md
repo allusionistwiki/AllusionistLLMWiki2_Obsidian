@@ -10,7 +10,7 @@ first_appearance: ch0246
 spoiler_after: ch0246
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # レストロオセ四十四士の後継者
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 企画を立案したのは自らの娘を展示の目玉に据えたレストロオセ四十四士の後継者。
 - **unknown**: 企画を立案したのは自らの娘を展示の目玉に据えたレストロオセ四十四士の後継者。
 - **unknown**: 企画を立案したのは自らの娘を展示の目玉に据えたレストロオセ四十四士の後継者。
 

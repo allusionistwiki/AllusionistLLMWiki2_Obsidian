@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_alludes_to_E_ch0026_アキラ_says_テセウス型_p1195_テセウスの船
-title: "アキラが自身を「テセウス型サイボーグ」と分類するのは、哲学の思考実験「テセウスの船」（すべての部品が交換された船は元の船か"
+title: テセウスの船
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_アキラ_says_テセウス型_p1195]]"

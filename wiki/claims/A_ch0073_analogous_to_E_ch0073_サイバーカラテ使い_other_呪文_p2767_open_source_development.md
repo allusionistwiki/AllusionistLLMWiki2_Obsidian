@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0073_analogous_to_E_ch0073_サイバーカラテ使い_other_呪文_p2767_open_source_development
-title: "呪文の構築をサイバーカラテ使いが情報を共有し最適化していく様子は、オープンソースソフトウェア開発におけるコミュニティによるコー…"
+title: オープンソース開発
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_サイバーカラテ使い_other_呪文_p2767]]"

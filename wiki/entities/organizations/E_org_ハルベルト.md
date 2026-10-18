@@ -29,6 +29,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0039_inverts_E_ch0039_ハルベルト_names_大神院_p1737_institutional_corruption|権威ある大神院を「異端」と定義し、内部の歪みを修整する役割を担うことは、組織の自己批判や内部告発、体制批判の構造を逆転させたも…]]
+- [[A_ch0039_inverts_E_ch0039_ハルベルト_names_大神院_p1737_institutional_corruption|大神院の組織腐敗の逆転]]
 
 <!-- AUTO:END -->

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0200_alludes_to_E_ch0200_クナータ_other_祈祷_p6746_電気椅子
-title: "聖女が座る「玉座」が「刑死者不在の電気椅子」と呼ばれ、神の裁きや死を管理する装置として描写されている"
+title: 死を管理する装置としての電気椅子
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0200_クナータ_other_祈祷_p6746]]"

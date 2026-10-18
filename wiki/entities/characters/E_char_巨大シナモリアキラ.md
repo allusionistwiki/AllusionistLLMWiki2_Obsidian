@@ -10,7 +10,7 @@ spoiler_after: ch0181
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 巨大シナモリアキラ
@@ -31,6 +31,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: そして、『分身』を殺されたことで激怒した『本体』がその擬態を解除。
 - **unknown**: そして、『分身』を殺されたことで激怒した『本体』がその擬態を解除。
 - **unknown**: そして、『分身』を殺されたことで激怒した『本体』がその擬態を解除。
 

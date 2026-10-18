@@ -28,7 +28,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from llm_client import create_client, load_config, strip_code_fence, parse_json_lenient
 
 ROOT = Path(__file__).resolve().parent.parent
-WORK = ROOT.parent / "AllusionistLLMWiki2_Work"
+from paths import WORK_DIR as WORK
 LOG_PATH = WORK / "reports" / "autopilot_log.md"
 
 REVIEW_SYSTEM_PROMPT = """
@@ -107,7 +107,7 @@ def promote(chapter: str, items: list[dict], verdicts: list[dict], log: list[str
     vmap = {v.get("index"): v for v in verdicts}
     # events 層の実 event_id（LLM が locator を落とした subject を解決して死リンクを防ぐ）
     event_ids: set[str] = set()
-    ev_path = ROOT.parent / "AllusionistLLMWiki2_Work" / "events" / f"{chapter}.jsonl"
+    ev_path = WORK / "events" / f"{chapter}.jsonl"
     if ev_path.exists():
         for line in ev_path.read_text(encoding="utf-8").splitlines():
             try:

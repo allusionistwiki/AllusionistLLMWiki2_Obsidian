@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_肉塊_p1590_zombie
-title: "死体から新たな存在が湧き出す描写は、ゾンビやアンデッドの復活、および「死体の反乱」というホラーのクリシェに該当する"
+title: 死体からの復活というゾンビ的クリシェ
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_other_肉塊_p1590]]"

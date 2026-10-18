@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_SNSにおける承認欲求とフォロワー支配
 title: SNS承認欲求支配
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: internet_culture
 canonical_name: "SNSにおける承認欲求とフォロワー支配"
 domain: "Internet Culture"

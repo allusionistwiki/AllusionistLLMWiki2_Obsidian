@@ -10,7 +10,7 @@ first_appearance: ch0249
 spoiler_after: ch0249
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 蒼空岩石群
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: ここはいにしえの『散らばった大地の時代』の残滓とされている。
 - **unknown**: ここはいにしえの『散らばった大地の時代』の残滓とされている。
 - **unknown**: ここはいにしえの『散らばった大地の時代』の残滓とされている。
 

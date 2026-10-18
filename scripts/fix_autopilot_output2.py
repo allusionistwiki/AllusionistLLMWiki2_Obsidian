@@ -11,8 +11,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CLAIMS = ROOT / "wiki" / "claims"
-WORK_EVENTS = ROOT.parent / "AllusionistLLMWiki2_Work" / "events"
-LOG = ROOT.parent / "AllusionistLLMWiki2_Work" / "reports" / "autopilot_log.md"
+from paths import WORK_DIR
+WORK_EVENTS = WORK_DIR / "events"
+LOG = WORK_DIR / "reports" / "autopilot_log.md"
 
 
 def flatten_nested() -> int:

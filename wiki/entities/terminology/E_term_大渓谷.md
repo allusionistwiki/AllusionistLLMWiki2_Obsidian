@@ -10,7 +10,7 @@ first_appearance: ch0261
 spoiler_after: ch0261
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 大渓谷
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 選手たちが進むのは自然の暴威によって浸食された大渓谷のコースだ。
 - **unknown**: 選手たちが進むのは自然の暴威によって浸食された大渓谷のコースだ。
 - **unknown**: 選手たちが進むのは自然の暴威によって浸食された大渓谷のコースだ。
 

@@ -10,7 +10,7 @@ first_appearance: ch0231
 spoiler_after: ch0231
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # ダエモデク・イヴニル
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: 姉であるアルト・イヴニルの予備。『紅紫の瞳』の右玉。
 - **unknown**: 姉であるアルト・イヴニルの予備。『紅紫の瞳』の右玉。
 - **unknown**: 姉であるアルト・イヴニルの予備。『紅紫の瞳』の右玉。
 

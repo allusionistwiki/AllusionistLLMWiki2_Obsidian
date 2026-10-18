@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_加工食品の栄養補助
 title: 加工食品の栄養補助
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "加工食品の栄養補助"
 domain: "Contemporary Culture"

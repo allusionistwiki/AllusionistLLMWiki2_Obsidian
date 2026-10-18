@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_スパイ映画・潜入捜査
 title: スパイ映画
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "スパイ映画・潜入捜査"
 domain: "Contemporary Culture"

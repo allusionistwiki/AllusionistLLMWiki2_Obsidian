@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0118_parodies_E_ch0118_トリシューラ_says_天気予報風呪文_p4125_weather_forecast_broadcast
-title: "戦闘中の射撃精度や弾道計算を「ガロアンディアン気象庁」の天気予報として実況するのは、テレビの天気予報番組のフォーマットを戦闘実…"
+title: 戦闘実況の天気予報化
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0118_トリシューラ_says_天気予報風呪文_p4125]]"

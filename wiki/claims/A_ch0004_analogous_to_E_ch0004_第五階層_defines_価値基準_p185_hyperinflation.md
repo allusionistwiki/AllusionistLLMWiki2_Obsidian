@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0004_analogous_to_E_ch0004_第五階層_defines_価値基準_p185_hyperinflation
-title: "第五階層の闇市場における貨幣の暴落は、極度のインフレや経済崩壊下での価値基準の喪失を模している"
+title: ハイパーインフレによる価値喪失
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0004_第五階層_defines_価値基準_p185]]"

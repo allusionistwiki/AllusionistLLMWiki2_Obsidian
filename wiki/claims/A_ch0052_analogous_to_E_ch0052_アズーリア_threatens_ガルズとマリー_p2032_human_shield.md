@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0052_analogous_to_E_ch0052_アズーリア_threatens_ガルズとマリー_p2032_human_shield
-title: "囚人を「囮」として使う発想は、非戦闘員を戦術資源として消費する冷酷な合理性を示している"
+title: 人間盾の戦術資源化
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_アズーリア_threatens_ガルズとマリー_p2032]]"

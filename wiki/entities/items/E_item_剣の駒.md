@@ -10,7 +10,7 @@ first_appearance: ch0189
 spoiler_after: ch0189
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 剣の駒
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 剣だ。退場したはずの無害な駒。 なぜこの駒が今になって盤面に舞い戻ってくる？
 - **unknown**: 剣だ。退場したはずの無害な駒。 なぜこの駒が今になって盤面に舞い戻ってくる？
 - **unknown**: 剣だ。退場したはずの無害な駒。 なぜこの駒が今になって盤面に舞い戻ってくる？
 

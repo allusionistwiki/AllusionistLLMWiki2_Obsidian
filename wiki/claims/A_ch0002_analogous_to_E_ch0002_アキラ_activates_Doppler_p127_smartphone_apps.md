@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0002_analogous_to_E_ch0002_アキラ_activates_Doppler_p127_smartphone_apps
-title: "アキラが脳内にインストールされたアプリを起動・管理し、メモリ不足でアプリを切り替える様子は、現代のスマートフォンにおけるアプリ…"
+title: 脳内アプリのメモリ管理
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_アキラ_activates_Doppler_p127]]"

@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_social_darwinism_welfare_state
+title: 管理優生思想
+type: external_reference
+created: "2026-10-19"
+subtype: popular_culture
+canonical_name: "social_darwinism_welfare_state"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# social_darwinism_welfare_state
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5578_analogous_to_E_p113_social_darwinism_welfare_state]] — チッセによる生態系・淘汰を根拠とした弱者保護（保護区、薬物処理）の提案は、社会ダーウィニズムや福祉国家における管理主義的な優生思想のパロディである。

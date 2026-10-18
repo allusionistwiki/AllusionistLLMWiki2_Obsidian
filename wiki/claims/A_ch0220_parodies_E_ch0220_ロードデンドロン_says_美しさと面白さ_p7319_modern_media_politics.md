@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0220_parodies_E_ch0220_ロードデンドロン_says_美しさと面白さ_p7319_modern_media_politics
-title: "ロードデンドロンの主張は、論理や正義ではなく「美しさと面白さ」という感性への訴求によって社会秩序を再編しようとする、ポピュリズ…"
+title: ポピュリズム的支配戦略
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0220_ロードデンドロン_says_美しさと面白さ_p7319]]"

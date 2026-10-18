@@ -10,7 +10,7 @@ spoiler_after: ch0053
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 連帯
@@ -27,13 +27,14 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0053_analogous_to_E_ch0053_連帯_defines_攻略速度の決定_p2065_cartel_and_market_manipulation|槍神教、巨大企業群、各国が談合して攻略速度を決定し利益を分配する構造は、現実のカルテル（価格協定）や市場操作、寡占企業による利…]]
+- [[A_ch0053_analogous_to_E_ch0053_連帯_defines_攻略速度の決定_p2065_cartel_and_market_manipulation|カルテル・市場操作の構造一致]]
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「槍神教と巨大企業群、そして各国を束ねる【連帯】は談合によって攻略速度を決定している。利益を最大化し、三者の間で分配する為にね。
 - **unknown**: 「槍神教と巨大企業群、そして各国を束ねる【連帯】は談合によって攻略速度を決定している。利益を最大化し、三者の間で分配する為にね。
 - **unknown**: 「槍神教と巨大企業群、そして各国を束ねる【連帯】は談合によって攻略速度を決定している。利益を最大化し、三者の間で分配する為にね。
 

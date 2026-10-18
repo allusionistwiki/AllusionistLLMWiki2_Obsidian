@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_恨みの対象_p1561_revenge
-title: "復讐の対象があることへの羨望は、復讐が恨みを解消する手段として機能する心理的構造を示す"
+title: 恨み解消手段としての復讐心理
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_says_恨みの対象_p1561]]"

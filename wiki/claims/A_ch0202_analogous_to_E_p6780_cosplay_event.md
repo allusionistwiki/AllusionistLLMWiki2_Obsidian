@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0202_analogous_to_E_p6780_cosplay_event
-title: "甲冑着用を「理想像」の具現化として描き、戦闘準備をキャラクターの自己演出やロールプレイ的な行為として機能させている"
+title: 甲冑着用をロールプレイとして演出
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_美容整形・身体改造
 title: 美容整形・身体改造
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "美容整形・身体改造"
 domain: "Contemporary Culture"

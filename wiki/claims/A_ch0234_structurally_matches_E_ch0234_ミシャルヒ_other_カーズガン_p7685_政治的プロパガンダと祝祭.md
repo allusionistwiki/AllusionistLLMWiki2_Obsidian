@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0234_structurally_matches_E_ch0234_ミシャルヒ_other_カーズガン_p7685_政治的プロパガンダと祝祭
-title: "対立する勢力の代表者が握手をするという演出は、祝祭というイベントが民衆に強いる「自動的な反応」であり、その虚構性を指摘している"
+title: 祝祭による政治的プロパガンダ
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0234_ミシャルヒ_other_カーズガン_p7685]]"

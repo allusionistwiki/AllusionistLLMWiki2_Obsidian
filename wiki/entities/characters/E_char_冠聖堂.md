@@ -1,0 +1,31 @@
+---
+schema_version: "5.1"
+id: E_char_冠聖堂
+type: entity
+subtype: character
+canonical_name: 冠聖堂
+title: "冠聖堂"
+first_appearance: ch0265
+spoiler_after: ch0265
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 冠聖堂
+
+オーブルディース・エジーメ・クロウサーが刻まれた異名であり、その名を持つ存在は亡霊として登場する一人である。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0265 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 『冠聖堂』オーブルディース・エジーメ・クロウサー。（ch0265）
+> 『冠聖堂』オーブルディース・エジーメ・クロウサー。（ch5574）
+
+## 関連クレーム
+
+- [[A_ch5574_alludes_to_E_ch5574_オーブルディース・エジーメ・クロウサー_names_冠聖堂_p17_Religious_Canonization|亡霊による王権叙任式]]
+
+<!-- AUTO:END -->

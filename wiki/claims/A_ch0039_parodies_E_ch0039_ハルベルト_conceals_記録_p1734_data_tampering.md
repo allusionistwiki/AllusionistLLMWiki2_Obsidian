@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0039_parodies_E_ch0039_ハルベルト_conceals_記録_p1734_data_tampering
-title: "ハルベルトによる戦闘中の「五重の改竄処理」は、ゲームやSNSにおけるログ改ざん、あるいは情報統制による事実の隠蔽を模倣している"
+title: 戦闘記録のデータ改竄
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0039_ハルベルト_conceals_記録_p1734]]"

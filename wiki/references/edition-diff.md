@@ -1,6 +1,9 @@
 ---
-title: 版間差分内容（なろう版 → カクヨム版）
-id: references/edition-diff
+
+schema_version: "5.1"
+id: edition-diff
+type: reflection
+title: 版間差分内容
 description: 2020-2021 なろう連載版から 2022 カクヨム版への改稿で、内容がどこを・何を・どう変えたかの解析（一致率実測・削除一覧・書換例）
 ---
 

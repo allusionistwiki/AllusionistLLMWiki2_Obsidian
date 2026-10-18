@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_suicide_as_erasure
 title: 存在抹消型自殺
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "suicide_as_erasure"
 domain: "Contemporary Culture"

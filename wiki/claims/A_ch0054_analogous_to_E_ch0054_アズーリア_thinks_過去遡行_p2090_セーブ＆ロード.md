@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0054_analogous_to_E_ch0054_アズーリア_thinks_過去遡行_p2090_セーブ＆ロード
-title: "過去遡行への依存は、因果の重みを失わせ、現在の選択の価値を希薄化させる「時間の罠」であり、物語の不可逆性を損なう構造を指している"
+title: セーブ＆ロードへの依存
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_アズーリア_thinks_過去遡行_p2090]]"

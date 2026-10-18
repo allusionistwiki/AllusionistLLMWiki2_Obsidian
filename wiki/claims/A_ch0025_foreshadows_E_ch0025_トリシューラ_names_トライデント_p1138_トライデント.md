@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0025_foreshadows_E_ch0025_トリシューラ_names_トライデント_p1138_トライデント
-title: "コルセスカの「融和」の思想を「トライデントの発想」と名指しし、ヘルマプロディートスという語の使用を禁じることで、トライデントが…"
+title: トライデントへの個の消滅暗示
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_トリシューラ_names_トライデント_p1138]]"

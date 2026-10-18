@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0063_analogous_to_E_ch0063_ハルベルト_appears_舞台_p2363_バーチャルYouTuber・アバター
-title: "マリーが「殺したはず」と絶叫する中、偽装呪術（アバター）を被ったハルベルトが歌姫として登場する様子は、アバターの裏に別の人間（…"
+title: VTuber・アバターへの転生
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_ハルベルト_appears_舞台_p2363]]"

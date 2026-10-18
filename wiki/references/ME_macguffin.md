@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_macguffin
 title: マクガフィン
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "macguffin"
 domain: "Contemporary Culture"
@@ -19,6 +16,7 @@ review_status: llm_verified
 
 本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作からの参照 (1 件)
+## 本作からの参照 (2 件)
 
 - [[A_ch0015_analogous_to_E_ch0015_アキラ_thinks_マクガフィン_p716_macguffin]] — 主人公が他者から求められる「価値」を、物語を動かすための道具に過ぎない「マクガフィン」として自己認識するのは、メタフィクション的な自己客体化であり、ゲーム的な「主人公特権」の虚構性を指摘している。
+- [[A_ch0222_analogous_to_E_ch0222_トランクケース_has_property_異常な軽さ_p7353_MacGuffin]] — 中身が不明で物語を駆動させるだけの装置であるトランクケースは、ヒッチコックが提唱した『マクガフィン』の概念そのものである。

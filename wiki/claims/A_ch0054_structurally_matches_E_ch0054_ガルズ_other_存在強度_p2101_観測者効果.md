@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0054_structurally_matches_E_ch0054_ガルズ_other_存在強度_p2101_観測者効果
-title: "夜の民が「記述と更新を続けなければ存在強度を保てない」という設定は、量子力学における観測によって状態が確定する「観測者効果」や…"
+title: 観測者効果による存在維持
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0054_ガルズ_other_存在強度_p2101]]"

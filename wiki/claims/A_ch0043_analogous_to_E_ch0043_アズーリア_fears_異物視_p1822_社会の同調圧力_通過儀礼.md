@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0043_analogous_to_E_ch0043_アズーリア_fears_異物視_p1822_社会の同調圧力_通過儀礼
-title: "「ここで食べなければ異物と見なされる」という通過儀礼への恐怖は、社会における同調圧力や「空気を読む」ことの強迫観念を象徴している"
+title: 同調圧力と通過儀礼
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_アズーリア_fears_異物視_p1822]]"

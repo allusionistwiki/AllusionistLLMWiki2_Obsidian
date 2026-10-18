@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ゲームの難易度調整_プレイヤーの試行錯誤
 title: 難易度調整
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ゲームの難易度調整_プレイヤーの試行錯誤"
 domain: "Contemporary Consumer Culture"

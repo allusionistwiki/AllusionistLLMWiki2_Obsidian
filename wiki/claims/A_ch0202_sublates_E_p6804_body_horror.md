@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0202_sublates_E_p6804_body_horror
-title: "人間が薔薇へと変容する描写は、美の追求が人間の形を失わせるというボディホラーの要素を含み、美と醜の境界を曖昧にしている"
+title: 薔薇変容による美醜境界の曖昧化
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"

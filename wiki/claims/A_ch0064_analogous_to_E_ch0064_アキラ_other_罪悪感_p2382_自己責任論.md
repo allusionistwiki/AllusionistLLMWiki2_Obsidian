@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_アキラ_other_罪悪感_p2382_自己責任論
-title: "アキラがキロンの死を「言い訳」として処理し、観客の欲求に迎合する様子は、現代社会における自己責任論や、システムに加担する個人の…"
+title: 自己責任論の象徴
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_アキラ_other_罪悪感_p2382]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0069_analogous_to_E_ch0069_ハルベルト_says_重力_p2561_gravity_metaphor
-title: "ハルベルトが説く「質量の大きい方に引き寄せられる」という関係性は、物理的な重力の法則を、支配と服従、あるいは愛の非対称性を正当…"
+title: 重力の比喩による支配の正当化
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_ハルベルト_says_重力_p2561]]"

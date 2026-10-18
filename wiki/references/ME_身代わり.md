@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_身代わり
 title: 身代わり
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "身代わり"
 domain: "Contemporary Culture"

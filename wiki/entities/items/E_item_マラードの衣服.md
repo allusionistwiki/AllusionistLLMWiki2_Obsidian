@@ -10,7 +10,7 @@ first_appearance: ch0138
 spoiler_after: ch0138
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # マラードの衣服
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 円形を基調とした華やかな刺繍は呪的な紋様としての力を発揮して王の全身を災いから守っている。
 - **unknown**: 円形を基調とした華やかな刺繍は呪的な紋様としての力を発揮して王の全身を災いから守っている。
 - **unknown**: 円形を基調とした華やかな刺繍は呪的な紋様としての力を発揮して王の全身を災いから守っている。
 

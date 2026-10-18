@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0187_parodies_E_ch0187_コズエ_activates_ライフル_p6203_シューティングゲームのエイム
-title: "五光年先の標的を撃ち抜く描写は、物理法則を超越した「絶対的な命中」を象徴し、コズエの戦闘能力がゲーム的な操作感を超えた「運命的…"
+title: 運命的な精度を持つシューティングゲームのエイム
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0187_コズエ_activates_ライフル_p6203]]"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_自己責任論・社会的孤立
 title: 自己責任と社会的孤立
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "自己責任論・社会的孤立"
 domain: "Contemporary Culture"

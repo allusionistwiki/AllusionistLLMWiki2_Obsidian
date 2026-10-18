@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_self_help_seminars
 title: 自己啓発セミナー
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "self_help_seminars"
 domain: "Contemporary Culture"

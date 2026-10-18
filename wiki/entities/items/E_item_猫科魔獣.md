@@ -10,7 +10,7 @@ spoiler_after: ch0222
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 猫科魔獣
@@ -31,6 +31,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 上空にオルゴーの滅びの呪文を構築して破壊活動を行おうとしたテロリストを獅子の炎が焼き尽くし、
 - **unknown**: 上空にオルゴーの滅びの呪文を構築して破壊活動を行おうとしたテロリストを獅子の炎が焼き尽くし、
 - **unknown**: 上空にオルゴーの滅びの呪文を構築して破壊活動を行おうとしたテロリストを獅子の炎が焼き尽くし、
 

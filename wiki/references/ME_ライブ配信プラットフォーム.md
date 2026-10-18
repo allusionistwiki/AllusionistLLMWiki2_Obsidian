@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ライブ配信プラットフォーム
 title: ライブ配信
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ライブ配信プラットフォーム"
 domain: "Contemporary Culture"

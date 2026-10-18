@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_ファイアーウォール_other_歌姫_p2637_SNSにおける炎上と応援コメントの対比
-title: "「炎上」（悪意の文字列）と「ファイアーウォール」（肯定する文字列/障壁）の対決は、SNSにおける悪意あるコメントの洪水に対し…"
+title: SNS炎上と応援対比
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_歌姫_other_ファイアーウォール_p2637]]"

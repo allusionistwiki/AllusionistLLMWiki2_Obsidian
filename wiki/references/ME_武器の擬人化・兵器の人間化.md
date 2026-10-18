@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_武器の擬人化・兵器の人間化
 title: 兵器の人間化
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "武器の擬人化・兵器の人間化"
 domain: "Contemporary Culture"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0263_alludes_to_E_ch0263_ミブレル_other_自由の定義_p8322_sartre_freedom
-title: "道具（箒）への依存を欠落と捉える視点に対し、教師が「依存こそが自由の自覚を促す」と逆説的な問いを投げかけることで、技術への依存…"
+title: 依存を自由の自覚とする逆説
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0263_ミブレル_other_自由の定義_p8322]]"

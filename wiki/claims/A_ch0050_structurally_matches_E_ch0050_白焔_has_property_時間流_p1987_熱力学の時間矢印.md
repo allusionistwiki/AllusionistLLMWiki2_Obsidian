@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0050_structurally_matches_E_ch0050_白焔_has_property_時間流_p1987_熱力学の時間矢印
-title: "【白焔】が物理現象ではなく『ものごとの始まりと終わり』という時間的経過そのものとして定義される点は、物理学におけるエントロピー…"
+title: 時間の矢の呪術的可視化
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_白焔_has_property_時間流_p1987]]"

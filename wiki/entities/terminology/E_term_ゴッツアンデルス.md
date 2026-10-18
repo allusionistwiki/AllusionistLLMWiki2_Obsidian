@@ -10,7 +10,7 @@ first_appearance: ch0120
 spoiler_after: ch0120
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # ゴッツアンデルス
 
@@ -21,6 +21,7 @@ updated: '2026-10-11'
 
 - **unknown**: 横綱大神ゴッツアンデルス。
 『異神』とでも訳すべきその言葉は、樹状積層都市ヴェストドイチュラントに伝わる幻獣バルトアンデルスから引用されたものだ。
+- **unknown**: 横綱大神ゴッツアンデルス。
 - **unknown**: 横綱大神ゴッツアンデルス。
 
 <!-- /AUTO-GENERATED:name -->

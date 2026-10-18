@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_database
-title: "「アカシックレコード」を「制御盤」と呼ぶことは、世界の全情報をデータベースとして管理し、そこから現実を生成・更新するという情報…"
+title: データベースによる現実生成
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_紀元槍_p1925]]"

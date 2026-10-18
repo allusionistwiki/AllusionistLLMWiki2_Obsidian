@@ -10,7 +10,7 @@ first_appearance: ch0219
 spoiler_after: ch0219
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 髪
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: きらきらの世界。虹色の夢。未来への期待。全ては上位次元のおままごと。
 - **unknown**: きらきらの世界。虹色の夢。未来への期待。全ては上位次元のおままごと。
 - **unknown**: きらきらの世界。虹色の夢。未来への期待。全ては上位次元のおままごと。
 

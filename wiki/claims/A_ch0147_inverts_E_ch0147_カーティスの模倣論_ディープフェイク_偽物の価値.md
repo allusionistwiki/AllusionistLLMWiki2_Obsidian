@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0147_inverts_E_ch0147_カーティスの模倣論_ディープフェイク_偽物の価値
-title: "カーティスが「完璧な模倣ならそれは本物と同じ」として疑似餌のリールエルバを孫として認める論理は、AI生成物やディープフェイクに…"
+title: ディープフェイクの境界消失の逆転
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0147_オルヴァ_has_property_時空操作_p5013]]"

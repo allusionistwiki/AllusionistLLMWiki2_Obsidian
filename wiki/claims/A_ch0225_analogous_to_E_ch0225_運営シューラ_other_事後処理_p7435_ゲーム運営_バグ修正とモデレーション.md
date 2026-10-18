@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0225_analogous_to_E_ch0225_運営シューラ_other_事後処理_p7435_ゲーム運営_バグ修正とモデレーション
-title: "ドローンにテクスチャを貼り事後処理を行う様子は、ゲーム開発におけるアセットの動的な適用やバグ修正のメタファーとして機能し、世界…"
+title: ゲーム運営のバグ修正メタファー
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0225_運営シューラ_other_事後処理_p7435]]"

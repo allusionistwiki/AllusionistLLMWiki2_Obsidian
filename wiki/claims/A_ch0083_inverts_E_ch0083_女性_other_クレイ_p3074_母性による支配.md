@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0083_inverts_E_ch0083_女性_other_クレイ_p3074_母性による支配
-title: "「ママ」を名乗る女性による赦しは、トリシューラの支配とは異なる「母性」を装った支配構造を示唆している"
+title: 母性を装った支配構造
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0083_女性_other_クレイ_p3074]]"

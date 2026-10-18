@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_アキラ_says_信用できない語り手_p2371_動画の再生回数
-title: "情報の信頼性を「再生回数」で操作する現代のネット文化を、呪術における「確度」の操作に置き換えている"
+title: 再生回数操作のネット文化
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_アキラ_says_信用できない語り手_p2371]]"

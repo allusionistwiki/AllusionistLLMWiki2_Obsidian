@@ -10,7 +10,7 @@ spoiler_after: ch0069
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 誰か
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「言理の妖精語りて曰く」 離れた場所で、同時に発せられたその詠唱。
 - **unknown**: 「言理の妖精語りて曰く」 離れた場所で、同時に発せられたその詠唱。
 - **unknown**: 「言理の妖精語りて曰く」 離れた場所で、同時に発せられたその詠唱。
 

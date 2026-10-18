@@ -10,7 +10,7 @@ first_appearance: ch0254
 spoiler_after: ch0254
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 虹
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 様々な文化圏で橋、竜蛇、あるいは弓などに喩えられるそれを、虹と呼ぶ。
 - **unknown**: 様々な文化圏で橋、竜蛇、あるいは弓などに喩えられるそれを、虹と呼ぶ。
 - **unknown**: 様々な文化圏で橋、竜蛇、あるいは弓などに喩えられるそれを、虹と呼ぶ。
 

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_inter_textuality
 title: 間テクスト性
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "inter_textuality"
 domain: "Contemporary Culture"

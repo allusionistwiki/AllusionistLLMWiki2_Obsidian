@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0073_analogous_to_E_ch0073_アズーリア_uses_連関合成_p2740_color_mixing
-title: "異なる属性を持つ存在の融合は、光の三原色混合の原理を援用しつつ、含まれない色（赤）を生み出すという作品独自の「属性合成」の法則…"
+title: 色混合
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0073_アズーリア_uses_連関合成_p2740]]"

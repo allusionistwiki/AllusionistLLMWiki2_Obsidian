@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ゲームの競技性eSports
 title: eSportsの競技性
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ゲームの競技性eSports"
 domain: "Contemporary Consumer Culture"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0001_alludes_to_E_ch0001_アキラ_reveals_前世の職業_p17_トラック運転手
-title: "転生を手助けする殺し屋を「トラック運転手」と呼ぶのは、異世界転生ジャンルの定番である「トラックによる事故死（なろう系）」を逆手…"
+title: 転生殺し屋をトラック運転手と命名
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_reveals_前世の職業_p17]]"

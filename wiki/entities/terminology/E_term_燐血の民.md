@@ -10,7 +10,7 @@ first_appearance: ch0206
 spoiler_after: ch0206
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 燐血の民
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 燐血の民は怒ると本当に血が加熱するのだ。
 - **unknown**: 燐血の民は怒ると本当に血が加熱するのだ。
 - **unknown**: 燐血の民は怒ると本当に血が加熱するのだ。
 

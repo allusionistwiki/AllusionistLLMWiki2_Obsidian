@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_semantic_gap
 title: 意味のギャップ
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "semantic_gap"
 domain: "Contemporary Culture"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0082_analogous_to_E_ch0082_人造ホラー_appears_地下_p3025_メガコーポの軍事開発
-title: "第六階層の攻略用に開発された「使役型寄生異獣」は、現代の巨大企業（メガコーポ）による軍事技術開発やバイオテクノロジーの濫用、倫…"
+title: 使役型寄生異獣によるメガコーポ軍事開発
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_人造ホラー_appears_地下_p3025]]"

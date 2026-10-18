@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0024_analogous_to_E_ch0024_トリシューラ_uses_巡槍艦のバックアップ_p1122_システムのロールバック
-title: "巡槍艦のバックアップデータを用いて、現実の迷宮状態を過去の正常状態に「上書き」し、迷宮化を解除する行為は、ITシステムにおける…"
+title: システムロールバックへの迷宮解除
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0024_トリシューラ_uses_巡槍艦のバックアップ_p1122]]"

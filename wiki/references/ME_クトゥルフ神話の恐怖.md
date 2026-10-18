@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_クトゥルフ神話の恐怖
 title: クトゥルフ神話の恐怖
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: mythology
 canonical_name: "クトゥルフ神話の恐怖"
 domain: "Mythology"

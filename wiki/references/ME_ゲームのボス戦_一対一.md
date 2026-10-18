@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ゲームのボス戦_一対一
 title: ボス戦
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ゲームのボス戦_一対一"
 domain: "Contemporary Consumer Culture"

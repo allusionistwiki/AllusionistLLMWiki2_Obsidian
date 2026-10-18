@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_term_悪意の呪文
+type: entity
+title: 悪意の呪文
+subtype: terminology
+canonical_name: 悪意の呪文
+aliases: []
+first_appearance: ch5588
+spoiler_after: ch5588
+document_status: active
+created: '2026-10-19'
+updated: '2026-10-19'
+---
+# 悪意の呪文
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: それらひとつひとつが『チッセが辿る最悪の歴史』と『全く関係のないティリビナ人がチッセに成り代わった歴史』に変化し、更には膨大な量の『キノコ人の無惨な末路』が次々に突き刺さってチッセの魂を貪った。
+
+<!-- /AUTO-GENERATED:action -->

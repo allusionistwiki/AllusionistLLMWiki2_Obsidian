@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0246_analogous_to_E_ch0246_ユディーア_thinks_七情掌法_p7998_emotional_suppression_mechanism
-title: "複雑な感情処理のために「七情掌法」で強引に『喜』を喚起することを考える描写は、過酷な状況下で精神的安定を維持するために感情を人…"
+title: 感情抑制の人工的操作
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0246_アテンプレク_has_property_金猿のふん_p7999]]"

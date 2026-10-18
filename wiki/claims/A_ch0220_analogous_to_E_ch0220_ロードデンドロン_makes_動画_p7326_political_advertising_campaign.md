@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0220_analogous_to_E_ch0220_ロードデンドロン_makes_動画_p7326_political_advertising_campaign
-title: "ロードデンドロンが祝祭という舞台で流す動画は、候補者が選挙戦で流すポジティブなCMや、SNSでのイメージ戦略そのものであり、政…"
+title: 選挙CM的プロパガンダ戦
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0220_ロードデンドロン_makes_動画_p7326]]"

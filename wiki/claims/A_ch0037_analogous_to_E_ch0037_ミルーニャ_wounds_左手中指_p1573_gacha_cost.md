@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_ミルーニャ_wounds_左手中指_p1573_gacha_cost
-title: "強力な武器を召喚するために自らの身体の一部（爪）を代償として捧げる行為は、魔法の代償としての身体犠牲の伝統的構造を示している"
+title: ガチャの代償への身体犠牲
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_ミルーニャ_wounds_左手中指_p1573]]"

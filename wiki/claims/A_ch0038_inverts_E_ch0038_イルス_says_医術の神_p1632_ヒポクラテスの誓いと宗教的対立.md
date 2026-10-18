@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0038_inverts_E_ch0038_イルス_says_医術の神_p1632_ヒポクラテスの誓いと宗教的対立
-title: "イルスが「俺の神は医術だ」と宣言し、信仰（槍神教）と技術（医術）を分離して救済を行う姿勢は、宗教的対立を超越したヒポクラテス的…"
+title: ヒポクラテスの誓いの逆転
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0038_イルス_says_医術の神_p1632]]"

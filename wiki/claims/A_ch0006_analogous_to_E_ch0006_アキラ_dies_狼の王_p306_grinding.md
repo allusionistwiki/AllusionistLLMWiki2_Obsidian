@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0006_analogous_to_E_ch0006_アキラ_dies_狼の王_p306_grinding
-title: "成長の伴わない死の反復は、MMOゲーム等で経験する、進歩のない単調な戦闘ループの苦痛と無意味さを象徴している"
+title: 作業的戦闘の無意味さ
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0006_アキラ_dies_狼の王_p306]]"

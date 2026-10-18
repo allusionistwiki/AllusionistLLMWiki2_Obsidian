@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_quantum_entanglement
 title: 量子もつれ
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "quantum_entanglement"
 domain: "Contemporary Culture"

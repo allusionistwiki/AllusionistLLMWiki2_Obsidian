@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_SNSにおける炎上と応援コメントの対比
 title: SNS炎上と応援対比
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: internet_culture
 canonical_name: "SNSにおける炎上と応援コメントの対比"
 domain: "Internet Culture"

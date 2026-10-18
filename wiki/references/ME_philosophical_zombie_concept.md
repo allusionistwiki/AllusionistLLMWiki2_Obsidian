@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_philosophical_zombie_concept
 title: 哲学的ゾンビ概念
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "philosophical_zombie_concept"
 domain: "Contemporary Culture"

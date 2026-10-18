@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0049_analogous_to_E_ch0049_プリエステラ_thinks_家族の空虚さ_p1959_家族の機能不全・血縁の呪縛
-title: "「家族」「同胞」という言葉が空虚に響き、血縁や所属が運命を決定する残酷さへの疑念は、現代における機能不全家族や、血縁による自己…"
+title: 機能不全家族と血縁の呪縛
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0049_プリエステラ_thinks_家族の空虚さ_p1959]]"

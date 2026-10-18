@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_リーナ_finds_共通点_p2370_データマイニング
-title: "リーナが現場を調べ、共通点を洗い出す行為は、大量のデータからパターンを発見するデータマイニングの手法に似ている"
+title: データマイニングへの現場調査
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_リーナ_finds_共通点_p2370]]"

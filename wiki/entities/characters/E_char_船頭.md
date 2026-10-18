@@ -10,7 +10,7 @@ spoiler_after: ch0172
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 船頭
@@ -30,6 +30,8 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: クレイ。お前は、いつ、どこで、誰によって生み出された？
+- **unknown**: 『まことの名を見つけろ』と
 - **unknown**: クレイ。お前は、いつ、どこで、誰によって生み出された？
 - **unknown**: 『まことの名を見つけろ』と
 - **unknown**: クレイ。お前は、いつ、どこで、誰によって生み出された？

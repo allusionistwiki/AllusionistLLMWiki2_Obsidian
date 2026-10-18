@@ -10,7 +10,7 @@ first_appearance: ch0227
 spoiler_after: ch0227
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 征服の騎士団
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 彼らはみな『軍勢』や『化身』といった呪術の奥義を使いこなす石像兵呪術の達人であるからだ。
 - **unknown**: 彼らはみな『軍勢』や『化身』といった呪術の奥義を使いこなす石像兵呪術の達人であるからだ。
 - **unknown**: 彼らはみな『軍勢』や『化身』といった呪術の奥義を使いこなす石像兵呪術の達人であるからだ。
 

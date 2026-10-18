@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0025_sublates_E_ch0025_アキラ_says_痛みの意味_p1160_感傷
-title: "キロンが痛みに意味（過去、死者への追悼）を見出すのに対し、アキラは痛みを単なる生化学的シグナルとして処理し、感傷的な意味付けを…"
+title: 感傷の止揚
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0025_アキラ_says_痛みの意味_p1160]]"

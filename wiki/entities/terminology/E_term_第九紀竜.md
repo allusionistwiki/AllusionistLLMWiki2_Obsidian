@@ -10,7 +10,7 @@ first_appearance: ch0145
 spoiler_after: ch0145
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 第九紀竜
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 第九の紀竜とは、人の手によって構成された大呪術のことだ。
 - **unknown**: 第九の紀竜とは、人の手によって構成された大呪術のことだ。
 - **unknown**: 第九の紀竜とは、人の手によって構成された大呪術のことだ。
 

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_MMORPGのパーティ構成
 title: MMOパーティ構成
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "MMORPGのパーティ構成"
 domain: "Contemporary Culture"

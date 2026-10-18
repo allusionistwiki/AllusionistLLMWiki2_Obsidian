@@ -3,23 +3,19 @@ schema_version: "5.1"
 id: ME_Gun_Regulation_Tropes
 title: 銃規制の定型
 type: external_reference
-
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "Gun_Regulation_Tropes"
-aliases: []
-domain: "culture"
-document_status: active
-referenced_by: []
-relations: []
-created: "2026-10-11"
-updated: "2026-10-11"
+domain: "Contemporary Culture"
+review_status: llm_verified
 ---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
 # Gun_Regulation_Tropes
 
-<!-- AUTO:BEGIN -->
-（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作での参照
+## 本作からの参照 (1 件)
 
-- [[A_ch0222_inverts_E_ch0222_竜覚_other_カルカブリーナ_p7371_Gun_Regulation_Tropes]]
-<!-- AUTO:END -->
+- [[A_ch0222_inverts_E_ch0222_竜覚_other_カルカブリーナ_p7371_Gun_Regulation_Tropes]] — 異世界において銃器が『英雄性を否定する無慈悲な暴力』として天罰（竜覚）の対象となるのは、一般的に銃が最強の武器として扱われるジャンルクリシェの逆転である。

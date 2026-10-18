@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0187_analogous_to_E_ch0187_ラクルラール_other_秩序の乱れ_p6208_管理社会・監視社会
-title: "指紋、網膜、呪力波長による厳正なチェックや、「人形を糸で操るがごとき生徒たちの徹底管理」という描写は、現代の生体認証技術を用い…"
+title: 生体認証監視社会の暗示
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0187_ラクルラール_other_秩序の乱れ_p6208]]"

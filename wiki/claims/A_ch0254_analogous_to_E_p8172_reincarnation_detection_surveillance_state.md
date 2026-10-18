@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0254_analogous_to_E_p8172_reincarnation_detection_surveillance_state
-title: "百目の男がユディーアの魂の構成を見抜くことは、個人の内面や履歴が完全に可視化される監視社会の構造を暗示する"
+title: 魂の可視化による監視社会
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0254_アルゾラ・クロウサー_is_made_of_ゾラ分家_p8154]]"

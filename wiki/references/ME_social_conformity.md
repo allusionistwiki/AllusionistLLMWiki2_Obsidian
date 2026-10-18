@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_social_conformity
 title: 同調圧力
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "social_conformity"
 domain: "Contemporary Culture"

@@ -1,0 +1,26 @@
+---
+schema_version: "5.1"
+id: MY_ch5585_riina_alienation
+type: mystery
+created: "2026-10-19"
+mystery_status: candidate
+spoiler_after: ch5585
+review_status: llm_verified
+timeline:
+  introduced: ch5585
+provenance:
+  proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
+
+# riina_alienation
+
+リーナがロードデンドロンの憎悪を理解できず、距離を取り見下ろす構図。この精神的断絶が今後の共闘や対立にどう影響するか。
+
+**回収示唆**: リーナの「優しさ」が傲慢さとして機能し、味方からの信頼喪失や孤立化の引き金になる可能性。
+
+> 無自覚に、リーナは箒で飛びながらティリビナ人から距離をとった。その高度が上昇し、彼女は自然と激昂するロードデンドロンを見下ろす。冷静に、正しく優しい論理を信じながら。（p101-p103）
+
+**審査（LLM 代替）**: リーナが物理的に距離を取り見下ろす構図は、感情的な共感の欠如と理性的距離を示しており、今後の対立や断絶の伏線として妥当である。

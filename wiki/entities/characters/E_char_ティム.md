@@ -10,7 +10,7 @@ first_appearance: ch0085
 spoiler_after: ch0085
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # ティム
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 三報会に残った最後の頭目、【報復】のティムが幹部の仇討ちに手勢を引き連れて動いた。
 - **unknown**: 三報会に残った最後の頭目、【報復】のティムが幹部の仇討ちに手勢を引き連れて動いた。
 - **unknown**: 三報会に残った最後の頭目、【報復】のティムが幹部の仇討ちに手勢を引き連れて動いた。
 

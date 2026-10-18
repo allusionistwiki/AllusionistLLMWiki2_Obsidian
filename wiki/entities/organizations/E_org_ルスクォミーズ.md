@@ -10,7 +10,7 @@ first_appearance: ch0263
 spoiler_after: ch0263
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # ルスクォミーズ
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: ルスクォミーズはその弱点を的確に突いてシャーネスお姉さまを丸呑みしてのけたのです
 - **unknown**: ルスクォミーズはその弱点を的確に突いてシャーネスお姉さまを丸呑みしてのけたのです
 - **unknown**: ルスクォミーズはその弱点を的確に突いてシャーネスお姉さまを丸呑みしてのけたのです
 

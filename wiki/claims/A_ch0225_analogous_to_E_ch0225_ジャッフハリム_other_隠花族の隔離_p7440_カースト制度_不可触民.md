@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0225_analogous_to_E_ch0225_ジャッフハリム_other_隠花族の隔離_p7440_カースト制度_不可触民
-title: "ティリビナ人が「穢れ」を隠花族に押し付けて隔離する構造は、社会の光（顕花族）を維持するために影（隠花族）を排除・利用する、社会…"
+title: カースト制度への影の排除
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0225_ジャッフハリム_other_隠花族の隔離_p7440]]"

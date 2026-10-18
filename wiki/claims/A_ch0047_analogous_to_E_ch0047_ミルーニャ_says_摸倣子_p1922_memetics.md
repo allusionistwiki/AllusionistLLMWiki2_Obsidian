@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_摸倣子_p1922_memetics
-title: "「摸倣子（ミーム）」が世界のゆらぎや干渉の原因として機能する設定は、リチャード・ドーキンスのミーム理論を物理法則レベルに拡張し…"
+title: 物理法則へのミーム理論拡張
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_摸倣子_p1922]]"

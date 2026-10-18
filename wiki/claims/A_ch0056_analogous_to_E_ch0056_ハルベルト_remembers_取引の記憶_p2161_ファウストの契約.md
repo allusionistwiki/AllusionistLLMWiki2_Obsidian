@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0056_analogous_to_E_ch0056_ハルベルト_remembers_取引の記憶_p2161_ファウストの契約
-title: "命を超える対価を差し出す取引、そしてその結果としての「ハルベルト」への改名と禁呪の使用は、悪魔との契約（ファウスト）や、自己の…"
+title: ファウスト的取引と改名
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0056_ハルベルト_remembers_取引の記憶_p2161]]"

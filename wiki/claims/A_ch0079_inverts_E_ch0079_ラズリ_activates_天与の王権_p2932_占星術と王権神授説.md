@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0079_inverts_E_ch0079_ラズリ_activates_天与の王権_p2932_占星術と王権神授説
-title: "ラズリが星座を形成し「天与の王権」という呪術を発動する描写は、天体運行が地上の権力や運命を支配するという占星術的・王権神授説的…"
+title: 王権神授説のゲーム的再構成
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0079_ラズリ_activates_天与の王権_p2932]]"

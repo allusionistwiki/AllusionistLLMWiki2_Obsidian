@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0041_alludes_to_E_ch0041_マリー・スー_other_伝奇集_ボルヘスの伝奇集と幻獣辞典
-title: "マリーが読んでいる本は、現実世界でファンタジーや異世界設定の源流とされるホルヘ・ルイス・ボルヘスの著作であり、異世界転生作品に…"
+title: ボルヘス的メタフィクション
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0041_マリー・スー_other_伝奇集_p1770]]"

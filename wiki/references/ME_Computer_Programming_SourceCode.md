@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_Computer_Programming_SourceCode
+title: プログラムソース
+type: external_reference
+created: "2026-10-19"
+subtype: popular_culture
+canonical_name: "Computer_Programming_SourceCode"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# Computer_Programming_SourceCode
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5574_analogous_to_E_ch5574_パーン_teaches_テキストベース・サーキット_p80_Computer_Programming_SourceCode]] — 太陰書架の模倣であり、言素を翻訳形式として定義し、呪文設計図（ソースコード）を公開する概念は、現代のプログラミング言語やオープンソースソフトウェアの思想に直結している。

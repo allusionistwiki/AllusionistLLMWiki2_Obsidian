@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_転生者クリシェチート能力
 title: 転生者チート能力
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: internet_culture
 canonical_name: "転生者クリシェチート能力"
 domain: "Internet Culture"

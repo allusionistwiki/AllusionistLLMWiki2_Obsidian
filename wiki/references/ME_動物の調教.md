@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_動物の調教
 title: 動物の調教
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "動物の調教"
 domain: "Contemporary Culture"

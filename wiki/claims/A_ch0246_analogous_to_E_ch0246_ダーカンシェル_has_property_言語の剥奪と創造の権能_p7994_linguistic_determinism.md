@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0246_analogous_to_E_ch0246_ダーカンシェル_has_property_言語の剥奪と創造の権能_p7994_linguistic_determinism
-title: "言語支配者が動物に言葉を与え知性を与え、逆に剥奪する権能を持つという設定は、言語が思考や存在の枠組みを規定するという言語決定論…"
+title: 言語決定論の権能
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0246_アテンプレク_has_property_金猿のふん_p7999]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0077_alludes_to_E_ch0077_幻像_says_発気_p2877_相撲の決まり手
-title: "「発気」は相撲の掛け声「はっけよい」の略称であり、アキラが「スモー（Sumo）」を名乗ることで、この戦闘スタイルが相撲のメタフ…"
+title: 相撲の決まり手
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0077_幻像_says_発気_p2877]]"

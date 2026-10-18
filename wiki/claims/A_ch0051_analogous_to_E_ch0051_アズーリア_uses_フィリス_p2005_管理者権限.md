@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0051_analogous_to_E_ch0051_アズーリア_uses_フィリス_p2005_管理者権限
-title: "フィリスを用いた古き神との直接会話や世界の上位構造へのアクセスは、ゲーム開発者や管理者が持つデバッグモードやコンソールへのアク…"
+title: 管理者権限へのアクセス
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0051_アズーリア_uses_フィリス_p2005]]"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ゲームの蘇生アイテム・ストック
 title: 蘇生アイテムの蓄積
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ゲームの蘇生アイテム・ストック"
 domain: "Contemporary Consumer Culture"

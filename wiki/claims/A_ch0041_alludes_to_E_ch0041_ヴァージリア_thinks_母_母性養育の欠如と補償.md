@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0041_alludes_to_E_ch0041_ヴァージリア_thinks_母_母性養育の欠如と補償
-title: "ヴァージリアがマリーに甘える姿を見て「多忙な母から構ってもらった記憶」を思い出し、マリーを「年上の幼子」として撫でる行為は、自…"
+title: 擬似母性への渇望
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0041_ヴァージリア_thinks_母_p1776]]"

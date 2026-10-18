@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0063_analogous_to_E_ch0063_転移門_is_made_of_九つの円柱と巨大な円環_p2338_国際空港のゲート・トランジット
-title: "軍事利用の教訓から国際法で規制され、膨大な事務手続きを要する転移門は、現代の国際空港における出入国管理、トランジット手続き、お…"
+title: 国際空港トランジットへの転生
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_転移門_is_made_of_九つの円柱と巨大な円環_p2338]]"

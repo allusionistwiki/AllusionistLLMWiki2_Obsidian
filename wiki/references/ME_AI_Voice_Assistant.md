@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_AI_Voice_Assistant
 title: AI音声アシスタント
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "AI_Voice_Assistant"
 domain: "Contemporary Culture"

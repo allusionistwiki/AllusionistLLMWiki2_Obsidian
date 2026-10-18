@@ -6,7 +6,197 @@ description: 全伏線の章別・話別インデックス（導入話起点）
 
 # 伏線台帳（章・話別）
 
-全 **495 件**。導入話（introduced）を起点に、回収状況を追跡する伏線台帳です。ステータスは `candidate`（候補）→ `active`（生存確認）→ `resolved`（回収）の遷移を想定しています。
+全 **607 件**。導入話（introduced）を起点に、回収状況を追跡する伏線台帳です。ステータスは `candidate`（候補）→ `active`（生存確認）→ `resolved`（回収）の遷移を想定しています。
+
+### 第5164話
+
+- [[MY_ch5164_Arsta_TrueIdentity|Arsta_TrueIdentity]]
+- [[MY_ch5164_DragonGod_Ritual|DragonGod_Ritual]]
+- [[MY_ch5164_LeftHand_Secret|LeftHand_Secret]]
+- [[MY_ch5164_LostLovedOne_Arsta|LostLovedOne_Arsta]]
+- [[MY_ch5164_MarozeLondo_Conflict|MarozeLondo_Conflict]]
+
+### 第5165話
+
+- [[MY_ch5165_300_Second_Limit|300_Second_Limit]]
+- [[MY_ch5165_Dyolo_and_Kui|Dyolo_and_Kui]]
+- [[MY_ch5165_Ice_Spear_Logic|Ice_Spear_Logic]]
+- [[MY_ch5165_Origin_of_Solda|Origin_of_Solda]]
+- [[MY_ch5165_Soldas_Target|Soldas_Target]]
+
+### 第5166話
+
+- [[MY_ch5166_blank_period_memory|blank_period_memory]]
+- [[MY_ch5166_mysterious_boy_identity|mysterious_boy_identity]]
+- [[MY_ch5166_philist_nature|philist_nature]]
+- [[MY_ch5166_solda_prophecy_enemy|solda_prophecy_enemy]]
+- [[MY_ch5166_solda_secret_identity|solda_secret_identity]]
+
+### 第5188話
+
+- [[MY_ch5188_サリアの精神の行方と肉体の空白|サリアの精神の行方と肉体の空白]]
+- [[MY_ch5188_ハルベルトの禁呪使用後の代償と変化|ハルベルトの禁呪使用後の代償と変化]]
+- [[MY_ch5188_マリーの逃走と魔導書の行方|マリーの逃走と魔導書の行方]]
+- [[MY_ch5188_マロゾロンドの真意と誘導の全貌|マロゾロンドの真意と誘導の全貌]]
+- [[MY_ch5188_白黒兎魔女の認識と役割|白黒兎魔女の認識と役割]]
+
+### 第5189話
+
+- [[MY_ch5189_fate_correction_mechanism|fate_correction_mechanism]]
+- [[MY_ch5189_harbert_speech_promise|harbert_speech_promise]]
+- [[MY_ch5189_rabbit_transcendence|rabbit_transcendence]]
+- [[MY_ch5189_vergilia_harbert_identity|vergilia_harbert_identity]]
+- [[MY_ch5189_wordquake_scale_impact|wordquake_scale_impact]]
+
+### 第5230話
+
+- [[MY_ch5230_コアの新しい仲間男性|コアの新しい仲間男性]]
+- [[MY_ch5230_ハルベルトの取材|ハルベルトの取材]]
+- [[MY_ch5230_ヴァージリアのファンレター|ヴァージリアのファンレター]]
+- [[MY_ch5230_二重スリット実験の結果未記述|二重スリット実験の結果未記述]]
+- [[MY_ch5230_食用奉仕種族の最終決定|食用奉仕種族の最終決定]]
+
+### 第5569話
+
+- [[MY_ch5569_イヴァ・ダストの存在|イヴァ・ダストの存在]]
+- [[MY_ch5569_エンハドーラの箒の正体|エンハドーラの箒の正体]]
+- [[MY_ch5569_ピュクシスの頭部モニタ化|ピュクシスの頭部モニタ化]]
+- [[MY_ch5569_神話の解釈と歪み|神話の解釈と歪み]]
+- [[MY_ch5569_選定レース乱入者エンハとナックス|選定レース乱入者エンハとナックス]]
+
+### 第5570話
+
+- [[MY_ch5570_brotherhood_resolution|brotherhood_resolution]]
+- [[MY_ch5570_ena_dola_ghost_identity|ena_dola_ghost_identity]]
+- [[MY_ch5570_leena_choice_direction|leena_choice_direction]]
+
+### 第5571話
+
+- [[MY_ch5571_がしゃどくろ登録名の追加|がしゃどくろ登録名の追加]]
+- [[MY_ch5571_レメスのノミ取り以上の実力差|レメスのノミ取り以上の実力差]]
+
+### 第5572話
+
+- [[MY_ch5572_sanburu_business_expansion|sanburu_business_expansion]]
+- [[MY_ch5572_sanburu_lovers_fusion_secrets|sanburu_lovers_fusion_secrets]]
+- [[MY_ch5572_vanitas_world_fragility|vanitas_world_fragility]]
+
+### 第5574話
+
+- [[MY_ch5574_Lina_Rapid_Growth|Lina_Rapid_Growth]]
+- [[MY_ch5574_Lina_Rodinio_Bloodline|Lina_Rodinio_Bloodline]]
+- [[MY_ch5574_Parn_Galenis_Destruction_Cause|Parn_Galenis_Destruction_Cause]]
+- [[MY_ch5574_Parn_Not_Now|Parn_Not_Now]]
+- [[MY_ch5574_Parn_Rebel_Legacy|Parn_Rebel_Legacy]]
+
+### 第5575話
+
+- [[MY_ch5575_lina_jokai_failure|lina_jokai_failure]]
+- [[MY_ch5575_lina_textual_reality|lina_textual_reality]]
+- [[MY_ch5575_organrode_autonomy|organrode_autonomy]]
+
+### 第5576話
+
+- [[MY_ch5576_ディスケイムとリーヴァリオンの正体|ディスケイムとリーヴァリオンの正体]]
+- [[MY_ch5576_ミブリナのこだわりと外敵浸透の意図|ミブリナのこだわりと外敵浸透の意図]]
+- [[MY_ch5576_第四家とオルゴーの因縁|第四家とオルゴーの因縁]]
+- [[MY_ch5576_筆記試験の内容と評価基準|筆記試験の内容と評価基準]]
+- [[MY_ch5576_言素イルドの源流とダウザール超え|言素イルドの源流とダウザール超え]]
+
+### 第5577話
+
+- [[MY_ch5577_カーインの並行矛盾史|カーインの並行矛盾史]]
+- [[MY_ch5577_チッセの現代知識不足指摘|チッセの現代知識不足指摘]]
+- [[MY_ch5577_マルガリータの攻撃意図とパーンの反応|マルガリータの攻撃意図とパーンの反応]]
+- [[MY_ch5577_聖絶の史実と教科書改変|聖絶の史実と教科書改変]]
+- [[MY_ch5577_試験官の裁量と基準ずらし|試験官の裁量と基準ずらし]]
+
+### 第5578話
+
+- [[MY_ch5578_cain_identity_politics|cain_identity_politics]]
+- [[MY_ch5578_cause_elder_conspiracy|cause_elder_conspiracy]]
+- [[MY_ch5578_chise_ethics_gap|chise_ethics_gap]]
+- [[MY_ch5578_kaizen_cause_manipulation|kaizen_cause_manipulation]]
+- [[MY_ch5578_kaizen_necromancer_power|kaizen_necromancer_power]]
+
+### 第5579話
+
+- [[MY_ch5579_Cain_Carin_Identity_Paradox|Cain_Carin_Identity_Paradox]]
+- [[MY_ch5579_Cain_Pars_Klaus_Spell_Effect|Cain_Pars_Klaus_Spell_Effect]]
+- [[MY_ch5579_Chisse_Ecosystem_Origin|Chisse_Ecosystem_Origin]]
+- [[MY_ch5579_Karin_Assassination_Conspiracy|Karin_Assassination_Conspiracy]]
+- [[MY_ch5579_Marguerita_Loadedron_Collusion|Marguerita_Loadedron_Collusion]]
+
+### 第5580話
+
+- [[MY_ch5580_ティリビナ人の血族認定のロジック飛躍|ティリビナ人の血族認定のロジック飛躍]]
+- [[MY_ch5580_レルプレアの遺産とカインの名の残存理由|レルプレアの遺産とカインの名の残存理由]]
+- [[MY_ch5580_天蓋の外側の支配構造|天蓋の外側の支配構造]]
+- [[MY_ch5580_隠花隊とダルヤルの役割|隠花隊とダルヤルの役割]]
+
+### 第5581話
+
+- [[MY_ch5581_Record_Ghost_Lerplea|Record_Ghost_Lerplea]]
+- [[MY_ch5581_Virgil_Identity_and_Crystal|Virgil_Identity_and_Crystal]]
+- [[MY_ch5581_Zero_and_Loadendron_Conspiracy|Zero_and_Loadendron_Conspiracy]]
+
+### 第5582話
+
+- [[MY_ch5582_galzs_effort_legacy|galzs_effort_legacy]]
+- [[MY_ch5582_recollection_acceleration_power|recollection_acceleration_power]]
+- [[MY_ch5582_record_ghost_reception|record_ghost_reception]]
+
+### 第5583話
+
+- [[MY_ch5583_erika_parasitic_intention|erika_parasitic_intention]]
+- [[MY_ch5583_grafting_secret_art_side_effect|grafting_secret_art_side_effect]]
+- [[MY_ch5583_kain_blue_blood_truth|kain_blue_blood_truth]]
+- [[MY_ch5583_lydia_lapsu_target|lydia_lapsu_target]]
+
+### 第5584話
+
+- [[MY_ch5584_liquid_blood_fusion_risk|liquid_blood_fusion_risk]]
+- [[MY_ch5584_luna_identity_contradiction|luna_identity_contradiction]]
+- [[MY_ch5584_relprea_appearance_change|relprea_appearance_change]]
+
+### 第5585話
+
+- [[MY_ch5585_blue_blood_resistance|blue_blood_resistance]]
+- [[MY_ch5585_giant_kingdom_hierarchy|giant_kingdom_hierarchy]]
+- [[MY_ch5585_riina_alienation|riina_alienation]]
+- [[MY_ch5585_roadendron_self_deification|roadendron_self_deification]]
+
+### 第5586話
+
+- [[MY_ch5586_caine_betrayal_truth|caine_betrayal_truth]]
+- [[MY_ch5586_crowbeula_warning|crowbeula_warning]]
+- [[MY_ch5586_drone_origin|drone_origin]]
+- [[MY_ch5586_margareta_entity|margareta_entity]]
+- [[MY_ch5586_rodendron_power_gap|rodendron_power_gap]]
+- [[MY_ch5586_virgil_survival|virgil_survival]]
+
+### 第5587話
+
+- [[MY_ch5587_アルラウネ断章の制御盤としての機能|アルラウネ断章の制御盤としての機能]]
+- [[MY_ch5587_カーイン・パーシュ・クロウサーの真実|カーイン・パーシュ・クロウサーの真実]]
+- [[MY_ch5587_チッセの個我放棄と位階上昇の拒否|チッセの個我放棄と位階上昇の拒否]]
+- [[MY_ch5587_マルガリータの真意とトロルの介入|マルガリータの真意とトロルの介入]]
+- [[MY_ch5587_リーナの正体と読者視点|リーナの正体と読者視点]]
+- [[MY_ch5587_三因子の融合とレルプレア女神|三因子の融合とレルプレア女神]]
+
+### 第5588話
+
+- [[MY_ch5588_Broom_Value_Context|Broom_Value_Context]]
+- [[MY_ch5588_Crowser_Law_Conflict|Crowser_Law_Conflict]]
+- [[MY_ch5588_Diskaim_King_Motivation|Diskaim_King_Motivation]]
+- [[MY_ch5588_Mibrina_Ghost_Availability|Mibrina_Ghost_Availability]]
+- [[MY_ch5588_Text_Circuit_Structure|Text_Circuit_Structure]]
+
+### 第5589話
+
+- [[MY_ch5589_ショウの兄の謎の死と遺言|ショウの兄の謎の死と遺言]]
+- [[MY_ch5589_世界を殺すキスの意味|世界を殺すキスの意味]]
+- [[MY_ch5589_藍と緑の奥の未確定な答え|藍と緑の奥の未確定な答え]]
 
 ## 第一章　隻腕義手のスワンプマン
 

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_民主主義の機能不全
 title: 民主主義の機能不全
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "民主主義の機能不全"
 domain: "Contemporary Culture"

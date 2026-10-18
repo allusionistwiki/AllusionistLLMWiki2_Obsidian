@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0053_analogous_to_E_ch0053_マリー_other_アストラル体の自傷_p2070_philosophical_zombie
-title: "マリーが「アストラル体や感覚質の存在しない哲学的ゾンビ」として法的に異獣分類される描写は、心（クオリア）を欠いた存在としての「…"
+title: 哲学的ゾンビ概念の直接引用
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_マリー_other_アストラル体の自傷_p2070]]"

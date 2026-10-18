@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0040_analogous_to_E_ch0040_クレイドル_functions_as_アストラル誘導_p1759_Hardware_Interface
-title: "独力でダイブできない者がクレイドルという大型呪具を必須とする設定は、VRヘッドセットやゲームコントローラーなどのハードウェアイ…"
+title: VRヘッドセット的接続装置
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0040_クレイドル_functions_as_アストラル誘導_p1759]]"

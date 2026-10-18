@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_植民地支配における現地エリートへの同化政策
 title: 植民地支配における現地エリートへの同化政策
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: history
 canonical_name: "植民地支配における現地エリートへの同化政策"
 domain: "World History"

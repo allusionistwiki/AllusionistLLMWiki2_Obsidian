@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_都市計画・再開発・ジェントリフィケーション
 title: 都市再開発
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "都市計画・再開発・ジェントリフィケーション"
 domain: "Contemporary Culture"

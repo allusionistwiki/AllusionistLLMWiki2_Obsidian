@@ -29,7 +29,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0037_analogous_to_E_ch0037_イキュー_has_property_味覚による邪視_p1564_sensory_deprivation|視覚を失い味覚のみで世界を認識するイキューの生態は、感覚の代償と知覚の歪み、および「味覚」が世界を支配する極端な身体性を示して…]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_イキュー_p1541_gastronomy_horror|「甘いもの」を追求し、あらゆるものを溶かして食らうイキューの生態は、美食の追求が怪物化し、他者を消費する恐怖（グルメ・ホラー）…]]
+- [[A_ch0037_analogous_to_E_ch0037_イキュー_has_property_味覚による邪視_p1564_sensory_deprivation|味覚支配の感覚遮断]]
+- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_イキュー_p1541_gastronomy_horror|美食追求のグルメホラー]]
 
 <!-- AUTO:END -->

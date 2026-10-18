@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0220_structurally_matches_E_ch0220_アイアンゴーレム_functions_as_化身_p7315_surveillance_state_infrastructure
-title: "治安維持機構の無人機を「新しき神の化身」と呼ぶ描写は、監視カメラやAIによる管理社会が、宗教的な権威や不可視の支配力として機能…"
+title: 監視社会の宗教的権威化
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0220_アイアンゴーレム_functions_as_化身_p7315]]"

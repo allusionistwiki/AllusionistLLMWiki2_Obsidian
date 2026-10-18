@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0060_alludes_to_E_ch0060_ハルベルト_uses_ゲルシェネスナ_p2280_nihilism
-title: "神の加護を打ち消して残る「無神論」的な力は、既存の権威（神）の不在を肯定し、そこから生じる虚無的な力を行使する思想構造を指して…"
+title: 神不在を肯定する虚無主義
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0060_ハルベルト_uses_ゲルシェネスナ_p2280]]"

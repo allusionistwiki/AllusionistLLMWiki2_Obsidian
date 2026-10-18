@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0268_alludes_to_E_ch0268_エクリーオベレッカ_other_天の御殿_p8381_キリスト教_逆さ十字架のペトロ
-title: "「逆さに屹立する天の御殿」という不可思議な構造物は、キリスト教の殉教者ペトロの逸話よりも、ユダヤ教神秘主義における逆転した聖域…"
+title: 逆さセフィラへの暗喩
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0268_エクリーオベレッカ_other_天の御殿_p8381]]"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_国際空港のゲート・トランジット
 title: 国際空港トランジット
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "国際空港のゲート・トランジット"
 domain: "Contemporary Culture"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ケルト神話のフェアリー・チェンジリング
 title: フェアリー・チェンジリング
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: mythology
 canonical_name: "ケルト神話のフェアリー・チェンジリング"
 domain: "Mythology"

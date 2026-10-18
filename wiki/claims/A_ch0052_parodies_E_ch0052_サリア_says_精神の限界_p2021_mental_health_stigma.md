@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0052_parodies_E_ch0052_サリア_says_精神の限界_p2021_mental_health_stigma
-title: "サリアの「狂気を吸って貰わないと会話不能」という告白は、精神疾患の患者が他者（ケア提供者）に依存する構造を、ファンタジー的な「…"
+title: 精神疾患のスティグマ
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0052_サリア_says_精神の限界_p2021]]"

@@ -152,7 +152,8 @@ def write_report(result: LintResult, report_path: Path):
 def is_navigation_page(p: Path) -> bool:
     """build_public_index.py が生成するナビページ（index.md / nav/）は
     構造スキーマ（type/schema_version）を持たない生成物なので lint 対象外。"""
-    return p.name == "index.md" or p.parent.name == "nav"
+    return p.name == "index.md" or p.parent.name == "nav" or (
+        p.parent.name == "references" and p.name.startswith("edition-"))
 
 
 def collect_files(vault_path: Path, file_filter: str = None) -> List[Path]:

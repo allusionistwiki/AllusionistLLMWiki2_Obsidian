@@ -10,7 +10,7 @@ spoiler_after: ch0066
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 火蜂
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 蜂だ。鋭角な針と凶暴そうな体躯、それと奇妙に膨らんだ背中。 何だろう、これ？ ユディーアは眉根を寄せた。
 - **unknown**: 蜂だ。鋭角な針と凶暴そうな体躯、それと奇妙に膨らんだ背中。 何だろう、これ？ ユディーアは眉根を寄せた。
 - **unknown**: 蜂だ。鋭角な針と凶暴そうな体躯、それと奇妙に膨らんだ背中。 何だろう、これ？ ユディーアは眉根を寄せた。
 

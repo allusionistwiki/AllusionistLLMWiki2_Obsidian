@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0254_analogous_to_E_p8154_race_mechanics_sports_commentary_and_weather
-title: "レースにおける「風」の操作は、スポーツ競技で気象条件やコース設定が勝敗を左右する物理的優位性を模している"
+title: 気象条件による競技優位性
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0254_アルゾラ・クロウサー_is_made_of_ゾラ分家_p8154]]"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ammo_check
 title: 残弾確認
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ammo_check"
 domain: "Contemporary Culture"

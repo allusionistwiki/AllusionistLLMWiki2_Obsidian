@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0037_analogous_to_E_ch0037_アズーリア_attacks_イキューの残骸_p1587_violent_catharsis
-title: "死んだ敵を執拗に破壊し続ける行為は、復讐の遂行と、暴力を通じた感情の浄化（カタルシス）の極端な現れである"
+title: 暴力カタルシスの極端な現れ
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0037_アズーリア_attacks_イキューの残骸_p1587]]"

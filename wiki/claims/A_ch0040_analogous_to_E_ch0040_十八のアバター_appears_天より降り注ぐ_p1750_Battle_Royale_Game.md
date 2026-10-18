@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0040_analogous_to_E_ch0040_十八のアバター_appears_天より降り注ぐ_p1750_Battle_Royale_Game
-title: "十八のアバターが天より降り注ぎ、即座に熾烈な闘争を開始する様子は、バトルロイヤルゲーム（フォートナイト等）のドロップインと即死…"
+title: バトルロイヤル的降下開始
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0040_十八のアバター_appears_天より降り注ぐ_p1750]]"

@@ -10,7 +10,7 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 四家威力派
 
@@ -22,6 +22,7 @@ updated: '2026-10-11'
 - **unknown**: 四家威力派・真珠 アトゥールイン家の武僧。ユディに複雑な感
 マルガリータ
 情。
+- **unknown**: 四家威力派・真珠 アトゥールイン家の武僧。ユディに複雑な感
 - **unknown**: 四家威力派・真珠 アトゥールイン家の武僧。ユディに複雑な感
 
 <!-- /AUTO-GENERATED:name -->

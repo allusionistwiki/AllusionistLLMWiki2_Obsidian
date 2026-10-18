@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0222_alludes_to_E_ch0222_ハデス_disappears_魂_p7381_Greek_Mythology_Hades
-title: "冥府の管理者を僭称する敵対勢力の首領が『ハデス』と名乗り、冥界を支配しようとする設定は、ギリシャ神話の冥界の王ハデスを直接的に…"
+title: ギリシャ神話ハデスの引用
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0222_ハデス_disappears_魂_p7381]]"

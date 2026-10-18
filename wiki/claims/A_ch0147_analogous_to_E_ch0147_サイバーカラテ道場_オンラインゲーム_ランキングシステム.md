@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0147_analogous_to_E_ch0147_サイバーカラテ道場_オンラインゲーム_ランキングシステム
-title: "アストラルネットを通じて世界中から参加者が集い、ランキングを競う「サイバーカラテ道場」は、MMORPGやeスポーツのグローバル…"
+title: オンラインゲームランキングの模倣
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0147_オルヴァ_has_property_時空操作_p5013]]"

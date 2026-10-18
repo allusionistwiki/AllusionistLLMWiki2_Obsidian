@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_narrative_power
-title: "「メタテクストの改変」が世界を変えるという記述は、物語（ナラティブ）が現実を支配する力を持つというナラティブ・パワーの概念と一…"
+title: 物語の力による支配
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ハルベルト_says_メタテクストの改変_p1924]]"

@@ -10,7 +10,7 @@ spoiler_after: ch0163
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 地下アイドルランキング
@@ -32,12 +32,14 @@ updated: '2026-10-11'
 
 - **unknown**: 一位：『狂イ姫－†囚焉舞イ血ル妬環ノ華†』
 - **unknown**: 一位：『狂イ姫－†囚焉舞イ血ル妬環ノ華†』
+- **unknown**: 一位：『狂イ姫－†囚焉舞イ血ル妬環ノ華†』
 
 <!-- /AUTO-GENERATED:name -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 「上位はおおまかに変動は無し――いや、十位と十一位が入れ替わってるな」
 - **unknown**: 「上位はおおまかに変動は無し――いや、十位と十一位が入れ替わってるな」
 - **unknown**: 「上位はおおまかに変動は無し――いや、十位と十一位が入れ替わってるな」
 

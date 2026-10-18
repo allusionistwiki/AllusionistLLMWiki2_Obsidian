@@ -3,23 +3,19 @@ schema_version: "5.1"
 id: ME_mythological_archetypes
 title: 神話的原型
 type: external_reference
-
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "mythological_archetypes"
-aliases: []
-domain: "culture"
-document_status: active
-referenced_by: []
-relations: []
-created: "2026-10-11"
-updated: "2026-10-11"
+domain: "Contemporary Culture"
+review_status: llm_verified
 ---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
 # mythological_archetypes
 
-<!-- AUTO:BEGIN -->
-（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作での参照
+## 本作からの参照 (1 件)
 
-- [[A_ch0254_analogous_to_E_p8169_rainbow_arch_mythological_archetypes]]
-<!-- AUTO:END -->
+- [[A_ch0254_analogous_to_E_p8169_rainbow_arch_mythological_archetypes]] — 虹を弓や橋に見立てる描写は、北欧神話のブリュンヒルデやギリシャ神話のイリスなど、虹を神々の使いや境界とする神話的アーキタイプを引用している。

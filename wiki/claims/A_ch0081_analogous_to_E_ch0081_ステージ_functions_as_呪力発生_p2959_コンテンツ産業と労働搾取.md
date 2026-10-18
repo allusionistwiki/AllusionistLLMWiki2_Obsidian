@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0081_analogous_to_E_ch0081_ステージ_functions_as_呪力発生_p2959_コンテンツ産業と労働搾取
-title: "文化発信を「人力発電」と呼ぶことで、現代のコンテンツ産業におけるクリエイターの労働が、巨大資本（クロウサー社）の利益のための燃…"
+title: コンテンツ産業の労働搾取
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0081_ステージ_functions_as_呪力発生_p2959]]"

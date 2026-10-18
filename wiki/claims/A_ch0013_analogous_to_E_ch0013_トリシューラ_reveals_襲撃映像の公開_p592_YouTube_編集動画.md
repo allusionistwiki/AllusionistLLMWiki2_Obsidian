@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0013_analogous_to_E_ch0013_トリシューラ_reveals_襲撃映像の公開_p592_YouTube_編集動画
-title: "トリシューラが戦闘映像を「無駄な所をカットし、プライベートに配慮した編集」でアップロードする行為は、現代のSNSや動画共有サイ…"
+title: YouTube編集動画の炎上回避
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0013_トリシューラ_reveals_襲撃映像の公開_p592]]"

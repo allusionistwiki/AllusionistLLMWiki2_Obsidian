@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_knowledge_democracy
-title: "ミルーニャの主張は、知識の民主化（オープンソース化）が社会の公正さを実現するという知識民主主義の思想と一致する"
+title: 知識の民主化としてのオープンソース
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_says_オープンソース_p1917]]"

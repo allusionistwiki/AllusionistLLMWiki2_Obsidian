@@ -3,23 +3,19 @@ schema_version: "5.1"
 id: ME_ファッションミームと機能性の融合
 title: 機能性ミーム
 type: external_reference
-
-subtype: popular_culture
+created: "2026-10-19"
+subtype: internet_culture
 canonical_name: "ファッションミームと機能性の融合"
-aliases: []
-domain: "culture"
-document_status: active
-referenced_by: []
-relations: []
-created: "2026-10-11"
-updated: "2026-10-11"
+domain: "Internet Culture"
+review_status: llm_verified
 ---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
 # ファッションミームと機能性の融合
 
-<!-- AUTO:BEGIN -->
-（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作での参照
+## 本作からの参照 (1 件)
 
-- [[A_ch0214_analogous_to_E_ch0214_セリアック＝ニアの衣装_functions_as_抗呪力と装甲強化_p7217_ファッションミームと機能性の融合]]
-<!-- AUTO:END -->
+- [[A_ch0214_analogous_to_E_ch0214_セリアック＝ニアの衣装_functions_as_抗呪力と装甲強化_p7217_ファッションミームと機能性の融合]] — 「ファッションミームを重ねることで抗呪力を高める」という記述は、流行（トレンド）の模倣や組み合わせがゲーム的なステータス上昇（防御力強化）に直結する、ゲーム的メカニズムの風刺的描写である。

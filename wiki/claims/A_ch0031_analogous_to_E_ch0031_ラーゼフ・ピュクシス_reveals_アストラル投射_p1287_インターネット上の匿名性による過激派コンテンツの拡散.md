@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_reveals_アストラル投射_p1287_インターネット上の匿名性による過激派コンテンツの拡散
-title: "アストラル界（ネット空間）で「思想的に問題がある創作物」を拡散しようとした行為は、現代のSNSや掲示板における匿名の過激な思想…"
+title: 匿名過激派拡散
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0031_ラーゼフ・ピュクシス_reveals_アストラル投射_p1287]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0008_foreshadows_E_ch0008_トリシューラ_defines_杖の専門_p387_medical_technology
-title: "トリシューラが「杖」の専門分野として「医術」を含め、「肉体を生体部品の集合だと捉える」と述べることは、彼女がアキラの失われた左…"
+title: 生体部品としての義手
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_トリシューラ_defines_杖の専門_p387]]"

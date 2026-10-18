@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_flees_null_p1208_撤退
-title: "ベアトリーチェが「退くとしましょう」と言って消失するのは、戦闘からの撤退を模している"
+title: 戦闘からの撤退の模倣
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0026_ベアトリーチェ_flees_null_p1208]]"

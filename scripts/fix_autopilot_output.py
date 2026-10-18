@@ -71,7 +71,8 @@ def fix_dates() -> int:
 def fix_claim_subjects() -> int:
     """クレーム subject が events 層の実 event_id と不一致（LLM言い換え）を近傍解決."""
     import json
-    events_dir = ROOT.parent / "AllusionistLLMWiki2_Work" / "events"
+    from paths import WORK_DIR
+    events_dir = WORK_DIR / "events"
     ids_by_ch: dict[str, list[str]] = {}
     for jl in events_dir.glob("*.jsonl"):
         ch = jl.stem

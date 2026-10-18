@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0234_alludes_to_E_ch0234_パーン_says_ダウザールへの挑発_p7691_聖書・コヘレトの言葉
-title: "パーンの「空の空、すべては空」という台詞は、聖書のコヘレトの言葉における虚無主義的な主題を引用し、世界の構造そのものを否定する…"
+title: コヘレトの言葉の虚無主義
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0234_パーン_says_ダウザールへの挑発_p7691]]"

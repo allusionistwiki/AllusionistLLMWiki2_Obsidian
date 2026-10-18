@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_治癒符_p566_inflation
-title: "治癒符を過剰供給して価値を下げ、公社の基軸通貨を崩壊させる戦略は、インフレによる通貨価値の暴落と経済的支配権の奪取を模した経済…"
+title: インフレによる経済支配権奪取
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0012_トリシューラ_uses_治癒符_p566]]"

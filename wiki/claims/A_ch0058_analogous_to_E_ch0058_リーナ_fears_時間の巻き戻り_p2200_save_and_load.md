@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0058_analogous_to_E_ch0058_リーナ_fears_時間の巻き戻り_p2200_save_and_load
-title: "黒百合宮からの脱出失敗が「時間が巻き戻っている」と表現されることは、ゲームにおけるセーブポイントからのリセット（ロード）機能の…"
+title: ゲームのセーブ＆ロード機能
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0058_リーナ_fears_時間の巻き戻り_p2200]]"

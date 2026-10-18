@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_self_reference_engine
 title: 自己参照エンジン
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "self_reference_engine"
 domain: "Contemporary Culture"

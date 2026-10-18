@@ -10,7 +10,7 @@ first_appearance: ch0075
 spoiler_after: ch0075
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 髪
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 【髪】は操り糸の如くあらゆるものに絡みついて何もかもを支配していた。
 - **unknown**: 【髪】は操り糸の如くあらゆるものに絡みついて何もかもを支配していた。
 - **unknown**: 【髪】は操り糸の如くあらゆるものに絡みついて何もかもを支配していた。
 - **unknown**: 【髪】は操り糸の如くあらゆるものに絡みついて何もかもを支配していた。

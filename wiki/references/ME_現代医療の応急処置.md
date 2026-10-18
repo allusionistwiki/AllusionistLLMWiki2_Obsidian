@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_現代医療の応急処置
 title: 現代医療的応急処置
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "現代医療の応急処置"
 domain: "Contemporary Culture"

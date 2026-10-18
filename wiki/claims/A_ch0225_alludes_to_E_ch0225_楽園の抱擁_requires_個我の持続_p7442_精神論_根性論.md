@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0225_alludes_to_E_ch0225_楽園の抱擁_requires_個我の持続_p7442_精神論_根性論
-title: "呪術の発動条件が「気合や根性」であり、技術ではなく意志の持続にあるという説明は、論理的な技術体系ではなく、キャラクターの意志や…"
+title: 根性論的ゲームメカニズム
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0225_楽園の抱擁_requires_個我の持続_p7442]]"

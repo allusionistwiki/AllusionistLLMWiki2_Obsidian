@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0075_analogous_to_E_ch0075_カイン_says_心なき拳_p2836_技術の倫理・AIの倫理
-title: "心なき拳が経済性のみで語られれば死んでいるに等しいという主張は、技術（AI等）が倫理や人間性を欠いたまま効率のみを追求すること…"
+title: 倫理を欠いた技術の死
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0075_カイン_says_心なき拳_p2836]]"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_保険業界のリスク管理
 title: 保険のリスク管理
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "保険業界のリスク管理"
 domain: "Contemporary Consumer Culture"

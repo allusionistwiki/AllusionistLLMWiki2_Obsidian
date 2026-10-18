@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_異世界転生ジャンルのクリシェ
 title: 異世界転生クリシェ
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: internet_culture
 canonical_name: "異世界転生ジャンルのクリシェ"
 domain: "Internet Culture"

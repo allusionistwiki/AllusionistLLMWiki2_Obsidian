@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0147_analogous_to_E_ch0147_カーティスの群れ_クラウドソーシング_分散処理
-title: "カーティスが個体ごとに異なる役割（影への移動、聞き込み、捕食による増殖）を並行して遂行し、全体として情報を収集・拡張する様子は…"
+title: クラウドソーシングへの群れ分散処理
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0147_オルヴァ_has_property_時空操作_p5013]]"

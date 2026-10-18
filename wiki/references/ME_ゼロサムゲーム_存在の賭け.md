@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ゼロサムゲーム_存在の賭け
 title: ゼロサムゲーム・存在賭け
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ゼロサムゲーム_存在の賭け"
 domain: "Contemporary Consumer Culture"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ネット上の怪しい広告
 title: 怪しいネット広告
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: internet_culture
 canonical_name: "ネット上の怪しい広告"
 domain: "Internet Culture"

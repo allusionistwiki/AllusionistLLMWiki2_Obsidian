@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0075_alludes_to_E_ch0075_メイファーラ_defines_第九魔将_p2848_自己責任論・社会的孤立
-title: "メイファーラが天獄にも地獄にも行けない存在とされることは、既存の社会規範（善悪の枠組み）に収まらない中間的・境界的な存在の苦悩…"
+title: 規範外に追放された自己責任と孤立
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0075_メイファーラ_defines_第九魔将_p2848]]"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_ゲームの敵召喚トラップ
 title: 敵召喚トラップ
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "ゲームの敵召喚トラップ"
 domain: "Contemporary Consumer Culture"

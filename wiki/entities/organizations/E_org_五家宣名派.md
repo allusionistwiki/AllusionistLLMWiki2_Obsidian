@@ -10,7 +10,7 @@ first_appearance: ch0232
 spoiler_after: ch0232
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 五家宣名派
 
@@ -21,6 +21,7 @@ updated: '2026-10-11'
 
 - **unknown**: 五家宣名派・翡翠 暴力反対。第五階層怖い。トップスタァ。
 エスメラルダ
+- **unknown**: 五家宣名派・翡翠 暴力反対。第五階層怖い。トップスタァ。
 - **unknown**: 五家宣名派・翡翠 暴力反対。第五階層怖い。トップスタァ。
 
 <!-- /AUTO-GENERATED:name -->

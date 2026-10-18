@@ -10,7 +10,7 @@ spoiler_after: ch0204
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 牢獄街
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: むせかえるような『朱』の色彩。ユディーアは灰神の痕跡を精査することを諦めた。この一帯は朱の彩域が強い。
 - **unknown**: むせかえるような『朱』の色彩。ユディーアは灰神の痕跡を精査することを諦めた。この一帯は朱の彩域が強い。
 - **unknown**: むせかえるような『朱』の色彩。ユディーアは灰神の痕跡を精査することを諦めた。この一帯は朱の彩域が強い。
 

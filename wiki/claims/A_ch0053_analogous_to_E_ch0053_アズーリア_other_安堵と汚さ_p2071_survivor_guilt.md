@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0053_analogous_to_E_ch0053_アズーリア_other_安堵と汚さ_p2071_survivor_guilt
-title: "アズーリアがガルズの敗北を見て「安堵」し、その浅ましさに「汚さ」を感じるのは、自分が生き残り成功した一方で他者が犠牲になったこ…"
+title: 生存者罪悪感の心理描写
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0053_アズーリア_other_安堵と汚さ_p2071]]"

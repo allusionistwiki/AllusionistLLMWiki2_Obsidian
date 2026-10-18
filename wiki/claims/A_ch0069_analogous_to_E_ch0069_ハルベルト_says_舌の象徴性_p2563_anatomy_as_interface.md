@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0069_analogous_to_E_ch0069_ハルベルト_says_舌の象徴性_p2563_anatomy_as_interface
-title: "舌を触手のアナロジーとし契約の座として扱う描写は、身体部位を他者との接続・干渉のためのハードウェア的インターフェース（ポート）…"
+title: 身体インターフェースとしての舌
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0069_ハルベルト_says_舌の象徴性_p2563]]"

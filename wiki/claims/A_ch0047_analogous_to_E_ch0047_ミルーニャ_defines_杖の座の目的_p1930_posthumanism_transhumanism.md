@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_ミルーニャ_defines_杖の座の目的_p1930_posthumanism_transhumanism
-title: "杖の座の目的である「人類という枠組みそのものを変容させる」ことは、ポストヒューマニズム（人間性の超越・拡張）の思想と一致する"
+title: ポストヒューマニズムとしての杖の座
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_ミルーニャ_defines_杖の座の目的_p1930]]"

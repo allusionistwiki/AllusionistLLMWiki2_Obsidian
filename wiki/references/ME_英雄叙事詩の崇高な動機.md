@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_英雄叙事詩の崇高な動機
 title: 崇高な動機の解体
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "英雄叙事詩の崇高な動機"
 domain: "Contemporary Culture"

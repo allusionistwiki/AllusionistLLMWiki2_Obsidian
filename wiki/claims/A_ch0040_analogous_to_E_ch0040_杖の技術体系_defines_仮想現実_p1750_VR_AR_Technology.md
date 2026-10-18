@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0040_analogous_to_E_ch0040_杖の技術体系_defines_仮想現実_p1750_VR_AR_Technology
-title: "アストラル界を物質的に再現しようとする『仮想現実』や『拡張現実』というアプローチは、現代のVR/AR技術開発の試みと構造的に一…"
+title: VR・AR技術の模倣
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0040_杖の技術体系_defines_仮想現実_p1750]]"

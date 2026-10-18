@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_spyware
-title: "アキラが「密偵」を敵陣に送り込み「盗撮映像」を表示する行為は、スパイウェアや監視カメラによる情報収集のメタファーである"
+title: スパイウェアとしての密偵映像
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_アキラ_uses_密偵_p2421]]"

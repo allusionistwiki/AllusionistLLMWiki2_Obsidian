@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0002_analogous_to_E_ch0002_金鎖_requires_ネットワーク接続_p121_cloud_security
-title: "魔導書の使用許可を『金鎖のフラベウファ』という上位管理者がネットワーク経由でチェックする仕組みは、クラウドベースのセキュリティ…"
+title: クラウドセキュリティ認証の指喩
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0002_金鎖_requires_ネットワーク接続_p121]]"

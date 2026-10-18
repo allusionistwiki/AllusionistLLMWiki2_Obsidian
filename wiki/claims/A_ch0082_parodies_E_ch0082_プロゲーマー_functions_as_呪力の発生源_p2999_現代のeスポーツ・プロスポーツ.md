@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0082_parodies_E_ch0082_プロゲーマー_functions_as_呪力の発生源_p2999_現代のeスポーツ・プロスポーツ
-title: "ゲームプレイという行為が熱狂を生み出し、トッププレイヤーのスター性が呪力（エネルギー）の発生源となるという設定は、現代のeスポ…"
+title: プロゲーマー熱狂によるeスポーツ的呪力生成
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_プロゲーマー_functions_as_呪力の発生源_p2999]]"

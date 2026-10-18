@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_多重人格_解離
 title: 多重人格
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "多重人格_解離"
 domain: "Contemporary Culture"

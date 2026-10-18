@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0062_foreshadows_E_ch0062_アズーリア_makes_アキラへの継続連絡の依頼_p2333_長距離通信による戦場での情報戦
-title: "アズーリアがアキラと継続的な連絡を取り合うことは、敵対勢力内部からの情報収集の足がかりとなる可能性を予示している"
+title: 戦場での情報戦への伏線
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_アズーリア_makes_アキラへの継続連絡の依頼_p2333]]"

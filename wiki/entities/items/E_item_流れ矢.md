@@ -10,7 +10,7 @@ first_appearance: ch0203
 spoiler_after: ch0203
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 流れ矢
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 流れ矢が背後の屋台に直撃し、腐敗の呪詛をまき散らして崩壊させていく。
 - **unknown**: 流れ矢が背後の屋台に直撃し、腐敗の呪詛をまき散らして崩壊させていく。
 - **unknown**: 流れ矢が背後の屋台に直撃し、腐敗の呪詛をまき散らして崩壊させていく。
 

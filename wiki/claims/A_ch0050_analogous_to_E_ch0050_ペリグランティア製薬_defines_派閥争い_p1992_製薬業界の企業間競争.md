@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0050_analogous_to_E_ch0050_ペリグランティア製薬_defines_派閥争い_p1992_製薬業界の企業間競争
-title: "ペリグランティア製薬が企業としての利益追求と呪術結社としての勢力争いを併せ持つ構造は、製薬業界における研究開発競争と市場支配権…"
+title: 製薬業界の競争と企業秘密
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_ペリグランティア製薬_defines_派閥争い_p1992]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0220_alludes_to_E_ch0220_拳銃_appears_as_花_p7317_gun_flower_imagery
-title: "銃口から花が飛び出す演出は、暴力の象徴である銃を平和や愛の象徴である花に変換する、ヒッピー運動や反戦アートにおける「ガン・アン…"
+title: 反戦アートガン・アンド・フラワー
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0220_拳銃_appears_as_花_p7317]]"

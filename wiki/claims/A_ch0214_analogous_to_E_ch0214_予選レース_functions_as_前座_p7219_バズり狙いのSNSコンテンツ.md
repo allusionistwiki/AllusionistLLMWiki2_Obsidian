@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0214_analogous_to_E_ch0214_予選レース_functions_as_前座_p7219_バズり狙いのSNSコンテンツ
-title: "「宣伝目当てとか目立ちたがりの参加が半数以上」「ルール無用の大騒ぎ」という予選の本質は、SNS上で注目を集めるために行われる…"
+title: 話題性重視の予選レース構造
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0214_予選レース_functions_as_前座_p7219]]"

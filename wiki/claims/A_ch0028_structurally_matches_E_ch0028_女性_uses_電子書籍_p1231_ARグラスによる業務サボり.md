@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0028_structurally_matches_E_ch0028_女性_uses_電子書籍_p1231_ARグラスによる業務サボり
-title: "網膜内投影による電子書籍閲覧と社内ニート化は、現代のウェアラブルデバイスを用いた業務中の私的娯楽（サイバーパンク的サボり）の構…"
+title: ARグラスによる業務怠慢構造
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0028_女性_uses_電子書籍_p1231]]"

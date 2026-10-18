@@ -28,6 +28,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0058_parodies_E_ch0058_リーナ_says_空が青い理由_p2199_rayleigh_scattering|科学的な光の散乱（レイリー散乱）という物理現象を、主観的な快楽（飛んだ時の気持ちよさ）という目的論的な理由に置き換えることで…]]
+- [[A_ch0058_parodies_E_ch0058_リーナ_says_空が青い理由_p2199_rayleigh_scattering|レイリー散乱の目的論的風刺]]
 
 <!-- AUTO:END -->

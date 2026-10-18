@@ -10,7 +10,7 @@ first_appearance: ch0156
 spoiler_after: ch0156
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 件
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「おお、予言王よ！ いままさに、復活の時来たれり！！」
 - **unknown**: 「おお、予言王よ！ いままさに、復活の時来たれり！！」
 - **unknown**: 「おお、予言王よ！ いままさに、復活の時来たれり！！」
 

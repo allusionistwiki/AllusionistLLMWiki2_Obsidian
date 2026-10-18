@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0222_alludes_to_E_ch0222_精神加工_has_property_麻薬的な扱い_p7368_Drug_Control_Laws
-title: "精神支配（洗脳）が戦闘中に困難であり、麻薬のように規制・管理されているという記述は、現代の薬物規制法や倫理観を魔法体系に投影し…"
+title: 薬物規制法の魔法体系投影
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0222_精神加工_has_property_麻薬的な扱い_p7368]]"

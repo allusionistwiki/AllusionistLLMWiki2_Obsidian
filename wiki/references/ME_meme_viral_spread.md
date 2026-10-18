@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_meme_viral_spread
 title: ミームの拡散
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "meme_viral_spread"
 domain: "Contemporary Culture"

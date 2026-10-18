@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0226_inverts_E_ch0226_少年_has_property_邪視の才能_p7450_Toxic_Positivity
-title: "「不都合な事実を直視しない才能」が「優れた邪視者の証明」とされることは、現実の「ポジティブシンキング」や「自己責任論」における…"
+title: 毒のポジティブシンキングの逆転
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0226_少年_has_property_邪視の才能_p7450]]"

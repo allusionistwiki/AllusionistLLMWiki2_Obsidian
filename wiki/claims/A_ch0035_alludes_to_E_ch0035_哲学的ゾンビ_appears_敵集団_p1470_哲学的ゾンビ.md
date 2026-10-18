@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0035_alludes_to_E_ch0035_哲学的ゾンビ_appears_敵集団_p1470_哲学的ゾンビ
-title: "霊体や魂を取り払われた状態で物質的には人間と変わりないが、飢餓感だけで行動する敵集団を「哲学的ゾンビ」と呼称し、意識の不在と社…"
+title: 哲学的ゾンビの迷宮具現化
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0035_哲学的ゾンビ_appears_敵集団_p1470]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0047_analogous_to_E_ch0047_コルセスカ_defines_邪視の座の目的_p1930_tabletop_rpg_dragon_slaying
-title: "邪視の座の目的である「竜退治」は、TRPG（ロールプレイングゲーム）における典型的な冒険のゴールであり、世界法則の破壊をゲーム…"
+title: TRPG竜退治のゲーム化
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0047_コルセスカ_defines_邪視の座の目的_p1930]]"

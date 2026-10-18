@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0043_analogous_to_E_ch0043_ナト_uses_神働装甲_p1829_サイバーパンク_義体化
-title: "手足を失うことで新型装甲への適性が向上するという記述は、サイバーパンクにおける義体化（サイボーグ化）による能力向上の概念と類似…"
+title: サイバーパンク的義体化
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0043_ナト_uses_神働装甲_p1829]]"

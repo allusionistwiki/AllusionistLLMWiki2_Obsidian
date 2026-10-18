@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0063_alludes_to_E_ch0063_リールエルバ_is_made_of_クローン_p2347_クローン技術の倫理・自己同一性の崩壊
-title: "「複製であるという事実により常に自己同一性の崩壊の危機に晒され続ける」という記述は、クローン人間が抱える存在論的な不安や、オリ…"
+title: クローン・自己同一性への暗喩
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0063_リールエルバ_is_made_of_クローン_p2347]]"

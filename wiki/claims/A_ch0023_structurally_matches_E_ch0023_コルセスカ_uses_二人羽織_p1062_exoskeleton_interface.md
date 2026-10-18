@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0023_structurally_matches_E_ch0023_コルセスカ_uses_二人羽織_p1062_exoskeleton_interface
-title: "コルセスカがアキラの腕を代用してトリシューラを整備する「二人羽織」は、魔女が人間を介して機械を操作する、三者間の複雑な依存構造…"
+title: 外骨格インターフェースの可視化
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0023_コルセスカ_uses_二人羽織_p1062]]"

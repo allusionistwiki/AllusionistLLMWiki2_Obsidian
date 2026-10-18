@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_deus_ex_machina
 title: 機械仕掛けの神
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "deus_ex_machina"
 domain: "Contemporary Culture"

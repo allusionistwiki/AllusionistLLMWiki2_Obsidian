@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0032_alludes_to_E_ch0032_ベアトリーチェ_names_ベアトリーチェ_p1309_ダンテのベアトリーチェ
-title: "妹の名前「ベアトリーチェ」はダンテの理想の女性像を指し、彼女が「永遠の少女」として失われる運命を予示する文学的引喩である"
+title: ダンテのベアトリーチェ
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0032_ベアトリーチェ_names_ベアトリーチェ_p1309]]"

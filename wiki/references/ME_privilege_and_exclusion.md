@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_privilege_and_exclusion
 title: 特権と排除
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "privilege_and_exclusion"
 domain: "Contemporary Culture"

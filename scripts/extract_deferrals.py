@@ -23,7 +23,8 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from llm_client import call_llm, parse_json_lenient, strip_code_fence  # noqa: E402
 
 RAW = ROOT / "raw"
-OUT_DIR = ROOT.parent / "AllusionistLLMWiki2_Work" / "deferral_facts"
+from paths import WORK_DIR
+OUT_DIR = WORK_DIR / "deferral_facts"
 
 # 「今はまだ」系に限定（いずれ/そのうち/準備ができたら 等の日常表現は対象外）。
 # 目的は伏線・将来の暗示の検出: 「今は〜でない（が、そのうち〜になる）」という含み。

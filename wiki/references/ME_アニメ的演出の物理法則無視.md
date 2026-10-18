@@ -3,23 +3,19 @@ schema_version: "5.1"
 id: ME_アニメ的演出の物理法則無視
 title: アニメ的物理無視
 type: external_reference
-
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "アニメ的演出の物理法則無視"
-aliases: []
-domain: "culture"
-document_status: active
-referenced_by: []
-relations: []
-created: "2026-10-11"
-updated: "2026-10-11"
+domain: "Contemporary Culture"
+review_status: llm_verified
 ---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
 # アニメ的演出の物理法則無視
 
-<!-- AUTO:BEGIN -->
-（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作での参照
+## 本作からの参照 (1 件)
 
-- [[A_ch0172_analogous_to_E_ch0172_ちびシューラ_other_風圧_p5724_アニメ的演出の物理法則無視]]
-<!-- AUTO:END -->
+- [[A_ch0172_analogous_to_E_ch0172_ちびシューラ_other_風圧_p5724_アニメ的演出の物理法則無視]] — 手刀の風圧で髪を切るという非現実的な演出を、世界への干渉と自己確信による『リアリティレベルの書き換え』としてメタ的に解説している。

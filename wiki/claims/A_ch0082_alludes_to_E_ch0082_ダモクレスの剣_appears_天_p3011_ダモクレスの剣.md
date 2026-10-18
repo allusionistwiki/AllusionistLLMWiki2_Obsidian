@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0082_alludes_to_E_ch0082_ダモクレスの剣_appears_天_p3011_ダモクレスの剣
-title: "天から吊り下げられ、刺客を選定する巨大な剣は、古代ギリシャの逸話「ダモクレスの剣」を引用し、権力者の危険性や選定の残酷さを象徴…"
+title: 天吊り剣によるダモクレスの剣の暗喩
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0082_ダモクレスの剣_appears_天_p3011]]"

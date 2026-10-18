@@ -10,7 +10,7 @@ first_appearance: ch0174
 spoiler_after: ch0174
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 小さな人形
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「『死人の森』があるからでしょ？　みんな知ってるよ。『上』も『下』も死者に怯えているんだ」
 - **unknown**: 「『死人の森』があるからでしょ？　みんな知ってるよ。『上』も『下』も死者に怯えているんだ」
 - **unknown**: 「『死人の森』があるからでしょ？　みんな知ってるよ。『上』も『下』も死者に怯えているんだ」
 

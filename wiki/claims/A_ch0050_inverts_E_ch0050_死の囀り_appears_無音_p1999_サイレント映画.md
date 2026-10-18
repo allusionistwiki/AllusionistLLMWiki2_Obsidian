@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0050_inverts_E_ch0050_死の囀り_appears_無音_p1999_サイレント映画
-title: "『死の囀り』という名を持つ存在が音もなく現れ、文字（歌詞）で攻撃するという展開は、音声が存在しないサイレント映画において視覚情…"
+title: サイレント映画の逆転演出
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0050_死の囀り_appears_無音_p1999]]"

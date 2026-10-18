@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0028_parodies_E_ch0028_契約者_fights_武将_p1233_戦国武将の英雄譚
-title: "「乱世で戦い抜いて壮絶に散る」という転生モデルは、戦国乱世を舞台にした英雄譚や歴史小説のクリシェを、顧客の自己満足のための消費…"
+title: 戦国英雄譚の消費対象化
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0028_契約者_fights_武将_p1233]]"

@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0008_analogous_to_E_ch0008_コルセスカ_other_血液_p394_vampire_mythology|コルセスカが敗者から血液を抜き取り、それを氷の指輪の装飾として利用する様子は、吸血鬼伝承における「血液の吸い取り」を、魔女の「…]]
+- [[A_ch0008_analogous_to_E_ch0008_コルセスカ_other_血液_p394_vampire_mythology|吸血鬼伝承の工芸行為への転換]]
 
 <!-- AUTO:END -->

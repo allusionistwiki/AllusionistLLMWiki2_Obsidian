@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0041_analogous_to_E_ch0041_ヴァージリア_thinks_メートリアン_テキストコミュニケーションLINE／メール
-title: "ヴァージリアがメートリアンとの「文字だけのやり取り」を楽だと感じるのは、現代のテキストコミュニケーション（LINE、メール）が…"
+title: テキストコミュニケーションの逃避
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0041_ヴァージリア_thinks_メートリアン_p1768]]"

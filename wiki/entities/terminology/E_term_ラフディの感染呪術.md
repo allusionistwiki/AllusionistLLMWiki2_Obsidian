@@ -10,7 +10,7 @@ first_appearance: ch0142
 spoiler_after: ch0142
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # ラフディの感染呪術
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 身体から離れた髪の毛はその後も拡張身体として機能する――それがラフディの感染呪術だ。
 - **unknown**: 身体から離れた髪の毛はその後も拡張身体として機能する――それがラフディの感染呪術だ。
 - **unknown**: 身体から離れた髪の毛はその後も拡張身体として機能する――それがラフディの感染呪術だ。
 

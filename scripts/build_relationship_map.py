@@ -15,7 +15,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-WORK = ROOT.parent / "AllusionistLLMWiki2_Work"
+from paths import WORK_DIR as WORK
 EVENTS = WORK / "events"
 WIKI = ROOT / "wiki"
 

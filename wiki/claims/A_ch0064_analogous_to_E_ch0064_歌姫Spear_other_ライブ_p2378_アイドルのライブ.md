@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0064_analogous_to_E_ch0064_歌姫Spear_other_ライブ_p2378_アイドルのライブ
-title: "歌姫のライブは、新曲発表、セットリスト、観客の呪術灯（サイリウム）振りなど、現代のアイドルライブの構造をそのまま異世界に移植し…"
+title: アイドルライブ構造の異世界移植
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0064_歌姫Spear_other_ライブ_p2378]]"

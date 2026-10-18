@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_サイバーカラテ_defines_万能の武術_p2642_スマホゲームのチュートリアル
-title: "サイバーカラテのインストールとデモンストレーションは、複雑な操作を要するアプリのチュートリアル動画や、ARガイドによる操作指示…"
+title: スマホゲームチュートリアル模倣
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_サイバーカラテ_defines_万能の武術_p2642]]"

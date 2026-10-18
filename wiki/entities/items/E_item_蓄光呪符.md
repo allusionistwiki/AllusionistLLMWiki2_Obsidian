@@ -10,7 +10,7 @@ first_appearance: ch0093
 spoiler_after: ch0093
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 蓄光呪符
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 闇に包まれた舞台の上で、蓄光呪符が微かな光を放っている。
 - **unknown**: 闇に包まれた舞台の上で、蓄光呪符が微かな光を放っている。
 - **unknown**: 闇に包まれた舞台の上で、蓄光呪符が微かな光を放っている。
 

@@ -10,7 +10,7 @@ spoiler_after: ch0093
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 空間
@@ -30,6 +30,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 奥に深い森が広がる『空間』が、まるで紙のように引き裂かれたかと思うと、大掛かりな舞台装置が現れる。
 - **unknown**: 奥に深い森が広がる『空間』が、まるで紙のように引き裂かれたかと思うと、大掛かりな舞台装置が現れる。
 - **unknown**: 奥に深い森が広がる『空間』が、まるで紙のように引き裂かれたかと思うと、大掛かりな舞台装置が現れる。
 

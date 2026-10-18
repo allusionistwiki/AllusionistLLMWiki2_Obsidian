@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_スマホゲームの弾道予報アプリ
 title: 弾道予報アプリ
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "スマホゲームの弾道予報アプリ"
 domain: "Contemporary Consumer Culture"

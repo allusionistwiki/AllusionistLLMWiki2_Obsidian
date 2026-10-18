@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0046_analogous_to_E_ch0046_ミルーニャ_other_情報の封鎖_p1890_corporate_coverup
-title: "巨大企業（クロウサー社）が自社の醜聞を隠蔽するために権力（大神院）を動かし情報を封鎖する様子は、現代の企業不祥事における情報操…"
+title: 企業隠蔽による情報封鎖
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0046_ミルーニャ_other_情報の封鎖_p1890]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0066_analogous_to_E_ch0066_ピッチャールー_attacks_プリエステラ_p2473_自動迎撃システム
-title: "呪術（エネルギー）に反応して殺到する浮遊する金属球は、レーダー波や熱源に反応するミサイル、あるいは自動迎撃砲の挙動を模している"
+title: 自動迎撃システムの反応
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0066_ピッチャールー_attacks_プリエステラ_p2473]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0062_analogous_to_E_ch0062_リーナ_says_炎上_p2317_現代のネット世論・フェイクニュース
-title: "アキラの功績が「公式には私が討伐した事になっている」という事実と矛盾し、ネット上で非難される「炎上」は、現代のフェイクニュース…"
+title: ネット世論・フェイクへの転生
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0062_リーナ_says_炎上_p2317]]"

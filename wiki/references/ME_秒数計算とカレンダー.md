@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_秒数計算とカレンダー
 title: 秒数計算と暦
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "秒数計算とカレンダー"
 domain: "Contemporary Culture"

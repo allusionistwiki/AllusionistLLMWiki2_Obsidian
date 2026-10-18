@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0081_inverts_E_ch0081_ファルファレロ_loves_セージ_p2990_S&M的関係の肯定
-title: "「キモい」という罵倒を「必要なもの」として受容するファルの反応は、通常の恋愛のロマンティシズムを逆転させ、支配と被支配の快楽を…"
+title: 罵倒受容によるS&M関係の肯定
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0081_ファルファレロ_loves_セージ_p2990]]"

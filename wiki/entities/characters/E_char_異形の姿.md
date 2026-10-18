@@ -26,7 +26,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0067_alludes_to_E_ch0067_エスフェイル_says_摸倣への言及_p2504_mimesis|エスフェイルが「夜の民にとって、摸倣とはその人生をかけて行う魂の営為」と述べるのは、哲学における「ミメーシス（模倣）」の概念…]]
-- [[A_ch0067_structurally_matches_E_ch0067_エスフェイル_other_宣名のリスク_p2504_privacy_paradox|「名前を知られると呪術を受けやすい」という設定は、現代社会における「個人情報が漏洩すると悪用される」というプライバシーの逆説（…]]
+- [[A_ch0067_alludes_to_E_ch0067_エスフェイル_says_摸倣への言及_p2504_mimesis|ミメーシスの魂の営為]]
+- [[A_ch0067_structurally_matches_E_ch0067_エスフェイル_other_宣名のリスク_p2504_privacy_paradox|プライバシーの逆説]]
 
 <!-- AUTO:END -->

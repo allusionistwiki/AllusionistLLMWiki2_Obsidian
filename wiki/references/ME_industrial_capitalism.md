@@ -3,23 +3,19 @@ schema_version: "5.1"
 id: ME_industrial_capitalism
 title: 産業資本主義
 type: external_reference
-
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "industrial_capitalism"
-aliases: []
-domain: "culture"
-document_status: active
-referenced_by: []
-relations: []
-created: "2026-10-11"
-updated: "2026-10-11"
+domain: "Contemporary Culture"
+review_status: llm_verified
 ---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
 # industrial_capitalism
 
-<!-- AUTO:BEGIN -->
-（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作での参照
+## 本作からの参照 (1 件)
 
-- [[A_ch0202_analogous_to_E_p6796_industrial_capitalism]]
-<!-- AUTO:END -->
+- [[A_ch0202_analogous_to_E_p6796_industrial_capitalism]] — 双頭トロルが「再生者」を資源として奪い、王国を構築しようとする欲望は、人間を道具として扱う資本主義的・植民地的搾取構造の比喩である。

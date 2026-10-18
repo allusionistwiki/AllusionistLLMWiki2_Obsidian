@@ -10,7 +10,7 @@ first_appearance: ch0262
 spoiler_after: ch0262
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 風
 
@@ -21,5 +21,13 @@ updated: '2026-10-11'
 
 - **unknown**: 直後、人馬ファーガストの背を風が後押しする。古き神馬が駆け抜けてきた歴史の重み。
 - **unknown**: 直後、人馬ファーガストの背を風が後押しする。古き神馬が駆け抜けてきた歴史の重み。
+- **unknown**: 直後、人馬ファーガストの背を風が後押しする。古き神馬が駆け抜けてきた歴史の重み。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 勢いを増した風がシナモリアキラの拳に力を与える。
+
+<!-- /AUTO-GENERATED:symbolic -->

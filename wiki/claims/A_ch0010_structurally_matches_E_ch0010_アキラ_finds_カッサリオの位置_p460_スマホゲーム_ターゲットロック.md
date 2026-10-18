@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0010_structurally_matches_E_ch0010_アキラ_finds_カッサリオの位置_p460_スマホゲーム_ターゲットロック
-title: "アプリ『Doppler』を用いて巨大な敵集団の中から特定のボス（カッサリオ）の位置を特定し、視覚情報ではなく音響データで補正す…"
+title: スマホゲームのターゲットロック
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0010_アキラ_finds_カッサリオの位置_p460]]"

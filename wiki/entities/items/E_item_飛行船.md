@@ -10,7 +10,7 @@ first_appearance: ch0227
 spoiler_after: ch0227
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 飛行船
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 都市の上空に巨大な飛行船が現れた。
 - **unknown**: 都市の上空に巨大な飛行船が現れた。
 - **unknown**: 都市の上空に巨大な飛行船が現れた。
 

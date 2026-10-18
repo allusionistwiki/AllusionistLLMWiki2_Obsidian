@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_org_ティリビナ人下層
+type: entity
+title: ティリビナ人下層
+subtype: organization
+canonical_name: ティリビナ人下層
+aliases: []
+first_appearance: ch5583
+spoiler_after: ch5583
+document_status: active
+created: '2026-10-19'
+updated: '2026-10-19'
+---
+# ティリビナ人下層
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: スーリウムの言う通り、『下』におけるティリビナ人たちの生存戦略はさもしいものだった。どうやって同情をひいて支援を引き出すか。人気取りと『我々ティリビナ人はこんなにも可哀想です』というアピールを繰り返し、国際社会の中で弱者の戦略を選ぶことが最適解となってしまっている。
+
+<!-- /AUTO-GENERATED:action -->

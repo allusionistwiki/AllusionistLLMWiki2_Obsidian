@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_phrase_過去の亡霊
+type: entity
+title: 過去の亡霊
+subtype: key_phrase
+canonical_name: 過去の亡霊
+aliases: []
+first_appearance: ch5585
+spoiler_after: ch5585
+document_status: active
+created: '2026-10-19'
+updated: '2026-10-19'
+---
+# 過去の亡霊
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『私の天衣（ドレス）よ、植物想（フローラ）として目覚めてちょうだい。子供たちに伝えて欲しいの。母様に追いやられてしまった、暗がりの命たちに目を向けてあげて、と』
+
+<!-- /AUTO-GENERATED:speech -->

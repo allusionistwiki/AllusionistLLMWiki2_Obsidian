@@ -10,7 +10,7 @@ first_appearance: ch0081
 spoiler_after: ch0081
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # ステージ
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 『文化』を発信することで呪力を発生させる、いわば人力発電のようなものらしい。
 - **unknown**: 『文化』を発信することで呪力を発生させる、いわば人力発電のようなものらしい。
 - **unknown**: 『文化』を発信することで呪力を発生させる、いわば人力発電のようなものらしい。
 - **unknown**: 『文化』を発信することで呪力を発生させる、いわば人力発電のようなものらしい。

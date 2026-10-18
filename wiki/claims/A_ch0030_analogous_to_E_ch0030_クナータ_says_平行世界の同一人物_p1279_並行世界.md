@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0030_analogous_to_E_ch0030_クナータ_says_平行世界の同一人物_p1279_並行世界
-title: "アズーリアとアキラを「平行世界の同一人物」と表現することは、自己同一性の対峙というテーマを暗示する"
+title: 平行世界同一人物の自己同一性対峙
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0030_クナータ_says_平行世界の同一人物_p1279]]"

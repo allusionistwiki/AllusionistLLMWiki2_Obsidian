@@ -10,7 +10,7 @@ spoiler_after: ch0048
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # 空の民
@@ -27,13 +27,14 @@ updated: '2026-10-11'
 
 ## 関連クレーム
 
-- [[A_ch0048_parodies_E_ch0048_空の民_has_property_朝の民_p1947_早起き健康法|「朝が来たら起きる]]
+- [[A_ch0048_parodies_E_ch0048_空の民_has_property_朝の民_p1947_早起き健康法|早起き健康法への種族のパロディ]]
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 「空の民は、夜の民と対比させて朝の民とも言われてますからね。太陽の光を浴びるとやたら元気になるんですよ」
 - **unknown**: 「空の民は、夜の民と対比させて朝の民とも言われてますからね。太陽の光を浴びるとやたら元気になるんですよ」
 - **unknown**: 「空の民は、夜の民と対比させて朝の民とも言われてますからね。太陽の光を浴びるとやたら元気になるんですよ」
 

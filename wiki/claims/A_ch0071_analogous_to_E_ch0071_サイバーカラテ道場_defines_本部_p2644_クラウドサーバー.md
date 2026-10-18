@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0071_analogous_to_E_ch0071_サイバーカラテ道場_defines_本部_p2644_クラウドサーバー
-title: "物理的な本部が存在せず、枠組み自体が本部であり人々の心にあるという構造は、分散型ネットワークやクラウドの概念を指している"
+title: クラウドサーバーの構造
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0071_サイバーカラテ道場_defines_本部_p2644]]"

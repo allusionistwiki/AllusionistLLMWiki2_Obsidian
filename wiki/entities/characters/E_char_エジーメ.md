@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_エジーメ
+type: entity
+subtype: character
+canonical_name: エジーメ
+title: "エジーメ"
+first_appearance: ch5574
+spoiler_after: ch5574
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# エジーメ
+
+オーブルディース・エジーメ・クロウサーの通称であり、超越的な神によって与えられた使命（コーリング）を代弁する役割を持つ。異なる世界への架橋や存在との合一・変成を夢想する思想の体現者として描かれる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5574 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 『なぜなら、それこそが超越的な神（ほんのう）によって与えられた使命であり、救済であり、神の恵みたる召命（コーリング）であるからだ』（ch5574）
+> エジーメは異なる世界への架橋を夢想した。 異なる存在との合一と変成を試みた。（ch5574）
+
+<!-- AUTO:END -->

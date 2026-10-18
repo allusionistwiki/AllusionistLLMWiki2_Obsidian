@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0058_inverts_E_ch0058_マリー_confesses_色の実感の欠如_p2210_qualia
-title: "「青い」という概念の理論的理解と、その主観的体験（クオリア）の間のギャップを、マリーの「実感がない」という悩みを通じて提示して…"
+title: クオリアの理論と体験のギャップ
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0058_マリー_confesses_色の実感の欠如_p2210]]"

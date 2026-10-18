@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_国家としての宗教法人
 title: 国家としての宗教法人
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "国家としての宗教法人"
 domain: "Contemporary Culture"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_idol_secret_identity
 title: アイドルの二重生活
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "idol_secret_identity"
 domain: "Contemporary Culture"

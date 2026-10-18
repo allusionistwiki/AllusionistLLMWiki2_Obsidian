@@ -1,0 +1,24 @@
+---
+schema_version: '5.1'
+id: E_char_カルパオッソ幻像
+type: entity
+title: カルパオッソ幻像
+subtype: character
+canonical_name: カルパオッソ幻像
+aliases: []
+first_appearance: ch5569
+spoiler_after: ch5569
+document_status: active
+created: '2026-10-19'
+updated: '2026-10-19'
+---
+# カルパオッソ幻像
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「相変わらずだね、クロウサーの老人たちは。よしよし、我慢できてえらいえらい。こんな辛抱もあともう少しだ。じきに誰もが君を見上げるようになる。僕がそうする。二人でならどんな困難もきっと乗り越えられるよ、マイハニー」
+
+<!-- /AUTO-GENERATED:speech -->

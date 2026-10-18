@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_軍事技術_衝角戦術
 title: 衝角戦術
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "軍事技術_衝角戦術"
 domain: "Contemporary Culture"

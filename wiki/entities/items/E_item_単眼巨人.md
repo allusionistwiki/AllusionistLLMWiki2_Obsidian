@@ -10,7 +10,7 @@ first_appearance: ch0100
 spoiler_after: ch0100
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 単眼巨人
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: ずんぐりとした身体に巨大な単眼。それらの特徴はすべて、アルト王の武威を誇張したもの。
 - **unknown**: ずんぐりとした身体に巨大な単眼。それらの特徴はすべて、アルト王の武威を誇張したもの。
 - **unknown**: ずんぐりとした身体に巨大な単眼。それらの特徴はすべて、アルト王の武威を誇張したもの。
 

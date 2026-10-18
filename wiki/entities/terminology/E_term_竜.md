@@ -10,7 +10,7 @@ first_appearance: ch0182
 spoiler_after: ch0182
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 竜
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: この事から、宿敵である竜は悪魔と解釈されることもあった。
 - **unknown**: この事から、宿敵である竜は悪魔と解釈されることもあった。
 - **unknown**: この事から、宿敵である竜は悪魔と解釈されることもあった。
 

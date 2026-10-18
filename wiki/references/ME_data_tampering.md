@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_data_tampering
 title: データ改竄
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "data_tampering"
 domain: "Contemporary Culture"

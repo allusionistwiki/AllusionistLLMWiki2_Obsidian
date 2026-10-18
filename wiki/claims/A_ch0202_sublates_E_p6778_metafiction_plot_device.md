@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0202_sublates_E_p6778_metafiction_plot_device
-title: "神の啓示の曖昧さを「物語の都合」や「作劇上の逃げ」としてキャラクター自身が自覚し、メタフィクション的な構造を内包している"
+title: 作劇上の逃げの自覚によるメタ構造
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0202_アルティウス_appears_ユディーア_p6791]]"

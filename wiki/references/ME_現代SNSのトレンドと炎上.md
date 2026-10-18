@@ -3,23 +3,19 @@ schema_version: "5.1"
 id: ME_現代SNSのトレンドと炎上
 title: SNSトレンド炎上
 type: external_reference
-
-subtype: popular_culture
+created: "2026-10-19"
+subtype: internet_culture
 canonical_name: "現代SNSのトレンドと炎上"
-aliases: []
-domain: "culture"
-document_status: active
-referenced_by: []
-relations: []
-created: "2026-10-11"
-updated: "2026-10-11"
+domain: "Internet Culture"
+review_status: llm_verified
 ---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
 # 現代SNSのトレンドと炎上
 
-<!-- AUTO:BEGIN -->
-（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作での参照
+## 本作からの参照 (1 件)
 
-- [[A_ch0234_parodies_E_ch0234_シナモリアキラ_appears_as_ミーム_p7686_現代SNSのトレンドと炎上]]
-<!-- AUTO:END -->
+- [[A_ch0234_parodies_E_ch0234_シナモリアキラ_appears_as_ミーム_p7686_現代SNSのトレンドと炎上]] — シナモリアキラのミーム化やタグ荒らし、公式アカウントの対決姿勢は、現代のSNSにおけるトレンド消費や企業アカウントの炎上対応を風刺している。

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0044_analogous_to_E_ch0044_アキラ_makes_通報_p1850_現代_SNS通報
-title: "アキラの通報に対する金鎖システムの応答は、現代の自動応答システムや管理機構の機械的な非人間的な反応を模倣し、異世界の管理システ…"
+title: SNS通報への機械的応答
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0044_アキラ_makes_通報_p1850]]"

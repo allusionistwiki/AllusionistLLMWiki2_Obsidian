@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0143_alludes_to_E_ch0143_オルヴァ_reveals_マラードの醜さ_p4889_ピグマリオン効果_心理学
-title: "ルバーブの強い信念と呪力によってマラードが「美しい王」として存在し続けていたという事実は、他者の期待や信念が対象の現実を形成す…"
+title: 信念による美の社会的構築
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0143_オルヴァ_reveals_マラードの醜さ_p4889]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0254_analogous_to_E_p8159_lina_heroism_manufactured_hero
-title: "リーナの「快進撃」が実は仕組まれたものであり、観客がそれを英雄譚として消費する構造は、メディアによって作られた偶像やプロパガン…"
+title: メディアが作る英雄像
+
 type: analytical_claim
 created: '2026-10-11'
 subject: "[[E_ch0254_アルゾラ・クロウサー_is_made_of_ゾラ分家_p8154]]"

@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0072_inverts_E_ch0072_プリエステラ_other_ベフォニスとの関係_p2670_ストックホルム症候群の逆転
-title: "人質と加害者の関係性が流動的であり、支配・被支配の力学が固定されないことを示唆している"
+title: 逆ストックホルム
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0072_プリエステラ_other_ベフォニスとの関係_p2670]]"

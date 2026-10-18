@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0029_alludes_to_E_ch0029_ハル_says_アキラの変態性_p1263_トリシューラ
-title: "ハルがアキラの反応を「トリシューラみたい」と評するのは、超新星爆発の残骸（パルサー）の名称を用いた比喩であり、アキラの異常な反…"
+title: トリシューラへの異常反応比喩
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0029_ハル_says_アキラの変態性_p1263]]"

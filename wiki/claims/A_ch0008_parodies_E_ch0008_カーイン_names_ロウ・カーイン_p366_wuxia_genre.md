@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0008_parodies_E_ch0008_カーイン_names_ロウ・カーイン_p366_wuxia_genre
-title: "カーインの「奉竜山青海が門下」「六淫操手」「名を告げたからには必ず殺す」という名乗りと戦闘スタイルは、中国武術小説（武侠小説）…"
+title: 武侠小説クリシェのパロディ
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0008_カーイン_names_ロウ・カーイン_p366]]"

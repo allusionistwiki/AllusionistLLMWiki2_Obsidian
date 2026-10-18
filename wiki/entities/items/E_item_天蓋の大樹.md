@@ -10,7 +10,7 @@ first_appearance: ch0203
 spoiler_after: ch0203
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 天蓋の大樹
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 天蓋の大樹から灯火が消えると、今度は逆さまの森が一斉に淡い光を纏い始めた。
 - **unknown**: 天蓋の大樹から灯火が消えると、今度は逆さまの森が一斉に淡い光を纏い始めた。
 - **unknown**: 天蓋の大樹から灯火が消えると、今度は逆さまの森が一斉に淡い光を纏い始めた。
 

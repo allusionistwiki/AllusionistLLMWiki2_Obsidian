@@ -10,7 +10,7 @@ first_appearance: ch0231
 spoiler_after: ch0231
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 # 第五階層の隠し病棟
 
@@ -19,6 +19,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 噂でのみその存在が囁かれる都市伝説は、隣接異界に実在していた。
 - **unknown**: 噂でのみその存在が囁かれる都市伝説は、隣接異界に実在していた。
 - **unknown**: 噂でのみその存在が囁かれる都市伝説は、隣接異界に実在していた。
 

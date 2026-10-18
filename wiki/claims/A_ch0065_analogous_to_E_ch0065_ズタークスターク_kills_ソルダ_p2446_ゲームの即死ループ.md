@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0065_analogous_to_E_ch0065_ズタークスターク_kills_ソルダ_p2446_ゲームの即死ループ
-title: "ソルダが蘇生するたびに即死し続ける描写は、ゲームにおける「リスポーン即死」や「セーブポイントでの無限ループ」を連想させる"
+title: 即死ループとしての蘇生即死
+
 type: analytical_claim
 created: "2026-10-01"
 subject: "[[E_ch0065_ズタークスターク_kills_ソルダ_p2446]]"

@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_違法な性能向上MOD／チートツール
 title: 違法MOD・チート
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "違法な性能向上MOD／チートツール"
 domain: "Contemporary Culture"

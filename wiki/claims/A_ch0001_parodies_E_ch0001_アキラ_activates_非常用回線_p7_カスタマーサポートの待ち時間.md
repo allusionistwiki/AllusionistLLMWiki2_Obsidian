@@ -1,7 +1,8 @@
 ---
 schema_version: "5.1"
 id: A_ch0001_parodies_E_ch0001_アキラ_activates_非常用回線_p7_カスタマーサポートの待ち時間
-title: "生死の境で脳内に響く「待ち時間専用ジングル」は、現代の電話サポートにおける苛立ちを異世界転生という極限状況に持ち込むことで、技…"
+title: 生死境でのサポート待ち時間ジングル
+
 type: analytical_claim
 created: "2026-09-30"
 subject: "[[E_ch0001_アキラ_activates_緊急連絡_p7]]"

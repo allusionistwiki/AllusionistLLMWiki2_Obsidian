@@ -2,11 +2,8 @@
 schema_version: "5.1"
 id: ME_Completionist_Mindset
 title: コンプリート主義
-
-
-
 type: external_reference
-created: "2026-10-10"
+created: "2026-10-19"
 subtype: popular_culture
 canonical_name: "Completionist_Mindset"
 domain: "Contemporary Culture"

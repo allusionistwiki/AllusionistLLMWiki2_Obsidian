@@ -3,23 +3,19 @@ schema_version: "5.1"
 id: ME_ギリシャ神話_ウラノスとガイアの分離
 title: ウラノスとガイア分離
 type: external_reference
-
-subtype: popular_culture
+created: "2026-10-19"
+subtype: mythology
 canonical_name: "ギリシャ神話_ウラノスとガイアの分離"
-aliases: []
-domain: "culture"
-document_status: active
-referenced_by: []
-relations: []
-created: "2026-10-11"
-updated: "2026-10-11"
+domain: "Mythology"
+review_status: llm_verified
 ---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
 # ギリシャ神話_ウラノスとガイアの分離
 
-<!-- AUTO:BEGIN -->
-（骨格ページ: クレームが参照する外部概念。解説は未記入 — 人間追記または解説自動追記パスで補う。）
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作での参照
+## 本作からの参照 (1 件)
 
-- [[A_ch0268_alludes_to_E_ch0268_キュトス_is_made_of_大地_p8379_ギリシャ神話_ウラノスとガイアの分離]]
-<!-- AUTO:END -->
+- [[A_ch0268_alludes_to_E_ch0268_キュトス_is_made_of_大地_p8379_ギリシャ神話_ウラノスとガイアの分離]] — 地母神キュトスが槍で貫かれ大地と空が分離する描写は、ギリシャ神話におけるウラノス（天）とガイア（地）の分離、あるいは北欧神話のユミルの死による世界創造を想起させる。

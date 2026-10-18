@@ -10,7 +10,7 @@ spoiler_after: ch0096
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-11'
+updated: '2026-10-19'
 ---
 
 # ブレイスヴァ
@@ -40,6 +40,7 @@ updated: '2026-10-11'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 大いなる女王は母のようであり妻のようでもあり、オルヴァに原初の安寧を思い起こさせた。
 - **unknown**: 大いなる女王は母のようであり妻のようでもあり、オルヴァに原初の安寧を思い起こさせた。
 - **unknown**: 大いなる女王は母のようであり妻のようでもあり、オルヴァに原初の安寧を思い起こさせた。
 
