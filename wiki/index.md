@@ -21,6 +21,7 @@ description: 本作の多層アナロジー（引喩・神話参照・展開の�
 - [外部参照](references/index.md) — 引喩先の現代文化・思想の解説
 - [「今はまだ」先延ばし索引](deferrals/index.md) — 原文中の先延ばしモティーフ全箇所
 - [キャラ容姿描写索引](appearances/index.md) — 容姿・外見描写のキャラ別索引
+- [版対応表（なろう版 ⇔ カクヨム版）](references/edition-map.md) — 正典はカクヨム版。引用の段落（¶）対応・削除台帳・カクヨム専用話
 
 ## 統計
 
