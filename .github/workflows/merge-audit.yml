@@ -1,0 +1,157 @@
+name: Post-merge audit (LLM)
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['.github/**', 'scripts/**', 'audit/**', '.gitignore']
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: Ref (branch/sha) to audit; defaults to the dispatched ref
+        required: false
+        type: string
+  workflow_run:
+    workflows: ["PR gate (mechanical)"]
+    types: [completed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: audit-main
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    if: >
+      github.event_name != 'workflow_run' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_branch == 'main')
+    environment: strata-audit
+    runs-on: [self-hosted, Windows, X64]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Guard (loop-prevention + owner flag)
+        id: guard
+        shell: bash
+        run: |
+          sha="${{ github.sha }}"
+          msg=$(git log -1 --format=%s)
+          author=$(git log -1 --format=%ae)
+          # Loop prevention: never audit our own audit-log/revert commits.
+          case "$msg" in
+            audit:*|Revert*) echo "skip=true" >> "$GITHUB_OUTPUT"; exit 0 ;;
+          esac
+          # Owner edits are audited too, but advisory-only (no auto-revert of the approver's work).
+          if [ "$author" = "allusionist.wiki@gmail.com" ]; then
+            echo "is_owner=true" >> "$GITHUB_OUTPUT"
+          fi
+          # Dedup: already audited this sha?
+          if [ -f audit/audit-log.jsonl ] && grep -q "\"sha\":\"$sha\"\| \"sha\": \"$sha\"" audit/audit-log.jsonl; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Runner+secrets connectivity check
+        if: steps.guard.outputs.skip == 'true'
+        env:
+          STRATA_API_URL: ${{ secrets.STRATA_API_URL }}
+          STRATA_API_KEY: ${{ secrets.STRATA_API_KEY }}
+          STRATA_MODEL: ${{ secrets.STRATA_MODEL }}
+        shell: bash
+        run: |
+          python --version
+          echo "url=$STRATA_API_URL model=$STRATA_MODEL keylen=${#STRATA_API_KEY}"
+
+      - name: Audit merged commit
+        id: audit
+        if: steps.guard.outputs.skip == 'false'
+        env:
+          STRATA_API_URL: ${{ secrets.STRATA_API_URL }}
+          STRATA_API_KEY: ${{ secrets.STRATA_API_KEY }}
+          STRATA_MODEL: ${{ secrets.STRATA_MODEL }}
+        shell: bash
+        run: |
+          git fetch -q origin main
+          if ! git cat-file -e "${{ github.sha }}^{commit}" 2>/dev/null; then
+            echo "audit sha ${{ github.sha }} not in checkout; fetching all refs"
+            git fetch -q --unshallow origin 2>/dev/null || git fetch -q origin "+refs/pull/*:refs/remotes/origin/pr/*"
+          fi
+          python scripts/audit_pr.py "${{ github.sha }}" >> "$GITHUB_OUTPUT"
+
+      - name: Revert on reject (third-party only)
+        if: steps.audit.outputs.verdict == 'REJECT' && steps.guard.outputs.is_owner != 'true'
+        shell: bash
+        run: |
+          set -uo pipefail
+          git config user.name "allusionistwiki"
+          git config user.email "allusionist.wiki@gmail.com"
+          git pull --rebase || echo "::warning::rebase before revert failed (reverting local view)"
+          SHA="${{ github.sha }}"
+          # Squash merges land single-parent commits: -m 1 is merge-only.
+          n=$(git rev-list --parents -n1 "$SHA" | wc -w)
+          if [ "$n" -gt 2 ]; then
+            git revert -m 1 --no-edit "$SHA"
+          else
+            git revert --no-edit "$SHA"
+          fi
+          git push || echo "::warning::revert push failed"
+
+      - name: Comment on source PR
+        if: steps.audit.outputs.verdict == 'REJECT'
+        env:
+          GHTOKEN: ${{ github.token }}
+          REASON: ${{ steps.audit.outputs.reason }}
+          SHA: ${{ github.sha }}
+          IS_OWNER: ${{ steps.guard.outputs.is_owner }}
+          REPO: ${{ github.repository }}
+        shell: bash
+        run: |
+          # service-runner PATH has no gh CLI: curl only.
+          API="https://api.github.com/repos/$REPO"
+          : "${GHTOKEN:?github.token unavailable}"
+          n=$(curl -s -H "Authorization: Bearer ***" -H "Accept: application/vnd.github+json" "$API/commits/$SHA/pulls" | python -c "import json,sys; d=json.load(sys.stdin); print(d[0]['number'] if d else '')")
+          mode="reverted"
+          if [ "$IS_OWNER" = "true" ]; then mode="ADVISORY (owner edit, not reverted)"; fi
+          if [ -n "$n" ]; then
+            python - "$REASON" "$SHA" "$mode" "$RUNNER_TEMP/abody.json" <<'PY'
+          import json, sys
+          reason, sha, mode, out = sys.argv[1:5]
+          json.dump({"body": f"Post-merge audit REJECT ({mode}): {reason} — commit {sha}"}, open(out, "w", encoding="utf-8"))
+          PY
+            curl -s -o /dev/null -X POST -H "Authorization: Bearer ***" -H "Content-Type: application/json" --data @"$RUNNER_TEMP/abody.json" "$API/issues/$n/comments"
+          fi
+
+      - name: Append audit log
+        if: always() && steps.guard.outputs.skip == 'false'
+        env:
+          VERDICT: ${{ steps.audit.outputs.verdict }}
+          REASON: ${{ steps.audit.outputs.reason }}
+          SHA: ${{ github.sha }}
+        shell: bash
+        run: |
+          VERDICT="${VERDICT:-UNKNOWN}"
+          REASON="${REASON:-no reason (audit step did not complete)}"
+          git pull --rebase || echo "::warning::rebase before audit-log append failed (appending local view)"
+          mkdir -p audit
+          python - <<'PY'
+          import json, os, datetime
+          rec = {
+              "ts": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+              "sha": os.environ["SHA"],
+              "verdict": os.environ["VERDICT"],
+              "reason": os.environ["REASON"],
+          }
+          with open("audit/audit-log.jsonl", "a", encoding="utf-8") as f:
+              f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+          PY
+          git config user.name "allusionistwiki"
+          git config user.email "allusionist.wiki@gmail.com"
+          git add audit/audit-log.jsonl
+          git commit -m "audit: $SHA verdict=$VERDICT"
+          git push
