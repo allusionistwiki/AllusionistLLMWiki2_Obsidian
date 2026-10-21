@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_open_source_community
 title: OSSコミュニティ
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "open_source_community"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_other_第五階層の崩壊_p577_open_source_community]] — 第五階層の技術が「オープンソースであるべき」という理念を掲げていたことは、オープンソースコミュニティの理想を指喩している。
+- [[A_ch5107_inverts_E_p66_open_source_community]] — 「サイバーカラテに『ありえない』は無い」「あらゆるOSに対応した万能の戦闘術」という主張は、特定のハードウェアやバージョンに依存しないオープンソースソフトウェアやクロスプラットフォーム技術の哲学を反映している。

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_programming_languages_text_based
 title: テキストベース言語
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "programming_languages_text_based"
 domain: "Contemporary Culture"

@@ -10,7 +10,7 @@ first_appearance: ch5583
 spoiler_after: ch5583
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 説得力と迫真性
 
@@ -21,5 +21,7 @@ updated: '2026-10-19'
 
 - **unknown**: ゆえにここで重要になるのは説得力と迫真性。
 どれだけの重みを過去に与えられるのか、その手腕が問われる。
+- **unknown**: ゆえにここで重要になるのは説得力と迫真性。
+- **unknown**: ゆえにここで重要になるのは説得力と迫真性。
 
 <!-- /AUTO-GENERATED:speech -->

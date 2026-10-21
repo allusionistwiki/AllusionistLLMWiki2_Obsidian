@@ -30,7 +30,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0006_foreshadows_E_ch0006_謎の声_says_頭を良くする_p310_cognitive_modification|認知改変の伏線]]
+- A_ch0006_foreshadows_E_ch0006_謎の声_says_頭を良くする_p310_cognitive_modification（認知改変の伏線）
 
 <!-- AUTO:END -->
 

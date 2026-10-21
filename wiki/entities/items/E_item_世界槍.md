@@ -10,7 +10,7 @@ first_appearance: ch0208
 spoiler_after: ch0208
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 世界槍
 
@@ -24,3 +24,11 @@ updated: '2026-10-19'
 - **unknown**: 世界と世界を繋ぐ次元の扉が砕け、その背後から土石流のように異界が殺到する。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 巨大な肉塊となった世界槍の頂点付近で、凄まじい呪力が放出された。
+- **unknown**: 巨大な肉塊となった世界槍の頂点付近で、凄まじい呪力が放出された。
+
+<!-- /AUTO-GENERATED:visual -->

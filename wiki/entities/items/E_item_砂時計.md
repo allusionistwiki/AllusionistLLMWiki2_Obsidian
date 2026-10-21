@@ -10,7 +10,7 @@ first_appearance: ch5577
 spoiler_after: ch5577
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 砂時計
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: いつの間にか、時を告げる砂は全て下に落ち切っていた。
+- **unknown**: いつの間にか、時を告げる砂は全て下に落ち切っていた。
 - **unknown**: いつの間にか、時を告げる砂は全て下に落ち切っていた。
 
 <!-- /AUTO-GENERATED:visual -->

@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0222_alludes_to_E_ch0222_精神加工_has_property_麻薬的な扱い_p7368_Drug_Control_Laws|薬物規制法の魔法体系投影]]
+- A_ch0222_alludes_to_E_ch0222_精神加工_has_property_麻薬的な扱い_p7368_Drug_Control_Laws（薬物規制法の魔法体系投影）
 
 <!-- AUTO:END -->
 

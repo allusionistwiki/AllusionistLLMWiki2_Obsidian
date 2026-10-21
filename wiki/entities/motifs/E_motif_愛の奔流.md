@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 愛の奔流
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: どこまでも深い愛の奔流が空を青く染め上げた。
+- **unknown**: どこまでも深い愛の奔流が空を青く染め上げた。
 - **unknown**: どこまでも深い愛の奔流が空を青く染め上げた。
 
 <!-- /AUTO-GENERATED:visual -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_物語
 type: entity
 subtype: terminology
 canonical_name: 物語
-title: "物語"
+title: 物語
 first_appearance: ch5589
 spoiler_after: ch5589
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 物語
@@ -25,3 +26,21 @@ created: "2026-09-30"
 > それは悪意であり、欲望であり、それでいて限りない愛を内包した物語。（ch5589）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: かくして、ショウの運命を大きく変える愛と人喰いと異世界の物語が始まった。
+恋して壊すか。愛して喰らうか。人魚が突きつける問いは儚く泡に消えていく。
+選ぶのは、ひとりの少年。そのキスが、世界を殺す。
+- **unknown**: かくして、ショウの運命を大きく変える愛と人喰いと異世界の物語が始まった。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: それは悪意であり、欲望であり、それでいて限りない愛を内包した物語。
+- **unknown**: それは悪意であり、欲望であり、それでいて限りない愛を内包した物語。
+
+<!-- /AUTO-GENERATED:symbolic -->

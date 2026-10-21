@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5588_Broom_Value_Context
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5588
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5588
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 > 穢れた風と汚濁の空。箒の価値はそこでしか証明できない（p6）
 > 知ってる？　箒ってさ、汚れを掃き清めるためにあるんだよ（p222）
 
-**審査（LLM 代替）**: 冒頭の条件定義と終盤の機能定義の対比は、箒の本質的価値に関する構造的な伏線として明確にリンクしている。
+**審査（LLM 代替）**: 冒頭での条件設定と終盤での定義付けが対になっていることは、物語の構造上意図的な配置であり、「伏線」としての機能を持つため妥当。

@@ -4,7 +4,7 @@ id: A_ch5576_alludes_to_E_ch5576_リーナ_thinks_テキストベース・サー
 title: 世界記述のテキスト言語メタファー
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5576_リーナ_thinks_テキストベース・サーキット_p158]]"
 predicate: alludes_to
 object: "[[ME_programming_languages_text_based]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5576
 evidence_strength: explicit
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 「テキストベース・サーキットとはこういうことだったのか」（p158）
 
-**審査（LLM 代替）**: 「テキストベース」という語彙の選択は、世界が言語/コードで記述・実行されるシステム（メタフィクション）であることの自己言及的な示唆として妥当。
+**審査（LLM 代替）**: 「テキストベース・サーキット」という造語は、世界が記述言語（コード/テキスト）によって構成されるメタ構造を示唆しており、プログラミング言語への引喩として作品の自己言及性と整合する。

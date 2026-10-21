@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5579_Marguerita_Loadedron_Collusion
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5579
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5579
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 > （この二人、裏で結託しているの？）
 レースの最中や乱入してきた時点ではそんなふうには見えなかったが、こっそりと密約を交わしていることは十分にあり得る。（p107-p109）
 
-**審査（LLM 代替）**: 引用は原文に存在し（verified: true）、リーナの視点による「結託」の疑念という心理的・戦略的な謎を捉えている。
+**審査（LLM 代替）**: 原文はリーナの「疑い（推測）」であり、両者の結託が確定した事実ではないため、「可能性」を強調する表現に修正すべき。

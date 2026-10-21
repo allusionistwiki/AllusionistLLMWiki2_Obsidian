@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_婚活アプリ・スペック検索
 title: 婚活アプリ検索
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "婚活アプリ・スペック検索"
 domain: "Contemporary Consumer Culture"

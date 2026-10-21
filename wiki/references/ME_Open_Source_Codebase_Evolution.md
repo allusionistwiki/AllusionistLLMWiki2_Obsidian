@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_Open_Source_Codebase_Evolution
+title: コードベースの進化
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "Open_Source_Codebase_Evolution"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# Open_Source_Codebase_Evolution
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5061_analogous_to_E_ch5061_トリシューラ_other_世界槍の起源と歴史_p42_Open_Source_Codebase_Evolution]] — 所有権が放棄された世界槍における「コピーアンドペースト、改変、アップデート」の繰り返しの歴史は、オープンソースソフトウェアのリポジトリにおけるコードの派生と進化の過程に酷似している。

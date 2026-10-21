@@ -1,26 +1,27 @@
 ---
-schema_version: '5.1'
+schema_version: "5.1"
 id: E_char_友人たち
 type: entity
-title: 友人たち
 subtype: character
 canonical_name: 友人たち
-aliases: []
-first_appearance: ch0226
-spoiler_after: ch0226
+title: "友人たち"
+first_appearance: ch5513
+spoiler_after: ch5513
 document_status: active
-created: '2026-10-10'
-updated: '2026-10-19'
+review_status: llm_verified
+created: "2026-09-30"
 ---
+
 # 友人たち
 
-（本文：人間が記述する部分。自動生成では変更されません。）
+少年の夢想を無謀だと諫めた存在である。彼らは隠花族の権利のために戦って死んだとされる。
 
-<!-- AUTO-GENERATED:speech -->
-## セリフ・発言
+<!-- AUTO:BEGIN -->
+**初出**: ch5513 ｜ **観測イベント**: 2 件（1 話に出現）
 
-- **unknown**: 友人たちは無謀だと諫めた。幼馴染の少女は『あちしらには立派な傘頭巾があるだろバカ』と言って彼を叱りつけた。
-- **unknown**: 友人たちは無謀だと諫めた。幼馴染の少女は『あちしらには立派な傘頭巾があるだろバカ』と言って彼を叱りつけた。
-- **unknown**: 友人たちは無謀だと諫めた。幼馴染の少女は『あちしらには立派な傘頭巾があるだろバカ』と言って彼を叱りつけた。
+## 代表引用
 
-<!-- /AUTO-GENERATED:speech -->
+> 生粋の隠花族、どこからどう見てもキノコ人（マイコニド）である彼のそんな夢想を友人たちは無謀だと諫めた。（ch5513）
+> 友人たちは隠花族の権利のために戦って死に、少年は生き残ってとある顕花族の従僕になる機会を得た。（ch5513）
+
+<!-- AUTO:END -->

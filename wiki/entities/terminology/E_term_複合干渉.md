@@ -1,0 +1,25 @@
+---
+schema_version: '5.1'
+id: E_term_複合干渉
+type: entity
+title: 複合干渉
+subtype: terminology
+canonical_name: 複合干渉
+aliases: []
+first_appearance: ch5256
+spoiler_after: ch5256
+document_status: active
+created: '2026-10-21'
+updated: '2026-10-21'
+---
+# 複合干渉
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ちびセスカの内心にまで侵入してくる超高位言語魔術と浄界の複合干渉によって、記憶の中のアキラの顔が歪み、曖昧になり、グレンデルヒのものに変わっていく。もはや、本当のアキラがどんな人物でどんな容姿だったのか思い出せない。
+- **unknown**: ちびセスカの内心にまで侵入してくる超高位言語魔術と浄界の複合干渉によって、記憶の中のアキラの顔が歪み、曖昧になり、グレンデルヒのものに変わっていく。もはや、本当のアキラがどんな人物でどんな容姿だったのか思い出せない。
+
+<!-- /AUTO-GENERATED:action -->

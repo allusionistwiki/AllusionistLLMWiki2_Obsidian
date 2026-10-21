@@ -1,9 +1,9 @@
 ---
 schema_version: "5.1"
 id: ME_game_design_philosophy
-title: 環境による導線設計
+title: 環境デザイン設計
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "game_design_philosophy"
 domain: "Contemporary Culture"
@@ -12,7 +12,7 @@ review_status: llm_verified
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
-# {game_design_philosophy}
+# game_design_philosophy
 
 本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 

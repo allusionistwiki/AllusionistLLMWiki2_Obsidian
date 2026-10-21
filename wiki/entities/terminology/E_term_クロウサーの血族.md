@@ -10,7 +10,7 @@ first_appearance: ch5574
 spoiler_after: ch5574
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # クロウサーの血族
 
@@ -21,5 +21,7 @@ updated: '2026-10-19'
 
 - **unknown**: 故郷を失ったクロウサーの血族には悲願があった。
 二度と同じ痛みを味わってはならない。
+- **unknown**: 故郷を失ったクロウサーの血族には悲願があった。
+- **unknown**: 故郷を失ったクロウサーの血族には悲願があった。
 
 <!-- /AUTO-GENERATED:speech -->

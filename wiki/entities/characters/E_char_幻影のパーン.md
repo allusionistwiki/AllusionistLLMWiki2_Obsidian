@@ -10,7 +10,7 @@ first_appearance: ch0255
 spoiler_after: ch0255
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 幻影のパーン
 
@@ -24,3 +24,11 @@ updated: '2026-10-19'
 - **unknown**: 止めようとするが、背後から現れた男に邪魔をされる。嫌らしい笑みを浮かべるパーンを、憎悪のまなざしで睨む。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 止めようとするが、背後から現れた男に邪魔をされる。嫌らしい笑みを浮かべるパーンを、憎悪のまなざしで睨む。
+- **unknown**: 止めようとするが、背後から現れた男に邪魔をされる。嫌らしい笑みを浮かべるパーンを、憎悪のまなざしで睨む。
+
+<!-- /AUTO-GENERATED:relationship -->

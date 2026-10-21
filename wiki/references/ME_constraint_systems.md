@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_constraint_systems
 title: 拘束システム
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "constraint_systems"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5575_analogous_to_E_p9_constraint_systems]] — チッセの拘束具は、暴走しうる狂気や本能を理性的な枠組みで強制制御する装置であり、彼女が示す不自然な笑顔はその圧迫された均衡の象徴である。
+- [[A_ch5575_analogous_to_E_p9_constraint_systems]] — チッセの拘束具は、ディパーシュ家が人間を含む万物を「自然の一部」として管理・飼育する特異な世界観（家畜としての人間）の象徴である。

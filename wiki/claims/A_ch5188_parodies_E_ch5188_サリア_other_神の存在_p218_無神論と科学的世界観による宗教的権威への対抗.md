@@ -5,7 +5,7 @@ title: 無神論宣言による権威否定の逆説
 
 type: analytical_claim
 created: "2026-10-19"
-subject: "[[E_ch5188_サリア_other_神の存在_p218]]"
+subject: "[[E_ch5188_サリア_says_無神論の宣告_p218]]"
 predicate: parodies
 object: "[[ME_無神論と科学的世界観による宗教的権威への対抗]]"
 epistemic_status: hypothesized

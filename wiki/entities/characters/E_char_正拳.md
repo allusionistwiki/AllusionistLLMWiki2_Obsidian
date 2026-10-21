@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 正拳
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 正拳がレメスの腹を打ち、その身体を一瞬だけ浮き上がらせた。
+- **unknown**: 正拳がレメスの腹を打ち、その身体を一瞬だけ浮き上がらせた。
 - **unknown**: 正拳がレメスの腹を打ち、その身体を一瞬だけ浮き上がらせた。
 
 <!-- /AUTO-GENERATED:action -->

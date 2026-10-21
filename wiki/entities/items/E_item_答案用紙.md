@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_答案用紙
 type: entity
 subtype: item
 canonical_name: 答案用紙
-title: "答案用紙"
+title: 答案用紙
 first_appearance: ch5577
 spoiler_after: ch5577
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 答案用紙
@@ -25,3 +26,13 @@ created: "2026-09-30"
 > クラウビューラが用意した答案用紙はいわば巨人の血肉と息吹によって生み出された試練の番人であり（ch5577）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 答案用紙がクラウビューラという記述から切り出されたテクストそのものである以上、四人の受験者は試験官と口頭で問答していたに等しい。
+- **unknown**: クラウビューラが用意した答案用紙はいわば巨人の血肉と息吹によって生み出された試練の番人であり
+- **unknown**: 答案用紙がクラウビューラという記述から切り出されたテクストそのものである以上、四人の受験者は試験官と口頭で問答していたに等しい。
+- **unknown**: クラウビューラが用意した答案用紙はいわば巨人の血肉と息吹によって生み出された試練の番人であり
+
+<!-- /AUTO-GENERATED:symbolic -->

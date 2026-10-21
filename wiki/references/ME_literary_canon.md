@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_literary_canon
+title: 文学的正典
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "literary_canon"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# literary_canon
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5390_alludes_to_E_p48_authority_literary_canon]] — 『見えないところで』権威が形成されるという描写は、文学作品や神話における「正典（カノン）」の成立過程、すなわち多数の言及と評価の蓄積によって権威が構造化される現象を指している。

@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_semantic_negation
+title: 意味論的否定
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "semantic_negation"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# semantic_negation
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5514_alludes_to_E_erica_debuff_semantic_negation]] — エリカが敵を「ただの岩」と定義する攻撃は、言語による存在の否定（意味論的無効化）という概念的な戦闘システムを示唆している。

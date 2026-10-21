@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_試験官
 type: entity
 subtype: character
 canonical_name: 試験官
-title: "試験官"
+title: 試験官
 first_appearance: ch5573
 spoiler_after: ch5573
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 試験官
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 「そこまで。答案を回収する。採点は既に終了した。結果を発表する」（ch5577）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「そこまで。答案を回収する。採点は既に終了した。結果を発表する」
+- **unknown**: 「そこまで。答案を回収する。採点は既に終了した。結果を発表する」
+
+<!-- /AUTO-GENERATED:speech -->

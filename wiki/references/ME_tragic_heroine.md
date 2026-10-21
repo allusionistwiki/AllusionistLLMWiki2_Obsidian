@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_tragic_heroine
+title: 悲劇のヒロイン
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "tragic_heroine"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# tragic_heroine
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5456_alludes_to_E_louteut_defeat_tragic_heroine]] — ルウテトの敗北と死は、単なる悪役の撃破ではなく、「完璧な敵を演じ切った」と称賛される悲劇の主人公（トラジック・ヒーロー）としての役割遂行として描かれている。

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_ルスクォミーズ
 type: entity
 subtype: terminology
 canonical_name: ルスクォミーズ
-title: "ルスクォミーズ"
+title: ルスクォミーズ
 first_appearance: ch5584
 spoiler_after: ch5584
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # ルスクォミーズ
@@ -25,3 +26,19 @@ created: "2026-09-30"
 > すべてのモロレクは母たるルスクォミーズによって『生みなおし』の儀式を受けることで大いなる家族の一部となる。（ch5584）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『下』派閥の筆頭として知られる有力魔女だが、その配下たるモロレクたちは強い同質性と血の絆で結ばれた家族（ファミリア）だったはず。
+- **unknown**: 『下』派閥の筆頭として知られる有力魔女だが、その配下たるモロレクたちは強い同質性と血の絆で結ばれた家族（ファミリア）だったはず。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: すべてのモロレクは母たるルスクォミーズによって『生みなおし』の儀式を受けることで大いなる家族の一部となる。
+- **unknown**: すべてのモロレクは母たるルスクォミーズによって『生みなおし』の儀式を受けることで大いなる家族の一部となる。
+
+<!-- /AUTO-GENERATED:action -->

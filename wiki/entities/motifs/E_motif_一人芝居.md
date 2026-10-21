@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 一人芝居
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: かくて再び一人芝居の幕が上がった。
+- **unknown**: かくて再び一人芝居の幕が上がった。
 - **unknown**: かくて再び一人芝居の幕が上がった。
 
 <!-- /AUTO-GENERATED:symbolic -->

@@ -30,8 +30,8 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0069_alludes_to_E_ch0069_ベル・ペリグランティア_says_メートリアン_p2570_maitreya|弥勒菩薩による衆生救済の暗喩]]
-- [[A_ch0069_analogous_to_E_ch0069_ベル・ペリグランティア_asks_万能細胞_p2571_genetic_surveillance|遺伝子監視による倫理的懸念]]
+- A_ch0069_alludes_to_E_ch0069_ベル・ペリグランティア_says_メートリアン_p2570_maitreya（弥勒菩薩による衆生救済の暗喩）
+- A_ch0069_analogous_to_E_ch0069_ベル・ペリグランティア_asks_万能細胞_p2571_genetic_surveillance（遺伝子監視による倫理的懸念）
 
 <!-- AUTO:END -->
 

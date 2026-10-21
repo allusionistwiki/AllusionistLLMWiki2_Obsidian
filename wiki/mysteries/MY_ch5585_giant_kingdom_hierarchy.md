@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5585_giant_kingdom_hierarchy
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5585
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5585
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -23,4 +23,4 @@ provenance:
 
 > 呪術の奥義たる浄界の先にある地平。その階梯に至った呪術師を、巨人と呼ぶ。（p150-p151）
 
-**審査（LLM 代替）**: 「巨人」階梯の定義と到達は、世界の力体系における新たな変数であり、既存秩序との衝突を示す伏線である。
+**審査（LLM 代替）**: 「巨人」という新階梯の定義とその到達は、既存の神々との関係性の変化を示唆する世界観上の重要な伏線である。

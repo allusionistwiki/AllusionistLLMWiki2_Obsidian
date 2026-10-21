@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_障害者に対する社会モデル
+title: 社会モデル差別
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "障害者に対する社会モデル"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# 障害者に対する社会モデル
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5559_analogous_to_E_ch5559_空飛ぶ箒_defines_リーナの欠落_p62_障害者に対する社会モデル]] — 「飛べるのが普通」な社会において、道具（箒）を使うことが「欠落」とされる構造は、社会モデルの視点から見た障害者差別や、技術依存に対するアイデンティティの葛藤を暗示している。

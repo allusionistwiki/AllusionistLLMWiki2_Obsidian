@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_signal_processing_filter
+title: 信号処理フィルタ
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "signal_processing_filter"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# signal_processing_filter
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5087_analogous_to_E_ch5087_コルセスカ_defines_失われたもの_p5_signal_processing_filter]] — 感情や人格の欠落を、入出力される情報を適切に濾過し有害なノイズを取り除く「フィルタ（機構）」として定義する技術的メタファー。

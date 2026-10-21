@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_existential_crisis
+title: 実存的不安
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "existential_crisis"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# existential_crisis
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5057_structurally_matches_E_p204-p236_existential_crisis]] — 勝利条件が曖昧で「自我の証明」を求め続けるトリシューラの状況は、確定的なゴールを持たない存在としての現代人の実存的不安と構造的に同型である。

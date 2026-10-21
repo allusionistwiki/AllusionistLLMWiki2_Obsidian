@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: A_ch5362_analogous_to_E_Lassef_Name_Change_Urchio_RPG_Character_Build_Class_Swap
+title: クラスチェンジの否定と仮面付け
+
+type: analytical_claim
+created: "2026-10-21"
+subject: "[[E_ch5362_メイファーラ_arrives_ハルベルトの部屋_p4]]"
+predicate: analogous_to
+object: "[[ME_RPG_Character_Build_Class_Swap]]"
+epistemic_status: hypothesized
+review_status: llm_verified
+document_status: draft
+spoiler_after: ch5362
+evidence_strength: strong
+provenance:
+  proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
+
+# ラーゼフが「ウルチオ」という名を借りて能力を使用する様子は、RPGにおけるキャラクターの名前や設定（ビルド）の再定義を想起させるメタ的な演出である。
+
+> 『ラーゼフ』じゃいまいちわからんな。いちおう生物の専門家だし――過去の偉人でチョコで有名な専門家なんていたかな（p205）
+
+**審査（LLM 代替）**: 「クラスチェンジ/ビルド変更」への直接的な引喩は原文にないため、ゲームメカニクスとの明示的なアナロジーとしては成立しにくい。名前借用による能力行使という行為そのものへの記述にとどめるべき。

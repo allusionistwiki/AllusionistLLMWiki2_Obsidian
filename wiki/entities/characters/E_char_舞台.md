@@ -29,6 +29,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0063_analogous_to_E_ch0063_ハルベルト_appears_舞台_p2363_バーチャルYouTuber・アバター|VTuber・アバターへの転生]]
+- A_ch0063_analogous_to_E_ch0063_ハルベルト_appears_舞台_p2363_バーチャルYouTuber・アバター（VTuber・アバターへの転生）
 
 <!-- AUTO:END -->

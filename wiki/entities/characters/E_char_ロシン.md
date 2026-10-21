@@ -28,7 +28,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0067_analogous_to_E_ch0067_ロシン_transforms_蝗の皇_p2522_変身ロボット|神働装甲の変身ロボット]]
+- A_ch0067_analogous_to_E_ch0067_ロシン_transforms_蝗の皇_p2522_変身ロボット（神働装甲の変身ロボット）
 
 <!-- AUTO:END -->
 

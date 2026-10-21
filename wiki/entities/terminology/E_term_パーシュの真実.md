@@ -10,7 +10,7 @@ first_appearance: ch5583
 spoiler_after: ch5583
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # パーシュの真実
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 馬鹿げている。パーシュの真実。それは、彼にとって逃れ難い宿業だった。
+- **unknown**: 馬鹿げている。パーシュの真実。それは、彼にとって逃れ難い宿業だった。
 - **unknown**: 馬鹿げている。パーシュの真実。それは、彼にとって逃れ難い宿業だった。
 
 <!-- /AUTO-GENERATED:symbolic -->

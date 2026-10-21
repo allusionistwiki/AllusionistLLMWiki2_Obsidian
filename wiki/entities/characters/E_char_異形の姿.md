@@ -26,7 +26,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0067_alludes_to_E_ch0067_エスフェイル_says_摸倣への言及_p2504_mimesis|ミメーシスの魂の営為]]
-- [[A_ch0067_structurally_matches_E_ch0067_エスフェイル_other_宣名のリスク_p2504_privacy_paradox|プライバシーの逆説]]
+- A_ch0067_alludes_to_E_ch0067_エスフェイル_says_摸倣への言及_p2504_mimesis（ミメーシスの魂の営為）
+- A_ch0067_structurally_matches_E_ch0067_エスフェイル_other_宣名のリスク_p2504_privacy_paradox（プライバシーの逆説）
 
 <!-- AUTO:END -->

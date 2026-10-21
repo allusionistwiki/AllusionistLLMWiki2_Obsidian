@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_現代のニート・引きこもり
+title: ニート・引きこもり
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "現代のニート・引きこもり"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# 現代のニート・引きこもり
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5559_analogous_to_E_ch5559_ミブリナ_other_逃避_p148_現代のニート・引きこもり]] — ミブリナの「労働拒否」「責任回避」「快適な生活への願望」は、現代社会におけるニートや引きこもり、FIRE（早期リタイア）志向などのライフスタイル選択と深く共鳴する現代的な心理描写である。

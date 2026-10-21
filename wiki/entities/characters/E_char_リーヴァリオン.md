@@ -10,7 +10,7 @@ spoiler_after: ch0240
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # リーヴァリオン
@@ -40,6 +40,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 更に驚くリーナのすぐ真横に、もうひとつの気配がそっと出現していた。
+- **unknown**: 更に驚くリーナのすぐ真横に、もうひとつの気配がそっと出現していた。
 - **unknown**: 更に驚くリーナのすぐ真横に、もうひとつの気配がそっと出現していた。
 
 <!-- /AUTO-GENERATED:visual -->

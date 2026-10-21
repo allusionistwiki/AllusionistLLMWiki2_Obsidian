@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_cosmic_horror_indivisibility
 title: コズミック・ホラー
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "cosmic_horror_indivisibility"
 domain: "Contemporary Culture"

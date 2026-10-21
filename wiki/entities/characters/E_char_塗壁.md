@@ -10,7 +10,7 @@ spoiler_after: ch0226
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # 塗壁
@@ -30,7 +30,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0226_structurally_matches_E_ch0226_塗壁_other_ベフォニスの器_p7470_Possession_Possession|魂の所有権と器の交換]]
+- A_ch0226_structurally_matches_E_ch0226_塗壁_other_ベフォニスの器_p7470_Possession_Possession（魂の所有権と器の交換）
 
 <!-- AUTO:END -->
 
@@ -53,6 +53,9 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 『塗壁』は逃走を選んだ。
+巨人の力を防御に振り分けてひたすらその場所から遠ざかる。
+- **unknown**: 『塗壁』は逃走を選んだ。
 - **unknown**: 主を守護すべく次々と岩の壁が迫り出し、岩の柱がその内部空間に厳かな雰囲気を作り出していく。
 - **unknown**: 鉄槌のように大地に叩きつけられた。呪文を掻き消す轟音と共に、世界を揺るがす破滅的な振動と落盤が発生。
 - **unknown**: 『塗壁』の奇襲は完全に成功していた。後手に回らざるを得なくなったエリカは戦闘経験の圧倒的な差を思い知りつつ、セオリー通りに対応するしかない。

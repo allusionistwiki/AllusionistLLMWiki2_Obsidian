@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_isekai_escapism
 title: 異世界逃避
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "isekai_escapism"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5575_inverts_E_p86_isekai_escapism]] — パーンによる「ここではないどこか」の否定は、理想郷や超越的な場所への逃避を拒否し、現に存在する場所と命こそが世界の全てであるという徹底した実存主義を提示している。
+- [[A_ch5575_inverts_E_p86_isekai_escapism]] — パーンの「ここではないどこか」の否定は、異世界転生ジャンルでありがちな「理想郷への逃避」を逆説的に批判し、現実（現界）への執着を主題化している。

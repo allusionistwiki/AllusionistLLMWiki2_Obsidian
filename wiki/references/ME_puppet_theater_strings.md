@@ -1,0 +1,22 @@
+---
+schema_version: "5.1"
+id: ME_puppet_theater_strings
+title: 人形劇の糸
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "puppet_theater_strings"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# puppet_theater_strings
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (2 件)
+
+- [[A_ch5260_alludes_to_E_p195_puppet_theater_strings]] — 「目に見えないことになっている糸」は、文楽やマリオネットなどの人形劇において観客が暗黙の裡に受け入れる「仕掛け」そのものである。
+- [[A_ch5260_alludes_to_E_p195_puppet_theater_strings]] — 「目に見えないことになっている糸」は、文楽やマリオネットなどの人形劇において観客が暗黙の裡に受け入れる「仕掛け」そのものである。

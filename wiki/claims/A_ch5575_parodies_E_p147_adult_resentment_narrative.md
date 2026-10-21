@@ -4,7 +4,7 @@ id: A_ch5575_parodies_E_p147_adult_resentment_narrative
 title: 成人側の傲慢による反抗の矮小化
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5575_リーナ_travels_パーン_p2]]"
 predicate: parodies
 object: "[[ME_adult_resentment_narrative]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5575
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 血によって育まれた者が、その恩恵と責任を投げ捨てて血を批判する。まさに思春期にかかる病気ではないか。（p147）
 
-**審査（LLM 代替）**: 既存秩序（血統・実績）を批判する者を「思春期の病気」と呼ぶクラウビューラの罵倒は、権力側の若者軽視やジェネレーションギャップの傲慢さをよく表している。
+**審査（LLM 代替）**: 「思春期にかかる病気」という罵倒は、既存秩序（血・実績）を持つ側が、反抗者を未熟な反逆として処理する典型的な権力構造の提示として妥当である。

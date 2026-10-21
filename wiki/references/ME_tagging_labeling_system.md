@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_tagging_labeling_system
 title: タグ付け制御
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "tagging_labeling_system"
 domain: "Contemporary Culture"

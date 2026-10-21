@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0053_analogous_to_E_ch0053_連帯_defines_攻略速度の決定_p2065_cartel_and_market_manipulation|カルテル・市場操作の構造一致]]
+- A_ch0053_analogous_to_E_ch0053_連帯_defines_攻略速度の決定_p2065_cartel_and_market_manipulation（カルテル・市場操作の構造一致）
 
 <!-- AUTO:END -->
 

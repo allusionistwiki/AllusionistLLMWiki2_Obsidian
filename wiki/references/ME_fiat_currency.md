@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_fiat_currency
 title: 法定通貨
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "fiat_currency"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0020_analogous_to_E_ch0020_トリシューラ_other_紙幣_p878_fiat_currency]] — 紙幣の価値を呪術で保証し、その価値が回路のように循環するという描写は、法定通貨（フィアット・マネー）の信用創造と経済循環のメカニズムを呪術的に可視化したものである。
+- [[A_ch5113_analogous_to_E_paper_money_fiat_currency]] — 第五階層の紙幣は、国家の信用によって担保される法定通貨（フィアットマネー）と同様に、人々の集合的信仰（ミーム）をリソースとして権力者に呪力を供給する仕組みとして描かれている。

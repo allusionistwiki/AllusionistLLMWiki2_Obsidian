@@ -1,11 +1,11 @@
 ---
 schema_version: "5.1"
 id: A_ch5164_parodies_E_p193_Modern_App_Safety_Features
-title: アプリ安全機能のパロディ
+title: 現代アプリ的セキュリティの模倣
 
 type: analytical_claim
 created: "2026-10-19"
-subject: "[[E_ch5164_アズーリア_activates_通信機能_p193]]"
+subject: "[[E_ch5164_アズーリア_activates_通報機能_p193]]"
 predicate: parodies
 object: "[[ME_Modern_App_Safety_Features]]"
 epistemic_status: hypothesized

@@ -10,7 +10,7 @@ spoiler_after: ch0092
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # 大人たち
@@ -59,3 +59,12 @@ updated: '2026-10-19'
 - **unknown**: 偉大な殿下。われわれの大いなる母。 未来の女王、あちらとこちらとをつなぐ、幼き姫よ。 どうか、われらさまよえる『しびと』を、お導き下さい。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 父は奔放な自由人で、博物城の大人たちから疎まれていた。
+曰く、子供の情操教育に悪い。
+- **unknown**: 父は奔放な自由人で、博物城の大人たちから疎まれていた。
+
+<!-- /AUTO-GENERATED:relationship -->

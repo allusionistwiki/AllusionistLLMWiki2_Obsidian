@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5586_margareta_entity
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5586
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5586
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 > それはまるで、奈落の底から響く老爺の声のようだった。（p131）
 > 意思を持った岩肌種（トロル）の『化身』だ。（p120）
 
-**審査（LLM 代替）**: マルガリータ内部の「化身」や「声」の正体不明な記述は、主要な謎要素として機能している。
+**審査（LLM 代替）**: 「意思を持った岩肌種の化身」という記述は、その正体（誰の化身か、何の目的か）が未解明であり、物語上の謎として提示されているため有効である。

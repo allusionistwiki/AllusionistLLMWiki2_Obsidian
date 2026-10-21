@@ -4,7 +4,7 @@ id: A_ch5569_analogous_to_E_ch5569_映像_other_セレブ男と女たち_p179_�
 title: 観客に消費される神話的恋リアショウ
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5569_映像_other_セレブ男と女たち_p179]]"
 predicate: analogous_to
 object: "[[ME_恋愛リアリティショー]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5569
 evidence_strength: explicit
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > それは数十人の女たちがひとりのセレブ男性を巡って旅をしながら熾烈な争いを繰り広げるという内容で人気を博している大人気恋愛リアリティショーだった。（p179）
 
-**審査（LLM 代替）**: 原文の「大人気恋愛リアリティショー」「テロップ」等の記述が現代メディアへの直接的なパロディ構造を示しており、作品のメタフィクショナル性質と整合する。
+**審査（LLM 代替）**: 原文の「大人気恋愛リアリティショー」という明示的な記述と、観客（リーナ）による消費という構図が作品内のメタフィクション構造（神話のメディア化）と完全に整合している。

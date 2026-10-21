@@ -10,7 +10,7 @@ first_appearance: ch0087
 spoiler_after: ch0087
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 副長たち
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 【変異の三手】の副長たちが攻撃の手を緩めてくれることはない。
+- **unknown**: 【変異の三手】の副長たちが攻撃の手を緩めてくれることはない。
 - **unknown**: 空の玉座を狙う者たちは総攻撃の準備を進めつつあった。
 - **unknown**: 空の玉座を狙う者たちは総攻撃の準備を進めつつあった。
 - **unknown**: 空の玉座を狙う者たちは総攻撃の準備を進めつつあった。

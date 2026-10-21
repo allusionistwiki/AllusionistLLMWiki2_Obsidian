@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5575_lina_jokai_failure
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5575
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5575
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 > リーナはまだ呪術の奥義を習得していなかった。（p70）
 > 当主になってからちょっとだけ練習してたけど、まだほとんど成功したことないよ～（p72）
 
-**審査（LLM 代替）**: リーナが奥義を習得していないという事実は、彼女の成長や試練克服の障壁となる明確な伏線（欠落）である。
+**審査（LLM 代替）**: リーナが浄界（世界創造の奥義）を習得していないという事実は、彼女の成長と物語の核心に関わる明確な伏線である。

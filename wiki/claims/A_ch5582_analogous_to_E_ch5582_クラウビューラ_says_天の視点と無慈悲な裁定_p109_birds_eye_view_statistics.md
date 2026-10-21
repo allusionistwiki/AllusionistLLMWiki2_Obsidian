@@ -4,7 +4,7 @@ id: A_ch5582_analogous_to_E_ch5582_クラウビューラ_says_天の視点と無
 title: 鳥瞰統計による無慈悲な数値裁き
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5582_クラウビューラ_says_天の視点と無慈悲な裁定_p109]]"
 predicate: analogous_to
 object: "[[ME_birds_eye_view_statistics]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5582
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 天より俯瞰すれば、裁定は無慈悲な数値によって下さねばならぬ（p109）
 
-**審査（LLM 代替）**: 「無慈悲な数値」という表現は、統計的・アルゴリズム的な管理による個人主観の排除という現代技術支配の比喩として妥当である。
+**審査（LLM 代替）**: 「無慈悲な数値」という表現は、統計データやアルゴリズムによる管理が個人の主観を凌駕する現代の技術支配（バードアイビュー）の比喩として妥当であり、作品内の権力構造を反映している。

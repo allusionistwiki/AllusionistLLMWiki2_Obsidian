@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: MY_ch5426_wall_explosion_target
+type: mystery
+created: "2026-10-21"
+mystery_status: candidate
+spoiler_after: ch5426
+review_status: llm_verified
+timeline:
+  introduced: ch5426
+provenance:
+  proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
+
+# wall_explosion_target
+
+呪文竜の制御ミス（と見せかけた狙い撃ち？）で壁の上の「三角耳の姫君」と「球体連結の異形」を巻き込んだ爆発。これらが誰なのか、またミヒトネッセが「偶然の流れ弾」と評した真意（彼女が意図的に仕掛けた可能性）。
+
+**回収示唆**: 三角耳の姫君（おそらくリールエルバ関連？）への攻撃、あるいは敵勢力の重要ターゲットへの隠れた打撃。ミヒトネッセの「演出家」としての冷徹な戦略が露見する瞬間。
+
+> そんな中、ミヒトネッセだけは爆発の直前、壁の上に三角耳の姫君と背後に付き従う球体連結の異形が現れていたことを確認していた。（p113）
+> 「偶然の流れ弾。戦場とは無慈悲なものだ」（p115）
+
+**審査（LLM 代替）**: 「偶然の流れ弾」というミヒトネッセの発言と、壁の上に現れた特異な存在（三角耳の姫君等）の描写は、彼女が意図的に仕掛けた可能性や対象の正体に関する伏線として有効である。

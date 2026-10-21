@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_Gacha_Pull
+title: ガチャ投擲・不確実性
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "Gacha_Pull"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# Gacha_Pull
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5149_analogous_to_E_p21_Gacha_Pull]] — ミルーニャの攻撃は「小瓶」を複数投げつけ、最高点で砕くという連続的な物理現象であり、弾幕ゲーム的な乱数生成というよりも、視覚的に派手で予測困難な攻撃パターン（チャオス的攻撃）を模倣している。

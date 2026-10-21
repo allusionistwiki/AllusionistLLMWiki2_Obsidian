@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_Norse_Mythology,Odin
+title: オーディン神話
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "Norse_Mythology,Odin"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# Norse_Mythology,Odin
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5096_alludes_to_E_p60_Norse_Mythology,Odin]] — キュトスの引き裂かれと槍神の跛行は、北欧神話におけるオーディンがミミル泉のために片眼を失い、世界を跛行する逸話を引用している。

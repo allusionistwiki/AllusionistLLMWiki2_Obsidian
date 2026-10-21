@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0052_analogous_to_E_ch0052_ビークレット_attacks_過去_p2027_entropy|エントロピー増大の不可逆性]]
+- A_ch0052_analogous_to_E_ch0052_ビークレット_attacks_過去_p2027_entropy（エントロピー増大の不可逆性）
 
 <!-- AUTO:END -->
 

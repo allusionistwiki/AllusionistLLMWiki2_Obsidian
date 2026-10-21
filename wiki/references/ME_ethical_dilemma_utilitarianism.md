@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_ethical_dilemma_utilitarianism
+title: 功利主義的倫理葛藤
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "ethical_dilemma_utilitarianism"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# ethical_dilemma_utilitarianism
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5435_inverts_E_ch5435_第五階層の人々_other_安堵_p2_ethical_dilemma_utilitarianism]] — 「子供たちの笑顔のためならあらゆる死は正当化される」という論理は、功利主義的な犠牲（虐殺）を救済の手段とする倫理的パラドックスを提示している。

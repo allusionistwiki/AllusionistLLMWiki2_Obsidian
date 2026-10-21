@@ -1,0 +1,27 @@
+---
+schema_version: '5.1'
+id: E_char_天使マロゾロンド
+type: entity
+title: 天使マロゾロンド
+subtype: character
+canonical_name: 天使マロゾロンド
+aliases: []
+first_appearance: ch5167
+spoiler_after: ch5167
+document_status: active
+created: '2026-10-21'
+updated: '2026-10-21'
+---
+# 天使マロゾロンド
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「ああなるほど。そんな話もありましたな。そのせいで天使ペレケテンヌルは天使マロゾロンドに必ず道を譲るようになったとか」
+「そもそも序列からして二位と五位ですからな」
+「ははは、うっかり黒衣の天使の前に出てきてしまったというわけですか。天上の衝突事故とあれば、もうこれは天災のようなものだ。甘んじて受け入れる他あるまい」
+- **unknown**: 「ああなるほど。そんな話もありましたな。そのせいで天使ペレケテンヌルは天使マロゾロンドに必ず道を譲るようになったとか」
+
+<!-- /AUTO-GENERATED:speech -->

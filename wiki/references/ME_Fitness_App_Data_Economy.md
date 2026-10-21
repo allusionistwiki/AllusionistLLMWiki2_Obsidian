@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_Fitness_App_Data_Economy
+title: フィットネスアプリ
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "Fitness_App_Data_Economy"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# Fitness_App_Data_Economy
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5232_analogous_to_E_p107-p113_Fitness_App_Data_Economy]] — インドアユーザー（シミュレーションのみ）がデータを提供し、アウトドアユーザー（実践者）が実験台となるというサイバーカラテの生態系は、現代のフィットネスアプリにおけるユーザー生成データとAI学習モデルの関係性を反映している。

@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_online_gaming_forums
+title: ネット掲示板論争
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "online_gaming_forums"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# online_gaming_forums
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5343_parodies_E_ch5343_サイバーカラテ道場_functions_as_情報交換の場_p71_online_gaming_forums]] — サイバーカラテ道場の対六王トピックでの議論は、現代のMMORPGや格闘ゲームの攻略掲示板におけるユーザー間の戦略論争を模倣している。

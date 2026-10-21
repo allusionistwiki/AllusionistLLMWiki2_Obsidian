@@ -10,7 +10,7 @@ first_appearance: ch5189
 spoiler_after: ch5189
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 兎
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: おやめなさい、と兎は言った。
+- **unknown**: おやめなさい、と兎は言った。
 - **unknown**: おやめなさい、と兎は言った。
 
 <!-- /AUTO-GENERATED:speech -->

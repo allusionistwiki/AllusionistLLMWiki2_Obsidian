@@ -26,7 +26,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0055_inverts_E_ch0055_ジル_other_科学的思考_p2134_post_normal_science|ポスト正常科学の逆転]]
-- [[A_ch0055_structurally_matches_E_ch0055_ジル_other_夜の民_p2133_bricolage_vs_engineering|ブリコラージュとエンジニアリングの対比]]
+- A_ch0055_inverts_E_ch0055_ジル_other_科学的思考_p2134_post_normal_science（ポスト正常科学の逆転）
+- A_ch0055_structurally_matches_E_ch0055_ジル_other_夜の民_p2133_bricolage_vs_engineering（ブリコラージュとエンジニアリングの対比）
 
 <!-- AUTO:END -->

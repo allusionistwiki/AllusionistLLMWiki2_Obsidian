@@ -1,0 +1,76 @@
+---
+schema_version: '5.1'
+id: O_ch5394_summary
+type: episode
+title: summary
+chapter: ch5394
+spoiler_after: ch5394
+document_status: active
+created: '2026-10-21'
+updated: '2026-10-21'
+characters:
+- '[[E_char_イツノ]]'
+- '[[E_char_ベルグ]]'
+- '[[E_char_オルヴァ]]'
+- '[[E_char_ガルラ]]'
+- '[[E_char_アルト・イヴニル]]'
+- '[[E_char_カーイン]]'
+- '[[E_char_アキラ]]'
+- '[[E_char_ラリスキャニア]]'
+- '[[E_char_再生者たち]]'
+- '[[E_char_シナモリ・アキラ]]'
+- '[[E_char_リールエルバ]]'
+- '[[E_char_人形たち]]'
+terminology:
+- '[[E_term_トリシューラ]]'
+items:
+- '[[E_item_監視使い魔]]'
+phrases:
+- '[[E_phrase_詩]]'
+---
+# ch5394
+
+## 概要
+
+（ここにエピソードの要約を記述。人間が書くか、LLMで生成）
+
+## 主要な出来事
+
+- （出来事1）
+- （出来事2）
+
+<!-- AUTO-GENERATED:links -->
+## このエピソードの要素
+
+### 登場人物
+
+- [[E_char_イツノ]]
+- [[E_char_ベルグ]]
+- [[E_char_オルヴァ]]
+- [[E_char_ガルラ]]
+- [[E_char_アルト・イヴニル]]
+- [[E_char_カーイン]]
+- [[E_char_アキラ]]
+- [[E_char_ラリスキャニア]]
+- [[E_char_再生者たち]]
+- [[E_char_シナモリ・アキラ]]
+- [[E_char_リールエルバ]]
+- [[E_char_人形たち]]
+
+### 用語
+
+- [[E_term_トリシューラ]]
+
+### 物品
+
+- [[E_item_監視使い魔]]
+
+### キーフレーズ
+
+- [[E_phrase_詩]]
+
+<!-- /AUTO-GENERATED:links -->
+
+## メモ
+
+（このエピソードに関する自由なメモ）

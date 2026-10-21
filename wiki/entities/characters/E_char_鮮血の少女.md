@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_鮮血の少女
+type: entity
+subtype: character
+canonical_name: 鮮血の少女
+title: "鮮血の少女"
+first_appearance: ch5404
+spoiler_after: ch5404
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 鮮血の少女
+
+合格を認められ、開いた出口から一足先に立ち去る存在である。迫る影に対し、「眠れ」と血のような赤い針で一刺しして、暗闇を微睡ませ消滅させる能力を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5404 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> ぱかり、と建物の一部が開いて出口を示す。ただひとり、合格を認められた鮮血の少女は一足先にその場を立ち去っていく。（ch5404）
+> 「眠れ」ちくり。鮮血の少女は、血のような赤い針で影を一刺し。それだけで暗闇は微睡むように力を失い（ch5404）
+
+<!-- AUTO:END -->

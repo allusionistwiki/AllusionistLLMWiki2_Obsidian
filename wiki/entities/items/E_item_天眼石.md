@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0034_analogous_to_E_ch0034_メイファーラ_has_property_天眼石_p1390_ARグラス／スマートグラス|ARグラス的視覚干渉]]
+- A_ch0034_analogous_to_E_ch0034_メイファーラ_has_property_天眼石_p1390_ARグラス／スマートグラス（ARグラス的視覚干渉）
 
 <!-- AUTO:END -->

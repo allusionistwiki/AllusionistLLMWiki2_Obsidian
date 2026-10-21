@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_ガチャの排出履歴／シナリオ分岐
+title: 複数ルート同時進行
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "ガチャの排出履歴／シナリオ分岐"
+domain: "Contemporary Consumer Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# ガチャの排出履歴／シナリオ分岐
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5335_analogous_to_E_クレイの名前の変動_ガチャの排出履歴／シナリオ分岐]] — 六王による父性主張の競合によりクレイの姓名が流動的に書き換わる様子は、個体の存在定義（所属）が他者の欲望によって恣意的に決定される暴力性を示している。

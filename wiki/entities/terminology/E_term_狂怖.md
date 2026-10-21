@@ -10,7 +10,7 @@ spoiler_after: ch0144
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # 狂怖
@@ -38,3 +38,11 @@ updated: '2026-10-19'
 - **unknown**: 大地から湧き出しているのは、恐怖そのものだ。 無辜の犠牲が生まれる度、地の底から湧き出る異形の怪物。 虐殺の種から咲いた異形の花。一つとして同じ姿は無く、この上無いおぞましさからそれらが同種の邪悪であることは明白。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 狂怖という名は彼の前では安っぽい言葉に過ぎず、あれほど恐ろしげだった化け物たちは珍しいだけの動物に堕する。
+- **unknown**: 狂怖という名は彼の前では安っぽい言葉に過ぎず、あれほど恐ろしげだった化け物たちは珍しいだけの動物に堕する。
+
+<!-- /AUTO-GENERATED:symbolic -->

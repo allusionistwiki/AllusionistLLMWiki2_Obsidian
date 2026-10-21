@@ -1,11 +1,11 @@
 ---
 schema_version: "5.1"
 id: A_ch5164_foreshadows_E_p163_Time_Manipulation_Narrative_Trope
-title: 時間操作の定石への伏線
+title: 時間操作定石への因果歪め伏線
 
 type: analytical_claim
 created: "2026-10-19"
-subject: "[[E_ch5164_アルスタ_confesses_失われた最愛の人_p163]]"
+subject: "[[E_ch5164_アルスタ_confesses_手放した大切な人_p163]]"
 predicate: foreshadows
 object: "[[ME_Time_Manipulation_Narrative_Trope]]"
 epistemic_status: hypothesized

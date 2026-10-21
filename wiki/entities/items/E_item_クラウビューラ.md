@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_クラウビューラ
 type: entity
 subtype: item
 canonical_name: クラウビューラ
-title: "クラウビューラ"
+title: クラウビューラ
 first_appearance: ch5576
 spoiler_after: ch5576
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # クラウビューラ
@@ -32,3 +33,15 @@ created: "2026-09-30"
 - [[A_ch5582_analogous_to_E_ch5582_クラウビューラ_uses_液体金属縮退した水素_p131136_nuclear_fusion_energy|核融合エネルギーとしての縮退水素]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: まずい、チッセ！　奪わせるな！
+- **unknown**: よくそこまで調べたものだ。確かに鈴国側の理屈はそれで正しい
+- **unknown**: 確信があるようだな。つまりロードデンドロン。持っているのか？　亜大陸での回収に失敗して以来、行方が分からなくなっていた『レルプレアの遺産』を
+- **unknown**: まずい、チッセ！　奪わせるな！
+- **unknown**: よくそこまで調べたものだ。確かに鈴国側の理屈はそれで正しい
+- **unknown**: 確信があるようだな。つまりロードデンドロン。持っているのか？　亜大陸での回収に失敗して以来、行方が分からなくなっていた『レルプレアの遺産』を
+
+<!-- /AUTO-GENERATED:speech -->

@@ -28,7 +28,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0069_analogous_to_E_ch0069_タマちゃん先生_says_作詞のコツ_p2568_nonsense_advice|形式主義による創造の本質戯画]]
+- A_ch0069_analogous_to_E_ch0069_タマちゃん先生_says_作詞のコツ_p2568_nonsense_advice（形式主義による創造の本質戯画）
 
 <!-- AUTO:END -->
 

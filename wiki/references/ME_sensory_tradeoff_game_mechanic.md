@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_sensory_tradeoff_game_mechanic
+title: 感官トレードオフ
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "sensory_tradeoff_game_mechanic"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# sensory_tradeoff_game_mechanic
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5515_analogous_to_E_ch5515_クレイ_defines_第六感霊感_p76_sensory_tradeoff_game_mechanic]] — 視覚を失う代償として超自然的な知覚を得るという能力設定は、ゲームにおけるステータス振り分けやトレードオフメカニクスの文学的表現である。

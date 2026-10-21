@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_SNS上のカップル・公共の愛
 title: SNSカップル消費
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: internet_culture
 canonical_name: "SNS上のカップル・公共の愛"
 domain: "Internet Culture"

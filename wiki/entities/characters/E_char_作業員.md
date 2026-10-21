@@ -10,7 +10,7 @@ first_appearance: ch5230
 spoiler_after: ch5230
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 作業員
 
@@ -22,5 +22,7 @@ updated: '2026-10-19'
 - **unknown**: 「言理の妖精語りて曰く」
 と呟くと建材は元通り――いや、一部がお菓子のままだ。
 子供の独創性には敵わないと言う事なのか、壮年の作業員は近くにいた若者を呼んでもう一度呪文を唱えて建材を元に戻してもらう。
+- **unknown**: 「言理の妖精語りて曰く」
+- **unknown**: 「言理の妖精語りて曰く」
 
 <!-- /AUTO-GENERATED:action -->

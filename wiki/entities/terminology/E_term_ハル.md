@@ -26,7 +26,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0029_analogous_to_E_ch0029_ハル_reveals_襲撃者の正体_p1259_スパイウェア|アバター情報窃取のスパイウェア構造]]
-- [[A_ch0029_structurally_matches_E_ch0029_ハル_defines_青_p1262_構造主義|色連関による構造主義的画定]]
+- A_ch0029_analogous_to_E_ch0029_ハル_reveals_襲撃者の正体_p1259_スパイウェア（アバター情報窃取のスパイウェア構造）
+- A_ch0029_structurally_matches_E_ch0029_ハル_defines_青_p1262_構造主義（色連関による構造主義的画定）
 
 <!-- AUTO:END -->

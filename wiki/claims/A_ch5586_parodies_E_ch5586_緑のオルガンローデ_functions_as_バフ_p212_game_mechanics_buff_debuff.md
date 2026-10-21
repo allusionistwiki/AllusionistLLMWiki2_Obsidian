@@ -4,7 +4,7 @@ id: A_ch5586_parodies_E_ch5586_緑のオルガンローデ_functions_as_バフ_p
 title: ゲーム的バフ・デバフの呪文化
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5586_緑のオルガンローデ_functions_as_バフ_p212]]"
 predicate: parodies
 object: "[[ME_game_mechanics_buff_debuff]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5586
 evidence_strength: explicit
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 緑の呪文竜の正体とは、植物に対する強化支援術（バフ）の塊だったのである。（p212）
 
-**審査（LLM 代替）**: 原文で「バフ」というゲーム用語が直接使用されており、戦闘メカニクスへの言及が明示されている。
+**審査（LLM 代替）**: 原文の「植物に対する強化支援術（バフ）の塊」という記述は、ゲーム用語を直接的な比喩として使用しており、メタフィクショナルな構造を示す明確な根拠がある。

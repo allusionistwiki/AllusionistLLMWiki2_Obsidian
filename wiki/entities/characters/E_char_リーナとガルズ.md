@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # リーナとガルズ
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: だがリーナとガルズが示した視点は、恋人たちに新たな景色を見せていた。
+- **unknown**: だがリーナとガルズが示した視点は、恋人たちに新たな景色を見せていた。
 - **unknown**: だがリーナとガルズが示した視点は、恋人たちに新たな景色を見せていた。
 
 <!-- /AUTO-GENERATED:action -->

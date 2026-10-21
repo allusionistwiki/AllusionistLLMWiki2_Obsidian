@@ -28,6 +28,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0220_analogous_to_E_ch0220_ちびニア_appears_立体幻像_p7313_smartphone_notification_system|スマホ通知機能の模倣]]
+- A_ch0220_analogous_to_E_ch0220_ちびニア_appears_立体幻像_p7313_smartphone_notification_system（スマホ通知機能の模倣）
 
 <!-- AUTO:END -->

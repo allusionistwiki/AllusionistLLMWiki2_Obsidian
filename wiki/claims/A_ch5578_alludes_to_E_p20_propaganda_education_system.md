@@ -4,7 +4,7 @@ id: A_ch5578_alludes_to_E_p20_propaganda_education_system
 title: プロパガンダ教育による思考支配
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5578_教育_defines_正統な知識の支配_p20]]"
 predicate: alludes_to
 object: "[[ME_propaganda_education_system]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5578
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 教育はその遥か手前から思考の基礎を改竄する『正統な知識の支配』だ。（p20）
 
-**審査（LLM 代替）**: 「思考の基礎を改竄する正統な知識の支配」という定義は、プロパガンダや教育制度を通じたイデオロギー的強制（ナショナリズムの刷り込み）の機能と直結している。
+**審査（LLM 代替）**: 「正統な知識の支配」としての教育定義は、現実において国家が教科書検定等を通じて国民の思考枠組み（ナラティブ）を規定するメカニズムと構造的に同一であり、適切なアナロジーである。

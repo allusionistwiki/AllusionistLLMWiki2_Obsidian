@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_modern_messaging_apps
 title: SNS通知妨害
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "modern_messaging_apps"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5573_alludes_to_E_p38_modern_messaging_apps]] — 異世界での通信（心話）が、ゲーム内のUI/チャット機能のように戦闘中の情報提供や状況共有を行うメタフィクション的なインターフェースとして描かれている。
+- [[A_ch5573_alludes_to_E_p38_modern_messaging_apps]] — 現代の通信ツールを模した「心話」による干渉は、物語内における外部からの介入（メタ的なノイズ）を示唆している。

@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_infinite_loop_bug
+title: 無限ループの矛盾
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "infinite_loop_bug"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# infinite_loop_bug
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5116_parodies_E_p117_infinite_loop_bug]] — 「自殺の黒槍」による無限ループは、参照とコピーのプロセスにおける論理矛盾（AがA'と同一になることで正常終了しない）を、プログラミングの無限ループバグとして描いている。

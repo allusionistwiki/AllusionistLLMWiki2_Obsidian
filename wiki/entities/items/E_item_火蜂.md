@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0066_analogous_to_E_ch0066_火蜂_functions_as_暗殺兵器_p2458_ドローン攻撃|ドローン攻撃の自動追尾]]
+- A_ch0066_analogous_to_E_ch0066_火蜂_functions_as_暗殺兵器_p2458_ドローン攻撃（ドローン攻撃の自動追尾）
 
 <!-- AUTO:END -->
 

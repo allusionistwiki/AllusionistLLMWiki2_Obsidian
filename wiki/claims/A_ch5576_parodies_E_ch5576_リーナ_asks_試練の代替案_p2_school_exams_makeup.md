@@ -4,7 +4,7 @@ id: A_ch5576_parodies_E_ch5576_リーナ_asks_試練の代替案_p2_school_exams
 title: 追試・補習制度への儀礼的置換
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5576_リーナ_asks_試練の代替案_p2]]"
 predicate: parodies
 object: "[[ME_school_exams_makeup]]"
@@ -15,13 +15,13 @@ spoiler_after: ch5576
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# リーナが異世界の儀礼的試練を現代的な学校制度（補習・追試）の用語で比喩的に表現し、異世界特有の厳粛さを日常語彙で再解釈している。
+# キャラクターが異世界の試練を現代の学校制度用語で比喩的に表現しており、ジャンルの自覚的パロディとして機能している。
 
 > 「私、浄界はできません！　なので、その、補習！　ってか追試？　みたいな、別の形で試練を受けさせてもらえたら助かるな～って。」（p8）
 
-**審査（LLM 代替）**: 原文は単なるキャラクターの口語的な比喩（「〜みたいな」）であり、社会制度そのものの風刺や構造的なパロディとして読み取る根拠が弱い。
+**審査（LLM 代替）**: 原文の「補習」「追試」は現代的な比喩（メタフィクション的ユーモア）であり、異世界儀礼が現実制度に「置き換えられている」という構造的変換を主張するのは過剰解釈。

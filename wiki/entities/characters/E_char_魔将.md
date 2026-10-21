@@ -28,11 +28,11 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_count|敵数カウントとしての影数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_counting|敵数カウントとしての影数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_tracking|敵追跡としての影数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_situation_analysis|状況分析としての敵数判断]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_threat_assessment|脅威評価としての敵数判断]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_threat_evaluation|脅威評価としての敵数判断]]
+- A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_count（敵数カウントとしての影数え）
+- A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_counting（敵数カウントとしての影数え）
+- A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_tracking（敵追跡としての影数え）
+- A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_situation_analysis（状況分析としての敵数判断）
+- A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_threat_assessment（脅威評価としての敵数判断）
+- A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_threat_evaluation（脅威評価としての敵数判断）
 
 <!-- AUTO:END -->

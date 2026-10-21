@@ -30,7 +30,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0073_analogous_to_E_ch0073_マリー_uses_思考の根茎_p2747_neural_network|神経ネットワーク]]
+- A_ch0073_analogous_to_E_ch0073_マリー_uses_思考の根茎_p2747_neural_network（神経ネットワーク）
 
 <!-- AUTO:END -->
 

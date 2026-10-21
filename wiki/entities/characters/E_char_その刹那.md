@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # その刹那
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: その刹那が、完全に融け合った理想郷を真っ二つに引き裂いた。
+- **unknown**: その刹那が、完全に融け合った理想郷を真っ二つに引き裂いた。
 - **unknown**: その刹那が、完全に融け合った理想郷を真っ二つに引き裂いた。
 
 <!-- /AUTO-GENERATED:action -->

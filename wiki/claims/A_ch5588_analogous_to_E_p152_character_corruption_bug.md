@@ -1,7 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch5588_analogous_to_E_p152_character_corruption_bug
-title: ポリゴン崩壊グリッチの象徴
+title: キャラ破損バグのグリッチ現象
 
 type: analytical_claim
 created: "2026-10-19"

@@ -10,7 +10,7 @@ first_appearance: ch5230
 spoiler_after: ch5230
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 食葬を主張する一派
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: 『食葬』という独自文化を有することを主張するその一派は、どうしてかマロゾロンドに深い崇敬や信仰心を向けているらしい。
+- **unknown**: 『食葬』という独自文化を有することを主張するその一派は、どうしてかマロゾロンドに深い崇敬や信仰心を向けているらしい。
 - **unknown**: 『食葬』という独自文化を有することを主張するその一派は、どうしてかマロゾロンドに深い崇敬や信仰心を向けているらしい。
 
 <!-- /AUTO-GENERATED:relationship -->

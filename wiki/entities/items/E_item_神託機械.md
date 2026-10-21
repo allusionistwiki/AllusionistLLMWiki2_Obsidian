@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0053_analogous_to_E_ch0053_神託機械_is_made_of_歴代の当主の眼球_p2067_legacy_system_and_survivor_bias|レガシーシステムと生存者バイアス]]
+- A_ch0053_analogous_to_E_ch0053_神託機械_is_made_of_歴代の当主の眼球_p2067_legacy_system_and_survivor_bias（レガシーシステムと生存者バイアス）
 
 <!-- AUTO:END -->
 

@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_augmented_reality_glasses
+title: ARグラスによる仮想体験
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "augmented_reality_glasses"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# augmented_reality_glasses
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5438_parodies_E_ch5438_コズエ_observes_見知らぬ幻像_p2_augmented_reality_glasses]] — コズエにだけ見える幻像は、ARグラスやスマホのカメラ越しにしか見えない仮想オブジェクト（ポケモンGO等）の体験を想起させる。

@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: A_ch5317_alludes_to_E_301_Pro_Wrestling_Masked_Wrestler
+title: プロレスマスクマンの台詞引用
+
+type: analytical_claim
+created: "2026-10-21"
+subject: "[[E_ch5317_ゾーイ_transforms_大機巧力士ゴッツアンデルス_p109]]"
+predicate: alludes_to
+object: "[[ME_Pro_Wrestling_Masked_Wrestler]]"
+epistemic_status: hypothesized
+review_status: llm_verified
+document_status: draft
+spoiler_after: ch5317
+evidence_strength: explicit
+provenance:
+  proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
+
+# ゾーイの敗北時の台詞「千の顔（マスク）を持つ英雄（ベビーフェイス）」は、プロレスにおける覆面レスラー（マスクマン）やヒール/フェースの転換に関する用語を引用している。
+
+> 「千の顔（マスク）を持つ英雄（ベビーフェイス）――なら、私が負けるのは望まれた台本（ブック）だったってことか」（p301）
+
+**審査（LLM 代替）**: 「ベビーフェイス」「ブック（台本）」などの用語はプロレスのメタファーとして機能しており、敗北を物語構造上の仕掛けと捉える引喩として妥当。

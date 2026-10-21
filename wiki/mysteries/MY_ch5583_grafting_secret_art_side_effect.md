@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5583_grafting_secret_art_side_effect
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5583
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5583
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -23,4 +23,4 @@ provenance:
 
 > 奉竜山や谷国での修練は実を結ばず、それどころかスーリウムが施した接ぎ木の秘術の影響によってロードデンドロンに深刻な悪影響と心身の齟齬をもたらした。（p176）
 
-**審査（LLM 代替）**: 「接ぎ木」による副作用が具体的に記述されておらず、主人公の能力低下と精神不安定のメカニズムが未解明のまま提示されており、伏線として妥当である。
+**審査（LLM 代替）**: スーリウムの秘術による副作用（接ぎ木）の詳細なメカニズムとリスクは言及されているが具体化されておらず、伏線としてのミステリー要素を持つ。

@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_transformation_sequence
+title: 変身シーケンス
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "transformation_sequence"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# transformation_sequence
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5216_structurally_matches_E_ch5216_箒_transforms_巨大な白いカラス_p230236_transformation_sequence]] — 箒から巨大な白いカラスへの形態変化は、単なる変形兵器の記述を超え、乗り物が自律的な生物へと変貌するファンタジー的な驚異を描いている。

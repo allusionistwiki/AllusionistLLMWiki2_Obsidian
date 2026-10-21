@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_biological_diversity_and_evolution
 title: 生物多様性進化
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "biological_diversity_and_evolution"
 domain: "Contemporary Culture"

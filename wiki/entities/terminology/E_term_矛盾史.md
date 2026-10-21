@@ -10,7 +10,7 @@ first_appearance: ch5589
 spoiler_after: ch5589
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 矛盾史
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: チッセに突き立つ無数の矛盾史は、何度も牙を突き立てる獣の貪欲な衝動。
+- **unknown**: チッセに突き立つ無数の矛盾史は、何度も牙を突き立てる獣の貪欲な衝動。
 - **unknown**: チッセに突き立つ無数の矛盾史は、何度も牙を突き立てる獣の貪欲な衝動。
 
 <!-- /AUTO-GENERATED:symbolic -->

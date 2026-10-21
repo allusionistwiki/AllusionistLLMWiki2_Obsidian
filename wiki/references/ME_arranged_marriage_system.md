@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_arranged_marriage_system
 title: 政略結婚制度
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "arranged_marriage_system"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5570_structurally_matches_E_p209_arranged_marriage_system]] — 「結婚」や「血の継承」を「言葉でしかない」と切り捨てる構造は、家系維持のための制度が個人の感情や実態を無視する管理システムであることを示唆する。
+- [[A_ch5570_structurally_matches_E_p209_arranged_marriage_system]] — 「結婚」「血の継承」を「言葉でしかない」と切り捨て、「家という重みとの対話」を重視する構造は、制度的な家系維持の論理と個人の感情・実存の間に生じる緊張関係を浮き彫りにしている。

@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_Social_Media_Polarization_and_Hate_Speech
+title: ヘイト増幅・偏見
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "Social_Media_Polarization_and_Hate_Speech"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# Social_Media_Polarization_and_Hate_Speech
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5464_analogous_to_E_p182_Social_Media_Polarization_and_Hate_Speech]] — タマルが「石炭どもの犯罪まとめサイト」を見てイライラしたという描写は、現代のSNSにおける偏見の増幅やヘイトスピーチによる精神的負荷を指している。

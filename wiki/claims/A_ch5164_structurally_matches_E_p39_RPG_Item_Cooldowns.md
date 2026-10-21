@@ -1,11 +1,11 @@
 ---
 schema_version: "5.1"
 id: A_ch5164_structurally_matches_E_p39_RPG_Item_Cooldowns
-title: アイテムクールダウンの構造対応
+title: ゲーム的クールダウンの環表現
 
 type: analytical_claim
 created: "2026-10-19"
-subject: "[[E_ch5164_アズーリア_has_property_左手の金鎖_p39]]"
+subject: "[[E_ch5164_アズーリア_thinks_左手の金鎖_p39]]"
 predicate: structurally_matches
 object: "[[ME_RPG_Item_Cooldowns]]"
 epistemic_status: hypothesized

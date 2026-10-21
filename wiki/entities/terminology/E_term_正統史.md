@@ -10,7 +10,7 @@ first_appearance: ch5589
 spoiler_after: ch5589
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 正統史
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 『この正統史は途絶した。新たな宇宙の中で、幾千幾万の矛盾史が生まれる』
+- **unknown**: 『この正統史は途絶した。新たな宇宙の中で、幾千幾万の矛盾史が生まれる』
 - **unknown**: 『この正統史は途絶した。新たな宇宙の中で、幾千幾万の矛盾史が生まれる』
 
 <!-- /AUTO-GENERATED:action -->

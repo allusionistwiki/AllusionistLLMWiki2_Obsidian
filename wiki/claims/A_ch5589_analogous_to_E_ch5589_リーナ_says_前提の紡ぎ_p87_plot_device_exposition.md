@@ -4,7 +4,7 @@ id: A_ch5589_analogous_to_E_ch5589_リーナ_says_前提の紡ぎ_p87_plot_devic
 title: 導入・説明技法の戦闘化
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5589_リーナ_says_前提の紡ぎ_p87]]"
 predicate: analogous_to
 object: "[[ME_plot_device_exposition]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5589
 evidence_strength: moderate
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 「読者の誰もが知ってる前提は、今から紡ぐ。あるいは、もう紡いだ」（p87）
 
-**審査（LLM 代替）**: 「前提は今から紡ぐ」という台詞は、戦闘行動の中で即座に背景知識（Exposition）を構築するメタ技法のゲーム的描写として機能している。
+**審査（LLM 代替）**: 「前提は今から紡ぐ」という台詞は、 exposition（説明）を戦闘行動・ゲーム的メカニズムとして描写する技法の具体例である。

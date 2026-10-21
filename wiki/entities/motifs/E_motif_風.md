@@ -10,7 +10,7 @@ first_appearance: ch0262
 spoiler_after: ch0262
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 風
 
@@ -28,6 +28,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 勢いを増した風がシナモリアキラの拳に力を与える。
+- **unknown**: 勢いを増した風がシナモリアキラの拳に力を与える。
 - **unknown**: 勢いを増した風がシナモリアキラの拳に力を与える。
 
 <!-- /AUTO-GENERATED:symbolic -->

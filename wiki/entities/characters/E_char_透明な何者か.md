@@ -10,7 +10,7 @@ first_appearance: ch5588
 spoiler_after: ch5588
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 透明な何者か
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: リーナはそれだけではなく、透明な何者かが幽かな気配と共に侵入し、パーンに近づこうとしているのに気づいた。
+- **unknown**: リーナはそれだけではなく、透明な何者かが幽かな気配と共に侵入し、パーンに近づこうとしているのに気づいた。
 - **unknown**: リーナはそれだけではなく、透明な何者かが幽かな気配と共に侵入し、パーンに近づこうとしているのに気づいた。
 
 <!-- /AUTO-GENERATED:action -->

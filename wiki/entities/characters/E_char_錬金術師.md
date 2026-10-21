@@ -26,7 +26,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0066_analogous_to_E_ch0066_サジェリミーナ_has_property_錬金術師_p2484_科学|科学による魔法ルール無効化]]
-- [[A_ch0066_analogous_to_E_ch0066_サジェリミーナ_reveals_錬金術師_p2484_パッチによる能力解放|死によるバグ修正と能力解放]]
+- A_ch0066_analogous_to_E_ch0066_サジェリミーナ_has_property_錬金術師_p2484_科学（科学による魔法ルール無効化）
+- A_ch0066_analogous_to_E_ch0066_サジェリミーナ_reveals_錬金術師_p2484_パッチによる能力解放（死によるバグ修正と能力解放）
 
 <!-- AUTO:END -->

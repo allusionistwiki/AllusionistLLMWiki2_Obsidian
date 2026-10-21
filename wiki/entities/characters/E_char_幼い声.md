@@ -1,26 +1,27 @@
 ---
-schema_version: '5.1'
+schema_version: "5.1"
 id: E_char_幼い声
 type: entity
-title: 幼い声
 subtype: character
 canonical_name: 幼い声
-aliases: []
-first_appearance: ch0169
-spoiler_after: ch0169
+title: "幼い声"
+first_appearance: ch5404
+spoiler_after: ch5404
 document_status: active
-created: '2026-10-10'
-updated: '2026-10-19'
+review_status: llm_verified
+created: "2026-09-30"
 ---
+
 # 幼い声
 
-（本文：人間が記述する部分。自動生成では変更されません。）
+物語の冒頭、正体不明の幼い存在として自らの居場所を問いかける存在である。広大な世界と人形たちを見て、ここが夢の舞台であると認識する特徴を持つ。
 
-<!-- AUTO-GENERATED:speech -->
-## セリフ・発言
+<!-- AUTO:BEGIN -->
+**初出**: ch5404 ｜ **観測イベント**: 2 件（1 話に出現）
 
-- **unknown**: 「ここはどこ？」 響く幼い声に、優しげな答えが返される。
-- **unknown**: 「ここはどこ？」 響く幼い声に、優しげな答えが返される。
-- **unknown**: 「ここはどこ？」 響く幼い声に、優しげな答えが返される。
+## 代表引用
 
-<!-- /AUTO-GENERATED:speech -->
+> 「ここはどこ？」（ch5404）
+> 「わかったよ、ここは夢の舞台だ！」（ch5404）
+
+<!-- AUTO:END -->

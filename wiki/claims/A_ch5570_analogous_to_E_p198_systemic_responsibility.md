@@ -4,7 +4,7 @@ id: A_ch5570_analogous_to_E_p198_systemic_responsibility
 title: 多数の人生を背負う構造的重負
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5570_エンハとナックス_other_血の呪い_p180]]"
 predicate: analogous_to
 object: "[[ME_systemic_responsibility]]"
@@ -15,13 +15,13 @@ spoiler_after: ch5570
 evidence_strength: moderate
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# 一人の空使いが兄弟たちの無数の人生に責任を負う設定は、血族全体の運命を支配する絶対的権力が背負う構造的な重圧を象徴している。
+# 一人の空使いが無数の兄弟的人生に責任を負うという設定は、支配層（システム管理者）が個人の生を管理・消費する構造そのものの重さと暴力性を象徴している。
 
 > エンハとナックスのような人生が、クロウサー家という巨大な血族全体で無数に存在している。それら全てに責任を負うのが空使いだ。（p198）
 
-**審査（LLM 代替）**: 「現代社会の不平等」への直結は飛躍が大きい。「無数に存在する人生」「絶対的権力」という記述は、システム管理者（空使い）が個々の運命を支配・責任負うという、作品内の権力構造の重さを示している。
+**審査（LLM 代替）**: 「現代社会の構造的不平等」への引喩は作品世界から切り離されており、「空使い」という特異なシステム管理者が背負う重さとして解釈すべき。

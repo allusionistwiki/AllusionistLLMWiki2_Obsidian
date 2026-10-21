@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_birds_eye_view_statistics
 title: 鳥瞰統計
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "birds_eye_view_statistics"
 domain: "Contemporary Culture"

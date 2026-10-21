@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5584_relprea_appearance_change
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5584
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5584
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 > なんで、普通のティリビナ人と女神レルプレアの容姿が違うの？（p185）
 > 現ティリビナ人の樹木的な肌は、きっとレルプレア以降の特徴なのだ。（p190）
 
-**審査（LLM 代替）**: 女神レルプレアと現ティリビナ人の外見の差異、およびその変化が意図的である可能性を示す記述があり、種族設計に関する謎として妥当性が高い。
+**審査（LLM 代替）**: 女神と現ティリビナ人の外見の差異という設定上の矛盾が提示されており、その理由（なぜ変化させたか）は未解明な謎として有効である。

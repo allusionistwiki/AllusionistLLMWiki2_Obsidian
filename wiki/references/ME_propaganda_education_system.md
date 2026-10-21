@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_propaganda_education_system
 title: プロパガンダ教育
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "propaganda_education_system"
 domain: "Contemporary Culture"

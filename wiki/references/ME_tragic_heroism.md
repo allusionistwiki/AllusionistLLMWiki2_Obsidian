@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_tragic_heroism
 title: 受容による英雄性
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "tragic_heroism"
 domain: "Contemporary Culture"

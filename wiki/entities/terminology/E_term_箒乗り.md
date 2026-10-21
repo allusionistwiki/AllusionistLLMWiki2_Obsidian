@@ -10,7 +10,7 @@ first_appearance: ch0263
 spoiler_after: ch0263
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 箒乗り
 
@@ -24,3 +24,12 @@ updated: '2026-10-19'
 - **unknown**: 『箒乗り』というのは侮蔑の烙印だ。心ひとつで自在に宙を渡るべき空の民にあるまじき欠陥。
 
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『箒乗り』というのは侮蔑の烙印だ。
+心ひとつで自在に宙を渡るべき空の民にあるまじき欠陥。
+- **unknown**: 『箒乗り』というのは侮蔑の烙印だ。
+
+<!-- /AUTO-GENERATED:speech -->

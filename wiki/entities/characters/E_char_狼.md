@@ -10,7 +10,7 @@ first_appearance: ch0116
 spoiler_after: ch0116
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 狼
 
@@ -19,6 +19,9 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: あれがお前達の末路だ。
+【p3】
+そう宣告するかのような咆哮に、
 - **unknown**: 「痛い」そして、「苦しい」それから、「死にたくない」
 - **unknown**: 「痛い」そして、「苦しい」それから、「死にたくない」
 - **unknown**: 「痛い」そして、「苦しい」それから、「死にたくない」

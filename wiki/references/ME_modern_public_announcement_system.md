@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_modern_public_announcement_system
+title: 公共放送システム
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "modern_public_announcement_system"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# modern_public_announcement_system
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5490_parodies_E_virtual_familiar_announcement_modern_public_announcement_system]] — 仮想使い魔による無機質で反復される通達は、現代の駅構内アナウンスや緊急警報システムを模倣し、非人間的な管理機構の冷徹さを演出する。

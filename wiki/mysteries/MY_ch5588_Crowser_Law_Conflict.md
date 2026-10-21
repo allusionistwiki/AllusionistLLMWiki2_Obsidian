@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5588_Crowser_Law_Conflict
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5588
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5588
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 > 無論、容赦なく踏み潰すまで。それがクロウサーの責務。弱者であることは武器ではない。（p174）
 > クラウビューラとチッセを、己の配下にすると。（p199）
 
-**審査（LLM 代替）**: 「弱者は武器ではない」という法理と、リーナによる「配下化（保護）」という対抗手段の提示は、物語の核心的な衝突を予兆する伏線として有効。
+**審査（LLM 代替）**: クラウビューラの法理（弱者は武器ではない）とリーナの対抗手段（配下化）の衝突は、物語の核心的な葛藤であり、未解決の要素として伏線扱いで妥当。

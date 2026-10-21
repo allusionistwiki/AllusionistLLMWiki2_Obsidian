@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_Modern_University_Education
 title: 大学パロディ
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "Modern_University_Education"
 domain: "Contemporary Culture"

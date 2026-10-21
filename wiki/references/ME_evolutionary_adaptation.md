@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_evolutionary_adaptation
 title: 進化適応
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "evolutionary_adaptation"
 domain: "Contemporary Culture"

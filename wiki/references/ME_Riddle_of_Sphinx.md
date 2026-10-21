@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_Riddle_of_Sphinx
 title: スフィンクスの謎
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "Riddle_of_Sphinx"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5574_structurally_matches_E_ch5574_亡霊たち_asks_答え_p55_Riddle_of_Sphinx]] — 歴代の偉大な祖先（亡霊）が後継者に存在の答えを強要する構造は、英雄神話における継承者の資格を試す「謎かけ」や「試練」のプロトタイプと構造的に一致する。
+- [[A_ch5574_structurally_matches_E_ch5574_亡霊たち_asks_答え_p55_Riddle_of_Sphinx]] — 歴代の偉大な祖先が現れ、後継者に自らの存在意義（答え）を強いる構造は、英雄叙事詩における試練や、神話的な通過儀礼としての「死と再生」のプロセスに類似している。

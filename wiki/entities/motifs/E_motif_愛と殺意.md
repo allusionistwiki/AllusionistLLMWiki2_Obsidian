@@ -10,7 +10,7 @@ first_appearance: ch5589
 spoiler_after: ch5589
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 愛と殺意
 
@@ -21,5 +21,7 @@ updated: '2026-10-19'
 
 - **unknown**: 眼前で、生い茂る愛が殺意を高らかに歌い上げる。
 相反するようで、それは矛盾せず自然の中で調和していた。
+- **unknown**: 眼前で、生い茂る愛が殺意を高らかに歌い上げる。
+- **unknown**: 眼前で、生い茂る愛が殺意を高らかに歌い上げる。
 
 <!-- /AUTO-GENERATED:symbolic -->

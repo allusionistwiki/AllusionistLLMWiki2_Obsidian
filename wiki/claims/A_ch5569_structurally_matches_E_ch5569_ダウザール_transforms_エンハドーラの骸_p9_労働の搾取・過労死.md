@@ -4,7 +4,7 @@ id: A_ch5569_structurally_matches_E_ch5569_ダウザール_transforms_エンハ�
 title: 死者を箒とする永続的労働搾取
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5569_ダウザール_transforms_エンハドーラの骸_p9]]"
 predicate: structurally_matches
 object: "[[ME_労働の搾取・過労死]]"
@@ -15,13 +15,13 @@ spoiler_after: ch5569
 evidence_strength: moderate
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# 死後も箒として仕え続けるエンハドーラは、権力者（ダウザール）によって人間性が剥奪され、純粋な労働力/道具へと転落した存在のメタファーである。
+# 死後も箒として仕え続けるエンハドーラは、権力者による英雄的存在の永続的な搾取と、個人の意志を完全に抹殺した絶対的服従のメタファーである。
 
 > 死後もクロウサーに仕え続けることを命じた。かの古老が扱う箒の正体とは、かつて空使いを目指した男の成れの果てである。（p9）
 
-**審査（LLM 代替）**: 「過労死」という現代的労働問題への直接的なメタファーという主張は、原文のファンタジー的な支配構造から読みすぎているため、より一般的な権力による搾取・道具化として修正すべき。
+**審査（LLM 代替）**: 「労働者」「過労死」という現代的な社会制度への引喩は、原作の「呪術的な服従」や「霊的拘束」という文脈を過度に世俗化・矮小化するリスクがあるため、神話的な支配構造への比喩として修正する。

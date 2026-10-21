@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_surveillance_state
 title: 監視国家
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "surveillance_state"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0254_analogous_to_E_p8172_reincarnation_detection_surveillance_state]] — 百目の男がユディーアの魂の構成を見抜くことは、個人の内面や履歴が完全に可視化される監視社会の構造を暗示する。
+- [[A_ch5166_analogous_to_E_world_control_surveillance_state]] — 地上が槍神教と大神院によって管理されているという描写は、全体主義的な監視社会の隐喻である。

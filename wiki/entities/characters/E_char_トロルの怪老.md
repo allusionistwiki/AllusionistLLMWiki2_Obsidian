@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_トロルの怪老
 type: entity
 subtype: character
 canonical_name: トロルの怪老
-title: "トロルの怪老"
+title: トロルの怪老
 first_appearance: ch5588
 spoiler_after: ch5588
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # トロルの怪老
@@ -25,3 +26,19 @@ created: "2026-09-30"
 > 「おうおう、えらいことになってるだよ！　よりにもよって、クロウサーの血から異獣の王を出しちまっただ！　こりゃあ始末をつけなきゃおさまんねえ！」（ch5588）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 紀竜巫女マルガリータの中に潜むトロルの怪老はそのディスケイムの長老のひとりだとミブリナは語る。かの老人が頼みとする切り札は、クラウビューラさえ真っ向勝負では分が悪いほどの実力者らしい。
+- **unknown**: 紀竜巫女マルガリータの中に潜むトロルの怪老はそのディスケイムの長老のひとりだとミブリナは語る。かの老人が頼みとする切り札は、クラウビューラさえ真っ向勝負では分が悪いほどの実力者らしい。
+
+<!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「おうおう、えらいことになってるだよ！　よりにもよって、クロウサーの血から異獣の王を出しちまっただ！　こりゃあ始末をつけなきゃおさまんねえ！」
+- **unknown**: 「おうおう、えらいことになってるだよ！　よりにもよって、クロウサーの血から異獣の王を出しちまっただ！　こりゃあ始末をつけなきゃおさまんねえ！」
+
+<!-- /AUTO-GENERATED:speech -->

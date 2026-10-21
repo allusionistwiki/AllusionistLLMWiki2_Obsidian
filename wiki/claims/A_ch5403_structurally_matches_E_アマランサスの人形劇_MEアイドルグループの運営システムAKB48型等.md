@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: A_ch5403_structurally_matches_E_アマランサスの人形劇_MEアイドルグループの運営システムAKB48型等
+title: AKB型アイドル運営構造の模倣
+
+type: analytical_claim
+created: "2026-10-21"
+subject: "[[E_ch5403_アキラ_uses_ドーナツ_p10]]"
+predicate: structurally_matches
+object: "[[ME_MEアイドルグループの運営システムAKB48型等]]"
+epistemic_status: hypothesized
+review_status: llm_verified
+document_status: draft
+spoiler_after: ch5403
+evidence_strength: explicit
+provenance:
+  proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
+
+# プロデューサーがメンバーを個別に育成し競わせる巨大なグループ、衣装デザイン（神絵師）、三次元化（レイヤー）といった要素は、現代のアイドルオタク文化およびその産業構造を忠実に模倣している。
+
+> この地に集ったアイドルたちに必要とされる四要素を全て兼ね備え、それぞれに個別の個性を与えて競わせる巨大なグループ。完璧なプロデュースでアイドルドールズたちを煌めかせる絶対的な人形師。（p276-p278）
+
+**審査（LLM 代替）**: 個別育成、競合、神絵師（デザイナー）、三次元化といった用語の羅列は、現代アイドル産業（AKB48型等）の構造を意図的に模倣・風刺しているため、アナロジーとして妥当。

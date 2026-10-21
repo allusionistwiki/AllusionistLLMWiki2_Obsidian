@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_sisyphus_labors
 title: シシュポスの労働
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "sisyphus_labors"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5575_structurally_matches_E_p35_sisyphus_labors]] — 「大海の水を蒸発させる」という比喩は、巨大な自然秩序や権力構造に対して個人の力が如何に無力であるかを象徴し、試練の過酷さを強調している。
+- [[A_ch5575_structurally_matches_E_p35_sisyphus_labors]] — 大海の水を蒸発させる比喩は、絶対的な権力に対して個人が挑む行為の物理的・論理的な不可能性を示し、試練の過酷さを強調している。

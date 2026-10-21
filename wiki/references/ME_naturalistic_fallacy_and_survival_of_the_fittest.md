@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_naturalistic_fallacy_and_survival_of_the_fittest
 title: 自然主義的誤謬
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "naturalistic_fallacy_and_survival_of_the_fittest"
 domain: "Contemporary Culture"

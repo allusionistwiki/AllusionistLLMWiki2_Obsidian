@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_game_mechanic_inventory_switch
+title: 装備切り替え
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "game_mechanic_inventory_switch"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# game_mechanic_inventory_switch
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5109_analogous_to_E_p15_game_mechanic_inventory_switch]] — 戦闘中の武器・義肢の即時換装は、MMORPGやアクションゲームにおけるインベントリ操作やホットバー切り替えを想起させる。

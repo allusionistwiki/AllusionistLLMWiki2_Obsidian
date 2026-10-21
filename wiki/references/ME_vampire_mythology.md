@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_vampire_mythology
 title: 吸血鬼伝承
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "vampire_mythology"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0008_analogous_to_E_ch0008_コルセスカ_other_血液_p394_vampire_mythology]] — コルセスカが敗者から血液を抜き取り、それを氷の指輪の装飾として利用する様子は、吸血鬼伝承における「血液の吸い取り」を、魔女の「アクセサリー作成（工芸）」という実用的・美的行為に転換したものである。
+- [[A_ch5406_inverts_E_ch5406_名声_has_property_価値_p2_vampire_mythology]] — リールエルバが物理的な吸血（牙を使う行為）を嫌い、呪術（生命吸収）で命を奪うという設定は、伝統的な吸血鬼のイメージ（血への渇望・肉体的接触）を逆転させ、精神的な恐怖と高貴さの表出として再定義している。

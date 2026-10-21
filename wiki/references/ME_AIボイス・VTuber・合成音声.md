@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_AIボイス・VTuber・合成音声
+title: AI音声とバーチャル存在
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "AIボイス・VTuber・合成音声"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# AIボイス・VTuber・合成音声
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5036_analogous_to_E_ch5036_トリシューラ_has_property_息づかいの不在_p31_AIボイス・VTuber・合成音声]] — トリシューラの声が「スピーカーを通して喋っているかのような」人工的な響きを持つ描写は、現代におけるAI合成音声やバーチャルキャラクター（VTuber等）の発声特性を暗示している。

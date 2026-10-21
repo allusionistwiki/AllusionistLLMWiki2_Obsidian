@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_rpg_party_structure
 title: RPGパーティ構成
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "rpg_party_structure"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0046_structurally_matches_E_ch0046_六人_other_黒百合_p1901_rpg_party_structure]] — 探索者集団の構成人数（6人）や、リーダーの選出、名前付けといったプロセスは、TRPGやMMORPGにおけるパーティ結成のクリシェ（定型）を模倣・引用している。
+- [[A_ch5100_structurally_matches_E_ch5100_コルセスカ_thinks_三人構成の安定性_p114_rpg_party_structure]] — 探索者集団の最小単位を『三人』とし、その安定性を主張するのはRPGにおける標準的なパーティ編成（タンク・アタッカー・ヒーラーなど）の構造に符合する。

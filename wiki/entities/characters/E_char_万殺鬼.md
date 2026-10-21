@@ -27,8 +27,8 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0065_analogous_to_E_ch0065_アインノーラ_defines_万殺鬼_p2453_parallel_processing|並列処理クラッシュへの共有状態]]
-- [[A_ch0065_analogous_to_E_ch0065_アインノーラ_defines_万殺鬼_p2453_ゲームのボス戦_一対一|ゲームボス戦メカニクスへの強制決闘]]
+- A_ch0065_analogous_to_E_ch0065_アインノーラ_defines_万殺鬼_p2453_parallel_processing（並列処理クラッシュへの共有状態）
+- A_ch0065_analogous_to_E_ch0065_アインノーラ_defines_万殺鬼_p2453_ゲームのボス戦_一対一（ゲームボス戦メカニクスへの強制決闘）
 
 <!-- AUTO:END -->
 

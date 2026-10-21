@@ -4,7 +4,7 @@ id: A_ch5583_alludes_to_E_ch5583_弱者の戦略_by_スーリウム_p133_minorit
 title: 被害者ポリティクスとしての弱者戦略
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5583_スーリウム_says_弱者の戦略と介護施設化_p133]]"
 predicate: alludes_to
 object: "[[ME_minority_politics]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5583
 evidence_strength: moderate
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 大国（ジャッフハリム）の支援をあてにした弱者の戦略。強国に並び立とうとする気概もない、物乞い老人たちの介護施設。それがティリビナ人社会の現状だ。（p133）
 
-**審査（LLM 代替）**: スーリウムの批判は「弱者の戦略」という用語を明示的に用いており、現実の政治社会学における概念（被害者意識の利用）への引喩として妥当である。
+**審査（LLM 代替）**: スーリウムのセリフは、現実の国際政治における「被害者意識」や「弱者保護」を利用した外交戦略（ポリティクス・オブ・ヴィクティム）への明確な皮肉として機能しており、引喩が成立している。

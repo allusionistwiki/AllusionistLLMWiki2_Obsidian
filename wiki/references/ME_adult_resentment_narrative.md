@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_adult_resentment_narrative
 title: 成人側の傲慢
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "adult_resentment_narrative"
 domain: "Contemporary Culture"

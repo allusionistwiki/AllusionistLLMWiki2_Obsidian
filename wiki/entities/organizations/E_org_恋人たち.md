@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 恋人たち
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 愕然とする恋人たちの前で、空虚の表現が成立した。それは不可能性の可能性だった。矛盾した世界の成立。
+- **unknown**: 愕然とする恋人たちの前で、空虚の表現が成立した。それは不可能性の可能性だった。矛盾した世界の成立。
 - **unknown**: 愕然とする恋人たちの前で、空虚の表現が成立した。それは不可能性の可能性だった。矛盾した世界の成立。
 
 <!-- /AUTO-GENERATED:action -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_ユウヒ
 type: entity
 subtype: character
 canonical_name: ユウヒ
-title: "ユウヒ"
+title: ユウヒ
 first_appearance: ch5589
 spoiler_after: ch5589
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # ユウヒ
@@ -25,3 +26,20 @@ created: "2026-09-30"
 > 美しい人魚に変身して空を泳ぐユウヒは、心を侵すキスによってショウの周囲の人間を次々と異形の怪物（フリークス）に変えていく。（ch5589）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 更には幼馴染だと名乗る少女ユウヒが現れてこう囁いた。
+「ショウくん、だいすき。きみをいじめるひとは、みんなころしてあげるからね」
+- **unknown**: 更には幼馴染だと名乗る少女ユウヒが現れてこう囁いた。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 美しい人魚に変身して空を泳ぐユウヒは、心を侵すキスによってショウの周囲の人間を次々と異形の怪物（フリークス）に変えていく。
+- **unknown**: 美しい人魚に変身して空を泳ぐユウヒは、心を侵すキスによってショウの周囲の人間を次々と異形の怪物（フリークス）に変えていく。
+
+<!-- /AUTO-GENERATED:action -->

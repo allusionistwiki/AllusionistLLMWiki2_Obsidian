@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_Historical_Jewish_Diaspora
 title: ユダヤ人離散
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "Historical_Jewish_Diaspora"
 domain: "Contemporary Culture"

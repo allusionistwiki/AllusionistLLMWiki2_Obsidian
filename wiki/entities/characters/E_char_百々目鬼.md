@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_百々目鬼
 type: entity
 subtype: character
 canonical_name: 百々目鬼
-title: "百々目鬼"
+title: 百々目鬼
 first_appearance: ch0154
 spoiler_after: ch0154
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 百々目鬼
@@ -27,3 +28,11 @@ created: "2026-09-30"
 > 現象としては単純。カーインがその圧倒的な実力で自警団員たちを片端から薙ぎ倒しているだけだ。しかしヴァージルの目は『百々目鬼』という呪的総体が崩壊していく光景を確かに見た。（ch0156）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『百々目鬼』たちはワルシューラ経由で虹犬と視界を共有しながらカーインの正体を分析し続ける。こうして離れた場所からでも瘴気による呪的侵入を妨害することは可能だ。
+- **unknown**: 『百々目鬼』たちはワルシューラ経由で虹犬と視界を共有しながらカーインの正体を分析し続ける。こうして離れた場所からでも瘴気による呪的侵入を妨害することは可能だ。
+
+<!-- /AUTO-GENERATED:action -->

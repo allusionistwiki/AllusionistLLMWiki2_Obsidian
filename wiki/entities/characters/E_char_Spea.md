@@ -30,8 +30,8 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0059_analogous_to_E_ch0059_Spea_other_決闘_p2246_ゼロサムゲーム_存在の賭け|存在賭けのゼロサムゲーム]]
-- [[A_ch0059_parodies_E_ch0059_青嶺瑠璃_other_Spea_p2234_推し活_オタク文化|非対称な推し活崇拝]]
+- A_ch0059_analogous_to_E_ch0059_Spea_other_決闘_p2246_ゼロサムゲーム_存在の賭け（存在賭けのゼロサムゲーム）
+- A_ch0059_parodies_E_ch0059_青嶺瑠璃_other_Spea_p2234_推し活_オタク文化（非対称な推し活崇拝）
 
 <!-- AUTO:END -->
 

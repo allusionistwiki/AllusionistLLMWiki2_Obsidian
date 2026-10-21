@@ -27,8 +27,8 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0069_alludes_to_E_ch0069_貴人_uses_金剛杵_p2578_vajra|金剛杵による神聖権力の象徴]]
-- [[A_ch0069_analogous_to_E_ch0069_貴人_uses_金剛杵_p2579_buddhist_iconography|密教法具への転生]]
+- A_ch0069_alludes_to_E_ch0069_貴人_uses_金剛杵_p2578_vajra（金剛杵による神聖権力の象徴）
+- A_ch0069_analogous_to_E_ch0069_貴人_uses_金剛杵_p2579_buddhist_iconography（密教法具への転生）
 
 <!-- AUTO:END -->
 

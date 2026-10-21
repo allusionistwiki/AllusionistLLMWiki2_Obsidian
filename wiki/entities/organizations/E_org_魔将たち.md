@@ -10,7 +10,7 @@ first_appearance: ch0072
 spoiler_after: ch0072
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 魔将たち
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 魔将たちが血眼になって彼女の首を取りに来るわけだよね。首というか眼球か。
+- **unknown**: 魔将たちが血眼になって彼女の首を取りに来るわけだよね。首というか眼球か。
 - **unknown**: 魔将たちは怒りと悲しみを込めて渾身の集中攻撃を行う。
 - **unknown**: 魔将たちは怒りと悲しみを込めて渾身の集中攻撃を行う。
 - **unknown**: 魔将たちは怒りと悲しみを込めて渾身の集中攻撃を行う。

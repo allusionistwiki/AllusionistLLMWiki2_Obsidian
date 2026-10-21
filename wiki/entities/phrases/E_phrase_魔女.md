@@ -10,7 +10,7 @@ first_appearance: ch5589
 spoiler_after: ch5589
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 魔女
 
@@ -21,5 +21,7 @@ updated: '2026-10-19'
 
 - **unknown**: その名、その題名を、空使いに至らんとする魔女は高らかに叫んだ。
 ※※※『水着網タイツは人魚のなごり』※※※
+- **unknown**: その名、その題名を、空使いに至らんとする魔女は高らかに叫んだ。
+- **unknown**: その名、その題名を、空使いに至らんとする魔女は高らかに叫んだ。
 
 <!-- /AUTO-GENERATED:name -->

@@ -10,7 +10,7 @@ spoiler_after: ch0157
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # 気象庁
@@ -35,3 +35,11 @@ updated: '2026-10-19'
 - **unknown**: パーンが起動させた『気象庁』はその宣名の通り流星の如く一直線に突き進み、呪術障壁を突き破って男根城右側ドームに墜落。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: に『気象庁』はあった。天候を制御して雪を降らせている事象改変装置にしてトリシューラの『王国』を維持するための拠点、そのひとつ。
+- **unknown**: に『気象庁』はあった。天候を制御して雪を降らせている事象改変装置にしてトリシューラの『王国』を維持するための拠点、そのひとつ。
+
+<!-- /AUTO-GENERATED:visual -->

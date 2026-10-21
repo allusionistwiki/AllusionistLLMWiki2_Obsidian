@@ -4,7 +4,7 @@ id: A_ch5573_inverts_E_p152_digital_narrative_logic
 title: 文字記述による戦闘決定
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5573_パーン_defeats_クガルヤイム_p103]]"
 predicate: inverts
 object: "[[ME_digital_narrative_logic]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5573
 evidence_strength: explicit
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > テキストベースサーキットにおいて万物の全ては文字で記述される。（p152）
 
-**審査（LLM 代替）**: 「万物の全ては文字で記述される」という設定が、物理戦闘をデジタルなデータ操作（回想挿入、書き換え）へ変質させる論理として機能しており、メタフィクション的な構造転換を示している。
+**審査（LLM 代替）**: 「万物の全ては文字で記述される」という設定により、物理現象がデジタルなデータ操作（書き換え）に依存する構造が明示されており、メタフィクション的な論理転換として妥当。

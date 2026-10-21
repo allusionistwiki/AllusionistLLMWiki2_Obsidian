@@ -28,6 +28,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0197_parodies_E_ch0197_父_promises_自由_p6625_fairy_tale_ending_and_royal_romance|虚構性が暴かれるおとぎ話のハッピーエンド]]
+- A_ch0197_parodies_E_ch0197_父_promises_自由_p6625_fairy_tale_ending_and_royal_romance（虚構性が暴かれるおとぎ話のハッピーエンド）
 
 <!-- AUTO:END -->

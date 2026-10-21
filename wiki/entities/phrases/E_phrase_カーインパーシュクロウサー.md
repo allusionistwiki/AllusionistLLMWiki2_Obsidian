@@ -10,7 +10,7 @@ first_appearance: ch5579
 spoiler_after: ch5579
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # カーインパーシュクロウサー
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 端的な発言ひとつでしかない。だがその名前の連なりには、その場を一気に制圧するほどの威力が込められていた。
+- **unknown**: 端的な発言ひとつでしかない。だがその名前の連なりには、その場を一気に制圧するほどの威力が込められていた。
 - **unknown**: 端的な発言ひとつでしかない。だがその名前の連なりには、その場を一気に制圧するほどの威力が込められていた。
 
 <!-- /AUTO-GENERATED:symbolic -->

@@ -10,7 +10,7 @@ first_appearance: ch5581
 spoiler_after: ch5581
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # チッセとロードデンドロン
 
@@ -25,5 +25,7 @@ updated: '2026-10-19'
 二人同時に叫ぶ。
 「落っこちた！」
 真正面から落雷を発生させたことにより、呪文が規定するルール同士が反発。爆発的に繁茂する植物と、世界そのものを否定する邪視殺しが拮抗する。
+- **unknown**: 「レーカスレ～カ～」
+- **unknown**: 「レーカスレ～カ～」
 
 <!-- /AUTO-GENERATED:visual -->

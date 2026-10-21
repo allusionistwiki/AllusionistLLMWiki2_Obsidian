@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0020_alludes_to_E_ch0020_トリシューラ_other_アキラの人格_p898_ship_of_theseus|テセウスの船の暗喩]]
+- A_ch0020_alludes_to_E_ch0020_トリシューラ_other_アキラの人格_p898_ship_of_theseus（テセウスの船の暗喩）
 
 <!-- AUTO:END -->

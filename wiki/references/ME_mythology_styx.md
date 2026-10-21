@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_mythology_styx
+title: ステュクスの冥界河
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "mythology_styx"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# mythology_styx
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5452_alludes_to_E_5452_p26_mythology_styx]] — 世界を分ける大河ステュクスという名称と描写は、ギリシャ神話における冥界への渡河の象徴を引用し、この世界の生死境界が不可逆な断絶であることを示している。

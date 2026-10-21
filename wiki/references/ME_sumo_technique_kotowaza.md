@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_sumo_technique_kotowaza
+title: 相撲古語技名
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "sumo_technique_kotowaza"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# sumo_technique_kotowaza
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5252_structurally_matches_E_p236_sumo_technique_kotowaza]] — 「喉輪」という技名は、相撲における古式ゆかしい必殺技を引用し、その圧倒的な力の差を演出している。

@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_ME_identity_politics_theme
+title: 異物のアイデンティティ
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "ME_identity_politics_theme"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# ME_identity_politics_theme
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5044_foreshadows_E_ch5044_トリシューラ_names_ゼノグラシア_p14_ME_identity_politics_theme]] — 「異物だからこそ意味を見出される」というトリシューラの言葉は、アキラが単なる被造物ではなく、世界構造において特異な役割を担う存在であることの伏線となる。

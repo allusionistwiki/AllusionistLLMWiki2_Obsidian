@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_長老たち
 type: entity
 subtype: organization
 canonical_name: 長老たち
-title: "長老たち"
+title: 長老たち
 first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 長老たち
@@ -25,3 +26,19 @@ created: "2026-09-30"
 > しかし老練なクロウサー家の長老たちは、冷静に若手の計画を評価した。（ch5572）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「空っぽの計画ねえ」「大言壮語だな」
+- **unknown**: 「空っぽの計画ねえ」「大言壮語だな」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: しかし老練なクロウサー家の長老たちは、冷静に若手の計画を評価した。
+- **unknown**: しかし老練なクロウサー家の長老たちは、冷静に若手の計画を評価した。
+
+<!-- /AUTO-GENERATED:action -->

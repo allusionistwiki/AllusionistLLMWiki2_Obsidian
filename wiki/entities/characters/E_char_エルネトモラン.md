@@ -28,6 +28,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0068_analogous_to_E_ch0068_エスフェイル_activates_浄界_p2552_パンデミック|制御不能なパンデミック]]
+- A_ch0068_analogous_to_E_ch0068_エスフェイル_activates_浄界_p2552_パンデミック（制御不能なパンデミック）
 
 <!-- AUTO:END -->

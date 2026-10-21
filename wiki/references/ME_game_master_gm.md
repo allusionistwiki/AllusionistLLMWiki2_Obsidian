@@ -1,0 +1,22 @@
+---
+schema_version: "5.1"
+id: ME_game_master_gm
+title: ゲームマスター（GM）
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "game_master_gm"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# game_master_gm
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (2 件)
+
+- [[A_ch5019_analogous_to_E_ch5019_ヲルヲーラ_appears_翼猫の審判役_p164173_game_master_gm]] — 戦闘の円滑な進行を管理し、規則による罰則を科す翼猫「ヲルヲーラ」は、TRPGにおけるゲームマスター（GM）や、オンラインゲームのシステム管理者そのものである。
+- [[A_ch5336_structurally_matches_E_virgil_intervention_game_master_gm]] — ヴァージルの介入は、TRPGにおけるゲームマスター（GM）がプレイヤーの暴走を抑制し、シナリオのバランスを保つために意図的にNPCを蘇生・支配するメタ的な操作に構造が一致する。

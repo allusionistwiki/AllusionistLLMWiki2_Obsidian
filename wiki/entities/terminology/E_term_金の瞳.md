@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_金の瞳
 type: entity
 subtype: terminology
 canonical_name: 金の瞳
-title: "金の瞳"
+title: 金の瞳
 first_appearance: ch5588
 spoiler_after: ch5588
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 金の瞳
@@ -25,3 +26,14 @@ created: "2026-09-30"
 > 金の瞳は生と死、あらゆる存在の運命を見通す神の瞳。（ch5588）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 金の瞳は生と死を直視する邪視の源。
+紀人に至らずとも天からの視点に近づく上位者の『視点』そのものだ。
+- **unknown**: 金の瞳は生と死、あらゆる存在の運命を見通す神の瞳。
+- **unknown**: 金の瞳は生と死を直視する邪視の源。
+- **unknown**: 金の瞳は生と死、あらゆる存在の運命を見通す神の瞳。
+
+<!-- /AUTO-GENERATED:symbolic -->

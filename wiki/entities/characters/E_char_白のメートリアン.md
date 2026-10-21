@@ -27,9 +27,9 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_names_白のメートリアン_p1592_true_name_magic|真名による存在定義の書き換え]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_corruption|内面の悪意の顕現という腐敗メタファー]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_duality|表裏の対比による人間の二面性]]
+- A_ch0037_analogous_to_E_ch0037_ミルーニャ_names_白のメートリアン_p1592_true_name_magic（真名による存在定義の書き換え）
+- A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_corruption（内面の悪意の顕現という腐敗メタファー）
+- A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_duality（表裏の対比による人間の二面性）
 
 <!-- AUTO:END -->
 

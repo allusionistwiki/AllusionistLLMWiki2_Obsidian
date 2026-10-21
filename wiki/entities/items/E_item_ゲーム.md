@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0021_analogous_to_E_ch0021_コルセスカ_uses_ゲーム_p924_RPG_character_growth|RPGキャラ成長への自己投影]]
+- A_ch0021_analogous_to_E_ch0021_コルセスカ_uses_ゲーム_p924_RPG_character_growth（RPGキャラ成長への自己投影）
 
 <!-- AUTO:END -->
 

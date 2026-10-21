@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ParallelUniverseTheory
 title: 並行宇宙確定
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "ParallelUniverseTheory"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5587_analogous_to_E_ch5587_ロードデンドロン_names_カーイン・パーシュ・クロウサー_p219_ParallelUniverseTheory]] — 「並行矛盾史」を「接ぎ木」により「偽物なんかじゃなくする」という描写は、パラドクス（矛盾）を物語の正史として確定させるナラティブ操作のメタファーである。
+- [[A_ch5587_analogous_to_E_ch5587_ロードデンドロン_names_カーイン・パーシュ・クロウサー_p219_ParallelUniverseTheory]] — 「並行矛盾史」を引き出し、「接ぎ木」によって「もしも」を確定させる描写は、分岐した可能性（IF）を物語の正史（Canon）へと収束・固定化するナラティブ操作のメタファーである。

@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: A_ch5529_alludes_to_E_ミナの童貞喰い能力_現代の性的搾取／オタク文化における萌え消費
+title: 萌え資源としての童貞の戦闘リソース化
+
+type: analytical_claim
+created: "2026-10-21"
+subject: "[[E_ch5529_リーナ・ゾラ・クロウサー_other_天への反論_p103]]"
+predicate: alludes_to
+object: "[[ME_現代の性的搾取／オタク文化における萌え消費]]"
+epistemic_status: hypothesized
+review_status: llm_verified
+document_status: draft
+spoiler_after: ch5529
+evidence_strength: moderate
+provenance:
+  proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
+
+# ミナの能力は、男性の性的純粋性（童貞）を物理的な生命力（命数）に変換・回復させるという、身体性とリソース管理を直結させる特異な魔術体系を示している。
+
+> 私はね。彼氏さんたちの穢れなき童貞を喰う！ ことで！！ 本人すら知り得ない情報を全て知り、更には減少した命数を回復させることが可能！（p24）
+
+**審査（LLM 代替）**: 「童貞」を物理的資源（命数）として扱う記述は存在するが、「オタク文化の萌え消費」というメタファーへの引喩は原文に明示されず、読みすぎの懸念がある。

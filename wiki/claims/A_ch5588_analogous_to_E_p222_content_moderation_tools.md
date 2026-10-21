@@ -1,7 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch5588_analogous_to_E_p222_content_moderation_tools
-title: 有害コンテンツ除去への箒の比喩
+title: 有害コンテンツ削除モデレーション
 
 type: analytical_claim
 created: "2026-10-19"

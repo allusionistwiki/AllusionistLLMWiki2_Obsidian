@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_corporate_bureaucracy
 title: 企業官僚制
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "corporate_bureaucracy"
 domain: "Contemporary Culture"
@@ -16,6 +16,7 @@ review_status: llm_verified
 
 本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
-## 本作からの参照 (1 件)
+## 本作からの参照 (2 件)
 
-- [[A_ch0053_analogous_to_E_ch0053_ガルズ_says_血族の呪い_p2063_corporate_bureaucracy]] — クロウサー家を「感情はもちろん、知性や理性なども無いから、たとえ身内だろうと平気で圧殺しようとする」「自動的に動き続けるだけの怪物」と呼ぶのは、人間性を排除した巨大官僚機構や資本主義の自己増殖的な暴力の比喩である。
+- [[A_ch5121_parodies_E_ch5121_ラーゼフ_other_眷族神と天使の呼称_p180_corporate_bureaucracy]] — 大神院の老人による呼称変更は、組織内の権威維持のために行われる無意味な再定義やリブランドを風刺している。
+- [[A_ch5461_sublates_E_p94_corporate_bureaucracy]] — ソルダが枢機卿団を『金と呪力を積めばなれるお手軽な不老不死の座』『石塊』と呼ぶのは、宗教的権威主義組織の硬直化と、信仰を失った儀礼的な維持管理システムに対する皮肉である。

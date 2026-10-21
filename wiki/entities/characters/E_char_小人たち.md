@@ -1,26 +1,27 @@
 ---
-schema_version: '5.1'
+schema_version: "5.1"
 id: E_char_小人たち
 type: entity
-title: 小人たち
 subtype: character
 canonical_name: 小人たち
-aliases: []
-first_appearance: ch0169
-spoiler_after: ch0169
+title: "小人たち"
+first_appearance: ch5404
+spoiler_after: ch5404
 document_status: active
-created: '2026-10-10'
-updated: '2026-10-19'
+review_status: llm_verified
+created: "2026-09-30"
 ---
+
 # 小人たち
 
-（本文：人間が記述する部分。自動生成では変更されません。）
+騒ぎを聞きつけた小さな人形（小人）たちが集まり、輪になる存在である。影の原因を巡り、置き去りにされたことへの恨みか、ラクルラールの思うつぼかといった意見が対立し、結束に亀裂が入る傾向にある。
 
-<!-- AUTO-GENERATED:visual -->
-## 視覚的記述
+<!-- AUTO:BEGIN -->
+**初出**: ch5404 ｜ **観測イベント**: 2 件（1 話に出現）
 
-- **unknown**: 騒ぎを聞きつけ、小さな人形たちがどこからともなく集まってくる。 人形姫の周りには小人たちがひい、ふう、みい、それからたくさん。
-- **unknown**: 騒ぎを聞きつけ、小さな人形たちがどこからともなく集まってくる。 人形姫の周りには小人たちがひい、ふう、みい、それからたくさん。
-- **unknown**: 騒ぎを聞きつけ、小さな人形たちがどこからともなく集まってくる。 人形姫の周りには小人たちがひい、ふう、みい、それからたくさん。
+## 代表引用
 
-<!-- /AUTO-GENERATED:visual -->
+> 「さあさあ、みんな輪になって。楽しい人形劇を始めましょう。」（ch5404）
+> 「きっとあれは一号の怨念なんだわ。（ch5404）
+
+<!-- AUTO:END -->

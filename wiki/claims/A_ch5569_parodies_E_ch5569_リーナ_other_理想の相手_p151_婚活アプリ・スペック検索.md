@@ -4,7 +4,7 @@ id: A_ch5569_parodies_E_ch5569_リーナ_other_理想の相手_p151_婚活アプ
 title: スペックによる非合理的な人間選別
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5569_リーナ_other_理想の相手_p151]]"
 predicate: parodies
 object: "[[ME_婚活アプリ・スペック検索]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5569
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > あと既読無視とか悲しくなるから連絡したら即反応が基本で（p151）
 
-**審査（LLM 代替）**: 「即レス」「スペック」等の現代的用語を用いたパートナー選定基準は、恋愛の非合理性を露呈させる風刺として機能している。
+**審査（LLM 代替）**: リーナの挙げる具体的なスペック（即レス等）は現代のマッチングアプリ特有の効率主義を正確にパロディ化しており、愛の非合理性に対する皮肉として機能している。

@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_Internet_as_ocean_metaphor
+title: ネットを海に見立てる
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "Internet_as_ocean_metaphor"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# Internet_as_ocean_metaphor
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5247_analogous_to_E_ch5247_第四衛星イルディアンサ_is_located_情報の海_p2_Internet_as_ocean_metaphor]] — インターネットの膨大な情報を物理的な海に見立て、ユーザーをサーファーと表現する現代のメタファー（ネットサーフィン）を、文字通りの空間現象として具現化している。

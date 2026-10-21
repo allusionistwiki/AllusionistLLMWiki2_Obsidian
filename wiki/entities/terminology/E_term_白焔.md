@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0050_structurally_matches_E_ch0050_白焔_has_property_時間流_p1987_熱力学の時間矢印|時間の矢の呪術的可視化]]
+- A_ch0050_structurally_matches_E_ch0050_白焔_has_property_時間流_p1987_熱力学の時間矢印（時間の矢の呪術的可視化）
 
 <!-- AUTO:END -->
 

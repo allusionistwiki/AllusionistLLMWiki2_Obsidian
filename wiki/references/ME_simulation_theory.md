@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_simulation_theory
 title: シミュレーション仮説
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "simulation_theory"
 domain: "Contemporary Culture"
@@ -18,5 +18,5 @@ review_status: llm_verified
 
 ## 本作からの参照 (2 件)
 
-- [[A_ch0060_analogous_to_E_ch0060_夜の民_has_property_摸倣と複製_p2249_simulation_theory]] — 夜の民による精巧な夢の創造は、現実を凌駕するほどの完成度を持つ「虚構の自律性」を示すメタフィクショナルな構造である。
-- [[A_ch0070_analogous_to_E_ch0070_サジェリミーナ_uses_占星術_p2600_simulation_theory]] — サジェリミーナが天球座標を書き換え、観測者視点で世界を支配する様子は、シミュレーション理論における「観測者による現実の書き換え」を想起させる。
+- [[A_ch5209_alludes_to_E_p59_world_end_simulation_theory]] — 「この世はサイザクタートの夢」というセリフは、世界が上位存在の観測（意識）によって維持されているというシミュレーション仮説や、唯識思想における「万法唯識」の概念を示唆している。
+- [[A_ch5221_analogous_to_E_ch5221_ナト_says_僕たちは夢_p51_simulation_theory]] — 自分が他者の夢（シミュレーション）の住人であるという認識は、シミュレーション仮説やVR世界における自我の不安定さを示唆している。

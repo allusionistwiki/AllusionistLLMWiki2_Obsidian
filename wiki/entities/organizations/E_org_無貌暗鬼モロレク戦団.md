@@ -10,7 +10,7 @@ first_appearance: ch5583
 spoiler_after: ch5583
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 無貌暗鬼モロレク戦団
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: そうして悪鬼女王の下で、無貌暗鬼（モロレク）戦団の戦士となるべく研鑽を積み重ねていた時だった。
+- **unknown**: そうして悪鬼女王の下で、無貌暗鬼（モロレク）戦団の戦士となるべく研鑽を積み重ねていた時だった。
 - **unknown**: そうして悪鬼女王の下で、無貌暗鬼（モロレク）戦団の戦士となるべく研鑽を積み重ねていた時だった。
 
 <!-- /AUTO-GENERATED:relationship -->

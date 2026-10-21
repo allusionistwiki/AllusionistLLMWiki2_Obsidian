@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_MMO_Guild_Chat_Logs
+title: ギルドチャットログ
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "MMO_Guild_Chat_Logs"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# MMO_Guild_Chat_Logs
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5470_structurally_matches_E_p148-p170_MMO_Guild_Chat_Logs]] — 圧縮された信号による情報伝達は、言語や視覚を超えた意識レベルでの共有を可能にする「共感型通信」の概念を指している。

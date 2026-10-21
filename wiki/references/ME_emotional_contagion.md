@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_emotional_contagion
+title: 感情伝染・ヒステリー
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "emotional_contagion"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# emotional_contagion
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5426_analogous_to_E_5426_p120_emotional_contagion]] — 悪意が流行病のように蔓延するという描写は、集団心理における感情伝染（エモーショナル・コントレジオン）や群集ヒステリーを想起させる。

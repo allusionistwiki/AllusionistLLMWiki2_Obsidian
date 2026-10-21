@@ -10,7 +10,7 @@ first_appearance: ch0186
 spoiler_after: ch0186
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 第五階層の人々
 
@@ -24,3 +24,12 @@ updated: '2026-10-19'
 - **unknown**: 第五階層の人々はひとまず安堵に胸をなで下ろしていた。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 【p4】
+第五階層を中心とした意識圏は瞬く間に戸惑いと驚きに染め上げられた。それは動画の配信という形で第五階層に存在する全ての人々の脳に叩き込まれた『過去』である。
+- **unknown**: 【p4】
+
+<!-- /AUTO-GENERATED:action -->

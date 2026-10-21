@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0058_alludes_to_E_ch0058_エル・ア・フィリス_says_物語の要求_p2219_narrator|語り手のメタフィクショナル介入]]
+- A_ch0058_alludes_to_E_ch0058_エル・ア・フィリス_says_物語の要求_p2219_narrator（語り手のメタフィクショナル介入）
 
 <!-- AUTO:END -->
 

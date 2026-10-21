@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_shonen_one_shot_trope
 title: ワンパン展開
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "shonen_one_shot_trope"
 domain: "Contemporary Culture"

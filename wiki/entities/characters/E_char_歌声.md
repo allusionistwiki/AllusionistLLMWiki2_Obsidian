@@ -28,6 +28,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0065_analogous_to_E_ch0065_アケルグリュス_uses_歌声_p2417_siren_song|セイレーンの歌としての歌声魅了]]
+- A_ch0065_analogous_to_E_ch0065_アケルグリュス_uses_歌声_p2417_siren_song（セイレーンの歌としての歌声魅了）
 
 <!-- AUTO:END -->

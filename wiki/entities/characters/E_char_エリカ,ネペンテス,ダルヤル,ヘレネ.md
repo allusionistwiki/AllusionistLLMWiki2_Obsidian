@@ -10,7 +10,7 @@ first_appearance: ch5583
 spoiler_after: ch5583
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # エリカ,ネペンテス,ダルヤル,ヘレネ
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: 最初はエリカ、ネペンテス、ダルヤル、そしてヘレネ。
+- **unknown**: 最初はエリカ、ネペンテス、ダルヤル、そしてヘレネ。
 - **unknown**: 最初はエリカ、ネペンテス、ダルヤル、そしてヘレネ。
 
 <!-- /AUTO-GENERATED:name -->

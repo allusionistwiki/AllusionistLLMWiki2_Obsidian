@@ -10,7 +10,7 @@ spoiler_after: ch0224
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # ダルヤル
@@ -40,6 +40,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「ダルヤルも。自分、ない。ティリビナ人、誇りと絆。最後、頼り」
+- **unknown**: 「ダルヤルも。自分、ない。ティリビナ人、誇りと絆。最後、頼り」
 - **unknown**: 「ダルヤルも。自分、ない。ティリビナ人、誇りと絆。最後、頼り」
 
 <!-- /AUTO-GENERATED:speech -->

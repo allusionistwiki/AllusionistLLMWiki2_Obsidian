@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_stoicism
 title: ストア哲学
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "stoicism"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0053_analogous_to_E_ch0053_ガルズ_says_生理的欲求_p2060_stoicism]] — ガルズがマリーに「生理的欲求など所詮は死の前ではまやかしでしかない」と説くのは、快楽や苦痛といった身体的感覚を理性で超越しようとするストア哲学の禁欲主義的姿勢の現代的変奏である。
+- [[A_ch5079_sublates_E_p166-p168_stoicism]] — 感情を制御していても意思は消えず、敵意は判断であるとする主人公の論理は、キリスト教の禁欲主義やストア派哲学における「感情の排除と理性による行動決定」を現代SF的に昇華させている。

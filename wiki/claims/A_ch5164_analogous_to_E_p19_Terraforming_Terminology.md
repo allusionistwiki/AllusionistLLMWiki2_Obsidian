@@ -1,11 +1,11 @@
 ---
 schema_version: "5.1"
 id: A_ch5164_analogous_to_E_p19_Terraforming_Terminology
-title: テラフォーミングの換骨奪胎
+title: テラフォーミング的異界記憶改変
 
 type: analytical_claim
 created: "2026-10-19"
-subject: "[[E_ch5164_竜骨の森_is_made_of_墓標船とテラフォーミング_p19]]"
+subject: "[[E_ch5164_竜骨の森_is_made_of_墓標船と異界の記憶_p19]]"
 predicate: analogous_to
 object: "[[ME_Terraforming_Terminology]]"
 epistemic_status: hypothesized

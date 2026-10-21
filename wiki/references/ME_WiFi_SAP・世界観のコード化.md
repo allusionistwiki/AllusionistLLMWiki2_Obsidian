@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_WiFi_SAP・世界観のコード化
 title: 現象のインターフェース化
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "WiFi_SAP・世界観のコード化"
 domain: "Contemporary Culture"

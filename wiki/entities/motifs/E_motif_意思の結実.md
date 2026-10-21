@@ -10,7 +10,7 @@ first_appearance: ch5589
 spoiler_after: ch5589
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 意思の結実
 
@@ -22,5 +22,7 @@ updated: '2026-10-19'
 - **unknown**: その意思が結実するか否か。
 答えは未確定のまま、藍と緑の奥に秘されている。
 今は、まだ。
+- **unknown**: その意思が結実するか否か。
+- **unknown**: その意思が結実するか否か。
 
 <!-- /AUTO-GENERATED:symbolic -->

@@ -10,7 +10,7 @@ first_appearance: ch5582
 spoiler_after: ch5582
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 気圧調整
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: ただそれだけの気圧調整。それだけで世界が激変した。
+- **unknown**: ただそれだけの気圧調整。それだけで世界が激変した。
 - **unknown**: ただそれだけの気圧調整。それだけで世界が激変した。
 
 <!-- /AUTO-GENERATED:action -->

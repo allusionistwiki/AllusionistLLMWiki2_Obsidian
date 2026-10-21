@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_テテリビナ
 type: entity
 subtype: character
 canonical_name: テテリビナ
-title: "テテリビナ"
+title: テテリビナ
 first_appearance: ch0202
 spoiler_after: ch0202
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # テテリビナ
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > 英雄とは、救世主とは、違う面から見れば虐殺者になり得る。　顕花のティリビナ人に終末の冬をもたらす破壊の英雄。　それが『テテリビナとしてのコルセスカ』だ。（ch0212）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: リーヴァリオンの翼、生命の美を司るテテリビナ。
+- **unknown**: リーヴァリオンの翼、生命の美を司るテテリビナ。
+
+<!-- /AUTO-GENERATED:name -->

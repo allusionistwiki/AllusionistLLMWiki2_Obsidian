@@ -4,7 +4,7 @@ id: A_ch5580_alludes_to_E_ch5580_リーナ_thinks_黄金位鍵の設定の既視
 title: アイドルゲームメカニクスへの暗喩
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5580_リーナ_thinks_黄金位鍵の設定の既視感_p62]]"
 predicate: alludes_to
 object: "[[ME_Idol_Game_Mechanics]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5580
 evidence_strength: moderate
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > なんだか『あれ？　どっかで聞いた感じの設定だな？』という気もするし、前に友達と一緒に地下アイドルをやっていた時にそんな感じの話をメートリアンとかトリシューラあたりから聞いた気がしないでもない。（p62）
 
-**審査（LLM 代替）**: リーナが地下アイドル時代の「カード収集・対バン」というゲーム的メカニクスを連想し、世界の厳粛な設定（黄金位の鍵）との類似性を自覚的に指摘している点は、作品のメタフィクション構造（ジャンル自己言及）として明確に支持される。
+**審査（LLM 代替）**: リーナの内面独白で「地下アイドル」「対バン」という現実のゲーム的・文化的メカニクスが明示されており、作品内の設定を消費文化のパターンとして相対化するメタフィクション的な構造を支持する根拠として妥当である。

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_功利主義に対する絶対的愛カント的義務論
 title: 愛のカント的義務論
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "功利主義に対する絶対的愛カント的義務論"
 domain: "Contemporary Culture"

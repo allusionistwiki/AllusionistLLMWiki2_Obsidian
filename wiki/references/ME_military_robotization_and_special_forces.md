@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_military_robotization_and_special_forces
+title: 軍用ロボ・特殊部隊
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "military_robotization_and_special_forces"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# {military_robotization_and_special_forces}
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5242_analogous_to_E_p80_military_robotization_and_special_forces]] — 無人兵器の普及に伴う人間兵士の『超人化』要求は、現代の軍事技術における自動化と特殊部隊の高度な身体強化・サイバー化の趨勢を反映している。

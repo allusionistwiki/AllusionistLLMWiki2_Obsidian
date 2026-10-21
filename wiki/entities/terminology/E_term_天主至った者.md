@@ -10,7 +10,7 @@ first_appearance: ch5589
 spoiler_after: ch5589
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 天主至った者
 
@@ -21,5 +21,7 @@ updated: '2026-10-19'
 
 - **unknown**: 天主に至った者が小鬼化した時、何が起きるのか。
 考えたくもないその脅威に、今さら震えることはしない。
+- **unknown**: 天主に至った者が小鬼化した時、何が起きるのか。
+- **unknown**: 天主に至った者が小鬼化した時、何が起きるのか。
 
 <!-- /AUTO-GENERATED:name -->

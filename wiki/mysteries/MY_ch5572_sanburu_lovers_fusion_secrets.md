@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5572_sanburu_lovers_fusion_secrets
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5572
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5572
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 > 霊媒たるピュクシスの中で二重の記録が同時再生され、巨人となって世界を捩じる。混ぜる。混濁の果てに新たな景色を映し出す。（p100）
 > 常に対であった二人は、いまはじめて個となって互いを発見した。（p223）
 
-**審査（LLM 代替）**: 「二重の記録」や「混濁」という描写から、「意識の消去・上書き」は原文に明記されておらず、解釈が飛躍しているため。
+**審査（LLM 代替）**: 「個人としての意識（一目惚れ）を消去」という解釈は原文の「常に対であった二人は、いまはじめて個となって互いを発見した」に反するため、「融合による自我の解体と再発見」という記述へ修正する。

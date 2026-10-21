@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_atheism_vs_fantasy_gods
+title: 無神論的消去
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "atheism_vs_fantasy_gods"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# atheism_vs_fantasy_gods
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5188_inverts_E_ch5188_サリア_says_無神論の宣告_p218_atheism_vs_fantasy_gods]] — ファンタジー世界で神々が実在する状況下での「無神論」の宣言は、存在論的な否定というより、支配構造に対する政治的・精神的な拒絶表明である。

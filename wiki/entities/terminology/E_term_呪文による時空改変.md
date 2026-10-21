@@ -10,7 +10,7 @@ first_appearance: ch5578
 spoiler_after: ch5578
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 呪文による時空改変
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: それは史学的な手続きの黙殺であり、権力による認知戦でもある。
+- **unknown**: それは史学的な手続きの黙殺であり、権力による認知戦でもある。
 - **unknown**: それは史学的な手続きの黙殺であり、権力による認知戦でもある。
 
 <!-- /AUTO-GENERATED:symbolic -->

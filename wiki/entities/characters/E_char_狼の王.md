@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0006_analogous_to_E_ch0006_アキラ_dies_狼の王_p306_grinding|作業的戦闘の無意味さ]]
+- A_ch0006_analogous_to_E_ch0006_アキラ_dies_狼の王_p306_grinding（作業的戦闘の無意味さ）
 
 <!-- AUTO:END -->
 

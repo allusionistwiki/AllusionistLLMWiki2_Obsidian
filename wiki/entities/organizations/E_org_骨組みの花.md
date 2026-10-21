@@ -10,7 +10,7 @@ spoiler_after: ch0052
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # 骨組みの花
@@ -28,7 +28,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0053_analogous_to_E_ch0053_骨組みの花_other_無謀な任務_p2066_sunk_cost_fallacy|サンクコストの誤謬の構造]]
+- A_ch0053_analogous_to_E_ch0053_骨組みの花_other_無謀な任務_p2066_sunk_cost_fallacy（サンクコストの誤謬の構造）
 
 <!-- AUTO:END -->
 
@@ -67,3 +67,11 @@ updated: '2026-10-19'
 - **unknown**: 「そこで白羽の矢が立ったのが僕たち【骨組みの花】というわけだ。クロウサー家四大血族が一つ、マウザの長子が率いる四英雄に準ずる探索者集団。なるほど、順当ではあるだろうね。だが余りに無謀だ」
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 「【骨組みの花】再結成だ――マリー、いくよ」
+- **unknown**: 「【骨組みの花】再結成だ――マリー、いくよ」
+
+<!-- /AUTO-GENERATED:name -->

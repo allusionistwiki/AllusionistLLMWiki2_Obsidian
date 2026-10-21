@@ -4,7 +4,7 @@ id: A_ch5569_inverts_E_ch5569_サンブル家幻像_defines_結婚の目的_p293
 title: 愛を生殖義務へ転倒させる家父長制
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5569_サンブル家幻像_defines_結婚の目的_p293]]"
 predicate: inverts
 object: "[[ME_子作り・生殖義務]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5569
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 結婚。生殖。種の存続。祝福されるべき生命の目的。（p293）
 
-**審査（LLM 代替）**: サンブル家の「種の存続」を至上価値とする論理は、ロマンティックな愛観念を生物学的・社会的義務へ転倒させる構造として明確に提示されている。
+**審査（LLM 代替）**: サンブル家の論理が「種の存続」という生物学的・管理的義務へ愛を転倒させている点は、ロマン主義的価値観の解体として原文から明確に読み取れる。

@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5588_Mibrina_Ghost_Availability
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5588
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5588
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -23,4 +23,4 @@ provenance:
 
 > 私の残影（ゴースト）と軽く流すことさえできなくなるだろうな。それは困る（p73）
 
-**審査（LLM 代替）**: ミブリナが「残影（ゴースト）」として干渉可能であるという状態設定は、彼女の生存形態に関する重要な伏線（謎）として機能している。
+**審査（LLM 代替）**: ミブリナが「残影（ゴースト）」として干渉可能であり、その生死の境界が曖昧に描かれていることは、伏線としての謎要素（MY_）として妥当である。

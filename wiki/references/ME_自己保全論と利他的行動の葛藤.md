@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_自己保全論と利他的行動の葛藤
 title: 利他と自己保存の葛藤
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "自己保全論と利他的行動の葛藤"
 domain: "Contemporary Culture"

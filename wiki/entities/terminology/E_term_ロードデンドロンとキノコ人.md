@@ -10,7 +10,7 @@ first_appearance: ch5581
 spoiler_after: ch5581
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # ロードデンドロンとキノコ人
 
@@ -21,5 +21,7 @@ updated: '2026-10-19'
 
 - **unknown**: ロードデンドロンや配下のキノコ人たちが、呼吸できない状態に陥っていた。
 空気があるはずなのに、だ。
+- **unknown**: ロードデンドロンや配下のキノコ人たちが、呼吸できない状態に陥っていた。
+- **unknown**: ロードデンドロンや配下のキノコ人たちが、呼吸できない状態に陥っていた。
 
 <!-- /AUTO-GENERATED:visual -->

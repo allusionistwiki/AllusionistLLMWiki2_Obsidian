@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_AR_game_overlay
+title: ARゲームUI
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "AR_game_overlay"
+domain: "Contemporary Consumer Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# {AR_game_overlay}
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5004_parodies_E_ch5004_p21_AR_game_overlay]] — 異世界の魔法的な回避・反撃が、現実のスマホゲームにおけるAR（拡張現実）UIインターフェースによって処理されていることを示唆する。

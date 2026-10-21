@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_骨の剣
 type: entity
 subtype: item
 canonical_name: 骨の剣
-title: "骨の剣"
+title: 骨の剣
 first_appearance: ch0125
 spoiler_after: ch0125
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 骨の剣
@@ -26,3 +27,11 @@ created: "2026-09-30"
 > 斬鉄を成し遂げたのは、骨だ。真の王子となった男の胸から引き抜かれた刃は、白骨を薄く鋭く引き伸ばしたかのような異形――それこそが彼が胸に抱いていた『王国の剣』なのだった。（ch0193）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 飛び出した剣は飛翔して氷塊の中に飛び込み、そのまま亀裂に突き刺さった。閃光が迸り、刃は氷に深々と突き刺さった。
+- **unknown**: 飛び出した剣は飛翔して氷塊の中に飛び込み、そのまま亀裂に突き刺さった。閃光が迸り、刃は氷に深々と突き刺さった。
+
+<!-- /AUTO-GENERATED:action -->

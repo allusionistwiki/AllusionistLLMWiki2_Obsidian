@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: A_ch5241_analogous_to_E_p309_desire_as_power_source
+title: 欲望源の呪力化と消費文化
+
+type: analytical_claim
+created: "2026-10-21"
+subject: "[[E_ch5241_アキラ_observes_トリシューラの寝顔_p3]]"
+predicate: analogous_to
+object: "[[ME_desire_as_power_source]]"
+epistemic_status: hypothesized
+review_status: llm_verified
+document_status: draft
+spoiler_after: ch5241
+evidence_strength: moderate
+provenance:
+  proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
+
+# 「ポルノスター」を偶像として崇め、欲望そのものを呪力の発電機と見なす思想は、性的エネルギーを文化的・経済的価値へ転換する資本主義的な消費文化や、ファンタジーにおける信仰心を電力源とする魔法設定の類推である。
+
+> 『ポルノスター』として名が売れれば、高い社会的ステータスと収入を得ることだってできる。あらゆる原始的な欲望が向かう先であるポルノスターは一種の偶像であり、呪力の発電機であるとも言えた。（p307-p309）
+
+**審査（LLM 代替）**: 欲望を「呪力の発電機」と定義する設定は、資本主義的消費文化およびファンタジーにおける信仰・エネルギー転換の類推として成立している。

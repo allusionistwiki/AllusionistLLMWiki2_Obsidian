@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_deus_ex_machina
 title: 機械仕掛けの神
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "deus_ex_machina"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0070_foreshadows_E_ch0070_紀元神群_appears_威容_p2620_deus_ex_machina]] — 第零の位階の存在による魔将の平伏は、人間側の戦いを超えた上位存在の介入が物語の結末を決定づける構造（デウス・エクス・マキナ的展開）を示唆している。
+- [[A_ch5227_analogous_to_E_ch5227_小さな子供_appears_戦場_p21_deus_ex_machina]] — 「都合良く現れた」子供は、物語の展開を意図的に変えるための機械仕掛けの神（デウス・エクス・マキナ）的な装置である。

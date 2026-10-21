@@ -10,7 +10,7 @@ first_appearance: ch5588
 spoiler_after: ch5588
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # レメスとシナモリアキラ
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 同じ位階に到達した新参者に対し、争っていたレメスとシナモリアキラが一時休戦して警戒を示す。
+- **unknown**: 同じ位階に到達した新参者に対し、争っていたレメスとシナモリアキラが一時休戦して警戒を示す。
 - **unknown**: 同じ位階に到達した新参者に対し、争っていたレメスとシナモリアキラが一時休戦して警戒を示す。
 
 <!-- /AUTO-GENERATED:action -->

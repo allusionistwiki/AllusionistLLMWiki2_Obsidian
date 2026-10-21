@@ -10,7 +10,7 @@ first_appearance: ch5230
 spoiler_after: ch5230
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 新居留区
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 建設中の新居留区が幾つか伸びかけの枝となって世界槍から生えている。
+- **unknown**: 建設中の新居留区が幾つか伸びかけの枝となって世界槍から生えている。
 - **unknown**: 建設中の新居留区が幾つか伸びかけの枝となって世界槍から生えている。
 
 <!-- /AUTO-GENERATED:visual -->

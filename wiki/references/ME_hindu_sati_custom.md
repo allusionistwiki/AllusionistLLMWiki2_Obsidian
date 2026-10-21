@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_hindu_sati_custom
+title: サティと破壊再生
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "hindu_sati_custom"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# hindu_sati_custom
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5118_alludes_to_E_sati_mythology_hindu_sati_custom]] — トリシューラが語る神話において、サティ（夫の死を悼み焼身自殺するインドの風習）とブラフマーによる引き裂きが言及され、破壊と再生の構造を示唆している。

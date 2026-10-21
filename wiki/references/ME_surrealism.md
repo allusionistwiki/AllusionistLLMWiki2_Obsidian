@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_surrealism
+title: シュルレアリスム
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "surrealism"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# surrealism
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5315_analogous_to_E_ch5315_青く煌めく蝶_transforms_茶器_p52_surrealism]] — 超現実主義の絵画のような変容を描き、夢と現実の境界を意図的に溶解させる視覚演出。

@@ -10,7 +10,7 @@ first_appearance: ch5579
 spoiler_after: ch5579
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 大断絶時代
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 西方と東方の分断は天地への再配置となり、現在の『大断絶時代』になった。
+- **unknown**: 西方と東方の分断は天地への再配置となり、現在の『大断絶時代』になった。
 - **unknown**: 西方と東方の分断は天地への再配置となり、現在の『大断絶時代』になった。
 
 <!-- /AUTO-GENERATED:symbolic -->

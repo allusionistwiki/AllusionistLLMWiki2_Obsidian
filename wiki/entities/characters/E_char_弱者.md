@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0018_analogous_to_E_ch0018_レオ_helps_弱者_p796_人道支援・NGO活動|人道支援・NGO]]
+- A_ch0018_analogous_to_E_ch0018_レオ_helps_弱者_p796_人道支援・NGO活動（人道支援・NGO）
 
 <!-- AUTO:END -->

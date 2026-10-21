@@ -10,7 +10,7 @@ spoiler_after: ch0001
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # 転生技術
@@ -48,3 +48,11 @@ updated: '2026-10-19'
 - **unknown**: 基本的に、犯罪者の転生は法律で禁止されている。
 
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 転生技術の発展によって、多くの異世界で数学の体系や物理定数までがほとんど同一であることが判明している。異なる発展を遂げても、物理法則を形作る公式までは大きく違わないことがほとんどなのである。
+魔法や幻想が存在する異世界であっても数学だけは変わらない。
+
+<!-- /AUTO-GENERATED:speech -->

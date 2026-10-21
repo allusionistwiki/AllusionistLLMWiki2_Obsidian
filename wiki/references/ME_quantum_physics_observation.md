@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_quantum_physics_observation
 title: 量子観測効果
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "quantum_physics_observation"
 domain: "Contemporary Culture"

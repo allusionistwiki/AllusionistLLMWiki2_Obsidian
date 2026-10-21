@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_autonomous_driving_systems
+title: 自動運転技術
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "autonomous_driving_systems"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# autonomous_driving_systems
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5346_analogous_to_E_p4_autonomous_driving_systems]] — 【サイバーカラテ道場】による戦局の自動最適化は、格闘ゲームにおけるAI制御や対戦データのリアルタイム解析を、スポーツ競技に適用したSF的拡張として描かれている。

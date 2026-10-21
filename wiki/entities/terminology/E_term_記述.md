@@ -10,7 +10,7 @@ first_appearance: ch5589
 spoiler_after: ch5589
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 記述
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
+- **unknown**: だが文字情報が支配する世界では強度のある記述が最も強い。
+- **unknown**: だが文字情報が支配する世界では強度のある記述が最も強い。
 - **unknown**: だが文字情報が支配する世界では強度のある記述が最も強い。
 
 <!-- /AUTO-GENERATED:name -->

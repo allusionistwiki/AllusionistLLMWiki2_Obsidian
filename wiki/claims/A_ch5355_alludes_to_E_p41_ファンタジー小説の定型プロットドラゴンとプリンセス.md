@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: A_ch5355_alludes_to_E_p41_ファンタジー小説の定型プロットドラゴンとプリンセス
+title: 竜と姫のステレオタイプへのメタ的嘲弄
+
+type: analytical_claim
+created: "2026-10-21"
+subject: "[[E_ch5355_ルバーブ回想_confesses_セレス姫への執着_p106]]"
+predicate: alludes_to
+object: "[[ME_ファンタジー小説の定型プロットドラゴンとプリンセス]]"
+epistemic_status: hypothesized
+review_status: llm_verified
+document_status: draft
+spoiler_after: ch5355
+evidence_strength: strong
+provenance:
+  proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
+
+# アレッテの台詞「竜の振る舞いは似たり寄ったり。あなたも同じね...お姫様を探しに行きましょう」は、RPGやファンタジー作品におけるドラゴンの役割（姫を奪う／守る）というステレオタイプな物語構造をメタ的に指摘・嘲弄している。
+
+> 「どんな物語でも、竜の振る舞いは似たり寄ったり。あなたも同じね、かわいそうなマラード。お姫様を探しに行きましょう。財宝を奪いに行きましょう。残酷な時の流れは待ってくれないけれど、永遠の美しさはきっとこの先にあるから」（p41）
+
+**審査（LLM 代替）**: アレッテの台詞は「どんな物語でも...似たり寄ったり」と明言しており、ファンタジーにおけるドラゴンとプリンセスのプロット構造をメタ的に自覚・嘲弄している証拠が直接的である。

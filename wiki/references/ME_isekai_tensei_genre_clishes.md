@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_isekai_tensei_genre_clishes
 title: 異世界転生定石
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "isekai_tensei_genre_clishes"
 domain: "Contemporary Culture"

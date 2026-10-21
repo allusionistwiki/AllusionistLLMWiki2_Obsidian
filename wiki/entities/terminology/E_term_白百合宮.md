@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_白百合宮
 type: entity
 subtype: terminology
 canonical_name: 白百合宮
-title: "白百合宮"
+title: 白百合宮
 first_appearance: ch0049
 spoiler_after: ch0049
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 白百合宮
@@ -25,3 +26,12 @@ created: "2026-09-30"
 > 偉大なるティリビナ人の庇護者エクリエッテとスーリウムに導かれてやってきたのは、砂漠に咲き誇る孤高なる時空の間隙。 その名を白百合宮という。（ch5583）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 偉大なるティリビナ人の庇護者エクリエッテとスーリウムに導かれてやってきたのは、砂漠に咲き誇る孤高なる時空の間隙。
+その名を白百合宮という。
+- **unknown**: 偉大なるティリビナ人の庇護者エクリエッテとスーリウムに導かれてやってきたのは、砂漠に咲き誇る孤高なる時空の間隙。
+
+<!-- /AUTO-GENERATED:visual -->

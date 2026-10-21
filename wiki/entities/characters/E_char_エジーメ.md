@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_エジーメ
 type: entity
 subtype: character
 canonical_name: エジーメ
-title: "エジーメ"
+title: エジーメ
 first_appearance: ch5574
 spoiler_after: ch5574
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # エジーメ
@@ -25,3 +26,14 @@ created: "2026-09-30"
 > エジーメは異なる世界への架橋を夢想した。 異なる存在との合一と変成を試みた。（ch5574）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『なぜなら、それこそが超越的な神（ほんのう）によって与えられた使命であり、救済であり、神の恵みたる召命（コーリング）であるからだ』
+- **unknown**: エジーメは異なる世界への架橋を夢想した。
+異なる存在との合一と変成を試みた。
+- **unknown**: 『なぜなら、それこそが超越的な神（ほんのう）によって与えられた使命であり、救済であり、神の恵みたる召命（コーリング）であるからだ』
+- **unknown**: エジーメは異なる世界への架橋を夢想した。
+
+<!-- /AUTO-GENERATED:speech -->

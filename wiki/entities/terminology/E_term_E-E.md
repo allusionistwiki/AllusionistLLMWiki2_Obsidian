@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_E-E
 type: entity
 subtype: terminology
 canonical_name: E-E
-title: "E-E"
+title: E-E
 first_appearance: ch0018
 spoiler_after: ch0018
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # E-E
@@ -26,6 +27,14 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0018_analogous_to_E_ch0018_アキラ_uses_E-E_p792_感情制御アプリ・SNSのフィルタリング|感情労働のアプリ化と分離]]
+- A_ch0018_analogous_to_E_ch0018_アキラ_uses_E-E_p792_感情制御アプリ・SNSのフィルタリング（感情労働のアプリ化と分離）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 【E-E】は、俺を俺の状態のまま保持し続ける為の【意思】であり【鎧】でもあった。脆い精神を保護し、外圧を受け止め、どんな困難な状況でも心が折れるという最悪の事態だけは回避し続けた、俺にとっては右の義肢よりも更に頼りにしていた、いわば精神の装具。
+- **unknown**: 【E-E】は、俺を俺の状態のまま保持し続ける為の【意思】であり【鎧】でもあった。脆い精神を保護し、外圧を受け止め、どんな困難な状況でも心が折れるという最悪の事態だけは回避し続けた、俺にとっては右の義肢よりも更に頼りにしていた、いわば精神の装具。
+
+<!-- /AUTO-GENERATED:symbolic -->

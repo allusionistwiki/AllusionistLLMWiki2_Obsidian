@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_ME_Social_Media_Feed_Algorithm
+title: フィルターバブル球体
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "ME_Social_Media_Feed_Algorithm"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# ME_Social_Media_Feed_Algorithm
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5436_analogous_to_E_p64_ME_Social_Media_Feed_Algorithm]] — 笑顔のテクスチャで覆われた球体は、肯定的な表象によって中心にあるべき多様性や真実を遮蔽し、視覚的に統一されたイメージを強制する構造を示唆している。

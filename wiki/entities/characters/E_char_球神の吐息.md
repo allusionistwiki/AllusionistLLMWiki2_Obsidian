@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_球神の吐息
+type: entity
+subtype: character
+canonical_name: 球神の吐息
+title: "球神の吐息"
+first_appearance: ch5358
+spoiler_after: ch5358
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 球神の吐息
+
+アルマに対して自らの名を「球神の吐息」として名乗る存在である。ルバーブによって大呪術として発動され、ミナを圧壊させる効果を持つとされる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5358 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「【球神の吐息】よ」（ch5358）
+> 「『球神の吐息』よ」 神話に語られる妖精滅殺の大呪術。防御不可能の重圧が巨漢の口から放射され、前に出たミナの全身が空中で圧壊。（ch5529）
+
+<!-- AUTO:END -->

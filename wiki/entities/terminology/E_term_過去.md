@@ -1,6 +1,6 @@
 ---
-title: "過去"
-schema_version: "5.1"
+title: 過去
+schema_version: '5.1'
 id: E_term_過去
 type: entity
 subtype: terminology
@@ -9,7 +9,8 @@ first_appearance: ch0069
 spoiler_after: ch0069
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 過去
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 時間を司る『灰』の色号。　本来何色でも無い『それ』は、メイファーラの中に入り込むことで、『過去』の属性を強めていった。（ch0075）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 過去に遡って書き換えられていく今までの出来事。
+- **unknown**: 過去に遡って書き換えられていく今までの出来事。
+
+<!-- /AUTO-GENERATED:action -->

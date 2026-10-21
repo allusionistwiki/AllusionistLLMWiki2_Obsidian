@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_world_building_as_narrative
 title: 記述による世界法則
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "world_building_as_narrative"
 domain: "Contemporary Culture"

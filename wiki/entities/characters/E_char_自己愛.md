@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0038_structurally_matches_E_ch0038_ミルーニャ_has_property_自己愛_p1711_ナルシシズムと自己保存本能|ナルシシズムの肉体変異]]
+- A_ch0038_structurally_matches_E_ch0038_ミルーニャ_has_property_自己愛_p1711_ナルシシズムと自己保存本能（ナルシシズムの肉体変異）
 
 <!-- AUTO:END -->

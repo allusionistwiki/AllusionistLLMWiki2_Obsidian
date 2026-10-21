@@ -10,7 +10,7 @@ first_appearance: ch5588
 spoiler_after: ch5588
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 小鬼ゴブリン化
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 第七階梯の裏側。小鬼（ゴブリン）という悪夢が現出する。
+- **unknown**: 第七階梯の裏側。小鬼（ゴブリン）という悪夢が現出する。
 - **unknown**: 第七階梯の裏側。小鬼（ゴブリン）という悪夢が現出する。
 
 <!-- /AUTO-GENERATED:symbolic -->

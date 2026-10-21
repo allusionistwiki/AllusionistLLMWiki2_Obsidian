@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5578_chise_ethics_gap
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5578
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5578
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -23,4 +23,4 @@ provenance:
 
 > 薬物処理とか、精神加工とかで抑制しつつ、保護区で守ってあげる～。大事な少数血統だもんね～、ちゅっ（p125）
 
-**審査（LLM 代替）**: チッセの「優しい呪文（管理・保護）」とロードデンドロンの「尊厳」の対立は、今後の展開における倫理的葛藤の重要な伏線となっている。
+**審査（LLM 代替）**: チッセの「優しい呪文」による管理と、それに対するリーナらの嫌悪・対立は、「保護」という暴力を巡る倫理的葛藤を示す伏線であり、今後の衝突の核となる。

@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_email_correspondence
+title: メール通信
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "email_correspondence"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# email_correspondence
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5190_analogous_to_E_ch5190_ハルベルト_other_来歴語りと手紙_p203_email_correspondence]] — 遠方から「手紙（メール）」を預かるという記述は、ファンタジー世界の通信手段が現実のメールシステムと直結していることを示す。

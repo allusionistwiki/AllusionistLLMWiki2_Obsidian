@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0118_alludes_to_E_ch0118_アキラ_names_トバルカイン_p4162_tubal_cain_bible|聖書由来の兵器命名]]
+- A_ch0118_alludes_to_E_ch0118_アキラ_names_トバルカイン_p4162_tubal_cain_bible（聖書由来の兵器命名）
 
 <!-- AUTO:END -->

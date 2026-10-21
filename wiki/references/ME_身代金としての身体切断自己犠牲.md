@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_身代金としての身体切断自己犠牲
 title: 身体切断による対価
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "身代金としての身体切断自己犠牲"
 domain: "Contemporary Culture"

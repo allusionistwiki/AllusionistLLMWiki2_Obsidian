@@ -10,7 +10,7 @@ first_appearance: ch5576
 spoiler_after: ch5576
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 未知の存在
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 遥か後方から高速で追い付いてきた何かが、風を裂いてオルガンローデに直撃。
+- **unknown**: 遥か後方から高速で追い付いてきた何かが、風を裂いてオルガンローデに直撃。
 - **unknown**: 遥か後方から高速で追い付いてきた何かが、風を裂いてオルガンローデに直撃。
 
 <!-- /AUTO-GENERATED:action -->

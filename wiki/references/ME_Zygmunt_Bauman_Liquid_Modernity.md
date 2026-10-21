@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_Zygmunt_Bauman_Liquid_Modernity
+title: 液状化する近代
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "Zygmunt_Bauman_Liquid_Modernity"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# Zygmunt_Bauman_Liquid_Modernity
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5095_structurally_matches_E_5095_River_Relationships_Zygmunt_Bauman_Liquid_Modernity]] — 関係性を「水のように形が無く、流動的で捉えがたいもの」と定義する叙述は、ジグムント・バウマンの『液状化』した近代における人間関係の脆弱性と流動性を想起させる。

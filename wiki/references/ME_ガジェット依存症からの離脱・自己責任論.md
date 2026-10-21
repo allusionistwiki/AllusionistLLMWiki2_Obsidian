@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_ガジェット依存症からの離脱・自己責任論
+title: 主体性の回復
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "ガジェット依存症からの離脱・自己責任論"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# ガジェット依存症からの離脱・自己責任論
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5043_alludes_to_E_サイバーカラテ道場の無視_ガジェット依存症からの離脱・自己責任論]] — 最適化されたアプリ指示を無視し非合理的なフェイントを行う行為は、システム的な「正解」を拒否し、自身の意思で戦況を支配する主体性の回復を示唆している。

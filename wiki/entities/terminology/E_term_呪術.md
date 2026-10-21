@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_呪術
 type: entity
 subtype: terminology
 canonical_name: 呪術
-title: "呪術"
+title: 呪術
 first_appearance: ch0091
 spoiler_after: ch0091
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 呪術
@@ -27,3 +28,11 @@ created: "2026-09-30"
 > イアテムは傲然と言いながらセージに何らかの呪術をかける。見ただけでそれとわかる力関係。（ch0130）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 呪術は人間の知的営みを拡張することなのだと、トリシューラは言っていた。
+- **unknown**: 呪術は人間の知的営みを拡張することなのだと、トリシューラは言っていた。
+
+<!-- /AUTO-GENERATED:symbolic -->

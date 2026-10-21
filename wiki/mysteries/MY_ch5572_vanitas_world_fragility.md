@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5572_vanitas_world_fragility
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5572
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5572
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -23,4 +23,4 @@ provenance:
 
 > せめぎあう白と黒。世界の境界部分が、突如として輝く。まるで衝突それ自体のエネルギーが新たなエネルギーを生み出すかのように。（p166-p167）
 
-**審査（LLM 代替）**: 引用は「白と黒の衝突」が生むエネルギー描写のみであり、「サンブル家の圧倒的な力によって破壊された」という因果関係は原文に存在しないため。
+**審査（LLM 代替）**: 引用は「白と黒の対立」がエネルギーを生む様子を描写しているが、「サンブル家の圧倒的な力によって破壊された」という事実はこの引用から読み取れないため、世界構造の脆弱性への示唆としてトーンを修正する。

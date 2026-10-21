@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_revisionism_history_politics
 title: 歴史修正主義
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "revisionism_history_politics"
 domain: "Contemporary Culture"

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_biblical_cain_mark
 title: カインの印
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "biblical_cain_mark"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5578_analogous_to_E_p190_biblical_cain_mark]] — カインへの「ティリビナ人」という一文の追加要求は、聖書のカインが記される際の『印（mark）』の概念と重なり、マイノリティとしての烙印やアイデンティティの強制を想起させる。
+- [[A_ch5578_analogous_to_E_p190_biblical_cain_mark]] — カインへの属性追加要求は、歴史的記述において特定の属性（他者性）を付与・固定化することによるアイデンティティの政治的支配を示唆している。

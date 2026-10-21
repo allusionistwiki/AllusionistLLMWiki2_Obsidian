@@ -5,7 +5,7 @@ title: 力行使に伴う個我喪失の恐怖
 
 type: analytical_claim
 created: "2026-10-19"
-subject: "[[E_ch5188_サリア_fears_個我の喪失_p18]]"
+subject: "[[E_ch5188_サリア_conceals_精神の侵食_p18]]"
 predicate: analogous_to
 object: "[[ME_自己保全論と利他的行動の葛藤]]"
 epistemic_status: hypothesized

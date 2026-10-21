@@ -10,7 +10,7 @@ first_appearance: ch0094
 spoiler_after: ch0094
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 劇
 
@@ -28,6 +28,9 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: この筋書きは明らかに破綻している。
+だが、破綻したまま劇は続いていくのだ。
+- **unknown**: この筋書きは明らかに破綻している。
 - **unknown**: 劇の中で、昔語りが始まった。
 - **unknown**: 劇の中で、昔語りが始まった。
 - **unknown**: 劇の中で、昔語りが始まった。

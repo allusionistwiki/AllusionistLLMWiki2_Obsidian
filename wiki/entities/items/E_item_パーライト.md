@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_item_パーライト
 type: entity
 subtype: item
 canonical_name: パーライト
-title: "パーライト"
+title: パーライト
 first_appearance: ch5586
 spoiler_after: ch5586
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # パーライト
@@ -25,3 +26,20 @@ created: "2026-09-30"
 > まるで、強烈な陽光に幾度となく晒されたことでその破壊力に適応したかのように。呪石は陽の光を受けてかえってその輝きを増していく。（ch5586）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: このコアは、生きている。
+意思を持った岩肌種（トロル）の『化身』だ。
+- **unknown**: このコアは、生きている。
+
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: まるで、強烈な陽光に幾度となく晒されたことでその破壊力に適応したかのように。呪石は陽の光を受けてかえってその輝きを増していく。
+- **unknown**: まるで、強烈な陽光に幾度となく晒されたことでその破壊力に適応したかのように。呪石は陽の光を受けてかえってその輝きを増していく。
+
+<!-- /AUTO-GENERATED:action -->

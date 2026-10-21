@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_famous_person_portraits_on_banknotes
+title: 紙幣の肖像画
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "famous_person_portraits_on_banknotes"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# famous_person_portraits_on_banknotes
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5070_alludes_to_E_5070_P26_famous_person_portraits_on_banknotes]] — 紙幣に描かれたグレンデルヒ＝ライニンサルの肖像は、現実の日本円や各国通貨に著名な歴史上の人物（福沢諭吉、ウィリアム・シェイクスピア等）が描かれ文化的権威を付与する慣習を引き喩えている。

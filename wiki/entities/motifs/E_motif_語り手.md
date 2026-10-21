@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_motif_語り手
 type: entity
 subtype: visual_motif
 canonical_name: 語り手
-title: "語り手"
+title: 語り手
 first_appearance: ch0144
 spoiler_after: ch0144
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 語り手
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 流星ひとつ、願いはふたつ。 瞬く間に消えてしまうあの星をこの手に掴めれば、思い出せない願いもはっきりとするのだろうか。寂しさを埋めたくて、空に手を伸ばす。 一繋がりの片割れが、どうしても思い出せない。（ch0144）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 長い、あまりにも長い語りが、氷の中で終わりを告げようとしていた。締め括る言葉は、いつか差し伸べられた掌にも似て。
+- **unknown**: 長い、あまりにも長い語りが、氷の中で終わりを告げようとしていた。締め括る言葉は、いつか差し伸べられた掌にも似て。
+
+<!-- /AUTO-GENERATED:symbolic -->

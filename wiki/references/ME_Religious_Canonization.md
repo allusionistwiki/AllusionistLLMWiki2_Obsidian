@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_Religious_Canonization
 title: 宗教的叙任式
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "Religious_Canonization"
 domain: "Contemporary Culture"

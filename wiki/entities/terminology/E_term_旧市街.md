@@ -10,7 +10,7 @@ spoiler_after: ch0222
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # 旧市街
@@ -44,3 +44,12 @@ updated: '2026-10-19'
 - **unknown**: 「夕方から夜にかけて、この移動する区画は『過去』になる」 過去へと遡り続ける異界であり、隔離された時空間。
 
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: というより意図的に『古い景観』を再現した観光用の区画だった。
+機械女王が好む『杖』の現代建築は姿を隠し、古臭い呪紋扉や曲がり屋根といった様式の建造物が目立つ。
+- **unknown**: というより意図的に『古い景観』を再現した観光用の区画だった。
+
+<!-- /AUTO-GENERATED:visual -->

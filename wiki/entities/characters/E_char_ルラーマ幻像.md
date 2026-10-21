@@ -10,7 +10,7 @@ first_appearance: ch5569
 spoiler_after: ch5569
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # ルラーマ幻像
 
@@ -20,12 +20,16 @@ updated: '2026-10-19'
 ## 行動・動作
 
 - **unknown**: 「よし、ちょっと休憩しよっか」
+- **unknown**: 「よし、ちょっと休憩しよっか」
+- **unknown**: 「よし、ちょっと休憩しよっか」
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「ねえ、きいてよダーリン、ほんとうんざりしちゃう！」
+- **unknown**: 「ねえ、きいてよダーリン、ほんとうんざりしちゃう！」
 - **unknown**: 「ねえ、きいてよダーリン、ほんとうんざりしちゃう！」
 
 <!-- /AUTO-GENERATED:speech -->

@@ -29,7 +29,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0055_analogous_to_E_ch0055_主人公_learns_抽象化と推論能力_p2108_machine_learning_neural_network|ニューラルネット的な情報処理]]
-- [[A_ch0055_parodies_E_ch0055_主人公_observes_模倣子_p2110_augmented_reality|拡張現実のミーム化]]
+- A_ch0055_analogous_to_E_ch0055_主人公_learns_抽象化と推論能力_p2108_machine_learning_neural_network（ニューラルネット的な情報処理）
+- A_ch0055_parodies_E_ch0055_主人公_observes_模倣子_p2110_augmented_reality（拡張現実のミーム化）
 
 <!-- AUTO:END -->

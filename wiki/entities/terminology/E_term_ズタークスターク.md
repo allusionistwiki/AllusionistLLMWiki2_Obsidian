@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0074_alludes_to_E_ch0074_ズタークスターク_functions_as_哲学的ゾンビ_p2830_philosophical_zombie|クオリアなき哲学的ゾンビ]]
+- A_ch0074_alludes_to_E_ch0074_ズタークスターク_functions_as_哲学的ゾンビ_p2830_philosophical_zombie（クオリアなき哲学的ゾンビ）
 
 <!-- AUTO:END -->

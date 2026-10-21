@@ -10,7 +10,7 @@ first_appearance: ch0087
 spoiler_after: ch0087
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 第四衛星イルディアンサ
 
@@ -24,3 +24,13 @@ updated: '2026-10-19'
 - **unknown**: 第四衛星イルディアンサには幾つかの『海』がある。　といってもその空間を満たしているのは海水ではない。　情報――文字の海だ。
 
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 第四衛星イルディアンサには幾つかの『海』がある。
+といってもその空間を満たしているのは海水ではない。
+情報――文字の海だ。
+- **unknown**: 第四衛星イルディアンサには幾つかの『海』がある。
+
+<!-- /AUTO-GENERATED:visual -->

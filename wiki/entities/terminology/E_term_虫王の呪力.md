@@ -10,7 +10,7 @@ first_appearance: ch0211
 spoiler_after: ch0211
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 虫王の呪力
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 現れたのは天道虫、蟷螂、蜻蛉にそれぞれキノコを混ぜたような怪物。
+- **unknown**: 現れたのは天道虫、蟷螂、蜻蛉にそれぞれキノコを混ぜたような怪物。
 - **unknown**: 現れたのは天道虫、蟷螂、蜻蛉にそれぞれキノコを混ぜたような怪物。
 - **unknown**: 現れたのは天道虫、蟷螂、蜻蛉にそれぞれキノコを混ぜたような怪物。
 - **unknown**: 現れたのは天道虫、蟷螂、蜻蛉にそれぞれキノコを混ぜたような怪物。

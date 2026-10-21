@@ -10,7 +10,7 @@ first_appearance: ch5588
 spoiler_after: ch5588
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # テセト、ルラーマ、カルパオッソ
 
@@ -21,5 +21,7 @@ updated: '2026-10-19'
 
 - **unknown**: 「テセト、ルラーマ、カルパオッソ、手伝って！」
 風が唸り、三つの人影がその場に参集する。
+- **unknown**: 「テセト、ルラーマ、カルパオッソ、手伝って！」
+- **unknown**: 「テセト、ルラーマ、カルパオッソ、手伝って！」
 
 <!-- /AUTO-GENERATED:action -->

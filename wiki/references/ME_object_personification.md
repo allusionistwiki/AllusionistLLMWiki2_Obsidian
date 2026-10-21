@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_object_personification
+title: 万物の擬人化
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "object_personification"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# object_personification
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5482_alludes_to_E_p6_object_personification]] — 鉄や槍を擬人化し対話する描写は、万物に魂が宿るアニミズム的信仰、あるいはアニメ・ゲームにおける「名付けられた武器」のクリシェを下敷きとしている。

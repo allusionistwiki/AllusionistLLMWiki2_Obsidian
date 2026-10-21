@@ -10,7 +10,7 @@ first_appearance: ch5577
 spoiler_after: ch5577
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 採点
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 試験終了から採点までの時間に一切のタイムラグがなかった。
+- **unknown**: 試験終了から採点までの時間に一切のタイムラグがなかった。
 - **unknown**: 試験終了から採点までの時間に一切のタイムラグがなかった。
 
 <!-- /AUTO-GENERATED:symbolic -->

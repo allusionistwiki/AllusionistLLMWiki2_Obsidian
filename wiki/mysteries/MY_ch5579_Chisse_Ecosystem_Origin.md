@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5579_Chisse_Ecosystem_Origin
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5579
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5579
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 > 「チッセ・ディパーシュ・クロウサー。あなたが内包する生態系の中には植物も含まれているはず。その種は、どこから来たものですか？」
 「ん～、企業ひみつ～」（p140-p142）
 
-**審査（LLM 代替）**: 引用は原文に存在し（verified: true）、チッセの生態系由来という具体的な隠蔽要素を謎として抽出している。
+**審査（LLM 代替）**: チッセ・ディパーシュ・クロウサー内の植物由来が「企業ひみつ」として拒絶され、ロードデンドロンが血縁の根拠として追求しているため、未解明の伏線・謎として有効。

@@ -10,7 +10,7 @@ spoiler_after: ch0073
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # クルエクローキ
@@ -83,3 +83,14 @@ updated: '2026-10-19'
 - **unknown**: 秩序を重んじる真竜クルエクローキはこの火器をことさらに嫌っており、使えばかの竜の怒りを買い、呪いを受けるというのだ。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: この身は運命に守られている。
+財布を落とせば親切な人が必ず届けてくれたし、過酷な訓練で命を落とすような重傷を負っても不思議と死ぬことはなかった。
+守護竜クルエクローキの加護。
+ユディーアの人生は、上位次元から入る謎めいた補正によって守られている。
+- **unknown**: この身は運命に守られている。
+
+<!-- /AUTO-GENERATED:speech -->

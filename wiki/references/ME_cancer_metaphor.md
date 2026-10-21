@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_cancer_metaphor
 title: 癌のメタファー
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "cancer_metaphor"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0070_alludes_to_E_ch0070_ミルーニャ_uses_プロトプラズマ収束弾_p2609_cancer_metaphor]] — プロトプラズマが自己増殖・分化し世界を浸食する様子は、癌細胞の増殖と宿主の死（世界崩壊）をメタファーとして描いている。
+- [[A_ch5216_alludes_to_E_ch5216_プロトプラズマ_transforms_癌細胞_p320323_cancer_metaphor]] — 浄界を侵食するプロセスは、生物学的な癌細胞の増殖・転移メタファーとして機能している。

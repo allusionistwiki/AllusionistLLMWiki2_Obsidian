@@ -10,7 +10,7 @@ first_appearance: ch5578
 spoiler_after: ch5578
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 情報
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 文字であろうと映像であろうと、情報が刷り込まれればそれは常識となる。
+- **unknown**: 文字であろうと映像であろうと、情報が刷り込まれればそれは常識となる。
 - **unknown**: 文字であろうと映像であろうと、情報が刷り込まれればそれは常識となる。
 
 <!-- /AUTO-GENERATED:action -->

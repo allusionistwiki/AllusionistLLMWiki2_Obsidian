@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_scorpio_zodiac_mythology
+title: 蠍座神話
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "scorpio_zodiac_mythology"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# scorpio_zodiac_mythology
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5496_alludes_to_E_p37_scorpio_zodiac_mythology]] — マラコーダのサソリの尾は、ギリシャ神話の蠍座（スコーピオン）の凶暴性や毒を想起させるビジュアル・シンボルとして機能している。

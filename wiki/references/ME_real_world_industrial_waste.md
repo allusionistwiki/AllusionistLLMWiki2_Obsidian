@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_real_world_industrial_waste
+title: 産業廃棄物型の汚染
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "real_world_industrial_waste"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# real_world_industrial_waste
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5080_alludes_to_E_p174_real_world_industrial_waste]] — 「神滅具」が撒き散らす呪波汚染は、現代の産業廃棄物や放射性物質による環境・人体への不可逆的な汚染（レガシー効果）を指喩している。

@@ -29,9 +29,9 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0035_alludes_to_E_ch0035_哲学的ゾンビ_appears_敵集団_p1470_哲学的ゾンビ|哲学的ゾンビの迷宮具現化]]
-- [[A_ch0065_alludes_to_E_ch0065_ズタークスターク_defines_哲学的ゾンビ_p2415_philosophical_zombie|哲学的ゾンビとしての意識欠如]]
-- [[A_ch0069_analogous_to_E_ch0069_マリー_has_property_哲学的ゾンビ_p2560_philosophical_zombie|哲学的ゾンビによる心身分離]]
+- A_ch0035_alludes_to_E_ch0035_哲学的ゾンビ_appears_敵集団_p1470_哲学的ゾンビ（哲学的ゾンビの迷宮具現化）
+- A_ch0065_alludes_to_E_ch0065_ズタークスターク_defines_哲学的ゾンビ_p2415_philosophical_zombie（哲学的ゾンビとしての意識欠如）
+- A_ch0069_analogous_to_E_ch0069_マリー_has_property_哲学的ゾンビ_p2560_philosophical_zombie（哲学的ゾンビによる心身分離）
 
 <!-- AUTO:END -->
 

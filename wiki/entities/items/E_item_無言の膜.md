@@ -10,7 +10,7 @@ first_appearance: ch5581
 spoiler_after: ch5581
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 無言の膜
 
@@ -21,5 +21,7 @@ updated: '2026-10-19'
 
 - **unknown**: 大地と大気の境界に※※がある。
 テキスト空間を埋め尽くすような『無言の膜』が貼られて、何らかの情報的な遮断が発生している。それが原因だろうか。チッセの世界で勢いよく繁茂していたはずの全ての植物は成長を止めていた。
+- **unknown**: 大地と大気の境界に※※がある。
+- **unknown**: 大地と大気の境界に※※がある。
 
 <!-- /AUTO-GENERATED:visual -->

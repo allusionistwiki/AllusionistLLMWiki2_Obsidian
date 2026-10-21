@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5575_lina_textual_reality
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5575
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5575
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 > 虚空に指を伸ばして、ページを摘まむ。（p172）
 > 世界から文字列を千切った。（p173）
 
-**審査（LLM 代替）**: 世界を「文字列」として千切る描写は、世界の構成要素が物理的実体ではなく記述・テキストであることを示唆する重要な仕掛け。
+**審査（LLM 代替）**: 世界を「文字列」として操作する描写は、本作のメタフィクショナルな構造（世界＝テキスト）を示唆する重要な伏線である。

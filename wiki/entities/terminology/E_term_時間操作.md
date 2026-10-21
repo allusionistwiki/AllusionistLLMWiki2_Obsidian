@@ -10,7 +10,7 @@ first_appearance: ch5578
 spoiler_after: ch5578
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 時間操作
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 地に足の着いた、権力による物理的な現実改変である。
+- **unknown**: 地に足の着いた、権力による物理的な現実改変である。
 - **unknown**: 地に足の着いた、権力による物理的な現実改変である。
 
 <!-- /AUTO-GENERATED:speech -->

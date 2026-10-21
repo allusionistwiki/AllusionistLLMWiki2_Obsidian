@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 激流
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 圧倒的な激流。絶望の波濤が骨を片端から粉砕していった。
+- **unknown**: 圧倒的な激流。絶望の波濤が骨を片端から粉砕していった。
 - **unknown**: 圧倒的な激流。絶望の波濤が骨を片端から粉砕していった。
 
 <!-- /AUTO-GENERATED:action -->

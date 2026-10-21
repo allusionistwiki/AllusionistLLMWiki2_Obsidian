@@ -10,7 +10,7 @@ spoiler_after: ch0048
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # アヴロノ
@@ -41,3 +41,11 @@ updated: '2026-10-19'
 - **unknown**: 同時に黒肌のアヴロノたちが一斉に呪術を発動、頭上から降り注ぐ流れ星の豪雨。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「元より第五階層と敵対するつもりはない。人質の安全を優先したために連絡が遅れたことは謝罪しよう」
+- **unknown**: 「元より第五階層と敵対するつもりはない。人質の安全を優先したために連絡が遅れたことは謝罪しよう」
+
+<!-- /AUTO-GENERATED:speech -->

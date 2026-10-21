@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_game_tournament_seasons
 title: シーズン制トーナメント
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "game_tournament_seasons"
 domain: "Contemporary Culture"

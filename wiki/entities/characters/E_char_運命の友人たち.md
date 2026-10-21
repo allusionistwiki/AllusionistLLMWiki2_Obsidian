@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_運命の友人たち
 type: entity
 subtype: character
 canonical_name: 運命の友人たち
-title: "運命の友人たち"
+title: 運命の友人たち
 first_appearance: ch5583
 spoiler_after: ch5583
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 運命の友人たち
@@ -25,3 +26,13 @@ created: "2026-09-30"
 > そして、彼が引き合わせてくれた、同年代の『運命の友人たち』だった。 当時は顔を合わせたことすらなかった。 けれど、言葉を通じてその心は固く結び付いてい（ch5583）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: そして、彼が引き合わせてくれた、同年代の『運命の友人たち』だった。
+当時は顔を合わせたことすらなかった。
+けれど、言葉を通じてその心は固く結び付いてい
+- **unknown**: そして、彼が引き合わせてくれた、同年代の『運命の友人たち』だった。
+
+<!-- /AUTO-GENERATED:relationship -->

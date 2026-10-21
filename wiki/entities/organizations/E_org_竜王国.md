@@ -10,7 +10,7 @@ first_appearance: ch0099
 spoiler_after: ch0099
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 竜王国
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 竜王国は、高潔な理想郷であるべく、純粋な肯定に支えられて在り続ける。
+- **unknown**: 竜王国は、高潔な理想郷であるべく、純粋な肯定に支えられて在り続ける。
 - **unknown**: 誰もが共存できる優しい世界。それこそが竜王国の理念。
 - **unknown**: 誰もが共存できる優しい世界。それこそが竜王国の理念。
 - **unknown**: 誰もが共存できる優しい世界。それこそが竜王国の理念。

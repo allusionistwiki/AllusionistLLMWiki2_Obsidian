@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_systemic_responsibility
 title: 構造的重負
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "systemic_responsibility"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5570_analogous_to_E_p198_systemic_responsibility]] — 一人の空使いが兄弟たちの無数の人生に責任を負う設定は、血族全体の運命を支配する絶対的権力が背負う構造的な重圧を象徴している。
+- [[A_ch5570_analogous_to_E_p198_systemic_responsibility]] — 一人の空使いが無数の兄弟的人生に責任を負うという設定は、支配層（システム管理者）が個人の生を管理・消費する構造そのものの重さと暴力性を象徴している。

@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0008_analogous_to_E_ch0008_トリシューラ_appears_アキラの脳内_p384_ai_assistant_interface|脳内AIアシスタント]]
+- A_ch0008_analogous_to_E_ch0008_トリシューラ_appears_アキラの脳内_p384_ai_assistant_interface（脳内AIアシスタント）
 
 <!-- AUTO:END -->

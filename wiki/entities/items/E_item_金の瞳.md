@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 金の瞳
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: そうして、金の瞳は使い手に新たな力をもたらしていく。
+- **unknown**: そうして、金の瞳は使い手に新たな力をもたらしていく。
 - **unknown**: そうして、金の瞳は使い手に新たな力をもたらしていく。
 
 <!-- /AUTO-GENERATED:action -->

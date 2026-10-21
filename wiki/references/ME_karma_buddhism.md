@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_karma_buddhism
 title: 仏教のカルマ
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "karma_buddhism"
 domain: "Contemporary Culture"

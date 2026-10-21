@@ -4,7 +4,7 @@ id: A_ch5582_alludes_to_E_ch5582_ロードデンドロン_uses_ラベリング�
 title: タグ付け制御としてのラベリング呪文
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5582_ロードデンドロン_uses_ラベリング呪文_p23]]"
 predicate: alludes_to
 object: "[[ME_tagging_labeling_system]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5582
 evidence_strength: moderate
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 相手の得意文脈に味方を配置するラベリング呪文だった。（p23）
 
-**審査（LLM 代替）**: 「ラベリング呪文」による属性書き換えは、デジタル情報におけるタグ付け・メタデータ制御の比喩として有効。
+**審査（LLM 代替）**: 「得意な文脈への同化」や「属性の書き換え」という呪文の挙動は、デジタル情報処理におけるタグ付けやメタデータによる分類・制御システムとのアナロジーとして機能しており、作品内の技術的比喩構造と整合する。

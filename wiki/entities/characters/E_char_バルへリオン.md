@@ -10,7 +10,7 @@ first_appearance: ch0256
 spoiler_after: ch0256
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # バルへリオン
 
@@ -24,3 +24,11 @@ updated: '2026-10-19'
 - **unknown**: バルへリオンとかいう男の風船鉄球による軽くて重い一撃をバルーンハンマー逸らすことに成功していた
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「僕はバルへリオン。ようこそセリアック＝ニアちゃん、楽しい遊園地に！　ここはいっぱいの風船で空を自由に飛び回れる素敵な雲の上の国だよ！」
+- **unknown**: 「僕はバルへリオン。ようこそセリアック＝ニアちゃん、楽しい遊園地に！　ここはいっぱいの風船で空を自由に飛び回れる素敵な雲の上の国だよ！」
+
+<!-- /AUTO-GENERATED:speech -->

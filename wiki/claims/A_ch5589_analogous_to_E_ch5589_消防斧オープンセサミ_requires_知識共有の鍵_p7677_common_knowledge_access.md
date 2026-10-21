@@ -4,7 +4,7 @@ id: A_ch5589_analogous_to_E_ch5589_消防斧オープンセサミ_requires_知�
 title: 共通知識アクセスの戦闘メタファー
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5589_消防斧オープンセサミ_requires_知識共有の鍵_p7677]]"
 predicate: analogous_to
 object: "[[ME_common_knowledge_access]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5589
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 故事、ことわざ、ステレオタイプ、持物、教養、流行り、ミーム、モンタージュ、なんでもいいから即座に通じる『消防斧（オープンセサミ）』が必要だ。（p76）
 
-**審査（LLM 代替）**: 「消防斧（オープンセサミ）」を即座に通じる知識のメタファーとして用いる定義が、原文に明記されており妥当。
+**審査（LLM 代替）**: 共通知識を『消防斧（オープンセサミ）』と呼び、即座のアクセス権として機能させるメタファーが、引喩システムの一部として原文に記述されている。

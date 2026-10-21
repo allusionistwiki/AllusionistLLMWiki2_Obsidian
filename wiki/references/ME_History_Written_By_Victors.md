@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_History_Written_By_Victors
+title: 勝者の史実
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "History_Written_By_Victors"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# History_Written_By_Victors
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5069_inverts_E_p132_History_Written_By_Victors]] — トリシューラによる功績の捏造と「事実だ」という強弁は、権力者が歴史を編集する勝者の史実構造そのものではなく、現代のメディア戦略やマーケティングにおける意図的な事実操作（プロパガンダ）を模倣している。

@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_prince_and_the_pauper
+title: 王子と乞食
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "prince_and_the_pauper"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# prince_and_the_pauper
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5283_alludes_to_E_p230_prince_and_the_pauper]] — 王と乞食（下位者）が入れ替わり体験するという物語類型は、マーク・トウェインの『王子と乞食』などの定番モチーフを参照している。

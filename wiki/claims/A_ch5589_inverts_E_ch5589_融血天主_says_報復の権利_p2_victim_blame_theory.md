@@ -4,7 +4,7 @@ id: A_ch5589_inverts_E_ch5589_融血天主_says_報復の権利_p2_victim_blame_
 title: 被害者の絶対正義による倫理逆転
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5589_融血天主_says_報復の権利_p2]]"
 predicate: inverts
 object: "[[ME_victim_blame_theory]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5589
 evidence_strength: moderate
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 『弱者には全てに報復する権利がある』（p2）
 
-**審査（LLM 代替）**: 「弱者には全てに報復する権利がある」という台詞は、通常の被害者責任論を逆転させた極端な倫理観の提示であり、主張が原文と一致している。
+**審査（LLM 代替）**: 「弱者には全てに報復する権利がある」という宣言は、通常の倫理観を逆転させる極端な論理であり、主題として妥当である。

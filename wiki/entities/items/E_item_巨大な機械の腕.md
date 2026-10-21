@@ -10,7 +10,7 @@ first_appearance: ch5577
 spoiler_after: ch5577
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 巨大な機械の腕
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 巨大な機械の腕はぴたりと動きを停止させてしまう。
+- **unknown**: 巨大な機械の腕はぴたりと動きを停止させてしまう。
 - **unknown**: 巨大な機械の腕はぴたりと動きを停止させてしまう。
 
 <!-- /AUTO-GENERATED:visual -->

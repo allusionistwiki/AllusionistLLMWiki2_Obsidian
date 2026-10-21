@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_utilitarianism
 title: 功利主義
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "utilitarianism"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0002_analogous_to_E_ch0002_アズーリア_confesses_捨て石_p118_utilitarianism]] — アズーリアが仲間の死を「捨て石」として許容し、責任を自覚しつつも任務を遂行する姿勢は、功利主義的な軍事的判断と、その倫理的葛藤を描いている。
+- [[A_ch5116_analogous_to_E_p21_utilitarianism]] — 「勝てるなら魔女でも使う」という台詞は、手段の正当性を目的（勝利）のみで判断する功利主義的な思想を象徴している。

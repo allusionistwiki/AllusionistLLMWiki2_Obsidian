@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_呪文戦
 type: entity
 subtype: terminology
 canonical_name: 呪文戦
-title: "呪文戦"
+title: 呪文戦
 first_appearance: ch5578
 spoiler_after: ch5578
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 呪文戦
@@ -25,3 +26,21 @@ created: "2026-09-30"
 > 問題は、呪文戦では明らかに不利だということ。 超高精度な物語呪文の森は堅牢な防火壁と番人を備えた城砦に等しい。 文字世界を埋め尽くすような物量の暴力を、単純な対抗呪文でひっくり返すことは難しい。（ch5589）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: パーンが操る巨大な鋼鉄腕がぴくりと動く。当然だろう。これは新たな戦端が開かれたことを意味していた。呪文戦は更に混迷を極めていく。
+- **unknown**: パーンが操る巨大な鋼鉄腕がぴくりと動く。当然だろう。これは新たな戦端が開かれたことを意味していた。呪文戦は更に混迷を極めていく。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:relationship -->
+## 関係性
+
+- **unknown**: 問題は、呪文戦では明らかに不利だということ。
+超高精度な物語呪文の森は堅牢な防火壁と番人を備えた城砦に等しい。
+文字世界を埋め尽くすような物量の暴力を、単純な対抗呪文でひっくり返すことは難しい。
+- **unknown**: 問題は、呪文戦では明らかに不利だということ。
+
+<!-- /AUTO-GENERATED:relationship -->

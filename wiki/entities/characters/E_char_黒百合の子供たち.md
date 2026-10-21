@@ -29,7 +29,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0060_structurally_matches_E_ch0060_黒百合の子供たち_uses_フィリスの分散封印_p2273_distributed_ledger|分散型台帳への構造対応]]
+- A_ch0060_structurally_matches_E_ch0060_黒百合の子供たち_uses_フィリスの分散封印_p2273_distributed_ledger（分散型台帳への構造対応）
 
 <!-- AUTO:END -->
 

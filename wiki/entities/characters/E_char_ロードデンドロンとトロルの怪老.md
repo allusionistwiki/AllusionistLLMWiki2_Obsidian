@@ -10,7 +10,7 @@ first_appearance: ch5588
 spoiler_after: ch5588
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # ロードデンドロンとトロルの怪老
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
+- **unknown**: 両者は明らかに手を結んでいる。ならばチッセの小鬼化も計算のうちだろう。
+- **unknown**: 両者は明らかに手を結んでいる。ならばチッセの小鬼化も計算のうちだろう。
 - **unknown**: 両者は明らかに手を結んでいる。ならばチッセの小鬼化も計算のうちだろう。
 
 <!-- /AUTO-GENERATED:relationship -->

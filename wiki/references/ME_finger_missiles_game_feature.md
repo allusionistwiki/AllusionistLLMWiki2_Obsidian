@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_finger_missiles_game_feature
+title: 指ミサイル
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "finger_missiles_game_feature"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# finger_missiles_game_feature
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5236_parodies_E_p107_finger_missiles_game_feature]] — トリシューラの指がミサイル化し「新機能！」と叫ぶ描写は、ゲーム的な能力アップやアップデートを現実の戦闘に持ち込むメタフィクショナルな演出である。

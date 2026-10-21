@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_安楽死および強制的な医療介入の倫理
 title: 医療介入の倫理
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: philosophy
 canonical_name: "安楽死および強制的な医療介入の倫理"
 domain: "Ethics & Philosophy"

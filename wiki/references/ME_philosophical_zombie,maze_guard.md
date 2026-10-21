@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_philosophical_zombie,maze_guard
+title: 哲学的ゾンビ
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "philosophical_zombie,maze_guard"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# philosophical_zombie,maze_guard
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5137_structurally_matches_E_p108_philosophical_zombie,maze_guard]] — 哲学的ゾンビが生前の社会性（拷問命令等）を模倣し続ける姿は、魂なき存在が環境適応によって生み出す不気味な自動挙動として描かれている。

@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0036_analogous_to_E_ch0036_タマ_gives_綿菓子と水飴_p1497_ゲームの回復アイテム|RPG回復アイテムの象徴]]
+- A_ch0036_analogous_to_E_ch0036_タマ_gives_綿菓子と水飴_p1497_ゲームの回復アイテム（RPG回復アイテムの象徴）
 
 <!-- AUTO:END -->
 

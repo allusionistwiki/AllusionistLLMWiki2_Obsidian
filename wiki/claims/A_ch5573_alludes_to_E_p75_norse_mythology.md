@@ -4,7 +4,7 @@ id: A_ch5573_alludes_to_E_p75_norse_mythology
 title: 北欧神話由来の邪神定義
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5573_パーン_defeats_クガルヤイム_p103]]"
 predicate: alludes_to
 object: "[[ME_norse_mythology]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5573
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 北方極地に封じられた氷柱巨人（ヨトゥン）の神々。（p78）
 
-**審査（LLM 代替）**: ヨトゥン、ティリビナ（イグドラシルの意匠）、シェデクなどの名称は北欧神話の用語を明示的に使用しており、敵対勢力が特定の神話体系に基づく存在であることを示唆している。
+**審査（LLM 代替）**: ヨトゥン（氷柱巨人）、ティリビナ（世界樹）、シェデク（大地）などの名称は北欧神話の概念を明示的に引用しており、作品世界の文化的背景を示唆している。

@@ -10,7 +10,7 @@ first_appearance: ch5569
 spoiler_after: ch5569
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # クロウサーの種子
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: クロウサーの種子は死を否定して旅を肯定した。それゆえの播種。だからこそ血の存続が至上価値となった。
+- **unknown**: クロウサーの種子は死を否定して旅を肯定した。それゆえの播種。だからこそ血の存続が至上価値となった。
 - **unknown**: クロウサーの種子は死を否定して旅を肯定した。それゆえの播種。だからこそ血の存続が至上価値となった。
 
 <!-- /AUTO-GENERATED:action -->

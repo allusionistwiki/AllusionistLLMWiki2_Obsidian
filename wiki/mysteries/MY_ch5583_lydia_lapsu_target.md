@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5583_lydia_lapsu_target
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5583
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5583
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 > 奴は私に比肩する強大な魔女だ。その名をライラという（p24）
 > クロウサーと対峙するこの役目だけは絶対に譲れない。（p33）
 
-**審査（LLM 代替）**: スーリウムが真の敵としてライラを指定し、その対峙への執着を示していることは、今後の戦闘展開およびティリビナ独立運動の帰趨を示唆する伏線である。
+**審査（LLM 代替）**: ライラ・ラプスとの対峙と、それがティリビナ人の独立運動にどう影響するかは今後の展開への重要な布石（伏線）として機能している。

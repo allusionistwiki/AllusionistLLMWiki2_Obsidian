@@ -1,0 +1,71 @@
+---
+schema_version: '5.1'
+id: E_motif_アズーリア
+type: entity
+subtype: visual_motif
+canonical_name: アズーリア
+title: アズーリア
+first_appearance: ch5205
+spoiler_after: ch5205
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-21'
+---
+
+# アズーリア
+
+ガルズの死が同情により『慈悲としての』『正しい』ものへと変質したと認識される視覚的モチーフ。果てしなき道のりの先にある、月と歌の希望を願う象徴として描かれる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5205 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> ガルズの主張するようなただ空虚なだけの死ではなく――『仕方無く』『慈悲としての』『正しい』といった性質を持った死への変化。（ch5205）
+> 気が遠くなるような道のりだけど、それでも私は、私たちは願った。 月の歌姫が優しい世界の秩序を祈った。（ch5225）
+
+## 関連クレーム
+
+- [[A_ch5225_alludes_to_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_myth_of_orpheus|オルフェウス神話に基づく御霊送り]]
+- [[A_ch5225_analogous_to_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_collaborative_knowledge_management|協調的知識管理による呪文最適化]]
+- [[A_ch5225_analogous_to_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_gacha_game_mechanics|ガチャ確率操作の世界法則実装]]
+- [[A_ch5225_analogous_to_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_open_source_software_movement|オープンソース運動と秘匿主義の対立]]
+- [[A_ch5225_parodies_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_dungeons_and_dragons_cliche|TRPG的殺戮の義務のパロディ]]
+- [[A_ch5225_structurally_matches_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_narrative_deconstruction_and_reconstruction|記号論的脱構築による世界観変革]]
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: その『家』のおぞましさに追い詰められたガルズの苦しみも。
+- **unknown**: 第五階層。エスフェイルと交戦し、全員が散り散りになって、アキラと最初に再会したあの時だ。
+エスフェイルを罠にかけて殺害することに成功したカインは、相手の死の呪いによって肉体を狼の胴体に同化させられて、初期化（イニシャライズ）された戦闘用哲学的ゾンビになりかけていた。
+- **unknown**: 私がエスフェイルを【静謐】で解体したことが、結果的に彼と【骨組みの花】を追い詰め、今は助けになってしまっている。これほどの皮肉があるだろうか。
+- **unknown**: サイリウスが語る、私の知らないリーナの事情。
+- **unknown**: ガルズの主張するようなただ空虚なだけの死ではなく――『仕方無く』『慈悲としての』『正しい』といった性質を持った死への変化。
+- **unknown**: その『家』のおぞましさに追い詰められたガルズの苦しみも。
+- **unknown**: 第五階層。エスフェイルと交戦し、全員が散り散りになって、アキラと最初に再会したあの時だ。
+- **unknown**: 私がエスフェイルを【静謐】で解体したことが、結果的に彼と【骨組みの花】を追い詰め、今は助けになってしまっている。これほどの皮肉があるだろうか。
+- **unknown**: サイリウスが語る、私の知らないリーナの事情。
+- **unknown**: ガルズの主張するようなただ空虚なだけの死ではなく――『仕方無く』『慈悲としての』『正しい』といった性質を持った死への変化。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ごめんなさいと小さく謝って、私はこの前のように箒に乗る。
+- **unknown**: ごめんなさいと小さく謝って、私はこの前のように箒に乗る。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 気が遠くなるような道のりだけど、それでも私は、私たちは願った。
+月の歌姫が優しい世界の秩序を祈った。
+- **unknown**: 気が遠くなるような道のりだけど、それでも私は、私たちは願った。
+
+<!-- /AUTO-GENERATED:symbolic -->

@@ -10,7 +10,7 @@ first_appearance: ch5579
 spoiler_after: ch5579
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # ロードデンドロン発言
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 時間が停止したかのような、重い沈黙。
+- **unknown**: 時間が停止したかのような、重い沈黙。
 - **unknown**: 時間が停止したかのような、重い沈黙。
 
 <!-- /AUTO-GENERATED:symbolic -->

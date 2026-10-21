@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_ethical_utilitarianism
+title: 倫理的功利主義
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "ethical_utilitarianism"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# ethical_utilitarianism
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5087_sublates_E_ch5087_トリシューラ_other_価値付けの必然性_p142_ethical_utilitarianism]] — 「誰かを助ける」という利他的行為は、裏返しに「助けなかった他者」を低価値と見なす選別行為（功利主義的評価）であると論じ、道徳的欺瞞を暴く。

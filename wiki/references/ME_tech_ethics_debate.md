@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_tech_ethics_debate
 title: テクノロジー倫理論争
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "tech_ethics_debate"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5575_analogous_to_E_p131_tech_ethics_debate]] — クラウビューラの主張は、叡智（技術・知識）を制御なく大衆に開放することが急激な社会変動と衝突を生むという、権力側の保守的なリスク管理論を反映している。
+- [[A_ch5575_analogous_to_E_p131_tech_ethics_debate]] — クラウビューラの説教は、知恵や技術が未熟な大衆に無秩序に拡散することが社会の崩壊を招くという、保守的な秩序維持の論理を提示している。

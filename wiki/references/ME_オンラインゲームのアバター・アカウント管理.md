@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_オンラインゲームのアバター・アカウント管理
+title: アバター運用
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "オンラインゲームのアバター・アカウント管理"
+domain: "Contemporary Consumer Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# オンラインゲームのアバター・アカウント管理
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5510_alludes_to_E_p72_オンラインゲームのアバター・アカウント管理]] — メイファーラが地上での活動用に別名義（アバター）を使い分け、放置されているという描写は、MMO等の複数キャラ運用やアカウント整理を想起させる。

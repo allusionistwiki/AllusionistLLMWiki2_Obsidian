@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_Political_Mercenary_Treaty
 title: 政治的傭兵条約
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "Political_Mercenary_Treaty"
 domain: "Contemporary Culture"

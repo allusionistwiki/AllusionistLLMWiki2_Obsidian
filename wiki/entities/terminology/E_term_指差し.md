@@ -10,7 +10,7 @@ first_appearance: ch5577
 spoiler_after: ch5577
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 指差し
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 不躾な『指差し』はまじないの一種でもある。 まなざしという名の呪力を注ぐための手続きだ。
+- **unknown**: 不躾な『指差し』はまじないの一種でもある。 まなざしという名の呪力を注ぐための手続きだ。
 - **unknown**: 不躾な『指差し』はまじないの一種でもある。 まなざしという名の呪力を注ぐための手続きだ。
 
 <!-- /AUTO-GENERATED:symbolic -->

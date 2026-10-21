@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0046_alludes_to_E_ch0046_アキラ_remembers_キール隊_p1902_past_trauma|幸福を覆う過去のトラウマ]]
+- A_ch0046_alludes_to_E_ch0046_アキラ_remembers_キール隊_p1902_past_trauma（幸福を覆う過去のトラウマ）
 
 <!-- AUTO:END -->

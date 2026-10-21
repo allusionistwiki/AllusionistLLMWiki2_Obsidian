@@ -10,7 +10,7 @@ first_appearance: ch5569
 spoiler_after: ch5569
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 種子だった誰か
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 未来を巡って競い合う風。可能性の数は七つに及んだ。あたかも、花嫁の愛を巡って競い合うかのように。
+- **unknown**: 未来を巡って競い合う風。可能性の数は七つに及んだ。あたかも、花嫁の愛を巡って競い合うかのように。
 - **unknown**: 未来を巡って競い合う風。可能性の数は七つに及んだ。あたかも、花嫁の愛を巡って競い合うかのように。
 
 <!-- /AUTO-GENERATED:action -->

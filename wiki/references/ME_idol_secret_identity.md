@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_idol_secret_identity
 title: アイドルの二重生活
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "idol_secret_identity"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_reveals_歌姫Spear_p1938_idol_secret_identity]] — ハルベルトが「歌姫Spear」としての正体を明かす展開は、アイドルが秘密の活動（裏の顔）を持つというエンタメ業界のクリシェ（二重生活）を模している。
+- [[A_ch5175_inverts_E_harubert_secret_idol_secret_identity]] — 正体を隠して活動する歌姫というアイデンティティの秘匿構造が、ファンからの直接的なサイン要求によって意図せず暴露される状況を描く。

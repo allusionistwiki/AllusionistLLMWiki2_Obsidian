@@ -10,7 +10,7 @@ first_appearance: ch5577
 spoiler_after: ch5577
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 巨人の頭脳
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 巨人の頭脳に書きつけられた答えは、記述された瞬間に正誤が判定されるのだ。
+- **unknown**: 巨人の頭脳に書きつけられた答えは、記述された瞬間に正誤が判定されるのだ。
 - **unknown**: 巨人の頭脳に書きつけられた答えは、記述された瞬間に正誤が判定されるのだ。
 
 <!-- /AUTO-GENERATED:action -->

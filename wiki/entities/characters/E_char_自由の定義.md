@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0263_alludes_to_E_ch0263_ミブレル_other_自由の定義_p8322_sartre_freedom|依存を自由の自覚とする逆説]]
+- A_ch0263_alludes_to_E_ch0263_ミブレル_other_自由の定義_p8322_sartre_freedom（依存を自由の自覚とする逆説）
 
 <!-- AUTO:END -->

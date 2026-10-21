@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 世界の境界部分
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: せめぎあう白と黒。世界の境界部分が、突如として輝く。
+- **unknown**: せめぎあう白と黒。世界の境界部分が、突如として輝く。
 - **unknown**: せめぎあう白と黒。世界の境界部分が、突如として輝く。
 
 <!-- /AUTO-GENERATED:visual -->

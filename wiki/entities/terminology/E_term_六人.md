@@ -29,7 +29,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0046_structurally_matches_E_ch0046_六人_other_黒百合_p1901_rpg_party_structure|RPGパーティ構成の模倣]]
+- A_ch0046_structurally_matches_E_ch0046_六人_other_黒百合_p1901_rpg_party_structure（RPGパーティ構成の模倣）
 
 <!-- AUTO:END -->
 

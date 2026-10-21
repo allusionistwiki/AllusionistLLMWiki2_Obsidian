@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0222_inverts_E_ch0222_竜覚_other_カルカブリーナ_p7371_Gun_Regulation_Tropes|最強武器クリシェの逆転]]
+- A_ch0222_inverts_E_ch0222_竜覚_other_カルカブリーナ_p7371_Gun_Regulation_Tropes（最強武器クリシェの逆転）
 
 <!-- AUTO:END -->
 

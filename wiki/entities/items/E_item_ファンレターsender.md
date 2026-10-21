@@ -10,7 +10,7 @@ first_appearance: ch5230
 spoiler_after: ch5230
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # ファンレターsender
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 白い梔（ガーデニア）と共に、手書きのファンレターが送られてきた時。
+- **unknown**: 白い梔（ガーデニア）と共に、手書きのファンレターが送られてきた時。
 - **unknown**: 白い梔（ガーデニア）と共に、手書きのファンレターが送られてきた時。
 
 <!-- /AUTO-GENERATED:action -->

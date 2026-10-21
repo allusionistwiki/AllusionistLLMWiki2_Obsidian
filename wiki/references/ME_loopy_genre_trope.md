@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_loopy_genre_trope
+title: ループもの
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "loopy_genre_trope"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# loopy_genre_trope
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5188_alludes_to_E_ch5188_サリア_remembers_アズーリアとの死闘_p61_loopy_genre_trope]] — 『トライアンドエラー』『ループものは百戦錬磨』という台詞は、ループものジャンルそのもののメタ言及であり、読者への直接的なジャンル意識の提示である。

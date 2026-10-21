@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0069_analogous_to_E_ch0069_ベル・ペリグランティア_asks_万能細胞_p2571_genetic_surveillance|遺伝子監視による倫理的懸念]]
+- A_ch0069_analogous_to_E_ch0069_ベル・ペリグランティア_asks_万能細胞_p2571_genetic_surveillance（遺伝子監視による倫理的懸念）
 
 <!-- AUTO:END -->

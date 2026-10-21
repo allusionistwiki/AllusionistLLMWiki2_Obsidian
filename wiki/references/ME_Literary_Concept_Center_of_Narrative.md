@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_Literary_Concept_Center_of_Narrative
+title: 物語の中心軸
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "Literary_Concept_Center_of_Narrative"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# Literary_Concept_Center_of_Narrative
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5301_analogous_to_E_p44_Literary_Concept_Center_of_Narrative]] — 立方体の回転において不動の点である中心は、「変化しない権力の座（王）」を象徴する幾何学的メタファーである。

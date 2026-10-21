@@ -10,7 +10,7 @@ first_appearance: ch5588
 spoiler_after: ch5588
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # チッセの体内生態系
 
@@ -21,5 +21,7 @@ updated: '2026-10-19'
 
 - **unknown**: 繁茂する緑はその他の全てを喰らい尽くす暴力だ。
 世界全てを呑み込もうとする森によって循環が停止する。
+- **unknown**: 繁茂する緑はその他の全てを喰らい尽くす暴力だ。
+- **unknown**: 繁茂する緑はその他の全てを喰らい尽くす暴力だ。
 
 <!-- /AUTO-GENERATED:visual -->

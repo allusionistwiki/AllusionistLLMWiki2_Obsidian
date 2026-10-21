@@ -10,7 +10,7 @@ first_appearance: ch0253
 spoiler_after: ch0253
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 中継整備所
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 中継整備所（ピット）は騒然としていた。
+- **unknown**: 中継整備所（ピット）は騒然としていた。
 - **unknown**: 中継整備所は騒然としていた。
 - **unknown**: 中継整備所は騒然としていた。
 - **unknown**: 中継整備所は騒然としていた。

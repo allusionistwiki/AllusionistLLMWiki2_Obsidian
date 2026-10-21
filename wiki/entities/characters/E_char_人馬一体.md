@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0024_analogous_to_E_ch0024_キロン_transforms_人馬一体_p1134_ケントロス|ケントロスへの獣性融合変貌]]
+- A_ch0024_analogous_to_E_ch0024_キロン_transforms_人馬一体_p1134_ケントロス（ケントロスへの獣性融合変貌）
 
 <!-- AUTO:END -->

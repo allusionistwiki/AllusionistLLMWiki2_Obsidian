@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_National_History_Manipulation
 title: 歴史改竄
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "National_History_Manipulation"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5580_analogous_to_E_ch5580_ロードデンドロン_reveals_カーインの正体と歴史歪曲の理由_p25_National_History_Manipulation]] — 鈴国側が敵対勢力（クロウサー四十四士）に関する不都合な情報を隠蔽し、カーインの血統を冷遇することで歴史を歪めているという記述は、権力による情報の選択的管理と歴史の再編成を示唆している。
+- [[A_ch5580_analogous_to_E_ch5580_ロードデンドロン_reveals_カーインの正体と歴史歪曲の理由_p25_National_History_Manipulation]] — 支配者が不都合な情報を隠蔽し特定の血統を秘匿することで歴史を歪める行為は、物語世界における「正史」の構築過程を示唆している。

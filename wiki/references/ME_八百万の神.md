@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_八百万の神
 title: 八百万の神
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "八百万の神"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0026_alludes_to_E_ch0026_アブロニクレス_appears_null_p1197_八百万の神]] — 「八万の眼球アブロニクレス」は、日本語の「八百万（やおよろず）」を連想させる多数の存在であり、古代の多神教的な信仰を想起させる。
+- [[A_ch5117_parodies_E_ch5117_p46_八百万の神]] — 敵の使い魔「アブロニクレス」の総数が「八万」とされるのは、日本の宗教用語である「八百万（やおよろず）」を数字として字義通りに解釈し、大量の眼球軍勢へと変換したパロディ・翻訳誤解である。

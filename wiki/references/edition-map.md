@@ -2,8 +2,62 @@
 
 schema_version: "5.1"
 id: edition-map
-type: reflection
 title: 版対応表
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type: reflection
+
 description: 解析の典拠を結ぶ、なろう版272話とカクヨム版589話の話対応・段落（¶）アンカー対応表
 ---
 

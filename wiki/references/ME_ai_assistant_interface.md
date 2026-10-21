@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ai_assistant_interface
 title: AIアシスタント
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "ai_assistant_interface"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0008_analogous_to_E_ch0008_トリシューラ_appears_アキラの脳内_p384_ai_assistant_interface]] — トリシューラがアキラの脳内に音声とテキストで直接語りかけ、視覚情報を共有し、思考を覗き込む様子は、現代のAIアシスタントや脳-コンピュータインターフェース（BCI）の理想的な（かつプライバシーを侵害する）実装を指喩している。
+- [[A_ch5438_parodies_E_ch5438_シナモリアキラ_names_シナモリアキラ_p10_ai_assistant_interface]] — 「ツール」「役割に意思を乗せる教導者」という定義は、現代のAIチャットボットや音声アシスタントのUI設計思想（ペルソナ設定）を模倣している。

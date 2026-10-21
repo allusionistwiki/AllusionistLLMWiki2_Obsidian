@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_魔王ネビロン
 type: entity
 subtype: character
 canonical_name: 魔王ネビロン
-title: "魔王ネビロン"
+title: 魔王ネビロン
 first_appearance: ch5579
 spoiler_after: ch5579
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 魔王ネビロン
@@ -27,3 +28,13 @@ created: "2026-09-30"
 > 3.平たい大地期：光妖精皇帝エフラスと連合軍が魔王ネビロンの異獣軍を撃退（ch5579）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『平たい大地の時代』に魔王ネビロン率いる異獣と小鬼（ゴブリン）、そして闇妖精や陰花族のキノコ人とかの軍勢が世界をめちゃめちゃにしちゃったんだよね。
+- **unknown**: 3.平たい大地期：光妖精皇帝エフラスと連合軍が魔王ネビロンの異獣軍を撃退
+- **unknown**: 『平たい大地の時代』に魔王ネビロン率いる異獣と小鬼（ゴブリン）、そして闇妖精や陰花族のキノコ人とかの軍勢が世界をめちゃめちゃにしちゃったんだよね。
+- **unknown**: 3.平たい大地期：光妖精皇帝エフラスと連合軍が魔王ネビロンの異獣軍を撃退
+
+<!-- /AUTO-GENERATED:action -->

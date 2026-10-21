@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_semantic_inversion
+title: 意味の反転
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "semantic_inversion"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# semantic_inversion
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5533_analogous_to_E_ch5533_ヒュレー_deceives_クレイの解釈_p56_semantic_inversion]] — 同じ動作で意味が逆転する現象は、言語における記号と意味の恣意的な結合（ソシュール的な記号論）を物理戦闘の中で可視化したものである。

@@ -30,9 +30,9 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0055_alludes_to_E_ch0055_ジル_reveals_聴力喪失の理由_p2129_siren_song|セイレーンの歌による破壊]]
-- [[A_ch0055_alludes_to_E_ch0055_ジル_reveals_虐殺の真相_p2130_historical_revisionism|歴史修正主義による真相の歪曲]]
-- [[A_ch0055_analogous_to_E_ch0055_ジル_reveals_構造の欠落_p2132_syntactic_structure|構文構造の欠落]]
+- A_ch0055_alludes_to_E_ch0055_ジル_reveals_聴力喪失の理由_p2129_siren_song（セイレーンの歌による破壊）
+- A_ch0055_alludes_to_E_ch0055_ジル_reveals_虐殺の真相_p2130_historical_revisionism（歴史修正主義による真相の歪曲）
+- A_ch0055_analogous_to_E_ch0055_ジル_reveals_構造の欠落_p2132_syntactic_structure（構文構造の欠落）
 
 <!-- AUTO:END -->
 

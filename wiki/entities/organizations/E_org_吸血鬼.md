@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0080_structurally_matches_E_ch0080_槍神教_other_吸血鬼_p2937_植民地支配における現地エリートへの同化政策|植民地支配の同化政策]]
+- A_ch0080_structurally_matches_E_ch0080_槍神教_other_吸血鬼_p2937_植民地支配における現地エリートへの同化政策（植民地支配の同化政策）
 
 <!-- AUTO:END -->

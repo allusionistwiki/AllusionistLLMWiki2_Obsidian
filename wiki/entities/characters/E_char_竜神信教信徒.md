@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0042_inverts_E_ch0042_ソルダ_other_竜神信教信徒_p1809_Colonial_Administration|植民地行政的なラベル付け]]
+- A_ch0042_inverts_E_ch0042_ソルダ_other_竜神信教信徒_p1809_Colonial_Administration（植民地行政的なラベル付け）
 
 <!-- AUTO:END -->

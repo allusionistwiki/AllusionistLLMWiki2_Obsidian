@@ -4,7 +4,7 @@ id: A_ch5586_analogous_to_E_ch5586_パーン_says_対策済みだ_p18_evolutiona
 title: 進化適応による戦闘学習ロジック
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5586_パーン_says_対策済みだ_p18]]"
 predicate: analogous_to
 object: "[[ME_evolutionary_adaptation]]"
@@ -15,7 +15,7 @@ spoiler_after: ch5586
 evidence_strength: strong
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 
 > 自己進化を繰り返すパーンの化身は再戦に極めて強い。（p16）
 
-**審査（LLM 代替）**: 「自己進化」「再戦に強い」という記述は、生物学的な適応（Evolutionary adaptation）のアナロジーとして妥当である。
+**審査（LLM 代替）**: 「自己進化を繰り返す」「再戦に極めて強い」という記述は、生物学的適応やAIの学習プロセスと構造的に一致しており、有効なアナロジーである。

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_子作り・生殖義務
 title: 生殖義務論
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "子作り・生殖義務"
 domain: "Contemporary Culture"

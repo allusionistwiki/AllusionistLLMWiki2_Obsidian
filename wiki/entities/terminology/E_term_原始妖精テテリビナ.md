@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_原始妖精テテリビナ
 type: entity
 subtype: terminology
 canonical_name: 原始妖精テテリビナ
-title: "原始妖精テテリビナ"
+title: 原始妖精テテリビナ
 first_appearance: ch5579
 spoiler_after: ch5579
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 原始妖精テテリビナ
@@ -25,3 +26,13 @@ created: "2026-09-30"
 > （確か、あまり知られてないけど最初に『始まり以前の時代』っていうのがあったはず。原始妖精テテリビナってのがいて、それがティリビナ人とかアヴロノみたいな妖精系の種族のルーツになったとか。（ch5579）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 1.はじまり：原始妖精（テテリビナ） → ティリビナ人の起源
+- **unknown**: （確か、あまり知られてないけど最初に『始まり以前の時代』っていうのがあったはず。原始妖精テテリビナってのがいて、それがティリビナ人とかアヴロノみたいな妖精系の種族のルーツになったとか。
+- **unknown**: 1.はじまり：原始妖精（テテリビナ） → ティリビナ人の起源
+- **unknown**: （確か、あまり知られてないけど最初に『始まり以前の時代』っていうのがあったはず。原始妖精テテリビナってのがいて、それがティリビナ人とかアヴロノみたいな妖精系の種族のルーツになったとか。
+
+<!-- /AUTO-GENERATED:symbolic -->

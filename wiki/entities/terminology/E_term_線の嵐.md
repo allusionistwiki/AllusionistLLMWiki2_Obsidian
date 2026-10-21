@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_term_線の嵐
+type: entity
+subtype: terminology
+canonical_name: 線の嵐
+title: "線の嵐"
+first_appearance: ch5490
+spoiler_after: ch5490
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 線の嵐
+
+虹犬が放つ攻撃として登場し、魔将サイザクタートが得意としていた必殺の呪術と同一であることが判明する技であり、空間操作呪術だと推測されていた技の正体は『虹』そのものを用いたものである。既存の強力な呪術体系と関連付けられる特殊な攻撃手段である。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5490 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 魔将サイザクタートが得意としていた必殺の呪術、通称『線の嵐』だ。（ch5490）
+> 空間操作呪術の一種では無いかと推測されていたけれど、正体は『虹』だったのか。（ch5490）
+
+<!-- AUTO:END -->

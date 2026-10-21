@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_autocratic_paternalism
+title: 全体調和の強制的維持
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "autocratic_paternalism"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# autocratic_paternalism
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5486_analogous_to_E_ch5486_テッシトゥーラ_other_世界平和の維持_p73_autocratic_paternalism]] — 「調子に乗った言語テロリストたちは始末してあげる」「軌道修正してあげる」という発言は、自由意志を否定し秩序を強制的に維持する父権的専制政治（パターナリズム）の論理を示している。

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_四人
 type: entity
 subtype: character
 canonical_name: 四人
-title: "四人"
+title: 四人
 first_appearance: ch0262
 spoiler_after: ch0262
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 四人
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > それに挑む四人は飛翔の意思ひとつでそれを乗り越えんと試みた。（ch5577）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: それに挑む四人は飛翔の意思ひとつでそれを乗り越えんと試みた。
+- **unknown**: それに挑む四人は飛翔の意思ひとつでそれを乗り越えんと試みた。
+
+<!-- /AUTO-GENERATED:action -->

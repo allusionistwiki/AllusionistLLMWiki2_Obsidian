@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_digital_narrative_logic
 title: デジタル物語論理
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "digital_narrative_logic"
 domain: "Contemporary Culture"

@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_dream_scape_fiction
+title: 夢界のメタフィクション
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "dream_scape_fiction"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# dream_scape_fiction
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5496_parodies_E_p81_dream_scape_fiction]] — 死んだ敵（ライラ）が夢の中で現れ、理性的な対話を行うという展開は、心理劇やメタフィクションにおける「内なる敵」との対話、あるいはゲームのエンディング後のアフターエピソードを模倣している。

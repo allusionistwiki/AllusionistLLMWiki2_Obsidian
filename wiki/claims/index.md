@@ -6,43 +6,3913 @@ description: 全アナロジークレームの章別・話別インデックス
 
 # アナロジークレーム全集（章・話別）
 
-全 **1226 件**。[話ナビゲーション](https://allusionistwiki.github.io/AllusionistWiki2/l1/nav/index.html) / [伏線台帳](https://allusionistwiki.github.io/AllusionistWiki2/l1/mysteries/index.html) / [外部参照](https://allusionistwiki.github.io/AllusionistWiki2/l1/references/index.html)
+全 **2702 件**。[話ナビゲーション](https://allusionistwiki.github.io/AllusionistWiki2/l1/nav/index.html) / [伏線台帳](https://allusionistwiki.github.io/AllusionistWiki2/l1/mysteries/index.html) / [外部参照](https://allusionistwiki.github.io/AllusionistWiki2/l1/references/index.html)
 
 ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイベント（ノーペイン起動, p103）が「安楽死の倫理」をパロディにしている、という主張。
 
+### 第5003話
+
+- [[A_ch5003_analogous_to_E_ch5003_アキラ_observes_迷宮スタート地点_p2_video_game_start_location_selection|初期地点選択への転生]]
+
+### 第5004話
+
+- [[A_ch5004_alludes_to_E_{ch5004_p36}_{mythical_weapons}|神話的武器による境界曖昧化]]
+- [[A_ch5004_analogous_to_E_{ch5004_p28}_{samurai_cliché}|白刃取りのSF再構成]]
+- [[A_ch5004_analogous_to_E_{ch5004_p53}_{rpg_combat_ui}|RPG戦闘HUD的視覚補助]]
+- [[A_ch5004_parodies_E_{ch5004_p21}_{AR_game_overlay}|ARゲームUIの攻撃予示]]
+- [[A_ch5004_parodies_E_{ch5004_p78}_{crowdsourced_app_design}|クラウドソーシング開発のパロディ]]
+- [[A_ch5004_sublates_E_{ch5004_p11}_{murder_philosophy}|殺人哲学の止揚と再定義]]
+
+### 第5005話
+
+- [[A_ch5005_alludes_to_E_p118-p121_modern_communication_overload|現代通信過負荷・断絶の象徴]]
+- [[A_ch5005_alludes_to_E_p13_shonen_rpg_battle_logic|少年RPG戦闘論理の逆説]]
+- [[A_ch5005_analogous_to_E_p67_augmented_reality_social_media|ARネームタグによる認知浸透]]
+- [[A_ch5005_inverts_E_p45-p47_heroic_fantasy_cliche|英雄譚ステレオタイプの解体]]
+- [[A_ch5005_structurally_matches_E_p40-p42_magic_item_in_gacha_games|ガチャゲームのレアリティ演出]]
+- [[A_ch5005_sublates_E_p99-p105_dungeon_core_destruction|ダンジョンコア破壊の物理的再構成]]
+
+### 第5006話
+
+- [[A_ch5006_alludes_to_E_ch5006_一行_has_property_ギャンブル規制_p76_gambling_regulation|ギャンブル規制による食料調整]]
+- [[A_ch5006_analogous_to_E_ch5006_キール_uses_巻物地図_p6_smartphone_navigation_apps|地図アプリ的巻物のマッピング]]
+- [[A_ch5006_analogous_to_E_ch5006_台座_is_located_泉の横_p42_intercom_system|組織内通信インターホンへの転生]]
+- [[A_ch5006_analogous_to_E_ch5006_巻物地図_has_property_通信機能_p9_smartphone_calling_feature|スマホ通話機能の魔術的再現]]
+- [[A_ch5006_inverts_E_ch5006_噴水部屋_has_property_安全地帯_p38_safe_zones_in_games|ゲーム安全地帯への転生]]
+- [[A_ch5006_structurally_matches_E_ch5006_アキラ_makes_辞書もどき_p80_language_learning_apps|語学学習アプリのアナログ版]]
+
+### 第5007話
+
+- [[A_ch5007_alludes_to_E_ch5007_アキラ_says_カインの真似裏か表_p36_coin_toss_decision_making|コイントス決断による暴力回避]]
+- [[A_ch5007_analogous_to_E_ch5007_壮年男性_uses_浮遊する本と魔法の文字_p29_ar_interface|ARインターフェース的投影]]
+- [[A_ch5007_analogous_to_E_ch5007_弾丸_functions_as_スタングレネード_p28_stun_grenade_modern_warfare|閃光弾機能の魔法移植]]
+- [[A_ch5007_parodies_E_ch5007_アキラ_uses_弾道予報Ver2.0_p44_ballistic_prediction_software|弾道予測ソフトのパロディ転生]]
+- [[A_ch5007_structurally_matches_E_ch5007_アキラ_thinks_戦闘への準備と三人組の評価_p81_tactical_combat_simulation|戦術的プロファイリングの再現]]
+
+### 第5009話
+
+- [[A_ch5009_alludes_to_E_p12_video_game_magic_systems|ゲーム魔法システム的な即時火葬]]
+- [[A_ch5009_alludes_to_E_{p12}_{video_game_magic_systems}|ゲーム的魔法体系の連想]]
+- [[A_ch5009_analogous_to_E_p112-p115_dungeon_master_sandbox_control|ダンジョンマスターの強制転送空間]]
+- [[A_ch5009_analogous_to_E_p6-p9_modern_urban_sanitation_and_looting|遺体処理と略奪の合理主義]]
+- [[A_ch5009_analogous_to_E_{p112-p115}_{dungeon_master_sandbox_control}|ダンジョンマスター制御の模倣]]
+- [[A_ch5009_inverts_E_p45-p49_reincarnation_power_fantasy|転生者の法的保護喪失逆説]]
+- [[A_ch5009_inverts_E_{p45-p49}_{reincarnation_power_fantasy}|転生者特権の逆説的退化]]
+- [[A_ch5009_structurally_matches_E_p53-p59_team_bonding_rituals|言語不通下での非言語結束儀礼]]
+- [[A_ch5009_structurally_matches_E_{p53-p59}_{team_bonding_rituals}|チーム結束儀式の構造的一致]]
+
+### 第5010話
+
+- [[A_ch5010_alludes_to_E_p20_Shadow_Manipulation|影操作メカニクスの物理解説]]
+- [[A_ch5010_analogous_to_E_p45_AR_Apps|ARアシストアプリ的戦闘補助]]
+- [[A_ch5010_analogous_to_E_p81_Martial_Arts_Rankings|現代格闘技階級制度の移植]]
+- [[A_ch5010_inverts_E_p97_Magic_System|静寂魔術による影無効化の逆転]]
+- [[A_ch5010_parodies_E_p35_Isekai_Narrative_Trope|異世界転生チート依存の自虐的批判]]
+- [[A_ch5010_structurally_matches_E_p84_Game_Theory_Risk_Assessment|ゲーム理論的リスク管理としての思考]]
+
+### 第5011話
+
+- [[A_ch5011_alludes_to_E_p143_application_augmented_reality_apps|ARアプリ的脳内索敵]]
+- [[A_ch5011_analogous_to_E_p110_explosion_escape_emergency_evacuation_protocol|強制避難とリスク分散の論理]]
+- [[A_ch5011_analogous_to_E_p5_telepathy_smartphone_notifications|スマホ通知・翻訳介入の境界溶解]]
+- [[A_ch5011_inverts_E_p15_name_theft_privacy_data_leak|名前奪取による自我侵食の恐怖]]
+- [[A_ch5011_parodies_E_p39_name_power_gacha_game_terms_of_service|ガチャ規約を模倣する素人の無知]]
+- [[A_ch5011_structurally_matches_E_p51_chain_count_mobile_game_daily_stamina|金鎖減少とゲーム的HP管理]]
+
+### 第5013話
+
+- [[A_ch5013_alludes_to_E_p154_action_over_prayer_moral_stance|祈りより行動の実存主義]]
+- [[A_ch5013_analogous_to_E_p170_brainwashing_in_yakuza_crime|暴力団利用の技術的洗脳]]
+- [[A_ch5013_analogous_to_E_p227_serial_killer_professionalization|殺し屋倫理のプロフェッショナル化]]
+- [[A_ch5013_inverts_E_p201_assassination_contract_ethics|被害者による加害者への感謝]]
+- [[A_ch5013_parodies_E_p162_app_nopain_emotion_management|安楽死を助長する感情管理アプリ]]
+- [[A_ch5013_structurally_matches_E_p246_customer_service_deflection|殺人後の客服的葛藤矮小化]]
+
+### 第5014話
+
+- [[A_ch5014_alludes_to_E_ch5014_アキラ_appears_as_シナモリ・アキラ_p4_Biblical_Cain_Abel|カインとアベルの兄弟殺し]]
+- [[A_ch5014_analogous_to_E_ch5014_アキラ_appears_as_シナモリ・アキラ_p4_Counseling_Magic_Spell|認識書き換えによるトラウマ上書き]]
+- [[A_ch5014_analogous_to_E_ch5014_アキラ_appears_as_シナモリ・アキラ_p4_Euthanasia_Mercy_Killing|ゾンビ化防止という安楽死]]
+- [[A_ch5014_analogous_to_E_ch5014_アキラ_appears_as_シナモリ・アキラ_p4_Post_Traumatic_Stress_Disorder|呪いに見せかけたPTSD症状]]
+
+### 第5015話
+
+- [[A_ch5015_alludes_to_E_Anger_Transformation_Bushido_Honor|悲しみを怒りに変える名誉回復]]
+- [[A_ch5015_analogous_to_E_Akira_Reaction_Gamer_Mental_Model|IT用語で読み解く異世界システム]]
+- [[A_ch5015_analogous_to_E_Left_Hand_Virus_Computer_Virus|コンピュータウイルスへの寄生]]
+- [[A_ch5015_analogous_to_E_OS_Mounting_Computer_Operating_System|肉体をホストOSとする魔導書マウント]]
+- [[A_ch5015_analogous_to_E_Parasitic_Monster_Grafting_Technology|移植医療技術への異獣細胞移植]]
+- [[A_ch5015_analogous_to_E_Security_Check_IT_Security_Audit|違法魔導書のセキュリティ監査]]
+- [[A_ch5015_parodies_E_Responsibility_Sharing_Japanese_Corporate_Bureaucracy|日本型企業官僚制への権限委任パロディ]]
+
+### 第5016話
+
+- [[A_ch5016_alludes_to_E_silent_step_ninja_stealth_tradition|忍者の隠密技術のデジタル拡張]]
+- [[A_ch5016_alludes_to_E_{silent_step}_{ninja_stealth_tradition}|忍者の隠密行動への技術的拡張]]
+- [[A_ch5016_analogous_to_E_app_activation_smartphone_game_management|スマホゲーム的アプリ管理]]
+- [[A_ch5016_analogous_to_E_timer_countdown_battle_royale_zone_shrink|バトルロイヤル的エリア縮小]]
+- [[A_ch5016_analogous_to_E_{app_activation}_{smartphone_game_management}|スマホゲーム編成への能力管理]]
+- [[A_ch5016_analogous_to_E_{timer_countdown}_{battle_royale_zone_shrink}|縮小する生存エリアへの強制移動]]
+- [[A_ch5016_inverts_E_akira_communication_online_game_voice_chat|遅延なき音声通信への欲求]]
+- [[A_ch5016_parodies_E_doppler_app_audio_editing_software|DAW編集ソフトのパロディ化]]
+- [[A_ch5016_parodies_E_{doppler_app}_{audio_editing_software}|オーディオ編集ソフトのパロディ]]
+- [[A_ch5016_structurally_matches_E_app_selection_rpg_build_theory|RPGビルド理論的なアプリ選択]]
+- [[A_ch5016_structurally_matches_E_{app_selection}_{rpg_build_theory}|RPGビルド理論への最適化選択]]
+- [[A_ch5016_sublates_E_cyber_karate_transhumanism_in_sports|トランスヒューマンの生体限界挑戦]]
+- [[A_ch5016_sublates_E_{cyber_karate}_{transhumanism_in_sports}|スポーツ・トランスヒューマニズムの止揚]]
+
+### 第5018話
+
+- [[A_ch5018_analogous_to_E_p108_frankenstein_myth|フランケンシュタイン神話への準拠]]
+- [[A_ch5018_analogous_to_E_p121_online_identity|オンライン上のアイデンティティ指喩]]
+- [[A_ch5018_analogous_to_E_p28_dnd_magic_items|TRPG魔法道具のリソース管理]]
+- [[A_ch5018_inverts_E_p119_curse_logic|ネット文化による呪術真名の相対化]]
+- [[A_ch5018_parodies_E_p61_misdirection_theater|呪術会話のミスディレクション構造]]
+
+### 第5019話
+
+- [[A_ch5019_analogous_to_E_ch5019_カイン私_breaks_金鎖の環_p17_limit_break_system|金鎖破壊による限界突破演出]]
+- [[A_ch5019_analogous_to_E_ch5019_カイン私_makes_蒼穹の庭園_p130143_sandbox_game_building|迷宮階層のサンドボックス的構築]]
+- [[A_ch5019_analogous_to_E_ch5019_カイン私_other_365日後の再会_p242243_real_time_event_countdown|秒数記述によるイベントカウントダウン]]
+- [[A_ch5019_analogous_to_E_ch5019_ヲルヲーラ_appears_翼猫の審判役_p164173_game_master_gm|翼猫審判役とTRPGのGM]]
+- [[A_ch5019_analogous_to_E_ch5019_第五階層_disappears_幻の空間_p6872_virtual_reality_crash|世界崩壊によるVRクラッシュ様相]]
+- [[A_ch5019_parodies_E_ch5019_カイン私_finds_エスフェイルの本質闇の脚_p1820_deconstructive_semantics|真名解体によるメタフィクショナル殺害]]
+
+### 第5020話
+
+- [[A_ch5020_alludes_to_E_p14_Abraham_Lincoln|リンカーンへの異世界受容]]
+- [[A_ch5020_alludes_to_E_p51_Avatar_2009|植民地批判映画のメタフィクション]]
+- [[A_ch5020_alludes_to_E_{p14}_{Abraham_Lincoln}|異形猫とリンカーンの政治的連続性]]
+- [[A_ch5020_alludes_to_E_{p51}_{Avatar_2009}|転生批判映画『アバター』への言及]]
+- [[A_ch5020_analogous_to_E_p35_Cold_War_Proxy_Wars|冷戦代理戦争構造のメタファー]]
+- [[A_ch5020_analogous_to_E_p43_United_Nations_Security_Council|国連安保理模倣の多世界理事会]]
+- [[A_ch5020_analogous_to_E_{p35}_{Cold_War_Proxy_Wars}|異世界争いの冷戦代理戦争構造]]
+- [[A_ch5020_analogous_to_E_{p43}_{United_Nations_Security_Council}|多世界安保理と国連安保理の模倣]]
+- [[A_ch5020_parodies_E_p48_Colonialism_in_Isekai_Genre|異世界植民地主義のパロディ]]
+- [[A_ch5020_parodies_E_{p48}_{Colonialism_in_Isekai_Genre}|異世界転生の植民地主義風刺]]
+- [[A_ch5020_structurally_matches_E_p88_Video_Game_Day_Night_Cycle_Timer|ゲーム的時限ルールとしての防衛戦]]
+- [[A_ch5020_structurally_matches_E_{p88}_{Video_Game_Day_Night_Cycle_Timer}|時限ルールによる防衛戦開始]]
+
+### 第5021話
+
+- [[A_ch5021_alludes_to_E_p56_retroactive_causality_paradox|遡及因果殺害による物語構造破壊]]
+- [[A_ch5021_analogous_to_E_p64_ai_ethics_consciousness|AI意識とクオリアによる知性定義]]
+- [[A_ch5021_inverts_E_p203_isekai_hero_cliché|異世界主人公テンプレの逆転]]
+- [[A_ch5021_parodies_E_p10_video_call_software|魔法的映像通信装置の記号再構成]]
+- [[A_ch5021_structurally_matches_E_p195_dark_web_marketplaces|ダークウェブ市場型の地下経済構造]]
+
+### 第5022話
+
+- [[A_ch5022_analogous_to_E_p23-p25_crypto_asset_volatility|暗号資産の価格急落リスク反映]]
+- [[A_ch5022_analogous_to_E_p86_industrial_livestock_abuse|工場畜産搾取構造の生贄化]]
+- [[A_ch5022_analogous_to_E_p96_augmented_reality_advertising|AR広告強制露出による認知負荷風刺]]
+- [[A_ch5022_inverts_E_p100-p102_crowdsourced_surveillance|群衆デジタル監視の魂吸い取り転換]]
+- [[A_ch5022_parodies_E_p8-p9_real_life_language_barrier|即時通訳否定と言語障壁のパロディ]]
+- [[A_ch5022_structurally_matches_E_p37_universal_physical_constants|物理定数普遍性に基づく転生合理性]]
+
+### 第5023話
+
+- [[A_ch5023_alludes_to_E_p31_intra_species_conflict|同族間紛争による同胞暴力の想起]]
+- [[A_ch5023_analogous_to_E_p10_urban_planning_autogenesis|自動生成都市計画の予測不能性]]
+- [[A_ch5023_analogous_to_E_p27_geopolitical_proxy_war|地政学的代理戦争と灰色の平和]]
+- [[A_ch5023_analogous_to_E_p49_second_class_citizen_status|市民権なき存在の社会的孤立]]
+- [[A_ch5023_analogous_to_E_p65_human_trafficking_modern_slavery|人身売買と現代奴隷制の搾取構造]]
+- [[A_ch5023_analogous_to_E_p81_smartphone_sleep_tracking_app|睡眠自動警戒]]
+- [[A_ch5023_analogous_to_E_p93_pidgin_creole_linguistics|ピジン・クレオール語]]
+
+### 第5024話
+
+- [[A_ch5024_analogous_to_E_ch5024_アキラ_thinks_四つの目的_p3_Internet_Anonymity|ネット匿名性]]
+- [[A_ch5024_analogous_to_E_ch5024_アキラ_thinks_四つの目的_p3_Medical_Insurance_System|闇医者の私的医療]]
+- [[A_ch5024_analogous_to_E_ch5024_アキラ_thinks_四つの目的_p3_Modern_Communication_Technology|逆転翻訳技術]]
+- [[A_ch5024_inverts_E_ch5024_アキラ_thinks_四つの目的_p3_Typical_Isekai_Cliché|異世界転生クリシェの逆転]]
+- [[A_ch5024_parodies_E_ch5024_アキラ_thinks_四つの目的_p3_Cyberpunk_Megacorp|サイバーパンク巨大企業]]
+- [[A_ch5024_structurally_matches_E_ch5024_アキラ_thinks_四つの目的_p3_Yakuza_Organizational_Structure|ヤクザ組織構造の移植]]
+
+### 第5025話
+
+- [[A_ch5025_alludes_to_E_ch5025_コルセスカ_has_property_巨大な右眼_p60_medusa_myth|メデューサの石化]]
+- [[A_ch5025_analogous_to_E_ch5025_異世界転生事業_defines_グレーゾーンな制度_p32_japanese_regulatory_capture|規制産業の腐敗]]
+- [[A_ch5025_analogous_to_E_ch5025_言語魔術師_functions_as_催眠効果を持つ特殊な発声_p109_turing_test_chatbot|チューリングテスト・チャットボット]]
+- [[A_ch5025_inverts_E_ch5025_アキラ_thinks_論理破綻と魔術の定義_p130_scientific_method|科学と非論理魔術]]
+- [[A_ch5025_structurally_matches_E_ch5025_コルセスカ_says_信用できない時制と語り手の解決_p137_heidegger_phenomenology|ハイデガーの現象学]]
+
+### 第5026話
+
+- [[A_ch5026_alludes_to_E_{文字読解の不可}_{文化人類学における記号論・意味論}|記号論的言語観]]
+- [[A_ch5026_alludes_to_E_文字読解の不可_文化人類学における記号論・意味論|言語生成構造主義の暗喩]]
+- [[A_ch5026_analogous_to_E_{コルセスカの言語解析業務}_{AIの機械学習・自然言語処理}|AI機械学習・NLP]]
+- [[A_ch5026_analogous_to_E_コルセスカの言語解析業務_AIの機械学習・自然言語処理|LLM学習プロセスへの類似]]
+- [[A_ch5026_analogous_to_E_文字が認識される仕組み_AR拡張現実やVRのインターフェース|AR空間投影界面の想起]]
+- [[A_ch5026_analogous_to_E_棍棒の瞬間巨大化_ゲームにおけるヒットボックス判定範囲の拡大|局所空間圧縮技術のSF概念]]
+- [[A_ch5026_parodies_E_{翻訳のための拘束と通話}_{カスタマーサポート・チャットボットの会話ログ収集}|チャットボット学習データ収集]]
+- [[A_ch5026_parodies_E_翻訳のための拘束と通話_カスタマーサポート・チャットボットの会話ログ収集|AIアノテーション作業のパロディ]]
+- [[A_ch5026_structurally_matches_E_{第五階層での戦闘ルール}_{SNS・インターネット上の炎上・群衆心理}|ネット炎上・群衆心理の構造]]
+- [[A_ch5026_structurally_matches_E_第五階層での戦闘ルール_SNS・インターネット上の炎上・群衆心理|ネット炎上構造の戦闘ルール]]
+
+### 第5029話
+
+- [[A_ch5029_alludes_to_E_{コルセスカの氷の家}_{透明性のない監視社会の建築パノプティコン}|非対称な監視権の可視化]]
+- [[A_ch5029_alludes_to_E_コルセスカの氷の家_透明性のない監視社会の建築パノプティコン|逆転パノプティコンの暗喩]]
+- [[A_ch5029_analogous_to_E_{コルセスカの社会的信用による保証}_{企業ブランドや社会的地位による契約担保シグナリング理論}|ステータス担保シグナリング]]
+- [[A_ch5029_analogous_to_E_アキラの孤立と暴力依存_植民地支配における言語障壁と暴力による秩序維持|言語断絶と暴力支配の縮図]]
+- [[A_ch5029_analogous_to_E_コルセスカの社会的信用による保証_企業ブランドや社会的地位による契約担保シグナリング理論|肩書き担保のシグナリング理論]]
+- [[A_ch5029_inverts_E_{アキラの食事拒否}_{異世界転生ジャンルにおける共食による絆形成クリシェ}|共食絆の逆転]]
+- [[A_ch5029_inverts_E_アキラの食事拒否_異世界転生ジャンルにおける共食による絆形成クリシェ|共食クリシェの逆転]]
+- [[A_ch5029_parodies_E_{アキラの感情抑制}_{現代のSNSにおける自己検閲とメンタルヘルスアプリ}|感情制御アプリのパロディ]]
+- [[A_ch5029_parodies_E_アキラの感情抑制_現代のSNSにおける自己検閲とメンタルヘルスアプリ|感情管理・自己検閲のパロディ]]
+- [[A_ch5029_sublates_E_アキラの警戒と信頼の葛藤_ゼロ・トラストセキュリティZeroTrustArchitecture|人間版ゼロ・トラストの止揚]]
+
+### 第5030話
+
+- [[A_ch5030_alludes_to_E_p87_enemy_marker_surveillance_society_tracking|監視社会・アルゴリズム評価]]
+- [[A_ch5030_analogous_to_E_p38_bus_fare_modern_wage_labor_exploitation|労働搾取と貧困のトラウマ]]
+- [[A_ch5030_analogous_to_E_p53_illegal_income_modern_prekarya_poverty|プレカリアート貧困の闇仕事依存]]
+- [[A_ch5030_analogous_to_E_p68_ar_tag_management_modern_augmented_reality_apps|ARタグ管理破綻の象徴]]
+- [[A_ch5030_analogous_to_E_p82_language_rights_intellectual_property_rights_system|知的財産権制度の異世界版]]
+- [[A_ch5030_parodies_E_p145_three_party_dungeon_rpg_standard_party|RPG定番パーティ構成のパロディ]]
+
+### 第5031話
+
+- [[A_ch5031_alludes_to_E_ch5031_アキラ_thinks_暴力の境界線_p11_yakuza_etiquette|ヤクザの礼儀作法への転生]]
+- [[A_ch5031_alludes_to_E_ch5031_少年_appears_as_猫耳四つ耳_p31_kemonomimi_trope|獣耳の常套句の逆転]]
+- [[A_ch5031_analogous_to_E_ch5031_サイバーカラテ道場_activates_戦闘モード_p60_ar_augmented_reality|拡張現実とHUDへの類似]]
+- [[A_ch5031_analogous_to_E_ch5031_少年_has_property_右手の癖_p43_gestalt_recognition|ゲシュタルト認知への類似]]
+- [[A_ch5031_analogous_to_E_ch5031_閃光符_functions_as_視覚奪取_p67_flashbang_grenade|スタングレネードへの転写]]
+- [[A_ch5031_structurally_matches_E_ch5031_階層の法_has_property_戦闘禁止の不適用_p24_zoning_laws|ゾーニング法規制の機能不全]]
+
+### 第5033話
+
+- [[A_ch5033_analogous_to_E_ch5033_コルセスカ_other_松明の騎士団接近_p112_現代の政治的・組織的ステークホルダーへの接触リスク|組織間対立の巻き込みへの類似]]
+- [[A_ch5033_analogous_to_E_ch5033_コルセスカ_other_言語登録制度_p26_現代のSNSでの顔写真投稿・タグ付け|SNSタグ付けへの風刺]]
+- [[A_ch5033_analogous_to_E_ch5033_コルセスカ_other_言語登録制度_p26_現代のメディアによる個人特定・ドキュメンタリー化|メディアによる特定への風刺]]
+- [[A_ch5033_analogous_to_E_ch5033_コルセスカ_other_言語登録制度_p26_現代の個人情報保護法・GDPR|個人情報保護法への代償]]
+- [[A_ch5033_inverts_E_ch5033_コルセスカ_other_言語登録制度_p26_現代のカメラによる監視社会・防犯カメラ|監視カメラ社会の逆転]]
+- [[A_ch5033_structurally_matches_E_ch5033_コルセスカ_other_言語登録制度_p26_現代のアプリ利用規約・同意プロセス|アプリ利用規約への構造対応]]
+
+### 第5035話
+
+- [[A_ch5035_alludes_to_E_akira_spec_ai_intervention|AI介入と知性拡張への暗喩]]
+- [[A_ch5035_analogous_to_E_corceska_theory_narrative_construction_of_self|自己の物語的構築への類似]]
+- [[A_ch5035_analogous_to_E_lucid_dream_loop_video_game_death_loop|ゲームオーバー・ループへの一致]]
+- [[A_ch5035_inverts_E_mechanical_control_emotion_dehumanization_through_technology|技術による非人間化の逆転]]
+- [[A_ch5035_parodies_E_dream_lack_of_future_metaphor_of_stagnation|停滞メタファーへの転生剥奪]]
+- [[A_ch5035_structurally_matches_E_azuria_waiting_dependency_on_deus_ex_machina|デウス・エクス・マキナ依存構造]]
+
+### 第5036話
+
+- [[A_ch5036_alludes_to_E_ch5036_トリシューラ_appears_as_ビスクドール_p34_オートマタ・人造人間・AIアンドロイド|人造人間への暗喩]]
+- [[A_ch5036_analogous_to_E_ch5036_トリシューラ_has_property_息づかいの不在_p31_AIボイス・VTuber・合成音声|AI音声とバーチャル存在類似]]
+- [[A_ch5036_analogous_to_E_ch5036_トリシューラ_reveals_電子データによる言語定着_p161_クラウド翻訳・機械学習による自然言語処理|AI翻訳技術との類似]]
+- [[A_ch5036_inverts_E_ch5036_トリシューラ_has_property_読めない表情_p183_アンキャニ・バレー・理論不気味の谷|不気味の谷現象の逆転]]
+- [[A_ch5036_parodies_E_ch5036_トリシューラ_has_property_無資格医師_p84_ネット医療・自己責任論・規制緩和の極限|無資格医療のパロディ]]
+- [[A_ch5036_structurally_matches_E_ch5036_トリシューラ_wears_剥いだ毛皮_p129_植民地支配・資源搾取の象徴フサオマキザルの帽子等|植民地支配の象徴構造]]
+
+### 第5037話
+
+- [[A_ch5037_analogous_to_E_ch5037_トリシューラ_appears_as_無表情より見えない明るさ_p2_social_media_curator|SNSキュレーター的マスキング]]
+
+### 第5038話
+
+- [[A_ch5038_alludes_to_E_ch5038_アキラ_remembers_カイン殺し_p150_absolution_indulgence|免罪符と贖宥の暗喩]]
+- [[A_ch5038_alludes_to_E_ch5038_コルセスカ_other_動画_p46_social_media_poll|SNS投票としての炎上模倣]]
+- [[A_ch5038_analogous_to_E_ch5038_アキラ_thinks_主体性_p38_exoskeleton_prosthetics|外骨格と義体化の類比]]
+- [[A_ch5038_inverts_E_ch5038_アキラ_thinks_悲惨な世界_p22_hardcore_game_design|ハードコアゲーム設計の逆転]]
+- [[A_ch5038_parodies_E_ch5038_アキラ_thinks_竜殺し_p17_heroic_fantasy_lore|英雄ファンタジー常套のパロディ]]
+- [[A_ch5038_structurally_matches_E_ch5038_アキラ_thinks_天秤_p83_utilitarian_ethics|極端な功利主義構造]]
+
+### 第5039話
+
+- [[A_ch5039_alludes_to_E_ch5039_アキラ_thinks_座禅_p2_memory_reconsolidation_and_malleability_of_truth|記憶再統合による真実の変容]]
+- [[A_ch5039_alludes_to_E_ch5039_アキラ_thinks_座禅_p2_monastic_aesthetics_and_asceticism|修道院的美学と禁欲のSF的変換]]
+- [[A_ch5039_analogous_to_E_ch5039_アキラ_thinks_座禅_p2_augmented_reality_and_spatial_computing|AR空間演算としての足場具現化]]
+- [[A_ch5039_analogous_to_E_ch5039_アキラ_thinks_座禅_p2_mobile_game_ui_and_app_management|スマホゲームUI管理の模倣]]
+- [[A_ch5039_analogous_to_E_ch5039_アキラ_thinks_座禅_p2_sensory_deprivation_meditation|感覚遮断瞑想による暴力制御]]
+- [[A_ch5039_inverts_E_ch5039_アキラ_thinks_座禅_p2_emotion_regulation_and_suppression_technologies|感情制御技術による規範排除の逆転]]
+- [[A_ch5039_structurally_matches_E_ch5039_アキラ_thinks_座禅_p2_gacha_game_simulation_and_strategy_planning|ガチャ戦略シミュレーションとしての戦闘準備]]
+- [[A_ch5039_sublates_E_ch5039_アキラ_thinks_座禅_p2_nihilism_and_moral_disengagement|虚無主義による殺人の娯楽化]]
+
+### 第5040話
+
+- [[A_ch5040_alludes_to_E_ch5040_コルセスカ_says_アキラへの批判_p2_Survivorship_Bias_Media_Metrics|生存者バイアスとSNSアルゴリズムの魔法化]]
+- [[A_ch5040_parodies_E_ch5040_コルセスカ_says_アキラへの批判_p2_Archetypal_Rational_Protagonist|合理的主人公クリシェのパロディ的拒絶]]
+- [[A_ch5040_structurally_matches_E_ch5040_コルセスカ_says_アキラへの批判_p2_Metaverse_Avatar_Cosmetics|アバターカスタム的な身体介入]]
+- [[A_ch5040_sublates_E_ch5040_コルセスカ_says_アキラへの批判_p2_Altruism_Hypocrisy|利他主義偽善性の相互利用への統合]]
+
+### 第5041話
+
+- [[A_ch5041_analogous_to_E_flash_tactic_uneven_distribution_of_weapons|金銭格差による戦闘力]]
+- [[A_ch5041_analogous_to_E_flashlight_app_smartphone_apps|スマホアプリの異世界実装]]
+- [[A_ch5041_inverts_E_kain_praise_narrator_inner_monologue|表裏の道徳葛藤の逆転描写]]
+- [[A_ch5041_parodies_E_kain_intro_anime_battle_cliché|アニメ戦闘名乗りのパロディ]]
+- [[A_ch5041_structurally_matches_E_flash_app_cyber_karate_dojo|サイバーカラテ道場の構造対応]]
+
+### 第5043話
+
+- [[A_ch5043_alludes_to_E_サイバーカラテ道場の無視_ガジェット依存症からの離脱・自己責任論|主体性の回復への暗喩]]
+- [[A_ch5043_analogous_to_E_{モロレク悪鬼の性質}}_{古代日本の怨霊信仰・呪詛}}|怨霊信仰的な集団呪詛]]
+- [[A_ch5043_analogous_to_E_カーインの戦術分析_SNSによるプロファイリング・行動誘導|ナラティブ操作批判の類似]]
+- [[A_ch5043_analogous_to_E_モロレク悪鬼の性質_古代日本の怨霊信仰・呪詛|怨霊信仰・呪詛との類似]]
+- [[A_ch5043_parodies_E_{主人公の経済的な発言}}_{冷徹な合理性を演じるアニメ主人公例：コードギアス等}}|コードギアス的合理主義のパロディ]]
+- [[A_ch5043_parodies_E_主人公の経済的な発言_冷徹な合理性を演じるアニメ主人公例：コードギアス等|冷徹な合理主義者のパロディ]]
+- [[A_ch5043_structurally_matches_E_{ロウ・カーイン}}_{植民地支配者／観察者としての野蛮人研究}}|植民地人類学的権力構造]]
+- [[A_ch5043_structurally_matches_E_ロウ・カーイン_植民地支配者／観察者としての野蛮人研究|植民地的他者観察の構造対応]]
+
+### 第5044話
+
+- [[A_ch5044_alludes_to_E_ch5044_アキラ_thinks_コルセスカとの類似性_p17_ME_xenoglossia_concept|ゼノグラシアによる他者性象徴]]
+- [[A_ch5044_analogous_to_E_ch5044_トリシューラ_uses_味覚ジャック_p61_ME_haptic_feedback_ar|AR触覚フィードバック体験]]
+- [[A_ch5044_analogous_to_E_ch5044_音声_appears_as_視界下隅の文章_p4_ME_smartphone_translation_overlay|ARリアルタイム字幕機能]]
+- [[A_ch5044_foreshadows_E_ch5044_トリシューラ_names_ゼノグラシア_p14_ME_identity_politics_theme|異物のアイデンティティ伏線]]
+- [[A_ch5044_inverts_E_ch5044_トリシューラ_says_アキラの恐怖克服_p2_ME_emotional_regulation_app|感情制御アプリの逆転批判]]
+- [[A_ch5044_parodies_E_ch5044_トリシューラ_activates_脳内通信機能_p23_ME_app_installation_permission_abuse|アプリ不正権限取得のパロディ]]
+- [[A_ch5044_parodies_E_ch5044_トリシューラ_has_property_杖専門_p41_ME_engineering_discipline_classification|魔法の工学分類への翻訳]]
+- [[A_ch5044_structurally_matches_E_ch5044_コルセスカ_defines_凍結キーワード_p166_ME_game_logic_exception_handling|ゲーム例外処理的な呪術定義]]
+
+### 第5045話
+
+- [[A_ch5045_alludes_to_E_Trishula_Reveal_Cybernetics_Android|サイバネティクス人造人間の起源]]
+- [[A_ch5045_analogous_to_E_Kassario_Modern_Military_Weapon|無人兵器としての魔獣]]
+- [[A_ch5045_foreshadows_E_Akira_State_Mind_Control|精神支配・操術の伏線]]
+- [[A_ch5045_inverts_E_Kassario_Attack_Range_Weapon|近接生物と遠距離兵器の逆転]]
+- [[A_ch5045_parodies_E_Inflation_Power_Creep|インフレ・パワークリープ批判]]
+- [[A_ch5045_structurally_matches_E_Trishula_Motivation_Human_Empathy|人造人間の擬似家族ナラティブ]]
+
+### 第5047話
+
+- [[A_ch5047_parodies_E_p14_mobile_game_gacha_mechanics|ガチャ課金による麻痺]]
+
+### 第5049話
+
+- [[A_ch5049_alludes_to_E_ch5049_氷球_functions_as_立体映像投影装置_p29_HoloLens等の空間計算機|HoloLens空間計算的な呪術構造]]
+- [[A_ch5049_alludes_to_E_ch5049_泉_is_made_of_第四階層の空間_p13_Minecraft等のブロック構築ゲーム|マインクラフト的拠点建築]]
+- [[A_ch5049_analogous_to_E_ch5049_トリシューラ_reveals_核となるトラウマ／信条_p101_AIへの倫理的規制・人格権論争|AI人格権論争の象徴]]
+- [[A_ch5049_analogous_to_E_ch5049_泉_is_made_of_第四階層の空間_p13_AR技術／拡張現実|ARテレポート的拠点設置]]
+- [[A_ch5049_inverts_E_ch5049_アキラ_thinks_価値の相対性／欺瞞_p126_労働市場での評価・年功序列|社会的評価への批判的考察]]
+- [[A_ch5049_structurally_matches_E_ch5049_コルセスカ_says_アキラ獲得の動機否定_p181_マッチポンプ／自作自演|マッチポンプ的支配構造]]
+
+### 第5050話
+
+- [[A_ch5050_alludes_to_E_p109_cain_healing_wuxia_acupuncture|武侠的気功・針灸術]]
+- [[A_ch5050_analogous_to_E_p12_trident_rivalry_corporate_competition|社内昇進競争への魔女対立]]
+- [[A_ch5050_analogous_to_E_p27_place_paradox_social_belonging_anxiety|所属意識の不安定さを映す居場所希薄化]]
+- [[A_ch5050_foreshadows_E_p95_cain_character_honorable_villain_archetype|高潔な悪役の伏線]]
+- [[A_ch5050_inverts_E_p84_cain_restriction_karmic_bureaucracy|前科による排除を風刺する侵入拒否]]
+- [[A_ch5050_parodies_E_p14_trident_servant_outsourcing_exploitation|組織的搾取のパロディとしての戦法]]
+- [[A_ch5050_structurally_matches_E_p56_trishula_demand_service_industry_power_dynamics|医療従属関係の権力を示す要求]]
+
+### 第5051話
+
+- [[A_ch5051_alludes_to_E_ch5051_コルセスカ_says_シャルマキヒュの凍視の効果_p7881_greek_mythology_medusa|メデューサの視線による石化]]
+- [[A_ch5051_analogous_to_E_ch5051_アキラ_has_property_サイバーカラテ道場の技術水準_p108113_online_game_ranking_system|オンラインゲーム順位システム]]
+- [[A_ch5051_analogous_to_E_ch5051_アキラ_remembers_融合体の組織構造_p41_corporate_management_theory|企業経営理論のメタファー]]
+- [[A_ch5051_parodies_E_ch5051_アキラ_uses_音響処理アプリDoppler_p9497_augmented_reality_app|ARアプリによる感覚拡張]]
+- [[A_ch5051_structurally_matches_E_ch5051_アキラ_remembers_融血呪のロジック_p37_law_of_sympathetic_magic|感応魔法の論理構造]]
+
+### 第5054話
+
+- [[A_ch5054_structurally_matches_E_ch5054_p177_Time_Stop_Ability|時停止能力クリシェとの対応]]
+
+### 第5056話
+
+- [[A_ch5056_alludes_to_E_ch5056_トリシューラ_names_ノアズアーク_p92_noahs_ark|ノアの方舟からの脱出]]
+- [[A_ch5056_analogous_to_E_ch5056_トリシューラ_reveals_スペア身体_p129_cloud_computing_disaster_recovery|クラウド即時復旧の指喩]]
+- [[A_ch5056_analogous_to_E_ch5056_少年_uses_古代語_p272_legacy_system_format_incompatibility|レガシー互換性欠如のメタ]]
+- [[A_ch5056_analogous_to_E_ch5056_巡槍艦マツヤ_has_property_16ゼタバイト情報量_p75_big_data_processing|ビッグデータ処理の世界観]]
+- [[A_ch5056_parodies_E_ch5056_アキラ_thinks_恩義への傾倒_p54_narrative_convention_heroic_bond|英雄の絆クリシェの自己批判]]
+- [[A_ch5056_structurally_matches_E_ch5056_星見の塔_defines_キュトスの姉妹_p214_corporate_promotion_competition|企業昇進競争の指喩]]
+
+### 第5057話
+
+- [[A_ch5057_alludes_to_E_p112-p114_game_asset_management|ゲームアセット管理のメタファー]]
+- [[A_ch5057_alludes_to_E_p182_media_theory|メディア論に基づく定義]]
+- [[A_ch5057_inverts_E_p133_sns_performativity|SNS的ペルソナ演出の逆転]]
+- [[A_ch5057_parodies_E_p71-p83_ui_ux_skeuomorphism|人間性演出のスキューモルフィズム]]
+- [[A_ch5057_structurally_matches_E_p204-p236_existential_crisis|実存的不安への構造対応]]
+
+### 第5058話
+
+- [[A_ch5058_alludes_to_E_ch5058_トリシューラ_says_合理的な世界観の持ち主がいいってことか_p23_modern_rationality|現代合理性への暗喩]]
+- [[A_ch5058_alludes_to_E_ch5058_猫耳の少年_asks_このまま皆さんの厚意に甘え続けるのも申し訳無いとも思ってます_p183_moral_debt_and_labor|倫理的負債と労働への暗喩]]
+- [[A_ch5058_analogous_to_E_ch5058_アキラ_thinks_需要と供給の問題_p16_labor_market_economics|労働市場経済学との類似]]
+- [[A_ch5058_inverts_E_ch5058_トリシューラ_says_私はアキラくんよりアキラくんの事を知っているの_p35_surveillance_privacy|自己欺瞞防止への逆転]]
+- [[A_ch5058_parodies_E_ch5058_アキラ_thinks_転生者と書いてゼノグラシアと読む_p11_japanese_reading_convention|当て字文化のパロディ]]
+- [[A_ch5058_parodies_E_ch5058_コルセスカ_attacks_トリシューラ_p158_school_bullying_comedy|日常喧嘩への脱構築パロディ]]
+- [[A_ch5058_structurally_matches_E_ch5058_トリシューラ_says_三日間は後攻である私の手番_p89_turn_based_game_mechanics|ターン制交渉メタファーとの対応]]
+
+### 第5060話
+
+- [[A_ch5060_alludes_to_E_5060_p112_Intellectual_Property_Law|知的財産法への暗喩]]
+- [[A_ch5060_analogous_to_E_5060_p134_Addiction_Treatment|害の最小化との類似]]
+- [[A_ch5060_analogous_to_E_5060_p98_MobileGame_Gacha|ガチャモデルとの類似]]
+- [[A_ch5060_inverts_E_5060_p78_Monetary_Inflation_Crisis|インフレ危機への逆転]]
+- [[A_ch5060_parodies_E_5060_p192_SocialNetworking_Service|アルゴリズム的マッチングのパロディ]]
+- [[A_ch5060_structurally_matches_E_5060_p209_Free_Marketing_Strategy|フリー戦略との構造対応]]
+
+### 第5061話
+
+- [[A_ch5061_alludes_to_E_ch5061_トリシューラ_other_アキラへの期待と放置の意図_p95_Mentor_Planting_Trope|共感性欠如による放置型メンター]]
+- [[A_ch5061_analogous_to_E_ch5061_トリシューラ_other_ミームの撒き散らしと視座の支配_p173_Viral_Marketing_Influencer|神話開始におけるバイラルマーケ]]
+- [[A_ch5061_analogous_to_E_ch5061_トリシューラ_other_世界槍の起源と歴史_p42_Open_Source_Codebase_Evolution|世界槍進化のコードベース的構造]]
+- [[A_ch5061_analogous_to_E_ch5061_トリシューラ_other_知識の公開と搾取聖人ではない魔女として_p133_OpenSource_Software_Development|OSS思想と商用支援の混合モデル]]
+- [[A_ch5061_inverts_E_ch5061_トリシューラ_other_邪悪な魔女_p35_Utility_Monster_Ethics|実証主義による道具的モンスター倫理]]
+- [[A_ch5061_parodies_E_ch5061_トリシューラ_other_陣取りゲームをチェス／将棋に変えた行為_p51_Gamification_of_Society|暴力の社会ゲーム化パロディ]]
+- [[A_ch5061_structurally_matches_E_ch5061_トリシューラ_other_ファッションリーダーとしての自己実現_p164_Social_Branding_Persona|視座獲得を軸とするブランドペルソナ]]
+
+### 第5062話
+
+- [[A_ch5062_alludes_to_E_p172_derrida_différance|デリダのディファランス暗喩]]
+- [[A_ch5062_alludes_to_E_{p172}_derrida_différance|魔術技術のディファランス暗喩]]
+- [[A_ch5062_analogous_to_E_p186_marketing_trap|販売戦略の罠との類似]]
+- [[A_ch5062_analogous_to_E_p25_social_media_editing|SNS編集メタファーとの類似]]
+- [[A_ch5062_analogous_to_E_{p186}_marketing_trap|実演販売罠によるアップセル戦略]]
+- [[A_ch5062_analogous_to_E_{p25}_social_media_editing|戦闘映像編集のSNS検閲メタファー]]
+- [[A_ch5062_foreshadows_E_p45_unethical_experiment_backstory|非倫理実験伏線の暗示]]
+- [[A_ch5062_foreshadows_E_{p45}_unethical_experiment_backstory|違法人体実験伏線による背景提示]]
+- [[A_ch5062_parodies_E_p15_smartphone|スマートフォン機能のパロディ]]
+- [[A_ch5062_parodies_E_{p15}_smartphone|生活必需品化された呪術端末の模倣]]
+- [[A_ch5062_structurally_matches_E_p103_physical_therapy_program|リハビリプログラムとの対応]]
+- [[A_ch5062_structurally_matches_E_{p103}_physical_therapy_program|義肢適応のリハビリ標準化模倣]]
+
+### 第5064話
+
+- [[A_ch5064_alludes_to_E_5064_p215_ME_helicopter_money_dropping_event|治癒符散布のヘリ金撒き暗喩]]
+- [[A_ch5064_analogous_to_E_5064_p135_ME_privatization_of_public_safety_by_private_mafia|治安の私有化との類似]]
+- [[A_ch5064_inverts_E_5064_p227_ME_game_gacha_farming_grind|技術格差による非対称戦闘の逆転]]
+- [[A_ch5064_parodies_E_5064_p130_ME_modern_real_estate_predatory_lending|脱法ハウスへの批判的模倣]]
+
+### 第5065話
+
+- [[A_ch5065_analogous_to_E_ch5065_アキラ_other_格差への恐怖_p56_insurance_gap_society|保険格差社会における自己責任論の象徴]]
+- [[A_ch5065_analogous_to_E_ch5065_ティリビナ人_other_建造物創造能力_p209_cultural_asset_conversion_loss|文化資産喪失と先住民族の土地剥奪の類似]]
+- [[A_ch5065_analogous_to_E_ch5065_松明の騎士団_other_救済対象_p173_missionary_colonialism|宣教師植民地主義による階級固定化の象徴]]
+- [[A_ch5065_analogous_to_E_ch5065_隔離区画_is_located_ゲットー的様相_p37_historical_ghetto_system|歴史的ゲットーに見る少数派の自己隔離構造]]
+- [[A_ch5065_structurally_matches_E_ch5065_レオ_says_声の冷たさ_p14_semantic_vs_paralinguistic_communication|パラ言語情報による非言語コミュニケーション]]
+
+### 第5067話
+
+- [[A_ch5067_alludes_to_E_p107-p109_Phantom_Limb_Therapy|幻肢痛療法の魔法的再構成]]
+- [[A_ch5067_analogous_to_E_p24-p31_Digital_Twin|デジタルツインによる状態同期の比喩]]
+- [[A_ch5067_analogous_to_E_p45-p49_Surveillance_Capitalism|監視資本主義的なデータ収集構造]]
+- [[A_ch5067_analogous_to_E_p68-p70_Hacker_Cracker|クラッカーによるシステム権限乗っ取りのメタファー]]
+- [[A_ch5067_parodies_E_p124-p128_Voodoo_Curse|ヴードゥ呪術の工業的大規模実装パロディ]]
+- [[A_ch5067_structurally_matches_E_p141-p143_AR_VR_Technology|AR・VR技術の物理世界への干渉構造]]
+
+### 第5068話
+
+- [[A_ch5068_analogous_to_E_contract_termination_ME_labor_rights_freelance|フリーランス契約における解約自由の模倣]]
+- [[A_ch5068_analogous_to_E_crypto_network_ME_blockchain_fintech|分散型金融システムの異世界導入]]
+- [[A_ch5068_analogous_to_E_free_market_critique_ME_neoliberalism_inequality|新自由主義格差批判と国家介入の正当化]]
+- [[A_ch5068_analogous_to_E_hieros_gamos_ME_sacred_marriage_ritual|聖婚儀礼への秩序再生]]
+- [[A_ch5068_analogous_to_E_marriage_blue_metaphor_ME_mariage_blue_psychology|マリッジブルーへの契約恐怖]]
+- [[A_ch5068_analogous_to_E_sympathetic_magic_ME_sympathetic_magic_analogy|交感魔法への連動原理]]
+- [[A_ch5068_analogous_to_E_tirshura_infra_ME_cloud_saas_platform|クラウドSaaSへの艦内管理]]
+
+### 第5069話
+
+- [[A_ch5069_alludes_to_E_p170_Martial_Arts_Classification_Debate|武術分類論争への系譜指摘]]
+- [[A_ch5069_analogous_to_E_p108_Intellectual_Property_Rights|知的財産権への肖像脅迫]]
+- [[A_ch5069_analogous_to_E_p24_Web_Site_Development|ウェブ開発への即座構築]]
+- [[A_ch5069_inverts_E_p132_History_Written_By_Victors|勝者の史実への逆転編集]]
+- [[A_ch5069_structurally_matches_E_p162_Internet_Flame_War|ネット炎上への罵倒拡散]]
+
+### 第5070話
+
+- [[A_ch5070_alludes_to_E_5070_P26_famous_person_portraits_on_banknotes|紙幣の肖像画への権威付与]]
+- [[A_ch5070_analogous_to_E_5070_P47_multinational_conglomerates_megacorp|メガコーポへの超国家信用]]
+- [[A_ch5070_analogous_to_E_5070_P70_media_manipulation_propaganda|世論操作への紙幣伝染]]
+- [[A_ch5070_parodies_E_5070_P11_modern_financial_crash_response|金融危機対策への非現実救済]]
+- [[A_ch5070_parodies_E_5070_P185_horoscope_reading_scripts|星占い鑑定文への曖昧解説]]
+- [[A_ch5070_structurally_matches_E_5070_P236_photo_booths|証明写真機への礼拝外観]]
+
+### 第5072話
+
+- [[A_ch5072_alludes_to_E_ch5072_レオ_other_朗らかな笑顔_p133_フィランソロピー愛他主義|フィランソロピーへの転生]]
+- [[A_ch5072_analogous_to_E_ch5072_アキラ_thinks_人間への値札付け_p27_労働市場と自己責任論|人材価格付けと自己責任論]]
+- [[A_ch5072_analogous_to_E_ch5072_アキラ_thinks_価値の仮構_p160_MacGuffinマクガフィン|マクガフィンとしての期待]]
+- [[A_ch5072_analogous_to_E_ch5072_アキラ_thinks_死の商人行為_p11_軍需産業と中立国|軍需産業的悪意の効用]]
+- [[A_ch5072_analogous_to_E_ch5072_アキラ_thinks_選別の醜悪さ_p24_道徳的外傷MoralInjury|道徳的外傷の構造]]
+- [[A_ch5072_analogous_to_E_ch5072_キロン_promises_明日の約束_p50_交渉・取引ビジネス|異世界における交渉取引]]
+- [[A_ch5072_inverts_E_ch5072_アキラ_remembers_救済の経緯_p14_加害者による救済パラドックス|加害者による救済逆説]]
+- [[A_ch5072_parodies_E_ch5072_アキラ_thinks_決断能力の欠如_p40_ゲームシステムオート機能／アプリ|ゲーム的オート機能依存]]
+
+### 第5073話
+
+- [[A_ch5073_alludes_to_E_Kay_Spell_Ale_Jacta_Est|賽は投げられた呪文]]
+- [[A_ch5073_alludes_to_E_Kay_Spell_Gurdjieff_Enneagram|エニアグラム的魔法円]]
+- [[A_ch5073_analogous_to_E_Sage_Death_Astro_Diving_Risk|メタフィクショナルな死]]
+- [[A_ch5073_foreshadows_E_Kay_Shadow_Metaphysical_Bond|影との交感の伏線]]
+- [[A_ch5073_inverts_E_Rodwin_Paradox_Corporate_Welfare_Fiction|偽善的CSRスローガン]]
+- [[A_ch5073_parodies_E_Kiron_Statue_Game_NPC_Aura|NPCオーラ機能のパロディ]]
+- [[A_ch5073_structurally_matches_E_Claudio_Announcement_Human_Trafficking_Globalization|人身売買構造のシミュレーション]]
+
+### 第5074話
+
+- [[A_ch5074_alludes_to_E_p139_ice_acronym_hacking_history|ICE侵入対策の魔法翻訳]]
+- [[A_ch5074_alludes_to_E_p213_real_name_influencer_debunking|実名インフルエンサー批判]]
+- [[A_ch5074_alludes_to_E_p52-p54_super_smash_bros_platforming|スマブラ的飛行戦闘]]
+- [[A_ch5074_analogous_to_E_p188-p208_modern_osint_forensics|OSINT文体解析への換骨奪胎]]
+- [[A_ch5074_parodies_E_p31-p35_hacking_trope_videogame|90年代ゲーム風ハッキングの戯画]]
+- [[A_ch5074_sublates_E_p49_placebo_effect_ritual|儀式によるプラセボ効果の魔法化]]
+
+### 第5076話
+
+- [[A_ch5076_alludes_to_E_{アキラの生ける死体状態}_{社会的不死／戸籍喪失者}|戸籍喪失者の社会的死亡の暗喩]]
+- [[A_ch5076_alludes_to_E_アキラの生ける死体状態_社会的不死／戸籍喪失者|社会的不在者の暗喩]]
+- [[A_ch5076_analogous_to_E_クレープ屋のおまけ_顧客ロイヤルティ／リピーター特典|常連客優遇による非公式経済の補完]]
+- [[A_ch5076_analogous_to_E_レオの天然値切りスキル_SNSインフルエンサーのブランド価値|外見属性を直接交換価値とする経済法則]]
+- [[A_ch5076_sublates_E_{キロンとの決闘への挑発}_{競争社会の勝者論／優越感の構造}|ゼロサム・ゲームの本質の露呈]]
+- [[A_ch5076_sublates_E_キロンとの決闘への挑発_競争社会の勝者論／優越感の構造|ゼロサム前提の優越感の言語化]]
+
+### 第5077話
+
+- [[A_ch5077_alludes_to_E_ch5077_アニス_says_アキラ_p127_yandere_archetype|ヤンデレ暴力性の極端な昇華]]
+- [[A_ch5077_analogous_to_E_ch5077_トリシューラ_thinks_偽装死体作成能力_p53_bioethics_dilemma|生体倫理タブーの日常化と不気味さ]]
+- [[A_ch5077_inverts_E_ch5077_白い少女_has_property_眼球防御_p184_satanic_eye_myth|邪視能力の身体化による眼球逆説]]
+- [[A_ch5077_structurally_matches_E_ch5077_街路_transforms_迷宮_p75_procedural_generation|プロシージャル生成の物理現象化]]
+
+### 第5078話
+
+- [[A_ch5078_alludes_to_E_アルテミシアの名乗り_西洋神話の冥界／魔女|ギリシャ語による冥界魔女演出]]
+- [[A_ch5078_analogous_to_E_アルテミシアの石化視線_メデューサ神話|メデューサ視覚暴力の直接引用]]
+- [[A_ch5078_inverts_E_トリシューラの強化外骨格_VRゲーム／アバター操作|VRアバター消失と親密性の断絶]]
+- [[A_ch5078_parodies_E_カード型端末の呪符使用_スマホゲームのガチャ／スキルカード|スマホガチャ所有権欠如の移植]]
+
+### 第5079話
+
+- [[A_ch5079_alludes_to_E_p109_medusa_mythology|邪視呪い神話の心理依存性]]
+- [[A_ch5079_analogous_to_E_p63_game_mechanics_weakness|属性相性弱点の物理防御設計]]
+- [[A_ch5079_parodies_E_p2-p3_video_game_save_point|観測者セーブポイントのメタファー]]
+- [[A_ch5079_structurally_matches_E_p44_tsundere_support_role|隠し味方的ツンデレの構造]]
+- [[A_ch5079_sublates_E_p166-p168_stoicism|ストア哲学の感情制御変奏]]
+
+### 第5080話
+
+- [[A_ch5080_alludes_to_E_p174_real_world_industrial_waste|産業廃棄物型の呪波汚染]]
+- [[A_ch5080_alludes_to_E_p237_myth_mirror_witch|鏡の魔女伝承の技法再現]]
+- [[A_ch5080_analogous_to_E_p148_tech_doppler_effect|ドップラー効果の技術比喩による回避メタファー]]
+- [[A_ch5080_analogous_to_E_p5_myth_sacrifice_arrow|矢なき弓聖人像の象徴性]]
+- [[A_ch5080_inverts_E_p57_ethics_dehumanization|非人間化暴力の正当化批判]]
+- [[A_ch5080_structurally_matches_E_p123_game_mechanic_reflect_damage|ダメージ反射変換の論理解説]]
+
+### 第5081話
+
+- [[A_ch5081_alludes_to_E_ch5081_世界_appears_as_白と黒だけの空間_p1_metatextual_narrative_structure|メタテクスト神働術の暗喩]]
+- [[A_ch5081_alludes_to_E_ch5081_世界_appears_as_白と黒だけの空間_p1_mythology_syncretism|神話融合上書きの反映]]
+- [[A_ch5081_analogous_to_E_ch5081_世界_appears_as_白と黒だけの空間_p1_art_history_iconography|聖人像図像学の解説]]
+- [[A_ch5081_inverts_E_ch5081_世界_appears_as_白と黒だけの空間_p1_game_cheat_power_limit|チート能力限界への疑念]]
+- [[A_ch5081_parodies_E_ch5081_世界_appears_as_白と黒だけの空間_p1_anime_cliche_death_flag|アニメ的死亡フラグ解体]]
+- [[A_ch5081_structurally_matches_E_ch5081_世界_appears_as_白と黒だけの空間_p1_philosophical_nihilism|哲学的虚無主義の動機欠如]]
+
+### 第5082話
+
+- [[A_ch5082_analogous_to_E_残心プリセットと盤外の夜_ARアプリやVRシミュレーター|AR・VR操作補正の実装]]
+- [[A_ch5082_foreshadows_E_キロンの右目の治癒_因果律の逆転や概念操作|因果律逆転による観測干渉]]
+- [[A_ch5082_parodies_E_転生者の能力_スマホゲームのガチャや課金要素|ガチャ・課金圧迫の風刺]]
+- [[A_ch5082_structurally_matches_E_小石を吹きかける行為_労働価値説における最小限の生産活動|労働価値説の微小対抗]]
+- [[A_ch5082_sublates_E_キロンの勝利_物語論におけるメタ主人公補正|メタ主人公補正の体現]]
+
+### 第5083話
+
+- [[A_ch5083_alludes_to_E_ch5083_氷細工の義手_has_property_時間軸改変_p26_time_stop_ability|時間停止能力の回避手段]]
+- [[A_ch5083_analogous_to_E_ch5083_蛇_other_アプリケーション群_p34_smartphone_app_list|スマホアプリ削除構造]]
+- [[A_ch5083_inverts_E_ch5083_E-E_defines_精神の装具_p172_psychological_prosthesis|心理的義肢への外注化]]
+- [[A_ch5083_parodies_E_ch5083_アキラ_dies_断絶_p11_game_save_corruption|セーブ破損への転生者記憶リセット暗示]]
+- [[A_ch5083_structurally_matches_E_ch5083_アキラ_thinks_慣性と停止_p187_physics_law_inertia|物理法則の慣性]]
+- [[A_ch5083_sublates_E_ch5083_コルセスカ_attacks_首筋咬傷_p75_vampire_drain|吸血・情報転送]]
+
+### 第5084話
+
+- [[A_ch5084_alludes_to_E_ch5084_キロン_reveals_憑依事故_p168_Possession_Accident_Mechanic|憑依事故メカニクス]]
+- [[A_ch5084_analogous_to_E_ch5084_キロン_activates_スキル取得_p179_RPG_Level_Up_Interface|RPGレベルアップUI]]
+- [[A_ch5084_analogous_to_E_ch5084_コルセスカ_activates_時間の再開_p17_Save_State_Load_Mechanic|セーブロード機構]]
+- [[A_ch5084_foreshadows_E_ch5084_キロン_flees_空間制御_p255_Skill_Reset_Mechanic|スキルリセット]]
+- [[A_ch5084_inverts_E_ch5084_アキラ_learns_言語理解の理由_p36_Isekai_Language_Cheat|転生言語チート逆説]]
+- [[A_ch5084_parodies_E_ch5084_キロン_uses_サイバーカラテ_p214_Cyber_Karate_Skill_Set|サイバーカラテ転生]]
+
+### 第5086話
+
+- [[A_ch5086_analogous_to_E_ch5086_コルセスカ_observes_アキラの変質_p23_zombie_apocalypse_survival|ゾンビ生存恐怖による境界線機能不全の描写]]
+- [[A_ch5086_analogous_to_E_ch5086_コルセスカ_other_アキラとの共有_p130_data_synchronization_upload|データの同期アップロード]]
+- [[A_ch5086_parodies_E_ch5086_アキラ_other_参戦許可_p158_shonen_hero_monologue|少年漫画的独白]]
+- [[A_ch5086_parodies_E_ch5086_コルセスカ_remembers_吸血の瞬間_p5_vampire_romance_trope|吸血鬼ロマンの逆転]]
+
+### 第5087話
+
+- [[A_ch5087_analogous_to_E_ch5087_コルセスカ_defines_失われたもの_p5_signal_processing_filter|信号処理フィルタ]]
+- [[A_ch5087_analogous_to_E_ch5087_トリシューラ_defines_コルセスカの役割_p98_medical_life_support_system|世界延命装置]]
+- [[A_ch5087_analogous_to_E_ch5087_トリシューラ_says_アキラの希少価値の喪失_p23_game_character_evaluation|ゲーム的希少性評価]]
+- [[A_ch5087_analogous_to_E_ch5087_トリシューラ_says_アキラへの見解_p33_data_preservation_vs_deletion|データ保存と削除]]
+- [[A_ch5087_parodies_E_ch5087_トリシューラ_says_世界更新の意味_p106_software_update_and_firmware|OSアップデートによる生死法則書き換え]]
+- [[A_ch5087_sublates_E_ch5087_トリシューラ_other_価値付けの必然性_p142_ethical_utilitarianism|利他行為に潜む功利主義的選別]]
+
+### 第5088話
+
+- [[A_ch5088_alludes_to_E_corcesca_eyes_surveillance_society|義眼によるアルゴリズム的主体介入]]
+- [[A_ch5088_analogous_to_E_corcesca_sheltering_overprotective_caregiving|保護を名目とした介護的権力構造]]
+- [[A_ch5088_parodies_E_game_dialogue_hardcore_gaming_mindset|現実人生へのゲーマー的試行錯誤適用]]
+- [[A_ch5088_structurally_matches_E_labyrinth_status_emergency_management_system|クローズドサークル構造による緊張局所化装置]]
+- [[A_ch5088_sublates_E_leo_charisma_kawaii_aesthetic_politics|理性超えのカワイイ美学権力]]
+
+### 第5089話
+
+- [[A_ch5089_parodies_E_ch5089_コルセスカ_says_凍結の逆説_p2_Game_Mechanics_First|メカニクス優先のロア事後付与論]]
+
+### 第5090話
+
+- [[A_ch5090_alludes_to_E_ch5090_読心能力_has_property_過度な情報化の弊害_p53_information_overload_trauma|読心による情報過多トラウマ]]
+- [[A_ch5090_analogous_to_E_ch5090_ちびシューラ_is_made_of_脳細胞への呪術式刻印_p31_neural_interface_software|脳内刻印による意識データ依存性]]
+- [[A_ch5090_analogous_to_E_ch5090_コルセスカ_defines_フルコンプ主義_p59_completionist_mindset|人間関係の収集対象化コンプリート主義]]
+- [[A_ch5090_analogous_to_E_ch5090_コルセスカ_names_アキラを仲間キャラと定義_p63_party_member_event|仲間加入イベントフラグとしての認識]]
+- [[A_ch5090_analogous_to_E_ch5090_コルセスカ_reveals_男性攻略の履歴_p79_otome_game_endings|乙女ゲーム的多重エンディング収集]]
+- [[A_ch5090_analogous_to_E_ch5090_コルセスカ_says_迷宮踏破と火竜殺し_p4_speedrun|生存目的の速度記録更新化]]
+
+### 第5091話
+
+- [[A_ch5091_alludes_to_E_{義眼と邪視}_{メデューサの呪い・目撃者の恐怖}|メデューサの呪いによる暴力の固定]]
+- [[A_ch5091_alludes_to_E_義眼と邪視_メデューサの呪い・目撃者の恐怖|邪視恐怖を親密さへ変換する修復]]
+- [[A_ch5091_analogous_to_E_{共感のハッキング}_{心理操作・ガスライティング}|ガスライティング的な感情の技術的中立化]]
+- [[A_ch5091_analogous_to_E_{感情の凍結と流出}_{麻酔・精神安定剤による副作用管理}|心的外傷の共有化による負荷の転嫁]]
+- [[A_ch5091_analogous_to_E_{注釈の存在}_{法的免責事項・保証人制度}|保証人制度に酷似する魔法的代理責任]]
+- [[A_ch5091_analogous_to_E_共感のハッキング_心理操作・ガスライティング|倫理を超えた精神への技術的介入]]
+- [[A_ch5091_analogous_to_E_感情の凍結と流出_麻酔・精神安定剤による副作用管理|他者依存による感覚自律性の喪失]]
+- [[A_ch5091_analogous_to_E_注釈の存在_法的免責事項・保証人制度|魔法的保証人による倫理的担保構造]]
+- [[A_ch5091_structurally_matches_E_{吸血による感情共有}_{依存症・共依存的関係性}|共依存的支配構造としての吸血]]
+- [[A_ch5091_structurally_matches_E_吸血による感情共有_依存症・共依存的関係性|支配と被支配の共依存的支配関係]]
+
+### 第5092話
+
+- [[A_ch5092_alludes_to_E_p57_Brainwashing_Marketing|洗脳的侵食による境界の暴力性]]
+- [[A_ch5092_alludes_to_E_p59_Unqualified_Medical_Risk|無資格医療への恐怖と倫理の切断]]
+- [[A_ch5092_inverts_E_p123_Human_Dignity|人間の尊厳を否定する市場原理主義]]
+- [[A_ch5092_parodies_E_p69_Free_Trial_Offer|無料試用を模した取引的関係構築]]
+- [[A_ch5092_structurally_matches_E_p49_Survivor_Bias|生存者バイアスに酷似する実用主義]]
+
+### 第5093話
+
+- [[A_ch5093_alludes_to_E_p76_Chinese_Room_Thought_Experiment|中国語の部屋による記号処理の隔たり]]
+- [[A_ch5093_analogous_to_E_p27-p36_Economic_Exchange_Value_Marx|マルクス的交換価値への転移と代償]]
+- [[A_ch5093_foreshadows_E_p104_Healing_Power_Words|知性承認による言葉の癒しの伏線]]
+- [[A_ch5093_inverts_E_p100_Altruism_Survival_Strategy|利他主義を猛毒とする生存戦略の逆転]]
+- [[A_ch5093_parodies_E_p5-p13_Etymology_Android_Robot|ロボ語源パロディと自己同一性の表出]]
+- [[A_ch5093_structurally_matches_E_p111-p121_Workplace_Mental_Health_Burnout|労働力への降格と存在解体のプロセス]]
+
+### 第5094話
+
+- [[A_ch5094_alludes_to_p13-p19_trolley_problem_ethics|トロッコ問題への功利主義批判]]
+- [[A_ch5094_analogous_to_p4_game_mechanics_failure_state|ゲーム敗北状態としての消滅]]
+- [[A_ch5094_analogous_to_p83-p106_narrative_design_meta_commentary|メタフィクション的結末提案]]
+- [[A_ch5094_foreshadows_p49_isekai_genre_tropes|異世界転生クリシェへの回帰]]
+- [[A_ch5094_parodies_p6-p8_label_based_existence_philosophy|レッテル依存存在論のゲーム化]]
+- [[A_ch5094_references_p24_cognitive_behavioral_therapy|認知行動療法のSF的変換]]
+- [[A_ch5094_sublates_p35-p41_computational_theory_of_mind|心計算説による精神のデータ化]]
+
+### 第5095話
+
+- [[A_ch5095_alludes_to_E_5095_Sleeping_Princess_Fairy_Tale_Sleeping_Beauty|眠れる森の美女的救出プロット]]
+- [[A_ch5095_analogous_to_E_5095_Carain_Paywall_Content_Monetization|コンテンツ課金化への風刺]]
+- [[A_ch5095_analogous_to_E_5095_Leo_Marketing_Digital_Networking|ネット検索による自己ブランディング]]
+- [[A_ch5095_analogous_to_E_5095_Streetside_People_Urban_Gentrification_Integration|都市ジェントリフィケーションの修辞]]
+- [[A_ch5095_parodies_E_5095_Carain_Monologue_Brave_Fantasy_Rhetoric|勇者美辞麗句のパロディ]]
+- [[A_ch5095_structurally_matches_E_5095_River_Relationships_Zygmunt_Bauman_Liquid_Modernity|液状化する近代の人間関係]]
+
+### 第5096話
+
+- [[A_ch5096_alludes_to_E_p23_Golem_Mythology|ゴーレム神話による人造生命]]
+- [[A_ch5096_alludes_to_E_p60_Norse_Mythology,Odin|オーディン神話の跛行引用]]
+- [[A_ch5096_analogous_to_E_p25_Psychological_Illusion,AI_Assistant|イマジナリーフレンドとしての擬似人格]]
+- [[A_ch5096_analogous_to_E_p46_Data_Training,Prompt_Engineering|学習とプロンプトによるAI的生成]]
+- [[A_ch5096_analogous_to_E_p9_Industrial_Food_Production|工業的な食料生産としての人体圧搾]]
+
+### 第5099話
+
+- [[A_ch5099_alludes_to_E_ch5099_トリシューラ_asks_アキラの選択_p3_concept_metahumanism|超人間主義とアンドロイドの心]]
+- [[A_ch5099_analogous_to_E_ch5099_トリシューラ_asks_アキラの選択_p3_concept_cultural_exchange|価値転換と所有権による心の交換]]
+- [[A_ch5099_inverts_E_ch5099_トリシューラ_asks_アキラの選択_p3_role_reversal_damsel_in_distress|ヒロインの逆転と戦利品化]]
+- [[A_ch5099_parodies_E_ch5099_トリシューラ_asks_アキラの選択_p3_media_tabletop_rpg|TRPGリプレイ的な物語構造]]
+- [[A_ch5099_parodies_E_ch5099_トリシューラ_asks_アキラの選択_p3_metaphor_macguffin|マクガフィンとしての主人公自覚]]
+- [[A_ch5099_structurally_matches_E_ch5099_トリシューラ_asks_アキラの選択_p3_genre_truck_reincarnation_cliche|トラック転生クリシェの解体]]
+
+### 第5100話
+
+- [[A_ch5100_alludes_to_E_ch5100_コルセスカ_remembers_トリシューラの愛称_p95_lacanian_mirror_stage|ラカン鏡像段階と自意識形成]]
+- [[A_ch5100_alludes_to_E_ch5100_コルセスカ_remembers_幼い頃の独り遊び_p90_imaginary_friend_concept|イマジナリーフレンドとしての妹]]
+- [[A_ch5100_analogous_to_E_ch5100_アキラ_thinks_人間の感情の複雑さ_p8_database_management|データベース管理不能な感情]]
+- [[A_ch5100_analogous_to_E_ch5100_アキラ_thinks_媒体としての役割_p55_data_transmission_medium|非物理的運送屋としての機能]]
+- [[A_ch5100_analogous_to_E_ch5100_トリシューラ_says_勝負の本質_p49_shogi_game_pieces|将棋駒・点棒としての主人公]]
+- [[A_ch5100_parodies_E_ch5100_コルセスカ_says_アキラへの評価戦力以外_p37_gacha_game_mechanics|ガチャと消費メカニクス的な評価]]
+- [[A_ch5100_structurally_matches_E_ch5100_コルセスカ_thinks_三人構成の安定性_p114_rpg_party_structure|RPGパーティ構成への構造対応]]
+
+### 第5101話
+
+- [[A_ch5101_alludes_to_E_p43_Frankenstein_Monster|フランケンシュタインの怪物化]]
+- [[A_ch5101_analogous_to_E_p35_AI_Ethics|AIアライメントへの過剰適応]]
+- [[A_ch5101_analogous_to_E_p51_Outsource_Society|意思決定の外部委託欲求]]
+- [[A_ch5101_inverts_E_p74_Master_Slave_Dialectic|主奴弁証法の逆転構造]]
+- [[A_ch5101_parodies_E_p112_Tech_Jargon_Parody|技術用語によるメタ的パロディ]]
+
+### 第5103話
+
+- [[A_ch5103_alludes_to_E_ch5103_トリシューラ_says_それっぽさ_p16_performative_rationality|記号的合理性の空虚さ]]
+- [[A_ch5103_analogous_to_E_ch5103_アキラ_other_空席獲得_p137_market_disruption_strategy|ブルーオーシャン戦略的発想]]
+- [[A_ch5103_analogous_to_E_ch5103_アキラ_thinks_魔法の言葉_p17_post_truth_politics|ポストアトリュース的言説支配]]
+- [[A_ch5103_analogous_to_E_ch5103_コルセスカ_promises_同伴_p175_party_support_mechanic|パーティ援護メカニクス象徴]]
+- [[A_ch5103_analogous_to_E_ch5103_コルセスカ_reveals_代替わりの不在_p165_legitimacy_crisis|権力闘争と正当性危機]]
+- [[A_ch5103_analogous_to_E_ch5103_トリシューラ_says_整備の依頼_p6_pet_grooming|ペットグルーミング的愛情表現]]
+- [[A_ch5103_analogous_to_E_ch5103_トリシューラ_threatens_去勢_p55_pet_neutering|家畜管理倫理の人間関係適用]]
+- [[A_ch5103_inverts_E_ch5103_アキラ_confesses_愛してる_p41_romance_game_narrative|恋愛ゲーム的構造的暴力性]]
+- [[A_ch5103_parodies_E_ch5103_トリシューラ_says_ペット論_p41_gacha_game_pet_system|ガチャ所有権モデルの想起]]
+- [[A_ch5103_structurally_matches_E_ch5103_トリシューラ_says_好きじゃない_p51_tsundere_archetype_inversion|逆ツンデレ構造の冷徹提示]]
+
+### 第5104話
+
+- [[A_ch5104_analogous_to_E_p159_multiplayer_game_party|マルチコントロールへの転生]]
+- [[A_ch5104_analogous_to_E_p55_android|アンドロイド的裸身描写]]
+- [[A_ch5104_analogous_to_E_p70_ar_skin_filter|ARスキンフィルター的な肌]]
+- [[A_ch5104_analogous_to_E_p94_game_ui|ゲームUIチュートリアル指示]]
+- [[A_ch5104_inverts_E_p102_gender_segregation_debate|業務的非効率化論の戯画化]]
+- [[A_ch5104_parodies_E_p17_ar_app|他者による身体的・精神的侵食の比喩]]
+
+### 第5105話
+
+- [[A_ch5105_alludes_to_E_kilon_defeat_cyberpunk_action|サイバーパンク武術の宣言]]
+- [[A_ch5105_analogous_to_E_app_reference_ui_design|UI設計的な愛称生成]]
+- [[A_ch5105_analogous_to_E_memory_erasure_narrative_formatting|物語的体系化された記憶抹消]]
+- [[A_ch5105_analogous_to_E_memory_reconstruction_external_hard_drive|外付けHDDからの人格復元]]
+- [[A_ch5105_parodies_E_lucid_dream_virtual_reality_simulation|VRシミュレーション的な迷宮]]
+- [[A_ch5105_structurally_matches_E_relationship_definition_marriage_vows|結婚の誓いによる関係定義]]
+
+### 第5106話
+
+- [[A_ch5106_analogous_to_E_5106_p103_phantom_limb_mirror_therapy|幻肢痛ミラーセラピー逆転]]
+- [[A_ch5106_analogous_to_E_5106_p37_pharmaceutical_blister_pack|PTP包装形態の戦闘薬]]
+- [[A_ch5106_analogous_to_E_5106_p78_mechanical_gear_system|機械仕掛け義肢の駆動]]
+- [[A_ch5106_analogous_to_E_5106_p87_procedural_memory_theory|手続き記憶理論による技術維持]]
+- [[A_ch5106_parodies_E_5106_p47_rpg_status_screen|RPGステータス画面の転生者解析]]
+
+### 第5107話
+
+- [[A_ch5107_alludes_to_E_p21_youtube_tutorial|YouTubeチュートリアル式呪術模倣]]
+- [[A_ch5107_analogous_to_E_p16_labeling_effect|SNSレッテル効果のステータス化]]
+- [[A_ch5107_analogous_to_E_p33_cloud_backup|脳内記憶のクラウドバックアップ復元]]
+- [[A_ch5107_analogous_to_E_p47_game_ui_overlay|ARゲームHUD視覚情報表示]]
+- [[A_ch5107_inverts_E_p66_open_source_community|OSS可搬性逆転の包括主張]]
+- [[A_ch5107_structurally_matches_E_p82_original_vs_copy|原本消失と複製再構築のパラドックス]]
+
+### 第5108話
+
+- [[A_ch5108_alludes_to_E_ch5108_ウィッチ_order_functions_as_神話摸倣者_p113_digital_manufacturing_resin_printing|意思混合のレジン印刷的実体化]]
+- [[A_ch5108_alludes_to_E_ch5108_ウィッチオーダー_defines_七十一姉妹の能力参照_p98_smartphone_app_ecosystem|スマホアプリ生態系の能力呼び出し]]
+- [[A_ch5108_analogous_to_E_ch5108_ウィッチ_order_functions_as_神話摸倣者_p113_open_source_license_viral_infection|伝承改変のパロディ文化アナロジー]]
+- [[A_ch5108_analogous_to_E_ch5108_神働術_defines_聖人のエピソード摸倣_p72_nft_metadata_speculation|聖人模倣のリミックス文化属性付与]]
+- [[A_ch5108_inverts_E_ch5108_ウィッチオーダー_functions_as_神話摸倣者_p113_ai_learning_model|伝承エミュレーションのAI学習モデル]]
+- [[A_ch5108_parodies_E_ch5108_キロン_teleports_アキラ_p8_game_bug_glitch|ゲームバグとしての物理法則破綻のメタファー]]
+- [[A_ch5108_structurally_matches_E_ch5108_アキラ_other_キロン_p125_fps_game_hitbox_mechanics|FPSヒットボックス式距離短縮戦闘]]
+
+### 第5109話
+
+- [[A_ch5109_alludes_to_E_p8_myth_faust_bargain|ファウスト取引的価値測定]]
+- [[A_ch5109_analogous_to_E_p153_computer_backup_restore|迷宮解除のデータ復元ロールバック]]
+- [[A_ch5109_analogous_to_E_p15_game_mechanic_inventory_switch|装備切り替えへの即時換装]]
+- [[A_ch5109_analogous_to_E_p31_game_mechanic_cooldown_crafting|クールタイムへの義肢再使用不可]]
+- [[A_ch5109_analogous_to_E_p62_telepathy_sci_fi_concept|SF的テレパシーへの心話]]
+- [[A_ch5109_inverts_E_p105_superhero_narrative_trope|スーパーヒーロー類型への正義逆説]]
+- [[A_ch5109_parodies_E_p146_media_propaganda_fake_news|フェイクニュースへの音声合成責任転嫁]]
+- [[A_ch5109_structurally_matches_E_p159_war_crime_collateral_damage|戦争犯罪・付随的損害への比例原則悪用]]
+
+### 第5111話
+
+- [[A_ch5111_alludes_to_E_hermaphrodite_greek_mythology|ギリシャ神話の両性具有による性別解体]]
+- [[A_ch5111_inverts_E_gender_identity_magic_lgbtq_rights|性の多様性の肯定を才能とする逆転肯定]]
+- [[A_ch5111_parodies_E_trident_fusion_corporate_merger|企業合併への全体主義的暴力の具現化]]
+- [[A_ch5111_structurally_matches_E_chiron_fusion_power_creep|インフレ・パワークリープの構造模倣]]
+
+### 第5112話
+
+- [[A_ch5112_alludes_to_E_kiron_strength_narrative_tropes_heroism|英雄補正の常套を指す運命力の暗喩]]
+- [[A_ch5112_analogous_to_E_attrition_magic_semeiotic_cultural_capital|記号論的資本としての属性魔法]]
+- [[A_ch5112_inverts_E_kiron_past_utilitarian_ethics|極端な功利主義からパラドクスへの転換]]
+- [[A_ch5112_parodies_E_medical_triage_real_world_emergency_medicine|救急医療・トリアージのSF的パロディ]]
+- [[A_ch5112_structurally_matches_E_akira_identity_nihilistic_ethics|虚無主義的倫理への構造対応]]
+- [[A_ch5112_sublates_E_akira_ignorance_metaphysical_resistance|メタフィクショナル耐性としての無知の止揚]]
+
+### 第5113話
+
+- [[A_ch5113_alludes_to_E_akira_vision_digital_makeup|デジタル化粧による価値観操作の暗示]]
+- [[A_ch5113_analogous_to_E_net_novel_effect_hyperlink_culture|ハイパーリンク文化の呪術的拡張]]
+- [[A_ch5113_analogous_to_E_paper_money_fiat_currency|法定通貨のミーム供給構造の類似]]
+- [[A_ch5113_inverts_E_kilon_defeat_hero_narrative_cliche|英雄叙事の常套を蹂躙で無効化する逆転]]
+- [[A_ch5113_parodies_E_idol_performance_media_mix|メディアミックス装置の風刺的模倣]]
+- [[A_ch5113_structurally_matches_E_trishula_scheme_match_pump|マッチポンプ構造への対応]]
+
+### 第5114話
+
+- [[A_ch5114_alludes_to_E_ch5114_アキラ_says_意識の連続性への軽視_p142_modern_japanese_secular_worldview|世俗的世界観による相対化]]
+- [[A_ch5114_analogous_to_E_ch5114_アキラ_thinks_転生と生存の等価性_p148_ship_of_theseus_paradox|テセウスの船パラドクス解決]]
+- [[A_ch5114_analogous_to_E_ch5114_アキラ_uses_PV数_p20_video_platform_metrics|動画指標への評価融合]]
+- [[A_ch5114_analogous_to_E_ch5114_アキラ_uses_低俗な欲求_p38_attention_economy|アテンション経済のメタファー]]
+- [[A_ch5114_inverts_E_ch5114_アキラ_thinks_観衆の物語_p17_traditional_heroic_narrative|伝統的英雄譚の逆転]]
+- [[A_ch5114_parodies_E_ch5114_新生サイバーカラテ道場_appears_as_戦術表示枠_p49_augmented_reality_game_ui|ARゲームUIのパロディ化]]
+- [[A_ch5114_parodies_E_ch5114_観客投票システム_functions_as_誘導装置_p22_fair_play_systems_in_mob_games|モバゲー的公平性の風刺]]
+- [[A_ch5114_structurally_matches_E_ch5114_アキラ_other_十三段目の足場_p157_pay_to_win_mechanics|Pay-to-Winメカニクス対応]]
+- [[A_ch5114_sublates_E_ch5114_アキラ_thinks_力の不在_p42_late_capitalism_commodification|後期資本主義的商品化の止揚]]
+
+### 第5116話
+
+- [[A_ch5116_alludes_to_E_p49_norse_mythology_triu_sla|北欧神話武器の擬人化]]
+- [[A_ch5116_analogous_to_E_p19_android_trope|アンドロイド常套句の類似]]
+- [[A_ch5116_analogous_to_E_p21_utilitarianism|功利主義的合理主義]]
+- [[A_ch5116_inverts_E_p94_sanctity_of_death|死の神聖性の逆転]]
+- [[A_ch5116_parodies_E_p117_infinite_loop_bug|無限ループバグのパロディ]]
+- [[A_ch5116_structurally_matches_E_p70_genetic_algorithm|遺伝的アルゴリズムへの構造対応]]
+- [[A_ch5116_sublates_E_p122_suicide_as_torture|クラッキング化された自殺の正当化]]
+
+### 第5117話
+
+- [[A_ch5117_alludes_to_E_ch5117_p90_神曲・天国篇のベアトリーチェ|典拠への逆転としての堕天したベアトリーチェ]]
+- [[A_ch5117_analogous_to_E_ch5117_p10_テセウスの船の悖論|人格同一性問題を下敷きにしたSF描写]]
+- [[A_ch5117_inverts_E_ch5117_p132_自己犠牲の騎士道|悪役による自己汚染への倫理観の反転]]
+- [[A_ch5117_parodies_E_ch5117_p46_八百万の神|字義通り解釈による眼球軍勢への翻訳誤解]]
+
+### 第5118話
+
+- [[A_ch5118_alludes_to_E_sati_mythology_hindu_sati_custom|サティと破壊再生の暗喩]]
+- [[A_ch5118_alludes_to_E_trishula_name_origin_hindu_mythology_trishula|トリシューラの権威付け]]
+- [[A_ch5118_analogous_to_E_galandyian_kingdom_ancient_empires_collapse|古代帝国崩壊への類似]]
+- [[A_ch5118_analogous_to_E_lole_value_system_pvp_game_ranking|PvPランキングへの類似]]
+- [[A_ch5118_analogous_to_E_prosthetic_generation_bug_fixing_software|義肢生成のバグ修正化]]
+- [[A_ch5118_parodies_E_akira_prosthetic_satoshi_matsuda_cyborg|松田サトシ的サイボーグ融合による身体改造]]
+
+### 第5119話
+
+- [[A_ch5119_alludes_to_E_p35_Rayleigh_Scattering|レイリー散乱の暗喩]]
+- [[A_ch5119_alludes_to_E_p424_Tritshula_Neurology|神経学的メタファー]]
+- [[A_ch5119_analogous_to_E_p184_Firewall|ファイアウォールへの類似]]
+- [[A_ch5119_analogous_to_E_p78_GUI_Metaphor|GUIメタファーへの類似]]
+- [[A_ch5119_parodies_E_p246_Moe_Avatar_Trope|萌えアバターの乖離パロディ]]
+- [[A_ch5119_sublates_E_p395_Structuralism|構造主義の視覚知覚への止揚]]
+
+### 第5120話
+
+- [[A_ch5120_alludes_to_E_p73_Earth_Religion_Propagation|地球宗教伝播の暗喩]]
+- [[A_ch5120_analogous_to_E_p10_Programming_Languages|プログラミング言語への類似]]
+- [[A_ch5120_analogous_to_E_p157_Deterministic_Game_Mechanics|決定論的ゲーム機構への予知転生]]
+- [[A_ch5120_inverts_E_p39_Mirror_Duality|鏡像の二重性における時間軸の逆転]]
+- [[A_ch5120_parodies_E_p13_Glossolalia_Religious|宗教的異言のパロディによる解体]]
+- [[A_ch5120_structurally_matches_E_p71_Military_Industrial_Complex|軍産複合体の模倣と社会風刺]]
+
+### 第5121話
+
+- [[A_ch5121_alludes_to_E_ch5121_冬の魔女_other_強引な勧誘_p75_headhunter_recruitment|ヘッドハンティングへの強制勧誘]]
+- [[A_ch5121_analogous_to_E_ch5121_アストラル界_has_property_真名の重要性_p110_privacy_and_identity_theft|真名支配による絶対的従属]]
+- [[A_ch5121_analogous_to_E_ch5121_寄生異獣_has_property_霊力による汚染_p204_addiction_and_dependence|共依存と自我侵食の破滅]]
+- [[A_ch5121_inverts_E_ch5121_アキラ_has_property_ローブ内収納機能_p170_inventory_management_in_games|意識操作による逆転インベントリ]]
+- [[A_ch5121_parodies_E_ch5121_ラーゼフ_other_眷族神と天使の呼称_p180_corporate_bureaucracy|企業官僚制風のリブランド風刺]]
+- [[A_ch5121_structurally_matches_E_ch5121_ラーゼフ_observes_アキラのアストラル活動_p99_surveillance_capitalism|監視資本主義下の完全喪失]]
+
+### 第5122話
+
+- [[A_ch5122_alludes_to_E_p11_memetics_cultural_evolution|ミーム変質による魔法社会学]]
+- [[A_ch5122_alludes_to_E_p55_logos_vs_mythos|ロゴス対ミュトスの二項対立]]
+- [[A_ch5122_analogous_to_E_p18_rhizome_philosophy|リゾーム型世界観の地下茎化]]
+- [[A_ch5122_analogous_to_E_p1_metafiction_breaking_the_fourth_wall|第四の壁破砕とメタテクスト浸食]]
+- [[A_ch5122_analogous_to_E_p53_game_cheat_protection|不完全性定理と不可視領域]]
+- [[A_ch5122_analogous_to_E_p5_semiotics_intertextuality|間テクスト性による魔法実装]]
+- [[A_ch5122_parodies_E_p48_self_referential_paradox|自己言及パラドックスの防御構造]]
+
+### 第5125話
+
+- [[A_ch5125_alludes_to_E_ch5125_マロゾロンド_functions_as_死者の導き手_p87_charon_mythology|カロン神話的な死者誘導]]
+- [[A_ch5125_analogous_to_E_ch5125_アキラ_thinks_沈黙_p158_cognitive_load_of_communication|認知負荷による言語自己検閲]]
+- [[A_ch5125_analogous_to_E_ch5125_アキラ_thinks_自由時間_p2_corporate_overtime_and_leave_approval|過剰労働と休暇承認の形式主義]]
+- [[A_ch5125_analogous_to_E_ch5125_クロウサー社_makes_大型箒_p39_electric_scooter_mobility_industry|電動スクーター業界への移動手段置換]]
+- [[A_ch5125_analogous_to_E_ch5125_大神院_other_異獣への敵意_p108_institutionalized_prejudice|制度的差別としての異獣排除正義]]
+- [[A_ch5125_analogous_to_E_ch5125_青年_other_騎士団_p115_activism_and_surveillance_state|監視社会と言論弾圧の自動鎧拘束]]
+- [[A_ch5125_parodies_E_ch5125_世界槍_is_made_of_透明な通路_p20_solar_power_plant_infrastructure|太陽光発電所への呪力供給パロディ]]
+
+### 第5126話
+
+- [[A_ch5126_alludes_to_E_5126_p33_modern_influencer_marketing|インフルエンサー戦略の呪力伝播暗喩]]
+- [[A_ch5126_analogous_to_E_5126_p2_modern_subway_system|地下鉄・高架網の葉脈状路線構造]]
+- [[A_ch5126_analogous_to_E_5126_p54_colonial_legacy_and_fairy_tale_fear|植民地遺産と童話的恐怖の連行脅し]]
+- [[A_ch5126_analogous_to_E_5126_p68_tabloid_journalism_and_online_harassment|タブロイドとネットいじめの捏造記事]]
+- [[A_ch5126_parodies_E_5126_p24_modern_academia_research|現代学術研究体制への非体系性風刺]]
+- [[A_ch5126_structurally_matches_E_5126_p79_racial_slur_and_hate_speech|ヘイトスピーチ構造の蔑称転写]]
+
+### 第5127話
+
+- [[A_ch5127_alludes_to_E_ch5127_アキラ_travels_第六区_p3_catoblepas_mythology|カトブレパス神話への邪視怪物引用]]
+- [[A_ch5127_analogous_to_E_ch5127_アキラ_travels_第六区_p3_gig_economy_platform|ギグエコノミーの依頼受注システム]]
+- [[A_ch5127_analogous_to_E_ch5127_アキラ_travels_第六区_p3_insurance_and_labor_union|労働組合・社保の探索者協会機能]]
+- [[A_ch5127_analogous_to_E_ch5127_アキラ_travels_第六区_p3_professional_certification_system|専門職資格制度への称号認定]]
+- [[A_ch5127_parodies_E_ch5127_アキラ_travels_第六区_p3_hero_squad_archetype|勇者パーティの権威限界]]
+
+### 第5128話
+
+- [[A_ch5128_alludes_to_E_p172_ME_authorship_copyright_ethics|著作権帰属問題への罪悪感]]
+- [[A_ch5128_alludes_to_E_p5_ME_system_failure_dependency|システム依存社会の混乱]]
+- [[A_ch5128_analogous_to_E_p21_ME_nuclear_shelter_concept|核シェルター的移民船設定]]
+- [[A_ch5128_analogous_to_E_p3_ME_modern_gig_economy|ギグエコノミー型スポットワーク]]
+- [[A_ch5128_analogous_to_E_p40_ME_mass_tourism_industry|ダークツーリズム化された迷宮]]
+- [[A_ch5128_inverts_E_p148_ME_spyware_surveillance_state|監視社会の生体工学侵食]]
+- [[A_ch5128_parodies_E_p61_E_p67_ME_sexual_harassment_denial|セクハラ拒絶反応の逆効果]]
+
+### 第5129話
+
+- [[A_ch5129_alludes_to_E_p318_inquisition_authority|宗教審問権力型の監査官]]
+- [[A_ch5129_analogous_to_E_p123_smartphone_communication|現代スマホ通信を想起させる遠隔招集]]
+- [[A_ch5129_analogous_to_E_p254_drone_warfare|ドローン戦争型全方位攻撃]]
+- [[A_ch5129_inverts_E_p273_reputation_as_currency|名声通貨化の逆転構造]]
+- [[A_ch5129_parodies_E_p47_copy_and_paste_programming|コピペプログラミング的呪文]]
+- [[A_ch5129_structurally_matches_E_p163_authoritarian_pedagogy|権威主義的育成の服従構造]]
+
+### 第5131話
+
+- [[A_ch5131_analogous_to_E_p11_warning_ignored_sns_warning_fatigue|警告軽視・自己責任への無関心]]
+- [[A_ch5131_analogous_to_E_p143_smartphone_screen_modern_device_discomfort|液晶酔いという超知覚の逆説]]
+- [[A_ch5131_analogous_to_E_p180_raven_steal_online_game_competition|オンライン対戦における資源略奪]]
+- [[A_ch5131_analogous_to_E_p212_bad_quality_game_loot_rarity|低レアリティ落胆の再現]]
+- [[A_ch5131_analogous_to_E_p72_armor_design_character_design_gacha|キャラデザ性能としての可愛さ]]
+- [[A_ch5131_analogous_to_E_p9_danger_zone_game_tutorial_trap|初心者殺し罠の定番構造]]
+
+### 第5132話
+
+- [[A_ch5132_alludes_to_E_p162_UV_Protection_Products|紫外線防御製品としての呪術]]
+- [[A_ch5132_alludes_to_E_p169_Pygmy_Culture|ピグミー文化の言語的独自性]]
+- [[A_ch5132_alludes_to_E_p170_Alchemy_Angel|錬金術守護天使の権威構造]]
+- [[A_ch5132_analogous_to_E_p209_Moral_Injury|道徳的外傷としての仲間犠牲]]
+- [[A_ch5132_analogous_to_E_p46_Microwave_Oven|電子レンジ原理による魔法実装]]
+- [[A_ch5132_parodies_E_p53_Academic_Exam_Grading|単位認定基準のパロディ化]]
+- [[A_ch5132_structurally_matches_E_p119_Sling_Physics|投石機力学の呪術的転用]]
+
+### 第5133話
+
+- [[A_ch5133_alludes_to_E_p70_Halting_Problem_in_Computer_Science|停止問題への不可解性言及]]
+- [[A_ch5133_analogous_to_E_p35_Heuristic_Scan_in_Computer_Vision|ヒューリスティック検出の応用]]
+- [[A_ch5133_analogous_to_E_p46_Computer_GUI_TUI_Interface_Design|GUIとTUIの対比による視覚化]]
+- [[A_ch5133_analogous_to_E_p62_Autonomous_AI_Bots_in_Games|自動戦闘ボットの決定論的挙動]]
+- [[A_ch5133_analogous_to_E_p82_Infinite_Storage_in_MMO_Games|無限インベントリとしての心の抽斗]]
+- [[A_ch5133_analogous_to_E_p99_Smartphone_Passcode_Unlock|スマホパスコードによる七桁解錠]]
+- [[A_ch5133_parodies_E_p158_Water_Bottle_Magic_for_Cats|猫除けペットボトルでの結界脱力化]]
+
+### 第5134話
+
+- [[A_ch5134_alludes_to_E_ch5134_ミルーニャ_says_年齢申告_p68_Elf_Age_Math|長寿種年齢換算によるコメディ的衝突]]
+- [[A_ch5134_parodies_E_ch5134_ハルベルト_says_ミルーニャへの攻撃_p29_Anime_Hiroin_Cliché|名乗りヒロインクリシェへのメタ揶揄]]
+- [[A_ch5134_parodies_E_ch5134_ミルーニャ_says_アズーリアへの欲望_p12_RPG_UI_Parody|RPG的UI操作による精神干渉表現]]
+- [[A_ch5134_sublates_E_ch5134_食事_appears_as_異様な光景_p44_War_Daily_Life_Merge|戦場と日常の融合による価値観変容]]
+
+### 第5135話
+
+- [[A_ch5135_alludes_to_E_ch5135_アズーリア_other_猫に名付けられた子供_p54_Transmigrator_Name_Meaning|転生者の命名依存による自己内省欠如]]
+- [[A_ch5135_analogous_to_E_ch5135_ハルベルト_other_近代呪術の定義_p22_Post_Modern_Narrative|ポストモダンナラティブにおける主観衝突]]
+- [[A_ch5135_analogous_to_E_ch5135_心話_functions_as_認識共有_p18_Social_Media_Viral_Trend|SNS的拡散現象としての認識即実体化]]
+- [[A_ch5135_structurally_matches_E_ch5135_ハルベルト_other_専門分野での流暢さ_p24_Intellectual_Hyperfocus|知的過集中による専門知識介在の対人関係]]
+
+### 第5137話
+
+- [[A_ch5137_alludes_to_E_p17_cognitive_bias,modern_academic_discourse|認知バイアス批判による統計的思考対比]]
+- [[A_ch5137_analogous_to_E_p121_paper_based_magic,scrapbook_tactics|紙魔法・スクラップ戦術的な即時可視化ガジェット]]
+- [[A_ch5137_foreshadows_E_p185_white_flower_familiar,past_attack|骨の花と襲撃事件の因果伏線]]
+- [[A_ch5137_inverts_E_p60_perception_distortion,luckism_curse|容姿呪詛による認知歪み]]
+- [[A_ch5137_parodies_E_p12_murphys_law|マーフィーの法則のパロディ化]]
+- [[A_ch5137_structurally_matches_E_p108_philosophical_zombie,maze_guard|哲学的ゾンビの模倣挙動]]
+
+### 第5139話
+
+- [[A_ch5139_alludes_to_E_p106_concept_torture_brainwashing|強制精神支配の暗喩]]
+- [[A_ch5139_analogous_to_E_p54_concept_body_horror|美肉侵蝕と人体改造の可視化]]
+- [[A_ch5139_inverts_E_p35_trope_immortality_cheat|不死チートの否定と逆転]]
+- [[A_ch5139_parodies_E_p21_trope_death_scene|死に際の師弟愛の演出]]
+- [[A_ch5139_sublates_E_p100_game_mechanic_gacha|法則超越命名の止揚]]
+
+### 第5142話
+
+- [[A_ch5142_alludes_to_E_Mayphera_Feeling_Intersectionality_and_Prejudice|構造的暴力共鳴への明日は我が身]]
+- [[A_ch5142_alludes_to_E_Mirunya_Logic_Capitalism_and_Memes|ミーム支配・資本原理の強制力]]
+- [[A_ch5142_analogous_to_E_Mirunya_Logic_Corporate_Amoral_Risk_Management|非倫理合理主義と商道徳対比]]
+- [[A_ch5142_inverts_E_Maze_Economy_Conservation_and_Sustainability|収奪最適化・均衡の残酷さ]]
+- [[A_ch5142_structurally_matches_E_Racial_Classification_Social_Darwinism_and_Racism|社会ダーウィニズム的人種階級化]]
+- [[A_ch5142_sublates_E_Azuria_Justification_Religious_Development_and_Inquisition|開発された信仰による内敵外部化]]
+
+### 第5143話
+
+- [[A_ch5143_alludes_to_E_ch5143_ティリビナ人_gives_バジリスクの死体_p106_Mythical_Basilisk|バジリスクの中世伝承的属性]]
+- [[A_ch5143_alludes_to_E_ch5143_ティリビナ人_has_property_漂泊の呪的性質_p77_Romani_people|ロマニ人の居場所不在の不安定さ]]
+- [[A_ch5143_analogous_to_E_ch5143_プリエステラ_confesses_生い立ちと虐待_p71_Castrati_System|隔離修道院・宦官制的養育構造]]
+- [[A_ch5143_analogous_to_E_ch5143_プリエステラ_says_秘密の交易_p12_Black_Market_Trade|闇取引・非公式交換の市場構造]]
+- [[A_ch5143_inverts_E_ch5143_プリエステラ_confesses_父の死と手首_p83_Religious_Martyrdom|宗教的殉教の保護無力化逆転]]
+- [[A_ch5143_structurally_matches_E_ch5143_ミルーニャ_says_実利主義的な思想_p39_Machiavellian_Realpolitik|マキャヴェリスム的権力基盤論]]
+
+### 第5144話
+
+- [[A_ch5144_parodies_E_ch5144_ミルーニャ_says_裏の意図_p2_RPG_Party_Recruitment|パーティ募集の戦力不足風刺]]
+
+### 第5145話
+
+- [[A_ch5145_alludes_to_E_ch5145_プリエステラ_other_アキラたち_p2_オカルト・呪術的儀式|呪術儀礼と医療介入メタファー]]
+- [[A_ch5145_analogous_to_E_ch5145_プリエステラ_other_アキラたち_p2_ギグエコノミー・契約労働者|ギグ労働者的搾取構造の模倣]]
+- [[A_ch5145_analogous_to_E_ch5145_プリエステラ_other_アキラたち_p2_ギャンブル依存症・投機的投資|一発逆転博打への依存]]
+- [[A_ch5145_analogous_to_E_ch5145_プリエステラ_other_アキラたち_p2_現代の医療保険制度・医薬品供給|製薬利潤による治療費高騰]]
+- [[A_ch5145_structurally_matches_E_ch5145_プリエステラ_other_アキラたち_p2_ヘロイン・ポルノグラフィーの構造|傷の連帯構造によるダークファンタジー的共感]]
+
+### 第5146話
+
+- [[A_ch5146_alludes_to_E_priestera_killing_shonen_rage_trope|激情が戦術を凌駕する殺戮]]
+- [[A_ch5146_analogous_to_E_mirunya_ability_inventory_management_game|肉体損傷を伴うインベントリ儀式]]
+- [[A_ch5146_inverts_E_monster_design_sense_of_vision|邪視の味覚触覚への転換]]
+
+### 第5147話
+
+- [[A_ch5147_alludes_to_E_ch5147_世界の理_defines_生と死の不可逆性_p51_キリスト教神学における復活と奇跡の希少性|復活特権者の異端視構造]]
+- [[A_ch5147_analogous_to_E_ch5147_アキラ_observes_対抗呪文の限界_p28_現代医学における処置前の診断プロセス|魔法運用の科学的手法化]]
+- [[A_ch5147_analogous_to_E_ch5147_使い魔_other_砂糖菓子_p62_動物の訓練における報酬オペラント条件付け|本能利用のオペラント条件付け]]
+- [[A_ch5147_inverts_E_ch5147_アキラ_other_ペイルとの呪力量_p66_ゲームにおけるキャラクターのステータス補正昼／夜、環境要因|昼夜による環境ステータス補正]]
+- [[A_ch5147_parodies_E_ch5147_アキラ_says_嘘_p4_異世界転生作品の主人公による死の否定ハルシネーション・現実拒否|セーブデータへの期待と否認]]
+- [[A_ch5147_structurally_matches_E_ch5147_プリエステラ_says_うろの中の秘密レルプレア_p84_古代ケルトのドルイド教・森の精霊信仰と自然崇拝|野蛮な自然神への祭祀形態]]
+
+### 第5149話
+
+- [[A_ch5149_alludes_to_E_p65_Organ_Rode|技術自壊を擬似古代語で命名]]
+- [[A_ch5149_analogous_to_E_p166_RPG_Critical_Hit|TRPG判定音の戦闘導入]]
+- [[A_ch5149_analogous_to_E_p196_Gremlin_Mythology|機械故障を司る妖精伝承]]
+- [[A_ch5149_analogous_to_E_p21_Gacha_Pull|小瓶投擲のガチャ的不確実性]]
+- [[A_ch5149_analogous_to_E_p236_Rodinio_Three_Legged_Birds|三足烏伝承の死者案内役]]
+- [[A_ch5149_structurally_matches_E_p80_Harry_Potter_House_Rivalry|派閥競争・選民思想の残酷な淘汰]]
+
+### 第5150話
+
+- [[A_ch5150_alludes_to_E_使い魔の形状_聖書エゼキエル書の天使オファニム／チャイオト|オファニムの車輪状天使図像]]
+- [[A_ch5150_analogous_to_E_ナトの窒息呪術_現代の密閉容器／潜水装備|生存装置による酸素遮断対策]]
+- [[A_ch5150_analogous_to_E_ハルベルトの呪文_Apoptosis誘発／テロメラーゼ阻害薬|細胞死・老化抑制への分子介入]]
+- [[A_ch5150_analogous_to_E_ペイルの連打_RPGにおける与ダメージ計算式／再生スキルのカウンター|与ダメ計算式の再生上回る殺害]]
+- [[A_ch5150_analogous_to_E_ミルーニャの使い魔_免疫系マクロファージ／ウィルスワクチン|獲得免疫の抗原提示と抗体産生]]
+- [[A_ch5150_analogous_to_E_ミルーニャの弾幕_DNA／RNAの塩基配列シークエンス|核酸情報・呪力源の情報理論化]]
+- [[A_ch5150_analogous_to_E_ミルーニャの肉体_がん細胞／テロメア制御不全による不死化細胞|不死化細胞のテロメア劣化回避]]
+- [[A_ch5150_parodies_E_ミルーニャの台詞_メタゲーム的な攻略済み宣言|詰み宣言の余裕]]
+
+### 第5151話
+
+- [[A_ch5151_alludes_to_E_prisestera_medic_last_tribal_healer|最後の治療者喪失]]
+- [[A_ch5151_analogous_to_E_harbert_tampering_deepfake_manipulation|ディープフェイク操作]]
+- [[A_ch5151_analogous_to_E_ilse_backstory_conscientious_objector_scapegoat|良心的兵役拒否・スケープゴート]]
+- [[A_ch5151_analogous_to_E_ilse_defense_medic_neutrality_doctrine|医療中立原則]]
+- [[A_ch5151_parodies_E_tiribina_history_environmental_destruction_genocide|テラ・ポミナ化]]
+
+### 第5152話
+
+- [[A_ch5152_alludes_to_E_ch5152_アズ_confesses_妹の魂奪取_p44_Greek_Mythology_Hades_Persephone|ペルセフォネ神話]]
+- [[A_ch5152_alludes_to_E_ch5152_ハルベルト_says_鮮血呪の提案_p67_Death_Drive_Concept|死の欲動]]
+- [[A_ch5152_analogous_to_E_ch5152_アズ_uses_フィリス_p38_Save_Point_Restart_Mechanic|セーブポイント・ロールバック]]
+- [[A_ch5152_analogous_to_E_ch5152_ハルベルト_says_自我の消滅_p29_Zerg_Borg_Collective_Consciousness|集団意識体]]
+- [[A_ch5152_analogous_to_E_ch5152_ペレケテンヌル_other_天恵ギフト_p177_Sadomasochism_Psychology|サドマゾヒズム心理]]
+- [[A_ch5152_inverts_E_ch5152_ナト_defines_祝福者_p173_Divine_Blessing_Trope|祝福＝呪い]]
+
+### 第5153話
+
+- [[A_ch5153_alludes_to_E_ch5153_広場_is_located_洞窟外_p2_Corporate_Slogan_Branding|企業スローガン・ブランディング]]
+- [[A_ch5153_alludes_to_E_ch5153_広場_is_located_洞窟外_p2_Gacha_Game_Summoning|ガチャ召喚維持]]
+- [[A_ch5153_parodies_E_ch5153_広場_is_located_洞窟外_p2_Anime_Villain_Trope|アニメ的ヴィラン]]
+- [[A_ch5153_structurally_matches_E_ch5153_広場_is_located_洞窟外_p2_RPG_Elemental_Types|RPG属性相性]]
+
+### 第5154話
+
+- [[A_ch5154_alludes_to_E_Milunya_LastWitch_FateRewriting,TragedyHeroine|運命書き換えへの悲劇的ヒロイン反逆]]
+- [[A_ch5154_analogous_to_E_Mirunya_Cost_Payment_Gacha_Ceiling,MobileGame_Crafting_System|ガチャ天井・無双のコスト踏み倒し]]
+- [[A_ch5154_analogous_to_E_Tribina_Magic_Cost_ArtisticProduction,CommodityFetishism|芸術生産・商品フェティシズムの呪力変換]]
+- [[A_ch5154_inverts_E_Tribina_Community_FamilyValues,SolidarityAsWeakness|連帯は弱さという逆説的倫理観]]
+- [[A_ch5154_parodies_E_Milunya_Flag_Effect_MassPropaganda,Totalitarianism,RadicalizationAlgorithms|全体主義扇動の戦場旗パロディ]]
+- [[A_ch5154_structurally_matches_E_Tribina_TreeConstruction_HumanPyramid,ChickenRopeFormation|人体ピラミッドの個の消失と一体化]]
+
+### 第5155話
+
+- [[A_ch5155_alludes_to_E_ch5155_アキラ_helps_フィリス_p2_Brainwashing_and_Corporate_Compliance|洗脳・企業コンプライアンスの手駒化]]
+- [[A_ch5155_alludes_to_E_ch5155_アキラ_helps_フィリス_p2_Traffic_Accident_Reincarnation|トラック転生の英雄強制への逆説言及]]
+- [[A_ch5155_inverts_E_ch5155_アキラ_helps_フィリス_p2_Heroic_Narrative_Agency|英雄の広告塔化による主体性否定]]
+- [[A_ch5155_parodies_E_ch5155_アキラ_helps_フィリス_p2_Self-Hypnosis_and_Power-Up_Mechanics|自己暗示強化へのファンタジー相対化]]
+- [[A_ch5155_structurally_matches_E_ch5155_アキラ_helps_フィリス_p2_Corporate_Cartel_and_Niche_Marketing|企業カルテル・ニッチマーケの冒険転換]]
+
+### 第5156話
+
+- [[A_ch5156_alludes_to_E_ch5156_ハルベルト_activates_静謐_p149_nuclear_deterrence_mutually_assured_destruction|相互確証破壊の静止パラドックス]]
+- [[A_ch5156_analogous_to_E_ch5156_ハルベルト_activates_レトロウイルス対策_p125_biological_macrophage_antibody|マクロファージ・抗体の記号的逆利用]]
+- [[A_ch5156_analogous_to_E_ch5156_命脈の呪石_defines_擬似的な不死性_p4_gambling_industry_law_of_large_numbers|希少性崩壊による価値貶下アナロジー]]
+- [[A_ch5156_parodies_E_ch5156_巨大企業_conceals_増産能力_p14_pharmaceutical_industry_monopoly|製薬業界の独占による希少性演出]]
+- [[A_ch5156_structurally_matches_E_ch5156_アキラ_thinks_イキューへの虐待_p101_cycle_of_violence_abuse_survivor|暴力の連鎖によるトラウマ再生産]]
+
+### 第5157話
+
+- [[A_ch5157_alludes_to_E_p140_nail_peeling_trichotillomania_bexs|抜毛症を模した自傷行為の変質]]
+- [[A_ch5157_alludes_to_E_p23_labyrinth_truth_war_of_attrition_ww1|第一次大戦の消耗戦への転生]]
+- [[A_ch5157_analogous_to_E_p168_illegitimate_status_milf_dynamics_modern|継母権力による正統性の排除]]
+- [[A_ch5157_inverts_E_p104_cerlatris_prayer_buddhist_attachment_aversion|仏教的執着の逆転としての祈り拒否]]
+- [[A_ch5157_structurally_matches_E_p123_trial_procedure_surgical_procedure_modern|侵襲的手技による身体部品化]]
+
+### 第5158話
+
+- [[A_ch5158_alludes_to_E_ch5158_ミルーニャ_confesses_利己性_p78_Psychopathy,Narcissism|サイコパス的共感の虚構露呈]]
+- [[A_ch5158_alludes_to_E_ch5158_静謐_functions_as_悪意の解釈_p15_History_Manipulation,Narrative_Power|歴史改変権力としての呪術]]
+- [[A_ch5158_analogous_to_E_ch5158_アズーリア_other_神話揺動者_p90_Social_Media_Influence,Cultural_Shift|SNS文化変容を模した神話規定権力の行使]]
+- [[A_ch5158_inverts_E_ch5158_ミルーニャ_confesses_自己愛_p70_Traditional_Heroism,Self_Sacrifice|不死のための自己愛への逆転]]
+- [[A_ch5158_parodies_E_ch5158_アズーリア_thinks_再構成_p18_Narrative_Reconstruction,Trauma_Therapy|トラウマ再構成による戦闘記述の意味書き換え]]
+- [[A_ch5158_structurally_matches_E_ch5158_アズーリア_says_語り開始_p3_Deepfake,Roleplay,Unreliable_Narrator|ディープフェイクによる自我侵食]]
+
+### 第5159話
+
+- [[A_ch5159_alludes_to_E_p166_1_biblical_ezekiel_angel|エゼキエルの天使の越界的威厳]]
+- [[A_ch5159_analogous_to_E_p204_1_science_fiction_weapons|SF兵器による魔法科学の境界侵食]]
+- [[A_ch5159_analogous_to_E_p20_1_biological_sex_and_gender_duality|性別二元論を超えた呪術的分裂]]
+- [[A_ch5159_parodies_E_p94_1_narrative_therapy_and_reframing|ナラティブ治療の権力行使化]]
+- [[A_ch5159_structurally_matches_E_p157_1_deleuze_guattari_rhizome|リゾーム哲学による世界構造説明]]
+- [[A_ch5159_sublates_E_p130_1_postmodern_truth_and_myth|ポストモダン的真理への昇華]]
+
+### 第5160話
+
+- [[A_ch5160_alludes_to_E_ch5160_ハルベルト_has_property_使命_p65_linguistic_determinism_and_logos|ロゴス支配論の暗喩]]
+- [[A_ch5160_alludes_to_E_ch5160_大神院_other_内部テロリスト_p35_tolerated_corruption_in_bureaucracies|官僚制腐敗黙認の暗喩]]
+- [[A_ch5160_analogous_to_E_ch5160_世界_dies_消費の螺旋_p71_potlatch_and_capitalist_consumption|ポトラッチ的消費の類似]]
+- [[A_ch5160_analogous_to_E_ch5160_松明の騎士団_uses_金鎖システム_p2_surveillance_systems_and_data_logging|IoTデータログ監視システムの金鎖メタファー]]
+- [[A_ch5160_inverts_E_ch5160_ハルベルト_other_世界平和_p82_villainous_grandiloquence_tropes|悪役口調の逆転]]
+- [[A_ch5160_parodies_E_ch5160_ハルベルト_defines_異端審問官の役割_p24_inquisitorial_archetypes|異端審問官像のパロディ]]
+- [[A_ch5160_structurally_matches_E_ch5160_ハルベルト_other_絶対言語の再生_p73_restoration_of_lost_paradise|失われた楽園回復の構造対応]]
+
+### 第5161話
+
+- [[A_ch5161_alludes_to_E_Black_Lily_Memory_Wipe_Freud_Repression_Trauma|記憶操作による外部介入型アイデンティティ破壊]]
+- [[A_ch5161_analogous_to_E_Azuria_Shrinkage_MobileGame_PowerCreep_LimitBreak|限界突破による身体縮小]]
+- [[A_ch5161_foreshadows_E_Azuria_Color_Question_Identity_Synthesis|属性統合の予兆としての色問答]]
+- [[A_ch5161_inverts_E_Hero_Worship_Media_Gender_Stereotype|ジェンダー規範の超越による英雄像]]
+- [[A_ch5161_parodies_E_Mirunya_Father_Request_Internet_Meme_Incest_Joke|ネット近親相姦ネタのパロディ的定型反応模倣]]
+- [[A_ch5161_structurally_matches_E_Mirunya_Rank_Explanation_Tournament_Seeding_System|権利継承型トーナメント構造]]
+
+### 第5162話
+
+- [[A_ch5162_alludes_to_E_red_chair_wheelchair_symbolism|車椅子の王権象徴への昇華]]
+- [[A_ch5162_analogous_to_E_avatar_combat_fighting_game_mechanics|格闘ゲーム的メカニクスの模倣]]
+- [[A_ch5162_analogous_to_E_materian_anxiety_social_anxiety_disability|社会不安障害の呪いとしての表象]]
+- [[A_ch5162_inverts_E_azur_demon_gacha_rare_unit|ガチャ産強敵によるメタ的壁]]
+- [[A_ch5162_parodies_E_astreal_world_vr_ar_gaming|VR/AR技術の失敗と魔法の親和性]]
+- [[A_ch5162_structurally_matches_E_white_black_chat_text_based_communication|匿名SNS的な非対面会話構造]]
+
+### 第5163話
+
+- [[A_ch5163_alludes_to_E_marie_reading_borges_jorge_luis_borges_fictions|ボルヘス文学的迷宮]]
+- [[A_ch5163_alludes_to_E_{marie_reading_borges}_{jorge_luis_borges_fictions}|ボルヘス的迷宮へのメタ暗示]]
+- [[A_ch5163_parodies_E_virgilias_communication_label_social_media_bio_tags|SNSラベルによる防衛]]
+- [[A_ch5163_parodies_E_{virgilias_communication_label}_{social_media_bio_tags}|SNSプロフィール化された自己防衛]]
+
 ### 第5164話
 
-- [[A_ch5164_alludes_to_E_{p7}_{Divine_Comedy_Inferno}|地獄篇の断絶の引用]]
-- [[A_ch5164_analogous_to_E_{p19}_{Terraforming_Terminology}|テラフォーミングの換骨奪胎]]
-- [[A_ch5164_foreshadows_E_{p163}_{Time_Manipulation_Narrative_Trope}|時間操作の定石への伏線]]
-- [[A_ch5164_parodies_E_{p193}_{Modern_App_Safety_Features}|アプリ安全機能のパロディ]]
-- [[A_ch5164_structurally_matches_E_{p39}_{RPG_Item_Cooldowns}|アイテムクールダウンの構造対応]]
-
-### 第5165話
-
-- [[A_ch5165_alludes_to_E_p41_Mecha_Anime|メカアニメ発動のクリシェ]]
-- [[A_ch5165_alludes_to_E_p88_Data_Archaeology|データ考古学的な情報抽出]]
-- [[A_ch5165_analogous_to_E_p104_Sacrificial_Mechanic|生命燃料機関の倫理]]
-- [[A_ch5165_inverts_E_p147_Superhero_Narrative|時限ヒーロー譚の逆転構造]]
-- [[A_ch5165_parodies_E_p155_Theater_Metaphor|劇場としての世界観のパロディ]]
-- [[A_ch5165_structurally_matches_E_p120_Bureaucracy_Compliance|官僚的コンプライアンスの組み込み]]
+- [[A_ch5164_analogous_to_E_p19_Terraforming_Terminology|テラフォーミング的異界記憶改変]]
+- [[A_ch5164_foreshadows_E_p163_Time_Manipulation_Narrative_Trope|時間操作定石への因果歪め伏線]]
+- [[A_ch5164_parodies_E_p193_Modern_App_Safety_Features|現代アプリ的セキュリティの模倣]]
+- [[A_ch5164_structurally_matches_E_p39_RPG_Item_Cooldowns|ゲーム的クールダウンの環表現]]
 
 ### 第5166話
 
-- [[A_ch5166_alludes_to_E_p82_fairy_tale_repetition|童話反復のクリシェ引用]]
-- [[A_ch5166_analogous_to_E_p172_yin_yang_duality|陰陽二元論への補完的対立]]
-- [[A_ch5166_inverts_E_p158_brave_new_world|すばらしい新世界の逆転]]
-- [[A_ch5166_parodies_E_p6_gaming_mechanics|ゲームメカニクスの実装]]
-- [[A_ch5166_structurally_matches_E_p129_brainwashing_propaganda|記憶上書きの洗脳構造]]
+- [[A_ch5166_analogous_to_E_world_control_surveillance_state|全体主義的監視国家の隐喻]]
+- [[A_ch5166_inverts_E_fate_determinism_isekai_romance_cliche|運命の恋人の恐怖への反転]]
+- [[A_ch5166_parodies_E_soloda_mercy_utilitarian_ethics|極端な功利主義的慈悲]]
+- [[A_ch5166_structurally_matches_E_azuria_memory_gap_brainwashing_scifi|記憶改変によるアイデンティティ脅威]]
+
+### 第5167話
+
+- [[A_ch5167_alludes_to_E_ch5167_アズ_other_英雄としての適格性_p195_impostor_syndrome|インポスター症候群への転生]]
+- [[A_ch5167_analogous_to_E_ch5167_松明の騎士団_other_武力と啓蒙_p139_military_police_division|軍警機能分担の寓話]]
+- [[A_ch5167_analogous_to_E_ch5167_神官たち_other_羊人種_p52_pet_culture_commodification|ペット食文化化の暗示]]
+- [[A_ch5167_analogous_to_E_ch5167_臨死体験_other_霊体強度_p164_trauma_informed_care|トラウマ後成長の転生]]
+
+### 第5169話
+
+- [[A_ch5169_alludes_to_E_soloda_dialogue_meta_author_voice|メタ視点による構造的欠陥指摘]]
+- [[A_ch5169_analogous_to_E_harbert_complaint_gacha_game_mechanics|ガチャ消費メカニクスへの皮肉]]
+- [[A_ch5169_analogous_to_E_soloda_weakness_grinding_in_games|作業的戦闘による最適化]]
+- [[A_ch5169_parodies_E_azua_report_customer_service_chatbot|チャットボット応答のパロディ]]
+- [[A_ch5169_parodies_E_soloda_death_video_game_mechanics|リスポーン機能のメタファー]]
+- [[A_ch5169_structurally_matches_E_flaveufa_identity_null_pointer_error|ヌルポインタ参照の構造対応]]
+
+### 第5170話
+
+- [[A_ch5170_alludes_to_E_Golden_Eyes_Male_Artist_Supernatural_Threat_Perspective|邪視による鑑賞者支配]]
+- [[A_ch5170_alludes_to_E_Vanitas_Paintings_Classical_Vanitas_Art|ヴァニタス絵画の変奏]]
+- [[A_ch5170_analogous_to_E_FirstDistrict_Airship_Modern_High_End_Apartment|富裕層向け高級住宅の比喩]]
+- [[A_ch5170_analogous_to_E_Mary_Suicidal_Expression_Modern_Bullying_and_Death_Wish|虐待による死の願望]]
+- [[A_ch5170_analogous_to_E_Pen_Tablet_Magic_Digital_Art_Tablets|ペンタブレットとの併用]]
+
+### 第5171話
+
+- [[A_ch5171_alludes_to_E_Garzs_Eye_Odins_Eye|邪視による世界改変]]
+- [[A_ch5171_alludes_to_E_Garzs_Skill_Name_Biblical_Vanity_Vanity|聖書的虚無の再定義]]
+- [[A_ch5171_analogous_to_E_Triad_Naming_Biological_Organs_Metaphor|巨大生物としての組織比喩]]
+- [[A_ch5171_inverts_E_Lina_Appearance_Magic_Witch_Standard|家事行為への暴力転換]]
+- [[A_ch5171_parodies_E_Garzs_Introduction_Nihilism_Philosophy|虚無主義の戦闘化]]
+
+### 第5172話
+
+- [[A_ch5172_alludes_to_E_ch5172_リーナ_other_マウザ屋敷での惨劇_p160174_gods_playing_with_toy_soldiers|神々の玩具遊び]]
+- [[A_ch5172_analogous_to_E_ch5172_ハルベルト_other_哲学的ゾンビと疑似霊体憑依_p3539_cloning_and_avatar_control|自我不在の霊体支配]]
+- [[A_ch5172_analogous_to_E_ch5172_プリエステラ_other_変装と呪力偽装_p94_identity_theft_and_spoofing|生存のためのアイデンティティ偽装]]
+- [[A_ch5172_analogous_to_E_ch5172_リーナ_other_マウザ屋敷での惨劇_p160174_corporate_infiltration_and_cyber_attack|死超えの業務強制]]
+- [[A_ch5172_inverts_E_ch5172_アキラ_observes_群青様の遺体_p21_saint_martyrdom|骨への殉教逆説]]
+- [[A_ch5172_structurally_matches_E_ch5172_ハルベルト_other_声明と名簿_p16_wanted_list_in_games|ゲーム暗殺名簿構造によるサスペンス構築]]
+
+### 第5174話
+
+- [[A_ch5174_alludes_to_E_208_open_source_debate,ip_rights|OSS論争の呪術化]]
+- [[A_ch5174_analogous_to_E_11_gift_economy,social_media_influencer|贈与による強迫的契約]]
+- [[A_ch5174_analogous_to_E_204_tech_startup_pitch|魔術の知的財産化]]
+- [[A_ch5174_inverts_E_164_brainwashing,extremism|魔法的意志改変]]
+- [[A_ch5174_parodies_E_64_gacha_pull,forced_acceptance|強制ガチャ受容のメタ]]
+- [[A_ch5174_structurally_matches_E_233_youngs_double_slit,quantum_observation|量子観測の魔術転用]]
+
+### 第5175話
+
+- [[A_ch5175_alludes_to_E_akashic_records_spear_computer_console_kernel|世界OSカーネルとしての紀元槍]]
+- [[A_ch5175_analogous_to_E_wave_function_interference_derrida_différance|デリダのディファランスへの置換]]
+- [[A_ch5175_analogous_to_E_wordquake_babel_myth|バベルの塔的な言語混濁災害]]
+- [[A_ch5175_inverts_E_harubert_secret_idol_secret_identity|アイドル二重生活の喜劇的解消]]
+- [[A_ch5175_parodies_E_double_slit_experiment_quantum_mechanics_double_slit|邪視による二重スリット実験パロディ]]
+- [[A_ch5175_structurally_matches_E_four_witches_goals_rpg_mechanics|RPG的メタ構造としての呪術]]
+
+### 第5176話
+
+- [[A_ch5176_alludes_to_E_ch5176_カタルマリーナ_is_made_of_キュトスの三女_p8_erinyes,belladonna|禁忌の声による発狂モチーフ]]
+- [[A_ch5176_analogous_to_E_ch5176_歌姫Spear_appears_as_ネットアイドル_p24_vtuber_industry,social_media_meme_culture|ネットミーム的実在としての歌姫]]
+- [[A_ch5176_analogous_to_E_ch5176_骨槍_appears_as_体内からの生成_p260262_internal_parasitism,body_horror_genre|体内寄生・ボディホラー的な骨槍]]
+- [[A_ch5176_parodies_E_ch5176_歌姫Spear_has_property_不死性_p32_internet_immortality,viral_content_permanence|ネット不死としてのコンテンツ永続]]
+- [[A_ch5176_structurally_matches_E_ch5176_歌姫Spear_appears_as_活動開始_p2_rebranding_strategy,cancellation_avoidance|イメージ戦略による評価操作]]
+
+### 第5178話
+
+- [[A_ch5178_analogous_to_E_ch5178_リーナ_uses_幻覚呪術_p4_EBook_vs_Physical_Book_Debate|幻覚による実体化の欲求]]
+- [[A_ch5178_analogous_to_E_ch5178_戦場小説_defines_社会的利用形態_p11_Light_Novel_Genre_Conventions|ラノベ的暇つぶしとしての定義]]
+- [[A_ch5178_inverts_E_ch5178_死の囀り_appears_無音_p423_Anti_Monster_Trope|名と本質乖離による無音恐怖]]
+- [[A_ch5178_parodies_E_ch5178_サリア_reveals_コルセスカとの戦闘_p185_Power_Level_Inflation_Narrative|足止めを敗北とする戦力インフレ]]
+- [[A_ch5178_structurally_matches_E_ch5178_ペイル_deceives_ティリビナの民_p100_Red_Herring_Trope|ミスリードによる緊張緩和の構造]]
+
+### 第5181話
+
+- [[A_ch5181_alludes_to_E_ch5181_ミルーニャ_gives_魔導書死人の森の断章_p187_アプリのアカウント引き継ぎ／セーブデータ復元|魔導書によるアカウント引継ぎ]]
+- [[A_ch5181_analogous_to_E_ch5181_アキラ_other_囮としての利用_p59_ガチャ産石の消費／周回素材|捕虜を周回素材として消費]]
+- [[A_ch5181_analogous_to_E_ch5181_カタルマリーナ_other_未来からの歌声_p201_AR拡張現実／タイムライン干渉|未来歌声によるタイムライン干渉]]
+- [[A_ch5181_inverts_E_ch5181_アキラ_other_プリエステラへの自己犠牲禁止_p131_自己責任論／被害者加害の拒否|帰還のための自己犠牲禁止]]
+- [[A_ch5181_parodies_E_ch5181_アキラ_other_世界の更新リスク_p48_サーバーメンテナンス／データ破棄|世界更新によるアカウント削除]]
+- [[A_ch5181_structurally_matches_E_ch5181_骨組みの花_other_死人使いの集団_p227_MMOにおけるPTパーティ戦術|死者召喚によるMMOPT戦術]]
+
+### 第5182話
+
+- [[A_ch5182_alludes_to_E_ch5182_長老様_teaches_アキラ_p177181_passing_as_human|黒衣による異種族の擬態通過]]
+- [[A_ch5182_analogous_to_E_ch5182_アキラ_makes_分身_p5357_cloud_backup_recovery|影からのクラウドバックアップ生成]]
+- [[A_ch5182_analogous_to_E_ch5182_アキラの触手_finds_核_p25_packet_sniffing|触手による呪文パケットスニッフィング]]
+- [[A_ch5182_analogous_to_E_ch5182_アキラ分身群_breaks_呪文_p102107_software_reverse_engineering|呪文構造のリバースエンジニアリング]]
+- [[A_ch5182_analogous_to_E_ch5182_アキラ分身群_says_ゲンリノヨウセイカタリテイワク_p8791_machine_learning_mimicry|模倣生態としての機械学習メタファー]]
+- [[A_ch5182_parodies_E_ch5182_カタルマリーナ_attacks_アキラ_p4547_honeypot_attack|核偽装によるハニートラップ攻撃]]
+- [[A_ch5182_structurally_matches_E_ch5182_カタルマリーナの歌_defines_原初の旋律_p1516_raw_data_stream|原初旋律としての生データ流]]
+
+### 第5183話
+
+- [[A_ch5183_alludes_to_E_p200_Cybernetics_Eye_of_God|眼球演算のサイバネティクス全視眼]]
+- [[A_ch5183_analogous_to_E_p112_Zaibatsu_Collusion_Monopoly|メガコーポによる独占資本支配]]
+- [[A_ch5183_analogous_to_E_p14_Linguistic_Turn_Semiotics|記号論的転回への花言葉固定]]
+- [[A_ch5183_analogous_to_E_p198_Bureaucratic_Rationality_Arendt|アーレント合理性の機構化]]
+- [[A_ch5183_foreshadows_E_p241_Protagonist_Guilt_Trauma|主人公罪悪感への裏返し伏線]]
+- [[A_ch5183_inverts_E_p252_Philosophical_Zombie_Thought_Experiment|哲学的ゾンビの物理実装]]
+- [[A_ch5183_parodies_E_p44_LLM_Text_Generation_Metaphor|LLM生成メタファーのパロディ]]
+
+### 第5184話
+
+- [[A_ch5184_alludes_to_E_{Garz_Deal}_{Faustian_Bargain}|ファウスト的取引の寄生]]
+- [[A_ch5184_analogous_to_E_Azuria_Monsterization_Addiction_Detoxification|依存・離脱による自己喪失]]
+- [[A_ch5184_analogous_to_E_Trident_Network_Decentralized_Organizations|自律分散型組織の共生]]
+- [[A_ch5184_analogous_to_E_{Azuria_Monsterization}_{Addiction_Detoxification}|依存症離脱症状の変質比喩]]
+- [[A_ch5184_analogous_to_E_{Trident_Network}_{Decentralized_Organizations}|自律分散型組織の細胞構造]]
+- [[A_ch5184_foreshadows_E_Basilisk_White_Scales_Mutagenic_Fuel|変異燃料による突然変異]]
+- [[A_ch5184_foreshadows_E_{Basilisk_White_Scales}_{Mutagenic_Fuel}|突然変異燃料の老化逆転]]
+- [[A_ch5184_inverts_E_Garz_Accusation_Ethics_of_Grief|追悼の倫理の逆転批判]]
+- [[A_ch5184_inverts_E_{Garz_Accusation}_{Ethics_of_Grief}|死者利用倫理の悪徳再定義]]
+- [[A_ch5184_structurally_matches_E_Control_Panel_Hardware_Key_Lock|ハードウェア鍵認証の構造]]
+- [[A_ch5184_structurally_matches_E_{Control_Panel}_{Hardware_Key_Lock}|二要素認証型鍵結合構造]]
+
+### 第5185話
+
+- [[A_ch5185_alludes_to_E_Anemone_Metaphor_FlowerLanguage|花言葉象徴の黒いアネモネ]]
+- [[A_ch5185_analogous_to_E_Garzs_Eyes_AugmentedHumanity|祖先視線統合の身体拡張]]
+- [[A_ch5185_inverts_E_Garzs_Monologue_CruelTruthTrope|残酷な真実の認識論解体]]
+- [[A_ch5185_structurally_matches_E_Garzs_Logic_PhilosophicalZombie|哲学的ゾンビ論理による主体性の否定と客体化]]
+
+### 第5186話
+
+- [[A_ch5186_analogous_to_E_p141_Chat_Interface|チャットUI型立体投影]]
+- [[A_ch5186_analogous_to_E_p186_Party_Formation|パーティ編成バフの呪力上昇]]
+- [[A_ch5186_analogous_to_E_p3-p5_CharacterCreation_RPG|キャラ作成プロセスの模倣]]
+- [[A_ch5186_analogous_to_E_p64_AR_Filter|ARフィルター的なミーム可視化]]
+- [[A_ch5186_parodies_E_p131_Gaming_Trolling|ゲーマー煽り文化のパロディ]]
+- [[A_ch5186_parodies_E_p21_Bullying_School|模倣生物へのいじめ的罵倒]]
+- [[A_ch5186_structurally_matches_E_p59_School_System_Magic|魔法学校制度の構造対応]]
+
+### 第5187話
+
+- [[A_ch5187_alludes_to_E_ch5187_黒百合の子供たち_other_大陸共通語_p3_barrier_free_communication_devices|代替通信機器としての筆談]]
+- [[A_ch5187_alludes_to_E_ch5187_黒百合の子供たち_other_大陸共通語_p3_historical_rewriting_by_victors|勝者による歴史改変の暗喩]]
+- [[A_ch5187_analogous_to_E_ch5187_黒百合の子供たち_other_大陸共通語_p3_modern_telecommunication_infrastructure|通信インフラ的な言語統一批判]]
+- [[A_ch5187_foreshadows_E_ch5187_黒百合の子供たち_other_大陸共通語_p3_ai_consciousness_paradox|AI意識パラドクスへの伏線]]
+- [[A_ch5187_inverts_E_ch5187_黒百合の子供たち_other_大陸共通語_p3_genetic_engineering_ethics|遺伝子編集倫理の逆転描写]]
+- [[A_ch5187_parodies_E_ch5187_黒百合の子供たち_other_大陸共通語_p3_god_of_language_invention|人工言語限界のパロディ]]
+- [[A_ch5187_structurally_matches_E_ch5187_黒百合の子供たち_other_大陸共通語_p3_engineering_vs_bricolage_theory|エンジニアリング対ブリコラージュの構造対応]]
 
 ### 第5188話
 
+- [[A_ch5188_alludes_to_E_ch5188_サリア_remembers_アズーリアとの死闘_p61_loopy_genre_trope|ループものジャンルのメタ言及]]
 - [[A_ch5188_alludes_to_E_ch5188_ミルーニャ_threatens_ハルベルト_p240_安楽死および強制的な医療介入の倫理|医療介入の倫理への暴力強制]]
+- [[A_ch5188_analogous_to_E_ch5188_サリア_conceals_精神の侵食_p18_self_identity_maintenance_in_loops|ループ内自我維持の脆さ]]
 - [[A_ch5188_analogous_to_E_ch5188_サリア_fears_個我の喪失_p18_自己保全論と利他的行動の葛藤|力行使に伴う個我喪失の恐怖]]
-- [[A_ch5188_analogous_to_E_ch5188_マロゾロンド_confesses_古き神の目的_p176_植民地支配と現地利用者の搾取構造|霊長類を端末とする植民地支配]]
+- [[A_ch5188_analogous_to_E_ch5188_マロゾロンド_reveals_アズーリアの役割_p184_ar_vr_avatar_control|アバター遠隔操作との類似]]
+- [[A_ch5188_analogous_to_E_ch5188_ミルーニャ_threatens_ハルベルト_p240_hostage_negotiation|相互死を賭けた人質交渉]]
+- [[A_ch5188_analogous_to_E_ch5188_白黒兎_functions_as_回復支援_p34_mobile_game_healer_pet|条件付き自動回復ペット]]
+- [[A_ch5188_inverts_E_ch5188_サリア_says_無神論の宣告_p218_atheism_vs_fantasy_gods|観測者による無神論的消去]]
 - [[A_ch5188_inverts_E_ch5188_ミルーニャ_confesses_アズーリアへの想い_p260_功利主義に対する絶対的愛カント的義務論|世界犠牲厭わぬ絶対的爱義務論]]
 - [[A_ch5188_parodies_E_ch5188_サリア_other_神の存在_p218_無神論と科学的世界観による宗教的権威への対抗|無神論宣言による権威否定の逆説]]
+- [[A_ch5188_structurally_matches_E_ch5188_マロゾロンド_defines_夜の民_p208_colonial_subjectification|植民地支配の構造対応]]
 - [[A_ch5188_structurally_matches_E_ch5188_ミルーニャ_other_自殺の黒槍_p236_身代金としての身体切断自己犠牲|武器取得の対価としての爪剥ぎ]]
+
+### 第5189話
+
+- [[A_ch5189_alludes_to_E_ch5189_兎_says_おやめなさい_p2_Alice_in_Wonderland_Cheshire_Cat|論理超越者チェシャ猫の暗喩]]
+- [[A_ch5189_inverts_E_ch5189_兎_says_おやめなさい_p2_Pax_Lingua_Mechanism|言語秩序機構の逆転]]
+- [[A_ch5189_parodies_E_ch5189_兎_says_おやめなさい_p2_Fairy_Tale_Narrator_Intervention|語り手のメタ介入パロディ]]
+- [[A_ch5189_structurally_matches_E_ch5189_兎_says_おやめなさい_p2_Biblical_Eve_Apple|知恵の実摂取プロット対応]]
+
+### 第5190話
+
+- [[A_ch5190_analogous_to_E_ch5190_アストラル体_transforms_アバター_p8_vtuber_avatars|バーチャルアバター類似]]
+- [[A_ch5190_analogous_to_E_ch5190_ハルベルト_other_参加拒否理由_p89_online_lurking|ROM行為への疎外感]]
+- [[A_ch5190_analogous_to_E_ch5190_ハルベルト_other_来歴語りと手紙_p203_email_correspondence|メール通信の直結]]
+- [[A_ch5190_analogous_to_E_ch5190_存在強度強化計画_defines_外側からの視点_p196_narrative_therapy|ナラティブ・セラピー原理]]
+- [[A_ch5190_analogous_to_E_ch5190_道具屋_threatens_リールエルバ_p21_spam_messages|スパム行為の翻訳]]
+- [[A_ch5190_parodies_E_ch5190_ハルベルト_activates_記憶封印解除_p177_data_recovery|データ復旧・解凍パロディ]]
+- [[A_ch5190_parodies_E_ch5190_談話室_is_located_仮想アストラル空間_p2_discord_vc_channels|常時接続VCサーバー模倣]]
+
+### 第5192話
+
+- [[A_ch5192_alludes_to_E_ch5192_エル・ア・フィリス_defines_言理の妖精_p417_metanarrator_device|メタ語り手への自己定義]]
+- [[A_ch5192_analogous_to_E_ch5192_マリー_says_授業からの逃亡_p124_labor_exploitation|報酬による労働搾取の崩壊]]
+- [[A_ch5192_inverts_E_ch5192_リーナ_thinks_居場所の不在_p110_impostor_syndrome|家におけるインポスター症候群]]
+- [[A_ch5192_parodies_E_ch5192_リーナ_says_哲学への拒絶_p11_philosophy_qualia_problem|クオリア問題のテツガク拒絶]]
+- [[A_ch5192_parodies_E_ch5192_黒百合宮_has_property_時間巻き戻し機能_p31_video_game_save_load|悪戯のセーブ＆ロード化]]
+- [[A_ch5192_structurally_matches_E_ch5192_クロウサー家_has_property_血統の呪い_p382_arranged_marriage_politics|呪術的政略結婚構造]]
+
+### 第5195話
+
+- [[A_ch5195_alludes_to_E_5195_p234_Time_Travel_Paradox|起源逆流の時間パラドックス]]
+- [[A_ch5195_analogous_to_E_5195_p168_Name_Identity_Power|宣名によるアイデンティティ確立]]
+- [[A_ch5195_analogous_to_E_5195_p90_AI_Sentience_Debate|知能無き機械の群れとしてのAI論争]]
+- [[A_ch5195_parodies_E_5195_p213_Computer_Parsing|呪文への構文解析実装]]
+- [[A_ch5195_parodies_E_5195_p26_Simulation_Hypothesis|シミュレーション的恐怖]]
+- [[A_ch5195_structurally_matches_E_5195_p191_Social_Contract|誓言追放の社会契約制裁]]
+
+### 第5196話
+
+- [[A_ch5196_alludes_to_E_p125_言語による世界定義|真名支配の命名の力]]
+- [[A_ch5196_analogous_to_E_p13-p23_手袋による能力制御の欠如|手袋喪失による能力暴走]]
+- [[A_ch5196_analogous_to_E_p167-p171_いじめの構造|権力不在によるいじめ構造]]
+- [[A_ch5196_parodies_E_p54-p63_心理操作による精神支配|過去再解釈のガスライティング]]
+- [[A_ch5196_structurally_matches_E_p215-p225_分散保存によるリスクヘッジ|記憶分割による分散保存]]
+- [[A_ch5196_sublates_E_p79-p82_意味の書き換えによる世界改変|意味の書き換えによる改変]]
+
+### 第5198話
+
+- [[A_ch5198_alludes_to_E_5198_P326_Akira_Kaneda|AKIRA金田へのメタ引用]]
+- [[A_ch5198_analogous_to_E_5198_P253_Auto_Clicker_Gacha|自動クリック・ガチャ的処理]]
+- [[A_ch5198_parodies_E_5198_P296_Japanese_Language_Meme|言語神格化への現実侵食]]
+- [[A_ch5198_parodies_E_5198_P306_TikTok_Short_Video|動画プラットフォームでの武術学習]]
+
+### 第5201話
+
+- [[A_ch5201_alludes_to_E_ch5201_アキラ_remembers_ドルネスタンルフの絵本_p88_cosmological_myths_of_primordial_gods|原初の神話的円環への宇宙権力暗喩]]
+- [[A_ch5201_analogous_to_E_ch5201_リールエルバ_is_made_of_クローントリシル＝リールエルバ_p211_genetic_ethics_and_cloning_controversies|クローン倫理課題と人工吸血鬼の存在]]
+- [[A_ch5201_inverts_E_ch5201_セリアック＝ニア_says_アキラの中のフィリスも使徒である_p161_ship_of_theseus_paradox_and_identity_politics|テセウスの船逆説と異物同化論理]]
+- [[A_ch5201_parodies_E_ch5201_セリアック＝ニア_other_刺客襲撃と人数維持の理由_p106_administrative_procedures_and_bureaucracy|官僚的手続主義による人命軽視正当化]]
+- [[A_ch5201_parodies_E_ch5201_リールエルバ_has_property_強い承認欲求と存在維持の危うさ_p201_social_media_validation_and_performativity_of_existence|SNS承認欲求による存在脆弱性体現]]
+- [[A_ch5201_structurally_matches_E_ch5201_転移門_is_located_軍事利用の教訓に基づく隔離_p55_nuclear_nonproliferation_and_dual_use_technology_regulation|核不拡散と輸出管理に準ずる技術規制]]
+
+### 第5202話
+
+- [[A_ch5202_analogous_to_E_ch5202_守護の九槍第五位_other_浄界_p176_ME_Pipe_Organ_Concert|パイプオルガン権威としての浄界支配]]
+- [[A_ch5202_analogous_to_E_ch5202_映像投影鏡_functions_as_中央祭壇の大写し_p5_ME_Multiview_Screen|マルチビュー配信を模した積層投影鏡]]
+- [[A_ch5202_analogous_to_E_ch5202_神働装甲_functions_as_カラス型と人型の二形態変形_p218_ME_Transforming_Vehicle_Toy|変形玩具メカニクスを模倣した装甲]]
+- [[A_ch5202_analogous_to_E_ch5202_葬送式典_defines_地上全土への配信_p6_ME_Sports_Event_Circus|スポーツ曲芸化された宗教的儀式]]
+- [[A_ch5202_analogous_to_E_ch5202_葬送式典_defines_地上全土への配信_p6_ME_Super_Bowl_Advertising|スーパーボウル広告的な葬送中継]]
+- [[A_ch5202_analogous_to_E_ch5202_金鎖細胞_has_property_分散型通信機能_p239_ME_Distributed_Network|分散コンピューティング的通信網メタファー]]
+
+### 第5204話
+
+- [[A_ch5204_alludes_to_E_cyrus_mass_manipulation_physics_simulation_engine|物理演算エンジンによる質量操作暗喩]]
+- [[A_ch5204_analogous_to_E_live_performance_smartphone_game_livestream|スマホゲーム配信と投票分岐の構造]]
+- [[A_ch5204_inverts_E_cyrus_anti_beast_social_class_privilege|社会階級特権による異獣排斥の逆転]]
+- [[A_ch5204_parodies_E_kiron_narrative_media_framing_manipulation|メディア操作による敗北演出]]
+- [[A_ch5204_structurally_matches_E_cyber_karate_dojo_dungeon_crawl_genre|迷宮攻略の政治経済風刺]]
+
+### 第5206話
+
+- [[A_ch5206_parodies_E_p8,p15,p19,p26_Happy_Birthday_Song_and_Celebration_Marketing|誕生日ソングの不条理]]
+
+### 第5209話
+
+- [[A_ch5209_alludes_to_E_p59_world_end_simulation_theory|シミュレーション仮説の示唆]]
+- [[A_ch5209_analogous_to_E_p180_cannibalism_nano_medical_repair|食肉再生のナノ医療SF]]
+- [[A_ch5209_analogous_to_E_p8_info_share_open_source_software|攻略情報のオープンソース化]]
+- [[A_ch5209_analogous_to_E_p93_drone_strike_military_drone_warfare|ドローン非対称戦の想起]]
+- [[A_ch5209_inverts_E_p32_bee_suicide_anti_access_area_denial|マルウェア的アクセス制御侵害]]
+- [[A_ch5209_parodies_E_p14_bounty_gig_economy_platform|ギグエコノミー型賞金狩り]]
+- [[A_ch5209_structurally_matches_E_p77_saicaktart_quantum_zeno_effect|量子ゼノ効果的因果書き換え]]
+
+### 第5211話
+
+- [[A_ch5211_alludes_to_E_{サジェリミーナの錬金術}_{ヘルメス・トリスメギストスの創生の闇コロニュービア}|錬金術の黒化現象への暗喩]]
+- [[A_ch5211_alludes_to_E_サジェリミーナの錬金術_ヘルメス・トリスメギストスの創生の闇コロニュービア|創生の闇への言及]]
+- [[A_ch5211_structurally_matches_E_{サジェリミーナの名前と性質}_{錬金術の象徴体系水銀／メルクリウス}|水銀元素を体現するキャラ造形]]
+- [[A_ch5211_structurally_matches_E_サジェリミーナの名前と性質_錬金術の象徴体系水銀／メルクリウス|三重の水銀を体現する名付け]]
+
+### 第5212話
+
+- [[A_ch5212_alludes_to_E_p129_propaganda_and_hypnosis|深層心話のプロパガンダ化]]
+- [[A_ch5212_analogous_to_E_p211_modular_gaming_armor|知育玩具的な可変ブロック装甲]]
+- [[A_ch5212_analogous_to_E_p80_social_media_viral_spread|SNSトレンド化への呪文拡散]]
+- [[A_ch5212_parodies_E_p78_tabloid_headlines|週刊誌見出し風のパロディ生成]]
+- [[A_ch5212_structurally_matches_E_p49_conformity_pressure|組織内の同調圧力による麻痺]]
+
+### 第5213話
+
+- [[A_ch5213_analogous_to_E_p179_cosmic_horror_indifference|認知超えの宇宙恐怖的不可知性]]
+- [[A_ch5213_analogous_to_E_p201_game_character_interchangeability|キャラ交換を示すメタ言明]]
+- [[A_ch5213_analogous_to_E_p247_parallel_processing_multithreading|四つ脚分離のマルチスレッド処理]]
+- [[A_ch5213_analogous_to_E_p316_meme_propagation_viral|ミームバイラル拡散の攻撃化]]
+- [[A_ch5213_analogous_to_E_p318_social_media_troll_abuse|誹謗中傷による精神的圧迫殺害]]
+- [[A_ch5213_analogous_to_E_p355_illusionist_magician|作品タイトルへの自己言及ミラー構造]]
+- [[A_ch5213_analogous_to_E_p401_sunk_cost_and_justification|サンクコストの呪縛と正当化]]
+
+### 第5215話
+
+- [[A_ch5215_alludes_to_E_天眼の民の変身_epigenetics_atavism|祖先遺伝による魔術的継承]]
+- [[A_ch5215_analogous_to_E_シャルマキヒュの凍視_quantum_zeno_effect|量子ゼノ効果による混沌支配]]
+- [[A_ch5215_analogous_to_E_ピッチャールーの自動対抗_missile_defense_system|ミサイル防衛型の自律対抗]]
+- [[A_ch5215_analogous_to_E_新たな死人の感染上書き_virus_variant_replacement|ウイルス変異株による宿主置換]]
+- [[A_ch5215_analogous_to_E_生命吸収と記憶喪失_data_deletion_corruption|データ破損を模した記憶消失]]
+
+### 第5216話
+
+- [[A_ch5216_alludes_to_E_ch5216_プロトプラズマ_transforms_癌細胞_p320323_cancer_metaphor|浄界侵食の癌増殖メタファー]]
+- [[A_ch5216_analogous_to_E_ch5216_リーナ_other_差別発言_p1532_racism_and_hybridity|翼耳欠如への純血主義差別]]
+- [[A_ch5216_analogous_to_E_ch5216_リーナ_other_炎上_p3_social_media_cancellation|薬物制裁のSNS炎上構造]]
+- [[A_ch5216_analogous_to_E_ch5216_リーナ_says_恐怖と叫び_p157_game_difficulty_rage|高難度敵へのゲーム激怒表現]]
+- [[A_ch5216_structurally_matches_E_ch5216_箒_transforms_巨大な白いカラス_p230236_transformation_sequence|箒から白鳥への生物変身構造]]
+
+### 第5218話
+
+- [[A_ch5218_alludes_to_E_p168_Halberd_Etymology|斧槍語源を反映した武器命名]]
+- [[A_ch5218_alludes_to_E_p203_Gutenberg_Galaxy|グーテンベルク銀河の魔導書化]]
+- [[A_ch5218_alludes_to_E_p56_Lévi-Strauss_Bricolage|ブリコラージュ的記号解釈論]]
+- [[A_ch5218_analogous_to_E_p191_Inkjet_Printing|血液飛沫のインクジェット印刷]]
+- [[A_ch5218_analogous_to_E_p255_Mind_Control_Propaganda|歌によるマインドコントロール]]
+- [[A_ch5218_analogous_to_E_p26_Deconstructionism|意味の遅延を擬人化した妖精]]
+- [[A_ch5218_inverts_E_p139_Typical_Isekai_Cheat|不死性のパターン列挙による逆転]]
+- [[A_ch5218_parodies_E_p12_Library_of_Babel|バベルの図書館を秩序維持機構へ転換]]
+- [[A_ch5218_parodies_E_p245_SNS_Mob_Harassment|SNS衆人環視型炎上の幻想再現]]
+- [[A_ch5218_structurally_matches_E_p105_Derrida_Differance|デリダ差延論の機械的装置化]]
+
+### 第5219話
+
+- [[A_ch5219_analogous_to_E_ch5219_サイバーカラテ_defines_万能の武術_p42_augmented_reality_game_martial_art|ARグラス越し格闘戦術シミュレーション]]
+- [[A_ch5219_analogous_to_E_ch5219_サイバーカラテ_other_呪的発勁_p308_user_rating_system_app_store|アプリストア評価による効果増幅構造]]
+- [[A_ch5219_analogous_to_E_ch5219_サイバーカラテ_other_認識の獲得_p75_viral_marketing_influencer|インフルエンサー拡散型バイラルマーケ]]
+- [[A_ch5219_analogous_to_E_ch5219_ミルーニャ_activates_命脈の呪石_p15_smartphone_app_unlock_biometric_auth|指アンロックによる生体認証起動]]
+- [[A_ch5219_analogous_to_E_ch5219_異界の黙示録_functions_as_音無き呪文の伝播_p30_gutenberg_galaxy_meme_theory|グーテンベルクギャラクシー的ミーム拡散]]
+- [[A_ch5219_inverts_E_ch5219_青年_transforms_狂躁_p206_brainwashing_deprogramming|洗脳解除を狂気増幅へ逆転させる支配]]
+- [[A_ch5219_structurally_matches_E_ch5219_サイバーカラテ道場_defines_形の無い本部_p87_decentralized_organization_dao|DAO型分散組織の道場運営モデル]]
+
+### 第5220話
+
+- [[A_ch5220_alludes_to_E_ch5220_アキラ_says_パルプフィクション_p308_PulpMagazine大衆雑誌|パルプ紙小説を魔将への毒とする暗喩]]
+- [[A_ch5220_alludes_to_E_ch5220_プリエステラ_defeats_ベフォニス_p172_植民地支配の逆転被支配者の抵抗|権力構造相対化と逆転戦術]]
+- [[A_ch5220_analogous_to_E_ch5220_アキラ_makes_ブリコラージュ_p19_レヴィ=ストロースの野生の思考|野生の思考に基づく呪文ブリコラージュ]]
+- [[A_ch5220_analogous_to_E_ch5220_アキラ_says_パルプフィクション_p308_メタフィクション物語内の物語|紙片によるメタフィクショナル殺害]]
+- [[A_ch5220_analogous_to_E_ch5220_フィリス_has_property_非実体として強大_p10_ソフトウェアのUI／インターフェース|宿主依存のソフトウェア的言理構造]]
+- [[A_ch5220_analogous_to_E_ch5220_プリエステラ_has_property_樹木系種族_p186_時間圧縮と生物学的寿命|樹木タイムスケールでの老化再解釈]]
+- [[A_ch5220_analogous_to_E_ch5220_歌姫_has_property_格の差_p30_現代アイドルのライブ経済圏|アイドルライブ型の呪力循環]]
+- [[A_ch5220_structurally_matches_E_ch5220_ナト_gives_神働装甲二型_p253_カスタムメイドの工業製品受注生産|現場を模倣した特注開発]]
+
+### 第5221話
+
+- [[A_ch5221_analogous_to_E_ch5221_アキラとメイファーラ_bonds_精神感応の力_p14_cloud_collaboration|クラウド協働への精神感応]]
+- [[A_ch5221_analogous_to_E_ch5221_クエスドレム_takes_四十枚一組のカード型端末_p116_trading_card_game|トレーディングカード型の使い魔召喚]]
+- [[A_ch5221_analogous_to_E_ch5221_ナト_says_僕たちは夢_p51_simulation_theory|シミュレーション仮説的な自我認識]]
+- [[A_ch5221_analogous_to_E_ch5221_リールエルバ_has_property_性的衝動の変換_p204_freud_libido_theory|リビドー理論的な欲求変換]]
+- [[A_ch5221_analogous_to_E_ch5221_リールエルバ_has_property_承認による力_p199_influencer_economy|インフルエンサー経済的な権力構造]]
+- [[A_ch5221_analogous_to_E_ch5221_リールエルバ_promises_精神融解ドラッグ_p188_social_media_reward_system|承認欲求報酬系としての薬物]]
+
+### 第5222話
+
+- [[A_ch5222_alludes_to_E_p281_semantics_signifier|構造主義的意味生成の暗喩]]
+- [[A_ch5222_alludes_to_E_p47_structural_linguistics|構造言語学的呪術システム]]
+- [[A_ch5222_alludes_to_E_p64_speech_phonetics|音声学に基づく言葉の武器化]]
+- [[A_ch5222_analogous_to_E_p135_battle_dungeon_raiding|レイドボス戦的な法則改変]]
+- [[A_ch5222_analogous_to_E_p38_sacrifice_mechanic|自傷による能力解放のメタ化]]
+- [[A_ch5222_inverts_E_p267_philosophical_zombie|哲学的ゾンビの逆説的自己定義]]
+
+### 第5223話
+
+- [[A_ch5223_inverts_E_ch5223_光_travels_マリー歴史_p2_ethics_utilitarianism_vs_deontology|功利主義と感情の対立]]
+- [[A_ch5223_parodies_E_ch5223_光_travels_マリー歴史_p2_isekai_cheat_knowledge_over_experience|チート知識のクオリア欠如]]
+- [[A_ch5223_structurally_matches_E_ch5223_光_travels_マリー歴史_p2_fractal_geometry_sierpinski_carpet|セルピンスキー構造の世界槍]]
+
+### 第5224話
+
+- [[A_ch5224_alludes_to_E_ch5224_カイン_says_沼女現象_p4143_swampman_thought_experiment|スワンプマン実験の引用]]
+- [[A_ch5224_alludes_to_E_ch5224_フィリス_transforms_世界の色調_p487493_augmented_reality_app|ARアプリへの知覚改変]]
+- [[A_ch5224_alludes_to_E_ch5224_私_other_二重の真理_p495507_wave_particle_duality|波と粒子の二重性による重ね合わせ]]
+- [[A_ch5224_analogous_to_E_ch5224_クナータ_uses_神働術_p1318_quantum_zeno_paradox|量子ゼノパラドクス的な死の遡及確定]]
+- [[A_ch5224_analogous_to_E_ch5224_マリー_other_唯物論的世界観_p310322350357_physicalism_reductionism|フィジカリズム・還元主義の体現]]
+- [[A_ch5224_analogous_to_E_ch5224_ヲルヲーラ_says_多世界連合の支配_p98100_simulism_multiverse_theory|数学的構造実在論の模倣]]
+- [[A_ch5224_analogous_to_E_ch5224_私_other_アストラル体の定義_p331348378392_hard_problem_of_consciousness|意識の難問への物語的解決試み]]
+
+### 第5225話
+
+- [[A_ch5225_alludes_to_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_myth_of_orpheus|オルフェウス神話に基づく御霊送り]]
+- [[A_ch5225_analogous_to_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_collaborative_knowledge_management|協調的知識管理による呪文最適化]]
+- [[A_ch5225_analogous_to_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_gacha_game_mechanics|ガチャ確率操作の世界法則実装]]
+- [[A_ch5225_analogous_to_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_open_source_software_movement|オープンソース運動と秘匿主義の対立]]
+- [[A_ch5225_parodies_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_dungeons_and_dragons_cliche|TRPG的殺戮の義務のパロディ]]
+- [[A_ch5225_structurally_matches_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_narrative_deconstruction_and_reconstruction|記号論的脱構築による世界観変革]]
+
+### 第5226話
+
+- [[A_ch5226_alludes_to_E_十九魔将とトライデント細胞_Biblical_Apocalypse_beasts|黙示録の獣へのなぞらえ]]
+- [[A_ch5226_alludes_to_E_火刑による魔女の裁き_Historical_Witch_Trials,|魔女異端審問構図による権威逆転]]
+- [[A_ch5226_analogous_to_E_エーラマーンによる情報操作_Fake_news_disinformation|フェイクニュース的現実改変]]
+- [[A_ch5226_analogous_to_E_ユネクティアの生存と増殖_Meme_viral_spread|ミーム拡散による不死]]
+- [[A_ch5226_parodies_E_食用奉仕種族の救済_Colonial_Education_assimilation|同化教育による救済と暴力の不可分]]
+- [[A_ch5226_structurally_matches_E_テッシトゥーラの左耳の空席_Paired_Mechanic_Twin,|左右非対称なペア補完メカニクス]]
+
+### 第5227話
+
+- [[A_ch5227_analogous_to_E_ch5227_クエスドレム_names_呪術商人_p2_merchant_of_magic|魔法売買を行うギルド商人]]
+- [[A_ch5227_analogous_to_E_ch5227_サイバーカラテ_functions_as_自己改良・最適化体系_p185_machine_learning|機械学習としての戦闘自己最適化]]
+- [[A_ch5227_analogous_to_E_ch5227_センジュ_other_デザイナーズチャイルドの出自_p118_designer_baby_ethics|デザイナーベビー倫理のSF的メタファー]]
+- [[A_ch5227_analogous_to_E_ch5227_センジュ_says_システム起動の呪文_p58_game_system_ui|ゲーム的UIとしての異世界転生仕様]]
+- [[A_ch5227_analogous_to_E_ch5227_小さな子供_appears_戦場_p21_deus_ex_machina|機械仕掛けの神としての都合良い出現]]
+- [[A_ch5227_analogous_to_E_ch5227_幾断刀_other_センジュへの罵倒_p69_talking_weapon|意思を持つ刀とRPG相棒のクリシェ]]
+- [[A_ch5227_analogous_to_E_ch5227_探索者集団_defeats_朱色の貨幣の呪術_p6_capitalism_as_magic|資本主義ミームを魔法とする世界観]]
+- [[A_ch5227_analogous_to_E_ch5227_男守護の九槍第七位_defines_人間の本性_p265_algorithmic_bias|アルゴリズム的偏見としての差別公式]]
+- [[A_ch5227_analogous_to_E_ch5227_男守護の九槍第七位_names_レイシズム変数ヴァリアブル_p259_in_group_out_group_bias|内外集団バイアスの変数代入呪術]]
+- [[A_ch5227_structurally_matches_E_ch5227_彼_thinks_窮地の追加_p16_narrative_director|演出家としての視点による物語設計]]
+
+### 第5229話
+
+- [[A_ch5229_alludes_to_E_p5-p8_wuxia_sect|武侠門派を連想させる奉竜山の記述]]
+- [[A_ch5229_analogous_to_E_p240-p245_corporate_structure|企業組織構造としての神経系支配]]
+- [[A_ch5229_analogous_to_E_p3-p4_game_achievements|実績解除回避による結末の喪失象徴]]
+- [[A_ch5229_parodies_E_p196-p205_hyperlink_web|ハイパーリンク移動としての扉移動]]
+
+### 第5231話
+
+- [[A_ch5231_alludes_to_E_5231_Company_Organized_Crime_Yakuza|ヤクザ組織に酷似した公社の起源]]
+- [[A_ch5231_alludes_to_E_5231_Gallon_Folklore_Werewolf|人狼伝承の不死狼による生死矛盾]]
+- [[A_ch5231_alludes_to_E_5231_MonsterGirl_Biological_Parasite|人面疽の模倣する呪術的寄生装置]]
+- [[A_ch5231_alludes_to_E_5231_MonsterGirl_Biology_Vagina_Dentata|牙陰の未知空間への侵食としての切断]]
+- [[A_ch5231_alludes_to_E_5231_MonsterGirl_Fantasy_Elf|メタフィクショナルエルフの記号的実体化]]
+- [[A_ch5231_alludes_to_E_5231_MonsterGirl_Literature_FairyTale|童話的禁破りの約束違反と警告]]
+- [[A_ch5231_alludes_to_E_5231_Queen_History_Medieval_Queen_Rule|中世絶対王政的支配の恐怖と恩恵]]
+- [[A_ch5231_alludes_to_E_5231_Sumou_RealWorld_Sumoy|相撲様式の模倣としての戦闘スタイル]]
+
+### 第5232話
+
+- [[A_ch5232_alludes_to_E_p156_Familiar_Mage_Trope|使い魔の定石の自己意識的引用]]
+- [[A_ch5232_alludes_to_E_p32-p36_Metaphysical_Agates|天眼石の魔除けとしての気流路機能]]
+- [[A_ch5232_analogous_to_E_p107-p113_Fitness_App_Data_Economy|フィットネスアプリのデータ提供構造]]
+- [[A_ch5232_analogous_to_E_p20-p21_AR_game_companion_app|ARサポートUIの戦術サジェスト機能]]
+- [[A_ch5232_inverts_E_p128-p130_Traditional_Martial_Arts_Culture|伝統武道文化の緊迫性排除と娯楽化]]
+- [[A_ch5232_parodies_E_p80_Monster_Hunt_Rank_Icons|アクションゲームUI演出のパロディ的再現]]
+- [[A_ch5232_structurally_matches_E_p181_Sports_Arena_Advertising|競技場広告の動的表示による観客誘導]]
+
+### 第5233話
+
+- [[A_ch5233_alludes_to_E_p98_mongolian_deel_and_nomadic_culture|モンゴル服デールへの文化的参照]]
+- [[A_ch5233_inverts_E_p227_labor_standards_and_black_corporate_culture|魔法社会へのブラック企業批判逆転]]
+- [[A_ch5233_parodies_E_p11_cyberpunk_workforce_exploitation|呪術による身体改変と労働搾取パロディ]]
+- [[A_ch5233_structurally_matches_E_p106_e-sports_and_proxied_warfare|ドローン戦争とeスポーツ代理戦争構造対応]]
+
+### 第5234話
+
+- [[A_ch5234_alludes_to_E_ch5234_ラズリ・ジャッフハリム_names_ラズリ・ジャッフハリム_p4_colonial_legitimacy|新王国建国と植民地正統性継承の暗喩]]
+- [[A_ch5234_analogous_to_E_ch5234_ラズリ・ジャッフハリム_names_ラズリ・ジャッフハリム_p4_national_recognition_politics|吸血鬼承認と国家正規化のプロセス類似]]
+- [[A_ch5234_analogous_to_E_ch5234_ラズリ・ジャッフハリム_names_ラズリ・ジャッフハリム_p4_qualification_systems|語学検定階層模倣の資格制度構築]]
+- [[A_ch5234_inverts_E_ch5234_ラズリ・ジャッフハリム_names_ラズリ・ジャッフハリム_p4_master_pet_dynamic_inversion|足愛撫による主従逆転と親密さ独占]]
+- [[A_ch5234_parodies_E_ch5234_ラズリ・ジャッフハリム_names_ラズリ・ジャッフハリム_p4_dog_food_marketing|高級ペットフード広告の言説パロディ]]
+
+### 第5235話
+
+- [[A_ch5235_alludes_to_E_5235_P326_damocles_sword|ダモクレスの剣による権力脆さの暗喩]]
+- [[A_ch5235_analogous_to_E_5235_P122_freeter_culture|フリーター文化の境界溶解]]
+- [[A_ch5235_analogous_to_E_5235_P14_age_calculation_logic|転生パラメータによる年齢計算ロジック]]
+- [[A_ch5235_analogous_to_E_5235_P218_master_apprentice_trope|旧倫理解放を示す師弟関係のトロップ]]
+- [[A_ch5235_analogous_to_E_5235_P343_spear_vs_sword_symbolism|秩序と裁きの象徴としての槍剣定義]]
+- [[A_ch5235_analogous_to_E_5235_P35_fashion_model_profession|異世界へのファッション論理浸透]]
+- [[A_ch5235_analogous_to_E_5235_P40_gun_safety_device|上位許可依存の暴力独占と規制構造]]
+- [[A_ch5235_analogous_to_E_5235_P71_cultural_industrial_complex|呪力生産管理における文化産業搾取]]
+
+### 第5236話
+
+- [[A_ch5236_alludes_to_E_p26_martial_artist_salesman_archetype|営業と称する他流試合の暴力皮肉]]
+- [[A_ch5236_alludes_to_E_p270_sword_of_damocles|ダモクレスの剣による殺意顕現]]
+- [[A_ch5236_alludes_to_E_p319_lizard_tail_dropping|トカゲ自切を模した逃走]]
+- [[A_ch5236_alludes_to_E_p378_lolita_complex|ロリータコンプレックスの自虐]]
+- [[A_ch5236_analogous_to_E_p196_fluid_computing_analogy|流体計算への置換]]
+- [[A_ch5236_parodies_E_p107_finger_missiles_game_feature|指ミサイルのUI演出パロディ]]
+
+### 第5237話
+
+- [[A_ch5237_alludes_to_E_ch5237_ダモクレスの剣_appears_刺客選定の指針_p378_ME_damocles_sword_myth|ダモクレスの剣による選定]]
+- [[A_ch5237_analogous_to_E_ch5237_トリシューラ_conceals_個人の特定_p141_ME_anonymized_gameplay|匿名化マルチプレイの構造]]
+- [[A_ch5237_analogous_to_E_ch5237_メガコーポ_suspects_探索者集団の背後_p47_ME_corporate_exploration_metaphor|企業依存冒険者のメタファー]]
+- [[A_ch5237_analogous_to_E_ch5237_文化的営為_functions_as_呪力の発生源_p10_ME_cultural_production_power|文化消費の動力化]]
+- [[A_ch5237_analogous_to_E_ch5237_日本語暗号化システム_has_property_文脈依存の意味変化_p168_ME_context_dependent_language|文脈依存言語の暗号化]]
+- [[A_ch5237_analogous_to_E_ch5237_空間圧縮技術_enables_倉庫の廃止と地下・上層への建設_p26_ME_cloud_storage_compression|クラウドストレージの圧縮]]
+- [[A_ch5237_inverts_E_ch5237_アキラ_observes_転倒した光景_p103_ME_labor_inversion_dystopia|労働逆転 dystopia]]
+- [[A_ch5237_parodies_E_ch5237_プロゲーマー_appears_as_特別文化振興員公務員_p113_ME_esports_government_recognition|eスポーツ公務員の風刺]]
+- [[A_ch5237_structurally_matches_E_ch5237_ガロアンディアン_defines_王国の形をした祭壇_p21_ME_platform_ecosystem|プラットフォームエコノミー模倣]]
+
+### 第5238話
+
+- [[A_ch5238_analogous_to_E_ch5238_人間家畜牧場_functions_as_家畜飼育施設_p105_industrial_livestock_farming|人間の家畜化工場]]
+- [[A_ch5238_analogous_to_E_ch5238_赤ん坊製造工場_functions_as_生産ライン_p108_mass_production_conveyor_belt|人間大量生産ライン]]
+- [[A_ch5238_inverts_E_ch5238_クレイ_saves_家畜の男女_p312_heroic_sacrifice_trope|英雄犠牲の逆転]]
+- [[A_ch5238_parodies_E_ch5238_ロドウィ_activates_肉体言語_p179_magic_system_verbal_component|呪文詠唱の身体化]]
+
+### 第5239話
+
+- [[A_ch5239_alludes_to_E_ch5239_クレイ_reveals_ダモクレスの剣の正体_p395_damocles_sword_metaphor|構造脆さの象徴]]
+- [[A_ch5239_analogous_to_E_ch5239_市場_other_神秘の零落_p223_inflation_of_magic_items|魔法アイテムインフレ]]
+- [[A_ch5239_inverts_E_ch5239_バル・ア・ムント_other_クレイ_p187_utilitarian_ethics_vs_virtue_ethics|功利德行倫理の対立]]
+- [[A_ch5239_parodies_E_ch5239_シナモリ・アキラ_fights_ロドウィ_p462_cyber_karate_as_a_service|演武による戦闘のメタ距離化]]
+- [[A_ch5239_structurally_matches_E_ch5239_トリシューラ_other_家畜_p18_livestock_management_in_industrial_farming|工業的家畜管理構造]]
+- [[A_ch5239_sublates_E_ch5239_トリシューラ_defines_心_p12_mind_as_software_hardware_linkage|トランスヒューマニズム的心身論]]
+
+### 第5240話
+
+- [[A_ch5240_alludes_to_E_ch5240_イェレイド_transforms_異形の本体_p12_クトゥルフ神話の不可視性・恐怖|クトゥルフ的ホラーの数値化]]
+- [[A_ch5240_alludes_to_E_ch5240_クレイ_fights_混沌の壁_p197_舞踊・パフォーマンスアートとしての戦闘|身体芸術としての戦闘]]
+- [[A_ch5240_analogous_to_E_ch5240_トリシューラ_bonds_アキラ_p345_ペットの所有権と愛着飼い主-被飼育者|ペット的支配関係]]
+- [[A_ch5240_analogous_to_E_ch5240_ロドウィ_activates_人造ホラー_p19_ネクロマンシーの演劇的解釈|操り人形としての死者]]
+- [[A_ch5240_inverts_E_ch5240_女性_other_クレイ_p362_母性による絶対的赦しと自立の誘導|母性権力による赦し逆転]]
+- [[A_ch5240_parodies_E_ch5240_アキラ_uses_賢刃_p61_人工知能搭載義肢と格闘ゲームの自動回避|AI義肢・自動回避機能]]
+- [[A_ch5240_parodies_E_ch5240_カル_uses_突撃小銃_p206_RPGのクラス制限と装備解放|RPG的武器適外ペナルティ]]
+
+### 第5241話
+
+- [[A_ch5241_alludes_to_E_p380_anarchist_individualism|個人主義無政府思想への共鳴]]
+- [[A_ch5241_analogous_to_E_p101_territorial_marking|テリトリーマーキングの心理的応用]]
+- [[A_ch5241_analogous_to_E_p309_desire_as_power_source|欲望源の呪力化と消費文化]]
+- [[A_ch5241_analogous_to_E_p54-p60_tsundere_comedy|ツンデレ・コメディ構造の模倣]]
+- [[A_ch5241_parodies_E_p187_spam_mail_ad|ワンクリック詐欺広告のパロディ]]
+- [[A_ch5241_parodies_E_p3-p15_android_romance_trope|機械と人間性境界のメタフィクション]]
+- [[A_ch5241_parodies_E_p327_cyberpunk_body_modification|身体改造過剰性のサイバーパンク風化]]
+- [[A_ch5241_structurally_matches_E_p286-p303_red_light_district_regulation|歓楽街管理政策との構造一致]]
+
+### 第5242話
+
+- [[A_ch5242_analogous_to_E_p134_cheap_illegal_drugs_addiction_crisis|安価な依存薬物と規制の対立]]
+- [[A_ch5242_analogous_to_E_p198_viral_content_memory_decay|コンテンツ消滅と記憶忘却のメタファー]]
+- [[A_ch5242_analogous_to_E_p209_commodity_fetishism_marx|紙幣信仰による力生成]]
+- [[A_ch5242_analogous_to_E_p268_jung_collective_unconscious|集合無意識の通信網化]]
+- [[A_ch5242_analogous_to_E_p80_military_robotization_and_special_forces|軍事自動化と超人兵強化]]
+- [[A_ch5242_analogous_to_E_{p134}_{cheap_illegal_drugs_addiction_crisis}|安価な薬物依存の社会侵食メタファー]]
+- [[A_ch5242_analogous_to_E_{p198}_{viral_content_memory_decay}|バズ文化とコンテンツ散逸の比喩]]
+- [[A_ch5242_analogous_to_E_{p209}_commodity_fetishism_marx|商品フェティシズムの力への転換]]
+- [[A_ch5242_analogous_to_E_{p268}_jung_collective_unconscious|集合無意識のアストラルネット化]]
+- [[A_ch5242_analogous_to_E_{p80}_{military_robotization_and_special_forces}|無人兵器普及に伴う兵士超人化]]
+
+### 第5244話
+
+- [[A_ch5244_alludes_to_E_p347_logic_of_mathematics|数学的論理による倫理限界突く]]
+- [[A_ch5244_alludes_to_E_p70_euthanasia_law|尊厳死法制化と嘱託殺人者像]]
+- [[A_ch5244_alludes_to_E_p76_personality_continuity_debate|人格連続性喪失の恐怖と医療倫理]]
+- [[A_ch5244_analogous_to_E_p134_archetypal_heroine|ヒロイン原型論的キャラクター消費]]
+- [[A_ch5244_analogous_to_E_p28-p31_rational_threat_detection|合理的脅威検知への感情抑制限界]]
+- [[A_ch5244_analogous_to_E_p408-p413_biological_control_system|生体管理による尊厳のパラドックス]]
+- [[A_ch5244_parodies_E_p190-p192_romance_narrative_structure|ラブコメの呪いとしての強制完結]]
+
+### 第5245話
+
+- [[A_ch5245_alludes_to_E_5245_Akira_Internal_Ki_Tai_Chi_Push_Hands|太極拳の推手に基づく受け流し]]
+- [[A_ch5245_alludes_to_E_5245_Styx_Spell_Greek_Mythology_Styx_River|ステュクスを模した浄界描写]]
+- [[A_ch5245_alludes_to_E_5245_Vik_Name_Dismaer_Wiktorija_Latin|ラテン語名と愛称の権力構造メタファー]]
+- [[A_ch5245_alludes_to_E_5245_Vik_Oath_Legal_Contract_Pact|物理法則超える契約の超越性]]
+- [[A_ch5245_alludes_to_E_5245_Vik_Phallus_Moon_Surrealist_Art_Dali_Melting_Watch|ダリの溶ける時計的シュルレアリスム]]
+- [[A_ch5245_analogous_to_E_5245_Zed_Gun_Desert_Eagle_Magnum_Arms|カテゴリ逸脱の巨大ハンドキャノン]]
+
+### 第5247話
+
+- [[A_ch5247_alludes_to_E_Mirunya_reading_book_Parody_of_Typical_Isekai_Protagonist|異世界での資格試験受験パロディ]]
+- [[A_ch5247_analogous_to_E_ch5247_第四衛星イルディアンサ_is_located_情報の海_p2_Internet_as_ocean_metaphor|ネットを海に見立てる空間具現化]]
+- [[A_ch5247_analogous_to_E_Trichula_in_prison_Damocles_Sword_Legend|ダモクレスの剣による破滅の象徴]]
+- [[A_ch5247_inverts_E_Nedrad_philosophy_Anti-Technology_Luddism|反技術主義による魔法技術の堕落論]]
+- [[A_ch5247_parodies_E_ch5247_第四衛星イルディアンサ_is_located_情報の海_p2_Data_Mining_and_Big_Data|知の身体化パロディとしての水泳化]]
+- [[A_ch5247_structurally_matches_E_Arete_manipulation_Marionette_Theater_Metaphor|マリオネット的人間観としての糸操作]]
+
+### 第5248話
+
+- [[A_ch5248_alludes_to_E_ryuuko_legend_snow_white_folklore|白雪姫・逆転神話的な悪役救済構造]]
+- [[A_ch5248_analogous_to_E_illness_system_overload|システム過負荷による体調悪化]]
+- [[A_ch5248_parodies_E_rpg_game_otome_games|乙女ゲーム構造の歴史改変実装]]
+
+### 第5249話
+
+- [[A_ch5249_alludes_to_E_ch5249_カニャッツォ_appears_as_ブルドッグ獣人_p169_プロレスラーブリティッシュブルドッグ等|レスラーの転身劇的な興行移籍]]
+- [[A_ch5249_analogous_to_E_ch5249_カーイン対策_functions_as_トップメタ_p133_格闘ゲームのメタゲーム|メタゲーム構造への類似]]
+- [[A_ch5249_analogous_to_E_ch5249_サイバーカラテユーザー_says_狩り場_p23_格闘技データ解析・スカウティング|スポーツデータ分析の転写]]
+- [[A_ch5249_analogous_to_E_ch5249_トーナメント_defines_名誉の戦い_p57_SNSにおけるいいね数・フォロワー数|SNS指標と自己価値の同型化]]
+- [[A_ch5249_analogous_to_E_ch5249_立体映像の掛け軸_appears_as_広告_p13_現代の健康食品・サプリメント広告|健康ビジネス誇大広告の風刺]]
+- [[A_ch5249_parodies_E_ch5249_行司シューラ_other_試合_p100_相撲の行司|SF的行司のパロディ化]]
+- [[A_ch5249_structurally_matches_E_ch5249_グラッフィアカーネ_defeats_カーイン_p267_合気道・柔術の円転の理|古武道「円転の理」のSF解釈]]
+
+### 第5250話
+
+- [[A_ch5250_alludes_to_E_ch5250_店員さん_other_再生者と牙猪の誤解_p153_greek_mythology_minotaur|ミノタウロス神話の暗喩]]
+- [[A_ch5250_alludes_to_E_ch5250_牙猪種_has_property_牙による自死の運命_p111_samurai_suicide_hara_kiri|牙による自死の武士的運命論]]
+- [[A_ch5250_analogous_to_E_ch5250_クレイ_attacks_カーインの髪と頬_p261_bureaucratic_intimidation|官僚的威圧としての言霊暴力]]
+- [[A_ch5250_analogous_to_E_ch5250_サイバーカラテ_functions_as_数の暴力_p88_machine_learning_big_data|ビッグデータ最適化の指喩]]
+- [[A_ch5250_analogous_to_E_ch5250_チリアット_transforms_黒亜竜人_p189_cybernetic_augmentation_body_horror|サイボーグ化によるボディホラー]]
+- [[A_ch5250_analogous_to_E_ch5250_レオ_threatens_カーイン_p58_pet_owner_relationship|廃棄脅迫と所有関係の想起]]
+
+### 第5251話
+
+- [[A_ch5251_parodies_E_ch5251_コルセスカ_appears_氷の三叉槍_p31_game_character_intro|ゲームキャラ登場演出のパロディ]]
+
+### 第5252話
+
+- [[A_ch5252_alludes_to_E_p263_modern_mma_and_sumo_evolution|相撲とMMAの融合競技]]
+- [[A_ch5252_analogous_to_E_p175_genetic_determinism_and_ancestral_memory|血統主義的魔術体系]]
+- [[A_ch5252_analogous_to_E_p61_video_game_new_game_plus|転生による二周目プレイメタファー]]
+- [[A_ch5252_analogous_to_E_{p175}_{genetic_determinism_and_ancestral_memory}|祖先記憶継承の類似構造]]
+- [[A_ch5252_analogous_to_E_{p256}_{cyberpunk_corporate_augmentation}|企業名による身体拡張記号]]
+- [[A_ch5252_analogous_to_E_{p61}_{video_game_new_game_plus}|周回プレイのメタファー化]]
+- [[A_ch5252_parodies_E_p120_anime_chibi_and_split_character_tropes|ちびキャラ分裂によるギャップ演出]]
+- [[A_ch5252_parodies_E_p12_meta_commentary_on_game_tropes|ゲーム定石への世界内ツッコミ]]
+- [[A_ch5252_parodies_E_{p120}_{anime_chibi_and_split_character_tropes}|ちびキャラ分裂のパロディ]]
+- [[A_ch5252_parodies_E_{p12}_{meta_commentary_on_game_tropes}|ゲーム定石メタ批判のパロディ]]
+- [[A_ch5252_structurally_matches_E_p236_sumo_technique_kotowaza|相撲古語技名による力差演出]]
+
+### 第5254話
+
+- [[A_ch5254_analogous_to_E_ch5254_ケイト_other_転生保険の経営_p15_insurance_industry_profit_logic|保険産業の利益構造への転生商品化]]
+
+### 第5255話
+
+- [[A_ch5255_alludes_to_E_p118-p120_Sumo_Kumadori_Tradition|歌舞伎隈取りのナノマシン比喩]]
+- [[A_ch5255_alludes_to_E_p143_Sumo_Yokozuna_Title|横綱称号の借用による最強格暗示]]
+- [[A_ch5255_alludes_to_E_p167_ProWrestling_GiantSwing|ジャイアントスイングへの暗喩的戦闘描写]]
+- [[A_ch5255_alludes_to_E_p178_Quantum_Transport_Concept|量子転送概念による転移の再定義]]
+- [[A_ch5255_alludes_to_E_p180_ProWrestling_TeleportDrop|テレポート・ボディプレスへの技の暗喩]]
+- [[A_ch5255_alludes_to_E_p253_ProWrestling_Interruption|プロレス乱入戦法への試合中断描写]]
+- [[A_ch5255_alludes_to_E_p288_MMA_Clinch_Technique|MMAクリンチへの密着戦闘描写]]
+- [[A_ch5255_alludes_to_E_p297_ProWrestling_Brainbuster|ブレーンバスターへの落下攻撃暗喩]]
+- [[A_ch5255_alludes_to_E_p366_Sumo_Hakkeyoyoi_Chant|発気揚々の掛け声による相撲儀式模倣]]
+- [[A_ch5255_alludes_to_E_p381_Karate_Nokotta_Cry|空手の気合「NOKOTTA」への叫び]]
+- [[A_ch5255_alludes_to_E_p424_ProWrestling_Bearhug|ベアハッグへの抱擁攻撃暗喩]]
+- [[A_ch5255_analogous_to_E_p398_Drones_Regeneration_Control|遠隔操縦的再生制御による不死性構造]]
+
+### 第5257話
+
+- [[A_ch5257_analogous_to_E_ch5257_シナモリアキラ_other_穏当な帰化と共存_p3_corporate_exploitation_of_labor|ギグエコノミー的労働搾取への契約構造]]
+- [[A_ch5257_analogous_to_E_ch5257_シナモリアキラ_other_穏当な帰化と共存_p3_gender_bias_in_society|ジェンダーバイアスの名声値による可視化]]
+- [[A_ch5257_analogous_to_E_ch5257_シナモリアキラ_other_穏当な帰化と共存_p3_insurance_product_low_income_migration|低所得層向け移住商品への転生保険戦略]]
+- [[A_ch5257_analogous_to_E_ch5257_シナモリアキラ_other_穏当な帰化と共存_p3_narrative_reset_reboot|物語リブートへのマルチバース的比喩]]
+- [[A_ch5257_analogous_to_E_ch5257_シナモリアキラ_other_穏当な帰化と共存_p3_stealth_marketing_manipulation|ステマ操作による世論誘導の批判]]
+- [[A_ch5257_analogous_to_E_ch5257_シナモリアキラ_other_穏当な帰化と共存_p3_survivor_guilt_and_futility|他者依存型生存戦略への自己嫌悪]]
+
+### 第5258話
+
+- [[A_ch5258_alludes_to_E_consciousness_fading_dissolution_of_self|主体性のメタ構造への侵食]]
+- [[A_ch5258_alludes_to_E_time_paradox_grandfather_paradox|因果破綻回避の祖父のパラドクス]]
+- [[A_ch5258_analogous_to_E_kain_memory_euthanasia_mercy_killing|安楽死としての介錯]]
+- [[A_ch5258_inverts_E_past_kill_impulse_preemptive_strike_cliché|事前排除クリシェの倫理的逆転]]
+- [[A_ch5258_parodies_E_forgiveness_voice_divine_absolution|超越的干渉を示す神の赦しの模倣]]
+- [[A_ch5258_structurally_matches_E_comment_world_metafiction_layer|物語構造干渉の特異な注釈的世界層]]
+
+### 第5259話
+
+- [[A_ch5259_alludes_to_E_vivi_intro_shakespeare_as_you_like_it|世界劇場化を示すお気に召すまま引用]]
+- [[A_ch5259_analogous_to_E_akira_parasitism_symbiotic_parasite|人格代行の生物学的寄生比喩]]
+- [[A_ch5259_analogous_to_E_cyber_karate_magic_somatic_language_magick|呪力生成の肉体言語魔術構造]]
+- [[A_ch5259_inverts_E_akira_possession_isekai_reincarnation_cheat|身体獲得逆説の役者としての転生]]
+- [[A_ch5259_structurally_matches_E_theater_time_manipulation_sympathetic_magic_law_of_similarity|過去干渉の交感魔術的類似法則]]
+
+### 第5260話
+
+- [[A_ch5260_alludes_to_E_p170_simulation_hypothesis|階層構造シミュレーション仮説]]
+- [[A_ch5260_alludes_to_E_p195_puppet_theater_strings|人形劇の仕掛けとしての糸]]
+- [[A_ch5260_alludes_to_E_p34_corporate_humiliation_service|権力への屈辱的奉仕と服従]]
+- [[A_ch5260_alludes_to_E_{p170}_simulation_hypothesis|階層的世界構築のシミュレーション仮説]]
+- [[A_ch5260_alludes_to_E_{p195}_puppet_theater_strings|観客受容の人形劇仕掛けの糸]]
+- [[A_ch5260_alludes_to_E_{p34}_{corporate_humiliation_service}|屈辱的奉仕への暗喩]]
+- [[A_ch5260_analogous_to_E_p103_neoliberal_market_ideology|新自由主義市場原理の強制]]
+- [[A_ch5260_analogous_to_E_p121_programmer_bug_mislinking|変数衝突による意図しない転送]]
+- [[A_ch5260_analogous_to_E_p152_impact_crater_geology|隕石衝突クレーターの形成]]
+- [[A_ch5260_analogous_to_E_p203_metaphysical_determinism|運命決定論と自由意志の欠如]]
+- [[A_ch5260_analogous_to_E_p67_broomstick_flying_transport|魔法の箒の近未来兵器化]]
+- [[A_ch5260_analogous_to_E_{p103}_{neoliberal_market_ideology}|新自由主義市場原理の体現]]
+- [[A_ch5260_analogous_to_E_{p121}_{programmer_bug_mislinking}|変数衝突バグの模倣]]
+- [[A_ch5260_analogous_to_E_{p203}_metaphysical_determinism|運命決定論の示唆]]
+- [[A_ch5260_analogous_to_E_{p67}_{broomstick_flying_transport}|魔法の箒の近未来再設計]]
+- [[A_ch5260_parodies_E_p11_gacha_game_ssr_pull|ガチャSSR排出演出のパロディ]]
+- [[A_ch5260_parodies_E_{p11}_{gacha_game_ssr_pull}|ガチャ召喚演出のパロディ]]
+
+### 第5261話
+
+- [[A_ch5261_alludes_to_E_shibito_Eastern_Wanderers|東方放浪者崇拝の構造]]
+- [[A_ch5261_analogous_to_E_betrayal_Midas_Touch|ミダス王の指の搾取象徴]]
+- [[A_ch5261_inverts_E_bread_creation_Miracle_of_Loaves|五餅二魚奇跡の逆転]]
+
+### 第5263話
+
+- [[A_ch5263_alludes_to_E_ch5263_チリアット_other_舞台劇_p2_greek_theater_as_ritual|ギリシア劇祭起源の想起]]
+- [[A_ch5263_alludes_to_E_ch5263_チリアット_other_舞台劇_p2_three_headed_dog_cerberus|三頭犬ケルベロスへの暗喩]]
+- [[A_ch5263_analogous_to_E_ch5263_チリアット_other_舞台劇_p2_theater_prompter_role|提唱者役割の呪術的拡張]]
+- [[A_ch5263_analogous_to_E_ch5263_チリアット_other_舞台劇_p2_video_game_script_change_mechanic|動的な思考台本変更]]
+- [[A_ch5263_parodies_E_ch5263_チリアット_other_舞台劇_p2_meta_theater_play_within_play|劇中劇自覚のパロディ]]
+- [[A_ch5263_structurally_matches_E_ch5263_チリアット_other_舞台劇_p2_cyber_karate_vs_martial_art_genius|AI武術対天才の構図]]
+
+### 第5264話
+
+- [[A_ch5264_alludes_to_E_5264_p179_ME_GunShu_Syncretism|神々の序列と統合による宗教的序列化]]
+- [[A_ch5264_analogous_to_E_5264_p05_TrickArt|トリックアートによる遠近錯覚演出]]
+- [[A_ch5264_analogous_to_E_5264_p106_ME_Prostitution_Economy|聖職者的性経済]]
+- [[A_ch5264_analogous_to_E_5264_p135_ME_HolyMarriage|聖婚儀礼としての生と死の交合]]
+- [[A_ch5264_analogous_to_E_5264_p205_ME_Magic_Wand|魔法杖による世界再演メカニズム]]
+- [[A_ch5264_analogous_to_E_5264_p21_ME_Cosplay_Mascot|着ぐるみマスコットと使い魔の境界曖昧化]]
+
+### 第5265話
+
+- [[A_ch5265_analogous_to_E_ch5265_マラード_makes_都市_p226_ME_procedural_generation|自動生成都市による作者死の体現]]
+- [[A_ch5265_analogous_to_E_ch5265_少女_says_危険性_p36_ME_permadeath|永続的死亡リスクのメタフィクシカル提示]]
+- [[A_ch5265_analogous_to_E_ch5265_少女_thinks_時間の書き換え_p3_ME_speedrun_history_manipulation|歴史改変速走による運命論への対抗]]
+- [[A_ch5265_parodies_E_ch5265_マラード_has_property_美しい髪_p121_ME_heroine_archetype|美的資本主義的な英雄]]
+
+### 第5266話
+
+- [[A_ch5266_alludes_to_E_p147-p158_NestedDolls_Matryoshka|マトリョーシカ構造の超自然現象暗示]]
+- [[A_ch5266_analogous_to_E_p120-p135_Apexite|アエタイト鉱石の文化記号借用]]
+- [[A_ch5266_analogous_to_E_p203-p207_Pandora_Box_Mythology|パンドラの箱型の禁忌構造]]
+- [[A_ch5266_inverts_E_p23_Feminine_Beauty_Male_Gaze|男性視線下的美による主体性欠如暗示]]
+- [[A_ch5266_parodies_E_p73_Internet_Slang_NetCulture|ネットスラング・ネット文化の賢者像風刺]]
+- [[A_ch5266_structurally_matches_E_p19-p21_Metaphor_of_King_as_Actor|王は役者という権力者のペルソナ構造対応]]
+
+### 第5268話
+
+- [[A_ch5268_alludes_to_E_p213_four_eclipses_omen_of_apocalypse|終末の予兆としての四つの月の蝕み]]
+- [[A_ch5268_alludes_to_E_p229_lubab_admin_bureaucratic_power_structure|官僚的権力構造における黒幕メタファー]]
+- [[A_ch5268_alludes_to_E_p79_ball_joint_ball_jointed_dolls_BJD|球体関節人形の人造物としての異質感]]
+- [[A_ch5268_analogous_to_E_p13_brand_modern_brand_economy|ブランド経済への呪具メタファー]]
+- [[A_ch5268_analogous_to_E_p146_cutting_threads_abrupt_breakup_strategy|因果切断による問題回避]]
+- [[A_ch5268_parodies_E_p22_doll_magic_attachment_theory|アタッチメント形成のパロディ化]]
+
+### 第5270話
+
+- [[A_ch5270_alludes_to_E_p133_harem_game_mechanics|ハーレム攻略の暗喩的言及]]
+- [[A_ch5270_analogous_to_E_p118_otaku_culture_idol_fandom|オタク文化・アイドルへの没入描写]]
+- [[A_ch5270_analogous_to_E_p200_role_identity_confusion|役と役者の境界のメタ認識]]
+- [[A_ch5270_analogous_to_E_p211_theatre_of_the_absurd_compliance|不条理演劇の共犯性への哲学的言及]]
+- [[A_ch5270_analogous_to_E_p256_zombie_economy_labor_force|死者の労働力としての社会参加]]
+- [[A_ch5270_analogous_to_E_p284_deferred_gratification_future_satisfaction|未来の満足の先送りへの示唆]]
+- [[A_ch5270_analogous_to_E_p31_fire_burial_public_health|火葬衛生管理による祭場安定化]]
+- [[A_ch5270_analogous_to_E_p40_digital_necropolis_cloud_service|デジタル墓地クラウドへの移行]]
+- [[A_ch5270_analogous_to_E_p89_password_security_policy|生日パスワード脆弱性の皮肉]]
+- [[A_ch5270_analogous_to_E_p91_server_load_balancing|サーバー負荷分散問題の比喩]]
+- [[A_ch5270_analogous_to_E_p93_digital_assets_ownership_laws|デジタル資産所有権法の反映]]
+- [[A_ch5270_analogous_to_E_p97_legacy_vs_new_tech_complaints|レガシー技術への反発の模倣]]
+
+### 第5271話
+
+- [[A_ch5271_alludes_to_E_ch5271_コルセスカ_disappears_p2_植民地支配と歴史的加害の記憶|強制同化政策の構図参照]]
+- [[A_ch5271_analogous_to_E_ch5271_コルセスカ_disappears_p2_人格の多重化とアイデンティティ喪失|転生によるアイデンティティ乖離]]
+- [[A_ch5271_analogous_to_E_ch5271_コルセスカ_disappears_p2_言語の翻訳と認知負荷の消去|ナラティブ慣習による言語壁のメタ的解消]]
+- [[A_ch5271_parodies_E_ch5271_コルセスカ_disappears_p2_昔話の語りと世界変容のトリガー|語りによる世界変容のパロディ化]]
+- [[A_ch5271_structurally_matches_E_ch5271_コルセスカ_disappears_p2_舞台演出とプレイヤー介入のメタ構造|即興的逸脱を象徴するMOD的干渉]]
+
+### 第5272話
+
+- [[A_ch5272_alludes_to_E_p156-p182_Babylon_Tower_Languages|バベルの塔への言語混乱オマージュ]]
+- [[A_ch5272_alludes_to_E_p2-p8_Babylon_Tower|言語を通じた世界秩序構築の逆説]]
+- [[A_ch5272_alludes_to_E_p206-p210_Popper_Paradox_of_Tolerance|ポパーの寛容のパラドックス劇中化]]
+- [[A_ch5272_alludes_to_E_p259-p261_Norse_Mythology_Gungnir|神話的象徴グングニルの意匠借用]]
+- [[A_ch5272_structurally_matches_E_p279-p284_Meta_Fiction_Medieval_Theatre|中世メタシアター的な物理介入演出]]
+- [[A_ch5272_structurally_matches_E_p62-p97_Kama_Mithra_Roman_God|カマ・ミトラ型の二元論対立構造]]
+
+### 第5273話
+
+- [[A_ch5273_alludes_to_E_p71-p80_true_name_power|真名支配クリシェとアイデンティティ]]
+- [[A_ch5273_analogous_to_E_p153-p157_modern_brainwashing_systems|思想統制・同調圧力の制度メタファー]]
+- [[A_ch5273_analogous_to_E_p193-p199_language_deprivation_as_exile|言語剥奪による社会排除の構造]]
+- [[A_ch5273_analogous_to_E_p260-p264_meritocracy_ideology|能力主義イデオロギーの移植]]
+- [[A_ch5273_analogous_to_E_p43-p49_modern_firearms_taboo|火器禁忌と保守的倫理観の秩序装置]]
+
+### 第5274話
+
+- [[A_ch5274_analogous_to_E_ch5274_砲撃_breaks_塁壁_p2_modern_military_artillery|近代砲兵による物理支配の暗示]]
+
+### 第5275話
+
+- [[A_ch5275_alludes_to_E_ch5275_アキラ_says_トリシューラの理想_p56_dystopian_brainwashing_utopia|洗脳によるユートピアの逆説]]
+- [[A_ch5275_analogous_to_E_ch5275_レオ_reveals_クレイの異変_p303_zombie_revival_glitch|蘇生バグとデータ改変]]
+- [[A_ch5275_analogous_to_E_ch5275_レオ_says_グレンデルヒの能力_p236_video_game_gacha_character_pool|ガチャキャラプールへの転生]]
+- [[A_ch5275_inverts_E_ch5275_グレンデルヒ_says_英雄論_p107_pro_wrestling_yokozuna_logic|横綱ロジックの呪い化]]
+- [[A_ch5275_parodies_E_ch5275_アキラ_thinks_不条理_p2_metatheatrical_break|メタ劇への脚本批評]]
+- [[A_ch5275_structurally_matches_E_ch5275_レオ_appears_劇場_p190_deus_ex_machina_child|直感による介入者]]
+
+### 第5276話
+
+- [[A_ch5276_alludes_to_E_ch5276_少年_appears_as_兎耳の美少年_p4041_ウサギ座／月神話・異界からの使者|月界からの使者]]
+- [[A_ch5276_alludes_to_E_ch5276_左の頭_other_抑圧された心_p381383_フロイトのプロイド・エゴ・超自我／ユングのシャドウ|三頭構造と深層心理]]
+- [[A_ch5276_analogous_to_E_ch5276_ウォゾマ_says_不健康への軽蔑_p356361_アトピー性皮膚炎・慢性疾患患者への社会的スティグマ|慢性疾患の汚名]]
+- [[A_ch5276_analogous_to_E_ch5276_ウォゾマ_says_予防と優生_p332334_優生学_eugenics|優生学的政策]]
+- [[A_ch5276_analogous_to_E_ch5276_ウォゾマ_says_石女への処罰_p115_家父長制下的な女性蔑視・子産み装置|家父長制下の女性機能化]]
+- [[A_ch5276_analogous_to_E_ch5276_ウォゾマ_says_障害児の処分_p296298_ASDHD支援・合理的配慮論争|社会規範からの排除]]
+- [[A_ch5276_parodies_E_ch5276_ウォゾマ_says_治療拒否の理由_p318325_医療経済・Triageトリアージ|医療資源のトリアージ]]
+- [[A_ch5276_structurally_matches_E_ch5276_ヒュールサス_is_located_大河の流域_p6162_ギリシャ神話・ケルベロスと冥界への門|ケルベロスと冥界門]]
+
+### 第5277話
+
+- [[A_ch5277_alludes_to_E_ch5277_アキラ_observes_敵_p2_Japanese_Religious_Syncretism|言霊信仰と死生観]]
+- [[A_ch5277_analogous_to_E_ch5277_アキラ_observes_敵_p2_Metaphysics_of_Role_Playing|虚構の実体化によるメタフィクショナル没入]]
+- [[A_ch5277_analogous_to_E_ch5277_アキラ_observes_敵_p2_Ritual_Sacrifice_and_Divine_Punishment|犠牲儀礼と神罰のタブー破りへの回帰]]
+- [[A_ch5277_inverts_E_ch5277_アキラ_observes_敵_p2_Biological_Birth|生物学的出生の死と腐敗による反転]]
+
+### 第5279話
+
+- [[A_ch5279_alludes_to_E_ch5279_ケイト_other_劇_p27_metafictional_narrative_disruption|結末の破壊介入としてのメタ構造改変]]
+- [[A_ch5279_analogous_to_E_ch5279_トリシューラ_activates_スタンドアロンシューラ_p269_ai_backup_and_cloud_computing|AIバックアップ的な肉体なき起動]]
+- [[A_ch5279_inverts_E_ch5279_右腕_appears_空中_p60_narrative_trope_deus_ex_machina|機械仕掛けの神の主体性逆転]]
+- [[A_ch5279_parodies_E_ch5279_ケイト_other_健康の断章_p34_eugenics_and_genetic_discrimination|優生学と遺伝差別の魔法への戯画化]]
+- [[A_ch5279_structurally_matches_E_ch5279_ヒュールサス_other_経済_p156_modern_welfare_state_crisis|福祉国家の危機の異世界投影]]
+
+### 第5280話
+
+- [[A_ch5280_alludes_to_E_ch5280_ちびシューラ_other_断章と九つの大罪_p342_sociological_power_bases|社会学的権力基盤の大罪への置換]]
+- [[A_ch5280_alludes_to_E_ch5280_ちびシューラ_reveals_第九番目の価値_p378_necromancy_survival_game|死霊術生存ゲームとしての権力基盤]]
+- [[A_ch5280_analogous_to_E_ch5280_ちびシューラ_other_左腕のバックアップ機能_p151_computer_backup_system|バックアップ機構としての身体内蔵]]
+- [[A_ch5280_analogous_to_E_ch5280_ちびシューラ_other_王国呪術の祭具_p359_constitution_of_nation_state|国家憲法としての祭具の正当性付与]]
+- [[A_ch5280_parodies_E_ch5280_ちびシューラ_other_アキラへの無体な要求_p25_pet_and_owner_relationship|擬似ペット飼育関係の転生戯画]]
+- [[A_ch5280_parodies_E_ch5280_ちびシューラ_transforms_道着姿_p279_cyber_karate_parody|サイバーカラテの風刺的師弟関係]]
+
+### 第5281話
+
+- [[A_ch5281_alludes_to_E_ch5281_緞帳_opens_舞台_p2_modern_information_warfare|情報戦としての認知戦模倣]]
+- [[A_ch5281_analogous_to_E_ch5281_緞帳_opens_舞台_p2_modern_media_industry_structure|メディア複合企業の教育支配]]
+- [[A_ch5281_analogous_to_E_ch5281_緞帳_opens_舞台_p2_modern_theater_production|異世界戦の劇場制作プロセス化]]
+- [[A_ch5281_inverts_E_ch5281_緞帳_opens_舞台_p2_modern_ai_generation|AI生成コンテンツへの逆転]]
+- [[A_ch5281_structurally_matches_E_ch5281_緞帳_opens_舞台_p2_modern_ecosystem_logistics|グローバル物流依存の構造対応]]
+
+### 第5282話
+
+- [[A_ch5282_parodies_E_ch5282_オルヴァ_asks_王の地位の放棄_p2_シェイクスピアリチャード二世における王の苦悩と隠者との対話|リチャード二世のパロディ的再演]]
+
+### 第5283話
+
+- [[A_ch5283_alludes_to_E_p230_prince_and_the_pauper|王子と乞食の暗喩]]
+- [[A_ch5283_alludes_to_E_p26_ineffable_horror|不可言説的恐怖の提示]]
+- [[A_ch5283_analogous_to_E_p47_colonial_anxiety|植民地支配の恐怖への類似]]
+- [[A_ch5283_analogous_to_E_p62_commodification_of_love|愛の商品化の類似]]
+- [[A_ch5283_parodies_E_p14_translation_cliche|翻訳定訳のパロディ的批評]]
+- [[A_ch5283_parodies_E_p94_fictional_military_history|架空戦記のパロディ的引用]]
+
+### 第5284話
+
+- [[A_ch5284_alludes_to_E_4_Shinto_Shihōshoku|弑のタブーの暗喩]]
+- [[A_ch5284_analogous_to_E_1_Louis_XVI_execution|ルイ十六世処刑儀礼の変形]]
+- [[A_ch5284_analogous_to_E_3_Search_Engine_ALGOL|人間検索エンジンへの依存]]
+- [[A_ch5284_structurally_matches_E_5_Body_Horror_Mechanism|身体恐怖のキャラクター生成]]
+
+### 第5287話
+
+- [[A_ch5287_alludes_to_E_ch5287_アキラ_other_絶句_p2_concept_rule_of_law_vs_might|法と力の対立への暗喩]]
+- [[A_ch5287_analogous_to_E_ch5287_アキラ_other_絶句_p2_concept_political_realpolitik|レアルポリティクスの類似]]
+- [[A_ch5287_analogous_to_E_ch5287_アキラ_other_絶句_p2_game_mechanic_power_creep|パワークリープによるメタフィクショナル侵食]]
+- [[A_ch5287_parodies_E_ch5287_アキラ_other_絶句_p2_trope_cheat_power_limit_break|無双限界の逆説的転生]]
+- [[A_ch5287_structurally_matches_E_ch5287_アキラ_other_絶句_p2_concept_metalepsis_fiction|メタレプシスの構造対応]]
+
+### 第5288話
+
+- [[A_ch5288_alludes_to_E_ch5288_アキラ_thinks_力への渇望_p249_ME_Power_Leveling_Mechanic|即時強化欲求の暗喩]]
+- [[A_ch5288_alludes_to_E_ch5288_ミシャルヒ_uses_夢幻泡影_p132_ME_Kimono_Martial_Arts|武侠格闘ゲーム技法の引用]]
+- [[A_ch5288_analogous_to_E_ch5288_アキラ_activates_サイバーカラテ道場Ver2.0_p297_Smartphone_App_Boot|アプリ起動プロセスとの構造一致]]
+- [[A_ch5288_inverts_E_ch5288_岩肌種_has_property_保護色_p109_ME_Nature_Mimicry|生態学的擬態の逆転応用]]
+- [[A_ch5288_parodies_E_ch5288_カーイン_kills_生き残りの山賊たち_p149_ME_Aesthetic_Violence|美しき暴力による残酷さ消去]]
+- [[A_ch5288_structurally_matches_E_ch5288_アキラ_activates_幻肢の力・幽体リモートデスクトップ_p301_ME_Remote_Desktop_Technology|幽体リモートデスクトップの比喩]]
+
+### 第5291話
+
+- [[A_ch5291_alludes_to_E_p193_PsychomancyDivinationbyShadow|影占いによる因果操作装置]]
+- [[A_ch5291_alludes_to_E_p217-p225_MythofPersephoneandDemeter|ペルセポネ神話との親和性強調]]
+- [[A_ch5291_alludes_to_E_p5-p10_FranklinD_Roosevelt'sFourFreedoms|四大自由の負概念実体化]]
+- [[A_ch5291_analogous_to_E_p29-p31_MetaphysicalIdealism／Solipsism|唯心論的世界観のメタ表現]]
+- [[A_ch5291_parodies_E_p167-p175_Mega-corporateEmploymentStructure|巨大企業雇用構造のパロディ]]
+- [[A_ch5291_parodies_E_p16_Creationism／LiteralistInterpretationofGenesis|創造論的解釈の即興創世化]]
+- [[A_ch5291_structurally_matches_E_p45-p52_CorporateCompliance／CorporateGovernance|コンプライアンス・統治構造の反映]]
+
+### 第5292話
+
+- [[A_ch5292_alludes_to_E_p235_yandere_archetype|狂気的ヤンデレの暴力性象徴]]
+- [[A_ch5292_alludes_to_E_p240_shakespearean_love_tragedy|シェイクスピア悲劇テーマ想起]]
+- [[A_ch5292_alludes_to_E_p26_hive_mind_vampire|吸血鬼集合知構造の変換]]
+- [[A_ch5292_analogous_to_E_p120_rats_as_plague_carriers|ペスト媒介者としての鼠の暗喩]]
+- [[A_ch5292_analogous_to_E_p13_phantom_limb|幻肢による欠損補完戦闘]]
+- [[A_ch5292_parodies_E_p132_infinite_grinding_game|無限グリンドへの構造的物量の転生]]
+- [[A_ch5292_structurally_matches_E_p50_narrative_metafiction|メタフィクション的な運命認識の構造対応]]
+
+### 第5293話
+
+- [[A_ch5293_alludes_to_E_crucifixion_christian_iconography|キリスト教図像学による犠牲の象徴化]]
+- [[A_ch5293_analogous_to_E_secret_society_literary_cliché_secret_society|秘密結社クリシェの自己言及的引用]]
+- [[A_ch5293_analogous_to_E_shadow_play_narrative_metaphor|影のメタファーによる物語構造の示唆]]
+- [[A_ch5293_parodies_E_russian_rat_vampire_folklore|吸血鬼伝承への鼠生贄のパロディ化]]
+- [[A_ch5293_parodies_E_shadow_puppetry_phantasmagoria|幻灯劇技術の光と影による戯画化]]
+- [[A_ch5293_sublates_E_kates_miazma_public_health_inversion|逆説的公衆衛生概念の政策への止揚]]
+
+### 第5294話
+
+- [[A_ch5294_alludes_to_E_p15_WangSama_Submission_Knightly_Oath|騎士の誓い礼賛儀式の性別逆転暗喩]]
+- [[A_ch5294_analogous_to_E_p2-p3_WangSama_Loneliness_Mental_Illness_Dissociation|内なる暴走の可視化]]
+- [[A_ch5294_analogous_to_E_p37_World_Structure_Nietzsche_Eternal_Return|永劫回帰の環によるメタ構造の視覚化]]
+- [[A_ch5294_analogous_to_E_p57_BlackAndBlueWords_Law_Social_Contract|社会契約論の強制力としての言葉象徴]]
+- [[A_ch5294_inverts_E_p41_SpiralStructure_Hegel_Dialectics|ヘーゲル弁証法からの螺旋的脱却の逆転]]
+- [[A_ch5294_parodies_E_p10-p11_WangSama_SelfIntegration_Jungian_Shadow_Integration|同化による偽りの自己充足]]
+
+### 第5295話
+
+- [[A_ch5295_alludes_to_E_ch5295_ゾーイ・アキラ_names_力士_p145_Pro_Sumo,Mixed_Martial_Arts|相撲記号の異世界転用による力士アイデンティティ]]
+- [[A_ch5295_alludes_to_E_ch5295_少年_makes_冥道の封印_p29_Dante_Inferno,Medieval_Hell_Map|中世冥界観に基づく境界崩壊の暗喩]]
+- [[A_ch5295_alludes_to_E_ch5295_男_confesses_脳腫瘍と後悔_p178_Transhumanism,Mind_Uploading|意識アップロードへの転生]]
+- [[A_ch5295_alludes_to_E_ch5295_男_other_ゾーイ_p160_Pro_Wrestling,Luchada_Arena|ルチャリブレ形式の賭け試合]]
+- [[A_ch5295_analogous_to_E_ch5295_アルト_says_差別しない宣言_p17_Tolerant_Authoritarianism|正義を装う全体主義構造]]
+- [[A_ch5295_analogous_to_E_ch5295_ガドカレク_names_幻想再帰システム_p120_Self-Referential_System|自己参照系としての幻想創出]]
+- [[A_ch5295_analogous_to_E_ch5295_ガドカレク_says_シミュレーテッドリアリティ仮説_p67_Simulation_Hypothesis|シミュレーション仮説の物語実装]]
+- [[A_ch5295_analogous_to_E_ch5295_集い_defines_銃規制_p111_Fundamental_Physics_Laws|魔法による物理法則改変]]
+- [[A_ch5295_parodies_E_ch5295_ガドカレク_says_転生植民地主義の崩壊_p132_Postcolonialism,Transmigration_Genre_Tropes|転生植民地主義の自己言及風刺]]
+- [[A_ch5295_structurally_matches_E_ch5295_俺_other_ゲーム盤_p3_Narrative_Metalepsis|メタレプシスによる運命の可視化]]
+
+### 第5297話
+
+- [[A_ch5297_alludes_to_E_miasma_spell_shinto_ancient_magic|神話的混沌受容と呪術]]
+- [[A_ch5297_alludes_to_E_omniverse_type_philosophy_of_universe|オムニバース論としての浄界分類]]
+- [[A_ch5297_analogous_to_E_causality_reverse_narrative_structure_plot_twist|時間逆行構造による回収]]
+- [[A_ch5297_analogous_to_E_game_control_console_gamepad|ゲームパッド操作への置換]]
+- [[A_ch5297_foreshadows_E_vampire_redemption_character_arc_lieulba|哀れみから始まる味方化伏線]]
+- [[A_ch5297_parodies_E_combat_physics_sumo_wrestling|相撲様式の戦闘パロディ]]
+- [[A_ch5297_structurally_matches_E_world_theater_meta_fictional_stage|演出家としての神格化構造]]
+
+### 第5298話
+
+- [[A_ch5298_alludes_to_E_36_cyber_karate_martial_art|サイバーカラテのジャンル混交]]
+- [[A_ch5298_alludes_to_E_5_sumo_wrestling|相撲様式へのメタファー構成]]
+- [[A_ch5298_analogous_to_E_2_game_mechanics|ゲームメカニクスによる対抗]]
+- [[A_ch5298_inverts_E_45_first_person_narrative_tropes|一人称叙述技法の逆転]]
+- [[A_ch5298_parodies_E_14_collection_gacha|収集ガチャへの全確保進行]]
+- [[A_ch5298_structurally_matches_E_26_shonen_battle_logic|少年漫画式戦闘の削り定石]]
+
+### 第5299話
+
+- [[A_ch5299_alludes_to_E_ch5299_世界_transforms_地獄背景_p2_Nordic_Kings_Beheading|北欧王断頭台への消滅暗喩]]
+- [[A_ch5299_analogous_to_E_ch5299_世界_transforms_地獄背景_p2_Ragnarok_Mythology|ラグナロク神話の終末召喚]]
+- [[A_ch5299_foreshadows_E_ch5299_世界_transforms_地獄背景_p2_Grendel_Infection|グレンデル汚染への敗北伏線]]
+- [[A_ch5299_parodies_E_ch5299_世界_transforms_地獄背景_p2_ProWrestling_Techniques|プロレス技クロスオーバーのパロディ]]
+- [[A_ch5299_structurally_matches_E_ch5299_世界_transforms_地獄背景_p2_Mods_Fairness_Debate|改造コントローラー禁止論の模倣]]
+
+### 第5300話
+
+- [[A_ch5300_alludes_to_E_ch5300_ヴァージルアキラ_other_言語魔術雷撃呪文_p54_プログラミング／コードによる世界生成|世界記述コードの雷撃化暗喩]]
+- [[A_ch5300_analogous_to_E_ch5300_ちびシューラ_other_推奨行動リストと期待値_p31_AIナビゲーション／ゲームアシスタント機能|ゲームAI最適解提案の模写]]
+- [[A_ch5300_analogous_to_E_ch5300_アキラ_attacks_ゾーイの顔面_p20_格闘ゲームの入力遅延／入力補完機能|格ゲー入力補完と操作ミス]]
+- [[A_ch5300_parodies_E_ch5300_ゾーイ_other_サイザクタートの構造ルービックキューブ化_p72_ルービック・キューブ|ルービックキューブ構造のパロディ]]
+- [[A_ch5300_structurally_matches_E_ch5300_ゾーイ_fights_アキラ_p12_格闘ゲームのフレームデータ解析|格ゲーフレームデータ解析対応]]
+
+### 第5301話
+
+- [[A_ch5301_alludes_to_E_p50_Fairy_Tale_Mirror_Magic|鏡よ鏡魔法の童話引用暗喩]]
+- [[A_ch5301_analogous_to_E_p13-p15_PuzzleGame_CubeRotation|回転パズルゲームの戦闘転用]]
+- [[A_ch5301_analogous_to_E_p25_Gaming_Keyboard_Input|ゲーミングキーボード入力の比喩]]
+- [[A_ch5301_analogous_to_E_p44_Literary_Concept_Center_of_Narrative|物語の中心軸]]
+
+### 第5302話
+
+- [[A_ch5302_alludes_to_E_5302_p20_mythology_sphere_deity|幾何学的完全性への回帰]]
+- [[A_ch5302_alludes_to_E_5302_p4_mythology_marionette|神の糸に操られる]]
+- [[A_ch5302_analogous_to_E_5302_p42_meta_theater_world|世界上演論]]
+- [[A_ch5302_analogous_to_E_5302_p8_ethics_utilitarianism_instrumentalism|道具主義と人間手段化]]
+- [[A_ch5302_sublates_E_5302_p36_tropes_deception|見せかけのボス]]
+
+### 第5303話
+
+- [[A_ch5303_alludes_to_E_p105_sword_in_the_stone|石に刺さった剣]]
+- [[A_ch5303_alludes_to_E_p6_divine_comedy_virgil|神曲・ヴァージル]]
+- [[A_ch5303_analogous_to_E_p19_rebirth_game_mechanic|土塊からのキャラ生成象徴]]
+- [[A_ch5303_analogous_to_E_p71_sword_of_damocles|ダモクレスの剣]]
+- [[A_ch5303_parodies_E_p30-p42_maslow_hierarchy|権力の精神要因化パロディ]]
+- [[A_ch5303_parodies_E_p65_trial_and_error_software|試行錯誤反復]]
+- [[A_ch5303_structurally_matches_E_p93_social_contract_theory|社会契約論]]
+
+### 第5305話
+
+- [[A_ch5305_alludes_to_E_cain_revival_necromancy_law_of_bell|ベルの法則（蘇生）]]
+- [[A_ch5305_alludes_to_E_undead_sleep_vampire_sleep_death_simulacrum|仮死睡眠]]
+- [[A_ch5305_analogous_to_E_akira_justification_survivor_guilt_defense_mechanism|生存者罪悪感防衛]]
+- [[A_ch5305_analogous_to_E_grindel_contact_beowulf_monster_encounter|ベオウルフのグリンドル]]
+- [[A_ch5305_inverts_E_akira_rebirth_isekai_cliché_cheat_power|転生のネガティブ再定義]]
+- [[A_ch5305_parodies_E_omamagoto_play_fairy_tale_marriage_plot|おままごとへの童話的結婚プロットのパロディ]]
+- [[A_ch5305_parodies_E_vivi_eaten_kannibalism_ritual|共食儀礼への解体による融合]]
+
+### 第5306話
+
+- [[A_ch5306_analogous_to_E_p9_power_armor|衣服外骨格とパワードアーマーの類似]]
+
+### 第5307話
+
+- [[A_ch5307_alludes_to_E_nedrad_abuse_intergenerational_trauma|ネドラドの憎悪と世代間トラウマの暗喩]]
+- [[A_ch5307_analogous_to_E_flesh_armor_biological_defense_system|トリシューラの肉壁防御と生物学的防衛の類似]]
+- [[A_ch5307_inverts_E_creatures_mockery_rivalry_and_inferiority_complex|他機体の罵倒と劣等感コンプレックスの逆転]]
+- [[A_ch5307_parodies_E_nedrad_ideology_luddism_primordial_return|ネドラドの思想とルッダイズムのパロディ]]
+- [[A_ch5307_structurally_matches_E_trishula_core_modular_consciousness|トリシューラ九層構造と分散型AIの構造対応]]
+
+### 第5308話
+
+- [[A_ch5308_analogous_to_E_Azuria_Taunt_MMO_Tank_Class,Provocation_Mechanic|アズーリアの挑発とMMOタンクの類似]]
+- [[A_ch5308_inverts_E_Triushula_Identity_Mechanical_Humanism,Singularity|機械トリシューラの治癒と特異点論の逆転]]
+- [[A_ch5308_structurally_matches_E_Triushula_Statement_Mobius_Self,Digital_Avatar|トリシューラの自己定義と集合意識の構造対応]]
+
+### 第5309話
+
+- [[A_ch5309_analogous_to_E_ch5309_世界槍_defines_砂場サンドボックス_p2_sandbox_video_game|世界槍による環境編集とサンドボックスゲームの類似]]
+
+### 第5310話
+
+- [[A_ch5310_alludes_to_E_ch5310_コルセスカ_uses_手孕説話腕の出産_p90_te_mane_bunshi_mythology|コルセスカの呪術と手孕説話の暗喩]]
+- [[A_ch5310_analogous_to_E_ch5310_カチカチハンマー_functions_as_氷の武器_p16_mario_kart_blunt_item|カチカチハンマーとマリオカートアイテムの類似]]
+- [[A_ch5310_analogous_to_E_ch5310_カニャッツォ_appears_as_ゲームのキャラHPゲージ_p46_arcade_game_life_system|カニャッツォの残機表示とアーケードシステムの類似]]
+- [[A_ch5310_analogous_to_E_ch5310_カルカブリーナ_observes_鳥デルヒ_p5_ai_targeting_system|カルカブリーナの射撃代行とAI照準支援の類似]]
+- [[A_ch5310_analogous_to_E_ch5310_ゼド_observes_HUD視界内UI_p24_fps_hud_overlay|FPSのHUD表示への転写]]
+- [[A_ch5310_inverts_E_ch5310_アキラデルヒ_loses_グレンデルヒの優位性_p86_optimization_problem_logic|最適化アルゴリズムの脆弱性逆転]]
+- [[A_ch5310_parodies_E_ch5310_カチカチハンマー説明書き_defines_ゲーム的ステータス効果_p18_real_life_consequences_of_sickness|病気のメタ的利得への皮肉]]
+
+### 第5311話
+
+- [[A_ch5311_alludes_to_E_ch5311.ゾーイ・アキラの存在_p126_ME.自己否定・前世の呪い|存在否定・浄化の暗喩]]
+
+### 第5313話
+
+- [[A_ch5313_alludes_to_E_p168_bible_genesis|創世記の呪いとジェンダー抑圧]]
+- [[A_ch5313_analogous_to_E_p4_tibetan_buddhism|チベット仏教と兵器の境界溶解]]
+- [[A_ch5313_parodies_E_p27_video_game_logic|ゲームロジックへの現実風刺]]
+- [[A_ch5313_structurally_matches_E_p208_media_manipulation|世論操作と呪力の構造対応]]
+- [[A_ch5313_sublates_E_p265_character_commodity|キャラの commodification 止揚]]
+
+### 第5314話
+
+- [[A_ch5314_alludes_to_E_ch5314_ケイト_other_スダルシャナチャクラム_p114120_インド神話／クルクシェートラ戦場|神話武器としての文化資本]]
+- [[A_ch5314_alludes_to_E_ch5314_ゾーイデルヒグレンデルヒ_attacks_アキラ_p338346_プロレス技／サマーソルトキック|サマーソルトキックのプロレス的演出]]
+- [[A_ch5314_alludes_to_E_ch5314_銀天使_appears_老年の男性_p8_老人医療／介護用品おむつ・よだれかけ|老幼境界消去の象徴]]
+- [[A_ch5314_analogous_to_E_ch5314_アキラ_learns_グレンデルヒの正体_p238262_企業キャラクター／IPビジネス／マルチキャスト|マルチキャストIPビジネスの匿名性]]
+- [[A_ch5314_analogous_to_E_ch5314_アキラ_learns_グレンデルヒの正体_p238262_企業戦士／体育会系の組織文化|体育会的な組織文化と英雄生成]]
+- [[A_ch5314_analogous_to_E_ch5314_ケイト_attacks_トリシューラ_p197199_情報爆発／データ優位性|情報格差による権力構造の反映]]
+- [[A_ch5314_analogous_to_E_ch5314_ゾーイデルヒグレンデルヒ_confesses_自己の存在意義_p287326_労働者の疎外／自己実現の欠如|労働者の自己疎外と商品化]]
+- [[A_ch5314_analogous_to_E_ch5314_トリシューラ_activates_融血呪イェツィラー_p160166_クラウドコンピューティング／サブスクリプションサービス|SaaSモデル借用]]
+- [[A_ch5314_analogous_to_E_ch5314_トリシューラ_is_located_呪術医院地下_p138150_脳培養／人工知能のハードウェア|脳サーバー化]]
+- [[A_ch5314_analogous_to_E_ch5314_トリシューラ_transforms_女神_p212236_アバター／バーチャルアイドル／ミームの集合体|ミーム的アイデンティティ]]
+- [[A_ch5314_analogous_to_E_ch5314_ルウテト_says_ミサンドリーの指摘_p1822_ジェンダー社会学／ミソジニーとミサンドリー|ミソジニーとミサンドリー]]
+- [[A_ch5314_analogous_to_E_ch5314_ルウテト_says_女の勘_p4652_直感／非合理な判断の正当化|女勘の真実性]]
+- [[A_ch5314_parodies_E_ch5314_グレンデルヒ_escapes_拘束_p5557_手品／マジックの縄抜け|縄抜け]]
+- [[A_ch5314_parodies_E_ch5314_ルウテト_says_母性的な言葉_p4_安楽死／ターミナルケア|安楽死]]
+- [[A_ch5314_structurally_matches_E_ch5314_グレンデルヒ_appears_as_球体関節人形_p3642_BJDボールジョイントドール／着せ替え人形|球体関節人形]]
+
+### 第5315話
+
+- [[A_ch5315_alludes_to_E_ch5315_アーザノエル_names_品森晶_p50_real_name_identity|本名による管理支配]]
+- [[A_ch5315_analogous_to_E_ch5315_アーザノエル_says_想像力による補完_p65_prosthetics_augmentation|サイバネティクス補綴]]
+- [[A_ch5315_analogous_to_E_ch5315_サイバーカラテ道場_defines_集合知の最適解_p188_internet_memes|ミーム拡散現象]]
+- [[A_ch5315_analogous_to_E_ch5315_シナモリアキラ_defines_杖の紀人_p271_cybernetics|サイバネティクス]]
+- [[A_ch5315_analogous_to_E_ch5315_ゾーイデルヒ_loses_ミームへの抗い_p232_viral_trends|SNS炎上・トレンド]]
+- [[A_ch5315_analogous_to_E_ch5315_ルウテト_gives_アキラの頭部_p264_modular_manufacturing|人間を交換部品と見なす]]
+- [[A_ch5315_analogous_to_E_ch5315_異世界転生業_defines_市場の論理_p16_human_worth_as_debt|人間の価値を負債とする]]
+- [[A_ch5315_analogous_to_E_ch5315_異世界転生業_defines_市場の論理_p16_insurance_industry|保険産業への異世界転生]]
+- [[A_ch5315_analogous_to_E_ch5315_青く煌めく蝶_transforms_茶器_p52_surrealism|シュルレアリスム的な茶器変容]]
+- [[A_ch5315_parodies_E_ch5315_六王_names_サイバーカラテの起源_p169_sports_marketing|スポーツマーケティングのパロディ]]
+
+### 第5316話
+
+- [[A_ch5316_alludes_to_E_p183_hindu_mythology_churning_ocean_of_milk|乳海攪拌による道場生成]]
+- [[A_ch5316_alludes_to_E_p265_ship_of_theseus_paradox|意味の不可逆性と因果固定]]
+- [[A_ch5316_analogous_to_E_p31_cloud_computing_backup|クラウドバックアップとしての人格保存]]
+- [[A_ch5316_analogous_to_E_p41_mechanical_part_swap|人体の兵装化と弾倉頭部]]
+- [[A_ch5316_inverts_E_p174_cybernetics_classical_control_theory|古典制御理論の逆転とオートポイエーシス]]
+- [[A_ch5316_structurally_matches_E_p141_theater_of_the_absurd_role_playing|メタ演劇的な多面性]]
+
+### 第5317話
+
+- [[A_ch5317_alludes_to_E_121_Borges_History_of_Imaginary_Beings|ボルヘス幻獣辞典の異神引用]]
+- [[A_ch5317_alludes_to_E_301_Pro_Wrestling_Masked_Wrestler|プロレスマスクマンの台詞引用]]
+- [[A_ch5317_analogous_to_E_157_Mobile_Game_Event_Incentives|スマホゲームイベントインセンティブ]]
+- [[A_ch5317_inverts_E_237_Self_Help_Narrative|他力本願の自己肯定ナラティブ逆転]]
+- [[A_ch5317_parodies_E_42_Sumou_Tachiai|相撲立合いと四股名読み上げのパロディ]]
+- [[A_ch5317_structurally_matches_E_271_High_Speed_TAS_Gaming|TAS高速度操作の構造対応]]
+
+### 第5318話
+
+- [[A_ch5318_alludes_to_E_cypress_forest_mythology_death_tree|糸杉による冥界と死の象徴]]
+- [[A_ch5318_alludes_to_E_grendel_allegory_commedia_dell_arte|コンメディア・デッラルテへの名前の解体]]
+- [[A_ch5318_alludes_to_E_helistela_identity_wheelchair_symbolism|車椅子象徴への転生権威の結合]]
+- [[A_ch5318_inverts_E_grendel_attitude_dandyism_machismo|野獣英雄像の知性派逆転]]
+- [[A_ch5318_parodies_E_akira_character_design_avatar_customization|キャラカスタマイズへのメタ言及]]
+- [[A_ch5318_structurally_matches_E_cycle_season_myth_lunar_calendar|月周期による時間支配原型]]
+
+### 第5322話
+
+- [[A_ch5322_analogous_to_E_p18_social_media_platform|エンゲージメント経済への指喩]]
+- [[A_ch5322_analogous_to_E_p3-p8_corporate_politics|企業内政治への権力闘争の指喩]]
+- [[A_ch5322_analogous_to_E_p35_augmented_reality_interface|ARペルソナと社会的仮面の着用]]
+- [[A_ch5322_analogous_to_E_p97-p103_soft_power_diplomacy|ソフトパワー外交への戦略的指喩]]
+- [[A_ch5322_inverts_E_p149-p200_service_hospitality|おもてなしの逆転による権力構造]]
+- [[A_ch5322_parodies_E_p74-p80_cultural_imperialism|文化的帝国主義への偏見のパロディ]]
+
+### 第5323話
+
+- [[A_ch5323_alludes_to_E_5323_Rubberb_Plant_Rhubarb|ルバーブ（大黄）への名前と料理法]]
+- [[A_ch5323_analogous_to_E_5323_CookingContest_TV_FoodShow|TV料理番組的拡散への模倣]]
+- [[A_ch5323_analogous_to_E_5323_InsectFood_Japan_KinpiraGobo|きんぴらごぼうの郷愁への引用]]
+- [[A_ch5323_analogous_to_E_5323_Olva_ColoredSpells_Color_Theory_Magic|色彩魔術理論への設定描写]]
+- [[A_ch5323_analogous_to_E_5323_Rootet_Punishment_Kindergarten_Teacher|幼稚園教諭への指導の比喩]]
+- [[A_ch5323_parodies_E_5323_Karlisus_ShadowCooking_Art_Silhouette|影絵芝居への魔法技術の再解釈]]
+- [[A_ch5323_structurally_matches_E_5323_InsectFoodAcceptance_Modern_Insect_Food_Trend|昆虫食普及への受容プロセス]]
+
+### 第5325話
+
+- [[A_ch5325_alludes_to_E_ch5325_アキラ_thinks_ミヒトネッセの強さ_p113_MMA_蹴り技|MMA蹴り技による格闘分析]]
+- [[A_ch5325_alludes_to_E_ch5325_ミヒトネッセ_says_アダム・カドモンへの対抗心_p107_カバラ思想_アダム・カドモン|原人カドモンとの真の人間競闘]]
+- [[A_ch5325_alludes_to_E_ch5325_ミヒトネッセ_says_予言的な台詞_p79_聖書_創世記3章15節|創世記原罪預言の引用]]
+- [[A_ch5325_alludes_to_E_ch5325_ミヒトネッセ_says_自らの役割てつのかかと_p100_聖書_創世記3章15節|原罪構図の蛇と踵の逆転解釈]]
+- [[A_ch5325_analogous_to_E_ch5325_アキラ_thinks_イアテムの性質_p18_NARUTO_影分身の術|ナルト影分身へのメタ的解釈]]
+- [[A_ch5325_analogous_to_E_ch5325_イアテム_appears_as_魚の群_p14_NARUTO_水遁の術|ナルト水遁に似た固体流体化]]
+- [[A_ch5325_parodies_E_ch5325_リーエルノーレス_has_property_集合知アップデート_p129_Crowdsourcing_アプリ開発|クラウドソーシング型武器開発]]
+
+### 第5326話
+
+- [[A_ch5326_alludes_to_E_ch5326_ミヒトネッセ_activates_球神の加護_p2_psychoanalysis_defense_mechanisms|フロイト的摂取防衛機制の実装]]
+- [[A_ch5326_inverts_E_ch5326_ミヒトネッセ_activates_球神の加護_p2_lactation_metaphor_inverted|授乳メタファーのギャグ的反転]]
+- [[A_ch5326_parodies_E_ch5326_ミヒトネッセ_activates_球神の加護_p2_phallic_metaphor_sexiology|射精とセックスへの戦闘解体]]
+
+### 第5327話
+
+- [[A_ch5327_alludes_to_E_Mihitoness_Escape_Three_Omagatari|三枚のお札の逃走強化実装]]
+- [[A_ch5327_analogous_to_E_Mihitoness_Fight_Style_Hit_And_Run_Tactics|三枚札伝承の逃走優位戦法]]
+- [[A_ch5327_parodies_E_Bacillus_Subtilis_Natto_Japan|納豆菌神格化のパロディ]]
+- [[A_ch5327_parodies_E_Mihitoness_Role_Servant_Maid_Archetype|召使アーキタイプへの自己言及]]
+- [[A_ch5327_structurally_matches_E_Mihitoness_Hair_Theft_Kamitodori_Folklore|髪盗人伝承への構造対応]]
+
+### 第5328話
+
+- [[A_ch5328_alludes_to_E_eye_contact_harm_evil_eye_folklore|邪視信仰による呪力発生]]
+- [[A_ch5328_alludes_to_E_mihitonezze_design_gynoid_vs_android_concept|ガイノイドとアンドロイドの対比]]
+- [[A_ch5328_analogous_to_E_colceska_magic_explanation_semiotic_chinesification|記号論的陳腐化の魔法実装]]
+- [[A_ch5328_analogous_to_E_iatemu_legend_generic_hero_mythology|英雄伝説の記号化と人格消失]]
+- [[A_ch5328_analogous_to_E_public_infrastructure_government_taxation|封建的行政メカニズムとしての課税]]
+- [[A_ch5328_parodies_E_colceska_kabedon_shoujo_manga_trope|乙女ゲーム演出の壁ドンパロディ]]
+- [[A_ch5328_structurally_matches_E_akira_body_maintenance_cyborg_ship_of_theseus|テセウスの船逆説への哲学的回答]]
+
+### 第5329話
+
+- [[A_ch5329_alludes_to_E_Damocles_Sword_Mythology_Damocles|ダモクレスの剣と運命的破滅]]
+- [[A_ch5329_alludes_to_E_Satellite_Orb_Astronomy_Magic|天文学現象の呪力への転用]]
+- [[A_ch5329_analogous_to_E_Iatemu_Speech_Fascist_Populism|復古ポピュリズム的レトリック]]
+- [[A_ch5329_parodies_E_Mihitonesse_Dance_Performance_Art|戦闘行為の演劇的パフォーマンス化]]
+- [[A_ch5329_structurally_matches_E_Declaration_of_Name_RPG_Party_System|TRPGパーティバフのメタファー]]
+
+### 第5331話
+
+- [[A_ch5331_alludes_to_E_ch5331_イアテム_says_海の民の被虐体験_p37_キリスト教への迫害と踏み絵制度|踏み絵と宗教弾圧のメタファー]]
+- [[A_ch5331_alludes_to_E_ch5331_セージ_other_異形の身体と使い魔_p266_ギリシャ神話のアムピトリーテ|アムピトリーテ借用による神格化]]
+- [[A_ch5331_alludes_to_E_ch5331_ダモクレスの剣_appears_空から_p240_ダモクレスの剣|破壊兵器化されたダモクレスの剣]]
+- [[A_ch5331_analogous_to_E_ch5331_イアテム_other_セージへの屈辱_p164_家父長制と女性蔑視の暴力|家父長制的支配構造の写像]]
+- [[A_ch5331_analogous_to_E_ch5331_グレンデルヒ_thinks_自身の強さと人気_p6_TCGメタゲームとアニメプロモーション|TCGビジネスモデルの呪力化]]
+- [[A_ch5331_parodies_E_ch5331_グレンデルヒ_says_カードプレイの宣言_p2_マジック・ザ・ギャザリングのコンボ|MTGコンボ戦術の戦闘演出化]]
+- [[A_ch5331_structurally_matches_E_ch5331_イアテム_says_第五階層への防衛意志_p31_最後の楽園エデンの園|失われた楽園の防衛神話構造]]
+
+### 第5333話
+
+- [[A_ch5333_alludes_to_E_ch5333_ミヒトネッセ_reveals_英雄の滑稽さ_p51_shakespearean_fool|シェイクスピア的道化による権威解体]]
+- [[A_ch5333_alludes_to_E_ch5333_剣_appears_as_天空の裂け目_p39_sword_of_damocles|頭上へのダモクレスの剣出現]]
+- [[A_ch5333_inverts_E_ch5333_レッテ_says_竜蛇の形_p34_heroic_tower_climax|英雄塔クライマックスの下品な反転]]
+- [[A_ch5333_structurally_matches_E_ch5333_イアテムの配下_transforms_六王の転生体_p264_reincarnation_trope|異世界転生メカニズムの明示的開示]]
+
+### 第5334話
+
+- [[A_ch5334_alludes_to_E_Cerberus_Summon_Mythology_Cerberus|雷属性化されたケルベロス召喚]]
+- [[A_ch5334_alludes_to_E_Virgil_Thunder_Zeus_Thor_Lightning|雷神権能への呪術的転換]]
+- [[A_ch5334_analogous_to_E_ChibiShura_Bureaucracy_Japanese_Ministry_Government_System|日本省庁機能の妖精インターフェース化]]
+- [[A_ch5334_analogous_to_E_Lubart_Technique_Mixed_Martial_Arts|複合格闘技としてのMMA]]
+- [[A_ch5334_inverts_E_Colcesca_Meta_Comment_Galge_Narrative_Structure|ギャルゲルート構造のメタ的否定]]
+- [[A_ch5334_structurally_matches_E_Marad_Dominion_Earth_Shake_Power|地震を揺るがす力の構造対応]]
+
+### 第5335話
+
+- [[A_ch5335_alludes_to_E_イアテムのFGM主張_Female_Genital_Mutilation_女性性器切除|FGM正当化論理の風刺的暗喩]]
+- [[A_ch5335_analogous_to_E_クレイの名前の変動_ガチャの排出履歴／シナリオ分岐|複数ルート確定過程の模倣]]
+- [[A_ch5335_analogous_to_E_間接キスによる懐胎_伝承・民話の夢で妊娠／類感呪術|類感呪術へのゲーム的再解釈]]
+- [[A_ch5335_inverts_E_六王の忠誠_騎士道物語の理想|騎士道の反英雄リアリズム転換]]
+- [[A_ch5335_parodies_E_コルセスカのゲーム化_リアリティショー／テレビ番組のフォーマット|リアリティショー的物語商品化]]
+- [[A_ch5335_structurally_matches_E_八つの断章の分配_TRPG／ボードゲームの役割分担|ボードゲーム的配分メカニクス]]
+
+### 第5336話
+
+- [[A_ch5336_alludes_to_E_zeno_side_biological_taxonomy|幻獣分類権限のメタ的行使]]
+- [[A_ch5336_inverts_E_family_cursing_social_media_influencer|血縁階層の呪術的量化構造]]
+- [[A_ch5336_parodies_E_mare_blanche_rubric_gacha_game_banner|ガチャバナー構成の模倣]]
+- [[A_ch5336_structurally_matches_E_virgil_intervention_game_master_gm|TRPGゲームマスター的介入]]
+
+### 第5337話
+
+- [[A_ch5337_alludes_to_E_ch5337_ラクルラール_appears_蜘蛛女_p109_spider_goddess_arachne|蜘蛛女神アラクネの魔性像]]
+- [[A_ch5337_analogous_to_E_ch5337_アキラ_uses_サイバーカラテ道場データ_p145_ai_game_coach|ゲームAIコーチ的データ解析]]
+- [[A_ch5337_analogous_to_E_ch5337_人形たち_has_property_消耗狙い_p15_grinding_gauntlet|雑魚敵によるリソース枯渇]]
+- [[A_ch5337_inverts_E_ch5337_ラクルラール_has_property_圧力不在_p114_lord_pressure|支配者圧力の不在による恐怖]]
+- [[A_ch5337_parodies_E_ch5337_トリシューラ_activates_第八断章知識リコグニション_p173_magic_tome_game_mechanic|魔導書の機械的機構化]]
+- [[A_ch5337_structurally_matches_E_ch5337_アルマ_has_property_糸による支配_p96_marionette_string|操り糸の視覚化と自由剥奪]]
+
+### 第5339話
+
+- [[A_ch5339_alludes_to_E_p57_drone_warfare_surveillance|UAV偵察システムのオマージュ]]
+- [[A_ch5339_analogous_to_E_p140_labor_as_commodity_marxism|労働力の商品化と疎外]]
+- [[A_ch5339_analogous_to_E_p165_cultural_assimilation_vs_multiculturalism|同化主義と多文化主義への機械嫌悪]]
+- [[A_ch5339_analogous_to_E_p6_academic_knowledge_gatekeeping|知識の門番による呪術情報の選別]]
+- [[A_ch5339_analogous_to_E_p86_nuclear_power_plant_safety_commission_scandal|原子力安全基準隠蔽的な脱出口遮断]]
+- [[A_ch5339_parodies_E_p5_technological_diffusion_history|軍民両用技術の歴史を果実と表現]]
+
+### 第5340話
+
+- [[A_ch5340_analogous_to_E_ch5340_トリシューラ_other_服装_p2_現代のブランド戦略とファッションリーダーとしての王族|セレブブランド効果的な王族着替え]]
+
+### 第5341話
+
+- [[A_ch5341_alludes_to_E_ch5341_ジンメンイナゴ_appears_空を埋め尽くす大群_p337_biblical_plagues_egypt|出エジプトの災いである顔付き蝗群]]
+- [[A_ch5341_alludes_to_E_ch5341_セリアック＝ニア_has_property_生死の曖昧さによる利用_p194_schrödinger's_cat|シュレーディンガーの猫的な霊体状態]]
+- [[A_ch5341_analogous_to_E_ch5341_アキラ_repairs_セリアック＝ニアの爪_p230_nail_salon_service|異世界ネイルアート的猫姫爪装飾]]
+- [[A_ch5341_analogous_to_E_ch5341_アキラ_says_経済的理由の反論_p102_modern_finance_class_struggle|課金格差的な呪石消耗コスト論争]]
+- [[A_ch5341_analogous_to_E_ch5341_アキラ_takes_赤色の呪石_p14_outdoor_gear_branding|戦場アウトドア化的な装備品持ち込み]]
+
+### 第5342話
+
+- [[A_ch5342_alludes_to_E_p222_hedgehog_dilemma|ハリネズミのジレンマ的親密距離論]]
+- [[A_ch5342_analogous_to_E_p2-p6_metaphor_of_love_as_physical_phenomenon|恋の物理力学的な流星落下寓喩]]
+- [[A_ch5342_analogous_to_E_p56-p58_civil_war_from_within|恋愛駆動の内発的内戦]]
+- [[A_ch5342_inverts_E_p241-p253_reincarnation_meeting_past_self|時間軸を超えた親族対面的逆説]]
+- [[A_ch5342_parodies_E_p10-p13_world_as_background_for_protagonist|主人公中心主義的世界背景定義]]
+
+### 第5343話
+
+- [[A_ch5343_alludes_to_E_ch5343_トリシューラ_wears_豚鼻ジャージ_p95_corrupted_brand_logo|変質したロゴ的な聖なる記号の汚染]]
+- [[A_ch5343_analogous_to_E_ch5343_サイバーカラテ道場_enables_効率的な練習_p132_ai_coaching_apps|AIコーチングへの転生]]
+- [[A_ch5343_inverts_E_ch5343_再生者_has_property_不死身_p57_sports_fair_play|不死身によるフェアプレイの逆転]]
+- [[A_ch5343_parodies_E_ch5343_サイバーカラテ道場_functions_as_情報交換の場_p71_online_gaming_forums|ネット掲示板論争のパロディ化]]
+- [[A_ch5343_structurally_matches_E_ch5343_球技大会_functions_as_戦争の続き_p137_soft_power_diplomacy|ソフトパワー外交への構造対応]]
+
+### 第5345話
+
+- [[A_ch5345_alludes_to_E_p14_Trojan_War_Agammemnon_Achilles|トロイアの英雄的不和]]
+- [[A_ch5345_analogous_to_E_p157_Aztec_Ballgame_Ritual|トラクチ儀式への連想]]
+- [[A_ch5345_analogous_to_E_p177_Cloud_Computing_Shared_Perception|共有AR環境との類似性]]
+- [[A_ch5345_foreshadows_E_p43_Time_Loop_Narrative_Trope|タイムループ叙事の伏線]]
+- [[A_ch5345_inverts_E_p165_Sports_As_Spectacle_Modern|現代観戦スポーツの逆転]]
+- [[A_ch5345_parodies_E_p109_AR_Gaming_Interface|ARゲームUIのパロディ化]]
+- [[A_ch5345_structurally_matches_E_p21_Mercenary_System_Late_Medieval|中世傭兵制度への構造対応]]
+
+### 第5346話
+
+- [[A_ch5346_alludes_to_E_p19_soccer_midfielder_role|センターMF機能の暗喩]]
+- [[A_ch5346_analogous_to_E_p4_autonomous_driving_systems|自動運転技術との類似性]]
+- [[A_ch5346_parodies_E_p43_cowboy_aesthetics|カウボーイ美学のパロディ化]]
+- [[A_ch5346_structurally_matches_E_p154_etymology_of_artificial_life|人工生命語源への構造対応]]
+
+### 第5347話
+
+- [[A_ch5347_alludes_to_E_p184-p193_match_fixing_scandal|八百長スキャンダルの暗喩]]
+- [[A_ch5347_alludes_to_E_p36-p48_ritual_sacrifice_and_feast|供犠と共食への転生]]
+- [[A_ch5347_alludes_to_E_p70-p79_divine_possession_in_sports|球神憑依によるヒーロー崇拝]]
+- [[A_ch5347_analogous_to_E_p2-p6_real_world_sports_cheerleading|競技の商業的観客参加型化]]
+- [[A_ch5347_analogous_to_E_p98-p106_real_time_strategy_simulation|FPS的戦況解析UIの導入]]
+- [[A_ch5347_parodies_E_p16-p25_game_cheat_character_usage|適材適所最適化のパロディ]]
+- [[A_ch5347_structurally_matches_E_p51-p53_sports_as_war_substitute|戦争代替としての娯楽構造]]
+
+### 第5348話
+
+- [[A_ch5348_alludes_to_E_ch5348_シナモリアキラ_appears_視線_p7476_アルゴリズムによる意思決定の外部化|AI的アルゴリズムへの依存]]
+- [[A_ch5348_alludes_to_E_ch5348_ルバーブ_thinks_アレッテの正体_p6265_王権神授説・血統の正統性|血統による王権神授の正当化]]
+- [[A_ch5348_analogous_to_E_ch5348_アレッテ・イヴニル_defines_古いラフディーボール_p148159_古代の人身供献・生贄|球技に潜む人身供献の儀礼]]
+- [[A_ch5348_analogous_to_E_ch5348_観客たち_transforms_暴徒_p24_ネット炎上・SNSの同調圧力|SNS的ヘイトと分断の再現]]
+- [[A_ch5348_parodies_E_ch5348_ガロアンディアン_other_文化浸透_p849197102_GAAP戦略・プラットフォームの囲い込み|GAAP戦略による文化的囲い込み]]
+
+### 第5349話
+
+- [[A_ch5349_alludes_to_E_p180_アクタント理論の引用_greimas_actantial_model|グレイマス的物語文法の引用]]
+- [[A_ch5349_alludes_to_E_p276_代替王権_agathotene_ritual|ゲド戦記的代替王権のメタファー]]
+- [[A_ch5349_analogous_to_E_p260_レトロフューチャーの義肢_retro_future_design|レトロフューチャー美学の具現化]]
+- [[A_ch5349_parodies_E_p151_最古のラフディーボール_aztec_ball_game|メソアメリカ球技儀礼のパロディ]]
+- [[A_ch5349_parodies_E_p60_国土交通シューラの宣言_public_infrastructure_management|公共インフラ管理への呪力還元パロディ]]
+
+### 第5350話
+
+- [[A_ch5350_alludes_to_E_p15_riot_control_tactics|群衆制御戦術の催涙ガス模倣]]
+- [[A_ch5350_alludes_to_E_p241_divine_right_of_kings|王権神授説への権威参照]]
+- [[A_ch5350_analogous_to_E_p260_game_mechanics_attribute|属性変換メカニクスの現実行使]]
+- [[A_ch5350_analogous_to_E_p2_anti_tank_weaponry|対戦車兵器としてのロケットランチャー]]
+- [[A_ch5350_inverts_E_p89_luddism|ラッダイト運動の機械破壊叫び]]
+- [[A_ch5350_structurally_matches_E_p72_labor_rights_and_displacement|労働権剥奪と疎外への義肢憎悪構造]]
+
+### 第5351話
+
+- [[A_ch5351_alludes_to_E_p200-p203_browning_pippa_passes|ピッパが通るの愛による言語塔貫通]]
+- [[A_ch5351_alludes_to_E_p48_greek_mythology_styx_rivers|冥界の河々への塔内比喩命名]]
+- [[A_ch5351_analogous_to_E_p18_ai_emotion_simulation|感情シミュレーションの人らしさ照合]]
+- [[A_ch5351_analogous_to_E_p2-p10_meta_narrator_and_god|語り手＝神の家事能力への矮小化]]
+- [[A_ch5351_analogous_to_E_p23-p24_world_tree_structure|世界樹構造の塔内多層宇宙示唆]]
+- [[A_ch5351_parodies_E_p106-p110_shonen_manga_cliches|少年漫画クリシェのメタ断罪]]
+
+### 第5354話
+
+- [[A_ch5354_alludes_to_E_ダモクレスの剣_Damocles_Sword|ダモクレスの剣による権力者破局象徴]]
+- [[A_ch5354_alludes_to_E_地位の断章_Frazer_Golden_Bough|金枝の代替王儀礼構造想起]]
+- [[A_ch5354_analogous_to_E_アルマの抗弁_Memory_Vs_History|記憶対歴史の不均衡と和解困難]]
+- [[A_ch5354_analogous_to_E_アルマの防御_Tank_Role|タンク役による被弾管理の模倣]]
+- [[A_ch5354_analogous_to_E_ルバーブの殺害_Corporate_Scapegoating|王権確立のためのスケープゴート犠牲]]
+- [[A_ch5354_analogous_to_E_転生者の罪_Historical_Reckoning|歴史的责任と恨の連鎖の反映]]
+- [[A_ch5354_analogous_to_E_金鎖システム_AutoSave_Checkpoint|オートセーブ・チェックポイントのメタファー]]
+- [[A_ch5354_inverts_E_マラードの竜化_Heroic_Dragon|英雄竜定石の逆転と愛の悲劇]]
+
+### 第5355話
+
+- [[A_ch5355_alludes_to_E_p41_ファンタジー小説の定型プロットドラゴンとプリンセス|竜と姫のステレオタイプへのメタ的嘲弄]]
+- [[A_ch5355_analogous_to_E_p57-p58_ゲームにおけるリスタート機能またはセーブデータからの読み込み|認識変更による物語の再構成]]
+- [[A_ch5355_inverts_E_p30-p32_美的基準の相対主義／文化的価値観の衝突|美を巡る権力闘争と文化相対主義]]
+- [[A_ch5355_parodies_E_p194_現代の社会貢献活動チャリティの自己満足の批判|上から目線のチャリティ自己満足への皮肉]]
+- [[A_ch5355_parodies_E_p8-p11_マリオネット／糸で操られる人形|運命の糸による操作的支配の比喩]]
+- [[A_ch5355_structurally_matches_E_p146-p149_植民地支配／宗主国と従属国の関係|衛星国家構造による社会歪みの反映]]
+
+### 第5357話
+
+- [[A_ch5357_alludes_to_E_bible_reference_bible_new_testament|新約聖書用語による叙任儀式の権威付け]]
+- [[A_ch5357_alludes_to_E_burgundy_history_folklore_bluebeard|青ひげ伝説における禁忌侵犯の構図]]
+- [[A_ch5357_alludes_to_E_damocles_sword_legend_of_dionysius_damocles|ダモクレスの剣による権力者の不安定さ象徴]]
+- [[A_ch5357_alludes_to_E_nokotta_attack_fighting_game_sokenagaishi|記号性を武器とする叫び]]
+- [[A_ch5357_analogous_to_E_faustian_bargain_faust_legend|魂と名前を対価とした悪魔との取引]]
+- [[A_ch5357_analogous_to_E_marriage_mechanics_sociological_theory_levi_strauss|レヴィ＝ストロース論への結婚観パロディ]]
+- [[A_ch5357_parodies_E_lupus_exodus_historical_exodus|出エジプト・ディアスポラの追放構図]]
+
+### 第5358話
+
+- [[A_ch5358_alludes_to_E_p4_philosophy_of_light_travel|光の速度と過去視の物理的暗喩]]
+- [[A_ch5358_analogous_to_E_p111_tensegrity_architecture|テンセグリティ構造の髪塔指喩]]
+- [[A_ch5358_analogous_to_E_p147_biomechanics_fascia|筋膜力学への負荷分散引用]]
+- [[A_ch5358_analogous_to_E_p331_visual_novel_mechanics|ビジュアルノベル構造のメタ自覚]]
+- [[A_ch5358_parodies_E_p256_gamification_of_violence|暴力のゲーミフィケーション皮肉模倣]]
+- [[A_ch5358_parodies_E_p63_exoskeleton_tech|エクソスケルトン技術のパロディ化]]
+
+### 第5362話
+
+- [[A_ch5362_alludes_to_E_Priestera_Kotatsu_Obsession_Japanese_Culture_Kotatsu_Mikan|コタツとミカンの文化移植暗喩]]
+- [[A_ch5362_analogous_to_E_Lassef_Name_Change_Urchio_RPG_Character_Build_Class_Swap|クラスチェンジの否定と仮面付け]]
+- [[A_ch5362_analogous_to_E_Lina_SNS_Post_Modern_Social_Media_Trend|SNSトレンド風刺としての珍事拡散]]
+- [[A_ch5362_analogous_to_E_Mirunya_Chocolate_Heartbeat_Biological_Symbiosis_Artificial_Organ|人工臓器模倣の生体錬金術]]
+- [[A_ch5362_parodies_E_Azuria_Chocolate_Transformation_Game_Mechanic_Gacha_Stat_Overflow|ガチャステ溢れのアイデンティティ再定義]]
+- [[A_ch5362_sublates_E_Harbert_Narrative_Structure_Prediction_Metaphiction_Genre_Tropes_Prediction|展開予測裏切りのメタフィクション止揚]]
+
+### 第5363話
+
+- [[A_ch5363_alludes_to_E_ch5363_p127_oscwotaku_culture|オタク文化変形の神格化風刺]]
+
+### 第5364話
+
+- [[A_ch5364_alludes_to_E_ch5364_ブレイスヴァカラテ_defines_時空操作の武術_p117_形意拳・実在武術の融合|形意拳とSFの武術体系融合暗喩]]
+- [[A_ch5364_analogous_to_E_ch5364_サリア_appears_氷の矢と未来語りの女_p160_ゲームの難易度調整・リトライ|高難度ステージのリトライ]]
+- [[A_ch5364_parodies_E_ch5364_聖マローズ教団_defines_自然崇拝と文明否定_p24_現代の社会不安・炎上・SNS|ネット炎上への終末論的風刺]]
+
+### 第5365話
+
+- [[A_ch5365_alludes_to_E_ch5365_カーティス_functions_as_歴史的災厄_p268_historical_plagues|吸血鬼瘴気と黒死病の暗喩]]
+- [[A_ch5365_alludes_to_E_ch5365_サリア_other_都市の恐怖_p60_modern_industrial_pollution|都市怪物による公害問題の投影]]
+- [[A_ch5365_alludes_to_E_ch5365_ブレイスヴァカラテの伝承者_other_サイバーカラテランキング_p359_online_game_ranking_system|サイバーカラテのオンライン競技化]]
+- [[A_ch5365_analogous_to_E_ch5365_サリア_other_楽しさ_p175_gamification_of_suffering|死のループ戦闘のゲーミフィケーション]]
+- [[A_ch5365_analogous_to_E_ch5365_サリア_transforms_杖_p27_mobile_factory_production_line|魔法の杖を工場ラインに再定義]]
+- [[A_ch5365_analogous_to_E_ch5365_サリア_wears_呪動装甲_p19_exoskeleton_industrialization|魔法鎧の外骨格工業化描写]]
+- [[A_ch5365_analogous_to_E_ch5365_ゼール・コゼーヌ_says_内面独白_p7_game_skip_feature|ループ戦闘の既読スキップ機能比喩]]
+
+### 第5366話
+
+- [[A_ch5366_alludes_to_E_p226_kasha_designation_yokai_taxonomy|火車命名による妖怪分類学利用]]
+- [[A_ch5366_alludes_to_E_p60_cyber_karate_dojo_game_mechanics_module|ゲーム機構モジュールの戦闘自動化]]
+- [[A_ch5366_analogous_to_E_p29_drone_misinformation_corporate_overreporting|兵器実力過剰報告の皮肉]]
+- [[A_ch5366_analogous_to_E_p51_urchin_fortress_modern_defense_architecture|近代要塞構造のメタ戦術下敷き]]
+- [[A_ch5366_analogous_to_E_p91_mass_media_support_political_publicity_campaign|独裁者対抗戦のプロパガンダ操作]]
+- [[A_ch5366_parodies_E_p153_cyber_karate_ranking_online_game_leaderboard|称号剥奪のMMOランキング模倣]]
+
+### 第5367話
+
+- [[A_ch5367_alludes_to_E_ch5367_カマいたち_kills_探索者_p120135_yaku_kamaitachi|風による殺害と鎌鼬伝承の暗喩]]
+- [[A_ch5367_alludes_to_E_ch5367_塗壁ぬりかべ_names_シナモリアキラ_p239241_yaku_nurikabe|巨漢通せんぼの塗壁妖怪化]]
+- [[A_ch5367_alludes_to_E_ch5367_大入道_kills_第五階層の住民_p9195_biblical_flood|ネフィリムとノアの洪水の暗喩]]
+- [[A_ch5367_alludes_to_E_ch5367_樵きこり_other_ティリビナ人_p192205_yaku_jorogumo|絡新婦伝承へのチェーンソー樵の対比]]
+- [[A_ch5367_alludes_to_E_ch5367_自警団_captures_カマいたち_p142168_yaku_dodomeki|百々目鬼伝承への自警団監視機能の喩え]]
+- [[A_ch5367_analogous_to_E_ch5367_ギャルシューラ_transforms_犯罪者カマいたち_p180184_sns_algorithm_control|アルゴリズム支配による精神操作と規範化]]
+- [[A_ch5367_inverts_E_ch5367_アキラ_says_ヒーローの定義_p72_classic_heroism|古典的英雄像の独善的暴力への反転]]
+- [[A_ch5367_parodies_E_ch5367_アキラ_appears_第五階層の居酒屋_p6063_super_sentai_hero|特撮ヒーローパロディによる正義の解体]]
+- [[A_ch5367_structurally_matches_E_ch5367_システム_names_アキラ鵺_p87_yaku_nue|鵺伝承への正体不明存在の命名構造対応]]
+
+### 第5369話
+
+- [[A_ch5369_alludes_to_E_p296-p306_cyberpunk_emotion_simulation|身体技法による感情生成と自我形成の暗喩]]
+- [[A_ch5369_alludes_to_E_p69-p108_modern_japan_entertainment_industry_apology|芸能謝罪会見プロトコルの吸血鬼への転写]]
+- [[A_ch5369_analogous_to_E_p130-p152_professional_wrestling_meta_theory|エンタメ論としてのレスリング愛好の示唆]]
+- [[A_ch5369_inverts_E_p174-p176_isekai_reincarnation_trope_name_change|異世界転生定番改名の拒絶と自我希求]]
+- [[A_ch5369_parodies_E_p2-p37_philosophy_nihilism|ニヒリズム世界観の虚ろさ体現]]
+- [[A_ch5369_structurally_matches_E_p24-p67_time_travel_narrative_structure|因果律逆転の時間旅行構文への構造対応]]
+
+### 第5370話
+
+- [[A_ch5370_alludes_to_E_p126_naming_convention_change|コードから固有人格への回帰を意味する命名]]
+- [[A_ch5370_alludes_to_E_p14_internet_search_engine|検索エンジン利用によるロア参照のネット民化]]
+- [[A_ch5370_alludes_to_E_p42_prophecy_in_narrative|物語内の予言・メタ介入の暗示]]
+- [[A_ch5370_alludes_to_E_p51_character_break_in_fandom|ファンダム特有のキャラ崩壊批判のメタ言説]]
+- [[A_ch5370_alludes_to_E_p76_meta_level_reference|メタレベル参照への介入]]
+- [[A_ch5370_analogous_to_E_p146_jungian_individuation|ユング的インディヴィデュエーション]]
+- [[A_ch5370_analogous_to_E_p16_crowdsourced_data_analysis|共同編集型データ解析]]
+- [[A_ch5370_analogous_to_E_p19_ai_counter_attack_mechanic|AI敵対的学習の逆探知]]
+- [[A_ch5370_analogous_to_E_p215_modular_character_design|キャラクターの部品分解]]
+- [[A_ch5370_analogous_to_E_p30_game_item_power_leveling|装備底上げによるメタ戦略]]
+- [[A_ch5370_analogous_to_E_p62_content_moderation_policy|言論自由と暴力禁止政策]]
+
+### 第5371話
+
+- [[A_ch5371_alludes_to_E_ch5371_トリシューラ_appears_as_ファッションリーダー_p105_fashion_brand_power|ブランド自己演出としての魔女]]
+- [[A_ch5371_alludes_to_E_ch5371_老人吸血鬼_other_E-E吸脳鬼_p224_sharkaku_legend|ザッハーク伝承の再定義]]
+- [[A_ch5371_analogous_to_E_ch5371_オルヴァ_loves_似顔絵_p7_fourth_dimensional_painting|四次元画法による時系列描写]]
+- [[A_ch5371_analogous_to_E_ch5371_グレンデルヒ・ライニンサル_uses_カードゲーム_p42_multi_tasking_gaming_addiction|マルチタスク依存症の風刺]]
+- [[A_ch5371_analogous_to_E_ch5371_老人吸血鬼_other_E-E吸脳鬼_p224_data_extraction_and_headache|知性抽出と自制心の喪失]]
+
+### 第5372話
+
+- [[A_ch5372_alludes_to_E_p176_pro_amateur_sports_rivalry|プロ対アマチュアの実力差]]
+- [[A_ch5372_alludes_to_E_p304_jealousy_and_grief_conversion|嫉妬悲嘆の暴力化]]
+- [[A_ch5372_analogous_to_E_p10_infantile_omnivore_metaphor|食人的愛着と完全占有]]
+- [[A_ch5372_analogous_to_E_p277_social_stigma_and_status_loss|社会的排除と地位剥奪]]
+- [[A_ch5372_parodies_E_p43_impostor_syndrome_identity_theft|なりすましによる自己解体]]
+
+### 第5374話
+
+- [[A_ch5374_alludes_to_E_chain_saw_man_death_denial_zombification_horror_tropes|不死身ホラーの死の否認]]
+- [[A_ch5374_alludes_to_E_ecclesiastes_quote_book_of_ecclesiastes_bible|コヘレトの言葉による虚無暗示]]
+- [[A_ch5374_alludes_to_E_{chain_saw_man_death_denial}_zombification_horror_tropes|不死身ホラーの恐怖体現]]
+- [[A_ch5374_alludes_to_E_{ecclesiastes_quote}_{book_of_ecclesiastes_bible}|コヘレトの言葉による虚無]]
+- [[A_ch5374_structurally_matches_E_lion_king_death_scene_gods_of_the_ancient_world_mythology|古代神話体系の統治者死と崩壊]]
+- [[A_ch5374_structurally_matches_E_{lion_king_death_scene}_{gods_of_the_ancient_world_mythology}|神話的終末論と王殺し]]
+
+### 第5375話
+
+- [[A_ch5375_alludes_to_E_p2-p4_solipsism_philosophy|唯我論のモンスター化]]
+- [[A_ch5375_alludes_to_E_p219_fusion_of_concepts|異質概念融合による悪夢]]
+- [[A_ch5375_alludes_to_E_p43_last_thursdayism|世界創造直前の時間遡行]]
+- [[A_ch5375_alludes_to_E_p57_tokusatsu_hero_concept|特撮変身ベルトの魔術体系化]]
+- [[A_ch5375_analogous_to_E_p150-p164_metagame_management|神視点によるメタゲーム操作]]
+- [[A_ch5375_parodies_E_p64_rpg_expert_trope|RPG賢者役のメタ自覚パロディ]]
+
+### 第5376話
+
+- [[A_ch5376_alludes_to_E_ch5376_レオ_travels_通路_p2_trading_card_game_tcg|TCG用語体系による戦闘実装]]
+- [[A_ch5376_alludes_to_E_ch5376_レオ_travels_通路_p2_yokai_joro_gumo|世界を歪める妖怪の捕食性]]
+- [[A_ch5376_analogous_to_E_ch5376_レオ_travels_通路_p2_tokusatsu_hero_trope|特撮ヒーローの定型構図模倣]]
+- [[A_ch5376_inverts_E_ch5376_レオ_travels_通路_p2_mythological_hierarchy|神話的権威の格下げによる恐怖相対化]]
+- [[A_ch5376_parodies_E_ch5376_レオ_travels_通路_p2_horror_to_comedy_genre_shift|ジャンル転換を武器としたメタパロディ]]
+- [[A_ch5376_structurally_matches_E_ch5376_レオ_travels_通路_p2_arlechino_commedia_dell_arte|アルレッキーノの行動様式実装]]
+
+### 第5377話
+
+- [[A_ch5377_alludes_to_E_ch5377_レオ_other_仲良しへの呼びかけ_p163_Anime_Kodomo_no_Majime|言語的和解による対立解消構造]]
+- [[A_ch5377_analogous_to_E_ch5377_レオ_other_伐採の意義_p139_Sustainable_Development|開発と自然の共生思想]]
+- [[A_ch5377_structurally_matches_E_ch5377_トリシューラ_other_小鬼化_p210_Burnout_Empathy|共感枯渇による人格の矮小化]]
+- [[A_ch5377_sublates_E_ch5377_レオ_other_完全な勝利_p190_Paradox_of_Non-Violence|感情浸透による非暴力のパラドックス]]
+
+### 第5378話
+
+- [[A_ch5378_alludes_to_E_p5_magic_contagion_law|類似の法則に基づく魔術的連想]]
+- [[A_ch5378_analogous_to_E_p205_burnout_syndrome|理想主義の燃え尽き症候群]]
+- [[A_ch5378_analogous_to_E_p2_kubler_ross_model|グリーフケア五段階への構造的類似]]
+- [[A_ch5378_analogous_to_E_p40_pet_owner_behavior|ペット飼育者の強迫的支配行為]]
+- [[A_ch5378_inverts_E_p148_colonial_history_genocide|植民地ジェノサイドへの信仰的逆転]]
+
+### 第5379話
+
+- [[A_ch5379_alludes_to_E_ch5379_子泣き爺_takes_塗壁の感覚と巨人の力_p85_日本の妖怪伝承・子泣き爺|子泣き爺の能力吸収者への書換え]]
+- [[A_ch5379_analogous_to_E_ch5379_ラウス＝ベフォニス_has_property_感情制御アプリ_p22_AR技術・SNSフィルター|ARフィルターによる感情遮断の構造]]
+- [[A_ch5379_analogous_to_E_ch5379_百々目鬼_defines_サイバーカラテ夜警国家_p279_マックス・ウェーバーの合法暴力独占論|最小国家論への暴力独占置換]]
+- [[A_ch5379_analogous_to_E_ch5379_鬼_has_property_杖と邪視の複合呪術_p47_シミュレーション仮説・プラグイン脳|水槽の中の脳による知覚改変]]
+- [[A_ch5379_inverts_E_ch5379_鬼_bonds_塗壁_p8_友情と裏切りの逆転・友を殺す構造|友情の絆を裏切りで破壊する逆転]]
+- [[A_ch5379_parodies_E_ch5379_鬼_promises_再戦_p14_少年漫画のライバル関係・バトルアニメの約束|ライバルの約束のクリシェパロディ]]
+- [[A_ch5379_structurally_matches_E_ch5379_鬼_has_property_角杖の産物_p51_サイバーパンクにおける脳直結インターフェース・インプラント|脳直結インターフェースによる改変]]
+
+### 第5381話
+
+- [[A_ch5381_alludes_to_E_ch5381_百々目鬼_observes_カーイン_p2_minarchist_state_theory|夜警国家概念の契約体系への置換]]
+- [[A_ch5381_analogous_to_E_ch5381_百々目鬼_observes_カーイン_p2_gacha_game_rarity_system|ガチャレアリティによる序列支配]]
+- [[A_ch5381_analogous_to_E_ch5381_百々目鬼_observes_カーイン_p2_remote_work_video_conference|遠隔通信技術の魔術的基盤化]]
+- [[A_ch5381_inverts_E_ch5381_百々目鬼_observes_カーイン_p2_truck_transmutation_cliché|転生者外部介入によるメタ構造逆転]]
+- [[A_ch5381_parodies_E_ch5381_百々目鬼_observes_カーイン_p2_social_media_platforms|生活基盤化プロセスのSNS風刺]]
+- [[A_ch5381_structurally_matches_E_ch5381_百々目鬼_observes_カーイン_p2_infinite_regression_homunculus_argument|頭蓋内小人による無限後退可視化]]
+
+### 第5383話
+
+- [[A_ch5383_alludes_to_E_p109-p116_kaeshi_yuugisha|鎌鼬の風による切断と不気味生存]]
+- [[A_ch5383_alludes_to_E_p212_kabbalah_adam_kadmon|カバラ的宇宙巨人としての自己実現]]
+- [[A_ch5383_analogous_to_E_p102-p103_public_domain_character|パブリックドメインキャラの所有権希薄化]]
+- [[A_ch5383_inverts_E_p170-p172_isekai_hero_archetype|英雄化に伴う人間性の喪失の逆説]]
+- [[A_ch5383_parodies_E_p37-p40_divine_right_of_kings|聖油による王権神授の魔術的正当化]]
+- [[A_ch5383_parodies_E_p98-p100_mobile_game_gacha_mechanics|ガチャ課金によるリソース搾取の体現]]
+
+### 第5385話
+
+- [[A_ch5385_alludes_to_E_final_move_cyber_karate_martial_art|超常的なサイバーカラテのメタ引用]]
+- [[A_ch5385_alludes_to_E_virgil_identity_buddhism_king_of_netherworld|冥府の主の多層的死後支配]]
+- [[A_ch5385_analogous_to_E_game_board_strategy_video_games|遊戯化する現実世界の戦略的対決]]
+- [[A_ch5385_analogous_to_E_kashram_hierarchy_social_stratification_system|叙任権能による階級固定化の批判]]
+- [[A_ch5385_analogous_to_E_warsheura_manipulation_narrative_control_mechanics|対立を維持するGM的干渉装置]]
+
+### 第5388話
+
+- [[A_ch5388_alludes_to_E_p179_sword_of_damocles|権力者の脆弱性を象徴する骨剣]]
+- [[A_ch5388_analogous_to_E_p148_freudian_death_drive|フロイト的生・死の欲動の心理学引用]]
+- [[A_ch5388_analogous_to_E_p17_modern_legal_compensation_systems|戦後補償を模した魔法的損害算定]]
+- [[A_ch5388_analogous_to_E_p212_mirror_as_metaphor_for_the_other|鏡による自我と他者の境界侵食]]
+- [[A_ch5388_analogous_to_E_p32_psychological_stress_measurement|PTSD診断に基づくストレス値換算]]
+- [[A_ch5388_analogous_to_E_p52_monetization_of_suffering_debate|尊厳と金銭補償の倫理的緊張]]
+
+### 第5389話
+
+- [[A_ch5389_alludes_to_E_ch5389_パーン_other_ラクルラール_p181_saturn_devouring_his_children|クロノスの子食らいを想起する自食]]
+- [[A_ch5389_alludes_to_E_ch5389_パーン_says_リビドーとデストルドーの不一致_p128_freudian_drives_life_and_death|エロスとタナトスの葛藤の暗喩]]
+- [[A_ch5389_analogous_to_E_ch5389_ヴァージル_says_生を与える権力_p86_virtual_reality_archives|デジタル永生としての魂のアーカイブ]]
+- [[A_ch5389_analogous_to_E_ch5389_ヴァージル_says_管理する王国_p76_modern_welfare_state_bureaucracy|福祉官僚制への統治モデルの転写]]
+- [[A_ch5389_parodies_E_ch5389_女王の庇護_enables_じゃれ合い_p147_video_game_narrative_structure|ゲーム的物語構造への死生観のパロディ]]
+- [[A_ch5389_structurally_matches_E_ch5389_ヴァージル_transforms_パーンを少年姿へ_p157_child_mind_paradigm_in_magic|童心の魔法論による世界法則上書き]]
+
+### 第5390話
+
+- [[A_ch5390_alludes_to_E_p123_genital_worship_fertility_cult|豊穣信仰における男根崇拝の模倣]]
+- [[A_ch5390_alludes_to_E_p48_authority_literary_canon|文学的正典成立過程への権威形成の暗喩]]
+- [[A_ch5390_analogous_to_E_p16_keylogger_keylogger_malware|キーロガーによる情報搾取構造の模倣]]
+- [[A_ch5390_analogous_to_E_p20_physics_attack_gacha_game_meta|ガチャゲーム的総当たり戦法のメタ言及]]
+- [[A_ch5390_analogous_to_E_p45_dragon_tulpa_egregore|集団思考によるエルゴレ生成の模倣]]
+- [[A_ch5390_inverts_E_p53_counter_spell_magic_system_logic|魔術体系の論理を逆転させる対抗呪文]]
+
+### 第5391話
+
+- [[A_ch5391_alludes_to_E_ch5391_ダモクレスの剣_other_王権_p46_ギリシャ神話におけるダモクレスの剣|ダモクレスの剣による王権脆性の視覚化]]
+- [[A_ch5391_analogous_to_E_ch5391_パーン_other_派手な祭り_p265_現代のフェスティバル・ライブイベント外部参戦|外部参戦フェスへの物語スケール拡大]]
+- [[A_ch5391_analogous_to_E_ch5391_ミシャルヒ_other_もう一人のパーン_p222_ドッペルゲンガー二重存在の民俗伝承|ドッペルゲンガー蘇生能力への再構成]]
+- [[A_ch5391_analogous_to_E_ch5391_ヴァージル_learns_優生学_p9_20世紀の優生思想・ナチス的イデオロギー|優生学・ナチズム政策への歴史引喩]]
+- [[A_ch5391_analogous_to_E_ch5391_兎たち_makes_ネットの海_p4_インターネット上のヘイトスピーチ・匿名掲示板|匿名ネット空間での憎悪拡散構造]]
+- [[A_ch5391_analogous_to_E_ch5391_太陰_has_property_不可分な血統_p4_現代社会における混血に対する差別・イデオロギーの構築|純血主義的排除による社会的境界線]]
+
+### 第5392話
+
+- [[A_ch5392_alludes_to_E_オルヴァの舞台認識_shakespeare_the_world_is_a_stage|世界は舞台なりという運命論的比喩]]
+- [[A_ch5392_alludes_to_E_カシュラムの諺_buddhist_concept_of_voidness|仏教の空への対立相殺と虚無]]
+- [[A_ch5392_analogous_to_E_ルリのアンタゴニスト解説_pharmacology_antagonist_drugs|感情を物理遮断する拮抗薬隐喻]]
+- [[A_ch5392_parodies_E_AR亡霊とヘイトの混在_social_media_hate_and_trends|AR亡霊による炎上商法の風刺]]
+- [[A_ch5392_parodies_E_ルリによるプロタゴニスト命名_sword_art_online_protagonist_naming|SAO型命名の自己言及的風刺]]
+
+### 第5393話
+
+- [[A_ch5393_alludes_to_E_ch5393_ルリ_asks_世界の創作性_p7_biblical_ecclesiastes|コヘレトの言葉による虚無暗示]]
+- [[A_ch5393_alludes_to_E_ch5393_ルリ_asks_世界の創作性_p7_saints_martyrs|使徒概念借用による権威付与]]
+- [[A_ch5393_analogous_to_E_ch5393_ルリ_asks_世界の創作性_p7_ai_emotional_emulator|感情エミュレータへの技術メタファー]]
+- [[A_ch5393_analogous_to_E_ch5393_ルリ_asks_世界の創作性_p7_reincarnation_karma|輪廻と因果応報の呪い転生]]
+- [[A_ch5393_analogous_to_E_ch5393_ルリ_asks_世界の創作性_p7_sword_of_damocles|ダモクレスの剣の怪物化変貌]]
+- [[A_ch5393_inverts_E_ch5393_ルリ_asks_世界の創作性_p7_protagonist_cheat_ability|低次元存在肯定の逆説的英雄観]]
+- [[A_ch5393_parodies_E_ch5393_ルリ_asks_世界の創作性_p7_metafiction_narrator|メタフィクショナル構造の劇中論]]
+- [[A_ch5393_structurally_matches_E_ch5393_ルリ_asks_世界の創作性_p7_narrator_character_duality|語り手と役者の自己参照構造]]
+
+### 第5394話
+
+- [[A_ch5394_alludes_to_E_ch5394_トリシューラ_names_パンデミック_p175183_SARS_Virus|SARSウイルスのファンタジー呪い化]]
+- [[A_ch5394_alludes_to_E_ch5394_詩_defines_名声の虚栄_p26_Dante_Inferno_Canto11|ダンテ煉獄篇詩句による虚栄批判]]
+- [[A_ch5394_alludes_to_E_ch5394_詩_defines_名声の虚栄_p26_Solomon_Ecclesiastes_Vanity|コヘレト的虚無概念との共鳴]]
+- [[A_ch5394_analogous_to_E_ch5394_オルヴァ_confesses_女神への執着と嫉妬_p235261_Oedipus_Complex_Trauma|母再婚トラウマ由来の屈辱性癖]]
+- [[A_ch5394_analogous_to_E_ch5394_トリシューラ_observes_音ゲー要素_p289291_Rhythm_Game_Mechanics|リズムゲーム進行条件の自己言及]]
+- [[A_ch5394_parodies_E_ch5394_イツノ_bonds_アキラ_p107109_Robotics_Safety_Protocols|ロボットの安全プロトコルへの拒絶反応]]
+- [[A_ch5394_parodies_E_ch5394_ラリスキャニア_appears_as_地下アイドル_p275281_Japanese_Underground_Idol_Culture|怪物による地下アイドル握手会パロディ]]
+
+### 第5396話
+
+- [[A_ch5396_alludes_to_E_CurseFoodRule_Mythology_UnderworldFood|黄泉の食禁忌による帰還不能化]]
+- [[A_ch5396_alludes_to_E_Smarto_Backstory_ReligiousPersecutionHistory|魔女狩り型宗教迫害のメタファー]]
+- [[A_ch5396_analogous_to_E_CostumeCardSystem_FashionGameMechanic|アバター召喚UIへの衣装転写]]
+- [[A_ch5396_analogous_to_E_JewelryCats_Promotion_CommercialIdolStrategy|アイドルCM起用によるダブルネーム戦略]]
+- [[A_ch5396_analogous_to_E_MagicalAppeal_Types_PerformanceArtGenres|視覚演出対物語演出のゲーム化]]
+- [[A_ch5396_inverts_E_Smarto_MetaphysicalCurse_NarrativeTropes_VillainIntro|言葉による敵役導入呪詛の逆転]]
+- [[A_ch5396_parodies_E_MagicalAppeal_Definition_IdolBrandingSystem|アイドル・ブランディングのファンタジー再定義]]
+- [[A_ch5396_structurally_matches_E_Akira_NoSelfIdentity_IsekaiProtagonistDissonance|アバター同調による自己同一性喪失]]
+
+### 第5398話
+
+- [[A_ch5398_alludes_to_E_ch5398_ミルーニャ_says_一日マネージャー業務_p2_necromancy_and_music_genre|ネクロメタル特性の内的定義]]
+- [[A_ch5398_analogous_to_E_ch5398_ミルーニャ_says_一日マネージャー業務_p2_living_dungeon_game_mechanics|迷宮運営システムへのライブ対決組み込み]]
+- [[A_ch5398_foreshadows_E_ch5398_ミルーニャ_says_一日マネージャー業務_p2_divine_regalia_inheritance|王権象徴継承による物語生成開始]]
+- [[A_ch5398_parodies_E_ch5398_ミルーニャ_says_一日マネージャー業務_p2_idol_manager_experience|素人マネージャー格差の演出]]
+- [[A_ch5398_structurally_matches_E_ch5398_ミルーニャ_says_一日マネージャー業務_p2_metaphysical_writing_process|メタフィクショナルな小説執筆構造]]
+
+### 第5399話
+
+- [[A_ch5399_alludes_to_E_ch5399_アルマ_other_神滅具の由来ゲームMOD_p211_video_game_modding|ゲームMODによるメタ構造]]
+- [[A_ch5399_alludes_to_E_ch5399_ペイズリー模様_defines_世界各地の自然発生_p8_cultural_diffusion|文化拡散論の暗喩]]
+- [[A_ch5399_analogous_to_E_ch5399_うずめ_other_握手会の実施_p312_machine_learning_few_shot|模倣学習による最適化]]
+- [[A_ch5399_analogous_to_E_ch5399_ヒュドラボルテージニワトリ_appears_炎の冠／マスコット_p136_pet_companion_system|召喚獣システムの模倣]]
+- [[A_ch5399_analogous_to_E_ch5399_触手_captures_観客_p24_handshake_event|握手会接触承認のメタファー]]
+
+### 第5400話
+
+- [[A_ch5400_alludes_to_E_ch5400_ゼド_confesses_欲望_p201_liturgic_lighting|儀礼的灯りによる贖罪像]]
+- [[A_ch5400_alludes_to_E_ch5400_第五階層地下刑務所_is_located_暗黒と力の支配下_p35_prison_system|刑務所制度の対比構造]]
+- [[A_ch5400_analogous_to_E_ch5400_アキラ_other_握力_p12_physical_idol_handshake|握手会文化の身体接触]]
+- [[A_ch5400_analogous_to_E_ch5400_リールエルバ_other_バーチャル握手会_p59_virtual_influencer|バーチャルインフルエンサー葛藤]]
+- [[A_ch5400_inverts_E_ch5400_ゼド_other_殺し屋の欠点_p173_professionalism_vs_amateurism|職業主義の逆転肯定]]
+- [[A_ch5400_parodies_E_ch5400_アキラ_other_本質_p100_gacha_game_optimization|レコメンド最適化のパロディ]]
+- [[A_ch5400_structurally_matches_E_ch5400_アキラ_other_グッズ_p62_mascot_marketing|マスコット化と推し活]]
+
+### 第5401話
+
+- [[A_ch5401_analogous_to_E_p46_narrative_control_game_design_balancing|ゲームバランス調整の類似]]
+- [[A_ch5401_inverts_E_p103_sacred_profane_jpop_idol_industry|アイドル産業聖俗の逆転]]
+- [[A_ch5401_structurally_matches_E_p91_frozen_torch_black_sabbath|ブラックサバスの構造対応]]
+
+### 第5402話
+
+- [[A_ch5402_alludes_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Anubis_Egyptian_Mythology|アヌビス神話への冷凍睡眠の暗喩]]
+- [[A_ch5402_alludes_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Rock_Band_Trope|ロックバンド伝記映画のクリシェ引用]]
+- [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_AR_Smartphone_Games|ARゲーム的HUD演出のメタフィクション]]
+- [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Cryonics_RealWorld|人体冷凍保存技術との科学的類似]]
+- [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Freudian_Unconscious|集合的無意識による人格生成の構造]]
+- [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Popular_Music_Idol_Groups|大型アイドルグループ構造の模倣]]
+- [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_RealWorld_Legal_System|神々への訴訟による法的賠償請求]]
+- [[A_ch5402_inverts_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Necrometal_Genre|ネクロメタル美学のコメディ的逆転]]
+- [[A_ch5402_parodies_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Isekai_Turnip_System_UI|異世界転生システムUIのパロディ化]]
+- [[A_ch5402_structurally_matches_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Psychological_Analysis_AI|AIによるパターン認識と人格再構成]]
+
+### 第5403話
+
+- [[A_ch5403_alludes_to_E_夢における熱学センサと花火_AR・XR技術の可視化|IoTインタラクティブ演出のメタファー]]
+- [[A_ch5403_analogous_to_E_夢での親密圏データ比較_ビッグデータ解析・プライバシーの侵害|アルゴリズム監視社会への批判的描写]]
+- [[A_ch5403_analogous_to_E_朱色の夢の構造_プラットフォーム経済・SNSビジネスモデル|UGCプラットフォーム経済との一致]]
+- [[A_ch5403_inverts_E_動物想ファウナの登場_MEグリム童話ヘンゼルとグレーテル・おとぎ話|ヘンゼルとグレーテルの異質性による逆転]]
+- [[A_ch5403_parodies_E_夢の法則予測_AI機械学習モデル|深層学習予測モデルの擬人化]]
+- [[A_ch5403_structurally_matches_E_アマランサスの人形劇_MEアイドルグループの運営システムAKB48型等|AKB型アイドル運営構造の模倣]]
+
+### 第5404話
+
+- [[A_ch5404_alludes_to_E_p157-p168_Noh_Theatre_Mask_and_Puppetry|能面と糸操り人形の暗喩]]
+- [[A_ch5404_analogous_to_E_p240-p246_Gacha_Unit_Synergy_and_Meta_Strategy|低レア対メタ編成戦略の模倣]]
+- [[A_ch5404_analogous_to_E_p80-p92_Literacy_and_Media_Literacy_Gap|マルチモーダル疎外によるリテラシー断絶]]
+- [[A_ch5404_parodies_E_p117-p120_Reincarnation_Cycle_Game_Respawn|リスポーン構造のパロディ化]]
+- [[A_ch5404_parodies_E_p190-p192_Tabloid_Gossip_and_Fan_Radicalism|タブロイドと過激な推し文化の風刺]]
+- [[A_ch5404_parodies_E_p2-p10_Metaphor_of_Awakening_in_Game_UI|ゲーム的目覚め演出のパロディ]]
+- [[A_ch5404_structurally_matches_E_p37_Battle_Royale_Game_Mechanic|バトルロイヤル様式の構造対応]]
+
+### 第5406話
+
+- [[A_ch5406_alludes_to_E_ch5406_名声_has_property_価値_p2_online_stalking_and_harassment|ネットストーカー被害の暗喩]]
+- [[A_ch5406_alludes_to_E_ch5406_名声_has_property_価値_p2_spectacle_of_crowd_psychology|群衆心理学とオタク嫉妬の暗喩]]
+- [[A_ch5406_analogous_to_E_ch5406_名声_has_property_価値_p2_divine_wrath_and_natural_disaster|天罰と災害への類推]]
+- [[A_ch5406_analogous_to_E_ch5406_名声_has_property_価値_p2_modern_social_media_metrics|SNS指標の通貨化との類似]]
+- [[A_ch5406_inverts_E_ch5406_名声_has_property_価値_p2_vampire_mythology|吸血鬼伝承の逆転と再定義]]
+- [[A_ch5406_structurally_matches_E_ch5406_名声_has_property_価値_p2_public_figure_scandal_handling|芸能界スキャンダル対応の模倣]]
+
+### 第5407話
+
+- [[A_ch5407_alludes_to_E_clay_demand_myth_of_aphrodite|戦国乱世へのアフロディーテ神話暗喩]]
+- [[A_ch5407_alludes_to_E_fauna_blindness_myth_of_aphrodite|冥界再生観の神話的暗喩]]
+- [[A_ch5407_analogous_to_E_clay_demand_metaphor_of_obsession|再生者の義務による死後の役割永続化]]
+- [[A_ch5407_analogous_to_E_fauna_blindness_metaphor_of_obsession|熱病を介した恋慕の理性侵食]]
+
+### 第5408話
+
+- [[A_ch5408_alludes_to_E_ch5408_ゼド_other_判官贔屓_p201_source_of_heroes_fandom|判官贔屓を用いた観客心理のメタ演出]]
+- [[A_ch5408_analogous_to_E_ch5408_船頭_asks_クレイ_p108_charon_mythology|カロン神話を模した生い立ちへの引き摺り込み]]
+- [[A_ch5408_parodies_E_ch5408_クレイ_other_閉眼舞い_p255_blindfold_performance_trope|目隠し舞踏による心眼研ぎ澄ましの儀式]]
+- [[A_ch5408_parodies_E_ch5408_三頭犬_other_門_p97_cerberus_mythology|ケルベロスを模した冥界の門番]]
+- [[A_ch5408_parodies_E_ch5408_島_other_人面_p36_sinking_land_of_the_dead|大地に潜む死者開拓の痕跡]]
+- [[A_ch5408_parodies_E_ch5408_時_other_大河_p103_river_styx_mythology|ステュクスを模した死への境界河]]
+
+### 第5409話
+
+- [[A_ch5409_analogous_to_E_ch5409_洞窟_has_property_死の楽園_p2_paradise_of_death|生と死が逆転する洞窟の楽園]]
+
+### 第5410話
+
+- [[A_ch5410_analogous_to_E_ch5410_アキラ_other_心地良い痛み_p2_app_gamification|痛覚を快楽へ反転させるアプリの知覚操作]]
+
+### 第5411話
+
+- [[A_ch5411_alludes_to_E_ch5411_海の民_other_呪いの歌_p239_jk_gender_anxiety|ジェンダー不安を示す男根切除要求]]
+- [[A_ch5411_alludes_to_E_ch5411_海の民_other_社会の風潮_p174_jp_wokism_critique|現代のウェイク文化批判を移植した世界観]]
+- [[A_ch5411_analogous_to_E_ch5411_ファウナ_transforms_クレイのファンたち_p28_jp_fandom_deification|牧者に管理される羊型アイドルファンダム]]
+- [[A_ch5411_analogous_to_E_ch5411_海の民_other_端末_p153_smartphone_customization|貝殻装飾によるガジェットカスタム文化の風刺]]
+- [[A_ch5411_analogous_to_E_ch5411_海の民_other_衣服_p186_jp_male_grooming_norms|全裸競合に表れた男らしさ規範の閉鎖性]]
+- [[A_ch5411_parodies_E_ch5411_クレイ_other_高みを目指す決意_p10_jp_idol_training_trope|アイドル修行規範の異世界への混在]]
+
+### 第5412話
+
+- [[A_ch5412_alludes_to_E_ch5412_イアテム_transforms_緑色の長髪の黒衣の麗人_p60_vampire_archetype|吸血鬼原型への多面性転生]]
+- [[A_ch5412_alludes_to_E_ch5412_ミヒトネッセ_says_私はくるみ割り人形ナットクラッカー。ねじの壊れた性玩具_p207_nutcracker_doll|くるみ割り人形の性的象徴歪曲]]
+- [[A_ch5412_analogous_to_E_ch5412_ファンたち_makes_悪夢めいた感情の一箇所を目指して解き放たれようとする_p123_sns_toxic_fandom|トキシック・ファンのアイドル物化]]
+- [[A_ch5412_analogous_to_E_ch5412_ミヒトネッセ_attacks_ブーツでクレイの大腿部を踏みつけ、膝を蹴り飛ばし、執拗に両足の間の周辺ばかりを攻め立てる_p194_foot_domination|足支配フェティシズムの模倣]]
+- [[A_ch5412_inverts_E_ch5412_クレイ_breaks_遍く空から降り注ぐ不可視の糸が千切れ飛ぶ_p338_marionette_freedom|操り人形からのメタ的解放]]
+- [[A_ch5412_parodies_E_ch5412_ファウナ_makes_両手を胸の前に持って行き、身体を傾けるノーマルアピール_p237_idol_pose_normal_appeal|戦闘中のアイドルポーズパロディ]]
+- [[A_ch5412_parodies_E_ch5412_ミヒトネッセ_says_私は崇められており、本物でもあること_p114_idol_recognition_mechanics|ファン承認による実在化メカニクス]]
+- [[A_ch5412_parodies_E_ch5412_最大のライブ対決_appears_as_始まった_p378_ranking_battle_game|ランキング対戦ゲームへの構造化]]
+- [[A_ch5412_structurally_matches_E_ch5412_クレイ_transforms_姿は徐々に光の中で変容していった_p310_gender_bending_idol|性別流動アイドルの可塑性体現]]
+
+### 第5414話
+
+- [[A_ch5414_alludes_to_E_ch5414_トリシューラ_defines_ソーサリー・オリジン_p294_Biblical_Creation_Adam_Eve|アダムとイヴの呪術的再解釈]]
+- [[A_ch5414_alludes_to_E_ch5414_トリシューラ_other_根源人種_p288_Historical_Root_Race_Concept|根源人種分類論の造語転用]]
+- [[A_ch5414_alludes_to_E_ch5414_ミヒトネッセ_makes_天地開闢_p6_Biblical_Creation_Light|創世記冒頭「光あれ」の模倣]]
+- [[A_ch5414_alludes_to_E_ch5414_ミヒトネッセ_other_死人の森の女王_p28_Black_Swan_Ballet|黒鳥バレエの舞い想起]]
+- [[A_ch5414_alludes_to_E_ch5414_ミヒトネッセ_other_死人の森の女王_p28_Spider_Web_of_Metaphysics|形而上の蜘蛛糸と神の救済]]
+- [[A_ch5414_alludes_to_E_ch5414_ミヒトネッセ_transforms_パンゲオン_p31_Skull_Festival_Pangeon|死者集合体のゴシック喚起]]
+- [[A_ch5414_analogous_to_E_ch5414_SNA333_functions_as_統合体_p167_Microservices_Architecture|マイクロサービス的な統合体構造]]
+- [[A_ch5414_analogous_to_E_ch5414_アキラ_defines_義体_p202_Cyborg_Avatar_System|サイボーグアバター的な舞台操作]]
+- [[A_ch5414_analogous_to_E_ch5414_ミヒトネッセ_other_多役_p34_Multi-role_Performance_Technique|SF的マルチロール技法の実現]]
+- [[A_ch5414_parodies_E_ch5414_でかちびシューラ_names_SNA333_p149_AKB48_Giant_Group_Concept|AKB型巨大アイドル戦略のパロディ]]
+
+### 第5417話
+
+- [[A_ch5417_alludes_to_E_p157_Performance_Gender|女装ペルソナによる現実改変の暗示]]
+- [[A_ch5417_analogous_to_E_p105_Pet_Mechanic|ペットメカニクスによるステータス補強]]
+- [[A_ch5417_analogous_to_E_p12_RPG_Party_Mechanic|レイドパーティ分配のメタ的模倣]]
+- [[A_ch5417_analogous_to_E_p25_Rare_Item_Card|レアアイテムカードの物理的実体化]]
+- [[A_ch5417_inverts_E_p34_Killing_Loot_Loop|倒して戦利品ループの哲学的反転]]
+- [[A_ch5417_parodies_E_p36_Monster_Treasure_Drop|敵のドロップアイテムメカニクスの引用]]
+- [[A_ch5417_structurally_matches_E_p143_Rock_Band_Metaphor|ロックバンド比喩によるパーティ構成]]
+
+### 第5418話
+
+- [[A_ch5418_alludes_to_E_{瘴気による感染爆発と隔離の失敗}_{パンデミック／感染症の封じ込め政策ロックダウン}|管理限界・封じ込め失敗の寓話性]]
+- [[A_ch5418_alludes_to_E_瘴気による感染爆発と隔離の失敗_パンデミック／感染症の封じ込め政策ロックダウン|隔離政策の失敗と社会統制崩壊]]
+- [[A_ch5418_analogous_to_E_{リールエルバの幻影と本物の区別不能性}_{ジキルとハイド／分身ドッペルゲンガーの心理学モデル}|仮面の恐怖・解離性障害のモデル]]
+- [[A_ch5418_analogous_to_E_リールエルバの幻影と本物の区別不能性_ジキルとハイド／分身ドッペルゲンガーの心理学モデル|ペルソナ侵食による境界消失]]
+- [[A_ch5418_inverts_E_王としての支配欲と承認要求_SNSにおけるインフルエンサーのフォロワー数／いいねへの依存|承認経済のナルシシズム的逆説]]
+- [[A_ch5418_parodies_E_{ドラトリアという牢獄と王族の務め}_{家畜化された人間／飼育動物ペット}|家畜化された人間の自己認識パロディ]]
+- [[A_ch5418_parodies_E_ドラトリアという牢獄と王族の務め_家畜化された人間／飼育動物ペット|家畜化された人間の被飼育認識]]
+- [[A_ch5418_structurally_matches_E_{自己との対話しか無い世界}_{孤独な地下牢／完全孤立環境ソリタリー・コンファインメント}|完全孤立環境の心理構造描写]]
+- [[A_ch5418_structurally_matches_E_自己との対話しか無い世界_孤独な地下牢／完全孤立環境ソリタリー・コンファインメント|完全孤立環境の心理構造]]
+- [[A_ch5418_sublates_E_{王権の衰退と儀式の形骸化}_{宗教的タブーの世俗化／伝統の空洞化}|タブーの空洞化による秩序希釈]]
+- [[A_ch5418_sublates_E_王権の衰退と儀式の形骸化_宗教的タブーの世俗化／伝統の空洞化|タブー希釈による機能喪失]]
+
+### 第5419話
+
+- [[A_ch5419_parodies_E_ch5419_コルセスカ_appears_第五階層_p3_weekend_anime_intro|アニメOP演出への異世界絶望の転換]]
+
+### 第5421話
+
+- [[A_ch5421_alludes_to_E_第七識と末那識の覚醒_buddhist_yogacara_philosophy|唯識思想における我執の戦闘力化]]
+- [[A_ch5421_alludes_to_E_魔竜の正体_cholera_epidemic_history|コレラパンデミックのモンスター化]]
+- [[A_ch5421_analogous_to_E_3600秒後の開戦_real_time_game_mechanic|リアルタイムイベント機構]]
+- [[A_ch5421_analogous_to_E_カーインの六人分裂_traditional_chinese_medicine_theory|漢方医学理論の分身生成実装]]
+- [[A_ch5421_inverts_E_シナモリアキラのフェイクニュースによる転向_social_media_cancel_culture|キャンセル文化の戦闘戦略化]]
+- [[A_ch5421_parodies_E_地下アイドルリールエルバへの崇拝_idol_wotagee_culture|オタク文化の魔力転換風刺]]
+- [[A_ch5421_structurally_matches_E_ミヒトネッセのカード具現化_mobile_game_gacha_system|カード召喚システムの物理現象化]]
+
+### 第5424話
+
+- [[A_ch5424_parodies_E_p2-p7_religious_syncretism|宗教シンクレティズムの逆転構造]]
+
+### 第5425話
+
+- [[A_ch5425_alludes_to_E_猫騎士_King_of_Beasts|百獣の王としての猫の象徴性]]
+- [[A_ch5425_analogous_to_E_シナモリアキラ_Cyber_Karate_Dojo|サイバーカラテ道場の戦闘解析]]
+- [[A_ch5425_analogous_to_E_セリアック_Celiac_Disease|セリアック病の戦闘能力設定]]
+- [[A_ch5425_analogous_to_E_階段_Number_13|不吉な数13の異界での機能]]
+- [[A_ch5425_analogous_to_E_青い糸_Fate_Thread|運命の糸による呪縛の視覚化]]
+- [[A_ch5425_analogous_to_E_香水戦闘_Perfume_Notes|香りの階層構造による呪力解説]]
+
+### 第5426話
+
+- [[A_ch5426_alludes_to_E_5426_p88_biblical_seraphim|セラフィムの権威強化引用]]
+- [[A_ch5426_analogous_to_E_5426_p103_bullying_and_prejudice|いじめによるスティグマ化]]
+- [[A_ch5426_analogous_to_E_5426_p120_emotional_contagion|感情伝染への悪意蔓延]]
+- [[A_ch5426_analogous_to_E_5426_p19_euthanasia_debate|安楽死論争としての吸血鬼消滅]]
+- [[A_ch5426_analogous_to_E_5426_p48_medical_ethics_concepts|医療倫理用語による戦闘の昇華]]
+- [[A_ch5426_analogous_to_E_5426_p73_sports_team_morale|象徴的リーダー依存的結束]]
+- [[A_ch5426_analogous_to_E_5426_p92_sports_fandom_psychology|スポーツファン熱狂の戦場投影]]
+- [[A_ch5426_parodies_E_5426_p22_pinkwashing|ピンクウォッシュ的修辞のパロディ]]
+- [[A_ch5426_structurally_matches_E_5426_p69_multi_voice_personality_disorder|多重人格構造の声の多層性]]
+
+### 第5427話
+
+- [[A_ch5427_alludes_to_E_p49_資本主義的搾取と自己責任論|社会ダーウィニズム的支配イデオロギー]]
+- [[A_ch5427_alludes_to_E_p78_衣服の進化と寄生関係|シラミ共進化による衣服文化]]
+- [[A_ch5427_analogous_to_E_p11_現代の医療介入と人道支援|人道介入軍事化への風刺]]
+- [[A_ch5427_analogous_to_E_p207_グローバル化とパンデミックの因果関係|グローバル化駆動型パンデミック]]
+- [[A_ch5427_analogous_to_E_p65_強制収容所と社会的隔離|強制収容所銘板の皮肉]]
+- [[A_ch5427_parodies_E_p135_ネット上の反ワクチン運動|アンチバクシング運動の風刺]]
+- [[A_ch5427_parodies_E_p23_複合企業体と英雄消費ゲーム|コンテンツ枯渇対策のメタファー]]
+
+### 第5428話
+
+- [[A_ch5428_alludes_to_E_ch5428_カリエスアキラ_wears_病衣_p9_tuberculosis_romanticization|結核ロマンティシズムの美徳化]]
+- [[A_ch5428_alludes_to_E_ch5428_コルセスカ_other_鉄のスリッパ_p56_cinderella_slipper|シンデレラの靴への鏡像的逸脱]]
+- [[A_ch5428_analogous_to_E_ch5428_カード_functions_as_光の源_p69_idol_game_media_mix|アイドルガチャ演出の異世界移植]]
+- [[A_ch5428_analogous_to_E_ch5428_シナモリアキラ_transforms_肉腫_p2_metastasis_and_self_replication|癌細胞増殖の生物学的模倣]]
+- [[A_ch5428_parodies_E_ch5428_コルセスカ_makes_マジカルアピール_p52_magical_girl_anime_trope|魔法少女必殺技演出のパロディ]]
+
+### 第5429話
+
+- [[A_ch5429_alludes_to_E_ch5429_リールエルバ_uses_ドラマ仕立てアピール_p23_tragic_heroine_narrative_trope|可憐な敗者のクリシェ利用]]
+- [[A_ch5429_analogous_to_E_ch5429_カーティス_other_時空の連続性_p167_somatic_metaphor_of_history|歴史因果の身体空間化比喩]]
+- [[A_ch5429_analogous_to_E_ch5429_チョコレートリリー空組_uses_圧縮言語猫語_p64_encrypted_communication_protocol|暗号化通信プロトコルの象徴]]
+- [[A_ch5429_analogous_to_E_ch5429_トリシューラ_remembers_シナモリアキラとの会話_p28_sword_of_damocles|ダモクレスの剣の破滅性暗示]]
+- [[A_ch5429_inverts_E_ch5429_魔竜レーレンターク_defines_関係性の使い魔_p191_dialectic_of_contact_and_conquest|侵略者としての接触征服弁証法]]
+- [[A_ch5429_structurally_matches_E_ch5429_セリアック＝ニア_reveals_法の剣の使命_p69_safety_valve_political_system|聖姫と王の対立による安全弁構造]]
+- [[A_ch5429_sublates_E_ch5429_魔竜レーレンターク_defines_罪_p208_concept_of_original_sin|原罪概念の心理的苦悩への昇華]]
+
+### 第5431話
+
+- [[A_ch5431_alludes_to_E_{楽園からの追放と衣服の着用}}_{旧約聖書・創世記アダムとイヴ}}|エデン追放と知恵の罪の象徴]]
+- [[A_ch5431_alludes_to_E_{魔竜と王の構図}}_ME聖書の悪魔サタンと反逆}}|堕天使的権威への反逆構図]]
+- [[A_ch5431_alludes_to_E_楽園からの追放と衣服の着用_旧約聖書・創世記アダムとイヴ|原罪神話における衣服象徴]]
+- [[A_ch5431_alludes_to_E_魔竜と王の構図_ME聖書の悪魔サタンと反逆|下位による上位への反逆構図]]
+- [[A_ch5431_analogous_to_E_{アイドル衣装へのカード投げ込み}}_{ガチャシステム／スマホゲームのキャラクター着せ替え}}|現実操作を象徴する着せ替えUI]]
+- [[A_ch5431_analogous_to_E_{人工知能による統治とリスク回避}}_{アルゴリズム差別・AI社会実装の倫理課題}}|データ支配と構造的差別のメタファー]]
+- [[A_ch5431_analogous_to_E_アイドル衣装へのカード投げ込み_ガチャシステム／スマホゲームのキャラクター着せ替え|アバターカスタマイズ機構]]
+- [[A_ch5431_analogous_to_E_リールエルバの影絵のような親_養子・里親制度／家族の不在|血縁なき存在の隔絶]]
+- [[A_ch5431_analogous_to_E_人工知能による統治とリスク回避_アルゴリズム差別・AI社会実装の倫理課題|データに基づく構造的排除]]
+- [[A_ch5431_parodies_E_{セリアック＝ニアの生い立ち}}_{一子相伝・家元制度}}|家元制度の風刺的再現]]
+- [[A_ch5431_parodies_E_{ライブによる過去遡航}}_{メディアミックス作品の再演やリブート}}|解釈による物語再生のメタ構造]]
+- [[A_ch5431_parodies_E_セリアック＝ニアの生い立ち_一子相伝・家元制度|家元制度風刺的継承システム]]
+- [[A_ch5431_parodies_E_ライブによる過去遡航_メディアミックス作品の再演やリブート|読者解釈による物語確定性]]
+- [[A_ch5431_structurally_matches_E_{ジャガード織機とパンチカード}}_{コンピュータ史チャールズ・バベッジ、ジョン・フォン・ノイマン}}|紋紙パターン計算の起源]]
+- [[A_ch5431_structurally_matches_E_ジャガード織機とパンチカード_コンピュータ史チャールズ・バベッジ、ジョン・フォン・ノイマン|ジャガード織機と計算機の起源]]
+
+### 第5432話
+
+- [[A_ch5432_alludes_to_E_ch5432_アキラ_other_オルヴァの叡智_p97_cloud_computing_api_access|クラウドAPI参照の比喩]]
+- [[A_ch5432_alludes_to_E_ch5432_アキラ_other_移動型博物館としての舞台_p134_open_air_museum_concept|野外博物館的歴史実装]]
+- [[A_ch5432_alludes_to_E_ch5432_イストリン_defines_第五階層の異界化_p34_sandbox_game_building_mechanics|サンドボックス建築システム]]
+- [[A_ch5432_alludes_to_E_ch5432_青肌人_has_property_拡張された身体性_p4_neo_tokyo_blade_runner_replicants|レプリカント的身体拡張]]
+- [[A_ch5432_analogous_to_E_ch5432_包摂アーキテクチャ_defines_振る舞いモジュールの解体_p23_behavior_based_robotics_subsumption_architecture|包摂アーキテクチャの実装]]
+- [[A_ch5432_inverts_E_ch5432_アキラ_other_身体感覚_p17_phantom_limb_medical_treatment|幻肢の呪術的拡張]]
+- [[A_ch5432_parodies_E_ch5432_アキラ_other_義肢運用の方式_p6_modern_smartphone_apps|スマホアプリ的義肢操作]]
+
+### 第5434話
+
+- [[A_ch5434_alludes_to_E_p125_ME_mass_production_products|量産機・市場経済メタファー]]
+- [[A_ch5434_alludes_to_E_p146_ME_sabbat|猫サバトのネットミーム化]]
+- [[A_ch5434_alludes_to_E_p148_ME_kaiju_movies|怪獣映画演出のパロディ]]
+- [[A_ch5434_alludes_to_E_p148_ME_vampire_horror|吸血鬼伝承の弱点逆転]]
+- [[A_ch5434_alludes_to_E_p155_ME_sewing_machine|世界の縫製によるシベリアン・ウィービング暗喩]]
+- [[A_ch5434_alludes_to_E_p244_ME_fairy_tale_ending|童話的幕引きのメタフィクショナル舞台劇]]
+- [[A_ch5434_analogous_to_E_p107_ME_idol_costume|変身ヒーロー様式の視覚的カタルシス模倣]]
+- [[A_ch5434_analogous_to_E_p135_gacha_game|ガチャゲーム構造の終盤報酬演出]]
+
+### 第5435話
+
+- [[A_ch5435_alludes_to_E_ch5435_第五階層の人々_other_安堵_p2_narrative_tropes_isekai|異世界転生における脇役自覚とメタ参加]]
+- [[A_ch5435_alludes_to_E_ch5435_第五階層の人々_other_安堵_p2_social_media_influencer|階層の量化されたカリスマ支配構造]]
+- [[A_ch5435_analogous_to_E_ch5435_第五階層の人々_other_安堵_p2_corporate_merger_acquisition|企業合併買収における素体再構築過程]]
+- [[A_ch5435_analogous_to_E_ch5435_第五階層の人々_other_安堵_p2_modern_border_control|境界通過メタファーとしての観念的昇降]]
+- [[A_ch5435_inverts_E_ch5435_第五階層の人々_other_安堵_p2_ethical_dilemma_utilitarianism|功利主義的倫理葛藤の逆転と犠牲の正当化]]
+- [[A_ch5435_structurally_matches_E_ch5435_第五階層の人々_other_安堵_p2_rpg_boss_confrontation|ボス戦演出によるプレイヤー誘導メカニクス]]
+
+### 第5436話
+
+- [[A_ch5436_alludes_to_E_p104_ME_Japanese_Education_System_Competition|日本教育制度の過剰な勧誘と重力場風刺]]
+- [[A_ch5436_alludes_to_E_p200_ME_Asura_King_Rikua|阿修羅王の多腕神像想起と鍵としての役割]]
+- [[A_ch5436_alludes_to_E_p51_ME_MMO_RPG_Party_Recruitment_Frustration|MMO加入条件の不満引用と天井未到達ジョーク]]
+- [[A_ch5436_analogous_to_E_p14_ME_GachaGame_SNS_Influencer_Marketing|SNSインフルエンサー戦略のガチャ産キャラ凌駕]]
+- [[A_ch5436_analogous_to_E_p64_ME_Social_Media_Feed_Algorithm|フィルターバブル球体による核心的遮蔽]]
+- [[A_ch5436_inverts_E_p157_ME_Light_Novel_Climax_Structure|ラノベクライマックス構造の逆転]]
+
+### 第5438話
+
+- [[A_ch5438_alludes_to_E_ch5438_シナモリアキラ_teaches_外形の技術_p61_behavioral_psychology_facial_feedback|顔面フィードバック仮説への暗喩]]
+- [[A_ch5438_alludes_to_E_ch5438_ヒメ_dies_ゼルディーオとの相打ち_p228_tragedy_of_hero|勇者と魔王の相打ち悲劇]]
+- [[A_ch5438_analogous_to_E_ch5438_シナモリアキラ_other_無料お試しキャンペーン_p42_free_trial_subscription_service|無料お試しサブスクとの類似]]
+- [[A_ch5438_analogous_to_E_ch5438_ラクルラール_other_遺体の禁止_p254_industrial_disposal_of_products|工業的廃棄処理への類推]]
+- [[A_ch5438_analogous_to_E_ch5438_学院_defines_生徒管理_p32_child_protection_agency|児童保護機関的な構造]]
+- [[A_ch5438_inverts_E_ch5438_コズエ_fights_父兄_p185_idol_game_gacha_battle|ガチャ的戦闘構造の逆転]]
+- [[A_ch5438_parodies_E_ch5438_コズエ_observes_見知らぬ幻像_p2_augmented_reality_glasses|ARグラスによる仮想体験のパロディ]]
+- [[A_ch5438_parodies_E_ch5438_シナモリアキラ_names_シナモリアキラ_p10_ai_assistant_interface|AIアシスタントUIの模倣]]
+- [[A_ch5438_structurally_matches_E_ch5438_コズエ_names_シナモリアキラ_p10_ar_app_navigation|ARナビゲーター起動フローとの対応]]
+
+### 第5440話
+
+- [[A_ch5440_alludes_to_E_ch5440_ルウテト_has_property_黒い血_p124_Literary_Ink_Blood_Metaphor|血をインクとする文学的メタファー]]
+- [[A_ch5440_alludes_to_E_ch5440_世界_transforms_リセット_p84_Biblical_Great_Flood|聖書的大洪水による世界再生]]
+- [[A_ch5440_alludes_to_E_ch5440_青年_confesses_逃亡の理由_p292_Oedipus_Fate|エディプス的運命からの逃避]]
+- [[A_ch5440_analogous_to_E_ch5440_マラコーダ_says_人形としての自覚_p47_Game_Minion_Tradeable_Piece|交換可能な駒としての自己認識]]
+- [[A_ch5440_inverts_E_ch5440_青年_other_人類ロマンカインド_p247_Oedipus_Answer_Man|スフィンクスへの解答の再定義]]
+- [[A_ch5440_parodies_E_ch5440_なぞなぞねこさん_asks_謎かけ_p237_Sphinx_Riddle_Oedipus|スフィンクスの謎の独自解釈]]
+- [[A_ch5440_structurally_matches_E_ch5440_盤面_has_property_二層構造_p188_Metatheater_Stage_Audience|メタ演劇的な盤面構造]]
+
+### 第5442話
+
+- [[A_ch5442_alludes_to_E_ch5442_人形劇_appears_as_騎士とまじない使いの丸っこい人形_p2_コンヴィンチャ・デラルテ演劇用語|コンメディア・デッラルテ的展開]]
+- [[A_ch5442_analogous_to_E_ch5442_人形劇_appears_as_騎士とまじない使いの丸っこい人形_p2_キャラクターの合体・シンクロシステム|キャラ合体のゲーム的機構]]
+- [[A_ch5442_inverts_E_ch5442_人形劇_appears_as_騎士とまじない使いの丸っこい人形_p2_転生者のチート能力|集合帰属による力源の逆転]]
+- [[A_ch5442_structurally_matches_E_ch5442_人形劇_appears_as_騎士とまじない使いの丸っこい人形_p2_チェス／将棋の駒取りゲーム|駒取りゲームとしての争い]]
+
+### 第5444話
+
+- [[A_ch5444_alludes_to_E_p198_Oedipus_Rex|オイディプス王型の悲劇構造]]
+- [[A_ch5444_analogous_to_E_p26_Technique_as_Survival|技術による生存正当化]]
+- [[A_ch5444_analogous_to_E_p54_Loop_Time_Manipulation|ロード画面的な時間操作]]
+- [[A_ch5444_parodies_E_p108_Servant_Ninja_Metaphor|忍者メイドステレオタイプ揶揄]]
+- [[A_ch5444_structurally_matches_E_p161_Antigone_Conflict|法と情の対立構造]]
+
+### 第5446話
+
+- [[A_ch5446_alludes_to_E_ch5446_レイ_other_死者の埋葬_p58_sophocles_antigone_burial_conflict|アンティゴネー型の埋葬衝突]]
+- [[A_ch5446_analogous_to_E_ch5446_HUDキャラクター_appears_as_お下げの二頭身キャラクター_p27_game_ui_companion_avatar|ガイドアバターのメタファー]]
+- [[A_ch5446_inverts_E_ch5446_アキラ_defines_悪役としての運命_p15_narrative_determinism_script|脚本による運命固定の逆転]]
+- [[A_ch5446_parodies_E_ch5446_アキラ_other_ゲーム的展開の欠如_p23_otome_game_trope_fate_completion|乙女ゲーイベント回収の破綻]]
+- [[A_ch5446_structurally_matches_E_ch5446_ヒロイン白のメートリアン_appears_as_名前のない女_p51_player_character_void_avatary|自己投影用の空白アバター]]
+- [[A_ch5446_sublates_E_ch5446_アキラ_defines_がらくたのアレッテ_p43_golem_artificial_life|ゴーレム的廃棄対象の止揚]]
+
+### 第5447話
+
+- [[A_ch5447_analogous_to_E_ch5447_アマランサス_loses_意識_p3_game_gacha_loop|ガチャループ的な空洞化]]
+
+### 第5448話
+
+- [[A_ch5448_alludes_to_E_ch5448_ルウテト_has_property_繭衣けんい_p30_METAMORPHOSIS_MOTH_BUTTERFLY|昆虫変態の死と再生]]
+- [[A_ch5448_analogous_to_E_ch5448_イツノ_has_property_過去の肩書き_p11_AI_PROMPT_ENGINEER|プロンプト設計者によるメタ的脚本家機能]]
+- [[A_ch5448_analogous_to_E_ch5448_イツノ_reveals_役の転落と自由_p21_JOB_REPLACEMENT_AUTOMATION|役割自動化・置換による外敵役からの解放]]
+- [[A_ch5448_analogous_to_E_ch5448_クレイ_confesses_記憶の価値_p157_FAKE_FANS_ARTIFICIAL_INTIMACY|人工親密性における虚構的関係性の価値]]
+- [[A_ch5448_analogous_to_E_ch5448_ルウテト_defines_脱出条件_p258_GAME_MECHANICS_FORCED_PROGRESS|強制進行イベントとしての生殖のメタファー]]
+- [[A_ch5448_inverts_E_ch5448_アキラ_thinks_自身の虚構性_p60_PHILOSOPHY_OF_IDENTITY|アイデンティティ哲学の逆転と役柄の継承]]
+- [[A_ch5448_parodies_E_ch5448_アキラ_observes_構図の転倒_p36_METAFICTIONAL_TROPES|メタフィクショナル常套句による悪役主役化]]
+- [[A_ch5448_parodies_E_ch5448_クレイ_other_プーハニア_p200_LITERARY_TROPE_REDEMPTION_ARC|贖罪の物語を模した文学的常套句のパロディ]]
+
+### 第5449話
+
+- [[A_ch5449_alludes_to_E_p10_Sophocles_Antigone|アンティゴネのプロット直接引用]]
+- [[A_ch5449_alludes_to_E_p46_Fairy_Tale_Mentor,|童話のメンター構造を模倣した物語進行装置]]
+- [[A_ch5449_analogous_to_E_p101_Artool_Digital_Media,|アルゴリズムによる欲望反映としての役作り]]
+- [[A_ch5449_analogous_to_E_p27_Kantian_Moral_Autonomy|カント的道徳自律と法対立の緊張関係]]
+- [[A_ch5449_inverts_E_p59_Determinism_vs_Agency|決定論と自由意志を反転させる二次創作]]
+- [[A_ch5449_parodies_E_p38_Gacha_Game_Narrative|ガチャ的物語構造への舞台劇的変換]]
+- [[A_ch5449_structurally_matches_E_p204_Greek_Heroic_Armor|肋骨剣による英雄の身体化]]
+
+### 第5450話
+
+- [[A_ch5450_alludes_to_E_p101_GREEK_TRAGEDY_ISMENE|イスメネの葛藤と死者への義務の一致]]
+- [[A_ch5450_alludes_to_E_p75_GREEK_TRAGEDY_ANTIGONE|国家法と神の法の対立]]
+- [[A_ch5450_analogous_to_E_p267_PARENTS_LIVING_DREAMS|親の夢の投影によるプロダクト・チャイルド]]
+- [[A_ch5450_analogous_to_E_p298-p304_SADISTIC_TRAINER|スパルタ訓練による愛の焦らし]]
+- [[A_ch5450_analogous_to_E_p352-p353_RECOMMENDATION_ALGORITHM|アルゴリズムによる行動誘導]]
+- [[A_ch5450_analogous_to_E_p5_p6_IDOL_GROUP_DEBUT|役割への自己嵌め込み]]
+- [[A_ch5450_analogous_to_E_p8_p13_TV_TALENT_AUCTION|オーディション的淘汰システム]]
+
+### 第5451話
+
+- [[A_ch5451_alludes_to_E_ch5451_ルウテト_other_ステュクス_p118_greek_mythology_river_styx|冥界河ステュクスの境界]]
+- [[A_ch5451_alludes_to_E_ch5451_ルウテト_other_セレスティアル・オーブ_p51_dante_divine_comedy_inferno|地獄の責め苦の文学的引用]]
+- [[A_ch5451_alludes_to_E_ch5451_ルウテト_says_ゲームオーバーの宣告_p244_nietzsche_eternal_return|永劫回帰のセーブ＆ロード]]
+- [[A_ch5451_analogous_to_E_ch5451_アキラ_other_宝珠_p204_persephone_mythology_pomegranate|冥界果実による帰還不可]]
+- [[A_ch5451_analogous_to_E_ch5451_ルウテト_defines_ゲームとしての世界_p12_mobile_gacha_game_mechanics|ガチャ育成シミュレーション構造]]
+- [[A_ch5451_parodies_E_ch5451_シナモリアキラ内的声_teaches_諦観の受容_p369_stoic_philosophy|ストア派アパテイアの現代風パロディ]]
+- [[A_ch5451_structurally_matches_E_ch5451_クレイ_says_安心の言葉_p296_industrial_mass_production_standardization|工業規格化された個体の自己認識]]
+
+### 第5452話
+
+- [[A_ch5452_alludes_to_E_5452_p148_industrial_logic_mass_production|大量生産論理による権威否定]]
+- [[A_ch5452_alludes_to_E_5452_p26_mythology_styx|ステュクス河の生死境界象徴]]
+- [[A_ch5452_analogous_to_E_5452_p06_conceptual_metaphor_blood|養育の吸血的捕食構造]]
+- [[A_ch5452_analogous_to_E_5452_p181_magic_system_body_as_text|世界を構成する身体としてのテキスト]]
+- [[A_ch5452_analogous_to_E_5452_p51_artistic_grotesque|歪みと醜さのグロテスク美学]]
+- [[A_ch5452_inverts_E_5452_p70_anatomy_metaphor_gender|陰陽補完の身体論]]
+- [[A_ch5452_parodies_E_5452_p115_narrative_trope_imaginary_sister|脳内姉妹]]
+- [[A_ch5452_sublates_E_5452_p200_theme_reincarnation_escape|転生と逃避の動機]]
+
+### 第5454話
+
+- [[A_ch5454_alludes_to_E_ch5454_シナモリアキラ_other_ガロアンディアン_p232234_indian_mythology_galadri|ガルダ神話への意匠引喩]]
+- [[A_ch5454_alludes_to_E_ch5454_シナモリアキラ_other_出産の儀式_p207216_medical_procedure_epidural_anesthesia|硬膜外麻酔]]
+- [[A_ch5454_alludes_to_E_ch5454_ルウテト_says_リビドーの翻訳への感嘆_p66_freud_lacan_psychology_signifier|ラカン派象徴化]]
+- [[A_ch5454_analogous_to_E_ch5454_コルセスカ_other_クレイの体験_p25_video_game_player_avatar|プレイヤーアバター]]
+- [[A_ch5454_parodies_E_ch5454_クレイ_other_両目_p4345_greek_mythology_blindness_seer|盲目の予見者]]
+- [[A_ch5454_parodies_E_ch5454_シナモリアキラ_thinks_自己拡張の危うさ_p136140_cybernetics_extension_of_man|人間の拡張論]]
+- [[A_ch5454_structurally_matches_E_ch5454_ルウテト_defines_クレイの価値構造_p1920_labor_market_value_theory|労働市場価値論]]
+
+### 第5455話
+
+- [[A_ch5455_alludes_to_E_ch5455_ゼド_asks_殺すこと_p210_Euthanasia_Mercy_Killing|安楽死]]
+- [[A_ch5455_analogous_to_E_ch5455_シナモリアキラ_makes_ラプンツェル転生_p38_Rapunzel_Fairy_Tale|ラプンツェル童話]]
+- [[A_ch5455_analogous_to_E_ch5455_ミヒトネッセ_takes_氷球_p53_Embryonic_Transfer_IVF|体外受精の比喩]]
+- [[A_ch5455_parodies_E_ch5455_レッテ_has_property_塔=肉体_p63_Tower_of_Babel|バベルの塔]]
+
+### 第5456話
+
+- [[A_ch5456_alludes_to_E_louteut_defeat_tragic_heroine|悲劇のヒロイン]]
+- [[A_ch5456_alludes_to_E_mihitonesse_speech_Antigone|アンティゴネー]]
+- [[A_ch5456_analogous_to_E_gender_swap_gender_fluidity_in_theater|演劇の性流動への実装]]
+- [[A_ch5456_analogous_to_E_mihitonesse_curse_literary_deconstructionism|脱構築主義的な英雄貶め]]
+- [[A_ch5456_analogous_to_E_shinamoraykira_limb_janus|二面神ヤヌスの象徴としての義肢]]
+- [[A_ch5456_inverts_E_klay_identity_oedipus_complex|姓選択によるエディプス逆転]]
+- [[A_ch5456_parodies_E_battle_description_theater_performance|演劇的戦闘のメタフィクシ化]]
+- [[A_ch5456_parodies_E_mihitonesse_spit_fairy_tale_cliché|唾による童話クリシェの破壊]]
+- [[A_ch5456_structurally_matches_E_dalnote_sword_narrative_metaphor|影のメタファーとしての剣理]]
+
+### 第5457話
+
+- [[A_ch5457_analogous_to_E_p13-p17_Drone_Control_Interface|環境拡張インターフェース化]]
+- [[A_ch5457_analogous_to_E_p135_Corporate_Politics_Influence_Battle|社内政治的権力闘争の比喩]]
+- [[A_ch5457_analogous_to_E_p2-p31_Spring_Winter_Seasonal_Cycle|季節循環構造へのメタ指摘]]
+- [[A_ch5457_analogous_to_E_p275-p276_Card_Game_Anime_Meta|カードアニメメタと虚実の混在]]
+- [[A_ch5457_analogous_to_E_p284-p289_Perspective_Relativism_Cultural_Filter|文化的バイアスによる現実構築]]
+- [[A_ch5457_analogous_to_E_p86-p87_Mario_Kart_Pan_Eating_Race|マリオカート的パン食い競争]]
+- [[A_ch5457_parodies_E_p27-p31_Phantom_Limb_Humor|幻肢のメタジョーク的処理]]
+
+### 第5459話
+
+- [[A_ch5459_alludes_to_E_Maracoeda_Poison_Tail_Scorpion_Kingship|蠍王の守護]]
+- [[A_ch5459_alludes_to_E_Seth_Name_Change_Egyptian_Mythology_Set|セト神話による周辺性の象徴]]
+- [[A_ch5459_analogous_to_E_Alt_Identity_Stabilization_SNS_Verification_App|承認による存在維持]]
+- [[A_ch5459_analogous_to_E_Alt_Psychological_Split_Consciousness_Expansion_App|意識拡張アプリの主体侵食]]
+- [[A_ch5459_inverts_E_Seth_Harem_Rank_Anime_Heroine_Tropes|ヒロイン序列メタファーの逆転]]
+- [[A_ch5459_parodies_E_Seth_Dungeon_Shop_MMO_Game_NPCs|MMOのNPCクリシェのパロディ]]
+
+### 第5460話
+
+- [[A_ch5460_alludes_to_E_magic_circuit_lovecraftian_mythos|クトゥルフ神話体系への暗喩]]
+- [[A_ch5460_analogous_to_E_gameboard_making_dollmaking_and_narrative_construction|人形作りのメタフィクション]]
+- [[A_ch5460_parodies_E_monologue_isekai_cheat_ability_trope|チート能力の自己陶酔のパロディ]]
+- [[A_ch5460_structurally_matches_E_world_observation_sandbox_simulation|シミュレーション箱庭との構造対応]]
+- [[A_ch5460_sublates_E_god_survival_cultural_evolution_meme_theory|文化進化・ミーム論の止揚]]
+
+### 第5461話
+
+- [[A_ch5461_alludes_to_E_p32_messianic_archetypes|救世主原型への暗喩]]
+- [[A_ch5461_analogous_to_E_p59_global_surveillance|グローバル監視との類似]]
+- [[A_ch5461_inverts_E_p75_utilitarian_ethics|極端な功利主義の逆転]]
+- [[A_ch5461_parodies_E_p25_cardinal_college|枢機卿団のパロディ]]
+- [[A_ch5461_structurally_matches_E_p130_torch_relay|松明継承儀礼との構造対応]]
+- [[A_ch5461_sublates_E_p94_corporate_bureaucracy|企業官僚制の止揚]]
+
+### 第5462話
+
+- [[A_ch5462_analogous_to_E_ch5462_ソルダ_names_クナータ・ノーグ_p3_JK_聖女の予言者_異世界転生メタ|記憶帰属による異世界転生メタ]]
+
+### 第5464話
+
+- [[A_ch5464_alludes_to_E_p262-Ep264_Racial_Stereotyping_in_Advertising|広告における人種ステレオタイプ化]]
+- [[A_ch5464_analogous_to_E_p128-Ep141_Communication_without_Verbal_Language|音楽による非言語的共鳴と調停]]
+- [[A_ch5464_analogous_to_E_p15-Ep16_Integration_of_Indigenous_Peoples_in_Modern_Society|祝祭空間での先住民社会統合の提示]]
+- [[A_ch5464_analogous_to_E_p182_Social_Media_Polarization_and_Hate_Speech|SNSヘイトによる偏見増幅と負荷]]
+- [[A_ch5464_analogous_to_E_p20-Ep23_Reconstruction_of_Slum_Areas_in_Real_World|多勢力利害調整の都市再開発メタファー]]
+- [[A_ch5464_analogous_to_E_p300-Ep314_Industrial_Espionage_and_Patent_Trolls|設計図盗難と産業スパイ]]
+- [[A_ch5464_parodies_E_p50_Naming_of_Public_Events_by_Celebrities|英雄名冠イベントの商業集客パロディ]]
+
+### 第5467話
+
+- [[A_ch5467_inverts_E_{ユディーアの行動}}_{タイムリープもの・運命改変}|過去確定を未来とする逆転タイムリープ]]
+- [[A_ch5467_inverts_E_ユディーアの行動_タイムリープもの・運命改変|逆転型タイムリープ]]
+- [[A_ch5467_parodies_E_{第五階層の建築}}_{サンドボックスゲーム・マインクラフト}}|MC的創造と消失]]
+- [[A_ch5467_parodies_E_第五階層の建築_サンドボックスゲーム・マインクラフト|創造と虚構性]]
+- [[A_ch5467_structurally_matches_E_{第五階層の社会}}_{難民キャンプ・第三世界都市}|規範外生存空間としての難民キャンプ構造]]
+- [[A_ch5467_structurally_matches_E_第五階層の社会_難民キャンプ・第三世界都市|逸脱者の共生空間]]
+
+### 第5469話
+
+- [[A_ch5469_alludes_to_E_ch5469_シナモリアキラ_says_ペラティア_p96_ユダヤ教の戒律_偶像崇拝の禁止|ロゴス簒奪への宗教禁忌]]
+- [[A_ch5469_analogous_to_E_ch5469_ユディーア_thinks_第五階層_p62_異世界転生者の視点|舞台への違和感と転生者メタ認知]]
+- [[A_ch5469_analogous_to_E_ch5469_野次馬_observes_大穴_p6_現代の災害コンテンツ消費_SNS|災害娯楽化・SNS消費の風刺]]
+- [[A_ch5469_parodies_E_ch5469_シナモリアキラ_uses_ロケットパンチ_p164_マジンガーZ_ロケットパング|データ駆動型戦闘へのロケットパンチ変換]]
+- [[A_ch5469_structurally_matches_E_ch5469_ユディーア_uses_彩域_p210_VRゲームのタイムスリップ・データ参照|VRによる過去動画参照と戦術検索]]
+
+### 第5470話
+
+- [[A_ch5470_alludes_to_E_p309_Civilizational_Decline|文明衰退の歴史相対主義]]
+- [[A_ch5470_analogous_to_E_p98-p102_Under_the_Table_Bribery|銀貨渡す行政手続きの裏金接待構造]]
+- [[A_ch5470_inverts_E_p210_Standard_Espionage_Trope|所属不在を主題化する逆説的スパイ像]]
+- [[A_ch5470_parodies_E_p31-p45_SNS_Trending_Topics|自己定義の拒絶]]
+- [[A_ch5470_structurally_matches_E_p148-p170_MMO_Guild_Chat_Logs|ギルドチャットログへの共感リンク直結]]
+
+### 第5471話
+
+- [[A_ch5471_alludes_to_E_p235_functionalism_identity_theory|機能主義的自己定義の記号論]]
+- [[A_ch5471_analogous_to_E_p32_gacha_game_mechanic|ガチャメカニクスへの欲望投影]]
+- [[A_ch5471_analogous_to_E_p47_stalker_fandom_obsession|推し活・執着文化のストーカー風刺]]
+- [[A_ch5471_inverts_E_p14_isekai_amnesia_trope|異世界転生記憶喪失定型の逆転]]
+- [[A_ch5471_parodies_E_p57_internet_subculture_terminology|サブカル用語の空っぽさのパロディ]]
+- [[A_ch5471_structurally_matches_E_p251_doppelganger_motif|ドッペルゲンガーの分裂とトリックスター]]
+
+### 第5472話
+
+- [[A_ch5472_alludes_to_E_p122_genetic_engineering_incest_taboo|近親交配タブーの遺伝子操作正当化]]
+- [[A_ch5472_analogous_to_E_p34_gacha_game_mechanics|存在変換とガチャ消費機構]]
+- [[A_ch5472_inverts_E_p214_isekai_cheat_cliché|異世界チートの常套句の自己解体]]
+- [[A_ch5472_parodies_E_p243_shonen_manga_archetypes|王族権威の解体と軽薄さ]]
+- [[A_ch5472_structurally_matches_E_p330_execution_chair_metaphor|電気椅子の比喩としての玉座]]
+
+### 第5479話
+
+- [[A_ch5479_alludes_to_E_ch5479_レナリア_appears_ユディーア_p2_junior_idol_fandom|ジュニアアイドル崇拝への没入]]
+- [[A_ch5479_analogous_to_E_ch5479_レナリア_appears_ユディーア_p2_corporate_merger|企業合併を模した支配欲求の融合]]
+- [[A_ch5479_analogous_to_E_ch5479_レナリア_appears_ユディーア_p2_youtube_influencer|動画配信者による英雄像消費]]
+- [[A_ch5479_inverts_E_ch5479_レナリア_appears_ユディーア_p2_necromancy_trope|死霊術万能主義逆転と信仰尊重]]
+- [[A_ch5479_structurally_matches_E_ch5479_レナリア_appears_ユディーア_p2_npc_ai_behavior|NPC挙動最適化による外見変容]]
+
+### 第5481話
+
+- [[A_ch5481_alludes_to_E_ch5481_変身呪術_has_property_自我崩壊の危険_p34_Mental_Illness_Deindividualization|脱個人化精神病理への暗喩]]
+- [[A_ch5481_analogous_to_E_ch5481_シアンクリーニング_is_made_of_クロウサー家系列_p18_Conglomerate_Monopoly|財閥独占構造の投影]]
+- [[A_ch5481_analogous_to_E_ch5481_セラメル_says_ゴミどもへの拒絶_p184_Craftsmanship_Ethics|職人倫理による選別思想]]
+- [[A_ch5481_analogous_to_E_ch5481_ユディーア_says_小技の応用_p13_Magic_System_Technology|魔法体系外の小技による例外処理]]
+- [[A_ch5481_analogous_to_E_ch5481_機械女王_appears_as_無防備な姿_p24_Celebrity_Security_Risk|著名人の儀式時防衛リスク]]
+- [[A_ch5481_structurally_matches_E_ch5481_辺境区四大ギャング_functions_as_賭博と不正の暗闘_p67_Sports_Betting_Manipulation|スポーツ賭博操作構造の翻訳]]
+
+### 第5482話
+
+- [[A_ch5482_alludes_to_E_p126_colonial_conflict|植民地紛争の構造的暴力]]
+- [[A_ch5482_alludes_to_E_p6_object_personification|万物擬人化と武器命名のクリシェ]]
+- [[A_ch5482_analogous_to_E_p184_organized_crime_and_trade|犯罪組織と密輸による経済補完]]
+- [[A_ch5482_analogous_to_E_p5_modern_industrial_production|暗黙知と工業生産の対比]]
+- [[A_ch5482_analogous_to_E_p61_disposable_goods|使い捨て商品としての家畜化]]
+- [[A_ch5482_inverts_E_p85_standard_death_narrative|転生死概念の時間逆行への反転]]
+- [[A_ch5482_parodies_E_p199_fast_travel_system|ファストトラベル用語のパロディ]]
+- [[A_ch5482_structurally_matches_E_p52_game_status_screen|鑑定スキルによるステータス看破]]
+
+### 第5483話
+
+- [[A_ch5483_alludes_to_E_p13_game_stealth_mechanics|ステルス判定回避のゲーム的実装]]
+- [[A_ch5483_alludes_to_E_p160_greek_mythology_titanomachy|タイタノマキアへの投石による秩序中断]]
+- [[A_ch5483_alludes_to_E_p267_sapir_whorf_hypothesis|サピア＝ウォーフ仮説の魔術体系化]]
+- [[A_ch5483_analogous_to_E_p245_cultural_stereotypes_and_prejudice|言語偏見と文化ステレオタイプ]]
+- [[A_ch5483_analogous_to_E_p56_labor_theory_of_value|労働価値説の時間硬貨変換]]
+- [[A_ch5483_inverts_E_p74_trpg_meta_narrative|TRPGメタ構造の自覚的スキップ行使]]
+- [[A_ch5483_structurally_matches_E_p104_dungeon_save_point|ダンジョンチェックポイントの祈り演出]]
+
+### 第5485話
+
+- [[A_ch5485_alludes_to_E_ch5485_世界設定_defines_方言使いの歴史と禁術化_p44_babel_myth|バベルの塔神話の言語分断引用]]
+- [[A_ch5485_analogous_to_E_ch5485_ユディーア_defines_魔槍の機能仕様_p4_gacha_game_character_builds|ガチャキャラ育成の魔槍依存構造]]
+- [[A_ch5485_analogous_to_E_ch5485_ユディーア_other_ノゴルオゴルオの戦略_p56_colonial_linguistic_hegemony|言語ヘゲモニーの植民地史模倣]]
+- [[A_ch5485_inverts_E_ch5485_ユディーア_thinks_己の弱さの効用_p202_hero_narrative_cliche|英雄叙事の常套逆転による手綱支配]]
+- [[A_ch5485_structurally_matches_E_ch5485_ポルガー_reveals_来訪者たちのスタンス_p95_literary_genre_metaphors|ジャンル対立比喩の世界観象徴化]]
+
+### 第5486話
+
+- [[A_ch5486_alludes_to_E_ch5486_ユディーア_defines_氷血呪の本質_p190_solipsism_phenomenology|唯我論的現象学の時空停止介入]]
+- [[A_ch5486_analogous_to_E_ch5486_テッシトゥーラ_defines_言震への対策_p94_censorship_language_control|言語統制による思考抹消検閲]]
+- [[A_ch5486_analogous_to_E_ch5486_テッシトゥーラ_makes_二叉の槍_p83_tuning_fork_resonance|音叉共鳴兵器の魂揺さぶり干渉]]
+- [[A_ch5486_analogous_to_E_ch5486_テッシトゥーラ_other_クナータの生存方法_p58_software_containerization|コンテナ技術の意識分離封じ込め]]
+- [[A_ch5486_analogous_to_E_ch5486_テッシトゥーラ_other_三つ巴の戦略_p46_game_theory_nash_equilibrium|三つ巴戦略とナッシュ均衡]]
+- [[A_ch5486_analogous_to_E_ch5486_テッシトゥーラ_other_世界平和の維持_p73_autocratic_paternalism|全体調和強制的維持の言語テロ排除]]
+
+### 第5487話
+
+- [[A_ch5487_alludes_to_E_p91_myth_death_deity_scythe|死神と大鎌による時間可視化]]
+- [[A_ch5487_analogous_to_E_p103_multi_casting_game_mechanic|多重詠唱のゲーム的実装]]
+- [[A_ch5487_analogous_to_E_p156_tactical_combat_choreography|戦術連携の戦闘振付化]]
+- [[A_ch5487_analogous_to_E_p20_academic_explore_danger|学術調査隊の構造化]]
+- [[A_ch5487_inverts_E_p18_military_strategy_defense_as_offense|防御機能の攻撃への転用]]
+- [[A_ch5487_structurally_matches_E_p12_game_theory_nash_equilibrium|核抑止論的均衡構造]]
+
+### 第5488話
+
+- [[A_ch5488_alludes_to_E_滅びの呪文_Metaphysical_Art|言語超越芸術の本質描写]]
+- [[A_ch5488_analogous_to_E_ヴィティスの呪い_Social_Isolation_Policy|分断統治と孤立化政策]]
+- [[A_ch5488_sublates_E_第九紀竜の本質_Smartphone_Use_Case|スマホ通話限定の皮肉]]
+
+### 第5489話
+
+- [[A_ch5489_alludes_to_E_battle_analysis_game_ui_and_stats|敵情報ウィンドウの劇中実装]]
+- [[A_ch5489_analogous_to_E_last_rites_catholic_last_rites|終油秘蹟の攻撃技術化]]
+- [[A_ch5489_analogous_to_E_lesism_systemic_racism_variable|構造的差別の変数化]]
+- [[A_ch5489_inverts_E_azurias_refusal_self_determination_vs_paternalism|保護論理への自己決定逆転]]
+- [[A_ch5489_parodies_E_alesio_speech_marketing_and_branding|戦闘力のブランド化戦略]]
+- [[A_ch5489_parodies_E_combat_physics_realistic_game_mechanics|物理的制約による爽快感阻害]]
+- [[A_ch5489_structurally_matches_E_alesio_march_propaganda_and_mass_psychology|プロパガンダによる人心操作]]
+
+### 第5490話
+
+- [[A_ch5490_alludes_to_E_halbert_candy_intake_sports_nutrition_science|スポーツ栄養学的な糖分補給]]
+- [[A_ch5490_alludes_to_E_rainbow_dog_woman_behavior_sadistic_gamification_torture|嗜虐的なゲーム的暴力消費]]
+- [[A_ch5490_analogous_to_E_halbert_translation_limitation_localization_cultural_framing|文化ローカライズの構造的摩擦]]
+- [[A_ch5490_analogous_to_E_priestera_leadership_corporate_middle_management_crisis|中間管理職的リーダーシップ]]
+- [[A_ch5490_inverts_E_moral_boundaries_manipulation_postmodern_relativism_ethics|道徳的相対主義の呪術化]]
+- [[A_ch5490_parodies_E_virtual_familiar_announcement_modern_public_announcement_system|公共放送システムの模倣]]
+- [[A_ch5490_structurally_matches_E_gate_bridge_function_public_transportation_network_design|交通網設計のような空間独占]]
+
+### 第5491話
+
+- [[A_ch5491_alludes_to_E_SummoningSizaktat_NecromancyMyth|英霊召喚と贄の契約]]
+- [[A_ch5491_analogous_to_E_HarbertCommand_OrchestralConductor|オーケストラ指揮者的統率]]
+- [[A_ch5491_analogous_to_E_PristeraHatred_HistoricalColonialism|排他的ナショナリズムの構造]]
+- [[A_ch5491_parodies_E_HarbertIdeal_PacifistDiplomacy|非殺降伏規範のパロディ]]
+
+### 第5492話
+
+- [[A_ch5492_analogous_to_E_ch5492_特権_defines_黒檀の民の安全_p41_corporate_safety_net|序列に基づく保護選別構造]]
+- [[A_ch5492_inverts_E_ch5492_マリナ_confesses_混血である事実_p138_ME_identity_politics|アイデンティティ逆転の告白]]
+- [[A_ch5492_structurally_matches_E_ch5492_虹犬_has_property_異常な耐久力_p338_ME_game_god_mode_enemy|無敵状態の敵との虚無感]]
+
+### 第5493話
+
+- [[A_ch5493_analogous_to_E_p104_nationalism_ethnic_solidarity|エスニック連帯意識の原理]]
+- [[A_ch5493_analogous_to_E_p32_bioethics_medical_consensus|生命倫理合意への信仰のすり合わせ]]
+- [[A_ch5493_analogous_to_E_p4_motoGP_pit_lane|ピットレーン様式]]
+- [[A_ch5493_analogous_to_E_p55_political_intervention_in_military|政治介入に抗う軍事的自律性]]
+- [[A_ch5493_analogous_to_E_p70_indigenous_rights_movement|歌と旗による先住民権利運動の想起]]
+- [[A_ch5493_analogous_to_E_p76_land_expropriation_compensation|はした金で正当化される土地収用]]
+
+### 第5494話
+
+- [[A_ch5494_alludes_to_E_Black_Insect_Knights_Origin_Dragon_Royalty_Mythology|隠された竜王血統の暗喩]]
+- [[A_ch5494_alludes_to_E_Grendelhi_Appearance_Deus_Ex_Machina_Heroic_Entry|英雄劇的参戦によるデウス・エクス・マキナ]]
+- [[A_ch5494_analogous_to_E_King_Insect_Seal_Authoritarian_Power_Display|印章による権威の強制力行使]]
+- [[A_ch5494_analogous_to_E_Milunya_Tactical_Analysis_Game_Strategy_Guides|分断戦術指南としての弱点分析]]
+- [[A_ch5494_analogous_to_E_Rainbow_Dog_Enslavement_Historical_Slavery_and_Colonialism|植民地主義的支配正当化のナラティブ]]
+- [[A_ch5494_inverts_E_Black_Insect_Knights_Violence_Yakuza_Organized_Crime_Image|極道の美学による組織的暴力演出]]
+- [[A_ch5494_parodies_E_Rosa_Bee_Disguise_Espionage_Trope_Infiltration|潜入・擬態パロディとしての蜜蜂変身]]
+
+### 第5495話
+
+- [[A_ch5495_alludes_to_E_ch5495_アキラ_kills_ライラ_p350_golem_mythology|ゴーレム神話への泥人形解体]]
+- [[A_ch5495_alludes_to_E_ch5495_アキラ_thinks_白騎士への信頼と敵意_p387_nietzschean_master-slave_morality|主従道徳と嫉妬の自己孤立]]
+- [[A_ch5495_analogous_to_E_ch5495_白騎士_other_レイシズム変数_p238_social_stereotyping_and_racism|レイシズム変数によるステレオタイプ固定]]
+- [[A_ch5495_inverts_E_ch5495_アキラ_thinks_戦いを選ぶことへの葛藤_p23_utilitarian_ethics_in_disaster_response|災害対応功利主義的ジレンマの逆転]]
+- [[A_ch5495_structurally_matches_E_ch5495_マイコニド解放戦線のリーダー_confesses_呪縛からの解放願望_p101_class_society_and_caste_system|カースト制への構造対応と解放願望]]
+
+### 第5496話
+
+- [[A_ch5496_alludes_to_E_p37_scorpio_zodiac_mythology|蠍座神話の凶暴性の象徴]]
+- [[A_ch5496_alludes_to_E_p52_racial_essentialism|人種本質主義的な異獣排除]]
+- [[A_ch5496_analogous_to_E_p154_corporate_branding_hijack|ブランド乗っ取り]]
+- [[A_ch5496_analogous_to_E_p15_common_enemy_coalition|敵の敵は味方戦略の同盟]]
+- [[A_ch5496_parodies_E_p81_dream_scape_fiction|夢界メタフィクションのパロディ]]
+- [[A_ch5496_structurally_matches_E_p276_broom_racing_race|箒レース構造の競技トリガー化]]
+
+### 第5497話
+
+- [[A_ch5497_alludes_to_E_ch5497_リビュエー隊_bonds_五人の姉妹ウネム、マリナ、アクィラ、アイシャ、タマル_p371379_harpy_mythology|ハルピュイア神話への暗喩的結集]]
+- [[A_ch5497_analogous_to_E_ch5497_アイシャ_wears_瘢痕文身スカリフィケーション_p135142_scarification_custom|スカリフィケーションの傷装飾文化]]
+- [[A_ch5497_analogous_to_E_ch5497_ウネム_fights_襲撃者たち_p171188_stereotyping_prejudice|ステレオタイプ化による偏見暴力]]
+- [[A_ch5497_analogous_to_E_ch5497_ウネム_other_分断呪詛の伝播と男根狩り運動_p310325_social_division_movements|政治的分断操作としての男根狩り]]
+- [[A_ch5497_inverts_E_ch5497_アキラ_loves_ヴィティス_p1524_self_compassion_love|自己憐憫投影への恋概念逆転]]
+- [[A_ch5497_parodies_E_ch5497_ウネム_says_舞台の演出リビュエー隊_p360368_theatrical_metafiction|舞台メタフィクションとしての自己言及]]
+
+### 第5498話
+
+- [[A_ch5498_alludes_to_E_Hatchet_Singing_Virtual_Singer_Software|ボーカルロイド的歌唱合成の暗喩]]
+- [[A_ch5498_alludes_to_E_Nebulon_Clans_Organized_Crime_Mafia|マフィア的構造の反社会組織変換]]
+- [[A_ch5498_analogous_to_E_Alessio_MarchP_Vocaloid_Producer_Culture|ボカロP文化のプロデューサー支配風刺]]
+- [[A_ch5498_analogous_to_E_Saria_TimeLoop_Roguelike_Gameplay_Loop|ローグライク周回ループのメタ論理]]
+- [[A_ch5498_inverts_E_Rosa_Hedonism_Ethical_Moral_Hedonism|快楽主義・日常肯定への英雄叙事逆転]]
+- [[A_ch5498_structurally_matches_E_Alessio_Promotion_Idol_Generation_War|アイドル世代交代論の構造対応]]
+
+### 第5499話
+
+- [[A_ch5499_alludes_to_E_ch5499_ランカーシュ_says_妄言_p105_言語の崩壊・狂気|シニフィアンの滑走による言語崩壊]]
+- [[A_ch5499_alludes_to_E_ch5499_空を駆ける者_thinks_太陽_p148_イカロスの翼|イカロスの翼による真理への破滅]]
+- [[A_ch5499_analogous_to_E_ch5499_クァヒート家当主_thinks_次期当主_p82_世襲政治・寡頭制|世襲寡頭制を模した家門闘争]]
+- [[A_ch5499_analogous_to_E_ch5499_リーナ_has_property_仮面_p9_ペルソナ|社会的役割としてのペルソナ]]
+- [[A_ch5499_inverts_E_ch5499_空の民_defines_雲上人_p167_雲上人階級社会|優越支配の可視化としての浮遊]]
+- [[A_ch5499_parodies_E_ch5499_リーナ_names_役割_p17_現代のアイデンティティ|社会的属性の虚無としての肩書き]]
+
+### 第5500話
+
+- [[A_ch5500_analogous_to_E_シード枠と予選の構造_格差社会・機会の不平等|機会の格差を象徴するシード制度]]
+- [[A_ch5500_analogous_to_E_万獣祭の開催宣言_ギグ経済・プラットフォーム契約|ギグ経済化された祝祭とランキング]]
+- [[A_ch5500_inverts_E_王殺しの暗殺_現代のキャンセル文化・社会的抹殺|社会的抹殺としての名誉剥奪]]
+- [[A_ch5500_parodies_E_予選参加者の箒_SNSのバズ狙い・映えコンテンツ|SNS的バズ狙いの奇抜な演出]]
+- [[A_ch5500_structurally_matches_E_機械女王トリシューラの宣言_社会契約論・ホブズ的な主権の創出|場を通じた主権生成の構造対応]]
+
+### 第5501話
+
+- [[A_ch5501_alludes_to_E_p11-p12_narrative_meta_physics|メタフィジクスへの描写の物理法則化]]
+- [[A_ch5501_alludes_to_E_p162-p170_primitivism_anti_modernism|反近代・自然回帰]]
+- [[A_ch5501_analogous_to_E_p8-p14_game_design_rules|ゲームデザイン平衡によるハンデ調整]]
+- [[A_ch5501_analogous_to_E_p83-p89_text_based_games_interactive_fiction|テキストベースゲームへの入力解釈比喩]]
+- [[A_ch5501_parodies_E_p70-p135_quidditch_harry_potter|クィディッチの空中レース中継パロディ]]
+- [[A_ch5501_structurally_matches_E_p204-p208_economic_game_mechanics_resource_management|資源管理メカニクスによる行動買収支配]]
+
+### 第5502話
+
+- [[A_ch5502_analogous_to_E_ch5502_ユディーア_other_対ハイマン同盟_p25_game_theory_coalition_politics|連合形成理論に基づく暫定同盟結集]]
+- [[A_ch5502_analogous_to_E_ch5502_黒マント_appears_ダークホース_p179_sports_underdog_narrative|ダークホース展開による大穴ごぼう抜き]]
+- [[A_ch5502_inverts_E_ch5502_アサブ_says_枯れ木野郎_p93_modern_political_correctness|炎上商法を燃料とする差別発言逆転]]
+- [[A_ch5502_parodies_E_ch5502_黒マント_defines_主役_p210_metanarrative_deus_ex_machina|機械仕掛けの神による物語構造強制リセット]]
+- [[A_ch5502_structurally_matches_E_ch5502_選手たち_makes_実体空_p3_narrative_structure_context_dependency|文脈依存構造を用いた回想加速触媒]]
+
+### 第5503話
+
+- [[A_ch5503_alludes_to_E_p281_Bible_Gog_Magog|ゴグとマゴグの終末戦争予言引用]]
+- [[A_ch5503_alludes_to_E_p39_Ecclesiastes_1-9|コヘレトの言葉による虚無主義定義]]
+- [[A_ch5503_alludes_to_E_p498_Arachne_Mythology|アラクネ神話への運命の糸紡ぎ暗喩]]
+- [[A_ch5503_analogous_to_E_p422_Triad_Elements_Metaphor|トライデントの機能分担隠喩]]
+- [[A_ch5503_analogous_to_E_p504_Turn_Based_Game_Mechanics|ターン制ゲームのバランス調整]]
+- [[A_ch5503_parodies_E_p30_Vanitas_Painting|ヴァニタス静物画の無常観視覚化]]
+- [[A_ch5503_structurally_matches_E_p167_Mirror_Fragmentation_Psyche|鏡像による分裂を映す自己多面性]]
+
+### 第5504話
+
+- [[A_ch5504_alludes_to_E_ch5504_p158_conservative_political_ideology|保守・復古主義]]
+- [[A_ch5504_alludes_to_E_ch5504_p17_narrative_structure_metaphor|物語構造のメタファー]]
+- [[A_ch5504_alludes_to_E_{ch5504_p158}_{conservative_political_ideology}|保守・復古主義への風刺]]
+- [[A_ch5504_alludes_to_E_{ch5504_p17}_{narrative_structure_metaphor}|メタフィクション構造の比喩]]
+- [[A_ch5504_analogous_to_E_{ch5504_p115}_{programming_language_abstraction}|抽象化とインターフェース設計]]
+- [[A_ch5504_analogous_to_E_{ch5504_p35}_{smartphone_notification_overload}|通知過多・疲労の描写]]
+- [[A_ch5504_parodies_E_{ch5504_p2}_{real_world_sports_broadcasting}|スポーツ実況の構造化]]
+- [[A_ch5504_structurally_matches_E_{ch5504_p72}_{class_based_casting}|クラス別編成との構造対応]]
+- [[A_ch5504_sublates_E_{ch5504_p121}_{semantic_hijacking_of_terms}|意味の乗っ取りと定義権争い]]
+
+### 第5505話
+
+- [[A_ch5505_analogous_to_E_ch5505_ユディーア_other_紀竜の巫女は王の花嫁_p412_feudal_political_marriage|中世権力基盤の脆弱性構造]]
+- [[A_ch5505_analogous_to_E_ch5505_ユディーア_other_運命による保護惰性の試み_p318_narrative_plot_armor|プロットアーマーの自覚]]
+- [[A_ch5505_analogous_to_E_ch5505_ユディーア_thinks_呪術リソース才能・ギフト_p403_mobile_game_gacha|ガチャ的な資源最適化優位]]
+- [[A_ch5505_analogous_to_E_ch5505_ユディーア_thinks_自己の本質不確実性_p93_impostor_syndrome|インポスター症候群との類似]]
+
+### 第5506話
+
+- [[A_ch5506_alludes_to_E_p154_demographic_statistics_politics|統計政治操作への警戒]]
+- [[A_ch5506_analogous_to_E_p15_live_streaming_social_media|SNS実況による情報共有技術]]
+- [[A_ch5506_analogous_to_E_p236_political_public_propose|公開求婚パフォーマンス]]
+- [[A_ch5506_inverts_E_p90_violence_as_tool_for_peace|暴力の非暴力化の逆転]]
+- [[A_ch5506_parodies_E_p56_anime_trope_mismatch_cool|ミスマッチ演出]]
+- [[A_ch5506_structurally_matches_E_p108_public_relations_media_strategy|メディア戦略との構造対応]]
+
+### 第5507話
+
+- [[A_ch5507_alludes_to_E_ch5507_クレナリーザ_says_歴史の改変と沼地の真実_p189_historical_revisionism|歴史修正主義への暗示]]
+- [[A_ch5507_alludes_to_E_ch5507_ユディーア_observes_第五階層の主街区_p4_exotic_subcontinent_culture|異文化間の緊張と和解の暗喩]]
+- [[A_ch5507_analogous_to_E_ch5507_ユディーア_observes_第五階層の主街区_p4_surveillance_camera_drone|ドローン監視カメラの俯瞰知覚]]
+- [[A_ch5507_analogous_to_E_ch5507_ユディーア_uses_使い魔端末_p25_smartphone_notification_management|スマホ通知管理の構造一致]]
+- [[A_ch5507_inverts_E_ch5507_ユディーア_thinks_結論の留保と沈黙_p438_garden_of_gethsemane|ゲッセマネの園の逆説的引用]]
+- [[A_ch5507_parodies_E_ch5507_ユディーア_thinks_女王様気分と全能感_p41_gacha_game_management|SNS権力享受のパロディ化]]
+- [[A_ch5507_structurally_matches_E_ch5507_クレナリーザ_reveals_トライデントの鼻としての役割_p345_kabbalah_sephirot|カバラセフィロトとの構造対応]]
+
+### 第5508話
+
+- [[A_ch5508_alludes_to_E_ch5508_天眼の民_fears_猫への畏怖_p95_Feline_Rituals_in_Ancient_Egypt|技術の宗教的神秘への昇華]]
+- [[A_ch5508_analogous_to_E_ch5508_地下アイドル空間_is_located_ガロアンディアンの地下_p161_Underground_Idol_Marketing_Strategy|地下アイドル戦略への転生]]
+- [[A_ch5508_parodies_E_ch5508_トランクケース_has_property_異常な軽さ_p14_MacGuffin_in_Film_Noir|マクガフィンのメタ的解体]]
+- [[A_ch5508_parodies_E_ch5508_本選レース_defines_次元を巡る流れ_p127_Fantasy_Racing_Games_TrophyCup|トロフィーカップの次元超越化]]
+- [[A_ch5508_structurally_matches_E_ch5508_旧市街_is_located_観光用区画_p41_Historical_Reenactment_Parks|歴史再現テーマパークの構造対応]]
+
+### 第5509話
+
+- [[A_ch5509_alludes_to_E_p115_historical_general_tactics|近代的戦術評価への暗喩]]
+- [[A_ch5509_alludes_to_E_p50_greek_mythology_zodiac|ギリシャ星座神話の権威付与]]
+- [[A_ch5509_analogous_to_E_p266_social_media_sticker_reply|SNSスタンプ機能の類似]]
+- [[A_ch5509_analogous_to_E_p58_firearm_mechanics|火器運用力学のコスト描写]]
+- [[A_ch5509_inverts_E_p190_world_tree_yggdrasil|世界樹ユグドラシルの逆転]]
+- [[A_ch5509_parodies_E_p92_magic_trick_illusion|マジック仕掛けの逆説的引用]]
+- [[A_ch5509_structurally_matches_E_p43_magic_card_game_summon|カードゲーム召喚メカニクス対応]]
+
+### 第5510話
+
+- [[A_ch5510_alludes_to_E_p236_中国史・春秋戦国時代の合従連衡|合従連衡の政治的流動性]]
+- [[A_ch5510_alludes_to_E_p72_オンラインゲームのアバター・アカウント管理|アバター運用の複数キャラ管理]]
+- [[A_ch5510_analogous_to_E_p14_現代のサブスクサービス・ポイント還元キャンペーン|サブスク・ポイント還元の模倣]]
+- [[A_ch5510_inverts_E_p190_キリスト教的殉教・自己犠牲|殉教的自己犠牲の逆転]]
+- [[A_ch5510_parodies_E_p4_現代のスマホゲームガチャUI|ガチャUIへの転生で虚構性を露呈]]
+- [[A_ch5510_structurally_matches_E_p68_タイムツリー・マルチバース理論|タイムツリー掌握のSFメタファー]]
+
+### 第5511話
+
+- [[A_ch5511_alludes_to_E_yudeia_suicide_saint_judas_iskariot_hanging|ユダの首吊りによる自死描写]]
+- [[A_ch5511_analogous_to_E_yudeia_hanging_biblical_judas_iskariot|ユダの銀貨30枚の裏切り構造]]
+- [[A_ch5511_inverts_E_reincarnation_app_isekai_isekai_genre_cliche|異世界転生商品の逆説的解体]]
+- [[A_ch5511_parodies_E_app_ad_smartphone_game_gacha|スマホガチャ型資源変換構造]]
+- [[A_ch5511_structurally_matches_E_est_sacrifice_jesus_christ_crucifixion|キリスト受難型の師弟殉教]]
+
+### 第5512話
+
+- [[A_ch5512_alludes_to_E_ch5512_カーイン_names_スプラッタ映画_p212_violent_film_industry|スプラッタ映画産業への暗喩]]
+- [[A_ch5512_alludes_to_E_ch5512_カーイン_names_不屈ガッツ_p133_sports_mental_toughness|スポーツ根性論への比喩]]
+- [[A_ch5512_analogous_to_E_ch5512_楽園の抱擁_defines_気合や根性_p125_willpower_based_healing_games|気合による個我維持法則]]
+- [[A_ch5512_analogous_to_E_ch5512_運営シューラたち_uses_ドローン_p4_live_streaming_drone_delivery|ドローン運用の非人間性]]
+- [[A_ch5512_analogous_to_E_ch5512_隠花族_is_located_穢れとして隔離_p86_spatial_segregation_of_waste|廃棄物としての穢れ隔離]]
+- [[A_ch5512_parodies_E_ch5512_トロメリア_names_プトレマイオス_p21_berkeley_immaterialism_to_be_is_to_perceive|バークリー観念論のパロディ]]
+- [[A_ch5512_parodies_E_ch5512_人々_observes_ロードデンドロン_p4_sports_star_cult_of_personality|スター崇拝・英雄消費の情景]]
+- [[A_ch5512_structurally_matches_E_ch5512_セリアック＝ニア_names_ちびニア_p97_pet_companion_in_rpgs|RPGペット相棒構造の変動]]
+
+### 第5514話
+
+- [[A_ch5514_alludes_to_E_erica_debuff_semantic_negation|意味論的否定による戦闘]]
+- [[A_ch5514_alludes_to_E_erica_identity_bishop_title_in_fantasy|ビショップ称号]]
+- [[A_ch5514_alludes_to_E_erica_magic_analogia_rhetoric|アナロギア修辞学に基づく魔法]]
+- [[A_ch5514_alludes_to_E_player_entry_gacha_summoning|ガチャ召喚演出の指喩]]
+- [[A_ch5514_alludes_to_E_yokai_names_japanese_folklore|百鬼夜行異名リストの引用]]
+- [[A_ch5514_analogous_to_E_battle_royal_announcement_weather_forecast_service|戦闘開始予報通知の天気予報アプリ化]]
+- [[A_ch5514_analogous_to_E_erica_summon_defensive_tower_defense|エリカの魔術配置とタワーディフェンス戦略]]
+- [[A_ch5514_parodies_E_battle_royal_modern_game_advertising|第五階層戦闘のスマホゲーム広告演出化]]
+- [[A_ch5514_parodies_E_cyber_karate_debate_fan_wars_and_microtransactions|サイバーカラテ論争とMMO課金システム風刺]]
+- [[A_ch5514_parodies_E_troll_glitch_video_game_glitch_and_rules|地下移動反則のゲームグリッチ警告模倣]]
+
+### 第5515話
+
+- [[A_ch5515_analogous_to_E_ch5515_クレイ_activates_接理の妖精_p367_performance_magic_concept|身体性呪文とメタ演劇的魔術概念]]
+- [[A_ch5515_analogous_to_E_ch5515_クレイ_defines_第六感霊感_p76_sensory_tradeoff_game_mechanic|視覚喪失と超知覚のゲーム的トレードオフ]]
+- [[A_ch5515_analogous_to_E_ch5515_コキュートス_defines_死者出ない設定_p7_game_design_safety_net|死者不出・即時修繕のゲームセーフティネット]]
+- [[A_ch5515_analogous_to_E_ch5515_ノゴルオゴルオ_makes_ハートの形_p479_modern_cute_aesthetic_symbol|異世界への萌え記号（ハート）浸透]]
+- [[A_ch5515_structurally_matches_E_ch5515_ヘリオトロープ_defines_陽閃_p197_solar_power_physics_metaphor|陽閃の太陽光発電的物理メタファー]]
+
+### 第5516話
+
+- [[A_ch5516_parodies_E_ch5516_恋_appears_as_炎_p2_Metaphor_of_Love_as_Fire|愛＝炎比喩の爆撃による記号論的空虚化]]
+
+### 第5518話
+
+- [[A_ch5518_alludes_to_E_04_Geocentric_Heliocentric_Inversion|天動地動転回を想起させる世界図]]
+- [[A_ch5518_analogous_to_E_01_SocialMedia_Algorithm|模倣による主体性喪失のメタファー]]
+- [[A_ch5518_analogous_to_E_02_Chess_Metaphor|盤外操作を模したチェス的対立]]
+- [[A_ch5518_analogous_to_E_06_Open_Source_Software|OSSフォークに例えた呪術再解釈]]
+- [[A_ch5518_parodies_E_03_ChatGPT_Prompt_Engineering|言理の妖精呪文解析とLLMプロンプト工学]]
+- [[A_ch5518_structurally_matches_E_05_Social_Darwinism|社会ダーウィニズムによる搾取正当化]]
+
+### 第5519話
+
+- [[A_ch5519_alludes_to_E_126_Affirmative_Action|積極的是正措置としての権利回復]]
+- [[A_ch5519_analogous_to_E_128_French_Legion|外人部隊的隠蔽と権利回復]]
+- [[A_ch5519_analogous_to_E_463_Trophy_Wife|トロフィーワイフ的な所有権移動]]
+- [[A_ch5519_inverts_E_253_Damsel_in_Distress_Trope|囚われの姫君の受動性否定]]
+- [[A_ch5519_parodies_E_102_Roman_Empire_Limes|リメス的文明圏二分法の模倣]]
+- [[A_ch5519_parodies_E_497_Helen_of_Troy_Quote|ヘレネの台詞引用と争い誘発]]
+- [[A_ch5519_structurally_matches_E_343_Helen_of_Troy|トロイア戦争の誘拐・争い構造]]
+
+### 第5520話
+
+- [[A_ch5520_analogous_to_E_p206_life_insurance_product|転生を生命保険とする比喩]]
+- [[A_ch5520_analogous_to_E_p69_classical_virtue_politics|古典的美徳観への批判的言及]]
+- [[A_ch5520_parodies_E_p3_amaranthus_mythology|不変の花の名前による象徴性]]
+- [[A_ch5520_parodies_E_p78_japan_pop_culture_stereotypes|ステレオタイプな日本像の自虐]]
+- [[A_ch5520_structurally_matches_E_p95_game_gacha_system|ガチャ的希少性管理構造]]
+
+### 第5521話
+
+- [[A_ch5521_alludes_to_E_p297-p318_日本の歴史律令国家／朝廷と家系制度|律令国家・朝廷]]
+- [[A_ch5521_alludes_to_E_p71-p77_ギリシャ神話のネペンテス忘却の薬|忘却の薬ネペンテスによる悲劇の象徴]]
+- [[A_ch5521_alludes_to_E_{p297-p318}_{日本の歴史律令国家／朝廷と家系制度}|律令制モデルの権力構造]]
+- [[A_ch5521_alludes_to_E_{p71-p77}_{ギリシャ神話のネペンテス忘却の薬}|ネペンテスの薬による忘却象徴]]
+- [[A_ch5521_analogous_to_E_p104-p106_食虫植物ハエトリソウ／ウツボカズラ|食虫植物的罠による戦闘構造]]
+- [[A_ch5521_analogous_to_E_p29-p31_AI／ボットの対話における文脈喪失|AI的欠陥を示すメタフィクショナル自己言及]]
+- [[A_ch5521_analogous_to_E_p347_植民地支配／従属関係|宗主国と従属の搾取的保護構造]]
+- [[A_ch5521_analogous_to_E_{p104-p106}_{食虫植物ハエトリソウ／ウツボカズラ}|食虫植物的捕獲による戦闘]]
+- [[A_ch5521_analogous_to_E_{p347}_{植民地支配／従属関係}|宗主国従属構造の搾取]]
+
+### 第5522話
+
+- [[A_ch5522_analogous_to_E_p15-p18_modern_smartphone_camera_privacy_erosion|スマホカメラによる魂観念侵食]]
+- [[A_ch5522_analogous_to_E_p254-p271_diplomatic_handshake_photo_op|外交握手写真の象徴性]]
+- [[A_ch5522_analogous_to_E_p85_tourism_industry_pr_strategy|スポーツによる地域振興戦略]]
+- [[A_ch5522_parodies_E_p118-p125_long_character_names_and_media_franchises|長名キャラとメディアミックス]]
+- [[A_ch5522_parodies_E_p161-p177_tesla_autonomous_driving_marketing|自律走行技術のプロモーション]]
+- [[A_ch5522_parodies_E_p2-p5_modern_tourism_photography_culture|観光写真文化への皮肉]]
+- [[A_ch5522_parodies_E_p29-p30_quidditch_harry_potter|クィディッチの独自構造]]
+- [[A_ch5522_parodies_E_p40-p43_youtube_streamer_meme_culture|ストリーマー文化のミーム化]]
+- [[A_ch5522_parodies_E_p53-p60_influencer_collaboration_content_marketing|インフルエンサーのコラボ案件消費]]
+- [[A_ch5522_parodies_E_p64-p70_gacha_game_event_structure|ガチャイベント構造の模倣]]
+- [[A_ch5522_parodies_E_p93-p94_virtual_reality_vr_experience|VR没入体験の想起]]
+- [[A_ch5522_sublates_E_p273-p276_ambiguity_of_peace_definition|戦間期の平和定義の止揚]]
+
+### 第5523話
+
+- [[A_ch5523_analogous_to_E_ch5523_神々_defines_天上世界_p2_Mythology_Hierarchy|天上からの操作とゲーム盤的メタ視点]]
+
+### 第5526話
+
+- [[A_ch5526_alludes_to_E_p127_giants_shoulders|巨人の肩への神話的挑戦]]
+- [[A_ch5526_alludes_to_E_p160_divine_mother_fragment|地母神断片による世界再構成]]
+- [[A_ch5526_alludes_to_E_p31_destruction_of_paradise|骨の手が握り潰す楽園の喪失]]
+- [[A_ch5526_alludes_to_E_p399_noahs_ark|アララト越えの方舟と大洪水]]
+- [[A_ch5526_alludes_to_E_p55_evil_eye_curse|邪視と他界観を結ぶ楽園願望]]
+- [[A_ch5526_analogous_to_E_p311_gamified_clothing|儀式に組み込まれた装備カスタマイズ]]
+- [[A_ch5526_analogous_to_E_p324_spam_mail|森の葉を模したスパム的呪文伝達]]
+- [[A_ch5526_analogous_to_E_p5_advertising_blimp|企業プロモーションとしての広告飛行船]]
+- [[A_ch5526_analogous_to_E_p60_augmented_reality_device|オーブに擬せられたAR技術のメタファー]]
+- [[A_ch5526_parodies_E_p4_corporate_sponsorship|砂上の楼閣を支える企業スポンサーシップ]]
+
+### 第5527話
+
+- [[A_ch5527_analogous_to_E_{プーハニアによる調査報告と連絡手段}}_{スパイ活動におけるアナログ通信の秘匿性}|魔術を避ける鳥による秘匿通信]]
+- [[A_ch5527_analogous_to_E_プーハニアによる調査報告と連絡手段_スパイ活動におけるアナログ通信の秘匿性|傍受回避のためのアナログ通信秘匿]]
+- [[A_ch5527_foreshadows_E_{プーハニアの逃走}_{恐怖による行動停止}|威圧による恐怖凍結反応の暗示]]
+- [[A_ch5527_inverts_E_{ライラ・ラプスの犬による介入}_{敵対者からの協力提案}|敵の敵は味方という政治的実用主義]]
+- [[A_ch5527_inverts_E_ライラ・ラプスの犬による介入_敵対者からの協力提案|即時同盟メカニクスを想起させる休戦]]
+- [[A_ch5527_parodies_E_{通信の既読無視とスタンプ送信}_{現代SNSにおけるコミュニケーション不全}|緊急性を欠いたスタンプ業務連絡]]
+- [[A_ch5527_parodies_E_通信の既読無視とスタンプ送信_現代SNSにおけるコミュニケーション不全|業務連絡脆弱さを風刺するSNS応答不全]]
+- [[A_ch5527_structurally_matches_E_{セリアック＝ニアの総体意識と個体群}_{分散コンピューティングシステム}|ちびニアによる分散コンピューティング構造]]
+- [[A_ch5527_structurally_matches_E_セリアック＝ニアの総体意識と個体群_分散コンピューティングシステム|分散ノード集約を模す総体意識構造]]
+
+### 第5529話
+
+- [[A_ch5529_alludes_to_E_ミナの童貞喰い能力_現代の性的搾取／オタク文化における萌え消費|萌え資源としての童貞の戦闘リソース化]]
+- [[A_ch5529_alludes_to_E_球神ドルネスタンルフの啓示_一神教における預言／啓示|眷属限定の声による宗教的啓示暗喩]]
+- [[A_ch5529_analogous_to_E_ハグレスの道具扱い_労働搾取／ブラック企業における人材軽視|ゲーム的視点による人材の物象化と搾取]]
+- [[A_ch5529_analogous_to_E_ルバーブの破戒と死亡_ゲームにおける自爆戦術／コマ牺牲|相打ちによる盤面操作]]
+- [[A_ch5529_inverts_E_炎天使による寿命消費_ガチャゲームの天井／確率操作|ガチャ天井による格差是正の逆説]]
+- [[A_ch5529_parodies_E_ミナの心の童貞臭発言_現代ネットスラング／オタク用語|戦闘シーンのネットスラング化]]
+- [[A_ch5529_structurally_matches_E_リーナの即席魔導書作成_プログラミングにおける動的メモリ確保／即時コンパイル|呪文の動的メモリ確保と最適化]]
+
+### 第5530話
+
+- [[A_ch5530_alludes_to_E_ch5530_ユディーア_makes_蜥蜴の尻尾切り_p76_biblical_judas_betrayal_context|三十枚銀貨による背信の暗示]]
+- [[A_ch5530_analogous_to_E_ch5530_エレクトラ_other_並行矛盾史_p244_many_worlds_interpretation|多世界解釈的な時間分岐の描写]]
+- [[A_ch5530_analogous_to_E_ch5530_エレクトラ_other_説明の暫定性_p206_scientific_paradigm_shift|魔法理論の科学パラダイムシフト]]
+- [[A_ch5530_parodies_E_ch5530_ちびシューラ_defines_六芒星の属性とシンボル_p60_anime_trope_visual_coding|髪型記号論への呪術還元]]
+- [[A_ch5530_parodies_E_ch5530_ちびシューラ_other_Tier1スキル_p94_video_game_cheat_codes|レトロゲームチート用語の借用]]
+- [[A_ch5530_parodies_E_ch5530_ちびシューラ_says_ログインボーナスと初期設定指示_p35_mobile_game_onboarding|スマホゲームチュートリアル模倣]]
+
+### 第5531話
+
+- [[A_ch5531_alludes_to_E_ch5531_メートリアン_asks_エレクトラ_p2_mythological_trickster_god|トリックスター神へのメタ認知]]
+- [[A_ch5531_analogous_to_E_ch5531_メートリアン_asks_エレクトラ_p2_app_matching_algorithm|アプリアルゴリズム的運命マッチング]]
+- [[A_ch5531_inverts_E_ch5531_メートリアン_asks_エレクトラ_p2_heroic_destiny_narrative|英雄宿命の自己決定による解体]]
+- [[A_ch5531_structurally_matches_E_ch5531_メートリアン_asks_エレクトラ_p2_multi_personality_disorder_treatment|多重人格治療構造の模倣]]
+- [[A_ch5531_sublates_E_ch5531_メートリアン_asks_エレクトラ_p2_isekai_cheat_power|転生チート権威の物理的拒絶]]
+
+### 第5532話
+
+- [[A_ch5532_alludes_to_E_p158_labeling_and_stereotyping|レッテル貼りによる呪力具現化]]
+- [[A_ch5532_alludes_to_E_p401_emotional_suppression_mechanics|感情抑制メカニクスへのバフデバフ暗喩]]
+- [[A_ch5532_analogous_to_E_p236_narrative_cleanup_and_erasures|物語の痕跡消去への舞台裏処理比喩]]
+- [[A_ch5532_inverts_E_p372_parallel_worlds_trope|並行世界侵食への現実干渉化逆転]]
+- [[A_ch5532_parodies_E_p143_game_stat_screen|ステータス画面への死生観皮肉化]]
+- [[A_ch5532_structurally_matches_E_p180_background_music_in_gaming|ゲームBGM演出への戦場消費構造]]
+
+### 第5533話
+
+- [[A_ch5533_alludes_to_E_ch5533_サンデリアーナ_names_黙詞隊のナイト、サンデリアーナ_p215_silent_majority|沈黙の多数派への無言行進風刺]]
+- [[A_ch5533_analogous_to_E_ch5533_クレイ_defines_剣舞の機能_p3_performative_language|遂行性言語への剣舞出力メタファー]]
+- [[A_ch5533_analogous_to_E_ch5533_サンデリアーナ_uses_転生アプリによる魂の移動_p227_save_data_transfer|セーブデータ移行への魂転生比喩]]
+- [[A_ch5533_analogous_to_E_ch5533_ヒュレー_deceives_クレイの解釈_p56_semantic_inversion|意味の反転への記号論的可視化]]
+- [[A_ch5533_parodies_E_ch5533_ヒュレー_uses_大太鼓のリズム_p47_cultural_code_switching|コードスイッチングへのリズム切替実装]]
+
+### 第5534話
+
+- [[A_ch5534_alludes_to_E_p188_conjoined_twins_mythology|結合双生児神話への歴史矛盾体現]]
+- [[A_ch5534_alludes_to_E_p49_damocles_sword|ダモクレスの剣への権力脆弱性象徴]]
+- [[A_ch5534_analogous_to_E_p19_political_compromise_and_status_quo_bias|現状維持バイアスへの先送り戦略批判]]
+- [[A_ch5534_analogous_to_E_p54_trivialization_of_suffering_in_entertainment|苦痛の娯楽化への記号消費構造批判]]
+- [[A_ch5534_inverts_E_p26_moral_hypocrisy_of_justice|正義の構造的暴力への倫理的逆説指摘]]
+- [[A_ch5534_parodies_E_p220_academic_exercise_as_battle_mechanic|卒業演習への貶めによる実力過小評価]]
+- [[A_ch5534_structurally_matches_E_p34_minority_politics_and_stereotyping|少数民族の被害者性を政治資本化]]
+
+### 第5536話
+
+- [[A_ch5536_alludes_to_E_p146_true_name_concept|真名支配ロジックのパロディ実装]]
+- [[A_ch5536_alludes_to_E_p26_avatar_customization_failure|不気味の谷を喚起するアバターカスタム失敗]]
+- [[A_ch5536_analogous_to_E_p16_mass_production_army|自己分割による量産軍団の戦力増強]]
+- [[A_ch5536_inverts_E_p110_feudal_vassalage|利用のための存在による主従紐帯解体]]
+- [[A_ch5536_parodies_E_p19_identity_splitting_in_gaming|同一性犠牲の隠密を優先するアイデンティティ分割]]
+- [[A_ch5536_structurally_matches_E_p185_character_design_in_game|機能実験集積を視覚化するキャラクター生成]]
+
+### 第5537話
+
+- [[A_ch5537_analogous_to_E_ch5537_第六階層ラフディ_appears_as_欲望と切望の王国_p3_candy_floss_structure|欲望融け合う飴細工の脆い幻想メタファー]]
+
+### 第5539話
+
+- [[A_ch5539_alludes_to_E_p103_family_dynamics_in_politics|家父長制忠義による近代契約凌駕の暗示]]
+- [[A_ch5539_alludes_to_E_p307_kabbalah_and_golem_myths|カバラ原初的人間概念への用語群参照]]
+- [[A_ch5539_alludes_to_E_p368_primordial_underworld_concepts|古代地下世界観と楽園信仰の対比提示]]
+- [[A_ch5539_analogous_to_E_p159_opportunistic_politics|勝馬投票的権力追随による機会主義行動]]
+- [[A_ch5539_analogous_to_E_p24_net_article_summarization_sites|網膜投影メディアによる全体主義的統制]]
+- [[A_ch5539_parodies_E_p36_insurance_products|敗北前提の転生をリスク回避保険に喩える]]
+- [[A_ch5539_structurally_matches_E_p127_deterministic_chess_engines|定石選択による運命への戦略介入]]
+
+### 第5540話
+
+- [[A_ch5540_alludes_to_E_ヒュレーの召喚_TCGトレーディングカードゲームのスタンプ／コール|TCGコスト支払い手順を模した召喚演出]]
+- [[A_ch5540_analogous_to_E_エレクトラの作戦_交渉術／ブラフ虚勢|情報非対称性利用のゲーム理論的ブラフ]]
+- [[A_ch5540_analogous_to_E_マナタル勇者戦団の襲撃_テロリズム／極右政治運動|祝祭舞台への暴力転換による诉求可視化]]
+- [[A_ch5540_inverts_E_オークション公告_人身売買／奴隷市場の近代化|民族運命決定を投機対象へ逆転させる構造]]
+- [[A_ch5540_parodies_E_ローザの浄界展開_スマホゲームのガチャ／イベント演出|戦闘中の端末操作を運営介入にパロディ化]]
+- [[A_ch5540_sublates_E_ちびシューラの事後処理_イベント運営／PR戦略|暴力の祝祭化]]
+
+### 第5541話
+
+- [[A_ch5541_analogous_to_E_Tchiliat_Fight_Risk_Management_Self_Insurance|自己保険・リスク管理]]
+- [[A_ch5541_inverts_E_Renaria_Marshmallow_Survival_Horror_Trope|生存ホラーの定型]]
+- [[A_ch5541_parodies_E_Renaria_Vanquish_Gacha_Game_Metagame|ガチャのメタゲーム]]
+- [[A_ch5541_structurally_matches_E_Renaria_Vanquish_Astrology_Doppler_Shift|ドップラー効果の魔術翻訳]]
+
+### 第5544話
+
+- [[A_ch5544_alludes_to_E_{シナモリアキラの超音波索敵}_{アプリDopplerによるドップラー効果計測}|スマホ魔法・音響応用]]
+- [[A_ch5544_alludes_to_E_シナモリアキラの超音波索敵_アプリDopplerによるドップラー効果計測|現代アプリ技術の魔法化された音響処理]]
+- [[A_ch5544_analogous_to_E_{シナモリアキラの義肢ディスペータ}_{医療用プロテス・サイバーネット拡張}|義体化・サイボーグ化]]
+- [[A_ch5544_analogous_to_E_{フルグント六柱とマレブランケ十二化身の構造}_{バンドメンバー・正規メンバーと代替メンバー}|バンド契約構造]]
+- [[A_ch5544_analogous_to_E_シナモリアキラの義肢ディスペータ_医療用プロテス・サイバーネット拡張|人間機械境界曖昧な義体化技術の宗教的昇華]]
+- [[A_ch5544_analogous_to_E_フルグント六柱とマレブランケ十二化身の構造_バンドメンバー・正規メンバーと代替メンバー|正規と代役の比喩]]
+- [[A_ch5544_parodies_E_シナモリアキラの咆哮による呪文封じ_現代のノイズキャンセリング技術・遮音性|環境遮蔽と身体言語]]
+- [[A_ch5544_structurally_matches_E_{茶番としての対話とマンネリズム}_{脚本のある演劇・ロールプレイRP}|台本通りの演劇]]
+- [[A_ch5544_structurally_matches_E_茶番としての対話とマンネリズム_脚本のある演劇・ロールプレイRP|台本支配のメタ構造]]
+
+### 第5545話
+
+- [[A_ch5545_alludes_to_E_p110_isekai_transfer_trope|転生者優位の階級社会メタ]]
+- [[A_ch5545_alludes_to_E_p245_esports_commentary_slang|eスポーツ実況用語]]
+- [[A_ch5545_analogous_to_E_p20_narrative_mechanics_fatigue|描写の陳腐化]]
+- [[A_ch5545_analogous_to_E_p218_gacha_game_mechanics|ガチャと消費メカニクス]]
+- [[A_ch5545_analogous_to_E_p43_technological_progress_paradigm|天才性の普遍性への置換構造]]
+- [[A_ch5545_structurally_matches_E_p73_drafted_race_strategy|ドラフティング戦略]]
+
+### 第5547話
+
+- [[A_ch5547_alludes_to_E_p436_KelpieMythology|ケルピー神話]]
+- [[A_ch5547_alludes_to_E_p62_SwordsIntoPlowshares|槍を鋤に打ち替える]]
+- [[A_ch5547_analogous_to_E_p19_IntergenerationalConflict|世代間対立による体制反抗]]
+- [[A_ch5547_analogous_to_E_p215_ArbitraryIntervention|アルゴリズムによる間接介入]]
+- [[A_ch5547_inverts_E_p115_HumanVsAI|人間対AIの直感拒絶逆説]]
+- [[A_ch5547_parodies_E_p249_GameStreaming|ゲーム実況的没入視点模倣]]
+- [[A_ch5547_parodies_E_p30_FakeNewsVaccine|情報免疫メタファー融合]]
+
+### 第5548話
+
+- [[A_ch5548_alludes_to_E_p253_kingmaker_concept|キングメーカー権力構造暗喩]]
+- [[A_ch5548_alludes_to_E_p254_crown_maker_historical_term|クラウンメイカー造語使用]]
+- [[A_ch5548_alludes_to_E_p56_chaos_cosmogony|カオス概念の身体擬人化]]
+- [[A_ch5548_analogous_to_E_p106_hydrogen_water_supplement|水素水霊薬への誇張昇華]]
+- [[A_ch5548_analogous_to_E_p150_shogi_strategy_game|将棋的支配構造メタファー]]
+- [[A_ch5548_analogous_to_E_p179_political_arrest_pretext|政治的逮捕建前の弾圧象徴]]
+- [[A_ch5548_parodies_E_p334_modern_dating_apps|マッチングアプリ模倣婚姻]]
+- [[A_ch5548_parodies_E_p346_modern_liberal_marriage_view|自由恋愛観反映リベラル志向]]
+
+### 第5549話
+
+- [[A_ch5549_alludes_to_E_ch5549_中継整備所_other_騒然_p2_グリム童話・キュトスの魔女|キュトス魔女原型の再構成]]
+- [[A_ch5549_analogous_to_E_ch5549_中継整備所_other_騒然_p2_ゲームにおけるチート・デバッグモード|世界改変権メタフィクショナル優位]]
+- [[A_ch5549_structurally_matches_E_ch5549_中継整備所_other_騒然_p2_舞台演劇における役者間の格差|演技力格差オーディション暗喩]]
+
+### 第5550話
+
+- [[A_ch5550_analogous_to_E_{テキストベース・サーキット}_{メタフィクションと文学的枠組み}|世界構造としてのテキスト]]
+- [[A_ch5550_analogous_to_E_{巨人たちの戦闘}_{植民地主義・侵略戦争の歴史}|帝国主義暴力の象徴]]
+- [[A_ch5550_analogous_to_E_{権力と物量による世界改変}_{世論操作・プロパガンダ・情報戦}|物語支配としての情報戦]]
+- [[A_ch5550_analogous_to_E_{風聞の定義}_{情報通信技術の歴史とマスメディアの権威構造}|風聞に投影されたメディア史権威]]
+- [[A_ch5550_analogous_to_E_テキストベース・サーキット_メタフィクションと文学的枠組み|メタフィクション構造]]
+- [[A_ch5550_analogous_to_E_巨人たちの戦闘_植民地主義・侵略戦争の歴史|帝国主義]]
+- [[A_ch5550_analogous_to_E_権力と物量による世界改変_世論操作・プロパガンダ・情報戦|世論操作・プロパガンダ]]
+- [[A_ch5550_analogous_to_E_機甲箒の制御機構_音声認識技術とAI言語処理|音から文字への変換]]
+- [[A_ch5550_analogous_to_E_風聞の定義_情報通信技術の歴史とマスメディアの権威構造|メディア権威構造]]
+- [[A_ch5550_parodies_E_{マスメディアの定義}_{宗教的託宣と現代メディアの関係}|神官託宣化されたメディア]]
+- [[A_ch5550_parodies_E_{選定レースと政治的動向}_{スポーツイベントの政治利用・ナショナリズム}|政治利用としてのスポーツ演出]]
+- [[A_ch5550_parodies_E_マスメディアの定義_宗教的託宣と現代メディアの関係|メディアと託宣]]
+- [[A_ch5550_parodies_E_選定レースと政治的動向_スポーツイベントの政治利用・ナショナリズム|スポーツ政治利用]]
+
+### 第5551話
+
+- [[A_ch5551_alludes_to_E_ch5551_ダウザール_other_断絶の価値_p271_game_theory_deterrence|相互不理解による均衡維持戦略]]
+- [[A_ch5551_alludes_to_E_ch5551_ネオレイン_makes_頌歌による浄界_p438_entertainment_industry|ファンダムの集合的熱狂による支配]]
+- [[A_ch5551_analogous_to_E_ch5551_ダウザール_defines_救世主トリアイナ_p301_genetic_engineering_hope|全人類家族化という希望]]
+- [[A_ch5551_analogous_to_E_ch5551_ダウザール_other_心話の限界_p210_translation_theory|自己への回収としての翻訳]]
+- [[A_ch5551_analogous_to_E_ch5551_ピットイン_defines_文脈の充填_p4_narrative_mechanics|戦闘処理としての文脈充填]]
+- [[A_ch5551_inverts_E_ch5551_ダウザール_other_世界統一の破局_p246_utopian_dystopia_paradox|完全統合がもたらす破滅]]
+- [[A_ch5551_parodies_E_ch5551_選手たち_makes_自身の物語_p5_meta_narrative|メタ構造としての主人公確信]]
+
+### 第5552話
+
+- [[A_ch5552_alludes_to_E_ch5552_ユディーア_other_サイドテールの髪房_p251_bible_samson_hair|サムソンの力を引用した呪文]]
+- [[A_ch5552_analogous_to_E_ch5552_イナータルゴ_defines_空気を読む技術_p174_social_media_algorithms_surveillance|アルゴリズム監視としての空気]]
+- [[A_ch5552_analogous_to_E_ch5552_ネオレイン_makes_貢がせ蟲毒_p46_japanese_host_clubs_night_life|ホストクラブ的ギミックの呪術]]
+- [[A_ch5552_analogous_to_E_ch5552_メートリアン_loses_アストラル体の安定_p63_mobile_app_connection_issues|アプリ接続断としての幽体離脱]]
+- [[A_ch5552_analogous_to_E_ch5552_浄界_appears_as_文明の灯火_p6_theme_park_amusement_industry|欲望刺激のテーマパーク構造]]
+
+### 第5553話
+
+- [[A_ch5553_alludes_to_E_ch5553_レメス_says_神ぼくが定めた運命には従わないと_p173_ギリシャ神話_アポロンの予言の確定|アポロン不可逆予言の暗喩]]
+- [[A_ch5553_alludes_to_E_ch5553_レメス_transforms_下半身が獣の姿_p214_ギリシャ神話_ケンタウロス|ケンタウロス形象的暗喩]]
+- [[A_ch5553_analogous_to_E_ch5553_メートリアン_is_made_of_調合コンパウンド_p24_化学・錬金術_化合物の合成|錬金術的化合プロセスの類比]]
+- [[A_ch5553_parodies_E_ch5553_レメス_says_生めよレイプ、殖えよレイプ、地に満ちよレイプ_p235_旧約聖書_創世記1章28節|創世記「生めよ増えよ」のパロディ]]
+
+### 第5554話
+
+- [[A_ch5554_alludes_to_E_p205-p208_historical_suppression_of_libido|欲望抑圧社会机制の暗喩]]
+- [[A_ch5554_analogous_to_E_p2-p7_corporate_bureaucracy_and_nepotism|企業官僚縁故主義の類比]]
+- [[A_ch5554_inverts_E_p98_rationality_vs_impulse|理性と衝動の対立]]
+- [[A_ch5554_parodies_E_p27-p34_freudian_metaphors_in_literature|文学的フロイト解釈のパロディ]]
+- [[A_ch5554_structurally_matches_E_p166-p168_video_game_asset_simplification|ゲームアセット簡略化の構造対応]]
+
+### 第5555話
+
+- [[A_ch5555_alludes_to_E_p270_Mycenaean_Greek_History|ミュルミドネス神話起源の暗喩]]
+- [[A_ch5555_analogous_to_E_p24_Matchmaking_App|マッチングアプリ構造の類比]]
+- [[A_ch5555_analogous_to_E_p429_Kenji_Hokuto_Star|北斗の拳必殺技演出の類比]]
+- [[A_ch5555_analogous_to_E_p54_Mobile_Game_UI|戦闘中ゲームUI操作の類比]]
+- [[A_ch5555_inverts_E_p369_Haruko_Magic_Love|魔法少女愛の兵器化逆転]]
+- [[A_ch5555_parodies_E_p31_The_Relic_of_Saint_Michael|聖ミカエル遺物]]
+- [[A_ch5555_structurally_matches_E_p243_Fantasy_vs_SciFi_Gear|テックマジック構造の逆転対応]]
+
+### 第5556話
+
+- [[A_ch5556_alludes_to_E_ch5556_クレアノーズ_transforms_がらんどうの残骸_p210_egyptian_mythology_isis_osiris|イシス・オシリス蘇生神話の暗喩]]
+- [[A_ch5556_analogous_to_E_ch5556_ちびシューラ_makes_粘土のヒトガタ_p254_artistic_creation_simulation|神話的創造の模倣による作者性暗示]]
+- [[A_ch5556_analogous_to_E_ch5556_クレアノーズ_says_俗界的な目的_p46_corporate_middle_management|中間管理職への矮小化]]
+- [[A_ch5556_analogous_to_E_ch5556_選手たち_transforms_精子_p19_biological_competition|精子競争構造のメタファー化]]
+- [[A_ch5556_parodies_E_ch5556_クレアノーズ_says_トリアイナは末妹でもある_p73_narrative_tampering|物語改変による頂点の嘲弄]]
+- [[A_ch5556_parodies_E_ch5556_レメス_other_大乱交アニマルランド_p17_animal_instinct_paradise|原始的性愛世界観の皮肉表現]]
+- [[A_ch5556_structurally_matches_E_ch5556_ハグレス_transforms_攻撃性の具現化_p79_phallic_weapon_symbolism|男根象徴としての武器描写]]
+
+### 第5557話
+
+- [[A_ch5557_alludes_to_E_p22_sport_psychology|スポーツ心理学による選抜正当化]]
+- [[A_ch5557_alludes_to_E_p90_reincarnation_app_user|転生アプリユーザーのメタ要素]]
+- [[A_ch5557_analogous_to_E_p122_online_comment_noise|ネットコメントノイズ]]
+- [[A_ch5557_analogous_to_E_p14_rpg_kitsune_design|パーツ越多＝強のRPG風刺]]
+- [[A_ch5557_analogous_to_E_p67_meta_game_cheat|メタゲーム的裏技による支配]]
+- [[A_ch5557_foreshadows_E_p202_narrative_fall|物語破滅への伏線]]
+- [[A_ch5557_inverts_E_p52_narrative_convenience|脚本による勝敗操作の暴露]]
+- [[A_ch5557_parodies_E_p5_metaphor_sperm_race|精子競争メタファーの変質]]
+- [[A_ch5557_structurally_matches_E_p48_astral_net_social_media|SNSにおける文脈崩壊の比喩]]
+- [[A_ch5557_sublates_E_p164_human_history_metaphor|家畜視点による歴史観逆転]]
+
+### 第5559話
+
+- [[A_ch5559_analogous_to_E_ch5559_ミブリナ_other_逃避_p148_現代のニート・引きこもり|社会規範拒否と内面欲求の衝突]]
+- [[A_ch5559_analogous_to_E_ch5559_空飛ぶ箒_defines_リーナの欠落_p62_障害者に対する社会モデル|技術依存による社会モデル的差別構造]]
+- [[A_ch5559_inverts_E_ch5559_ミブリナ_other_家督継承_p202_異世界転生の自由|義務束縛受容による逆説的自己確立]]
+- [[A_ch5559_parodies_E_ch5559_リーナ_says_逆立ちしても無理_p23_ギャグ漫画の物理法則|厳格魔法体系への日常言語的不整合]]
+- [[A_ch5559_structurally_matches_E_ch5559_ミブレル_other_自由の定義_p69_エリートの傲慢さ|出生特権と努力者の倫理的断絶]]
+
+### 第5562話
+
+- [[A_ch5562_alludes_to_E_p37_myth_sacred_marriage_zeus|雨を介したゼウスの聖婚メタファー]]
+- [[A_ch5562_alludes_to_E_p9_myth_persephone_ades|生死境界越えの冥界訪問譚構造]]
+- [[A_ch5562_analogous_to_E_p88_concept_narrative_freedom|言語のみによる物理法則からの脱出]]
+- [[A_ch5562_inverts_E_p66_literary_theatre_metatheatre|世界を演劇と定義するメタ介入宣言]]
+- [[A_ch5562_parodies_E_p14_drama_ancient_greek_tragedy_chorus|ギリシャ悲劇コロスの現代風模倣]]
+
+### 第5563話
+
+- [[A_ch5563_alludes_to_E_ch5563_リーナ_thinks_雲海_p6_metaphysical_sublimation|雲海突破による限界概念の解体]]
+- [[A_ch5563_inverts_E_ch5563_リーナ_thinks_雲海_p6_traditional_heroic_death|英雄叙事詩終着点のメタ書き換え]]
+
+### 第5564話
+
+- [[A_ch5564_alludes_to_E_ch5564_ルスクォミーズ_says_限界の突破_p39_Breaking_The_Fourth_Wall_Metaphorically|システム限界への第四の壁突破暗示]]
+- [[A_ch5564_alludes_to_E_ch5564_神話_defines_大断絶_p3_Myth_Sky_Earth_Separation|槍による天地分離の創世神話アーキタイプ]]
+- [[A_ch5564_analogous_to_E_ch5564_ミブリナ_thinks_無限の虚空への希求_p97_Hedonic_Treadmill_Pleasure_Breaking|快楽飽和を超えた未知への飢え]]
+- [[A_ch5564_analogous_to_E_ch5564_ルスクォミーズ_captures_第七大地シャーネス_p16_Collective_Unconscious_Jungian_Psychology|集合的無意識下の願望顕現]]
+- [[A_ch5564_analogous_to_E_ch5564_原初の世界_has_property_不安定な可能性_p8_Undetermined_State_Superposition|観測前の未分化な重ね合わせ状態]]
+- [[A_ch5564_analogous_to_E_ch5564_奈落への旅路_transforms_上昇と飛翔_p37_Inversion_Of_Direction_Concept|方向逆転の空間パラドックス]]
+- [[A_ch5564_parodies_E_ch5564_パーン_says_勝負の申し出_p73_Metroidvania_Speedrun_Community|スピードラン文化のパロディ]]
+
+### 第5565話
+
+- [[A_ch5565_analogous_to_E_ch5565_霊城_is_located_空_p2_CloudComputingServer|クラウドサーバーへの投射]]
+- [[A_ch5565_analogous_to_E_ch5565_霊城_is_located_空_p2_LightningGodIndra|雷神インドラ原型の権能]]
+- [[A_ch5565_parodies_E_ch5565_霊城_is_located_空_p2_OlympicMythology|古代オリンピック景品のパロディ]]
+- [[A_ch5565_parodies_E_ch5565_霊城_is_located_空_p2_SocialMediaCancelCulture|検閲・同調圧力による暴力の黙殺]]
+- [[A_ch5565_parodies_E_ch5565_霊城_is_located_空_p2_Valhalla|逆さ世界ヴァルハラの再構成]]
+
+### 第5566話
+
+- [[A_ch5566_alludes_to_E_p31_seven_winds_fate_determinism_textual|テキスト運命論の暗喩]]
+- [[A_ch5566_analogous_to_E_p11_alzora_news_media_manipulation_theory|ナラティブ統制の操作]]
+- [[A_ch5566_analogous_to_E_p141_conspiracy_spell_conspiracy_theory_society|陰謀論社会の言説戦置換]]
+- [[A_ch5566_inverts_E_p95_love_is_goal_biological_essentialism|愛から生物学的本能への逆転]]
+- [[A_ch5566_parodies_E_p2_moe_screaming_moeblob_concept|萌え消費のメタフィクション]]
+- [[A_ch5566_sublates_E_p153_seed_sowing_terraforming_colonization|宇宙規模開拓への播種止揚]]
+
+### 第5567話
+
+- [[A_ch5567_alludes_to_E_p254_Labor_Rights_and_Burnout|労働権と燃え尽きの指喩]]
+- [[A_ch5567_alludes_to_E_p8_Fake_News_and_Conspiracy_Theories|フェイクと陰謀論の氾濫]]
+- [[A_ch5567_analogous_to_E_p128_Free_Press_Movement|フリープレス運動のスローガン]]
+- [[A_ch5567_analogous_to_E_p216_Youtube_Stunts|YouTuber企画へのバズ化模倣]]
+- [[A_ch5567_analogous_to_E_p4_Surveillance_Capitalism|監視資本主義のデジタル監視構造]]
+- [[A_ch5567_inverts_E_p54_Character_Design_and_Moe|萌え記号消費の逆照射]]
+- [[A_ch5567_parodies_E_p113_Internet_Meme_Culture|ネットミームによるイメージ固定化]]
+- [[A_ch5567_parodies_E_p204_Online_Flame_War|ネット炎上の呪術的変換パロディ]]
+- [[A_ch5567_parodies_E_p2_Faraday_Cage|思考遮断装置のプライバシー技術風刺]]
+- [[A_ch5567_parodies_E_p338_Papa_Activity_Meme|パパ活語義のネット消費指喩]]
+- [[A_ch5567_parodies_E_p6_Smartphone_OS_Management|OSセキュリティ管理の擬人化パロディ]]
+- [[A_ch5567_structurally_matches_E_p139_Anti_Vaccine_Movement|反ワクチン陰謀論修辞の模倣]]
+- [[A_ch5567_structurally_matches_E_p17_Media_Manipulation|世論操作とアルゴリズムバイアス構造]]
+- [[A_ch5567_structurally_matches_E_p268_Paparazzi_and_Scandal|週刊誌スキャンダルの破壊力構造]]
+
+### 第5568話
+
+- [[A_ch5568_alludes_to_E_p14_cloud_gaming_save_state|クラウド保存状態の時間同期暗喩]]
+- [[A_ch5568_analogous_to_E_p309_necromancy_game_class|死者召喚クラスの能力設計類似]]
+- [[A_ch5568_inverts_E_p199_marginalization_of_magic|魔法の科学化による魔滅の逆転]]
+- [[A_ch5568_sublates_E_p279_horror_genre_lovecraftian|ラブクラフト的ホラーの恋愛への止揚]]
 
 ### 第5569話
 
@@ -151,10 +4021,12 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5585_analogous_to_E_p106_media_visibility_and_body_politics|可視性と身体政治の剥奪]]
 - [[A_ch5585_analogous_to_E_p4-p10_holocaust_memory_and_testimony|ホロコースト証言としての告白共有]]
 - [[A_ch5585_inverts_E_p91_naturalistic_fallacy_and_survival_of_the_fittest|自然主義的誤謬による暴力正当化]]
+- [[A_ch5585_parodies_E_p26_nazi_concentration_camps|歴史的集団収容政策の残酷さ]]
 - [[A_ch5585_structurally_matches_E_p86_sacrificial_victimhood_and_curse|被害者の呪いによる加害者否定]]
 
 ### 第5586話
 
+- [[A_ch5586_alludes_to_E_ch5586_ロードデンドロン_other_涙想吟竜コルセーク_p246_shakespearean_tragedy|シェイクスピア悲劇の別離と犠牲]]
 - [[A_ch5586_analogous_to_E_ch5586_パーン_says_対策済みだ_p18_evolutionary_adaptation|進化適応による戦闘学習ロジック]]
 - [[A_ch5586_analogous_to_E_ch5586_ロードデンドロン_other_ティリビナの樹木銃_p238_quantum_physics_observation|量子観測効果の武器化]]
 - [[A_ch5586_inverts_E_ch5586_クラウビューラ_attacks_トロル_p173_solar_mythology|太陽神話の逆転による光殺し]]
@@ -172,13 +4044,13 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第5588話
 
-- [[A_ch5588_alludes_to_E_{p13-p15}_{god_view_in_games}|ゲーム内神モードによる物理介入]]
-- [[A_ch5588_analogous_to_E_{p114-p124}_{identity_theft_in_metaverse}|メタ上の身元盗難とロア改変]]
-- [[A_ch5588_analogous_to_E_{p152}_{character_corruption_bug}|ポリゴン崩壊グリッチの象徴]]
-- [[A_ch5588_analogous_to_E_{p222}_{content_moderation_tools}|有害コンテンツ除去への箒の比喩]]
-- [[A_ch5588_analogous_to_E_{p69-p73}_{map_editing_tools}|マップ編集権限による環境保護]]
-- [[A_ch5588_analogous_to_E_{p84}_{game_design_philosophy}|環境による導線設計の明示]]
-- [[A_ch5588_analogous_to_E_{p9}_{programming_language_concept}|テキストベース・サーキットのコード構造]]
+- [[A_ch5588_alludes_to_E_p13-p15_god_view_in_games|神視点デベロッパーモードの干渉]]
+- [[A_ch5588_analogous_to_E_p114-p124_identity_theft_in_metaverse|メタバース的ロア書き換え乗っ取り]]
+- [[A_ch5588_analogous_to_E_p152_character_corruption_bug|キャラ破損バグのグリッチ現象]]
+- [[A_ch5588_analogous_to_E_p222_content_moderation_tools|有害コンテンツ削除モデレーション]]
+- [[A_ch5588_analogous_to_E_p69-p73_map_editing_tools|マップ編集権限による環境保護]]
+- [[A_ch5588_analogous_to_E_p84_game_design_philosophy|環境データ読解を促す設計思想]]
+- [[A_ch5588_analogous_to_E_p9_programming_language_concept|物理法則を記述するコード構造]]
 
 ### 第5589話
 
@@ -189,1428 +4061,3 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5589_inverts_E_ch5589_融血天主_says_報復の権利_p2_victim_blame_theory|被害者の絶対正義による倫理逆転]]
 - [[A_ch5589_parodies_E_ch5589_ショウ_has_property_異世界童貞と劣等感_p105106_isekai_tensei_genre_clishes|異世界転生定石の極端な風刺]]
 - [[A_ch5589_structurally_matches_E_ch5589_テキストベース・サーキット_defines_記述による世界構成_p8_world_building_as_narrative|記述による世界法則のメタ構造]]
-
-## 第一章　隻腕義手のスワンプマン
-
-### 第一話：1-1　無彩色の左手、鎧の右手
-
-- [[A_ch0001_alludes_to_E_ch0001_アキラ_fears_死_p5_徳川家康|家康の脱糞で死の恐怖を正当化]]
-- [[A_ch0001_alludes_to_E_ch0001_アキラ_reveals_前世の職業_p17_トラック運転手|転生殺し屋をトラック運転手と命名]]
-- [[A_ch0001_analogous_to_E_ch0001_アキラ_activates_サイバーカラテ道場_p9_AR格闘ゲーム|AR格闘ゲームUIを模した戦闘描写]]
-- [[A_ch0001_analogous_to_E_ch0001_アキラ_other_オプション未選択_p6_スマホゲームのガチャ|無課金ガチャへの転生]]
-- [[A_ch0001_analogous_to_E_ch0001_キール_uses_魔法の地図_p45_スマホの地図アプリ|スマホ地図アプリ操作を模した巻物]]
-- [[A_ch0001_inverts_E_ch0001_アキラ_other_衣服_p13_転生時の全裸|全裸転生を保険責任への逆転]]
-- [[A_ch0001_parodies_E_ch0001_アキラ_activates_ノーペイン_p103_安楽死の倫理|技術による安楽死倫理の消去]]
-- [[A_ch0001_parodies_E_ch0001_アキラ_activates_非常用回線_p7_カスタマーサポートの待ち時間|生死境でのサポート待ち時間ジングル]]
-- [[A_ch0001_parodies_E_ch0001_アキラ_thinks_転生保険の需要_p4_保険業界のリスク管理|転生を保険商品とするリスク管理風刺]]
-
-### 第二話：1-2　死者を代弁する者
-
-- [[A_ch0002_analogous_to_E_ch0002_アキラ_activates_Doppler_p127_smartphone_apps|脳内アプリのメモリ管理]]
-- [[A_ch0002_analogous_to_E_ch0002_アキラ_learns_誤転生_p167_isekai_isekai|事故による不条理な誤転生]]
-- [[A_ch0002_analogous_to_E_ch0002_アキラ_promises_階層の留守番_p163_abandonment|言語障壁による養育放棄の象徴]]
-- [[A_ch0002_analogous_to_E_ch0002_アキラ_uses_聴勁_p128_active_sonar|アクティブソナー原理の聴勁]]
-- [[A_ch0002_analogous_to_E_ch0002_アキラ_uses_震脚_p129_martial_arts|義肢前提のサイバーカラテを肉体で実践]]
-- [[A_ch0002_analogous_to_E_ch0002_アズーリア_confesses_捨て石_p118_utilitarianism|仲間を捨て石とする功利主義的葛藤]]
-- [[A_ch0002_analogous_to_E_ch0002_アズーリア_uses_死者を代弁する者_p114_mediumship|霊媒による死者の代弁]]
-- [[A_ch0002_analogous_to_E_ch0002_世界槍_defines_階層構造_p158_dungeon_structure|ダンジョン構造の物理再定義]]
-- [[A_ch0002_analogous_to_E_ch0002_多世界連合_defines_審判役の目的_p166_un_security_council|国連安保理の介入政策模倣]]
-- [[A_ch0002_analogous_to_E_ch0002_金鎖_requires_ネットワーク接続_p121_cloud_security|クラウドセキュリティ認証の指喩]]
-
-### 第三話：幕間　『きぐるみの魔女』
-
-- [[A_ch0003_alludes_to_E_ch0003_ゼオーティア_defines_世界_p182_異世界転生ジャンルのクリシェ|異世界転生クリシェへの皮肉]]
-- [[A_ch0003_analogous_to_E_ch0003_アキラ_other_再会_p181_社会制度による個人の圧殺|社会制度による個人の圧殺]]
-- [[A_ch0003_analogous_to_E_ch0003_イェレイド_says_迷宮の美意識_p175_ユーザー生成コンテンツUGCの質|UGC迷宮の低品質批判]]
-- [[A_ch0003_analogous_to_E_ch0003_ガドール_defines_魂と呪術_p174_人工知能と魂の定義|AIと魂の定義の哲学的議論]]
-- [[A_ch0003_foreshadows_E_ch0003_人狼_says_アキラへの期待_p180_主人公の成長と秩序の破壊|秩序破壊と成長の伏線]]
-- [[A_ch0003_inverts_E_ch0003_赤い髪の魔女_says_祈りと暴力_p182_宗教と暴力の逆転|宗教と暴力の逆転]]
-- [[A_ch0003_parodies_E_ch0003_ガドール_says_エスフェイルの死因_p174_タイムパラドックスと因果律の破壊|タイムパラドックスによる因果抹消]]
-- [[A_ch0003_structurally_matches_E_ch0003_人狼_attacks_ヲルヲーラ_p179_システム管理者権限の行使|管理者権限の絶対的行使]]
-
-## 第二章　もしサイバーパンク世界の住人がオカルトパンク世界に転生したら
-
-### 第四話：2-1　氷血のコルセスカ
-
-- [[A_ch0004_alludes_to_E_ch0004_アキラ_thinks_ロドウィとの敵対_p209_yakuza_ethics|ヤクザの義理と裏切り]]
-- [[A_ch0004_alludes_to_E_ch0004_コルセスカ_other_翻訳の原理_p217_heidegger|ハイデガー哲学による存在論]]
-- [[A_ch0004_analogous_to_E_ch0004_アキラ_uses_義手充電_p186_smartphone_battery|スマホバッテリー依存の誇張]]
-- [[A_ch0004_analogous_to_E_ch0004_コルセスカ_other_翻訳の原理_p217_turing_test|チューリングテストへの翻訳転生]]
-- [[A_ch0004_analogous_to_E_ch0004_第五階層_defines_価値基準_p185_hyperinflation|ハイパーインフレによる価値喪失]]
-- [[A_ch0004_analogous_to_E_ch0004_第五階層_defines_私刑の法_p191_vigilante_justice|自警団による無政府状態の私刑]]
-- [[A_ch0004_inverts_E_ch0004_コルセスカ_reveals_アキラの居場所_p223_cultural_rooting|文化的根拠欠如への学習観反転]]
-- [[A_ch0004_structurally_matches_E_ch0004_刺客_uses_空間折り畳み武器_p229_augmented_reality|拡張現実的な空間折り畳み武器]]
-- [[A_ch0004_sublates_E_ch0004_コルセスカ_kills_刺客_p232_magic_vs_science|科学超越の魔術的論理破綻]]
-
-### 第五話：2-2　転生者（ゼノグラシア）
-
-- [[A_ch0005_analogous_to_E_ch0005_アキラ_activates_残心プリセット_p302_自律型AIと脳侵襲技術|自律型AIによる脳侵襲代替]]
-- [[A_ch0005_analogous_to_E_ch0005_アキラ_other_自己の拡張_p280_サイボーグの自己同一性|サイボーグの自己同一性拡張]]
-- [[A_ch0005_analogous_to_E_ch0005_アキラ_other_食事拒否の理由_p256_防犯意識と警戒心|防犯意識としての食事警戒]]
-- [[A_ch0005_analogous_to_E_ch0005_アキラ_uses_感情制御アプリE-E_p254_精神薬物療法と自己管理|精神薬物療法としての感情制御]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_defines_異獣_p278_バベルの塔の神話|バベルの塔神話の言語論]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの存在_p284_ネットメディアと炎上|ネットメディア・炎上構造の模倣]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの社会性_p277_人間の商品化|人間の商品化と序列化]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの社会性_p277_贈与の経済学|贈与の経済学と善意搾取]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラの神秘性_p279_アナロジーの誤謬|アナロジーの誤謬の物理化]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_アキラへの評価_p283_動物の調教|動物の調教による支配構造]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_ラベリング_p263_言語処理のデータベース化|言語処理のデータベース化]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_光学立体映像_p240_ARとVRの技術的差異|ARとVRの技術的差異]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_家の透視_p259_監視社会とプライバシー|監視社会とプライバシーの非対称性]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_投射武器規制_p238_銃刀法と武器規制|銃刀法による武器規制]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_探索パーティ編成_p266_MMORPGのパーティ構成|MMOパーティ構成の模倣]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_撮影規制_p287_プライバシー保護と肖像権|プライバシー保護と肖像権]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_撮影規制_p287_顔認証技術の倫理|顔認証技術の倫理]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_言語の取引_p264_知的財産権とライセンス|知的財産権とライセンス]]
-- [[A_ch0005_analogous_to_E_ch0005_コルセスカ_other_防御オーブ_p257_セキュリティシステム|セキュリティシステムのメタファー]]
-
-### 第六話：幕間　『悪夢』
-
-- [[A_ch0006_alludes_to_E_ch0006_コルセスカ_says_記憶の解釈_p307_narrative_construction|ナラティブ構築としての記憶]]
-- [[A_ch0006_analogous_to_E_ch0006_アキラ_dies_狼の王_p306_grinding|作業的戦闘の無意味さ]]
-- [[A_ch0006_analogous_to_E_ch0006_アキラ_thinks_過去の牢獄_p307_save_data_corruption|セーブデータ破損の無限ループ]]
-- [[A_ch0006_foreshadows_E_ch0006_謎の声_says_頭を良くする_p310_cognitive_modification|認知改変の伏線]]
-- [[A_ch0006_inverts_E_ch0006_アキラ_thinks_反証としての現実_p309_counterfactual_thinking|反事実的思考による価値再評価]]
-- [[A_ch0006_parodies_E_ch0006_アキラ_thinks_馬鹿_p310_hardware_spec|ハードウェア仕様への自己認識パロディ]]
-
-### 第七話：2-3　魔女と狂犬
-
-- [[A_ch0007_analogous_to_E_ch0007_アキラ_activates_サイバーカラテ道場_p345_Mobile_Game_App|スマホゲームアプリへの呪術置換]]
-- [[A_ch0007_analogous_to_E_ch0007_アキラ_remembers_少年の言葉_p344_Machine_Translation_Lag|翻訳遅延を想起させる記憶変換]]
-- [[A_ch0007_analogous_to_E_ch0007_アキラ_says_保留_p330_User_Agreement|利用規約同意プロセスの模倣]]
-- [[A_ch0007_analogous_to_E_ch0007_コルセスカ_confesses_目的_p329_RPG_Quest|RPGクエスト構造の標準化]]
-- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_opens_境界空間_p353_Loading_Screen|ロード画面の空間的表現]]
-- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_reveals_無資格_p316_Unlicensed_Medicine|無資格医療と権威のズレ]]
-- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_reveals_言語資源_p320_Machine_Translation|機械翻訳による高速化の指喩]]
-- [[A_ch0007_analogous_to_E_ch0007_トリシューラ_says_アキラ_p312_AI_Voice_Assistant|AI音声アシスタント特性の指喩]]
-- [[A_ch0007_analogous_to_E_ch0007_男_threatens_少年_p334_Social_Media_Viral|SNSバイラルと動画信仰の模倣]]
-
-### 第八話：2-4　六淫操手
-
-- [[A_ch0008_alludes_to_E_ch0008_カーイン_defines_六淫操手_p373_traditional_chinese_medicine|漢方医学六淫概念の攻撃化]]
-- [[A_ch0008_analogous_to_E_ch0008_アキラ_uses_残心プリセット_p382_safety_override|安全装置解除概念の身体制御]]
-- [[A_ch0008_analogous_to_E_ch0008_アキラ_uses_音響処理アプリDoppler_p361_augmented_reality_game|ARゲーム索敵メカニクスの適用]]
-- [[A_ch0008_analogous_to_E_ch0008_コルセスカ_defines_キーワード定義凍結_p393_programming_exception_handling|例外処理とスタック停止の模倣]]
-- [[A_ch0008_analogous_to_E_ch0008_コルセスカ_other_血液_p394_vampire_mythology|吸血鬼伝承の工芸行為への転換]]
-- [[A_ch0008_analogous_to_E_ch0008_トリシューラ_appears_アキラの脳内_p384_ai_assistant_interface|脳内AIアシスタント]]
-- [[A_ch0008_foreshadows_E_ch0008_トリシューラ_defines_杖の専門_p387_medical_technology|生体部品としての義手]]
-- [[A_ch0008_inverts_E_ch0008_アキラ_other_復讐の連鎖_p380_vendetta_logic|仇討ち論理の逆転]]
-- [[A_ch0008_parodies_E_ch0008_カーイン_names_ロウ・カーイン_p366_wuxia_genre|武侠小説クリシェのパロディ]]
-- [[A_ch0008_structurally_matches_E_ch0008_アキラ_other_金の力_p362_pay_to_win_mechanics|Pay-to-Win構造の適用]]
-
-### 第九話：2-5　王獣カッサリオ
-
-- [[A_ch0009_alludes_to_E_ch0009_アキラ_bonds_カーイン_p424_武侠小説の義理・恩義|武侠の義理による共闘]]
-- [[A_ch0009_alludes_to_E_ch0009_コルセスカ_appears_復活_p406_ゲームの蘇生アイテム・ストック|蘇生アイテムの蓄積]]
-- [[A_ch0009_alludes_to_E_ch0009_トリシューラ_defines_人造人間_p405_アンドロイドの定義・ガイノイド|ガイノイドの定義]]
-- [[A_ch0009_analogous_to_E_ch0009_アキラ_kills_聖騎士_p412_ゲームの消費型武器・弾薬コスト|弾薬コストとしての戦闘]]
-- [[A_ch0009_analogous_to_E_ch0009_アキラ_other_斧_p428_スマホゲームの弾道予報アプリ|弾道予報アプリの補正]]
-- [[A_ch0009_analogous_to_E_ch0009_トリシューラ_reveals_全身義体_p404_サイボーグ・義肢|サイボーグ義肢の提示]]
-- [[A_ch0009_inverts_E_ch0009_トリシューラ_says_カッサリオ_p399_生物兵器の倫理|生物兵器としての定義]]
-- [[A_ch0009_parodies_E_ch0009_アキラ_other_斧_p428_アプリのユーザー評価|アプリ評価による信頼性]]
-- [[A_ch0009_parodies_E_ch0009_トリシューラ_gives_義腕_p409_ガチャ・課金システム|ガチャ・課金システムへの転生]]
-- [[A_ch0009_structurally_matches_E_ch0009_カッサリオ_activates_アラームトラップ_p426_ゲームの敵召喚トラップ|敵召喚トラップの模倣]]
-
-### 第十話：2-6　がらくたなんかじゃない
-
-- [[A_ch0010_alludes_to_E_ch0010_アキラ_remembers_カインの死_p470_安楽死|安楽死の倫理的葛藤]]
-- [[A_ch0010_alludes_to_E_ch0010_コルセスカ_activates_シャルマキヒュの凍視_p459_監視社会|監視社会の不可避性]]
-- [[A_ch0010_analogous_to_E_ch0010_アキラ_observes_融合体の音_p454_音声認識AI|音声認識AIのアルゴリズム]]
-- [[A_ch0010_analogous_to_E_ch0010_コルセスカ_makes_呪術準備_p436_AR_ゲーム|ARゲーム的な視覚干渉]]
-- [[A_ch0010_analogous_to_E_ch0010_ロウ・カーイン_other_探索者パーティ_p450_転職|ギグワーク的な転職]]
-- [[A_ch0010_inverts_E_ch0010_アキラ_attacks_カッサリオ_p461_格闘ゲーム_入力コマンド|格ゲー入力演出の模倣]]
-- [[A_ch0010_parodies_E_ch0010_アキラ_thinks_価値の相対性_p441_自己責任論|自己責任論への皮肉]]
-- [[A_ch0010_parodies_E_ch0010_アキラ_threatens_カーインの誇り_p451_ネット炎上|ネット炎上の構造模倣]]
-- [[A_ch0010_structurally_matches_E_ch0010_アキラ_finds_カッサリオの位置_p460_スマホゲーム_ターゲットロック|スマホゲームのターゲットロック]]
-- [[A_ch0010_structurally_matches_E_ch0010_アキラ_says_殺意の定義_p439_ブラックリスト|ブラックリスト化のメタファー]]
-
-### 第十一話：2-7　炎は黄金を証明する
-
-- [[A_ch0011_alludes_to_E_ch0011_コルセスカ_says_世界よ凍れ_p488_時間の凍結|戦闘における時間凍結]]
-- [[A_ch0011_alludes_to_E_ch0011_コルセスカ_says_炎は黄金を証明する_p501_ラテン語の格言|ラテン語格言の引用]]
-- [[A_ch0011_alludes_to_E_ch0011_トリシューラ_names_鮮血のトリシューラ_p487_トリシューラ|ヒンドゥー神話の権能模倣]]
-- [[A_ch0011_analogous_to_E_ch0011_ちびシューラ_says_負担の分散_p494_パーティ構成|MMORPG的パーティ構成]]
-- [[A_ch0011_analogous_to_E_ch0011_アキラ_remembers_前世の社会_p476_割れた窓理論|割れた窓理論の引用]]
-- [[A_ch0011_analogous_to_E_ch0011_アキラ_remembers_片腕の男_p477_義肢の経済格差|義肢の格差による転生保険批判]]
-- [[A_ch0011_analogous_to_E_ch0011_トリシューラ_activates_パワードエクゾスケルトン_p490_強化外骨格|強化外骨格へのSF的移植]]
-- [[A_ch0011_analogous_to_E_ch0011_トリシューラ_takes_王獣カッサリオの角_p503_ゲームのレアドロップ|レアドロップによるゲーム的支配]]
-- [[A_ch0011_analogous_to_E_ch0011_転生保険_defines_転生保証_p478_転生保険|転生保険の社会制度パロディ]]
-
-### 第十二話：2-8　その視座の名はゆらぎの神話
-
-- [[A_ch0012_alludes_to_E_ch0012_トリシューラ_defines_不死_p513_ship_of_theseus|テセウスの船による不死の定義]]
-- [[A_ch0012_analogous_to_E_ch0012_ちびシューラ_other_アキラ_p561_harem_game|ハーレムゲームへの権力構造風刺]]
-- [[A_ch0012_analogous_to_E_ch0012_アキラ_uses_盤外の夜_p548_game_ai|ゲームAIによるチートの技術化]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_names_ノアズアーク_p511_noahs_ark|ノアの方舟命名による自己言及]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_other_サイバーカラテ道場_p567_open_source|オープンソース型ビジネスモデル]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_other_マッチングシステム_p573_sns_platform|SNSプラットフォームによる支配構造]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_other_第五階層の崩壊_p577_open_source_community|OSSコミュニティ理想の指喩]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_治癒符_p566_inflation|インフレによる経済支配権奪取]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_物理インターフェース_p525_performative_ritual|儀礼的遂行による人間性担保]]
-- [[A_ch0012_analogous_to_E_ch0012_トリシューラ_uses_鮮血呪_p527_3d_printing|3Dプリント的記号実体化]]
-
-### 第十三話：2-9　シェイドラン
-
-- [[A_ch0013_alludes_to_E_ch0013_店員_other_古代語_p599_言語魔術師|言語魔術師による多様性示唆]]
-- [[A_ch0013_analogous_to_E_ch0013_Speaer_other_エスニック・ポリフォニー_p611_ワールドミュージック|ワールドミュージックの無国籍性]]
-- [[A_ch0013_analogous_to_E_ch0013_トリシューラ_reveals_襲撃映像の公開_p592_YouTube_編集動画|YouTube編集動画の炎上回避]]
-- [[A_ch0013_analogous_to_E_ch0013_ライブラリ_defines_四十枚一組の端末形式_p602_カードゲーム_デッキ構築|カードゲームのデッキ構築]]
-- [[A_ch0013_analogous_to_E_ch0013_ロドウィ_other_住宅サービス_p621_脱法ハウス|脱法ハウスの家賃搾取]]
-- [[A_ch0013_analogous_to_E_ch0013_治癒符_appears_空からの散布_p625_ヘリコプターマネー|ヘリコプターマネーのインフレ]]
-- [[A_ch0013_parodies_E_ch0013_ロドウィ_asks_アニスとの結婚_p619_マフィア映画_娘との結婚|マフィア映画の娘結婚]]
-- [[A_ch0013_structurally_matches_E_ch0013_アキラ_wears_急場凌ぎの義肢_p596_サイバーパンク_義肢|サイバーパンク義肢の機能不全]]
-
-### 第十四話：2-10　春の魔女
-
-- [[A_ch0014_alludes_to_E_ch0014_レオ_says_選別された救済_p638_慈善事業の選別性|慈善事業の選別性]]
-- [[A_ch0014_analogous_to_E_ch0014_ちびシューラ_other_幻肢接続の原理_p634_脳-コンピュータインターフェースBCI|脳-コンピュータインターフェース]]
-- [[A_ch0014_analogous_to_E_ch0014_アキラ_fears_格差_p631_医療保険と自己責任論|医療保険と自己責任論]]
-- [[A_ch0014_analogous_to_E_ch0014_コルセスカ_says_ゲームの競技性_p644_ゲームの競技性eSports|eSportsの競技性]]
-- [[A_ch0014_analogous_to_E_ch0014_トリシューラ_defines_ヒエロス・ガモス_p663_契約社会と労働契約|契約社会と労働契約]]
-- [[A_ch0014_analogous_to_E_ch0014_トリシューラ_other_公社の送金ルート_p641_暗号通貨と金融規制|暗号通貨と金融規制]]
-- [[A_ch0014_analogous_to_E_ch0014_トリシューラ_other_第五階層ミニチュア_p651_デジタルツイン＼シミュレーション|デジタルツインの監視]]
-- [[A_ch0014_analogous_to_E_ch0014_トリシューラ_other_類感呪術義肢_p656_遠隔操作＼アバター|遠隔操作アバター]]
-- [[A_ch0014_analogous_to_E_ch0014_レオ_observes_アキラと老人の会話_p628_非言語コミュニケーションの解析|非言語解析による感情補完]]
-- [[A_ch0014_parodies_E_ch0014_アキラ_thinks_右腕の不正_p632_技術移転規制と倫理|技術移転倫理のメタ批判]]
-
-### 第十五話：2-11　欠落と渇望
-
-- [[A_ch0015_alludes_to_E_ch0015_キロン_other_キュトスの姉妹_p706_mythological_demonization|神話的悪魔化による排除]]
-- [[A_ch0015_alludes_to_E_ch0015_公社_makes_新紙幣_p678_fiat_currency_meme|法定通貨ミームの呪符化]]
-- [[A_ch0015_analogous_to_E_ch0015_アキラ_thinks_マクガフィン_p716_macguffin|マクガフィンとしての自己客体化]]
-- [[A_ch0015_analogous_to_E_ch0015_探索者協会_attacks_アキラ_p674_internet_flame_war|ネット炎上構造の再現]]
-- [[A_ch0015_inverts_E_ch0015_レオ_makes_フィランソロピー_p715_altruism_vs_utilitarianism|博愛と功利主義の逆転]]
-- [[A_ch0015_parodies_E_ch0015_アキラ_says_サイバーカラテの定義_p676_genre_classification|ジャンル分類へのアイデンティティ政治]]
-- [[A_ch0015_parodies_E_ch0015_トリシューラ_makes_広告塔_p672_influencer_marketing|インフルエンサー搾取の風刺]]
-- [[A_ch0015_structurally_matches_E_ch0015_キロン_names_真名_p695_true_name_magic|真名の魔法による支配行使]]
-
-### 第十六話：幕間　『前夜』
-
-- [[A_ch0016_alludes_to_E_ch0016_ロドウィ_thinks_アキラの保護_p736_植民地支配_労働力|植民地労働力搾取の暗喩]]
-- [[A_ch0016_analogous_to_E_ch0016_キロン_says_クラッキングの逆効果_p725_暗号通貨_セキュリティ|暗号通貨信用の逆説的価値形成]]
-- [[A_ch0016_analogous_to_E_ch0016_女呪術師_other_魔将九体_p740_十面体サイコロ|十面体サイコロと運命の対比]]
-- [[A_ch0016_foreshadows_E_ch0016_キロン_says_アキラへの恩義_p728_転生者_親友|転生者の親友という伏線]]
-- [[A_ch0016_inverts_E_ch0016_ロドウィ_says_弱者救済_p735_NPO_偽善|NPO偽善による暴力正当化]]
-- [[A_ch0016_structurally_matches_E_ch0016_セージ_takes_少女の肉体_p734_サイボーグ_身体拡張|サイボーグ身体拡張への呪術的転生]]
-
-### 第十七話：2-12　リーナ・ゾラ・クロウサーより
-
-- [[A_ch0017_alludes_to_E_ch0017_コルセスカ_defines_ICE_p753_ice_acronym|ICE（侵入対策）の呪術的再定義]]
-- [[A_ch0017_alludes_to_E_ch0017_トリシューラ_says_打鍵速度と技量_p749_gaming_mechanics|APM指標の呪術的メカニクス化]]
-- [[A_ch0017_analogous_to_E_ch0017_トリシューラ_says_文体論的推定_p757_stylometry|文体計量学による呪術的特定]]
-- [[A_ch0017_analogous_to_E_ch0017_トリシューラ_says_視覚的イメージの効用_p749_placebo_effect|プラセボ効果の呪術的応用]]
-- [[A_ch0017_parodies_E_ch0017_トリシューラ_activates_アストラル界へのダイブ_p748_hacker_movie_trope|ハッキング描写のステレオタイプ模倣]]
-- [[A_ch0017_parodies_E_ch0017_トリシューラ_makes_情報操作の解析_p756_social_media_manipulation|SNS世論操作手法の異世界移植]]
-- [[A_ch0017_structurally_matches_E_ch0017_敵呪術師_transforms_物理的実体_p752_augmented_reality|拡張現実によるバーチャルの実体化]]
-
-### 第十八話：2-13　メクセトの神滅具
-
-- [[A_ch0018_analogous_to_E_ch0018_アキラ_attacks_負傷した少年_p820_弱者への攻撃・いじめ|弱者攻撃の戦略的合理性と倫理]]
-- [[A_ch0018_analogous_to_E_ch0018_アキラ_breaks_アブロニクレス_p807_監視カメラの破壊・プライバシーの侵害|監視カメラ破壊によるプライバシー抵抗]]
-- [[A_ch0018_analogous_to_E_ch0018_アキラ_thinks_左手の記憶_p772_トラウマ・PTSD|PTSDフラッシュバックによる行動決定]]
-- [[A_ch0018_analogous_to_E_ch0018_アキラ_thinks_松明の騎士団_p810_組織の論理・集団の暴力|組織の暴力性と個人信頼の対立]]
-- [[A_ch0018_analogous_to_E_ch0018_アキラ_uses_E-E_p792_感情制御アプリ・SNSのフィルタリング|感情労働のアプリ化と分離]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_says_槍との一体化_p824_サイボーグ化・身体拡張|サイボーグ化による人間性の喪失]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_says_異獣の駆逐_p817_ジェノサイド・大量虐殺|ジェノサイドの浄化論理の模倣]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_says_異獣の駆逐_p818_植民地支配・人種差別の正当化|差別の正当化]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_transforms_少年_p812_武器の擬人化・兵器の人間化|兵器の人間化]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_transforms_少年達_p822_兵士の消耗・使い捨て|兵士の消耗品化]]
-- [[A_ch0018_analogous_to_E_ch0018_キロン_uses_射影聖遺物_p815_宗教画・聖像の権威|宗教画と聖像の権威]]
-- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_defeats_キロン_p827_技術の格差・非対称戦争|非対称戦争]]
-- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_fights_アルテミシア_p807_環境汚染の対立・生態系の破壊|生態系破壊]]
-- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_says_呪波汚染_p824_産業廃棄物・環境汚染|産業廃棄物]]
-- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_says_宿主_p828_寄生・宿主関係|寄生と宿主]]
-- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_uses_水鏡の盾_p821_反射型セキュリティ・DDoS対策|反射型DDoS対策]]
-- [[A_ch0018_analogous_to_E_ch0018_コルセスカ_uses_氷の鏡_p827_監視社会・パノプティコン|パノプティコン]]
-- [[A_ch0018_analogous_to_E_ch0018_トリシューラ_asks_セスカへの処遇_p775_ゼロサムゲーム・非ゼロサムゲーム|ゼロサム／非ゼロサム]]
-- [[A_ch0018_analogous_to_E_ch0018_レオ_helps_弱者_p796_人道支援・NGO活動|人道支援・NGO]]
-- [[A_ch0018_analogous_to_E_ch0018_レオ_says_おまけ_p770_ガチャの天井・優遇措置|ガチャの天井・優遇措置]]
-- [[A_ch0018_analogous_to_E_ch0018_第五階層_transforms_迷宮_p784_都市計画・再開発・ジェントリフィケーション|都市再開発]]
-
-### 第十九話：2-14　転生者殺し
-
-- [[A_ch0019_alludes_to_E_ch0019_キロン_observes_少年達の幻影_p862_精神医学_PTSD_幻視|PTSDと幻視]]
-- [[A_ch0019_analogous_to_E_ch0019_キロン_other_アキラのアプリ群_p850_デジタルデータ_完全削除|脳内アプリの完全削除]]
-- [[A_ch0019_analogous_to_E_ch0019_トリシューラ_uses_巡槍艦ノアズアーク_p872_軍事技術_衝角戦術|衝角戦術の呪術的変換]]
-- [[A_ch0019_inverts_E_ch0019_キロン_reveals_転生者殺しの経歴_p842_異世界転生_チート能力の宝の持ち腐れ|チート能力の宝の持ち腐れ]]
-- [[A_ch0019_parodies_E_ch0019_コルセスカ_says_アキラへの無茶振り_p831_物語のセオリー_逆転劇|物語のセオリーのパロディ]]
-- [[A_ch0019_structurally_matches_E_ch0019_アキラ_learns_世界の言語_p860_言語学_母語の獲得|母語獲得の構造対応]]
-- [[A_ch0019_sublates_E_ch0019_トリシューラ_asks_アキラの正体_p874_哲学_自我の喪失|自我の喪失の止揚]]
-
-### 第二十話：幕間　『涙の価値』
-
-- [[A_ch0020_alludes_to_E_ch0020_トリシューラ_other_アキラの人格_p898_ship_of_theseus|テセウスの船の暗喩]]
-- [[A_ch0020_alludes_to_E_ch0020_トリシューラ_other_世界更新の条件_p904_mythology_pangaea|パンゲア神話の暗喩]]
-- [[A_ch0020_analogous_to_E_ch0020_コルセスカ_uses_右目のセンサー機能_p916_eye_tracking_interface|視線入力インターフェースの類似]]
-- [[A_ch0020_analogous_to_E_ch0020_トリシューラ_other_世界更新の条件_p904_world_building|世界構築の権限行使]]
-- [[A_ch0020_analogous_to_E_ch0020_トリシューラ_other_紙幣_p878_fiat_currency|法定通貨の呪術的可視化]]
-- [[A_ch0020_foreshadows_E_ch0020_コルセスカ_other_転生の種類_p920_reincarnation_taxonomy|転生分類学の伏線]]
-- [[A_ch0020_inverts_E_ch0020_アキラ_other_失敗の許容_p917_trial_and_error|試行錯誤の残酷な逆転]]
-- [[A_ch0020_parodies_E_ch0020_コルセスカ_other_やり直しの支援_p917_video_game_design|ゲームデザインのメタコメント]]
-- [[A_ch0020_structurally_matches_E_ch0020_コルセスカ_other_ゲームの公平性_p916_ai_gameplay|AI操作代行の構造対応]]
-
-### 第二十一話：2-15　そんなことよりゲームをしよう
-
-- [[A_ch0021_alludes_to_E_ch0021_トリシューラ_defines_生存条件_p963_Turing_Test|チューリングテストへの生存条件転生]]
-- [[A_ch0021_analogous_to_E_ch0021_コルセスカ_names_アキラ_p933_Gacha_Party_Building|ガチャパーティ編成への仲間加入]]
-- [[A_ch0021_analogous_to_E_ch0021_コルセスカ_other_男性攻略_p934_Otome_Game_Mechanics|乙女ゲーム仕様への恋愛メタファー]]
-- [[A_ch0021_analogous_to_E_ch0021_コルセスカ_uses_ゲーム_p924_RPG_character_growth|RPGキャラ成長への自己投影]]
-- [[A_ch0021_analogous_to_E_ch0021_鮮血呪_defines_効果_p960_Economic_Value_Exchange|経済的価値交換への呪術定義]]
-- [[A_ch0021_inverts_E_ch0021_コルセスカ_other_物語と現実の同一性_p929_Metaphysical_Realism|形而上学的実在論への物語現実化]]
-- [[A_ch0021_parodies_E_ch0021_コルセスカ_other_神滅具収集_p933_Completionist_Mindset|コンプリート主義への収集動機置換]]
-- [[A_ch0021_parodies_E_ch0021_リーナ_asks_アキラ_p973_Narrative_Structure_Choice|物語構造選択へのマルチエンディング化]]
-- [[A_ch0021_structurally_matches_E_ch0021_コルセスカ_defines_存在形態_p923_Akashic_Records|アカシックレコードへの記述実体化]]
-
-### 第二十二話：2-16　鏡（ミラージュ）
-
-- [[A_ch0022_analogous_to_E_ch0022_アキラ_names_マクガフィン_p1008_マクガフィン|マクガフィンへの主人公定義]]
-- [[A_ch0022_analogous_to_E_ch0022_アキラ_says_有料配信_p978_コンテンツ課金|コンテンツ課金への戦闘動画消費]]
-- [[A_ch0022_analogous_to_E_ch0022_クレアノーズ_gives_転生者リスト_p991_人材採用|人材採用への使い魔選抜]]
-- [[A_ch0022_analogous_to_E_ch0022_コルセスカ_defines_相互再帰_p1025_イマジナリーフレンド|イマジナリーフレンドへの相互再帰]]
-- [[A_ch0022_analogous_to_E_ch0022_コルセスカ_other_リプレイ小説_p1015_TRPGリプレイ|TRPGリプレイへの小説形式模倣]]
-- [[A_ch0022_analogous_to_E_ch0022_コルセスカ_thinks_アキラの役割_p1026_ミーム|ミームへの呪力伝達機能]]
-- [[A_ch0022_analogous_to_E_ch0022_トリシューラ_makes_着せ替え人形_p994_着せ替え人形|着せ替え人形遊びへの転生]]
-- [[A_ch0022_analogous_to_E_ch0022_トリシューラ_says_メンヘラレイヤー_p1016_ネットスラング|ネットスラングによる境界溶解]]
-- [[A_ch0022_analogous_to_E_ch0022_トリシューラ_uses_メタマテリアル_p1017_ステルス技術|ステルス技術のファンタジー転換]]
-- [[A_ch0022_analogous_to_E_ch0022_レオ_names_街路樹の民_p980_社会統合の命名|他者統合のための命名]]
-
-### 第二十三話：幕間　『棒（ワンド）』
-
-- [[A_ch0023_alludes_to_E_ch0023_アキラ_other_キロン_p1083_cyberpunk_culture|サイバーパンク文化の暗喩]]
-- [[A_ch0023_alludes_to_E_ch0023_アキラ_thinks_機械の意思_p1030_frankenstein|フランケンシュタイン的運命]]
-- [[A_ch0023_analogous_to_E_ch0023_アキラ_thinks_機械の意思_p1030_robotics_ethics|ロボティクス倫理の補完]]
-- [[A_ch0023_analogous_to_E_ch0023_コルセスカ_takes_前世の記憶_p1073_data_deletion_privacy|データ削除による依存強制]]
-- [[A_ch0023_foreshadows_E_ch0023_トリシューラ_reveals_上位トリシューラ_p1040_cloud_computing|クラウド構造の階層支配]]
-- [[A_ch0023_inverts_E_ch0023_アキラ_promises_使い魔としての忠誠_p1033_master_servant_dialectic|主奴弁証法の逆転適用]]
-- [[A_ch0023_structurally_matches_E_ch0023_コルセスカ_uses_二人羽織_p1062_exoskeleton_interface|外骨格インターフェースの可視化]]
-
-### 第二十四話：2-17　レジンキャストエピゴーネン
-
-- [[A_ch0024_analogous_to_E_ch0024_ちびシューラ_uses_監視カメラ_p1096_クラウドAIとビッグデータ|クラウドAIによる戦術解析]]
-- [[A_ch0024_analogous_to_E_ch0024_アキラ_reveals_サイバーカラテの呪術性_p1093_ミーム理論|ミーム理論の魔力体系化]]
-- [[A_ch0024_analogous_to_E_ch0024_アキラ_says_手続き記憶_p1090_手続き記憶とエピソード記憶|手続き記憶の身体定着]]
-- [[A_ch0024_analogous_to_E_ch0024_アキラ_uses_射影三昧耶形_p1108_VRアバターやエミュレーション|VRアバター的エミュレーション]]
-- [[A_ch0024_analogous_to_E_ch0024_アキラ_uses_熱学発勁_p1129_ナノテクノロジーとメタマテリアル|ナノテク・メタマテリアルへの熱制御転用]]
-- [[A_ch0024_analogous_to_E_ch0024_キロン_transforms_人馬一体_p1134_ケントロス|ケントロスへの獣性融合変貌]]
-- [[A_ch0024_analogous_to_E_ch0024_キロン_uses_紙幣護符_p1123_電子決済やデジタル通貨|電子決済への価値消滅可視化]]
-- [[A_ch0024_analogous_to_E_ch0024_トリシューラ_gives_カプセル剤_p1086_ゲームのバフアイテム|ゲームバフアイテムへの戦闘前服用]]
-- [[A_ch0024_analogous_to_E_ch0024_トリシューラ_says_呪力変換の効率_p1084_加工食品の栄養補助|加工食品への記号論的栄養補助]]
-- [[A_ch0024_analogous_to_E_ch0024_トリシューラ_uses_巡槍艦のバックアップ_p1122_システムのロールバック|システムロールバックへの迷宮解除]]
-
-### 第二十五話：2-18　null参照のアリュージョン
-
-- [[A_ch0025_alludes_to_E_ch0025_アキラ_says_復讐の論理_p1150_暴力の論理|暴力の論理への復讐定義書き換え]]
-- [[A_ch0025_analogous_to_E_ch0025_トリシューラ_makes_治癒符の需要_p1153_マッチポンプ|マッチポンプへの需要創出操作]]
-- [[A_ch0025_analogous_to_E_ch0025_トリシューラ_says_交差する杖_p1136_ヘルマプロディートス|ヘルマプロディートスへの陰陽融合]]
-- [[A_ch0025_analogous_to_E_ch0025_歌姫_appears_大型ディスプレイ_p1155_アイドル|アイドルへの英雄性エンタメ変換]]
-- [[A_ch0025_foreshadows_E_ch0025_トリシューラ_names_トライデント_p1138_トライデント|トライデントへの個の消滅暗示]]
-- [[A_ch0025_inverts_E_ch0025_コルセスカ_says_アンドロギュヌス_p1137_アンドロギュヌス|アンドロギュヌスへの分離起源強調]]
-- [[A_ch0025_parodies_E_ch0025_キロン_loses_戦闘_p1162_予定調和|予定調和への逆転劇強制終了]]
-- [[A_ch0025_parodies_E_ch0025_キロン_uses_紙幣_p1153_貨幣経済|貨幣経済への信用ミーム露呈]]
-- [[A_ch0025_structurally_matches_E_ch0025_ネット小説_defines_キロンの結末_p1159_メディアミックス|メディアミックスへのメタ相互参照]]
-- [[A_ch0025_sublates_E_ch0025_アキラ_says_痛みの意味_p1160_感傷|感傷の止揚]]
-
-### 第二十六話：2-19　サイバネティクスとオカルティズムの幸福なマリアージュ
-
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_bonds_トリシューラ_p1174_キリスト教の聖婚|キリスト教の聖婚]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_deceives_キロン_p1190_価値の相対化|価値の相対化]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_deceives_キロン_p1190_倫理的攻撃|倫理的攻撃]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_kills_キロン_p1193_介錯|介錯]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_kills_キロン_p1193_首を吹き上げる|首の凍結]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_observes_宇宙_p1170_天動説と中世の宇宙観|天動説と宇宙観]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_observes_宇宙_p1170_天球層|天球層]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_other_コルセスカ_p1209_追跡|追跡]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_says_テセウス型_p1195_テセウスの船|テセウスの船]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_uses_サイバーカラテ道場_p1165_VR＼AR技術|VR/AR技術]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_uses_ヘリステラ_p1177_山羊脚|山羊脚]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_uses_氷血のコルセスカ_p1187_三叉槍|三叉槍]]
-- [[A_ch0026_alludes_to_E_ch0026_アキラ_uses_鮮血のトリシューラ_p1185_アンドロイド|アンドロイド]]
-- [[A_ch0026_alludes_to_E_ch0026_アブロニクレス_appears_null_p1197_八百万の神|八百万の神]]
-- [[A_ch0026_alludes_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_メクセトの神滅具|メクセトの神滅具への転写]]
-- [[A_ch0026_alludes_to_E_ch0026_コルセスカ_takes_神滅具_p1208_奪取|戦利品としての神滅具奪取]]
-- [[A_ch0026_alludes_to_E_ch0026_コルセスカ_takes_神滅具_p1208_神滅具|神殺しの武器としての神滅具]]
-- [[A_ch0026_alludes_to_E_ch0026_トリシューラ_reveals_複合型_p1196_複合型|AIモデルの複合型構造]]
-- [[A_ch0026_alludes_to_E_ch0026_トリシューラ_says_アダム・カドモン_p1176_カバラの生命の樹|カバラの原初の人間アダム]]
-- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_defines_人_p1203_人権の定義|曖昧な人権の境界線]]
-- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_names_セレクティフィレクティ_p1200_ダンテの神曲|地獄篇に堕ちたベアトリーチェ]]
-- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_names_セレクティフィレクティ_p1200_選択と選定|魂の選択と融合の象徴]]
-- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_other_コルセスカ_p1205_火竜と猫|火竜と猫への仕えの暗示]]
-- [[A_ch0026_alludes_to_E_ch0026_ベアトリーチェ_threatens_アキラ_p1206_殺意|手ずからの殺意の表明]]
-- [[A_ch0026_alludes_to_E_ch0026_レオ_appears_null_p1207_古代語|古代語に宿る高位の由来]]
-- [[A_ch0026_alludes_to_E_ch0026_レオ_appears_null_p1207_猫耳少年|猫耳少年と獅子王の対比]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_defines_転生_p1173_アナロジー類推|類推の法則に基づく転生]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_finds_コルセスカ_p1210_発見|追跡の結末としての発見]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_finds_コルセスカ_p1210_貧血|過剰活動による貧血の限界]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_observes_PV数_p1164_ライブ配信プラットフォーム|ライブ配信への転生]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_says_ゲーム_p1206_ゲーム依存|ゲーム依存への没入]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_says_ゲーム_p1206_現代のゲーム文化|ゲーム文化への没入]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_says_テセウス型_p1195_サイボーグ|テセウス型サイボーグ]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_ヘリステラ_p1177_インド神話の車輪の女神|車輪の女神の象徴]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_ワイヤー_p1167_スパイダーマン|スパイダーマンのウェブ]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_左腕_p1189_生態系|体内生態系の構築]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_左腕_p1189_進化アルゴリズムとゲーム理論|進化アルゴリズムの模倣]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_機巧曼荼羅_p1182_密教の曼荼羅|機巧曼荼羅の展開]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_機巧曼荼羅_p1182_歯車|歯車と曼荼羅の融合]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_氷の鏡_p1166_鏡の魔術|鏡の魔術による反射]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_輪廻_p1173_輪廻転生|輪廻転生の呪術化]]
-- [[A_ch0026_analogous_to_E_ch0026_アキラ_uses_鮮血のトリシューラ_p1185_強化外骨格|強化外骨格のSF]]
-- [[A_ch0026_analogous_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_無限ループ|論理エラーの無限ループ]]
-- [[A_ch0026_analogous_to_E_ch0026_キロン_uses_自殺の黒槍_p1192_自傷|自傷行為の呪術再現]]
-- [[A_ch0026_analogous_to_E_ch0026_コルセスカ_attacks_キロン_p1188_拷問|主観時間加速による精神的拷問]]
-- [[A_ch0026_analogous_to_E_ch0026_コルセスカ_other_アキラ_p1208_吸血|吸血鬼の吸血行為の模倣]]
-- [[A_ch0026_analogous_to_E_ch0026_コルセスカ_other_アキラ_p1208_吸血鬼|首筋への牙による吸血]]
-- [[A_ch0026_analogous_to_E_ch0026_コルセスカ_other_共生_p1205_共生関係|魂結合への相利共生適用]]
-- [[A_ch0026_analogous_to_E_ch0026_トリシューラ_reveals_複合型_p1196_ニューラルネットワーク|深層学習AIのモデル化]]
-- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_fears_レオ_p1207_権威への畏怖|上位権威への畏怖による戦意喪失]]
-- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_fears_レオ_p1207_獅子王|獅子王称号による神格暗示]]
-- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_flees_null_p1208_撤退|戦闘からの撤退の模倣]]
-- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_flees_null_p1208_組織の意向|組織命令系統に従う撤退]]
-- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_names_ダンジョンマスター_p1199_ダンジョンマスター|迷宮支配者クリシェの引用]]
-- [[A_ch0026_analogous_to_E_ch0026_ベアトリーチェ_says_悪_p1202_悪の選択|目的のための悪の受容]]
-
-### 第二十七話：2-20　その名はアズーリア
-
-- [[A_ch0027_alludes_to_E_ch0027_トリシューラ_names_ガロアンディアン_p1218_Galactic_Empire|銀河帝国の破綻クリシェ引用]]
-- [[A_ch0027_alludes_to_E_ch0027_トリシューラ_says_インド神話との類似_p1214_Hindu_mythology_Sati|サティ神話の神話構造原型]]
-- [[A_ch0027_analogous_to_E_ch0027_トリシューラ_makes_仮想の義肢_p1212_AR_glasses|欠損補完のAR義肢ペルソナ]]
-- [[A_ch0027_analogous_to_E_ch0027_第五階層_defines_強者打倒の価値_p1224_PvP_game_economy|PvP経済圏のキルボーナス実装]]
-- [[A_ch0027_inverts_E_ch0027_アキラ_promises_使い魔としての従属_p1219_Familiar_contract|使い魔契約の権力勾配逆転]]
-- [[A_ch0027_parodies_E_ch0027_トリシューラ_says_維持期間の短さ_p1212_software_bug_fix|魔法をバグ修正で風刺]]
-- [[A_ch0027_structurally_matches_E_ch0027_店員さん_names_ラズリ・ジャッフハリム_p1222_Lazuli|店員名によるラピスラズリ暗示]]
-
-### 第二十八話：幕間　『もし狂犬が戦国乱世に転生したら』
-
-- [[A_ch0028_alludes_to_E_ch0028_ケイト_says_レジンキャストミルク_p1232_藤原祐レジンキャストミルク|転生黎明期作品のメタ引用]]
-- [[A_ch0028_alludes_to_E_ch0028_ケイト_says_人間扱い_p1237_人工知能の権利|AIの権利論への暗喩]]
-- [[A_ch0028_analogous_to_E_ch0028_アキラ_kills_抹消決定_p1239_行政による強制抹消|官僚制による存在抹消の比喩]]
-- [[A_ch0028_analogous_to_E_ch0028_保険屋_fights_殺し屋_p1231_保険詐欺と調査部門|保険詐欺構造のジャンル自己言及]]
-- [[A_ch0028_inverts_E_ch0028_上司_says_転生_p1236_テセウスの船|テセウスの船による転生否定]]
-- [[A_ch0028_parodies_E_ch0028_契約者_fights_武将_p1233_戦国武将の英雄譚|戦国英雄譚の消費対象化]]
-- [[A_ch0028_structurally_matches_E_ch0028_女性_uses_電子書籍_p1231_ARグラスによる業務サボり|ARグラスによる業務怠慢構造]]
-
-## 第三章　特権者のヒロイック・シンドローム、さもなくばアズーリア・ヘレゼクシュの憂鬱
-
-### 第二十九話：3-0　どうして空は青いの？
-
-- [[A_ch0029_alludes_to_E_ch0029_ハル_says_アキラの変態性_p1263_トリシューラ|トリシューラへの異常反応比喩]]
-- [[A_ch0029_alludes_to_E_ch0029_神話_defines_空が青い理由_p1242_レイリー散乱|レイリー散乱による科学的説明]]
-- [[A_ch0029_analogous_to_E_ch0029_アキラ_fears_精神書き換え_p1252_マインドコントロール|マインドコントロールへの恐怖]]
-- [[A_ch0029_analogous_to_E_ch0029_アキラ_makes_談話室_p1246_仮想空間_SNS|アストラル体による仮想サロン]]
-- [[A_ch0029_analogous_to_E_ch0029_アキラ_uses_GUI_p1245_グラフィカルユーザーインターフェース|呪術システムへのGUI移植]]
-- [[A_ch0029_analogous_to_E_ch0029_アキラ_uses_ファイヤーウォール_p1252_ファイヤーウォール|霊的侵入への自動防御ファイヤーウォール]]
-- [[A_ch0029_analogous_to_E_ch0029_ハル_reveals_襲撃者の正体_p1259_スパイウェア|アバター情報窃取のスパイウェア構造]]
-- [[A_ch0029_analogous_to_E_ch0029_襲撃者_uses_エーテル体_p1252_クラッキング|精神書き換えのサイバークラッキング]]
-- [[A_ch0029_parodies_E_ch0029_アキラ_makes_蒼穹_p1246_ゲームの背景画像|感覚再現技術によるゲーム背景生成]]
-- [[A_ch0029_structurally_matches_E_ch0029_ハル_defines_青_p1262_構造主義|色連関による構造主義的画定]]
-
-### 第三十話：3-1　未来回想、あるいはこれからのあらすじ
-
-- [[A_ch0030_analogous_to_E_ch0030_アズーリア_loses_交渉の機会_p1272_言論統制|猿轡による言論統制と主体性剥奪]]
-- [[A_ch0030_analogous_to_E_ch0030_アズーリア_says_無意味な言語_p1266_宗教的儀礼の形式主義|無意味言語の儀礼形式主義]]
-- [[A_ch0030_analogous_to_E_ch0030_アズーリア_thinks_儀式の虚しさ_p1267_労働の疎外|儀式の虚しさと労働の疎外感]]
-- [[A_ch0030_analogous_to_E_ch0030_クナータ_says_平行世界の同一人物_p1279_並行世界|平行世界同一人物の自己同一性対峙]]
-- [[A_ch0030_analogous_to_E_ch0030_上級聖騎士_kills_特定の人種_p1271_組織内差別|特定人種選別殺害の組織内差別]]
-- [[A_ch0030_analogous_to_E_ch0030_松明の騎士団_defines_霊性複合体_p1270_軍産複合体|宗教権威装いの軍産複合体]]
-- [[A_ch0030_analogous_to_E_ch0030_松明の騎士団_names_アズーリアを英雄_p1272_プロパガンダ|失策隠蔽の英雄仕立てプロパガンダ]]
-- [[A_ch0030_analogous_to_E_ch0030_松明の騎士団_other_彼_p1274_組織の論理|組織論理による個人の意図的見捨て]]
-- [[A_ch0030_analogous_to_E_ch0030_猫の国_travels_過去と未来_p1270_タイムトラベル|猫の国によるSF的タイムトラベル]]
-
-### 第三十一話：幕間　『もうひとつの左手』
-
-- [[A_ch0031_analogous_to_E_ch0031_アズーリア_names_神話揺動者_p1300_ミーム理論と物語の自己言及性|神話揺動者のミームと自己言及性]]
-- [[A_ch0031_analogous_to_E_ch0031_アズーリア_says_鎧_p1285_外骨格Exoskeletonと身体拡張|外骨格と身体拡張]]
-- [[A_ch0031_analogous_to_E_ch0031_フィリス_transforms_世界構造_p1298_メタフィクションにおける第四の壁の破壊と物語の改変|第四の壁の破壊]]
-- [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_asks_フィリス使用_p1282_医療行為におけるインフォームド・コンセントの欠如|インフォームド・コンセント欠如]]
-- [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_reveals_アストラル投射_p1287_インターネット上の匿名性による過激派コンテンツの拡散|匿名過激派拡散]]
-- [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_reveals_接触者5人_p1289_オンラインゲームのチャット機能およびアバター文化|オンライン文化]]
-- [[A_ch0031_analogous_to_E_ch0031_ラーゼフ・ピュクシス_says_眷族神_p1293_官僚主義における名称変更と権威の空洞化|官僚主義と権威の空洞化]]
-
-### 第三十二話：幕間　『もうひとつの悪夢』
-
-- [[A_ch0032_alludes_to_E_ch0032_タマ_other_白黒兎_p1321_不思議の国のアリス|不思議の国のアリス]]
-- [[A_ch0032_alludes_to_E_ch0032_ベアトリーチェ_names_ベアトリーチェ_p1309_ダンテのベアトリーチェ|ダンテのベアトリーチェ]]
-- [[A_ch0032_alludes_to_E_ch0032_ベアトリーチェ_says_遺伝学_p1308_メンデルの遺伝学|メンデルの遺伝学]]
-- [[A_ch0032_analogous_to_E_ch0032_ベアトリーチェ_asks_転生の倫理_p1311_椅子取りゲーム|椅子取りゲーム]]
-- [[A_ch0032_inverts_E_ch0032_アズ_thinks_妹への認識_p1308_転生者クリシェチート能力|転生者チート能力]]
-- [[A_ch0032_parodies_E_ch0032_大神院_other_ネット情報_p1324_現代のSNS・アルゴリズム|SNSアルゴリズム]]
-- [[A_ch0032_structurally_matches_E_ch0032_アズ_thinks_英雄願望_p1319_自己責任論・加害者性|自己責任論と加害者性]]
-
-### 第三十四話：3-3　半熟英雄
-
-- [[A_ch0034_alludes_to_E_ch0034_ハルベルト_names_キュトスの姉妹_p1396_ギリシャ神話のモイライ運命の女神|モイライへの言語魔術暗喩]]
-- [[A_ch0034_alludes_to_E_ch0034_ミルーニャ_says_父の言葉_p1404_マルセル・モースの贈与論|モース贈与論の呪具循環]]
-- [[A_ch0034_analogous_to_E_ch0034_アズーリア_asks_空の色_p1413_クオリアの哲学|クオリア共有の不可能性]]
-- [[A_ch0034_analogous_to_E_ch0034_アズーリア_fights_古代生物_p1379_スマホゲームのオート戦闘|オート戦闘的戦局悪化]]
-- [[A_ch0034_analogous_to_E_ch0034_メイファーラ_has_property_天眼石_p1390_ARグラス／スマートグラス|ARグラス的視覚干渉]]
-- [[A_ch0034_foreshadows_E_ch0034_ハルベルト_defines_失格条件_p1395_戦争の倫理規定|戦争倫理の失格条件伏線]]
-- [[A_ch0034_inverts_E_ch0034_ハルベルト_says_焼き鳥_p1420_英雄叙事詩の崇高な動機|焼き鳥による崇高動機解体]]
-- [[A_ch0034_parodies_E_ch0034_アズーリア_confesses_見よう見まね_p1381_ネット上のコピペ文化|コピペ文化の呪文批判]]
-- [[A_ch0034_structurally_matches_E_ch0034_ハルベルト_defines_ルール_p1394_ギグエコノミーの成果主義|ギグエコノミー的成果主義]]
-
-### 第三十五話：3-4　天の鴉と月の兎
-
-- [[A_ch0035_alludes_to_E_ch0035_アズーリア_uses_ミレノプリズム_p1493_模倣と解析|リバースエンジニアリング的呪術]]
-- [[A_ch0035_alludes_to_E_ch0035_ハルベルト_other_幻獣_p1439_AI|AI的幻獣制御システム]]
-- [[A_ch0035_alludes_to_E_ch0035_哲学的ゾンビ_appears_敵集団_p1470_哲学的ゾンビ|哲学的ゾンビの迷宮具現化]]
-- [[A_ch0035_analogous_to_E_ch0035_アズーリア_uses_紫外線操作_p1431_UVカットフィルム|UVカット技術の呪術転用]]
-- [[A_ch0035_analogous_to_E_ch0035_ミルーニャ_uses_杖_p1462_靴型杖|靴型杖の身体拡張メタファー]]
-- [[A_ch0035_inverts_E_ch0035_アズーリア_thinks_顔の認識_p1422_顔認識AI|顔認識AIの認知逆転]]
-- [[A_ch0035_parodies_E_ch0035_アズーリア_says_呪文_p1424_電子レンジ|電子レンジへの呪文転用]]
-- [[A_ch0035_parodies_E_ch0035_ハルベルト_other_バタードキャット_p1483_バタードッグの法則|バタードッグの法則の幻獣化]]
-- [[A_ch0035_parodies_E_ch0035_ハルベルト_says_マーフィーの法則_p1465_マーフィーの法則|マーフィーの法則の呪術的歪曲]]
-- [[A_ch0035_structurally_matches_E_ch0035_ハルベルト_other_アストラル界_p1438_GUI_TUI|GUIとTUIの呪術界対比]]
-
-### 第三十六話：3-5　言語魔術師の弟子（前編）
-
-- [[A_ch0036_alludes_to_E_ch0036_ハルベルト_reveals_キュトスの姉妹の候補者_p1515_アイドルグループのメンバー選抜|アイドル選抜プロセスの暗喩]]
-- [[A_ch0036_alludes_to_E_ch0036_プリエステラ_has_property_アルラウネ_p1522_植民地支配・先住民の抹殺|植民地支配と先住民抹殺の暗喩]]
-- [[A_ch0036_analogous_to_E_ch0036_アズーリア_repairs_折れた脚_p1496_現代医療の応急処置|現代医療的応急処置の模倣]]
-- [[A_ch0036_analogous_to_E_ch0036_タマ_gives_綿菓子と水飴_p1497_ゲームの回復アイテム|RPG回復アイテムの象徴]]
-- [[A_ch0036_analogous_to_E_ch0036_ハルベルト_reveals_人外化の代償_p1516_美容整形・身体改造|美容整形・身体改造の比喩]]
-- [[A_ch0036_analogous_to_E_ch0036_ハルベルト_reveals_選定理由_p1518_マッチングアプリ・相性診断|マッチングアプリ的相性診断]]
-- [[A_ch0036_analogous_to_E_ch0036_ミルーニャ_suspects_ハルベルトの重力操作_p1501_保険・リスク管理|保険・リスク管理の適用]]
-- [[A_ch0036_inverts_E_ch0036_アズーリア_thinks_期待と失望_p1506_推し活・ファン心理|推し活の闇の逆転構造]]
-- [[A_ch0036_parodies_E_ch0036_アズーリア_other_端末通信_p1497_スマホの圏外・バッテリー切れ|スマホ圏外・電池切れのパロディ]]
-- [[A_ch0036_structurally_matches_E_ch0036_アズーリア_activates_アストラル体_p1499_VRアバター・オンラインゲーム|VRアバター操作のメタファー]]
-
-### 第三十七話：3-6　魔女と英雄
-
-- [[A_ch0037_analogous_to_E_ch0037_アズーリア_attacks_イキューの残骸_p1587_violent_catharsis|暴力カタルシスの極端な現れ]]
-- [[A_ch0037_analogous_to_E_ch0037_アズーリア_other_万色彩星_p1582_resurrection_limit|蘇生の限界へのメタフィクショナル拒絶]]
-- [[A_ch0037_analogous_to_E_ch0037_アズーリア_saves_ハルベルト_p1584_distraction_tactic|砂糖菓子による古典的囮戦術]]
-- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_地獄への覚悟_p1532_faustian_bargain|魂を売り渡すファウスト的取引]]
-- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_地獄への覚悟_p1532_martyrdom|殉教の美辞麗句と残酷さの対比]]
-- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_地獄への覚悟_p1532_moral_injury|修道騎士の道徳的外傷]]
-- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_地獄への覚悟_p1532_sacrifice|妹救済のための究極的自己犠牲]]
-- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_死の不可逆性_p1583_grief_process|グリーフワークの否認段階]]
-- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_死の不可逆性_p1583_narrative_constraint|死の不可逆性という物語の制約]]
-- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_死の不可逆性_p1583_necromancy_taboo|死者復活のタブー視]]
-- [[A_ch0037_analogous_to_E_ch0037_アズーリア_thinks_死の不可逆性_p1583_powerlessness|世界の理に抗えぬ無力感]]
-- [[A_ch0037_analogous_to_E_ch0037_イキュー_has_property_味覚による邪視_p1564_sensory_deprivation|味覚支配の感覚遮断]]
-- [[A_ch0037_analogous_to_E_ch0037_プリエステラ_activates_アルラウネ断章_p1585_genetic_memory|遺伝的記憶の幻想的拡張]]
-- [[A_ch0037_analogous_to_E_ch0037_プリエステラ_reveals_父の死_p1538_abusive_parent|虐待的親からの解放と葛藤]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_names_白のメートリアン_p1592_true_name_magic|真名による存在定義の書き換え]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_イキュー_p1541_gastronomy_horror|美食追求のグルメホラー]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_巨大企業_p1555_monopoly|市場独占による格差構造の批判]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_巨大企業_p1555_pharmaceutical_profit_motive|製薬業界の利潤優先への風刺]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_肉塊_p1590_body_horror|肉体の変容と侵食のボディホラー]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_other_肉塊_p1590_zombie|死体からの復活というゾンビ的クリシェ]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_父の浮気_p1558_family_dysfunction|機能不全家庭におけるトラウマ連鎖]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_父の浮気_p1558_family_trauma|家庭内トラウマの連鎖描写]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_真の目的_p1592_defiance_of_fate|運命論への反抗と死の克服]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_恨みの対象_p1561_revenge|恨み解消手段としての復讐心理]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_恨みの対象_p1561_scapegoating|恨み投影のスケープゴート構造]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_says_父への祝福_p1539_death_as_release|虐待からの解放としての死の肯定]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_thinks_地上の摂理_p1524_capitalism_resource_extraction|資本主義的収奪構造の模倣]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_threatens_ハルベルト_p1593_identity_theft|名前による権力規定とアイデンティティ盗用]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_threatens_ハルベルト_p1593_usurpation|王位簒奪とアイデンティティ乗っ取り]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_corruption|内面の悪意の顕現という腐敗メタファー]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_transforms_白のメートリアン_p1591_duality|表裏の対比による人間の二面性]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_wounds_左手中指_p1573_gacha_cost|ガチャの代償への身体犠牲]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_wounds_左手中指_p1573_sacrifice|自己犠牲による呪術発動]]
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_wounds_左手中指_p1573_self_harm|自傷行為の心理的カタルシス]]
-- [[A_ch0037_analogous_to_E_ch0037_松明の騎士団_betrays_ティリビナの民_p1529_colonialism|植民地主義的な土地収奪]]
-
-### 第三十八話：3-7　言理の妖精語りて曰く
-
-- [[A_ch0038_alludes_to_E_ch0038_アキラ_observes_ミルーニャの過去_p1691_児童虐待とPTSDのトラウマ|児童虐待とPTSDのトラウマ]]
-- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_トライデントの消化_p1658_免疫系とウイルスの排除|免疫系によるウイルス排除]]
-- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_模造品_p1598_ゲームのバランス調整とパッチ|ゲームのバランス調整とパッチ]]
-- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_白血呪_p1680_バイオハザードと不死の民主化|不死の民主化と倫理崩壊]]
-- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_白血呪_p1680_科学技術の軍事転用と制御不能|技術の軍事転用と暴走]]
-- [[A_ch0038_analogous_to_E_ch0038_ミルーニャ_reveals_邪神化_p1681_資本主義の暴走と価値のインフレ|資本主義の暴走と価値インフレ]]
-- [[A_ch0038_inverts_E_ch0038_イルス_says_医術の神_p1632_ヒポクラテスの誓いと宗教的対立|ヒポクラテスの誓いの逆転]]
-- [[A_ch0038_structurally_matches_E_ch0038_アキラ_confesses_妹の目的_p1636_オルタナティブ・ヒストリーと魂の乗っ取り|魂の乗っ取りによる再定義]]
-- [[A_ch0038_structurally_matches_E_ch0038_ミルーニャ_has_property_自己愛_p1711_ナルシシズムと自己保存本能|ナルシシズムの肉体変異]]
-
-### 第三十九話：幕間　『幻想再起のイリュージョニスト』
-
-- [[A_ch0039_alludes_to_E_ch0039_ハルベルト_defines_絶対言語_p1739_esperanto|エスペラント的普遍言語理想]]
-- [[A_ch0039_analogous_to_E_ch0039_ハルベルト_other_ナト_p1735_gacha_rarity|ガチャの希少性と潜在解放]]
-- [[A_ch0039_analogous_to_E_ch0039_ミルーニャ_other_権利_p1745_game_ranking_system|ゲームランキングへの襲名転生]]
-- [[A_ch0039_analogous_to_E_ch0039_松明の騎士団_uses_金鎖_p1734_surveillance_camera_system|金鎖による監視カメラ化]]
-- [[A_ch0039_inverts_E_ch0039_ハルベルト_names_大神院_p1737_institutional_corruption|大神院の組織腐敗の逆転]]
-- [[A_ch0039_parodies_E_ch0039_ハルベルト_conceals_記録_p1734_data_tampering|戦闘記録のデータ改竄]]
-
-### 第四十話：0-1　『フォービットの魔獣』
-
-- [[A_ch0040_analogous_to_E_ch0040_アズール_has_property_六機撃墜_p1760_Scoreboard_Stats|FPS風スコアボード表示]]
-- [[A_ch0040_analogous_to_E_ch0040_クレイドル_functions_as_アストラル誘導_p1759_Hardware_Interface|VRヘッドセット的接続装置]]
-- [[A_ch0040_analogous_to_E_ch0040_フィールド管理乱数_makes_向かい風_p1753_RNG_Mechanics|戦況を左右する乱数操作]]
-- [[A_ch0040_analogous_to_E_ch0040_フルブライト_names_三叉槍_p1756_Party_System|MMO風固定パーティ結成]]
-- [[A_ch0040_analogous_to_E_ch0040_メートリアン_says_挑発_p1759_Text_Chat|テキストチャットでの挑発]]
-- [[A_ch0040_analogous_to_E_ch0040_十八のアバター_appears_天より降り注ぐ_p1750_Battle_Royale_Game|バトルロイヤル的降下開始]]
-- [[A_ch0040_analogous_to_E_ch0040_杖の技術体系_defines_仮想現実_p1750_VR_AR_Technology|VR・AR技術の模倣]]
-- [[A_ch0040_parodies_E_ch0040_杖使い_thinks_車輪の再発明_p1750_Reinventing_The_Wheel|車輪の再発明の風刺]]
-
-### 第四十一話：0-2　『色無しマリー』
-
-- [[A_ch0041_alludes_to_E_ch0041_マリー・スー_other_おめでとう_初潮月経|初潮の祝福]]
-- [[A_ch0041_alludes_to_E_ch0041_マリー・スー_other_伝奇集_ボルヘスの伝奇集と幻獣辞典|ボルヘス的メタフィクション]]
-- [[A_ch0041_alludes_to_E_ch0041_ヴァージリア_thinks_母_母性養育の欠如と補償|擬似母性への渇望]]
-- [[A_ch0041_analogous_to_E_ch0041_マリー・スー_gives_飴玉_医薬品治癒の呪力を含む飴玉|甘味による治癒の逆転]]
-- [[A_ch0041_analogous_to_E_ch0041_マリー・スー_has_property_甘味_糖分依存中毒性|快楽と苦痛の表裏一体]]
-- [[A_ch0041_analogous_to_E_ch0041_マリー・スー_reveals_失声症_聴覚障害と音声障害の相互補完|記号の相互補完]]
-- [[A_ch0041_analogous_to_E_ch0041_ヴァージリア_fights_彩石の儀_戦略ゲーム将棋／チェス|戦略ゲーム的な戦闘]]
-- [[A_ch0041_analogous_to_E_ch0041_ヴァージリア_flees_三人の候補者_SNSにおける既読無視やブロック|既読無視的防衛機制]]
-- [[A_ch0041_analogous_to_E_ch0041_ヴァージリア_thinks_メートリアン_テキストコミュニケーションLINE／メール|テキストコミュニケーションの逃避]]
-- [[A_ch0041_foreshadows_E_ch0041_マリー・スー_observes_マリーの顔_認識妨害不可視化|存在の曖昧さの伏線]]
-- [[A_ch0041_foreshadows_E_ch0041_ヴァージリア_promises_マリーへの教育_教師と生徒の逆転マリーがヴァージリアを導く|師弟逆転の伏線]]
-- [[A_ch0041_parodies_E_ch0041_マリー・スー_has_property_色無し_全色盲モノクロ視覚|全色盲的無敵メカニクス]]
-- [[A_ch0041_sublates_E_ch0041_マリー・スー_reveals_言葉の欠落_言語の限界ウィトゲンシュタインの言語の限界は世界の限界|言語の限界の体現]]
-
-### 第四十二話：幕間　『松明の騎士』
-
-- [[A_ch0042_alludes_to_E_ch0042_ソルダ_confesses_冬の魔女コルセスカ_p1813_Fairy_Tale_Romance|おとぎ話的恋愛の暗喩]]
-- [[A_ch0042_alludes_to_E_ch0042_大機竜オルガンローデ_is_made_of_少年の命_p1802_Human_Cannon|少年命の人間砲弾化]]
-- [[A_ch0042_alludes_to_E_ch0042_転移門_has_property_望みを捨てる文言_p1782_Dante_Inferno|神曲地獄篇の門の銘文]]
-- [[A_ch0042_analogous_to_E_ch0042_アズーリア_activates_金鎖システム_p1794_Auto_Response_System|自動応答システムへの接続]]
-- [[A_ch0042_analogous_to_E_ch0042_アズーリア_thinks_記憶の空白_p1815_Data_Corruption|データ改ざんによる記憶操作]]
-- [[A_ch0042_inverts_E_ch0042_ソルダ_other_竜神信教信徒_p1809_Colonial_Administration|植民地行政的なラベル付け]]
-- [[A_ch0042_structurally_matches_E_ch0042_ソルダ_uses_アリュージョン_p1806_Metaphor_Mechanic|比喩による現実改変]]
-- [[A_ch0042_sublates_E_ch0042_アルスタ_teaches_復讐と愛_p1792_Nietzsche_Will_to_Power|力への意志による復讐肯定]]
-
-### 第四十三話：3-8　再びの未来回想、そして来るべき次回予告
-
-- [[A_ch0043_alludes_to_E_ch0043_クナータ_reveals_葬送式典_p1838_宗教の葬送儀礼_魂の昇天|魂の昇天の視覚化]]
-- [[A_ch0043_alludes_to_E_ch0043_ハルベルト_says_天使の諍い_p1831_神話の因果応報_天罰|因果応報・天罰の政治転用]]
-- [[A_ch0043_alludes_to_E_ch0043_ビーチェ_binds_アズーリアの一部_p1826_影の所有_自我の境界|影の所有と自我の融合]]
-- [[A_ch0043_alludes_to_E_ch0043_夜の民_has_property_老齢化による縮小_p1824_生物の老化_縮小現象|老化による縮小現象]]
-- [[A_ch0043_analogous_to_E_ch0043_アズーリア_confesses_天使への攻撃_p1830_技術の副作用_環境破壊|技術の副作用による崩壊]]
-- [[A_ch0043_analogous_to_E_ch0043_アズーリア_fears_異物視_p1822_社会の同調圧力_通過儀礼|同調圧力と通過儀礼]]
-- [[A_ch0043_analogous_to_E_ch0043_クナータ_reveals_葬送式典_p1838_記憶の改変_マニピュレーション|記憶の改変マニピュレーション]]
-- [[A_ch0043_analogous_to_E_ch0043_ソルダ・アーニスタ_fights_第六階層_p1832_ゲームの難易度調整_プレイヤーの試行錯誤|ゲーム的難易度調整]]
-- [[A_ch0043_analogous_to_E_ch0043_ナト_uses_神働装甲_p1829_サイバーパンク_義体化|サイバーパンク的義体化]]
-- [[A_ch0043_analogous_to_E_ch0043_ハルベルト_promises_序列引き上げ_p1835_スポーツの契約_目標設定|ビジネス的目標設定]]
-- [[A_ch0043_analogous_to_E_ch0043_ハルベルト_promises_運命への抗い_p1840_運命論の否定_自己決定|運命論の否定と自己決定]]
-- [[A_ch0043_analogous_to_E_ch0043_ペイル_transforms_身体能力向上_p1828_臨死体験_PTSDの逆転|臨死体験とPTSD逆転]]
-- [[A_ch0043_analogous_to_E_ch0043_ペレケテンヌル_loses_神働術の力_p1829_サーバー障害_機能停止|サーバー障害による機能停止]]
-- [[A_ch0043_analogous_to_E_ch0043_智神の盾_defines_知識と教化_p1827_インクイジション_思想統制|宗教裁判による思想統制]]
-- [[A_ch0043_analogous_to_E_ch0043_松明の騎士団_defines_武力と啓蒙_p1827_十字軍_武力による布教|十字軍の武力布教]]
-- [[A_ch0043_analogous_to_E_ch0043_羊人種_says_食べられることが幸せ_p1821_食用奉仕種族_家畜化|家畜化の自己肯定]]
-- [[A_ch0043_analogous_to_E_ch0043_肥満_defines_貧困病_p1820_現代の肥満と貧困の相関|貧困と肥満の相関]]
-- [[A_ch0043_inverts_E_ch0043_アズーリア_confesses_天使への攻撃_p1830_英雄の自己満足_被害の無視|英雄の自己満足と被害無視]]
-- [[A_ch0043_inverts_E_ch0043_クナータ_says_誕生日_p1837_転生作品の転生概念|転生＝死の逆転]]
-- [[A_ch0043_parodies_E_ch0043_ソルダ・アーニスタ_fights_第六階層_p1832_ゲームのボス戦_パターン学習|ボス戦攻略のパターン学習]]
-- [[A_ch0043_parodies_E_ch0043_トントロポロロンズ_says_食べて_p1820_食品の擬人化_パッケージ|食品の擬人化マーケティング]]
-- [[A_ch0043_structurally_matches_E_ch0043_アズーリア_transforms_分裂_p1826_多重人格_解離|多重人格と解離]]
-- [[A_ch0043_structurally_matches_E_ch0043_神官_other_アズーリアへの攻略_p1834_組織の責任転嫁_若手への押し付け|組織の責任転嫁]]
-- [[A_ch0043_structurally_matches_E_ch0043_神官_uses_フォーク_p1822_ゲームの戦闘システム_即死演出|即死演出と吸収強化]]
-
-### 第四十四話：3-9　トライアンドエラー
-
-- [[A_ch0044_analogous_to_E_ch0044_アキラ_makes_通報_p1850_現代_SNS通報|SNS通報への機械的応答]]
-- [[A_ch0044_analogous_to_E_ch0044_ソルダ・アーニスタ_has_property_ヒットポイント_p1852_RPG_ヒットポイント|ヒットポイントの物理実装]]
-- [[A_ch0044_analogous_to_E_ch0044_ソルダ・アーニスタ_has_property_任意地点での復活_p1851_ゲーム_セーブポイント|セーブポイントへの帰還]]
-- [[A_ch0044_analogous_to_E_ch0044_ソルダ・アーニスタ_teaches_トライアンドエラー_p1852_ゲーム_プレイ動画共有|プレイ動画共有による学習]]
-- [[A_ch0044_analogous_to_E_ch0044_ハルベルト_reveals_フラベウファの異常性_p1855_プログラミング_nullポインタ|NULLポインタとしての存在]]
-
-### 第四十五話：3-10　青の空、黒の空白
-
-- [[A_ch0045_alludes_to_E_ch0045_ガルズ_says_朽ちていくこと_p1868_stoicism_nihilism|朽ちる受容としてのニヒリズム]]
-- [[A_ch0045_alludes_to_E_ch0045_ハルベルト_says_ヴァニタス_p1866_vanitas_art_history|虚しさ寓意画ヴァニタス]]
-- [[A_ch0045_analogous_to_E_ch0045_ガルズ_uses_ペンタブレット_p1866_digital_art_vs_traditional|デジタルと伝統の境界]]
-- [[A_ch0045_inverts_E_ch0045_エルネ＝クローザンドの空の民_has_property_浮遊_p1860_privilege_and_exclusion|浮遊による特権と排除]]
-- [[A_ch0045_structurally_matches_E_ch0045_ガルズ_activates_浄界_p1875_augmented_reality|拡張現実による世界改変]]
-
-### 第四十六話：3-11　チョコレートリリー
-
-- [[A_ch0046_alludes_to_E_ch0046_アキラ_remembers_キール隊_p1902_past_trauma|幸福を覆う過去のトラウマ]]
-- [[A_ch0046_analogous_to_E_ch0046_ハルベルト_other_哲学的ゾンビの手法_p1882_philosophical_zombie_concept|哲学的ゾンビの技術実装]]
-- [[A_ch0046_analogous_to_E_ch0046_ミルーニャ_other_情報の封鎖_p1890_corporate_coverup|企業隠蔽による情報封鎖]]
-- [[A_ch0046_analogous_to_E_ch0046_計画_uses_研究名目_p1893_bureaucratic_euphemism|研究名目という官僚的婉曲]]
-- [[A_ch0046_inverts_E_ch0046_リーナ_reveals_当事者であること_p1887_heroic_narrative_trope|英雄叙事の逆転]]
-- [[A_ch0046_structurally_matches_E_ch0046_六人_other_黒百合_p1901_rpg_party_structure|RPGパーティ構成の模倣]]
-
-### 第四十七話：3-12　隠れた変数（オクルトゥム）
-
-- [[A_ch0047_analogous_to_E_ch0047_コルセスカ_defines_邪視の座の目的_p1930_tabletop_rpg_dragon_slaying|TRPG竜退治のゲーム化]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_makes_家ルキー妖精_p1916_smart_home_automation|スマートホームの魔法版]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_reveals_歌姫Spear_p1938_idol_secret_identity|アイドルの二重生活]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_inter_textuality|間テクスト性の世界改変]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_interpretive_community|解釈共同体による世界決定]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_metafiction|メタフィクション的構造]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_narrative_power|物語の力による支配]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_narrative_therapy|ナラティブ・セラピー的再構成]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_reality_construction|現実の社会構成主義]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_メタテクストの改変_p1924_synchronicity|共時性による干渉]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_四魔女の目的_p1929_godhood_achievement|神格化（アポテオシス）]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_heidegger_ontology|ハイデガー存在論の呪術化]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_jacques_derrida_différance|デリダの差延の引用]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_semantic_delay|意味の遅延と処理速度]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_semantic_gap|意味のギャップによる伝達遅延]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_semiotics|記号論の差異構造としての言語]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_差延_p1932_time_lag|レイテンシとしての呪文の遅さ]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_絶対言語_p1931_adamic_language|アダム語への回帰としての絶対言語]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_絶対言語_p1931_logos|ロゴスとしての世界支配原理]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_絶対言語_p1931_perfect_communication|完全な相互理解へのユートピア]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_隠れた変数_p1927_determinism|隠れた変数による決定論の回復]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_隠れた変数_p1927_god_as_programmer|神はプログラマーというシミュレーション]]
-- [[A_ch0047_analogous_to_E_ch0047_ハルベルト_says_隠れた変数_p1927_hidden_variable_theory|量子力学の隠れた変数理論のメタファー]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_defines_杖の座の目的_p1930_posthumanism_transhumanism|ポストヒューマニズムとしての杖の座]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_makes_二重スリット実験_p1919_double_slit_experiment_quantum_mechanics|二重スリット実験の呪術的再構成]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_academic_publishing|オープンアクセス運動としてのオープンソース]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_copyright_law|著作権法論理としての秘匿主張]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_knowledge_democracy|知識の民主化としてのオープンソース]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_knowledge_gap|情報格差拡大への批判]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_knowledge_monopoly|知的財産権と情報共有の対立]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_knowledge_sharing|オープンナレッジによる格差是正]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_open_source_software_movement|オープンソース運動の構造的一致]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_世界槍_p1926_simulation_hypothesis|シミュレーション仮説との一致]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_摸倣子_p1922_memetics|物理法則へのミーム理論拡張]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_杖の座の目的_p1930_death_denial|死の否認の極致としての不死追求]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_杖の座の目的_p1930_evolutionary_transcendence|進化トランスヒューマニズムの思想]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_杖の座の目的_p1930_immortality_project|不老不死技術への欲求の投影]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_杖の座の目的_p1930_singularity|技術的特異点での存在形態移行]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_akashic_records|アカシックレコードの物理的実体化]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_console_game|世界構造へのゲームメタファー適用]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_database|データベースによる現実生成]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_operating_system|世界をOSと捉える構造]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_source_code|世界維持のソースコード機能]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_world_maintenance|システムによる世界維持管理]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_紀元槍_p1925_world_tree|世界樹への槍の転生]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_babel_myth|バベルの塔への言震の転生]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_communication_breakdown|SNS分断への言震の転生]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_cultural_conflict|文化衝突への言震の転生]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_cultural_hegemony|言語支配への図書館の転生]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_information_war|情報戦への言震の転生]]
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_言震_p1934_language_death|言語消滅への言震の転生]]
-- [[A_ch0047_analogous_to_E_ch0047_リーナ_says_グロソラリア_p1928_genetic_engineering_hybrid|遺伝子キメラへの血統の転生]]
-- [[A_ch0047_analogous_to_E_ch0047_青年_says_異獣駆逐_p1914_hate_speech|ヘイトスピーチへの駆逐の転生]]
-- [[A_ch0047_analogous_to_E_ch0047_青年_transforms_思想_p1914_propaganda_brainwashing|プロパガンダへの思想の転生]]
-
-### 第四十八話：3-13　この戦いが終わったら
-
-- [[A_ch0048_analogous_to_E_ch0048_歌姫Spear_functions_as_ネットミーム_p1942_ネットアイドル|ネットアイドルへの歌姫の転生]]
-- [[A_ch0048_analogous_to_E_ch0048_骨の槍_kills_神官_p1953_自己免疫疾患|自己免疫疾患への防御の転生]]
-- [[A_ch0048_inverts_E_ch0048_夜の民_has_property_黒衣の下着_p1950_私服の自己責任|私服自己責任への呪力の逆転]]
-- [[A_ch0048_parodies_E_ch0048_空の民_has_property_朝の民_p1947_早起き健康法|早起き健康法への種族のパロディ]]
-- [[A_ch0048_structurally_matches_E_ch0048_歌姫Spear_names_カタルマリーナ_p1941_炎上商法|炎上商法への改名の構造対応]]
-
-### 第四十九話：0-3　『砂漠の花』
-
-- [[A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_アズール_p1969_理想化された他者・推し|推しへの崇拝と自己肯定感の欠如]]
-- [[A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_アズールとマリー_p1973_閉じたコミュニティ・カップル|閉じたコミュニティへの介入と倫理]]
-- [[A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_トリシューラの変化_p1965_偏見の解消・人間性の回復|接触による偏見解消と人間性回復]]
-- [[A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_ホワイト_p1972_対人恐怖症・社交不安障害|社交不安障害の症状描写]]
-- [[A_ch0049_analogous_to_E_ch0049_プリエステラ_observes_地上文明への依存_p1961_植民地支配と技術移転|植民地支配下の技術依存の逆説]]
-- [[A_ch0049_analogous_to_E_ch0049_プリエステラ_thinks_家族の空虚さ_p1959_家族の機能不全・血縁の呪縛|機能不全家族と血縁の呪縛]]
-- [[A_ch0049_analogous_to_E_ch0049_プリエステラ_thinks_選ぶ関係性_p1975_選択的家族・コミュニティ|選択的家族と血縁超えの絆]]
-
-### 第五十話：3-14　パレルノ山六千人殺し
-
-- [[A_ch0050_alludes_to_E_ch0050_アキラ_activates_金鎖_p2002_タイムリープ|金鎖破壊によるタイムリープ]]
-- [[A_ch0050_alludes_to_E_ch0050_アキラ_thinks_肉体の変動_p1978_アバターカスタマイズ|アバターカスタムと自己同一性]]
-- [[A_ch0050_analogous_to_E_ch0050_ペイル_helps_ミルーニャ_p1981_炎上マーケティング|炎上マーケティングとスケープゴート]]
-- [[A_ch0050_analogous_to_E_ch0050_ペリグランティア製薬_defines_派閥争い_p1992_製薬業界の企業間競争|製薬業界の競争と企業秘密]]
-- [[A_ch0050_analogous_to_E_ch0050_戦場小説_defines_社会的利用形態_p1977_スマホゲームのガチャ演出|ガチャ演出と心理的報酬]]
-- [[A_ch0050_inverts_E_ch0050_死の囀り_appears_無音_p1999_サイレント映画|サイレント映画の逆転演出]]
-- [[A_ch0050_structurally_matches_E_ch0050_白焔_has_property_時間流_p1987_熱力学の時間矢印|時間の矢の呪術的可視化]]
-
-### 第五十一話：幕間　『静謐なる多弁』
-
-- [[A_ch0051_alludes_to_E_ch0051_古き神_names_アズーリア_p2010_メシア|メシア概念の管理者権限変換]]
-- [[A_ch0051_analogous_to_E_ch0051_アズーリア_uses_フィリス_p2005_管理者権限|管理者権限へのアクセス]]
-- [[A_ch0051_analogous_to_E_ch0051_アズーリア_uses_万色彩星_p2013_セーブ&ロード|セーブ＆ロードの巻き戻し]]
-- [[A_ch0051_analogous_to_E_ch0051_サリア_confesses_コアとの喧嘩_p2015_通信障害|通信障害による切断]]
-- [[A_ch0051_inverts_E_ch0051_サリア_says_古き神_p2018_神託|神託の絶対性への逆転]]
-- [[A_ch0051_parodies_E_ch0051_古き神_says_あり得ない手_p2009_攻略法|詰み状態の裏技攻略法]]
-- [[A_ch0051_structurally_matches_E_ch0051_古き神_says_身代わりの死_p2007_身代わり|身代わり死の構造対応]]
-
-### 第五十二話：3-15　【死の囀り】カタルマリーナ
-
-- [[A_ch0052_alludes_to_E_ch0052_アズーリア_thinks_ミルーニャの死_p2022_sunk_cost_fallacy|サンクコストの誤謬]]
-- [[A_ch0052_alludes_to_E_ch0052_カタルマリーナ_other_原初の旋律_p2043_nature_worship|自然崇拝のアニミズム]]
-- [[A_ch0052_analogous_to_E_ch0052_アズーリア_hides_霊長類体の変身疲労_p2023_masking_neurodivergence|神経多様性のマスキング]]
-- [[A_ch0052_analogous_to_E_ch0052_アズーリア_remembers_長老の教え_p2053_social_conformity|同調圧力の内面化]]
-- [[A_ch0052_analogous_to_E_ch0052_アズーリア_threatens_ガルズとマリー_p2032_human_shield|人間盾の戦術資源化]]
-- [[A_ch0052_analogous_to_E_ch0052_アズーリア_uses_影の分身_p2046_parallel_processing|並列処理による誤検知]]
-- [[A_ch0052_analogous_to_E_ch0052_ビークレット_attacks_過去_p2027_entropy|エントロピー増大の不可逆性]]
-- [[A_ch0052_inverts_E_ch0052_アズーリア_thinks_霊長類体の制限_p2049_evolutionary_psychology|進化心理学の規範抑制]]
-- [[A_ch0052_parodies_E_ch0052_サリア_says_精神の限界_p2021_mental_health_stigma|精神疾患のスティグマ]]
-- [[A_ch0052_parodies_E_ch0052_メイファーラ_other_戦場小説_p2029_light_novel_meta|長編転生小説へのメタ皮肉]]
-- [[A_ch0052_structurally_matches_E_ch0052_アズーリア_uses_フィリス_p2027_cloud_computing|クラウドコンピューティングへの構造対応]]
-
-### 第五十三話：3-16　黒いアネモネの花言葉
-
-- [[A_ch0053_analogous_to_E_ch0053_アズーリア_other_安堵と汚さ_p2071_survivor_guilt|生存者罪悪感の心理描写]]
-- [[A_ch0053_analogous_to_E_ch0053_アズーリア_thinks_アキラへの注釈_p2072_narrative_therapy|ナラティブ・セラピーへの誘導]]
-- [[A_ch0053_analogous_to_E_ch0053_ガルズ_says_生理的欲求_p2060_stoicism|ストア哲学の禁欲主義的変奏]]
-- [[A_ch0053_analogous_to_E_ch0053_ガルズ_says_血族の呪い_p2063_corporate_bureaucracy|企業官僚制の暴力の比喩]]
-- [[A_ch0053_analogous_to_E_ch0053_マリー_other_アストラル体の自傷_p2070_philosophical_zombie|哲学的ゾンビ概念の直接引用]]
-- [[A_ch0053_analogous_to_E_ch0053_神託機械_is_made_of_歴代の当主の眼球_p2067_legacy_system_and_survivor_bias|レガシーシステムと生存者バイアス]]
-- [[A_ch0053_analogous_to_E_ch0053_第六階層_has_property_最適化不能_p2067_agile_software_development|アジャイル開発への適応的比喩]]
-- [[A_ch0053_analogous_to_E_ch0053_花言葉_defines_古代の呪文_p2057_semantic_lock_in_programming|意味の固定のメタファー]]
-- [[A_ch0053_analogous_to_E_ch0053_連帯_defines_攻略速度の決定_p2065_cartel_and_market_manipulation|カルテル・市場操作の構造一致]]
-- [[A_ch0053_analogous_to_E_ch0053_骨組みの花_other_無謀な任務_p2066_sunk_cost_fallacy|サンクコストの誤謬の構造]]
-
-### 第五十四話：3-17　無造作な死
-
-- [[A_ch0054_alludes_to_E_ch0054_ガルズ_other_夜の民_p2100_哲学的ゾンビ|哲学的ゾンビへの暗喩]]
-- [[A_ch0054_alludes_to_E_ch0054_夜の民_has_property_黒花翁草_p2107_花言葉|花言葉による運命の象徴]]
-- [[A_ch0054_analogous_to_E_ch0054_アズーリア_thinks_過去遡行_p2090_セーブ＆ロード|セーブ＆ロードへの依存]]
-- [[A_ch0054_analogous_to_E_ch0054_ガルズ_other_眼球コンピュータ_p2095_全身監視カメラシステム|全身監視カメラによる支配]]
-- [[A_ch0054_analogous_to_E_ch0054_ガルズ_other_細胞の自由意思_p2099_アルゴリズムによる行動最適化|アルゴリズムによる服従]]
-- [[A_ch0054_inverts_E_ch0054_ガルズ_other_霊魂_p2104_唯物論|唯物論による霊魂の解体]]
-- [[A_ch0054_parodies_E_ch0054_ガルズ_other_人類_p2099_分類学|分類学による存在の否定]]
-- [[A_ch0054_parodies_E_ch0054_ガルズ_other_共感_p2098_ソーシャルエンジニアリング|共感を利用したアクセス権取得]]
-- [[A_ch0054_structurally_matches_E_ch0054_ガルズ_other_存在強度_p2101_観測者効果|観測者効果による存在維持]]
-
-### 第五十五話：0-4　『祈りの価値』
-
-- [[A_ch0055_alludes_to_E_ch0055_ジル_reveals_聴力喪失の理由_p2129_siren_song|セイレーンの歌による破壊]]
-- [[A_ch0055_alludes_to_E_ch0055_ジル_reveals_虐殺の真相_p2130_historical_revisionism|歴史修正主義による真相の歪曲]]
-- [[A_ch0055_analogous_to_E_ch0055_ジル_reveals_構造の欠落_p2132_syntactic_structure|構文構造の欠落]]
-- [[A_ch0055_analogous_to_E_ch0055_主人公_learns_抽象化と推論能力_p2108_machine_learning_neural_network|ニューラルネット的な情報処理]]
-- [[A_ch0055_analogous_to_E_ch0055_主人公_loses_ベアトリーチェ_p2109_language_loss_trauma|言語喪失トラウマ]]
-- [[A_ch0055_analogous_to_E_ch0055_主人公_thinks_色の違い_p2112_qualia_problem|クオリア問題への不安]]
-- [[A_ch0055_inverts_E_ch0055_ジル_other_科学的思考_p2134_post_normal_science|ポスト正常科学の逆転]]
-- [[A_ch0055_parodies_E_ch0055_主人公_observes_模倣子_p2110_augmented_reality|拡張現実のミーム化]]
-- [[A_ch0055_structurally_matches_E_ch0055_ジル_other_夜の民_p2133_bricolage_vs_engineering|ブリコラージュとエンジニアリングの対比]]
-- [[A_ch0055_structurally_matches_E_ch0055_黒百合の子供たち_bonds_一大勢力_p2118_party_system|RPG固定パーティの模倣]]
-
-### 第五十六話：幕間　『言震（ワードクェイク）』
-
-- [[A_ch0056_alludes_to_E_ch0056_サリア_other_神の存在_p2153_無神論と実存主義|実存主義的無神論の宣言]]
-- [[A_ch0056_analogous_to_E_ch0056_ドラトリア_other_本国と北部_p2166_ナショナリズムと移民排斥|ナショナリズムと移民排斥の分断]]
-- [[A_ch0056_analogous_to_E_ch0056_ドラトリア_other_本国と北部_p2166_フェイクニュースとSNSの拡散|フェイクニュース拡散と事実の相対化]]
-- [[A_ch0056_analogous_to_E_ch0056_ドラトリア_other_言語の混乱_p2163_言語血統制と民族アイデンティティ|言語血統制と民族アイデンティティ]]
-- [[A_ch0056_analogous_to_E_ch0056_ハルベルト_remembers_取引の記憶_p2161_ファウストの契約|ファウスト的取引と改名]]
-- [[A_ch0056_analogous_to_E_ch0056_マロゾロンド_defines_古き神の目的_p2150_クラウドサーバーとクライアント端末|クラウド・クライアント型干渉]]
-- [[A_ch0056_analogous_to_E_ch0056_世界_other_ハルベルト_p2159_世界の免疫系と因果律の修正|因果律のバグ修正プロトコル]]
-- [[A_ch0056_analogous_to_E_ch0056_白黒兎_appears_サリアとハルベルト_p2143_アリスの白ウサギ|アリスの白ウサギ的誘い]]
-- [[A_ch0056_analogous_to_E_ch0056_神々の図書館_stops_言語管理機能_p2162_中央集権型言語管理システム|言語管理OS停止とバベルの逆転]]
-
-### 第五十七話：3-18　激光（レイジ）
-
-- [[A_ch0057_analogous_to_E_ch0057_ハルベルト_activates_記憶の封印解除_p2181_データ復旧|記憶バックアップからのデータ復旧]]
-- [[A_ch0057_analogous_to_E_ch0057_リーナ_fears_歌姫の殺害_p2196_テロリズム|テロリズム連鎖とメディア恐怖]]
-- [[A_ch0057_analogous_to_E_ch0057_狂姫_gives_思い出話のデータ_p2192_USBメモリ|USBメモリへのデータ転送]]
-- [[A_ch0057_analogous_to_E_ch0057_狂姫_has_property_人間味_p2171_VTuber|VTuberのアバターと感情の乖離]]
-- [[A_ch0057_analogous_to_E_ch0057_狂姫_says_地上は地獄_p2194_ディストピア|ディストピア社会の構造]]
-- [[A_ch0057_analogous_to_E_ch0057_狂姫_says_幽閉からの解放_p2186_技術移転規制|天才の国家権力による徴用]]
-- [[A_ch0057_analogous_to_E_ch0057_狂姫_says_心理療法_p2182_認知行動療法|認知行動療法のリフレーミング]]
-- [[A_ch0057_analogous_to_E_ch0057_神々_has_property_目的追求_p2177_資本主義|資本主義の搾取的労働関係]]
-- [[A_ch0057_analogous_to_E_ch0057_談話室_is_located_仮想アストラル空間_p2171_VRChat|VRChatの集会所構造]]
-- [[A_ch0057_analogous_to_E_ch0057_道具屋_threatens_狂姫_p2172_スパム攻撃|スパムメッセージの大量送信]]
-
-### 第五十八話：0-5　『青空』
-
-- [[A_ch0058_alludes_to_E_ch0058_エル・ア・フィリス_says_物語の要求_p2219_narrator|語り手のメタフィクショナル介入]]
-- [[A_ch0058_alludes_to_E_ch0058_リーナ_uses_重力操作の邪視_p2207_ear_stone|耳石器の魔法的インターフェース化]]
-- [[A_ch0058_analogous_to_E_ch0058_リーナ_fears_時間の巻き戻り_p2200_save_and_load|ゲームのセーブ＆ロード機能]]
-- [[A_ch0058_foreshadows_E_ch0058_アズーリア_transforms_霊長類_p2215_human_origin|人類の起源への回帰]]
-- [[A_ch0058_inverts_E_ch0058_マリー_confesses_色の実感の欠如_p2210_qualia|クオリアの理論と体験のギャップ]]
-- [[A_ch0058_parodies_E_ch0058_リーナ_says_空が青い理由_p2199_rayleigh_scattering|レイリー散乱の目的論的風刺]]
-
-### 第五十九話：3-19　夢幻の果て
-
-- [[A_ch0059_alludes_to_E_ch0059_第七位_kills_修道騎士_p2228_組織内いじめ_権力闘争|組織内権力闘争による人材浪費]]
-- [[A_ch0059_analogous_to_E_ch0059_Spea_other_決闘_p2246_ゼロサムゲーム_存在の賭け|存在賭けのゼロサムゲーム]]
-- [[A_ch0059_analogous_to_E_ch0059_クリア先生_transforms_触手_p2225_パズルゲーム_マッチ3|恐怖を報酬に変換するマッチ3]]
-- [[A_ch0059_analogous_to_E_ch0059_ハルベルト_uses_心療治癒呪術_p2233_認知療法_ナラティブ・セラピー|問題外部化のナラティブセラピー]]
-- [[A_ch0059_foreshadows_E_ch0059_ハルベルト_has_property_不死性_p2224_条件付き不死_解呪条件|末妹限定の条件付き不死]]
-- [[A_ch0059_inverts_E_ch0059_ハルベルト_has_property_呪い_p2222_親の愛_過保護|過保護として再定義された呪い]]
-- [[A_ch0059_parodies_E_ch0059_青嶺瑠璃_appears_悪夢_p2234_アイドル育成シミュレーションゲーム|絶対服従のアイドル育成ゲーム]]
-- [[A_ch0059_parodies_E_ch0059_青嶺瑠璃_other_Spea_p2234_推し活_オタク文化|非対称な推し活崇拝]]
-- [[A_ch0059_structurally_matches_E_ch0059_青嶺瑠璃_other_悪夢_p2237_ループもの_タイムリープ|セーブロード的なタイムリープ]]
-
-### 第六十話：3-20　言語魔術師の弟子（後編）
-
-- [[A_ch0060_alludes_to_E_ch0060_アズーリア_asks_存在の理由_p2251_cartesian_doubt|生存根拠を求めるデカルト的懐疑]]
-- [[A_ch0060_alludes_to_E_ch0060_ハルベルト_uses_ゲルシェネスナ_p2280_nihilism|神不在を肯定する虚無主義]]
-- [[A_ch0060_alludes_to_E_ch0060_フィリス_functions_as_悪戯好きの妖精_p2269_digital_glitch|記号遊離のデジタルグリッチ]]
-- [[A_ch0060_analogous_to_E_ch0060_アズーリア_confesses_機械的な模倣_p2252_ai_consciousness|模倣に過ぎないAIの意識]]
-- [[A_ch0060_analogous_to_E_ch0060_アズーリア_uses_フィリスの濫用_p2270_admin_privilege|言語による現実操作の管理者権限]]
-- [[A_ch0060_analogous_to_E_ch0060_夜の民_has_property_摸倣と複製_p2249_simulation_theory|虚構自律のシミュレーション仮説]]
-- [[A_ch0060_inverts_E_ch0060_ヴァージリア_other_エミュレータの本物性_p2275_turing_test|区別不可能を本物とするチューリングテスト]]
-- [[A_ch0060_structurally_matches_E_ch0060_アズーリア_other_ハルベルトの共有_p2277_quantum_entanglement|量子もつれへの構造対応]]
-- [[A_ch0060_structurally_matches_E_ch0060_黒百合の子供たち_uses_フィリスの分散封印_p2273_distributed_ledger|分散型台帳への構造対応]]
-
-### 第六十一話：3-21　第五階層より第一階層へ
-
-- [[A_ch0061_alludes_to_E_ch0061_ハザーリャ_other_生殖と蘇生_p2292_ヒエロス・ガモス|ヒエロス・ガモスへの暗喩]]
-- [[A_ch0061_alludes_to_E_ch0061_死人の森の断章_defines_ハザーリャと再生者_p2291_禁書・秘教|禁書・秘教への暗喩]]
-- [[A_ch0061_analogous_to_E_ch0061_アズーリア_uses_感応の触手_p2296_プログラミングのデバッグ|デバッグへの類似]]
-- [[A_ch0061_analogous_to_E_ch0061_メイファーラ_activates_過去視_p2288_プライバシー侵害|プライバシー侵害への類似]]
-- [[A_ch0061_analogous_to_E_ch0061_リールエルバ_asks_死人の森の断章の転送_p2295_データ権限の要求|データ権限要求への類似]]
-- [[A_ch0061_analogous_to_E_ch0061_十三階段_makes_哲学的ゾンビ_p2291_哲学的ゾンビ|哲学的ゾンビへの類似]]
-- [[A_ch0061_inverts_E_ch0061_アズーリア_uses_感応の触手_p2284_引きこもり|引きこもりへの逆転]]
-- [[A_ch0061_parodies_E_ch0061_アキラ_says_NOKOTTA_p2299_格闘ゲームの必殺技|格闘ゲーム必殺技へのパロディ]]
-- [[A_ch0061_parodies_E_ch0061_サイバーカラテ道場第五階層支部_is_made_of_日本語_p2298_ネット上の怪しい広告|怪しいネット広告へのパロディ]]
-- [[A_ch0061_structurally_matches_E_ch0061_プリエステラ_bonds_ティリビナの民の安全_p2285_技術移転と保護の取引|技術移転取引への構造対応]]
-
-### 第六十二話：3-22　シナモリ・アキラより
-
-- [[A_ch0062_alludes_to_E_ch0062_アキラ_wears_義肢_p2307_サイボーグ・トランスヒューマニズム|サイボーグ・トランスヒューへの暗喩]]
-- [[A_ch0062_analogous_to_E_ch0062_アズーリア_remembers_葉っぱの伝言板_p2302_現代のSNS・チャットアプリ|SNS・チャットアプリへの類似]]
-- [[A_ch0062_analogous_to_E_ch0062_トリシューラ_other_ラクルラール派_p2303_現代の企業間スパイ・産業スパイ|産業スパイへの類似]]
-- [[A_ch0062_analogous_to_E_ch0062_ハルベルト_names_リーナ_p2328_セキュリティの穴・ソーシャルエンジニアリング|セキュリティ穴・ソシアルへの転生]]
-- [[A_ch0062_analogous_to_E_ch0062_リーナ_says_炎上_p2317_現代のネット世論・フェイクニュース|ネット世論・フェイクへの転生]]
-- [[A_ch0062_foreshadows_E_ch0062_アズーリア_makes_アキラへの継続連絡の依頼_p2333_長距離通信による戦場での情報戦|戦場での情報戦への伏線]]
-- [[A_ch0062_inverts_E_ch0062_リーナ_says_万色_p2327_デジタル色彩の無限性・RGB|デジタル色彩・RGBへの逆転]]
-- [[A_ch0062_structurally_matches_E_ch0062_大神院_defines_天気_p2316_アルゴリズムによる情報フィルタリング・検閲|アルゴリズム検閲への構造対応]]
-- [[A_ch0062_sublates_E_ch0062_リーナ_says_世界の自由_p2323_量子力学・多世界解釈|多世界解釈への止揚]]
-
-### 第六十三話：3-23　睥睨するエクリーオベレッカ
-
-- [[A_ch0063_alludes_to_E_ch0063_リールエルバ_is_made_of_クローン_p2347_クローン技術の倫理・自己同一性の崩壊|クローン・自己同一性への暗喩]]
-- [[A_ch0063_analogous_to_E_ch0063_アキラ_hopes_アキラの勝利_p2363_ゲームのセーブデータ・リプレイ機能|セーブデータ・リプレイへの転生]]
-- [[A_ch0063_analogous_to_E_ch0063_ドルネスタンルフ_appears_as_球体の肉塊_p2340_ゲームのバグやアセット破損|ゲームバグ・アセット破損への転生]]
-- [[A_ch0063_analogous_to_E_ch0063_ハルベルト_appears_舞台_p2363_バーチャルYouTuber・アバター|VTuber・アバターへの転生]]
-- [[A_ch0063_analogous_to_E_ch0063_ミルーニャ_learns_サイバーカラテ_p2336_ネットゲームのマルチクラス|マルチクラスへの転生]]
-- [[A_ch0063_analogous_to_E_ch0063_守護の九槍第五位_activates_浄界_p2358_AR拡張現実による空間上書き|ARによる上書きへの転生]]
-- [[A_ch0063_analogous_to_E_ch0063_神働装甲_functions_as_カラス型と人型の変形装甲_p2361_変形ロボット玩具・トランスフォーマー|変形ロボット玩具への転生]]
-- [[A_ch0063_analogous_to_E_ch0063_葬送式典_functions_as_娯楽_p2356_テレビ中継の広告挿入|テレビ中継・広告挿入への転生]]
-- [[A_ch0063_analogous_to_E_ch0063_転移門_is_made_of_九つの円柱と巨大な円環_p2338_国際空港のゲート・トランジット|国際空港トランジットへの転生]]
-- [[A_ch0063_analogous_to_E_ch0063_金鎖_enables_類感呪術通信_p2362_分散型ネットワーク・P2P通信|分散型ネットワークの耐検索性]]
-
-### 第六十四話：3-24　十三階段
-
-- [[A_ch0064_analogous_to_E_ch0064_アキラ_helps_アキラ_p2381_ゲームのシナリオ分岐|ゲームのシナリオ分岐への誘導]]
-- [[A_ch0064_analogous_to_E_ch0064_アキラ_other_物語素体_p2381_インタラクティブフィクション|インタラクティブフィクションの構造]]
-- [[A_ch0064_analogous_to_E_ch0064_アキラ_other_物語素体_p2381_シナリオ分岐|ゲームのシナリオ分岐の模倣]]
-- [[A_ch0064_analogous_to_E_ch0064_アキラ_other_物語素体_p2381_ネット小説の自動更新|ネット小説自動更新の構造]]
-- [[A_ch0064_analogous_to_E_ch0064_アキラ_other_罪悪感_p2382_作家の倫理|作家の倫理への自己批判]]
-- [[A_ch0064_analogous_to_E_ch0064_アキラ_other_罪悪感_p2382_作家の自己正当化|作家の自己正当化心理]]
-- [[A_ch0064_analogous_to_E_ch0064_アキラ_other_罪悪感_p2382_自己責任論|自己責任論の象徴]]
-- [[A_ch0064_analogous_to_E_ch0064_アキラ_says_信用できない語り手_p2371_動画の再生回数|再生回数操作のネット文化]]
-- [[A_ch0064_analogous_to_E_ch0064_アキラ_uses_叙述悪戯_p2371_編集|編集による事実改変]]
-- [[A_ch0064_analogous_to_E_ch0064_ガルズ_says_公開処刑_p2405_公開処刑|公開処刑のスペクタクル消費]]
-- [[A_ch0064_analogous_to_E_ch0064_ガルズ_says_十三人揃った_p2404_儀式の完了|オカルト儀式の完了構造]]
-- [[A_ch0064_analogous_to_E_ch0064_ガルズ_transforms_泡沫のハザーリャ_p2406_キャラクターの再定義|キャラ再定義のメタ変身]]
-- [[A_ch0064_analogous_to_E_ch0064_ガルズ_transforms_泡沫のハザーリャ_p2406_キャラクターの再登場|キャラ再登場のメタ演出]]
-- [[A_ch0064_analogous_to_E_ch0064_ガルズ_uses_融血呪_p2385_ウイルスの感染|ウイルス感染の比喩]]
-- [[A_ch0064_analogous_to_E_ch0064_サイリウス_asks_商品化_p2383_コンテンツのIP化|コンテンツIP化の写し鏡]]
-- [[A_ch0064_analogous_to_E_ch0064_サイリウス_asks_商品化_p2383_コンテンツビジネス|コンテンツビジネスへの転生]]
-- [[A_ch0064_analogous_to_E_ch0064_サイリウス_other_公開処刑の演出_p2396_プロパガンダ|プロパガンダによる暴力正当化]]
-- [[A_ch0064_analogous_to_E_ch0064_サイリウス_other_公開処刑の演出_p2396_世論操作|世論操作による暴力正当化]]
-- [[A_ch0064_analogous_to_E_ch0064_サイリウス_other_公開処刑の演出_p2396_世論操作による死刑執行|世論操作による死刑執行]]
-- [[A_ch0064_analogous_to_E_ch0064_サイリウス_transforms_巨人_p2390_権力者の非人間性|権力者の非人間化]]
-- [[A_ch0064_analogous_to_E_ch0064_サイリウス_transforms_巨人_p2390_神格化|神格化への昇華]]
-- [[A_ch0064_analogous_to_E_ch0064_サイリウス_uses_質量操作呪術_p2388_物理法則の改変|物理法則改変のチート能力]]
-- [[A_ch0064_analogous_to_E_ch0064_ズタークスターク_other_アメル・ア・フィリス_p2408_最強のボス|最強ボスの典型]]
-- [[A_ch0064_analogous_to_E_ch0064_ズタークスターク_other_アメル・ア・フィリス_p2408_最強の敵|最強の敵キャラクター]]
-- [[A_ch0064_analogous_to_E_ch0064_ズタークスターク_other_アメル・ア・フィリス_p2408_自律型AI|自律型AIエージェント]]
-- [[A_ch0064_analogous_to_E_ch0064_セリアック＝ニア_says_幻惑ウィルス_p2384_セキュリティ対策|セキュリティ対策のメタファー]]
-- [[A_ch0064_analogous_to_E_ch0064_ディスペータ_other_第三魔将_p2410_ゲームのバグ／仕様|バグ仕様による無力化]]
-- [[A_ch0064_analogous_to_E_ch0064_ディスペータ_other_第二魔将_p2410_ゲームのバグ修正／クラッキング|バグ修正によるデータ改変]]
-- [[A_ch0064_analogous_to_E_ch0064_ディスペータ_other_魔将紹介_p2410_ゲームの攻略サイト|攻略サイト的な記述]]
-- [[A_ch0064_analogous_to_E_ch0064_ディスペータ_other_魔将紹介_p2410_公式ガイド|公式ガイド的な記述]]
-- [[A_ch0064_analogous_to_E_ch0064_リーナ_finds_共通点_p2370_データマイニング|データマイニングへの現場調査]]
-- [[A_ch0064_analogous_to_E_ch0064_叙述悪戯_defines_事象改竄系過去遡及呪文_p2366_メタフィクションの語り手|メタフィクション語り手の認識操作]]
-- [[A_ch0064_analogous_to_E_ch0064_叙述悪戯_defines_過去改変_p2366_メタフィクションの語り手|メタフィクション語り手の事実改変]]
-- [[A_ch0064_analogous_to_E_ch0064_天の御殿_functions_as_死の記録システム_p2407_クラウドストレージ|クラウドストレージへの死者復元]]
-- [[A_ch0064_analogous_to_E_ch0064_天の御殿_functions_as_死の記録システム_p2407_データベース|データベースからの死者リカバリー]]
-- [[A_ch0064_analogous_to_E_ch0064_天の御殿_functions_as_死の記録システム_p2407_バックアップ|バックアップからの死者復元]]
-- [[A_ch0064_analogous_to_E_ch0064_歌姫Spear_other_ライブ_p2378_アイドルのライブ|アイドルライブ構造の異世界移植]]
-- [[A_ch0064_analogous_to_E_ch0064_歌姫Spear_repairs_音響設備_p2386_ライブの継続|ライブ継続による混沌の覆い隠し]]
-- [[A_ch0064_analogous_to_E_ch0064_観客_says_かわいそう_p2397_ネット世論|ネット世論による感情論的処刑]]
-- [[A_ch0064_analogous_to_E_ch0064_観客_says_かわいそう_p2397_ネット世論の誘導|ネット世論誘導による殺害正当化]]
-- [[A_ch0064_analogous_to_E_ch0064_観客_says_かわいそう_p2397_感情の消費|感情の消費としての悲劇娯楽化]]
-
-### 第六十五話：3-25　オンステージ
-
-- [[A_ch0065_alludes_to_E_ch0065_ガルズ_says_死の世界_p2429_cocytus|コキュートスへの地獄最下層暗喩]]
-- [[A_ch0065_alludes_to_E_ch0065_ズタークスターク_defines_哲学的ゾンビ_p2415_philosophical_zombie|哲学的ゾンビとしての意識欠如]]
-- [[A_ch0065_analogous_to_E_ch0065_アインノーラ_defines_万殺鬼_p2453_parallel_processing|並列処理クラッシュへの共有状態]]
-- [[A_ch0065_analogous_to_E_ch0065_アインノーラ_defines_万殺鬼_p2453_ゲームのボス戦_一対一|ゲームボス戦メカニクスへの強制決闘]]
-- [[A_ch0065_analogous_to_E_ch0065_アインノーラ_uses_強制決闘権_p2426_instance_dungeon|インスタンスダンジョンへの浄界転生]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_ハルハハール_p2416_beauty_filter|美顔フィルターによる美の強制]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_count|敵数カウントとしての影数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_counting|敵数カウントとしての影数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_enemy_tracking|敵追跡としての影数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_situation_analysis|状況分析としての敵数判断]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_threat_assessment|脅威評価としての敵数判断]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_observes_魔将_p2420_threat_evaluation|脅威評価としての敵数判断]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_ammo_check|残弾確認としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_ammo_count|残弾数管理としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_inventory|インベントリとしての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_inventory_check|所持品確認としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_inventory_management|所持品管理としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_lightning_rod|避雷針としての金鎖雷撃回避]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_resource_check|リソース確認としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_resource_management|リソース管理としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_other_金鎖_p2420_status_check|ステータス確認としての金鎖数え]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_intelligence_gathering|情報収集としての密偵運用]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_intelligence_mission|情報収集任務としての密偵派遣]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_reconnaissance|偵察としての密偵派遣]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_spy_mission|スパイミッションとしての密偵派遣]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_spyware|スパイウェアとしての密偵映像]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_stealth_mission|ステルスミッションとしての密偵派遣]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_surveillance_camera|監視カメラとしての盗撮映像]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_surveillance_mission|監視ミッションとしての密偵派遣]]
-- [[A_ch0065_analogous_to_E_ch0065_アキラ_uses_密偵_p2421_wiretap|通信傍受としての盗撮映像]]
-- [[A_ch0065_analogous_to_E_ch0065_アケルグリュス_uses_歌声_p2417_siren_song|セイレーンの歌としての歌声魅了]]
-- [[A_ch0065_analogous_to_E_ch0065_ズタークスターク_defines_沼女型哲学的ゾンビ_p2415_哲学的ゾンビ|哲学的ゾンビとしての沼女定義]]
-- [[A_ch0065_analogous_to_E_ch0065_ズタークスターク_kills_ソルダ_p2446_respawn_loop|リスポーンループとしての即死蘇生]]
-- [[A_ch0065_analogous_to_E_ch0065_ズタークスターク_kills_ソルダ_p2446_ゲームの即死ループ|即死ループとしての蘇生即死]]
-- [[A_ch0065_analogous_to_E_ch0065_ズタークスターク_says_誕生日の歌_p2413_31536000_seconds|一年の秒数による誕生日希少性の定義]]
-- [[A_ch0065_analogous_to_E_ch0065_ズタークスターク_says_誕生日の歌_p2413_秒数計算とカレンダー|暦計算による非誕生日の殺戮正当化]]
-- [[A_ch0065_analogous_to_E_ch0065_ユネクティア_uses_多数決_p2431_民主主義の機能不全|多数決を装う独裁の風刺]]
-- [[A_ch0065_analogous_to_E_ch0065_ヨミル・バーンステイン_names_自分_p2425_gacha_army|ガチャ軍団の大量投入戦略の脆さ]]
-- [[A_ch0065_analogous_to_E_ch0065_ヨミル・バーンステイン_names_自分_p2425_スマホゲームのガチャ／ユニット|高コストユニットの環境メタによる瞬殺]]
-- [[A_ch0065_analogous_to_E_ch0065_聖火楽団_uses_空圧_p2446_headphones|呪文発動装置としてのヘッドフォン]]
-- [[A_ch0065_parodies_E_ch0065_アインノーラ_defines_第一階層の守護者_p2422_minotaur_boss|迷宮ボスとしてのミノタウロス]]
-- [[A_ch0065_parodies_E_ch0065_ズタークスターク_says_皆殺しの歌_p2414_童謡_メリーさんの羊|メリーさんの羊への暴力転倒]]
-
-### 第六十六話：3-26　奈落に飲まれ、闇に包まれる
-
-- [[A_ch0066_alludes_to_E_ch0066_サイザクタート_says_世界は夢_p2459_荘子の胡蝶の夢|胡蝶の夢による主客境界の曖昧化]]
-- [[A_ch0066_alludes_to_E_ch0066_サイザクタート_says_夢_p2459_ソロプシズム|世界を構成する独我論]]
-- [[A_ch0066_alludes_to_E_ch0066_サジェリミーナ_activates_創生の闇_p2486_ヘルメス・トリスメギストス|ヘルメス主義の上下対応原理]]
-- [[A_ch0066_analogous_to_E_ch0066_グラル・アーニスタ_fights_死人_p2464_ギルドシステム|ギルド連携を模した神働術]]
-- [[A_ch0066_analogous_to_E_ch0066_サイザクタート_defines_朱の色号_p2460_ゲームのセーブポイント|死亡直前リロードのメタファー]]
-- [[A_ch0066_analogous_to_E_ch0066_サジェリミーナ_has_property_錬金術師_p2484_科学|科学による魔法ルール無効化]]
-- [[A_ch0066_analogous_to_E_ch0066_サジェリミーナ_reveals_錬金術師_p2484_パッチによる能力解放|死によるバグ修正と能力解放]]
-- [[A_ch0066_analogous_to_E_ch0066_ナト_appears_白銀のカラス型神働装甲_p2461_ドローン|ドローンへの操者依存性]]
-- [[A_ch0066_analogous_to_E_ch0066_ナト_says_痛み_p2462_安楽死|安楽死への苦痛価値の対立]]
-- [[A_ch0066_analogous_to_E_ch0066_バル・ア・ムント_appears_赤熱する髭_p2457_ステータス表示|ステータス表示の視覚化]]
-- [[A_ch0066_analogous_to_E_ch0066_バル・ア・ムント_other_修道騎士五千名_p2457_賞金首システム|賞金首システムの動員]]
-- [[A_ch0066_analogous_to_E_ch0066_ピッチャールー_attacks_プリエステラ_p2473_自動迎撃システム|自動迎撃システムの反応]]
-- [[A_ch0066_analogous_to_E_ch0066_ピッチャールー_attacks_呪術反応端末_p2473_自動迎撃システム|自動迎撃トラップの原理]]
-- [[A_ch0066_analogous_to_E_ch0066_ピッチャールー_has_property_肉体透過_p2471_バグ|碰撞判定バグの模倣]]
-- [[A_ch0066_analogous_to_E_ch0066_ベフォニス_has_property_体内異界_p2477_ブラックボックス|ブラックボックスの裏処理]]
-- [[A_ch0066_analogous_to_E_ch0066_ミルーニャ_activates_盲目の守護者像_p2476_ガチャ|ガチャの即時召喚演出]]
-- [[A_ch0066_analogous_to_E_ch0066_修道騎士_learns_攻略用資料_p2456_ゲームの攻略Wiki|攻略Wikiの情報共有]]
-- [[A_ch0066_analogous_to_E_ch0066_火蜂_functions_as_暗殺兵器_p2458_ドローン攻撃|ドローン攻撃の自動追尾]]
-
-### 第六十七話：3-27　影に沈み、振り返らずに去っていく
-
-- [[A_ch0067_alludes_to_E_ch0067_イヴァ＝ダスト_other_隕石_p2501_隕石落下|隕石落下の絶滅ロマン]]
-- [[A_ch0067_alludes_to_E_ch0067_エスフェイル_says_摸倣への言及_p2504_mimesis|ミメーシスの魂の営為]]
-- [[A_ch0067_analogous_to_E_ch0067_エスフェイル_has_property_体毛の防御構造_p2496_センサー・レーダー|センサーレーダーの自動回避]]
-- [[A_ch0067_analogous_to_E_ch0067_エスフェイル_other_体毛触手_p2495_sensor_array|センサーアレイの自動防御]]
-- [[A_ch0067_analogous_to_E_ch0067_エスフェイル_reveals_セリアック＝ニアの出自_p2506_取り替え子|民話の取り替え子]]
-- [[A_ch0067_analogous_to_E_ch0067_エスフェイル_uses_模造の月_p2500_proxy_war|模造の月による代理戦争]]
-- [[A_ch0067_analogous_to_E_ch0067_セリアック＝ニア_uses_呪術のバグ_p2509_game_glitch_exploit|呪術プロセスのバグ技]]
-- [[A_ch0067_analogous_to_E_ch0067_セリアック＝ニア_uses_呪術のバグ_p2509_ゲームのバグ利用|呪術ロジックのバグ利用]]
-- [[A_ch0067_analogous_to_E_ch0067_ディムズ兄弟_uses_万色精霊_p2499_色による心理効果|色彩の心理効果の具現化]]
-- [[A_ch0067_analogous_to_E_ch0067_ディルガッハ_has_property_鰓耳の民_p2510_virtual_reality|アストラル界の仮想現実]]
-- [[A_ch0067_analogous_to_E_ch0067_ドルメイス_attacks_歌姫_p2513_情報戦|アストラルネットの情報戦]]
-- [[A_ch0067_analogous_to_E_ch0067_ドルメイス_has_property_炎上使い_p2513_astroturfing|アストロターフィングの炎上]]
-- [[A_ch0067_analogous_to_E_ch0067_ドルメイス_has_property_炎上使い_p2513_ネット炎上|ネット炎上の呪術化]]
-- [[A_ch0067_analogous_to_E_ch0067_ハルハハール_other_ロシンたち_p2517_洗脳・カルト|心話による洗脳・カルト]]
-- [[A_ch0067_analogous_to_E_ch0067_ハルハハール_uses_深層心話_p2517_subliminal_messaging|深層心話のサブミナルメッセージ]]
-- [[A_ch0067_analogous_to_E_ch0067_ロシン_transforms_蝗の皇_p2522_変身ロボット|神働装甲の変身ロボット]]
-- [[A_ch0067_analogous_to_E_ch0067_大神院_makes_森の民と海の民の対立_p2530_分断統治|民の対立による分断統治]]
-- [[A_ch0067_parodies_E_ch0067_エスフェイル_says_小娘への挑発_p2492_boss_taunt|ボス戦の挑発クリシェ]]
-- [[A_ch0067_parodies_E_ch0067_ドルメイス_uses_炎上による権威破壊_p2514_internet_flame_war|ネット炎上による権威破壊]]
-- [[A_ch0067_parodies_E_ch0067_ドルメイス_uses_炎上による権威破壊_p2514_tabloid_journalism|タブロイド報道による権威破壊]]
-- [[A_ch0067_structurally_matches_E_ch0067_エスフェイル_other_宣名のリスク_p2504_privacy_paradox|プライバシーの逆説]]
-
-### 第六十八話：3-28　言葉は断ち切られ、絶望は感染する。そして――
-
-- [[A_ch0068_alludes_to_E_ch0068_ユネクティア_has_property_巨人_p2556_神格化|技術極致による神格化]]
-- [[A_ch0068_alludes_to_E_ch0068_ユネクティア_makes_環状列石_p2534_ストーンサークル|ストーンサークルの呪力収束]]
-- [[A_ch0068_analogous_to_E_ch0068_エスフェイル_activates_浄界_p2552_パンデミック|制御不能なパンデミック]]
-- [[A_ch0068_analogous_to_E_ch0068_エスフェイル_has_property_四分割_p2544_マルチタスク|分散状態でのマルチタスク]]
-- [[A_ch0068_analogous_to_E_ch0068_エスフェイル_kills_修道騎士_p2550_同胞殺し|同胞殺しの倫理的葛藤]]
-- [[A_ch0068_analogous_to_E_ch0068_エスフェイル_says_同胞_p2551_戦没者名簿|戦没者名簿の逆転]]
-- [[A_ch0068_analogous_to_E_ch0068_ネット_attacks_歌姫_p2547_ネット炎上|ネット炎上の物理的破壊力]]
-- [[A_ch0068_analogous_to_E_ch0068_ネット_attacks_歌姫_p2547_情報爆弾|フェイクニュースの情報爆弾]]
-- [[A_ch0068_analogous_to_E_ch0068_プリエステラ_helps_修道騎士_p2546_非暴力抵抗|非暴力抵抗の暴力誘発]]
-- [[A_ch0068_analogous_to_E_ch0068_ユネクティア_says_アズーリア_p2542_交換可能性|個人の交換可能性]]
-- [[A_ch0068_analogous_to_E_ch0068_ユネクティア_says_言葉_p2540_言語哲学|言語哲学の記号脆弱性]]
-- [[A_ch0068_foreshadows_E_ch0068_エスフェイル_says_アキラ_p2553_主人公の不在|主人公不在の伏線]]
-- [[A_ch0068_inverts_E_ch0068_ユネクティア_says_光_p2537_光と影の対立|光と影の同一視]]
-- [[A_ch0068_parodies_E_ch0068_エスフェイル_has_property_四分割_p2544_マルチタスク|マルチタスクへの言語的転生]]
-- [[A_ch0068_parodies_E_ch0068_ユネクティア_says_交換可能_p2542_ゲームのキャラクター交換|キャラ交換による固有性の否定]]
-- [[A_ch0068_structurally_matches_E_ch0068_ユネクティア_says_フィリス_p2540_言語の力|言語の力による物理暴力の逆転]]
-
-### 第六十九話：幕間　『この夜が明けるまであと百万の祈り』
-
-- [[A_ch0069_alludes_to_E_ch0069_ベル・ペリグランティア_says_メートリアン_p2570_maitreya|弥勒菩薩による衆生救済の暗喩]]
-- [[A_ch0069_alludes_to_E_ch0069_貴人_uses_金剛杵_p2578_vajra|金剛杵による神聖権力の象徴]]
-- [[A_ch0069_alludes_to_E_ch0069_青年_says_異獣の排除_p2577_exclusion_of_the_other|均質な祈りによる他者排除の風刺]]
-- [[A_ch0069_analogous_to_E_ch0069_セルフ・リファレンス・エンジン_defines_意味の呪力変換_p2559_self_reference_engine|自己参照エンジンによる言語魔術]]
-- [[A_ch0069_analogous_to_E_ch0069_セルフ・リファレンス・エンジン_functions_as_意味を呪力に変換_p2559_self_reference_engine|自己参照エンジンによるLLM的変換]]
-- [[A_ch0069_analogous_to_E_ch0069_タマちゃん先生_says_作詞のコツ_p2568_nonsense_advice|形式主義による創造の本質戯画]]
-- [[A_ch0069_analogous_to_E_ch0069_ハルベルト_says_舌の象徴性_p2563_anatomy_as_interface|身体インターフェースとしての舌]]
-- [[A_ch0069_analogous_to_E_ch0069_ハルベルト_says_舌の象徴性_p2563_tongue_as_interface|舌のインターフェースによる契約]]
-- [[A_ch0069_analogous_to_E_ch0069_ハルベルト_says_重力_p2561_gravity_metaphor|重力の比喩による支配の正当化]]
-- [[A_ch0069_analogous_to_E_ch0069_ベル・ペリグランティア_asks_万能細胞_p2571_genetic_surveillance|遺伝子監視による倫理的懸念]]
-- [[A_ch0069_analogous_to_E_ch0069_マリー_has_property_哲学的ゾンビ_p2560_philosophical_zombie|哲学的ゾンビによる心身分離]]
-- [[A_ch0069_analogous_to_E_ch0069_少女_fears_死人の父_p2574_uncanny_valley|不気味の谷による死者の恐怖]]
-- [[A_ch0069_analogous_to_E_ch0069_死人_has_property_呪力への反応_p2572_zombie_game_mechanics|ゾンビ検知メカニクスへの転生]]
-- [[A_ch0069_analogous_to_E_ch0069_紀元槍_functions_as_自己参照の再帰的幻想_p2558_recursive_simulation|再帰的シミュレーションへの転生]]
-- [[A_ch0069_analogous_to_E_ch0069_言語魔術師_says_呪文_p2558_narrative_engineering|物語工学への転生]]
-- [[A_ch0069_analogous_to_E_ch0069_貴人_uses_金剛杵_p2579_buddhist_iconography|密教法具への転生]]
-- [[A_ch0069_analogous_to_E_ch0069_青年_says_異獣の排除_p2577_exclusion_of_the_other|他者排除への転生]]
-
-### 第七十話：3-29　黒百合の子供たち
-
-- [[A_ch0070_alludes_to_E_ch0070_ミルーニャ_uses_プロトプラズマ収束弾_p2609_cancer_metaphor|癌のメタファーへの転生]]
-- [[A_ch0070_alludes_to_E_ch0070_ミルーニャ_uses_成し得ぬ盾_p2601_絶対防御バグ／無敵モード|無敵モード・バグへの転生]]
-- [[A_ch0070_analogous_to_E_ch0070_カラス型箒_activates_アストラルエンジン_p2605_ゲーム内の乗り物カスタマイズ／変形|乗り物変形への転生]]
-- [[A_ch0070_analogous_to_E_ch0070_サイバーカラテ道場_appears_アプリ_p2625_smartphone_malware|スマホマルウェアへの転生]]
-- [[A_ch0070_analogous_to_E_ch0070_サジェリミーナ_uses_占星術_p2599_シミュレーションゲームの環境操作|環境操作への転生]]
-- [[A_ch0070_analogous_to_E_ch0070_サジェリミーナ_uses_占星術_p2600_simulation_theory|シミュレーション仮説への転生]]
-- [[A_ch0070_analogous_to_E_ch0070_リーナ_activates_十七万六千倍加速_p2617_数値オーバーフロー／バグによる消滅|オーバーフロー消滅への転生]]
-- [[A_ch0070_analogous_to_E_ch0070_リーナ_uses_質量ゼロ_p2617_suicide_as_erasure|存在抹消型自殺への転生]]
-- [[A_ch0070_analogous_to_E_ch0070_リーナ_uses_違法霊薬_p2594_違法な性能向上MOD／チートツール|違法MOD・チートへの転生]]
-- [[A_ch0070_foreshadows_E_ch0070_紀元神群_appears_威容_p2620_deus_ex_machina|機械仕掛けの神への転生]]
-- [[A_ch0070_inverts_E_ch0070_サジェリミーナ_says_人類の更新_p2612_トランスヒューマニズム／ポストヒューマン|トランスヒューマニズムの悪役的逆転]]
-- [[A_ch0070_inverts_E_ch0070_ミルーニャ_uses_成し得ぬ盾_p2601_unbreakable_shield_paradox|絶対防御パラドックスの逆用]]
-- [[A_ch0070_parodies_E_ch0070_サイバーカラテ道場_defines_ゼン・スピリット_p2625_self_help_seminars|自己啓発セミナーの風刺]]
-- [[A_ch0070_structurally_matches_E_ch0070_プリエステラ_other_歌_p2624_マルチメディアコンテンツの強制配信|マルチメディア強制配信の構造]]
-- [[A_ch0070_structurally_matches_E_ch0070_天眼の民_has_property_先祖返り_p2591_遺伝子データからのキャラクター召喚／継承|遺伝子覚醒の構造対応]]
-
-### 第七十一話：3-30　その名はサイバーカラテ
-
-- [[A_ch0071_alludes_to_E_ch0071_セルフ・ディファレンス・エンジン_defines_紀元槍_p2631_自己言及的なAI／LLMの構造|自己言及型AIの暗喩]]
-- [[A_ch0071_alludes_to_E_ch0071_言理の妖精_defines_記号と意味_p2628_デリダの差延概念|デリダ差延概念の暗喩]]
-- [[A_ch0071_analogous_to_E_ch0071_サイバーカラテ_defines_万能の武術_p2642_スマホゲームのガチャとアプリインストール|ガチャ・インストールのメタファー]]
-- [[A_ch0071_analogous_to_E_ch0071_サイバーカラテ_defines_万能の武術_p2642_スマホゲームのチュートリアル|スマホゲームチュートリアル模倣]]
-- [[A_ch0071_analogous_to_E_ch0071_サイバーカラテ_functions_as_集合知_p2655_クラウドソーシングとユーザーレビューによるアルゴリズム最適化|レビュー最適化の類似]]
-- [[A_ch0071_analogous_to_E_ch0071_サイバーカラテ_other_ユーザー_p2655_AppStoreのレビュー機能|アプリレビュー機能の模倣]]
-- [[A_ch0071_analogous_to_E_ch0071_サイバーカラテ道場_defines_本部_p2644_クラウドサーバー|クラウドサーバーの構造]]
-- [[A_ch0071_analogous_to_E_ch0071_ファイアーウォール_other_歌姫_p2637_SNSにおける炎上と応援コメントの対比|SNS炎上と応援対比]]
-- [[A_ch0071_analogous_to_E_ch0071_ミルーニャ_activates_命脈の呪石_p2641_スマートウォッチの生体認証|スマートウォッチ生体認証]]
-- [[A_ch0071_analogous_to_E_ch0071_ミルーニャ_other_サイバネティクス_p2645_技術移転規制|技術移転規制のメタファー]]
-- [[A_ch0071_analogous_to_E_ch0071_ミルーニャ_other_サイバネティクスとオカルティズム_p2645_VR／AR技術による身体拡張とゲームの没入感|VR/AR没入体験へのサイバネ転生]]
-- [[A_ch0071_analogous_to_E_ch0071_歌姫_other_ファイアーウォール_p2637_SNSのブロック機能・モデレーション|SNSブロック機能としての壁]]
-- [[A_ch0071_analogous_to_E_ch0071_歌姫_other_洗脳_p2638_アルゴリズムによる情報フィルタリング|アルゴリズム誘導による洗脳]]
-- [[A_ch0071_analogous_to_E_ch0071_歌姫_says_不死性_p2632_デジタル遺品・アバター|デジタル遺品による不死性]]
-- [[A_ch0071_analogous_to_E_ch0071_異界の黙示録_functions_as_銀河系の創造_p2635_グーテンベルク銀河系とインターネットの爆発的拡散|グーテンベルク銀河の情報爆発]]
-- [[A_ch0071_analogous_to_E_ch0071_異界の黙示録_other_銀河系_p2635_生成AIによるコンテンツ洪水|生成AIによるコンテンツ洪水]]
-- [[A_ch0071_analogous_to_E_ch0071_老女_fights_嫁_p2649_家族の絆と共同作業Co-opプレイ|家族Co-opによる共同戦線]]
-- [[A_ch0071_analogous_to_E_ch0071_青年_attacks_教会_p2650_宗教的トラウマとアンチ宗教運動|宗教的トラウマの破壊的解放]]
-- [[A_ch0071_analogous_to_E_ch0071_青年_other_礼拝堂_p2650_ネット上の匿名の暴走|ネット匿名性の暴走心理]]
-
-### 第七十二話：3-31　それは、世界がこんなにも光に満ち溢れているから
-
-- [[A_ch0072_alludes_to_E_ch0072_アキラ_other_斧槍_p2697_言語と身体性の関係サピア=ウォーフの仮説など|サピア＝ウォーフ仮説の身体化]]
-- [[A_ch0072_alludes_to_E_ch0072_アキラ_thinks_自己の本質_p2707_哲学的ゾンビ|哲学的ゾンビとしての自己定義]]
-- [[A_ch0072_analogous_to_E_ch0072_アキラ_uses_金鎖_p2697_スマホゲームのガチャ／アンロック|ガチャ・アンロック的な解放]]
-- [[A_ch0072_analogous_to_E_ch0072_クエスドレム_other_使い魔_p2684_トレーディングカードゲームTCG|TCG的な使い魔召喚]]
-- [[A_ch0072_analogous_to_E_ch0072_ナト_gives_神働装甲二型_p2674_開発現場の無茶な仕様変更|開発現場の無茶な仕様変更]]
-- [[A_ch0072_analogous_to_E_ch0072_リールエルバ_other_吸血鬼従者_p2688_SNSにおける承認欲求とフォロワー支配|SNS承認欲求による支配構造]]
-- [[A_ch0072_analogous_to_E_ch0072_歌姫_has_property_信仰による呪力増幅_p2663_アイドルのライブパフォーマンス|アイドルのライブパフォーマンス]]
-- [[A_ch0072_inverts_E_ch0072_プリエステラ_other_ベフォニスとの関係_p2670_ストックホルム症候群の逆転|逆ストックホルム]]
-- [[A_ch0072_structurally_matches_E_ch0072_フィリス_functions_as_歌姫の力の模倣_p2666_機械学習における模倣学習ImitationLearning|模倣学習]]
-
-### 第七十三話：3-32　澄明なる青空に
-
-- [[A_ch0073_analogous_to_E_ch0073_アズーリア_says_アストラル体_p2748_ui_metaphor|GUIとTUIの対比]]
-- [[A_ch0073_analogous_to_E_ch0073_アズーリア_says_二重スリット実験_p2755_quantum_superposition|量子重ね合わせ]]
-- [[A_ch0073_analogous_to_E_ch0073_アズーリア_uses_言理の妖精語りて曰く_p2765_meme_viral_spread|ミームの拡散]]
-- [[A_ch0073_analogous_to_E_ch0073_アズーリア_uses_連関合成_p2740_color_mixing|色混合]]
-- [[A_ch0073_analogous_to_E_ch0073_カイン_says_沼女現象_p2732_philosophical_zombie|哲学的ゾンビ]]
-- [[A_ch0073_analogous_to_E_ch0073_サイバーカラテ使い_other_呪文_p2767_open_source_development|オープンソース開発]]
-- [[A_ch0073_analogous_to_E_ch0073_マリー_uses_思考の根茎_p2747_neural_network|神経ネットワーク]]
-- [[A_ch0073_analogous_to_E_ch0073_ミルーニャ_uses_サイバーカラテアプリ_p2754_augmented_reality|拡張現実]]
-- [[A_ch0073_analogous_to_E_ch0073_ヲルヲーラ_threatens_人類_p2735_colonialism|植民地主義]]
-- [[A_ch0073_analogous_to_E_ch0073_世界槍_has_property_自己相似形_p2720_sierpinski_carpet|シェルピンスキーのギャスケット]]
-
-### 第七十四話：幕間　『特権者の英雄症候群、さもなくば――』
-
-- [[A_ch0074_alludes_to_E_ch0074_ズタークスターク_functions_as_哲学的ゾンビ_p2830_philosophical_zombie|クオリアなき哲学的ゾンビ]]
-- [[A_ch0074_alludes_to_E_ch0074_ソルダ_says_聖婚への期待_p2828_hieros_gamos|終末を演出する聖婚儀礼]]
-- [[A_ch0074_analogous_to_E_ch0074_センジュ_says_サイバーカラテ批判_p2804_metaheuristics|武術哲学を欠くメタヒューリスティクス]]
-- [[A_ch0074_analogous_to_E_ch0074_テッシトゥーラ_reveals_トライデントの細胞_p2793_symmetry_breaking|細胞席次に投影された対称性の破れ]]
-- [[A_ch0074_analogous_to_E_ch0074_ハルベルト_uses_異界の黙示録_p2788_meme_theory|精神支配を模倣するミーム感染]]
-- [[A_ch0074_analogous_to_E_ch0074_メイファーラ_says_細胞の序列_p2825_central_nervous_system|意味を脱構築する中枢神経系]]
-- [[A_ch0074_analogous_to_E_ch0074_ユネクティア_says_アストラル体と美食_p2784_cultural_capital|食文化ミームとしての文化資本]]
-- [[A_ch0074_inverts_E_ch0074_ユガーシャ_uses_竪琴_p2796_narrative_control|感情を制御する逆転の物語操作]]
-- [[A_ch0074_structurally_matches_E_ch0074_ユネクティア_reveals_トライデントの細胞構成_p2782_apocalypse_19_beasts|十九魔将に構造対応する細胞構成]]
-
-### 第七十五話：0-6　『第九魔将』
-
-- [[A_ch0075_alludes_to_E_ch0075_メイファーラ_defines_第九魔将_p2848_自己責任論・社会的孤立|規範外に追放された自己責任と孤立]]
-- [[A_ch0075_analogous_to_E_ch0075_エスフェイル_has_property_人狼_p2851_社会的マイノリティ・法適用除外|法適用除外マイノリティの苦難]]
-- [[A_ch0075_analogous_to_E_ch0075_カイン_says_心なき拳_p2836_技術の倫理・AIの倫理|倫理を欠いた技術の死]]
-- [[A_ch0075_analogous_to_E_ch0075_ジャッフハリム_has_property_いじめ_p2834_現代の学校いじめ・同調圧力|同調圧力に根治不能な学校いじめ]]
-- [[A_ch0075_analogous_to_E_ch0075_メイファーラ_other_偽り_p2847_ペルソナ・SNSでの自己演出|真実隠蔽によるペルソナ維持の負荷]]
-- [[A_ch0075_analogous_to_E_ch0075_メイファーラ_other_潜入設定_p2838_スパイ映画・潜入捜査|カバレッジ作成のスパイ映画]]
-- [[A_ch0075_analogous_to_E_ch0075_天獄_defines_恐怖による掌握_p2837_ブラック企業・資本主義の搾取構造|ブラック企業による恐怖支配]]
-
-### 第七十六話：3-33　黒血のハルベルト
-
-- [[A_ch0076_analogous_to_E_ch0076_アズーリア_says_マロゾロンドの危険性_p2853_メタフィクションの自己言及|メタフィクションの自己言及]]
-- [[A_ch0076_analogous_to_E_ch0076_アズーリア_thinks_二重スリット実験_p2865_量子力学の観測問題|量子力学の観測問題]]
-- [[A_ch0076_analogous_to_E_ch0076_サリア_says_コアへの嫉妬と不安_p2857_スマホ依存とSNSの通知|スマホ依存とSNS通知]]
-- [[A_ch0076_analogous_to_E_ch0076_リーナ_names_当主_p2860_現代の企業経営とコンプライアンス|企業経営とコンプライアンス]]
-- [[A_ch0076_analogous_to_E_ch0076_言理の妖精_appears_as_悪戯_p2864_プログラミングのバグとハッキング|バグとハッキング]]
-- [[A_ch0076_analogous_to_E_ch0076_食用奉仕種族_defines_食葬_p2861_安楽死と尊厳死|安楽死と尊厳死]]
-- [[A_ch0076_parodies_E_ch0076_アズーリア_thinks_自己同一性の危機_p2854_異世界転生におけるチート能力の希少性|転生チートの希少性]]
-- [[A_ch0076_parodies_E_ch0076_ヴァージリア_names_アクス_p2867_アイドル産業とコンテンツ化|アイドル産業のコンテンツ化]]
-- [[A_ch0076_structurally_matches_E_ch0076_アズーリア_has_property_ぎこちない身体_p2863_VRアバターと遅延|VRアバターと遅延]]
-
-## 第四章　傷つけるのはハートだけ、口づけるのは頬にだけ
-
-### 第七十七話：4-0　死人の森
-
-- [[A_ch0077_alludes_to_E_ch0077_ウィクトーリア_says_ママ_p2902_マタニティ・ホラー／母性恐怖|マタニティ・ホラー]]
-- [[A_ch0077_alludes_to_E_ch0077_カイン_has_property_人面疽_p2898_日本の怪談・人面疽|日本の怪談・人面疽]]
-- [[A_ch0077_alludes_to_E_ch0077_カイン_thinks_女王への憎悪_p2883_家父長制・ミソジニー|家父長制・ミソジニー]]
-- [[A_ch0077_alludes_to_E_ch0077_幻像_says_発気_p2877_相撲の決まり手|相撲の決まり手]]
-- [[A_ch0077_alludes_to_E_ch0077_猫の取り替え子_other_公社_p2881_ケルト神話のフェアリー・チェンジリング|フェアリー・チェンジリング]]
-
-### 第七十八話：4-1　道場
-
-- [[A_ch0078_alludes_to_E_ch0078_アキラ_names_師範代_p2911_総合格闘技のルール説明|総合格闘技ルールへの拡張]]
-- [[A_ch0078_analogous_to_E_ch0078_ちびシューラ_helps_アキラ_p2904_スマホゲームの自動戦闘機能|AI行動予測アルゴリズムのメタファー]]
-- [[A_ch0078_analogous_to_E_ch0078_サイバーカラテ_defines_インドアユーザー_p2908_クラウドファンディングやデータ提供による支援|データエコシステム構造の模倣]]
-- [[A_ch0078_analogous_to_E_ch0078_マラコーダ_has_property_美貌_p2909_アイドルやインフルエンサーの集客力|インフルエンサー集客構造の反映]]
-- [[A_ch0078_inverts_E_ch0078_カーイン_says_勝利確率_p2907_スポーツの勝率予測|データ分析逆説による運の強調]]
-- [[A_ch0078_parodies_E_ch0078_カーイン_has_property_光学幻像_p2903_格闘ゲームのヒットボックス隠し|格闘ゲームヒットボックス隠しの再現]]
-- [[A_ch0078_structurally_matches_E_ch0078_カーイン_has_property_情報的牽制_p2905_将棋の指し手による読み誘導|将棋の誘い手概念との一致]]
-
-### 第七十九話：4-2　風の吹く丘
-
-- [[A_ch0079_alludes_to_E_ch0079_トリシューラ_defines_機械が死ぬ戦争_p2919_無人兵器戦争と倫理的回避|無人兵器戦争の倫理ジレンマ]]
-- [[A_ch0079_alludes_to_E_ch0079_風の吹く丘_has_property_草の民の聖地_p2918_モンゴル帝国の草原と騎馬民族|モンゴル騎馬民族文化の移植]]
-- [[A_ch0079_analogous_to_E_ch0079_シアナ_has_property_概日リズム変化_p2913_現代の夜間勤務手当と労働法規|労働環境均一化概念のアナロジー]]
-- [[A_ch0079_analogous_to_E_ch0079_トリシューラ_makes_模擬戦争_p2919_プロレスや格闘技の興行|暴力興行化による緊張緩和構造]]
-- [[A_ch0079_analogous_to_E_ch0079_リーナ_says_経営の心得_p2916_現代の経営自己啓発書|経営自己啓発言説の構造反映]]
-- [[A_ch0079_foreshadows_E_ch0079_サリア_suspects_アキラ_p2921_コルセスカの過去とサリアの復讐|コルセスカ過去に関わる対立示唆]]
-- [[A_ch0079_inverts_E_ch0079_ラズリ_activates_天与の王権_p2932_占星術と王権神授説|王権神授説のゲーム的再構成]]
-- [[A_ch0079_parodies_E_ch0079_オカルティズム_functions_as_サイバネティクス代替_p2914_サイバーパンクにおける義体化と格差|義体化格差のオカルティズム転写]]
-- [[A_ch0079_parodies_E_ch0079_トリシューラ_attacks_ラズリ_p2926_ヤンデレ・独占欲の誇張|ヤンデレ独占欲の誇張]]
-- [[A_ch0079_structurally_matches_E_ch0079_アキラ_promises_束縛_p2927_自己責任論と過剰適応|自己責任と過剰適応]]
-
-### 第八十話：4-3　王国
-
-- [[A_ch0080_alludes_to_E_ch0080_トリシューラ_defeats_風の王_p2947_現代兵器による非対称戦争|非対称戦争の転写]]
-- [[A_ch0080_analogous_to_E_ch0080_アキラ_other_レゴン_p2935_クラウドデータ共有とアプリ連携|クラウド連携の模倣]]
-- [[A_ch0080_analogous_to_E_ch0080_トリシューラ_requires_女王の権威_p2948_国家承認と国際法上の正統性|国家承認の正統性]]
-- [[A_ch0080_analogous_to_E_ch0080_日本語_defines_流行言語_p2935_日本語のグローバル化と文化輸出|日本語の文化輸出]]
-- [[A_ch0080_analogous_to_E_ch0080_言語魔術師試験_defines_国際規格資格_p2941_国際資格試験とキャリアの階層化|国際資格の階層化]]
-- [[A_ch0080_inverts_E_ch0080_トリシューラ_defines_聖なるもの_p2944_自己責任論と交換可能性|自己責任と交換可能性の逆転]]
-- [[A_ch0080_parodies_E_ch0080_コルセスカ_other_トリシューラ_p2954_ペットの躾けと動物訓練|ペット躾けの戯画化]]
-- [[A_ch0080_structurally_matches_E_ch0080_リールエルバ_confesses_修道騎士襲撃の関与_p2939_政治的妥協と派閥闘争|政治的妥協と派閥闘争]]
-- [[A_ch0080_structurally_matches_E_ch0080_槍神教_other_吸血鬼_p2937_植民地支配における現地エリートへの同化政策|植民地支配の同化政策]]
-
-### 第八十一話：4-4　ダモクレスの剣
-
-- [[A_ch0081_alludes_to_E_ch0081_ダモクレスの剣_appears_巨大な剣_p2971_ダモクレスの剣|ダモクレスの剣の暗喩]]
-- [[A_ch0081_alludes_to_E_ch0081_六王_names_高位再生者_p2960_神話的系譜と王権|神話的系譜と王権]]
-- [[A_ch0081_analogous_to_E_ch0081_イアテム_uses_ウォーターカッター_p2980_現代工業技術の軍事転用|工業技術の軍事転用]]
-- [[A_ch0081_analogous_to_E_ch0081_ステージ_functions_as_呪力発生_p2959_コンテンツ産業と労働搾取|コンテンツ産業の労働搾取]]
-- [[A_ch0081_analogous_to_E_ch0081_セージ_uses_水流コンピュータ_p2982_量子コンピュータと流体計算|水流コンピュータによる流体計算の再解釈]]
-- [[A_ch0081_analogous_to_E_ch0081_トリシューラ_uses_指ミサイル_p2978_身体拡張と兵器化|指ミサイルによる身体拡張と兵器化]]
-- [[A_ch0081_inverts_E_ch0081_ファルファレロ_loves_セージ_p2990_S&M的関係の肯定|罵倒受容によるS&M関係の肯定]]
-- [[A_ch0081_structurally_matches_E_ch0081_イアテム_defeats_マレブランケ_p2985_ネットワークセキュリティの脆弱性|通信経路乗っ取りによるセキュリティ脆弱性]]
-
-### 第八十二話：4-5　工場
-
-- [[A_ch0082_alludes_to_E_ch0082_ダモクレスの剣_appears_天_p3011_ダモクレスの剣|天吊り剣によるダモクレスの剣の暗喩]]
-- [[A_ch0082_analogous_to_E_ch0082_カルカブリーナ_uses_サイバーカラテ_p2997_マルチツール・ギガチャット|サイバーカラテによるガチャ的マルチツール依存]]
-- [[A_ch0082_analogous_to_E_ch0082_トリシューラ_defines_王国の形をした祭壇_p2994_国家としての宗教法人|女王崇拝循環による国家型宗教法人]]
-- [[A_ch0082_analogous_to_E_ch0082_ロドウィ_uses_肉体言語_p3022_プラセボ効果・催眠術|肉体言語によるプラセボ効果の実体化]]
-- [[A_ch0082_analogous_to_E_ch0082_人造ホラー_appears_地下_p3025_メガコーポの軍事開発|使役型寄生異獣によるメガコーポ軍事開発]]
-- [[A_ch0082_analogous_to_E_ch0082_女性_uses_女の勘_p3008_認知バイアス・自己成就予言|女の勘による認知バイアスと自己成就予言]]
-- [[A_ch0082_analogous_to_E_ch0082_日本語_functions_as_暗号_p3001_プログラミング言語・暗号化技術|日本語多義性悪用による暗号化技術]]
-- [[A_ch0082_analogous_to_E_ch0082_牧場_has_property_家畜化された人間_p3018_非人道的な人体実験・強制労働|家畜化人間による非人道的人体実験]]
-- [[A_ch0082_inverts_E_ch0082_工員_makes_文化的活動_p2998_産業革命後の労働の分業|機械生産と人間文化活動の逆転分業]]
-- [[A_ch0082_parodies_E_ch0082_プロゲーマー_functions_as_呪力の発生源_p2999_現代のeスポーツ・プロスポーツ|プロゲーマー熱狂によるeスポーツ的呪力生成]]
-
-### 第八十三話：4-6　白骨迷宮
-
-- [[A_ch0083_alludes_to_E_ch0083_イェレイド_appears_少女の姿_p3057_クトゥルフ神話の恐怖|少女姿によるクトゥルフ神話的恐怖の具現化]]
-- [[A_ch0083_alludes_to_E_ch0083_クレイ_reveals_ダモクレスの剣_p3050_ダモクレスの剣|ダモクレスの剣による王座脅威]]
-- [[A_ch0083_analogous_to_E_ch0083_カルカブリーナ_has_property_過去_p3033_ゲームの最適解|感情排除のゲーム的最適解]]
-- [[A_ch0083_analogous_to_E_ch0083_トリシューラ_requires_誓約_p3064_利用規約への同意|アルゴリズム的自動執行システム]]
-- [[A_ch0083_analogous_to_E_ch0083_第五階層_has_property_物質創造能力_p3034_3Dプリンターによる生体維持|3Dプリントによる生体維持]]
-- [[A_ch0083_foreshadows_E_ch0083_ロドウィ_says_アニス_p3067_公社四姉妹の起源|公社四姉妹の起源の伏線]]
-- [[A_ch0083_inverts_E_ch0083_女性_other_クレイ_p3074_母性による支配|母性を装った支配構造]]
-- [[A_ch0083_parodies_E_ch0083_アキラ_defeats_ロドウィ_p3055_演武による精神攻撃|VR格闘ゲーム的認識ハッキング]]
-- [[A_ch0083_parodies_E_ch0083_バル・ア・ムント_has_property_分離能力_p3060_吸血鬼の弱点の逆転|吸血鬼弱点の戦術的逆転]]
-- [[A_ch0083_structurally_matches_E_ch0083_トリシューラ_other_アキラ_p3071_ペットと飼い主の支配関係|ペットと飼い主の支配関係]]
-
-### 第百十八話：断章　死人の森の断章8-6 女王と錬鉄者
-
-- [[A_ch0118_alludes_to_E_ch0118_アキラ_names_トバルカイン_p4162_tubal_cain_bible|聖書由来の兵器命名]]
-- [[A_ch0118_analogous_to_E_ch0118_グラッフィアカーネ_other_リニアモーターカー_p4152_maglev_train|リニア技術の兵器化]]
-- [[A_ch0118_analogous_to_E_ch0118_ケイト_defines_テセウスの船型サイボーグ_p4151_theseus_paradox|テセウスの船型サイボーグ]]
-- [[A_ch0118_analogous_to_E_ch0118_コルセスカ_activates_森羅万象型の浄界_p4138_video_game_logic|現実侵食のゲームロジック]]
-- [[A_ch0118_analogous_to_E_ch0118_力士_says_アキラへの否定_p4157_utilitarian_ethics_resource_allocation|転生資源の功利主義的配分]]
-- [[A_ch0118_analogous_to_E_ch0118_砂場_defines_世界槍内側の可塑性空間_p4124_sandbox_game_mechanics|改変可能なサンドボックス空間]]
-- [[A_ch0118_inverts_E_ch0118_コルセスカ_says_生への肯定_p4158_hedonism_vs_utilitarianism|快楽主義による功利主義否定]]
-- [[A_ch0118_parodies_E_ch0118_カニャッツォ_dies_復活_p4141_video_game_respawn_mechanic|無敵状態でのゲーム的復活]]
-- [[A_ch0118_parodies_E_ch0118_コルセスカ_activates_森羅万象型の浄界_p4138_gacha_game_loot_box|ガチャ的アイテムドロップ演出]]
-- [[A_ch0118_parodies_E_ch0118_トリシューラ_says_天気予報風呪文_p4125_weather_forecast_broadcast|戦闘実況の天気予報化]]
-
-### 第百四十三話：4-31　王と物乞い
-
-- [[A_ch0143_alludes_to_E_ch0143_アレッテ・イヴニル_attacks_少女たち_p4894_人形遣い_ギリシャ神話|運命の糸による主体性剥奪]]
-- [[A_ch0143_alludes_to_E_ch0143_オルヴァ_reveals_マラードの醜さ_p4889_ピグマリオン効果_心理学|信念による美の社会的構築]]
-- [[A_ch0143_alludes_to_E_ch0143_オルヴァ_says_運命の操り人形_p4873_運命の糸_ギリシャ神話|運命の糸による支配構造]]
-- [[A_ch0143_alludes_to_E_ch0143_バーガンディア_disappears_塔_p4882_ラプンツェル_グリム童話|塔幽閉のラプンツェル的悲劇]]
-- [[A_ch0143_alludes_to_E_ch0143_少女_appears_箒_p4893_魔女っ子アニメ_ジャンル|魔女っ子アニメのメタ介入]]
-
-### 第百四十七話：幕間　『死人の森の父』
-
-- [[A_ch0147_alludes_to_E_ch0147_カシュラム人の定義_ミーム_文化的アイデンティティ|ミームによる集合的アイデンティティ]]
-- [[A_ch0147_alludes_to_E_ch0147_都市の九つの病_公害病_環境汚染|都市の九つの病と公害批判]]
-- [[A_ch0147_analogous_to_E_ch0147_カーティスの群れ_クラウドソーシング_分散処理|クラウドソーシングへの群れ分散処理]]
-- [[A_ch0147_analogous_to_E_ch0147_サイバーカラテ道場_オンラインゲーム_ランキングシステム|オンラインゲームランキングの模倣]]
-- [[A_ch0147_inverts_E_ch0147_カーティスの模倣論_ディープフェイク_偽物の価値|ディープフェイクの境界消失の逆転]]
-- [[A_ch0147_parodies_E_ch0147_絶対美少女吸血姫神リールエルバ様教団_アイドルオタク文化_推し活|推し活文化への教団パロディ]]
-- [[A_ch0147_structurally_matches_E_ch0147_サリアのループ戦闘_ゲームの周回プレイ_セーブスロット|ゲーム周回プレイの構造対応]]
-
-### 第百七十二話：4-56　メスブタノパン/ブタノマンジュウ
-
-- [[A_ch0172_analogous_to_E_ch0172_ちびシューラ_other_風圧_p5724_アニメ的演出の物理法則無視|アニメ的物理法則無視の演出]]
-- [[A_ch0172_analogous_to_E_ch0172_ゼド_says_価値観_p5721_地下アイドル文化|地下アイドルの非経済的価値観]]
-- [[A_ch0172_analogous_to_E_ch0172_ゼド_says_判官贔屓_p5720_メタフィクション的ナラティブ補正|メタフィクション的ナラティブ補正]]
-- [[A_ch0172_analogous_to_E_ch0172_鎌鼬_says_サイカラ_p5733_キャラクター類型論|キャラクター類型論のメタ言及]]
-- [[A_ch0172_inverts_E_ch0172_リールエルバ_says_尊厳_p5737_美少女キャラクターの排泄タブー|美少女排泄タブーの尊厳再定義]]
-
-### 第百八十七話：幕間　終節：破『The Winddown Girl』
-
-- [[A_ch0187_alludes_to_E_ch0187_クルミ_asks_コズエ_p6211_フロイトのエロスとタナトス|フロイトのエロスとタナトス引用]]
-- [[A_ch0187_alludes_to_E_ch0187_クルミ_other_アイドルの性_p6210_アイドル業界の性的搾取・商品化|アイドル業界の性的搾取暗喩]]
-- [[A_ch0187_alludes_to_E_ch0187_コズエ_other_クルミの感情_p6206_ラカン鏡像段階・ナルシシズム|ラカン鏡像段階のナルシシズム]]
-- [[A_ch0187_analogous_to_E_ch0187_ラクルラール_other_秩序の乱れ_p6208_管理社会・監視社会|生体認証監視社会の暗示]]
-- [[A_ch0187_analogous_to_E_ch0187_ラクルラール_says_違法アプリ_p6204_現代の教育アプリ・AI学習|AI教育アプリの脅威の類似]]
-- [[A_ch0187_parodies_E_ch0187_コズエ_activates_ライフル_p6203_シューティングゲームのエイム|運命的な精度を持つシューティングゲームのエイム]]
-- [[A_ch0187_parodies_E_ch0187_射撃_transforms_流星_p6201_アイドルのライブ演出|戦闘をエンタメ化するアイドルのライブ演出]]
-
-## 第五章　そして夜が明けたあと、百億の怒り
-
-### 第百九十七話：5-0　エレクトラには向いてない
-
-- [[A_ch0197_alludes_to_E_ch0197_セインディアの博物城_appears_as_鳥籠_p6621_platos_cave_and_panopticon|知の閉鎖性を象徴するプラトンの洞窟とパノプティコン]]
-- [[A_ch0197_analogous_to_E_ch0197_父_reveals_融血呪の秘儀_p6624_alchemy_and_transmutation|血統の境界を越える錬金術と変容]]
-- [[A_ch0197_analogous_to_E_ch0197_秩序派の血統術師_defines_血統の配列_p6621_eugenics_and_genetic_engineering|人間改良を暗示する優生学と遺伝子工学]]
-- [[A_ch0197_inverts_E_ch0197_父_other_冒険と自由_p6623_hero_journey_call_to_adventure|社会から排除される英雄の旅の冒険への招待]]
-- [[A_ch0197_parodies_E_ch0197_父_promises_自由_p6625_fairy_tale_ending_and_royal_romance|虚構性が暴かれるおとぎ話のハッピーエンド]]
-- [[A_ch0197_structurally_matches_E_ch0197_母_other_父_p6624_greek_tragedy_matricide_and_revenge|復讐を果たせないギリシャ悲劇の母殺しと復讐]]
-
-### 第二百話：5-3　自称、幼馴染み
-
-- [[A_ch0200_alludes_to_E_ch0200_クナータ_other_祈祷_p6746_電気椅子|死を管理する装置としての電気椅子]]
-- [[A_ch0200_inverts_E_ch0200_ユディーア_other_人間形態_p6743_変身解除の苦痛|人間社会への復帰を伴う変身解除の苦痛]]
-- [[A_ch0200_parodies_E_ch0200_ユディーア_transforms_銀貨_p6732_ゲームのテクスチャ崩壊|存在の剥落を連想させるゲームのテクスチャ崩壊]]
-- [[A_ch0200_structurally_matches_E_ch0200_カーイン_reveals_角_p6737_悪魔憑き・変身|本性が暴かれる悪魔憑きと変身]]
-
-### 第二百二話：5-5　第一の誘拐
-
-- [[A_ch0202_alludes_to_E_p6777_norse_mythology_odin|北欧神話のオーディンとフレイヤの擬似神格]]
-- [[A_ch0202_alludes_to_E_p6788_greek_mythology_narcissus|美的全体主義を暗喩するギリシャ神話のナルシス]]
-- [[A_ch0202_alludes_to_E_p6800_divine_right_of_kings|階級社会を正当化する王権神授説]]
-- [[A_ch0202_analogous_to_E_p6780_cosplay_event|甲冑着用をロールプレイとして演出]]
-- [[A_ch0202_analogous_to_E_p6796_industrial_capitalism|再生者資源化による資本主義的搾取]]
-- [[A_ch0202_analogous_to_E_p6806_time_stop_ability|時間停止能力対決のメタゲーム]]
-- [[A_ch0202_foreshadows_E_p6783_memory_manipulation|聖女記憶書き換えの因果律操作示唆]]
-- [[A_ch0202_foreshadows_E_p6809_identity_mystery|顔なき敵の正体による認識覆し伏線]]
-- [[A_ch0202_inverts_E_p6786_causality_paradox|言語による現実規定の因果逆転]]
-- [[A_ch0202_parodies_E_p6777_gacha_game_tutorial|女神啓示のチュートリアル化メタ描写]]
-- [[A_ch0202_parodies_E_p6799_shooting_game_boss|虹犬貴婦人の弾幕攻撃模倣]]
-- [[A_ch0202_sublates_E_p6778_metafiction_plot_device|作劇上の逃げの自覚によるメタ構造]]
-- [[A_ch0202_sublates_E_p6804_body_horror|薔薇変容による美醜境界の曖昧化]]
-
-### 第二百十四話：5-12　万獣祭・開幕
-
-- [[A_ch0214_analogous_to_E_ch0214_セリアック＝ニアの衣装_functions_as_抗呪力と装甲強化_p7217_ファッションミームと機能性の融合|ファッションミームによるステータス上昇]]
-- [[A_ch0214_analogous_to_E_ch0214_マレブランケ_defines_ランク戦の相手_p7213_格闘ゲームのランクマッチ|祝祭期間の自由なランクマッチング]]
-- [[A_ch0214_analogous_to_E_ch0214_予選レース_functions_as_前座_p7219_バズり狙いのSNSコンテンツ|話題性重視の予選レース構造]]
-- [[A_ch0214_analogous_to_E_ch0214_予選参加者_appears_屋外特設会場_p7216_インディーゲーム開発者や同人作家の集まり|辺境参加者のインディー的挑戦]]
-- [[A_ch0214_inverts_E_ch0214_ティリビナ人の箒_is_made_of_木製_p7220_アナログ回帰やサステナビリティ|木製箒による非標準技術の潜在力]]
-- [[A_ch0214_parodies_E_ch0214_サイバーカラテ道場_functions_as_ストリートファイトの場_p7213_オンラインゲームのPvPランキング|eスポーツ観戦文化への風刺]]
-
-### 第二百二十話：5-18　緑の求婚
-
-- [[A_ch0220_alludes_to_E_ch0220_拳銃_appears_as_花_p7317_gun_flower_imagery|反戦アートガン・アンド・フラワー]]
-- [[A_ch0220_analogous_to_E_ch0220_ちびニア_appears_立体幻像_p7313_smartphone_notification_system|スマホ通知機能の模倣]]
-- [[A_ch0220_analogous_to_E_ch0220_ロードデンドロン_makes_動画_p7326_political_advertising_campaign|選挙CM的プロパガンダ戦]]
-- [[A_ch0220_inverts_E_ch0220_ちびニア_says_せーりゃくけっこん_p7325_romantic_comedy_trope|ラブコメクリシェの解体]]
-- [[A_ch0220_parodies_E_ch0220_ロードデンドロン_says_美しさと面白さ_p7319_modern_media_politics|ポピュリズム的支配戦略]]
-- [[A_ch0220_structurally_matches_E_ch0220_アイアンゴーレム_functions_as_化身_p7315_surveillance_state_infrastructure|監視社会の宗教的権威化]]
-
-### 第二百二十二話：5-20　転生都市と冥府システム
-
-- [[A_ch0222_alludes_to_E_ch0222_ハデス_disappears_魂_p7381_Greek_Mythology_Hades|ギリシャ神話ハデスの引用]]
-- [[A_ch0222_alludes_to_E_ch0222_精神加工_has_property_麻薬的な扱い_p7368_Drug_Control_Laws|薬物規制法の魔法体系投影]]
-- [[A_ch0222_analogous_to_E_ch0222_トランクケース_has_property_異常な軽さ_p7353_MacGuffin|ヒッチコック的マクガフィン]]
-- [[A_ch0222_inverts_E_ch0222_竜覚_other_カルカブリーナ_p7371_Gun_Regulation_Tropes|最強武器クリシェの逆転]]
-- [[A_ch0222_parodies_E_ch0222_地下アイドル空間_is_located_旧白骨迷宮_p7362_Idol_Otaku_Culture|冥界のアイドル文化消費]]
-- [[A_ch0222_structurally_matches_E_ch0222_ガロアンディアン主街区_defines_機能別モジュール_p7354_Urban_Planning_Zoning|時間軸による都市設計]]
-
-### 第二百二十五話：5-23　舞台裏の死角①
-
-- [[A_ch0225_alludes_to_E_ch0225_カーイン_other_全能者のパラドクス_p7438_全能者のパラドクス|全能者のパラドクス引用]]
-- [[A_ch0225_alludes_to_E_ch0225_楽園の抱擁_requires_個我の持続_p7442_精神論_根性論|根性論的ゲームメカニズム]]
-- [[A_ch0225_analogous_to_E_ch0225_ジャッフハリム_other_隠花族の隔離_p7440_カースト制度_不可触民|カースト制度への影の排除]]
-- [[A_ch0225_analogous_to_E_ch0225_運営シューラ_other_事後処理_p7435_ゲーム運営_バグ修正とモデレーション|ゲーム運営のバグ修正メタファー]]
-
-### 第二百二十六話：5-24　舞台裏の死角②
-
-- [[A_ch0226_alludes_to_E_ch0226_エリカ_says_動物の権利の欺瞞_p7452_Utilitarianism_vs_Animal_Rights|功利主義と動物権利の対立]]
-- [[A_ch0226_analogous_to_E_ch0226_掃除屋_observes_精霊_p7451_AR_SNS_Filter|ARフィルターによる現実選択]]
-- [[A_ch0226_inverts_E_ch0226_少年_has_property_邪視の才能_p7450_Toxic_Positivity|毒のポジティブシンキングの逆転]]
-- [[A_ch0226_parodies_E_ch0226_ちびシューラ_other_転生ランキング_p7457_MobileGame_Gacha|スマホガチャの商業設計風刺]]
-- [[A_ch0226_structurally_matches_E_ch0226_塗壁_other_ベフォニスの器_p7470_Possession_Possession|魂の所有権と器の交換]]
-
-### 第二百二十九話：5-27　舞台裏の死角⑤
-
-- [[A_ch0229_analogous_to_E_ch0229_エリカ_other_発勁用意_p7554_異国情緒の消費・オリエンタリズム|オリエンタリズムの記号化]]
-- [[A_ch0229_analogous_to_E_ch0229_エリカ_remembers_兄のテロリズム_p7544_植民地支配と独立運動|植民地支配と知識人の孤立]]
-- [[A_ch0229_analogous_to_E_ch0229_スーリウム_activates_反転する世界_p7586_世界観の反転・ユートピア／ディストピア|ユートピアのディストピア反転]]
-- [[A_ch0229_inverts_E_ch0229_エリカ_other_反意味の呪文_p7562_言語遊戯・矛盾の論理|言語遊戯と矛盾の論理]]
-- [[A_ch0229_parodies_E_ch0229_エリカ_activates_サイバーカラテ道場_p7553_現代のARゲーム・フィットネスアプリ|ARフィットネスアプリのUI模倣]]
-- [[A_ch0229_structurally_matches_E_ch0229_エリカ_other_ステレオタイプ_p7561_キャラクター対決・ステレオタイプの武器化|ステレオタイプの武器化]]
-
-### 第二百三十四話：5-31　本選開幕②
-
-- [[A_ch0234_alludes_to_E_ch0234_パーン_says_ダウザールへの挑発_p7691_聖書・コヘレトの言葉|コヘレトの言葉の虚無主義]]
-- [[A_ch0234_analogous_to_E_ch0234_ダウザール_appears_as_青い血液の群体_p7680_神話における原初の混沌|原初の混沌の視覚化]]
-- [[A_ch0234_analogous_to_E_ch0234_メートリアン_other_ウィズメモリー_p7705_アプリストアのレビュー文化|アプリレビュー文化への転生]]
-- [[A_ch0234_inverts_E_ch0234_エンハ_transforms_ナックス_p7688_異世界転生におけるチート能力|チート能力の残酷な逆転]]
-- [[A_ch0234_parodies_E_ch0234_シナモリアキラ_appears_as_ミーム_p7686_現代SNSのトレンドと炎上|SNS炎上文化のパロディ]]
-- [[A_ch0234_structurally_matches_E_ch0234_ミシャルヒ_other_カーズガン_p7685_政治的プロパガンダと祝祭|祝祭による政治的プロパガンダ]]
-
-### 第二百四十六話：5-43　ユディーア対チリアット②
-
-- [[A_ch0246_analogous_to_E_ch0246_キニス_appears_as_灰都の中心の幼子_p7997_child_as_symbol_of_nation|国家の象徴としての幼子]]
-- [[A_ch0246_analogous_to_E_ch0246_キュレーター_has_property_独自の裁量権_p7996_museum_curator_authority|学芸員のキュレーション権]]
-- [[A_ch0246_analogous_to_E_ch0246_ダーカンシェル_has_property_言語の剥奪と創造の権能_p7994_linguistic_determinism|言語決定論の権能]]
-- [[A_ch0246_analogous_to_E_ch0246_ペラティア展_functions_as_文化的死霊術_p7996_political_ideology_as_performance|政治イデオロギーの演出]]
-- [[A_ch0246_analogous_to_E_ch0246_ユディーア_thinks_カバーストーリー_p7997_cover_story_in_espionage|スパイのカバーストーリー]]
-- [[A_ch0246_analogous_to_E_ch0246_ユディーア_thinks_七情掌法_p7998_emotional_suppression_mechanism|感情抑制の人工的操作]]
-
-### 第二百五十四話：5-51　新時代の風
-
-- [[A_ch0254_analogous_to_E_p8153_media_modern_mass_media|マスコミによる権威継承]]
-- [[A_ch0254_analogous_to_E_p8153_zora_family_media_conglomerates|メディアコングロマリットの支配]]
-- [[A_ch0254_analogous_to_E_p8154_race_mechanics_sports_commentary_and_weather|気象条件による競技優位性]]
-- [[A_ch0254_analogous_to_E_p8156_hagless_isolation_political_ouster|政治的失脚と追放]]
-- [[A_ch0254_analogous_to_E_p8159_lina_heroism_manufactured_hero|メディアが作る英雄像]]
-- [[A_ch0254_analogous_to_E_p8160_circulation_of_power_feedback_loop_media_politics|メディアと政治の相互支配ループ]]
-- [[A_ch0254_analogous_to_E_p8161_cleansing_political_purge|大掃除を装った政治的粛清]]
-- [[A_ch0254_analogous_to_E_p8164_lina_puppet_figurehead_leader|空っぽな操り人形としての指導者]]
-- [[A_ch0254_analogous_to_E_p8165_populism_populism_politics|低俗なポピュリズムへの迎合]]
-- [[A_ch0254_analogous_to_E_p8166_lina_sacrifice_political_marriage|家柄維持のための政略結婚的犠牲]]
-- [[A_ch0254_analogous_to_E_p8169_rainbow_arch_mythological_archetypes|虹を神々の使いとする神話的型]]
-- [[A_ch0254_analogous_to_E_p8170_clan_reports_corporate_divisions|分家連携を模した企業部門構造]]
-- [[A_ch0254_analogous_to_E_p8172_reincarnation_detection_surveillance_state|魂の可視化による監視社会]]
-
-### 第二百五十八話：5-55　獣、森、洞窟
-
-- [[A_ch0258_alludes_to_E_ch0258_ユディーア_uses_霊媒としての振る舞い_p8241_シャーマニズムと儀礼的服従|霊媒による超越存在の制御]]
-- [[A_ch0258_analogous_to_E_ch0258_ハグレス_other_過去の封印_p8251_検閲と秩序維持のための抑圧|性欲の検閲と秩序維持の抑圧]]
-- [[A_ch0258_analogous_to_E_ch0258_レメス_defines_箒レース_p8242_生物学的決定論と競争原理|精子の競争を正当化する生物決定論]]
-- [[A_ch0258_inverts_E_ch0258_レメス_other_猫_p8246_神の権威と猫の独立性|猫の独立性による神権の逆転]]
-- [[A_ch0258_structurally_matches_E_ch0258_レメス_names_残る要素_p8242_性的象徴としての三段階構造|獣・森・洞窟の生殖メタファー構造]]
-
-### 第二百六十三話：5-60　①
-
-- [[A_ch0263_alludes_to_E_ch0263_ミブレル_other_自由の定義_p8322_sartre_freedom|依存を自由の自覚とする逆説]]
-- [[A_ch0263_inverts_E_ch0263_風の便り_other_父の情愛_p8329_emotional_manipulation|家督継承を強制する父の呪文]]
-- [[A_ch0263_parodies_E_ch0263_ミブレル_other_リーナの呪文_p8320_linguistic_performativity|言語遂行性パロディ]]
-
-### 第二百六十八話：5-65　③
-
-- [[A_ch0268_alludes_to_E_ch0268_エクリーオベレッカ_other_天の御殿_p8381_キリスト教_逆さ十字架のペトロ|逆さセフィラへの暗喩]]
-- [[A_ch0268_alludes_to_E_ch0268_キュトス_is_made_of_大地_p8379_ギリシャ神話_ウラノスとガイアの分離|天地分離神話の暗喩]]
-- [[A_ch0268_analogous_to_E_ch0268_ルスクォミーズ_other_可能性の減衰_p8379_量子力学_波動関数の収束|波動関数収束の類似]]
-- [[A_ch0268_inverts_E_ch0268_ミブリナ_other_光_p8381_ダンジョン探索_深層への降下|ダンジョン降下の逆転]]
-- [[A_ch0268_parodies_E_ch0268_パーン_other_ミブリナ_p8382_少年漫画_師弟関係の成長|師弟成長パロディ]]
-- [[A_ch0268_structurally_matches_E_ch0268_ミブリナ_thinks_無限の虚空_p8383_ゲーム_エンドコンテンツの無限回廊|無限回廊の構造対応]]
-
-### 第二百七十二話：5-69　永劫線セルアデス
-
-- [[A_ch0272_alludes_to_E_ch0272_セルアデス_defines_永劫線_p8447_アカーシャ・レコード|アカーシャ・レコード暗喩]]
-- [[A_ch0272_inverts_E_ch0272_融血呪_has_property_劣化した青い血_p8441_愛の融合|愛の融合の逆転]]

@@ -5,7 +5,7 @@ title: 武器取得の対価としての爪剥ぎ
 
 type: analytical_claim
 created: "2026-10-19"
-subject: "[[E_ch5188_ミルーニャ_other_自殺の黒槍_p236]]"
+subject: "[[E_ch5188_ミルーニャ_makes_自殺の黒槍_p236]]"
 predicate: structurally_matches
 object: "[[ME_身代金としての身体切断自己犠牲]]"
 epistemic_status: hypothesized

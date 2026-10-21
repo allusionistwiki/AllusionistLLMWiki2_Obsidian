@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 試験官の片割れ
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: 「悪くない目の付け所ね」
+- **unknown**: 「悪くない目の付け所ね」
 - **unknown**: 「悪くない目の付け所ね」
 
 <!-- /AUTO-GENERATED:speech -->

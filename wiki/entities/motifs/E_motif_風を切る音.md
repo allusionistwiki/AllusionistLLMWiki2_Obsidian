@@ -10,7 +10,7 @@ first_appearance: ch5577
 spoiler_after: ch5577
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 風を切る音
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 風を切る音が答えを記す。
+- **unknown**: 風を切る音が答えを記す。
 - **unknown**: 風を切る音が答えを記す。
 
 <!-- /AUTO-GENERATED:symbolic -->

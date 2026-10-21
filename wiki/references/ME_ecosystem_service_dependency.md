@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_ecosystem_service_dependency
 title: 生態系サービス依存
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "ecosystem_service_dependency"
 domain: "Contemporary Culture"

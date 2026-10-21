@@ -10,7 +10,7 @@ first_appearance: ch5581
 spoiler_after: ch5581
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 呪文竜の群れ
 
@@ -21,5 +21,7 @@ updated: '2026-10-19'
 
 - **unknown**: 呪文竜の群れが現れたのは天の御殿の遥か下方からだ。
 藍色の海にも無限の蒼穹にも思える情報の層は文字化けした雲に覆い隠されてその全容を掴むことさえできない。
+- **unknown**: 呪文竜の群れが現れたのは天の御殿の遥か下方からだ。
+- **unknown**: 呪文竜の群れが現れたのは天の御殿の遥か下方からだ。
 
 <!-- /AUTO-GENERATED:visual -->

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_オーブルディース・エジーメ・クロウサー
 type: entity
 subtype: character
 canonical_name: オーブルディース・エジーメ・クロウサー
-title: "オーブルディース・エジーメ・クロウサー"
+title: オーブルディース・エジーメ・クロウサー
 first_appearance: ch5574
 spoiler_after: ch5574
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # オーブルディース・エジーメ・クロウサー
@@ -29,3 +30,19 @@ created: "2026-09-30"
 - [[A_ch5574_alludes_to_E_ch5574_オーブルディース・エジーメ・クロウサー_names_冠聖堂_p17_Religious_Canonization|亡霊による王権叙任式]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『冠聖堂』オーブルディース・エジーメ・クロウサー。
+- **unknown**: 『冠聖堂』オーブルディース・エジーメ・クロウサー。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 周囲に無数の冠を浮かべ、王者たちに権威を授ける神々しき壮年の神官。
+- **unknown**: 周囲に無数の冠を浮かべ、王者たちに権威を授ける神々しき壮年の神官。
+
+<!-- /AUTO-GENERATED:visual -->

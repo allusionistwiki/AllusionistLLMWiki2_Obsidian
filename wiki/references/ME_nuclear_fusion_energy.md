@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_nuclear_fusion_energy
 title: 核融合エネルギー
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "nuclear_fusion_energy"
 domain: "Contemporary Culture"

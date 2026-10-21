@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # サンブル家の世界
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 絶対的に思えたサンブル家の世界が崩壊していく。意思と意思の激突は、そうして終わった。
+- **unknown**: 絶対的に思えたサンブル家の世界が崩壊していく。意思と意思の激突は、そうして終わった。
 - **unknown**: 絶対的に思えたサンブル家の世界が崩壊していく。意思と意思の激突は、そうして終わった。
 
 <!-- /AUTO-GENERATED:action -->

@@ -10,7 +10,7 @@ first_appearance: ch0211
 spoiler_after: ch0211
 document_status: active
 created: '2026-10-10'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 三匹の怪物
 
@@ -24,3 +24,11 @@ updated: '2026-10-19'
 - **unknown**: 三匹の怪物は理性を失ったかのようにのたうち回り、肉体を膨張させながら頭を振って暴れ狂う。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 三匹の怪物は理性を失ったかのようにのたうち回り、肉体を膨張させながら頭を振って暴れ狂う。
+- **unknown**: 三匹の怪物は理性を失ったかのようにのたうち回り、肉体を膨張させながら頭を振って暴れ狂う。
+
+<!-- /AUTO-GENERATED:action -->

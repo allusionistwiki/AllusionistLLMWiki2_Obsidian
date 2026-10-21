@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_fourth_wall_breaking
 title: 第四の壁破壊
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "fourth_wall_breaking"
 domain: "Contemporary Culture"

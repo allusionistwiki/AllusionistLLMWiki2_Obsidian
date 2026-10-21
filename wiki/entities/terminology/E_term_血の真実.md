@@ -10,7 +10,7 @@ first_appearance: ch5583
 spoiler_after: ch5583
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 血の真実
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 血の真実を知って、全てが終わった。
+- **unknown**: 血の真実を知って、全てが終わった。
 - **unknown**: 血の真実を知って、全てが終わった。
 
 <!-- /AUTO-GENERATED:action -->

@@ -10,7 +10,7 @@ first_appearance: ch5574
 spoiler_after: ch5574
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 巨大な腕
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: それらをまとめて巨大な鋼の腕と巨大な骨の腕が粉砕し、凌駕していく。
+- **unknown**: それらをまとめて巨大な鋼の腕と巨大な骨の腕が粉砕し、凌駕していく。
 - **unknown**: それらをまとめて巨大な鋼の腕と巨大な骨の腕が粉砕し、凌駕していく。
 
 <!-- /AUTO-GENERATED:action -->

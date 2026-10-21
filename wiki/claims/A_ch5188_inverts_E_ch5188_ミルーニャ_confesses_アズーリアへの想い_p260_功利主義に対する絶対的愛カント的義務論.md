@@ -5,7 +5,7 @@ title: 世界犠牲厭わぬ絶対的爱義務論
 
 type: analytical_claim
 created: "2026-10-19"
-subject: "[[E_ch5188_ミルーニャ_confesses_アズーリアへの想い_p260]]"
+subject: "[[E_ch5188_ミルーニャ_confesses_アズーリアへの愛_p260]]"
 predicate: inverts
 object: "[[ME_功利主義に対する絶対的愛カント的義務論]]"
 epistemic_status: hypothesized

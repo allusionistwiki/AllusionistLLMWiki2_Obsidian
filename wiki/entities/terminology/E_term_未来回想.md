@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_未来回想
 type: entity
 subtype: terminology
 canonical_name: 未来回想
-title: "未来回想"
+title: 未来回想
 first_appearance: ch0051
 spoiler_after: ch0051
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 未来回想
@@ -25,3 +26,12 @@ created: "2026-09-30"
 > 曰く、「さあさ、お立ち会い。これより演じますのは【未来回想】の物語、未だ誰も見たことのない、遠い先の物語にございます」（ch0094）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: それは『失敗した私』『何も出来なかった私』の最後の悪足掻きだった。
+未来の私は何も出来ずに終わることを良しとせず、あらゆる失敗の映像を見せて私により良い手段を選択させようとしたのだ。
+- **unknown**: それは『失敗した私』『何も出来なかった私』の最後の悪足掻きだった。
+
+<!-- /AUTO-GENERATED:symbolic -->

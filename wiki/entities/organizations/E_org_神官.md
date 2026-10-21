@@ -27,8 +27,8 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0043_structurally_matches_E_ch0043_神官_other_アズーリアへの攻略_p1834_組織の責任転嫁_若手への押し付け|組織の責任転嫁]]
-- [[A_ch0043_structurally_matches_E_ch0043_神官_uses_フォーク_p1822_ゲームの戦闘システム_即死演出|即死演出と吸収強化]]
+- A_ch0043_structurally_matches_E_ch0043_神官_other_アズーリアへの攻略_p1834_組織の責任転嫁_若手への押し付け（組織の責任転嫁）
+- A_ch0043_structurally_matches_E_ch0043_神官_uses_フォーク_p1822_ゲームの戦闘システム_即死演出（即死演出と吸収強化）
 
 <!-- AUTO:END -->
 

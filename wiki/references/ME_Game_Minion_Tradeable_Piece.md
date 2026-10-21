@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_Game_Minion_Tradeable_Piece
+title: 交換可能な駒
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "Game_Minion_Tradeable_Piece"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# Game_Minion_Tradeable_Piece
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5440_analogous_to_E_ch5440_マラコーダ_says_人形としての自覚_p47_Game_Minion_Tradeable_Piece]] — キャラクターが陣営間の交渉材料として「交換される駒」として扱われる、ゲーム的なメタ構造への自己認識。

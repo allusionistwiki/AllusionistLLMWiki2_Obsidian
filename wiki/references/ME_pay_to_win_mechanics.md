@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_pay_to_win_mechanics
 title: Pay-to-Win
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "pay_to_win_mechanics"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0008_structurally_matches_E_ch0008_アキラ_other_金の力_p362_pay_to_win_mechanics]] — アキラが「俺の強さとは即ち彼らの持っていない技術によるもので、換言すると金の力だ」と述べ、高額な閃光符を惜しみなく消費する戦法は、スマホゲームにおける「ガチャ」や「課金による戦力強化（Pay-to-Win）」の構造を異世界戦闘に適用したものである。
+- [[A_ch5114_structurally_matches_E_ch5114_アキラ_other_十三段目の足場_p157_pay_to_win_mechanics]] — 自らの死を代償として足場（有利な位置）を生成し、敵を処刑台へ追い込む展開は、リソース（命・HP）を消費して強力な効果を得るゲームの「課金・犠牲による勝利」メカニクスに構造的に一致する。

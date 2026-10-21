@@ -10,7 +10,7 @@ first_appearance: ch5586
 spoiler_after: ch5586
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # コルセーク
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 報われぬままに結実する、これは愛の物語』
+- **unknown**: 報われぬままに結実する、これは愛の物語』
 - **unknown**: 報われぬままに結実する、これは愛の物語』
 
 <!-- /AUTO-GENERATED:symbolic -->

@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5582_galzs_effort_legacy
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5582
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5582
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -23,4 +23,4 @@ provenance:
 
 > 見よう見まねの奥義を成功させた最終的な要因は、実のところ大半がガルズが生前に積み重ねていた血のにじむような努力のおかげだった。（p191）
 
-**審査（LLM 代替）**: 「ガルズの努力のおかげ」という記述は、死後の資産・遺産が今後の展開の基盤となる伏線として明確。
+**審査（LLM 代替）**: ガルズの死霊術と生前の努力が成功の「大半」を担ったという記述は、彼の遺産（資産・功績）が物語上の重要なリソースであることを明示しており、今後の展開における重要な伏線として機能している。

@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_菌輪門
 type: entity
 subtype: terminology
 canonical_name: 菌輪門
-title: "菌輪門"
+title: 菌輪門
 first_appearance: ch5581
 spoiler_after: ch5581
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 菌輪門
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 箒と乗り手が輪の門をくぐるたび、知らない世界の歌が響いてテキストベースの世界に速度をもたらす。エキゾチックエフェクト。理解できない未知こそが呪術だという前提が、知りたいという動機に牽引されて加速と可読で読者を前に押し出す。（ch5581）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 箒と乗り手が輪の門をくぐるたび、知らない世界の歌が響いてテキストベースの世界に速度をもたらす。エキゾチックエフェクト。理解できない未知こそが呪術だという前提が、知りたいという動機に牽引されて加速と可読で読者を前に押し出す。
+- **unknown**: 箒と乗り手が輪の門をくぐるたび、知らない世界の歌が響いてテキストベースの世界に速度をもたらす。エキゾチックエフェクト。理解できない未知こそが呪術だという前提が、知りたいという動機に牽引されて加速と可読で読者を前に押し出す。
+
+<!-- /AUTO-GENERATED:symbolic -->

@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 不屈の意思
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 不屈の意思こそが死霊術（ネクロマンシー）の本質だ。もう届かない徒花に、それでもと手を伸ばす。
+- **unknown**: 不屈の意思こそが死霊術（ネクロマンシー）の本質だ。もう届かない徒花に、それでもと手を伸ばす。
 - **unknown**: 不屈の意思こそが死霊術（ネクロマンシー）の本質だ。もう届かない徒花に、それでもと手を伸ばす。
 
 <!-- /AUTO-GENERATED:symbolic -->

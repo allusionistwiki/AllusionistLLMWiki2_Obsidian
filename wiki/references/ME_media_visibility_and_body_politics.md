@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_media_visibility_and_body_politics
 title: 可視性と身体政治
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "media_visibility_and_body_politics"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5585_analogous_to_E_p106_media_visibility_and_body_politics]] — ロードデンドロンが「水晶テレビに映れる身体」を渇望する発言は、メディア露出や社会的な可視性が人間の尊厳と権利の基準となる現代社会の構造を指している。
+- [[A_ch5585_analogous_to_E_p106_media_visibility_and_body_politics]] — ロードデンドロンが「水晶テレビに映れる身体」を渇望する発言は、視覚的メディアを通じた存在の可視化が権利と尊厳の基準となる社会構造に対する批判的メタファーを示している。

@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0012_analogous_to_E_ch0012_アキラ_uses_盤外の夜_p548_game_ai|ゲームAIによるチートの技術化]]
+- A_ch0012_analogous_to_E_ch0012_アキラ_uses_盤外の夜_p548_game_ai（ゲームAIによるチートの技術化）
 
 <!-- AUTO:END -->

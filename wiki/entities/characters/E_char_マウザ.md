@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_char_マウザ
 type: entity
 subtype: character
 canonical_name: マウザ
-title: "マウザ"
+title: マウザ
 first_appearance: ch5574
 spoiler_after: ch5574
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # マウザ
@@ -25,3 +26,14 @@ created: "2026-09-30"
 > マウザは異なる世界への永遠を幻視した。 異なる存在との感応と使役を試みた。（ch5574）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『死にたくない。死にたくない。死んでも生存を求めねばならない。生命は本能に従い、死と生を見つめながら死と生から目を逸らさねばならない。そうしなければ、我々は存在の意味に耐え切れずに発狂するしかない』
+- **unknown**: マウザは異なる世界への永遠を幻視した。
+異なる存在との感応と使役を試みた。
+- **unknown**: 『死にたくない。死にたくない。死んでも生存を求めねばならない。生命は本能に従い、死と生を見つめながら死と生から目を逸らさねばならない。そうしなければ、我々は存在の意味に耐え切れずに発狂するしかない』
+- **unknown**: マウザは異なる世界への永遠を幻視した。
+
+<!-- /AUTO-GENERATED:speech -->

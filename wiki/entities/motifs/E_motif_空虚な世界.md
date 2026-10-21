@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 空虚な世界
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: しかし空虚な世界はほつれ、ちぎれ、破綻しながら焼け焦げていく。
+- **unknown**: しかし空虚な世界はほつれ、ちぎれ、破綻しながら焼け焦げていく。
 - **unknown**: しかし空虚な世界はほつれ、ちぎれ、破綻しながら焼け焦げていく。
 
 <!-- /AUTO-GENERATED:action -->

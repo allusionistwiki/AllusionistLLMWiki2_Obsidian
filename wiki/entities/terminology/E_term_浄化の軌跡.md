@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 浄化の軌跡
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
+- **unknown**: 壊れゆく世界を塗り替えていくのは浄化の軌跡。
+- **unknown**: 壊れゆく世界を塗り替えていくのは浄化の軌跡。
 - **unknown**: 壊れゆく世界を塗り替えていくのは浄化の軌跡。
 
 <!-- /AUTO-GENERATED:action -->

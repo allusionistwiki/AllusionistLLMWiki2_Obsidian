@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_org_仲間たち
 type: entity
 subtype: organization
 canonical_name: 仲間たち
-title: "仲間たち"
+title: 仲間たち
 first_appearance: ch0175
 spoiler_after: ch0175
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 仲間たち
@@ -25,3 +26,23 @@ created: "2026-09-30"
 > 「みんなで、現在（いま）を変えるんだ。みんなに不条理を押し付けてくる世界に。弱者だからっていいようにされてしまうなら、みんなで一緒に強者になろう」 白百合の子供たちは、そうしてティリビナ同胞団になった。（ch5583）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「私たちは仲間。砂漠みたいな孤独を抱えた、ティリビナの同胞だ」
+- **unknown**: 「私たちは仲間。砂漠みたいな孤独を抱えた、ティリビナの同胞だ」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: スーリウムとの激論を、仲間たちにも熱い想いを込めて伝える。
+共有する未来と過去への怒りは同じだ。
+- **unknown**: 「みんなで、現在（いま）を変えるんだ。みんなに不条理を押し付けてくる世界に。弱者だからっていいようにされてしまうなら、みんなで一緒に強者になろう」
+白百合の子供たちは、そうしてティリビナ同胞団になった。
+- **unknown**: スーリウムとの激論を、仲間たちにも熱い想いを込めて伝える。
+- **unknown**: 「みんなで、現在（いま）を変えるんだ。みんなに不条理を押し付けてくる世界に。弱者だからっていいようにされてしまうなら、みんなで一緒に強者になろう」
+
+<!-- /AUTO-GENERATED:action -->

@@ -10,7 +10,7 @@ first_appearance: ch5578
 spoiler_after: ch5578
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 教育
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
+- **unknown**: 教育はその遥か手前から思考の基礎を改竄する『正統な知識の支配』だ。
+- **unknown**: 教育はその遥か手前から思考の基礎を改竄する『正統な知識の支配』だ。
 - **unknown**: 教育はその遥か手前から思考の基礎を改竄する『正統な知識の支配』だ。
 
 <!-- /AUTO-GENERATED:symbolic -->

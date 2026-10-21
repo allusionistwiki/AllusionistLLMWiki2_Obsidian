@@ -10,7 +10,7 @@ spoiler_after: ch0188
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # 学院
@@ -35,3 +35,11 @@ updated: '2026-10-19'
 - **unknown**: 槍船は迎え入れるように『門』を開いた学院の中に、一気に穂先を挿入した。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「お前たちの自我は脆く未成熟だ。社会に砕かれて心臓が止まってしまわないように、学院という殻で守る必要がある」
+- **unknown**: 「お前たちの自我は脆く未成熟だ。社会に砕かれて心臓が止まってしまわないように、学院という殻で守る必要がある」
+
+<!-- /AUTO-GENERATED:speech -->

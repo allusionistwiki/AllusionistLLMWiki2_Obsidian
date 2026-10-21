@@ -1,6 +1,6 @@
 ---
-title: "古き神"
-schema_version: "5.1"
+title: 古き神
+schema_version: '5.1'
 id: E_term_古き神
 type: entity
 subtype: terminology
@@ -9,7 +9,8 @@ first_appearance: ch0051
 spoiler_after: ch0051
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 古き神
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > フィリスに浸食されたぶんは巻き戻らないんだから。特異点としての性質が強まるから僕から力を引き出しやすくなるけど、他の神格からも干渉されやすくなるってことも覚えておいてくれよ。（ch0051）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 大神院が天使と規定し、古くは神と呼ばれていたもの。
+- **unknown**: 大神院が天使と規定し、古くは神と呼ばれていたもの。
+
+<!-- /AUTO-GENERATED:speech -->

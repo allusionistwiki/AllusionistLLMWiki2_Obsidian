@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_fairy_tale_marriage_plot
+title: 童話的結婚プロット
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "fairy_tale_marriage_plot"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# fairy_tale_marriage_plot
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5305_parodies_E_omamagoto_play_fairy_tale_marriage_plot]] — 「おままごと」としての恋物語の演出は、伝統的な童話や演劇における「結婚で幕を閉じる」構造を意図的に子供じみた形で模倣し、その残酷さを強調する。

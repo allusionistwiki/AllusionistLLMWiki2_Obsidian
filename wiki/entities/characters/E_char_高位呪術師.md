@@ -1,6 +1,6 @@
 ---
-title: "高位呪術師"
-schema_version: "5.1"
+title: 高位呪術師
+schema_version: '5.1'
 id: E_char_高位呪術師
 type: entity
 subtype: character
@@ -9,7 +9,8 @@ first_appearance: ch0015
 spoiler_after: ch0015
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 高位呪術師
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 世界中とまではいわずとも、この広い迷宮都市のどこかにはとびきりの突然変異である君に教えられる高位呪術師がいるかもしれない。探して、教えを請うてみてはどうかな（ch0031）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ちびセスカを始めとした一部の高位呪術師は、今起きている現象が何なのかを漠然とではあるが理解しつつあった。これは言語魔術師が得意とする現実の――あるいは過去の改竄だ。
+- **unknown**: ちびセスカを始めとした一部の高位呪術師は、今起きている現象が何なのかを漠然とではあるが理解しつつあった。これは言語魔術師が得意とする現実の――あるいは過去の改竄だ。
+
+<!-- /AUTO-GENERATED:action -->

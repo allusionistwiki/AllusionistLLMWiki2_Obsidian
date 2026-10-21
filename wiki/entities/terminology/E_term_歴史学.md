@@ -1,0 +1,26 @@
+---
+schema_version: '5.1'
+id: E_term_歴史学
+type: entity
+title: 歴史学
+subtype: terminology
+canonical_name: 歴史学
+aliases: []
+first_appearance: ch5508
+spoiler_after: ch5508
+document_status: active
+created: '2026-10-21'
+updated: '2026-10-21'
+---
+# 歴史学
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 歴史学、文献学、考古学といった杖の視座に基づく硬質な歴史は、運命や自然現象が擬人化され神が跋扈し偉人がキャラクター化する物語と等価なものとして位置付けられる。
+虚構や幻想は形を持つ。それが語られることで実際に過去に息づくようになるのであれば、それもまた歴史に等しい重みを持つ正しい過去だ。
+- **unknown**: 歴史学、文献学、考古学といった杖の視座に基づく硬質な歴史は、運命や自然現象が擬人化され神が跋扈し偉人がキャラクター化する物語と等価なものとして位置付けられる。
+
+<!-- /AUTO-GENERATED:symbolic -->

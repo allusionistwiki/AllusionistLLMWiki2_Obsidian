@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_encrypted_communication_protocol
+title: 暗号化通信プロトコル
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "encrypted_communication_protocol"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# encrypted_communication_protocol
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5429_analogous_to_E_ch5429_チョコレートリリー空組_uses_圧縮言語猫語_p64_encrypted_communication_protocol]] — 思念通信における「圧縮言語（猫語）」は、暗号化されたプロトコルによるセキュリティ確保と意思疎通の難易度を象徴する。

@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0074_inverts_E_ch0074_ユガーシャ_uses_竪琴_p2796_narrative_control|感情を制御する逆転の物語操作]]
+- A_ch0074_inverts_E_ch0074_ユガーシャ_uses_竪琴_p2796_narrative_control（感情を制御する逆転の物語操作）
 
 <!-- AUTO:END -->
 

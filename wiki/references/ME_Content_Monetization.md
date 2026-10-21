@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_Content_Monetization
+title: コンテンツ課金化
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "Content_Monetization"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# Content_Monetization
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5095_analogous_to_E_5095_Carain_Paywall_Content_Monetization]] — 戦闘行為が「有料動画」として消費され、敵対者が顧客となる構造は、暴力のコンテンツ化および観客との経済的関係性という現代のエンタメ産業のメタファーを内包している。

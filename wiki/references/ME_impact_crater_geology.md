@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_impact_crater_geology
+title: 隕石衝突クレーター
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "impact_crater_geology"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# impact_crater_geology
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5260_analogous_to_E_p152_impact_crater_geology]] — 巨大質量の落下による地殻変動とマグマ噴出は、隕石衝突クレーターの形成過程をそのまま記述した物理現象である。

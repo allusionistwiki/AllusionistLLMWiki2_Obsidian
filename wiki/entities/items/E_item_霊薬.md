@@ -10,7 +10,7 @@ spoiler_after: ch0085
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 
 # 霊薬
@@ -44,3 +44,11 @@ updated: '2026-10-19'
 - **unknown**: 依存性が高く、特定の夢を見せることができるらしい。得られた証言はこうだ。『森の奥でママが待ってる』
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 彼女が厳格に管理する霊薬が注射針を伝ってリーナの腕に浸透していくと同時、どくんと心臓の音が鳴り響いて全身の『血』に満ちた呪力が活発化する。
+- **unknown**: 彼女が厳格に管理する霊薬が注射針を伝ってリーナの腕に浸透していくと同時、どくんと心臓の音が鳴り響いて全身の『血』に満ちた呪力が活発化する。
+
+<!-- /AUTO-GENERATED:action -->

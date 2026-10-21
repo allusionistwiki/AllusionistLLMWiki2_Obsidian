@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_online_exam_platforms
 title: 自動試験システム
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "online_exam_platforms"
 domain: "Contemporary Culture"

@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_admin_privileges_sudo
 title: 管理者特権
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "admin_privileges_sudo"
 domain: "Contemporary Culture"

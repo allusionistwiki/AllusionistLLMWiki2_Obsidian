@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5579_Karin_Assassination_Conspiracy
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5579
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5579
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -23,4 +23,4 @@ provenance:
 
 > その事件とは四十四士がひとり、『芸術道化』カーインの裏切り。彼には聖妃レストロオセ暗殺の嫌疑がかけられており、現在は逃亡中です。（p62）
 
-**審査（LLM 代替）**: 引用は原文に存在し（verified: true）、カーインの暗殺未遂嫌疑と逃亡という事実を正確に記述しており、謎として成立している。
+**審査（LLM 代替）**: カーインによる暗殺未遂（嫌疑）と逃亡が事実として記述されており、その真相と第五階層への関連性が未解明な状況で「謎」として機能している。

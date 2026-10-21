@@ -1,7 +1,7 @@
 ---
 schema_version: "5.1"
 id: A_ch5588_alludes_to_E_p13-p15_god_view_in_games
-title: ゲーム内神モードによる物理介入
+title: 神視点デベロッパーモードの干渉
 
 type: analytical_claim
 created: "2026-10-19"

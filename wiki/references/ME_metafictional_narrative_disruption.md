@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_metafictional_narrative_disruption
+title: 結末の破壊介入
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "metafictional_narrative_disruption"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# metafictional_narrative_disruption
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5279_alludes_to_E_ch5279_ケイト_other_劇_p27_metafictional_narrative_disruption]] — 物語の結末（ハッピーエンド）を『断章』というメタ的なアイテムで破壊しようとする行為は、フィクション内での物語構造への介入・改変を試みるメタフィクション的展開である。

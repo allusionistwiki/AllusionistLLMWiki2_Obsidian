@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_semiotics_text_world
 title: 記号論的世界観
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "semiotics_text_world"
 domain: "Contemporary Culture"

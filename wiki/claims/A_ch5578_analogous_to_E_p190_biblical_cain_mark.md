@@ -4,7 +4,7 @@ id: A_ch5578_analogous_to_E_p190_biblical_cain_mark
 title: カインの印とマイノリティ烙印
 
 type: analytical_claim
-created: "2026-10-19"
+created: "2026-10-21"
 subject: "[[E_ch5578_リーナ_learns_並行矛盾史_p10]]"
 predicate: analogous_to
 object: "[[ME_biblical_cain_mark]]"
@@ -15,13 +15,13 @@ spoiler_after: ch5578
 evidence_strength: moderate
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# カインへの「ティリビナ人」という一文の追加要求は、聖書のカインが記される際の『印（mark）』の概念と重なり、マイノリティとしての烙印やアイデンティティの強制を想起させる。
+# カインへの属性追加要求は、歴史的記述において特定の属性（他者性）を付与・固定化することによるアイデンティティの政治的支配を示唆している。
 
 > 二大勢力で別々の言い伝えを持つこの人物に対する歴史的記述に、『ティリビナ人』という一文を付け加えて下さい（p190）
 
-**審査（LLM 代替）**: カインに「ティリビナ人」という属性を追加する要求は、聖書のカインの「印」のように他者によるアイデンティティの強制・烙印を想起させる重要なメタファーである。
+**審査（LLM 代替）**: 「カイン」という名前と「印（mark）」の関連は示唆的だが、引用文は単に「歴史的記述への一文追加」を求めているのみであり、聖書のカインの『印』との直接的なアナロジーは原文から読みすぎている。アイデンティティの政治的強制という範囲に留めるべき。

@@ -26,7 +26,7 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0073_analogous_to_E_ch0073_アズーリア_says_二重スリット実験_p2755_quantum_superposition|量子重ね合わせ]]
-- [[A_ch0076_analogous_to_E_ch0076_アズーリア_thinks_二重スリット実験_p2865_量子力学の観測問題|量子力学の観測問題]]
+- A_ch0073_analogous_to_E_ch0073_アズーリア_says_二重スリット実験_p2755_quantum_superposition（量子重ね合わせ）
+- A_ch0076_analogous_to_E_ch0076_アズーリア_thinks_二重スリット実験_p2865_量子力学の観測問題（量子力学の観測問題）
 
 <!-- AUTO:END -->

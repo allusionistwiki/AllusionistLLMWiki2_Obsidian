@@ -10,7 +10,7 @@ first_appearance: ch5578
 spoiler_after: ch5578
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # デマゴギー
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
+- **unknown**: デマゴギーやプロパガンダの風聞は世界を変容させる劇物である。
+- **unknown**: デマゴギーやプロパガンダの風聞は世界を変容させる劇物である。
 - **unknown**: デマゴギーやプロパガンダの風聞は世界を変容させる劇物である。
 
 <!-- /AUTO-GENERATED:speech -->

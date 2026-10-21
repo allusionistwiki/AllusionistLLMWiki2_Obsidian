@@ -10,7 +10,7 @@ first_appearance: ch5577
 spoiler_after: ch5577
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 雲
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 各々の目の前に浮かんだ雲が文字と数字を形作る。
+- **unknown**: 各々の目の前に浮かんだ雲が文字と数字を形作る。
 - **unknown**: 各々の目の前に浮かんだ雲が文字と数字を形作る。
 
 <!-- /AUTO-GENERATED:visual -->

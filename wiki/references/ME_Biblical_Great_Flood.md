@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_Biblical_Great_Flood
+title: 大洪水
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "Biblical_Great_Flood"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# Biblical_Great_Flood
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5440_alludes_to_E_ch5440_世界_transforms_リセット_p84_Biblical_Great_Flood]] — 世界の再構築過程が、聖書におけるノアの洪水のような「神々の怒りによる文明の粉砕と再生」を模している。

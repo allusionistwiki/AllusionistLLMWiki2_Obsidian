@@ -1,26 +1,27 @@
 ---
-schema_version: '5.1'
+schema_version: "5.1"
 id: E_term_黒い影
 type: entity
-title: 黒い影
 subtype: terminology
 canonical_name: 黒い影
-aliases: []
-first_appearance: ch0169
-spoiler_after: ch0169
+title: "黒い影"
+first_appearance: ch5077
+spoiler_after: ch5077
 document_status: active
-created: '2026-10-10'
-updated: '2026-10-19'
+review_status: llm_verified
+created: "2026-09-30"
 ---
+
 # 黒い影
 
-（本文：人間が記述する部分。自動生成では変更されません。）
+皺の多い矮躯で眼が爛々と光る悪鬼の大集団を指す。夜な夜な襲来し、殺戮と生き残りの遊戯という試練を開始させる正体不明の存在として描かれる。
 
-<!-- AUTO-GENERATED:action -->
-## 行動・動作
+<!-- AUTO:BEGIN -->
+**初出**: ch5077 ｜ **観測イベント**: 2 件（2 話に出現）
 
-- **unknown**: 夜な夜な襲い来る正体不明の黒い影。
-- **unknown**: 夜な夜な襲い来る正体不明の黒い影。
-- **unknown**: 夜な夜な襲い来る正体不明の黒い影。
+## 代表引用
 
-<!-- /AUTO-GENERATED:action -->
+> 皺の多い矮躯。爛々と光る眼に憎悪を湛えて、仇敵を引き裂かんと唸り声を上げる大集団。（ch5077）
+> 夜な夜な襲い来る正体不明の黒い影。（ch5404）
+
+<!-- AUTO:END -->

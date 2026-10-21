@@ -28,11 +28,11 @@ pipeline:
 # リポジトリ構成（v5.2 分離: vault + work、相互コミット参照で整合）
 repos:
   vault: "."                              # 本リポジトリ（AllusionistLLMWiki2）
-  work: "../AllusionistLLMWiki2_Work"    # 作業派生物リポジトリ（archive; 書込み禁止）
+  work: "C:/Users/d5dx/AppData/Local/hermes/profiles/awiki2/cache/scratch/kaku3_work"    # ③全589話再生成 space（non-git; 5001..5589）
 
 paths:
   raw: "raw"
-  work: "../AllusionistLLMWiki2_Work"    # 第1層 events/・第2層 staging/・reports/・search/
+  work: "C:/Users/d5dx/AppData/Local/hermes/profiles/awiki2/cache/scratch/kaku3_work"    # ③全589話再生成 space
   vault: "wiki"
   schemas: "schemas"
 

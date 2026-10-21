@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_political_faction_names
 title: 教科書団体命名
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "political_faction_names"
 domain: "Contemporary Culture"

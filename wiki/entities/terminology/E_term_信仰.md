@@ -1,15 +1,16 @@
 ---
-schema_version: "5.1"
+schema_version: '5.1'
 id: E_term_信仰
 type: entity
 subtype: terminology
 canonical_name: 信仰
-title: "信仰"
+title: 信仰
 first_appearance: ch0069
 spoiler_after: ch0069
 document_status: active
 review_status: llm_verified
-created: "2026-09-30"
+created: '2026-09-30'
+updated: '2026-10-21'
 ---
 
 # 信仰
@@ -25,3 +26,11 @@ created: "2026-09-30"
 > 劣化した偽物ではあるが、世界槍には全てがあった。 信仰という心の寄る辺。（ch0265）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: ブレイスヴァの前では、幸福に添い遂げることも、不貞と裏切りと暴虐で全てを台無しにすることも、ひとつの信仰の形である。
+- **unknown**: ブレイスヴァの前では、幸福に添い遂げることも、不貞と裏切りと暴虐で全てを台無しにすることも、ひとつの信仰の形である。
+
+<!-- /AUTO-GENERATED:speech -->

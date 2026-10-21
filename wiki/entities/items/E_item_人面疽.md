@@ -27,7 +27,7 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0077_alludes_to_E_ch0077_カイン_has_property_人面疽_p2898_日本の怪談・人面疽|日本の怪談・人面疽]]
+- A_ch0077_alludes_to_E_ch0077_カイン_has_property_人面疽_p2898_日本の怪談・人面疽（日本の怪談・人面疽）
 
 <!-- AUTO:END -->
 

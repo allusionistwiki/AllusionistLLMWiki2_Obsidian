@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_open_source_software_movement
 title: オープンソース運動
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "open_source_software_movement"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch0047_analogous_to_E_ch0047_ミルーニャ_says_オープンソース_p1917_open_source_software_movement]] — ミルーニャの「あらゆる呪術はオープンソースであるべき」という主張は、現代のソフトウェアにおけるオープンソース運動（GPL等）の思想と構造的に一致する。
+- [[A_ch5225_analogous_to_E_ch5225_アズーリア_other_月の歌姫への祈り_p23_open_source_software_movement]] — 「あらゆる呪術はオープンソースであるべきです！」というミルーニャの主張と、それに対するハルベルトの「神秘であるべき」という対立は、現代におけるオープンソースソフトウェア運動（情報の自由な共有と改良）と、知的財産権やブラックボックス技術による価値維持（秘密主義・プロプライエタリ）との間の哲学的・実務的葛藤を反映している。

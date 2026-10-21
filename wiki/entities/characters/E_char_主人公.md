@@ -30,8 +30,8 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0055_analogous_to_E_ch0055_主人公_loses_ベアトリーチェ_p2109_language_loss_trauma|言語喪失トラウマ]]
-- [[A_ch0055_analogous_to_E_ch0055_主人公_thinks_色の違い_p2112_qualia_problem|クオリア問題への不安]]
+- A_ch0055_analogous_to_E_ch0055_主人公_loses_ベアトリーチェ_p2109_language_loss_trauma（言語喪失トラウマ）
+- A_ch0055_analogous_to_E_ch0055_主人公_thinks_色の違い_p2112_qualia_problem（クオリア問題への不安）
 
 <!-- AUTO:END -->
 

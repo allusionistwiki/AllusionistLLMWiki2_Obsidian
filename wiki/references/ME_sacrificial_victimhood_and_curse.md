@@ -3,7 +3,7 @@ schema_version: "5.1"
 id: ME_sacrificial_victimhood_and_curse
 title: 被害者の呪い
 type: external_reference
-created: "2026-10-19"
+created: "2026-10-21"
 subtype: popular_culture
 canonical_name: "sacrificial_victimhood_and_curse"
 domain: "Contemporary Culture"
@@ -18,4 +18,4 @@ review_status: llm_verified
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5585_structurally_matches_E_p86_sacrificial_victimhood_and_curse]] — キノコ人たちの「感謝」と「呪い」の混在は、被害者の絶望が加害者への非対称な報復（呪詛）として機能する悲劇的構造を示している。
+- [[A_ch5585_structurally_matches_E_p86_sacrificial_victimhood_and_curse]] — キノコ人たちが破滅を願いながら呪いを贈る様子は、犠牲者が自らの死を介して加害者に不可逆な「業」を負わせるという、被害者の主体性が逆転する悲劇的構造を示している。

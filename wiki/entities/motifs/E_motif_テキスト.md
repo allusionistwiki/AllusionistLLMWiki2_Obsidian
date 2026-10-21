@@ -10,7 +10,7 @@ first_appearance: ch5587
 spoiler_after: ch5587
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # テキスト
 
@@ -22,5 +22,7 @@ updated: '2026-10-19'
 - **unknown**: そして、テキストがかき回される。
 教科書の記述が塗り替えらえるように。
 絶対なる権力が、『虐殺』の文字を拾い上げた。
+- **unknown**: そして、テキストがかき回される。
+- **unknown**: そして、テキストがかき回される。
 
 <!-- /AUTO-GENERATED:symbolic -->

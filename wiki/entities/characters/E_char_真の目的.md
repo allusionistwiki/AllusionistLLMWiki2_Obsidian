@@ -26,6 +26,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_真の目的_p1592_defiance_of_fate|運命論への反抗と死の克服]]
+- A_ch0037_analogous_to_E_ch0037_ミルーニャ_reveals_真の目的_p1592_defiance_of_fate（運命論への反抗と死の克服）
 
 <!-- AUTO:END -->

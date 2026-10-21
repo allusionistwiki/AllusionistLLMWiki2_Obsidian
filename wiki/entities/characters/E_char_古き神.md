@@ -30,10 +30,10 @@ updated: '2026-10-19'
 
 ## 関連クレーム
 
-- [[A_ch0051_alludes_to_E_ch0051_古き神_names_アズーリア_p2010_メシア|メシア概念の管理者権限変換]]
-- [[A_ch0051_inverts_E_ch0051_サリア_says_古き神_p2018_神託|神託の絶対性への逆転]]
-- [[A_ch0051_parodies_E_ch0051_古き神_says_あり得ない手_p2009_攻略法|詰み状態の裏技攻略法]]
-- [[A_ch0051_structurally_matches_E_ch0051_古き神_says_身代わりの死_p2007_身代わり|身代わり死の構造対応]]
+- A_ch0051_alludes_to_E_ch0051_古き神_names_アズーリア_p2010_メシア（メシア概念の管理者権限変換）
+- A_ch0051_inverts_E_ch0051_サリア_says_古き神_p2018_神託（神託の絶対性への逆転）
+- A_ch0051_parodies_E_ch0051_古き神_says_あり得ない手_p2009_攻略法（詰み状態の裏技攻略法）
+- A_ch0051_structurally_matches_E_ch0051_古き神_says_身代わりの死_p2007_身代わり（身代わり死の構造対応）
 
 <!-- AUTO:END -->
 

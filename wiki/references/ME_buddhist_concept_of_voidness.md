@@ -1,0 +1,21 @@
+---
+schema_version: "5.1"
+id: ME_buddhist_concept_of_voidness
+title: 仏教の空
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "buddhist_concept_of_voidness"
+domain: "Contemporary Culture"
+review_status: llm_verified
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# buddhist_concept_of_voidness
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5392_alludes_to_E_カシュラムの諺_buddhist_concept_of_voidness]] — 「穴と山の総和は等しく、ブレイスヴァにとっては零である」という諺は、相補的な要素が互いを打ち消し最終的に無（ゼロ）となるという対称性・虚無主義的な思想を暗示している。

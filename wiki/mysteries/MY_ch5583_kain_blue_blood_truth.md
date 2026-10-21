@@ -2,7 +2,7 @@
 schema_version: "5.1"
 id: MY_ch5583_kain_blue_blood_truth
 type: mystery
-created: "2026-10-19"
+created: "2026-10-21"
 mystery_status: candidate
 spoiler_after: ch5583
 review_status: llm_verified
@@ -10,7 +10,7 @@ timeline:
   introduced: ch5583
 provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
-  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -24,4 +24,4 @@ provenance:
 > もっと致命的な青い血の真実を、父はずっと隠していたのだ。（p50）
 > ティリビナ人全てに死と苦痛を味わわせた青い血の宿命に打ち勝つために、できることがあるはずなんだ。（p173）
 
-**審査（LLM 代替）**: 「青い血」の具体的な意味（呪いなのか、能力なのか）が明示されておらず、今後の展開を予測させる伏線として機能している。
+**審査（LLM 代替）**: 「青い血」の真実とその影響が明かされていないことは、章内の核心的な未解決事項（ミステリー）として明確に提示されている。

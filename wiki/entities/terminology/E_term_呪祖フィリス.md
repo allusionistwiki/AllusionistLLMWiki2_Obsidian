@@ -10,7 +10,7 @@ first_appearance: ch0002
 spoiler_after: ch0002
 document_status: active
 created: '2026-10-01'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 呪祖フィリス
 
@@ -29,3 +29,12 @@ updated: '2026-10-19'
 - **unknown**: 使用回数は五回のみ。現存する唯一の『紀生型異獣』、最古の魔将である『呪祖フィリス』はそれが呪術に関係するものであるならば、どんなものであってもその来歴と構造を解き明かせる――呪術そのものをバラバラに解体してしまうのだ。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: その左手には、色が無かった。
+彩度の無い、白と黒のみで表現されたモノクロームの輪郭。
+- **unknown**: その左手には、色が無かった。
+
+<!-- /AUTO-GENERATED:visual -->

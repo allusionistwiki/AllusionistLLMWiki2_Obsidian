@@ -1,0 +1,40 @@
+---
+schema_version: '5.1'
+id: E_char_守護の九槍第五位
+type: entity
+subtype: character
+canonical_name: 守護の九槍第五位
+title: 守護の九槍第五位
+first_appearance: ch5202
+spoiler_after: ch5202
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-21'
+---
+
+# 守護の九槍第五位
+
+会場を大聖堂へと変貌させる世界展開を行う存在。音速移動で背後から襲い掛かり、振動する二叉の槍を用いてアルマの動きを封じる戦闘能力を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5202 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 第五位が展開した浄界が会場をすっぽりと覆い尽くし、大聖堂となったその場所に神を讃える音楽が鳴り響く。（ch5202）
+> 一瞬にして再生した稲妻の少女を、背後から音速移動する守護の九槍第五位が二叉の槍を振動させて呪文を発動、動きを止める。（ch5224）
+
+## 関連クレーム
+
+- [[A_ch5202_analogous_to_E_ch5202_守護の九槍第五位_other_浄界_p176_ME_Pipe_Organ_Concert|パイプオルガン権威としての浄界支配]]
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 一瞬にして再生した稲妻の少女を、背後から音速移動する守護の九槍第五位が二叉の槍を振動させて呪文を発動、動きを止める。
+- **unknown**: 一瞬にして再生した稲妻の少女を、背後から音速移動する守護の九槍第五位が二叉の槍を振動させて呪文を発動、動きを止める。
+
+<!-- /AUTO-GENERATED:action -->

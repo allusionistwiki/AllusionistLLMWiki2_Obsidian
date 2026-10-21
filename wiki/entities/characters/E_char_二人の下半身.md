@@ -10,7 +10,7 @@ first_appearance: ch5572
 spoiler_after: ch5572
 document_status: active
 created: '2026-10-19'
-updated: '2026-10-19'
+updated: '2026-10-21'
 ---
 # 二人の下半身
 
@@ -19,6 +19,8 @@ updated: '2026-10-19'
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
+- **unknown**: 二人の下半身が同時に蠢く。夫婦の交わりは濡れ場に似ていたが、実際にはそれは最初からひとつだった。
+- **unknown**: 二人の下半身が同時に蠢く。夫婦の交わりは濡れ場に似ていたが、実際にはそれは最初からひとつだった。
 - **unknown**: 二人の下半身が同時に蠢く。夫婦の交わりは濡れ場に似ていたが、実際にはそれは最初からひとつだった。
 
 <!-- /AUTO-GENERATED:visual -->

@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_何者か
+type: entity
+subtype: character
+canonical_name: 何者か
+title: "何者か"
+first_appearance: ch5441
+spoiler_after: ch5441
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 何者か
+
+亡骸の内側から輝かしいものとして誕生し、王に衝突して倒れ込む存在です。紀人の力を偽造し本物とすり替える行為が行われていたことが示唆されるなど、正体や役割の曖昧さが残る存在として描かれています。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5441 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 反射的に受け止めようとするが、予想以上の重量と勢いに押されてそのまま倒れ込んでしまう。（ch5441）
+> 紀人の力を偽造し、気付かれないように本物とすり替える。（ch5532）
+
+<!-- AUTO:END -->

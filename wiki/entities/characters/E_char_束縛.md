@@ -27,6 +27,6 @@ created: "2026-09-30"
 
 ## 関連クレーム
 
-- [[A_ch0079_structurally_matches_E_ch0079_アキラ_promises_束縛_p2927_自己責任論と過剰適応|自己責任と過剰適応]]
+- A_ch0079_structurally_matches_E_ch0079_アキラ_promises_束縛_p2927_自己責任論と過剰適応（自己責任と過剰適応）
 
 <!-- AUTO:END -->

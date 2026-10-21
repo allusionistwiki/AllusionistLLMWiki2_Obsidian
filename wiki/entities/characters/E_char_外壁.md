@@ -1,0 +1,27 @@
+---
+schema_version: "5.1"
+id: E_char_外壁
+type: entity
+subtype: character
+canonical_name: 外壁
+title: "外壁"
+first_appearance: ch5426
+spoiler_after: ch5426
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+---
+
+# 外壁
+
+戦場を覆い巨大な呪文竜が食らいつく構造物であり、戦闘の舞台となる防壁や境界線としての役割を果たしています。また、ペットショップなどの建物の構造要素としても登場し、大男による突撃槍義手での粉砕対象となるなど、物理的な破壊の対象として描かれています。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5426 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 呪文竜が巨大な顎を開き、食らいついた先は戦場を覆う外壁の上。（ch5426）
+> 空飛ぶ絨毯に乗った大男が巨大な突撃槍（ランス）義手でペットショップの外壁を粉砕する。（ch5515）
+
+<!-- AUTO:END -->
