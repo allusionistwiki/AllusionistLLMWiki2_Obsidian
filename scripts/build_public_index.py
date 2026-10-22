@@ -71,6 +71,12 @@ def load_episode_meta() -> dict[str, dict]:
     return meta
 
 
+def disp_no(n: str) -> str:
+    """ch5xxx はカクヨム話番号（n-5000）で表示（カクヨム版接頭）。なろう ch は漢数字従来どおり。"""
+    v = int(n)
+    return f"{v - 5000}（カクヨム版）" if v >= 5000 else kanji_num(v)
+
+
 def episode_heading(ch: str, meta: dict[str, dict]) -> str:
     """ch0001 → '### 第一話：1-1　無彩色の左手、鎧の右手'（幕間は '### 第三話：幕間　『きぐるみの魔女』'）"""
     e = meta.get(ch)
@@ -78,7 +84,7 @@ def episode_heading(ch: str, meta: dict[str, dict]) -> str:
     if e:
         label = e["label"]
         title = e["title"]
-        return f"### 第{kanji_num(int(n))}話：{label}　{title}"
+        return f"### 第{disp_no(n)}：{label}　{title}"
     return f"### 第{n}話"
 
 
@@ -198,7 +204,7 @@ def main() -> None:
         n = ep_no(ch)
         e = meta.get(ch)
         label = f"{e['label']}　{e['title']}" if e else ""
-        heading = f"第{kanji_num(int(n))}話：{label}" if label else f"第{n}話"
+        heading = f"第{disp_no(n)}：{label}" if label else f"第{n}話"
         lines = [fm(heading,
                     f"第{n}話のアナロジー {len(cs)} 件・伏線 {len(ms)} 件・外部参照 {len(mes)} 件",
                     f"nav/{ch}")]
@@ -237,7 +243,7 @@ def main() -> None:
             mes = sorted({c["me"] for c in cs if c["me"]})
             e = meta.get(ch)
             label = f"{e['label']}　{e['title']}" if e else f"第{ep_no(ch)}話"
-            disp = f"第{kanji_num(int(ep_no(ch)))}話：{label}" if e else f"第{ep_no(ch)}話"
+            disp = f"第{disp_no(ep_no(ch))}：{label}" if e else f"第{ep_no(ch)}話"
             lines.append(f"| [{disp}]({ch}.md) | {len(cs)} | {len(myst_by_ep.get(ch, []))} | {len(mes)} |")
     if unassigned:
         lines.append(f"| （話未指定） | {len(claims_by_ep.get('ch????', []))} | {len(myst_by_ep.get('ch????', []))} | 0 |")
