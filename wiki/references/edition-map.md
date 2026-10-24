@@ -387,7 +387,7 @@ description: 解析の典拠を結ぶ、なろう版272話とカクヨム版589�
 
 ## 参照
 
-- 生成: `AllusionistWiki_work/scripts/build_edition_article.py`（データ: `work/L0/runs/20261017T2011_f863/`、`work/L1/runs/20261018T0040_588c/`）
+- 生成: `AllusionistWiki_work/scripts/build_edition_article.py`（データ: `work/allusionist_v2/L0/runs/20261017T2011_f863/`、`work/allusionist_v2/L1/runs/20261018T0040_588c/`）
 - ¶ アンカー: カクヨム episode ページの段落 ID `#pN` と 1:1。なろう版 p 番号（baseline 旧来歴）とは巻内で非対応。
 - 削除台帳の理由分類: 付録=キャラ一覧・プロフィール・章構造メタ・作者注記（カクヨム正典は本文のみ）/ なろう専用幕間=カクヨムに同名作品なし / 幕間短縮=同名カクヨム話で削除された場面 / 改稿削除=カクヨム全巻全文検索で非存在確認。
 

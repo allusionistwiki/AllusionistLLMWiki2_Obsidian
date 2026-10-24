@@ -10,7 +10,7 @@ LLM でカクヨム版 ¶ アンカーへ再アンカーする。
     位置から導出（LLM の ¶ 番号は信用しない）
   - 見つからない = カクヨム版で削除/大改稿 → status: not_found（人間レビュー行き）
 
-出力: work repo work/L1/runs/<run_id>/reanchor/chNNNNN.jsonl + run.json
+出力: work repo work/allusionist_v2/L1/runs/<run_id>/reanchor/chNNNNN.jsonl + run.json
 使い方: python scripts/reanchor_quotes.py [開始ch 終了ch]  ※ 途中再開対応（既存章ファイルスキップ）
 """
 from __future__ import annotations
@@ -28,7 +28,7 @@ WORK = ROOT.parent / "AllusionistWiki_work"
 RAW = ROOT.parent / "AllusionistWiki_raw/raw/novel"
 KAK = RAW / "kakuyomu/16816927859268545348_幻想再帰のアリュージョニスト"
 VAULT_RAW = ROOT / "raw"
-QMAP_RUN = WORK / "work/L0/runs/20261017T2011_f863"
+QMAP_RUN = WORK / "work/allusionist_v2/L0/runs/20261017T2011_f863"
 WINDOW = int(os.environ.get("REANCHOR_WINDOW", "60"))   # 補間位置の前後 ¶ 数
 WORKERS = 8
 
@@ -197,13 +197,13 @@ def main():
     # run_dir: 引数1 に既存 run_id を渡すと再開（同じディレクトリにブロック追記）
     if len(sys.argv) > 1 and sys.argv[1] and not sys.argv[1].isdigit():
         run_id = sys.argv[1]
-        run_dir = WORK / "work/L1/runs" / run_id / "reanchor"
+        run_dir = WORK / "work/allusionist_v2/L1/runs" / run_id / "reanchor"
         run_dir.mkdir(parents=True, exist_ok=True)
     else:
         now = datetime.now()
         h = hashlib.sha1((str(now) + str(len(queue))).encode()).hexdigest()[:4]
         run_id = now.strftime("%Y%m%dT%H%M_") + h
-        run_dir = WORK / "work/L1/runs" / run_id / "reanchor"
+        run_dir = WORK / "work/allusionist_v2/L1/runs" / run_id / "reanchor"
         run_dir.mkdir(parents=True, exist_ok=True)
 
     def interp_pos(ch, s_para):
@@ -327,7 +327,7 @@ def main():
             if total % 20 == 0:
                 print(f"blocks {total}/{len(tasks)}, items {done}, reanchored {ok}", flush=True)
 
-    (WORK / "work/L1/runs" / run_id / "run.json").write_text(json.dumps({
+    (WORK / "work/allusionist_v2/L1/runs" / run_id / "run.json").write_text(json.dumps({
         "run_id": run_id, "layer": "L1", "kind": "reanchor",
         "created": now.isoformat(timespec="seconds"),
         "derived_from": {"l1_run": "20261012T0000_baseline", "l0_run": QMAP_RUN.name},
