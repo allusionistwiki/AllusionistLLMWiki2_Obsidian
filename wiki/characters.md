@@ -1,6 +1,6 @@
 ---
 title: 登場人物一覧
-id: characters/index
+id: characters
 description: キャラクター入口。主要キャラから各エンティティページへ
 ---
 

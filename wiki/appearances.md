@@ -1,6 +1,6 @@
 ---
 title: キャラ容姿描写索引
-id: appearances/index
+id: appearances
 description: キャラ別の容姿描写ページへの索引（要約付き）
 ---
 
