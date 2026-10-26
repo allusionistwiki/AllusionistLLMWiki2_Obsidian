@@ -24,6 +24,7 @@ LEDGER = Path(
 
 def main():
     ents = json.loads(LEDGER.read_text(encoding="utf-8"))["entities"]
+    byid = {e["id"]: e for e in ents}
     l2 = {}
     for e in ents:
         l2[norm_key(e["canonical"])] = e
@@ -69,12 +70,30 @@ def main():
         block_pat = re.compile(r"<!-- AUTO-GENERATED:l2ref -->.*?<!-- /AUTO-GENERATED:l2ref -->", re.S)
         if hit:
             e = hit
+            status = e.get("entity_status", "active")
+            parent = e.get("parent")
+            children = e.get("children", [])
+            lines = []
+            if parent:
+                p = byid.get(parent["id"])
+                if p:
+                    lines.append('この名義は **%s** に付随する属性・側面（relation: %s）として統合されています。親実体: [[%s|%s]]。'
+                                 % (p["canonical"], parent.get("relation", "aspect"), p["id"], p["canonical"]))
+            if status == "generic":
+                lines.append('この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。')
+            if status == "needs":
+                lines.append('この名義は実体判定**要検証**（台帳 v3 で保留）です。')
+            if children:
+                ch = "、".join("**%s**" % (byid[c["id"]]["canonical"])
+                              for c in children if c["id"] in byid)
+                lines.append('この実体が所有する下位エンティティ: %s。' % ch)
+            lines.append('この名義は L2 名前統合台帳の正規エンティティ **%s**（ID `%s` / kind: %s / 統合根拠: %s）に対応します。'
+                         '表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、'
+                         '統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。'
+                         % (e["canonical"], e["id"], e["kind"], e.get("merge_evidence", "-")))
             sec = ('<!-- AUTO-GENERATED:l2ref -->\n## L2 台帳対応\n\n'
-                   'この名義は L2 名前統合台帳の正規エンティティ **%s**（ID `%s` / kind: %s / 統合根拠: %s）に対応します。'
-                   '表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、'
-                   '統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。\n'
-                   '<!-- /AUTO-GENERATED:l2ref -->') % (
-                       e["canonical"], e["id"], e["kind"], e.get("merge_evidence", "-"))
+                   + "\n\n".join(lines) +
+                   '\n<!-- /AUTO-GENERATED:l2ref -->')
             if block_pat.search(t):
                 t = block_pat.sub(sec, t)
             else:
