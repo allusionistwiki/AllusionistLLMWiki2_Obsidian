@@ -1,6 +1,7 @@
 ---
 schema_version: "5.1"
-type: index
+type: entity
+subtype: character
 title: キャラ容姿描写索引
 id: appearances
 description: キャラ別の容姿描写ページへの索引（要約付き）
