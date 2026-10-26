@@ -26,3 +26,9 @@ created: "2026-09-30"
 > 「実地訓練のついでにわがままな弟子の人助けを手伝ってあげようというだけ。それにハルは言語魔術師で、本来ならあなたは頭を下げてお願いする立場。わきまえて」（ch5129）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **言語魔術師**（ID `E_char_言語魔術師` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

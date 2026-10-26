@@ -99,3 +99,9 @@ updated: '2026-10-21'
 - **unknown**: 傘と柄のような物理的実体はキノコ人たちの本体ではない。彼らにとっての核はその足下、影の中に広がった霊的菌糸体である。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **キノコ人**（ID `E_char_キノコ人` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

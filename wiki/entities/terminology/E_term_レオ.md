@@ -80,7 +80,10 @@ updated: '2026-10-21'
 
 - **unknown**: 異形すらねじ伏せる、優しさの獣を。
 - **unknown**: 血の気を失った遠隔操作の腕を『職業病である』と解釈し、そこに人格と個人の来歴を見出す『優しい呪文』――レオの気質が可能とするその攻撃は、グレンデルヒには不可能なものだ。
-- **unknown**: 異形すらねじ伏せる、優しさの獣を。
-- **unknown**: 血の気を失った遠隔操作の腕を『職業病である』と解釈し、そこに人格と個人の来歴を見出す『優しい呪文』――レオの気質が可能とするその攻撃は、グレンデルヒには不可能なものだ。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **レオ**（ID `E_char_レオ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

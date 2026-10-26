@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 三ヶ月ほど前から、あの白い好敵手はその資質を更に急成長させている。まるで止まった時間が急激に動き出したかのように。 同じく準一級である彼女は、きっと今回の試験で一級になるだろう。（ch5239）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **資質**（ID `E_char_資質` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

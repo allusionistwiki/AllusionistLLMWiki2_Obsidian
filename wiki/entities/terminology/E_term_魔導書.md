@@ -25,3 +25,9 @@ created: "2026-09-30"
 > ヴァージルが水晶の石版を土中から出現させて、オルヴァがそこに文字を刻んでいく。力ある言葉を刻まれた|古代の魔導書〈せきばん〉が水面に沈み、死者の王国を守護する結界が強化されていく。（ch5385）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **魔導書**（ID `E_char_魔導書` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

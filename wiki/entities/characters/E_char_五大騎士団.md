@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 司る虐殺は敵対派閥の徹底的殲滅。度重なる戦の果てに力を増大させた五大騎士団、その全ての粛清は鮮やかの一言。（ch0186）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **五大騎士団**（ID `E_char_五大騎士団` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 合気が操作するのは生体電流だけではない。脳の電気生理学的反応、筋電位に及ぶまで、ありとあらゆる生体に干渉することにより、自他の脳神経系すら掌握するという呪術である。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **合気**（ID `E_term_合気` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

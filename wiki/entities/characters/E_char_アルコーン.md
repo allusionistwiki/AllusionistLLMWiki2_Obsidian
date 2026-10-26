@@ -32,9 +32,6 @@ updated: '2026-10-19'
 ## 象徴・比喩
 
 - **unknown**: 二人の背後に揺らめくのは、確かに神の威光に見えた。それは妖精たちの母アエルガ＝ミクニーであり、炎天使たちの父ピュクティエトである。
-- **unknown**: 二人の背後に揺らめくのは、確かに神の威光に見えた。それは妖精たちの母アエルガ＝ミクニーであり、炎天使たちの父ピュクティエトである。
-- **unknown**: 二人の背後に揺らめくのは、確かに神の威光に見えた。それは妖精たちの母アエルガ＝ミクニーであり、炎天使たちの父ピュクティエトである。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:speech -->
@@ -45,3 +42,9 @@ updated: '2026-10-19'
 - **unknown**: 『新たに『外れない矢』ジュティアと『刈り取る者』ミナを加えた、この僕たちがフルグント六柱群の残り三名だ』
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルコーン**（ID `E_char_アルコーン` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

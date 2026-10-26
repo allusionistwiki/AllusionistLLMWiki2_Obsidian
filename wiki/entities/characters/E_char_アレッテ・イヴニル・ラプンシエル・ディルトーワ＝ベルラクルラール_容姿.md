@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 邪眼を持つ人形姫としての側面 ｜ 異名: 邪眼の人形姫、紅紫 ｜ 典拠: [87話](../../nav/ch0087.md)（p3217）
   > 邪眼の人形姫。　魔戦人形師団の師団長。　一万の心ある人形たちを使役する支配者。　フォービットデーモンナンバーエイト・紅紫。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アレッテ・イヴニル・ラプンシエル・ディルトーワ＝ベルラクルラール**（ID `E_char_アレッテ・イヴニル・ラプンシエル・ディルトーワ＝ベルラクルラール` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

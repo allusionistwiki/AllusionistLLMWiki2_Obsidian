@@ -35,8 +35,6 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 「グループ内部の競争で序列化、階層化させて――実力で劣る下位クラスには単純で基礎的な役割を、実力が高い上位クラスには複雑で抽象的な振り付けを割り当てる。あなたたちは、全体で一つの統合体（シナモリアキラ）として振る舞えばそれでいい。」
-- **unknown**: 「グループ内部の競争で序列化、階層化させて――実力で劣る下位クラスには単純で基礎的な役割を、実力が高い上位クラスには複雑で抽象的な振り付けを割り当てる。あなたたちは、全体で一つの統合体（シナモリアキラ）として振る舞えばそれでいい。」
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->
@@ -46,3 +44,9 @@ updated: '2026-10-21'
 - **unknown**: 『NOKOTTA』の大合唱がスピーカーから放出され、人形たちの世界が吹き散らされていった。圧倒的な暴力、絶大な呪力が嵐となってアマランサスを叩きのめす。戦いはここに決着した。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **SNA333**（ID `E_char_SNA333` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

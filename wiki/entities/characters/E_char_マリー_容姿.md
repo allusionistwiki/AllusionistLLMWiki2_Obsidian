@@ -61,3 +61,9 @@ description: キャラ容姿描写ページ
 - 細腕 ｜ 腕 ｜ 典拠: [73話](../../nav/ch0073.md)（p2748）
   > キールが雄叫びを上げながら打ちかかるが、神経反射を加速させたマリーは超人的な反応速度で回避すると、体格で勝る相手を細腕で殴り飛ばした。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **マリー**（ID `E_char_マリー` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

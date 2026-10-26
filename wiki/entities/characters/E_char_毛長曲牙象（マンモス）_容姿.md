@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 毛長（毛深い）、曲牙（長い鼻と牙）、亜竜に匹敵する巨体。 ｜ 毛・牙・体格 ｜ 典拠: [221話](../../nav/ch0221.md)（p7334）
   > 悠々と歩く毛長曲牙象に乗せてくれないかとサーカスの一座に頼み込んでいるマンモスらし い。「ぱおーん、だって。かわいいね」
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **毛長曲牙象（マンモス）**（ID `E_char_毛長曲牙象_マンモス_` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

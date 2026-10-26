@@ -109,3 +109,9 @@ updated: '2026-10-19'
 - **unknown**: ガドール：小鬼を率いる魔将。ネス・ハヤー・シャムの四重人格。冬の魔女の父を自称。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ガドール**（ID `E_char_ガドール` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

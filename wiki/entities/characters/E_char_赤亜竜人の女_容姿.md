@@ -41,3 +41,9 @@ description: キャラ容姿描写ページ
 - 兜の奥の口で笑みを作る ｜ 口・表情 ｜ 典拠: [242話](../../nav/ch0242.md)（p7931）
   > にっこり。兜の奥で亜竜の口が笑みを作る。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **赤亜竜人の女**（ID `E_char_赤亜竜人の女` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

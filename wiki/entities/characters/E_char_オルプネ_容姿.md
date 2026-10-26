@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 肌や骨に刺青や刻印がある ｜ 肌 ｜ 典拠: [165話](../../nav/ch0165.md)（p5553）
   > 呪術的な意味を持つ刺青や刻印を肌や骨に刻み
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **オルプネ**（ID `E_char_オルプネ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

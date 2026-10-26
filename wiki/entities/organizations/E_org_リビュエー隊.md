@@ -23,6 +23,10 @@ updated: '2026-10-21'
 血の繋がらない、それでも同じ意思で結びついた五人姉妹。
 一番から五番までの数字が刻まれている、鳥の翼を象った認識票をそれぞれが手に持ち
 それは嘆声でもあった。焼かれて死に逝く亜大陸人が絶望の中で響かせた歌。
-- **unknown**: ウネム、マリナ、アクィラ、アイシャ、タマル。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **リビュエー隊**（ID `E_org_リビュエー隊` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

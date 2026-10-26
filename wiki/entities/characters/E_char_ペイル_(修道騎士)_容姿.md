@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 岩のような灰色の裸の右拳、呪宝石埋め込み、金鎖 ｜ 手・肌・装飾 ｜ 典拠: [209話](../../nav/ch0209.md)（p7059）
   > 神働装甲の右腕部が展開し、生身が露わとなった。　金鎖に包まれた裸の右拳。その色は岩のような灰色で、至る所に小さな呪宝石が埋め込まれている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ペイル（修道騎士）**（ID `E_char_ペイル_修道騎士_` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

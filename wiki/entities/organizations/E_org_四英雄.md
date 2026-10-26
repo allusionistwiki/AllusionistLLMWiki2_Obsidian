@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 四英雄とは、【騎士団】とは別に、探索者達の中で特にめざましい功績を上げた者、魔将討伐を成し遂げた者に付いた通称である。　【万能の才人】グレンデルヒ＝ライニンサル。　【冬の魔女】コルセスカ。　【吟遊詩人】ユガーシャ。　【盗賊王】ゼド。　【言語魔術師】タマラ。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **四英雄**（ID `E_org_四英雄` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

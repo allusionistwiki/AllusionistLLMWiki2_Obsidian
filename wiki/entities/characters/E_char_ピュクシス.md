@@ -35,11 +35,6 @@ updated: '2026-10-21'
 
 - **unknown**: 彼女のデザインは古代ジャッフハリム時代の彫像がベースだと聞いている。古き良き時代の再現。それがピュクシスという人造魔女の設計理念だ。
 - **unknown**: 普通、人の本質をあらわす『まことの名』を変えることはできない。
-- **unknown**: 彼女のデザインは古代ジャッフハリム時代の彫像がベースだと聞いている。古き良き時代の再現。それがピュクシスという人造魔女の設計理念だ。
-- **unknown**: 普通、人の本質をあらわす『まことの名』を変えることはできない。
-- **unknown**: 彼女のデザインは古代ジャッフハリム時代の彫像がベースだと聞いている。古き良き時代の再現。それがピュクシスという人造魔女の設計理念だ。
-- **unknown**: 普通、人の本質をあらわす『まことの名』を変えることはできない。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:speech -->
@@ -107,3 +102,9 @@ updated: '2026-10-21'
 - **unknown**: 瞬間、ラーゼフ・ピュクシスの瞳から光が消失。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ピュクシス**（ID `E_char_ピュクシス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

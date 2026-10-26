@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 遠い未来の果てから過去へと青い糸を伸ばしていた彼女は、うーんと背伸びをして頬を膨らませた。 彼女は指先と繋がった青い糸を回収していく。（ch5460）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **青い糸**（ID `E_char_青い糸` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

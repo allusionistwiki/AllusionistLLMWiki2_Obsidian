@@ -73,9 +73,6 @@ updated: '2026-10-19'
 ## 象徴・比喩
 
 - **unknown**: 植物に近い性質を有するセロナの精神が揺らぐのは、同格以上の超越者と相対した時のみである。
-- **unknown**: 植物に近い性質を有するセロナの精神が揺らぐのは、同格以上の超越者と相対した時のみである。
-- **unknown**: 植物に近い性質を有するセロナの精神が揺らぐのは、同格以上の超越者と相対した時のみである。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->
@@ -86,3 +83,9 @@ updated: '2026-10-19'
 - **unknown**: 出し抜けに、セロナ・ハーヴェストの両目から血の涙が流れ落ちた。 文字通りの意味で目にも留まらぬ攻防。現実改変前の段階で、不可視の邪視戦闘が決着したのだ。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **セロナ・ハーヴェスト**（ID `E_char_セロナ・ハーヴェスト` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

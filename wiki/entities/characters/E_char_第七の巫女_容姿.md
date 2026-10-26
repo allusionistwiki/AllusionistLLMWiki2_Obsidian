@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - ステージを影の海として支配し、嵐を巻き起こすような存在感。 ｜ 姿(影) ｜ 典拠: [185話](../../nav/ch0185.md)（p6153）
   > 両手を広げて天を仰ぎ、魔竜を迎え入れるようなポーズによってステージを取り巻く影の海が熱狂し、騒然とする空間の中に嵐が巻き起こる。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **第七の巫女**（ID `E_char_第七の巫女` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

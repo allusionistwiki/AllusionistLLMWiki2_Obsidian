@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: その隣には魚を思わせる耳をした一団。南東海諸島からやって来た【ウィータスティカの鰓耳の民】だろう。複数の布を重ねたような服の肩に、第四位の天使デーデェイアを示す大蛸の紋章が縫い付けられている。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ウィータスティカの鰓耳の民**（ID `E_char_ウィータスティカの鰓耳の民` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

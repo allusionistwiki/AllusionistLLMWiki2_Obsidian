@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 触手が伸び、泡が溢れ、小さな馬の頭部が形成・消滅を繰り返す。 ｜ 触手・変形 ｜ 典拠: [211話](../../nav/ch0211.md)（p7122）
   > のたうつ触手の先端から泡が溢れる。弾けて生まれる未分化の生命力。 小さな馬の頭部がぷつぷつと形作られては消えていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **夢馬**（ID `E_char_夢馬` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

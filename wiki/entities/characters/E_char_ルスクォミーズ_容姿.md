@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 波打つ黒髪と凄烈な美貌。 ｜ 髪・顔立ち ｜ 典拠: [24話](../../nav/ch0024.md)（p1128）
   > 瞬間的に浮かんだイメージは、波打つ黒髪と凄烈な美貌を持った魔女の姿。その周囲に跪くのは見覚えのある悪鬼の群れ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ルスクォミーズ**（ID `E_char_ルスクォミーズ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

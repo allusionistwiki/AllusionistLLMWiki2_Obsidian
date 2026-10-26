@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 散逸していく雲の粒子。強い向かい風に流されそうなその瞬間を狙い澄まして、ホワイトは虎の子の爆弾を発動させ ボム る。　炸裂した巨大な熱量はしかし希薄化した敵には届かない。だが、付随して発生した爆風は向かい風に逆らうようにして雲を押し潰した。（ch0040）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ホワイト**（ID `E_char_ホワイト` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

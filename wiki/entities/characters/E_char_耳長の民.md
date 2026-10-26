@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 棒で吊された四角い駕籠（かご）を前後で担いで運ぶ兎の集団。第六位の眷族種【イルディアンサの耳長の民】たちは、垂れた耳をぱたぱたとうごかしながらせっせと駕籠を運んでいく。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **耳長の民**（ID `E_char_耳長の民` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

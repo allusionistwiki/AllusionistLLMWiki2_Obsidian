@@ -51,3 +51,9 @@ updated: '2026-10-21'
 - **unknown**: 作り出された次元の裂け目から、全身を破損して自己修復作業中の機械天使が出現する。光学素子が発光して、無茶をさせるなと非難の意思表示。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ペレケテンヌル**（ID `E_char_ペレケテンヌル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

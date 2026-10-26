@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 背骨みの胴体に三対の白翼を生やし、白髪で瞳がない異形の男 ｜ 白翼・背骨だけの胴体・白髪・黒目の無い瞳 ｜ 典拠: [259話](../../nav/ch0259.md)（p8260）
   > 三対の白翼が生えた背骨だけの胴体、骨と繋がった頭部には白髪と黒目の無い瞳。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **フェジェン**（ID `E_char_フェジェン` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

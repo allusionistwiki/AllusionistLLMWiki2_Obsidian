@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 大蛇と大蠍の甲殻の鎧を着た長身の美丈夫 ｜ 鎧・体格・顔立ち ｜ 典拠: [189話](../../nav/ch0189.md)（p6249）
   > 大蛇の革と大蠍の甲殻でできた見事な鎧を着込んだ長身の美丈夫が雪道に深いくぼみを作りながら歩いていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ハジュラフィン**（ID `E_char_ハジュラフィン` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

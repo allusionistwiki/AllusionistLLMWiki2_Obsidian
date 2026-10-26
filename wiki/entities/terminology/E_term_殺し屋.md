@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 前世紀までに流布していたイメージとはやや異なり、殺し屋は荒事屋というよりも詐欺師などに近い。暴力沙汰が皆無とは言わないが、自殺ではないと見せかけるための偽装工作が主な仕事だ。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **殺し屋**（ID `E_org_殺し屋` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

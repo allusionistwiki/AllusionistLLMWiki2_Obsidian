@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 老人のような声。赤子のような裸体 ｜ 声・体質 ｜ 典拠: [154話](../../nav/ch0154.md)（p5248）
   > 老人のような声でありながら、裸体はどこか赤子のよう。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **子泣き爺**（ID `E_char_子泣き爺` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

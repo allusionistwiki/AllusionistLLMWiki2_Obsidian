@@ -28,3 +28,9 @@ created: "2026-09-30"
 > 追い打ちをかけるようにして撃ち出された【災厄の槍】を右手で防ぐが、そこから更に弾き飛ばされた俺は迷宮の壁をぶち抜きながら更に遠くへと追い込まれていく。（ch5109）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **キロン**（ID `E_char_キロン` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

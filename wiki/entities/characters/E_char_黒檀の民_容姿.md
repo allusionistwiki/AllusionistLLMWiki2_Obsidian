@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 黒い肌と多様な顔つき ｜ 顔立ち・肌 ｜ 典拠: [230話](../../nav/ch0230.md)（p7596）
   > 気性も文化も顔つきも、肌の色でさえ『黒い』というだけでまるで違うが
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **黒檀の民**（ID `E_char_黒檀の民` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

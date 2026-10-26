@@ -33,3 +33,9 @@ updated: '2026-10-19'
 - **unknown**: これまで第四階層は長きに渡って平穏を維持し続けてきた。階層掌握合戦を定期的に行い、第六階層に対する侵攻と反撃を交互に繰り返しながら互いの体面を保ってきたのだ。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **第四階層**（ID `E_char_第四階層` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

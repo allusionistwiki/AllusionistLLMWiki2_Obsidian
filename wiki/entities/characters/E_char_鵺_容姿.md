@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 白い仮面を被り、細身の体格で、真紅の鉢巻き、白い道着、黒いマントを身につけている。 ｜ 顔(真っ白な仮面)・体格(細身)・服装(真紅の鉢巻き, 白い道着, 黒いマント) ｜ 典拠: [185話](../../nav/ch0185.md)（p6148）
   > 真っ白な仮面。細身。たなびく真紅の鉢巻き、白い道着、不似合いな黒いマント。その名はサイバーカラテマン。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **鵺**（ID `E_char_鵺` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

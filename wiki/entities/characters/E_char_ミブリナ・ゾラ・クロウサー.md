@@ -53,3 +53,9 @@ updated: '2026-10-19'
 - **unknown**: 手の込んだルール整備は実際のところ、挑戦者たちが揃いも揃って因果を歪め、空間を渡り、速度の厳密な測定を拒み、時間さえあやふやにしようと画策したことで激怒したミブリナが練り上げた『自分に有利なルール』だったのだが、とにかく彼女はそのやり方で『空使い』の座を死守してみせた。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ミブリナ・ゾラ・クロウサー**（ID `E_char_ミブリナ・ゾラ・クロウサー` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

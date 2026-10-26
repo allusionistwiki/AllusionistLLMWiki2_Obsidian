@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 頭部が禿げており、腕に木と砂で作られた義手を持つ。 ｜ 頭髪（禿頭）・義肢（木砂義手） ｜ 典拠: [232話](../../nav/ch0232.md)（p7651）
   > アクィラ：禿頭・木砂義手。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アクィラ**（ID `E_char_アクィラ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

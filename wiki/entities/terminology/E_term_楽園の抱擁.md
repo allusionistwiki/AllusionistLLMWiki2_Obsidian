@@ -50,3 +50,9 @@ updated: '2026-10-21'
 - **unknown**: 「こんな時に不要な冗談は言いません。『楽園の抱擁』はいわば内世界型の浄界を普遍化した汎用奥義に近い。突き詰めれば、呪術的な技術などなくとも『カーイン』という存在の個我を持続しようと強く念じ続ければできるようになります。つまり気合や根性に近い」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **楽園の抱擁**（ID `E_term_楽園の抱擁` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

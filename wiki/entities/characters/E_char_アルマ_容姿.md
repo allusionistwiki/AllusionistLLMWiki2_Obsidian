@@ -89,3 +89,9 @@ description: キャラ容姿描写ページ
 - 炎と光、九枚の翼 ｜ 体・光（炎、後光）・翼（九枚） ｜ 典拠: [180話](../../nav/ch0180.md)（p5959）
   > 瞬間、アルマの肉体がほどけ、強く輝く炎となってコルセスカの背に収束する。魔女の背後を照らすのはまばゆい後光にも、九枚の燃える翼にも似ていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルマ**（ID `E_char_アルマ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

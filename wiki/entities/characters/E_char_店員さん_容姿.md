@@ -43,3 +43,9 @@ description: キャラ容姿描写ページ
 - 麗人 ｜ 麗人 ｜ 典拠: [15話](../../nav/ch0015.md)（p694）
   > この麗人、それほど危険な男なのだろうか。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **店員さん**（ID `E_char_店員さん` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 血統呪術というものがある。 血にこそ力が宿ると信じるその呪術は、近親婚を繰り返して血の純化を図る【秩序派】と様々な血を取り込む事で呪的性質の多様性を確保できると考える【混沌派】に分かれるが、クロウサー家の血統呪術は【混沌派】である。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **血統呪術**（ID `E_term_血統呪術` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

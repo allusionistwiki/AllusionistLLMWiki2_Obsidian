@@ -25,3 +25,9 @@ created: "2026-09-30"
 > トリシューラは非常時の為に、第五階層内に幾つか隠し拠点を設けていたらしい。階層間の狭間という名の【地下】に存在するそこは、「とりあえずの避難用だから居住性は期待しないで」という前置きがあったにしては、三人が入っても狭さを感じない程度の快適さ（ch0020）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **隠し拠点**（ID `E_term_隠し拠点` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

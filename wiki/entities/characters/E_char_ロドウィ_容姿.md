@@ -43,3 +43,9 @@ description: キャラ容姿描写ページ
 - 燃え上がる穂先と寸分違わぬ美しい赤い角 ｜ 角 ｜ 典拠: [83話](../../nav/ch0083.md)（p3053）
   > 燃え上がる穂先はロドウィの角と寸分違わぬ美しい赤。使い手の気質を反映してか、纏う呪力の性質は泡と炎という違ったものだったが、それらは全く同じ『珊瑚』に根ざした力だった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ロドウィ**（ID `E_char_ロドウィ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

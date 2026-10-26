@@ -56,3 +56,9 @@ updated: '2026-10-21'
 - **unknown**: 奇妙な事に骨が組み上がって出来た壁は少しずつ動いているらしく、迷路の構造は刻一刻と変貌しているようだ。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **地下迷宮**（ID `E_term_地下迷宮` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

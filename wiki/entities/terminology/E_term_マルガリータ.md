@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「二界始祖とは世界の雛型だ。おめえさんの『動物想（ファウナ）』は現行世界の紀元獣パンゲオンの卵。あの娘っこ、じゃねえな。ロードデンドロンの『植物想（フローラ）』は旧世界の紀元樹ロディニオの種。ひとつっきりでも役には立つが、その真価を発揮させ（ch5587）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **マルガリータ**（ID `E_char_マルガリータ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

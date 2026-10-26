@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: ガルズ・ピュクシス。彼が司る七つ風はある意味で最悪のひとつだ。その名は『波風』。平穏と幸福を揺さぶる、波乱と不和の予兆である。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ガルズ・ピュクシス**（ID `E_char_ガルズ・ピュクシス` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

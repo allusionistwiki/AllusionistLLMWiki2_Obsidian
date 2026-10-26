@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 美女と見紛うほどの美男子、両性的 ｜ 外見一般 ｜ 典拠: [74話](../../nav/ch0074.md)（p2797）
   > 絶世の美女――そう見紛うほどの美男子。両性的な色香を有した男の名は、ユガーシャ・ランディバイス。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ユガーシャ**（ID `E_char_ユガーシャ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

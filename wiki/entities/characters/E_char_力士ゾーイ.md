@@ -34,3 +34,9 @@ updated: '2026-10-21'
 - **unknown**: 「ようやく終わりかー。結構長引いたよね、今回の仕事。まああとは適当に報告書でっち上げておしまい。細かいとこはよろしくね、ケイト」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **力士ゾーイ**（ID `E_char_力士ゾーイ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

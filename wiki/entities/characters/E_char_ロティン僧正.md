@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 破戒僧ロティン。石喰いヴィーガンのトロルで環境テロリスト。七百年前の宗教改革期に竜神信教から分派して以来の公共の敵。推定命数はおよそ四千六百。（ch5478）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ロティン僧正**（ID `E_char_ロティン僧正` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

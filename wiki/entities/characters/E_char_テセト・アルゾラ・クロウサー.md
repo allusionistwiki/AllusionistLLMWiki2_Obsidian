@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 巨大な『扉』が次々と開き、それらが連結して『門』となり、更には『回廊』と化す。その向こうから、巨大な建造物がゆっくりと姿を現そうとしていた。逆さまの城。天の御殿。（ch5548）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **テセト・アルゾラ・クロウサー**（ID `E_char_テセト・アルゾラ・クロウサー` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

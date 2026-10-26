@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 上司の前でなくした後の表情は、だらけており目はとろんとしている。 ｜ とろんとした目 ｜ 典拠: [28話](../../nav/ch0028.md)（p1236）
   > 一転してだらけた本性をさらけ出す。造井玲はとろんとした目でビル街を眺めていた。ぞういあきら
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **造井玲**（ID `E_char_造井玲` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

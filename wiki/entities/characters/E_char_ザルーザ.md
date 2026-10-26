@@ -62,3 +62,9 @@ updated: '2026-10-19'
 - **unknown**: 人間には発声不可能な音が口から放射されると、それは荒々しい歌となって世界を変容させていく。竜言語と呼ばれる『大いなる真竜』に語りかけるための呪文だった。 高次存在『紀竜』の力を借りた竜言語呪文は吐息と呼ばれ恐れら ブレス れている。 亜竜の口から放出された破滅的な呪詛の奔流が一帯を薙ぎ払う。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ザルーザ**（ID `E_char_ザルーザ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

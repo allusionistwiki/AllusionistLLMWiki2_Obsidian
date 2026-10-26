@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 「鮮血の少女」と呼ばれる、赤い針を使用 ｜ 外見・武器 ｜ 典拠: [169話](../../nav/ch0169.md)（p5640）
   > 鮮血の少女は、血のような赤い針で影を一刺し。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **エルネアーズ**（ID `E_char_エルネアーズ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

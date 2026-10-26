@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「貫け、神火明光（ロウォイラス）！！」 灼熱の輝きが槍となって天から突き下ろされそうになったその時、離れた場所で固まっていた竜神信教の信者たちの中から一人の少女が飛び出す。真っ直ぐに駆け出して、大機竜に近付いていく。（ch5165）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ソルダ**（ID `E_char_ソルダ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

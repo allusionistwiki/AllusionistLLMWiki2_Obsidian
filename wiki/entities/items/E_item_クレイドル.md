@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: ゆっくりとクレイドルの蓋が開いていく。揺りかごのような形の大型呪具はホワイト――メートリアンをアストラルの世界に誘ってくれる。独力でアストラル界にダイブできる能力があればこのようなものは必要ないのだが、そこそこの杖の適性とわずかな邪視の適性しか持たないメートリアンにとっては必須の呪具だった。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クレイドル**（ID `E_item_クレイドル` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

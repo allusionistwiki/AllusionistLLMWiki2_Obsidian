@@ -24,3 +24,9 @@ updated: '2026-10-21'
 ドーム上の天井からは照明光が降り注ぎ、正方形のブロック状に積み重なった建築物が積み木のように延々と連なり、街路を形成している。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **第五階層の街並み**（ID `E_term_第五階層の街並み` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

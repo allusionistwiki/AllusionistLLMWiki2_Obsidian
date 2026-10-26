@@ -45,3 +45,9 @@ updated: '2026-10-21'
 - **unknown**: 空の民たちは魔将を結界内部に取り込み、重力を操作して結界の端に押しやった。帽子の中から解き放たれたのは大量の軟泥（ウーズ）。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **空の民**（ID `E_char_空の民` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

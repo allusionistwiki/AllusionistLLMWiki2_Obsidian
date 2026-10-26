@@ -45,3 +45,9 @@ description: キャラ容姿描写ページ
 - 仮面が壊れ、わりと普通な面相が見える ｜ 顔立ち・装飾 ｜ 典拠: [163話](../../nav/ch0163.md)（p5523）
   > ゴム弾が顔面に直撃し、割れた仮面の奥からわりと普通な面相が現れた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **スマルト**（ID `E_char_スマルト` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

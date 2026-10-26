@@ -29,3 +29,9 @@ created: "2026-09-30"
 - [[A_ch5033_analogous_to_E_ch5033_コルセスカ_other_松明の騎士団接近_p112_現代の政治的・組織的ステークホルダーへの接触リスク|組織間対立の巻き込みへの類似]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **コルセスカ**（ID `E_char_コルセスカ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

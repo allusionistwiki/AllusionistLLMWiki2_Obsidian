@@ -61,8 +61,6 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: ユガーシャの声は切々と情動に訴えかける。その声といい表情と言いどこまでも『本物』にしか見えない――本気に見える以上、それは本気なのだ。
-- **unknown**: ユガーシャの声は切々と情動に訴えかける。その声といい表情と言いどこまでも『本物』にしか見えない――本気に見える以上、それは本気なのだ。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:name -->
@@ -74,3 +72,9 @@ updated: '2026-10-21'
 - **unknown**: 艶やかな青い長髪が頬に垂れ、切れ長の目が、彫像のような顔立ちが、勝利の余韻よりも物語が終わる詠嘆を想って揺れた。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ユガーシャ・ランディバイス**（ID `E_char_ユガーシャ・ランディバイス` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

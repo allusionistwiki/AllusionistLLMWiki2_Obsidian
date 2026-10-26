@@ -28,3 +28,9 @@ created: "2026-09-30"
 > 「その通りだ。奴は単独で虫王の庭に向かい黒蟲騎士団と交戦。団長（シダリス）は被害の大きさから撤退、応戦した私も十体中六体が全壊。更に虫王の庭で異変が起きている。これよりアルバダオバ及びクヘーバと合流し、反逆者の制圧に向かう」（ch5536）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルト・イヴニル**（ID `E_char_アルト・イヴニル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

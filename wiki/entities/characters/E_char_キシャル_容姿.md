@@ -80,3 +80,9 @@ description: キャラ容姿描写ページ
 - 肉付きの良い肢体と厚い唇、柔らかい声を持つ ｜ 声・体格・唇 ｜ 典拠: [151話](../../nav/ch0151.md)（p5115）
   > 柔らかい声、肉付きの良い肢体、厚い唇、母を思い起こさせる暖かな雰囲気。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **キシャル**（ID `E_char_キシャル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

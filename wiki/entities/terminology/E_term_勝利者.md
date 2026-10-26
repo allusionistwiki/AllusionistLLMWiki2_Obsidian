@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 勝利した者は第十九番目の色彩『万色』の称号を獲得し、第二位ダーシェンカの教えを受けることができる。偉大なる次女の支援を受けることが出来れば、末妹の未来は確実に近付く。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **勝利者**（ID `E_term_勝利者` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

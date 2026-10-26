@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「おいで、『死滅廃園』」 上下互い違いに構えた両手の間には正方形の箱が浮かんでいた。 透明な内側にはミニチュアの小さな世界が広がっている。（ch0240）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **死滅廃園**（ID `E_char_死滅廃園` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

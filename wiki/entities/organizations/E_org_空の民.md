@@ -30,6 +30,10 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: そこに集った全ての者にとって、権力とは手足と同じように振るうものであり、権威とは生まれつき備わっているものであった。
-- **unknown**: そこに集った全ての者にとって、権力とは手足と同じように振るうものであり、権威とは生まれつき備わっているものであった。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **空の民**（ID `E_char_空の民` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

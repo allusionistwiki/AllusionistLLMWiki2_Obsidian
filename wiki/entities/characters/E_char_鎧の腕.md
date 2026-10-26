@@ -26,3 +26,9 @@ created: "2026-09-30"
 > パーンが再現に成功した『鎧の腕』は、始祖神を物質界に零落させる再現実験であると同時に、その手が届く範囲の存在を掌握するための暴力だ。（ch5586）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **鎧の腕**（ID `E_char_鎧の腕` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

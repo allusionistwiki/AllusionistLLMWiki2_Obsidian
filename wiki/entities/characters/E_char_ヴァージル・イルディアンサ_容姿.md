@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 左耳（兎の耳）が切断される ｜ 耳 ｜ 典拠: [131話](../../nav/ch0131.md)（p4530）
   > ヴァージルの左耳が切断されていた。兎の耳が落ちて血が噴き出す。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヴァージル・イルディアンサ**（ID `E_char_ヴァージル・イルディアンサ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -31,3 +31,9 @@ updated: '2026-10-21'
 - **unknown**: 透き通るような仮想アストラル光が満ちる広漠な空間。 青空の下、白塗りの卓には茶器一式、緩く湾曲したデザインの椅子の上にはぬいぐるみにも見える小さなシルエット。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **談話室**（ID `E_item_談話室` / kind: location / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

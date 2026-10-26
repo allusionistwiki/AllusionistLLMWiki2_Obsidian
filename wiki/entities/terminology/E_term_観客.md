@@ -5,8 +5,8 @@ type: entity
 subtype: terminology
 canonical_name: 観客
 title: 観客
-first_appearance: ch5400
-spoiler_after: ch5400
+first_appearance: ch5347
+spoiler_after: ch5347
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
@@ -44,3 +44,9 @@ updated: '2026-10-21'
 - **unknown**: 歓声は爆撃に似て、戦禍を被った人々が燃え上がる魂を晒して大量の死を渇望した。クレイの熱狂的な女性ファンたちによる『殺して』コール。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **観客**（ID `E_char_観客` / kind: motif / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

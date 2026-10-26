@@ -99,3 +99,9 @@ updated: '2026-10-21'
 - **unknown**: 襲撃者の無知と油断を好機と捉えたちびニアはコックピットから緊急脱出して着地、爆風の中を疾走して付近に潜伏しているであろう『爆撃』の詠唱者を探す。 通路に飛び出し、くんくんと匂いを辿って呪詛の原因を遡る。 濃密な呪力がわだかまる一室に飛び込んで爪を伸ばし、容赦なく飛び掛かる。 引き裂いたのは魔導書を背負った大型猟犬の使い魔だった。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ちびニア**（ID `E_char_ちびニア` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

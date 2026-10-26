@@ -63,3 +63,9 @@ updated: '2026-10-21'
 - **unknown**: 『上』や『下』で居場所を失った人々が最後に辿り着くのがこの魔都だ。みな、苛酷な因縁と苦痛に満ちた過去を背負ってここにいる。 それでも、難民たちが生活を積み重ねて次の世代に希望を繋ごうとするように、今を生きるものたちは未来に向かって歩いている。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **第五階層**（ID `E_char_第五階層` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -54,3 +54,9 @@ updated: '2026-10-19'
 - **unknown**: 暗雲に月光が遮られ、少女たちの姿も消える。残ったのは、長い長い絹糸のような紅紫の髪が一本。それさえも夜風に吹かれてどこかへと飛ばされていった。ふと、虚空でその色が変化する。深い深い、青色に。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **マゼンタ**（ID `E_char_マゼンタ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

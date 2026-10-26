@@ -5,8 +5,8 @@ type: entity
 subtype: item
 canonical_name: 触手
 title: 触手
-first_appearance: ch5399
-spoiler_after: ch5399
+first_appearance: ch5054
+spoiler_after: ch5054
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
@@ -47,3 +47,9 @@ updated: '2026-10-21'
 - **unknown**: 観客たちひとりひとりに巻き付いた触手が変形し、先端部分に少女の顔が浮かび上がり、肩、腕、胴、腰までのラリスキャニアとなったのだ。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **触手**（ID `E_char_触手` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

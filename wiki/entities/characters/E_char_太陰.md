@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 哀れに思ったアルト王は兎の為に、そして神々の図書館の再建のために、太陰に援助を行うことを決めた。（ch0099）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **太陰**（ID `E_char_太陰` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 袴のような下履き、腹部貫通 ｜ 服装・傷 ｜ 典拠: [1話](../../nav/ch0001.md)（p73）
   > だがそれも長くは続くまい。腹部を貫通する無数の棘は明らかに内蔵を傷つけているし、袴にも似た下履きは血を吸ってなお雫を床にこぼし続けており、足元の血は明らかに手遅れな量に達している。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **巨漢**（ID `E_char_巨漢` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

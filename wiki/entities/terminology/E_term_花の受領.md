@@ -20,5 +20,4 @@ updated: '2026-10-19'
 ## 象徴・比喩
 
 - **unknown**: これを受け取れば私は試験の合格となる。
-
 <!-- /AUTO-GENERATED:symbolic -->

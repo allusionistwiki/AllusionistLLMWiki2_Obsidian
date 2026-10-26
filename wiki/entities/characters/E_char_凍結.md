@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「凍レ」消滅。いや、これは凍結と言うべきか。不自然な唐突さで激情が停止し、吐き出されようとしていた怒りが鎮火されていた。（ch0202）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **凍結**（ID `E_char_凍結` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

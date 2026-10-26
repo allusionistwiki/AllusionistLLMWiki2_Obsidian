@@ -42,3 +42,9 @@ description: キャラ容姿描写ページ
 - 美形ではないが愛嬌があり、中年と思われる。 ｜ 顔立ち・年齢 ｜ 典拠: [1話](../../nav/ch0001.md)（p37）
   > 美形というわけではないが、笑うと愛嬌のある顔だった。俺よりも一回り以上年上、おそらく中年にさしかかる頃だろう
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **キール**（ID `E_char_キール` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

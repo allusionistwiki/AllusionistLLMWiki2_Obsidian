@@ -32,3 +32,9 @@ description: キャラ容姿描写ページ
   > それはねじくれた名も知らぬ植物と、それらと渾然一体となって溶け合う様々な昆虫の集合体だった。
 虫なのか、草なのか。判断を拒む非調和の姿。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **虫飼い**（ID `E_char_虫飼い` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

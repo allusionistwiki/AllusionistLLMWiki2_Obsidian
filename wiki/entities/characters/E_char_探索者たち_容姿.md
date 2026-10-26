@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - ヒレ耳の女、象牙の僧正 ｜ 髪(耳)・装飾 ｜ 典拠: [181話](../../nav/ch0181.md)（p6000）
   > 書物であり楽器であり詩歌そのものでもある大きな巻き貝を手にしたヒレ耳の女が呪文で作られた投網を投げて使い魔の群を捕獲し、象牙の僧正が斜め前に進撃しながら吸血鬼たちを浄化していく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **探索者**（ID `E_char_探索者` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

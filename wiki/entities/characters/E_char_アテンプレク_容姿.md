@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 牙猪の外見と、緊張を解く大きな肩の仕草 ｜ 牙猪・大きな肩 ｜ 典拠: [247話](../../nav/ch0247.md)（p8010）
   > 牙猪はそんなユディーアの探るような視線に気づくことなく、緊張を解くように大きな肩を撫で下ろした。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アテンプレク**（ID `E_char_アテンプレク` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

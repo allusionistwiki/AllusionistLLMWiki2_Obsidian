@@ -40,6 +40,10 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: （地母神キュトスの【杖】性の欠片である最後の魔女トリシューラと、純粋な【杖】のゼノグラシアであるアキラくんが【聖婚】を行うということ。それは両者の相互補完を意味している）
-- **unknown**: （地母神キュトスの【杖】性の欠片である最後の魔女トリシューラと、純粋な【杖】のゼノグラシアであるアキラくんが【聖婚】を行うということ。それは両者の相互補完を意味している）
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **聖婚**（ID `E_term_聖婚` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -39,3 +39,9 @@ updated: '2026-10-19'
 - **unknown**: カシュラムは滅亡した。炎は九日九晩に渡って王国を焼き尽くし、巨大な黒蛇が人々を喰らった。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カシュラム**（ID `E_char_カシュラム` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

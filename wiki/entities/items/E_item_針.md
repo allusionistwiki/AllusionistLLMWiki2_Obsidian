@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: しかし、どういうことなのか。針が刺さった箇所からは赤い血が滲み出し、即座に治癒されるということがなかった。確かに治すまでもない軽傷だが、もしかすると重傷しか癒せないという制限があるのか。それにしては右目への攻撃が通用したというのが奇妙だ。通用した攻撃は、小石と針。共通点は、サイズ？
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **針**（ID `E_item_針` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

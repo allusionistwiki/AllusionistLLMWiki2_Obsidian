@@ -28,3 +28,9 @@ created: "2026-09-30"
 > ティリビナの民はこうした協力して何かを表現するダンスや体操などが得意なのだという。木に登ったり森を駆け巡ったりと優れた身体能力を誇る彼らは、高く飛び跳ねたり意外なほど柔軟に手足を動かしたりして派手な動きで観客の目を楽しませていた。（ch5347）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ティリビナの民**（ID `E_char_ティリビナの民` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

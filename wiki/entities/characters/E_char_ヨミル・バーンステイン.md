@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 「私が来たからには貴様らの好きにはさせんぞ死に損ないどもめ。宣名しよう。我が名はヨミル・バーンステイン！　松明の騎士団序列十三位にして天使ペレケテンヌルの加護を受けた私は同時に一万の自動鎧を操る事が可能！」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヨミル・バーンステイン**（ID `E_char_ヨミル・バーンステイン` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

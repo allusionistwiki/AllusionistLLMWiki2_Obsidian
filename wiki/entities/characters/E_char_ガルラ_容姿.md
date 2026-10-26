@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 朱色のローブを纏った長い身長の呪術師、朱色の宝玉の杖を持つ ｜ 服装(朱色のローブ)・体格(長身)・武器(朱色宝玉の杖) ｜ 典拠: [159話](../../nav/ch0159.md)（p5418）
   > 朱色のローブを纏った長身の呪術師がアルトの背後から進み出て、同じく朱色の宝玉が嵌められた杖を掲げる。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ガルラ**（ID `E_char_ガルラ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

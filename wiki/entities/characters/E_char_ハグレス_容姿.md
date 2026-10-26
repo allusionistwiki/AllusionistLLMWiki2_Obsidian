@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 明らかな外見描写の直接表現はないが、文脈上少年神であり弱体化している状態。容姿特異項なし。 ｜ 典拠: [260話](../../nav/ch0260.md)（p8285）
   > 「小細工だな。いくら僕が弱体化しているからってさ。七十一分の一でしかないお前が紀神である僕に勝てるはずないだろう！」
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ハグレス**（ID `E_char_ハグレス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

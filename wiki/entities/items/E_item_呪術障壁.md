@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 流線型の呪術障壁が大気を切り裂き、不安定な二人乗りの姿勢を制御する。（ch5341）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **呪術障壁**（ID `E_char_呪術障壁` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

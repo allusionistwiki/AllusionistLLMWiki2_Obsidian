@@ -25,3 +25,9 @@ created: "2026-09-30"
 > それは、言葉を重ねればきっと感覚で飛ぶよりも『確かな羽ばたきの手応え』があるはずだという直観に基づく呪文の飛翔術。テキストベース・フライト。（ch5561）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **言理飛翔**（ID `E_char_言理飛翔` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

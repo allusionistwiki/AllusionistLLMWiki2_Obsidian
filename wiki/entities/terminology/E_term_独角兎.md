@@ -5,8 +5,8 @@ type: entity
 subtype: terminology
 canonical_name: 独角兎
 title: 独角兎
-first_appearance: ch5156
-spoiler_after: ch5156
+first_appearance: ch5133
+spoiler_after: ch5133
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
@@ -38,3 +38,9 @@ updated: '2026-10-21'
 - **unknown**: 高速回転する質量が、弾体となって射出される。正確無比に撃ち出された螺旋の角は【静謐】の効果範囲に入ると消え去るが、内部の質量体は慣性に従って矢の勢いでミルーニャの左手を正確に撃ち抜いた。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **独角兎**（ID `E_term_独角兎` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

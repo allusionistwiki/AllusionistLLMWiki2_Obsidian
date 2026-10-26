@@ -25,3 +25,9 @@ created: "2026-09-30"
 > その後、大魔将ズタークスターク戦で閃空騎士団は壊滅。ファーガストは唯一の生還者となり、奮戦を称えて大神院からアルセミット国籍の付与と特別栄誉勲章が授与された。（ch0251）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ズタークスターク**（ID `E_char_ズタークスターク` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

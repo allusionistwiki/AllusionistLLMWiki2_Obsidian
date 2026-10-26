@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 老いびた修道騎士。 ｜ 老修道騎士 ｜ 典拠: [65話](../../nav/ch0065.md)（p2449）
   > その後ろでは第十二位の老修道騎士が必死になって【避雷針】の呪術を維持して大魔将の攻撃を凌いでいた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **グラ爺**（ID `E_char_グラ爺` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

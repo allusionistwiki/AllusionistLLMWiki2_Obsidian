@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「四魔女の目的は紀元槍に到達する事――そして僕たちのような使い魔は言わばその場所に至る為に存在する【鍵の基本原型】だ。実際に紀元槍にアクセスするためには幾通りかのプロセスが必要になる。まず四魔女と契約し、調整を受け、【制御盤】と適合すること（ch0054）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **制御盤**（ID `E_term_制御盤` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

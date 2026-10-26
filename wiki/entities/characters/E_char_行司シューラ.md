@@ -38,3 +38,9 @@ updated: '2026-10-21'
 - **unknown**: 二頭身のデフォルメ魔女は、何故か黒い烏帽子に男性用の衣服であるはずの直垂（ひたたれ）を身につけており、更には軍配団扇を手にしていた。いつも通りの微笑みを浮かべているのだが、装いのせいかやや奇妙な印象が拭いきれない。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **行司シューラ**（ID `E_char_行司シューラ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

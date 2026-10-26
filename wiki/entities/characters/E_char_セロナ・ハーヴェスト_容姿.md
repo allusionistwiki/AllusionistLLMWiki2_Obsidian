@@ -47,3 +47,9 @@ description: キャラ容姿描写ページ
 - 瞳に輝きが宿る ｜ 瞳 ｜ 典拠: [236話](../../nav/ch0236.md)（7753）
   > 途端、疲労と苦痛の全てが消え去ったかのようにセロナの瞳に輝きが宿る。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **セロナ・ハーヴェスト**（ID `E_char_セロナ・ハーヴェスト` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

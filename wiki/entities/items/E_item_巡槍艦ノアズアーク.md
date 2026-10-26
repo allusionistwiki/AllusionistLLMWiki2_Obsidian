@@ -56,3 +56,9 @@ updated: '2026-10-21'
 - **unknown**: 巡槍艦ノアズアーク。きぐるみの魔女トリシューラが所有する次元巡洋艦は、現在グレンデルヒ率いる【変異の三手】によって制御を奪われてしまっている。巡槍艦は壁面を破壊することなく透過して港に乗り付けていた。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **巡槍艦ノアズアーク**（ID `E_item_巡槍艦ノアズアーク` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

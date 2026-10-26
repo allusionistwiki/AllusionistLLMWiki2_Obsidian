@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: ――そもそも全部巨大企業が悪いんですよ！ 前線では毎日人が怪我したり死んだりしてるのに自社の利益ばっかり追求して流通量絞ってるんですから。本当は幾らでも増産できるくせに、プロテクト料とかを無駄に間に挟むからどんどん高額化して必要な人の手に渡らないわけです。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **巨大企業**（ID `E_org_巨大企業` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

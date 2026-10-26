@@ -45,3 +45,9 @@ description: キャラ容姿描写ページ
 - 激昂により目から火を吹き、高熱を放つ様子が描かれる。 ｜ 目（火）・唾・怒声・高熱 ｜ 典拠: [207話](../../nav/ch0207.md)（p6951）
   > 文字通りに目から火が吹き出ている。飛び散った唾と怒声が瞬間的に蒸発していき、両足で踏みしめた床が高熱によって溶解していた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **セラメル**（ID `E_char_セラメル` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

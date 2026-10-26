@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 【p98】 服装からして教会の司祭――それも私のような戦闘系の僧職者じゃなくて、儀式の主導、説教、布教、告解を執り行う式職者だ。 【p99】 槍神教の司祭、それも黒檀の民がここにいるのは、かなり意外なことだった。（ch5464）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **タマル**（ID `E_char_タマル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

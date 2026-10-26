@@ -50,3 +50,9 @@ updated: '2026-10-21'
 - **unknown**: 腕の中で『断章』が熱を持つ。ひとりでに記録を綴る呪われた書物が、『物語』を記し始めたのだ。誰かを主人公にした、壮大な叙事詩のはじまりを。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **富の断章**（ID `E_char_富の断章` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

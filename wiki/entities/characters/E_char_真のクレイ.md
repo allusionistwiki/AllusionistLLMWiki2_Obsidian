@@ -26,3 +26,9 @@ created: "2026-09-30"
 > やがてぴたりと静止する。資格を取り戻した『真の王子』が手にした刃から血を払うと、偽王子はどうと倒れ伏した。（ch5449）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **真のクレイ**（ID `E_char_真のクレイ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 私は、天の御殿に巻き付く有翼の大蛇を幻視した。 天から地上へと放たれる極大の閃光。 全てのアストラル界を消滅させるための、それは死の奔流。（ch0073）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **エクリーオベレッカ**（ID `E_char_エクリーオベレッカ` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

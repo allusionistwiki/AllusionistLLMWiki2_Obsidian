@@ -72,3 +72,9 @@ updated: '2026-10-21'
 - **unknown**: 【変異の三手】とは、複合巨大企業群の各探索者事業部門を束ね た探索者集団だ。ひたすら攻略に勤しむ姿から探索狂いとも称されるが、その実態は過酷なノルマに追われ、更に社内競争に晒される現代の奴隷である。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **変異の三手**（ID `E_char_変異の三手` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

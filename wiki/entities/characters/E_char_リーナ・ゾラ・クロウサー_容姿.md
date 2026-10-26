@@ -71,3 +71,9 @@ description: キャラ容姿描写ページ
 - 記憶の中の人物として金色の瞳に言及。 ｜ 瞳(記憶の中の他者) ｜ 典拠: [267話](../../nav/ch0267.md)（p8373）
   > 金色の瞳を思い出す。綺麗な目と、彼の優しい笑顔が好きだった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **リーナ・ゾラ・クロウサー**（ID `E_char_リーナ・ゾラ・クロウサー` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

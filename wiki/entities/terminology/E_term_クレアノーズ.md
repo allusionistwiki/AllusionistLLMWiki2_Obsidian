@@ -142,3 +142,9 @@ updated: '2026-10-19'
 - **unknown**: 魔女は自分を抉る。自分を切り落とす。腕を、脚を、翼を、皮を割いて肉を引きずり出し、鮮血と共に骨を砕く。 臓腑を千切り、頭蓋を割り、脳と眼球を引きずり出す。 クレアノーズはクレアノーズを抉り続けて、その中身全てを排出した。 残ったのはがらんどう。 空っぽになった、魔女の残骸。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クレアノーズ**（ID `E_char_クレアノーズ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

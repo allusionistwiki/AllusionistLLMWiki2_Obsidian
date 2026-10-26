@@ -56,3 +56,9 @@ updated: '2026-10-21'
 - **unknown**: ブライダルを中心にホテル、レストラン、美容、化粧品、パーティといった事業を手掛けるサンブル家は世界各国の上流階級、大企業、呪術結社といった支配階層が交流する『場』を用意する役目を担い続けてきた。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **サンブル家**（ID `E_char_サンブル家` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

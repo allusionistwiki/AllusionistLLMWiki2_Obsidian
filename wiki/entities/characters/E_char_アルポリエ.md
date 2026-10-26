@@ -58,3 +58,9 @@ updated: '2026-10-19'
 - **unknown**: 有翼氷河が北辺の上空を覆ったあの日、まだ少年だったあなたは信じられないくらい眩しくて、愚かで、可能性に満ちていた。無為に生き過ぎた私にもまだ光を直視することができるんだって、信じられない気持ちになったものだわ。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルポリエ**（ID `E_char_アルポリエ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

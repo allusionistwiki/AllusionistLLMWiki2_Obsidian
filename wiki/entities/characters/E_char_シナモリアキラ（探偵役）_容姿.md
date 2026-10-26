@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 鍛えられているが華奢に見える ｜ 体格 ｜ 典拠: [198話](../../nav/ch0198.md)
   > 鍛えているためか体格はいいが、周囲の探索者たちに巨漢が多いのでむしろ華奢に感じられる
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **シナモリアキラ（探偵役）**（ID `E_char_シナモリアキラ_探偵役_` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

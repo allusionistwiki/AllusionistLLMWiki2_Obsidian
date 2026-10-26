@@ -5,8 +5,8 @@ type: entity
 subtype: character
 canonical_name: 悪鬼たち
 title: "悪鬼たち"
-first_appearance: ch5053
-spoiler_after: ch5053
+first_appearance: ch5043
+spoiler_after: ch5043
 document_status: active
 review_status: llm_verified
 created: "2026-09-30"

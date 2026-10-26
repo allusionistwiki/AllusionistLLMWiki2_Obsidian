@@ -51,3 +51,9 @@ description: キャラ容姿描写ページ
 - 眼鏡をかけ、編み込みの髪型をしている。 ｜ 髪型（編み房髪）・顔立ち/服飾（眼鏡） ｜ 典拠: [232話](../../nav/ch0232.md)（p7652）
   > タマル：亜大陸を知らないエルネトモラン人の式職者。眼鏡と編み房髪。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **タマル**（ID `E_char_タマル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -20,6 +20,10 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: そのまま伸びれば発達した牙が頭部に突き刺さって死に至るという呪われた宿命を持つ稀少種族であるチリアットは、ガロアンディアン屈指の実力者と言われている。
-- **unknown**: そのまま伸びれば発達した牙が頭部に突き刺さって死に至るという呪われた宿命を持つ稀少種族であるチリアットは、ガロアンディアン屈指の実力者と言われている。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **牙猪種**（ID `E_term_牙猪種` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

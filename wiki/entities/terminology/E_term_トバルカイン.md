@@ -31,7 +31,10 @@ updated: '2026-10-19'
 ## 象徴・比喩
 
 - **unknown**: 其れこそは全ての黒金を鍛える者。あらゆる武装を作り出す、刃の鍛え手。死者を踏み越えた果てに叡智を築き上げる原初の鍛冶師。
-- **unknown**: 其れこそは全ての黒金を鍛える者。あらゆる武装を作り出す、刃の鍛え手。死者を踏み越えた果てに叡智を築き上げる原初の鍛冶師。
-- **unknown**: 其れこそは全ての黒金を鍛える者。あらゆる武装を作り出す、刃の鍛え手。死者を踏み越えた果てに叡智を築き上げる原初の鍛冶師。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **トバルカイン**（ID `E_char_トバルカイン` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -20,7 +20,10 @@ updated: '2026-10-19'
 ## 象徴・比喩
 
 - **unknown**: 一般的には蚊避けのまじないだが、猫にとっては酩酊感と踊り出したくなるような高揚をもたらす精神賦活の薬草だ。
-- **unknown**: 一般的には蚊避けのまじないだが、猫にとっては酩酊感と踊り出したくなるような高揚をもたらす精神賦活の薬草だ。
-- **unknown**: 一般的には蚊避けのまじないだが、猫にとっては酩酊感と踊り出したくなるような高揚をもたらす精神賦活の薬草だ。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カタリア草**（ID `E_item_カタリア草` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

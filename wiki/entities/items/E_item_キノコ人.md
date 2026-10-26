@@ -31,9 +31,6 @@ updated: '2026-10-19'
 ## 象徴・比喩
 
 - **unknown**: ティリビナ人の呪術は自然を対象とするものが基本だから、『人を操る』ことは専門外なのだが、キノコ人たちの寄生呪術なら話は別だ。
-- **unknown**: ティリビナ人の呪術は自然を対象とするものが基本だから、『人を操る』ことは専門外なのだが、キノコ人たちの寄生呪術なら話は別だ。
-- **unknown**: ティリビナ人の呪術は自然を対象とするものが基本だから、『人を操る』ことは専門外なのだが、キノコ人たちの寄生呪術なら話は別だ。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->
@@ -44,3 +41,9 @@ updated: '2026-10-19'
 - **unknown**: 閃光がキノコ人たちを焼き、命が散っていく。 迸る魂のエネルギーが円形の門を形成し、空間を歪めていった。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **キノコ人**（ID `E_char_キノコ人` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 単純極まりない【空圧】。増幅された音波は衝撃波となって魔将たちを吹き飛ばす。巨大に複雑に、ただ行動を制限するという目的に特化した大音響が響き渡って呪力そのものを弾き飛ばしていくのだ。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **聖火楽団**（ID `E_org_聖火楽団` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

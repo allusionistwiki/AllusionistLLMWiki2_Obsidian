@@ -49,3 +49,9 @@ description: キャラ容姿描写ページ
 - ビーグル犬のような容姿の若者 ｜ 外見特徴(ビーグル犬)・年齢(若者) ｜ 典拠: [159話](../../nav/ch0159.md)（p5420）
   > ビーグル犬の若者
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **レミルス**（ID `E_char_レミルス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

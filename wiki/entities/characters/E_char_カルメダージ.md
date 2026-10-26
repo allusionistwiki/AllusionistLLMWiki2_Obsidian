@@ -5,8 +5,8 @@ type: entity
 subtype: character
 canonical_name: カルメダージ
 title: カルメダージ
-first_appearance: ch0242
-spoiler_after: ch0242
+first_appearance: ch0143
+spoiler_after: ch0143
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
@@ -46,3 +46,9 @@ updated: '2026-10-19'
 - **unknown**: 「『絢爛小片硝子世界』。ああ、綺麗なものほど、壊れることが真実になる」 周囲の時空を穿孔して傷つける広域殲滅用の邪視空間。 かつてカシュラムの軍勢をかき混ぜて肉片のモザイクに変えたと言い伝えられている恐るべき浄界が激流を割り、亜竜の全身を棘で埋めつくす。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カルメダージ**（ID `E_char_カルメダージ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

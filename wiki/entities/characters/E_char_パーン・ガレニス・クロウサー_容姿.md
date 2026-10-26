@@ -128,3 +128,9 @@ description: キャラ容姿描写ページ
 - 風に流れた前髪、邪視眼鏡をかけている ｜ 前髪・眼鏡 ｜ 典拠: [233話](../../nav/ch0233.md)（p7674）
   > 風に押し流された前髪が後ろに流れ、端末を搭載した邪視眼鏡ごしに戦意を漲らせる少年はただそこに存在するだけで覇者のオーラを放っていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **パーン**（ID `E_char_パーン` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

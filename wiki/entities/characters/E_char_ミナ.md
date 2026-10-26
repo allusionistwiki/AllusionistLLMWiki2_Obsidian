@@ -58,3 +58,9 @@ updated: '2026-10-21'
 - **unknown**: 「少年化してるってことは～、ほぼ確実に『童貞化』してるってこと！」 かつての戦いで変質したパーンはミナにとって格好の標的だ。 浄界と化身による強化。『炎天使』によって強化された神速の飛翔術。対童貞に特化した魅了がもたらす絶対的な破壊と再生。無法を重ねて正道を往く者の前に立ちはだかったミナは、必殺の槍を手にして『彼氏さん』に内定した六王に狙いを定める。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ミナ**（ID `E_char_ミナ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

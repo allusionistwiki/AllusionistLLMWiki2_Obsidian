@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 黒い衣服を着た美女 ｜ 服装・顔立ち ｜ 典拠: [268話](../../nav/ch0268.md)（p8382）
   > 黒衣の麗人がミブリナの前に立ちはだかる
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **黒衣の麗人**（ID `E_char_黒衣の麗人` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -5,8 +5,8 @@ type: entity
 subtype: character
 canonical_name: 第五階層の状況
 title: "第五階層の状況"
-first_appearance: ch5199
-spoiler_after: ch5199
+first_appearance: ch5198
+spoiler_after: ch5198
 document_status: active
 review_status: llm_verified
 created: "2026-09-30"

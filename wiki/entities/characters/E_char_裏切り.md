@@ -5,8 +5,8 @@ type: entity
 subtype: character
 canonical_name: 裏切り
 title: "裏切り"
-first_appearance: ch0110
-spoiler_after: ch0110
+first_appearance: ch0092
+spoiler_after: ch0092
 document_status: active
 review_status: llm_verified
 created: "2026-09-30"

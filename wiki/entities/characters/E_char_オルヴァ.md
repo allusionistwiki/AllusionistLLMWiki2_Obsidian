@@ -386,13 +386,6 @@ updated: '2026-10-21'
 - **unknown**: 生と死を繰り返す、永遠の王国。それがオルヴァという存在だった。
 - **unknown**: すなわち、時空を操る灰と紫の力を。
 - **unknown**: とはいえ、オルヴァの特殊性は王であった時代にはない。 彼には根強い『生存説』があったのだ。
-- **unknown**: 生と死を繰り返す、永遠の王国。それがオルヴァという存在だった。
-- **unknown**: すなわち、時空を操る灰と紫の力を。
-- **unknown**: とはいえ、オルヴァの特殊性は王であった時代にはない。 彼には根強い『生存説』があったのだ。
-- **unknown**: 生と死を繰り返す、永遠の王国。それがオルヴァという存在だった。
-- **unknown**: すなわち、時空を操る灰と紫の力を。
-- **unknown**: とはいえ、オルヴァの特殊性は王であった時代にはない。 彼には根強い『生存説』があったのだ。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:name -->
@@ -420,3 +413,9 @@ updated: '2026-10-21'
 - **unknown**: 生きている死として、死に寄りそう生として。オルヴァは求めた。矛盾の中で、彼女を愛し続けた。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **オルヴァ**（ID `E_char_オルヴァ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

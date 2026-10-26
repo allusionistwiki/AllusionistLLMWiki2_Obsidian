@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 両足が存在せず、車椅子で移動している ｜ 足・義肢・移動手段 ｜ 典拠: [40話](../../nav/ch0040.md)（p1755）
   > 両足が失われており車椅子で生活していることも、その壮絶な過去を想像させて他の候補達をおののかせる一因となっている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ザリス**（ID `E_char_ザリス` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

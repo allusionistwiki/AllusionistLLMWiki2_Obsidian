@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 赤毛 ｜ 髪 ｜ 典拠: [99話](../../nav/ch0099.md)（p3597）
   > だがある時、ダーカンシェルは前触れもなく現れた赤毛の少年が振るう槍によって討たれ、その傷が元となってあっさりと零落してしまった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **赤毛の少年**（ID `E_char_赤毛の少年` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

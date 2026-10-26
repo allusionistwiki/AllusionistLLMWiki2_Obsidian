@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 『目覚めよ』 大量の広告に紛れ、見知らぬアドレスから端末に送られてきたメッセージ。 諦観に曇った老いた瞳が、その呪文を捉えた。 ささやかな、けれど重大な異変。（ch0236）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **目覚めよ**（ID `E_char_目覚めよ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

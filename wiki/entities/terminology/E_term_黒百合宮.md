@@ -59,3 +59,9 @@ updated: '2026-10-21'
 - **unknown**: そして私は、朝と夜の区別がない、とても不思議な場所に連れてこられた。 黒百合宮という名前だと、ダーシェンカが教えてくれた。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **黒百合宮**（ID `E_char_黒百合宮` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

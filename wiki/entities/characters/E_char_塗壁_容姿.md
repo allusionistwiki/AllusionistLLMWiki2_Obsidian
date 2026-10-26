@@ -41,3 +41,9 @@ description: キャラ容姿描写ページ
 - 片方の眼で親しみの視線を送る ｜ 眼・表情 ｜ 典拠: [229話](../../nav/ch0229.md)（p7573）
   > 片方でしかない『塗壁』は、そう言いながらエリカに親しみの視線を向けた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **塗壁**（ID `E_char_塗壁` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

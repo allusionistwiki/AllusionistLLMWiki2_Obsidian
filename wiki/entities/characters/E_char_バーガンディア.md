@@ -39,3 +39,9 @@ updated: '2026-10-19'
 - **unknown**: ある日、人形が塔の最上階に食事を運びに行くと、王妃の姿は忽然と消えていたという。以来、バーガンディアの姿を見た者はいない。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **バーガンディア**（ID `E_char_バーガンディア` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

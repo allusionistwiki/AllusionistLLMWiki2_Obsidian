@@ -25,3 +25,9 @@ created: "2026-09-30"
 > ――確かに、即死したはずだったのに。  愕然とするカルカブリーナに撤退を命じて、俺は姿を隠したまま右の掌底を叩き込み、そのまま背後に回り込んで肘打ち、更に双の掌を同時に叩き込む。床を蹴り抜く力をそのまま相手の背に撃ち込んで熱学発勁と共に肉体（ch5255）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **頭部**（ID `E_char_頭部` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

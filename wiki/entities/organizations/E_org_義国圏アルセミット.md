@@ -24,3 +24,9 @@ updated: '2026-10-21'
 - **unknown**: 上方勢力である義国圏アルセミットと下方勢力である鈴国圏ジャッフハリムによる慢性化した戦争が続き、その中でお互いを『異獣』として否定し合うようになった。亜大陸への聖絶と、ティリビナ人の異獣認定はその中で起きた出来事だ）
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **義国圏アルセミット**（ID `E_org_義国圏アルセミット` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

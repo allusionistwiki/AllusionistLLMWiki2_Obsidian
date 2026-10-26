@@ -103,3 +103,9 @@ description: キャラ容姿描写ページ
 - 二つの顔（涙を流す男、喜色満面の男）が現れる描写があり、盗賊王によく似た顔つき。 ｜ 顔立ち ｜ 典拠: [248話](../../nav/ch0248.md)（p8026）
   > ユディーアを拘束する文字列の鎖から二つの顔がにょきにょきと生えてくる。涙を流す男と喜色満面の男。両者共に、盗賊王とよく似た印象の顔つきだった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ゼド**（ID `E_char_ゼド` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

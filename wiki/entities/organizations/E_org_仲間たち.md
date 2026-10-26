@@ -46,3 +46,9 @@ updated: '2026-10-21'
 - **unknown**: 「みんなで、現在（いま）を変えるんだ。みんなに不条理を押し付けてくる世界に。弱者だからっていいようにされてしまうなら、みんなで一緒に強者になろう」
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **仲間たち**（ID `E_char_仲間たち` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

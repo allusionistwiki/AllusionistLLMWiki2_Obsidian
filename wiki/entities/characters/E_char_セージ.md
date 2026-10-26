@@ -194,3 +194,9 @@ updated: '2026-10-21'
 - **unknown**: 「お父様！ ローズマリー！ アニス！」 恰幅の良い壮年の男、妖艶な姿態の女、硬質な佇まいの女――セージにとって最も近しい家族が再生者として復活していた。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **セージ**（ID `E_char_セージ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

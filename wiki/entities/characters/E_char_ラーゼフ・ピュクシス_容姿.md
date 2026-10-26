@@ -45,3 +45,9 @@ description: キャラ容姿描写ページ
 - 瞳から淡い白色の光を発する ｜ 瞳 ｜ 典拠: [146話](../../nav/ch0146.md)（p4924）
   > 彼女は眼鏡を外すと、瞳から淡い白色の光を発して透き通るような呪力を纏う。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ラーゼフ・ピュクシス**（ID `E_char_ラーゼフ・ピュクシス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

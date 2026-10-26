@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 右の機械義肢が自動的に重心のバランスをとろうとして小さな駆動音を鳴らす。普段は気にならない程度の音だが、『仕事』の後はしばらく感覚を鋭敏に保つ事にしていたものだから、それがやけに気になった。（ch5392）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **機械義肢**（ID `E_item_機械義肢` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

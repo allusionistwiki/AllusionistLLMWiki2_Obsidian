@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 牛頭を持つ魔将 ｜ 頭部 ｜ 典拠: [72話](../../nav/ch0072.md)（p2677）
   > 吼える牛頭の魔将は、しかし無数の物語によって全身を打ちのめされていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アインノーラ**（ID `E_char_アインノーラ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

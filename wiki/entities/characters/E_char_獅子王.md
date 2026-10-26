@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 獅子の王は真理を見通す知性とあらゆる存在を受け入れる度量を併せ持つ、偉大なる存在だった。予言王をして『器が違う』と確信させてしまうほどの圧倒的な覇気。それでいて少年王には臣下たちを友として扱う親しみ易さもあった。（ch5374）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **獅子王**（ID `E_char_獅子王` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

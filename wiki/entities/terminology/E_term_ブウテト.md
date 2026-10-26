@@ -26,3 +26,9 @@ created: "2026-09-30"
 > 続けて、ブウテトは自らの軍勢の一部を下腹部から呼び集める。 「大いなる神格バチルス・サブティリスよ、ねばねばであの娘を捕らえるぶひ」（ch5327）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ブウテト**（ID `E_char_ブウテト` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

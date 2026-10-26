@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 「階層間を移動する際に特有の彩域紋が視認できました。この連中はディスケイム式の色号術を感知して偵察に来たクロウサーの部隊と思われます」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クロウサーの部隊**（ID `E_org_クロウサーの部隊` / kind: organization / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

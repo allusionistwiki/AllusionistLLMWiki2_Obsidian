@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 露出した内臓が見える状態で、腹に詰め込んで接合されている。 ｜ 内臓・伤口 ｜ 典拠: [162話](../../nav/ch0162.md)（p5480）
   > 露出した内臓を腹に詰め込んで、呪符で傷口を接合しつつ香水できつい臭いを誤魔化す。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **再生者**（ID `E_char_再生者` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -42,3 +42,9 @@ updated: '2026-10-19'
 - **unknown**: ここは高位の言語魔術師だけが知覚できる空間。二人は初めて出会った瞬間から今の今まで、ずっとこの場所で遊戯を続けてきた。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **オルヴァ**（ID `E_char_オルヴァ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

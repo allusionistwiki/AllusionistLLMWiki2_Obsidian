@@ -51,3 +51,9 @@ updated: '2026-10-19'
 - **unknown**: 「君に任せたいのは住宅サービスの提供でね。今日の寝床すら定まらないような貧困層の為に、低価格で住居を貸し出そうと思っているのだよ。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ロドウィ**（ID `E_char_ロドウィ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

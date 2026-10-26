@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 「ちょっと捻った太陽にも見えるかな。それこそ叡智の民とか、『朱』の色号使いみたいな下方勢力にも当てはめられそう。トリシューラは『ルビカンテ』という名に『狂気』とか『怒り』といった意味合いを与えていたみたいだけど、特に決まってないのかもね。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ルビカンテ**（ID `E_char_ルビカンテ` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 彩域の急激な流転。黒、灰、白、黄、巡る色彩は見慣れない混濁。魔女の四大系統や色号論で捉えられない呪術世界。「これが、死の地霊」 トロル呪術の真髄を目の当たりにしたティリビナ人たちの表情が畏怖に染まる。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **トロル呪術**（ID `E_term_トロル呪術` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

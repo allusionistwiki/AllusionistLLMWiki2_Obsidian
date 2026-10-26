@@ -35,3 +35,9 @@ updated: '2026-10-19'
 - **unknown**: 上空で『援軍』と戦っていたアレッテ・イヴニルが密かに構築していた長大な呪文を解き放つ。 輝く文字列で構成された呪文竜――オルガンローデが天空を駆け抜ける。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルト・イヴニル**（ID `E_char_アルト・イヴニル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

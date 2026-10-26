@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 直観手相は神秘的な力を効率よく引き出せるように、方法を規則的に自動化、手続き化したもの――オートスコープとして手相を用いるもの。占星術師のカードみたいなものだね（ch5290）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ラウス＝ベフォニス**（ID `E_char_ラウス＝ベフォニス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

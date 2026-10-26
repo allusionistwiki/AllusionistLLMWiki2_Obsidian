@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 突如としてサリアの足元から立ち上ったのは血まじりの赤黒い煙。使徒はあっけなく黒煙に飲み込まれて生きながら消化吸収されていく。生命吸収――吸血鬼が最も得手とする呪術だ。（ch5365）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **生命吸収**（ID `E_char_生命吸収` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

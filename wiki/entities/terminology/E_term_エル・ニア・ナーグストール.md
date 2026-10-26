@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「時の鏡、星の絨毯、宝石夜空に恋い願う。荒野を往く旅人のように、我ら祈り手、聖なるけがれと涙を掬わん――お願い、エル・ニア・ナーグストール！」完全なる宣名が封印の円を解き放ち、宝石の輝きが世界を満たす。ここに、もう一つの言理が結実した。（ch5434）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **エル・ニア・ナーグストール**（ID `E_term_エル・ニア・ナーグストール` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

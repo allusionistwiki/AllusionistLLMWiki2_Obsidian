@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 完全な球形。左腕について言及あり ｜ 球形・左腕 ｜ 典拠: [195話](../../nav/ch0195.md)（p6514）
   > 俺は視界を左側に向けて、自分の身体が完全な球形であることを確認する。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **シナモリアキラ（紀人）**（ID `E_char_シナモリアキラ_紀人_` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

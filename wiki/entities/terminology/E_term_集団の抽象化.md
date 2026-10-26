@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 部隊という『個』の集合を『群』という記号に変換する呪文。部隊に所属する個々人をリソースと捉え、その観念的な上部構造に仮想使い魔を構築する。（ch5491）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **集団の抽象化**（ID `E_term_集団の抽象化` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

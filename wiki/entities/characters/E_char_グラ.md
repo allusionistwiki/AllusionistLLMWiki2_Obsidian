@@ -91,3 +91,9 @@ updated: '2026-10-21'
 - **unknown**: 現在俺の左腕を保有している、『俺を演じている役者』にしてトリシューラ配下の精鋭集団【マレブランケ】の新しいメンバーである。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **グラ**（ID `E_char_グラ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

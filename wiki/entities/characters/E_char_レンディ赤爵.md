@@ -25,3 +25,9 @@ created: "2026-09-30"
 > レンディ『自称』赤爵。赤い肌のラープ人。採石場で働いていた火工術師。前歴を生かして爆破テロ請負を繰り返す指名手配犯。推定命数はおよそ六千五百。（ch5478）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **レンディ赤爵**（ID `E_char_レンディ赤爵` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

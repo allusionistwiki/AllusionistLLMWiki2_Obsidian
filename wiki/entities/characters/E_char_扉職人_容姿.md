@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 側頭部にドアノブ、髭面 ｜ 顔立ち ｜ 典拠: [181話](../../nav/ch0181.md)（p6003）
   > 左右の側頭部からドアノブを生やした髭面の男が突如として虚空に出現し、不敵に笑う。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **扉職人**（ID `E_char_扉職人` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 滞空状態の機甲箒から小柄な女性が降り立つ。 箒乗りらしいヘルメットとフライトジャケットという出で立ちで、ゴーグルを持ち上げるとお馴染みの茶色の巻き毛と同色の瞳が露わになる。（ch5492）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アズーリア隊**（ID `E_char_アズーリア隊` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

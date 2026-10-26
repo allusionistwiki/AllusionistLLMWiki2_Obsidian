@@ -109,3 +109,9 @@ updated: '2026-10-21'
 - **unknown**: 「あらあら、誰かと思えば宝石の悪魔のお人形じゃないですか」 喋ってもかまわないと判断したのか、使い魔の口を借りて話すライラ。 レメス神の長女にとっては冥府から現世に声を届けることさえ容易いのだろう。 アバターの犬が器用に口の端を歪めて笑みを浮かべた。「ご安心を。この状況になった以上、私はあなた方と共闘可能です。少なくとも、あの邪魔者を排除するためにはどれだけ手があっても足りないでしょう？」
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ライラ・ラプス**（ID `E_char_ライラ・ラプス` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

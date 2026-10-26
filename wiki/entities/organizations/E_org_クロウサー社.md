@@ -96,3 +96,9 @@ updated: '2026-10-21'
 - **unknown**: 最近は車輪を用いた車も減ってきて、街を走る乗り物の多くはクロウサー社の製造する大型箒が主流である。四人も積載可能な箒なんて私の故郷では想像すら出来ない代物だったから
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クロウサー社**（ID `E_org_クロウサー社` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

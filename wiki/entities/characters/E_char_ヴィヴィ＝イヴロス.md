@@ -153,3 +153,9 @@ updated: '2026-10-21'
 - **unknown**: 確信する。テスモポリスこそが正しい道筋を理解していたことを。そして、ヴィヴィ＝イヴロスが俺に誤った台本を渡していたことも。つまり、ヴィヴィ＝イヴロスはテスモポリスと結託しているか、既にテスモポリスの支配下に置かれており、従属する立場にある。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヴィヴィ＝イヴロス**（ID `E_char_ヴィヴィ＝イヴロス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -47,3 +47,9 @@ updated: '2026-10-21'
 - **unknown**: 視界内の拡張現実空間に投影されているのはいつも通りの『サイバーカラテ道場』のデフォルト表示画面である。それはいい。問題は、その端に見慣れないアイコンが存在していること。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **サイバーカラテ道場**（ID `E_char_サイバーカラテ道場` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

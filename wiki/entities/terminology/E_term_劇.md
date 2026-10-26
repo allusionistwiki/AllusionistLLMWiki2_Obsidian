@@ -30,11 +30,7 @@ updated: '2026-10-21'
 
 - **unknown**: この筋書きは明らかに破綻している。
 だが、破綻したまま劇は続いていくのだ。
-- **unknown**: この筋書きは明らかに破綻している。
 - **unknown**: 劇の中で、昔語りが始まった。
-- **unknown**: 劇の中で、昔語りが始まった。
-- **unknown**: 劇の中で、昔語りが始まった。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->

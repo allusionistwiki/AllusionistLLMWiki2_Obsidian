@@ -52,3 +52,9 @@ updated: '2026-10-19'
 - **unknown**: マリーが蜂の群れを追い払おうと槌を振り回すが、炎を纏った蜂たちはマリーにまで群がってくる。一瞬の間を置いて、二人の肉体が内側から爆発した。火蜂が注入したのは燐血の民の血液から精製した爆裂毒の一種である。体内に入り込むと血中の成分と反応して起爆、標的を体内から爆砕する。威力としては初級の【炸撃】に満たないが、体内に浸透した毒が一斉に起爆して生きていられる者はいない。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **火蜂**（ID `E_char_火蜂` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

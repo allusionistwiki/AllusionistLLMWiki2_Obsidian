@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 聖女の記憶に存在する母で、救世主の子。 ｜ 母・聖女・クナータの記憶 ｜ 典拠: [202話](../../nav/ch0202.md)（p6784）
   > 聖女の記憶に存在する『母』の姿が書き換わったということは、彼女の子であり転生先である救世主の存在が変質したということだ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **母**（ID `E_char_母` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

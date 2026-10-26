@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 私は【知識】を。向き合う彼女は【生存】を手にして、相容れないながらも、折り合える妥協点を探り合った。（ch5296）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **生存**（ID `E_char_生存` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: いつの間にか巨大な鏡が少年の背後に鎮座していた。映し出された世界に亀裂が走る。鏡面が割れ、歪んだ世界に映るガドールの鏡像が分かれていく。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **鏡**（ID `E_item_鏡` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

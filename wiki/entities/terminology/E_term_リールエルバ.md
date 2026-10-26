@@ -38,3 +38,9 @@ updated: '2026-10-19'
 - **unknown**: 先日、私のちょっとしたユーモアから着想を得たリールエルバは、プリエステラと協力して夜の民とティリビナの民との親睦を深めることを思いついた。新参者の両種族同士、エルネトモランに馴染んでもらうためのお菓子作りイベントを開催することにしたのだった。名付けて『立春アズチョコ祭り』――街を救った英雄の名前を冠することで、エルネトモラン全体のお祭りにしたかったからだとか。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カーティス**（ID `E_char_カーティス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

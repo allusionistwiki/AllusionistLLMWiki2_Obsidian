@@ -42,3 +42,9 @@ description: キャラ容姿描写ページ
 - 愛らしい少女の姿に擬態している ｜ 少女の擬態 ｜ 典拠: [156話](../../nav/ch0156.md)（p5284）
   > 愛らしい少女に擬態したこの世の汚濁、その極致。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **レストロオセ**（ID `E_char_レストロオセ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

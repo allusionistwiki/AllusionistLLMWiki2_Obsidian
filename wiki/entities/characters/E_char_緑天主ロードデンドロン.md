@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「緑天主ロードデンドロン、ディパーシュ家のお二人に挨拶を申し上げます。ここに示すは我らが世界。まじないの作法こそ違えど、緑の色号を用いた浄界はいかがでしょうか。偉大なる稲穂の妻、チッセ様の土をお借りしたこと、どうかご容赦を」（ch5576）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **緑天主ロードデンドロン**（ID `E_char_緑天主ロードデンドロン` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

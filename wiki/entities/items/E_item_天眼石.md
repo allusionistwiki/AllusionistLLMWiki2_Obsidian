@@ -29,3 +29,9 @@ created: "2026-09-30"
 - A_ch0034_analogous_to_E_ch0034_メイファーラ_has_property_天眼石_p1390_ARグラス／スマートグラス（ARグラス的視覚干渉）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **天眼石**（ID `E_item_天眼石` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

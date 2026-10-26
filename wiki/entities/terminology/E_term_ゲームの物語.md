@@ -21,6 +21,4 @@ updated: '2026-10-21'
 
 - **unknown**: 【p129】
 すなわち、どちらが勝った方が痛快であるのか、という結論を誘導されたのだ。
-- **unknown**: 【p129】
-
 <!-- /AUTO-GENERATED:symbolic -->

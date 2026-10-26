@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 『それらは同じものである』と叫びながら零落の呪術を演じるのだ。 粗雑に短絡的に、似たようなものを結びつける呪術によって。 アナロギア（ch0129）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アナロギア**（ID `E_term_アナロギア` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -21,6 +21,4 @@ updated: '2026-10-21'
 
 - **unknown**: 【p3】
 森羅万象を震わせる呪文と共に、世界の全てが書き換えられる。
-- **unknown**: 【p3】
-
 <!-- /AUTO-GENERATED:symbolic -->

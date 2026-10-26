@@ -39,3 +39,9 @@ description: キャラ容姿描写ページ
 - 瞳に色を変えた（表情の変化を含むが色彩の描写） ｜ 瞳 ｜ 典拠: [157話](../../nav/ch0157.md)（p5312）
   > 瞳に興味深そうな色を浮かべる
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **イェレイド**（ID `E_char_イェレイド` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

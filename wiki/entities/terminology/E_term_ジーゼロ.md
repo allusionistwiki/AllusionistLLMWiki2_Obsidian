@@ -74,3 +74,9 @@ updated: '2026-10-19'
 - **unknown**: たった一人で激務をこなす外国人労働者の目の前で、喉を押さえて次々と客が倒れていく。男の瞳にあるのは世界全てに対する憎悪。本物の『バイトテロ』が引き起こした惨劇がリーナの悪ふざけと相乗効果を引き起こし、延焼に次ぐ延焼が猛火を招き、暗い熱がアストラルネットを焼いた。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ジーゼロ**（ID `E_char_ジーゼロ` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

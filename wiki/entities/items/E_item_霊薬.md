@@ -52,3 +52,9 @@ updated: '2026-10-21'
 - **unknown**: 彼女が厳格に管理する霊薬が注射針を伝ってリーナの腕に浸透していくと同時、どくんと心臓の音が鳴り響いて全身の『血』に満ちた呪力が活発化する。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **霊薬**（ID `E_item_霊薬` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

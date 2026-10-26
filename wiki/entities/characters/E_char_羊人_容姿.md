@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 赤子のような無垢で純粋な瞳 ｜ 瞳 ｜ 典拠: [236話](../../nav/ch0236.md)（7754）
   > 赤子のように無垢で純粋な羊人の瞳が、それを捉えた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **羊人**（ID `E_char_羊人` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

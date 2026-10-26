@@ -75,3 +75,9 @@ description: キャラ容姿描写ページ
 - 右目がない。屈強な筋肉質の巨躯。窮屈そうな詰め襟の軍服を着ている。 ｜ 右目・傷痕・体格・服装 ｜ 典拠: [248話](../../nav/ch0248.md)（p8043）
   > 右目はない。爪で裂かれたような傷痕は無惨だが、同時に目を逸らせない迫力と戦士の威圧感を飾る魅了の邪視として機能していた。屈強な筋肉質の体躯を窮屈そうな詰め襟の軍服に押し込めた巨躯は、彼の本質を皮肉な構図として体現している。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルト**（ID `E_char_アルト` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -69,3 +69,9 @@ description: キャラ容姿描写ページ
 - 牙を見せ、闇色の体毛が散る ｜ 牙・体毛 ｜ 典拠: [73話](../../nav/ch0073.md)（p2776）
   > 獰猛に牙を見せたまま、灰となって風の中に消えていった。闇色の体毛が、青空に散っていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **エスフェイル**（ID `E_char_エスフェイル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

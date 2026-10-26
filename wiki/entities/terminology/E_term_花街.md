@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 咲き誇る黒紫。それを美しいととるか毒々しいととるかは人によるだろうが、俺にはその色彩が魔性を宿しているように思えた。（ch0085）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **花街**（ID `E_item_花街` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

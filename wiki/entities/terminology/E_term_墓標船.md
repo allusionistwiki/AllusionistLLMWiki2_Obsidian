@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 墓標船の内部から次々と増援が現れてくる。彼らは次々に呪符や巻物を取り出して呪術を発動させようとするが、それらの呪具に素早く巻き付くものがあった。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **墓標船**（ID `E_item_墓標船` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

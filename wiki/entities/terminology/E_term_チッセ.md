@@ -59,3 +59,9 @@ updated: '2026-10-21'
 - **unknown**: チッセの頭部が蠢き、複数の封じられた眼が白、朱、藍、灰、黒の五色の精霊を同時召喚し、頬や肩に開いた複数の口が耳慣れない呪文を同時詠唱。拘束から解き放たれた胴体は既に密林と砂漠と草原と海洋と山脈と洞窟を混交させた異次元で世界を塗り替えつつある。空間が歪曲し、無限に距離が開いていくことでどれだけ加速しようがロードデンドロンはチッセに辿り着くことができない。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **チッセ**（ID `E_char_チッセ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

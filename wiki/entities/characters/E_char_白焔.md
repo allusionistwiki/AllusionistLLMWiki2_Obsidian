@@ -20,8 +20,6 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 「あの白い焔は、実際には燃焼という物理現象ではないの。抽象的な火の概念――ものごとの始まりと終わり。加速度的に進行していく時間的経過が理解可能な形として『翻訳』されているだけ。あの白い焔は全てを終端まで運んでいく膨大な時間流そのもの」
-- **unknown**: 「あの白い焔は、実際には燃焼という物理現象ではないの。抽象的な火の概念――ものごとの始まりと終わり。加速度的に進行していく時間的経過が理解可能な形として『翻訳』されているだけ。あの白い焔は全てを終端まで運んでいく膨大な時間流そのもの」
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:visual -->
@@ -33,3 +31,9 @@ updated: '2026-10-21'
 - **unknown**: 白い火柱の中から、燃えるような貴婦人がその姿を現した。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **白焔**（ID `E_char_白焔` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

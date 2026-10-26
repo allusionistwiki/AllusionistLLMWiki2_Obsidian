@@ -121,7 +121,10 @@ updated: '2026-10-21'
 - **unknown**: 幼いキニスに母殺しは早すぎた。
 復讐譚の主人公となるには、彼女は優し（よわ）すぎたのだ。
 それは歳を重ねても変わらない生来の気質。
-- **unknown**: そのわずかな時間を選んだ結果、あったかもしれない未来を失った。
-- **unknown**: 幼いキニスに母殺しは早すぎた。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **エレクトラ**（ID `E_char_エレクトラ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

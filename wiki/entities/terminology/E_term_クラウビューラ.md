@@ -70,3 +70,9 @@ updated: '2026-10-21'
 - **unknown**: クラウビューラの精密な『空圧』によってリーナの肩から単眼宝珠が吹き飛ばされていた。粉々に破壊されながらも役割を終えたそれは満足そうに空に散る。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クラウビューラ**（ID `E_char_クラウビューラ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

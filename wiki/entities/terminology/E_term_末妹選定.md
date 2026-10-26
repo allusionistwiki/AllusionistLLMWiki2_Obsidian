@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 「潰し合いではなく競い合い。場合によっては共闘も視野に入る。そっか、これって」 これまでの末妹選定がそうであったように。 それぞれの到達点を目指す競争は、時に参加者同士での協力があり得るのだ。（ch5535）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **末妹選定**（ID `E_char_末妹選定` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

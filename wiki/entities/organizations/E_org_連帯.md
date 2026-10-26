@@ -39,3 +39,9 @@ updated: '2026-10-19'
 - **unknown**: 「槍神教と巨大企業群、そして各国を束ねる【連帯】は談合によって攻略速度を決定している。利益を最大化し、三者の間で分配する為にね。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **連帯**（ID `E_org_連帯` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 使用回数は五回のみ。現存する唯一の『紀生型異獣』、最古の魔将である『呪祖フィリス』はそれが呪術に関係するものであるならば、どんなものであってもその来歴と構造を解き明かせる――呪術そのものをバラバラに解体してしまうのだ。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **呪祖フィリス**（ID `E_char_呪祖フィリス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 格闘戦は不得手だが、ヴァージルは言語魔術師として信じがたい技量を有していた。現代の基準で言えば、上級言語魔術師に匹敵する程だ。そもそも、太陰が実施するあの試験の基礎はヴァージルが築いたものなのだから当然と言えば当然だった。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **太陰**（ID `E_char_太陰` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 長い首と大きな口を持つ ｜ 首・口 ｜ 典拠: [242話](../../nav/ch0242.md)（p7912）
   > 長い首がゆっくりと持ち上がると、大きな口から滝のような水が落ちていった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **首長亜竜**（ID `E_term_首長亜竜` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

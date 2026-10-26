@@ -26,3 +26,9 @@ created: "2026-09-30"
 > ヴァージルは右手に漆黒の『断章』を、左手に青い髪のラクルラール人形を乗せてまっすぐな言葉を紡いだ。魔導書が夥しい量の呪文の列を吐き出し、ラクルラールがカタカタと口を開閉してアルトが支配する人形たちの制御を乗っ取っていく。（ch5361）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルト**（ID `E_char_アルト` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

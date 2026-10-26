@@ -57,7 +57,10 @@ updated: '2026-10-21'
 
 - **unknown**: そうして、鮮血呪はその使い手に新たな力をもたらしていく。
 - **unknown**: この状態は鮮血呪の代償によって俺達双方が【自己】を放棄したことによる副産物だ。欠落した自己同一性をお互いが補完することでその精神的な死を辛うじて防止するという窮余の策。
-- **unknown**: そうして、鮮血呪はその使い手に新たな力をもたらしていく。
-- **unknown**: この状態は鮮血呪の代償によって俺達双方が【自己】を放棄したことによる副産物だ。欠落した自己同一性をお互いが補完することでその精神的な死を辛うじて防止するという窮余の策。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **鮮血呪**（ID `E_term_鮮血呪` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

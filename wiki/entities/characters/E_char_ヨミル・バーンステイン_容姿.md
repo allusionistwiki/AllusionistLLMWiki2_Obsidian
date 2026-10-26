@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 呪動装甲を着込み、中央で仁王立ちする姿。 ｜ 呪動装甲・聖騎士・仁王立ち ｜ 典拠: [65話](../../nav/ch0065.md)（2424）
   > その中央で腕組みをしながら仁王立ちするのは、呪動装甲を着込んだ聖騎士。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヨミル・バーンステイン**（ID `E_char_ヨミル・バーンステイン` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

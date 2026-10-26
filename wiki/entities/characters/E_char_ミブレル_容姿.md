@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 雲の形態として厳格な目をした姿（ティドロソフのような顔立ち）を呈する。 ｜ 顔立ち（厳格な目） ｜ 典拠: [263話](../../nav/ch0263.md)（p8320）
   > この時、リーナの目の前に漂う雲は厳格な目をしたティドロソフのようであり、少女は怒れる卵の殻を前にした雛のように縮こまった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ミブレル**（ID `E_char_ミブレル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

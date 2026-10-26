@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「存在を分割したアルト・イヴニルのうち黒蟲騎士団と同行していた六体が戦闘で破壊され、バラバラに逃げたうちの三体はティリビナ人の精鋭によって各個撃破されている。君は残りの一体だ。別のアルト・イヴニルたちが敗北した場合、最後の一体になるだろう」（ch0243）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **個我**（ID `E_char_個我` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

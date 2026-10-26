@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - ニワトリのような姿。オレンジの炎の翼と火の粉、ふてぶてしい顔つき ｜ 外見・身体部位・顔立ち ｜ 典拠: [165話](../../nav/ch0165.md)（p5556）
   > 全体的にニワトリっぽいが、オレンジの炎に包まれた翼ではばたくたびに火の粉が散っていてミルーニャは迷惑そうだ。ふてぶてしい顔つきでこちらを見ている
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヒュドラボルテージ**（ID `E_char_ヒュドラボルテージ` / kind: item / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

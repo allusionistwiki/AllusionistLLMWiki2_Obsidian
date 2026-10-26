@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 驚愕するハグレスの目の前で、ジュティアの精神が平静を取り戻していく。それどころか、神の加護として下界に及ぼしていた影響力さえもが阻害されつつあった。 リーナの怒りは明らかにハグレスに向かっていた。（ch0237）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **精神**（ID `E_char_精神` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

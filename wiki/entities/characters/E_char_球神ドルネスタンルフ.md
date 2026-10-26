@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 完全なる球体がルバーブの目の前に浮いていた。 それは太陽であり大地でもある。 時と空を統べる神。宇宙を象る原初的形態。 全にして一、すなわち数多の星々と唯一の世界。 ルバーブ、大地の子よ、我が忠実なるしもべよ。 抗えない呼び声は、彼が大地に選ばれし者であるからこそ強く響いた。 球神ドルネスタンルフが、啓示をもたらしてるのだ。「僕の言うことを聞いてくれるよね？」
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **球神ドルネスタンルフ**（ID `E_char_球神ドルネスタンルフ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

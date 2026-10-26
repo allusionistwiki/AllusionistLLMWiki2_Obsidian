@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 表には女性の横顔。ジャッフハリムの聖妃レストロオセの肖像。 裏には竜神の威容。竜神信教徒が祈りを捧げる創世竜の想像図。 光の加減と呪力に反応して、女性の顔は聖と邪の相反する側面を映し出し、竜の姿は九つに入れ替わる。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ジャッフハリム銀貨**（ID `E_item_ジャッフハリム銀貨` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

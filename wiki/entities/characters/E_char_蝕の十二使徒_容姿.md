@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 身体のどこかにカシュラム十字の紋章がある ｜ 紋章 ｜ 典拠: [147話](../../nav/ch0147.md)（p5014）
   > 彼らもまた身体のどこかにカシュラム十字の紋章を浮かび上がらせて
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **蝕の十二使徒**（ID `E_org_蝕の十二使徒` / kind: organization / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

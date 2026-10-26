@@ -50,3 +50,9 @@ updated: '2026-10-19'
 - **unknown**: 「『使い魔の座』も一枚岩じゃない。『心臓』にどれだけの影響力を行使できるのかを競い合ってるの。良くある話だけど、トライデント内で権力闘争があるわけ。みんな救世主のお気に入りになって、出世したいのね」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ラプンシエル**（ID `E_char_ラプンシエル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

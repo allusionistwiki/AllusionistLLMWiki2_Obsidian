@@ -24,3 +24,9 @@ updated: '2026-10-21'
 群衆を押しのけるようにして牛車が荷物を運んでいく。ただし牛は白骨でできており、頭蓋の内側に呪術の火を灯している。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **牛車**（ID `E_item_牛車` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

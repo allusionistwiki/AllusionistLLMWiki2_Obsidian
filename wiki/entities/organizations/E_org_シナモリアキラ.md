@@ -31,9 +31,6 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 言葉遊びと神話になぞらえた人口の水増し、即席の国力倍増計画。転生都市シナモリアキラの力はかつてないほどに膨れ上がっていた。
-- **unknown**: 言葉遊びと神話になぞらえた人口の水増し、即席の国力倍増計画。転生都市シナモリアキラの力はかつてないほどに膨れ上がっていた。
-- **unknown**: 言葉遊びと神話になぞらえた人口の水増し、即席の国力倍増計画。転生都市シナモリアキラの力はかつてないほどに膨れ上がっていた。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->
@@ -52,3 +49,9 @@ updated: '2026-10-21'
 - **unknown**: 伴神とはいえ別神格が管理する冥府では言うに及ばず、地底との境界にはわずかな死角が存在していた。それはシナモリアキラとラプンシエルの感覚、そしてトリシューラの監視水晶の目が届かない闇の中。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラ**（ID `E_char_アキラ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

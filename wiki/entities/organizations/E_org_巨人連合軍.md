@@ -35,3 +35,9 @@ updated: '2026-10-19'
 - **unknown**: 「いくらあれがディスケイムの傑作とはいえ、無駄な抵抗さ。前線基地である『生ける藍域』は巨人連合が制圧した。いまや下方勢力の呪術的な権威を握るのは僕の駒たちだ」
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **巨人連合軍**（ID `E_org_巨人連合軍` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

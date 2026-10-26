@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - みすぼらな囚人風の外見 ｜ 不潔な囚人服・手入れされていない髪・伸び放題の髭 ｜ 典拠: [183話](../../nav/ch0183.md)（p6064）
   > このシナモリアキラは身に付けた不潔な囚人服といい手入れのされていない髪や伸び放題の髭といい見るからにみすぼらしく、ただ打ち倒されるだけの無様な様子は周囲の探索者から侮蔑の視線を誘っていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **スカルミリオーネ**（ID `E_char_スカルミリオーネ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

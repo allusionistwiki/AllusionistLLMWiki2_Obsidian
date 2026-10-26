@@ -26,3 +26,9 @@ created: "2026-09-30"
 > 人形の屍から誕生した無垢なる幼子、天使たちが森から降り注ぐ光の梯子に向かって飛び立っていく。空を舞う白い羽、生命の躍動を感じさせる赤子の歓喜、吹き鳴らされる喇叭が世界を神聖な空気で浄化していく。 不安そうに異変が続く世界を眺めていた第五階層（ch5450）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **第五階層の住人**（ID `E_char_第五階層の住人` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

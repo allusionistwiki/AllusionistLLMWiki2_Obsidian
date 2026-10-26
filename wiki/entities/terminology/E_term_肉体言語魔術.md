@@ -31,6 +31,10 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 戯曲に書き添えられた詳細なト書き、演出家の視座が定めるフレーム、役者の解釈と掘り下げ、それらが凝縮された呪文が肉体言語魔術の精髄だ。
-- **unknown**: 戯曲に書き添えられた詳細なト書き、演出家の視座が定めるフレーム、役者の解釈と掘り下げ、それらが凝縮された呪文が肉体言語魔術の精髄だ。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **肉体言語魔術**（ID `E_term_肉体言語魔術` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

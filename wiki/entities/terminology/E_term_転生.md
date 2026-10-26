@@ -33,9 +33,6 @@ updated: '2026-10-21'
 
 - **unknown**: 転生とは、似たものが時間と空間を超えて出現することに他ならない。ゆえに、『俺』はここに居る。
 - **unknown**: 転生という新技術は、俺の元いた世界における『死』の価値を良くも悪くも変容させた。
-- **unknown**: 転生とは、似たものが時間と空間を超えて出現することに他ならない。ゆえに、『俺』はここに居る。
-- **unknown**: 転生という新技術は、俺の元いた世界における『死』の価値を良くも悪くも変容させた。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->
@@ -45,3 +42,9 @@ updated: '2026-10-21'
 - **unknown**: 一方で、転生があるという安心感が生活の質を高め、かえって自殺を抑制することもあったという。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **転生**（ID `E_char_転生` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

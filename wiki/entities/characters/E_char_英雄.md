@@ -46,3 +46,9 @@ updated: '2026-10-19'
 - **unknown**: それは優雅に地上に降り立つと、暗い影のように輪郭を歪ませていった。次の瞬間にそこに立っていたのは優美な幻獣とは似ても似つかない重厚な甲冑。 小柄だった。まるで子供のような背丈。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **英雄**（ID `E_char_英雄` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

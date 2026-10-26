@@ -69,3 +69,9 @@ updated: '2026-10-21'
 - **unknown**: 最後に、ほんの個人的な願望を滲ませながら、女神はひとつの種族を再構成してのけた。歴史や現実、認識や摂理すら塗り替えて、優しい幻想で希望を示したのだ。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **レルプレア**（ID `E_char_レルプレア` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

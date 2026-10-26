@@ -41,3 +41,9 @@ description: キャラ容姿描写ページ
 - 頭部が犬頭 ｜ 頭部 ｜ 典拠: [254話](../../nav/ch0254.md)（p8159）
   > 傘を広げた犬頭の魔女は目を閉じて空想に浸る。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ライラ・ラプス**（ID `E_char_ライラ・ラプス` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -20,7 +20,4 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 風を切る音が答えを記す。
-- **unknown**: 風を切る音が答えを記す。
-- **unknown**: 風を切る音が答えを記す。
-
 <!-- /AUTO-GENERATED:symbolic -->

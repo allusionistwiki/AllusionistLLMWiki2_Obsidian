@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 戻ってきた神滅具がその亀裂を押し広げ、砕き、体内で炸裂した猛火と稲妻がアインノーラを焼き尽くしていった。これで四人。（ch0072）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **第四魔将**（ID `E_char_第四魔将` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

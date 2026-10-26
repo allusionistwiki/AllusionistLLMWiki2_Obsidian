@@ -28,3 +28,9 @@ created: "2026-09-30"
 > 純粋な心で主君に使える騎士という在り方を信じていた若者の心に嵐が吹き荒れる。天を仰ごうとも祈るべき神は彼を裏切った。ならば彼はどうするべきか。「復讐だ！ 復讐しかない！」（ch0191）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **復讐**（ID `E_char_復讐` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

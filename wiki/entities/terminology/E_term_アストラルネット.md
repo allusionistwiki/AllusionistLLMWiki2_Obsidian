@@ -25,3 +25,9 @@ SNSやマスメディア系呪術師によって料理情報などが拡散さ�
 > それが清らかなモチーフの絵であることと、精子が泳ぎ獣が乱れ交わるポルノ画像であるという現実は二重化され、アストラルネットの表と裏を瞬く間に席巻していく。 牧場は娼館に。ペットショップはアダルトショップに。動物病院はラブホテルに。その逆も然り（ch5557）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アストラルネット**（ID `E_term_アストラルネット` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 気息を導引し、全身の血流に酸素を取り込むと、冷たい心でそれを迎え撃つ。 俺は人工乳房を利用して肉体を女性であると偽り、見よう見まねで陰の気を操作することで内功による柔法を体得していた。（ch5245）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **内功**（ID `E_term_内功` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

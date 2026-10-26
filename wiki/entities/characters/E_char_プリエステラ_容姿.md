@@ -88,3 +88,9 @@ description: キャラ容姿描写ページ
 - すみれ色の瞳。大輪の花で飾られる。 ｜ 顔立ち・瞳 ｜ 典拠: [220話](../../nav/ch0220.md)（p7324）
   > 大輪の花がその『霊長類的な美しさ』を飾り、意志の強そうなすみれ色の瞳がまっすぐにこちら側を見つめていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **エスト**（ID `E_char_エスト` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

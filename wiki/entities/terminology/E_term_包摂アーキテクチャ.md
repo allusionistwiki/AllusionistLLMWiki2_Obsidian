@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 円形のお掃除ロボットや紛争地帯の地雷処理ロボットでおなじみの、知能を無数の『振る舞いのモジュール』に解体するメソッドである。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **包摂アーキテクチャ**（ID `E_term_包摂アーキテクチャ` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 魔戦人形師団最強を誇る双璧すら猫の取り替え子（チェンジリング）を前にしては見た目通りの人形でしかない。球体関節人形は絶対に猫には勝てない。（ch5341）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **球体関節人形**（ID `E_char_球体関節人形` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

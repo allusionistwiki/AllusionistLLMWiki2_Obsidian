@@ -46,3 +46,9 @@ updated: '2026-10-19'
 - **unknown**: クロウサー中興の祖、大魔女モーエンによって築き上げられた呪術体系の基礎となる概念だが、その偉業に反して大魔女そのひとの人となりはあまり知られていない。 いまやその理由は明白だ。偉大な先駆者、翼牛に騎乗した黒髪の美女モーエンが荒ぶる姿を見ながら、リーナは『初手から飛ばし過ぎだろ』と思った。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **モーエン**（ID `E_char_モーエン` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

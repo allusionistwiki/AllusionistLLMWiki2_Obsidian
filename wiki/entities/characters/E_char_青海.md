@@ -54,3 +54,9 @@ updated: '2026-10-19'
 - **unknown**: 奉竜山の教主、青海は門下生たちに徹底的な座学を行う。　それは内家拳に必須とされる人体構造と呪術的な『経絡』との相関から、丹田より『気』を練り上げて発するための呪術合理的な理論まで多岐に渡る。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **青海**（ID `E_char_青海` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

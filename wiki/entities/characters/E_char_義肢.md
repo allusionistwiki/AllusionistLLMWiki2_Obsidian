@@ -25,3 +25,9 @@ created: "2026-09-30"
 > だからこそ、ルウテトの『紀』に干渉して神としての性質を揺らがせる必要があった。かつて俺が有効打を与えられた唯一の義肢、キュトスの長姉ヘリステラの転生力であれば、あるいはルウテトの世界観と衝突を起こせるかもしれない。 左腕に義肢を具現化した俺（ch5451）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **義肢**（ID `E_char_義肢` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

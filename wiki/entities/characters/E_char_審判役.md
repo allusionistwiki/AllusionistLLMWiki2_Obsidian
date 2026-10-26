@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「これは翼猫のヲルヲーラといって、戦いの審判役みたいな連中の一匹。猫っていう、貴方と同じく外世界からの来訪者。アキラとは違って鬱陶しい上に厄介な存在だけど」（ch0002）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヲルヲーラ**（ID `E_char_ヲルヲーラ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

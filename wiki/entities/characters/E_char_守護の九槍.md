@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「では始めよう。『松明の騎士』ソルダ・アーニスタの名において、『松明を掲げる者ピュクティエトの貧しき同胞たち』の頂点たる特任司教、階層掌握の権限を有する守護の九槍をここに召集する」（ch0196）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **守護の九槍**（ID `E_char_守護の九槍` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

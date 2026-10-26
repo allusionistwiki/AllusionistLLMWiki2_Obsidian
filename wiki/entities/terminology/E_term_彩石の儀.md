@@ -42,3 +42,9 @@ updated: '2026-10-21'
 - **unknown**: その後、彩石の儀で勝利して【万色】の称号を得た者を末妹候補を通り越して第五位代理にするという宣言がされ、全員が色めきだった。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **彩石の儀**（ID `E_char_彩石の儀` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

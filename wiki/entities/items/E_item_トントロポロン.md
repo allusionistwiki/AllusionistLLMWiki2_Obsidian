@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 前方に、やわらかくてぷるぷると震えながら移動する人畜無害そうな生物が見える。　白いプディング状のそれは、自然界には滅多に存在しない長方形をした害獣トントロポロン。　人の頭部ほどの大きさで、外見からすると意外だが、のろのろと俊敏でぷよぷよして硬い。　のっぺりとした表情をしているが、あれで人を襲う凶暴な猛獣であり、油断はできない。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **トントロポロン**（ID `E_item_トントロポロン` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

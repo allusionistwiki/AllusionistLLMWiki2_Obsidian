@@ -44,3 +44,9 @@ updated: '2026-10-19'
 - **unknown**: 朱色のローブを纏ったガルラくんの腹部が開くと、中には小さな箱庭。浄界『朱色廃園』の美しいお庭では自動機械の女の子が首のない夫や可愛い結合双生児ちゃんと暮らしているが色々あって最後には全員死ぬ。再演された悲劇の結婚が、現実の結婚に破綻を押し付けた。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ガルラくん**（ID `E_char_ガルラくん` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 突然彼の手が震え、ゴーグルの奧の瞳が動揺する。銃を取り落とし、ごろごろと鳴り出した腹部を押さえて苦痛に呻き出したかと思うと、激しく嘔吐した。ばかりか、その下半身の衣類が汚れ、汚れた液体が股間から染み出していく。失禁したのは尿ではない。大量の（ch0180）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カルカブリーナ**（ID `E_char_カルカブリーナ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

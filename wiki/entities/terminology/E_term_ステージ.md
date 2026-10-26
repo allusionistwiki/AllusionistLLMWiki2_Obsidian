@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 周囲に死の気配が色濃くなり、森が闇に包まれると共に世界はそのあり方を変えていく。木々を躱すという左右の移動が、奈落に落ちていくという真下への移動に置き換えられていく。飛翔は墜落に。落下は死に。ゴールは闇の向こうにある。（ch5560）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ステージ**（ID `E_char_ステージ` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

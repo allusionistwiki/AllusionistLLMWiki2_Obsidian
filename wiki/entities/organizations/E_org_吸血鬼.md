@@ -29,3 +29,9 @@ created: "2026-09-30"
 - A_ch0080_structurally_matches_E_ch0080_槍神教_other_吸血鬼_p2937_植民地支配における現地エリートへの同化政策（植民地支配の同化政策）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **吸血鬼**（ID `E_char_吸血鬼` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

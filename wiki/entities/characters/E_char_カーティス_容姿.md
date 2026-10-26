@@ -57,3 +57,9 @@ description: キャラ容姿描写ページ
 - 緑色の波打つ長髪、黒衣、性別の不分明な麗人。口の端から牙が覗く。 ｜ 髪:緑色, 長髪・服装:黒衣・体格:麗人・性別:不明・口:牙 ｜ 典拠: [174話](../../nav/ch0174.md)（p5773）
   > 現れたのは緑色の波打つ長髪を肩に流した黒衣の麗人だった。この世のものとは思えぬほどに美しく、女性とも男性ともはっきりしない。口の端からのぞく牙が妖しく輝いた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カーティス**（ID `E_char_カーティス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

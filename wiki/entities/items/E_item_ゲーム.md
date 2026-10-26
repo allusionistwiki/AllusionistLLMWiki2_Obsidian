@@ -39,3 +39,9 @@ updated: '2026-10-19'
 - **unknown**: 主人公である【死人の森の女王】――名前は変更可能らしく、コルセスカは実名でプレイしていた――を操作して、彼女が辿ってきた物語を追体験するというゲームで、ほとんど『史実』に近い筋書きとのことだった。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ゲーム**（ID `E_char_ゲーム` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -32,3 +32,9 @@ updated: '2026-10-19'
 - **unknown**: 見渡す限りの蒼穹と千切れていく白い雲。青はゆっくりと濃く暗い色に変化していき、太陽の周囲には無数の星々が散りばめられている。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **空**（ID `E_motif_空` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

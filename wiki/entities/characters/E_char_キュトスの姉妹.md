@@ -30,3 +30,9 @@ created: "2026-09-30"
 - A_ch0034_alludes_to_E_ch0034_ハルベルト_names_キュトスの姉妹_p1396_ギリシャ神話のモイライ運命の女神（モイライへの言語魔術暗喩）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **キュトスの姉妹**（ID `E_char_キュトスの姉妹` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

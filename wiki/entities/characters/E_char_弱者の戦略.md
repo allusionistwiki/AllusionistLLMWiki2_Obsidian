@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 軍事拠点を病院に偽装すれば、相手を好き勝手に悪者にできる無敵の盾になる。卑劣なのはどっちだろうねー？」 無敵の論法を糾弾する呪文は、それ自体が弱者への攻撃を正当化する無敵の論法だ。（ch0240）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **弱者の戦略**（ID `E_char_弱者の戦略` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

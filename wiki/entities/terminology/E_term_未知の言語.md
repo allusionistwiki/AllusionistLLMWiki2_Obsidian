@@ -25,3 +25,9 @@ created: "2026-09-30"
 > おわかりいただけると思うが、未知の言語を聞いて、その音の連なりを文章として認識することは非常に難しい。ある種の才能か技術が必要だ。（ch5022）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **未知の言語**（ID `E_term_未知の言語` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

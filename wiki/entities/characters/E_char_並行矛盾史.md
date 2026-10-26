@@ -25,3 +25,9 @@ created: "2026-09-30"
 > リーナは七つ風テセトとの対決、そして過去の情報が渦巻く天の御殿内部の飛翔を経て、並行矛盾史と呼ばれる呪術概念についての理解を深めつつあった。（ch5578）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **並行矛盾史**（ID `E_char_並行矛盾史` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

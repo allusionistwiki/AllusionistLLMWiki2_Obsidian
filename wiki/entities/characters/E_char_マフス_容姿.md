@@ -39,3 +39,9 @@ description: キャラ容姿描写ページ
 - 兜の目のスリットが広く、側面に穴が開いている。 ｜ 服装・防具 ｜ 典拠: [1話](../../nav/ch0001.md)（p63）
   > 彼はとにかく敵に気付くのが早い。兜の目のスリットが広く、横に耳を澄ませるための細かな穴が開いているのは、彼の目の良さ、耳の良さを活かすためだろう。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **マフス**（ID `E_char_マフス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

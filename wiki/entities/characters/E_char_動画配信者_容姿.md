@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 短い髪、大きな目を持つ霊長類の若者 ｜ 髪・顔立ち ｜ 典拠: [181話](../../nav/ch0181.md)（p5994）
   > きょろきょろと大きな目が特徴的な短い髪をした霊長類の若者。おそらく三十には届かないだろう。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **動画配信者**（ID `E_char_動画配信者` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

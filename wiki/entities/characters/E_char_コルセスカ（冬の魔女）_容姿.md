@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 白銀の髪、青い左目、氷のような無表情。 ｜ 髪・瞳・表情 ｜ 典拠: [33話](../../nav/ch0033.md)（p1347）
   > 顔の右側を殆ど覆い隠してしまっている白い布と青い左目のコントラストがどこかアンバランスで、見る者を不思議と惹き付ける。白銀の髪色をした、氷のような無表情。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **コルセスカ（冬の魔女）**（ID `E_char_コルセスカ_冬の魔女_` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

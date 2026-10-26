@@ -35,3 +35,9 @@ updated: '2026-10-19'
 - **unknown**: 俺のカード型端末の一つから飛び出した悪霊レゴン――グロテスクな臓物に顔の部位をくっつけたような怪物の姿が漆黒の靄につつまれたかと思うと、次の瞬間にはその姿が変化していた。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **レゴン**（ID `E_char_レゴン` / kind: item / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

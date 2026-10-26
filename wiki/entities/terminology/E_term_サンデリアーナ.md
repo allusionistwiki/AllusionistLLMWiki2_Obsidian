@@ -31,3 +31,9 @@ updated: '2026-10-21'
 - **unknown**: 「父祖様、どうか私めの肉体を器として下さい。この転生アプリがあれば容易いはず。まさにこのような危機のため、同胞たちはあなたにこの手段を残していたのです」
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **サンデリアーナ**（ID `E_char_サンデリアーナ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

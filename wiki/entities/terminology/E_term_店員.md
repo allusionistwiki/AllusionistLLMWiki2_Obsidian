@@ -25,3 +25,9 @@ created: "2026-09-30"
 > カウンターからふわりと浮き上がった水晶玉が淡く紫色に発光し始めた。水晶玉観照（スクライング）は夜の民というより月の民の領分だが、全自動で占いを実行してくれるのでこういう店でのちょっとした時間つぶしにはもってこいだ。（ch5467）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **店員**（ID `E_char_店員` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

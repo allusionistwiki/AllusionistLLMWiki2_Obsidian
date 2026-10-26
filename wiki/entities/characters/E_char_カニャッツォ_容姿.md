@@ -41,3 +41,9 @@ description: キャラ容姿描写ページ
 - 野太い腕、毛深い巨体、しわくちゃな顔の大男。 ｜ 腕（野太い）・体格（巨体）・毛（毛深い）・顔（しわくちゃ） ｜ 典拠: [118話](../../nav/ch0118.md)（p4141）
   > 野太い腕、毛深い巨体、しわくちゃの顔。虹犬が得意とする色号の呪力を纏い、怪光線を受け止めながら構わずに前進するタフさを見せつける大男こそ、復活したブルドッグの獣人、カニャッツォである。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カニャッツォ**（ID `E_char_カニャッツォ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

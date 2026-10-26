@@ -5,8 +5,8 @@ type: entity
 subtype: character
 canonical_name: 命令
 title: "命令"
-first_appearance: ch5188
-spoiler_after: ch5188
+first_appearance: ch5113
+spoiler_after: ch5113
 document_status: active
 review_status: llm_verified
 created: "2026-09-30"

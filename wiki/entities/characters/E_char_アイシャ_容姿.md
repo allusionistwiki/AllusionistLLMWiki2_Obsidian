@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 治療呪符が剥がれ、右半分の顔に火傷痕（ケロイド）が露わになっている。 ｜ 顔 ｜ 典拠: [212話](../../nav/ch0212.md)（p7157）
   > アイシャの顔の右半分に異変が起きている。 実体を反映して顔を覆っていた治療呪符が全て剥がれて火傷痕が剥き出しになっていた。問題は、痛々しいケロイドが蠢き、一部分を避けて治癒していることだ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アイシャ**（ID `E_char_アイシャ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

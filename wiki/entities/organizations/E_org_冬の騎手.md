@@ -37,3 +37,9 @@ updated: '2026-10-21'
 - **unknown**: 彼らが手に持つのは光を反射する氷の棍棒。雪の結晶に似た鎧を身につけており、青銅や黒曜石製のまじないが込められた武器では傷つけることができず、人の手で鍛え上げられた鋼鉄や落雷以外によって熾された炎でのみ倒せるという。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **冬の騎手**（ID `E_char_冬の騎手` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

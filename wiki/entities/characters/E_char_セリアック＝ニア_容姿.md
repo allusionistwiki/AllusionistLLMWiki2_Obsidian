@@ -131,3 +131,9 @@ description: キャラ容姿描写ページ
 - 小さな（ちび） ｜ 体格 ｜ 典拠: [256話](../../nav/ch0256.md)（p8201）
   > 小さなセリアック＝ニアが猪人の手の中から這い出し、心配そうに腕をさする。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **セリアック=ニア**（ID `E_char_セリアック=ニア` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

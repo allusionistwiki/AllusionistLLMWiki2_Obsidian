@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 旅行会社のガイドが拡声器を持って解説をしている。列を作っている観光客たちはパンフレットを見たり、端末を弄ったり、これから向かう場所への期待を膨らませて歓談したりと楽しんでいる様子だった。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **観光客**（ID `E_char_観光客` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

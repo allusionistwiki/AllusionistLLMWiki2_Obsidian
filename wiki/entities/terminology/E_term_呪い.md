@@ -5,8 +5,8 @@ type: entity
 subtype: terminology
 canonical_name: 呪い
 title: 呪い
-first_appearance: ch5275
-spoiler_after: ch5275
+first_appearance: ch5094
+spoiler_after: ch5094
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
@@ -36,3 +36,9 @@ updated: '2026-10-21'
 - **unknown**: 女の人が使う竜退治のための呪いを使うためには、仲間たちの命が必要なのでした。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **呪い**（ID `E_char_呪い` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

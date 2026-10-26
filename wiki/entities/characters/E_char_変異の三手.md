@@ -34,3 +34,9 @@ updated: '2026-10-21'
 - **unknown**: 流石に手練れ揃いで、順調に初戦を勝ち上がってきていた。懸念としてはリーダーであるグレンデルヒと三人の副長の姿が見えないことがあるのだが、黒いローブで全身を隠している『自称夜の民』が四人いる時点で察してくれと言っているようなものだ。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **変異の三手**（ID `E_char_変異の三手` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 往来で全裸排泄行為をしようとして拘束された迷惑系動画配信者『シナモリアキラ・オリジン十二人衆』に対して本選に参加する予定のプロレーサー兄弟が不快感を表明。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **シナモリアキラ・オリジン十二人衆**（ID `E_char_シナモリアキラ・オリジン十二人衆` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

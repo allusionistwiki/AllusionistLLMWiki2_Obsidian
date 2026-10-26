@@ -25,3 +25,9 @@ created: "2026-09-30"
 > ガルズたちの気が緩むであろう一瞬を狙って、伏せられていた二部隊による同時攻撃が行われた。空中から空の民を主体とした空戦修道騎士たちが一斉攻撃を行い、更には側面から自らの視界を遮る透明化を解除しながら重槍修道騎士が音速で突撃する。共に幻術によ（ch0066）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ガルズ**（ID `E_char_ガルズ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

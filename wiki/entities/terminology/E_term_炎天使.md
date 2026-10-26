@@ -26,3 +26,9 @@ created: "2026-09-30"
 > 蝋燭で喩えられた天寿とは、人生の時間そのものである。 エネルギーを消費する全ての行動は時間と生命の消費に等しい。 自身の力を燃やすことで天の加護が得られるが、他者に付与された『炎天使』はその代償として加速度的に寿命を焼き尽くしていく。（ch5529）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **炎の天使**（ID `E_char_炎の天使` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

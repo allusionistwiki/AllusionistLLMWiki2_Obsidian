@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「あのですね。今更説明するまでもないですが、【星見の塔】はキュトスの七十一姉妹の拠点であり世界最大の呪術結社です。死ざる女神の眷族である姉妹の拠点には、文字通り七十通り以上の不死が存在するわけです。当然それに関する膨大な知識もね。『不死対策（ch5150）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ミルーニャ**（ID `E_char_ミルーニャ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

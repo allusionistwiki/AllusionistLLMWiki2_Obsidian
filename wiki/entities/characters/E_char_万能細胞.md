@@ -29,3 +29,9 @@ created: "2026-09-30"
 - A_ch0069_analogous_to_E_ch0069_ベル・ペリグランティア_asks_万能細胞_p2571_genetic_surveillance（遺伝子監視による倫理的懸念）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **万能細胞**（ID `E_char_万能細胞` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

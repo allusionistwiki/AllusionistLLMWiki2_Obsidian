@@ -26,3 +26,9 @@ created: "2026-09-30"
 > 「私は、人の為に存在している。人に望まれて在る英雄にして賢人なのだ。ならばこそ、地上に勝利をもたらさねばならない。敵を倒し、屈伏させなければならない。敵を、敵を、闘争を、勝利を！ 雄々しく、血湧き肉躍る冒険を！ 財宝を獲得し女を組み敷き敵を（ch0119）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **運命**（ID `E_char_運命` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

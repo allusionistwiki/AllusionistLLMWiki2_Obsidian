@@ -5,8 +5,8 @@ type: entity
 subtype: character
 canonical_name: 長身の男
 title: 長身の男
-first_appearance: ch5535
-spoiler_after: ch5535
+first_appearance: ch5471
+spoiler_after: ch5471
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'

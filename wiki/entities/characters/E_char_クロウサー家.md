@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「クロウサー家から多数の会員が籍を置く『美しい教科書を作る会』に対して、我々ティリビナ同胞団より正式に抗議します。ティリビナ人虐殺の史実に関する認識を歪めようとすることは、新たな『並行矛盾史』の誕生すら意味する。これは将来の我らの友好関係に（ch5577）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クロウサー家**（ID `E_char_クロウサー家` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

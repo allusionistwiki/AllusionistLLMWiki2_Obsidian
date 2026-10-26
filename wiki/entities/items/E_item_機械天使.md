@@ -35,3 +35,9 @@ updated: '2026-10-19'
 - **unknown**: 第一の天使アーウィソーラは血液嗜好症を、第二の天使カウァエールは手淫性愛を、第三の天使ミシェムドーガは寝取られ趣味を、第四の天使アバトは屍体性愛を、第五の天使オルクパレルは獣姦を、第六の天使パールガレーデは人形愛を、第七の天使クレーグレンは幼児行動性愛をそれぞれ司ると言われており、機械天使たちはそれオートネピオフィリアを体現した奇怪な姿をしていた。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **機械天使**（ID `E_char_機械天使` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: その姿は天上の美を体現し、輝く貌は直視すれば目を灼かれかねない。頭上には燃える光輪、長い髪は光の奔流、背には六枚の翼。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **フォルス＝エウリュティオン・キャレプター**（ID `E_char_フォルス＝エウリュティオン・キャレプター` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

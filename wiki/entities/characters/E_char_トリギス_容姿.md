@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 尻尾を腰に帯のように巻き付けている。 ｜ 異形 ｜ 典拠: [44話](../../nav/ch0044.md)（p1844）
   > は腰に帯のようにして巻き付けていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **トリギス**（ID `E_char_トリギス` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

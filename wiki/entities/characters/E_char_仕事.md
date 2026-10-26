@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 違法に入手した不正侵入プログラムを足が付かないように車に仕込んで自動操縦システムを暴走させたりは『していない』し、車両監督者の仕事をしていたら『偶然』暴走した車が『たまたまそこにいた』被害者を轢いてしまったりしても（ch0160）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **仕事**（ID `E_char_仕事` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 「狆」は犬種の比喩を含み得るが、明示的な外見描写としての「男性性を増大させる風潮の影響」が記載されている。 ｜ 男性性 ｜ 典拠: [148話](../../nav/ch0148.md)（p5039）
   > 狆くしゃは昨今の男性性を増大させる風潮の影響を受けて看護師へカニャッツォのセクハラで謹慎処分を受けるという不祥事まで起こしている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **狆くしゃ（カニャッツォ）**（ID `E_char_狆くしゃ_カニャッツォ_` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

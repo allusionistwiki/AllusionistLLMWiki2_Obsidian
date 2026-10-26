@@ -38,3 +38,9 @@ updated: '2026-10-21'
 - **unknown**: 原因から結果までの跳躍は永遠となり、時計を抱えた蝿が矢のように飛び去っていくのを横目で見ながら、速さと遅さの存在しない永劫の平面上に取り残された使徒はやがて自死を選んだ。残り二人。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **使徒**（ID `E_char_使徒` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 光がおさまったとき、槍は影も形もなくなっており、代わりに幼い少女がそこに立っていた。蜂蜜色の髪と灰色の瞳の少女が喋る三叉槍ディーテであると、不思議と誰もが理解できた。（ch0100）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **少女**（ID `E_char_少女` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 罵倒しつつ治癒符を腹部に接触させる。鎮痛呪術の【安らぎ】がじわじわと効いてきて、いくらか精神状態が落ち着いた。コルセスカの感情制御に比べると格段に非効率だが、激痛で戦闘不能になるよりマシだ。（ch5338）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **安らぎ**（ID `E_item_安らぎ` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

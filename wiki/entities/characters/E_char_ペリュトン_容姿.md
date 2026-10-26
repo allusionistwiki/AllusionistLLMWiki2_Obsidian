@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 黒衣を着た小さな謎生物。 ｜ 服装（黒衣）・サイズ（小さな） ｜ 典拠: [253話](../../nav/ch0253.md)（8130）
   > 私の言葉に追従するように、黒衣の肩に乗った小さなペリュトンが鳴く。デフォルメされた謎生物を見たエストが小さく「なにこれ」と呟いたが説明は後。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ペリュトン**（ID `E_char_ペリュトン` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

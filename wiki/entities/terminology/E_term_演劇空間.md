@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 小道具大道具は実物に変じており、木々も岩も踏みしめた土も冷たい空気も、全てが夜の森そのものだった。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **演劇空間**（ID `E_term_演劇空間` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

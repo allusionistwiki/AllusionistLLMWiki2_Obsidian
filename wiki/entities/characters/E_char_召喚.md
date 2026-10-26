@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 巨漢の眼前で火花が散った。それは眼光が意思に呼応して現実を変容させる予兆。 象られた意思は具象化し、回転する木製のコインとなる。（ch0244）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **召喚**（ID `E_char_召喚` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

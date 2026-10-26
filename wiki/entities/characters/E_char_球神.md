@@ -25,3 +25,9 @@ created: "2026-09-30"
 > その魂から伝播した呪詛が操っていた神にまで及び、球神というかりそめの姿が髪の毛によってがんじがらめにされていく。ハグレスは咄嗟に借りていた姿を放棄してミナという操り人形との繋がりを断ち切った。手駒を失ったばかりか、球神という貴重な化身まで奪（ch0237）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ドルネスタンルフ**（ID `E_char_ドルネスタンルフ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

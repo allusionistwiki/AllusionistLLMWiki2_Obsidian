@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 観察してみると、どうやら何らかのコンセプトカフェであるらしく、異界の幻獣を愛玩しながらゆったりとした時間を楽しむという主旨であるらしい。 【p32】 そんなわけで、この猫カフェなる空間では第五階層の『創造（クラフト）』を利用して客がそれぞれ（ch5471）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **猫カフェ**（ID `E_term_猫カフェ` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

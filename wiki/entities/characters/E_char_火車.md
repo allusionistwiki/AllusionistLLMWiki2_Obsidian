@@ -92,3 +92,9 @@ updated: '2026-10-19'
 - **unknown**: 「もう俺は今の『シナモリアキラ』とは別のものだ。原初にして剥き出しの俺は――ああ、じゃあこう名乗ろう。『セト』と」
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **火車**（ID `E_char_火車` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

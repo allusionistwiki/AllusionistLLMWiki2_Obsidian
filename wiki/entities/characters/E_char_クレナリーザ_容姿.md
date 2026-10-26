@@ -43,3 +43,9 @@ description: キャラ容姿描写ページ
 - 力強い指先（白い指先が竜の鱗をすり抜ける描写と関連）による腕を掴む感触。 ｜ 身体接触 ｜ 典拠: [221話](../../nav/ch0221.md)（p7344）
   > そのとき、ユディーアは自分の腕を掴む力強い感触に気が付いた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クレナリーザ**（ID `E_char_クレナリーザ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

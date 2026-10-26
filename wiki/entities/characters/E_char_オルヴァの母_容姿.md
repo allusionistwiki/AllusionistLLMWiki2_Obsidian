@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - ふくよかな胸と柔らかな膝を持つ母性的な外見 ｜ 胸・膝 ｜ 典拠: [152話](../../nav/ch0152.md)（p5136）
   > 柔らかな膝の上も、ふくよかな胸の中も、たまらなく愛おしかった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **オルヴァの母**（ID `E_char_オルヴァの母` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

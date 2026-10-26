@@ -110,3 +110,9 @@ updated: '2026-10-21'
 - **unknown**: 王国を蝕む邪悪として羊飼いとしての彼女は断罪された。 だが『死人の森』に住まう彼女が簡単に死ねるはずもなく、その身柄は偉大なる女王の御前に引っ立てられた。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **女王**（ID `E_char_女王` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

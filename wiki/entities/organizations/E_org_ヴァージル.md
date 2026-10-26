@@ -37,8 +37,6 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 悪は挫かれ、正義が勝つ。物語の筋通りに予定調和の結末を迎え、ヴァージルは永劫の呪いに縛られて地上へと追放された。『地に堕ちて穢れよ』という呪いと共に、高貴な血の王子は流刑の身となったのだ。
-- **unknown**: 悪は挫かれ、正義が勝つ。物語の筋通りに予定調和の結末を迎え、ヴァージルは永劫の呪いに縛られて地上へと追放された。『地に堕ちて穢れよ』という呪いと共に、高貴な血の王子は流刑の身となったのだ。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:speech -->
@@ -71,3 +69,9 @@ updated: '2026-10-21'
 - **unknown**: ヴァージルと呼ばれた美しい王子がいた。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヴァージル**（ID `E_char_ヴァージル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

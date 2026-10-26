@@ -5,8 +5,8 @@ type: entity
 subtype: character
 canonical_name: 幻術
 title: "幻術"
-first_appearance: ch0211
-spoiler_after: ch0211
+first_appearance: ch0200
+spoiler_after: ch0200
 document_status: active
 review_status: llm_verified
 created: "2026-09-30"

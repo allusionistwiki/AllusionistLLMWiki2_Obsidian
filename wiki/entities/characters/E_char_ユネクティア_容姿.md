@@ -49,3 +49,9 @@ description: キャラ容姿描写ページ
 - 黒衣に包まれた小さく年老いた（または矮小化した）姿 ｜ 体格・服装 ｜ 典拠: [74話](../../nav/ch0074.md)（p2780）
   > その影から、小さな黒衣がのそりと姿を現した。　年老いて小さくなった――あるいは、分裂によって矮小化した姿。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ユネクティア**（ID `E_char_ユネクティア` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > ガロアンディアンの目が届かぬ遥か上空、天竜境界の干渉に晒されない安全地帯。祝祭の厳重な監視網をかいくぐるかのように構築された隔離された異界。誰も到達できない空。子供の空想みたいな夢の中に、鳥籠が配置されていた。（ch5503）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **鳥籠**（ID `E_item_鳥籠` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

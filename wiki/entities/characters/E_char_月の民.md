@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 「キノコ人グループは『架け橋』の使用権限を持たない。この前提は本当に正しい？　あっさりと異界障壁を利用されたことから、修道騎士側に内通者がいる可能性は？」「敵に高位の『扉職人』がいるということも有り得ます」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **月の民**（ID `E_char_月の民` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

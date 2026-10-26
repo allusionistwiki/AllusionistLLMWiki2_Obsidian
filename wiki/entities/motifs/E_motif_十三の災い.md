@@ -21,6 +21,4 @@ updated: '2026-10-21'
 
 - **unknown**: その日。
 エルネトモランに、天より十三の災いが降臨した。
-- **unknown**: その日。
-
 <!-- /AUTO-GENERATED:symbolic -->

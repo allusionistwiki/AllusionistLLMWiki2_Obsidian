@@ -31,8 +31,6 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: さてどうしようか。脳内では未だに待ち時間を示すジングルが鳴り響いている。
-- **unknown**: さてどうしようか。脳内では未だに待ち時間を示すジングルが鳴り響いている。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->

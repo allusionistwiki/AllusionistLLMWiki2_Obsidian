@@ -5,8 +5,8 @@ type: entity
 subtype: terminology
 canonical_name: もしもの歴史
 title: もしもの歴史
-first_appearance: ch5578
-spoiler_after: ch5578
+first_appearance: ch5532
+spoiler_after: ch5532
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
@@ -36,6 +36,4 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: だがこれは危険なまじないだ。対立と衝突、断絶と敵対の火種になり得るためである。
-- **unknown**: だがこれは危険なまじないだ。対立と衝突、断絶と敵対の火種になり得るためである。
-
 <!-- /AUTO-GENERATED:symbolic -->

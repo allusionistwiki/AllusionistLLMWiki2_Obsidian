@@ -48,3 +48,9 @@ updated: '2026-10-19'
 - **unknown**: 押し寄せた呪術攻撃の悉くを、兎はその螺旋の角を振るって消滅させていく。鴉の攻撃を連続して処理した独角兎はそのまま突進して二羽のカラスたちをまとめて串刺しにする。　目に見えない雷に打たれたかの如く、ナトが白目を剥いて昏倒する。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルミラージ**（ID `E_char_アルミラージ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

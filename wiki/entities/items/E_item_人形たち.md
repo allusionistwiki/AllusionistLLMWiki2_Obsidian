@@ -5,8 +5,8 @@ type: entity
 subtype: item
 canonical_name: 人形たち
 title: 人形たち
-first_appearance: ch5337
-spoiler_after: ch5337
+first_appearance: ch5284
+spoiler_after: ch5284
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
@@ -47,6 +47,4 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 問題はそれが延々と湧き出してくること。明らかにこちらの消耗だけを狙っていた。
-- **unknown**: 問題はそれが延々と湧き出してくること。明らかにこちらの消耗だけを狙っていた。
-
 <!-- /AUTO-GENERATED:symbolic -->

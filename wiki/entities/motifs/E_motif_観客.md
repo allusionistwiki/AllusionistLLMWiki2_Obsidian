@@ -31,7 +31,10 @@ updated: '2026-10-19'
 ## 象徴・比喩
 
 - **unknown**: 観客たちの『動物的熱狂』が加速する一方で、選定レースの舞台である大型スタジアムの内部には冷え冷えとした静寂が満ちる。
-- **unknown**: 観客たちの『動物的熱狂』が加速する一方で、選定レースの舞台である大型スタジアムの内部には冷え冷えとした静寂が満ちる。
-- **unknown**: 観客たちの『動物的熱狂』が加速する一方で、選定レースの舞台である大型スタジアムの内部には冷え冷えとした静寂が満ちる。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **観客**（ID `E_char_観客` / kind: motif / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

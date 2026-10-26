@@ -41,3 +41,9 @@ description: キャラ容姿描写ページ
 - 伸び放題の髪が不器用に切り揃えられている。金色の瞳を持つ。 ｜ 髪・瞳 ｜ 典拠: [217話](../../nav/ch0217.md)（7251）
   > 伸び放題の髪は不器用に切りそろえられており、金色の瞳は画布をまっすぐに見つめている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ガルズ・マウザ・クロウサー**（ID `E_char_ガルズ・マウザ・クロウサー` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

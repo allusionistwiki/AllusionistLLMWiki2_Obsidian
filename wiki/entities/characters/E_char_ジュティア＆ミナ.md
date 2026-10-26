@@ -35,3 +35,9 @@ updated: '2026-10-19'
 - **unknown**: 「ここで予選三位のペアが参戦！ ダンジョンで磨いた実戦派！ カレルヘインの妖精鍛冶が生み出したとんでもないモンスターマシンを引っ提げて、かつての九英雄パーティ『潤い広場』の二番隊隊長と副隊長というベテラン探索者が殴り込み！ ジュティア＆ミナ！」
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ジュティア＆ミナ**（ID `E_char_ジュティア＆ミナ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

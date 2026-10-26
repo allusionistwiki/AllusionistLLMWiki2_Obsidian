@@ -37,3 +37,9 @@ updated: '2026-10-21'
 - **unknown**: ゼドが撃ち出した弾丸、それを俺が認識するより速く『髪の毛』が迎撃していたのだ。シナモリアキラの現在の肉体であるアマランサスが髪に宿す亜竜グレイシス。のたうつ頭髪が大蛇のように大口を開き、咆哮による音速の呪文で弾丸を叩き落とす。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **グレイシス**（ID `E_char_グレイシス` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

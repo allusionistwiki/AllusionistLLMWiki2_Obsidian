@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 彼らは増幅した呪力を新しい思い入れの対象、つまり『呪物』に注ぎ込むので、脳が呪力が増大した状態を覚えてしまうのだと思われる。（ch5290）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **三本足の民**（ID `E_org_三本足の民` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

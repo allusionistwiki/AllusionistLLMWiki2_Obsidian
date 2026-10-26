@@ -49,3 +49,9 @@ description: キャラ容姿描写ページ
 - 恐怖から朗らかな笑顔へ変化 ｜ 表情（朗らかな笑顔） ｜ 典拠: [186話](../../nav/ch0186.md)（p6177）
   > 恐怖にひきつっていたバルの表情は、その姿をはっきりと捉えた瞬間、朗らかな笑顔に変わっていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **バル・ア・ムント**（ID `E_char_バル・ア・ムント` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

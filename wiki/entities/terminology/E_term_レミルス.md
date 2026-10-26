@@ -28,3 +28,9 @@ created: "2026-09-30"
 > 「権力というか、権威と尊敬を一身に集める方々です。かつて獅子王が従えていた十二賢者の正統なる後継、あるいは今も生き残っている本人たち。『上』の形だけ真似した十二賢者とはものが違う。何しろ獅子王の系譜に連なる貴種によって任命される本物です。」（ch5386）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **レミルス**（ID `E_char_レミルス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

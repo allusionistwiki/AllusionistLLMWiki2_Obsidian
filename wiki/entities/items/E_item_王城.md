@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 死人たちの『王城』は一見すると堅牢そうな石造りの城だが、近付いて見ればその異様さは明白だった。城には確かな形が無い。明確な実体と質感を持たない亡霊の巣であり、幻影も同然。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **王城**（ID `E_item_王城` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

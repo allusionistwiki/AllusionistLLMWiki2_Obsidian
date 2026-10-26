@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 顔が樹皮に覆われている ｜ 顔（樹皮に覆われている） ｜ 典拠: [240話](../../nav/ch0240.md)（p7869）
   > 樹皮に覆われた顔が、異種族から見てもはっきりとわかるほどの激情に歪む。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **モーリュ**（ID `E_char_モーリュ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

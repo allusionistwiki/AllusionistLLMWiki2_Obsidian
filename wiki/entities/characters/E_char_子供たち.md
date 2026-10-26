@@ -5,8 +5,8 @@ type: entity
 subtype: character
 canonical_name: 子供たち
 title: 子供たち
-first_appearance: ch5230
-spoiler_after: ch5230
+first_appearance: ch5196
+spoiler_after: ch5196
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'
@@ -38,3 +38,9 @@ updated: '2026-10-21'
 - **unknown**: 「言理の妖精語りて曰く！」
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **子供たち**（ID `E_char_子供たち` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

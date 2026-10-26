@@ -32,3 +32,9 @@ updated: '2026-10-21'
 - **unknown**: 先ほど引き寄せられて毒で死んだはずの巨大ハエたちが動き出し、襲いかかってきたのだ。散布された黒紫の呪毒を浴びた虫の身体の一部が隆起して脈動している。奇妙な既視感。あの瘤が虫たちを使い魔に仕立て上げているのだろうか？
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ハエの使い魔**（ID `E_char_ハエの使い魔` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

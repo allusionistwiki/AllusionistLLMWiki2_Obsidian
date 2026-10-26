@@ -68,3 +68,9 @@ updated: '2026-10-19'
 - **unknown**: 「人間は不意に訪れた病や事故などにより特に意味も無く死に！ 次の瞬間には隕石の落下、火山の噴火、地震や津波などの天変地異により人類は滅亡する！ これがリアル！」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **レストロオセ**（ID `E_char_レストロオセ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

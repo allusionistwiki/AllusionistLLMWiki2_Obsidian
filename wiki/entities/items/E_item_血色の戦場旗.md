@@ -32,3 +32,9 @@ updated: '2026-10-21'
 - **unknown**: 人々は【血色の戦場旗】によって扇動され、戦いへの恐怖を忘れていく。呪術による洗脳と扇動。恐ろしい戦い、死と暴力とは縁遠い普通の人々を狂躁に駆り立て、浮かれた馬鹿騒ぎに誘う魅了の幻影。サイバーカラテが前提とする感覚、感情制御の『心』を擬似的に再現する。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **血色の戦場旗**（ID `E_item_血色の戦場旗` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

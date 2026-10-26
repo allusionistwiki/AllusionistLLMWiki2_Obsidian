@@ -98,9 +98,6 @@ updated: '2026-10-21'
 
 - **unknown**: それは異様ではあったが、確かに母子という関係性が構築された瞬間だった。
 - **unknown**: 灰色の瞳に、俺は『流れ』を見た。
-- **unknown**: それは異様ではあったが、確かに母子という関係性が構築された瞬間だった。
-- **unknown**: 灰色の瞳に、俺は『流れ』を見た。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:relationship -->
@@ -110,3 +107,9 @@ updated: '2026-10-21'
 - **unknown**: 右腕が少女の手の中に収まった。テスモポリスは息絶えたヴァージルのそばで呪文を唱えている。悔しいが、完璧に彼女たちの勝利だった。俺たちは何も出来ず、状況を打開したのもあちら側の力。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **テスモポリス**（ID `E_char_テスモポリス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 三角形の耳を持つ猫のような生物 ｜ 三角の耳 ｜ 典拠: [56話](../../nav/ch0056.md)（p2161）
   > 目の前に三角の耳をした猫の取り替え子が立っている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **猫の取り替え子**（ID `E_char_猫の取り替え子` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

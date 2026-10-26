@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 自動礼拝機の外見描写（キャラではないが環境の一部） ｜ 外観（縦長の箱、カーテン付き） ｜ 典拠: [15話](../../nav/ch0015.md)（p690）
   > 外観は、俺の元いた世界で言えば証明写真の自動撮影機に似ていた。縦長の箱で、入り口にはカーテンが引かれていて、駅の構内などによく置いてあるものだ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **自動礼拝機**（ID `E_item_自動礼拝機` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

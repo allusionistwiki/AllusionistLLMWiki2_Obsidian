@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 朗らかなトリシューラの声と俺の「発勁用意」という叫びが重なり、阿鼻叫喚の地獄絵図が地下空間に現出する。より効率的に殺戮を実行した俺のバトルドレスがステージを廃墟へと変貌させ、音楽の終了と共に死の静寂が降りてくる。（ch5400）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ライブ対決**（ID `E_char_ライブ対決` / kind: event / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

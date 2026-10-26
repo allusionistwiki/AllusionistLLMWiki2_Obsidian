@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 触手や牙などの瘴気による外見上の要素を持つと示唆される ｜ 触手・牙 ｜ 典拠: [142話](../../nav/ch0142.md)（p4828）
   > 夜の民が苦手とする体術ではなく、呪文を、触手を、牙を――全力の瘴気を見せてみるがいい
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **チャンピオン**（ID `E_term_チャンピオン` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 眼球が落下し、視神経と繋がったナメクジのようなもの、裂けた舌から飛出す唇 ｜ 眼・球・・・口 ｜ 典拠: [83話](../../nav/ch0083.md)（p3057）
   > 空洞の眼窩から飛び出してくるのは、長大な視神経と繋がったナメクジのような何か。舌が無数に裂けると、中から唇が飛び出してゲラゲラ笑う。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **イェレイド・ジャッフハリム**（ID `E_char_イェレイド_ジャッフハリム` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

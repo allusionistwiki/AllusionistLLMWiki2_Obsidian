@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 長い髪の美形 ｜ 髪・顔 ｜ 典拠: [233話](../../nav/ch0233.md)（p7672）
   > 共に長い髪の美形で、観客席の女性から黄色い歓声が上がる。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **エンハ＆ナックス**（ID `E_char_エンハ＆ナックス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

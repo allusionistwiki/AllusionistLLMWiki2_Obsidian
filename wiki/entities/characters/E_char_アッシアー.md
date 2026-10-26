@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「――アッシアー！！」 禁呪の発動を受けて、高らかに声が響く。 無数の腕と無数の頭部で身を飾る、荒ぶる女神がそこにいた。（ch5315）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アッシアー**（ID `E_char_アッシアー` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

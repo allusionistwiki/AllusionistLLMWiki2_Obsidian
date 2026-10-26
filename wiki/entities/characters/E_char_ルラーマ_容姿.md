@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 半透明の状態、ウェディングドレス風だが水着に近い露出度の装い ｜ 服装・外見の特徴 ｜ 典拠: [272話](../../nav/ch0272.md)（p8439）
   > 半透明の女は一見するとウェディングドレス風の装いだが、よく観察すると水着に近い露出度だ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ルラーマ**（ID `E_char_ルラーマ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

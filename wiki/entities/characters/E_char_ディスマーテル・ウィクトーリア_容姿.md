@@ -61,3 +61,9 @@ description: キャラ容姿描写ページ
 - 蜂蜜色の髪、灰色の瞳、美貌 ｜ 髪・瞳・顔立ち ｜ 典拠: [88話](../../nav/ch0088.md)（p3248）
   > 蜂蜜色の髪と灰色の瞳、死したる屍と生ける美貌の魔女。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ディスマーテル・ウィクトーリア**（ID `E_char_ディスマーテル・ウィクトーリア` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 高位呪術の構築は間に合わない。 咄嗟に『霧の防壁』を展開するが、一枚では減衰が足りない。 半減した威力のぶちかましで細い身体が吹き飛び、壁面に叩きつけられる。（ch0228）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **霧の防壁**（ID `E_char_霧の防壁` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

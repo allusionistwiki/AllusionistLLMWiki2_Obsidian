@@ -39,3 +39,9 @@ description: キャラ容姿描写ページ
 - 両手が人形化している描写あり。 ｜ 手（人形化した両手） ｜ 典拠: [243話](../../nav/ch0243.md)（7946）
   > ラプンシエルが人形と化した両手から二色の呪いを放ち、ミヒトネッセが巨大化した手裏剣を投擲した。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ラプンシエル**（ID `E_char_ラプンシエル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

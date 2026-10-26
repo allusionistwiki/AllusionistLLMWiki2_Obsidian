@@ -83,10 +83,11 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 呪術師の極限、最大奥義たる浄界はただでさえ絶対的な力だが、それが二人同時に解き放たれるとなればその脅威は計り知れない。
-- **unknown**: 呪術師の極限、最大奥義たる浄界はただでさえ絶対的な力だが、それが二人同時に解き放たれるとなればその脅威は計り知れない。
-- **unknown**: 呪術師の極限、最大奥義たる浄界はただでさえ絶対的な力だが、それが二人同時に解き放たれるとなればその脅威は計り知れない。
 - **unknown**: 巧みに人の心に付け入り、惑わし、呪縛する浄界の輝き
-- **unknown**: 巧みに人の心に付け入り、惑わし、呪縛する浄界の輝き
-- **unknown**: 巧みに人の心に付け入り、惑わし、呪縛する浄界の輝き
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **楽園**（ID `E_char_楽園` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

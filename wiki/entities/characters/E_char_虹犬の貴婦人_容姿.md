@@ -41,3 +41,9 @@ description: キャラ容姿描写ページ
 - 怒りの表情、牙を剥く ｜ 顔立ち・牙 ｜ 典拠: [209話](../../nav/ch0209.md)（p7051）
   > その表情は先程までとは打って変わって怒りに染まっている。獰猛に牙を剥き、猛獣さながらに敵意を噴出させていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ライラ**（ID `E_char_ライラ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

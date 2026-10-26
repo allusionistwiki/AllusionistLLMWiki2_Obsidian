@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 「そのオイディプス王をベースに俺が創造されたのだとして――では、俺がすべきことは何だ。創造主の定めた宿命に従い、このまま闇の中で朽ちていくのが相応しい結末というものでは無いのか？」（ch5449）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クレイだったもの**（ID `E_char_クレイだったもの` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -44,3 +44,9 @@ updated: '2026-10-19'
 - **unknown**: 「というわけで、本選にはシード選手以外も参加できるんだ！　本日行われる予選レースを勝ち抜いた上位三名！　当日飛び入り大歓迎のこのレースを勝ち抜いて、異次元の箒レースに参加しちゃおう！
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **でかちびシューラ**（ID `E_char_でかちびシューラ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

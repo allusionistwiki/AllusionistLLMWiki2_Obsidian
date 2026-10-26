@@ -34,3 +34,9 @@ updated: '2026-10-21'
 - **unknown**: 史実では、パーンは野望の半ばで命を落とす。 ジャッフハリムを支配する邪悪なる呪祖レストロオセとの戦いで、当時の中原諸国は連帯し、それぞれの国から選りすぐりに勇士を送り出した。奸婦討伐を期した四十人の勇士の中にミシャルヒとカーインの名が含まれていたのは、彼らが主君をレストロオセの奸計によって失ったからだと言われている。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ナレーター**（ID `E_char_ナレーター` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

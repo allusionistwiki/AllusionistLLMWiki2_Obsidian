@@ -35,3 +35,9 @@ updated: '2026-10-19'
 - **unknown**: 雌伏の時は終わった　今こそリーヴァリオンの光を示す時　救世主の母たるクナータは我が手中にある　もはや来訪者も神の子も恐れるに値せず　翼を広げ、我らが神の威光を示せ　クロウサーどもの妄言、空使いなどという虚飾を葬り、新秩序を我が手に
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カシューティス**（ID `E_char_カシューティス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

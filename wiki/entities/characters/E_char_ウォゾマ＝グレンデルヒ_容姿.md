@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 顔を顰める ｜ 表情 ｜ 典拠: [104話](../../nav/ch0104.md)（3724）
   > レオのはきはきとした長広舌に、さしものグレンデルヒも介入の隙を見つけられずに顔を顰める。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ウォゾマ＝グレンデルヒ**（ID `E_char_ウォゾマ＝グレンデルヒ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

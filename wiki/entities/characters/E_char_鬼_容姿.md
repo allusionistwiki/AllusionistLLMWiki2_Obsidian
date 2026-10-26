@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 額に角。無骨な顔。火傷痕。独特な瞳 ｜ 額・顔立ち・傷・瞳 ｜ 典拠: [154話](../../nav/ch0154.md)（p5253）
   > やがて、カーインはその男を見つけた。額から角のような何かを生やした無骨な男を。顔に火傷痕、瞳にはここではないどこかの風景。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **鬼**（ID `E_char_鬼` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

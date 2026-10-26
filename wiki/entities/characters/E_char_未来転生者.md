@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「生と死の女神は、未来転生者でした。遙かな未来から過去へとやり直しにきた時間遡行者。『もう一度』という願いを実現するために、彼女は今度こそ女神になろうとした。自らの力、その可能性を極限まで追求して、冬という本質を拡張し続けたのです」（ch5318）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **未来転生者**（ID `E_char_未来転生者` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

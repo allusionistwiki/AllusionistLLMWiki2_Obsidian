@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 声として現れる（直接的な外見描写はなし） ｜ 呼び名 ｜ 典拠: [199話](../../nav/ch0199.md)（p6706）
   > 「ポルガーお姉様。聖妃様は、救世主の生誕に間に合いそうですか？」
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ポルガー**（ID `E_char_ポルガー` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

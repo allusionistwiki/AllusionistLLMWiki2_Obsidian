@@ -46,3 +46,9 @@ updated: '2026-10-21'
 - **unknown**: 『守護の九槍』第七位――あれは、私の敵。かつて私たちキール斑を、否、より正確には小隊規模であったキール隊を敵側に売り、故意に壊滅に追い込んだ最悪の裏切り者。それが奴らなのだから。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ウネム・リビュエー**（ID `E_char_ウネム・リビュエー` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

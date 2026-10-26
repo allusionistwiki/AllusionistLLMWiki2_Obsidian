@@ -25,3 +25,9 @@ created: "2026-09-30"
 > どうやら昨晩、遅い時間帯にも関わらず、大荷物が大量に運び入れられていたようなのだ。つまり昨夜、隣の二人部屋に誰かが引っ越してきた、ということ。（ch0032）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アズ**（ID `E_char_アズ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

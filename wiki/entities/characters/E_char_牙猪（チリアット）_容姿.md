@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 胸や腹で無事な箇所が存在しないほどの激しい損傷を負っている。 ｜ 体格・傷 ｜ 典拠: [139話](../../nav/ch0139.md)（p4731）
   > ゴールを守る九番の牙猪などは仲間チリアットを庇うために爆発寸前のボールに覆い被さった為、胸や腹で無事な箇所が存在しないほどだった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **牙猪（チリアット）**（ID `E_char_牙猪_チリアット_` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

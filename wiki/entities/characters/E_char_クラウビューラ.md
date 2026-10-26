@@ -198,8 +198,6 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: しかし。試験官当人が述べたように、巨人には裁量がある。 あまりにも不均衡な、権力が。
-- **unknown**: しかし。試験官当人が述べたように、巨人には裁量がある。 あまりにも不均衡な、権力が。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:visual -->
@@ -214,3 +212,9 @@ updated: '2026-10-21'
 - **unknown**: ごうごうと大きな質量が蠢く音がして、膨大な量の水で構築された巨人がチッセの世界に足を踏み入れた。天空の雲を全てかき集めて土砂降りの雨を降らせたような激震が緑の世界に破壊と再生をもたらしていく。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クラウビューラ**（ID `E_char_クラウビューラ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

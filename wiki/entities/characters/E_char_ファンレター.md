@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 悪戯かどうかを考えるより先に、内容を見るより先に、家宝にしようとそう決めた。まず花を生けて、便箋を添えて念写して、それから違法な光学写真でも撮影して、拙いスケッチで保存し、すうっと息を大きく吸って、ペーパーナイフで丁寧に手紙を取り出した。（ch5230）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ファンレター**（ID `E_char_ファンレター` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

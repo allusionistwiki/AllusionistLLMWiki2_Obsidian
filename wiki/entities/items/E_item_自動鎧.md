@@ -31,3 +31,9 @@ updated: '2026-10-21'
 - **unknown**: 　がしりと青年の腕が両側から掴まれる。いつのまにか彼の左右に立っていたのは、銀色の光沢も眩しい全身鎧の姿。その胸には松明の紋章が刻まれている。　何もかも遅きに失したのだ。こうなってはもう手遅れ。私に出来ることは何も無い。「よ、よせ、離してくれ！　大神院は私から言論の自由を奪おうと言うのか！」　青年の叫びを意にも介さず、鎧は無機質に駆動し、その決して軽くはない成人男性の身体を引きずっていく。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **自動鎧**（ID `E_item_自動鎧` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

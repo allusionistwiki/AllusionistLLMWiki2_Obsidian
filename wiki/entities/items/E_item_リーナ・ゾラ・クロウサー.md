@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 箒の軌跡がきらきらと輝いて、空間に清浄なラインが引かれていった。 禍々しい浄界の暴走を、決然たる意思が抑え込む。 掃き清める。聖なる領域を浄化する祭具としての箒の役割。（ch5529）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **リーナ・ゾラ・クロウサー**（ID `E_char_リーナ・ゾラ・クロウサー` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

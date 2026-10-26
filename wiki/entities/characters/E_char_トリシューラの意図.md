@@ -5,8 +5,8 @@ type: entity
 subtype: character
 canonical_name: トリシューラの意図
 title: "トリシューラの意図"
-first_appearance: ch5061
-spoiler_after: ch5061
+first_appearance: ch5060
+spoiler_after: ch5060
 document_status: active
 review_status: llm_verified
 created: "2026-09-30"

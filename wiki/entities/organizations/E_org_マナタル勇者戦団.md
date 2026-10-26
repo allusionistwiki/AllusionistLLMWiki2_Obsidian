@@ -59,9 +59,10 @@ updated: '2026-10-19'
 
 - **unknown**: マナタル勇者戦団の思想は、同胞たちの被害さえ厭わない過激なものだった。
 - **unknown**: 過激派集団と穏健派集団。これは『ふり』だ。おそらく、どちらも。
-- **unknown**: マナタル勇者戦団の思想は、同胞たちの被害さえ厭わない過激なものだった。
-- **unknown**: 過激派集団と穏健派集団。これは『ふり』だ。おそらく、どちらも。
-- **unknown**: マナタル勇者戦団の思想は、同胞たちの被害さえ厭わない過激なものだった。
-- **unknown**: 過激派集団と穏健派集団。これは『ふり』だ。おそらく、どちらも。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **マナタル勇者戦団**（ID `E_char_マナタル勇者戦団` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「こっちもいくぞ、五十五番っ！」 第五階層という小さな宇宙が呼び声に応え、物質を創造する。 まず釘が出現し、俺の左掌に突き刺さった。 そして左手に沿うように出現する、途方もなく巨大な十字架。（ch0141）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **釘のナタリエル**（ID `E_term_釘のナタリエル` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

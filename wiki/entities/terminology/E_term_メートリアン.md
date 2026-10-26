@@ -5,8 +5,8 @@ type: entity
 subtype: terminology
 canonical_name: メートリアン
 title: "メートリアン"
-first_appearance: ch5530
-spoiler_after: ch5530
+first_appearance: ch5357
+spoiler_after: ch5357
 document_status: active
 review_status: llm_verified
 created: "2026-09-30"
@@ -28,3 +28,9 @@ created: "2026-09-30"
 > 「精霊は誤謬と具象、色号は真理と抽象を扱うなんて言われ方もするけど」（ch5530）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ミルーニャ**（ID `E_char_ミルーニャ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

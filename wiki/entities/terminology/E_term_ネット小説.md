@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 結末は、聖騎士自身が満足してその生に自ら幕を閉じるというもの。彼の主人公性を揺るがせることはせず、その格を保ったまま退場させていく、ある意味で残酷で恣意的な誘導。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ネット小説**（ID `E_item_ネット小説` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

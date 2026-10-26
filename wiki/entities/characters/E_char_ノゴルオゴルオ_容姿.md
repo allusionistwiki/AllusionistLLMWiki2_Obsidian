@@ -53,3 +53,9 @@ description: キャラ容姿描写ページ
 - 隻頭の岩肌種 ｜ 頭・種族 ｜ 典拠: [242話](../../nav/ch0242.md)（p7928）
   > 隻頭の岩肌種は、『塗壁』を名乗る危険な言語支配者の転生体だ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ノゴルオゴルオ**（ID `E_char_ノゴルオゴルオ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

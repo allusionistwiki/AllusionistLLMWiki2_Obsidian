@@ -87,8 +87,6 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 例えばトリシューラにとってそれは機械としての自らの意識と部品、更にはそこから派生して彼女の創りだしたもの、そしてある瞬間においては使い魔たるシナモリ・アキラもその中に含まれる。
-- **unknown**: 例えばトリシューラにとってそれは機械としての自らの意識と部品、更にはそこから派生して彼女の創りだしたもの、そしてある瞬間においては使い魔たるシナモリ・アキラもその中に含まれる。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->
@@ -110,3 +108,9 @@ updated: '2026-10-21'
 - **unknown**: 張り詰めた空気が引き裂かれ、最適化された右の掌打がロドウィを打ち据えた。 「NOKOTTA！」 巨体が仰向けに吹き飛ばされていく。俺は彼に触れていないにも関わらず。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラ**（ID `E_char_アキラ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

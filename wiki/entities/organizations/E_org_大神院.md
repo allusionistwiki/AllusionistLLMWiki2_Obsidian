@@ -131,3 +131,9 @@ updated: '2026-10-21'
 - **unknown**: いかに第七位の浄界が世界を塗り替えようとも、大神院が独占管理する空間操作呪術、『扉職人』の秘儀を無効化することはできない。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **大神院**（ID `E_org_大神院` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

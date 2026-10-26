@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: タコやイカのような無数の手足を有していたり、多機能ロボットアームを分離・遠隔操作したり、時には艦船や飛行機、海底基地や複数の小型ドローンそのものと自己の感覚を一体化させたりといった、人の枠を拡張するような身体性のあり方がそこにある。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **青肌人**（ID `E_org_青肌人` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

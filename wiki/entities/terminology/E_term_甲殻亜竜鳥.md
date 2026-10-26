@@ -24,3 +24,9 @@ updated: '2026-10-21'
 - **unknown**: 甲殻亜竜鳥が、木喰い飛翔樹が、憑霊方晶石が、正しい歴史の試行錯誤とはこれだと歌い上げるように生存競争を繰り返す。大半が砕け散る中で、わずかな正解を見つけようと足掻き、その命を燃焼させながら標的に追い縋った。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **甲殻亜竜鳥**（ID `E_term_甲殻亜竜鳥` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

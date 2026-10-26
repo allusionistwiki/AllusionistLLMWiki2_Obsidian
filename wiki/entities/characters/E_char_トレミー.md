@@ -103,3 +103,9 @@ updated: '2026-10-19'
 - **unknown**: 「俺の加護が及んでいる以上、ラクルラールの青糸なんかに支配されることは無いはずなんよな。奴は前回の舞台で確かに敗れた。だからレイちゃんまでもが役割を強制されているのは、別の支配者が干渉しているからなんだけど」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **トレミー**（ID `E_char_トレミー` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

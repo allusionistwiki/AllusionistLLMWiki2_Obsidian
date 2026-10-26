@@ -61,8 +61,6 @@ updated: '2026-10-21'
 
 - **unknown**: その断絶を内包しながら二者の世界が矛盾を織り込んで成立する
 - **unknown**: この世界そのものに、『どこにもいない』と見なされているのだ。
-- **unknown**: その断絶を内包しながら二者の世界が矛盾を織り込んで成立する
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->
@@ -72,3 +70,9 @@ updated: '2026-10-21'
 - **unknown**: 空白。世界が分かたれる。永遠の恋を両断する残酷な死の軌跡によって。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **世界**（ID `E_char_世界` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

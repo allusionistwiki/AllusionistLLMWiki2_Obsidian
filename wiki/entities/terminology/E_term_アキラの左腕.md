@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 『シナモリ・アキラのバックアップ。感染呪術の基本原則を思い出して下さい。元々一つだったものは、呪力を宿す。遠く離れていても影響を及ぼし合う』（ch5258）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラの左腕**（ID `E_char_アキラの左腕` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

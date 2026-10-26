@@ -39,3 +39,9 @@ description: キャラ容姿描写ページ
 - 赤毛の少年（修道騎士）。 ｜ 髪・年齢 ｜ 典拠: [211話](../../nav/ch0211.md)（p7147）
   > 言われてみればあの赤毛の少年、冬の魔女への燃え上がるような恋に狂った優しい修道騎士が英雄たる槍の民というのは納得できる。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ソルダ**（ID `E_char_ソルダ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

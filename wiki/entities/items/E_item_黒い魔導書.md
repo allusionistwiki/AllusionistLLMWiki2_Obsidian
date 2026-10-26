@@ -35,3 +35,9 @@ updated: '2026-10-19'
 - **unknown**: すると手の中に収まっていた黒い魔導書が輝き、するべきことを教えてくれた。意識を盤上の一か所に集中させる。するとより詳細な下界の様子を知覚することができ、他の大量の情報が意識から消えていく。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **黒い魔導書**（ID `E_item_黒い魔導書` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

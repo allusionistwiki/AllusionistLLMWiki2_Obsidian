@@ -5,8 +5,8 @@ type: entity
 subtype: character
 canonical_name: 亡霊たち
 title: 亡霊たち
-first_appearance: ch5574
-spoiler_after: ch5574
+first_appearance: ch5387
+spoiler_after: ch5387
 document_status: active
 review_status: llm_verified
 created: '2026-09-30'

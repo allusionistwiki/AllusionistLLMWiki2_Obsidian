@@ -49,3 +49,9 @@ description: キャラ容姿描写ページ
 - 片手片足が白骨状態、顔に火傷痕、無精髭、穏和そうな顔立ちだが目は狂気に染まる ｜ 義肢・身体・顔・傷・髭・顔立ち・瞳 ｜ 典拠: [141話](../../nav/ch0141.md)（p4783）
   > 片手片足が白骨死体という再生者だ。顔には無惨な火傷の痕。一見すると無精髭が伸びっぱなしの穏和そうな中年男。だが垂れ気味の目は昂ぶる戦意と確信的な狂気に染まっている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ネドラド**（ID `E_char_ネドラド` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - サイドヘア、露出した胸元、ネックレス装着、野性味あふれる男性 ｜ 髪・服装・体格・顔立ち ｜ 典拠: [272話](../../nav/ch0272.md)（p8437）
   > サイドヘアを撫でつけ、大胆に露出した胸元を国宝級の呪宝石ネックレスで飾った野性味あふれる男がこちらを見ている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カルパオッソ**（ID `E_char_カルパオッソ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

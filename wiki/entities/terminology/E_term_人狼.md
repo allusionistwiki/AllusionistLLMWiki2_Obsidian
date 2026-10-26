@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 再演の舞台で明らかにされたラフディと、現代のラフディでは決定的に異なる点が一つある。人狼の存在だ。 再生者として復活したラフディ国民の中に、人狼はいない。 彼らはラフディから排除された。 差別され謂われのない非難を浴びせられ、最後には国内の（ch5354）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **人狼**（ID `E_char_人狼` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 中心には、途方もなく巨大な有翼の大烏賊が無数の触手をうねらせており、その上に小さな人影が星々の光に照らされて腕組みして立っていた。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **フィフウィブレス＝ハルハハール**（ID `E_char_フィフウィブレス＝ハルハハール` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

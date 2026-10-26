@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 大樹のうろのような瞳に闇を湛える ｜ 瞳 ｜ 典拠: [74話](../../nav/ch0074.md)（p2808）
   > 大樹の『うろ』のような瞳に闇を湛えて、男は地上の理によって地上の人間を殺し続ける。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **第七位**（ID `E_char_第七位` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

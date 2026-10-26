@@ -26,3 +26,9 @@ created: "2026-09-30"
 > 「俺は異教徒であることを明かして殺せとまで言いましたが、彼はそれを関係無いと言い切りました。たとえそれがどのような主義主張や信仰の持ち主であったとしても救う。それが自分の為すべき事だからと。彼は五人の部下と共に、俺たち家族を救ってくれた。」（ch5151）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **医療修道士**（ID `E_char_医療修道士` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

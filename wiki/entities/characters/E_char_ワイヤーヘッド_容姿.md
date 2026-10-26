@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - ワイヤーヘッド。髪（ワイヤーヘア）を持つ。 ｜ 髪 ｜ 典拠: [145話](../../nav/ch0145.md)（p4956）
   > 「人形使いが王さま気取り？　トライデントだっけ。センスが無さ過ぎる細胞名じゃない？　髪の毛だなんて、発想が時代遅れだよ」
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ワイヤーヘッド**（ID `E_term_ワイヤーヘッド` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

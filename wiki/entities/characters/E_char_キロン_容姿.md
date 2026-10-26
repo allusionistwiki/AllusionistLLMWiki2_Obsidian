@@ -132,3 +132,9 @@ description: キャラ容姿描写ページ
 - 長い髪を持ち、美しい印象を与える。 ｜ 髪（長い）・印象（美しい） ｜ 典拠: [35話](../../nav/ch0035.md)（p1491）
   > 長い髪の、美しいという漠然とした印象だけが記憶に残っている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **キロン**（ID `E_char_キロン` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

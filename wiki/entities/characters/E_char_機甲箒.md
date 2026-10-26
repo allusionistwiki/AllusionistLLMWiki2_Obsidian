@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 興味深く見守っていると、ティリビナ人の青年を援護するような発言をした竜神信教の巫女マルガリータが一歩ぶん、機甲箒を操って前進する。（ch5579）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **機甲箒**（ID `E_char_機甲箒` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

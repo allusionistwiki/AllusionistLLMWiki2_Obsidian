@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 水晶アイバイザーの内で獰猛な眼光を光らせる ｜ 目 ｜ 典拠: [231話](../../nav/ch0231.md)（p7646）
   > 水晶アイバイザーの内側で、獰猛な眼光が閃いた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ウネム**（ID `E_char_ウネム` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

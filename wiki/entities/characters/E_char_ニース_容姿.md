@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 象牙色の垂れ耳（兎）、眼鏡、壮年男性 ｜ 耳・小物・年齢・性別 ｜ 典拠: [239話](../../nav/ch0239.md)（p7866）
   > 象牙に近い白の垂れ耳を持つ眼鏡の壮年男性
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ニース**（ID `E_char_ニース` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

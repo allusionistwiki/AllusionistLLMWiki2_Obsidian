@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: ダウナーで投げ遣りな声が応じて、舞台袖から紅紫の長髪を造花で飾った少女が登場する。両手には騎士と魔法使いの人形。「ベルグくんと！」「ガルラくんの！」「むりやり人形劇がはっじまっるよー！」
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **グラッフィアガット**（ID `E_char_グラッフィアガット` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 突起が順番に鎧の中に押し込まれる。 内部の肉体を貫通し、血液が吸い出されていくと、燃える血は炎となって鎧の背から噴出した。広がる八つの炎は天使の翼。槍神教における第八位の天使、松明を掲げる者ピュクティエトの敵を焼き尽くす神罰の執行者が顕現す（ch5354）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ピュクティエト**（ID `E_char_ピュクティエト` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

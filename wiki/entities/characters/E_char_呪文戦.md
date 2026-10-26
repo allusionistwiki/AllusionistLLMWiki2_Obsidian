@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 歴史教科書に関する呪文戦を継続しながら、ロードデンドロンはその都度、論点を何度もずらして攻め手を変えていく。 だが彼の指針はぶれておらず、スタンスはずっと一貫していた。 ティリビナ人の未来のために。（ch5584）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **呪文戦**（ID `E_char_呪文戦` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 鉄マスクと刺青のある巨漢 ｜ 顔: 鉄マスク・顔: 右半身の刺青・体格: 巨漢 ｜ 典拠: [238話](../../nav/ch0238.md)（p7820）
   > その一歩後ろで控えているのは口から耳までを覆う鉄マスクと右半身の刺青が特徴的な巨漢・ゴーリーだった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ゴーリー**（ID `E_char_ゴーリー` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

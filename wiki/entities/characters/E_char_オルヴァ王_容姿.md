@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 細身の身体（内部から棘が出る描写あり） ｜ 身体(細身) ｜ 典拠: [136話](../../nav/ch0136.md)（p4684）
   > 細身の身体の内部から無数の棘が突き出て、その命と共に鮮血が流れていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **オルヴァ王**（ID `E_char_オルヴァ王` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

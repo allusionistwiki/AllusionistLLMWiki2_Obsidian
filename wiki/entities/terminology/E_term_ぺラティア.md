@@ -32,9 +32,6 @@ updated: '2026-10-19'
 ## 象徴・比喩
 
 - **unknown**: ぺラティアだけは紀竜信仰を守るための聖域として不可侵であり続けた。　この地だけは守らなくてはならない。
-- **unknown**: ぺラティアだけは紀竜信仰を守るための聖域として不可侵であり続けた。　この地だけは守らなくてはならない。
-- **unknown**: ぺラティアだけは紀竜信仰を守るための聖域として不可侵であり続けた。　この地だけは守らなくてはならない。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:relationship -->
@@ -45,3 +42,9 @@ updated: '2026-10-19'
 - **unknown**: 『塔』の竜騎士ディシルキュトスの逆鱗城砦、ディスケイム家の接近、山岳王ベフォニスの庇護、至高天主との盟約、クエスドレム大公の援助、太陽炉の供儀、極天主の宣言、ディスカレイル王との約定、戦乙女の求婚、灰竜王国の成立、ジャッフハリムの解放、保護されるべき呪的資源としての特別王族区認定。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ぺラティア**（ID `E_term_ぺラティア` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

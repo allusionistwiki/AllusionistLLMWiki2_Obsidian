@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 大人びた顔立ち、緑の髪に大輪の花を飾る、ひらひらとした民族衣装。 ｜ 顔立ち・髪・服装 ｜ 典拠: [222話](../../nav/ch0222.md)（p7385）
   > 大人びた顔立ちと振る舞いに反して、緑の髪を飾る大輪の花と、ひらひらとした民族衣装は少女のように愛らしい。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **エスト（プリエステラ）**（ID `E_char_エスト_プリエステラ_` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

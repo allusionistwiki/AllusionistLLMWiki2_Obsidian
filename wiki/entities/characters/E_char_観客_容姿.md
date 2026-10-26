@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 一帯を埋め尽くすほどの観客。 ｜ 観客 ｜ 典拠: [168話](../../nav/ch0168.md)（p5618）
   > 俺には理解不能な流れが場を支配し、泣き喚く赤子を妊婦の腹の中に収めてそれぞれが楽器を『創造』、公共チャンネルでライブの告知をすると次々と興味を持った観客がやってくる。こういうイベントは夢ではひっきりなしに行われていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **観客**（ID `E_char_観客` / kind: motif / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -31,9 +31,6 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 歴史の流れに埋もれて廃れた行き止まりの血。それは存在しないはずの亡霊だ。
-- **unknown**: 歴史の流れに埋もれて廃れた行き止まりの血。それは存在しないはずの亡霊だ。
-- **unknown**: 歴史の流れに埋もれて廃れた行き止まりの血。それは存在しないはずの亡霊だ。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:speech -->
@@ -47,3 +44,9 @@ updated: '2026-10-21'
 - **unknown**: 「それからウチの若いコがハグレスの依り代を発見～お手柄！ たぶんアダス とかレナリア入りなんで、サクっと封印しちゃうってさ～。」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ディパーシュ家**（ID `E_org_ディパーシュ家` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

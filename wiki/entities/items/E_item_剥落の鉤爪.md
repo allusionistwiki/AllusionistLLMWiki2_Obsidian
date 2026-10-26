@@ -25,3 +25,9 @@ created: "2026-09-30"
 > ユディーアの『剥落の鉤爪』は本来この程度には無体な暴力だった。個々人が咄嗟に発動させた『報復』の防御術など容易く貫き、瀕死の状態で使った『修復』の治癒術は傷痕に残留した高濃度の呪詛により阻害されて迫り来る死を遠ざけることは叶わない。（ch0203）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **剥落の鉤爪**（ID `E_item_剥落の鉤爪` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

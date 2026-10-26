@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 意に添わぬ行動への反発によって邪視者の自我に亀裂が走った。 ミナの死によって半狂乱となったジュティアは既に正常な精神状態を維持できていない。浄界は暴走し、半ば小鬼に堕ちかけている。 ゴブリン級の現実改変呪力が空中をでたらめに荒れ狂う。（ch0237）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **小鬼**（ID `E_char_小鬼` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

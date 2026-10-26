@@ -35,3 +35,9 @@ updated: '2026-10-19'
 - **unknown**: クリーナーが操縦する大型箒・ダストの封印が一部解除されて前面装甲が露わになる。嘴と鶏冠をイメージした白と赤の巨大な風防と一体化したガラスの中に収められていたのはミニチュアの遊戯盤。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ダスト**（ID `E_item_ダスト` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

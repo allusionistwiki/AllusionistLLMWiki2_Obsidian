@@ -172,3 +172,9 @@ updated: '2026-10-21'
 - **unknown**: 暗がりの中に出現したのは、小柄な少女だった。ふんだんにフリルがあしらわれた丸襟のブラウスは、返り血で赤黒く染まっている。豊かな金髪は螺旋状に巻かれている。それらは触手のように蠢き、ドリルのように高速回転すると自らの頭部を穿孔していく。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **イェレイド**（ID `E_char_イェレイド` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

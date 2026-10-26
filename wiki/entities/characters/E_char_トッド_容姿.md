@@ -37,3 +37,9 @@ description: キャラ容姿描写ページ
 - 月から出現した顔を描写。 ｜ ふっくらとした顔・空ろな目 ｜ 典拠: [2話](../../nav/ch0002.md)（p144）
   > ふっくらとした印象の顔が、月の表面に浮かぶ。空ろな目には、何の意思も表れていない。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **トッド**（ID `E_char_トッド` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

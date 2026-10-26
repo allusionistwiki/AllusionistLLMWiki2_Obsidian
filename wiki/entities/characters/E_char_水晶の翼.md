@@ -25,3 +25,9 @@ created: "2026-09-30"
 > ひとつ、ふたつ、みっつ――薄く細長い水晶柱の先端に光が収束。それらは砲塔となって標的に狙いを定め、眩い光線を発射していく。アストラル体のヴァージルが操作するのは実体を有する水晶の翼、そこから放たれる攻撃も物理的な影響力を有している。（ch5387）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **水晶の翼**（ID `E_char_水晶の翼` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

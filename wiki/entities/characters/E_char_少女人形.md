@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 全裸だったのだ。呪脂塗装が剥離して石粉粘土の肌も露わな有様で、肩や脚の付け根の球体関節までもが剥き出しになってしまっている。（ch5441）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **少女人形**（ID `E_char_少女人形` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

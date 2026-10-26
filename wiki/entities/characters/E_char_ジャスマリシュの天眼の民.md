@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 伝統的な槍を構えて身辺を警護しているのは統制のとれた【ジャスマリシュの天眼の民】たちだ。第七位の天使シャルマキヒュの加護によって優れた索敵能力を持つ彼ら彼女らがいれば、いかなる敵だろうと敵意を露わにする前に察知可能だ。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ジャスマリシュの天眼の民**（ID `E_char_ジャスマリシュの天眼の民` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

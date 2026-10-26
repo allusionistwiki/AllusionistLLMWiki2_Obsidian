@@ -39,3 +39,9 @@ updated: '2026-10-19'
 - **unknown**: 超多種族国家として成長と拡大を続けるために、ガロアンディアンは『紀竜』という世界の全てを司る存在を支柱に選び、目論見は成功した。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルト王**（ID `E_char_アルト王` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

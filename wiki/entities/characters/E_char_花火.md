@@ -5,8 +5,8 @@ type: entity
 subtype: character
 canonical_name: 花火
 title: "花火"
-first_appearance: ch0239
-spoiler_after: ch0239
+first_appearance: ch0233
+spoiler_after: ch0233
 document_status: active
 review_status: llm_verified
 created: "2026-09-30"
@@ -26,3 +26,9 @@ created: "2026-09-30"
 > 「なんかヤバいですよこれ！　『花火』が解呪されてます！　『塔』式の防壁とセージさんの皆殺し迷路を掻い潜るなんて無茶苦茶が、（ch0239）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **花火**（ID `E_char_花火` / kind: item / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

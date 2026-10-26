@@ -40,7 +40,10 @@ updated: '2026-10-19'
 ## 象徴・比喩
 
 - **unknown**: ドラトリアの礎にして災いであるカーティスの制御盤にして牢獄の鍵。抑制剤にして鎖と首輪。 そして、権力を裁定する秩序の剣。
-- **unknown**: ドラトリアの礎にして災いであるカーティスの制御盤にして牢獄の鍵。抑制剤にして鎖と首輪。 そして、権力を裁定する秩序の剣。
-- **unknown**: ドラトリアの礎にして災いであるカーティスの制御盤にして牢獄の鍵。抑制剤にして鎖と首輪。 そして、権力を裁定する秩序の剣。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **セリアック**（ID `E_term_セリアック` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

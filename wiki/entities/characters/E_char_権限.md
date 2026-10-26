@@ -25,3 +25,9 @@ created: "2026-09-30"
 > それからルバーブは、外敵の侵入や民の暴動などが危惧されるので近衛兵らと共に自室に戻るように、とマラードに告げて、自分は足早にその場を後にした。（ch5268）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **権限**（ID `E_char_権限` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

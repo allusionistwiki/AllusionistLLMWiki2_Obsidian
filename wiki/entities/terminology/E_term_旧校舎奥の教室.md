@@ -31,8 +31,6 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 旧校舎の一番奥にある教室には近づいてはいけない。
-- **unknown**: 旧校舎の一番奥にある教室には近づいてはいけない。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:visual -->

@@ -26,3 +26,9 @@ created: "2026-09-30"
 > この内部は空間の縮尺が狂っていて、一つの区画がこのエルネトモラン全体よりも広大だったりするから、古代の超技術というのは凄まじい。（ch5128）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **第一階層**（ID `E_term_第一階層` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

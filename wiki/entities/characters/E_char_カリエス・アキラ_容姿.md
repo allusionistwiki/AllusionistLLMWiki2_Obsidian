@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 病衣を着た白い男 ｜ 白い肌・薄手の病衣 ｜ 典拠: [183話](../../nav/ch0183.md)（p6079）
   > いつの間にか白い男は薄手の病衣を身に纏い、ブリキのコップを手にしてうがいをしていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カリエスアキラ**（ID `E_char_カリエスアキラ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

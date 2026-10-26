@@ -28,3 +28,9 @@ created: "2026-09-30"
 > 「摸倣だから、偽物だから、その中には本物が無いとあなたは言う。けれどジルはそうは思わない。外側の観測者たちが偽物だと思えないのなら、その振る舞いはジルたちの呪術的なものの見方によって本物だと確定できる。ならそれは、本物を一から再現するエミュ（ch5197）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヴァージリア**（ID `E_char_ヴァージリア` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

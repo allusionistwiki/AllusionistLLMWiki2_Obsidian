@@ -25,3 +25,9 @@ created: "2026-09-30"
 > ルバーブはぼそりと呪文を唱えた。「【影棘】」シャドウアーチン 実体の棘と、非実体の棘。銀と黒の刺突の嵐が猛然と襲いかかる。（ch0141）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **影棘**（ID `E_term_影棘` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

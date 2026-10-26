@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 黒蟲騎士団の代表（黒服）。 ｜ 服装 ｜ 典拠: [211話](../../nav/ch0211.md)（p7135）
   > 虫騎士シダリスと名乗った黒蟲騎士団の代表は私たちに対して友好的だった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **シダリス**（ID `E_char_シダリス` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

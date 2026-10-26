@@ -21,6 +21,10 @@ updated: '2026-10-21'
 
 - **unknown**: 交差する線は上下のみではない。
 瞳を前後に貫く『視線』が追加され、更には過去と未来を貫き現在で交わる『永劫線』が追加される。すなわち十字の軸は四次元。
-- **unknown**: 交差する線は上下のみではない。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **時十字の瞳**（ID `E_char_時十字の瞳` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > ユディーアは覚悟を決めて過去視を試みる決意を固めた。重要な技能関係の銀貨（コイン）は先ほどの軍勢召集と並行して回収してある。今はとにかく状況を打開するための情報が欲しい。（ch5553）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **過去視**（ID `E_char_過去視` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

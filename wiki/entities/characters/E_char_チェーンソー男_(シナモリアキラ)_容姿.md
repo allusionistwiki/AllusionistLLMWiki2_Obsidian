@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 両腕の代わりにチェーンソー（伐採用義肢）を装着している ｜ 義肢 ｜ 典拠: [151話](../../nav/ch0151.md)（p5133）
   > 甲高い音を立てながら、伐採用義肢が唸りを上げる。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **チェーンソー男（シナモリアキラ）**（ID `E_char_チェーンソー男_シナモリアキラ_` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

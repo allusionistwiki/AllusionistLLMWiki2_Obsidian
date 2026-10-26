@@ -34,9 +34,6 @@ updated: '2026-10-21'
 
 - **unknown**: 『複合種』は第六階層を象徴する異獣である。
 - **unknown**: 複合種が第四階層の侵攻に参加することは無い。奴らは第六階層特有の呪力によってその命を保っている『魔将の眷属』らしく、基本的にはこの階層にのみ生息しているらしい。
-- **unknown**: 『複合種』は第六階層を象徴する異獣である。
-- **unknown**: 複合種が第四階層の侵攻に参加することは無い。奴らは第六階層特有の呪力によってその命を保っている『魔将の眷属』らしく、基本的にはこの階層にのみ生息しているらしい。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:visual -->
@@ -54,3 +51,9 @@ updated: '2026-10-21'
 - **unknown**: 決まった対処法、確立された戦術というものをことごとく無効化してしまうため、熟練の探索者でも苦戦する難敵である。ゆえに第六階層の攻略は難航しており、数多くの探索者や松明の騎士たちが屍を積み上げ、あるいは手足を失って第五階層を彷徨うことになっている。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **複合種**（ID `E_char_複合種` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

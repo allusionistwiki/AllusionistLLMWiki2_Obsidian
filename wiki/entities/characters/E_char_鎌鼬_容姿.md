@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 人の形を保っているかが不透明なほどに変化した姿 ｜ 体格 ｜ 典拠: [157話](../../nav/ch0157.md)（p5311）
   > 人の形をとどめているのか怪しいけど
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **鎌鼬**（ID `E_char_鎌鼬` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

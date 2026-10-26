@@ -59,3 +59,9 @@ updated: '2026-10-21'
 - **unknown**: 衝撃によって転倒したその相手は、悪鬼ではない。白い肌と色素の薄い髪。典型的な『上』の特徴に加え、頬には目立つ刺青。暴力組織である三報会の刺客だった。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **三報会**（ID `E_char_三報会` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

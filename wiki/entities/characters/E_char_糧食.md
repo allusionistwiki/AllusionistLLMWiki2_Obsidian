@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 甘い糧食をカインの狼の口に放り込むと、彼は腐乱した舌でそれを受け止めた。 機嫌を良くしたのか、一声吠えると俺の足に頭部をすり寄せてくる。（ch0086）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **糧食**（ID `E_char_糧食` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

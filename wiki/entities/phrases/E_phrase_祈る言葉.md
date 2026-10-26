@@ -21,5 +21,4 @@ updated: '2026-10-19'
 
 - **unknown**: 祈る言葉は余りに遠く。
 裏返った価値は、脆く零落して、塵となって消えた。
-
 <!-- /AUTO-GENERATED:symbolic -->

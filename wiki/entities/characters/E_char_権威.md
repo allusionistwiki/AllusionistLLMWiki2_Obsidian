@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 振り下ろした斧槍、笑って死んだ誇り高き人狼。私はその屍を踏み越えていくと決めた。私の影が、ざわりと揺らめく。炎が落とす暗い影、それが私だ。（ch0196）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **権威**（ID `E_char_権威` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

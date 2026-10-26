@@ -28,3 +28,9 @@ created: "2026-09-30"
 > 空が荒れていた。塔が対空呪撃を繰り返すも、全ては嵐に飲み込まれて消失。 八枚の翼が赫々と燃え上がり、朱金の鎧が地上を無差別に焼き払 う。（ch0144）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **地上**（ID `E_char_地上` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

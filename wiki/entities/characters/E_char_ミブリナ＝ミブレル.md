@@ -32,3 +32,9 @@ updated: '2026-10-21'
 - **unknown**: 繰り返し到達した奈落の底で、ミブリナ＝ミブレルはそれを当の本人から聞いた。キュトスの姉妹の反逆者、ルスクォミーズ。彼女は七つの風の主シャーネスを喰らい、その存在と可能性そのものを取り込んだ。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ミブリナ＝ミブレル**（ID `E_char_ミブリナ＝ミブレル` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

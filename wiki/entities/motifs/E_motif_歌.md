@@ -21,8 +21,10 @@ updated: '2026-10-21'
 
 - **unknown**: 歌が広がる。悪意が連なる。愛が生まれる。
 - **unknown**: そしてリーナに残された猶予は歌という明白な尺度によって目に見えて――否、音に聞こえて減少していく。
-- **unknown**: 歌が広がる。悪意が連なる。愛が生まれる。
-- **unknown**: そしてリーナに残された猶予は歌という明白な尺度によって目に見えて――否、音に聞こえて減少していく。
-- **unknown**: 歌が広がる。悪意が連なる。愛が生まれる。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **歌**（ID `E_motif_歌` / kind: motif / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

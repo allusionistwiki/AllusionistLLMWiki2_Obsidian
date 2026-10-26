@@ -44,5 +44,10 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 日本語でまくし立てたので一切意味が通じていない。が、勢いと右腕の力は伝わったはずだ。硬い質感の義肢はこういう時に威圧感を与える効果がある。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **義肢**（ID `E_char_義肢` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

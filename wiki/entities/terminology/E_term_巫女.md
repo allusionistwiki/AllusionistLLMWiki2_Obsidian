@@ -22,3 +22,9 @@ updated: '2026-10-19'
 - **unknown**: 巫女というのは宗教体のほとんどで見られる特殊な神官のことだ。槍神教においては聖女がそれに相当する。最も神に近しいもの。呪的もしくは霊的な素養が高い、高次元存在と交信できるもの。竜神信教にもそうした存在がいるはずだった。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **巫女**（ID `E_term_巫女` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

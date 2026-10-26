@@ -25,3 +25,9 @@ created: "2026-09-30"
 > ふと、些細な違和感に気付く。　あの頃、いつもメイファーラが着けていた手袋が、今は存在していない。　呪力を遮る布――今にして思えば、それは接触感応や過去視の力を制御するための物だったのだが、あれはどうしたのだろう。（ch0060）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **手袋**（ID `E_item_手袋` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

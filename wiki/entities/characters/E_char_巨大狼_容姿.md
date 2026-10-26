@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 全身を金属製の鎧で覆い、前足の爪には鋭利な三枚の刃が取り付けられている。 ｜ 服装・武器 ｜ 典拠: [1話](../../nav/ch0001.md)（p23）
   > 全身を金属製の鎧で覆っている。二つの前足には鋭利な三枚の刃が爪のように取り付けられており
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **人狼**（ID `E_char_人狼` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

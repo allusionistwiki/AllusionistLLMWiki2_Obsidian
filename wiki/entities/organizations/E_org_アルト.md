@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 和解した二人はそれぞれの道を歩んだ後、共に不死者となる。そして片方は【死人の森の軍勢】に、もう片方は【四十人の勇士たち】という勢力に属し、レストロオセという強大な敵に立ち向かうだろう。（ch5301）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルト**（ID `E_char_アルト` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

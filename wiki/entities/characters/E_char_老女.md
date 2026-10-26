@@ -76,3 +76,9 @@ updated: '2026-10-21'
 - **unknown**: 背中合わせになった二人の目の前に、ある死人が現れる。その顔に、二人は見覚えがあった。本来他人同士である二人の女性を結びつけている死者――息子であり夫であったもの。その成れの果て。最悪の運命を前にして、しかし二人は力強く足を同時に踏み出すと、「嫁に手をあげるような子に育てた覚えは無いよこの馬鹿息子がっ」「お義母さんの世話全部押しつけて死にやがってこのクソ野郎がっ」息の揃った打撃によって死人を吹き飛ばす。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **老女**（ID `E_char_老女` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

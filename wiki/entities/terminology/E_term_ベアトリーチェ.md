@@ -119,3 +119,9 @@ updated: '2026-10-19'
 - **unknown**: 「仕方がありません。わたくしは所詮魔軍の元帥――その上の意向にまでは逆らえません。今ここであなた方を殲滅する事を【下】は望んでいない――であれば、ここは退くとしましょう。今日はほんの挨拶程度ということで満足しておきます」
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **セレクティフィレクティ**（ID `E_char_セレクティフィレクティ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

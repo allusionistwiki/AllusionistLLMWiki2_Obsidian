@@ -1728,3 +1728,9 @@ updated: '2026-10-21'
 - **unknown**: ハルベルトの目的――地上、世界の中心、そして地獄の三界で大規模呪術儀式を行うという、最後の一つが極めて困難なそれ――を達成する為には、同じく地獄を目指しているコルセスカとの共闘が必須とも言えた。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ハル**（ID `E_char_ハル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

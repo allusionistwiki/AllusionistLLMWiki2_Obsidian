@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 巨大なゲル状、体内に人骨、真っ赤な眼球 ｜ 体格・眼球・内部構造 ｜ 典拠: [181話](../../nav/ch0181.md)（p6009）
   > 大柄な霊長類を丸呑みにできるほど巨大なゲル状生物は、その体内に無数の人骨を内包していた。上部には真っ赤な眼球が浮かんでおり
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アメーバ・アキラ**（ID `E_char_アメーバ・アキラ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

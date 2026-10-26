@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「号は瞳の紅紫、性質は塔のお姫様、起源は冥道の模造品。アレッテ・イヴニル・ラプンシエル・ディルトーワ＝ベルラクルラールは、マラード・ディルトーワ・アム＝ドーレスタ・エフ＝ラフディ陛下にお力添えすべく推参致しました」（ch5342）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アレッテ・イヴニル・ラプンシエル・ディルトーワ＝ベルラクルラール**（ID `E_char_アレッテ・イヴニル・ラプンシエル・ディルトーワ＝ベルラクルラール` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

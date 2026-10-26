@@ -47,3 +47,9 @@ description: キャラ容姿描写ページ
 - 波打つ金色の髪と、黒檀の民特有の黒い肌を持つ。 ｜ 髪・肌 ｜ 典拠: [212話](../../nav/ch0212.md)（p7152）
   > 波打つ金色の髪は亜大陸の中にあっても少数人種の証だ。黒檀の民と一括りにされる黒肌の色濃さとてそれぞれに違う。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヴィティス**（ID `E_char_ヴィティス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

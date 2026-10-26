@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 松かさや葡萄の葉・蔦が巻き付いた杖を手にしている。 ｜ 所持品 ｜ 典拠: [95話](../../nav/ch0095.md)（p3489）
   > 先端に松かさが付いており、葡萄の葉や房、蔦が巻き付いた杖を持っていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **巫女たち**（ID `E_char_巫女たち` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

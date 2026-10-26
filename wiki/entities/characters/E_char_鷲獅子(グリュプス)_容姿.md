@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 鷲と火猫の要素を持つ黄金のような幻獣 ｜ 鷲の前方・火猫の後方・流転する黄金（心臓/体色の暗示） ｜ 典拠: [247話](../../nav/ch0247.md)（p8017）
   > 前は鷲、後ろは火猫、その心臓は流転する黄金。 神性と王権、神と人を媒介する象徴たる幻獣の中の幻獣。 鷲獅子。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **鷲獅子（グリュプス）**（ID `E_char_鷲獅子_グリュプス_` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

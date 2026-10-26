@@ -49,7 +49,10 @@ updated: '2026-10-21'
 
 - **unknown**: それがあらゆる呪術の反対呪文【静謐】の、その名とは裏腹に雄弁な悪意の解釈。
 - **unknown**: それはどのような呪術的効果であろうと打ち消すことが可能な秘術。世界に根を下ろした確固たる存在物であっても、過去に遡って発生原因を打ち消せば死を与えることができるという。
-- **unknown**: それがあらゆる呪術の反対呪文【静謐】の、その名とは裏腹に雄弁な悪意の解釈。
-- **unknown**: それはどのような呪術的効果であろうと打ち消すことが可能な秘術。世界に根を下ろした確固たる存在物であっても、過去に遡って発生原因を打ち消せば死を与えることができるという。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **静謐**（ID `E_char_静謐` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

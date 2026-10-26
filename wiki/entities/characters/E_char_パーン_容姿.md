@@ -101,3 +101,9 @@ description: キャラ容姿描写ページ
 - 身長が伸びた少年の体格 ｜ 体格 ｜ 典拠: [268話](../../nav/ch0268.md)（p8382）
   > 出会った頃より背が伸びた少年
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **パーン**（ID `E_char_パーン` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

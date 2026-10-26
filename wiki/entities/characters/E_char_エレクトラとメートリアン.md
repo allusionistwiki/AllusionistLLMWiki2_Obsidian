@@ -27,3 +27,9 @@ created: "2026-09-30"
 > いつの間にか、支配下に置いた軍勢がエレクトラとメートリアンをじわじわと包囲している。更には他の地点から侵入してきたキノコ人奴隷や武装したティリビナ人たちまでもが姿を現す。（ch5532）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **エレクトラとメートリアン**（ID `E_char_エレクトラとメートリアン` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

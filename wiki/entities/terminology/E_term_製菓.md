@@ -20,7 +20,10 @@ updated: '2026-10-19'
 ## 象徴・比喩
 
 - **unknown**: 当たり前だが、製菓は精密機械のように完璧に行われた。そこには感情を差し挟む余地はなく、ただ冷たい結果が残るのみ。
-- **unknown**: 当たり前だが、製菓は精密機械のように完璧に行われた。そこには感情を差し挟む余地はなく、ただ冷たい結果が残るのみ。
-- **unknown**: 当たり前だが、製菓は精密機械のように完璧に行われた。そこには感情を差し挟む余地はなく、ただ冷たい結果が残るのみ。
-
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **製菓**（ID `E_term_製菓` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -263,3 +263,9 @@ updated: '2026-10-21'
 - **unknown**: リールエルバは色よい返事に口の端を笑みの形にして、目の前に長方形の札を出現させる。カード型の情報構造体の表面に、無数の文字列が走っている。「いいお返事ね。これ、私たちの分の思い出話よ。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **狂姫**（ID `E_char_狂姫` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 足裏から呪術炎を噴射して飛行する自動鎧の巨大な群れ。 ｜ 自動鎧・飛行・呪術炎 ｜ 典拠: [65話](../../nav/ch0065.md)（p2424）
   > 飛行型の自動鎧が足裏から呪術炎を噴射しながら接近していた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **自動鎧（リビングアーマー）**（ID `E_term_自動鎧_リビングアーマー_` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

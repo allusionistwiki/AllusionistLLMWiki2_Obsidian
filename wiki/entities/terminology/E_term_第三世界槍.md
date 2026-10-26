@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: その直後にこれまで『槍』の形をしていた第三世界槍が『書物』にその姿を変えたらしい。更には天と地に分かれて敵対していた北辺帝国と地底都市周辺の空間が圧縮、『書物化』されて、次元の歪みである『書架』に吸い込まれているという。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **第三世界槍**（ID `E_term_第三世界槍` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

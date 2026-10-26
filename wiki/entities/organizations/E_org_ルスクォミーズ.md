@@ -36,3 +36,9 @@ updated: '2026-10-21'
 - **unknown**: 不死女神たちの中にあって最も不滅に近いとされていたシャーネスが、キュトス統合を目指すルスクォミーズの最初の標的となったのは必然だった。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ルスクォミーズ**（ID `E_char_ルスクォミーズ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

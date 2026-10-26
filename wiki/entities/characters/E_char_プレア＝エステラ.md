@@ -35,3 +35,9 @@ updated: '2026-10-19'
 - **unknown**: 眷属種認定の働きかけを行ったティリビナ人たちの美しき巫女プレア＝エステラがそうであったように、若い世代の間で大きな価値観の変化が生まれていることは間違いない。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **プレア＝エステラ**（ID `E_char_プレア＝エステラ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

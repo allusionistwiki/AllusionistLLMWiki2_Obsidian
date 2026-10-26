@@ -26,3 +26,9 @@ created: "2026-09-30"
 > 自分が纏った集団構築オルガンローデを遥かに凌駕する強度の呪文竜による大飛躍。 個人で実現可能な規模としては破格のそれは、呪文的な精度や複雑さにおいてハルベルトが用いるような優れたものには遠く及ばない。 にもかかわらず、それは明らかにユディー（ch0216）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **オルガンローデ**（ID `E_char_オルガンローデ` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

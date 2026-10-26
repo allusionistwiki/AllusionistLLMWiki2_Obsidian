@@ -42,9 +42,6 @@ updated: '2026-10-21'
 
 - **unknown**: 間違いない、黄金のドレスだ。
 かつて相対した圧倒的な影の存在感と、魔竜の恐ろしさを思い出してリーナは逃げ出したくなった。チッセは紛れもなく、現代における黄金偶像のひとり。
-- **unknown**: 間違いない、黄金のドレスだ。
-- **unknown**: 間違いない、黄金のドレスだ。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->
@@ -76,3 +73,9 @@ updated: '2026-10-21'
 - **unknown**: 編み込んだ麦をイメージしたようなティアラが星の光を反射してきらめく。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **チッセ**（ID `E_char_チッセ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

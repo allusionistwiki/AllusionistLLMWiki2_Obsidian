@@ -20,8 +20,6 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 『ラウス＝ベフォニス』という名が人格と共に消失し、何者でもない『　』が弱々しい泣き声を上げ続ける。
-- **unknown**: 『ラウス＝ベフォニス』という名が人格と共に消失し、何者でもない『　』が弱々しい泣き声を上げ続ける。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->
@@ -33,3 +31,9 @@ updated: '2026-10-21'
 - **unknown**: 悲しみと言う正常な心の働きを感情制御アプリが肩代わりして、代替感情を間に噛ませる。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ラウス＝ベフォニス**（ID `E_char_ラウス＝ベフォニス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 盲目らしき少女。 ｜ 盲目らしき ｜ 典拠: [168話](../../nav/ch0168.md)（p5623）
   > もっとも、盲目らしき少女のその『認識』を見比べるという形容することが適切かどうかは定かでは無い。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **動物想（ファウナ）**（ID `E_term_動物想_ファウナ_` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

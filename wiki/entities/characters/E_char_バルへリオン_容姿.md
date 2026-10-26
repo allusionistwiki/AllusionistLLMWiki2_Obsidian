@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - がっしりした体格、髭、高い声 ｜ 体格・顔立ち・声 ｜ 典拠: [255話](../../nav/ch0255.md)（p8197）
   > がっしりした体格、髭の似合う中年そこそこの年齢、幾つもの風船を手にした男の声は、見た目からすると意外なほどに高かった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **バルへリオン**（ID `E_char_バルへリオン` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

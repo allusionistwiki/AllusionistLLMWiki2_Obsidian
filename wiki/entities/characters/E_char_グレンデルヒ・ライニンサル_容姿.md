@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 男。「神の奴隷」「万能の才人」と呼ばれる存在。前段の「男性と女性性の足し算」(マラコーダ)とは別。 ｜ 性別 ｜ 典拠: [210話](../../nav/ch0210.md)（p7114）
   > グレンデルヒ・ライニンサル。万能の才人と称えられる男がそこにいた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルレッキーノ**（ID `E_char_アルレッキーノ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

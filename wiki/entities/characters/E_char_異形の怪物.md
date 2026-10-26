@@ -35,3 +35,9 @@ updated: '2026-10-19'
 - **unknown**: ありとあらゆる生物を滅茶苦茶に混ぜ合わせ、融かして固めたかのような異形。固体とも液体ともつかない肉腫が流動しながら蠢き、破壊と殺戮を撒き散らし、見る者を恐怖に陥れる。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **異形の怪物**（ID `E_char_異形の怪物` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

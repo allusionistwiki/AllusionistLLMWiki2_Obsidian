@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 至高の吸血鬼狩りファナハード。キュトスの姉妹が二十七女、宝石のクリーアム。レストロオセ四十四士筆頭、近衛師団遊撃隊長『万殺鬼』・初代アインノーラ。（ch5434）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ナーグストール**（ID `E_char_ナーグストール` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

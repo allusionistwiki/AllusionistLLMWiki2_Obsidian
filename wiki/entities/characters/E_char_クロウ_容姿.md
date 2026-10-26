@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 鳥人（鳥の羽を有する外見）である。 ｜ 種族/外見 ｜ 典拠: [215話](../../nav/ch0215.md)（p7233）
   > 不死狩りの鳥人『啄み』クロウ選手
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クロウ**（ID `E_char_クロウ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

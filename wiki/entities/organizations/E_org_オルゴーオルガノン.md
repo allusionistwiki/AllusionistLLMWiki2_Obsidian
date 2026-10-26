@@ -20,9 +20,6 @@ updated: '2026-10-21'
 ## 象徴・比喩
 
 - **unknown**: 『オルゴーオルガノン』と言えば、確か時代遅れの『非自律型オルガンローデ』を開発研究している呪石兵器メーカーの名だ。
-- **unknown**: 『オルゴーオルガノン』と言えば、確か時代遅れの『非自律型オルガンローデ』を開発研究している呪石兵器メーカーの名だ。
-- **unknown**: 『オルゴーオルガノン』と言えば、確か時代遅れの『非自律型オルガンローデ』を開発研究している呪石兵器メーカーの名だ。
-
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:speech -->
@@ -33,3 +30,9 @@ updated: '2026-10-21'
 - **unknown**: 『オルゴーオルガノン』と言えば、確か時代遅れの『非自律型オルガンローデ』を開発研究している呪石兵器メーカーの名だ。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **オルゴーオルガノン**（ID `E_org_オルゴーオルガノン` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

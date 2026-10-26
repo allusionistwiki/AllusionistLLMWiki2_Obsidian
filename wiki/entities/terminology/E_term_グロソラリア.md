@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 霊的熱狂の中で自然発生するという【異言】を人為的に生み出し、より高次の霊的位階へ接近しようという神学的叡智の結晶、換言するところの無為な試みは、定例の儀式として定着し、現在に至る。（ch5120）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **異獣**（ID `E_char_異獣` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -55,3 +55,9 @@ updated: '2026-10-21'
 - **unknown**: 軽戦士の盾が妖しく輝いて紋様に見えた目蓋が開き、呪槍士の蛇槍が棍棒に巻き付いた。邪視による呪縛が雷撃を封殺し、使い魔武装が虹犬の手に噛み付こうと牙を剥く。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **探索者**（ID `E_char_探索者` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

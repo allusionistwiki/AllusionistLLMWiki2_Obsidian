@@ -47,3 +47,9 @@ updated: '2026-10-21'
 - **unknown**: ウォゾマとその思想を退けた結果として、ヒュールサスの財政は傾いた。増大する福祉への支出は際限なく国庫を食らいつくし、債務が積み上がり、税は重く民にのし掛かっていく。破綻は目の前だった。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヒュールサス**（ID `E_org_ヒュールサス` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

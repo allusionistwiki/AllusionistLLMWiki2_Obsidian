@@ -102,3 +102,9 @@ updated: '2026-10-21'
 - **unknown**: 「思わない」 にべもなかった。冷たすぎて凍えそうだ。涙目になって質問する。「なんでー」「ちょっと、泣かないでよ。デーツとチョコの甘さを緩和するナッツ。確かに良い組み合わせ。お菓子の組み合わせとしてはね。けどそれだけ。それ以上のアナロジーは不用意。現実はお菓子のように甘くない」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **タマル**（ID `E_char_タマル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

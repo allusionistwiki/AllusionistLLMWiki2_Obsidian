@@ -60,3 +60,9 @@ updated: '2026-10-19'
 - **unknown**: ラクルラール派――当代最高の人形師、杖と使い魔の到達者が統べる派閥。使い魔の座トライデントを擁する最大勢力である。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ラクルラール派**（ID `E_char_ラクルラール派` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

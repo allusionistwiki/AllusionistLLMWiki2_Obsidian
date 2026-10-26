@@ -52,3 +52,9 @@ updated: '2026-10-21'
 - **unknown**: 橙色に近い黄金の鎧を身にまとい、四対八枚の燃える翼を広げた炎の天使。 アルマ・アーニスタが片腕を突き出すと、虚空に透明な障壁が出現。壁はどこまでも拡大し、迫り来る黒霧を丸ごとせき止めて見せた。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルマ・アーニスタ**（ID `E_char_アルマ・アーニスタ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
