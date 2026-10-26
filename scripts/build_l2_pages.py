@@ -104,31 +104,59 @@ def main():
     n_page = min(len(merged), 1200)
     for e in merged[:n_page]:
         k = KIND_LABEL.get(e["kind"], e["kind"])
-        al = ", ".join("`%s`" % a for a in e["aliases"] if a != e["canonical"])
-        body.append("- **%s**（`%s`／%s／確度: %s）← %s" %
-                    (e["canonical"], e["id"], k, e.get("merge_evidence", "?"), al))
+        al = ", ".join(
+            ("`%s`〔%s・%s〕" % (a["name"], a.get("confidence", "?"), a.get("source", "?")))
+            if isinstance(a, dict) else "`%s`" % a
+            for a in e["aliases"] if (a["name"] if isinstance(a, dict) else a) != e["canonical"])
+        line = "- **%s**（`%s`／%s／確度: %s）← %s" % \
+               (e["canonical"], e["id"], k, e.get("merge_evidence", "?"), al)
+        kids = e.get("children") or []
+        if kids:
+            line += "\n  - 付随属性（子）: %s" % ", ".join(
+                "**%s**" % (c.get("name") or c.get("id")) for c in kids[:20])
+        parent = e.get("parent")
+        if parent:
+            line += "\n  - 親実体: `%s`（%s／確度: %s）" % \
+                    (parent.get("id"), parent.get("relation", "aspect"),
+                     parent.get("confidence", "?"))
+        body.append(line)
     body += ["", "（掲載 %d / 統合済み %d 件・全件は台帳データ）" % (n_page, len(merged)), ""]
     (REFL / "RF_l2_correlations.md").write_text("\n".join(body), encoding="utf-8")
 
     # ---- aliases-index.md --------------------------------------------------
+    def aname(a):
+        return a["name"] if isinstance(a, dict) else a
     rows = []
     for e in merged:
         for a in e["aliases"]:
-            if a != e["canonical"]:
-                rows.append((a, e))
+            nm = aname(a)
+            if nm != e["canonical"]:
+                rows.append((nm, e, a if isinstance(a, dict) else {}))
     rows.sort(key=lambda t: (-len(t[1]["aliases"]), t[0]))
     body = ["---", 'schema_version: "5.1"', "id: RF_l2_aliases_index",
             "title: 名義変換表（L1 素名義 → 正規 ID）",
-            "description: L1 facts に現れた名義がどの正規実体へ統合されたかの照会表（上位）。",
+            "description: L1 facts に現れた名義がどの正規実体へ統合されたかの照会表。確度・根拠・検証点付き。",
             "type: reflection", 'created: "%s"' % today, "tags: []", "---", "",
             "# 名義変換表",
             "",
-            "| 名義 | 正規 ID | 代表名 | kind |",
-            "|---|---|---|---|",
+            "確度: 明言=原文同一性の直接観測 / 蓋然性高=全話証拠裁定（v2） / 表記一致=正規化同一 / 要検証=根拠未確認（検証点参照）。",
+            "検証点は統合前に確認すべき事項。引用は根拠となった章の段落。",
+            "",
+            "| 名義 | 正規 ID | 代表名 | kind | 確度 | 根拠 | 検証点 |",
+            "|---|---|---|---|---|---|---|",
             ""]
-    for a, e in rows[:5000]:
-        body.append("| %s | `%s` | %s | %s |" %
-                    (a.replace("|", "｜"), e["id"], e["canonical"], KIND_LABEL.get(e["kind"], e["kind"])))
+    def esc(s):
+        return str(s).replace("|", "｜").replace("\n", " ")[:140]
+    for nm, e, a in rows[:5000]:
+        cites = a.get("cites") or []
+        cite_md = " ".join("[`%s¶%s`](https://allusionistwiki.github.io/AllusionistWiki/episodes/%s/)"
+                           % (c[0], c[1], c[0]) for c in cites[:2])
+        basis = "%s：%s" % (a.get("source", "?"), esc(a.get("reason", "")))
+        verify = "；".join(esc(v) for v in (a.get("verify") or [])) or "—"
+        body.append("| %s | `%s` | %s | %s | %s | %s %s | %s |" %
+                    (esc(nm), e["id"], esc(e["canonical"]),
+                     KIND_LABEL.get(e["kind"], e["kind"]),
+                     a.get("confidence", "?"), esc(basis), cite_md, esc(verify)))
     body += ["", "（掲載 %d / %d 行）" % (min(len(rows), 5000), len(rows)), ""]
     (REFL / "RF_l2_aliases_index.md").write_text("\n".join(body), encoding="utf-8")
 

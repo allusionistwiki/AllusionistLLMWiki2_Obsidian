@@ -29,7 +29,8 @@ def main():
     for e in ents:
         l2[norm_key(e["canonical"])] = e
         for a in e.get("aliases", []):
-            l2.setdefault(norm_key(a), e)
+            nm = a["name"] if isinstance(a, dict) else a
+            l2.setdefault(norm_key(nm), e)
 
     n_dedup = n_fs = n_ref = 0
     for p in sorted((WIKI / "entities").rglob("*.md")):
