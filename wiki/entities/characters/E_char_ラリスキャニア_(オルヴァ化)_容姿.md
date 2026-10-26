@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 闇色の衣が白に染まり、紫色のオーラが漂う ｜ 服の色変化・オーラ ｜ 典拠: [147話](../../nav/ch0147.md)（p5013）
   > 闇色の衣が清廉な白に染まり、紫色のオーラが周囲一帯に漂い始める。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **ラリスキャニア** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_ラリスキャニア`。
+
+この名義は L2 名前統合台帳の正規エンティティ **ラリスキャニア(オルヴァ化)**（ID `E_char_ラリスキャニア(オルヴァ化)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

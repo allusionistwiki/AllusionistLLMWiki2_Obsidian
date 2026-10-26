@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 九本ありふっさふさした尻尾を持つ（狐系） ｜ 尻尾 ｜ 典拠: [152話](../../nav/ch0152.md)（p5152）
   > 尻尾も九本あってふっさふさなのー
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **虹犬男性(少女の恋人)**（ID `E_char_虹犬男性(少女の恋人)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

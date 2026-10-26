@@ -31,3 +31,11 @@ description: キャラ容姿描写ページ
 - 網膜に弾道予報が表示されている ｜ 網膜・AR ｜ 典拠: [160話](../../nav/ch0160.md)（p5456）
   > 網膜の表面を走る『弾道予報Ｖｅｒ３．０』の文字列。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **オルヴァ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_オルヴァ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **オルヴァ(転生後)**（ID `E_char_オルヴァ(転生後)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

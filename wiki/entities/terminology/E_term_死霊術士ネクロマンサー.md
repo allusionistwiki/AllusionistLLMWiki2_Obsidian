@@ -21,3 +21,9 @@ updated: '2026-10-21'
 
 - **unknown**: 死霊術士（ネクロマンサー）によって『死霊としての定義』が行われた結果のようにも見えるが、それにしては実在感が濃すぎる。純度の高い妖精（アールヴ）や夜の民、空の民のように、アストラル比率の高い生命体に近づいている可能性がある。
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **死霊術士ネクロマンサー**（ID `E_term_死霊術士ネクロマンサー` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

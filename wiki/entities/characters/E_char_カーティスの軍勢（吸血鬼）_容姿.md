@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 黒衣を纏っている。 ｜ 服装：黒衣 ｜ 典拠: [112話](../../nav/ch0112.md)（3949）
   > 黒衣を纏った吸血鬼。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カーティスの軍勢(吸血鬼)**（ID `E_org_カーティスの軍勢(吸血鬼)` / kind: organization / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

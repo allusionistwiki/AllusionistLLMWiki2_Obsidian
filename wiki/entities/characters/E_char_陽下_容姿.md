@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 長い髪、長身。キモノを着用。左腕（推定）に流動する水でできていた義手を持つ。 ｜ 髪型・体格・服装・義肢 ｜ 典拠: [187話](../../nav/ch0187.md)（p6208）
   > 長い髪をなびかせた長身の少女、陽下のキモノを纏い、流動する水の義手を有するその姿は
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **陽下**（ID `E_char_陽下` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

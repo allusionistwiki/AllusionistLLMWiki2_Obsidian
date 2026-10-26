@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 目と口が溶け、無数の手が胴体下で蠢いている ｜ 目と口（溶解）・手（無数・蠢き） ｜ 典拠: [206話](../../nav/ch0206.md)（p6934）
   > シンプルな目と口がどろどろに溶け落ちていき、わさわさと蠢く無数の手が赤子じみた動きで胴体の下で潰れている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **キノコ人(異獣化後)**（ID `E_creature_キノコ人(異獣化後)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

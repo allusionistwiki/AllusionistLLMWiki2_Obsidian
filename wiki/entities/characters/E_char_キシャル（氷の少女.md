@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 少女の氷の腹を突き破って、手刀の形を作った右腕が髪の毛を切断していく。それは剣の子。刃を象った栄光の手。「この子の剣は、貴方の支配を断ち切れるの――王国（つかいま）を殺すのはね、外敵を貫く槍ではなく、法の裁きを司る剣なのですよ。」（ch5283）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **キシャル(氷の少女**（ID `E_char_キシャル(氷の少女` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

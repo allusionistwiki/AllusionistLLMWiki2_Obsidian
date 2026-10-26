@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 殺戮描写において、肉と骨が粘土のような質感、臓物が小道具の如き性質を持っていると描写されている ｜ 内臓・肉体 ｜ 典拠: [203話](../../nav/ch0203.md)（p6816）
   > 肉と骨は粘土じみたつくりもので、臓物は映像作品の小道具。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **男たち(襲撃者)**（ID `E_org_男たち(襲撃者)` / kind: organization / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

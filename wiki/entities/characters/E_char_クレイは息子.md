@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「その艶やかな髪は大地の民の証。美しい容貌は俺とセレス譲り。更にはルバーブの背中を見て育ったがゆえに素晴らしい忠義。クレイ・ディルトーワ・アム＝ドーレスタ・エフ＝ラフディ・ヒュールサスよ、お前はまさに俺とセレスの愛を証明する存在だ。どうかそ（ch5335）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クレイは息子**（ID `E_rel_クレイは息子` / kind: relationship / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

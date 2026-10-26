@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 肉塊となり再生する異形の幼子。 ｜ 異形・肉塊 ｜ 典拠: [168話](../../nav/ch0168.md)（p5622）
   > 落下の衝撃で肉塊となり、それでもなお肉体を再生させて這い上がる異形の幼子の軍勢は、いつかみた悪夢の再演に他ならなかった。「九百九十九の魂魄、大地と闇の王子たち――本物の純粋な再生者」
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **異形の幼子たち**（ID `E_char_異形の幼子たち` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

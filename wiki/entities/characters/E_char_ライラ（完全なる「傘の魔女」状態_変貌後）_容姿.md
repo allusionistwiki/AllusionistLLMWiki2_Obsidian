@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 犬型風船から変貌し、犬頭の貴婦人のような姿となる。 ｜ 頭部（犬頭）・服装（貴婦人風の姿）・体格変化（膨れ上がる） ｜ 典拠: [253話](../../nav/ch0253.md)（8147）
   > その小さな体躯は見る見るうちに膨れ上がり、ぽんと軽い破裂音と共に犬型風船が弾けて散った。中から現れたのは犬頭の貴婦人だ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **ライラ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_ライラ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **ライラ(完全なる「傘の魔女」状態/変貌後)**（ID `E_char_ライラ(完全なる「傘の魔女」状態/変貌後)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

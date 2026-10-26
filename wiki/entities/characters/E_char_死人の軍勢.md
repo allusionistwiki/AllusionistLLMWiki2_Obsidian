@@ -25,3 +25,9 @@ created: "2026-09-30"
 > ブウテトは鼻から凄まじい暴風を噴出させて距離を取ると、細い指先を前に出してぐっと握りしめた。途端、地面が割れてそこから無数の死人たちが這い出してくる。（ch5332）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **死人の軍勢**（ID `E_creature_死人の軍勢` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

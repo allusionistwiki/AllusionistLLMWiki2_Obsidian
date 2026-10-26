@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - ルバーブの髪がアキラの腕から胴へ移動する描写 ｜ 髪・腕・胴 ｜ 典拠: [142話](../../nav/ch0142.md)（p4824）
   > アキラの手指に絡みついたルバーブの毛髪は意思を持った毒蛇のように密やかに這い、滑り、標的の腕から胴へと移動し、
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **シナモリアキラ,ルバーブ**（ID `E_char_シナモリアキラ,ルバーブ` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

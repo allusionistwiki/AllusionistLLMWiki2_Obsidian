@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: しかしながら兎の戦士たちと当時の月王、そして偶然にアヴロニアから視察に訪れていた長命種の光妖精の手によって狂王子の野望は未然に挫かれることとなる。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **光妖精**（ID `E_creature_光妖精` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

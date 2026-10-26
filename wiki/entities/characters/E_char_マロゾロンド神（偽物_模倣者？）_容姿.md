@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 空を覆う夜の黒衣を纏っている。 ｜ 服装/外見（黒衣） ｜ 典拠: [253話](../../nav/ch0253.md)（8146）
   > 空を覆う夜の黒衣は、夜の民にとっての崇高だ。私は無言のまま影を斧にかえて、勢いよく振りかぶった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **マロゾロンド神(偽物/模倣者?)**（ID `E_creature_マロゾロンド神(偽物/模倣者?)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

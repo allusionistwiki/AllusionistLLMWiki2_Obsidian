@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 少女人形のアバター。三角の獣耳があり、手から爪が生える。 ｜ アバター（少女人形）・三角の獣耳・鋭い爪・デフォルメされた手 ｜ 典拠: [57話](../../nav/ch0057.md)（p2172）
   > 三角の獣耳が生えた少女人形が、デフォルメされた手から鋭い爪を生やす。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **セリアック=ニア(聖姫)**（ID `E_char_セリアック=ニア(聖姫)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

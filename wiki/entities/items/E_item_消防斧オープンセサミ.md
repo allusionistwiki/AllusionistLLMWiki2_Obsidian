@@ -22,3 +22,9 @@ updated: '2026-10-21'
 - **unknown**: 故事、ことわざ、ステレオタイプ、持物、教養、流行り、ミーム、モンタージュ、なんでもいいから即座に通じる『消防斧（オープンセサミ）』が必要だ。
 なければ用意してやろう。クロウサーならそれが可能だ。
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **消防斧オープンセサミ**（ID `E_item_消防斧オープンセサミ` / kind: item / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

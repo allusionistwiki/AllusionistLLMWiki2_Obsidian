@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 「『新型の使役型寄生異獣の開発研究』と、『非槍神教系神働術を既存の神働術の中に取り入れる為の実験』――この名目でティリビナの民の安全を確保する」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **計画**（ID `E_term_計画` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

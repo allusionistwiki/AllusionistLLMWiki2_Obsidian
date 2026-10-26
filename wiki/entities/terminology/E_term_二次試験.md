@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 最低限の知識を問われる一次試験とは異なり、二次試験からは言語魔術師としての実際の能力が問われる。　呪文実技。次で八割が振り落とされると言われている、狭き門。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **二次試験**（ID `E_term_二次試験` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

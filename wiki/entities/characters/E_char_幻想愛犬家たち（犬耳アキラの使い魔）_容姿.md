@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - ステレオタイプの厄介な飼い主の外見 ｜ 鋭角の眼鏡・厚化粧 ｜ 典拠: [183話](../../nav/ch0183.md)（p6072）
   > 鋭角の眼鏡に厚化粧、戯画化された特徴を有する、フィクションなどでお馴染みの厄介な飼い主像が具現化していた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **幻想愛犬家たち(犬耳アキラの使い魔)**（ID `E_creature_幻想愛犬家たち(犬耳アキラの使い魔)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

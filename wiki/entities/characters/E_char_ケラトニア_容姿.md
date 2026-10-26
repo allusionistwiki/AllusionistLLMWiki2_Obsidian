@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 三角耳を持ち、赤く輝く剣を手にして爆炎を纏う（ナサニアの双子の姉妹） ｜ 三角耳・赤く輝く剣・爆炎 ｜ 典拠: [259話](../../nav/ch0259.md)（p8260）
   > 手にした剣が赤く輝き、纏わせた爆炎が膨張した。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ケラトニア**（ID `E_char_ケラトニア` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

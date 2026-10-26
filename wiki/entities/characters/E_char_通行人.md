@@ -29,3 +29,11 @@ updated: '2026-10-19'
 - **unknown**: 近くで誰かが小さく呟くのが聞こえた。「あーあ可哀想に。あれは順正化処理だろうな」　――次にあの青年を見た時には、きっと大神院の教えに忠実で、異獣を心から憎む模範的な地上人になっていることだろう。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **通行人**（ID `E_char_通行人` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

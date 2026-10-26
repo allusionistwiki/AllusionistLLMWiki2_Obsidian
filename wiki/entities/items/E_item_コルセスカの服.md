@@ -23,3 +23,11 @@ updated: '2026-10-21'
 - **unknown**: 布地のスカート部分表面に、巨大な目のような模様が浮かび上がったのだ。いや、『ような』とか『模様』とかではなく、それは服の上に存在する平面の目だった。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **コルセスカ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_コルセスカ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **コルセスカの服**（ID `E_item_コルセスカの服` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

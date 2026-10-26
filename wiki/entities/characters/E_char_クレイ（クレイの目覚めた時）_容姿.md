@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 鋭い視線がなまくらと化し、呼吸が乱れている ｜ 瞳・表情 ｜ 典拠: [190話](../../nav/ch0190.md)（p6277）
   > クレイの反応は鈍い。鋭い視線はなまくらと化し、整えられているはずの呼吸も乱れている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **クレイ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_クレイ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **クレイ(クレイの目覚めた時)**（ID `E_char_クレイ(クレイの目覚めた時)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -30,3 +30,9 @@ created: "2026-09-30"
 > また強力な邪視能力があるため、生きて呪力を発している物があれば強制的に電磁波を歪曲させて遮蔽物を迂回した温度感知を行うことができる。（ch5136）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **蛇の王(バジリスク**（ID `E_creature_蛇の王(バジリスク` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

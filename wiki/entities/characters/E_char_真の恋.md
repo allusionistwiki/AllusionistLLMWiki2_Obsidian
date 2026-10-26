@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 曰く、「頭蓋を開き脳を洗い、微弱な稲妻を流せばたちどころに最上の快楽が得られましょうぞ。真実とは得てしてその程度のものでございます」「恋とはすなわち生の躍動。すなわち極限における命の実感こそがそれを生み出すのです。愛しき相手と殺し合われませ（ch0096）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **真の恋**（ID `E_motif_真の恋` / kind: motif / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 蜂蜜色の少女を抱きしめて、黒衣の怪人たちを振り切っていく。凍結させた触手が一斉に砕け散った。俺/私の腕の中で、少女が柔らかく微笑んだ。光の粒子となって、俺を構成する幻の中に溶けていく。（ch5296）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラ_コルセスカ**（ID `E_rel_アキラ_コルセスカ` / kind: relationship / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

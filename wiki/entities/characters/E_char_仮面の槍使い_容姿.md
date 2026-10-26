@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 身軽に跳躍し跳躍と腕の力を見せる。 ｜ 身軽・腕・重み ｜ 典拠: [202話](../../nav/ch0202.md)（p6806）
   > 身軽に跳躍した仮面の槍使いがユディーアを踏みつける。腕で弾くが重みで体軸がわずかにぶれてしまう。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **仮面の槍使い**（ID `E_char_仮面の槍使い` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

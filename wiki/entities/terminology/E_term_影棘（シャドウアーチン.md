@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「【影棘（シャドウアーチン）】」実体の棘と、非実体の棘。銀と黒の刺突の嵐が猛然と襲いかかる。背筋が粟立ち、記憶が刺激される。魔将エスフェイルが多用していた、あの防御を貫通する黒い棘の連射呪術！（ch5350）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **影棘(シャドウアーチン**（ID `E_term_影棘(シャドウアーチン` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

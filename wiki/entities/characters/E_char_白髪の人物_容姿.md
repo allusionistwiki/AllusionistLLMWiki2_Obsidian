@@ -29,3 +29,11 @@ description: キャラ容姿描写ページ
 - 白髪、青い顔、弩を持っている ｜ 髪・顔色・武器 ｜ 典拠: [72話](../../nav/ch0072.md)（p2705）
   > その隣で青い顔をしている白髪の人物にはなんとなく見覚えがあるような気がした。どこかで見た弩を手に持っており
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **白髪の人物**（ID `E_char_白髪の人物` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

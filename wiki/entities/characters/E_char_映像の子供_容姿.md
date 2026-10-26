@@ -29,3 +29,11 @@ description: キャラ容姿描写ページ
 カメラ
 皮ばかりとなった幼児のきらきら光る玉石の瞳が印象的に切り取られた直後、映像は暗転。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **映像の子供**（ID `E_char_映像の子供` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

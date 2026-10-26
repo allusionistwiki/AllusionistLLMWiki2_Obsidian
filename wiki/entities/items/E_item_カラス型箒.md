@@ -53,3 +53,9 @@ updated: '2026-10-19'
 - **unknown**: 超高熱、超高圧のマグマ溜りへと突入。 あらゆる生物が死を免れないその空間を、成し得ぬ盾の模造品によって生存したまま突き抜けていく。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カラス型箒**（ID `E_item_カラス型箒` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

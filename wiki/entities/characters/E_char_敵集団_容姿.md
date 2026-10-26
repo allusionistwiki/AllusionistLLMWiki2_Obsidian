@@ -31,3 +31,11 @@ description: キャラ容姿描写ページ
 - 実像としての敵集団の外見 ｜ 顔: 刺青・腕: 二の腕の刺青 ｜ 典拠: [238話](../../nav/ch0238.md)（p7819）
   > 総じて『上』的な人種構成だが、顔や二の腕に刺青をしている者が非常に多い。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **敵集団**（ID `E_org_敵集団` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

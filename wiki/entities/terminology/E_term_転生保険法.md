@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 通常、被保険者が犯罪行為を犯して死亡した場合、また契約から一定期間以内に自殺した場合、もしくは噴火、地震、津波、戦争などにより死亡した場合には転生は行われない。その為、強盗殺人や事故に偽装して転生を手助けする殺し屋という違法な職種が存在するくらいだ。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **転生保険法**（ID `E_term_転生保険法` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

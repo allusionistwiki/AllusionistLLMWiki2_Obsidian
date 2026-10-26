@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 冬の銀を宿すという描写のみ ｜ 雰囲気/属性色 ｜ 典拠: [189話](../../nav/ch0189.md)（p6253）
   > 冬の銀を宿す、永遠の死を統べる王女。ヒメという名のコズエの半身。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヒメ(コズエの半身)**（ID `E_char_ヒメ(コズエの半身)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

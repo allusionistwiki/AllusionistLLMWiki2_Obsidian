@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 青髪 ｜ 髪 ｜ 典拠: [122話](../../nav/ch0122.md)（p4285）
   > 画面の前にいる青髪の人形
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **青髪の人形(画面前)**（ID `E_item_青髪の人形(画面前)` / kind: item / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

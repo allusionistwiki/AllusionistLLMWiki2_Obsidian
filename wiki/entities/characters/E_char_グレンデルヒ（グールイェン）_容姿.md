@@ -33,3 +33,11 @@ description: キャラ容姿描写ページ
 - 冷淡なまなざし ｜ 表情・まなざし ｜ 典拠: [96話](../../nav/ch0096.md)（p3535）
   > ついにグレンデルヒの口調から蔑みすら消えた。後に残っているのは、ただただ冷淡な、人間ではない物に対するまなざしだ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **ウォゾマ・メロロキン** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_ウォゾマ・メロロキン`。
+
+この名義は L2 名前統合台帳の正規エンティティ **グレンデルヒ(グールイェン)**（ID `E_char_グレンデルヒ(グールイェン)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

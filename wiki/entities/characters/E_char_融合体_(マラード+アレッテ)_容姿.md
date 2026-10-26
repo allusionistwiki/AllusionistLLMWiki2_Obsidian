@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 人形の関節部から青い流体が湧き出す。 ｜ 流体・関節部 ｜ 典拠: [145話](../../nav/ch0145.md)（p4941）
   > 青い流体が人形の関節部から湧き出し、二人を繭のように包んでいく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **融合体(マラード+アレッテ)**（ID `E_creature_融合体(マラード+アレッテ)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

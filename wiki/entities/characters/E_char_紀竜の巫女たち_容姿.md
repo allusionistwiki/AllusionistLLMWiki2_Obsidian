@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 花嫁（巫女装束 implied） ｜ 服装・役割 ｜ 典拠: [219話](../../nav/ch0219.md)（p7311）
   > 紀竜の巫女たちは王の花嫁だ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **紀竜の巫女たち**（ID `E_char_紀竜の巫女たち` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 淡黄色の長い髪、土色のマフラー ｜ 髪(淡黄色)・服装(マフラー) ｜ 典拠: [117話](../../nav/ch0117.md)（p4105）
   > 黄みを帯びた土色のマフラーがはためいて、それより明るく鮮やかな淡黄色の長い髪が棚引いた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **ラクルラール** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_ラクルラール`。
+
+この名義は L2 名前統合台帳の正規エンティティ **ラクルラール(の人形)**（ID `E_char_ラクルラール(の人形)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

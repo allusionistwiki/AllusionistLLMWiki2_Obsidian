@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 白と黒の模様の兎で、片眼鏡と小さな帽子を装着している ｜ 白黒の毛並み・片眼鏡・小さな帽子 ｜ 典拠: [56話](../../nav/ch0056.md)（p2143）
   > 白黒の兎。なぜか片眼鏡をかけて小さな帽子をかぶっている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **白黒の兎(スキリシアの使い魔)**（ID `E_creature_白黒の兎(スキリシアの使い魔)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

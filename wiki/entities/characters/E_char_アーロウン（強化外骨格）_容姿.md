@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 狼型頭部の帽子 ｜ 服装・頭部 ｜ 典拠: [116話](../../nav/ch0116.md)（p4081）
   > 顔は露出しており、特徴的な狼型頭部が装着者の頭に帽子のようにちょこんと載せられているのが独特のユーモラスさを醸し出していた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アーロウン(強化外骨格)**（ID `E_char_アーロウン(強化外骨格)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

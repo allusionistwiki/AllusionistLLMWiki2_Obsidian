@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 「最初から【氷槍】を発動して彼の命は守るつもりだった。愛する者同士が引き裂かれるのは、見ていられない」私達の近くに降り立ったソルダの右腕には、左腕同様に巨大な円筒が出現していた。彼はその内部から氷の槍を撃ち出し、おそるべき優先度の凍結呪術に（ch5165）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ソルダ**（ID `E_char_ソルダ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

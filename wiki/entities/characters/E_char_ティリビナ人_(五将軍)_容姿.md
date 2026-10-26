@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 密な樹冠と剣状の葉を持つ緑の大樹のような姿。勇壮。 ｜ 樹冠・葉・姿 ｜ 典拠: [145話](../../nav/ch0145.md)（p4947）
   > 緑の大樹が動く。　密な樹冠を形成するキノコのような樹木は剣状の葉を揺らして周囲を威圧した。　竜血樹のティリビナ人の勇壮な姿を見て、
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ティリビナ人(五将軍)**（ID `E_org_ティリビナ人(五将軍)` / kind: organization / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

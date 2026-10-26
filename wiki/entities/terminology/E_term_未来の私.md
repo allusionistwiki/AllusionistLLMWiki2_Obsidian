@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: それはどこかの未来で私が再現した聖女クナータの【未来回想】で、それによって未来の情報を過去の私に強制的に送信したのだとしばらくして理解できた。それは『失敗した私』『何も出来なかった私』の最後の悪足掻きだった。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **未来の私**（ID `E_char_未来の私` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

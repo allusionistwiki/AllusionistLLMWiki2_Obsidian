@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - ペリュトンが描かれた旗を振っている。大人数の集団。 ｜ 服装(旗)・道具 ｜ 典拠: [210話](../../nav/ch0210.md)（p7096）
   > 彼らの前に立って口を開く
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アヴロノの抗議集団**（ID `E_org_アヴロノの抗議集団` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

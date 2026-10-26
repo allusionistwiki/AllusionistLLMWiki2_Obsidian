@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 毛深い猿人、長い両腕 ｜ 体毛・手足 ｜ 典拠: [209話](../../nav/ch0209.md)（p7045）
   > 毛深い猿人たちが長い両腕を杭で貫かれ、磔にされている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ントゥガ族(猿人)**（ID `E_creature_ントゥガ族(猿人)` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

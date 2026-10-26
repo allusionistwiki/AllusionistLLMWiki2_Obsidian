@@ -45,3 +45,9 @@ updated: '2026-10-19'
 - **unknown**: 「私はどんな難解な専門書だって読める」 「私だって詩情を解します。修辞学、音韻論、文献学、解釈学、あらゆるデータベースを参照して詩を吟ずることさえできるのですよ」 「一級の芸術品の真贋を見極めることくらいなら――あと、基準さえ設定しておけば評価だって」 だが、彼女たちに漫画を読むことはできない。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **少女たち**（ID `E_char_少女たち` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

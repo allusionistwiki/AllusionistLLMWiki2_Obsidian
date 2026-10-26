@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - ヴァージリアの異形の耳は耶黄色（イエロー）のような非人間的な三角耳を想起させる ｜ ears ｜ 典拠: [55話](../../nav/ch0055.md)（p2127）
   > あの人ならざる三角の耳同様に、この世のものではない耳はこの世のものではない音を聴く。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は実体判定**要検証**（台帳 v3 で保留）です。
+
+この名義は L2 名前統合台帳の正規エンティティ **ヴァージリア(ブラック),イエロー**（ID `E_char_ヴァージリア(ブラック),イエロー` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -39,3 +39,9 @@ updated: '2026-10-21'
 - **unknown**: 更に、世界の裂け目のように天を縦断する大河にはありとあらゆる生命が躍動していた。それはなんかこう、うにょうにょした触手を備えたタコみたいな生物で、他にもういんういんと音を鳴らす円盤とか、それを操る高度な文明を持った銀色の人型とか、珪素の生命体とか、真空に適応した嫌気性生命とか、いわゆる『宇宙生物』が織りなす見知らぬ生態系と文明の織りなす別次元だった。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **大河**（ID `E_loc_大河` / kind: location / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

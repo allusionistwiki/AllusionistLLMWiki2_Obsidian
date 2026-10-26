@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 蒼空騎士団は膜構造の翼を持ち、黄獣騎士団は屈強な体格の獣人が多い ｜ 膜構造の翼・屈強な獣人 ｜ 典拠: [135話](../../nav/ch0135.md)（p4637）
   > 航空戦力である【蒼空騎士団】が膜構造の翼を広げて飛翔し、空から呪術による爆撃を行っている。屈強な獣人の多い【黄獣騎士団】と機動力に優れる【黒蟲騎士団】が石像兵を翻弄し、大地の民たちを蹴散らしている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **竜王国騎士団**（ID `E_org_竜王国騎士団` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

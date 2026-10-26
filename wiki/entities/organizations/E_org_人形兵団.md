@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 人形の兵団は一斉に自滅した。ある者は頭部を自壊させ、ある者は自死を選び、ある者たちは互いに刃を突き刺し、ある者は精神に異常をきたして世界槍の深みへと消えていった。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **人形兵団**（ID `E_org_人形兵団` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

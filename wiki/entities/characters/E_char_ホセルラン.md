@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 「『広く浅い三眼瞬知』に突出した強みはない。しかし、多くの技を吸収し、ものにする覚えの良さだけは誰よりも秀でていると言えるでしょう。あなたはお母上のように一族を更新する偉業を目指すのではなく、むしろその逆を目指すといい。歴代の勇士ユディーアたちという過去の記録を順番に辿り、その全てを丁寧に学ぶのです。あなたの過去視は、きっとそのような『学び』に役立てるための力ではないでしょうか」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ホセルラン**（ID `E_char_ホセルラン` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

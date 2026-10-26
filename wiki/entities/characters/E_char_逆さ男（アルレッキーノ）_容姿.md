@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 蓬髪。壮年の男性。逆さまに浮遊している。 ｜ 髪・体格・姿勢 ｜ 典拠: [211話](../../nav/ch0211.md)（p7116）
   > それに続くようにして逆さまに浮遊する蓬髪の壮年男性が指を弾く。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **逆さ男(アルレッキーノ)**（ID `E_char_逆さ男(アルレッキーノ)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 身長順: ハルベルト > ミルーニャ > アズーリア ｜ 身長 ｜ 典拠: [34話](../../nav/ch0034.md)（p1387）
   > 身長はハルベルト、ミルーニャ、私の順に低くなっていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ハルベルト,ミルーニャ,アズーリア**（ID `E_rel_ハルベルト,ミルーニャ,アズーリア` / kind: relationship / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

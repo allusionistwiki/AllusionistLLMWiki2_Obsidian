@@ -25,3 +25,11 @@ created: "2026-09-30"
 > アルスタは地面に槍を突き刺し、その柄が折れるかと思うほどにしならせ、槍が元に戻ろうとする力を利用して高らかに跳躍する。後ろ手に槍を引き抜いて、最高点に到達した彼は槍を伸張させた。背骨がばらばらに分解し、複数の節を金鎖が繋ぐ多節棍――否、鞭と（ch5165）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アルスタ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アルスタ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **アルスタの槍**（ID `E_item_アルスタの槍` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

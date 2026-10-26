@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: おそらく彼女の肩にかかっているファーストールは人狼のものだ。エスフェイルの死から流通量が減り、一月ほど価値が跳ね上がったこともあったが、既に十分な数が探索者たちによって確保されており、ほぼ同じ材質の狼毛皮がより安価に手に入るため、そこまでの高級品というわけではない。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ファーストール**（ID `E_item_ファーストール` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

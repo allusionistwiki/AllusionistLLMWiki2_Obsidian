@@ -25,3 +25,9 @@ created: "2026-09-30"
 > ここは俺がこの世界に放り出された直後、一番最初に巨大狼と遭遇し、アズーリアたちと出会った空間だ。（ch5233）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **草原**（ID `E_loc_草原` / kind: location / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

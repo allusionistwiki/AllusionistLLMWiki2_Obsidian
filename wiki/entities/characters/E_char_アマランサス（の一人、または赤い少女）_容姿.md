@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 赤い髪、鶏頭の花を髪に飾る、弱い声 ｜ 髪・頭飾り・声 ｜ 典拠: [169話](../../nav/ch0169.md)（p5638）
   > 姫君に似た赤い少女、鶏頭の花で髪を飾った人形が弱々しい声で言った。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **アマランサスの心臓**。
+
+この名義は L2 名前統合台帳の正規エンティティ **アマランサス**（ID `E_char_アマランサス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

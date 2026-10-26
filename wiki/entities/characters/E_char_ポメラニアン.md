@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 「彼って優しすぎて傷付いてしまう人なんです。自分がかっこよすぎるから、世の中の顔が不自由な人たちを苦しめてしまっているんだって。そうやって心を痛めてる彼って、ほんとうに繊細で素敵だなあって」（ch5372）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ポメラニアン**（ID `E_creature_ポメラニアン` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

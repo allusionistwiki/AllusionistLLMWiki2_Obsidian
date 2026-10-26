@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 黒目も白目もない朱一色の瞳（玉石のような一色）、同色の長衣 ｜ 瞳・服装 ｜ 典拠: [113話](../../nav/ch0113.md)（p3970）
   > 朱色の瞳は黒目も白目も無い玉石のような一色。同色の長衣の裾が風もないのにゆらめき、浮遊しながら中央へと移動していく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **ガドカレクの正体**。
+
+この名義は L2 名前統合台帳の正規エンティティ **ガドカレク**（ID `E_char_ガドカレク` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

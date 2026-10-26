@@ -23,3 +23,11 @@ updated: '2026-10-21'
 - **unknown**: 『冥府の住人』となる条件、戻らずの果実を口にしたことで『創造権』を獲得した観光客たちは、思い思いに第五階層ならではの幻想遊びに精を出し、滞在時間に関係なく『ガロアンディアン人』としての立場を手に入れていく。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **観光客たち**（ID `E_term_観光客たち` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

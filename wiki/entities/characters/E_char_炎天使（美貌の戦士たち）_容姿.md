@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 燃える翼を持ち、美しい容姿の戦士たち。 ｜ 燃える翼・美貌 ｜ 典拠: [252話](../../nav/ch0252.md)（p8123）
   > いつのまにか燃える翼を持った美貌の戦士たちが集っていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **炎天使(美貌の戦士たち)**（ID `E_creature_炎天使(美貌の戦士たち)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

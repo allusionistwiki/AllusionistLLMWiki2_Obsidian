@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 機械女王に下った獄卒の牛頭ジャッフハリム人は無骨な対洗脳甲冑に身を包んでラクルラール対策も十分な筈であった。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **牛頭ジャッフハリム人**（ID `E_char_牛頭ジャッフハリム人` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

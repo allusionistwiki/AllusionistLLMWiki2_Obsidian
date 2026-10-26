@@ -27,3 +27,11 @@ created: "2026-09-30"
 > 氷の少女が世界を、宇宙全てを停止させ、最後に事象の全てが砕け散る。そして現れた途方もなく長大な『何か』が（ch5283）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **キシャル(絵画中の未来)**。
+
+この名義は L2 名前統合台帳の正規エンティティ **キシャル**（ID `E_char_キシャル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

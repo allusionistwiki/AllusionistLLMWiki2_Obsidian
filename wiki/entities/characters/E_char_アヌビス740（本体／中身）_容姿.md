@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 -  ｜ 顔立ち（犬と霊長類の中間のような顔） ｜ 典拠: [167話](../../nav/ch0167.md)（p5598）
   > 透明なガラス窓から、目を閉じて安らかに眠る犬と霊長類の中間のような顔が覗いていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **アヌビス740(frozen/torchドラムス担当/眠り棺)**、**アヌビス740(眠り棺)**。
+
+この名義は L2 名前統合台帳の正規エンティティ **アヌビス７４０**（ID `E_char_アヌビス７４０` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

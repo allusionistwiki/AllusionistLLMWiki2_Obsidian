@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 黒髪の少年で、糸のように細い目をしており、単眼の意匠がある邪視兜の内側で微笑んでいる ｜ 単眼の意匠をこらした邪視兜・黒髪・糸のように細い目・柔和な微笑み ｜ 典拠: [259話](../../nav/ch0259.md)（p8267）
   > 単眼の意匠をこらした邪視兜の内側で柔和に微笑む黒髪の少年は、糸のように細い目でユディーアを見つめる。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **パルガレードダゥオグロサーリ**（ID `E_char_パルガレードダゥオグロサーリ` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

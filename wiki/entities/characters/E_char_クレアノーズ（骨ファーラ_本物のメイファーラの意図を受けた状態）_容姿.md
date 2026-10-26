@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 顔は頭蓋骨であり表情が見えない。 ｜ 頭部（頭蓋骨） ｜ 典拠: [253話](../../nav/ch0253.md)（8133）
   > メイファーラの顔は頭蓋骨だから表情がよくわからないけれど、その声に込められている意思の強さは直に相対していないこちらにも伝わってきた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **クレアノーズ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_クレアノーズ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **クレアノーズ(骨ファーラ/本物のメイファーラの意図を受けた状態)**（ID `E_char_クレアノーズ(骨ファーラ/本物のメイファーラの意図を受けた状態)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

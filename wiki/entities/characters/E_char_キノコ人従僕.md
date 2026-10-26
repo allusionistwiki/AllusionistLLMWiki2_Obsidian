@@ -24,3 +24,9 @@ updated: '2026-10-21'
 - **unknown**: 「ぎっ」「ありっ」「感謝、怒りに感謝！」「おじょうさま万歳！」「顕花様万歳！」「破滅しろ！　そのまま破滅に突き進め！」「おじょうさまが無様に終わっていくのが見られる特等席だぁっ！」「呪いをあげる。僕らを吸って強くなって、そのまま無謀に戦い続けろ！」「やっと終わるっ、僕らは自由だっ！！」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **キノコ人従僕**（ID `E_creature_キノコ人従僕` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

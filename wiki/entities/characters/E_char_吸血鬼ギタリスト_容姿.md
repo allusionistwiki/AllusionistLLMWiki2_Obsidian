@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 吸血鬼ギタリスト。 ｜ 吸血鬼・ギタリスト ｜ 典拠: [168話](../../nav/ch0168.md)（p5620）
   > 吸血鬼ギタリストは『父親似』だと言っていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **吸血鬼ギタリスト**（ID `E_char_吸血鬼ギタリスト` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,11 @@ created: "2026-09-30"
 > 誕生した人形はいずれも異形。　足が分岐して両足になっている人形がいた。酸を吐き出すハリモグラと蛇の混成種がいた。鼻が額に配置され、口が縦になっている荷運びがいた。　鼻が充電コードになっている人形がのそのそと土を口に運んでいる。（ch0241）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **異形**（ID `E_char_異形` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

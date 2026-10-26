@@ -33,3 +33,9 @@ created: "2026-09-30"
 - [[A_ch5300_alludes_to_E_ch5300_ヴァージルアキラ_other_言語魔術雷撃呪文_p54_プログラミング／コードによる世界生成|世界記述コードの雷撃化暗喩]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヴァージル(アキラ**（ID `E_char_ヴァージル(アキラ` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

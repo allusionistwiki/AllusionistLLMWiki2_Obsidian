@@ -29,3 +29,11 @@ description: キャラ容姿描写ページ
 - 鋭い美貌、馬の尻尾のように束ねられた黒髪、綺麗な手指 ｜ 顔立ち・髪・手指 ｜ 典拠: [160話](../../nav/ch0160.md)（p5452）
   > 鋭い美貌が気色ばむ。後頭部で束ねられた馬の尻尾のような黒髪が激しく揺れた。いつもは手刀を形作る綺麗な手指が、激怒のあまり拳の形を作っている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **少年(敵)**（ID `E_char_少年(敵)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

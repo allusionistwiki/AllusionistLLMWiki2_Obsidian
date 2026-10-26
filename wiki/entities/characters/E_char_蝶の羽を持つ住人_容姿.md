@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 背中に鳥や蝶の羽を生やしており、見目麗しい。 ｜ 翼 ｜ 典拠: [5話](../../nav/ch0005.md)（p238）
   > 背中に鳥や蝶の羽が生えている者は見目麗しいものが多く、路地の奥まったところで街娼として客を誘っている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **蝶の羽を持つ住人**（ID `E_char_蝶の羽を持つ住人` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

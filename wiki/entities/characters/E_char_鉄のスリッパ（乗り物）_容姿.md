@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 鉄製の乗り物、スリッパのような形状 ｜ 形状 ｜ 典拠: [180話](../../nav/ch0180.md)（p5965）
   > 『鉄のスリッパ』とでもするのがわかりやすいだろう。「それは？」
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **鉄のスリッパ(乗り物)**（ID `E_item_鉄のスリッパ(乗り物)` / kind: item / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 頭骨が狭く、背中にコブがあり、耳が非常に長い。 ｜ 頭部・背・耳 ｜ 典拠: [172話](../../nav/ch0172.md)（p5717）
   > 幅の狭い頭骨、背中にコブ、長く垂れ下がった耳
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **老いた牽牛種族**（ID `E_creature_老いた牽牛種族` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

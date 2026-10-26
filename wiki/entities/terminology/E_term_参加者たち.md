@@ -36,3 +36,11 @@ updated: '2026-10-21'
 - **unknown**: 俺は馬鹿騒ぎの中心から離れて、施設の奥に移動する。ちびシューラ制御の自動機械が忙しく動き回って準備を進めていた。機械の群に紛れるようにして、壁に身体を預けた。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **参加者たち**（ID `E_term_参加者たち` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

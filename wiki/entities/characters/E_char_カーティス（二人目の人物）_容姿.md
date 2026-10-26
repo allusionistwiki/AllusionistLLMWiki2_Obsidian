@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 黒いドレスを着た影のような女性だが、男性的なテノールを発す。 ｜ 服装：黒いドレス・容姿：影のような女性・声：良く通るテノールの声（男性的） ｜ 典拠: [112話](../../nav/ch0112.md)（3937）
   > 良く通るテノールの声。ソファの後ろに立つ、黒いドレスで着飾った影のような女性が発した音は、その容姿に似つかわしくない男のものだった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カーティス(二人目の人物)**（ID `E_char_カーティス(二人目の人物)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

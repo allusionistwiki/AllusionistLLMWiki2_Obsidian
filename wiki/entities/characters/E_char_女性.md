@@ -145,3 +145,11 @@ updated: '2026-10-21'
 - **unknown**: そんな、クレイの懊悩を見下ろしながら。灰色の瞳が、暗い愉悦と情欲に濡れていく。魔女のように。女王のように。獣のように。嗜虐と加虐と赦しと愛に染め上げられた、穏やかな笑みを浮かべて。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **女性**（ID `E_char_女性` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

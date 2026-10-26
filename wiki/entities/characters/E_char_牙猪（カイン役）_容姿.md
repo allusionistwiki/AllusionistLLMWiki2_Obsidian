@@ -41,3 +41,11 @@ description: キャラ容姿描写ページ
 - 牙が生えた険呑な顔つき ｜ 頭部・獣の部位 ｜ 典拠: [93話](../../nav/ch0093.md)（p3461）
   > 牙が生えた険呑な頭部
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **男の全身**、**男の号令**、**男の影**、**カイン(屍の狼)**、**カインの足下の狼**、**カイン三つの手**、**狼の屍**。
+
+この名義は L2 名前統合台帳の正規エンティティ **カイン**（ID `E_char_カイン` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

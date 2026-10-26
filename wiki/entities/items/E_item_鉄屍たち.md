@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 無骨な鋼鉄の浮遊建築物は物々しい鎧と絡繰りで身を固めた鉄屍たちが休み無く守り続ける最も堅牢な砦のひとつ。古代の『杖文明』の遺産によって機械化された再生者たちの軍勢は独特な硬質さを備えている。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **鉄屍たち**（ID `E_creature_鉄屍たち` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

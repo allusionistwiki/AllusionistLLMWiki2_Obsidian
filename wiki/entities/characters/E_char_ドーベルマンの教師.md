@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 牙を剥き出しにして怒鳴り、思い切り突き飛ばされる。 机と椅子を吹き飛ばしながら床に倒れ伏す。背中と腰に激痛。 「どうだ、プーハニア！　これがお前がやったことだ！　力が強いからといっていい気になるな！」 一方的な言い分にかっと頭が熱くなる。 （ch5373）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ドーベルマンの教師**（ID `E_char_ドーベルマンの教師` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 子供のような姿。合成音声のような声を発する。 ｜ 体格・声 ｜ 典拠: [237話](../../nav/ch0237.md)（p7778）
   > 小さな燭台を持った子供は、無機質な合成音声でしきりに何かを問いかけていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **炎天使(ミナの化身)**（ID `E_char_炎天使(ミナの化身)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

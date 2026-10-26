@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 眼窩に緑色の光 (緑色の光の描写は直後の光として記述されるが、文脈的にこの人物の関連として抽出) ｜ 光/オーラ ｜ 典拠: [209話](../../nav/ch0209.md)（p7055）
   > 見覚えがあった。先ほども目にした緑色の光だ。「かしこまりました。虫筒を持って先に移動して下さい。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **汚物屋(キノコ人)**（ID `E_char_汚物屋(キノコ人)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

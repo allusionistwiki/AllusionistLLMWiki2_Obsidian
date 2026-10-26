@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 彼らは亜大陸の地下空洞に隠れ潜み、迷宮のような地底森林を彷徨い、地上に対して散発的な破壊活動を繰り返す。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **抵抗勢力**（ID `E_org_抵抗勢力` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

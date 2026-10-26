@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 機械仕掛けの少女。氷のような少女。 ｜ 姿 ｜ 典拠: [217話](../../nav/ch0217.md)（7276）
   > 立体幻像の窓に機械仕掛けの少女と氷のような少女が映し出されている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **立体幻像** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_立体幻像`。
+
+この名義は L2 名前統合台帳の正規エンティティ **立体幻像の少女たち**（ID `E_char_立体幻像の少女たち` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

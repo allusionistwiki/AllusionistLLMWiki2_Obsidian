@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 変わり果てた姿 ｜ 四肢（骨の四つ脚）・種族/状態（屍の狼） ｜ 典拠: [91話](../../nav/ch0091.md)（3418）
   > 足下に、骨の四つ脚を持った屍の狼が近付いてくる。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **カイン** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_カイン`。
+
+この名義は L2 名前統合台帳の正規エンティティ **カイン(屍の狼)**（ID `E_char_カイン(屍の狼)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

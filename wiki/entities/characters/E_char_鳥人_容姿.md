@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - カラス頭の鳥人 ｜ 頭部形状・種族 ｜ 典拠: [199話](../../nav/ch0199.md)（p6694）
   > カラス頭の鳥人、破壊された酒場の店主は大いに憤慨していた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **鳥人**（ID `E_creature_鳥人` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

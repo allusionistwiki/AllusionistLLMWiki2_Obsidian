@@ -39,3 +39,9 @@ updated: '2026-10-19'
 - **unknown**: 背の花が大きく開いたかと思うと、その中心からまばゆい光が放たれる。発光するエネルギー塊は空中に静止すると、回転しながら小さな光の玉を次々に全方位に撃ち出していった。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **花獣ビテロ**（ID `E_creature_花獣ビテロ` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

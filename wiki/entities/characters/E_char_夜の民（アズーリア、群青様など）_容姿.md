@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 老齢になると赤子のように小さくなる種族特性。 ｜ 体格（老いにより縮小） ｜ 典拠: [43話](../../nav/ch0043.md)（p1824）
   > これは霊長類もそうだけど、私達は老いと共に身体が小さくなり、赤子に近付いていく。老齢の夜の民は掌に乗るくらいの大きさとなるのが普通だ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **夜の民(アズーリア、群青様など)**（ID `E_creature_夜の民(アズーリア、群青様など)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

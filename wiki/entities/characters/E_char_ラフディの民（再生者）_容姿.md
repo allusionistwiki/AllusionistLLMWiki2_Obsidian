@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 丸々としたふくよかな体型と豊かな髪が共通している。 ｜ 体型・髪 ｜ 典拠: [137話](../../nav/ch0137.md)（p4691）
   > 丸々としたふくよかな体型に、豊かな髪という共通点を持った人々。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ラフディの民(再生者)**（ID `E_creature_ラフディの民(再生者)` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 人の形を圧縮・単純化して膨らませたような姿 ｜ 体格・シルエット ｜ 典拠: [189話](../../nav/ch0189.md)（p6257）
   > まるで人の形を極限まで圧縮し、異形の単純化を施した後でその姿のまま強引に膨らませたかのような様相。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **なぞなぞねこさん(ハザーリャ)**（ID `E_char_なぞなぞねこさん(ハザーリャ)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

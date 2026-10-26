@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 肉塊、両目に杭、硝子の王、縫い合わされた目蓋と口の処刑人。 ｜ 肉塊・目・硝子・目蓋・口 ｜ 典拠: [145話](../../nav/ch0145.md)（p4946）
   > 不気味な肉塊、両目に杭の刺さった吟遊詩人、硝子でできた棘の王、目蓋と口を縫い合わされて大鉈を手にした処刑人。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **人形たち(ラフディの英雄たち)**（ID `E_char_人形たち(ラフディの英雄たち)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

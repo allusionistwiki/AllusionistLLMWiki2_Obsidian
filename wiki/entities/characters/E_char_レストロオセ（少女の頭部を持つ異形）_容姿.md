@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 毒蛇や爬虫類、昆虫など多数の生物が融合した不快な姿 ｜ 異形の肉体 ｜ 典拠: [156話](../../nav/ch0156.md)（p5284）
   > 緑や紫、黒や赤といったどぎつい色彩の蛇、蜘蛛、蠍、百足、長虫、そのほか嫌悪を催す不快害虫がより合わさったような肉体。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **レストロオセ(少女の頭部を持つ異形)**（ID `E_creature_レストロオセ(少女の頭部を持つ異形)` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 腰が曲がっている ｜ 体格 ｜ 典拠: [204話](../../nav/ch0204.md)（p6834）
   > その先にいる腰の曲がった老婆が、外見からは想像もつかないほど俊敏に硬貨を掴み取った。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **老婆(情報屋)**（ID `E_char_老婆(情報屋)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

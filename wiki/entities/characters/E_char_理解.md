@@ -25,3 +25,11 @@ created: "2026-09-30"
 > 『不快』や『怒り』の発露としての芝居を刃に乗せた瞬間、相手はほとんど同じ演技プランで斬撃を繰り出して『快』や『興奮』を示す。（ch0239）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **理解**（ID `E_char_理解` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

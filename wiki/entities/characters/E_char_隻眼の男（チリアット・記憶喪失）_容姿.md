@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 片目（隻眼）であることが描写されている。 ｜ 隻眼 ｜ 典拠: [148話](../../nav/ch0148.md)（p5038）
   > 隻眼の男（名前は失われている）を付きっきりで看病しているし
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **チリアットの過去**。
+
+この名義は L2 名前統合台帳の正規エンティティ **チリアット**（ID `E_char_チリアット` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

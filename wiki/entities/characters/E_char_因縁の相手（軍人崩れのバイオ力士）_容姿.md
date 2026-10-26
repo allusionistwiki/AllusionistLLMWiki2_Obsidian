@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - サイバネティクスで強化されている。機巧廻しを装備。 ｜ 義肢 ｜ 典拠: [114話](../../nav/ch0114.md)（p3995）
   > サイバネティクスによって強化された機巧力士の力を受け止めきれず
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **因縁の相手(軍人崩れのバイオ力士)**（ID `E_char_因縁の相手(軍人崩れのバイオ力士)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

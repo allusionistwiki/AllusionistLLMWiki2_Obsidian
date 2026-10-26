@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 俺たちは本気で震え上がった。 何しろ相手は腕だけだというのに堂々と口を利いているのである。ちょっとした恐怖体験に、俺はちびシューラがいる掌の上に退避していた。（ch5284）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラとちびシューラ**（ID `E_rel_アキラとちびシューラ` / kind: relationship / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

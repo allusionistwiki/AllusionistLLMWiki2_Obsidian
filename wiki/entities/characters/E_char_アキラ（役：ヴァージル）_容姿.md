@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 足場生成能力による跳躍。 ｜ 動作 ｜ 典拠: [115話](../../nav/ch0115.md)（p4033）
   > 空中に足場を生成することにより、上方向に跳躍して逃れる。壁のように垂直に生成した足場も併用して跳躍の軌道を修正、三角跳びの要領で相手の頭上へと飛び上がる。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラ(役:ヴァージル)**（ID `E_char_アキラ(役:ヴァージル)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

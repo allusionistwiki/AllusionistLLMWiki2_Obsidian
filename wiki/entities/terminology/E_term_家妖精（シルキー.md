@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 役目を終えた半透明の少女は、虫のような翅を広げてそのまま外に出て行った。ハルベルトによると、家事の手伝いだけでなく見張りとしても機能するらしい。（ch5174）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **家妖精(シルキー**（ID `E_creature_家妖精(シルキー` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

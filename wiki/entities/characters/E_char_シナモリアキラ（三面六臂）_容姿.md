@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 三面六臂の姿。 ｜ 頭部・腕 ｜ 典拠: [149話](../../nav/ch0149.md)（5071）
   > 三面六臂の姿となったシナモリアキラが凄絶な呪力を発していく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アキラ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アキラ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **シナモリアキラ(三面六臂)**（ID `E_char_シナモリアキラ(三面六臂)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

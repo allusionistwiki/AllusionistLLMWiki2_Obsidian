@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 緑髪、血のような瞳、長い牙、裸体 ｜ 髪(緑)・瞳(血のような)・牙・裸体 ｜ 典拠: [117話](../../nav/ch0117.md)（p4104）
   > 豊かな緑の髪に血のような瞳。そして、見る者を誘う妖艶な長い牙。美しい裸体を晒す吸血鬼の姫君、その紛い物
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **吸血鬼の姫君(紛い物)**（ID `E_char_吸血鬼の姫君(紛い物)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

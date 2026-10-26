@@ -29,3 +29,11 @@ description: キャラ容姿描写ページ
 - 前衛的な水着と褐色の肌 ｜ 服装: 黒と赤の菱形の布を幾枚も連ねたような前衛的なデザインの水着・肌: 日焼けした褐色の肌 ｜ 典拠: [87話](../../nav/ch0087.md)（p3207）
   > 黒と赤の菱形の布を幾枚も連ねたようなやけに前衛的なデザインの水着に、何故か日焼けした褐色の肌。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **トリシューラ(アバター)** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_トリシューラ(アバター)`。
+
+この名義は L2 名前統合台帳の正規エンティティ **トリシューラ(偽装/化けた姿)**（ID `E_char_トリシューラ(偽装/化けた姿)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

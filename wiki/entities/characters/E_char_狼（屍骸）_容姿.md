@@ -29,3 +29,11 @@ description: キャラ容姿描写ページ
 - 四つ脚、濁った瞳 ｜ 瞳・体格 ｜ 典拠: [116話](../../nav/ch0116.md)（p4063）
   > よろよろとおぼつかないが、しっかりと立つ四つ脚の獣は、まっすぐに濁った瞳をこちらに向けている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **狼(屍骸)**（ID `E_char_狼(屍骸)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

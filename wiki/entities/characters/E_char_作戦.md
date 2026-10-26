@@ -26,3 +26,11 @@ created: "2026-09-30"
 > 「とにかく、レースの件はトリシューラに対処を任せてセリアたちはそのサポートに回りましょう。アズーリアはそこの駄犬と『虫王の庭』でハグレスを待ち構える、ということでいいんですよね？」「うん、任せといて。あんなのがいたらレースもライブも台無しだ（ch0237）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **作戦**（ID `E_char_作戦` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

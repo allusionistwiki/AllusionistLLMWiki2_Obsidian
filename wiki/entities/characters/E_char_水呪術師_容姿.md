@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 等身大の少女型水体。水でできた瞳と口 ｜ 身体・瞳・口 ｜ 典拠: [17話](../../nav/ch0017.md)（p752）
   > 水流はそのまま画面から飛び出し、物理的な実体を獲得、そのまま等身大の少女の形をとる。水によって形作られた瞳がこちらを視認。どろりとした口が言葉を紡ぎ出す。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **水呪術師**（ID `E_term_水呪術師` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

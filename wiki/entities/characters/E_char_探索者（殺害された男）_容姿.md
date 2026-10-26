@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 筋骨隆々の巨漢。 ｜ 体格 ｜ 典拠: [149話](../../nav/ch0149.md)（5059）
   > 筋骨隆々の巨漢だが、首を正確に一刺しされて絶命している。凶手を睨み付け、探索者の片割れは槍を捨てて短刀を構えた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **探索者の城**。
+
+この名義は L2 名前統合台帳の正規エンティティ **探索者**（ID `E_char_探索者` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

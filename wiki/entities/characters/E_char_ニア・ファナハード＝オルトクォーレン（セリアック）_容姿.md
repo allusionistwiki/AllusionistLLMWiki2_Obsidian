@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 宝石のような瞳に黄色い髪、可憐な顔立ちで非常に小柄。頭に三角の獣耳を持つ。 ｜ 瞳・髪・顔立ち・体格・獣耳 ｜ 典拠: [41話](../../nav/ch0041.md)（p1767）
   > 宝石のような瞳。黄色い髪色。可憐な顔立ち。とても小柄。頭頂部には左右の耳とは別に存在する三角の獣耳。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ニアファナハード=オルトクォーレン(セリアック)**（ID `E_char_ニアファナハード=オルトクォーレン(セリアック)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

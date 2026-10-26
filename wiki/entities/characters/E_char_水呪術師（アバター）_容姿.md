@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 流体のような少女型アバター ｜ 身体 ｜ 典拠: [17話](../../nav/ch0017.md)（p751）
   > 画面内部に、水滴をモチーフにした少女型のアバターが出現する。流体じみた少女は赤熱する壁を盾にしながら流水の鞭を伸ばし、ちびシューラに攻撃を加えていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **水呪術師**（ID `E_term_水呪術師` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

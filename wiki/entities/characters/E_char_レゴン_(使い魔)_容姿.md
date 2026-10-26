@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 牙のある心臓の姿 ｜ 姿 ｜ 典拠: [150話](../../nav/ch0150.md)（p5100）
   > 老人の影から這い出してくるのは、凶暴な牙を生やしたグロテスクな心臓。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **レゴン** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_レゴン`。
+
+この名義は L2 名前統合台帳の正規エンティティ **レゴン(使い魔)**（ID `E_char_レゴン(使い魔)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

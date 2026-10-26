@@ -35,3 +35,9 @@ updated: '2026-10-19'
 - **unknown**: 「第五階層の治安は世界最悪だし！　ヤバイサイボーグとか胡散臭い格闘家とかが世界の至宝である美少年を狙ってて目障りだから何とかして欲しいし！　あと美少年売春の合法化はよ。とーぜん全部独占で」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **蝶翅の少女**（ID `E_char_蝶翅の少女` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

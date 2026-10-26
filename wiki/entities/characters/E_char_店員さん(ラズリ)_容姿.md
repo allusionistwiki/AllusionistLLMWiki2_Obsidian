@@ -33,3 +33,11 @@ description: キャラ容姿描写ページ
 - 静かな声で話す。 ｜ 声(静かな) ｜ 典拠: [27話](../../nav/ch0027.md)（p1222）
   > 静かな声が背後に響く。振り返った時には既にその姿は雑踏の中に消えて、もう影も形も見えなくなっていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **ラズリの力**。
+
+この名義は L2 名前統合台帳の正規エンティティ **ちびラズリ**（ID `E_char_ちびラズリ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

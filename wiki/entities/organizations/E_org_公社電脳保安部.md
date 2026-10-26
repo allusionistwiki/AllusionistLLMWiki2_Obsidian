@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 暗号通貨の交換所に攻撃を仕掛けた十六人の呪文使い達が一人残らず攻性防壁で脳を灼き切られたばかりか、感染呪術によって三親等以内の親族が皆殺しにされるという大惨事に直面して
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **公社電脳保安部**（ID `E_org_公社電脳保安部` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -38,3 +38,9 @@ updated: '2026-10-19'
 - **unknown**: 「決して我らはあなた様に多くを望みはしません。ただこの暗闇に参ったのは、ささやかな光を求めてのこと。地底は死人のふるさと、過ぎ去りし王国。歌と芝居が過去を呼び起こすこの地であれば、心震わす慰めが得られるかもしれませぬ。黄泉路の旅人、哀れなリーナよ、それはあなたも同じでしょう？ 失ったものを思い出してごらんなさい！」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **コロスの長**（ID `E_char_コロスの長` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 彼女は有翼人魚の最後の王族であり、また闇妖精と魚人という異 セイレーン デックアールヴ マーフォーク 獣の混成種族です。翼と尾びれの両方を持つ彼女は空と水中を自在に泳げるそうです。（ch0067）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **有翼人魚**（ID `E_creature_有翼人魚` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

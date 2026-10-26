@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 明るい淡黄色のツーサイドアップの髪。顔は赤い ｜ 髪・髪型・顔・色 ｜ 典拠: [119話](../../nav/ch0119.md)（p4197）
   > 刃のような風車で左右二つに括られた明るい淡黄色の髪房が揺れる。ツーサイドアップのグレンデルヒが羞恥と屈辱に顔を真っ赤に染めた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **グレンデルヒ(本体)**（ID `E_char_グレンデルヒ(本体)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

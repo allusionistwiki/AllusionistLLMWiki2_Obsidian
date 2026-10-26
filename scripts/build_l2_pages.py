@@ -43,6 +43,14 @@ def main():
     REFL.mkdir(exist_ok=True)
     today = __import__("datetime").date.today().isoformat()
 
+
+    v3n={"aspect_of":0,"generic":0,"needs":0}
+    for e in ents:
+        if e.get("parent"): v3n["aspect_of"]+=1
+        if e.get("entity_status")=="generic": v3n["generic"]+=1
+        if e.get("entity_status")=="needs": v3n["needs"]+=1
+    parents=[e for e in ents if e.get("children")]
+    nchild=sum(len(c["id"]) and 1 for e in parents for c in e["children"])
     # ---- index.md ----------------------------------------------------------
     idx = ["---", 'schema_version: "5.1"', "id: l2/index",
            "title: L2 名前統合台帳（下層Wiki）",
@@ -65,6 +73,8 @@ def main():
         "| 複数名義を持つ実体 | %d |" % len(merged),
         "| 統合確度内訳 | %s |" % " / ".join("%s %d" % (k, c) for k, c in conf.most_common()),
         "| kind 内訳 | %s |" % " / ".join("%s %d" % (KIND_LABEL.get(k, k), c) for k, c in kinds.most_common()),
+        "| 実体判定 v3（付随/一般名詞/保留） | %d / %d / %d |" % (v3n["aspect_of"], v3n["generic"], v3n["needs"]),
+        "| 親子構造 | 親 %d 実体・子 %d 件 |" % (len(parents), nchild),
         "",
         "## 見方",
         "",

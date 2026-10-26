@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 樹皮に覆われた身体 ｜ 肌/体表 ｜ 典拠: [205話](../../nav/ch0205.md)（p6876）
   > ティリビナ人の異様な状態の原因は、樹皮に覆われた身体に巻き付いた蔓と、その発生源である片手に握られた一輪の黒薔薇だった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ティリビナ人(操り人形)**（ID `E_char_ティリビナ人(操り人形)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

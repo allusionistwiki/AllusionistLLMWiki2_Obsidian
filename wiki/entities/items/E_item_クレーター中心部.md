@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 俺が立つクレーターの中心。その場所だけ、一切の破壊に晒されなかったかのように地面が高くなっている。事実、俺の真下にはキロンの突撃による破壊力が届いていなかったのである。当然俺にもだ。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クレーター中心部**（ID `E_loc_クレーター中心部` / kind: location / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

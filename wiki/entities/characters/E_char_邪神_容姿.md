@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 雄々しい男性の化身のような、巨大な力士のような醜悪な姿。 ｜ 外見・性質 ｜ 典拠: [115話](../../nav/ch0115.md)（p4050）
   > 六王を率いる小さな女王は、輝く剣を振るって現れた名状しがたい醜悪な邪神と激闘を繰り広げる。それは雄々しい男性の化身のようであり、また巨大な力士のようでもあった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **邪神**（ID `E_creature_邪神` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

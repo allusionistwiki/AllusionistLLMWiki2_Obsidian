@@ -26,3 +26,9 @@ updated: '2026-10-21'
 - **unknown**: 暗がりに銃声が響く。 白骨に彩られた石造りの通路を疾走する蜘蛛に似た機械は霊廟を守護するアーティファクト。 いにしえの呪術によって動く鋼鉄の使い魔は銃弾を弾きながら宝物庫を争うとする侵入者に襲いかかる。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **蜘蛛型機械**（ID `E_item_蜘蛛型機械` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

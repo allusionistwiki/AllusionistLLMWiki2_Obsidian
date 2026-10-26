@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 矮躯で禿頭、布一枚を巻いた男。前歯が鋭く尖っている。 ｜ 体格：矮躯・頭：禿頭・服装：見窄らしい布一枚・歯：鋭く尖った前歯 ｜ 典拠: [112話](../../nav/ch0112.md)（3937）
   > いつのまにか、二人の足下に矮躯の禿頭男が現れていた。見窄らしい布一枚を身体に巻き付けたその男の前歯は鋭く尖り、しきりに何かを囓っている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カーティス(三人目の人物)**（ID `E_char_カーティス(三人目の人物)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -33,3 +33,9 @@ updated: '2026-10-21'
 - **unknown**: その額には円形の穴が開いており、そこから脳細胞で構成されたような異形の小人が上半身をさらけ出していた。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **老人吸血鬼**（ID `E_creature_老人吸血鬼` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

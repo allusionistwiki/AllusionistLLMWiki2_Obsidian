@@ -25,3 +25,9 @@ created: "2026-09-30"
 > メートリアンは決意を新たにした。　黒百合宮に行こう。　そして黒のヴァージリアよりも、謎めいたアズールよりもずっと優れた魔女になってみせる。（ch0040）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **黒百合宮行き**（ID `E_event_黒百合宮行き` / kind: event / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

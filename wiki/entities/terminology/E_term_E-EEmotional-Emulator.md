@@ -24,3 +24,9 @@ updated: '2026-10-21'
 - **unknown**: 人格に深く根ざした感覚・感情制御アプリ『E-E』＝『Emotional-Emulator』はそれ自体がシナモリ・アキラをエミュレートして、あらゆる決定を代行している。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **e-eemotional-emulator**（ID `E_term_e-eemotional-emulator` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

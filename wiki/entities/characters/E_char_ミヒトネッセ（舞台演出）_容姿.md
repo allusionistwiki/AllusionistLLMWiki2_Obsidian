@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 舞台の演出として、糸を使った舞いが描写されている。 ｜ 演出（糸を頼る）・動き（舞い踊る） ｜ 典拠: [175話](../../nav/ch0175.md)（p5806）
   > 地獄の罪人はか細い蜘蛛の糸だけを頼みにするすると奈落から這い上がり、飛び上がり、歓喜に舞い踊る。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **ミヒトネッセ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_ミヒトネッセ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **ミヒトネッセ(舞台演出)**（ID `E_char_ミヒトネッセ(舞台演出)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 無傷のまま口を開く。 ｜ 外見・口 ｜ 典拠: [145話](../../nav/ch0145.md)（p4961）
   > 四番目のラクルラールと名乗った存在は無傷のまま口を開く。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **四番目のラクルラール**（ID `E_char_四番目のラクルラール` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

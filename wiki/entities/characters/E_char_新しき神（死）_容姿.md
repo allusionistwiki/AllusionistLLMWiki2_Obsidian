@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 感情を排除した冷たい瞳を持つ、死を司る存在 ｜ 冷えた瞳 ｜ 典拠: [247話](../../nav/ch0247.md)（p8021）
   > その冷えた瞳に、個人の感情が介在する余地はないように思えた。 少女の心臓が早鐘を打つ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **新しき神(死)**（ID `E_creature_新しき神(死)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

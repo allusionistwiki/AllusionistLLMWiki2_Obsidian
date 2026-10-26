@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 美しい横顔、少女へと成熟しつつある姿 ｜ 横顔・体格 ｜ 典拠: [32話](../../nav/ch0032.md)（p1313）
   > 月光に照らされて輝くその横顔が――美しく成熟し、少女へと開花しようとしているその姿があまりに儚くて
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **セレクティフィレクティ**（ID `E_char_セレクティフィレクティ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

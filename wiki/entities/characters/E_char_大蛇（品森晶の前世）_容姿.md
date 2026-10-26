@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 引き締まった肉体、長い黒髪、着崩した着物ウェア、下駄ヒール、機械義肢 ｜ 義肢・体格・服装・髪・胸・身長 ｜ 典拠: [160話](../../nav/ch0160.md)（p5445）
   > 使い慣れた機械義肢、鍛錬を欠かしていない引き締まった肉体、いかにも日本人といった感じの服装、そして長い黒髪にかすかに膨らんだ胸元、理想より少し低めの身長と下駄ヒール、着崩した着物ウェアと黒いインナーが――。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **大蛇(品森晶の前世)**（ID `E_char_大蛇(品森晶の前世)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - （直接的な容姿描写なし。文脈から「寡黙な黒衣の神」という回想描写あり） ｜ 存在 ｜ 典拠: [211話](../../nav/ch0211.md)（p7131）
   > 私の存在を掌握しようとはしていたみたいだけど、その問題は解決した
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は実体判定**要検証**（台帳 v3 で保留）です。
+
+この名義は L2 名前統合台帳の正規エンティティ **マロゾロンド(描写は間接的)**（ID `E_char_マロゾロンド(描写は間接的)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

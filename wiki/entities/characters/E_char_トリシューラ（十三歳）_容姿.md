@@ -29,3 +29,11 @@ description: キャラ容姿描写ページ
 - 狼頭の頭部装備、赤く輝く両目、小さな唇。 ｜ 頭部装備（狼頭）・耳・瞳（赤）・唇 ｜ 典拠: [118話](../../nav/ch0118.md)（p4125）
   > 少女の頭に載った狼頭が各種の電子兵装を制御し、ぴんと立った耳型部位が索敵。真っ赤に輝く両目は弾道計算結果と風速計を表示して、魔女の小さな唇は弾道占いの結果を歌い上げていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **トリシューラ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_トリシューラ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **トリシューラ(十三歳)**（ID `E_char_トリシューラ(十三歳)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

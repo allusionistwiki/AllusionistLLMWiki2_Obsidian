@@ -21,3 +21,9 @@ updated: '2026-10-21'
 
 - **unknown**: 彼らはたとえ迷宮探索者として優秀でも、他の多数派と混じって住む事を拒絶されることが多い。加えて、排除される少数派の者達も協力して生きていこうとするために集まっていく傾向が見られる。二つの事象の相乗効果によって、ここにはゲットー的な隔離区画が形成されているのだ。
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **隔離区画**（ID `E_loc_隔離区画` / kind: location / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

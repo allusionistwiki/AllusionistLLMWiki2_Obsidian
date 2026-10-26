@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 愛らしい容貌、小さな頭、赤らんだ頬、柔らかそうな唇 ｜ 容貌・頭・頬・唇 ｜ 典拠: [96話](../../nav/ch0096.md)（p3538）
   > マラードは自らが王であることすら忘れてしまったかのように、忘我の表情でセレスの愛らしい容貌、小さな頭や赤らんだ頬、柔らかそうな唇を順番に見つめていたが
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **セレス(冥道の幼姫)**（ID `E_char_セレス(冥道の幼姫)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

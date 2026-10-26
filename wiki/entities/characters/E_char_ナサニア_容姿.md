@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 三角耳を持つ若い女。炎色のドレスと長いスカートを着用し、剣を所持している ｜ 三角耳・橙色の炎を纏った長いスカート・炎色のドレス・呪宝石で装飾された剣 ｜ 典拠: [259話](../../nav/ch0259.md)（p8258）
   > 燃え立つ炎と共に、橙色の炎を纏った長いスカートが翻る。炎色のドレスと三角耳が特徴的な若い女が、着地と同時に呪宝石で装飾された剣で湯気の巨人ラドリンを両断。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ナサニア**（ID `E_char_ナサニア` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

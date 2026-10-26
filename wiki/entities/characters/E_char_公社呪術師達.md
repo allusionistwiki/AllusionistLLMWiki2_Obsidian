@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: デスク上の据え置き端末から伸びたアダプタを喉元――声帯に接続し、声紋から呪力を発生させアストラルの世界へダイブする【公社】所属の呪術師達が、次々と断末魔の声と血反吐を撒き散らして死んでいく。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **公社呪術師達**（ID `E_org_公社呪術師達` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

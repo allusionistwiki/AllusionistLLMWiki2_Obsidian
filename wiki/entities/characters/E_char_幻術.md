@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 物理攻撃ではない。目の前に牙を出現させるという、おそらくはアテンプレクが手札として隠し持っていた幻術だろう。幻術や閃光符に類する死の光景を共有する目晦まし、あるいは恐怖を増幅するための自己暗示の応用か。（ch0248）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **幻術**（ID `E_term_幻術` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

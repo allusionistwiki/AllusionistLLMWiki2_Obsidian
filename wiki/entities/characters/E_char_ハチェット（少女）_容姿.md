@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 滑らかだが微妙な違和感（イントネーションの乱れ）のある声。 ｜ 声 ｜ 典拠: [212話](../../nav/ch0212.md)（p7176）
   > 印象的なのは、ときおり声に奇妙なイントネーションの乱れが現れること。 滑らかな言語の運用に限りなく近付けているがどこかが違う。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ハチェット(少女)**（ID `E_char_ハチェット(少女)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

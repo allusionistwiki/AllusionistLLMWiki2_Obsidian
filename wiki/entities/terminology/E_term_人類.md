@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 奪え、殺せ、勝ち取れ。野蛮へと絶え間なく後退し、停滞し続けることを人類は選択した。そうして、停滞の中で利益を貪り延命を続ける。革新や前進の意思は巨大な構造に圧殺される。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **人類**（ID `E_term_人類` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

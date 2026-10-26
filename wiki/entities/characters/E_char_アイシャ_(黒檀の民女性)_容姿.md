@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 顔の右半分が焼け爛れ、片目が潰れている ｜ 顔・傷・目 ｜ 典拠: [209話](../../nav/ch0209.md)（p7068）
   > しかし無惨なことに顔の右半分がひどく焼け爛れ、おまけに片目が潰されていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アイシャ**（ID `E_char_アイシャ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

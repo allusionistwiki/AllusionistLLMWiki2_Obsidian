@@ -31,3 +31,11 @@ description: キャラ容姿描写ページ
 - 人形のように端正な顔、両腕の義肢 ｜ 顔立ち・義肢 ｜ 典拠: [155話](../../nav/ch0155.md)（5274）
   > 晶は人形のように端正な顔を薄く笑みの形にすると、両腕の義肢で三者を同時に相手取った。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は実体判定**要検証**（台帳 v3 で保留）です。
+
+この名義は L2 名前統合台帳の正規エンティティ **『大蛇』の晶**（ID `E_char_『大蛇』の晶` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

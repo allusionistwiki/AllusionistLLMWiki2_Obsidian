@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 半透明の少女の姿をしており、虫のような翅を広げている。 ｜ 身体・翅 ｜ 典拠: [47話](../../nav/ch0047.md)（p1916）
   > 役目を終えた半透明の少女は、虫のような翅を広げてそのまま外に出て行った。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **家妖精（シルキー）**（ID `E_item_家妖精_シルキー_` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

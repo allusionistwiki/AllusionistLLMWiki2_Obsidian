@@ -37,3 +37,9 @@ description: キャラ容姿描写ページ
 - 微細な水分や氷片で構成された肉体。雲の巨人。朗々とした声。 ｜ 肌・声・体格 ｜ 典拠: [149話](../../nav/ch0149.md)（5058）
   > 大気中の微細な水分や氷片によって構成された肉体。空の民の邪視者が到達する一つの極致。雲の巨人が朗々と声を響かせた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **シナモリアキラ(神父/ネフィリム)**（ID `E_char_シナモリアキラ(神父/ネフィリム)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

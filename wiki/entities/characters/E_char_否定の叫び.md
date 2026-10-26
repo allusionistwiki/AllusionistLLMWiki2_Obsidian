@@ -25,3 +25,11 @@ created: "2026-09-30"
 > 「貴方は違うんですか。貴方とアズーリア様の、マリーとの関係は、世界と天秤にかけて、世界の方に傾くほど軽いものだったんですか」  「違うっ」  強い否定。滅多に叫ぶと言うことをしない、激情を表に出さないハルベルトの、それは切実な意思だった。（ch5188）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **否定の叫び**（ID `E_char_否定の叫び` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

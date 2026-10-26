@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 円筒状でずんぐりむっくり、右義肢より太い ｜ 義肢・形状 ｜ 典拠: [9話](../../nav/ch0009.md)（p410）
   > どこか望遠鏡を思わせる、円筒状の義肢だった。一応関節が有り、曲がる機構を有しているみたいだが、ずんぐりむっくりとしていて右の義肢より一回り以上太い。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **義腕(新品)**（ID `E_item_義腕(新品)` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

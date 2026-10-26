@@ -40,3 +40,9 @@ updated: '2026-10-21'
 - **unknown**: その日の海神はよほどたちの悪い夢に苛まされていたと見え、彼方からは巨人がうなされているかのような雷鳴が轟き、湿気った空気がごうごうと吹き付けてきていた。寄せては返す大波が断崖に叩きつけられると島全体を揺さぶるかのような衝撃が走り
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **海神ハザーリャ**（ID `E_creature_海神ハザーリャ` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

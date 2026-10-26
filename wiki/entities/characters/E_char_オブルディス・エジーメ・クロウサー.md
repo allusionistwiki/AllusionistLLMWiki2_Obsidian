@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 王に神権を授与する特権を持つ者たち。 王の序列を定め、順番を与える『第一より前』に位置していること。 それが最初の王冠創造者であった『空使い』オブルディス・エジーメ・クロウサーが定めた血脈の位置。第零王権者という序列。
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **オブルディス・エジーメ・クロウサー**（ID `E_char_オブルディス・エジーメ・クロウサー` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

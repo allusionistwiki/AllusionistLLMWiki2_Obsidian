@@ -73,3 +73,9 @@ updated: '2026-10-21'
 - **unknown**: これは圧倒的な速度と演出で物語を支配する主役のためのレース。展開を支配していたのはロードデンドロンでもユディーアでもない。
 - **unknown**: 全ての物語を強引に完結させる圧倒的な存在感。 このレースは彼女の活躍を引き立てるためにあったのだと万人に思わせる疾走。 決着は確定した。語るべきことは語られた。 他の選手たちは余白や数行の地の文で次々とゴールしたとだけ記されて終わり。
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **黒マント**（ID `E_char_黒マント` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 黒い獣で背に花を背負う。産毛に覆われた幼げな顔と尖った鼻先。 ｜ 毛・顔・鼻・体色 ｜ 典拠: [208話](../../nav/ch0208.md)（p7004）
   > 花を背負った熊と犬の中間じみた黒い獣。産毛に覆われた幼げな顔立ちと尖った鼻先をプリエステラの頬に寄せ、においを嗅ぐようにくんくんと鳴いた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ビテロ**（ID `E_char_ビテロ` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

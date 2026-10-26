@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 瞳を十字に輝かせる ｜ 瞳 ｜ 典拠: [156話](../../nav/ch0156.md)（p5299）
   > 決着は近い。天で死闘を繰り広げる二人の『アキラ』のさらに上から、何か巨大な存在が降下しつつある。誰よりも早くその気配を感じ取った『件』が瞳を十字に輝かせて叫ぶ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は実体判定**要検証**（台帳 v3 で保留）です。
+
+この名義は L2 名前統合台帳の正規エンティティ **件(晶)**（ID `E_char_件(晶)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

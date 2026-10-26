@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 杖先端に赤い玉石 ｜ 杖 ｜ 典拠: [1話](../../nav/ch0001.md)（p85）
   > 杖の先端が明らかになる。赤い玉石があやしく輝き、それが魔法に関係する道具であることをあらわしていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **魔法使い(手品師)**（ID `E_char_魔法使い(手品師)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -59,3 +59,9 @@ updated: '2026-10-21'
 - **unknown**: ヴァージリアは浮き立つ心で、手紙に記された綺麗な、それでいてどこか懐かしい筆致を受け止めて、普段は鋭く機嫌の悪そうな目を柔らかく緩ませて、そして小さな子供のように笑った。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヴァージリア(ジル**（ID `E_char_ヴァージリア(ジル` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

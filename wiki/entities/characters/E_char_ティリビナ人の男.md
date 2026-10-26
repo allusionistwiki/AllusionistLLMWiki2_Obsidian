@@ -42,3 +42,9 @@ updated: '2026-10-21'
 - **unknown**: 若きティリビナ人の小さな呟きが消えていった。密やかに、挑むように。「言理の妖精、語りて曰く」残されなかった言葉が形になることはない。ただ。前後の文脈に連なる空白がそこには残る。語られずとも、それは確かに存在していた。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ティリビナ人の男**（ID `E_char_ティリビナ人の男` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

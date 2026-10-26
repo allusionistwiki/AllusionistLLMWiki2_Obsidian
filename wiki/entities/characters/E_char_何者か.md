@@ -25,3 +25,11 @@ created: "2026-09-30"
 > 紀人の力を偽造し、気付かれないように本物とすり替える。（ch5532）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は実体判定**要検証**（台帳 v3 で保留）です。
+
+この名義は L2 名前統合台帳の正規エンティティ **何者か**（ID `E_char_何者か` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

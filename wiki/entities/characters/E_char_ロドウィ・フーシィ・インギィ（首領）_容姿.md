@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 肥満体の下は筋肉質 ｜ 体格 ｜ 典拠: [4話](../../nav/ch0004.md)（205）
   > その肥満体の下は筋肉質であり、凄まじい格闘術の達人でもある。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ロドウィフーシィインギィ(首領)**（ID `E_char_ロドウィフーシィインギィ(首領)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -25,3 +25,9 @@ created: "2026-09-30"
 > リーナよ、愛しき母よ！ その魂は既に闇に浸されておる。まじないの声がどれだけお前の意思を覆そうと、もはやその血はこの場より抜け出すことなど叶わぬと知れい！（ch5562）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **宿命**（ID `E_motif_宿命` / kind: motif / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

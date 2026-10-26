@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 鮮やかな深紅を基調とした義肢。 ｜ 義肢・色 ｜ 典拠: [24話](../../nav/ch0024.md)（p1128）
   > 七十一のうち、【星見の塔】によって使用が制限されている上位一桁の形態を除けば最上位となる十番の義肢。鮮やかな深紅を基調とした義肢には、一見して特殊な兵装は存在しない。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ウィッチオーダー(no.10)**（ID `E_org_ウィッチオーダー(no.10)` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

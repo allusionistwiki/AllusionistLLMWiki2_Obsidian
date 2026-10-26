@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 左手上、右手下の構えで、五指を広げて牙のように見せる ｜ 構え・五指 ｜ 典拠: [147話](../../nav/ch0147.md)（p5013）
   > 左手を上に、右手を下に構え、広げた五指は牙の如し。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **オルヴァ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_オルヴァ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **オルヴァ(ラリスキャニア通過)**（ID `E_char_オルヴァ(ラリスキャニア通過)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

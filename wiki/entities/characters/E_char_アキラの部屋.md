@@ -25,3 +25,11 @@ created: "2026-09-30"
 > 夜も更けようとしている時間帯。 唐突に部屋に上がり込んできたコルセスカは、真剣な表情で俺を見ると、緊張に声を強張らせながら衝撃的な告白をする。（ch5246）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アキラ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アキラ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラの部屋**（ID `E_char_アキラの部屋` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

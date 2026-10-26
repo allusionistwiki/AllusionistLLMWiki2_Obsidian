@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 蝙蝠のような羽、蜥蜴のような尻尾、長く歪んだ顔を持つ異形の怪物。 ｜ 長い首・鋭い牙・歪んだ顔・凶暴な顎・蝙蝠の羽・蜥蜴の尻尾 ｜ 典拠: [65話](../../nav/ch0065.md)（p2434）
   > 長い首、鋭い牙、くしゃくしゃに歪んだ顔に凶暴な顎、蝙蝠めいた羽に蜥蜴の尻尾、かぎ爪の付いた短い足。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **言理の妖精(異形)**（ID `E_creature_言理の妖精(異形)` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

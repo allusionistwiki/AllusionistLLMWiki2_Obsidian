@@ -28,3 +28,11 @@ created: "2026-09-30"
 > 「じゃま、です」 絞り出すように吐き捨てる。虚勢を張る余裕も気品を維持する気力も尽きかけていた。当然だろう、目の前に立つ異形の男にセリアック＝ニアは敗北し、心を影の中に封じられていたのだから。（ch5425）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **拒絶**（ID `E_char_拒絶` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

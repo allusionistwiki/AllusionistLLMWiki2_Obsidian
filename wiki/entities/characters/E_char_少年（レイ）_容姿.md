@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 長い髪を後頭部で括り、馬の尻尾のように垂らしている ｜ 髪 ｜ 典拠: [190話](../../nav/ch0190.md)（p6263）
   > ふと思い立って、長い髪を後頭部で括る。馬の尻尾のように垂れ下がる長髪の気配。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **レイ**（ID `E_char_レイ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

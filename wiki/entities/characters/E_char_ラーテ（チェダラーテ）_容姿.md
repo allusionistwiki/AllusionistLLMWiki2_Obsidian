@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 半透明の愛马。蹄を持つの民（馬）の守護霊。 ｜ 体（霊体/愛馬） ｜ 典拠: [261話](../../nav/ch0261.md)（p8303）
   > 馬たちの呪文詠唱だ。　風がそよぎ、疾走への予感に世界が躍動する。　指を持たず、文字を持たず、しかし知恵を持つ馬たちにとって、その身で裂いていく風こそが手足であり言語であり文明の基盤であった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ラーテ**（ID `E_char_ラーテ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

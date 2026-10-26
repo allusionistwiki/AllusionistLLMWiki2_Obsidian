@@ -35,3 +35,9 @@ updated: '2026-10-21'
 - **unknown**: そこは暗がりの底。かつん、かつんという足音だけが一定のリズムを刻み、時折響く声が無意味の世界を切り裂いていく。知恵持つ者たちは言葉によって世界を分節した。無明の恐怖に耐えるために、そうせずにはいられなかったのだ。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **人形たち**（ID `E_creature_人形たち` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

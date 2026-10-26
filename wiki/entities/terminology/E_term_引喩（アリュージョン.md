@@ -31,3 +31,9 @@ created: "2026-09-30"
 - [[A_ch5589_analogous_to_E_ch5589_引喩アリュージョン_defines_高速呪文修辞作法_p7173_inter_textuality_mechanic|相互文本性による即座の威力付与]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **引喩(アリュージョン**（ID `E_term_引喩(アリュージョン` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

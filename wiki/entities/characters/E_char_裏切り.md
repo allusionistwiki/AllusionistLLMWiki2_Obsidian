@@ -28,3 +28,9 @@ created: "2026-09-30"
 > （最終的にはどうせ裏切るんだろうけど） そのうち利害がかみ合わなくなったり思想面で譲れない部分が出たりして内部から崩壊するに決まっている。（ch0223）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **裏切り**（ID `E_motif_裏切り` / kind: motif / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

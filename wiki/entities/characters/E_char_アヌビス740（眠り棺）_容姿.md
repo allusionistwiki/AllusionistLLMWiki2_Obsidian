@@ -37,3 +37,11 @@ description: キャラ容姿描写ページ
 -  ｜ 外見（滑らかな外装、朱色のラインが走る）・義肢（呪具の手足） ｜ 典拠: [167話](../../nav/ch0167.md)（p5600）
   > 滑らかな外装に朱色のラインが走り、それが呪術的な紋様となって呪具の手足を動かしている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アヌビス７４０** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アヌビス７４０`。
+
+この名義は L2 名前統合台帳の正規エンティティ **アヌビス740(眠り棺)**（ID `E_char_アヌビス740(眠り棺)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

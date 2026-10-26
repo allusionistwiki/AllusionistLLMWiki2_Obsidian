@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 黒い装丁の魔導書。 ｜ 装丁 ｜ 典拠: [140話](../../nav/ch0140.md)（p4752）
   > 黒い装丁の魔導書。【死人の森の断章】が教えてくれているのだ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **スカルミリオーネ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_スカルミリオーネ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **ルバーブ(私)が保有する魔導書**（ID `E_item_ルバーブ(私)が保有する魔導書` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

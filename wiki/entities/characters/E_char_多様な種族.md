@@ -25,3 +25,11 @@ created: "2026-09-30"
 > 「第七位の命令なんぞクソ食らえだ。全員で団結して俺たちの地上を守る。それがあるべき修道騎士の姿だろうが。やってやるぜ、俺たちで」（ch0208）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **多様な種族**（ID `E_char_多様な種族` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

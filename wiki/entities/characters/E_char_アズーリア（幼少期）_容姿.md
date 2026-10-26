@@ -29,3 +29,11 @@ description: キャラ容姿描写ページ
 - 音声言語を初めて発した瞬間 ｜ 声・口 ｜ 典拠: [60話](../../nav/ch0060.md)（p2255）
   > 喉に闇がわだかまり、口が開き、舌が動く。「みんなの心を、私に聞かせて？」 私が音声言語を発した事を、誰もが驚きながらも自然に受け入れていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アズ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アズ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **アズーリア(幼少期)**（ID `E_char_アズーリア(幼少期)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

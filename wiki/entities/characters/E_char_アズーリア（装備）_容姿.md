@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - アズーリアがアキラにかけた厚手のマント。 ｜ 服装 ｜ 典拠: [1話](../../nav/ch0001.md)（p41）
   > 首と、前のあわせに留め具が付いている厚手のマントだった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アズ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アズ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **アズーリア(装備)**（ID `E_char_アズーリア(装備)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

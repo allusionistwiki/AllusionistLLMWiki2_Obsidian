@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 黒い瞳に淡い光を宿す。全身は灰色の鱗で覆われ、霊長類に似た姿だが手足や肌、尻尾や頭部は爬虫類的特征。長い尻尾、右側から生える角を持つ。 ｜ 瞳・肌・脚・爪・全身・尻尾 ｜ 典拠: [70話](../../nav/ch0070.md)（p2590）
   > その黒い目が淡い光を宿した。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **灰蜥蜴人/亜竜人の少女**（ID `E_char_灰蜥蜴人/亜竜人の少女` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - ポニーテール（髪房）を指す ｜ 髪: 髪房（角・尾） ｜ 典拠: [238話](../../nav/ch0238.md)（p7802）
   > 角であり髪房であり尾でもある、火と風を象徴する呪物。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ユディーアパルムワードディスケイム**（ID `E_char_ユディーアパルムワードディスケイム` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 群青色の髪、霊長類系の容貌、揃いの円筒状の裳 ｜ 髪・肌・服装・顔立ち ｜ 典拠: [113話](../../nav/ch0113.md)（p3964）
   > 円筒状の裳が翻スカートり、群青色の髪は同じ軌跡を描いて踊る。複製された夜の民を思わせるほど似通った美貌に揃いの衣装だが、霊長類系の容貌に映し出された表情だけが違っていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **セレクティ/フィレクティ**（ID `E_char_セレクティ/フィレクティ` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

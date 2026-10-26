@@ -25,3 +25,11 @@ created: "2026-09-30"
 > 「落ち着け。まずは陛下の安全を確保することが先だ。カルメーキフとドルン、ゴガベズは私と共に貴賓席に向かうぞ。ソーレル、ドック、ペルシカリア、エキドナで暴動の鎮圧に当たれ。多少手荒になっても構わん」（ch0140）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **部下**（ID `E_char_部下` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

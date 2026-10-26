@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - クレイの内部から別の人格（声）が片目と軽薄な声として現れる。 ｜ 片目・声 ｜ 典拠: [201話](../../nav/ch0201.md)（p6761）
   > クレイは無言のまま指先で片目を閉じた。ぴたりとやかましい気配が消える。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **クレイ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_クレイ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **内側の人格(クレイ)**（ID `E_char_内側の人格(クレイ)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

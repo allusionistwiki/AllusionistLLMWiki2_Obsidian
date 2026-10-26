@@ -30,3 +30,9 @@ created: "2026-09-30"
 > 歌うことしかできない。それしか知らない。愚直に積み重ねて、成果が、報酬が、賞賛が、自己の承認が得られなくても、続けることでしか生きられない。 毎日、毎日、時間を無理矢理作ってやる。（ch5230）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヴァージリア(ジル**（ID `E_char_ヴァージリア(ジル` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

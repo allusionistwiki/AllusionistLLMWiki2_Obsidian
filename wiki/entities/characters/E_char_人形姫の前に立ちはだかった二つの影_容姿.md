@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 甲冑姿（巨大な鎚）と長衣姿（豪奢な杖）。 ｜ 服装・武器 ｜ 典拠: [140話](../../nav/ch0140.md)（p4767）
   > 一つは血塗れの全身甲冑姿、一つは全身を暗がりに隠した長衣姿。前者は巨大な鎚を構え、後者は豪奢な杖を手にしている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **人形姫の前に立ちはだかった二つの影**（ID `E_char_人形姫の前に立ちはだかった二つの影` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

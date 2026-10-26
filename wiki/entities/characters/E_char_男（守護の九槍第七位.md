@@ -34,3 +34,9 @@ created: "2026-09-30"
 - [[A_ch5227_analogous_to_E_ch5227_男守護の九槍第七位_defines_人間の本性_p265_algorithmic_bias|アルゴリズム的偏見としての差別公式]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **男(守護の九槍第七位**（ID `E_char_男(守護の九槍第七位` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

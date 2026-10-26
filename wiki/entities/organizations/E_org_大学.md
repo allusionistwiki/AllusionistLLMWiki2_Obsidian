@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 知の体系化という学問の機能を思えば、枠組みからの逸脱を扱う呪術は大学の理念と真っ向から反している。ゆえにほとんどの大学は思考を体系化して形にできる杖の呪術を中心に扱っており、今回の呪文の師を探すという目的からは残念ながら外れる。（ch5126）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **大学**（ID `E_org_大学` / kind: organization / 統合根拠: 高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

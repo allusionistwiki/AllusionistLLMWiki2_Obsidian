@@ -29,3 +29,9 @@ created: "2026-09-30"
 - A_ch0263_alludes_to_E_ch0263_ミブレル_other_自由の定義_p8322_sartre_freedom（依存を自由の自覚とする逆説）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **自由の定義**（ID `E_term_自由の定義` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

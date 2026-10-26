@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 全ての都市には表情がある。感情と言い換えてもいい。 喜、怒、憂、思、悲、恐、驚。 小さく口の中で反復する。肉体に染みついた修練の成果。全身の臓腑と神経がそれを生身の感覚で理解している。ユディーアが覚えたのはその『七情』のかたちだ。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ポルガー**（ID `E_char_ポルガー` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

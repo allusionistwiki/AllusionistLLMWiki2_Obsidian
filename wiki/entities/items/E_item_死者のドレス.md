@@ -30,3 +30,9 @@ updated: '2026-10-21'
 
 - **unknown**: 「この『死者のドレス』は持ち主と生涯を共にする――生者しか身に纏えない、けれど死に寄り添わなければ選ばれない、そんな矛盾したドレス。持ち主の魂から黄金のドレスを引き剥がすということは、一対の矛盾した在り方を終わらせるということ。偽りの死者は、罰として物言わぬ墓標となる」
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **死者のドレス**（ID `E_item_死者のドレス` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

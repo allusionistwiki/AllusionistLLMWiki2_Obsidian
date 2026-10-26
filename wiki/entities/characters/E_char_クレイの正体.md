@@ -25,3 +25,11 @@ created: "2026-09-30"
 > （落ち着け、大丈夫だ冷静になれ！　カーイン、トロメリア、レストロオセ？！　確か鈴国の重要人物！　スーリウム様の敵かも！　よくわかんないけど聞こえちゃった！　凄く重要な情報だぞきっと！　この人とトロメリアって人に強い繋がりを感じる。四十四士の（ch5513）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **クレイ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_クレイ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **クレイの正体**（ID `E_char_クレイの正体` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

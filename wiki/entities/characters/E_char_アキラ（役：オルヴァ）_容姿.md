@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 両目が輝き、十字の紋様を映す。 ｜ 瞳 ｜ 典拠: [115話](../../nav/ch0115.md)（p4027）
   > 更に続けてアキラの両目が光り輝く。瞳が十字の紋様を映し出し、カシュラム王オルヴァの役が一時的に降りてくる。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラ(役:オルヴァ)**（ID `E_char_アキラ(役:オルヴァ)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ created: "2026-09-30"
 > ――『俺たち』は見た。九層の秩序。多層化された心的領域を遊泳していく超上位自我。炎を纏った御使いたち。無限大の宇宙、天体を模した多層構造は人工の呪術脳。大地と太陽、四つの衛星と四つの遊星。天の構造は夜光天、幽冥天、精霊天、太陰天、太陽天、土（ch5431）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラたち**（ID `E_rel_アキラたち` / kind: relationship / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

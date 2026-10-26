@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 危険だと周囲が止めるのも聞かずにそう言った理知的な少女は、後に身体の内側から爆破されてバラバラになっているところを発見された。（ch0169）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **爆破**（ID `E_event_爆破` / kind: event / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 岩の壁の凹凸で作られた顔の印象 ｜ 顔立ち ｜ 典拠: [226話](../../nav/ch0226.md)（p7471）
   > 岩の壁、その凹凸と陰影が作る顔のような印象。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **壁の顔たち**（ID `E_creature_壁の顔たち` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

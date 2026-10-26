@@ -25,3 +25,11 @@ created: "2026-09-30"
 > キロンはしばし目を細め、こちらの表情からその思考を探り出そうとするようにじっと視線を向けてきた。X線で体内を精査されるような、一瞬の緊張。（ch5072）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アキラ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アキラ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラの思考**（ID `E_char_アキラの思考` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

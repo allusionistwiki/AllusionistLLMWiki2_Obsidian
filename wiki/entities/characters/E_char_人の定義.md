@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 「ここにいるのは【変異の三手】によって地下の迷宮実験場で酷い目に合わされて、脳に再起不能な損傷を負った人たちだよ。私はね、どういう方法で彼らを生者として復活させるか、ずっと悩んでいたんだ。ねえ、さっきの質問、答えて貰ってないけど、どう思う？（ch0119）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **人の定義**（ID `E_term_人の定義` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

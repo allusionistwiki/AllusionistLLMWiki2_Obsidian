@@ -47,3 +47,9 @@ updated: '2026-10-21'
 - **unknown**: 内側に隠れていた俺たちは、打ち合わせた通りに一斉に動き出した。光を乱反射させ、内部の様子を窺わせない構造。コルセスカが住まう氷の家にも似た氷塊の内部は意外にも快適な乗り心地だった。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラたち**（ID `E_rel_アキラたち` / kind: relationship / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

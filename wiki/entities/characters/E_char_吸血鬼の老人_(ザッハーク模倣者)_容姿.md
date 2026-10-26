@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 額に穴が開き、脳のような小人が頭部から上半身を出している ｜ 頭部・義肢/従属体 (小人) ｜ 典拠: [151話](../../nav/ch0151.md)（p5126）
   > その額には円形の穴が開いており、そこから脳細胞で構成されたような異形の小人が上半身をさらけ出していた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **吸血鬼の老人(ザッハーク模倣者)**（ID `E_char_吸血鬼の老人(ザッハーク模倣者)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

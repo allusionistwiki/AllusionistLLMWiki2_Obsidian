@@ -25,3 +25,9 @@ created: "2026-09-30"
 > ミルーニャの爪が、ゆっくりと生えつつあった。以前ほどではない。けれど、普通の霊長類よりその治癒速度は上だった。その現象を引き起こす呪力が、どこからもたらされているのか。それは存在しないはずのものだった。失われた、あり得ない現象。（ch5159）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ミルーニャの爪**（ID `E_item_ミルーニャの爪` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

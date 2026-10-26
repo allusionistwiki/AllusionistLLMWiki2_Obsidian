@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 半透明な姿、すみれ色の瞳、白肌、巫女の装束。 ｜ 瞳・肌・服装/属性 ｜ 典拠: [222話](../../nav/ch0222.md)（p7380）
   > ロードデンドロンの背後に半透明の女が寄り添う。すみれ色の瞳をした白肌の巫女。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アルラウネ(祖霊の召喚)**（ID `E_char_アルラウネ(祖霊の召喚)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 同一人物の五人組。服装や雰囲気が異なっている。 ｜ 人数（五人）・服装・雰囲気 ｜ 典拠: [243話](../../nav/ch0243.md)（7951）
   > 服装や雰囲気が異なる同一人物が五人、気絶していた人形を取り囲んでいたのだ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **ロウ・カーイン** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_ロウ・カーイン`。
+
+この名義は L2 名前統合台帳の正規エンティティ **ロウカーイン(分身)**（ID `E_char_ロウカーイン(分身)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

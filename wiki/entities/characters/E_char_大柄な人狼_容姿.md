@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 他の個体より大柄。両手の爪が長い。 ｜ 体格・外見 ｜ 典拠: [1話](../../nav/ch0001.md)（p64）
   > 相手の人狼もなかなかの強敵のようで、他の個体よりも大柄で、両手の爪が一回り長い。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **大柄な人狼**（ID `E_char_大柄な人狼` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

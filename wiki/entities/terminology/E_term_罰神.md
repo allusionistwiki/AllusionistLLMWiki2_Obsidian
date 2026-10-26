@@ -21,3 +21,9 @@ updated: '2026-10-21'
 
 - **unknown**: サイザクタートの語る禁忌とは、二人の『見るな』と『行くな』という約束のことであり、母と子の、生者と死者の情交のことであり、異質な形を持って生まれたことでもあった。その全てが、罰神が情けなく敗北して横たわっている今、赦されたのである。もはや彼らを罰するもっとも強大な権威は存在しないのだ。
 <!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **罰神**（ID `E_term_罰神` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

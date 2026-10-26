@@ -26,3 +26,9 @@ created: "2026-09-30"
 > 迎え撃つ巨神の手にはいつの間にか古びたハンマーが握られていた。呪宝石で構築された本体とは対照的に石と木で出来た巨大なだけの簡素な武器。（ch5475）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **巨神**（ID `E_creature_巨神` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 三角帽子（シアン）、三角耳（イエロー/グリーン）、似た雰囲気 ｜ accessories・body_feature ｜ 典拠: [55話](../../nav/ch0055.md)（p2111）
   > 三角帽子の人と三角耳が生えた人、それからちょっとだけ私と似た雰囲気の人たちはみんな私に親切にしてくれた
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **シアン,イエロー/グリーン,グレー/ティール**（ID `E_char_シアン,イエロー/グリーン,グレー/ティール` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 瞳が銃口と一体化し、爛々と輝く。 ｜ 瞳 ｜ 典拠: [235話](../../nav/ch0235.md)（p7733）
   > 銃口と一体化したアヴロノの瞳が、爛々と輝く。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アヴロノ(召喚)**（ID `E_char_アヴロノ(召喚)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 紫の軌跡を描きながら落下した未来は、あまりにもあっけなく砕け散った。無数の欠片となって飛散した紫水晶。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **未来**（ID `E_term_未来` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -24,3 +24,9 @@ updated: '2026-10-19'
 - **unknown**: 深い闇の底で眠っていた『悪なる樹殻を喰らう四匹の牡鹿』と呼ばれる古代の神獣が重い腰を上げ、不遜な新興勢力が聖域でこれ以上の蛮行を働くなら徹底的な反撃を加えると宣言したのだ。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **スキリシアの古老**（ID `E_org_スキリシアの古老` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

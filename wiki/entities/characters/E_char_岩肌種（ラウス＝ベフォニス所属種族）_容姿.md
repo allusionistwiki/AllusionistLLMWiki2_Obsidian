@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 岩石のような肌 ｜ 肌・再生 ｜ 典拠: [111話](../../nav/ch0111.md)（p3920）
   > 彼らの肌は岩石の如き強靱さを誇り、高い生命力を持つため多少の傷はたちまち再生してしまう。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **岩肌種(ラウス=ベフォニス所属種族)**（ID `E_creature_岩肌種(ラウス=ベフォニス所属種族)` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

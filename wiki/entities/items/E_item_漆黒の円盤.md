@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 命中したのは脆い面にではなかった。絶えず角度を修正し続ける漆黒の円盤にそのような手落ちはあり得ない。革靴の踵は刃の部分に激突していた。金属加工された踵部位は切断されずに正面から刃を打ち砕く。（ch5325）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **漆黒の円盤**（ID `E_item_漆黒の円盤` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

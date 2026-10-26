@@ -26,3 +26,11 @@ created: "2026-09-30"
 > 赤い髪は二つのお下げになって肩の前に流れている。個性を強調したアイドルたちの中にあって、髪色の明度は際だって異質だった。（ch0187）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **コズエ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_コズエ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **赤い髪**（ID `E_char_赤い髪` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

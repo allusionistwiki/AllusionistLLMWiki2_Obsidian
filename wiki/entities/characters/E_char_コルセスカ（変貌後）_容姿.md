@@ -29,3 +29,11 @@ description: キャラ容姿描写ページ
 - 蜂蜜色の髪、灰色の目、白骨化した右半身を持つ美女の姿。 ｜ 髪（蜂蜜色）・目（灰色）・右半身（白骨化）・年齢（妙齢）・性別（美女） ｜ 典拠: [118話](../../nav/ch0118.md)（p4147）
   > 蜂蜜色の髪と灰色の目、そして白骨化した右半身を持つ妙齢の美女の姿に。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **コルセスカ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_コルセスカ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **コルセスカ(変貌後)**（ID `E_char_コルセスカ(変貌後)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

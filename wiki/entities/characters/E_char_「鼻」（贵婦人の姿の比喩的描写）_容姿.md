@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 白い髑髏の眼窩を連想させる描写がある。 ｜ 顔 ｜ 典拠: [217話](../../nav/ch0217.md)（7275）
   > 白い髑髏の虚ろな眼窩の間に、香りを感じるための器官などあるはずもないというのに。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **「鼻」(贵婦人の姿の比喩的描写)**（ID `E_phrase_「鼻」(贵婦人の姿の比喩的描写)` / kind: phrase / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

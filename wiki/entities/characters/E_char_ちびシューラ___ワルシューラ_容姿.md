@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 黒い靄から綺麗な姿のちびシューラへ解放 ｜ 形態・顔立ち ｜ 典拠: [156話](../../nav/ch0156.md)（p5301）
   > ひとつ、ふたつ、みっつ。打撃された邪妖精から黒々とした靄が流れだし、綺麗なちびシューラとなって解放されていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ワルシューラ**（ID `E_char_ワルシューラ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

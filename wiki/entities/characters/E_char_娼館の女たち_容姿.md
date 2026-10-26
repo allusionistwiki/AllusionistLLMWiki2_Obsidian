@@ -33,3 +33,11 @@ description: キャラ容姿描写ページ
 - 整った顔立ちと美しい瞳 ｜ 顔立ち・瞳 ｜ 典拠: [77話](../../nav/ch0077.md)（p2891）
   > 顔の造型はこの上なく整っており、瞳もまた美しく、だがしかし――
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **娼館の女たち**（ID `E_char_娼館の女たち` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -30,3 +30,11 @@ created: "2026-09-30"
 > 白い髑髏の虚ろな眼窩の間に、香りを感じるための器官などあるはずもないというのに。死せる貴婦人の振る舞いからは、どうしようもなく香りを楽しむ形の良い鼻が連想されてしまう。だから彼女に鼻はないが、鼻は確かにそこにある。『鼻』はここにはいない。だ（ch5503）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は実体判定**要検証**（台帳 v3 で保留）です。
+
+この名義は L2 名前統合台帳の正規エンティティ **女(鼻**（ID `E_char_女(鼻` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 黒紫の服装で巨大な錫杖を持っている。 ｜ 服装（黒紫）・小道具（巨大な錫杖） ｜ 典拠: [176話](../../nav/ch0176.md)（5850）
   > 高層建築の屋上がどろりと影に溶け、漆黒の水面に現れたのは黒紫の占い師。　巨大な錫杖を手にしたその姿に、ミシャルヒが身構えた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ラズリ(黒紫の占い師)**（ID `E_char_ラズリ(黒紫の占い師)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

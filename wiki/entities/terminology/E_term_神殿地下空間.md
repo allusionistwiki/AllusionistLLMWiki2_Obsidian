@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: そこには広大な空間があった。ドーム状の半球、壁の奥はへこんで収納となっており、防腐処置をした遺体がその中に安置されている。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **神殿地下空間**（ID `E_loc_神殿地下空間` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

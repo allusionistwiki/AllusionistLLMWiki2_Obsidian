@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 巨大な音叉状の武器を持ち、耳当てをしている妙齢の女性。 ｜ 妙齢の女性・巨大な音叉/槍・耳当て ｜ 典拠: [65話](../../nav/ch0065.md)（p2446）
   > その先頭で二叉に分かれた槍――というより巨大な音叉を持った妙齢の女性が、巨大な耳当てを抑えながら集団で呪文を発動させる。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **聖火楽団指揮者**（ID `E_char_聖火楽団指揮者` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 「足りぬな。ズタークスタークとの決戦で失われたあの屍の山にはまだ到底届いておらぬ。武の頂は遥か天の彼方、か。シナモリアキラの名を借りて上積みしても先は長いようだ」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **鬼おに**（ID `E_creature_鬼おに` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

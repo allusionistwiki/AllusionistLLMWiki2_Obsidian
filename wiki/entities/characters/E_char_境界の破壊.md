@@ -25,3 +25,9 @@ created: "2026-09-30"
 > あるべき死を拒絶し、この世に生まれ落ちた者と冥道より再生した者との境界を破壊しよう。燃えさかる白い時間流、生から死へと飛翔する火竜の翼翅を凍らせて、この世の果てに放逐してしまおう。（ch5296）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **境界の破壊**（ID `E_event_境界の破壊` / kind: event / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

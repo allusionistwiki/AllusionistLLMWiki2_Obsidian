@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 光を灯す動作を伴う外見描写 ｜ 目（厳しさと寛容さ）・指（細く長い） ｜ 典拠: [91話](../../nav/ch0091.md)（3420）
   > 厳しさと寛容さを両目に宿して、演劇の魔女は細く長い指先に光を灯して
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヴィヴィ=イヴロス(ヴィヴィ)**（ID `E_char_ヴィヴィ=イヴロス(ヴィヴィ)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

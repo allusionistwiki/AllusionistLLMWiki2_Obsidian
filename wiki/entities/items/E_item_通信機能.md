@@ -29,3 +29,11 @@ created: "2026-09-30"
 - [[A_ch5006_analogous_to_E_ch5006_巻物地図_has_property_通信機能_p9_smartphone_calling_feature|スマホ通話機能の魔術的再現]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **神働装甲** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_神働装甲`。
+
+この名義は L2 名前統合台帳の正規エンティティ **通信機能**（ID `E_item_通信機能` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

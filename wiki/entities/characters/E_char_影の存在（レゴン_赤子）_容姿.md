@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 半透明で小さな赤子の手を持つ存在。 ｜ 半透明の小さな手・赤子の手 ｜ 典拠: [173話](../../nav/ch0173.md)（p5756）
   > それは半透明の小さな手。赤子の手が、ぴたぴたと頬や首に張り付いていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **影** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_影`。
+
+この名義は L2 名前統合台帳の正規エンティティ **影の存在(レゴン/赤子)**（ID `E_char_影の存在(レゴン/赤子)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

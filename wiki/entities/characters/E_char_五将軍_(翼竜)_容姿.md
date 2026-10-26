@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 優美なフォルム。青い光オーラ。 ｜ フォルム・光 ｜ 典拠: [145話](../../nav/ch0145.md)（p4948）
   > 優美なフォルムは神々しさすら感じさせ、清浄なオーラとでも言うべき青い光が広がって地の底から湧き出てくる狂怖の群れを退けてい
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **五将軍(翼竜)**（ID `E_char_五将軍(翼竜)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -29,3 +29,9 @@ updated: '2026-10-19'
 - **unknown**: 扉の呪術は結果だけ見れば空間移動だが、距離を短縮するもの、重なり合う異世界を『近道』として利用するもの、類似を利用して物体同士を交換するものなど原理は様々である。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **扉の呪術**（ID `E_term_扉の呪術` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

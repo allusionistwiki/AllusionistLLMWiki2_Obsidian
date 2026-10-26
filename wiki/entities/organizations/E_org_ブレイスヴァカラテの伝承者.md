@@ -26,3 +26,9 @@ updated: '2026-10-21'
 - **unknown**: 彼らは『サイバーカラテ道場』にアーカイブされた古流武術――ブレイスヴァカラテの伝承者たち。六王たちが第五階層を争乱の渦に巻き込んで以来、破竹の勢いでランキングを駆け上がっている手練れたちだった。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ブレイスヴァカラテの伝承者**（ID `E_org_ブレイスヴァカラテの伝承者` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 丸っこい二頭身、ヴェールで顔を隠す、金眼 ｜ 体型・顔・瞳 ｜ 典拠: [90話](../../nav/ch0090.md)（p3348）
   > 少しだけ丸々とした、デフォルメされた二頭身。ヴェールによって顔が覆い隠されて金眼が控え目に輝く、それは美しくも愛らしい店員さんの姿だった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ちびラズリ(ラズリジャッフハリム)**（ID `E_char_ちびラズリ(ラズリジャッフハリム)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

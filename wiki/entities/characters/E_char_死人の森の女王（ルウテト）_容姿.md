@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 不快な様子から眉根を寄せる ｜ 表情・眉 ｜ 典拠: [119話](../../nav/ch0119.md)（p4169）
   > 片方の眉根を寄せた
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **死人の森の女王(ルウテト)**（ID `E_char_死人の森の女王(ルウテト)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

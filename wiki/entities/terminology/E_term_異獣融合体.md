@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: といっても、異獣を寄せ付けない特性は機能しており、追跡してきた異獣の融合体は『泉』周辺のエリアを一定の距離を置きながらぐるぐると這い回っている。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **異獣融合体**（ID `E_creature_異獣融合体` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

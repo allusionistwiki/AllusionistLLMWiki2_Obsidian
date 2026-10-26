@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 目が血走り、喉を枯らして罵声を吐き出している。 ｜ 目・喉・声 ｜ 典拠: [140話](../../nav/ch0140.md)（p4751）
   > 暴徒と化した観客たちは目を血走らせ、喉も涸れよとばかりに罵声を吐き出している。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **暴徒と化した観客たち**（ID `E_char_暴徒と化した観客たち` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

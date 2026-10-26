@@ -27,3 +27,9 @@ created: "2026-09-30"
 > 老人はアプリで表情を偽装することを好んでいたが、自分が騙される側に回るということを想定しきれていなかった。カーインは錯乱した演技をしつつ密かに瘴気を飛ばしていた。（ch5371）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **老人(吸血鬼**（ID `E_char_老人(吸血鬼` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 砂茶の髪。侍女の服。頭髪飾りはぜんまい。 ｜ 髪・服装・頭 ｜ 典拠: [149話](../../nav/ch0149.md)（5073）
   > 砂茶の髪に侍女の服、頭の髪飾りは人形を動かすぜんまいだった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **女(ミヒトネッセ)**（ID `E_char_女(ミヒトネッセ)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

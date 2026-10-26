@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 植物の枝角を持つ有翼の青鹿 (角が折れている) ｜ 角・翼・体色 ｜ 典拠: [209話](../../nav/ch0209.md)（p7078）
   > 植物の枝角を持った有翼の青鹿。　英雄としての私を旗印にしながらもティリビナ人との共生を願うシンボルが、無惨な姿を晒していた。半ばからへし折れた枝角が意味するのは結束の崩壊に他ならない。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アズ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アズ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **アズーリア(仮想使い魔)**（ID `E_char_アズーリア(仮想使い魔)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 巨漢、小柄な少女、老人など ｜ 体格・服装・年齢・外見 ｜ 典拠: [178話](../../nav/ch0178.md)（p5914）
   > 火工術師のギター兼ボーカルの青年、斧型ベースを担いだ巨漢、竪琴じみた長弓を構えた小柄な少女、地面から姿を現す白と黒の鍵盤が刻まれた影、ドラムセットの中央に座る老人
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ゼドプロデュースのロックバンド**（ID `E_org_ゼドプロデュースのロックバンド` / kind: organization / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

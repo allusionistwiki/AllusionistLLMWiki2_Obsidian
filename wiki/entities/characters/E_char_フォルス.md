@@ -59,3 +59,9 @@ updated: '2026-10-19'
 - **unknown**: 「控えなさい、ネッスス。第五階層の見極めはまだ済んではいません。強引な宣教や改宗の強制は禍根を残します。まず対話から始める必要があり、そのために最も適した人材がアズーリア卿なのですよ」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **フォルス**（ID `E_char_フォルス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

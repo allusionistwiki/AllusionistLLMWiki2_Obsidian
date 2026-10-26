@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: どこからとも無く青く煌めく蝶が飛んできて、翅を畳むとその姿が超現実主義（シュルレアリスム）の絵画のように歪み、卓上に一揃いの茶器が現れた。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **青い蝶**（ID `E_item_青い蝶` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

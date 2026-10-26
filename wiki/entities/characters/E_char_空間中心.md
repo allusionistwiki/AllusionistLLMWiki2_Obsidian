@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 鏡は視点を反射させる。無限に連なる多様な視座の中、個人の立ち位置が無限の中に迷い込む。迷宮化したミラーハウスを構築し、グレンデルヒらは己の立ち位置を見失ってしまう。その隙を狙って空間の中心を奪取。（ch5301）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **空間中心**（ID `E_char_空間中心` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

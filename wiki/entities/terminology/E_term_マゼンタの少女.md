@@ -26,3 +26,9 @@ created: "2026-09-30"
 > 「市場と企業の紀人グレンデルヒ、官庁と国家の紀人トリシューラ、武術流派とネットコミュニティの紀人シナモリアキラ――これらは技術と杖に近い紀人たち。真に純粋な使い魔の紀人は――そうね、学校。そして家族」（ch5319）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **マゼンタの少女**（ID `E_char_マゼンタの少女` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

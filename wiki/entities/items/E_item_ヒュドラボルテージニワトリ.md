@@ -33,3 +33,9 @@ updated: '2026-10-21'
 - **unknown**: 「コアちゃんによると、それは絶対に本来の使い方をしては駄目なんだって。使ったが最後、持ち主の命を燃やし尽くしながら小型の熱核融合炉となり、周囲の全てを焼き尽くす疑似太陽と化す――とかなんとか」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヒュドラボルテージニワトリ**（ID `E_item_ヒュドラボルテージニワトリ` / kind: item / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

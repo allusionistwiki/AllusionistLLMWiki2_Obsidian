@@ -31,3 +31,11 @@ created: "2026-09-30"
 - [[A_ch5569_inverts_E_ch5569_サンブル家幻像_defines_結婚の目的_p293_子作り・生殖義務|愛を生殖義務へ転倒させる家父長制]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **サンブル家** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_サンブル家`。
+
+この名義は L2 名前統合台帳の正規エンティティ **サンブル家(幻像**（ID `E_org_サンブル家(幻像` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

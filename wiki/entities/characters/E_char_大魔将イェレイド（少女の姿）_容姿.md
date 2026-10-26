@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 陰鬱で華美な少女 ｜ 少女 ｜ 典拠: [195話](../../nav/ch0195.md)（p6556）
   > 何もかもが陰鬱な方向に華美な少女だった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **大魔将イェレイド**（ID `E_char_大魔将イェレイド` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

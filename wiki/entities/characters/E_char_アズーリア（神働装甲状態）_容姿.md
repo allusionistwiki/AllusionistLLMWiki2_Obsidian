@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 黒と青の全身鎧、鹿の角飾り、手斧 ｜ 装甲（黒・青）・頭部飾り（鹿の角）・武器（手斧） ｜ 典拠: [177話](../../nav/ch0177.md)（p5888）
   > 黒と青を基調とした全身鎧、頭部を雄々しく飾る鹿の角飾り、右手には厚みのない手斧
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アズ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アズ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **アズーリア(神働装甲状態)**（ID `E_char_アズーリア(神働装甲状態)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

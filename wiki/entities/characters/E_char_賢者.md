@@ -36,3 +36,9 @@ updated: '2026-10-19'
 - **unknown**: 世界を愛する歌が聞こえる。輝く黄金のような美しい魂の歌が。世界を憎む怨嗟が聞こえる。割れた鏡のような醜い心の呪いが。それはこの世界には在らざる異物の呼び声だ。
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **賢者**（ID `E_char_賢者` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

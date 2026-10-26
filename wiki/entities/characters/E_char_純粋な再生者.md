@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 『死人の森』の王子にして純粋な――つまり『元々の種族』を持たない再生者とは、女王につき従う刃のごとき男、クレイのことだ。（ch0167）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **純粋な再生者**（ID `E_term_純粋な再生者` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

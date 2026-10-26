@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 黒い長衣で全身を覆っている。霊長類体型 ｜ 服装・体格 ｜ 典拠: [69話](../../nav/ch0069.md)（p2576）
   > 黒い長衣で全身を覆った老女は、典型的なマロゾロンド信者の霊長類に見えた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **老女(人狼)**（ID `E_creature_老女(人狼)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

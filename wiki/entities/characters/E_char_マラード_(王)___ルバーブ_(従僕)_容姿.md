@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - マラードは長い髪、ルバーブは丸い体躯。 ｜ 髪・体躯 ｜ 典拠: [145話](../../nav/ch0145.md)（p4937）
   > 長い髪の王と丸い体躯の従僕。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **マラード(王)/ルバーブ(従僕)**（ID `E_rel_マラード(王)/ルバーブ(従僕)` / kind: relationship / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

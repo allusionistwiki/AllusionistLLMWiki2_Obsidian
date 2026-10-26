@@ -25,3 +25,11 @@ created: "2026-09-30"
 > それでも、残酷な火竜の秩序を、何もかもが悲劇で終わってしまう世界の終わりを、定められた最果てを認めないと抗い続ける。（ch5296）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **火竜** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_火竜`。
+
+この名義は L2 名前統合台帳の正規エンティティ **火竜の秩序**（ID `E_char_火竜の秩序` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

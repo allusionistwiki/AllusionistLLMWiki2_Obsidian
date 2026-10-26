@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 黒衣を纏い、皆一様に同じ顔をしている。 ｜ 服装：黒衣・顔立ち：同一の顔 ｜ 典拠: [112話](../../nav/ch0112.md)（3945）
   > 黒衣を纏ったそれらは、皆一様に同じ顔をしていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **カーティス(過去の分身たち)**（ID `E_creature_カーティス(過去の分身たち)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

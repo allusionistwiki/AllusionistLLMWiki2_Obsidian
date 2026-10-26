@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 巨大なハエであり、毒や瘴気を含む毒と脈動する隆起を備える姿で描写される。 ｜ 巨大・ハエ・羽音 ｜ 典拠: [207話](../../nav/ch0207.md)（p6935）
   > 殺到する獰猛な呪的生物たち。だがどうしたことか、誘われるようにキノコに殺到した虫たちの羽音は唐突に途切れてしまう。ふらふらと落下して、無数の巨大ハエたちはことごとく絶命していった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **巨大ハエ(使い魔)**（ID `E_creature_巨大ハエ(使い魔)` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

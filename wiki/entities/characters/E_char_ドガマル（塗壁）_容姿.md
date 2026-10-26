@@ -39,3 +39,11 @@ description: キャラ容姿描写ページ
 - 眉間にしわを寄せる ｜ 顔立ち・眉間 ｜ 典拠: [226話](../../nav/ch0226.md)（p7475）
   > 眉間にしわを寄せ、青白い照明を凝視する。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **ドガマル** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_term_ドガマル`。
+
+この名義は L2 名前統合台帳の正規エンティティ **ドガマル(塗壁)**（ID `E_char_ドガマル(塗壁)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

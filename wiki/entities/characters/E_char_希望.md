@@ -25,3 +25,9 @@ created: "2026-09-30"
 > わずかに少女の瞳が震えた。恐れるように、感情の振幅を押し殺すように。希望。それが実在するかもしれないという未来から目を背け、怯えて縮こまる。（ch5542）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **希望**（ID `E_motif_希望` / kind: motif / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

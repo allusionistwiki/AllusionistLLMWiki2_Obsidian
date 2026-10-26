@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 薄く微笑む ｜ 表情 ｜ 典拠: [191話](../../nav/ch0191.md)（p6307）
   > レナリアは俺の言葉を受けて薄く微笑むと、小刻みに痙攣して暴れ出そうとする右腕を軽く押さえて言った
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **レナリア**（ID `E_char_レナリア` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

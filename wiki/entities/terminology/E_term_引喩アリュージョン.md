@@ -24,3 +24,9 @@ updated: '2026-10-21'
 - **unknown**: 「引喩（アリュージョン）。呪文は森に阻害されない程度のシンプルさで。誰もが知ってる前提を利用して、高速で意味と文脈を引っ張って対抗できるだけの呪力を用意する」
 
 <!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **引喩(アリュージョン**（ID `E_term_引喩(アリュージョン` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

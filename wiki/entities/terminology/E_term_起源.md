@@ -25,3 +25,9 @@ created: "2026-09-30"
 > 選定レースの起源とされているこの呪術儀式は苛烈を極め、死出の旅路に等しい難業を達成できたのはたったの四人。（ch0262）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **起源**（ID `E_term_起源` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 口から長く伸びた上顎犬歯 ｜ 歯 ｜ 典拠: [82話](../../nav/ch0082.md)（p3003）
   > 特徴的なのは、その口から長く伸びた上顎犬歯。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **吸血鬼(ドラトリア系夜の民)**（ID `E_creature_吸血鬼(ドラトリア系夜の民)` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

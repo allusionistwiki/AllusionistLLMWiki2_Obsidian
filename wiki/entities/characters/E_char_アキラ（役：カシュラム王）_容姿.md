@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 腕が獣のようになる。 ｜ 腕 ｜ 典拠: [115話](../../nav/ch0115.md)（p4027）
   > 本物さながらの演技は現実を改変する。アキラの腕が獣となって力士の生体装甲を食い破り、唸るような咆哮が衝撃波となって力士の体内に伝わっていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラ(役:カシュラム王)**（ID `E_char_アキラ(役:カシュラム王)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

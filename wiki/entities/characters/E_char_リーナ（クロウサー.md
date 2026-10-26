@@ -30,3 +30,11 @@ created: "2026-09-30"
 > 「人に自由意思など無い。あれらは神の奴隷。地を這う虫けらよ。地上の地虫どもを見よ。絶対的な権威に頭を垂れる事しか知らぬ。己の意思で立っているように見えて、その実態は英雄や偶像という高みに縋り付くばかりの塵芥でしかない」（ch5228）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **リーナ(意識**、**リーナ意識**。
+
+この名義は L2 名前統合台帳の正規エンティティ **リーナ(クロウサー**（ID `E_char_リーナ(クロウサー` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

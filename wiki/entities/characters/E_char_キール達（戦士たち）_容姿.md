@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 六人とも揃いの全身鎧に身を包んでいる。 ｜ 服装 ｜ 典拠: [1話](../../nav/ch0001.md)（p22）
   > 全身を鎧で固めているのにも関わらず、大量の血を流している。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **キール達(戦士たち)**（ID `E_char_キール達(戦士たち)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

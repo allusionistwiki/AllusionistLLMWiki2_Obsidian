@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 制服の胸と肩にコウモリ羽の徽章がある。 ｜ 徽章（コウモリの羽に似たもの）・位置（胸元と肩） ｜ 典拠: [175話](../../nav/ch0175.md)（p5831）
   > 服の胸元と肩にはドラトリアの連邦捜査局を示すコウモリの羽に似た徽章が取り付けられていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **連邦捜査局員**（ID `E_char_連邦捜査局員` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

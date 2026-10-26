@@ -24,3 +24,9 @@ updated: '2026-10-21'
 - **unknown**: いい年こいた大人たちが四つん這いになって鼻を鳴らし、ダンスミュージックに合わせて頭を振りまくる。天井には小さな鏡を球形に貼り付けたディスコボール、色つきの照明が床を極彩色に染め上げていた。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **再生者たち**（ID `E_creature_再生者たち` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

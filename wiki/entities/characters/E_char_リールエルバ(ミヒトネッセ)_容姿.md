@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - 三角形の腰と球体関節を持ち、金属音が鳴る身体構造。 ｜ 腰:三角形・関節:球体関節・音:カタカタ/カチカチ(金属音) ｜ 典拠: [174話](../../nav/ch0174.md)（p5782）
   > 持ち上げられた布の奥深く、球体関節の特徴が目立つ三角形の腰――両足の付け根でカタカタ、カチカチと小気味よく音が鳴る。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **リールエルバ(ミヒトネッセ)**（ID `E_char_リールエルバ(ミヒトネッセ)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

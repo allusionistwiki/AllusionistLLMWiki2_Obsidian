@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 少年期は目隠し。王は紫衣。老人は白髪。 ｜ 視覚補助具・服装・髪 ｜ 典拠: [217話](../../nav/ch0217.md)（7253）
   > 目隠しをした少年が時のうつろいと共に紫衣を纏った王へと成長し、最後には白髪の老人となって朽ち果て、また幼き日へと生まれ変わっていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **オルヴァ・スマダルツォン** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_オルヴァ・スマダルツォン`。
+
+この名義は L2 名前統合台帳の正規エンティティ **オルヴァスマダルツォン(時の巡りによる変容)**（ID `E_char_オルヴァスマダルツォン(時の巡りによる変容)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

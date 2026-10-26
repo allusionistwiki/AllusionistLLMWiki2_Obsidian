@@ -23,3 +23,11 @@ updated: '2026-10-21'
 - **unknown**: 「ちょっとアキ、プレッシャー感じ過ぎ」「ねえ外注しない？ ライブとか下請けで良くない？」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **同期** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_term_同期`。
+
+この名義は L2 名前統合台帳の正規エンティティ **同期の子**（ID `E_char_同期の子` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

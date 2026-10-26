@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - メイファーラと瓜二つの顔と体格をする女性。片方だけの髪の房がある。 ｜ 顔・体格・髪 ｜ 典拠: [70話](../../nav/ch0070.md)（p2589）
   > 瓜二つの顔、体格をした女性の片方だけの髪の房
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アストラル体(ユディーア/シャルマキヒュの霊媒)**（ID `E_creature_アストラル体(ユディーア/シャルマキヒュの霊媒)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

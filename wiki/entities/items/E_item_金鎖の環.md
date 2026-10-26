@@ -29,3 +29,11 @@ created: "2026-09-30"
 - [[A_ch5019_analogous_to_E_ch5019_カイン私_breaks_金鎖の環_p17_limit_break_system|金鎖破壊による限界突破演出]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **フィリス** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_フィリス`。
+
+この名義は L2 名前統合台帳の正規エンティティ **金鎖の環**（ID `E_item_金鎖の環` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

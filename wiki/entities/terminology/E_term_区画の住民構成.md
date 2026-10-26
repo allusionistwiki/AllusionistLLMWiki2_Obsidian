@@ -23,3 +23,11 @@ updated: '2026-10-21'
 - **unknown**: それだけではない。他の区画に比べると、上の人種だと肌の色が赤褐色だったり黄褐色だったりする比率が高く、下の種族だと昆虫系や植物系、矮小複眼人などの戦闘能力が低めとされる者らが多い傾向にある。
 
 <!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **区画** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_term_区画`。
+
+この名義は L2 名前統合台帳の正規エンティティ **区画の住民構成**（ID `E_term_区画の住民構成` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

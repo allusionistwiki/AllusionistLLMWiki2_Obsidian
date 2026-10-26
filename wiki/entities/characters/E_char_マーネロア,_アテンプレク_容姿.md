@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - マーネロアは金毛の猿人。アテンプレクは曲がり牙の猪人。 ｜ 髪・牙・種族 ｜ 典拠: [246話](../../nav/ch0246.md)（p7998）
   > 先に発言したのは金毛の猿人。隣にいた曲がり牙の猪人がそれに応じて呟いた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は実体判定**要検証**（台帳 v3 で保留）です。
+
+この名義は L2 名前統合台帳の正規エンティティ **マーネロア,アテンプレク**（ID `E_char_マーネロア,アテンプレク` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

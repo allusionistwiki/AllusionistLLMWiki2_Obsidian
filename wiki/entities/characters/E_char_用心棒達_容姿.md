@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 屈強な肉体を露出、ラバーマスクとボールギャグを着用 ｜ 体格・服装・顔・表情 ｜ 典拠: [18話](../../nav/ch0018.md)（p787）
   > 屈強な肉体を全て露わにし、頭部をラバーマスクで覆い隠してボールギャグを口に咥えているという変態的な格好だ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **用心棒達**（ID `E_char_用心棒達` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

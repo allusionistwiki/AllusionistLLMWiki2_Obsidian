@@ -25,3 +25,9 @@ created: "2026-09-30"
 > かの王は『大勢』なるもの。漠然とした『多さ』のイメージは正確な数を定義させず、十分な戦力の用意を許さない。（ch0147）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **大勢**（ID `E_creature_大勢` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

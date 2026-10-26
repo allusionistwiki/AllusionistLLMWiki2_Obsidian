@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 微かな女の姿。 ｜ 姿(女) ｜ 典拠: [250話](../../nav/ch0250.md)（p8073）
   > ならば、あの微かな女の姿はビルメーヤの霊魂なのだろうか？
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ビルメーヤ(霊/ゴースト)**（ID `E_creature_ビルメーヤ(霊/ゴースト)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

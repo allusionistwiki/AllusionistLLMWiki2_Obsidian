@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 透明な氷の棺（氷筍）の中で眠り、血のような赤に染まった姿をしている。 ｜ 体色・状態 ｜ 典拠: [212話](../../nav/ch0212.md)（p7196）
   > まるで透明な容器。この中に、サリアの大切な人が眠っている。 ただし、血のような赤に染まった姿で。 赤いコルセスカ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **コルセスカ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_コルセスカ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **コルセスカ(氷筍内)**（ID `E_char_コルセスカ(氷筍内)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

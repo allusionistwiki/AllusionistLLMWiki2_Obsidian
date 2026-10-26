@@ -25,3 +25,9 @@ created: "2026-09-30"
 > キノコに寄生された巨大害虫を拳で粉砕しながら大柄な修道騎士が叫んだ。聞くに堪えない罵声を吐き出しながら動く死体を踏みつける。素手で怪物を殴り殺す巨漢の背後で、呪力噴射で飛行する神働装甲が低空の脅威を迎撃していた。（ch5490）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **大柄な修道騎士**（ID `E_char_大柄な修道騎士` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

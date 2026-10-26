@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 角を埋め込み。軍服。血の気なし。虚ろな目 ｜ 頭部・服装・顔色・瞳 ｜ 典拠: [154話](../../nav/ch0154.md)（p5254）
   > 頭部に『鬼』と同じような『角』を埋め込まれた男たちが続々と集い、カーインを取り囲んだ。皆揃いの軍服を着用しており、『鬼』以外は顔に血の気が無く、目は虚ろだった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **死体使い魔**（ID `E_term_死体使い魔` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

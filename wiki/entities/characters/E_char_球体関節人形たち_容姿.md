@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 衣服を着ていない球体関節機構を持つ人形。 ｜ 裸・球体関節 ｜ 典拠: [108話](../../nav/ch0108.md)（p3811）
   > 裸の球体関節人形が立ったり座ったりと様々な姿勢で置いてあるのがわかる。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **球体関節人形たち**（ID `E_creature_球体関節人形たち` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

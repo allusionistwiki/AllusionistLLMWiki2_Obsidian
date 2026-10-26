@@ -25,3 +25,11 @@ created: "2026-09-30"
 > 「違いますよ。話を作らないで下さい。呪文使いが過去を捏造して嘘を並べ立てるのが仕事ってことはわかりますけどね。でも余りに現実感が無い虚構は時に人を不快にさせますよ。だって、そんなあり得ない話は信じられません。あの男は最低のクズです。無能だし（ch5156）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **父** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_父`。
+
+この名義は L2 名前統合台帳の正規エンティティ **父の立派さ**（ID `E_char_父の立派さ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

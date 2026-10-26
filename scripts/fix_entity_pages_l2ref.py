@@ -75,10 +75,10 @@ def main():
             children = e.get("children", [])
             lines = []
             if parent:
-                p = byid.get(parent["id"])
-                if p:
-                    lines.append('この名義は **%s** に付随する属性・側面（relation: %s）として統合されています。親実体: [[%s|%s]]。'
-                                 % (p["canonical"], parent.get("relation", "aspect"), p["id"], p["canonical"]))
+                pe = byid.get(parent["id"])
+                if pe:
+                    lines.append('この名義は **%s** に付随する属性・側面（relation: %s）として統合されています。親実体 ID: `%s`。'
+                                 % (pe["canonical"], parent.get("relation", "aspect"), pe["id"]))
             if status == "generic":
                 lines.append('この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。')
             if status == "needs":

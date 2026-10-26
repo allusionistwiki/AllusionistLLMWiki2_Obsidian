@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 柔らかく甘く不気味な声音。 ｜ 声 ｜ 典拠: [81話](../../nav/ch0081.md)（p2970）
   > 左側から響くのは女性の声。柔らかく甘く、けれど聞く者の心胆を寒からしめる呪いのような音。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は実体判定**要検証**（台帳 v3 で保留）です。
+
+この名義は L2 名前統合台帳の正規エンティティ **女性(左側の人物)**（ID `E_char_女性(左側の人物)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

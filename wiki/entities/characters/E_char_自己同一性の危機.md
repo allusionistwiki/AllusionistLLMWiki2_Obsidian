@@ -29,3 +29,11 @@ created: "2026-09-30"
 - A_ch0076_parodies_E_ch0076_アズーリア_thinks_自己同一性の危機_p2854_異世界転生におけるチート能力の希少性（転生チートの希少性）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **自己同一性** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_term_自己同一性`。
+
+この名義は L2 名前統合台帳の正規エンティティ **自己同一性の危機**（ID `E_char_自己同一性の危機` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

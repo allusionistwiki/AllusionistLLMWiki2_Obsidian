@@ -29,3 +29,11 @@ description: キャラ容姿描写ページ
 - はきはきとした長広舌 ｜ 声 ｜ 典拠: [104話](../../nav/ch0104.md)（3725）
   > レオのはきはきとした長広舌に、さしものグレンデルヒも介入の隙を見つけられずに顔を顰める。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **レオ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_レオ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **レオ(ヴァージル役)**（ID `E_char_レオ(ヴァージル役)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

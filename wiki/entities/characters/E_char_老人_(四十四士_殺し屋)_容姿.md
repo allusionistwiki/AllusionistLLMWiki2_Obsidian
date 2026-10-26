@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 煙草 ｜ 小道具 ｜ 典拠: [150話](../../nav/ch0150.md)（p5101）
   > 老人もまた立ち上がり、煙草を灰皿に押し付ける。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **老人(吸血鬼**（ID `E_char_老人(吸血鬼` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

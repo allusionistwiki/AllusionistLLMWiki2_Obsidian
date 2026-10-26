@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 目が空洞化し、黒い雫（涙）が滴り落ちる。 ｜ 空洞・黒い雫 ｜ 典拠: [207話](../../nav/ch0207.md)（p6940）
   > 横たえられた異獣の目とおぼしき空洞から、黒い雫が滴り落ちていった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **キノコ人(死体)**（ID `E_creature_キノコ人(死体)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

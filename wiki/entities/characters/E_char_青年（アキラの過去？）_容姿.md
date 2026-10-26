@@ -31,3 +31,11 @@ description: キャラ容姿描写ページ
 - 片腕が無い ｜ 腕 ｜ 典拠: [160話](../../nav/ch0160.md)（p5450）
   > 青年には片腕が無かった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アキラ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アキラ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **青年(アキラの過去?)**（ID `E_char_青年(アキラの過去?)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

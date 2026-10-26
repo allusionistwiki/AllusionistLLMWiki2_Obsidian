@@ -29,3 +29,11 @@ description: キャラ容姿描写ページ
 - 自らの姿を模した粘土細工の描写から、人間型（ヒトガタ）の形状であることが推定される。 ｜ 小さなヒトガタ ｜ 典拠: [260話](../../nav/ch0260.md)（p8288）
   > 形作ろうとしているのは、二人と同じような小さなヒトガタ。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は実体判定**要検証**（台帳 v3 で保留）です。
+
+この名義は L2 名前統合台帳の正規エンティティ **ちびシューラ,ちびアキラ**（ID `E_char_ちびシューラ,ちびアキラ` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

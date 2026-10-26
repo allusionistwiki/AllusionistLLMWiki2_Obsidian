@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 肉が付いているのは片方の頬のみ。表情として頬を膨らませる描写。 ｜ 頬・顔 ｜ 典拠: [248話](../../nav/ch0248.md)（p8037）
   > その裏の悪意を平然と無視して本題に切り込む。普段と同じつれない態度が不満だと主張するかのように肉のある片方だけの頬をぷくっと膨らませる女。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ルウテト=ディスペータ**（ID `E_char_ルウテト=ディスペータ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

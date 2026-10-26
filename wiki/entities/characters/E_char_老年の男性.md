@@ -29,3 +29,9 @@ created: "2026-09-30"
 - [[A_ch5314_alludes_to_E_ch5314_銀天使_appears_老年の男性_p8_老人医療／介護用品おむつ・よだれかけ|老幼境界消去の象徴]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **老年の男性**（ID `E_char_老年の男性` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

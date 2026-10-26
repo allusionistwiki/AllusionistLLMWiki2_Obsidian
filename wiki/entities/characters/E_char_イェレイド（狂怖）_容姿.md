@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 華美で歪な衣装を纏い、スカートの下から牙、触手、節足が生えている。 ｜ 衣装・牙・触手・節足 ｜ 典拠: [144話](../../nav/ch0144.md)（p4909）
   > 華美で歪な衣装を身に纏い、スカートの下から無数の牙と触手と節足を乱雑に生やした悪夢の具現。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **イェレイド(狂怖)**（ID `E_char_イェレイド(狂怖)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

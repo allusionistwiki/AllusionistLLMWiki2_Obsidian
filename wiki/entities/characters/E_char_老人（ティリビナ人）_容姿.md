@@ -29,3 +29,11 @@ description: キャラ容姿描写ページ
 - 嗄れた弱々しい声、恐怖と悲しみの瞳、震える手 ｜ 声・瞳・手 ｜ 典拠: [142話](../../nav/ch0142.md)（p4839）
   > 老人の嗄れた声は弱々しく、その瞳には恐怖と悲しみが浮かんでいた。手は震え、目の前の女性を前に逃げ出したくなる気持ちを抑えながら、
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **老人(ティリビナ人)**（ID `E_char_老人(ティリビナ人)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

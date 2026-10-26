@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 獅子王としての象徴的外見（方舟・猫との関連） ｜ 獅子王・方舟・猫の叡智 ｜ 典拠: [147話](../../nav/ch0147.md)（p5029）
   > 王子は流れ着いた方舟に触れ、猫の叡智を授かることで獅子王となった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **オルヴァ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_オルヴァ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **オルヴァ(過去/象徴)**（ID `E_char_オルヴァ(過去/象徴)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

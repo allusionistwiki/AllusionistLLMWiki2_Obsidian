@@ -18,11 +18,13 @@ L1（機械抽出）の名義ゆらぎを統合した**正規化エンティテ�
 
 | 項目 | 値 |
 |---|---|
-| 台帳エンティティ数 | 14481 |
-| 統合名義数（aliases 追加） | 415 |
-| 複数名義を持つ実体 | 258 |
-| 統合確度内訳 | 明言 222 / 蓋然性高 31 / 要検証 5 |
-| kind 内訳 | 用語 6182 / アイテム 3522 / キャラクター 2783 / 組織 731 / 場所 571 / モティーフ 271 / フレーズ 105 / 生物 85 / 事件 69 / 関係 58 / skill 11 / spell 8 / action 8 / ability 7 / race 6 / group 5 / magic 4 / celestial_body 4 / ritual 4 / concept 4 / place 4 / app 3 / emotion 3 / phantom 3 / character_class 2 / system 2 / role 2 / rule 2 / technology 2 / phenomenon 2 / plan 2 / deity 1 / software 1 / spell_effect 1 / event_context 1 / game 1 / part 1 / brand 1 / character_ability 1 / technique 1 / clothing 1 / structure 1 / unknown 1 / building 1 / institution 1 / strategy 1 / effect 1 |
+| 台帳エンティティ数 | 17265 |
+| 統合名義数（aliases 追加） | 690 |
+| 複数名義を持つ実体 | 328 |
+| 統合確度内訳 | 明言 253 / 蓋然性高 64 / 要検証 11 |
+| kind 内訳 | 用語 6532 / キャラクター 4164 / アイテム 3751 / 組織 916 / 場所 639 / モティーフ 325 / 生物 250 /  239 / 関係 123 / フレーズ 115 / 事件 107 / skill 11 / spell 8 / action 8 / ability 7 / race 6 / group 5 / magic 4 / celestial_body 4 / ritual 4 / concept 4 / place 4 / app 3 / emotion 3 / phantom 3 / character_class 2 / system 2 / role 2 / rule 2 / technology 2 / phenomenon 2 / plan 2 / deity 1 / software 1 / spell_effect 1 / event_context 1 / game 1 / part 1 / brand 1 / character_ability 1 / technique 1 / clothing 1 / structure 1 / unknown 1 / building 1 / institution 1 / strategy 1 / effect 1 |
+| 実体判定 v3（付随/一般名詞/保留） | 392 / 846 / 38 |
+| 親子構造 | 親 159 実体・子 392 件 |
 
 ## 見方
 

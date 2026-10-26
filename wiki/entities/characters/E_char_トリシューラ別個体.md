@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 頭上の巡槍艦から降ってきた『もう一人のトリシューラ』が、その手に『現在の俺』の思考を司る頭部を持って、頭部を失った俺の首に勢いよく差し込んだのだ。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **トリシューラ別個体**（ID `E_char_トリシューラ別個体` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

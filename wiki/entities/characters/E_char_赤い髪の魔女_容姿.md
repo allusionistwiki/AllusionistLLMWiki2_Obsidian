@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - （容姿描写なし） ｜ 典拠: [3話](../../nav/ch0003.md)（p182）
   > 「理性は失われた。文明は失われた。進歩は失われた。奪え、殺せ、勝ち取れ。野蛮へと絶え間なく後退し、停滞し続けることを人類は選択した」
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **赤い髪の魔女**（ID `E_char_赤い髪の魔女` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -30,3 +30,9 @@ created: "2026-09-30"
 > 強烈な打撃をまともに受けた女は吹き飛ばされてから数度バウンドして倒れ、即座にはね起きた。骨と内臓を破壊した感触があったが、女は平然としている。意識や生命の気配を感じない。人形の類なのだろう（ch5541）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ユディーア(偽**（ID `E_char_ユディーア(偽` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

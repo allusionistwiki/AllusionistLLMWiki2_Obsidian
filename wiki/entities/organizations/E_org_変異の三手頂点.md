@@ -23,3 +23,9 @@ updated: '2026-10-21'
 - **unknown**: 今まで姿を見せなかった【変異の三手】の頂点は、想像すらしていなかった場所に潜み続けていた。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **変異の三手頂点**（ID `E_org_変異の三手頂点` / kind: organization / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

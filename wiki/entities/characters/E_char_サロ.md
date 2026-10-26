@@ -35,3 +35,9 @@ updated: '2026-10-19'
 - **unknown**: 博物城では浮いていたユディーアの父にとっての数少ない友人であり、幼いキニスに対しても良くしてくれた記憶がある。　奇人変人危険人物を各種取り揃えた博物城の中で数少ない良識と常識を兼ね備えた真人間だ。
 
 <!-- /AUTO-GENERATED:relationship -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **サロ**（ID `E_char_サロ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

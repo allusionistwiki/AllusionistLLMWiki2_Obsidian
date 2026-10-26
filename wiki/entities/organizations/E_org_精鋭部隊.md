@@ -25,3 +25,11 @@ created: "2026-09-30"
 > 辺りに横たわるのは軍服の屍兵たち。 文字通りの死屍累々。辺りに蔓延する高濃度の瘴気によって強制的に機能を停止させられている。操っていた『鬼』が致命傷を受けた今、意思無き使い魔たちが再び蘇ることは無いだろう。アルセミットという国が誇る精鋭部隊（ch5380）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **精鋭部隊**（ID `E_org_精鋭部隊` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

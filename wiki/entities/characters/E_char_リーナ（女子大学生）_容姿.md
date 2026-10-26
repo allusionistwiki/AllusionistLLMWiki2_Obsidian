@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - 黒い三角帽子、派手な顔立ち、鳶色の瞳、明るい黄の髪。 ｜ 帽子・顔立ち・瞳・髪 ｜ 典拠: [33話](../../nav/ch0033.md)（p1348）
   > 黒い三角帽子、派手めの顔立ち。悩みとは無縁そうなくりくりとした鳶色の瞳に、鮮やかな明るい黄の髪色。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **リーナ(意識**、**リーナ意識**。
+
+この名義は L2 名前統合台帳の正規エンティティ **リーナ(クロウサー**（ID `E_char_リーナ(クロウサー` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

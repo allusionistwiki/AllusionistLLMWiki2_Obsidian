@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 姿かたちを変容させる。 ｜ 体格 ｜ 典拠: [149話](../../nav/ch0149.md)（5070）
   > その男は絶え間なく姿かたちを変容させ続けていた。潜入工作に特化した性質――変身者。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **工作員の男**（ID `E_char_工作員の男` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

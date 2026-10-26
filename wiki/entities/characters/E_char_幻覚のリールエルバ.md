@@ -42,3 +42,9 @@ updated: '2026-10-19'
 - **unknown**: 「馬鹿みたい。ようやく解放されたのに、また囚われにいくというの？ いい加減に認めなさいな。ドラトリアは私たちの牢獄だった。あの暗い暗い奈落の玉座は、私の生涯を閉ざす檻なのよ。生まれた時から攫われていた。また誘拐されにいくの？ 自分から、進んで？ くっだらないわぁ！」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **幻覚のリールエルバ**（ID `E_char_幻覚のリールエルバ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

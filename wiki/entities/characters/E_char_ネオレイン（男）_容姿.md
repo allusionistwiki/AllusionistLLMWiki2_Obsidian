@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - スーツ、柄シャツ、ベルト、パーマのマッシュヘア ｜ 服装・髪 ｜ 典拠: [255話](../../nav/ch0255.md)（p8185）
   > 黒いスーツに柄物のシャツ、派手なベルト、パーマをかけたマッシュヘア。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ネオレイン(男)**（ID `E_char_ネオレイン(男)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

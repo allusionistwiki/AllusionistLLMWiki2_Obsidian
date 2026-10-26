@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 腕に呪文を巻き付けている ｜ 腕・所持品 ｜ 典拠: [218話](../../nav/ch0218.md)（p7282）
   > その腕に巻き付けているのは待機状態の滅びの呪文。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **暗殺者(夜の民)**（ID `E_char_暗殺者(夜の民)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

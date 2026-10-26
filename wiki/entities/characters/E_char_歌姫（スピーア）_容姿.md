@@ -31,3 +31,9 @@ description: キャラ容姿描写ページ
 - 全身を覆う平面的なシルエットと、色のない光が周囲に躍る影のエフェクトに包まれている。 ｜ 全身・視覚効果 ｜ 典拠: [25話](../../nav/ch0025.md)（p1156）
   > その周囲で、色のない光が躍る。歌姫の全身を覆うようにして広がる、平面的なシルエット。空中に投影された影のエフェクトは、呪術による演出だろう。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **歌姫(スピーア)**（ID `E_char_歌姫(スピーア)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 灰色の瞳、穏やかな笑み ｜ 瞳・・・表・情 ｜ 典拠: [83話](../../nav/ch0083.md)（p3075）
   > 灰色の瞳が、暗い愉悦と情欲に濡れていく。 魔女のように。女王のように。獣のように。 嗜虐と加虐と赦しと愛に染め上げられた、穏やかな笑みを浮かべて。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ママ**（ID `E_char_ママ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

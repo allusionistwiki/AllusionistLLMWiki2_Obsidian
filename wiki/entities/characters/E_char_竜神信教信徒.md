@@ -29,3 +29,9 @@ created: "2026-09-30"
 - A_ch0042_inverts_E_ch0042_ソルダ_other_竜神信教信徒_p1809_Colonial_Administration（植民地行政的なラベル付け）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **竜神信教信徒**（ID `E_org_竜神信教信徒` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

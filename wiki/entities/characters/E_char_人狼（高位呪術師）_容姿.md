@@ -39,3 +39,9 @@ description: キャラ容姿描写ページ
 - 唇の動作。 ｜ 唇 ｜ 典拠: [3話](../../nav/ch0003.md)（p180）
   > 左腕を挟んで、意識のない相手を見つめる。ややあって、唇が主無き掌の上に重ねられた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **人狼(高位呪術師)**（ID `E_char_人狼(高位呪術師)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

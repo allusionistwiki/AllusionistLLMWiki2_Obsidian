@@ -31,3 +31,11 @@ description: キャラ容姿描写ページ
 - 上半身は蛙、膨れた腹、指の間の湿ったヒレ、口から泡を出す ｜ 体型・手/ヒレ ｜ 典拠: [82話](../../nav/ch0082.md)（p3027）
   > 霊長類を始めとした人類種族のように直立二足歩行しているが、上半身はまるきり蛙そのものだ。膨れあがった腹と指の間のヒレはぬらぬらと湿り、口からは泡が溢れては立ち上り、次々と弾けて消えていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **ロドウィ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_ロドウィ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **ロドウィ(変身後)**（ID `E_char_ロドウィ(変身後)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

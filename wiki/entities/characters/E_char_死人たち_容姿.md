@@ -31,3 +31,11 @@ description: キャラ容姿描写ページ
 - 白骨化し腐乱した頭部や肉体を持つ死体。 ｜ 手部・頭部・肉体 ｜ 典拠: [95話](../../nav/ch0095.md)（p3491）
   > 白骨化した手、腐乱した頭部、命の絶えた屍の肉体であった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **死人たち**（ID `E_char_死人たち` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

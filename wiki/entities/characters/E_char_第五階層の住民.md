@@ -29,3 +29,9 @@ created: "2026-09-30"
 - [[A_ch5367_alludes_to_E_ch5367_大入道_kills_第五階層の住民_p9195_biblical_flood|ネフィリムとノアの洪水の暗喩]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **第五階層の住民**（ID `E_org_第五階層の住民` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

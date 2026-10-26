@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 男性。呪術医。「らしい」と推定されているため容姿は不明確。 ｜ 性別・地位/職業 ｜ 典拠: [210話](../../nav/ch0210.md)（p7091）
   > クロウサー家の呪術医らしい男性が請け負ってくれる。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **クロウサー家の呪術医**（ID `E_char_クロウサー家の呪術医` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

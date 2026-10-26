@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - ユディーアより背が低く、強そうな外見ではない ｜ 身長 ｜ 典拠: [218話](../../nav/ch0218.md)（p7282）
   > ユディーアよりも背の低い少女は一見して強そうには見えない。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **マルガリータジャッフハリム**（ID `E_char_マルガリータジャッフハリム` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

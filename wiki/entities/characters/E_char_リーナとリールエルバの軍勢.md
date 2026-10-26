@@ -24,3 +24,9 @@ updated: '2026-10-21'
 - **unknown**: 時の尖塔の中央入り口付近で、修道騎士や自動鎧たちを片端から薙ぎ倒しながら今まさに侵入を果たそうとしているガルズ、マリー、そしてエスフェイル。
 
 <!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **リーナとリールエルバの軍勢**（ID `E_org_リーナとリールエルバの軍勢` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

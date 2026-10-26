@@ -26,3 +26,9 @@ created: "2026-09-30"
 > 魔将と同格に思われた二頭犬は片方の顔面を押し潰されて吹き飛んだ。 すかさず叩き込まれたナトの攻撃端末がもう片方の頭部を貫通。 二人の活躍により強敵は倒された。巨大な猛犬の肉体は細かい光の粒子となって消えていく。（ch5491）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **二頭犬**（ID `E_creature_二頭犬` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

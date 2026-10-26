@@ -27,3 +27,11 @@ description: キャラ容姿描写ページ
 - コルセスカは巨大な目、アキラは片腕がない（隻腕）。 ｜ 目・腕 ｜ 典拠: [5話](../../nav/ch0005.md)（p237）
   > 巨大な目の女と隻腕の男の二人組はそれなりに目立つが、あくまでそれなりだった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **コルセスカ,アキラ**（ID `E_char_コルセスカ,アキラ` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
