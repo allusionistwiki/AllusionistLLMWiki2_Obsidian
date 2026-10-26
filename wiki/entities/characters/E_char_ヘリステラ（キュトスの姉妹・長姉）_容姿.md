@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 長姉の外見と移動装置 ｜ 年齢（分かりづらい）・顔（怪訝そうに歪む）・移動手段（車椅子） ｜ 典拠: [91話](../../nav/ch0091.md)（3429）
   > 車椅子の女性は、年齢の分かりづらい顔を怪訝そうに歪めた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ヘリステラ(キュトスの姉妹長姉)**（ID `E_char_ヘリステラ(キュトスの姉妹長姉)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

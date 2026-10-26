@@ -31,3 +31,11 @@ description: キャラ容姿描写ページ
 - 義肢から高圧的な機械音声が発せられ、全身が割れる。 ｜ 声:高圧的な機械音声・体:罅割れる ｜ 典拠: [174話](../../nav/ch0174.md)（p5775）
   > 高圧的な機械音声が義肢から響くと、男の全身が罅割れていく。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **リールエルバ(肉体)**、**リールエルバの所在**。
+
+この名義は L2 名前統合台帳の正規エンティティ **リールエルバ(女王)**（ID `E_char_リールエルバ(女王)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

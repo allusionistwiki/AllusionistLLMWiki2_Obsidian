@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 顔の肉と鱗が完全に一体化し、目鼻口など顔の器官がない。 ｜ 目・鼻・耳・口・鱗・顔の肉と一体化 ｜ 典拠: [202話](../../nav/ch0202.md)（p6810）
   > 目も、鼻も、耳も、口さえも。ただ一枚の鱗、それが顔の肉と完全に一体化して頭部を形作っている。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **仮面の槍使い**（ID `E_char_仮面の槍使い` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

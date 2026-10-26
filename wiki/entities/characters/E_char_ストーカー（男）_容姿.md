@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 性的な熱狂で異常な状態にある男たち。 ｜ 瞳（血走った）・息遣い（荒い息）・持ち物（ナイフ） ｜ 典拠: [175話](../../nav/ch0175.md)（p5794）
   > 血走った目、荒い息、私の名前を連呼してナイフを振り回す。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ストーカー(男)**（ID `E_char_ストーカー(男)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

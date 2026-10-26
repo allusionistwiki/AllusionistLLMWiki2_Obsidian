@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 帽子を被っている。 ｜ 頭部/帽子 ｜ 典拠: [70話](../../nav/ch0070.md)（p2604）
   > 帽子を被った空の民たち
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **空の民(エジーメの血族など)**（ID `E_creature_空の民(エジーメの血族など)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

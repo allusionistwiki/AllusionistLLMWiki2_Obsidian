@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 少女のように繊細で美しい顔立ち、意志の強そうな瞳 ｜ 顔立ち・瞳 ｜ 典拠: [7話](../../nav/ch0007.md)（p345）
   > 思い出してしまった。少女のように繊細で美しい顔立ち。意志の強そうな瞳に宿っているのは、純然たる他者への好意。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **マナ(少年)**（ID `E_char_マナ(少年)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

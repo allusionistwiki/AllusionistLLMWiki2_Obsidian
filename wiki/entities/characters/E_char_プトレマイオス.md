@@ -29,3 +29,9 @@ created: "2026-09-30"
 - [[A_ch5512_parodies_E_ch5512_トロメリア_names_プトレマイオス_p21_berkeley_immaterialism_to_be_is_to_perceive|バークリー観念論のパロディ]]
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **プトレマイオス**（ID `E_char_プトレマイオス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

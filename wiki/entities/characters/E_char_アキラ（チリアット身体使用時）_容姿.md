@@ -33,3 +33,11 @@ description: キャラ容姿描写ページ
 - 牙猪の身体に人間の左腕が移植されている状態 ｜ 左腕（霊長類系、挿げ替えられている） ｜ 典拠: [91話](../../nav/ch0091.md)（3417）
   > 何故か左腕だけが挿げ替えられたように霊長類系の――おそらくは失われたはずの俺の左腕になっていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アキラ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アキラ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラ(チリアット身体使用時)**（ID `E_char_アキラ(チリアット身体使用時)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

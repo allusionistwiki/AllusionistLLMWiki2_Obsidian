@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 燃えるような貴婦人の姿 ｜ 服装・雰囲気 ｜ 典拠: [50話](../../nav/ch0050.md)（p2001）
   > 白い火柱の中から、燃えるような貴婦人がその姿を現した。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ビークレット(白焔)**（ID `E_char_ビークレット(白焔)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -33,3 +33,9 @@ description: キャラ容姿描写ページ
 - 華奢な身体、大きく改造された竜導師の祭服（巫女服） ｜ 体格・服装 ｜ 典拠: [216話](../../nav/ch0216.md)（p7247）
   > 驚嘆すべき加速を続ける女、その華奢な身体が纏っているのは大きく改造されてはいるが、ユディーアが良く知る『竜導師』の祭服。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ダークホース(竜の駆り手/巫女)**（ID `E_char_ダークホース(竜の駆り手/巫女)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

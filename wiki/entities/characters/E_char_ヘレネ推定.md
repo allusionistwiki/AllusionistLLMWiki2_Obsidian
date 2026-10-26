@@ -24,3 +24,11 @@ updated: '2026-10-21'
 - **unknown**: 「俺も日々実感してるよ。何もしなきゃあらゆる価値は忘却される一方だ。そうしている間に、強者が一方的な歴史と文化を押し付けてきやがる」
 
 <!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は実体判定**要検証**（台帳 v3 で保留）です。
+
+この名義は L2 名前統合台帳の正規エンティティ **ヘレネ推定**（ID `E_char_ヘレネ推定` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

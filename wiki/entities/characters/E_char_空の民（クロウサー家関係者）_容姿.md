@@ -27,3 +27,9 @@ description: キャラ容姿描写ページ
 - 額に輝く載冠をのせている。 ｜ 額に輝く冠 ｜ 典拠: [252話](../../nav/ch0252.md)（p8122）
   > 彼らの額には輝く冠が載っており、
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **空の民(クロウサー家関係者)**（ID `E_creature_空の民(クロウサー家関係者)` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

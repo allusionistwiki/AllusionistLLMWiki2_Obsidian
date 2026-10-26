@@ -31,7 +31,7 @@ description: キャラ容姿描写ページ
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この実体が所有する下位エンティティ: **マラード(竜**、**マラードの醜さ**、**マラード(地竜**、**マラード(地竜形態)**。
+この実体が所有する下位エンティティ: **マラード(竜**、**マラードの醜さ**、**マラード(地竜**、**マラード(地竜形態)**、**マラードの醜さ**、**マラード(地竜**。
 
 この名義は L2 名前統合台帳の正規エンティティ **マラード**（ID `E_char_マラード` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
 <!-- /AUTO-GENERATED:l2ref -->

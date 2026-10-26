@@ -25,3 +25,9 @@ Designer/Producer/Manager/Dress役への集中を理由に、二頭身の狼っ�
 > ヒュドラボルテージはニワトリのマスコットキャラとしてぬいぐるみやストラップなどの商品を展開することで既存のアイドルファンとは違った層から広く人気を集めていたらしい。 少々間抜けだがゆるくてユーモラスな表情とふわふわずんぐりしたフォルムが親し（ch0166）
 
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **マスコットキャラ**（ID `E_term_マスコットキャラ` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

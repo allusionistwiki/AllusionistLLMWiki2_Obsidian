@@ -35,3 +35,9 @@ description: キャラ容姿描写ページ
 - アズーリアより背が低く、童女または幼女に見える外見。 ｜ 体格/年齢 ｜ 典拠: [42話](../../nav/ch0042.md)（p1804）
   > 金色の少女――いや、そう形容するにはいささか早過ぎる。何しろ私よりも背が低い。蕾のままの美しさで、童女、あるいは幼女は少年に傅いていた。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **フー(フラベウファ)**（ID `E_char_フー(フラベウファ)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

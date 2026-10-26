@@ -31,5 +31,7 @@ created: "2026-09-30"
 
 この名義は **自己同一性** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_term_自己同一性`。
 
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
 この名義は L2 名前統合台帳の正規エンティティ **自分の名前**（ID `E_char_自分の名前` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
 <!-- /AUTO-GENERATED:l2ref -->

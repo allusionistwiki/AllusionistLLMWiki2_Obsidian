@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 両足が無い。 ｜ 欠・損 ｜ 典拠: [1話](../../nav/ch0001.md)（p72）
   > 巨大な剣の青年には、両足が無かった。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **青年(巨大剣の男)**（ID `E_char_青年(巨大剣の男)` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -29,3 +29,9 @@ description: キャラ容姿描写ページ
 - 巨大な人型、右腕なし、岩石・家屋・木々で構成 ｜ 体・特徴 ｜ 典拠: [150話](../../nav/ch0150.md)（p5095）
   > 右腕だけが無い巨大な人型をとった。それは岩石と家屋、木々を寄せ集めた山の巨人が立ち上がって怒り狂う。
 <!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **プーハニアトストンス(山の巨人)**（ID `E_creature_プーハニアトストンス(山の巨人)` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
