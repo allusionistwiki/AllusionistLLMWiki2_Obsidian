@@ -12,7 +12,7 @@ from pathlib import Path
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
-WIKI = ROOT / "wiki"
+WIKI = ROOT / "wiki" / "l1"
 
 def read_title(p: Path) -> str:
     txt = p.read_text(encoding="utf-8", errors="ignore")

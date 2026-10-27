@@ -19,7 +19,7 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-WIKI = ROOT / "wiki"
+WIKI = ROOT / "wiki" / "l1"
 NAV = WIKI / "nav"
 
 PRED_JA = {

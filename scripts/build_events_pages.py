@@ -18,7 +18,7 @@ from pathlib import Path
 WORK = Path(r"C:/Users/d5dx/Downloads/Code/AllusionistWiki_work")
 VAULT = Path(r"C:/Users/d5dx/Downloads/Code/AllusionistLLMWiki2")
 RUNS = WORK / "work" / "allusionist_v2" / "L1" / "runs"
-OUT_DIR = VAULT / "wiki" / "events"
+OUT_DIR = VAULT / "wiki" / "l1" / "events"
 
 
 def load_events():

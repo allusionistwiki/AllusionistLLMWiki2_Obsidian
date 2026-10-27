@@ -14,7 +14,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-WIKI = ROOT / "wiki"
+WIKI = ROOT / "wiki" / "l1"
 
 
 def add_title(path: Path, title: str) -> bool:

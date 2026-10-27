@@ -13,7 +13,7 @@ import re
 import sys
 from pathlib import Path
 
-WIKI = Path(__file__).resolve().parent.parent / "wiki"
+WIKI = Path(__file__).resolve().parent.parent / "wiki" / "l1"
 sys.path.insert(0, r"C:/Users/d5dx/Downloads/Code/AllusionistWiki_work/scripts")
 from l2_common import norm_key  # noqa: E402
 

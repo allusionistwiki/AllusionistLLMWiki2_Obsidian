@@ -14,7 +14,7 @@ from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-WIKI = ROOT / "wiki"
+WIKI = ROOT / "wiki" / "l1"
 from paths import WORK_DIR as WORK
 FACTS = WORK / "appearance_facts"  # 専用解析B の出力
 CACHE = ROOT / "data" / "appearance_summaries.json"

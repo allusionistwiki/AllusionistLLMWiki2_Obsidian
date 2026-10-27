@@ -14,8 +14,8 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CLAIMS = ROOT / "wiki" / "claims"
-NAV = ROOT / "wiki" / "nav"
+CLAIMS = ROOT / "wiki" / "l1" / "claims"
+NAV = ROOT / "wiki" / "l1" / "nav"
 
 
 def short_title(h1: str) -> str:

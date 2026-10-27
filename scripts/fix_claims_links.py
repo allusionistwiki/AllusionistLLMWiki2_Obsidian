@@ -12,7 +12,7 @@ import sys
 from pathlib import Path
 
 VAULT = Path(r"C:/Users/d5dx/Downloads/Code/AllusionistLLMWiki2")
-CLAIMS = VAULT / "wiki" / "claims"
+CLAIMS = VAULT / "wiki" / "l1" / "claims"
 
 
 def main():

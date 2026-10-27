@@ -15,7 +15,7 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-WIKI = ROOT / "wiki"
+WIKI = ROOT / "wiki" / "l1"
 RAW = ROOT / "raw"
 from paths import WORK_DIR as WORK
 FACTS = WORK / "deferral_facts"      # kind=deferral（専用解析A extract_deferrals.py）

@@ -20,7 +20,7 @@ from rich.table import Table
 console = Console()
 
 ROOT = Path(__file__).resolve().parent.parent
-VAULT_ROOT = ROOT / "wiki"
+VAULT_ROOT = ROOT / "wiki" / "l1"
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from paths import ROOT, VAULT_ROOT, STAGING_DIR
 REFERENCES_DIR = VAULT_ROOT / "references"

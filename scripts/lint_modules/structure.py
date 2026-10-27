@@ -16,25 +16,25 @@ from .utils import (
 
 # 配置チェック（IDプレフィックス → 期待ディレクトリ）
 ID_PREFIX_DIR = {
-    "ARC_": "wiki/arcs",
-    "O_": "wiki/episodes",
-    "E_char_": "wiki/entities/characters",
-    "E_term_": "wiki/entities/terminology",
-    "E_org_": "wiki/entities/organizations",
-    "E_item_": "wiki/entities/items",
-    "E_motif_": "wiki/entities/motifs",
-    "E_relation_": "wiki/entities/relationships",
-    "E_phrase_": "wiki/entities/phrases",
-    "ME_myth_": "wiki/references/mythology",
-    "ME_lit_": "wiki/references/literature",
-    "ME_phil_": "wiki/references/philosophy",
-    "ME_psych_": "wiki/references/psychology",
-    "ME_pop_": "wiki/references/culture",
-    "ME_net_": "wiki/references/culture",
-    "ME_author_": "wiki/references/author-material",
-    "A_": "wiki/claims",
-    "MY_": "wiki/mysteries",
-    "RF_": "wiki/reflections",
+    "ARC_": "wiki/l1/arcs",
+    "O_": "wiki/l1/episodes",
+    "E_char_": "wiki/l1/entities/characters",
+    "E_term_": "wiki/l1/entities/terminology",
+    "E_org_": "wiki/l1/entities/organizations",
+    "E_item_": "wiki/l1/entities/items",
+    "E_motif_": "wiki/l1/entities/motifs",
+    "E_relation_": "wiki/l1/entities/relationships",
+    "E_phrase_": "wiki/l1/entities/phrases",
+    "ME_myth_": "wiki/l1/references/mythology",
+    "ME_lit_": "wiki/l1/references/literature",
+    "ME_phil_": "wiki/l1/references/philosophy",
+    "ME_psych_": "wiki/l1/references/psychology",
+    "ME_pop_": "wiki/l1/references/culture",
+    "ME_net_": "wiki/l1/references/culture",
+    "ME_author_": "wiki/l1/references/author-material",
+    "A_": "wiki/l1/claims",
+    "MY_": "wiki/l1/mysteries",
+    "RF_": "wiki/l1/reflections",
 }
 
 SCHEMA_MAP = {
@@ -106,7 +106,7 @@ def lint_structure(file_path: Path, vault_root: Path, schemas_dir: Path) -> List
         expected = next((d for pfx, d in ID_PREFIX_DIR.items() if str(frontmatter["id"]).startswith(pfx)), None)
         if expected and rel and not rel.startswith("docs/samples"):
             # wiki/claims は話別サブフォルダ（wiki/claims/chXXXX）を許容
-            allowed = rel == expected or (expected == "wiki/claims" and rel.startswith("wiki/claims/"))
+            allowed = rel == expected or (expected == "wiki/l1/claims" and rel.startswith("wiki/l1/claims/"))
             if not allowed:
                 errors.append(LintError(file=file_path, category="structure", code="STR019",
                                         severity=Severity.ERROR,

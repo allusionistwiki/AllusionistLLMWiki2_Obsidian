@@ -1,36 +1,21 @@
 ---
-title: 幻想再帰のアリュージョニスト Wiki
-id: index
-description: 本作の多層アナロジー（引喩・神話参照・展開の相似/相違）を典拠付きで体系化する分析Wiki
+title: 幻想再帰のアリュージョニスト 解析Wiki（層索引）
+description: 階層別のWiki層（L1 素抽出層・L2 正規化台帳層）への索引
+date: 2026-10-28
+tags:
+  - nav
 ---
 
-# 幻想再帰のアリュージョニスト Wiki
+# 解析Wiki 層索引
 
-「ネットミームから現代思想まで引喩が散りばめたオカルトパンク」——本作に仕掛けられた**引喩・パロディ・逆転**を、原文引用（ページ番号付き）と審査根拠とともに体系化する分析Wikiです。
+この vault は**階層ごとに独立した Wiki 層**を並列配置します（work 側 `allusionist_v2/Lx` と対称）。各層の来歴（run ID・facts・審査根拠）は層内でたどれます。
 
-## 入り口
+| 層 | 内容 | 入口 |
+|---|---|---|
+| **L1** | 章別観測の素抽出（episodes / claims / entities / mysteries / references 等） | [L1Wiki へ](./l1/) |
+| **L2** | 正規化实体台帳・名相関索引・名義変換表（確度・根拠付き） | [L2Wiki へ](./l2/) |
+| 層モデル | L0〜L7 階層モデルと生成鎖の解説 | [層索引（layers）](./layers/) |
 
-- ★ [ポータル（全 Wiki 統合索引）](https://allusionistwiki.github.io/) — 本組織の全 Wiki（本家 Wiki / L1 解析層 / ゆらぎの神話 Wiki）横断の入口
-- [話ナビゲーション](nav/index.md) — 話ごとのアナロジー・伏線一覧（第1話〜）
-- [登場人物一覧](characters.md) — キャラクター入口（主要キャラから各ページへ）
-- [関係性マップ](relationships/index.md) — キャラ間の関係グラフ
-- [エンティティ総覧](entities/index.md) — 用語・組織・アイテム・モチーフ
-- [アナロジークレーム全集](claims/index.md) — 引喩の主張すべて
-- [伏線台帳](mysteries/index.md) — 仕掛けられた謎の追跡
-- [外部参照](references/index.md) — 引喩先の現代文化・思想の解説
-- [「今はまだ」先延ばし索引](deferrals/index.md) — 原文中の先延ばしモティーフ全箇所
-- [キャラ容姿描写索引](appearances.md) — 容姿・外見描写のキャラ別索引
-
-## 統計
-
-- 解析済み: **第1話〜第5589話**（861 話）
-- アナロジークレーム: **2598** 件
-- 伏線: **3094** 件
-- 外部参照ページ: **2582** 件
-
-## 読み方と注意
-
-- 各クレームページは「主張 → 原文引用 → LLM 審査根拠」の順で読めます
-- 本Wikiの大半の記述は **LLM による自動抽出・自動審査（llm_verified）** です。人間レビュー済み（human_verified）への昇格が進行中で、frontmatter の `review_status` に区別が記録されています
-- 原文のネタバレを大量に含むため、**原作未読の方は読まないでください**
-- 本Wikiは非公式のファンWikiです。原作の著作権は原作者に帰属します
+- 作業データ（facts/candidates 等の生データ）: [AllusionistWiki_work](https://github.com/allusionistwiki/AllusionistWiki_work)
+- 公開サイト（表示＝最新層＋L1 下位層）: https://allusionistwiki.github.io/AllusionistWiki2/
+- 初代 Wiki（人間編集層・別系統）: https://allusionistwiki.github.io/AllusionistWiki/

@@ -17,7 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 from paths import WORK_DIR as WORK
 EVENTS = WORK / "events"
-WIKI = ROOT / "wiki"
+WIKI = ROOT / "wiki" / "l1"
 
 PRED_JA = {
     "analogous_to": "類似", "alludes_to": "暗喩", "parodies": "パロディ",

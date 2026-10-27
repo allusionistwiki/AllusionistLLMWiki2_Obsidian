@@ -15,9 +15,9 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-CLAIMS = ROOT / "wiki" / "claims"
-MYSTERIES = ROOT / "wiki" / "mysteries"
-REFS = ROOT / "wiki" / "references"
+CLAIMS = ROOT / "wiki" / "l1" / "claims"
+MYSTERIES = ROOT / "wiki" / "l1" / "mysteries"
+REFS = ROOT / "wiki" / "l1" / "references"
 
 SUBTYPE_RULES = [
     (r"家康|戦い|歴史的|徳川|植民地|条約", "history", "World History"),

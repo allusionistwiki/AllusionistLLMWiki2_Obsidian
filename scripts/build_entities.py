@@ -23,7 +23,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 from paths import WORK_DIR as WORK
 EVENTS = WORK / "events"
-WIKI = ROOT / "wiki"
+WIKI = ROOT / "wiki" / "l1"
 CACHE = ROOT / "data" / "entity_notes.json"
 
 TYPE_DIR = {

@@ -13,8 +13,8 @@ from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-REF_DIR = ROOT / "wiki" / "references"
-CLAIMS_DIR = ROOT / "wiki" / "claims"
+REF_DIR = ROOT / "wiki" / "l1" / "references"
+CLAIMS_DIR = ROOT / "wiki" / "l1" / "claims"
 
 # 参考: merge_references.py の SUBTYPE_MAP と同じ置き場（骨格は culture に寄せる）
 DEFAULT_SUBTYPE = "popular_culture"  # schema enum 準拠

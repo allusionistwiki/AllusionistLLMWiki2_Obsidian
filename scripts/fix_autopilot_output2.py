@@ -10,7 +10,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CLAIMS = ROOT / "wiki" / "claims"
+CLAIMS = ROOT / "wiki" / "l1" / "claims"
 from paths import WORK_DIR
 WORK_EVENTS = WORK_DIR / "events"
 LOG = WORK_DIR / "reports" / "autopilot_log.md"

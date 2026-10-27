@@ -20,7 +20,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 from llm_client import create_client, load_config, call_llm  # noqa: E402
 
-WIKI = ROOT / "wiki"
+WIKI = ROOT / "wiki" / "l1"
 CACHE = ROOT / "data" / "display_titles.json"
 
 PRED_JA = {

@@ -12,7 +12,7 @@ import collections
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-WIKI = Path(__file__).resolve().parents[1] / "wiki"
+WIKI = Path(__file__).resolve().parents[1] / "wiki" / "l1"
 WORK_RUNS = Path("C:/Users/d5dx/Downloads/Code/AllusionistWiki_work") / "work" / "allusionist_v2" / "L2" / "runs"
 
 KIND_LABEL = {"character": "キャラクター", "terminology": "用語", "item": "アイテム",
@@ -37,7 +37,7 @@ def main():
     conf = collections.Counter(e.get("merge_evidence", "?") for e in merged)
     kind_conf = collections.Counter(e.get("kind_confidence", "?") for e in ents)
 
-    out = WIKI / "l2"
+    out = Path(__file__).resolve().parents[1] / "wiki" / "l2"
     out.mkdir(exist_ok=True)
     REFL = WIKI / "reflections"
     REFL.mkdir(exist_ok=True)

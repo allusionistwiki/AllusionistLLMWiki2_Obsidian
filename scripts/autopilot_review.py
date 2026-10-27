@@ -135,7 +135,7 @@ def promote(chapter: str, items: list[dict], verdicts: list[dict], log: list[str
             subj = resolve_subject(slug((it.get("subject") or "").replace("[[", "").replace("]]", "")))
             claim_text = v.get("revised_claim") if verdict == "revise" else it.get("claim", "")
             fname = f"A_{chapter}_{it.get('predicate', 'alludes_to')}_{subj}_{obj}.md"
-            path = ROOT / "wiki" / "claims" / fname
+            path = ROOT / "wiki" / "l1" / "claims" / fname
             path.parent.mkdir(parents=True, exist_ok=True)
             quotes = "\n".join(f"> {q.get('quote','')}（{q.get('paragraph','')}）"
                                for q in it.get("quotes", []))
@@ -170,7 +170,7 @@ provenance:
         elif it.get("kind") == "mystery":
             name = slug(it.get("name", "").replace("MY_", ""))
             fname = f"MY_{chapter}_{name}.md"
-            path = ROOT / "wiki" / "mysteries" / fname
+            path = ROOT / "wiki" / "l1" / "mysteries" / fname
             path.parent.mkdir(parents=True, exist_ok=True)
             quotes = "\n".join(f"> {q.get('quote','')}（{q.get('paragraph','')}）"
                                for q in it.get("quotes", []))
