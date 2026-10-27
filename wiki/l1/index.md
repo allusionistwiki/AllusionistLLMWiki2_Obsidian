@@ -10,6 +10,8 @@ description: 本作の多層アナロジー（引喩・神話参照・展開の�
 
 ## 入り口
 
+- **L2 正規化台帳（名前の統合・親子構造・名相関索引）** → [L2Wiki へ](../l2/index.md)（台帳 17,337 实体・変換表は確度・根拠付き）
+- **層索引（L1/L2 の並び）** → [layers](../layers/index.md)
 - ★ [ポータル（全 Wiki 統合索引）](https://allusionistwiki.github.io/) — 本組織の全 Wiki（本家 Wiki / L1 解析層 / ゆらぎの神話 Wiki）横断の入口
 - [話ナビゲーション](nav/index.md) — 話ごとのアナロジー・伏線一覧（第1話〜）
 - [登場人物一覧](characters.md) — キャラクター入口（主要キャラから各ページへ）
