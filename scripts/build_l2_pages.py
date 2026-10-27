@@ -149,7 +149,7 @@ def main():
         return str(s).replace("|", "｜").replace("\n", " ")[:140]
     for nm, e, a in rows[:5000]:
         cites = a.get("cites") or []
-        cite_md = " ".join("[`%s¶%s`](https://allusionistwiki.github.io/AllusionistWiki/episodes/%s/)"
+        cite_md = " ".join("[`%s¶%s`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/%s/)"
                            % (c[0], c[1], c[0]) for c in cites[:2])
         basis = "%s：%s" % (a.get("source", "?"), esc(a.get("reason", "")))
         verify = "；".join(esc(v) for v in (a.get("verify") or [])) or "—"

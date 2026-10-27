@@ -4,7 +4,7 @@ id: l2/index
 title: L2 名前統合台帳（下層Wiki）
 description: L1 名義を統合した正規化エンティティ台帳。名相関グループと統合/kind 裁定の確定結果。
 type: index
-date: 2026-10-27
+date: 2026-10-28
 ---
 
 # L2 — 名前統合・正規化層（下層Wiki）

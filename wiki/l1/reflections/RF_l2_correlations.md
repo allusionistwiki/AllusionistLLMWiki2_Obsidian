@@ -4,7 +4,7 @@ id: RF_l2_correlations
 title: 名相関索引（統合済みグループ）
 description: 名前の相関と統合の裁定結果。代表名に統合された全名義・kind・確度を大型グループから掲載。
 type: reflection
-created: "2026-10-27"
+created: "2026-10-28"
 tags: []
 ---
 
