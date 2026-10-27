@@ -13,7 +13,7 @@ AI エージェント（Claude / Hermes 等）がここで作業する際の約�
 
 ## リポジトリ横断の約束
 
-- 正規層（wiki/・sources/・schemas/・scripts/・docs/）は本 repo。検索DB・events・staging・ログは `../AllusionistLLMWiki2_Work`。**work の派生物を本 repo にコミットしない**（gitignore 済み）
+- 正規層（wiki/・sources/・schemas/・scripts/・docs/）は本 repo。検索DB・events・staging・ログは 兄弟リポジトリ `AllusionistWiki_work`（`work/allusionist_v2/` 配下）。**work の派生物を本 repo にコミットしない**（gitignore 済み）
 - 両方にコミットする変更は `python scripts/commit_all.py`（相互参照 `work-ref:`/`vault-ref:` + SYNC_LOG を維持）
 - Quartz 公開側（GitHub: `allusionistwiki/AllusionistLLMWiki2`、ローカル: `../AllusionistLLMWiki2_Quartz`）はビルド生成物。`node_modules/`・`public/` を触らない
 - ブランチ: `main` に直接 push してよい（個人運用）。作業ブランチは `bionic/` 接頭辞

@@ -10,7 +10,7 @@ One-size-fits-all な単一ライセンスは適用しません。
 
 ## 1. Wiki 本文・独自解説・編纂物（レイヤーA）
 
-次のような、vault（`AllusionistWiki_obsidian`）から同期された Wiki 本文・独自解説・編纂物は、
+次のような、本 vault（`AllusionistLLMWiki2_Obsidian`）に収められた Wiki 本文・独自解説・編纂物は、
 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International**
 略して **CC BY-NC-SA 4.0** で提供されます。
 
@@ -202,10 +202,10 @@ trademarks/**
 サイト全体の転載など）は、CC BY-NC-SA 4.0 の帰属表示条件を**厳密に**満たしてください。
 次の**すべて**を揃えてください：
 
-1. **作者名・Wiki名**：`AllusionistWiki contributors`（または各ページの著者名）
-2. **著作権表示**：`© AllusionistWiki contributors`
+1. **作者名・Wiki名**：`AllusionistWiki2 contributors`（または各ページの著者名）
+2. **著作権表示**：`© AllusionistWiki2 contributors`
 3. **ライセンス名とURL**：`CC BY-NC-SA 4.0`（<https://creativecommons.org/licenses/by-nc-sa/4.0/>）
-4. **出典のリンク**：リポジトリURL（<https://github.com/allusionistwiki/AllusionistWiki_obsidian>）
+4. **出典のリンク**：リポジトリURL（<https://github.com/allusionistwiki/AllusionistLLMWiki2_Obsidian>）
 5. **変更の表示**：改変を行う場合はオリジナルと異なる旨を明記する。改変内容の表示は不要。
 6. **同一条件での再配布**：派生物を CC BY-NC-SA 4.0（または互換ライセンス）で頒布する
 
@@ -213,10 +213,10 @@ trademarks/**
 
 ```text
 AllusionistWiki
-© AllusionistWiki contributors
+© AllusionistWiki2 contributors
 Licensed under CC BY-NC-SA 4.0.
 https://creativecommons.org/licenses/by-nc-sa/4.0/
-Source: https://github.com/allusionistwiki/AllusionistWiki_obsidian
+Source: https://github.com/allusionistwiki/AllusionistLLMWiki2_Obsidian
 
 This is an unofficial fan wiki. Not affiliated with the original author,
 publisher, or rights holders.
@@ -234,8 +234,8 @@ Third-party materials are not included in this license.
 
 これらの場合、新しいリポジトリ・サイトには**次のすべてを明記**してください：
 
-1. **材料利用の明記**：「本コンテンツの全部または一部は、AllusionistWiki を材料として生成されています」
-2. **出典リンク**：<https://allusionistwiki.github.io/AllusionistWiki/>
+1. **材料利用の明記**：「本コンテンツの全部または一部は、AllusionistWiki2 を材料として生成されています」
+2. **出典リンク**：<https://allusionistwiki.github.io/AllusionistWiki2/>
 3. **ライセンス表示**：本 Wiki の内容は CC BY-NC-SA 4.0 で提供されています
 
 > **「主要構成物」と「部分的参照」の区別**：
