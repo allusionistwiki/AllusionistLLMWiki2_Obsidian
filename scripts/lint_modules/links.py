@@ -90,6 +90,17 @@ def lint_links(file_path: Path, index: LinkIndex) -> List[LintError]:
         return errors
 
     frontmatter_links = _extract_links_from_dict(fm)
+    # claims の subject/object は SPO グラフノード参照（event_id スラッグ）であり
+    # ページ参照ではない（v5.3: graph 検証はイベント層側、schemas/claim で pattern 必須）。
+    # LNK003 の対象から除外する。
+    if str(fm.get("type", "")) == "analytical_claim":
+        node_refs = set()
+        for key in ("subject", "object"):
+            v = fm.get(key)
+            if isinstance(v, str):
+                node_refs.update(re.findall(r"\[\[([^\]|#]+?)(?:\|[^\]]+?)?\]\]", v))
+        if node_refs:
+            frontmatter_links = [l for l in frontmatter_links if l not in node_refs]
     body_links = []
     for i, line in enumerate(body.split("\n"), start=body_start_line):
         for link in extract_wikilink_targets(line):
