@@ -9,7 +9,7 @@ canonical_name: "horror_genre_lovecraftian"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_horror_genre_lovecraftian.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5568_sublates_E_p279_horror_genre_lovecraftian]] — 愛が誰かにとっての『ホラー』であるという結論は、ロマン主義的な愛の崇高化を否定し、融合（同化）による自我消失の恐怖を描くラブブリアー的ホラーの構造を恋愛関係に適用している。
+- [[A_ch5568_sublates_E_p279_horror_genre_lovecraftian]] — 愛が誰かにとっての『ホラー』であるという結論は、ロマン主義的な愛の崇高化を否定し、融合（同化）による自我消失の恐怖を描くラブクラフト的ホラーの構造を恋愛関係に適用している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| クラフト | ブリアー | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「クラフト」→ ブリアー（要検証）

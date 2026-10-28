@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5177_Last_Sister_Selection_Criteria.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # Last_Sister_Selection_Criteria
 
-末妹選定において、単純な戦闘能力（一位アズール）だけでなく、「変装」「感知呪術回避」などの技術が重要視される。エストが選ばれる条件（隠密性・適応性）が強調されている。
+末妹選定において、単純な戦闘能力（一位アズーリアール）だけでなく、「変装」「感知呪術回避」などの技術が重要視される。エストが選ばれる条件（隠密性・適応性）が強調されている。
 
 **回収示唆**: 最終選考において、戦闘力ではなく「地上社会への潜入・生存能力」が勝敗を分ける要素となる展開。
 
@@ -30,9 +30,10 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | プリエステラ | エスト | 明言 | 2 |
+| アズ | アズーリア | 高 | 1 |
 | 私 | カイン | 蓋然性高 | 1 |

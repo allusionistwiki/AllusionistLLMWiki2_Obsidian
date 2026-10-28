@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/characters/E_char_ペイルナトイルス.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # ペイルナトイルス
 
@@ -29,7 +29,7 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

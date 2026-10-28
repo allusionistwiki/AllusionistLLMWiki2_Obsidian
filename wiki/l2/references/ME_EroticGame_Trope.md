@@ -9,7 +9,7 @@ canonical_name: "EroticGame_Trope"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_EroticGame_Trope.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- A_ch5246_alludes_to_E_ch5246_p190_EroticGame_Trope — アキラとコルセスカが並んでエロゲを鑑賞し反応する光景は、現実の性的行為をゲームという安全な媒体（メディア）を通じて共有・疑似体験することで、二人の距離感を縮め親密性を構築するプロセスとして機能している。
+- A_ch5246_alludes_to_E_ch5246_p190_EroticGame_Trope — アキラくんとコルセスカが並んでエロゲを鑑賞し反応する光景は、現実の性的行為をゲームという安全な媒体（メディア）を通じて共有・疑似体験することで、二人の距離感を縮め親密性を構築するプロセスとして機能している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| アキラ | アキラくん | 高 | 1 |

@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5197_azulias_physical_damage_recovery.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # azulias_physical_damage_recovery
 
-最強の一撃の余波で全身をずたずたに引き裂かれ気を失うアズ。この致命的なダメージがどう治療され、その後の戦闘能力（特にマロゾロンドの力との関係）にどう影響するか。
+最強の一撃の余波で全身をずたずたに引き裂かれ気を失うアズーリアーリア。この致命的なダメージがどう治療され、その後の戦闘能力（特にマロゾロンドの力との関係）にどう影響するか。
 
 **回収示唆**: 回復過程での新たな力の獲得、またはヴァージリアアによる保護・世話の展開。
 
@@ -31,10 +31,10 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 私 | カイン | 蓋然性高 | 2 |
-| アズーリア | アズ | 蓋然性高 | 1 |
+| アズ | アズーリア | 高 | 1 |
 | ヴァージリ | ヴァージリア | 明言 | 1 |

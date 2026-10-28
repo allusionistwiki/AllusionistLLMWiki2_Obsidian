@@ -11,15 +11,15 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_魔将.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
-> [!info] 名前統合（L2 run 20261024T1608_fc8d）
+> [!info] 名前統合（L2 run 20261029T0843_c8bb）
 > このページの名義「魔将」は **フィリス** の別名として統合済み（確度: 明言）。正規化先: [[E_char_フィリス|フィリス]]
 
 # フィリス
 
-大迷宮の最深部で探索者を斬殺してきた恐怖の象徴として君臨する存在群であり、アキラが積層鏡に集結した影として12体（ガルズとマリーを加えれば14体）を数える。サリアが狂犬のように荒れ狂い、フィリスたちに斬撃を繰り出すなど、激しい戦闘の相手として描かれる。
+大迷宮の最深部で探索者を斬殺してきた恐怖の象徴として君臨する存在群であり、アキラくんが積層鏡に集結した影として12体（ガルズとマリーを加えれば14体）を数える。サリアが狂犬のように荒れ狂い、フィリスたちに斬撃を繰り出すなど、激しい戦闘の相手として描かれる。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0065 ｜ **観測イベント**: 4 件（3 話に出現）
@@ -33,12 +33,12 @@ l2_run: 20261024T1608_fc8d
 
 ## 関連クレーム
 
-- A_ch0065_analogous_to_E_ch0065_アキラ_observes_フィリス_p2420_enemy_count（敵数カウントとしての影数え）
-- A_ch0065_analogous_to_E_ch0065_アキラ_observes_フィリス_p2420_enemy_counting（敵数カウントとしての影数え）
-- A_ch0065_analogous_to_E_ch0065_アキラ_observes_フィリス_p2420_enemy_tracking（敵追跡としての影数え）
-- A_ch0065_analogous_to_E_ch0065_アキラ_observes_フィリス_p2420_situation_analysis（状況分析としての敵数判断）
-- A_ch0065_analogous_to_E_ch0065_アキラ_observes_フィリス_p2420_threat_assessment（脅威評価としての敵数判断）
-- A_ch0065_analogous_to_E_ch0065_アキラ_observes_フィリス_p2420_threat_evaluation（脅威評価としての敵数判断）
+- A_ch0065_analogous_to_E_ch0065_アキラくん_observes_フィリス_p2420_enemy_count（敵数カウントとしての影数え）
+- A_ch0065_analogous_to_E_ch0065_アキラくん_observes_フィリス_p2420_enemy_counting（敵数カウントとしての影数え）
+- A_ch0065_analogous_to_E_ch0065_アキラくん_observes_フィリス_p2420_enemy_tracking（敵追跡としての影数え）
+- A_ch0065_analogous_to_E_ch0065_アキラくん_observes_フィリス_p2420_situation_analysis（状況分析としての敵数判断）
+- A_ch0065_analogous_to_E_ch0065_アキラくん_observes_フィリス_p2420_threat_assessment（脅威評価としての敵数判断）
+- A_ch0065_analogous_to_E_ch0065_アキラくん_observes_フィリス_p2420_threat_evaluation（脅威評価としての敵数判断）
 
 <!-- AUTO:END -->
 
@@ -47,17 +47,18 @@ l2_run: 20261024T1608_fc8d
 
 この実体が所有する下位エンティティ: **フィリスの目**、**フィリスの環**、**フィリスの目**、**フィリスの環**、**フィリスの目**、**フィリスの環**、**フィリスの目**、**フィリスの環**。
 
-この名義は L2 名前統合台帳の正規エンティティ **フィリス**（ID `E_char_フィリス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **フィリス**（ID `E_char_フィリス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 魔将 | フィリス | 明言 | 11 |
+| アキラ | アキラくん | 高 | 7 |
 | 金鎖 | フィリス | 蓋然性高 | 4 |
 | 私 | カイン | 蓋然性高 | 2 |
 | 小鬼殺し | サリア | 蓋然性高 | 1 |

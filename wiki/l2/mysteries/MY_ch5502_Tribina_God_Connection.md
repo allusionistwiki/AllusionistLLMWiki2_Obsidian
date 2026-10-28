@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5502_Tribina_God_Connection.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # Tribina_God_Connection
 
-ロードデンドロンの背後に「神の子」スーリウムがいるという言及。ティリビナの民の謎の力とスーリウムの関係性が未回収。
+ロードデンドロンの背後に「神の子」スーリウムがいるという言及。ティリビナの民人の謎の力とスーリウムの関係性が未回収。
 
 **回収示唆**: スーリウムが本選で介入するか、ロードデンドロンの力の源（信仰/契約）が明かされる。
 
@@ -31,8 +31,8 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ティリビナ人 | ティリビナの民 | 明言 | 1 |
+| ティリビナ | ティリビナの民 | 蓋然性高 | 1 |

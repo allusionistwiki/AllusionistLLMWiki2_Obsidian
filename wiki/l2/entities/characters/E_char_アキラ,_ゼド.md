@@ -11,15 +11,15 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_アキラ,_ゼド.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
-# アキラ,_ゼド
+# アキラくん,_ゼド
 
 外骨格による巨大な拳と回転する骨杭を用いた圧倒的な機動力と破壊力を持つ戦闘形態である。ヴィクの【雪華掌】の欠片に対し、懐に飛び込み右手で制御盤を叩くという作戦を立てた。
 
 <!-- AUTO:BEGIN -->
-**別名**: アキラ, ゼド
+**別名**: アキラくん, ゼド
 
 **初出**: ch5245 ｜ **観測イベント**: 2 件（1 話に出現）
 
@@ -35,5 +35,14 @@ l2_run: 20261024T1608_fc8d
 
 この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
 
-この名義は L2 名前統合台帳の正規エンティティ **アキラ,_ゼド**（ID `E_char_アキラ,_ゼド` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **アキラくん,_ゼド**（ID `E_char_アキラくん,_ゼド` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アキラ | アキラくん | 高 | 4 |

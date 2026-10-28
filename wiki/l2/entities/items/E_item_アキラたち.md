@@ -11,10 +11,10 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/items/E_item_アキラたち.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
-# アキラたち
+# アキラくんたち
 
 迷路の奥から走ってくる四脚の正体不明の人形であり、こちらに向けて銃弾をばらまいて襲撃してくる存在である。その正体は明記されていないが、敵対的な攻撃行為を行うことが確認されている。
 
@@ -31,5 +31,14 @@ l2_run: 20261024T1608_fc8d
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **アキラたち**（ID `E_rel_アキラたち` / kind: relationship / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **アキラくんたち**（ID `E_rel_アキラくんたち` / kind: relationship / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アキラ | アキラくん | 高 | 3 |

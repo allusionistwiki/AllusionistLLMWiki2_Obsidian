@@ -34,7 +34,7 @@ def main():
                 if n not in alias_map:
                     low_map.setdefault(n, (canon, c))
 
-    pages = sorted(p for p in OUT.rglob("*.md") if p.name not in ("index.md", "normalized-index.md"))
+    pages = sorted(p for p in OUT.rglob("*.md") if p.name not in ("index.md", "normalized.md"))
     page_count = len(pages)
     audit_pages = 0
     banner_pages = 0
@@ -86,7 +86,7 @@ def main():
         stem = title_to_stem.get(c)
         cell = f"[[{stem}|{c}]]" if stem else f"**{c}**"
         body += f"| {cell} | {len(lst)} | {ex} |\n"
-    (OUT / "normalized-index.md").write_text(fm + body, encoding="utf-8")
+    (OUT / "normalized.md").write_text(fm + body, encoding="utf-8")
     print(json.dumps({
         "pages": page_count,
         "audit_pages": audit_pages,

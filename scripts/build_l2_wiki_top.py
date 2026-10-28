@@ -18,7 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "wiki" / "l2" / "index.md"
 LEDGER = Path("C:/Users/d5dx/Downloads/Code/AllusionistWiki_work")
-NORM = ROOT / "wiki" / "l2" / "normalized"
+NORM = ROOT / "wiki" / "l2"
 
 HIGH = {"高", "明言", "表記一致", "蓋然性高"}
 SITE = "https://allusionistwiki.github.io/AllusionistWiki2"
@@ -72,16 +72,16 @@ def main():
 
 L1 wiki の全ページに**名前統合・正規化処理を適用した解析層 wiki** です。同じ名前の人（别名・隠れ名・呼び方の変遷）を代表名に統合した本文と、その判断根拠（来歴・監査）を辿れる構造になっています。
 
-- 正規化 wiki に入る: [正規化Wiki 索引]({SITE}/L2/normalized/)
+- 正規化 wiki に入る: [正規化Wiki 索引]({SITE}/L2/)
 - 台帳 run: `{run_id}`（生成規則の中心）
 
 ## 正規化 wiki（メイン構造）
 
 L1 全 {norm_count} ページのミラー（同一相対パス）。高確度帯の别名→代表名のみ本文を置換し、各ページ末尾に置換監査表（元名義→代表名・確度・件数）を付けています。要検証・needs 系は置換せず注記に留め、過剰統合を避けています。
 
-- 正規化 wiki 索引: [{SITE}/L2/normalized/]({SITE}/L2/normalized/)
-- 登場人物（正規化後）: [{SITE}/L2/normalized/characters/]({SITE}/L2/normalized/characters/)
-- 容姿描写（正規化後）: [{SITE}/L2/normalized/appearances/]({SITE}/L2/normalized/appearances/)
+- 正規化 wiki 索引: [{SITE}/L2/]({SITE}/L2/)
+- 登場人物（正規化後）: [{SITE}/L2/characters/]({SITE}/L2/characters/)
+- 容姿描写（正規化後）: [{SITE}/L2/appearances/]({SITE}/L2/appearances/)
 
 ## 生成規則（台帳・索引）— 本 wiki の一要素
 

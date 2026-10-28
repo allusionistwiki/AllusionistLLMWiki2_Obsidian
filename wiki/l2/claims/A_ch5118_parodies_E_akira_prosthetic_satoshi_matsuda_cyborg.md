@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5118_parodies_E_akira_prosthetic_satoshi_matsuda_cyborg.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# アキラが義肢（機械化）を進めることでトリシューラに近付く描写は、サイボーグ文学における「身体改造による他者との融合」のメタファーである。
+# アキラくんが義肢（機械化）を進めることでトリシューラに近付く描写は、サイボーグ文学における「身体改造による他者との融合」のメタファーである。
 
 > 俺がサイボーグとして肉体を機械に置き換えていく度にカイン女に近付くように。目標が遠いのであれば、相対的な距離を縮めればいい。（p122）
 
@@ -31,8 +31,9 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| アキラ | アキラくん | 高 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |

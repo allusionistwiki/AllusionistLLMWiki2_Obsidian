@@ -9,7 +9,7 @@ canonical_name: "metaphor_of_stagnation"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_metaphor_of_stagnation.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5035_parodies_E_dream_lack_of_future_metaphor_of_stagnation]] — 「未来への展望など一つもない」という描写は、異世界ゼノグラシアが抱く典型的な「成長・開拓」の幻想を剥奪し、単なる反復と閉塞というメタファーへ変換している。
+- [[A_ch5035_parodies_E_dream_lack_of_future_metaphor_of_stagnation]] — 「未来への展望など一つもない」という描写は、異世界転生者が抱く典型的な「成長・開拓」の幻想を剥奪し、単なる反復と閉塞というメタファーへ変換している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 転生者 | ゼノグラシア | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「転生者」→ ゼノグラシア（要検証）

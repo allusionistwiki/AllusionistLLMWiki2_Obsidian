@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/items/E_item_手の平から溢れ出すクリアな輝き.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # 手の平から溢れ出すクリアな輝き
 
@@ -31,5 +31,5 @@ l2_run: 20261024T1608_fc8d
 
 この名義は **主人公** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_主人公`。
 
-この名義は L2 名前統合台帳の正規エンティティ **手の平から溢れ出すクリアな輝き**（ID `E_item_手の平から溢れ出すクリアな輝き` / kind: item / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **手の平から溢れ出すクリアな輝き**（ID `E_item_手の平から溢れ出すクリアな輝き` / kind: item / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->

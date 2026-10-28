@@ -32,5 +32,5 @@ created: "2026-09-30"
 
 この実体が所有する下位エンティティ: **世界槍の天頂**、**世界槍の天頂**、**世界槍の階層世界**、**世界槍の天頂**、**世界槍の階層世界**、**世界槍の天頂**、**世界槍の階層世界**。
 
-この名義は L2 名前統合台帳の正規エンティティ **世界槍**（ID `E_char_世界槍` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **世界槍**（ID `E_char_世界槍` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->

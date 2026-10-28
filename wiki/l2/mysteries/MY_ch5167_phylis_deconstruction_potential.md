@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5167_phylis_deconstruction_potential.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # phylis_deconstruction_potential
 
-アズ自身のフィリスの力が天使や神を解体しうるという直感。これが具体的な能力として顕現するか、あるいは制御不能な暴走を起こすか。
+アズーリア自身のフィリスの力が天使や神を解体しうるという直感。これが具体的な能力として顕現するか、あるいは制御不能な暴走を起こすか。
 
 **回収示唆**: 物語後半における『英雄』の役割の転換点。既存の秩序（天使・神）を破壊する手段として、または世界そのものを再構成する力として発動する。
 
@@ -30,8 +30,9 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 私 | カイン | 蓋然性高 | 2 |
+| アズ | アズーリア | 高 | 1 |

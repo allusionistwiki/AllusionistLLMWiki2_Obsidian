@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5482_lord_denron_motivation.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # lord_denron_motivation
 
-ロードデンドロンがティリビナの民の対立を顕在化させた真意。「ガロアンディアンへの仕掛け」の噂。第六階層勢力との関係性。
+ロードデンドロンがティリビナの民人の対立を顕在化させた真意。「ガロアンディアンへの仕掛け」の噂。第六階層勢力との関係性。
 
 **回収示唆**: 第五階層の政治的崩壊、ガロアンディアン（迷宮/領域）への侵攻作戦、ロードデンドロンと主人公勢力との直接対決。
 
@@ -31,8 +31,8 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ティリビナ人 | ティリビナの民 | 明言 | 1 |
+| ティリビナ | ティリビナの民 | 蓋然性高 | 1 |

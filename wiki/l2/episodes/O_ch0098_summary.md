@@ -24,7 +24,7 @@ terminology:
 items:
 - '[[E_item_霊王]]'
 normalized_from: l1/episodes/O_ch0098_summary.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # ch0098
 
@@ -70,7 +70,7 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

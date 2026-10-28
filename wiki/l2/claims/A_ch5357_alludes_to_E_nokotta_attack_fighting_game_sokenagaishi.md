@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5357_alludes_to_E_nokotta_attack_fighting_game_sokenagaishi.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# 最後の「発勁用意――NOKOTTA!!」という掛け声と動作は、格闘ゲーム『真・侍伝 YEOLKON』や『サムライスピリッツ』における必殺技「怒斗（ノコッタ）」のオマージュであり、スカルミリオーネが「ゲーム的な主人公」としての権能を行使する瞬間を示唆する。
+# 最後の「発勁用意――NOKOTTA!!」という掛け声と動作は、格闘ゲーム『真・侍伝 YEOLKON』や『サムライスピリッツ』における必殺技「怒斗（ノコッタ）」のオマージュであり、ルバーブが「ゲーム的な主人公」としての権能を行使する瞬間を示唆する。
 
 > 発勁用意――NOKOTTA!!（p366）
 
@@ -31,8 +31,11 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ルバーブ | スカルミリオーネ | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「ルバーブ」→ スカルミリオーネ（要検証）

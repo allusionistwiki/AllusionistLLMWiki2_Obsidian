@@ -9,7 +9,7 @@ canonical_name: "Platos_Cave_Allegory"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Platos_Cave_Allegory.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5580_analogous_to_E_ch5580_天頂城砦_defines_下の人間の平穏_p12_Platos_Cave_Allegory]] — 鈴国における天空が天蓋の大樹で覆われ、その構造自体が統治権力（第一家創世派/第一位巫女）によって管理・統括されているという描写は、世界観そのものが人工的な支配下にあることを示唆する。
+- [[A_ch5580_analogous_to_E_ch5580_天頂城砦_defines_下の人間の平穏_p12_Platos_Cave_Allegory]] — 鈴国における天空が天蓋で覆われ、その構造自体が統治権力（第一家創世派/第一位巫女）によって管理・統括されているという描写は、世界観そのものが人工的な支配下にあることを示唆する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 天蓋 | 天蓋の大樹 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「天蓋」→ 天蓋の大樹（要検証）

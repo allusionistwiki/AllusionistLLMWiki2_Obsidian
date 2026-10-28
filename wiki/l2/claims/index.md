@@ -3,7 +3,7 @@ title: アナロジークレーム全集（章・話別）
 id: claims/index
 description: 全アナロジークレームの章別・話別インデックス
 normalized_from: l1/claims/index.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # アナロギアクレーム全集（章・話別）
@@ -28,7 +28,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第5（カクヨム版）：カクヨム 第1章　隻腕義手のスワン　1-5　無彩色の左手、鎧の右手⑤
 
 - [[A_ch5005_alludes_to_E_p118-p121_modern_communication_overload|現代通信過負荷・断絶の象徴]]
-- [[A_ch5005_alludes_to_E_p13_shonen_rpg_battle_logic|ファルRPG戦闘論理の逆説]]
+- [[A_ch5005_alludes_to_E_p13_shonen_rpg_battle_logic|少年RPG戦闘論理の逆説]]
 - [[A_ch5005_analogous_to_E_p67_augmented_reality_social_media|ARネームタグによる認知浸透]]
 - [[A_ch5005_inverts_E_p45-p47_heroic_fantasy_cliche|英雄譚ステレオタイプの解体]]
 - [[A_ch5005_structurally_matches_E_p40-p42_magic_item_in_gacha_games|ガチャゲームのレアリティ演出]]
@@ -56,7 +56,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5009_alludes_to_E_p12_video_game_magic_systems|ゲーム的魔法体系の連想]]
 - [[A_ch5009_analogous_to_E_p112-p115_dungeon_master_sandbox_control|ダンジョンマスター制御の模倣]]
 - [[A_ch5009_analogous_to_E_p6-p9_modern_urban_sanitation_and_looting|遺体処理と略奪の合理主義]]
-- [[A_ch5009_inverts_E_p45-p49_reincarnation_power_fantasy|ゼノグラシア特権の逆説的退化]]
+- [[A_ch5009_inverts_E_p45-p49_reincarnation_power_fantasy|転生者特権の逆説的退化]]
 - [[A_ch5009_structurally_matches_E_p53-p59_team_bonding_rituals|チーム結束儀式の構造的一致]]
 
 ### 第10（カクヨム版）：カクヨム 第1章　隻腕義手のスワン　1-10　無彩色の左手、鎧の右手⑩
@@ -118,7 +118,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5018_analogous_to_E_p108_frankenstein_myth|フランケンシュタイン神話への準拠]]
 - [[A_ch5018_analogous_to_E_p121_online_identity|オンライン上のアイデンティティ指喩]]
 - [[A_ch5018_analogous_to_E_p28_dnd_magic_items|TRPG魔法道具のリソース管理]]
-- [[A_ch5018_inverts_E_p119_curse_logic|ネット文化的営為による呪術真名の相対化]]
+- [[A_ch5018_inverts_E_p119_curse_logic|ネット文化による呪術真名の相対化]]
 - [[A_ch5018_parodies_E_p61_misdirection_theater|呪術会話のミスディレクション構造]]
 
 ### 第19（カクヨム版）：カクヨム 第1章　隻腕義手のスワン　1-19　無彩色の左手、鎧の右手⑲
@@ -192,7 +192,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5026_parodies_E_翻訳のための拘束と通話_カスタマーサポート・チャットボットの会話ログ収集|チャットボット学習データ収集]]
 - [[A_ch5026_structurally_matches_E_第五階層での戦闘ルール_SNS・インターネット上の炎上・群衆心理|ネット炎上・群衆心理の構造]]
 
-### 第29（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-8　ゼノグラシア《ゼノグラシア》③
+### 第29（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-8　転生者《ゼノグラシア》③
 
 - [[A_ch5029_alludes_to_E_コルセスカの氷の家_透明性のない監視社会の建築パノプティコン|非対称な監視権の可視化]]
 - [[A_ch5029_analogous_to_E_アキラの孤立と暴力依存_植民地支配における言語障壁と暴力による秩序維持|言語断絶と暴力支配の縮図]]
@@ -201,7 +201,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5029_parodies_E_アキラの感情抑制_現代のSNSにおける自己検閲とメンタルヘルスアプリ|感情制御アプリのパロディ]]
 - [[A_ch5029_sublates_E_アキラの警戒と信頼の葛藤_ゼロ・トラストセキュリティZeroTrustArchitecture|人間版ゼロ・トラストの止揚]]
 
-### 第30（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-9　ゼノグラシア《ゼノグラシア》④
+### 第30（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-9　転生者《ゼノグラシア》④
 
 - [[A_ch5030_alludes_to_E_p87_enemy_marker_surveillance_society_tracking|監視社会・アルゴリズム評価]]
 - [[A_ch5030_analogous_to_E_p38_bus_fare_modern_wage_labor_exploitation|労働搾取と貧困のトラウマ]]
@@ -210,7 +210,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5030_analogous_to_E_p82_language_rights_intellectual_property_rights_system|知的財産権制度の異世界版]]
 - [[A_ch5030_parodies_E_p145_three_party_dungeon_rpg_standard_party|RPG定番パーティ構成のパロディ]]
 
-### 第31（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-10　ゼノグラシア《ゼノグラシア》⑤
+### 第31（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-10　転生者《ゼノグラシア》⑤
 
 - [[A_ch5031_alludes_to_E_ch5031_アキラ_thinks_暴力の境界線_p11_yakuza_etiquette|ヤクザの礼儀作法への転生]]
 - [[A_ch5031_alludes_to_E_ch5031_少年_appears_as_猫耳四つ耳_p31_kemonomimi_trope|獣耳の常套句の逆転]]
@@ -219,7 +219,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5031_analogous_to_E_ch5031_閃光符_functions_as_視覚奪取_p67_flashbang_grenade|スタングレネードへの転写]]
 - [[A_ch5031_structurally_matches_E_ch5031_階層の法_has_property_戦闘禁止の不適用_p24_zoning_laws|ゾーニング法規制の機能不全]]
 
-### 第33（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-12　ゼノグラシア《ゼノグラシア》⑦
+### 第33（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-12　転生者《ゼノグラシア》⑦
 
 - [[A_ch5033_analogous_to_E_ch5033_コルセスカ_other_松明の騎士団接近_p112_現代の政治的・組織的ステークホルダーへの接触リスク|組織間対立の巻き込みへの類似]]
 - [[A_ch5033_analogous_to_E_ch5033_コルセスカ_other_言語登録制度_p26_現代のSNSでの顔写真投稿・タグ付け|SNSタグ付けへの風刺]]
@@ -320,7 +320,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第49（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-28　魔女と狂犬⑭
 
 - [[A_ch5049_alludes_to_E_ch5049_氷球_functions_as_立体映像投影装置_p29_HoloLens等の空間計算機|HoloLens空間計算的な呪術構造]]
-- [[A_ch5049_alludes_to_E_ch5049_泉_is_made_of_第四階層の空間_p13_Minecraft等のブロック構築ゲーム|マインブリアー的拠点建築]]
+- [[A_ch5049_alludes_to_E_ch5049_泉_is_made_of_第四階層の空間_p13_Minecraft等のブロック構築ゲーム|マインクラフト的拠点建築]]
 - [[A_ch5049_analogous_to_E_ch5049_トリシューラ_reveals_核となるトラウマ／信条_p101_AIへの倫理的規制・人格権論争|AI人格権論争の象徴]]
 - [[A_ch5049_analogous_to_E_ch5049_泉_is_made_of_第四階層の空間_p13_AR技術／拡張現実|ARテレポート的拠点設置]]
 - [[A_ch5049_inverts_E_ch5049_アキラ_thinks_価値の相対性／欺瞞_p126_労働市場での評価・年功序列|社会的評価への批判的考察]]
@@ -371,7 +371,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5058_alludes_to_E_ch5058_猫耳の少年_asks_このまま皆さんの厚意に甘え続けるのも申し訳無いとも思ってます_p183_moral_debt_and_labor|倫理的負債と労働への暗喩]]
 - [[A_ch5058_analogous_to_E_ch5058_アキラ_thinks_需要と供給の問題_p16_labor_market_economics|労働市場経済学との類似]]
 - [[A_ch5058_inverts_E_ch5058_トリシューラ_says_私はアキラくんよりアキラくんの事を知っているの_p35_surveillance_privacy|自己欺瞞防止への逆転]]
-- [[A_ch5058_parodies_E_ch5058_アキラ_thinks_転生者と書いてゼノグラシアと読む_p11_japanese_reading_convention|当て字文化的営為のパロディ]]
+- [[A_ch5058_parodies_E_ch5058_アキラ_thinks_転生者と書いてゼノグラシアと読む_p11_japanese_reading_convention|当て字文化のパロディ]]
 - [[A_ch5058_parodies_E_ch5058_コルセスカ_attacks_トリシューラ_p158_school_bullying_comedy|日常喧嘩への脱構築パロディ]]
 - [[A_ch5058_structurally_matches_E_ch5058_トリシューラ_says_三日間は後攻である私の手番_p89_turn_based_game_mechanics|ターン制交渉メタファーとの対応]]
 
@@ -413,7 +413,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第65（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-44　春の魔女④
 
 - [[A_ch5065_analogous_to_E_ch5065_アキラ_other_格差への恐怖_p56_insurance_gap_society|保険格差社会における自己責任論の象徴]]
-- [[A_ch5065_analogous_to_E_ch5065_ティリビナ人_other_建造物創造能力_p209_cultural_asset_conversion_loss|文化的営為資産喪失と先住民族の土地剥奪の類似]]
+- [[A_ch5065_analogous_to_E_ch5065_ティリビナ人_other_建造物創造能力_p209_cultural_asset_conversion_loss|文化資産喪失と先住民族の土地剥奪の類似]]
 - [[A_ch5065_analogous_to_E_ch5065_松明の騎士団_other_救済対象_p173_missionary_colonialism|宣教師植民地主義による階級固定化の象徴]]
 - [[A_ch5065_analogous_to_E_ch5065_隔離区画_is_located_ゲットー的様相_p37_historical_ghetto_system|歴史的ゲットーに見る少数派の自己隔離構造]]
 - [[A_ch5065_structurally_matches_E_ch5065_レオ_says_声の冷たさ_p14_semantic_vs_paralinguistic_communication|パラ言語情報による非言語コミュニケーション]]
@@ -544,7 +544,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5083_alludes_to_E_ch5083_氷細工の義手_has_property_時間軸改変_p26_time_stop_ability|時間停止能力の回避手段]]
 - [[A_ch5083_analogous_to_E_ch5083_蛇_other_アプリケーション群_p34_smartphone_app_list|スマホアプリ削除構造]]
 - [[A_ch5083_inverts_E_ch5083_E-E_defines_精神の装具_p172_psychological_prosthesis|心理的義肢への外注化]]
-- [[A_ch5083_parodies_E_ch5083_アキラ_dies_断絶_p11_game_save_corruption|セーブ破損へのゼノグラシア記憶リセット暗示]]
+- [[A_ch5083_parodies_E_ch5083_アキラ_dies_断絶_p11_game_save_corruption|セーブ破損への転生者記憶リセット暗示]]
 - [[A_ch5083_structurally_matches_E_ch5083_アキラ_thinks_慣性と停止_p187_physics_law_inertia|物理法則の慣性]]
 - [[A_ch5083_sublates_E_ch5083_コルセスカ_attacks_首筋咬傷_p75_vampire_drain|吸血・情報転送]]
 
@@ -561,7 +561,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5086_analogous_to_E_ch5086_コルセスカ_observes_アキラの変質_p23_zombie_apocalypse_survival|ゾンビ生存恐怖による境界線機能不全の描写]]
 - [[A_ch5086_analogous_to_E_ch5086_コルセスカ_other_アキラとの共有_p130_data_synchronization_upload|データの同期アップロード]]
-- [[A_ch5086_parodies_E_ch5086_アキラ_other_参戦許可_p158_shonen_hero_monologue|ファル漫画的独白]]
+- [[A_ch5086_parodies_E_ch5086_アキラ_other_参戦許可_p158_shonen_hero_monologue|少年漫画的独白]]
 - [[A_ch5086_parodies_E_ch5086_コルセスカ_remembers_吸血の瞬間_p5_vampire_romance_trope|吸血鬼ロマンの逆転]]
 
 ### 第87（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-66　涙の価値③
@@ -710,7 +710,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5106_analogous_to_E_5106_p37_pharmaceutical_blister_pack|PTP包装形態の戦闘薬]]
 - [[A_ch5106_analogous_to_E_5106_p78_mechanical_gear_system|機械仕掛け義肢の駆動]]
 - [[A_ch5106_analogous_to_E_5106_p87_procedural_memory_theory|手続き記憶理論による技術維持]]
-- [[A_ch5106_parodies_E_5106_p47_rpg_status_screen|RPGステータス画面のゼノグラシア解析]]
+- [[A_ch5106_parodies_E_5106_p47_rpg_status_screen|RPGステータス画面の転生者解析]]
 
 ### 第107（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-86　サイバネティクスとオカルティズムの幸福なマリアージュ②
 
@@ -725,8 +725,8 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5108_alludes_to_E_ch5108_ウィッチ_order_functions_as_神話摸倣者_p113_digital_manufacturing_resin_printing|意思混合のレジン印刷的実体化]]
 - [[A_ch5108_alludes_to_E_ch5108_ウィッチオーダー_defines_七十一姉妹の能力参照_p98_smartphone_app_ecosystem|スマホアプリ生態系の能力呼び出し]]
-- [[A_ch5108_analogous_to_E_ch5108_ウィッチ_order_functions_as_神話摸倣者_p113_open_source_license_viral_infection|伝承改変のパロディ文化的営為アナロギア]]
-- [[A_ch5108_analogous_to_E_ch5108_神働術_defines_聖人のエピソード摸倣_p72_nft_metadata_speculation|聖人模倣のリミックス文化的営為属性付与]]
+- [[A_ch5108_analogous_to_E_ch5108_ウィッチ_order_functions_as_神話摸倣者_p113_open_source_license_viral_infection|伝承改変のパロディ文化アナロギア]]
+- [[A_ch5108_analogous_to_E_ch5108_神働術_defines_聖人のエピソード摸倣_p72_nft_metadata_speculation|聖人模倣のリミックス文化属性付与]]
 - [[A_ch5108_inverts_E_ch5108_ウィッチオーダー_functions_as_神話摸倣者_p113_ai_learning_model|伝承エミュレーションのAI学習モデル]]
 - [[A_ch5108_parodies_E_ch5108_キロン_teleports_アキラ_p8_game_bug_glitch|ゲームバグとしての物理法則破綻のメタファー]]
 - [[A_ch5108_structurally_matches_E_ch5108_アキラ_other_キロン_p125_fps_game_hitbox_mechanics|FPSヒットボックス式距離短縮戦闘]]
@@ -761,7 +761,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第113（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-92　サイバネティクスとオカルティズムの幸福なマリアージュ⑧
 
 - [[A_ch5113_alludes_to_E_akira_vision_digital_makeup|デジタル化粧による価値観操作の暗示]]
-- [[A_ch5113_analogous_to_E_net_novel_effect_hyperlink_culture|ハイパーリンク文化的営為の呪術的拡張]]
+- [[A_ch5113_analogous_to_E_net_novel_effect_hyperlink_culture|ハイパーリンク文化の呪術的拡張]]
 - [[A_ch5113_analogous_to_E_paper_money_fiat_currency|法定通貨のミーム供給構造の類似]]
 - [[A_ch5113_inverts_E_kilon_defeat_hero_narrative_cliche|英雄叙事の常套を蹂躙で無効化する逆転]]
 - [[A_ch5113_parodies_E_idol_performance_media_mix|メディアミックス装置の風刺的模倣]]
@@ -796,7 +796,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5117_inverts_E_ch5117_p132_自己犠牲の騎士道|悪役による自己汚染への倫理観の反転]]
 - [[A_ch5117_parodies_E_ch5117_p46_八百万の神|字義通り解釈による眼球軍勢への翻訳誤解]]
 
-### 第118（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-97　転章『その名はアズ』
+### 第118（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-97　転章『その名はアズーリアーリア』
 
 - [[A_ch5118_alludes_to_E_sati_mythology_hindu_sati_custom|サティと破壊再生の暗喩]]
 - [[A_ch5118_alludes_to_E_trishula_name_origin_hindu_mythology_trishula|トリシューラの権威付け]]
@@ -900,7 +900,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第132（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-13　言の葉遣いは躊躇わない⑧
 
 - [[A_ch5132_alludes_to_E_p162_UV_Protection_Products|紫外線防御製品としての呪術]]
-- [[A_ch5132_alludes_to_E_p169_Pygmy_Culture|ピグミー文化的営為の言語的独自性]]
+- [[A_ch5132_alludes_to_E_p169_Pygmy_Culture|ピグミー文化の言語的独自性]]
 - [[A_ch5132_alludes_to_E_p170_Alchemy_Angel|錬金術守護天使の権威構造]]
 - [[A_ch5132_analogous_to_E_p209_Moral_Injury|道徳的外傷としての仲間犠牲]]
 - [[A_ch5132_analogous_to_E_p46_Microwave_Oven|電子レンジ原理による魔法実装]]
@@ -926,7 +926,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第135（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-16　言の葉遣いは躊躇わない⑪
 
-- [[A_ch5135_alludes_to_E_ch5135_アズーリア_other_猫に名付けられた子供_p54_Transmigrator_Name_Meaning|ゼノグラシアの命名依存による自己内省欠如]]
+- [[A_ch5135_alludes_to_E_ch5135_アズーリア_other_猫に名付けられた子供_p54_Transmigrator_Name_Meaning|転生者の命名依存による自己内省欠如]]
 - [[A_ch5135_analogous_to_E_ch5135_ハルベルト_other_近代呪術の定義_p22_Post_Modern_Narrative|ポストモダンナラティブにおける主観衝突]]
 - [[A_ch5135_analogous_to_E_ch5135_心話_functions_as_認識共有_p18_Social_Media_Viral_Trend|SNS的拡散現象としての認識即実体化]]
 - [[A_ch5135_structurally_matches_E_ch5135_ハルベルト_other_専門分野での流暢さ_p24_Intellectual_Hyperfocus|知的過集中による専門知識介在の対人関係]]
@@ -993,7 +993,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5147_parodies_E_ch5147_アキラ_says_嘘_p4_異世界転生作品の主人公による死の否定ハルシネーション・現実拒否|セーブデータへの期待と否認]]
 - [[A_ch5147_structurally_matches_E_ch5147_プリエステラ_says_うろの中の秘密レルプレア_p84_古代ケルトのドルイド教・森の精霊信仰と自然崇拝|野蛮な自然神への祭祀形態]]
 
-### 第149（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-30　エル・ア・フィリス語りて曰く①
+### 第149（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-30　言理の妖精語りて曰く①
 
 - [[A_ch5149_alludes_to_E_p65_Organ_Rode|技術自壊を擬似古代語で命名]]
 - [[A_ch5149_analogous_to_E_p166_RPG_Critical_Hit|TRPG判定音の戦闘導入]]
@@ -1002,7 +1002,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5149_analogous_to_E_p236_Rodinio_Three_Legged_Birds|三足烏伝承の死者案内役]]
 - [[A_ch5149_structurally_matches_E_p80_Harry_Potter_House_Rivalry|派閥競争・選民思想の残酷な淘汰]]
 
-### 第150（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-31　エル・ア・フィリス語りて曰く②
+### 第150（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-31　言理の妖精語りて曰く②
 
 - [[A_ch5150_alludes_to_E_使い魔の形状_聖書エゼキエル書の天使オファニム／チャイオト|オファニムの車輪状天使図像]]
 - [[A_ch5150_analogous_to_E_ナトの窒息呪術_現代の密閉容器／潜水装備|生存装置による酸素遮断対策]]
@@ -1013,7 +1013,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5150_analogous_to_E_ミルーニャの肉体_がん細胞／テロメア制御不全による不死化細胞|不死化細胞のテロメア劣化回避]]
 - [[A_ch5150_parodies_E_ミルーニャの台詞_メタゲーム的な攻略済み宣言|詰み宣言の余裕]]
 
-### 第151（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-32　エル・ア・フィリス語りて曰く③
+### 第151（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-32　言理の妖精語りて曰く③
 
 - [[A_ch5151_alludes_to_E_prisestera_medic_last_tribal_healer|最後の治療者喪失]]
 - [[A_ch5151_analogous_to_E_harbert_tampering_deepfake_manipulation|ディープフェイク操作]]
@@ -1021,7 +1021,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5151_analogous_to_E_ilse_defense_medic_neutrality_doctrine|医療中立原則]]
 - [[A_ch5151_parodies_E_tiribina_history_environmental_destruction_genocide|テラ・ポミナ化]]
 
-### 第152（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-33　エル・ア・フィリス語りて曰く④
+### 第152（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-33　言理の妖精語りて曰く④
 
 - [[A_ch5152_alludes_to_E_ch5152_アズ_confesses_妹の魂奪取_p44_Greek_Mythology_Hades_Persephone|ペルセフォネ神話]]
 - [[A_ch5152_alludes_to_E_ch5152_ハルベルト_says_鮮血呪の提案_p67_Death_Drive_Concept|死の欲動]]
@@ -1030,14 +1030,14 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5152_analogous_to_E_ch5152_ペレケテンヌル_other_天恵ギフト_p177_Sadomasochism_Psychology|サドマゾヒズム心理]]
 - [[A_ch5152_inverts_E_ch5152_ナト_defines_祝福者_p173_Divine_Blessing_Trope|祝福＝呪い]]
 
-### 第153（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-34　エル・ア・フィリス語りて曰く⑤
+### 第153（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-34　言理の妖精語りて曰く⑤
 
 - [[A_ch5153_alludes_to_E_ch5153_広場_is_located_洞窟外_p2_Corporate_Slogan_Branding|企業スローガン・ブランディング]]
 - [[A_ch5153_alludes_to_E_ch5153_広場_is_located_洞窟外_p2_Gacha_Game_Summoning|ガチャ召喚維持]]
 - [[A_ch5153_parodies_E_ch5153_広場_is_located_洞窟外_p2_Anime_Villain_Trope|アニメ的ヴィラン]]
 - [[A_ch5153_structurally_matches_E_ch5153_広場_is_located_洞窟外_p2_RPG_Elemental_Types|RPG属性相性]]
 
-### 第154（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-35　エル・ア・フィリス語りて曰く⑥
+### 第154（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-35　言理の妖精語りて曰く⑥
 
 - [[A_ch5154_alludes_to_E_Milunya_LastWitch_FateRewriting,TragedyHeroine|運命書き換えへの悲劇的ヒロイン反逆]]
 - [[A_ch5154_analogous_to_E_Mirunya_Cost_Payment_Gacha_Ceiling,MobileGame_Crafting_System|ガチャ天井・無双のコスト踏み倒し]]
@@ -1046,7 +1046,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5154_parodies_E_Milunya_Flag_Effect_MassPropaganda,Totalitarianism,RadicalizationAlgorithms|全体主義扇動の戦場旗パロディ]]
 - [[A_ch5154_structurally_matches_E_Tribina_TreeConstruction_HumanPyramid,ChickenRopeFormation|人体ピラミッドの個の消失と一体化]]
 
-### 第155（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-36　エル・ア・フィリス語りて曰く⑦
+### 第155（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-36　言理の妖精語りて曰く⑦
 
 - [[A_ch5155_alludes_to_E_ch5155_アキラ_helps_フィリス_p2_Brainwashing_and_Corporate_Compliance|洗脳・企業コンプライアンスの手駒化]]
 - [[A_ch5155_alludes_to_E_ch5155_アキラ_helps_フィリス_p2_Traffic_Accident_Reincarnation|トラック転生の英雄強制への逆説言及]]
@@ -1054,7 +1054,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5155_parodies_E_ch5155_アキラ_helps_フィリス_p2_Self-Hypnosis_and_Power-Up_Mechanics|自己暗示強化へのファンタジー相対化]]
 - [[A_ch5155_structurally_matches_E_ch5155_アキラ_helps_フィリス_p2_Corporate_Cartel_and_Niche_Marketing|企業カルテル・ニッチマーケの冒険転換]]
 
-### 第156（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-37　エル・ア・フィリス語りて曰く⑧
+### 第156（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-37　言理の妖精語りて曰く⑧
 
 - [[A_ch5156_alludes_to_E_ch5156_ハルベルト_activates_静謐_p149_nuclear_deterrence_mutually_assured_destruction|相互確証破壊の静止パラドックス]]
 - [[A_ch5156_analogous_to_E_ch5156_ハルベルト_activates_レトロウイルス対策_p125_biological_macrophage_antibody|マクロファージ・抗体の記号的逆利用]]
@@ -1062,7 +1062,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5156_parodies_E_ch5156_巨大企業_conceals_増産能力_p14_pharmaceutical_industry_monopoly|製薬業界の独占による希少性演出]]
 - [[A_ch5156_structurally_matches_E_ch5156_アキラ_thinks_イキューへの虐待_p101_cycle_of_violence_abuse_survivor|暴力の連鎖によるトラウマ再生産]]
 
-### 第157（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-38　エル・ア・フィリス語りて曰く⑨
+### 第157（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-38　言理の妖精語りて曰く⑨
 
 - [[A_ch5157_alludes_to_E_p140_nail_peeling_trichotillomania_bexs|抜毛症を模した自傷行為の変質]]
 - [[A_ch5157_alludes_to_E_p23_labyrinth_truth_war_of_attrition_ww1|第一次大戦の消耗戦への転生]]
@@ -1070,16 +1070,16 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5157_inverts_E_p104_cerlatris_prayer_buddhist_attachment_aversion|仏教的執着の逆転としての祈り拒否]]
 - [[A_ch5157_structurally_matches_E_p123_trial_procedure_surgical_procedure_modern|侵襲的手技による身体部品化]]
 
-### 第158（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-39　エル・ア・フィリス語りて曰く⑩
+### 第158（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-39　言理の妖精語りて曰く⑩
 
 - [[A_ch5158_alludes_to_E_ch5158_ミルーニャ_confesses_利己性_p78_Psychopathy,Narcissism|サイコパス的共感の虚構露呈]]
 - [[A_ch5158_alludes_to_E_ch5158_静謐_functions_as_悪意の解釈_p15_History_Manipulation,Narrative_Power|歴史改変権力としての呪術]]
-- [[A_ch5158_analogous_to_E_ch5158_アズーリア_other_神話揺動者_p90_Social_Media_Influence,Cultural_Shift|SNS文化的営為変容を模した神話規定権力の行使]]
+- [[A_ch5158_analogous_to_E_ch5158_アズーリア_other_神話揺動者_p90_Social_Media_Influence,Cultural_Shift|SNS文化変容を模した神話規定権力の行使]]
 - [[A_ch5158_inverts_E_ch5158_ミルーニャ_confesses_自己愛_p70_Traditional_Heroism,Self_Sacrifice|不死のための自己愛への逆転]]
 - [[A_ch5158_parodies_E_ch5158_アズーリア_thinks_再構成_p18_Narrative_Reconstruction,Trauma_Therapy|トラウマ再構成による戦闘記述の意味書き換え]]
 - [[A_ch5158_structurally_matches_E_ch5158_アズーリア_says_語り開始_p3_Deepfake,Roleplay,Unreliable_Narrator|ディープフェイクによる自我侵食]]
 
-### 第159（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-40　エル・ア・フィリス語りて曰く⑪
+### 第159（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-40　言理の妖精語りて曰く⑪
 
 - [[A_ch5159_alludes_to_E_p166_1_biblical_ezekiel_angel|エゼキエルの天使の越界的威厳]]
 - [[A_ch5159_analogous_to_E_p204_1_science_fiction_weapons|SF兵器による魔法科学の境界侵食]]
@@ -1088,7 +1088,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5159_structurally_matches_E_p157_1_deleuze_guattari_rhizome|リゾーム哲学による世界構造説明]]
 - [[A_ch5159_sublates_E_p130_1_postmodern_truth_and_myth|ポストモダン的真理への昇華]]
 
-### 第160（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-41　エル・ア・フィリス語りて曰く⑫
+### 第160（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-41　言理の妖精語りて曰く⑫
 
 - [[A_ch5160_alludes_to_E_ch5160_ハルベルト_has_property_使命_p65_linguistic_determinism_and_logos|ロゴス支配論の暗喩]]
 - [[A_ch5160_alludes_to_E_ch5160_大神院_other_内部テロリスト_p35_tolerated_corruption_in_bureaucracies|官僚制腐敗黙認の暗喩]]
@@ -1098,7 +1098,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5160_parodies_E_ch5160_ハルベルト_defines_異端審問官の役割_p24_inquisitorial_archetypes|異端審問官像のパロディ]]
 - [[A_ch5160_structurally_matches_E_ch5160_ハルベルト_other_絶対言語の再生_p73_restoration_of_lost_paradise|失われた楽園回復の構造対応]]
 
-### 第161（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-42　エル・ア・フィリス語りて曰く⑬
+### 第161（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-42　言理の妖精語りて曰く⑬
 
 - [[A_ch5161_alludes_to_E_Black_Lily_Memory_Wipe_Freud_Repression_Trauma|記憶操作による外部介入型アイデンティティ破壊]]
 - [[A_ch5161_analogous_to_E_Azuria_Shrinkage_MobileGame_PowerCreep_LimitBreak|限界突破による身体縮小]]
@@ -1139,7 +1139,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5167_alludes_to_E_ch5167_アズ_other_英雄としての適格性_p195_impostor_syndrome|インポスター症候群への転生]]
 - [[A_ch5167_analogous_to_E_ch5167_松明の騎士団_other_武力と啓蒙_p139_military_police_division|軍警機能分担の寓話]]
-- [[A_ch5167_analogous_to_E_ch5167_神官たち_other_羊人種_p52_pet_culture_commodification|ペット食文化的営為化の暗示]]
+- [[A_ch5167_analogous_to_E_ch5167_神官たち_other_羊人種_p52_pet_culture_commodification|ペット食文化化の暗示]]
 - [[A_ch5167_analogous_to_E_ch5167_臨死体験_other_霊体強度_p164_trauma_informed_care|トラウマ後成長の転生]]
 
 ### 第169（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-48　松明の騎士団③
@@ -1190,7 +1190,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5175_alludes_to_E_akashic_records_spear_computer_console_kernel|世界OSカーネルとしての紀元槍]]
 - [[A_ch5175_analogous_to_E_wave_function_interference_derrida_différance|デリダのディファランスへの置換]]
 - [[A_ch5175_analogous_to_E_wordquake_babel_myth|バベルの塔的な言語混濁災害]]
-- [[A_ch5175_inverts_E_harubert_secret_idol_secret_identity|ダウザール二重生活の喜劇的解消]]
+- [[A_ch5175_inverts_E_harubert_secret_idol_secret_identity|アイドル二重生活の喜劇的解消]]
 - [[A_ch5175_parodies_E_double_slit_experiment_quantum_mechanics_double_slit|邪視による二重スリット実験パロディ]]
 - [[A_ch5175_structurally_matches_E_four_witches_goals_rpg_mechanics|RPG的メタ構造としての呪術]]
 
@@ -1261,7 +1261,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5186_analogous_to_E_p186_Party_Formation|パーティ編成バフの呪力上昇]]
 - [[A_ch5186_analogous_to_E_p3-p5_CharacterCreation_RPG|キャラ作成プロセスの模倣]]
 - [[A_ch5186_analogous_to_E_p64_AR_Filter|ARフィルター的なミーム可視化]]
-- [[A_ch5186_parodies_E_p131_Gaming_Trolling|ゲーマー煽り文化的営為のパロディ]]
+- [[A_ch5186_parodies_E_p131_Gaming_Trolling|ゲーマー煽り文化のパロディ]]
 - [[A_ch5186_parodies_E_p21_Bullying_School|模倣生物へのいじめ的罵倒]]
 - [[A_ch5186_structurally_matches_E_p59_School_System_Magic|魔法学校制度の構造対応]]
 
@@ -1352,7 +1352,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第202（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-77　睥睨するエクリーオベレッカ②
 
-- [[A_ch5202_analogous_to_E_ch5202_守護の九槍第五位_other_浄界_p176_ME_Pipe_Organ_Concert|パイプオルガン権威としての楽園支配]]
+- [[A_ch5202_analogous_to_E_ch5202_守護の九槍第五位_other_浄界_p176_ME_Pipe_Organ_Concert|パイプオルガン権威としての浄界支配]]
 - [[A_ch5202_analogous_to_E_ch5202_映像投影鏡_functions_as_中央祭壇の大写し_p5_ME_Multiview_Screen|マルチビュー配信を模した積層投影鏡]]
 - [[A_ch5202_analogous_to_E_ch5202_神働装甲_functions_as_カラス型と人型の二形態変形_p218_ME_Transforming_Vehicle_Toy|変形玩具メカニクスを模倣した装甲]]
 - [[A_ch5202_analogous_to_E_ch5202_葬送式典_defines_地上全土への配信_p6_ME_Sports_Event_Circus|スポーツ曲芸化された宗教的儀式]]
@@ -1414,7 +1414,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第216（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-91　チョコレートリリーの子供たち②
 
-- [[A_ch5216_alludes_to_E_ch5216_プロトプラズマ_transforms_癌細胞_p320323_cancer_metaphor|楽園侵食の癌増殖メタファー]]
+- [[A_ch5216_alludes_to_E_ch5216_プロトプラズマ_transforms_癌細胞_p320323_cancer_metaphor|浄界侵食の癌増殖メタファー]]
 - [[A_ch5216_analogous_to_E_ch5216_リーナ_other_差別発言_p1532_racism_and_hybridity|翼耳欠如への純血主義差別]]
 - [[A_ch5216_analogous_to_E_ch5216_リーナ_other_炎上_p3_social_media_cancellation|薬物制裁のSNS炎上構造]]
 - [[A_ch5216_analogous_to_E_ch5216_リーナ_says_恐怖と叫び_p157_game_difficulty_rage|高難度敵へのゲーム激怒表現]]
@@ -1451,7 +1451,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5220_analogous_to_E_ch5220_アキラ_says_パルプフィクション_p308_メタフィクション物語内の物語|紙片によるメタフィクショナル殺害]]
 - [[A_ch5220_analogous_to_E_ch5220_フィリス_has_property_非実体として強大_p10_ソフトウェアのUI／インターフェース|宿主依存のソフトウェア的言理構造]]
 - [[A_ch5220_analogous_to_E_ch5220_プリエステラ_has_property_樹木系種族_p186_時間圧縮と生物学的寿命|樹木タイムスケールでの老化再解釈]]
-- [[A_ch5220_analogous_to_E_ch5220_歌姫_has_property_格の差_p30_現代アイドルのライブ経済圏|ダウザールライブ型の呪力循環]]
+- [[A_ch5220_analogous_to_E_ch5220_歌姫_has_property_格の差_p30_現代アイドルのライブ経済圏|アイドルライブ型の呪力循環]]
 - [[A_ch5220_structurally_matches_E_ch5220_ナト_gives_神働装甲二型_p253_カスタムメイドの工業製品受注生産|現場を模倣した特注開発]]
 
 ### 第221（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-96　それは、世界がこんなにも光に満ち溢れているから②
@@ -1543,13 +1543,13 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5232_alludes_to_E_p32-p36_Metaphysical_Agates|天眼石の魔除けとしての気流路機能]]
 - [[A_ch5232_analogous_to_E_p107-p113_Fitness_App_Data_Economy|フィットネスアプリのデータ提供構造]]
 - [[A_ch5232_analogous_to_E_p20-p21_AR_game_companion_app|ARサポートUIの戦術サジェスト機能]]
-- [[A_ch5232_inverts_E_p128-p130_Traditional_Martial_Arts_Culture|伝統武道文化的営為の緊迫性排除と娯楽化]]
+- [[A_ch5232_inverts_E_p128-p130_Traditional_Martial_Arts_Culture|伝統武道文化の緊迫性排除と娯楽化]]
 - [[A_ch5232_parodies_E_p80_Monster_Hunt_Rank_Icons|アクションゲームUI演出のパロディ的再現]]
 - [[A_ch5232_structurally_matches_E_p181_Sports_Arena_Advertising|競技場広告の動的表示による観客誘導]]
 
 ### 第233（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-2　風の吹く丘
 
-- [[A_ch5233_alludes_to_E_p98_mongolian_deel_and_nomadic_culture|モンゴル服デールへの文化的営為的参照]]
+- [[A_ch5233_alludes_to_E_p98_mongolian_deel_and_nomadic_culture|モンゴル服デールへの文化的参照]]
 - [[A_ch5233_inverts_E_p227_labor_standards_and_black_corporate_culture|魔法社会へのブラック企業批判逆転]]
 - [[A_ch5233_parodies_E_p11_cyberpunk_workforce_exploitation|呪術による身体改変と労働搾取パロディ]]
 - [[A_ch5233_structurally_matches_E_p106_e-sports_and_proxied_warfare|ドローン戦争とeスポーツ代理戦争構造対応]]
@@ -1565,13 +1565,13 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第235（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-4　ダモクレスの剣
 
 - [[A_ch5235_alludes_to_E_5235_P326_damocles_sword|ダモクレスの剣による権力脆さの暗喩]]
-- [[A_ch5235_analogous_to_E_5235_P122_freeter_culture|フリーター文化的営為の境界溶解]]
+- [[A_ch5235_analogous_to_E_5235_P122_freeter_culture|フリーター文化の境界溶解]]
 - [[A_ch5235_analogous_to_E_5235_P14_age_calculation_logic|転生パラメータによる年齢計算ロジック]]
 - [[A_ch5235_analogous_to_E_5235_P218_master_apprentice_trope|旧倫理解放を示す師弟関係のトロップ]]
 - [[A_ch5235_analogous_to_E_5235_P343_spear_vs_sword_symbolism|秩序と裁きの象徴としての槍剣定義]]
 - [[A_ch5235_analogous_to_E_5235_P35_fashion_model_profession|異世界へのファッション論理浸透]]
 - [[A_ch5235_analogous_to_E_5235_P40_gun_safety_device|上位許可依存の暴力独占と規制構造]]
-- [[A_ch5235_analogous_to_E_5235_P71_cultural_industrial_complex|呪力生産管理における文化的営為産業搾取]]
+- [[A_ch5235_analogous_to_E_5235_P71_cultural_industrial_complex|呪力生産管理における文化産業搾取]]
 
 ### 第236（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-5　白眉のイアテム
 
@@ -1587,7 +1587,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5237_alludes_to_E_ch5237_ダモクレスの剣_appears_刺客選定の指針_p378_ME_damocles_sword_myth|ダモクレスの剣による選定]]
 - [[A_ch5237_analogous_to_E_ch5237_トリシューラ_conceals_個人の特定_p141_ME_anonymized_gameplay|匿名化マルチプレイの構造]]
 - [[A_ch5237_analogous_to_E_ch5237_メガコーポ_suspects_探索者集団の背後_p47_ME_corporate_exploration_metaphor|企業依存冒険者のメタファー]]
-- [[A_ch5237_analogous_to_E_ch5237_文化的営為_functions_as_呪力の発生源_p10_ME_cultural_production_power|文化的営為消費の動力化]]
+- [[A_ch5237_analogous_to_E_ch5237_文化的営為_functions_as_呪力の発生源_p10_ME_cultural_production_power|文化消費の動力化]]
 - [[A_ch5237_analogous_to_E_ch5237_日本語暗号化システム_has_property_文脈依存の意味変化_p168_ME_context_dependent_language|文脈依存言語の暗号化]]
 - [[A_ch5237_analogous_to_E_ch5237_空間圧縮技術_enables_倉庫の廃止と地下・上層への建設_p26_ME_cloud_storage_compression|クラウドストレージの圧縮]]
 - [[A_ch5237_inverts_E_ch5237_アキラ_observes_転倒した光景_p103_ME_labor_inversion_dystopia|労働逆転 dystopia]]
@@ -1624,7 +1624,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5241_alludes_to_E_p380_anarchist_individualism|個人主義無政府思想への共鳴]]
 - [[A_ch5241_analogous_to_E_p101_territorial_marking|テリトリーマーキングの心理的応用]]
-- [[A_ch5241_analogous_to_E_p309_desire_as_power_source|欲望源の呪力化と消費文化的営為]]
+- [[A_ch5241_analogous_to_E_p309_desire_as_power_source|欲望源の呪力化と消費文化]]
 - [[A_ch5241_analogous_to_E_p54-p60_tsundere_comedy|ツンデレ・コメディ構造の模倣]]
 - [[A_ch5241_parodies_E_p187_spam_mail_ad|ワンクリック詐欺広告のパロディ]]
 - [[A_ch5241_parodies_E_p3-p15_android_romance_trope|機械と人間性境界のメタフィクション]]
@@ -1634,7 +1634,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第242（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-11　ゼド
 
 - [[A_ch5242_analogous_to_E_p134_cheap_illegal_drugs_addiction_crisis|安価な薬物依存の社会侵食メタファー]]
-- [[A_ch5242_analogous_to_E_p198_viral_content_memory_decay|バズ文化的営為とコンテンツ散逸の比喩]]
+- [[A_ch5242_analogous_to_E_p198_viral_content_memory_decay|バズ文化とコンテンツ散逸の比喩]]
 - [[A_ch5242_analogous_to_E_p209_commodity_fetishism_marx|商品フェティシズムの力への転換]]
 - [[A_ch5242_analogous_to_E_p268_jung_collective_unconscious|集合無意識のアストラル界ネット化]]
 - [[A_ch5242_analogous_to_E_p80_military_robotization_and_special_forces|無人兵器普及に伴う兵士超人化]]
@@ -1652,7 +1652,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第245（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-14　ステュクス
 
 - [[A_ch5245_alludes_to_E_5245_Akira_Internal_Ki_Tai_Chi_Push_Hands|太極拳の推手に基づく受け流し]]
-- [[A_ch5245_alludes_to_E_5245_Styx_Spell_Greek_Mythology_Styx_River|ステュクスを模した楽園描写]]
+- [[A_ch5245_alludes_to_E_5245_Styx_Spell_Greek_Mythology_Styx_River|ステュクスを模した浄界描写]]
 - [[A_ch5245_alludes_to_E_5245_Vik_Name_Dismaer_Wiktorija_Latin|ラテン語名と愛称の権力構造メタファー]]
 - [[A_ch5245_alludes_to_E_5245_Vik_Oath_Legal_Contract_Pact|物理法則超える契約の超越性]]
 - [[A_ch5245_alludes_to_E_5245_Vik_Phallus_Moon_Surrealist_Art_Dali_Melting_Watch|ダリの溶ける時計的シュルレアリスム]]
@@ -1673,7 +1673,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5248_analogous_to_E_illness_system_overload|システム過負荷による体調悪化]]
 - [[A_ch5248_parodies_E_rpg_game_otome_games|乙女ゲーム構造の歴史改変実装]]
 
-### 第249（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-18　塔トーナメント①
+### 第249（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-18　星見の塔トーナメント①
 
 - [[A_ch5249_alludes_to_E_ch5249_カニャッツォ_appears_as_ブルドッグ獣人_p169_プロレスラーブリティッシュブルドッグ等|レスラーの転身劇的な興行移籍]]
 - [[A_ch5249_analogous_to_E_ch5249_カーイン対策_functions_as_トップメタ_p133_格闘ゲームのメタゲーム|メタゲーム構造への類似]]
@@ -1683,7 +1683,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5249_parodies_E_ch5249_行司シューラ_other_試合_p100_相撲の行司|SF的行司のパロディ化]]
 - [[A_ch5249_structurally_matches_E_ch5249_グラッフィアカーネ_defeats_カーイン_p267_合気道・柔術の円転の理|古武道「円転の理」のSF解釈]]
 
-### 第250（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-19　塔トーナメント②
+### 第250（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-19　星見の塔トーナメント②
 
 - [[A_ch5250_alludes_to_E_ch5250_店員さん_other_再生者と牙猪の誤解_p153_greek_mythology_minotaur|ミノタウロス神話の暗喩]]
 - [[A_ch5250_alludes_to_E_ch5250_牙猪種_has_property_牙による自死の運命_p111_samurai_suicide_hara_kiri|牙による自死の武士的運命論]]
@@ -1692,11 +1692,11 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5250_analogous_to_E_ch5250_チリアット_transforms_黒亜竜人_p189_cybernetic_augmentation_body_horror|サイボーグ化によるボディホラー]]
 - [[A_ch5250_analogous_to_E_ch5250_レオ_threatens_カーイン_p58_pet_owner_relationship|廃棄脅迫と所有関係の想起]]
 
-### 第251（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-20　塔トーナメント③
+### 第251（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-20　星見の塔トーナメント③
 
 - [[A_ch5251_parodies_E_ch5251_コルセスカ_appears_氷の三叉槍_p31_game_character_intro|ゲームキャラ登場演出のパロディ]]
 
-### 第252（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-21　塔トーナメント④
+### 第252（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-21　星見の塔トーナメント④
 
 - [[A_ch5252_alludes_to_E_p263_modern_mma_and_sumo_evolution|相撲とMMAの融合競技]]
 - [[A_ch5252_analogous_to_E_p175_genetic_determinism_and_ancestral_memory|祖先記憶継承の類似構造]]
@@ -1706,11 +1706,11 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5252_parodies_E_p12_meta_commentary_on_game_tropes|ゲーム定石メタ批判のパロディ]]
 - [[A_ch5252_structurally_matches_E_p236_sumo_technique_kotowaza|相撲古語技名による力差演出]]
 
-### 第254（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-23　塔トーナメント⑥
+### 第254（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-23　星見の塔トーナメント⑥
 
 - [[A_ch5254_analogous_to_E_ch5254_ケイト_other_転生保険の経営_p15_insurance_industry_profit_logic|保険産業の利益構造への転生商品化]]
 
-### 第255（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-24　塔トーナメント⑦
+### 第255（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-24　星見の塔トーナメント⑦
 
 - [[A_ch5255_alludes_to_E_p118-p120_Sumo_Kumadori_Tradition|歌舞伎隈取りのナノマシン比喩]]
 - [[A_ch5255_alludes_to_E_p143_Sumo_Yokozuna_Title|横綱称号の借用による最強格暗示]]
@@ -1725,7 +1725,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5255_alludes_to_E_p424_ProWrestling_Bearhug|ベアハッグへの抱擁攻撃暗喩]]
 - [[A_ch5255_analogous_to_E_p398_Drones_Regeneration_Control|遠隔操縦的再生制御による不死性構造]]
 
-### 第257（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-26　塔トーナメント⑨
+### 第257（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-26　星見の塔トーナメント⑨
 
 - [[A_ch5257_analogous_to_E_ch5257_シナモリアキラ_other_穏当な帰化と共存_p3_corporate_exploitation_of_labor|ギグエコノミー的労働搾取への契約構造]]
 - [[A_ch5257_analogous_to_E_ch5257_シナモリアキラ_other_穏当な帰化と共存_p3_gender_bias_in_society|ジェンダーバイアスの名声値による可視化]]
@@ -1797,10 +1797,10 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第266（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-35　死人の楽園の断章6　病的グランギニョル②
 
 - [[A_ch5266_alludes_to_E_p147-p158_NestedDolls_Matryoshka|マトリョーシカ構造の超自然現象暗示]]
-- [[A_ch5266_analogous_to_E_p120-p135_Apexite|アエタイト鉱石の文化的営為記号借用]]
+- [[A_ch5266_analogous_to_E_p120-p135_Apexite|アエタイト鉱石の文化記号借用]]
 - [[A_ch5266_analogous_to_E_p203-p207_Pandora_Box_Mythology|パンドラの箱型の禁忌構造]]
 - [[A_ch5266_inverts_E_p23_Feminine_Beauty_Male_Gaze|カイン性視線下的美による主体性欠如暗示]]
-- [[A_ch5266_parodies_E_p73_Internet_Slang_NetCulture|ネットスラング・ネット文化的営為の賢者像風刺]]
+- [[A_ch5266_parodies_E_p73_Internet_Slang_NetCulture|ネットスラング・ネット文化の賢者像風刺]]
 - [[A_ch5266_structurally_matches_E_p19-p21_Metaphor_of_King_as_Actor|王は役者という権力者のペルソナ構造対応]]
 
 ### 第268（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-37　死人の楽園の断章6　微睡む太陽と月のパペットリー①
@@ -1808,14 +1808,14 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5268_alludes_to_E_p213_four_eclipses_omen_of_apocalypse|終末の予兆としての四つの月の蝕み]]
 - [[A_ch5268_alludes_to_E_p229_lubab_admin_bureaucratic_power_structure|官僚的権力構造における黒幕メタファー]]
 - [[A_ch5268_alludes_to_E_p79_ball_joint_ball_jointed_dolls_BJD|球体関節人形の人造物としての異質感]]
-- [[A_ch5268_analogous_to_E_p13_brand_modern_brand_economy|ブランド経済への箒メタファー]]
+- [[A_ch5268_analogous_to_E_p13_brand_modern_brand_economy|ブランド経済への呪具メタファー]]
 - [[A_ch5268_analogous_to_E_p146_cutting_threads_abrupt_breakup_strategy|因果切断による問題回避]]
 - [[A_ch5268_parodies_E_p22_doll_magic_attachment_theory|アタッチメント形成のパロディ化]]
 
 ### 第270（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-39　死人の楽園の断章6　微睡む太陽と月のパペットリー③
 
 - [[A_ch5270_alludes_to_E_p133_harem_game_mechanics|ハーレム攻略の暗喩的言及]]
-- [[A_ch5270_analogous_to_E_p118_otaku_culture_idol_fandom|オタク文化的営為・ダウザールへの没入描写]]
+- [[A_ch5270_analogous_to_E_p118_otaku_culture_idol_fandom|オタク文化・アイドルへの没入描写]]
 - [[A_ch5270_analogous_to_E_p200_role_identity_confusion|役と役者の境界のメタ認識]]
 - [[A_ch5270_analogous_to_E_p211_theatre_of_the_absurd_compliance|不条理演劇の共犯性への哲学的言及]]
 - [[A_ch5270_analogous_to_E_p256_zombie_economy_labor_force|死者の労働力としての社会参加]]
@@ -1952,7 +1952,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5291_alludes_to_E_p5-p10_FranklinD_Roosevelt'sFourFreedoms|四大自由の負概念実体化]]
 - [[A_ch5291_analogous_to_E_p29-p31_MetaphysicalIdealism／Solipsism|唯心論的世界観のメタ表現]]
 - [[A_ch5291_parodies_E_p167-p175_Mega-corporateEmploymentStructure|巨大企業雇用構造のパロディ]]
-- [[A_ch5291_parodies_E_p16_Creationism／LiteralistInterpretationofGenesis|ブリアー論的解釈の即興創世化]]
+- [[A_ch5291_parodies_E_p16_Creationism／LiteralistInterpretationofGenesis|創造論的解釈の即興創世化]]
 - [[A_ch5291_structurally_matches_E_p45-p52_CorporateCompliance／CorporateGovernance|コンプライアンス・統治構造の反映]]
 
 ### 第292（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-61　死人の楽園の断章1　熱病のような加虐がカイン女の望み
@@ -1999,7 +1999,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第297（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-66　死人の楽園の断章1　コキュートス／ROUND1
 
 - [[A_ch5297_alludes_to_E_miasma_spell_shinto_ancient_magic|神話的混沌受容と呪術]]
-- [[A_ch5297_alludes_to_E_omniverse_type_philosophy_of_universe|オムニバース論としての楽園分類]]
+- [[A_ch5297_alludes_to_E_omniverse_type_philosophy_of_universe|オムニバース論としての浄界分類]]
 - [[A_ch5297_analogous_to_E_causality_reverse_narrative_structure_plot_twist|時間逆行構造による回収]]
 - [[A_ch5297_analogous_to_E_game_control_console_gamepad|ゲームパッド操作への置換]]
 - [[A_ch5297_foreshadows_E_vampire_redemption_character_arc_lieulba|哀れみから始まる味方化伏線]]
@@ -2013,7 +2013,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5298_analogous_to_E_2_game_mechanics|ゲームメカニクスによる対抗]]
 - [[A_ch5298_inverts_E_45_first_person_narrative_tropes|一人称叙述技法の逆転]]
 - [[A_ch5298_parodies_E_14_collection_gacha|収集ガチャへの全確保進行]]
-- [[A_ch5298_structurally_matches_E_26_shonen_battle_logic|ファル漫画式戦闘の削り定石]]
+- [[A_ch5298_structurally_matches_E_26_shonen_battle_logic|少年漫画式戦闘の削り定石]]
 
 ### 第299（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-68　死人の楽園の断章3　コキュートス／ROUND3
 
@@ -2080,7 +2080,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第308（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-77　トリシューラ・カムバック②
 
-- [[A_ch5308_analogous_to_E_Azuria_Taunt_MMO_Tank_Class,Provocation_Mechanic|アズの挑発とMMOタンクの類似]]
+- [[A_ch5308_analogous_to_E_Azuria_Taunt_MMO_Tank_Class,Provocation_Mechanic|アズーリアーリアの挑発とMMOタンクの類似]]
 - [[A_ch5308_inverts_E_Triushula_Identity_Mechanical_Humanism,Singularity|機械トリシューラの治癒と特異点論の逆転]]
 - [[A_ch5308_structurally_matches_E_Triushula_Statement_Mobius_Self,Digital_Avatar|トリシューラの自己定義と集合意識の構造対応]]
 
@@ -2102,7 +2102,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5311_alludes_to_E_ch5311.ゾーイ・アキラの存在_p126_ME.自己否定・前世の呪い|存在否定・浄化の暗喩]]
 
-### 第313（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-82　塔の大比武⑪　解説
+### 第313（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-82　星見の塔の大比武⑪　解説
 
 - [[A_ch5313_alludes_to_E_p168_bible_genesis|創世記の呪いとジェンダー抑圧]]
 - [[A_ch5313_analogous_to_E_p4_tibetan_buddhism|チベット仏教と兵器の境界溶解]]
@@ -2110,13 +2110,13 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5313_structurally_matches_E_p208_media_manipulation|世論操作と呪力の構造対応]]
 - [[A_ch5313_sublates_E_p265_character_commodity|キャラの commodification 止揚]]
 
-### 第314（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-83　塔の大比武⑫　さいごの戦い
+### 第314（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-83　星見の塔の大比武⑫　さいごの戦い
 
-- [[A_ch5314_alludes_to_E_ch5314_ケイト_other_スダルシャナチャクラム_p114120_インド神話／クルクシェートラ戦場|神話武器としての文化的営為資本]]
+- [[A_ch5314_alludes_to_E_ch5314_ケイト_other_スダルシャナチャクラム_p114120_インド神話／クルクシェートラ戦場|神話武器としての文化資本]]
 - [[A_ch5314_alludes_to_E_ch5314_ゾーイデルヒグレンデルヒ_attacks_アキラ_p338346_プロレス技／サマーソルトキック|サマーソルトキックのプロレス的演出]]
 - [[A_ch5314_alludes_to_E_ch5314_銀天使_appears_老年の男性_p8_老人医療／介護用品おむつ・よだれかけ|老幼境界消去の象徴]]
 - [[A_ch5314_analogous_to_E_ch5314_アキラ_learns_グレンデルヒの正体_p238262_企業キャラクター／IPビジネス／マルチキャスト|マルチキャストIPビジネスの匿名性]]
-- [[A_ch5314_analogous_to_E_ch5314_アキラ_learns_グレンデルヒの正体_p238262_企業戦士／体育会系の組織文化|体育会的な組織文化的営為と英雄生成]]
+- [[A_ch5314_analogous_to_E_ch5314_アキラ_learns_グレンデルヒの正体_p238262_企業戦士／体育会系の組織文化|体育会的な組織文化と英雄生成]]
 - [[A_ch5314_analogous_to_E_ch5314_ケイト_attacks_トリシューラ_p197199_情報爆発／データ優位性|情報格差による権力構造の反映]]
 - [[A_ch5314_analogous_to_E_ch5314_ゾーイデルヒグレンデルヒ_confesses_自己の存在意義_p287326_労働者の疎外／自己実現の欠如|労働者の自己疎外と商品化]]
 - [[A_ch5314_analogous_to_E_ch5314_トリシューラ_activates_融血呪イェツィラー_p160166_クラウドコンピューティング／サブスクリプションサービス|SaaSモデル借用]]
@@ -2175,11 +2175,11 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5322_analogous_to_E_p35_augmented_reality_interface|ARペルソナと社会的仮面の着用]]
 - [[A_ch5322_analogous_to_E_p97-p103_soft_power_diplomacy|ソフトパワー外交への戦略的指喩]]
 - [[A_ch5322_inverts_E_p149-p200_service_hospitality|おもてなしの逆転による権力構造]]
-- [[A_ch5322_parodies_E_p74-p80_cultural_imperialism|文化的営為的帝国主義への偏見のパロディ]]
+- [[A_ch5322_parodies_E_p74-p80_cultural_imperialism|文化的帝国主義への偏見のパロディ]]
 
 ### 第323（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-92　六人の王
 
-- [[A_ch5323_alludes_to_E_5323_Rubberb_Plant_Rhubarb|スカルミリオーネ（大黄）への名前と料理法]]
+- [[A_ch5323_alludes_to_E_5323_Rubberb_Plant_Rhubarb|ルバーブ（大黄）への名前と料理法]]
 - [[A_ch5323_analogous_to_E_5323_CookingContest_TV_FoodShow|TV料理番組的拡散への模倣]]
 - [[A_ch5323_analogous_to_E_5323_InsectFood_Japan_KinpiraGobo|きんぴらごぼうの郷愁への引用]]
 - [[A_ch5323_analogous_to_E_5323_Olva_ColoredSpells_Color_Theory_Magic|色彩魔術理論への設定描写]]
@@ -2284,7 +2284,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5339_alludes_to_E_p57_drone_warfare_surveillance|UAV偵察システムのオマージュ]]
 - [[A_ch5339_analogous_to_E_p140_labor_as_commodity_marxism|労働力の商品化と疎外]]
-- [[A_ch5339_analogous_to_E_p165_cultural_assimilation_vs_multiculturalism|同化主義と多文化的営為主義への機械嫌悪]]
+- [[A_ch5339_analogous_to_E_p165_cultural_assimilation_vs_multiculturalism|同化主義と多文化主義への機械嫌悪]]
 - [[A_ch5339_analogous_to_E_p6_academic_knowledge_gatekeeping|知識の門番による呪術情報の選別]]
 - [[A_ch5339_analogous_to_E_p86_nuclear_power_plant_safety_commission_scandal|原子力安全基準隠蔽的な脱出口遮断]]
 - [[A_ch5339_parodies_E_p5_technological_diffusion_history|軍民両用技術の歴史を果実と表現]]
@@ -2350,7 +2350,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5348_alludes_to_E_ch5348_ルバーブ_thinks_アレッテの正体_p6265_王権神授説・血統の正統性|血統による王権神授の正当化]]
 - [[A_ch5348_analogous_to_E_ch5348_アレッテ・イヴニル_defines_古いラフディーボール_p148159_古代の人身供献・生贄|球技に潜む人身供献の儀礼]]
 - [[A_ch5348_analogous_to_E_ch5348_観客たち_transforms_暴徒_p24_ネット炎上・SNSの同調圧力|SNS的ヘイトと分断の再現]]
-- [[A_ch5348_parodies_E_ch5348_ガロアンディアン_other_文化浸透_p849197102_GAAP戦略・プラットフォームの囲い込み|GAAP戦略による文化的営為的囲い込み]]
+- [[A_ch5348_parodies_E_ch5348_ガロアンディアン_other_文化浸透_p849197102_GAAP戦略・プラットフォームの囲い込み|GAAP戦略による文化的囲い込み]]
 
 ### 第349（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-118　騒乱②
 
@@ -2376,7 +2376,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5351_analogous_to_E_p18_ai_emotion_simulation|感情シミュレーションの人らしさ照合]]
 - [[A_ch5351_analogous_to_E_p2-p10_meta_narrator_and_god|語り手＝神の家事能力への矮小化]]
 - [[A_ch5351_analogous_to_E_p23-p24_world_tree_structure|世界樹構造の塔内多層宇宙示唆]]
-- [[A_ch5351_parodies_E_p106-p110_shonen_manga_cliches|ファル漫画クリシェのメタ断罪]]
+- [[A_ch5351_parodies_E_p106-p110_shonen_manga_cliches|少年漫画クリシェのメタ断罪]]
 
 ### 第354（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-123　業②
 
@@ -2393,7 +2393,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5355_alludes_to_E_p41_ファンタジー小説の定型プロットドラゴンとプリンセス|竜と姫のステレオタイプへのメタ的嘲弄]]
 - [[A_ch5355_analogous_to_E_p57-p58_ゲームにおけるリスタート機能またはセーブデータからの読み込み|認識変更による物語の再構成]]
-- [[A_ch5355_inverts_E_p30-p32_美的基準の相対主義／文化的価値観の衝突|美を巡る権力闘争と文化的営為相対主義]]
+- [[A_ch5355_inverts_E_p30-p32_美的基準の相対主義／文化的価値観の衝突|美を巡る権力闘争と文化相対主義]]
 - [[A_ch5355_parodies_E_p194_現代の社会貢献活動チャリティの自己満足の批判|上から目線のチャリティ自己満足への皮肉]]
 - [[A_ch5355_parodies_E_p8-p11_マリオネット／糸で操られる人形|運命の糸による操作的支配の比喩]]
 - [[A_ch5355_structurally_matches_E_p146-p149_植民地支配／宗主国と従属国の関係|衛星国家構造による社会歪みの反映]]
@@ -2417,9 +2417,9 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5358_parodies_E_p256_gamification_of_violence|暴力のゲーミフィケーション皮肉模倣]]
 - [[A_ch5358_parodies_E_p63_exoskeleton_tech|エクソスケルトン技術のパロディ化]]
 
-### 第362（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-131　番外編：『チョコレートリリーのスイーツ事件簿Season2 Case.14　アズチョコに挑め！』
+### 第362（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-131　番外編：『チョコレートリリーのスイーツ事件簿Season2 Case.14　アズーリアチョコに挑め！』
 
-- [[A_ch5362_alludes_to_E_Priestera_Kotatsu_Obsession_Japanese_Culture_Kotatsu_Mikan|コタツとミカンの文化的営為移植暗喩]]
+- [[A_ch5362_alludes_to_E_Priestera_Kotatsu_Obsession_Japanese_Culture_Kotatsu_Mikan|コタツとミカンの文化移植暗喩]]
 - [[A_ch5362_analogous_to_E_Lassef_Name_Change_Urchio_RPG_Character_Build_Class_Swap|クラスチェンジの否定と仮面付け]]
 - [[A_ch5362_analogous_to_E_Lina_SNS_Post_Modern_Social_Media_Trend|SNSトレンド風刺としての珍事拡散]]
 - [[A_ch5362_analogous_to_E_Mirunya_Chocolate_Heartbeat_Biological_Symbiosis_Artificial_Organ|人工臓器模倣の生体錬金術]]
@@ -2428,7 +2428,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第363（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-132　死人の楽園の父①
 
-- [[A_ch5363_alludes_to_E_ch5363_p127_oscwotaku_culture|オタク文化的営為変形の神格化風刺]]
+- [[A_ch5363_alludes_to_E_ch5363_p127_oscwotaku_culture|オタク文化変形の神格化風刺]]
 
 ### 第364（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-133　死人の楽園の父②
 
@@ -2446,7 +2446,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5365_analogous_to_E_ch5365_サリア_wears_呪動装甲_p19_exoskeleton_industrialization|魔法鎧の外骨格工業化描写]]
 - [[A_ch5365_analogous_to_E_ch5365_ゼール・コゼーヌ_says_内面独白_p7_game_skip_feature|ループ戦闘の既読スキップ機能比喩]]
 
-### 第366（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-135　オルヴァ王と十二人のシナモリアキラ①
+### 第366（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-135　オルヴァ王と十二人のシナモリアキラくん①
 
 - [[A_ch5366_alludes_to_E_p226_kasha_designation_yokai_taxonomy|火車命名による妖怪分類学利用]]
 - [[A_ch5366_alludes_to_E_p60_cyber_karate_dojo_game_mechanics_module|ゲーム機構モジュールの戦闘自動化]]
@@ -2455,7 +2455,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5366_analogous_to_E_p91_mass_media_support_political_publicity_campaign|独裁者対抗戦のプロパガンダ操作]]
 - [[A_ch5366_parodies_E_p153_cyber_karate_ranking_online_game_leaderboard|称号剥奪のMMOランキング模倣]]
 
-### 第367（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-136　オルヴァ王と十二人のシナモリアキラ②
+### 第367（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-136　オルヴァ王と十二人のシナモリアキラくん②
 
 - [[A_ch5367_alludes_to_E_ch5367_カマいたち_kills_探索者_p120135_yaku_kamaitachi|風による殺害と鎌鼬伝承の暗喩]]
 - [[A_ch5367_alludes_to_E_ch5367_塗壁ぬりかべ_names_シナモリアキラ_p239241_yaku_nurikabe|巨漢通せんぼの塗壁妖怪化]]
@@ -2467,7 +2467,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5367_parodies_E_ch5367_アキラ_appears_第五階層の居酒屋_p6063_super_sentai_hero|特撮ヒーローパロディによる正義の解体]]
 - [[A_ch5367_structurally_matches_E_ch5367_システム_names_アキラ鵺_p87_yaku_nue|鵺伝承への正体不明存在の命名構造対応]]
 
-### 第369（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-138　オルヴァ王と十二人のシナモリアキラ④
+### 第369（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-138　オルヴァ王と十二人のシナモリアキラくん④
 
 - [[A_ch5369_alludes_to_E_p296-p306_cyberpunk_emotion_simulation|身体技法による感情生成と自我形成の暗喩]]
 - [[A_ch5369_alludes_to_E_p69-p108_modern_japan_entertainment_industry_apology|芸能謝罪会見プロトコルの吸血鬼への転写]]
@@ -2476,7 +2476,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5369_parodies_E_p2-p37_philosophy_nihilism|ニヒリズム世界観の虚ろさ体現]]
 - [[A_ch5369_structurally_matches_E_p24-p67_time_travel_narrative_structure|因果律逆転の時間旅行構文への構造対応]]
 
-### 第370（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-139　オルヴァ王と十二人のシナモリアキラ⑤
+### 第370（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-139　オルヴァ王と十二人のシナモリアキラくん⑤
 
 - [[A_ch5370_alludes_to_E_p126_naming_convention_change|コードから固有人格への回帰を意味する命名]]
 - [[A_ch5370_alludes_to_E_p14_internet_search_engine|検索エンジン利用によるロア参照のネット民化]]
@@ -2490,7 +2490,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5370_analogous_to_E_p30_game_item_power_leveling|装備底上げによるメタ戦略]]
 - [[A_ch5370_analogous_to_E_p62_content_moderation_policy|言論自由と暴力禁止政策]]
 
-### 第371（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-140　オルヴァ王と十二人のシナモリアキラ⑥
+### 第371（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-140　オルヴァ王と十二人のシナモリアキラくん⑥
 
 - [[A_ch5371_alludes_to_E_ch5371_トリシューラ_appears_as_ファッションリーダー_p105_fashion_brand_power|ブランド自己演出としての魔女]]
 - [[A_ch5371_alludes_to_E_ch5371_老人吸血鬼_other_E-E吸脳鬼_p224_sharkaku_legend|ザッハーク伝承の再定義]]
@@ -2498,7 +2498,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5371_analogous_to_E_ch5371_グレンデルヒ・ライニンサル_uses_カードゲーム_p42_multi_tasking_gaming_addiction|マルチタスク依存症の風刺]]
 - [[A_ch5371_analogous_to_E_ch5371_老人吸血鬼_other_E-E吸脳鬼_p224_data_extraction_and_headache|知性抽出と自制心の喪失]]
 
-### 第372（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-141　オルヴァ王と十二人のシナモリアキラ⑦
+### 第372（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-141　オルヴァ王と十二人のシナモリアキラくん⑦
 
 - [[A_ch5372_alludes_to_E_p176_pro_amateur_sports_rivalry|プロ対アマチュアの実力差]]
 - [[A_ch5372_alludes_to_E_p304_jealousy_and_grief_conversion|嫉妬悲嘆の暴力化]]
@@ -2506,22 +2506,22 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5372_analogous_to_E_p277_social_stigma_and_status_loss|社会的排除と地位剥奪]]
 - [[A_ch5372_parodies_E_p43_impostor_syndrome_identity_theft|なりすましによる自己解体]]
 
-### 第374（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-143　オルヴァ王と十二人のシナモリアキラ⑨
+### 第374（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-143　オルヴァ王と十二人のシナモリアキラくん⑨
 
 - [[A_ch5374_alludes_to_E_chain_saw_man_death_denial_zombification_horror_tropes|不死身ホラーの恐怖体現]]
 - [[A_ch5374_alludes_to_E_ecclesiastes_quote_book_of_ecclesiastes_bible|コヘレトの言葉による虚無]]
 - [[A_ch5374_structurally_matches_E_lion_king_death_scene_gods_of_the_ancient_world_mythology|神話的終末論と王殺し]]
 
-### 第375（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-145　オルヴァ王と十二人のシナモリアキラ⑪
+### 第375（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-145　オルヴァ王と十二人のシナモリアキラくん⑪
 
 - [[A_ch5375_alludes_to_E_p2-p4_solipsism_philosophy|唯我論のモンスター化]]
 - [[A_ch5375_alludes_to_E_p219_fusion_of_concepts|異質概念融合による悪夢]]
-- [[A_ch5375_alludes_to_E_p43_last_thursdayism|世界ブリアー直前の時間遡行]]
+- [[A_ch5375_alludes_to_E_p43_last_thursdayism|世界創造直前の時間遡行]]
 - [[A_ch5375_alludes_to_E_p57_tokusatsu_hero_concept|特撮変身ベルトの魔術体系化]]
 - [[A_ch5375_analogous_to_E_p150-p164_metagame_management|神視点によるメタゲーム操作]]
 - [[A_ch5375_parodies_E_p64_rpg_expert_trope|RPG賢者役のメタ自覚パロディ]]
 
-### 第376（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-144　オルヴァ王と十二人のシナモリアキラ⑩
+### 第376（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-144　オルヴァ王と十二人のシナモリアキラくん⑩
 
 - [[A_ch5376_alludes_to_E_ch5376_レオ_travels_通路_p2_trading_card_game_tcg|TCG用語体系による戦闘実装]]
 - [[A_ch5376_alludes_to_E_ch5376_レオ_travels_通路_p2_yokai_joro_gumo|世界を歪める妖怪の捕食性]]
@@ -2530,14 +2530,14 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5376_parodies_E_ch5376_レオ_travels_通路_p2_horror_to_comedy_genre_shift|ジャンル転換を武器としたメタパロディ]]
 - [[A_ch5376_structurally_matches_E_ch5376_レオ_travels_通路_p2_arlechino_commedia_dell_arte|アルレッキーノの行動様式実装]]
 
-### 第377（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-146　オルヴァ王と十二人のシナモリアキラ⑫
+### 第377（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-146　オルヴァ王と十二人のシナモリアキラくん⑫
 
 - [[A_ch5377_alludes_to_E_ch5377_レオ_other_仲良しへの呼びかけ_p163_Anime_Kodomo_no_Majime|言語的和解による対立解消構造]]
 - [[A_ch5377_analogous_to_E_ch5377_レオ_other_伐採の意義_p139_Sustainable_Development|開発と自然の共生思想]]
 - [[A_ch5377_structurally_matches_E_ch5377_トリシューラ_other_小鬼化_p210_Burnout_Empathy|共感枯渇による人格の矮小化]]
 - [[A_ch5377_sublates_E_ch5377_レオ_other_完全な勝利_p190_Paradox_of_Non-Violence|感情浸透による非暴力のパラドックス]]
 
-### 第378（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-147　オルヴァ王と十二人のシナモリアキラ⑬
+### 第378（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-147　オルヴァ王と十二人のシナモリアキラくん⑬
 
 - [[A_ch5378_alludes_to_E_p5_magic_contagion_law|類似の法則に基づく魔術的連想]]
 - [[A_ch5378_analogous_to_E_p205_burnout_syndrome|理想主義の燃え尽き症候群]]
@@ -2545,7 +2545,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5378_analogous_to_E_p40_pet_owner_behavior|ペット飼育者の強迫的支配行為]]
 - [[A_ch5378_inverts_E_p148_colonial_history_genocide|植民地ジェノサイドへの信仰的逆転]]
 
-### 第379（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-148　オルヴァ王と十二人のシナモリアキラ⑭
+### 第379（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-148　オルヴァ王と十二人のシナモリアキラくん⑭
 
 - [[A_ch5379_alludes_to_E_ch5379_子泣き爺_takes_塗壁の感覚と巨人の力_p85_日本の妖怪伝承・子泣き爺|子泣き爺の能力吸収者への書換え]]
 - [[A_ch5379_analogous_to_E_ch5379_ラウス＝ベフォニス_has_property_感情制御アプリ_p22_AR技術・SNSフィルター|ARフィルターによる感情遮断の構造]]
@@ -2555,25 +2555,25 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5379_parodies_E_ch5379_鬼_promises_再戦_p14_少年漫画のライバル関係・バトルアニメの約束|ライバルの約束のクリシェパロディ]]
 - [[A_ch5379_structurally_matches_E_ch5379_鬼_has_property_角杖の産物_p51_サイバーパンクにおける脳直結インターフェース・インプラント|脳直結インターフェースによる改変]]
 
-### 第381（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-150　オルヴァ王と十二人のシナモリアキラ⑯
+### 第381（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-150　オルヴァ王と十二人のシナモリアキラくん⑯
 
 - [[A_ch5381_alludes_to_E_ch5381_百々目鬼_observes_カーイン_p2_minarchist_state_theory|夜警国家概念の契約体系への置換]]
 - [[A_ch5381_analogous_to_E_ch5381_百々目鬼_observes_カーイン_p2_gacha_game_rarity_system|ガチャレアリティによる序列支配]]
 - [[A_ch5381_analogous_to_E_ch5381_百々目鬼_observes_カーイン_p2_remote_work_video_conference|遠隔通信技術の魔術的基盤化]]
-- [[A_ch5381_inverts_E_ch5381_百々目鬼_observes_カーイン_p2_truck_transmutation_cliché|ゼノグラシア外部介入によるメタ構造逆転]]
+- [[A_ch5381_inverts_E_ch5381_百々目鬼_observes_カーイン_p2_truck_transmutation_cliché|転生者外部介入によるメタ構造逆転]]
 - [[A_ch5381_parodies_E_ch5381_百々目鬼_observes_カーイン_p2_social_media_platforms|生活基盤化プロセスのSNS風刺]]
 - [[A_ch5381_structurally_matches_E_ch5381_百々目鬼_observes_カーイン_p2_infinite_regression_homunculus_argument|頭蓋内小人による無限後退可視化]]
 
-### 第383（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-152　オルヴァ王と十二人のシナモリアキラ⑱
+### 第383（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-152　オルヴァ王と十二人のシナモリアキラくん⑱
 
 - [[A_ch5383_alludes_to_E_p109-p116_kaeshi_yuugisha|鎌鼬の風による切断と不気味生存]]
-- [[A_ch5383_alludes_to_E_p212_kabbalah_adam_kadmon|カバラ的宇宙ネフィリムとしての自己実現]]
+- [[A_ch5383_alludes_to_E_p212_kabbalah_adam_kadmon|カバラ的宇宙巨人としての自己実現]]
 - [[A_ch5383_analogous_to_E_p102-p103_public_domain_character|パブリックドメインキャラの所有権希薄化]]
 - [[A_ch5383_inverts_E_p170-p172_isekai_hero_archetype|英雄化に伴う人間性の喪失の逆説]]
 - [[A_ch5383_parodies_E_p37-p40_divine_right_of_kings|オルヴァによる王権神授の魔術的正当化]]
 - [[A_ch5383_parodies_E_p98-p100_mobile_game_gacha_mechanics|ガチャ課金によるリソース搾取の体現]]
 
-### 第385（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-154　オルヴァ王と十二人のシナモリアキラ⑳
+### 第385（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-154　オルヴァ王と十二人のシナモリアキラくん⑳
 
 - [[A_ch5385_alludes_to_E_final_move_cyber_karate_martial_art|超常的なサイバーカラテのメタ引用]]
 - [[A_ch5385_alludes_to_E_virgil_identity_buddhism_king_of_netherworld|冥府の主の多層的死後支配]]
@@ -2581,7 +2581,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5385_analogous_to_E_kashram_hierarchy_social_stratification_system|叙任権能による階級固定化の批判]]
 - [[A_ch5385_analogous_to_E_warsheura_manipulation_narrative_control_mechanics|対立を維持するGM的干渉装置]]
 
-### 第388（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-157　オルヴァ王と十二人のシナモリアキラ㉓
+### 第388（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-157　オルヴァ王と十二人のシナモリアキラくん㉓
 
 - [[A_ch5388_alludes_to_E_p179_sword_of_damocles|権力者の脆弱性を象徴する骨剣]]
 - [[A_ch5388_analogous_to_E_p148_freudian_death_drive|フロイト的生・死の欲動の心理学引用]]
@@ -2590,7 +2590,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5388_analogous_to_E_p32_psychological_stress_measurement|PTSD診断に基づくストレス値換算]]
 - [[A_ch5388_analogous_to_E_p52_monetization_of_suffering_debate|尊厳と金銭補償の倫理的緊張]]
 
-### 第389（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-158　オルヴァ王と十二人のシナモリアキラ㉔
+### 第389（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-158　オルヴァ王と十二人のシナモリアキラくん㉔
 
 - [[A_ch5389_alludes_to_E_ch5389_パーン_other_ラクルラール_p181_saturn_devouring_his_children|クロノスの子食らいを想起する自食]]
 - [[A_ch5389_alludes_to_E_ch5389_パーン_says_リビドーとデストルドーの不一致_p128_freudian_drives_life_and_death|エロスとタナトスの葛藤の暗喩]]
@@ -2599,7 +2599,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5389_parodies_E_ch5389_女王の庇護_enables_じゃれ合い_p147_video_game_narrative_structure|ゲーム的物語構造への死生観のパロディ]]
 - [[A_ch5389_structurally_matches_E_ch5389_ヴァージル_transforms_パーンを少年姿へ_p157_child_mind_paradigm_in_magic|童心の魔法論による世界法則上書き]]
 
-### 第390（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-159　オルヴァ王と十二人のシナモリアキラ㉕
+### 第390（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-159　オルヴァ王と十二人のシナモリアキラくん㉕
 
 - [[A_ch5390_alludes_to_E_p123_genital_worship_fertility_cult|豊穣信仰におけるカイン根崇拝の模倣]]
 - [[A_ch5390_alludes_to_E_p48_authority_literary_canon|文学的正典成立過程への権威形成の暗喩]]
@@ -2608,7 +2608,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5390_analogous_to_E_p45_dragon_tulpa_egregore|集団思考によるエルゴレ生成の模倣]]
 - [[A_ch5390_inverts_E_p53_counter_spell_magic_system_logic|魔術体系の論理を逆転させる対抗呪文]]
 
-### 第391（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-160　オルヴァ王と十二人のシナモリアキラ26
+### 第391（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-160　オルヴァ王と十二人のシナモリアキラくん26
 
 - [[A_ch5391_alludes_to_E_ch5391_ダモクレスの剣_other_王権_p46_ギリシャ神話におけるダモクレスの剣|ダモクレスの剣による王権脆性の視覚化]]
 - [[A_ch5391_analogous_to_E_ch5391_パーン_other_派手な祭り_p265_現代のフェスティバル・ライブイベント外部参戦|外部参戦フェスへの物語スケール拡大]]
@@ -2625,7 +2625,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5392_parodies_E_AR亡霊とヘイトの混在_social_media_hate_and_trends|AR亡霊による炎上商法の風刺]]
 - [[A_ch5392_parodies_E_ルリによるプロタゴニスト命名_sword_art_online_protagonist_naming|SAO型命名の自己言及的風刺]]
 
-### 第393（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-162　オルヴァ王と十二人のシナモリアキラ0
+### 第393（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-162　オルヴァ王と十二人のシナモリアキラくん0
 
 - [[A_ch5393_alludes_to_E_ch5393_ルリ_asks_世界の創作性_p7_biblical_ecclesiastes|コヘレトの言葉による虚無暗示]]
 - [[A_ch5393_alludes_to_E_ch5393_ルリ_asks_世界の創作性_p7_saints_martyrs|使徒概念借用による権威付与]]
@@ -2644,17 +2644,17 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5394_analogous_to_E_ch5394_オルヴァ_confesses_女神への執着と嫉妬_p235261_Oedipus_Complex_Trauma|母再婚トラウマ由来の屈辱性癖]]
 - [[A_ch5394_analogous_to_E_ch5394_トリシューラ_observes_音ゲー要素_p289291_Rhythm_Game_Mechanics|リズムゲーム進行条件の自己言及]]
 - [[A_ch5394_parodies_E_ch5394_イツノ_bonds_アキラ_p107109_Robotics_Safety_Protocols|ロボットの安全プロトコルへの拒絶反応]]
-- [[A_ch5394_parodies_E_ch5394_ラリスキャニア_appears_as_地下アイドル_p275281_Japanese_Underground_Idol_Culture|怪物による地下ダウザール握手会パロディ]]
+- [[A_ch5394_parodies_E_ch5394_ラリスキャニア_appears_as_地下アイドル_p275281_Japanese_Underground_Idol_Culture|怪物による地下アイドル握手会パロディ]]
 
 ### 第396（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-165　檻の感触だきしめて①
 
 - [[A_ch5396_alludes_to_E_CurseFoodRule_Mythology_UnderworldFood|黄泉の食禁忌による帰還不能化]]
 - [[A_ch5396_alludes_to_E_Smarto_Backstory_ReligiousPersecutionHistory|魔女狩り型宗教迫害のメタファー]]
 - [[A_ch5396_analogous_to_E_CostumeCardSystem_FashionGameMechanic|アバター召喚UIへの衣装転写]]
-- [[A_ch5396_analogous_to_E_JewelryCats_Promotion_CommercialIdolStrategy|ダウザールCM起用によるダブルネーム戦略]]
+- [[A_ch5396_analogous_to_E_JewelryCats_Promotion_CommercialIdolStrategy|アイドルCM起用によるダブルネーム戦略]]
 - [[A_ch5396_analogous_to_E_MagicalAppeal_Types_PerformanceArtGenres|視覚演出対物語演出のゲーム化]]
 - [[A_ch5396_inverts_E_Smarto_MetaphysicalCurse_NarrativeTropes_VillainIntro|言葉による敵役導入呪詛の逆転]]
-- [[A_ch5396_parodies_E_MagicalAppeal_Definition_IdolBrandingSystem|ダウザール・ブランディングのファンタジー再定義]]
+- [[A_ch5396_parodies_E_MagicalAppeal_Definition_IdolBrandingSystem|アイドル・ブランディングのファンタジー再定義]]
 - [[A_ch5396_structurally_matches_E_Akira_NoSelfIdentity_IsekaiProtagonistDissonance|アバター同調による自己同一性喪失]]
 
 ### 第398（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-167　悪夢の継承者
@@ -2668,7 +2668,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第399（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-168　あなたのアイは独りよがり
 
 - [[A_ch5399_alludes_to_E_ch5399_アルマ_other_神滅具の由来ゲームMOD_p211_video_game_modding|ゲームMODによるメタ構造]]
-- [[A_ch5399_alludes_to_E_ch5399_ペイズリー模様_defines_世界各地の自然発生_p8_cultural_diffusion|文化的営為拡散論の暗喩]]
+- [[A_ch5399_alludes_to_E_ch5399_ペイズリー模様_defines_世界各地の自然発生_p8_cultural_diffusion|文化拡散論の暗喩]]
 - [[A_ch5399_analogous_to_E_ch5399_うずめ_other_握手会の実施_p312_machine_learning_few_shot|模倣学習による最適化]]
 - [[A_ch5399_analogous_to_E_ch5399_ヒュドラボルテージニワトリ_appears_炎の冠／マスコット_p136_pet_companion_system|召喚獣システムの模倣]]
 - [[A_ch5399_analogous_to_E_ch5399_触手_captures_観客_p24_handshake_event|握手会接触承認のメタファー]]
@@ -2677,7 +2677,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5400_alludes_to_E_ch5400_ゼド_confesses_欲望_p201_liturgic_lighting|儀礼的灯りによる贖罪像]]
 - [[A_ch5400_alludes_to_E_ch5400_第五階層地下刑務所_is_located_暗黒と力の支配下_p35_prison_system|刑務所制度の対比構造]]
-- [[A_ch5400_analogous_to_E_ch5400_アキラ_other_握力_p12_physical_idol_handshake|握手会文化的営為の身体接触]]
+- [[A_ch5400_analogous_to_E_ch5400_アキラ_other_握力_p12_physical_idol_handshake|握手会文化の身体接触]]
 - [[A_ch5400_analogous_to_E_ch5400_リールエルバ_other_バーチャル握手会_p59_virtual_influencer|バーチャルインフルエンサー葛藤]]
 - [[A_ch5400_inverts_E_ch5400_ゼド_other_殺し屋の欠点_p173_professionalism_vs_amateurism|職業主義の逆転肯定]]
 - [[A_ch5400_parodies_E_ch5400_アキラ_other_本質_p100_gacha_game_optimization|レコメンド最適化のパロディ]]
@@ -2686,7 +2686,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第401（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-170　血も凍りつく眠りの中で①
 
 - [[A_ch5401_analogous_to_E_p46_narrative_control_game_design_balancing|ゲームバランス調整の類似]]
-- [[A_ch5401_inverts_E_p103_sacred_profane_jpop_idol_industry|ダウザール産業聖俗の逆転]]
+- [[A_ch5401_inverts_E_p103_sacred_profane_jpop_idol_industry|アイドル産業聖俗の逆転]]
 - [[A_ch5401_structurally_matches_E_p91_frozen_torch_black_sabbath|ブラックサバスの構造対応]]
 
 ### 第402（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-171　血も凍りつく眠りの中で②
@@ -2696,7 +2696,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_AR_Smartphone_Games|ARゲーム的HUD演出のメタフィクション]]
 - [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Cryonics_RealWorld|人体冷凍保存技術との科学的類似]]
 - [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Freudian_Unconscious|集合的無意識による人格生成の構造]]
-- [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Popular_Music_Idol_Groups|大型ダウザールグループ構造の模倣]]
+- [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Popular_Music_Idol_Groups|大型アイドルグループ構造の模倣]]
 - [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_RealWorld_Legal_System|神々への訴訟による法的賠償請求]]
 - [[A_ch5402_inverts_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Necrometal_Genre|ネクロメタル美学のコメディ的逆転]]
 - [[A_ch5402_parodies_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Isekai_Turnip_System_UI|異世界転生システムUIのパロディ化]]
@@ -2709,7 +2709,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5403_analogous_to_E_朱色の夢の構造_プラットフォーム経済・SNSビジネスモデル|UGCプラットフォーム経済との一致]]
 - [[A_ch5403_inverts_E_動物想ファウナの登場_MEグリム童話ヘンゼルとグレーテル・おとぎ話|ヘンゼルとグレーテルの異質性による逆転]]
 - [[A_ch5403_parodies_E_夢の法則予測_AI機械学習モデル|深層学習予測モデルの擬人化]]
-- [[A_ch5403_structurally_matches_E_アマランサスの人形劇_MEアイドルグループの運営システムAKB48型等|AKB型ダウザール運営構造の模倣]]
+- [[A_ch5403_structurally_matches_E_アマランサスの人形劇_MEアイドルグループの運営システムAKB48型等|AKB型アイドル運営構造の模倣]]
 
 ### 第404（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-173　目指すは奈落、一直線に
 
@@ -2717,7 +2717,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5404_analogous_to_E_p240-p246_Gacha_Unit_Synergy_and_Meta_Strategy|低レア対メタ編成戦略の模倣]]
 - [[A_ch5404_analogous_to_E_p80-p92_Literacy_and_Media_Literacy_Gap|マルチモーダル疎外によるリテラシー断絶]]
 - [[A_ch5404_parodies_E_p117-p120_Reincarnation_Cycle_Game_Respawn|リスポーン構造のパロディ化]]
-- [[A_ch5404_parodies_E_p190-p192_Tabloid_Gossip_and_Fan_Radicalism|タブロイドと過激な推し文化的営為の風刺]]
+- [[A_ch5404_parodies_E_p190-p192_Tabloid_Gossip_and_Fan_Radicalism|タブロイドと過激な推し文化の風刺]]
 - [[A_ch5404_parodies_E_p2-p10_Metaphor_of_Awakening_in_Game_UI|ゲーム的目覚め演出のパロディ]]
 - [[A_ch5404_structurally_matches_E_p37_Battle_Royale_Game_Mechanic|バトルロイヤル様式の構造対応]]
 
@@ -2748,7 +2748,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第409（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-178　メスブタノパン／ブタノマンジュウ②
 
-- [[A_ch5409_analogous_to_E_ch5409_洞窟_has_property_死の楽園_p2_paradise_of_death|生と死が逆転する楽園の楽園]]
+- [[A_ch5409_analogous_to_E_ch5409_洞窟_has_property_死の楽園_p2_paradise_of_death|生と死が逆転する洞窟の楽園]]
 
 ### 第410（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-179　裸の自分、服を着た誰か①
 
@@ -2757,23 +2757,23 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第411（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-180　裸の自分、服を着た誰か②
 
 - [[A_ch5411_alludes_to_E_ch5411_海の民_other_呪いの歌_p239_jk_gender_anxiety|ジェンダー不安を示すカイン根切除要求]]
-- [[A_ch5411_alludes_to_E_ch5411_海の民_other_社会の風潮_p174_jp_wokism_critique|現代のウェイク文化的営為批判を移植した世界観]]
-- [[A_ch5411_analogous_to_E_ch5411_ファウナ_transforms_クレイのファンたち_p28_jp_fandom_deification|牧者に管理される羊型ダウザールファンダム]]
-- [[A_ch5411_analogous_to_E_ch5411_海の民_other_端末_p153_smartphone_customization|貝殻装飾によるガジェットカスタム文化的営為の風刺]]
+- [[A_ch5411_alludes_to_E_ch5411_海の民_other_社会の風潮_p174_jp_wokism_critique|現代のウェイク文化批判を移植した世界観]]
+- [[A_ch5411_analogous_to_E_ch5411_ファウナ_transforms_クレイのファンたち_p28_jp_fandom_deification|牧者に管理される羊型アイドルファンダム]]
+- [[A_ch5411_analogous_to_E_ch5411_海の民_other_端末_p153_smartphone_customization|貝殻装飾によるガジェットカスタム文化の風刺]]
 - [[A_ch5411_analogous_to_E_ch5411_海の民_other_衣服_p186_jp_male_grooming_norms|全裸競合に表れたカインらしさ規範の閉鎖性]]
-- [[A_ch5411_parodies_E_ch5411_クレイ_other_高みを目指す決意_p10_jp_idol_training_trope|ダウザール修行規範の異世界への混在]]
+- [[A_ch5411_parodies_E_ch5411_クレイ_other_高みを目指す決意_p10_jp_idol_training_trope|アイドル修行規範の異世界への混在]]
 
 ### 第412（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-181　あなたは理想の王子さま、カインの素敵な王子さま
 
 - [[A_ch5412_alludes_to_E_ch5412_イアテム_transforms_緑色の長髪の黒衣の麗人_p60_vampire_archetype|吸血鬼原型への多面性転生]]
 - [[A_ch5412_alludes_to_E_ch5412_ミヒトネッセ_says_私はくるみ割り人形ナットクラッカー。ねじの壊れた性玩具_p207_nutcracker_doll|くるみ割り人形の性的象徴歪曲]]
-- [[A_ch5412_analogous_to_E_ch5412_ファンたち_makes_悪夢めいた感情の一箇所を目指して解き放たれようとする_p123_sns_toxic_fandom|トキシック・ファンのダウザール物化]]
+- [[A_ch5412_analogous_to_E_ch5412_ファンたち_makes_悪夢めいた感情の一箇所を目指して解き放たれようとする_p123_sns_toxic_fandom|トキシック・ファンのアイドル物化]]
 - [[A_ch5412_analogous_to_E_ch5412_ミヒトネッセ_attacks_ブーツでクレイの大腿部を踏みつけ、膝を蹴り飛ばし、執拗に両足の間の周辺ばかりを攻め立てる_p194_foot_domination|足支配フェティシズムの模倣]]
 - [[A_ch5412_inverts_E_ch5412_クレイ_breaks_遍く空から降り注ぐ不可視の糸が千切れ飛ぶ_p338_marionette_freedom|操り人形からのメタ的解放]]
-- [[A_ch5412_parodies_E_ch5412_ファウナ_makes_両手を胸の前に持って行き、身体を傾けるノーマルアピール_p237_idol_pose_normal_appeal|戦闘中のダウザールポーズパロディ]]
+- [[A_ch5412_parodies_E_ch5412_ファウナ_makes_両手を胸の前に持って行き、身体を傾けるノーマルアピール_p237_idol_pose_normal_appeal|戦闘中のアイドルポーズパロディ]]
 - [[A_ch5412_parodies_E_ch5412_ミヒトネッセ_says_私は崇められており、本物でもあること_p114_idol_recognition_mechanics|ファン承認による実在化メカニクス]]
 - [[A_ch5412_parodies_E_ch5412_最大のライブ対決_appears_as_始まった_p378_ranking_battle_game|ランキング対戦ゲームへの構造化]]
-- [[A_ch5412_structurally_matches_E_ch5412_クレイ_transforms_姿は徐々に光の中で変容していった_p310_gender_bending_idol|性別流動ダウザールの可塑性体現]]
+- [[A_ch5412_structurally_matches_E_ch5412_クレイ_transforms_姿は徐々に光の中で変容していった_p310_gender_bending_idol|性別流動アイドルの可塑性体現]]
 
 ### 第414（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-183　『カインたち』を始めましょう②
 
@@ -2786,7 +2786,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5414_analogous_to_E_ch5414_SNA333_functions_as_統合体_p167_Microservices_Architecture|マイクロサービス的な統合体構造]]
 - [[A_ch5414_analogous_to_E_ch5414_アキラ_defines_義体_p202_Cyborg_Avatar_System|サイボーグアバター的な舞台操作]]
 - [[A_ch5414_analogous_to_E_ch5414_ミヒトネッセ_other_多役_p34_Multi-role_Performance_Technique|SF的マルチロール技法の実現]]
-- [[A_ch5414_parodies_E_ch5414_でかちびシューラ_names_SNA333_p149_AKB48_Giant_Group_Concept|AKB型巨大ダウザール戦略のパロディ]]
+- [[A_ch5414_parodies_E_ch5414_でかちびシューラ_names_SNA333_p149_AKB48_Giant_Group_Concept|AKB型巨大アイドル戦略のパロディ]]
 
 ### 第417（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-186　罪貨の略奪者
 
@@ -2817,8 +2817,8 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5421_alludes_to_E_魔竜の正体_cholera_epidemic_history|コレラパンデミックのモンスター化]]
 - [[A_ch5421_analogous_to_E_3600秒後の開戦_real_time_game_mechanic|リアルタイムイベント機構]]
 - [[A_ch5421_analogous_to_E_カーインの六人分裂_traditional_chinese_medicine_theory|漢方医学理論の分身生成実装]]
-- [[A_ch5421_inverts_E_シナモリアキラのフェイクニュースによる転向_social_media_cancel_culture|キャンセル文化的営為の戦闘戦略化]]
-- [[A_ch5421_parodies_E_地下アイドルリールエルバへの崇拝_idol_wotagee_culture|オタク文化的営為の魔力転換風刺]]
+- [[A_ch5421_inverts_E_シナモリアキラのフェイクニュースによる転向_social_media_cancel_culture|キャンセル文化の戦闘戦略化]]
+- [[A_ch5421_parodies_E_地下アイドルリールエルバへの崇拝_idol_wotagee_culture|オタク文化の魔力転換風刺]]
 - [[A_ch5421_structurally_matches_E_ミヒトネッセのカード具現化_mobile_game_gacha_system|カード召喚システムの物理現象化]]
 
 ### 第424（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-193　猫の取り替え子・ケット・シー①
@@ -2849,7 +2849,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第427（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-196　愛の切っ先②
 
 - [[A_ch5427_alludes_to_E_p49_資本主義的搾取と自己責任論|社会ダーウィニズム的支配イデオロギー]]
-- [[A_ch5427_alludes_to_E_p78_衣服の進化と寄生関係|シラミ共進化による衣服文化的営為]]
+- [[A_ch5427_alludes_to_E_p78_衣服の進化と寄生関係|シラミ共進化による衣服文化]]
 - [[A_ch5427_analogous_to_E_p11_現代の医療介入と人道支援|人道介入軍事化への風刺]]
 - [[A_ch5427_analogous_to_E_p207_グローバル化とパンデミックの因果関係|グローバル化駆動型パンデミック]]
 - [[A_ch5427_analogous_to_E_p65_強制収容所と社会的隔離|強制収容所銘板の皮肉]]
@@ -2860,11 +2860,11 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5428_alludes_to_E_ch5428_カリエスアキラ_wears_病衣_p9_tuberculosis_romanticization|結核ロマンティシズムの美徳化]]
 - [[A_ch5428_alludes_to_E_ch5428_コルセスカ_other_鉄のスリッパ_p56_cinderella_slipper|シンデレラの靴への鏡像的逸脱]]
-- [[A_ch5428_analogous_to_E_ch5428_カード_functions_as_光の源_p69_idol_game_media_mix|ダウザールガチャ演出の異世界移植]]
+- [[A_ch5428_analogous_to_E_ch5428_カード_functions_as_光の源_p69_idol_game_media_mix|アイドルガチャ演出の異世界移植]]
 - [[A_ch5428_analogous_to_E_ch5428_シナモリアキラ_transforms_肉腫_p2_metastasis_and_self_replication|癌細胞増殖の生物学的模倣]]
 - [[A_ch5428_parodies_E_ch5428_コルセスカ_makes_マジカルアピール_p52_magical_girl_anime_trope|魔法少女必殺技演出のパロディ]]
 
-### 第429（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-198　第五階層のシナモリアキラ①
+### 第429（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-198　第五階層のシナモリアキラくん①
 
 - [[A_ch5429_alludes_to_E_ch5429_リールエルバ_uses_ドラマ仕立てアピール_p23_tragic_heroine_narrative_trope|可憐な敗者のクリシェ利用]]
 - [[A_ch5429_analogous_to_E_ch5429_カーティス_other_時空の連続性_p167_somatic_metaphor_of_history|歴史因果の身体空間化比喩]]
@@ -2874,7 +2874,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5429_structurally_matches_E_ch5429_セリアック＝ニア_reveals_法の剣の使命_p69_safety_valve_political_system|聖姫と王の対立による安全弁構造]]
 - [[A_ch5429_sublates_E_ch5429_魔竜レーレンターク_defines_罪_p208_concept_of_original_sin|原罪概念の心理的苦悩への昇華]]
 
-### 第431（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-200　第五階層のシナモリアキラ③
+### 第431（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-200　第五階層のシナモリアキラくん③
 
 - [[A_ch5431_alludes_to_E_楽園からの追放と衣服の着用_旧約聖書・創世記アダムとイヴ|エデン追放と知恵の罪の象徴]]
 - [[A_ch5431_alludes_to_E_魔竜と王の構図_ME聖書の悪魔サタンと反逆|堕天使的権威への反逆構図]]
@@ -3055,17 +3055,17 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5456_parodies_E_mihitonesse_spit_fairy_tale_cliché|唾による童話クリシェの破壊]]
 - [[A_ch5456_structurally_matches_E_dalnote_sword_narrative_metaphor|影のメタファーとしての剣理]]
 
-### 第457（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-226　アポテオーズ『シナモリアキラはここにいる』①
+### 第457（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-226　アポテオーズ『シナモリアキラくんはここにいる』①
 
 - [[A_ch5457_analogous_to_E_p13-p17_Drone_Control_Interface|環境拡張インターフェース化]]
 - [[A_ch5457_analogous_to_E_p135_Corporate_Politics_Influence_Battle|社内政治的権力闘争の比喩]]
 - [[A_ch5457_analogous_to_E_p2-p31_Spring_Winter_Seasonal_Cycle|季節循環構造へのメタ指摘]]
 - [[A_ch5457_analogous_to_E_p275-p276_Card_Game_Anime_Meta|カードアニメメタと虚実の混在]]
-- [[A_ch5457_analogous_to_E_p284-p289_Perspective_Relativism_Cultural_Filter|文化的営為的バイアスによる現実構築]]
+- [[A_ch5457_analogous_to_E_p284-p289_Perspective_Relativism_Cultural_Filter|文化的バイアスによる現実構築]]
 - [[A_ch5457_analogous_to_E_p86-p87_Mario_Kart_Pan_Eating_Race|マリオカート的パン食い競争]]
 - [[A_ch5457_parodies_E_p27-p31_Phantom_Limb_Humor|幻肢のメタジョーク的処理]]
 
-### 第459（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-228　アポテオーズ『シナモリアキラはここにいる』③
+### 第459（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-228　アポテオーズ『シナモリアキラくんはここにいる』③
 
 - [[A_ch5459_alludes_to_E_Maracoeda_Poison_Tail_Scorpion_Kingship|蠍王の守護]]
 - [[A_ch5459_alludes_to_E_Seth_Name_Change_Egyptian_Mythology_Set|セト神話による周辺性の象徴]]
@@ -3080,7 +3080,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5460_analogous_to_E_gameboard_making_dollmaking_and_narrative_construction|人形作りのメタフィクション]]
 - [[A_ch5460_parodies_E_monologue_isekai_cheat_ability_trope|チート能力の自己陶酔のパロディ]]
 - [[A_ch5460_structurally_matches_E_world_observation_sandbox_simulation|シミュレーション箱庭との構造対応]]
-- [[A_ch5460_sublates_E_god_survival_cultural_evolution_meme_theory|文化的営為進化・ミーム論の止揚]]
+- [[A_ch5460_sublates_E_god_survival_cultural_evolution_meme_theory|文化進化・ミーム論の止揚]]
 
 ### 第461（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-230　転章『それは素朴で純粋な当たり前の』①
 
@@ -3108,13 +3108,13 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第467（カクヨム版）：カクヨム 序幕　5-1　枯れ木激して死灰に至り、苗木人立ちて雲路を砕く①
 
 - [[A_ch5467_inverts_E_ユディーアの行動_タイムリープもの・運命改変|過去確定を未来とする逆転タイムリープ]]
-- [[A_ch5467_parodies_E_第五階層の建築_サンドボックスゲーム・マインクラフト|MC的ブリアーと消失]]
+- [[A_ch5467_parodies_E_第五階層の建築_サンドボックスゲーム・マインクラフト|MC的創造と消失]]
 - [[A_ch5467_structurally_matches_E_第五階層の社会_難民キャンプ・第三世界都市|規範外生存空間としての難民キャンプ構造]]
 
 ### 第469（カクヨム版）：カクヨム 序幕　5-1　枯れ木激して死灰に至り、苗木人立ちて雲路を砕く③
 
 - [[A_ch5469_alludes_to_E_ch5469_シナモリアキラ_says_ペラティア_p96_ユダヤ教の戒律_偶像崇拝の禁止|ロゴス簒奪への宗教禁忌]]
-- [[A_ch5469_analogous_to_E_ch5469_ユディーア_thinks_第五階層_p62_異世界転生者の視点|舞台への違和感とゼノグラシアメタ認知]]
+- [[A_ch5469_analogous_to_E_ch5469_ユディーア_thinks_第五階層_p62_異世界転生者の視点|舞台への違和感と転生者メタ認知]]
 - [[A_ch5469_analogous_to_E_ch5469_野次馬_observes_大穴_p6_現代の災害コンテンツ消費_SNS|災害娯楽化・SNS消費の風刺]]
 - [[A_ch5469_parodies_E_ch5469_シナモリアキラ_uses_ロケットパンチ_p164_マジンガーZ_ロケットパング|データ駆動型戦闘へのロケットパンチ変換]]
 - [[A_ch5469_structurally_matches_E_ch5469_ユディーア_uses_彩域_p210_VRゲームのタイムスリップ・データ参照|VRによる過去動画参照と戦術検索]]
@@ -3131,12 +3131,12 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5471_alludes_to_E_p235_functionalism_identity_theory|機能主義的自己定義の記号論]]
 - [[A_ch5471_analogous_to_E_p32_gacha_game_mechanic|ガチャメカニクスへの欲望投影]]
-- [[A_ch5471_analogous_to_E_p47_stalker_fandom_obsession|推し活・執着文化的営為のストーカー風刺]]
+- [[A_ch5471_analogous_to_E_p47_stalker_fandom_obsession|推し活・執着文化のストーカー風刺]]
 - [[A_ch5471_inverts_E_p14_isekai_amnesia_trope|異世界転生記憶喪失定型の逆転]]
 - [[A_ch5471_parodies_E_p57_internet_subculture_terminology|サブカル用語の空っぽさのパロディ]]
 - [[A_ch5471_structurally_matches_E_p251_doppelganger_motif|ドッペルゲンガーの分裂とトリックスター]]
 
-### 第472（カクヨム版）：カクヨム 序幕　5-3　自称、ロウ・カーインみ
+### 第472（カクヨム版）：カクヨム 序幕　5-3　自称、幼馴染み
 
 - [[A_ch5472_alludes_to_E_p122_genetic_engineering_incest_taboo|近親交配タブーの遺伝子操作正当化]]
 - [[A_ch5472_analogous_to_E_p34_gacha_game_mechanics|存在変換とガチャ消費機構]]
@@ -3146,7 +3146,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第479（カクヨム版）：カクヨム 序幕　5-8　トリシューラ暗殺計画①
 
-- [[A_ch5479_alludes_to_E_ch5479_レナリア_appears_ユディーア_p2_junior_idol_fandom|ジュニアダウザール崇拝への没入]]
+- [[A_ch5479_alludes_to_E_ch5479_レナリア_appears_ユディーア_p2_junior_idol_fandom|ジュニアアイドル崇拝への没入]]
 - [[A_ch5479_analogous_to_E_ch5479_レナリア_appears_ユディーア_p2_corporate_merger|企業合併を模した支配欲求の融合]]
 - [[A_ch5479_analogous_to_E_ch5479_レナリア_appears_ユディーア_p2_youtube_influencer|動画配信者による英雄像消費]]
 - [[A_ch5479_inverts_E_ch5479_レナリア_appears_ユディーア_p2_necromancy_trope|死霊術万能主義逆転と信仰尊重]]
@@ -3177,7 +3177,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5483_alludes_to_E_p13_game_stealth_mechanics|ステルス判定回避のゲーム的実装]]
 - [[A_ch5483_alludes_to_E_p160_greek_mythology_titanomachy|タイタノマキアへの投石による秩序中断]]
 - [[A_ch5483_alludes_to_E_p267_sapir_whorf_hypothesis|サピア＝ウォーフ仮説の魔術体系化]]
-- [[A_ch5483_analogous_to_E_p245_cultural_stereotypes_and_prejudice|言語偏見と文化的営為ステレオタイプ]]
+- [[A_ch5483_analogous_to_E_p245_cultural_stereotypes_and_prejudice|言語偏見と文化ステレオタイプ]]
 - [[A_ch5483_analogous_to_E_p56_labor_theory_of_value|労働価値説の時間硬貨変換]]
 - [[A_ch5483_inverts_E_p74_trpg_meta_narrative|TRPGメタ構造の自覚的スキップ行使]]
 - [[A_ch5483_structurally_matches_E_p104_dungeon_save_point|ダンジョンチェックポイントの祈り演出]]
@@ -3228,7 +3228,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5490_alludes_to_E_halbert_candy_intake_sports_nutrition_science|スポーツ栄養学的な糖分補給]]
 - [[A_ch5490_alludes_to_E_rainbow_dog_woman_behavior_sadistic_gamification_torture|嗜虐的なゲーム的暴力消費]]
-- [[A_ch5490_analogous_to_E_halbert_translation_limitation_localization_cultural_framing|文化的営為ローカライズの構造的摩擦]]
+- [[A_ch5490_analogous_to_E_halbert_translation_limitation_localization_cultural_framing|文化ローカライズの構造的摩擦]]
 - [[A_ch5490_analogous_to_E_priestera_leadership_corporate_middle_management_crisis|中間管理職的リーダーシップ]]
 - [[A_ch5490_inverts_E_moral_boundaries_manipulation_postmodern_relativism_ethics|道徳的相対主義の呪術化]]
 - [[A_ch5490_parodies_E_virtual_familiar_announcement_modern_public_announcement_system|公共放送システムの模倣]]
@@ -3285,8 +3285,8 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第497（カクヨム版）：カクヨム 序幕　祝祭前夜　正しい未来の選び方①
 
-- [[A_ch5497_alludes_to_E_ch5497_リビュエー隊_bonds_五人の姉妹ウネム、マリナ、アクィラ、アイシャ、タマル_p371379_harpy_mythology|ハルピュイア神話への暗喩的結集]]
-- [[A_ch5497_analogous_to_E_ch5497_アイシャ_wears_瘢痕文身スカリフィケーション_p135142_scarification_custom|スカリフィケーションの傷装飾文化的営為]]
+- [[A_ch5497_alludes_to_E_ch5497_リビュエー隊_bonds_五人の姉妹ウネム、マリナ、アクィラ、アイシャ、タマル_p371379_harpy_mythology|ハルベルトピュイア神話への暗喩的結集]]
+- [[A_ch5497_analogous_to_E_ch5497_アイシャ_wears_瘢痕文身スカリフィケーション_p135142_scarification_custom|スカリフィケーションの傷装飾文化]]
 - [[A_ch5497_analogous_to_E_ch5497_ウネム_fights_襲撃者たち_p171188_stereotyping_prejudice|ステレオタイプ化による偏見暴力]]
 - [[A_ch5497_analogous_to_E_ch5497_ウネム_other_分断呪詛の伝播と男根狩り運動_p310325_social_division_movements|政治的分断操作としてのカイン根狩り]]
 - [[A_ch5497_inverts_E_ch5497_アキラ_loves_ヴィティス_p1524_self_compassion_love|自己憐憫投影への恋概念逆転]]
@@ -3296,10 +3296,10 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5498_alludes_to_E_Hatchet_Singing_Virtual_Singer_Software|ボーカルロイド的歌唱合成の暗喩]]
 - [[A_ch5498_alludes_to_E_Nebulon_Clans_Organized_Crime_Mafia|マフィア的構造の反社会組織変換]]
-- [[A_ch5498_analogous_to_E_Alessio_MarchP_Vocaloid_Producer_Culture|ボカロP文化的営為のプロデューサー支配風刺]]
+- [[A_ch5498_analogous_to_E_Alessio_MarchP_Vocaloid_Producer_Culture|ボカロP文化のプロデューサー支配風刺]]
 - [[A_ch5498_analogous_to_E_Saria_TimeLoop_Roguelike_Gameplay_Loop|ローグライク周回ループのメタ論理]]
 - [[A_ch5498_inverts_E_Rosa_Hedonism_Ethical_Moral_Hedonism|快楽主義・日常肯定への英雄叙事逆転]]
-- [[A_ch5498_structurally_matches_E_Alessio_Promotion_Idol_Generation_War|ダウザール世代交代論の構造対応]]
+- [[A_ch5498_structurally_matches_E_Alessio_Promotion_Idol_Generation_War|アイドル世代交代論の構造対応]]
 
 ### 第499（カクヨム版）：カクヨム 第1幕　天獄篇　5-11 空使いは知らんぷり
 
@@ -3374,7 +3374,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第507（カクヨム版）：カクヨム 第1幕　天獄篇　5-19　踏み付けられた死
 
 - [[A_ch5507_alludes_to_E_ch5507_クレナリーザ_says_歴史の改変と沼地の真実_p189_historical_revisionism|歴史修正主義への暗示]]
-- [[A_ch5507_alludes_to_E_ch5507_ユディーア_observes_第五階層の主街区_p4_exotic_subcontinent_culture|異文化的営為間の緊張と和解の暗喩]]
+- [[A_ch5507_alludes_to_E_ch5507_ユディーア_observes_第五階層の主街区_p4_exotic_subcontinent_culture|異文化間の緊張と和解の暗喩]]
 - [[A_ch5507_analogous_to_E_ch5507_ユディーア_observes_第五階層の主街区_p4_surveillance_camera_drone|ドローン監視カメラの俯瞰知覚]]
 - [[A_ch5507_analogous_to_E_ch5507_ユディーア_uses_使い魔端末_p25_smartphone_notification_management|スマホ通知管理の構造一致]]
 - [[A_ch5507_inverts_E_ch5507_ユディーア_thinks_結論の留保と沈黙_p438_garden_of_gethsemane|ゲッセマネの園の逆説的引用]]
@@ -3384,7 +3384,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第508（カクヨム版）：カクヨム 第1幕　天獄篇　5-20　転生都市と冥府システム①
 
 - [[A_ch5508_alludes_to_E_ch5508_天眼の民_fears_猫への畏怖_p95_Feline_Rituals_in_Ancient_Egypt|技術の宗教的神秘への昇華]]
-- [[A_ch5508_analogous_to_E_ch5508_地下アイドル空間_is_located_ガロアンディアンの地下_p161_Underground_Idol_Marketing_Strategy|地下ダウザール戦略への転生]]
+- [[A_ch5508_analogous_to_E_ch5508_地下アイドル空間_is_located_ガロアンディアンの地下_p161_Underground_Idol_Marketing_Strategy|地下アイドル戦略への転生]]
 - [[A_ch5508_parodies_E_ch5508_トランクケース_has_property_異常な軽さ_p14_MacGuffin_in_Film_Noir|マクガフィンのメタ的解体]]
 - [[A_ch5508_parodies_E_ch5508_本選レース_defines_次元を巡る流れ_p127_Fantasy_Racing_Games_TrophyCup|トロフィーカップの次元超越化]]
 - [[A_ch5508_structurally_matches_E_ch5508_旧市街_is_located_観光用区画_p41_Historical_Reenactment_Parks|歴史再現テーマパークの構造対応]]
@@ -3458,7 +3458,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5518_analogous_to_E_01_SocialMedia_Algorithm|模倣による主体性喪失のメタファー]]
 - [[A_ch5518_analogous_to_E_02_Chess_Metaphor|盤外操作を模したチェス的対立]]
 - [[A_ch5518_analogous_to_E_06_Open_Source_Software|OSSフォークに例えた呪術再解釈]]
-- [[A_ch5518_parodies_E_03_ChatGPT_Prompt_Engineering|エル・ア・フィリス呪文解析とLLMプロンプト工学]]
+- [[A_ch5518_parodies_E_03_ChatGPT_Prompt_Engineering|言理の妖精呪文解析とLLMプロンプト工学]]
 - [[A_ch5518_structurally_matches_E_05_Social_Darwinism|社会ダーウィニズムによる搾取正当化]]
 
 ### 第519（カクヨム版）：カクヨム 第1幕　天獄篇　5-28　誘拐婚①：ミルーニャ
@@ -3494,9 +3494,9 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5522_analogous_to_E_p85_tourism_industry_pr_strategy|スポーツによる地域振興戦略]]
 - [[A_ch5522_parodies_E_p118-p125_long_character_names_and_media_franchises|長名キャラとメディアミックス]]
 - [[A_ch5522_parodies_E_p161-p177_tesla_autonomous_driving_marketing|自律走行技術のプロモーション]]
-- [[A_ch5522_parodies_E_p2-p5_modern_tourism_photography_culture|観光写真文化的営為への皮肉]]
+- [[A_ch5522_parodies_E_p2-p5_modern_tourism_photography_culture|観光写真文化への皮肉]]
 - [[A_ch5522_parodies_E_p29-p30_quidditch_harry_potter|クィディッチの独自構造]]
-- [[A_ch5522_parodies_E_p40-p43_youtube_streamer_meme_culture|ストリーマー文化的営為のミーム化]]
+- [[A_ch5522_parodies_E_p40-p43_youtube_streamer_meme_culture|ストリーマー文化のミーム化]]
 - [[A_ch5522_parodies_E_p53-p60_influencer_collaboration_content_marketing|インフルエンサーのコラボ案件消費]]
 - [[A_ch5522_parodies_E_p64-p70_gacha_game_event_structure|ガチャイベント構造の模倣]]
 - [[A_ch5522_parodies_E_p93-p94_virtual_reality_vr_experience|VR没入体験の想起]]
@@ -3508,7 +3508,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第526（カクヨム版）：カクヨム 第1幕　天獄篇　5-33　本選開幕④
 
-- [[A_ch5526_alludes_to_E_p127_giants_shoulders|ネフィリムの肩への神話的挑戦]]
+- [[A_ch5526_alludes_to_E_p127_giants_shoulders|巨人の肩への神話的挑戦]]
 - [[A_ch5526_alludes_to_E_p160_divine_mother_fragment|地母神断片による世界再構成]]
 - [[A_ch5526_alludes_to_E_p31_destruction_of_paradise|骨の手が握り潰す楽園の喪失]]
 - [[A_ch5526_alludes_to_E_p399_noahs_ark|アララト越えの方舟と大洪水]]
@@ -3537,7 +3537,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5529_parodies_E_ミナの心の童貞臭発言_現代ネットスラング／オタク用語|戦闘シーンのネットスラング化]]
 - [[A_ch5529_structurally_matches_E_リーナの即席魔導書作成_プログラミングにおける動的メモリ確保／即時コンパイル|呪文の動的メモリ確保と最適化]]
 
-### 第530（カクヨム版）：カクヨム 第1幕　天獄篇　5-35　ハルとして①
+### 第530（カクヨム版）：カクヨム 第1幕　天獄篇　5-35　ハルベルトとして①
 
 - [[A_ch5530_alludes_to_E_ch5530_ユディーア_makes_蜥蜴の尻尾切り_p76_biblical_judas_betrayal_context|三十枚銀貨による背信の暗示]]
 - [[A_ch5530_analogous_to_E_ch5530_エレクトラ_other_並行矛盾史_p244_many_worlds_interpretation|多世界解釈的な時間分岐の描写]]
@@ -3546,7 +3546,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5530_parodies_E_ch5530_ちびシューラ_other_Tier1スキル_p94_video_game_cheat_codes|レトロゲームチート用語の借用]]
 - [[A_ch5530_parodies_E_ch5530_ちびシューラ_says_ログインボーナスと初期設定指示_p35_mobile_game_onboarding|スマホゲームチュートリアル模倣]]
 
-### 第531（カクヨム版）：カクヨム 第1幕　天獄篇　5-35　ハルとして②
+### 第531（カクヨム版）：カクヨム 第1幕　天獄篇　5-35　ハルベルトとして②
 
 - [[A_ch5531_alludes_to_E_ch5531_メートリアン_asks_エレクトラ_p2_mythological_trickster_god|トリックスター神へのメタ認知]]
 - [[A_ch5531_analogous_to_E_ch5531_メートリアン_asks_エレクトラ_p2_app_matching_algorithm|アプリアルゴリズム的運命マッチング]]
@@ -3630,7 +3630,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第545（カクヨム版）：カクヨム 第1幕　天獄篇　5-46　レジェンド対モーレツターボババア①
 
-- [[A_ch5545_alludes_to_E_p110_isekai_transfer_trope|ゼノグラシア優位の階級社会メタ]]
+- [[A_ch5545_alludes_to_E_p110_isekai_transfer_trope|転生者優位の階級社会メタ]]
 - [[A_ch5545_alludes_to_E_p245_esports_commentary_slang|eスポーツ実況用語]]
 - [[A_ch5545_analogous_to_E_p20_narrative_mechanics_fatigue|描写の陳腐化]]
 - [[A_ch5545_analogous_to_E_p218_gacha_game_mechanics|ガチャと消費メカニクス]]
@@ -3699,7 +3699,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5553_analogous_to_E_ch5553_メートリアン_is_made_of_調合コンパウンド_p24_化学・錬金術_化合物の合成|錬金術的化合プロセスの類比]]
 - [[A_ch5553_parodies_E_ch5553_レメス_says_生めよレイプ、殖えよレイプ、地に満ちよレイプ_p235_旧約聖書_創世記1章28節|創世記「生めよ増えよ」のパロディ]]
 
-### 第554（カクヨム版）：カクヨム 第1幕　天獄篇　5-55　獣、楽園、楽園
+### 第554（カクヨム版）：カクヨム 第1幕　天獄篇　5-55　獣、楽園、洞窟
 
 - [[A_ch5554_alludes_to_E_p205-p208_historical_suppression_of_libido|欲望抑圧社会机制の暗喩]]
 - [[A_ch5554_analogous_to_E_p2-p7_corporate_bureaucracy_and_nepotism|企業官僚縁故主義の類比]]
@@ -3707,7 +3707,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5554_parodies_E_p27-p34_freudian_metaphors_in_literature|文学的フロイト解釈のパロディ]]
 - [[A_ch5554_structurally_matches_E_p166-p168_video_game_asset_simplification|ゲームアセット簡略化の構造対応]]
 
-### 第555（カクヨム版）：カクヨム 第1幕　天獄篇　5-56　自称、ロウ・カーインリターンズ
+### 第555（カクヨム版）：カクヨム 第1幕　天獄篇　5-56　自称、幼馴染リターンズ
 
 - [[A_ch5555_alludes_to_E_p270_Mycenaean_Greek_History|ミュルミドネス神話起源の暗喩]]
 - [[A_ch5555_analogous_to_E_p24_Matchmaking_App|マッチングアプリ構造の類比]]
@@ -3720,7 +3720,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 ### 第556（カクヨム版）：カクヨム 第1幕　天獄篇　5-57　死せる生殖
 
 - [[A_ch5556_alludes_to_E_ch5556_クレアノーズ_transforms_がらんどうの残骸_p210_egyptian_mythology_isis_osiris|イシス・オシリス蘇生神話の暗喩]]
-- [[A_ch5556_analogous_to_E_ch5556_ちびシューラ_makes_粘土のヒトガタ_p254_artistic_creation_simulation|神話的ブリアーの模倣による作者性暗示]]
+- [[A_ch5556_analogous_to_E_ch5556_ちびシューラ_makes_粘土のヒトガタ_p254_artistic_creation_simulation|神話的創造の模倣による作者性暗示]]
 - [[A_ch5556_analogous_to_E_ch5556_クレアノーズ_says_俗界的な目的_p46_corporate_middle_management|中間管理職への矮小化]]
 - [[A_ch5556_analogous_to_E_ch5556_選手たち_transforms_精子_p19_biological_competition|精子競争構造のメタファー化]]
 - [[A_ch5556_parodies_E_ch5556_クレアノーズ_says_トリアイナは末妹でもある_p73_narrative_tampering|物語改変による頂点の嘲弄]]
@@ -3769,7 +3769,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5564_analogous_to_E_ch5564_ルスクォミーズ_captures_第七大地シャーネス_p16_Collective_Unconscious_Jungian_Psychology|集合的無意識下の願望顕現]]
 - [[A_ch5564_analogous_to_E_ch5564_原初の世界_has_property_不安定な可能性_p8_Undetermined_State_Superposition|観測前の未分化な重ね合わせ状態]]
 - [[A_ch5564_analogous_to_E_ch5564_奈落への旅路_transforms_上昇と飛翔_p37_Inversion_Of_Direction_Concept|方向逆転の空間パラドックス]]
-- [[A_ch5564_parodies_E_ch5564_パーン_says_勝負の申し出_p73_Metroidvania_Speedrun_Community|スピードラン文化的営為のパロディ]]
+- [[A_ch5564_parodies_E_ch5564_パーン_says_勝負の申し出_p73_Metroidvania_Speedrun_Community|スピードラン文化のパロディ]]
 
 ### 第565（カクヨム版）：カクヨム 第1幕　天獄篇　5-66　天獄藍域
 
@@ -3810,7 +3810,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5568_alludes_to_E_p14_cloud_gaming_save_state|クラウド保存状態の時間同期暗喩]]
 - [[A_ch5568_analogous_to_E_p309_necromancy_game_class|死者召喚クラスの能力設計類似]]
 - [[A_ch5568_inverts_E_p199_marginalization_of_magic|魔法の科学化による魔滅の逆転]]
-- [[A_ch5568_sublates_E_p279_horror_genre_lovecraftian|ラブブリアー的ホラーの恋愛への止揚]]
+- [[A_ch5568_sublates_E_p279_horror_genre_lovecraftian|ラブクラフト的ホラーの恋愛への止揚]]
 
 ### 第569（カクヨム版）：カクヨム 第1幕　天獄篇　5-70　リーナちゃんのお人形遊び①
 
@@ -3888,10 +3888,10 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第580（カクヨム版）：カクヨム 第1幕　天獄篇　5-81　鍵の名はフローラとファウナ
 
-- [[A_ch5580_alludes_to_E_ch5580_リーナ_thinks_黄金位鍵の設定の既視感_p62_Idol_Game_Mechanics|ダウザールゲームメカニクスへの暗喩]]
+- [[A_ch5580_alludes_to_E_ch5580_リーナ_thinks_黄金位鍵の設定の既視感_p62_Idol_Game_Mechanics|アイドルゲームメカニクスへの暗喩]]
 - [[A_ch5580_alludes_to_E_ch5580_ロードデンドロン_other_植物想フローラの譲渡条件_p125_Political_Mercenary_Treaty|政治的傭兵条約への正統性交換]]
 - [[A_ch5580_analogous_to_E_ch5580_ロードデンドロン_reveals_カーインの正体と歴史歪曲の理由_p25_National_History_Manipulation|権力による検閲と歴史改竄]]
-- [[A_ch5580_analogous_to_E_ch5580_天頂城砦_defines_下の人間の平穏_p12_Platos_Cave_Allegory|楽園の寓話型シミュレーション支配]]
+- [[A_ch5580_analogous_to_E_ch5580_天頂城砦_defines_下の人間の平穏_p12_Platos_Cave_Allegory|洞窟の寓話型シミュレーション支配]]
 
 ### 第582（カクヨム版）：カクヨム 第1幕　天獄篇　5-83　大いなる歴史を超えて
 
@@ -3928,7 +3928,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5586_analogous_to_E_ch5586_パーン_says_対策済みだ_p18_evolutionary_adaptation|進化適応による戦闘学習ロジック]]
 - [[A_ch5586_analogous_to_E_ch5586_ロードデンドロン_other_ティリビナの樹木銃_p238_quantum_physics_observation|量子観測効果の武器化]]
 - [[A_ch5586_inverts_E_ch5586_クラウビューラ_attacks_トロル_p173_solar_mythology|太陽神話の逆転による光殺し]]
-- [[A_ch5586_parodies_E_ch5586_緑のオルガンローデ_functions_as_バフ_p212_game_mechanics_buff_debuff|ゲーム的バフ・デバフの呪文化的営為]]
+- [[A_ch5586_parodies_E_ch5586_緑のオルガンローデ_functions_as_バフ_p212_game_mechanics_buff_debuff|ゲーム的バフ・デバフの呪文化]]
 - [[A_ch5586_structurally_matches_E_ch5586_パーン_thinks_感情誘導_p78_social_engineering|感情誘導による行動制限の操作]]
 
 ### 第587（カクヨム版）：カクヨム 第1幕　天獄篇　5-88　融血呪天主・紀気混沌
@@ -3963,30 +3963,21 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 文化 | 文化的営為 | 蓋然性高 | 48 |
 | 森 | 楽園 | 蓋然性高 | 46 |
-| アイドル | ダウザール | 蓋然性高 | 20 |
-| 言理の妖精 | エル・ア・フィリス | 明言 | 14 |
-| 転生者 | ゼノグラシア | 明言 | 11 |
+| アキラ | アキラくん | 高 | 24 |
 | 転生者殺し | キロン | 明言 | 9 |
-| 星見の塔 | 塔 | 明言 | 9 |
 | 男 | カイン | 蓋然性高 | 6 |
-| 少年 | ファル | 蓋然性高 | 4 |
 | 私 | カイン | 蓋然性高 | 4 |
 | 言語魔術 | 呪文 | 蓋然性高 | 4 |
-| 浄界 | 楽園 | 明言 | 4 |
-| 創造 | ブリアー | 明言 | 4 |
 | アナロジー | アナロギア | 蓋然性高 | 3 |
 | 金鎖 | フィリス | 蓋然性高 | 3 |
 | ゴーレム | 石像兵 | 蓋然性高 | 3 |
+| アズ | アズーリア | 高 | 3 |
 | 澄明 | アズール | 明言 | 3 |
-| 洞窟 | 楽園 | 明言 | 3 |
-| クラフト | ブリアー | 明言 | 2 |
-| アズーリア | アズ | 蓋然性高 | 2 |
 | ワードクェイク | 言震 | 明言 | 2 |
 | 黒百合 | チョコレートリリー | 明言 | 2 |
 | 魔将 | フィリス | 明言 | 2 |
@@ -3995,11 +3986,9 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 | 杖 | 箒 | 明言 | 2 |
 | 幻獣 | 仮想使い魔 | 明言 | 2 |
 | タマ | エミリニェロギッポロネーシャ | 明言 | 2 |
-| 巨人 | ネフィリム | 蓋然性高 | 2 |
 | 類推 | アナロギア | 蓋然性高 | 2 |
 | チェンジリング | 猫の取り替え子 | 明言 | 2 |
-| 幼馴染 | ロウ・カーイン | 蓋然性高 | 2 |
-| 呪文の座 | ハル | 蓋然性高 | 2 |
+| 呪文の座 | ハルベルト | 蓋然性高 | 2 |
 | ユディーア | エレクトラ | 蓋然性高 | 2 |
 | コイン | 銀貨 | 蓋然性高 | 1 |
 | 審判役 | ヲルヲーラ | 明言 | 1 |
@@ -4008,15 +3997,14 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 | 盗賊王ゼド | ゼド | 明言 | 1 |
 | アストラル | アストラル界 | 明言 | 1 |
 | 冥道の幼姫 | テスモポリス | 明言 | 1 |
-| 呪具 | 箒 | 明言 | 1 |
 | パーン・ガレニス・クロウサー | パーン | 明言 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |
 | 六人の王さま | 六人の王 | 明言 | 1 |
-| ルバーブ | スカルミリオーネ | 明言 | 1 |
 | 道化 | アルレッキーノ | 蓋然性高 | 1 |
 | 球神 | ドルネスタンルフ | 明言 | 1 |
 | 聖油 | オルヴァ | 蓋然性高 | 1 |
 | 姉妹 | キュトスの姉妹 | 明言 | 1 |
+| ハル | ハルベルト | 高 | 1 |
 | 情報共有 | 情報の共有 | 蓋然性高 | 1 |
 | 爆撃 | 呪文 | 蓋然性高 | 1 |
 | メートリアン | ミルーニャ | 明言 | 1 |
@@ -4027,10 +4015,32 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 
 注記（置換しない）:
-- 未置換（要検証）: 「シナモリアキラ」→ アキラ（要検証）
-- 未置換（要検証）: 「シナモリ・アキラ」→ アキラ（要検証）
-- 未置換（要検証）: 「ヴァージルアキラ」→ アキラ（要検証）
+- 未置換（要検証）: 「浄界」→ 楽園（要検証）
+- 未置換（要検証）: 「洞窟」→ 楽園（要検証）
+- 未置換（要検証）: 「ユディ」→ エレクトラ（要検証）
+- 未置換（要検証）: 「少年」→ ファル（要検証）
+- 未置換（要検証）: 「シナモリアキラ」→ アキラくん（要検証）
+- 未置換（要検証）: 「シナモリ・アキラ」→ アキラくん（要検証）
+- 未置換（要検証）: 「ヴァージルアキラ」→ アキラくん（要検証）
 - 未置換（要検証）: 「王」→ カーティス（要検証）
+- 未置換（要検証）: 「ルバーブ」→ スカルミリオーネ（要検証）
+- 未置換（要検証）: 「六人」→ 六人の王（要検証）
+- 未置換（要検証）: 「ティリビナ人」→ ティリビナの民（要検証）
+- 未置換（要検証）: 「言理の妖精」→ エル・ア・フィリス（要検証）
+- 未置換（要検証）: 「アイドル」→ ダウザール（要検証）
+- 未置換（要検証）: 「ちびシューラ」→ きぐるみの魔女（要検証）
+- 未置換（要検証）: 「呪具」→ 箒（要検証）
+- 未置換（要検証）: 「炎天使」→ 炎の天使（要検証）
+- 未置換（要検証）: 「クラフト」→ ブリアー（要検証）
+- 未置換（要検証）: 「創造」→ ブリアー（要検証）
+- 未置換（要検証）: 「巨人」→ ネフィリム（要検証）
+- 未置換（要検証）: 「星見の塔」→ 塔（要検証）
+- 未置換（要検証）: 「グレンデルヒ」→ ウォゾマ・メロロキン（要検証）
+- 未置換（要検証）: 「転生者」→ ゼノグラシア（要検証）
+- 未置換（要検証）: 「悪鬼」→ モロレク（要検証）
+- 未置換（要検証）: 「文化」→ 文化的営為（要検証）
 - 未置換（要検証）: 「実況」→ トリシューラ（要検証）
+- 未置換（要検証）: 「セリアック＝ニア」→ セリアック=ニア（要検証）
+- 未置換（要検証）: 「幼馴染」→ ロウ・カーイン（要検証）
 - 未置換（要検証）: 「名無し」→ チリアット（要検証）
 - 未置換（要検証）: 「Spea」→ spea（要検証）

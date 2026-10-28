@@ -9,7 +9,7 @@ canonical_name: "deus_ex_machina_child"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_deus_ex_machina_child.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5275_structurally_matches_E_ch5275_レオ_appears_劇場_p190_deus_ex_machina_child]] — 大人たちが論理で膠着した局面に対し、無垢なファル（レオ）が「音」や直感という非論理的・超常的な知覚によって介入し、閉鎖された空間から脱出する道を開く構造。
+- [[A_ch5275_structurally_matches_E_ch5275_レオ_appears_劇場_p190_deus_ex_machina_child]] — 大人たちが論理で膠着した局面に対し、無垢な少年（レオ）が「音」や直感という非論理的・超常的な知覚によって介入し、閉鎖された空間から脱出する道を開く構造。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 少年 | ファル | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「少年」→ ファル（要検証）

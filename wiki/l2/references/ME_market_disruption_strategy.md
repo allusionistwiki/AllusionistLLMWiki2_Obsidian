@@ -9,7 +9,7 @@ canonical_name: "market_disruption_strategy"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_market_disruption_strategy.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5103_analogous_to_E_ch5103_アキラ_other_空席獲得_p137_market_disruption_strategy]] — 既存の限られたポジションを争うのではなく、制度的空白（空席）をブリアーしそこへ介入することで、競争構造そのものを書き換える戦略的発想。
+- [[A_ch5103_analogous_to_E_ch5103_アキラ_other_空席獲得_p137_market_disruption_strategy]] — 既存の限られたポジションを争うのではなく、制度的空白（空席）を創造しそこへ介入することで、競争構造そのものを書き換える戦略的発想。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 創造 | ブリアー | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「創造」→ ブリアー（要検証）

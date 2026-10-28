@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5405_root_sorcery_origin.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # root_sorcery_origin
 
-「根源者（ソーサラー）」や「イネクシュネ原体」の正体。人類以前からの存在であり、完全者のブリアーに関わる核心。
+「根源者（ソーサラー）」や「イネクシュネ原体」の正体。人類以前からの存在であり、完全者の創造に関わる核心。
 
 **回収示唆**: アルト・イヴニルの目的が単なる権力闘争ではなく、世界の起源や生命の定義に関わる壮大なテーマへと昇華する伏線。
 
@@ -30,8 +30,11 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 創造 | ブリアー | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「創造」→ ブリアー（要検証）

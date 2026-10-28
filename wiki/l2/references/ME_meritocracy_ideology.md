@@ -9,7 +9,7 @@ canonical_name: "meritocracy_ideology"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_meritocracy_ideology.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5273_analogous_to_E_p260-p264_meritocracy_ideology]] — ウォゾマ・メロロキンの「機会は均等である」「怠惰な塵屑」への言及は、新自由主義的な自己責任論や能力主義（メリトクラシー）のイデオロギーをファンタジー世界に移植したものである。
+- [[A_ch5273_analogous_to_E_p260-p264_meritocracy_ideology]] — グレンデルヒの「機会は均等である」「怠惰な塵屑」への言及は、新自由主義的な自己責任論や能力主義（メリトクラシー）のイデオロギーをファンタジー世界に移植したものである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| グレンデルヒ | ウォゾマ・メロロキン | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「グレンデルヒ」→ ウォゾマ・メロロキン（要検証）

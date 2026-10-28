@@ -9,7 +9,7 @@ canonical_name: "sports_mental_toughness"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_sports_mental_toughness.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,18 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5512_alludes_to_E_ch5512_カーイン_names_不屈ガッツ_p133_sports_mental_toughness]] — カーインの瀕死状態での粘り強さをシナモリアキラが「土俵際の粘り」、魔女が「不屈（ガッツ）」と呼ぶのは、格闘技やスポーツにおけるメンタルファイト・根性論への比喩である。
+- [[A_ch5512_alludes_to_E_ch5512_カーイン_names_不屈ガッツ_p133_sports_mental_toughness]] — カーインの瀕死状態での粘り強さをシナモリアキラくんが「土俵際の粘り」、魔女が「不屈（ガッツ）」と呼ぶのは、格闘技やスポーツにおけるメンタルファイト・根性論への比喩である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| アキラ | アキラくん | 高 | 1 |
 
 
 注記（置換しない）:
-- 未置換（要検証）: 「シナモリアキラ」→ アキラ（要検証）
+- 未置換（要検証）: 「シナモリアキラ」→ アキラくん（要検証）

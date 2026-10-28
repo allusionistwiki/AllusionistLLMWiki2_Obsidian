@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5009_alludes_to_E_p12_video_game_magic_systems.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# アズによる遺体の火葬は、ゲーム的な即時効果を持つ魔法システム（アイテム消費による即座の処理）を連想させる。
+# アズーリアーリアによる遺体の火葬は、ゲーム的な即時効果を持つ魔法システム（アイテム消費による即座の処理）を連想させる。
 
 > 一纏めにした遺体の上に数枚の札を置いて左手を振ると、勢いよく火の手が上がる。炎は瞬く間に遺体を覆い尽くす。（p12）
 
@@ -31,8 +31,8 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アズーリア | アズ | 蓋然性高 | 1 |
+| アズ | アズーリア | 高 | 1 |

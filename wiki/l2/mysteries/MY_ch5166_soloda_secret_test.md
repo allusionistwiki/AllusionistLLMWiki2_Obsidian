@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5166_soloda_secret_test.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # soloda_secret_test
 
-ソルダが竜神信教の信徒たちを地獄に追放した行為と、アズへの試験がどのように繋がっているか。
+ソルダが竜神信教の信徒たちを地獄に追放した行為と、アズーリアーリアへの試験がどのように繋がっているか。
 
 **回収示唆**: ソルダの行動が単なる敵対行為ではなく、より大きな計画（探索者としての任務）の一部であることが示される。
 
@@ -30,8 +30,8 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アズーリア | アズ | 蓋然性高 | 1 |
+| アズ | アズーリア | 高 | 1 |

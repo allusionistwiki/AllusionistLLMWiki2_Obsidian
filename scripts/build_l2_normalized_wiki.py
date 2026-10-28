@@ -76,7 +76,7 @@ def main():
     print(f"ledger: entities={len(entities)} replace-aliases={len(alias_map)} annotate-only={len(low_map)} conflicts={len(set(conflicts))}")
 
     # scan L1 pages: id/title -> relative path
-    pages = sorted(p for p in WIKI_L1.rglob("*.md"))
+    pages = sorted(p for p in WIKI_L1.rglob("*.md") if p.relative_to(WIKI_L1).as_posix() != "index.md")  # 層入口の index.md だけ除外（各要素の index.md はミラーする）
     if limit:
         pages = pages[:limit]
     title_to_rel = {}
@@ -139,7 +139,15 @@ def main():
                         parts[i] = "[[" + target + "|" + pat.sub(repl, disp) + "]]"
                     # target は無変換
                 else:
-                    parts[i] = pat.sub(repl, seg)
+                    # markdown リンクはターゲット（パス）無変換・表示文本のみ正規化
+                    md_parts = re.split(r"(\[[^\]]*\]\([^)]*\))", seg)
+                    for j, ms in enumerate(md_parts):
+                        if ms.startswith("[") and "](" in ms:
+                            lm = re.match(r"(\[[^\]]*\])(\([^)]*\))", ms)
+                            md_parts[j] = pat.sub(repl, lm.group(1)) + lm.group(2)
+                        elif not ms.startswith("!["):
+                            md_parts[j] = pat.sub(repl, ms)
+                    parts[i] = "".join(md_parts)
             body = "".join(parts)
         else:
             body = rewrite_links(body, rel)

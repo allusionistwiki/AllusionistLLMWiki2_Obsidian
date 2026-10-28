@@ -9,7 +9,7 @@ canonical_name: "ME_AR_Smartphone_Games"
 domain: "Contemporary Consumer Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ME_AR_Smartphone_Games.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,18 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_AR_Smartphone_Games]] — きぐるみの魔女がアキラにしか見えず資料を広げる様子は、ARゲームやスマホアプリのUIオーバーレイを想起させるメタフィクショナルな演出である。
+- [[A_ch5402_analogous_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_AR_Smartphone_Games]] — ちびシューラがアキラくんにしか見えず資料を広げる様子は、ARゲームやスマホアプリのUIオーバーレイを想起させるメタフィクショナルな演出である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| ちびシューラ | きぐるみの魔女 | 蓋然性高 | 1 |
+| アキラ | アキラくん | 高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「ちびシューラ」→ きぐるみの魔女（要検証）

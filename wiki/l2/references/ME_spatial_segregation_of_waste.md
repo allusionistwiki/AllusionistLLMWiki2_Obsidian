@@ -9,7 +9,7 @@ canonical_name: "spatial_segregation_of_waste"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_spatial_segregation_of_waste.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5512_analogous_to_E_ch5512_隠花族_is_located_穢れとして隔離_p86_spatial_segregation_of_waste]] — ティリビナの民が「死」や「穢れ」を隠花族に隔離する構造は、社会の基盤となる負の要素を他者へ転嫁し管理するシステムを示している。
+- [[A_ch5512_analogous_to_E_ch5512_隠花族_is_located_穢れとして隔離_p86_spatial_segregation_of_waste]] — ティリビナの民人が「死」や「穢れ」を隠花族に隔離する構造は、社会の基盤となる負の要素を他者へ転嫁し管理するシステムを示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| ティリビナ人 | ティリビナの民 | 明言 | 1 |
+| ティリビナ | ティリビナの民 | 蓋然性高 | 1 |

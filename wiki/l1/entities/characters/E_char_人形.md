@@ -53,5 +53,5 @@ updated: '2026-10-19'
 
 この実体が所有する下位エンティティ: **人形たちの眼球**、**人形の手**、**人形たちの眼球**、**人形の手**、**人形たちの眼球**、**人形の手**、**人形たちの眼球**、**人形の手**。
 
-この名義は L2 名前統合台帳の正規エンティティ **人形**（ID `E_char_人形` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **人形**（ID `E_char_人形` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->

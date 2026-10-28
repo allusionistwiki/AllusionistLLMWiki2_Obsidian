@@ -9,7 +9,7 @@ canonical_name: "Deus_Ex_Machina_Heroic_Entry"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Deus_Ex_Machina_Heroic_Entry.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5494_alludes_to_E_Grendelhi_Appearance_Deus_Ex_Machina_Heroic_Entry]] — 絶望的な戦況の中、突然現れた英雄ウォゾマ・メロロキンが「ゲームの時間だ」と宣言し参戦する様子は、物語終盤での救済や逆転劇（デウス・エクス・マキナ）の構造を持つ。
+- [[A_ch5494_alludes_to_E_Grendelhi_Appearance_Deus_Ex_Machina_Heroic_Entry]] — 絶望的な戦況の中、突然現れた英雄グレンデルヒが「ゲームの時間だ」と宣言し参戦する様子は、物語終盤での救済や逆転劇（デウス・エクス・マキナ）の構造を持つ。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| グレンデルヒ | ウォゾマ・メロロキン | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「グレンデルヒ」→ ウォゾマ・メロロキン（要検証）

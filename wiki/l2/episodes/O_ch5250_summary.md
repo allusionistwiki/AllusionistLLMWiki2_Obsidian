@@ -23,7 +23,7 @@ terminology:
 - '[[E_term_牙猪種]]'
 - '[[E_term_サイバーカラテ]]'
 normalized_from: l1/episodes/O_ch5250_summary.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # ch5250
 

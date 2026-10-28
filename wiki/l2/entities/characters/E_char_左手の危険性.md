@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_左手の危険性.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # 左手の危険性
 
-失われた左手の義肢に寄生異獣を使うことは非常に危険であるとアキラがカインに対し忠告する事柄である。占星術師が左手に宿したものを市街地で解き放てば騒ぎになったはずだと述べられることもある。
+失われた左手の義肢に寄生異獣を使うことは非常に危険であるとアキラくんがカインに対し忠告する事柄である。占星術師が左手に宿したものを市街地で解き放てば騒ぎになったはずだと述べられることもある。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch5015 ｜ **観測イベント**: 2 件（2 話に出現）
@@ -33,5 +33,14 @@ l2_run: 20261024T1608_fc8d
 
 この名義は **左手** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_左手`。
 
-この名義は L2 名前統合台帳の正規エンティティ **左手の危険性**（ID `E_char_左手の危険性` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **左手の危険性**（ID `E_char_左手の危険性` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アキラ | アキラくん | 高 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "Media_Gender_Stereotype"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Media_Gender_Stereotype.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5161_inverts_E_Hero_Worship_Media_Gender_Stereotype]] — ミルーニャがアズを「性別のしがらみから解放された存在」として賞賛するのは、社会規範からの逸脱を肯定する価値観を示唆している。
+- [[A_ch5161_inverts_E_Hero_Worship_Media_Gender_Stereotype]] — ミルーニャがアズーリアーリアを「性別のしがらみから解放された存在」として賞賛するのは、社会規範からの逸脱を肯定する価値観を示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アズーリア | アズ | 蓋然性高 | 1 |
+| アズ | アズーリア | 高 | 1 |

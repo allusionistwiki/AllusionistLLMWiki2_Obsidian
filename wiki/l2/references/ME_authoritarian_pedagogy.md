@@ -9,7 +9,7 @@ canonical_name: "authoritarian_pedagogy"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_authoritarian_pedagogy.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5129_structurally_matches_E_p163_authoritarian_pedagogy]] — ハルの「強くなりたいなら従え」という発言は、成果主義を前提とした権威による一方的な教育・統制構造（ authoritarian pedagogy ）を反映している。
+- [[A_ch5129_structurally_matches_E_p163_authoritarian_pedagogy]] — ハルベルトベルトの「強くなりたいなら従え」という発言は、成果主義を前提とした権威による一方的な教育・統制構造（ authoritarian pedagogy ）を反映している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| ハルベルト | ハル | 明言 | 1 |
+| ハル | ハルベルト | 高 | 1 |

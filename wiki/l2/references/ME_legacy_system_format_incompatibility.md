@@ -9,7 +9,7 @@ canonical_name: "legacy_system_format_incompatibility"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_legacy_system_format_incompatibility.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5056_analogous_to_E_ch5056_少年_uses_古代語_p272_legacy_system_format_incompatibility]] — データベースに存在しない古代語を話せるファルと、それを読み取れる主人公の存在は、主人公が世界のシステム（言語データ）の外側にある特異な権限や役割を持つことを示唆するメタフィクション的装置である。
+- [[A_ch5056_analogous_to_E_ch5056_少年_uses_古代語_p272_legacy_system_format_incompatibility]] — データベースに存在しない古代語を話せる少年と、それを読み取れる主人公の存在は、主人公が世界のシステム（言語データ）の外側にある特異な権限や役割を持つことを示唆するメタフィクション的装置である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 少年 | ファル | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「少年」→ ファル（要検証）

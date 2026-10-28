@@ -9,7 +9,7 @@ canonical_name: "famous_person_portraits_on_banknotes"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_famous_person_portraits_on_banknotes.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,15 +20,18 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5070_alludes_to_E_5070_P26_famous_person_portraits_on_banknotes]] — 紙幣に描かれたウォゾマ・メロロキン＝ライニンサルの肖像は、現実の日本円や各国通貨に著名な歴史上の人物（福沢諭吉、ウィリアム・シェイクスピア等）が描かれ文化的営為的権威を付与する慣習を引き喩えている。
+- [[A_ch5070_alludes_to_E_5070_P26_famous_person_portraits_on_banknotes]] — 紙幣に描かれたグレンデルヒ＝ライニンサルの肖像は、現実の日本円や各国通貨に著名な歴史上の人物（福沢諭吉、ウィリアム・シェイクスピア等）が描かれ文化的権威を付与する慣習を引き喩えている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| グレンデルヒ | ウォゾマ・メロロキン | 蓋然性高 | 1 |
-| 文化 | 文化的営為 | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「グレンデルヒ」→ ウォゾマ・メロロキン（要検証）
+- 未置換（要検証）: 「文化」→ 文化的営為（要検証）

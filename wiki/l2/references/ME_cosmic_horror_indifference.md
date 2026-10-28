@@ -9,7 +9,7 @@ canonical_name: "cosmic_horror_indifference"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_cosmic_horror_indifference.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5213_analogous_to_E_p179_cosmic_horror_indifference]] — ユネクティアの巨大すぎる「影」が理解不能であるという描写は、ラブブリアー的な宇宙恐怖における「人間の認知能力を超えた存在の不可知性」を指喩している。
+- [[A_ch5213_analogous_to_E_p179_cosmic_horror_indifference]] — ユネクティアの巨大すぎる「影」が理解不能であるという描写は、ラブクラフト的な宇宙恐怖における「人間の認知能力を超えた存在の不可知性」を指喩している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| クラフト | ブリアー | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「クラフト」→ ブリアー（要検証）

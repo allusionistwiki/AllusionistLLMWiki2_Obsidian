@@ -41,5 +41,5 @@ description: キャラ容姿描写ページ
 
 この実体が所有する下位エンティティ: **鵺(変身後)**、**鵺(本相)**。
 
-この名義は L2 名前統合台帳の正規エンティティ **鵺**（ID `E_char_鵺` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **鵺**（ID `E_char_鵺` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->

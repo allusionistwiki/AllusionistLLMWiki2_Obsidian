@@ -9,7 +9,7 @@ canonical_name: "system_overload"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_system_overload.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5248_analogous_to_E_illness_system_overload]] — トリシューラ（管理者）不在下でのコルセスカとの密着によるアキラの肉体破綻は、制御系を失った高負荷ソースがシステム全体を不安定化させる構造の比喩である。
+- [[A_ch5248_analogous_to_E_illness_system_overload]] — トリシューラ（管理者）不在下でのコルセスカとの密着によるアキラくんの肉体破綻は、制御系を失った高負荷ソースがシステム全体を不安定化させる構造の比喩である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| アキラ | アキラくん | 高 | 1 |

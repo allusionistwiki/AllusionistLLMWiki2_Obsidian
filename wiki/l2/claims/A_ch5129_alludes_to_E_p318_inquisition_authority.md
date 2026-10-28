@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5129_alludes_to_E_p318_inquisition_authority.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# ハルの権限が「外部監査の魔女」として描写され、宗教的権威と行政監察のハイブリッドな統制力を示唆している。
+# ハルベルトベルトの権限が「外部監査の魔女」として描写され、宗教的権威と行政監察のハイブリッドな統制力を示唆している。
 
 > 異教徒の異端審問官――外部監査の魔女か！（p318）
 
@@ -31,8 +31,8 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ハルベルト | ハル | 明言 | 1 |
+| ハル | ハルベルト | 高 | 1 |

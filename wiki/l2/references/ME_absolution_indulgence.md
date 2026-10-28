@@ -9,7 +9,7 @@ canonical_name: "absolution_indulgence"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_absolution_indulgence.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5038_alludes_to_E_ch5038_アキラ_remembers_カイン殺し_p150_absolution_indulgence]] — 過去のアズからの赦しを「免罪符」と呼ぶのは、宗教的贖宥（indulgence）の概念と倫理的な自己正当化の比喩である。
+- [[A_ch5038_alludes_to_E_ch5038_アキラ_remembers_カイン殺し_p150_absolution_indulgence]] — 過去のアズーリアーリアからの赦しを「免罪符」と呼ぶのは、宗教的贖宥（indulgence）の概念と倫理的な自己正当化の比喩である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アズーリア | アズ | 蓋然性高 | 1 |
+| アズ | アズーリア | 高 | 1 |

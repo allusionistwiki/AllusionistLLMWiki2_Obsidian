@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_意識.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # 意識
 
-アキラが敗北や高熱によって失う状態であり、解体され浮上するような感覚と共に覚醒する過程が描かれる。視界が傾ぎ身体が横倒しになるなど、朦朧とした状態を指す。
+アキラくんが敗北や高熱によって失う状態であり、解体され浮上するような感覚と共に覚醒する過程が描かれる。視界が傾ぎ身体が横倒しになるなど、朦朧とした状態を指す。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch5021 ｜ **観測イベント**: 8 件（8 話に出現）
@@ -38,7 +38,7 @@ l2_run: 20261024T1608_fc8d
 <!-- AUTO-REL:BEGIN -->
 ## 関係キャラクター
 
-- [[E_char_アキラ|アキラ]] — 失う(受)（3 観測）
+- [[E_char_アキラ|アキラくん]] — 失う(受)（3 観測）
 
 <!-- AUTO-REL:END -->
 
@@ -47,15 +47,16 @@ l2_run: 20261024T1608_fc8d
 
 この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
 
-この名義は L2 名前統合台帳の正規エンティティ **意識**（ID `E_char_意識` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **意識**（ID `E_char_意識` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| アキラ | アキラくん | 高 | 2 |
 | 男 | カイン | 蓋然性高 | 1 |
 | フィレクティ | ちびラズリ | 明言 | 1 |

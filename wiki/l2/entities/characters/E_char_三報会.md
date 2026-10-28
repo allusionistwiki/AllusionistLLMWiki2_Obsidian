@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_三報会.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # 三報会
 
-第五階層の組織に属するカインたちであり、キロンを持つ少女を囲んで唾を吐きかけるなど暴力的な行動をとる。アキラによって戦闘不能にされるなど、敵対勢力として描かれる。
+第五階層の組織に属するカインたちであり、キロンを持つ少女を囲んで唾を吐きかけるなど暴力的な行動をとる。アキラくんによって戦闘不能にされるなど、敵対勢力として描かれる。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0005 ｜ **観測イベント**: 3 件（2 話に出現）
@@ -32,7 +32,7 @@ l2_run: 20261024T1608_fc8d
 <!-- AUTO-REL:BEGIN -->
 ## 関係キャラクター
 
-- [[E_char_少年|ファル]] — 攻撃（2 観測）
+- [[E_char_少年|少年]] — 攻撃（2 観測）
 - [[E_char_モロレク|モロレク]] — 義理を結ぶ(受)（2 観測）
 
 <!-- AUTO-REL:END -->
@@ -40,16 +40,20 @@ l2_run: 20261024T1608_fc8d
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **三報会**（ID `E_char_三報会` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **三報会**（ID `E_char_三報会` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 男 | カイン | 蓋然性高 | 2 |
 | 蝶の翅 | キロン | 明言 | 1 |
-| 少年 | ファル | 蓋然性高 | 1 |
+| アキラ | アキラくん | 高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「少年」→ ファル（要検証）

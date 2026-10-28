@@ -9,7 +9,7 @@ canonical_name: "server_load_balancing"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_server_load_balancing.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5270_analogous_to_E_p91_server_load_balancing]] — 祈りの時間帯に一斉アクセスが集中しサーバー負荷がかかるというスカルミリオーネの発言は、現代のWebサービスにおけるピーク時のアクセス殺到やスケーリング問題（ロードバランシング）を指している。
+- [[A_ch5270_analogous_to_E_p91_server_load_balancing]] — 祈りの時間帯に一斉アクセスが集中しサーバー負荷がかかるというルバーブの発言は、現代のWebサービスにおけるピーク時のアクセス殺到やスケーリング問題（ロードバランシング）を指している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| ルバーブ | スカルミリオーネ | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「ルバーブ」→ スカルミリオーネ（要検証）

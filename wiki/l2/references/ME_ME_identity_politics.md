@@ -9,7 +9,7 @@ canonical_name: "ME_identity_politics"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ME_identity_politics.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5492_inverts_E_ch5492_マリナ_confesses_混血である事実_p138_ME_identity_politics]] — 「黒檀の民」として生きてきた者が実はティリビナの民の血を引いていたという告白は、民族アイデンティティの固定観念や純血主義に対する逆転（インバージョン）を示す。
+- [[A_ch5492_inverts_E_ch5492_マリナ_confesses_混血である事実_p138_ME_identity_politics]] — 「黒檀の民」として生きてきた者が実はティリビナの民人の血を引いていたという告白は、民族アイデンティティの固定観念や純血主義に対する逆転（インバージョン）を示す。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| ティリビナ人 | ティリビナの民 | 明言 | 1 |
+| ティリビナ | ティリビナの民 | 蓋然性高 | 1 |

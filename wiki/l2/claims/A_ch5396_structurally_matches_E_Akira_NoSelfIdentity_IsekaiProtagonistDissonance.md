@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5396_structurally_matches_E_Akira_NoSelfIdentity_IsekaiProtagonistDissonance.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261024T1608_fc8d
 
 > まるで他人事のようだが、正直なところ俺はイツノが自分であるという実感があまりない。極めて自然に肉体と同調できているにも関わらず、だ。（p98）
 
-**審査（LLM 代替）**: アキラの「イツノが自分である実感がない」という内的独白は、異世界転生やゲームプレイにおける自己同一性の希薄化というクリシェを内省的に描いており、構造的分析として妥当。
+**審査（LLM 代替）**: アキラくんの「イツノが自分である実感がない」という内的独白は、異世界転生やゲームプレイにおける自己同一性の希薄化というクリシェを内省的に描いており、構造的分析として妥当。
+
+
+---
+
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アキラ | アキラくん | 高 | 1 |

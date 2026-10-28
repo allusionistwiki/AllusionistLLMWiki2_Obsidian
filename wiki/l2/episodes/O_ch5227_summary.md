@@ -34,7 +34,7 @@ motifs:
 phrases:
 - '[[E_phrase_歌姫の呪文]]'
 normalized_from: l1/episodes/O_ch5227_summary.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # ch5227
 

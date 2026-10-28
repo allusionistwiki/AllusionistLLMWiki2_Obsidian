@@ -20,7 +20,7 @@ terminology:
 - '[[E_term_瘴気]]'
 - '[[E_term_六王]]'
 normalized_from: l1/episodes/O_ch5430_summary.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # ch5430
 
@@ -60,7 +60,7 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

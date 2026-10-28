@@ -9,7 +9,7 @@ canonical_name: "dependency_on_deus_ex_machina"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_dependency_on_deus_ex_machina.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5035_structurally_matches_E_azuria_waiting_dependency_on_deus_ex_machina]] — アズの到来を待つという受動的な態度は、物語の解決装置（デウス・エクス・マキナ）への依存と、それによる自己主体性の喪失を描いている。
+- [[A_ch5035_structurally_matches_E_azuria_waiting_dependency_on_deus_ex_machina]] — アズーリアーリアの到来を待つという受動的な態度は、物語の解決装置（デウス・エクス・マキナ）への依存と、それによる自己主体性の喪失を描いている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アズーリア | アズ | 蓋然性高 | 1 |
+| アズ | アズーリア | 高 | 1 |

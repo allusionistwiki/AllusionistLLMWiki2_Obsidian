@@ -9,7 +9,7 @@ canonical_name: "trojan_horse_myth"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_trojan_horse_myth.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- A_ch5098_alludes_to_E_ch5098_p120_trojan_horse_myth — アキラが内部で味方（コルセスカ）を呼び込むための媒体となる展開は、トロイの木馬の神话的構造をなぞっている。
+- A_ch5098_alludes_to_E_ch5098_p120_trojan_horse_myth — アキラくんが内部で味方（コルセスカ）を呼び込むための媒体となる展開は、トロイの木馬の神话的構造をなぞっている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| アキラ | アキラくん | 高 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "symbiotic_parasite"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_symbiotic_parasite.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5259_analogous_to_E_akira_parasitism_symbiotic_parasite]] — アキラの左腕がチリアットに移植され人格を代行する状態は、生物学的な寄生関係および精神の侵食という比喩で説明されている。
+- [[A_ch5259_analogous_to_E_akira_parasitism_symbiotic_parasite]] — アキラくんの左腕がチリアットに移植され人格を代行する状態は、生物学的な寄生関係および精神の侵食という比喩で説明されている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| アキラ | アキラくん | 高 | 1 |

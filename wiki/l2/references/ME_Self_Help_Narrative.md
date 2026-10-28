@@ -9,7 +9,7 @@ canonical_name: "Self_Help_Narrative"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Self_Help_Narrative.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5317_inverts_E_237_Self_Help_Narrative]] — 主人公が他者の力を借りる「他力本願」を自己の本質として肯定するのは、自立・自力を尊ぶ一般的なゼノグラシアやヒーローの物語構造に対する逆説的な肯定である。
+- [[A_ch5317_inverts_E_237_Self_Help_Narrative]] — 主人公が他者の力を借りる「他力本願」を自己の本質として肯定するのは、自立・自力を尊ぶ一般的な転生者やヒーローの物語構造に対する逆説的な肯定である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 転生者 | ゼノグラシア | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「転生者」→ ゼノグラシア（要検証）

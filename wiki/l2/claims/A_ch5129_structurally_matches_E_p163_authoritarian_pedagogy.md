@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5129_structurally_matches_E_p163_authoritarian_pedagogy.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# ハルの「強くなりたいなら従え」という発言は、成果主義を前提とした権威による一方的な教育・統制構造（ authoritarian pedagogy ）を反映している。
+# ハルベルトベルトの「強くなりたいなら従え」という発言は、成果主義を前提とした権威による一方的な教育・統制構造（ authoritarian pedagogy ）を反映している。
 
 > これは決定事項。強くなりたいなら、おとなしく従うこと（p163）
 
@@ -31,8 +31,8 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ハルベルト | ハル | 明言 | 1 |
+| ハル | ハルベルト | 高 | 1 |

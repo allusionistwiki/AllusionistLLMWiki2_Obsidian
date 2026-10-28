@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_融血呪.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # 融血呪呪
 
-四つの禁呪の一つであり、青い流体を用いて対象を融合・浸食する術式である。トライデントの細胞を媒介として発動され、鰓耳の民の楽園を侵食し、世界を漆黒の闇へと塗り替えるほどの破壊力を持つ。
+四つの禁呪の一つであり、青い流体を用いて対象を融合・浸食する術式である。トライデントの細胞を媒介として発動され、鰓耳の民の浄界を侵食し、世界を漆黒の闇へと塗り替えるほどの破壊力を持つ。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch5203 ｜ **観測イベント**: 4 件（4 話に出現）
@@ -41,16 +41,19 @@ l2_run: 20261024T1608_fc8d
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **融血呪呪**（ID `E_char_融血呪呪` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **融血呪呪**（ID `E_char_融血呪呪` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 融血 | 融血呪 | 蓋然性高 | 6 |
-| 浄界 | 楽園 | 明言 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「浄界」→ 楽園（要検証）

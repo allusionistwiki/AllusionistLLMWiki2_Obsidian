@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-19'
 updated: '2026-10-21'
 normalized_from: l1/entities/organizations/E_org_無貌暗鬼モロレク戦団.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # 無貌暗鬼モロレク戦団
 
@@ -21,27 +21,27 @@ l2_run: 20261024T1608_fc8d
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
-- **unknown**: そうしてモロレク女王の下で、無貌暗鬼（モロレク）戦団の戦士となるべく研鑽を積み重ねていた時だった。
-- **unknown**: そうしてモロレク女王の下で、無貌暗鬼（モロレク）戦団の戦士となるべく研鑽を積み重ねていた時だった。
-- **unknown**: そうしてモロレク女王の下で、無貌暗鬼（モロレク）戦団の戦士となるべく研鑽を積み重ねていた時だった。
+- **unknown**: そうして悪鬼女王の下で、無貌暗鬼（モロレク）戦団の戦士となるべく研鑽を積み重ねていた時だった。
+- **unknown**: そうして悪鬼女王の下で、無貌暗鬼（モロレク）戦団の戦士となるべく研鑽を積み重ねていた時だった。
+- **unknown**: そうして悪鬼女王の下で、無貌暗鬼（モロレク）戦団の戦士となるべく研鑽を積み重ねていた時だった。
 
 <!-- /AUTO-GENERATED:relationship -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **無貌暗鬼モロレク戦団**（ID `E_org_無貌暗鬼モロレク戦団` / kind: organization / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **無貌暗鬼モロレク戦団**（ID `E_org_無貌暗鬼モロレク戦団` / kind: organization / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 悪鬼 | モロレク | 明言 | 3 |
 
 
 注記（置換しない）:
 - 未置換（要検証）: 「王」→ カーティス（要検証）
+- 未置換（要検証）: 「悪鬼」→ モロレク（要検証）

@@ -9,7 +9,7 @@ canonical_name: "Post_Traumatic_Stress_Disorder"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Post_Traumatic_Stress_Disorder.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,18 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5014_analogous_to_E_ch5014_アキラ_appears_as_シナモリ・アキラ_p4_Post_Traumatic_Stress_Disorder]] — アキラの「人殺しだ」という反復的な自責と錯乱は、現代におけるPTSD（心的外傷後ストレス障害）や急性ストレス反応に見られる侵入的回想・過覚醒症状を想起させる心理描写として機能している。
+- [[A_ch5014_analogous_to_E_ch5014_アキラ_appears_as_シナモリ・アキラ_p4_Post_Traumatic_Stress_Disorder]] — アキラくんの「人殺しだ」という反復的な自責と錯乱は、現代におけるPTSD（心的外傷後ストレス障害）や急性ストレス反応に見られる侵入的回想・過覚醒症状を想起させる心理描写として機能している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| アキラ | アキラくん | 高 | 1 |
 
 
 注記（置換しない）:
-- 未置換（要検証）: 「シナモリ・アキラ」→ アキラ（要検証）
+- 未置換（要検証）: 「シナモリ・アキラ」→ アキラくん（要検証）

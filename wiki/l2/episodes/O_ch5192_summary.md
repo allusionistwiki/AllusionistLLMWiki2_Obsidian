@@ -23,7 +23,7 @@ organizations:
 - '[[E_org_黒百合宮]]'
 - '[[E_org_クロウサー家]]'
 normalized_from: l1/episodes/O_ch5192_summary.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # ch5192
 

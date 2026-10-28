@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5414_alludes_to_E_ch5414_ミヒトネッセ_makes_天地開闢_p6_Biblical_Creation_Light.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# 「光あれ」という言葉とそれに続くブリアー行為は、創世記の冒頭を模倣した演出である。
+# 「光あれ」という言葉とそれに続く創造行為は、創世記の冒頭を模倣した演出である。
 
 > 演出家（かみ）は「照明（ひかり）あれ」と言われた。するとスポットライトがあった。（p2）
 
@@ -31,8 +31,11 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 創造 | ブリアー | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「創造」→ ブリアー（要検証）

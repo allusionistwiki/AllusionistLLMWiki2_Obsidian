@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5334_Six_Kings_Rage_Source.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # Six_Kings_Rage_Source
 
-六王およびアキラが「コルセスカが欲しい」という暴力的な衝動（呪い）に駆り立てられている原因。単なる恋愛感情なのか、特定の呪術・転生力による強制なのか。
+六王およびアキラくんが「コルセスカが欲しい」という暴力的な衝動（呪い）に駆り立てられている原因。単なる恋愛感情なのか、特定の呪術・転生力による強制なのか。
 
 **回収示唆**: 「コルセスカ」を巡る争いの真のトリガー（例：転生力の性質、王権の条件）の発覚。
 
@@ -31,10 +31,11 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| アキラ | アキラくん | 高 | 1 |
 
 
 注記（置換しない）:

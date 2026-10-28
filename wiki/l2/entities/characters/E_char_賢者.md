@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-19'
 normalized_from: l1/entities/characters/E_char_賢者.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # 賢者
@@ -24,7 +24,7 @@ l2_run: 20261024T1608_fc8d
 
 ## 代表引用
 
-> そんな中、賢者セレスはマラードとスカルミリオーネを呼び、こう切り出した。（ch5270）
+> そんな中、賢者セレスはマラードとルバーブを呼び、こう切り出した。（ch5270）
 > 紫は賢者として招かれた。 不在の席を埋めるため、必要とされたのは紫という色彩。カインは純粋な機能としてその力を振るった。（ch5374）
 > 生と死の輪廻の果て、賢者は求めの声を耳にした。（ch5374）
 
@@ -42,19 +42,19 @@ l2_run: 20261024T1608_fc8d
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **賢者**（ID `E_char_賢者` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **賢者**（ID `E_char_賢者` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ルバーブ | スカルミリオーネ | 明言 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |
 
 
 注記（置換しない）:
 - 未置換（要検証）: 「王」→ カーティス（要検証）
+- 未置換（要検証）: 「ルバーブ」→ スカルミリオーネ（要検証）

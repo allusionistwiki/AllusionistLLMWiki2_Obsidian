@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5108_analogous_to_E_ch5108_ウィッチ_order_functions_as_神話摸倣者_p113_open_source_license_viral_infection.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# あらゆる形態で敵対者を駆逐する「盗作者」としての様子は、既存コード（伝承）を派生・変換し消費するパロディ文化的営為や二次創作の構造を想起させる。
+# あらゆる形態で敵対者を駆逐する「盗作者」としての様子は、既存コード（伝承）を派生・変換し消費するパロディ文化や二次創作の構造を想起させる。
 
 > ありとあらゆる形態で敵対者を駆逐する、手段を選ばぬ最悪の盗作者。その手数は、総計七十一本。（p113）
 
@@ -31,8 +31,11 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 文化 | 文化的営為 | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「文化」→ 文化的営為（要検証）

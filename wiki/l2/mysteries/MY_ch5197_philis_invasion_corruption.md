@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5197_philis_invasion_corruption.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # philis_invasion_corruption
 
-アズが復活したことで、フィリスの欠片が仲間たちの身体を浸食し始める懸念。この「暴走」が実際に仲間たちにどのような影響（変貌や制御不能）をもたらすか。
+アズーリアーリアが復活したことで、フィリスの欠片が仲間たちの身体を浸食し始める懸念。この「暴走」が実際に仲間たちにどのような影響（変貌や制御不能）をもたらすか。
 
 **回収示唆**: 仲間たちがフィリスに支配される、あるいはその侵食を利用したさらなる戦いへの発展。
 
@@ -31,9 +31,9 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アズーリア | アズ | 蓋然性高 | 1 |
+| アズ | アズーリア | 高 | 1 |
 | 私 | カイン | 蓋然性高 | 1 |

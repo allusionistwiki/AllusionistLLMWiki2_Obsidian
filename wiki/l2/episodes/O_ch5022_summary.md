@@ -51,7 +51,7 @@ items:
 motifs:
 - '[[E_motif_時間経過]]'
 normalized_from: l1/episodes/O_ch5022_summary.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # ch5022
 

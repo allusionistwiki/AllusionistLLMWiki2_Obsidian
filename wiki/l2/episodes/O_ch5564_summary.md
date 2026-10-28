@@ -24,7 +24,7 @@ terminology:
 - '[[E_term_ゼオーティア世界]]'
 - '[[E_term_原初の世界]]'
 normalized_from: l1/episodes/O_ch5564_summary.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # ch5564
 

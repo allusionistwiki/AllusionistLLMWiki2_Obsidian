@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5305_vivi_consciousness_fading.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # vivi_consciousness_fading
 
-ヴィヴィの記憶が薄れ、アキラの顔が思い出せなくなる現象。これがカイン女の完全な崩壊・死の前兆か、あるいは別の存在への移行の伏線か。
+ヴィヴィの記憶が薄れ、アキラくんの顔が思い出せなくなる現象。これがカイン女の完全な崩壊・死の前兆か、あるいは別の存在への移行の伏線か。
 
 **回収示唆**: 後の章でヴィヴィが完全に自我を失うか、あるいは記憶の欠落が重要な戦術的要素（敵に弱点として利用される等）となる。
 
@@ -30,8 +30,9 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 彼 | カイン | 蓋然性高 | 2 |
+| アキラ | アキラくん | 高 | 1 |

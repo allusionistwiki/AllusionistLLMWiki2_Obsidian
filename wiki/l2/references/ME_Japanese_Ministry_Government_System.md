@@ -9,7 +9,7 @@ canonical_name: "Japanese_Ministry_Government_System"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Japanese_Ministry_Government_System.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5334_analogous_to_E_ChibiShura_Bureaucracy_Japanese_Ministry_Government_System]] — ガロアンディアンの行政を担う「きぐるみの魔女」は、日本の各省庁（経済産業省、農林水産省など）の機能と名称を直接的に引用し、国家システムを妖精インターフェースとして視覚化している。
+- [[A_ch5334_analogous_to_E_ChibiShura_Bureaucracy_Japanese_Ministry_Government_System]] — ガロアンディアンの行政を担う「ちびシューラ」は、日本の各省庁（経済産業省、農林水産省など）の機能と名称を直接的に引用し、国家システムを妖精インターフェースとして視覚化している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| ちびシューラ | きぐるみの魔女 | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「ちびシューラ」→ きぐるみの魔女（要検証）

@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/terminology/E_term_カッサリオ.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # カッサリオ
 
-角を向けた直線上に不可視の衝撃波を放ち空間を螺旋状に破壊する、イッカクの特徴を持つ生物である。この時代ではまだ小さな幼獣であり王獣と称されるが、アキラの中に眠る存在の名前として呼ばれた事例もある。
+角を向けた直線上に不可視の衝撃波を放ち空間を螺旋状に破壊する、イッカクの特徴を持つ生物である。この時代ではまだ小さな幼獣であり王獣と称されるが、アキラくんの中に眠る存在の名前として呼ばれた事例もある。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch5045 ｜ **観測イベント**: 8 件（3 話に出現）
@@ -34,16 +34,17 @@ l2_run: 20261024T1608_fc8d
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **カッサリオ**（ID `E_char_カッサリオ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **カッサリオ**（ID `E_char_カッサリオ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| アキラ | アキラくん | 高 | 1 |
 
 
 注記（置換しない）:

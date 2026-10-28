@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_松明の騎士団_容姿.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # 松明の騎士団｜容姿
@@ -29,24 +29,23 @@ l2_run: 20261024T1608_fc8d
 初出: [14話](../../nav/ch0014.md) ｜ 容姿記述 1 件
 
 - 甲冑姿の騎士と、白く清潔な服装をした修道騎士たち。 ｜ 服装・装甲 ｜ 典拠: [14話](../../nav/ch0014.md)（p636）
-  > 甲冑姿の者が三人、白く清潔な服装をした者が六人の王。集団で配給や傷病者の治療などを行っているらしい。
+  > 甲冑姿の者が三人、白く清潔な服装をした者が六人。集団で配給や傷病者の治療などを行っているらしい。
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **松明の騎士団**（ID `E_char_松明の騎士団` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **松明の騎士団**（ID `E_char_松明の騎士団` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 六人 | 六人の王 | 蓋然性高 | 1 |
 
 
 注記（置換しない）:
-- 未置換（要検証）: 「王」→ カーティス（要検証）
+- 未置換（要検証）: 「六人」→ 六人の王（要検証）

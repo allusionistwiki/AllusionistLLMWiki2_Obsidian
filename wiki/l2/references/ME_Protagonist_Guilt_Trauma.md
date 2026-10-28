@@ -9,7 +9,7 @@ canonical_name: "Protagonist_Guilt_Trauma"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Protagonist_Guilt_Trauma.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5183_foreshadows_E_p241_Protagonist_Guilt_Trauma]] — ガルズの行動（死者の言葉代弁によるマリーの死）が主人公の行動（フィリス使用によるアキラの誘導）と「裏返し」であるという記述は、主人公自身の倫理的罪悪感とその結末（アキラの精神崩壊等）を予告する。
+- [[A_ch5183_foreshadows_E_p241_Protagonist_Guilt_Trauma]] — ガルズの行動（死者の言葉代弁によるマリーの死）が主人公の行動（フィリス使用によるアキラくんの誘導）と「裏返し」であるという記述は、主人公自身の倫理的罪悪感とその結末（アキラくんの精神崩壊等）を予告する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| アキラ | アキラくん | 高 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |

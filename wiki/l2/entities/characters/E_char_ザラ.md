@@ -12,12 +12,12 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-19'
 normalized_from: l1/entities/characters/E_char_ザラ.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # ザラ
 
-羊人のファルザラ（ツァルヴリス）は「酩酊の魔人」と呼ばれ、エレクトラを「クソ女」と罵倒する。赤い瞳から邪視を放射し、クロウサー陣営の空の民たちの自由を奪って落下させる能力を持つ。
+羊人の少年ザラ（ツァルヴリス）は「酩酊の魔人」と呼ばれ、エレクトラを「クソ女」と罵倒する。赤い瞳から邪視を放射し、クロウサー陣営の空の民たちの自由を奪って落下させる能力を持つ。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0259 ｜ **観測イベント**: 4 件（1 話に出現）
@@ -61,16 +61,19 @@ l2_run: 20261024T1608_fc8d
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **ザラ**（ID `E_char_ザラ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **ザラ**（ID `E_char_ザラ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 彼 | カイン | 蓋然性高 | 4 |
-| 少年 | ファル | 蓋然性高 | 1 |
 | ユディーア | エレクトラ | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「少年」→ ファル（要検証）

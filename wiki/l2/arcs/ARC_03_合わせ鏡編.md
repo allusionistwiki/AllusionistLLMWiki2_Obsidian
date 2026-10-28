@@ -14,7 +14,7 @@ created: '2026-10-01'
 updated: '2026-10-10'
 macro_analogy: A_structural_合わせ鏡_ナルキッソス
 normalized_from: l1/arcs/ARC_03_合わせ鏡編.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # 合わせ鏡編
 

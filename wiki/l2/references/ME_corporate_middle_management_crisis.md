@@ -9,7 +9,7 @@ canonical_name: "corporate_middle_management_crisis"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_corporate_middle_management_crisis.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,15 +20,15 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5490_analogous_to_E_priestera_leadership_corporate_middle_management_crisis]] — アズ不在時にエストが部隊を率い、部下の魂の音を安定させる描写は、組織のトップ不在時における現場管理者の心理的リーダーシップと維持機能を指している。
+- [[A_ch5490_analogous_to_E_priestera_leadership_corporate_middle_management_crisis]] — アズーリアーリア不在時にエストが部隊を率い、部下の魂の音を安定させる描写は、組織のトップ不在時における現場管理者の心理的リーダーシップと維持機能を指している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アズーリア | アズ | 蓋然性高 | 1 |
+| アズ | アズーリア | 高 | 1 |
 | プリエステラ | エスト | 明言 | 1 |

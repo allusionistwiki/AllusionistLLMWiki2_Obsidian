@@ -9,7 +9,7 @@ canonical_name: "rpg_status_screen"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_rpg_status_screen.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5106_parodies_E_5106_p47_rpg_status_screen]] — 敵がゼノグラシアのステータスやスキル構成を瞬時に解析する描写は、ゲーム的なUI（ステータス参照能力）のメタ的表現である。
+- [[A_ch5106_parodies_E_5106_p47_rpg_status_screen]] — 敵が転生者のステータスやスキル構成を瞬時に解析する描写は、ゲーム的なUI（ステータス参照能力）のメタ的表現である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 転生者 | ゼノグラシア | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「転生者」→ ゼノグラシア（要検証）

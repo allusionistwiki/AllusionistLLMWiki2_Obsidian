@@ -9,7 +9,7 @@ canonical_name: "river_styx_mythology"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_river_styx_mythology.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5408_parodies_E_ch5408_時_other_大河_p103_river_styx_mythology]] — 大量の死が対岸が見えないほどの大河となる描写は、死者を隔てる冥界の川ステュクスの意匠を模倣し、ファルを死の世界へ導く通過儀礼として機能している。
+- [[A_ch5408_parodies_E_ch5408_時_other_大河_p103_river_styx_mythology]] — 大量の死が対岸が見えないほどの大河となる描写は、死者を隔てる冥界の川ステュクスの意匠を模倣し、少年を死の世界へ導く通過儀礼として機能している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 少年 | ファル | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「少年」→ ファル（要検証）

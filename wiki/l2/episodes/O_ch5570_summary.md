@@ -12,7 +12,7 @@ characters:
 - '[[E_char_エンハとナックス]]'
 - '[[E_char_リーナ]]'
 normalized_from: l1/episodes/O_ch5570_summary.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # ch5570
 

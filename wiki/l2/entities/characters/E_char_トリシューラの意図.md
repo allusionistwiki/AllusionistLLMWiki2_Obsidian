@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_トリシューラの意図.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # トリシューラの意図
 
-アキラにその意味を問い詰められる「介入」という言い回しの主体であり、その行動原理が問われている存在である。エレクトラにより意図への疑念を持たれ、直接の返信がない状態が続くなど、不透明な動機を持つことが示唆される。
+アキラくんにその意味を問い詰められる「介入」という言い回しの主体であり、その行動原理が問われている存在である。エレクトラにより意図への疑念を持たれ、直接の返信がない状態が続くなど、不透明な動機を持つことが示唆される。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch5060 ｜ **観測イベント**: 3 件（3 話に出現）
@@ -34,5 +34,14 @@ l2_run: 20261024T1608_fc8d
 
 この名義は **トリシューラ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_トリシューラ`。
 
-この名義は L2 名前統合台帳の正規エンティティ **トリシューラの意図**（ID `E_char_トリシューラの意図` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **トリシューラの意図**（ID `E_char_トリシューラの意図` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アキラ | アキラくん | 高 | 1 |

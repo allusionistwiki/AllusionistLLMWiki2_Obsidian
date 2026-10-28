@@ -13,7 +13,7 @@ document_status: active
 created: '2026-10-01'
 updated: '2026-10-01'
 normalized_from: l1/arcs/ARC_01_女神候補選定編.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # 女神候補選定編
 

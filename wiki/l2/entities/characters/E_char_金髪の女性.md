@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_金髪の女性.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # 金髪の女性
 
-尖った耳と灰色の瞳を持つ見知らぬ女性であり、アキラの苦悩を尊び加虐的な悦びを示す存在である。人工乳房や顔の腐乱といった異様な変化を通じて価値判断を揺るがし、被虐嗜好者との決定的な違いを示して敵対的な在り方を提示する。
+尖った耳と灰色の瞳を持つ見知らぬ女性であり、アキラくんの苦悩を尊び加虐的な悦びを示す存在である。人工乳房や顔の腐乱といった異様な変化を通じて価値判断を揺るがし、被虐嗜好者との決定的な違いを示して敵対的な在り方を提示する。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch5244 ｜ **観測イベント**: 6 件（1 話に出現）
@@ -34,15 +34,16 @@ l2_run: 20261024T1608_fc8d
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **金髪の女性**（ID `E_char_金髪の女性` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **金髪の女性**（ID `E_char_金髪の女性` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| アキラ | アキラくん | 高 | 1 |
 | 森 | 楽園 | 蓋然性高 | 1 |
 | 男 | カイン | 蓋然性高 | 1 |

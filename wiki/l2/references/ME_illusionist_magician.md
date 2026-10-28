@@ -9,7 +9,7 @@ canonical_name: "illusionist_magician"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_illusionist_magician.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5213_analogous_to_E_p355_illusionist_magician]] — エスフェイルがアズを「三流以下の手品師（イリュージョニスト）」と呼ぶのは、この作品タイトル『幻想再帰のアリュージョニスト』への直接的な自己言及であり、敵対者としてのミラー構造を示す。
+- [[A_ch5213_analogous_to_E_p355_illusionist_magician]] — エスフェイルがアズーリアーリアを「三流以下の手品師（イリュージョニスト）」と呼ぶのは、この作品タイトル『幻想再帰のアリュージョニスト』への直接的な自己言及であり、敵対者としてのミラー構造を示す。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アズーリア | アズ | 蓋然性高 | 1 |
+| アズ | アズーリア | 高 | 1 |

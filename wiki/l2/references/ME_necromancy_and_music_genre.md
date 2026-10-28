@@ -9,7 +9,7 @@ canonical_name: "necromancy_and_music_genre"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_necromancy_and_music_genre.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,15 +20,15 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5398_alludes_to_E_ch5398_ミルーニャ_says_一日マネージャー業務_p2_necromancy_and_music_genre]] — ミルーニャが奏でる音楽は、ネクロメタルバンド『Ｆｒｏｚｅｎ／Ｔｏｒｃｈ』の特徴を対比として用い、技術的・叙情的かつ劇的な「ハル」向け音楽としての独自設定を定義している。
+- [[A_ch5398_alludes_to_E_ch5398_ミルーニャ_says_一日マネージャー業務_p2_necromancy_and_music_genre]] — ミルーニャが奏でる音楽は、ネクロメタルバンド『Ｆｒｏｚｅｎ／Ｔｏｒｃｈ』の特徴を対比として用い、技術的・叙情的かつ劇的な「ハルベルト」向け音楽としての独自設定を定義している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 | Frozen/Torch | Ｆｒｏｚｅｎ／Ｔｏｒｃｈ | 表記一致 | 1 |
-| 呪文の座 | ハル | 蓋然性高 | 1 |
+| 呪文の座 | ハルベルト | 蓋然性高 | 1 |

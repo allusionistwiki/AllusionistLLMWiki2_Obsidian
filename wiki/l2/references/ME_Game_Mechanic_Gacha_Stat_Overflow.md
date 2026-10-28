@@ -9,7 +9,7 @@ canonical_name: "Game_Mechanic_Gacha_Stat_Overflow"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Game_Mechanic_Gacha_Stat_Overflow.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5362_parodies_E_Azuria_Chocolate_Transformation_Game_Mechanic_Gacha_Stat_Overflow]] — アズが世界の否定を受け入れて自らチョコになる選択は、物語内のルール（世界観）に対するキャラクターの能動的な介入と自己定義の試みである。
+- [[A_ch5362_parodies_E_Azuria_Chocolate_Transformation_Game_Mechanic_Gacha_Stat_Overflow]] — アズーリアーリアが世界の否定を受け入れて自らチョコになる選択は、物語内のルール（世界観）に対するキャラクターの能動的な介入と自己定義の試みである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アズーリア | アズ | 蓋然性高 | 1 |
+| アズ | アズーリア | 高 | 1 |

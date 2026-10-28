@@ -9,7 +9,7 @@ canonical_name: "character_design_in_game"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_character_design_in_game.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5536_structurally_matches_E_p185_character_design_in_game]] — 腹部から現れる多様で奇抜な人形たちの描写は、アルトの内部構造が単一の美学ではなく、機能的・実験的な試行錯誤の集積（混沌としたブリアー性）であることを視覚化している。
+- [[A_ch5536_structurally_matches_E_p185_character_design_in_game]] — 腹部から現れる多様で奇抜な人形たちの描写は、アルトの内部構造が単一の美学ではなく、機能的・実験的な試行錯誤の集積（混沌とした創造性）であることを視覚化している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 創造 | ブリアー | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「創造」→ ブリアー（要検証）

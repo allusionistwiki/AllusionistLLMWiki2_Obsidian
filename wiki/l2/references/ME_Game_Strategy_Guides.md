@@ -9,7 +9,7 @@ canonical_name: "Game_Strategy_Guides"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Game_Strategy_Guides.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5494_analogous_to_E_Milunya_Tactical_Analysis_Game_Strategy_Guides]] — ミルーニャによる敵陣営の「徒党ゆえの脆さ」への分析は、物語内の戦術的考察として機能しており、後の遊戯的な介入（ウォゾマ・メロロキン）のための盤面整理という文脈下で、ゲーム的な戦略読みを想起させる。
+- [[A_ch5494_analogous_to_E_Milunya_Tactical_Analysis_Game_Strategy_Guides]] — ミルーニャによる敵陣営の「徒党ゆえの脆さ」への分析は、物語内の戦術的考察として機能しており、後の遊戯的な介入（グレンデルヒ）のための盤面整理という文脈下で、ゲーム的な戦略読みを想起させる。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| グレンデルヒ | ウォゾマ・メロロキン | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「グレンデルヒ」→ ウォゾマ・メロロキン（要検証）

@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_取引.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # 取引
 
-キロンがトリシューラの居場所を教える見返りにアキラへの恩赦と味方になることを提案した事象。カーティスも末妹候補を諦める代わりにハルの支援を得るという取引を提案している。
+キロンがトリシューラの居場所を教える見返りにアキラくんへの恩赦と味方になることを提案した事象。カーティスも末妹候補を諦める代わりにハルベルトベルトの支援を得るという取引を提案している。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0015 ｜ **観測イベント**: 4 件（4 話に出現）
@@ -33,19 +33,20 @@ l2_run: 20261024T1608_fc8d
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **取引**（ID `E_char_取引` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **取引**（ID `E_char_取引` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 私 | カイン | 蓋然性高 | 4 |
+| アキラ | アキラくん | 高 | 1 |
 | リールエルバ | カーティス | 明言 | 1 |
-| ハルベルト | ハル | 明言 | 1 |
+| ハル | ハルベルト | 高 | 1 |
 
 
 注記（置換しない）:

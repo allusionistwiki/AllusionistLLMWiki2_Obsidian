@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/phrases/E_phrase_呪文.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # 呪文
 
-アズがトントロポロンを攻撃するために、食品を温める呪文を戦闘用に書き換えて詠唱するもの。パーンが前頭葉コイルシステム起動や生体電磁場調整、イド解放などを詠唱する際にも用いられる。
+アズーリアーリアがトントロポロンを攻撃するために、食品を温める呪文を戦闘用に書き換えて詠唱するもの。パーンが前頭葉コイルシステム起動や生体電磁場調整、イド解放などを詠唱する際にも用いられる。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0035 ｜ **観測イベント**: 2 件（2 話に出現）
@@ -28,7 +28,7 @@ l2_run: 20261024T1608_fc8d
 
 ## 関連クレーム
 
-- A_ch0035_parodies_E_ch0035_アズ_says_呪文_p1424_電子レンジ（電子レンジへの呪文転用）
+- A_ch0035_parodies_E_ch0035_アズーリアーリア_says_呪文_p1424_電子レンジ（電子レンジへの呪文転用）
 
 <!-- AUTO:END -->
 
@@ -37,14 +37,14 @@ l2_run: 20261024T1608_fc8d
 
 この実体が所有する下位エンティティ: **呪文の交錯**、**呪文の交錯**、**呪文の交錯**。
 
-この名義は L2 名前統合台帳の正規エンティティ **呪文**（ID `E_char_呪文` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **呪文**（ID `E_char_呪文` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アズーリア | アズ | 蓋然性高 | 2 |
+| アズ | アズーリア | 高 | 2 |

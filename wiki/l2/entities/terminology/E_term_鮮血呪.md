@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_鮮血呪.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 
 # 鮮血呪
@@ -28,7 +28,7 @@ l2_run: 20261024T1608_fc8d
 > 「そして【鮮血のトリシューラ】が持つ【鮮血呪】の力は、価値の操作を可能とします」（ch5093）
 > 「厳密な定義は【交換不可能なものと交換可能なものを交換する呪術】だそうです」（ch5093）
 > その【箒】の奥義である【鮮血呪】は、あらゆる神秘、あらゆる呪術を低俗なものへと堕落させてしまう、四つの禁呪で最も卑俗な呪術なのだ。（ch5093）
-> （アキラの死によって【鮮血呪】をトリガー。呪力を通せ、価値を否定せよ！）（ch5115）
+> （アキラくんくんの死によって【鮮血呪】をトリガー。呪力を通せ、価値を否定せよ！）（ch5115）
 
 <!-- AUTO:END -->
 
@@ -64,15 +64,15 @@ l2_run: 20261024T1608_fc8d
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **鮮血呪**（ID `E_term_鮮血呪` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+この名義は L2 名前統合台帳の正規エンティティ **鮮血呪**（ID `E_term_鮮血呪` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 杖 | 箒 | 明言 | 1 |
-| アキラくん | アキラ | 蓋然性高 | 1 |
+| アキラ | アキラくん | 高 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "brainwashing_in_yakuza_crime"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_brainwashing_in_yakuza_crime.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -25,7 +25,7 @@ l2_run: 20261024T1608_fc8d
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

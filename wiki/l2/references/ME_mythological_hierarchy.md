@@ -9,7 +9,7 @@ canonical_name: "mythological_hierarchy"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_mythological_hierarchy.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261024T1608_fc8d
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5376_inverts_E_ch5376_レオ_travels_通路_p2_mythological_hierarchy]] — 「英雄」と呼ばれるウォゾマ・メロロキンが、敵の正体を「小鬼（ゴブリン）」であると告げることで、最強の怪人であるはずの『絡新婦』を最下位の雑魚キャラに格下げし、神話的権威を逆転させて恐怖を相対化している。
+- [[A_ch5376_inverts_E_ch5376_レオ_travels_通路_p2_mythological_hierarchy]] — 「英雄」と呼ばれるグレンデルヒが、敵の正体を「小鬼（ゴブリン）」であると告げることで、最強の怪人であるはずの『絡新婦』を最下位の雑魚キャラに格下げし、神話的権威を逆転させて恐怖を相対化している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261024T1608_fc8d）
+## 名前正規化監査（L2 run 20261029T0843_c8bb）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| グレンデルヒ | ウォゾマ・メロロキン | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「グレンデルヒ」→ ウォゾマ・メロロキン（要検証）

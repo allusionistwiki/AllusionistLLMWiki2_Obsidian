@@ -26,7 +26,7 @@ terminology:
 - '[[E_term_白骨迷宮]]'
 - '[[E_term_一行]]'
 normalized_from: l1/episodes/O_ch0161_summary.md
-l2_run: 20261024T1608_fc8d
+l2_run: 20261029T0843_c8bb
 ---
 # ch0161
 
