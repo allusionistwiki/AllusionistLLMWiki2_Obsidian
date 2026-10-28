@@ -10,16 +10,16 @@ l2_run: "20261024T1608_fc8d"
 
 L1 wiki の全ページに**名前統合・正規化処理を適用した解析層 wiki** です。同じ名前の人（别名・隠れ名・呼び方の変遷）を代表名に統合した本文と、その判断根拠（来歴・監査）を辿れる構造になっています。
 
-- 正規化 wiki に入る: [正規化Wiki 索引](https://allusionistwiki.github.io/AllusionistWiki2/l2/normalized/)
+- 正規化 wiki に入る: [正規化Wiki 索引](https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/)
 - 台帳 run: `20261024T1608_fc8d`（生成規則の中心）
 
 ## 正規化 wiki（メイン構造）
 
 L1 全 15981 ページのミラー（同一相対パス）。高確度帯の别名→代表名のみ本文を置換し、各ページ末尾に置換監査表（元名義→代表名・確度・件数）を付けています。要検証・needs 系は置換せず注記に留め、過剰統合を避けています。
 
-- 正規化 wiki 索引: [https://allusionistwiki.github.io/AllusionistWiki2/l2/normalized/](https://allusionistwiki.github.io/AllusionistWiki2/l2/normalized/)
-- 登場人物（正規化後）: [https://allusionistwiki.github.io/AllusionistWiki2/l2/normalized/characters/](https://allusionistwiki.github.io/AllusionistWiki2/l2/normalized/characters/)
-- 容姿描写（正規化後）: [https://allusionistwiki.github.io/AllusionistWiki2/l2/normalized/appearances/](https://allusionistwiki.github.io/AllusionistWiki2/l2/normalized/appearances/)
+- 正規化 wiki 索引: [https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/](https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/)
+- 登場人物（正規化後）: [https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/characters/](https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/characters/)
+- 容姿描写（正規化後）: [https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/appearances/](https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/appearances/)
 
 ## 生成規則（台帳・索引）— 本 wiki の一要素
 
@@ -27,8 +27,8 @@ L1 全 15981 ページのミラー（同一相対パス）。高確度帯の别�
 
 - 正規化エンティティ台帳 総計 17337 实体（terminology 6536, character 4222, item 3751, organization 918, location 639, motif 325, creature 257, 未分類 239, relationship 124, phrase 115, event 107, skill 11, spell 8, action 8, ability 7, race 6, group 5, magic 4, celestial_body 4, ritual 4, concept 4, place 4, app 3, emotion 3, phantom 3, character_class 2, system 2, role 2, rule 2, technology 2, phenomenon 2, plan 2, deity 1, software 1, spell_effect 1, event_context 1, game 1, part 1, brand 1, character_ability 1, technique 1, clothing 1, structure 1, unknown 1, building 1, institution 1, strategy 1, effect 1）
 - 别名統合マッピング: 高確度帯 830 件（置換に適用）/ 要検証・needs 141 件（注記のみ）
-- 别名統合一覧: [别名統合一覧（RF_l2_aliases_index）](https://allusionistwiki.github.io/AllusionistWiki2/l2/reflections/RF_l2_aliases_index/)
-- 変換の相関・根拠: [RF_l2_correlations](https://allusionistwiki.github.io/AllusionistWiki2/l2/reflections/RF_l2_correlations/)
+- 别名統合一覧: [别名統合一覧（RF_l2_aliases_index）](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_aliases_index/)
+- 変換の相関・根拠: [RF_l2_correlations](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_correlations/)
 - 台帳の設計・手順: [L2 README（work repo）](https://github.com/allusionistwiki/AllusionistWiki_work/blob/main/work/allusionist_v2/L2/README.md)
 
 ## 代表名別 統合例（上位）
@@ -58,7 +58,7 @@ L1 全 15981 ページのミラー（同一相対パス）。高確度帯の别�
 
 ## 他層への導線
 
-- 観測元（L1 原文 Wiki・表示層）: [https://allusionistwiki.github.io/AllusionistWiki2/](https://allusionistwiki.github.io/AllusionistWiki2/) / [L1 下位層](https://allusionistwiki.github.io/AllusionistWiki2/l1/)
+- 観測元（L1 原文 Wiki・表示層）: [https://allusionistwiki.github.io/AllusionistWiki2/](https://allusionistwiki.github.io/AllusionistWiki2/) / [L1 下位層](https://allusionistwiki.github.io/AllusionistWiki2/L1/)
 - 层索引（L2Wiki 系統の一覧）: [https://allusionistwiki.github.io/AllusionistWiki2/layers/](https://allusionistwiki.github.io/AllusionistWiki2/layers/)
 - 作業データ（facts/candidates 生データ）: [AllusionistWiki_work](https://github.com/allusionistwiki/AllusionistWiki_work)
 

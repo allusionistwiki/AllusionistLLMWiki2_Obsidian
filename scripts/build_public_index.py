@@ -209,8 +209,8 @@ def main() -> None:
                     f"第{n}話のアナロジー {len(cs)} 件・伏線 {len(ms)} 件・外部参照 {len(mes)} 件",
                     f"nav/{ch}")]
         lines.append(f"# {heading}\n")
-        lines.append(f"{chapter_heading(ch)} ｜ [章の先頭へ](https://allusionistwiki.github.io/AllusionistWiki2/l1/claims/index.html)\n")
-        lines.append(f"[← 話一覧](https://allusionistwiki.github.io/AllusionistWiki2/l1/nav/index.html) ｜ [クレーム節](https://allusionistwiki.github.io/AllusionistWiki2/l1/claims/index.html) ｜ [伏線節](https://allusionistwiki.github.io/AllusionistWiki2/l1/mysteries/index.html)\n")
+        lines.append(f"{chapter_heading(ch)} ｜ [章の先頭へ](https://allusionistwiki.github.io/AllusionistWiki2/L1/claims/index.html)\n")
+        lines.append(f"[← 話一覧](https://allusionistwiki.github.io/AllusionistWiki2/L1/nav/index.html) ｜ [クレーム節](https://allusionistwiki.github.io/AllusionistWiki2/L1/claims/index.html) ｜ [伏線節](https://allusionistwiki.github.io/AllusionistWiki2/L1/mysteries/index.html)\n")
         lines.append(f"## アナロジークレーム（{len(cs)} 件）\n")
         for c in cs:
             pj = PRED_JA.get(c["predicate"], c["predicate"])
@@ -288,7 +288,7 @@ def main() -> None:
         "アナロジークレーム全集（章・話別）",
         "全アナロジークレームの章別・話別インデックス",
         "claims/index",
-        f"全 **{len(claims)} 件**。[話ナビゲーション](https://allusionistwiki.github.io/AllusionistWiki2/l1/nav/index.html) / [伏線台帳](https://allusionistwiki.github.io/AllusionistWiki2/l1/mysteries/index.html) / [外部参照](https://allusionistwiki.github.io/AllusionistWiki2/l1/references/index.html)\n\n"
+        f"全 **{len(claims)} 件**。[話ナビゲーション](https://allusionistwiki.github.io/AllusionistWiki2/L1/nav/index.html) / [伏線台帳](https://allusionistwiki.github.io/AllusionistWiki2/L1/mysteries/index.html) / [外部参照](https://allusionistwiki.github.io/AllusionistWiki2/L1/references/index.html)\n\n"
         "ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイベント（ノーペイン起動, p103）が「安楽死の倫理」をパロディにしている、という主張。")
 
     section_index(

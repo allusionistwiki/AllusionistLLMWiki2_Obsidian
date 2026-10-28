@@ -9,7 +9,7 @@ description: キャラクター入口。主要キャラから各エンティテ�
 
 # 登場人物
 
-観測イベント数順（1142 件）。用語・組織などは [エンティティ総覧](https://allusionistwiki.github.io/AllusionistWiki2/l1/entities/index.html) から。
+観測イベント数順（1142 件）。用語・組織などは [エンティティ総覧](https://allusionistwiki.github.io/AllusionistWiki2/L1/entities/index.html) から。
 
 - [[E_char_アキラ|アキラ]] — 観測 1936 件・初出 ch5001
 - [[E_char_トリシューラ|トリシューラ]] — 観測 651 件・初出 ch5036

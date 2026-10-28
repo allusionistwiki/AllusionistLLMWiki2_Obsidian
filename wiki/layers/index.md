@@ -14,8 +14,8 @@ date: 2026-10-14
 
 | 層 | 下層Wiki | 内容（DESIGN_NOTES / work README 準拠） | 状態 |
 |---|---|---|---|
-| L1 | **[L1Wiki](https://allusionistwiki.github.io/AllusionistWiki2/l1/)** | 機械抽出メイン（facts / candidates / 審査データ）。claims / mysteries / references / deferrals / appearances / entities / arcs / episodes | **稼働中** |
-| L2 | **[L2Wiki](https://allusionistwiki.github.io/AllusionistWiki2/l2/)** | 名前統合・prefix 修正 — **正規化済みエンティティ台帳**（安定 ID・aliases・kind・first_seen L0 アンカー・`l1_refs` 来歴、統合根拠の確度ラベル必須）。名相関索引・名義変換表付き（run 20261024T1608_fc8d） | **稼働中** |
+| L1 | **[L1Wiki](https://allusionistwiki.github.io/AllusionistWiki2/L1/)** | 機械抽出メイン（facts / candidates / 審査データ）。claims / mysteries / references / deferrals / appearances / entities / arcs / episodes | **稼働中** |
+| L2 | **[L2Wiki](https://allusionistwiki.github.io/AllusionistWiki2/L2/)** | 名前統合・prefix 修正 — **正規化済みエンティティ台帳**（安定 ID・aliases・kind・first_seen L0 アンカー・`l1_refs` 来歴、統合根拠の確度ラベル必須）。名相関索引・名義変換表付き（run 20261024T1608_fc8d） | **稼働中** |
 | L3 | L3Wiki | 整合性検証 — **検証済みクレーム集**（クレームの矛盾・重複検証） | 準備中 |
 | L4 | L4Wiki | LLM 単話内容整理（1話ごとの機械整理） | 準備中 |
 | L5 | L5Wiki | 各話統合内容整理（複数話にまたがる機械整理） | 準備中 |
@@ -28,8 +28,8 @@ date: 2026-10-14
 ```
 表示（最新）層 = L7（サイト直下・入口）
 └─ 下層Wiki（L1〜L6 を並列公開）
-   ├─ L1Wiki  /l1/  ← 稼働中
-   ├─ L2Wiki  /l2/  ← 準備中
+   ├─ L1Wiki  /L1/  ← 稼働中
+   ├─ L2Wiki  /L2/  ← 準備中
    ├─ L3Wiki  /l3/  ← 準備中
    ├─ L4Wiki  /l4/  ← 準備中
    ├─ L5Wiki  /l5/  ← 準備中

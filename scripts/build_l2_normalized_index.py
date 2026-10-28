@@ -65,7 +65,7 @@ def main():
     fm = f'---\ntitle: "L2 正規化Wiki 索引"\nid: "L2_NORMALIZED_INDEX"\nkind: "index"\ncreated: "{today}"\nupdated: "{today}"\nl2_run: "{run_id}"\n---\n'
     body = f"""# L2 正規化Wiki（L1 への名前統合・正規化処理の適用結果）
 
-[L2 台帳（生成規則の中心）](https://allusionistwiki.github.io/AllusionistWiki2/l2/) · [别名統合一覧](https://allusionistwiki.github.io/AllusionistWiki2/l2/reflections/RF_l2_aliases_index/) · [L1 原文 Wiki](https://allusionistwiki.github.io/AllusionistWiki2/l1/)
+[L2 台帳（生成規則の中心）](https://allusionistwiki.github.io/AllusionistWiki2/L2/) · [别名統合一覧](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_aliases_index/) · [L1 原文 Wiki](https://allusionistwiki.github.io/AllusionistWiki2/L1/)
 
 - 生成 run: `{run_id}`（L2 台帳 run 由来。台帳は本 wiki の**生成規則の一要素**であり、公開対象はこの正規化 wiki 構造）
 - 対象: L1 全ページ {page_count} のミラー（同一相対パス）

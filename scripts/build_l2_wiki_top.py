@@ -9,6 +9,7 @@
 - 台帳の統計値・代表名グループは台帳 JSON から機械的に生成する。
 """
 import json
+import re
 import sys
 import datetime
 from collections import Counter
@@ -52,9 +53,9 @@ def main():
     # 代表名 -> ページ stem（frontmatter title 一致）
     title_to_stem = {}
     for p in NORM.rglob("*.md"):
+        if p == NORM / "index.md":
+            continue  # 入口自身の title に自己対応させない
         text = p.read_text(encoding="utf-8", errors="replace")
-        fm_m = None
-        import re
         fm_m = re.match(r"^---\n(.*?\n)---\n", text, re.S)
         if fm_m:
             t_m = re.search(r"^title:\s*(.+)$", fm_m.group(1), re.M)
@@ -71,16 +72,16 @@ def main():
 
 L1 wiki の全ページに**名前統合・正規化処理を適用した解析層 wiki** です。同じ名前の人（别名・隠れ名・呼び方の変遷）を代表名に統合した本文と、その判断根拠（来歴・監査）を辿れる構造になっています。
 
-- 正規化 wiki に入る: [正規化Wiki 索引]({SITE}/l2/normalized/)
+- 正規化 wiki に入る: [正規化Wiki 索引]({SITE}/L2/normalized/)
 - 台帳 run: `{run_id}`（生成規則の中心）
 
 ## 正規化 wiki（メイン構造）
 
 L1 全 {norm_count} ページのミラー（同一相対パス）。高確度帯の别名→代表名のみ本文を置換し、各ページ末尾に置換監査表（元名義→代表名・確度・件数）を付けています。要検証・needs 系は置換せず注記に留め、過剰統合を避けています。
 
-- 正規化 wiki 索引: [{SITE}/l2/normalized/]({SITE}/l2/normalized/)
-- 登場人物（正規化後）: [{SITE}/l2/normalized/characters/]({SITE}/l2/normalized/characters/)
-- 容姿描写（正規化後）: [{SITE}/l2/normalized/appearances/]({SITE}/l2/normalized/appearances/)
+- 正規化 wiki 索引: [{SITE}/L2/normalized/]({SITE}/L2/normalized/)
+- 登場人物（正規化後）: [{SITE}/L2/normalized/characters/]({SITE}/L2/normalized/characters/)
+- 容姿描写（正規化後）: [{SITE}/L2/normalized/appearances/]({SITE}/L2/normalized/appearances/)
 
 ## 生成規則（台帳・索引）— 本 wiki の一要素
 
@@ -88,8 +89,8 @@ L1 全 {norm_count} ページのミラー（同一相対パス）。高確度帯
 
 - 正規化エンティティ台帳 総計 {len(entities)} 实体（{', '.join(f'{k} {v}' for k, v in kind_counter.most_common())}）
 - 别名統合マッピング: 高確度帯 {len(alias_map)} 件（置換に適用）/ 要検証・needs {len(low_map)} 件（注記のみ）
-- 别名統合一覧: [别名統合一覧（RF_l2_aliases_index）]({SITE}/l2/reflections/RF_l2_aliases_index/)
-- 変換の相関・根拠: [RF_l2_correlations]({SITE}/l2/reflections/RF_l2_correlations/)
+- 别名統合一覧: [别名統合一覧（RF_l2_aliases_index）]({SITE}/L2/reflections/RF_l2_aliases_index/)
+- 変換の相関・根拠: [RF_l2_correlations]({SITE}/L2/reflections/RF_l2_correlations/)
 - 台帳の設計・手順: [L2 README（work repo）](https://github.com/allusionistwiki/AllusionistWiki_work/blob/main/work/allusionist_v2/L2/README.md)
 
 ## 代表名別 統合例（上位）
@@ -106,7 +107,7 @@ L1 全 {norm_count} ページのミラー（同一相対パス）。高確度帯
     body += f"""
 ## 他層への導線
 
-- 観測元（L1 原文 Wiki・表示層）: [{SITE}/]({SITE}/) / [L1 下位層]({SITE}/l1/)
+- 観測元（L1 原文 Wiki・表示層）: [{SITE}/]({SITE}/) / [L1 下位層]({SITE}/L1/)
 - 层索引（L2Wiki 系統の一覧）: [{SITE}/layers/]({SITE}/layers/)
 - 作業データ（facts/candidates 生データ）: [AllusionistWiki_work](https://github.com/allusionistwiki/AllusionistWiki_work)
 

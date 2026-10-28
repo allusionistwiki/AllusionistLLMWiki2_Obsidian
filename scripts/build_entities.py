@@ -248,11 +248,11 @@ def main() -> None:
     # ---- エンティティ入口（全種別ハブ）----
     lines = ["---", "title: エンティティ（登場人物・用語・組織）",
              "id: entities/index",
-             "description: 作中エンティティの総覧。キャラクター入口は [こちら](https://allusionistwiki.github.io/AllusionistWiki2/l1/characters/)",
+             "description: 作中エンティティの総覧。キャラクター入口は [こちら](https://allusionistwiki.github.io/AllusionistWiki2/L1/characters/)",
              "---", "", "# エンティティ", "",
              "イベント観測から自動集約した作中エンティティの総覧です。"
              "各ページに初出・観測数・代表引用・関連クレームが集まります。", "",
-             f"キャラクター入口: [登場人物一覧](https://allusionistwiki.github.io/AllusionistWiki2/l1/characters/)（トップページからも直接）", ""]
+             f"キャラクター入口: [登場人物一覧](https://allusionistwiki.github.io/AllusionistWiki2/L1/characters/)（トップページからも直接）", ""]
     for t in TYPE_DIR:
         items = per_type.get(t, [])
         if not items:
@@ -270,7 +270,7 @@ def main() -> None:
     lines = ["---", "title: 登場人物一覧", "id: characters/index",
              "description: キャラクター入口。主要キャラから各エンティティページへ",
              "---", "", "# 登場人物", "",
-             f"観測イベント数順（{len(chars)} 件）。用語・組織などは [エンティティ総覧](https://allusionistwiki.github.io/AllusionistWiki2/l1/entities/index.html) から。", ""]
+             f"観測イベント数順（{len(chars)} 件）。用語・組織などは [エンティティ総覧](https://allusionistwiki.github.io/AllusionistWiki2/L1/entities/index.html) から。", ""]
     for s, d in sorted(chars, key=lambda x: -len(x[1]["events"])):
         lines.append(f"- [[E_char_{s}|{s}]] — 観測 {len(d['events'])} 件・初出 {d['first']}")
     lines.append("")

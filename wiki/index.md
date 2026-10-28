@@ -12,8 +12,8 @@ tags:
 
 | 層 | 内容 | 入口 |
 |---|---|---|
-| **L1** | 章別観測の素抽出（episodes / claims / entities / mysteries / references 等） | [L1Wiki へ](./l1/) |
-| **L2** | 正規化实体台帳・名相関索引・名義変換表（確度・根拠付き） | [L2Wiki へ](./l2/) |
+| **L1** | 章別観測の素抽出（episodes / claims / entities / mysteries / references 等） | [L1Wiki へ](./L1/) |
+| **L2** | 正規化实体台帳・名相関索引・名義変換表（確度・根拠付き） | [L2Wiki へ](./L2/) |
 | 層モデル | L0〜L7 階層モデルと生成鎖の解説 | [層索引（layers）](./layers/) |
 
 - 作業データ（facts/candidates 等の生データ）: [AllusionistWiki_work](https://github.com/allusionistwiki/AllusionistWiki_work)
