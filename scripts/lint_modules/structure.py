@@ -107,11 +107,11 @@ def lint_structure(file_path: Path, vault_root: Path, schemas_dir: Path) -> List
         if expected and rel and not rel.startswith("docs/samples"):
             # wiki/claims は話別サブフォルダ（wiki/claims/chXXXX）を許容
             allowed = rel == expected or (expected == "wiki/l1/claims" and rel.startswith("wiki/l1/claims/"))
-            # L2 正規化 wiki（wiki/l2/normalized/）は L1 構造のミラー:
-            # L1 で許容される配置と同一相対パスになるため、プレフィックスを
-            # 除去して比較する（层並列構造の生成物としての配置を正とみなす）。
-            if not allowed and rel.startswith("wiki/l2/normalized/"):
-                rel_core = rel[len("wiki/l2/normalized/"):]
+            # L2 正規化 wiki（wiki/l2/ 直下、L1 構造のミラー）は L1 で許容される
+            # 配置と同一相対パスになるため、プレフィックスを除去して比較する
+            # （层並列構造の生成物としての配置を正とみなす）。
+            if not allowed and rel.startswith("wiki/l2/") and not rel.startswith("wiki/l1"):
+                rel_core = rel[len("wiki/l2/"):]
                 exp_core = str(expected)[len("wiki/l1/"):] if str(expected).startswith("wiki/l1/") else str(expected)
                 allowed = rel_core == exp_core or (exp_core == "claims" and rel_core.startswith("claims/"))
             if not allowed:

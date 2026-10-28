@@ -1,67 +1,49 @@
 ---
-title: "L2Wiki"
-id: "L2_WIKI_TOP"
-kind: "index"
-created: "2026-10-28"
-updated: "2026-10-28"
-l2_run: "20261024T1608_fc8d"
+title: 幻想再帰のアリュージョニスト Wiki
+id: index
+description: 本作の多層アナロジー（引喩・神話参照・展開の相似/相違）を典拠付きで体系化する分析Wiki
+normalized_from: l1/index.md
+l2_run: 20261024T1608_fc8d
 ---
-# L2Wiki — 名前統合・正規化 Wiki
 
-L1 wiki の全ページに**名前統合・正規化処理を適用した解析層 wiki** です。同じ名前の人（别名・隠れ名・呼び方の変遷）を代表名に統合した本文と、その判断根拠（来歴・監査）を辿れる構造になっています。
+# 幻想再帰のアリュージョニスト Wiki
 
-- 正規化 wiki に入る: [正規化Wiki 索引](https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/)
-- 台帳 run: `20261024T1608_fc8d`（生成規則の中心）
+「ネットミームから現代思想まで引喩が散りばめたオカルトパンク」——本作に仕掛けられた**引喩・パロディ・逆転**を、原文引用（ページ番号付き）と審査根拠とともに体系化する分析Wikiです。
 
-## 正規化 wiki（メイン構造）
+## 入り口
 
-L1 全 15981 ページのミラー（同一相対パス）。高確度帯の别名→代表名のみ本文を置換し、各ページ末尾に置換監査表（元名義→代表名・確度・件数）を付けています。要検証・needs 系は置換せず注記に留め、過剰統合を避けています。
+- **層索引（L1/L2 の並び）** → [layers](../layers/index.md)
+- ★ [ポータル（全 Wiki 統合索引）](https://allusionistwiki.github.io/) — 本組織の全 Wiki（本家 Wiki / L1 解析層 / ゆらぎの神話 Wiki）横断の入口
+- [話ナビゲーション](nav/index.md) — 話ごとのアナロギア・伏線一覧（第1話〜）
+- [登場人物一覧](characters.md) — キャラクター入口（主要キャラから各ページへ）
+- [関係性マップ](relationships/index.md) — キャラ間の関係グラフ
+- [エンティティ総覧](entities/index.md) — 用語・組織・アイテム・モチーフ
+- [アナロギアクレーム全集](claims/index.md) — 引喩の主張すべて
+- [伏線台帳](mysteries/index.md) — 仕掛けられた謎の追跡
+- [外部参照](references/index.md) — 引喩先の現代文化的営為・思想の解説
+- [「今はまだ」先延ばし索引](deferrals/index.md) — 原文中の先延ばしモティーフ全箇所
+- [キャラ容姿描写索引](appearances.md) — 容姿・外見描写のキャラ別索引
 
-- 正規化 wiki 索引: [https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/](https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/)
-- 登場人物（正規化後）: [https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/characters/](https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/characters/)
-- 容姿描写（正規化後）: [https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/appearances/](https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized/appearances/)
+## 統計
 
-## 生成規則（台帳・索引）— 本 wiki の一要素
+- 解析済み: **第1話〜第5589話**（861 話）
+- アナロギアクレーム: **2598** 件
+- 伏線: **3094** 件
+- 外部参照ページ: **2582** 件
 
-台帳そのものは閲覧対象ではなく、上の正規化 wiki を作るための規則の集合です。
+## 読み方と注意
 
-- 正規化エンティティ台帳 総計 17337 实体（terminology 6536, character 4222, item 3751, organization 918, location 639, motif 325, creature 257, 未分類 239, relationship 124, phrase 115, event 107, skill 11, spell 8, action 8, ability 7, race 6, group 5, magic 4, celestial_body 4, ritual 4, concept 4, place 4, app 3, emotion 3, phantom 3, character_class 2, system 2, role 2, rule 2, technology 2, phenomenon 2, plan 2, deity 1, software 1, spell_effect 1, event_context 1, game 1, part 1, brand 1, character_ability 1, technique 1, clothing 1, structure 1, unknown 1, building 1, institution 1, strategy 1, effect 1）
-- 别名統合マッピング: 高確度帯 830 件（置換に適用）/ 要検証・needs 141 件（注記のみ）
-- 别名統合一覧: [别名統合一覧（RF_l2_aliases_index）](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_aliases_index/)
-- 変換の相関・根拠: [RF_l2_correlations](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_correlations/)
-- 台帳の設計・手順: [L2 README（work repo）](https://github.com/allusionistwiki/AllusionistWiki_work/blob/main/work/allusionist_v2/L2/README.md)
+- 各クレームページは「主張 → 原文引用 → LLM 審査根拠」の順で読めます
+- 本Wikiの大半の記述は **LLM による自動抽出・自動審査（llm_verified）** です。人間レビュー済み（human_verified）への昇格が進行中で、frontmatter の `review_status` に区別が記録されています
+- 原文のネタバレを大量に含むため、**原作未読の方は読まないでください**
+- 本Wikiは非公式のファンWikiです。原作の著作権は原作者に帰属します
 
-## 代表名別 統合例（上位）
 
-| 代表名 | 統合别名数 | 代表例 |
-|---|---|---|
-| [[E_char_アキラ|アキラ]] | 70 | アキラくん、アキラ殿、アキラ（仮称・主語不明） |
-| [[E_char_マラード|マラード]] | 12 | マラード王、マラード陛下、王の髪 |
-| [[E_char_アズ|アズ]] | 10 | アズーリア、アズーリア・ヘレゼクシュ、守護の九槍アズーリア |
-| [[E_char_カーイン|カーイン]] | 10 | カーインの残り滓、カーインの瘴気、カーインの脳内 |
-| [[E_char_ハル|ハル]] | 8 | ハルベルト、呪文の座、歌姫Spear |
-| [[ME_Organ_Rode|オルガンローデ]] | 7 | オルゴーの滅びの呪文、呪文竜、滅びの呪文 |
-| [[E_char_エレクトラ|エレクトラ]] | 7 | ユディーア、キニス、キニスちゃん |
-| [[E_char_ファル|ファル]] | 7 | ファルファレロ、少年、クリミナトレス |
-| [[E_char_キロン|キロン]] | 7 | 聖騎士、蝶の翅、転生者殺し |
-| [[E_char_スカルミリオーネ|スカルミリオーネ]] | 7 | ルバーブ、スカルミリョーネ、ルバーブ様 |
-| [[E_char_カイン|カイン]] | 7 | 狼、男、彼 |
-| [[E_char_ミヒトネッセ|ミヒトネッセ]] | 7 | ミヒトネッセ(狂イ姫)、ミヒトネッセ(シナモリアキラ/九尾)、ミヒトネッセ(ゼドへの変身時) |
-| [[E_char_楽園|楽園]] | 6 | 浄界、森、エーリュシオン |
-| [[E_char_ミルーニャ|ミルーニャ]] | 6 | メートリアン、呪文使い、呪文使いの美少女 |
-| [[E_char_ペリュトン|ペリュトン]] | 6 | 青い鳥、ラハブ、ペリュトン種族 |
-| [[E_char_六人の王|六人の王]] | 6 | 六人、六人の王さまたち、六人の王たち |
-| [[E_char_フィリス|フィリス]] | 6 | 金鎖、魔将、第一魔将 |
-| [[E_char_呪文|呪文]] | 5 | 炸撃、爆撃、言語魔術 |
-| [[E_char_カーティス|カーティス]] | 5 | リールエルバ、カーティス一世、トリシル一号 |
-| [[E_char_ゼド|ゼド]] | 5 | 盗賊王ゼド、ゼド＝アダス、盗賊王 |
+---
 
-## 他層への導線
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
 
-- 観測元（L1 原文 Wiki・表示層）: [https://allusionistwiki.github.io/AllusionistWiki2/](https://allusionistwiki.github.io/AllusionistWiki2/) / [L1 下位層](https://allusionistwiki.github.io/AllusionistWiki2/L1/)
-- 层索引（L2Wiki 系統の一覧）: [https://allusionistwiki.github.io/AllusionistWiki2/layers/](https://allusionistwiki.github.io/AllusionistWiki2/layers/)
-- 作業データ（facts/candidates 生データ）: [AllusionistWiki_work](https://github.com/allusionistwiki/AllusionistWiki_work)
-
-## 来歴
-
-L7 観測 → L3 審査 → L2 名前統合（本台帳）→ **正規化 wiki 生成（本層）** → L1 原文（対照）。台帳 run の来歴・run.json は work repo の `work/allusionist_v2/L2/runs/20261024T1608_fc8d/` に格納。
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 3 |
+| 文化 | 文化的営為 | 蓋然性高 | 1 |

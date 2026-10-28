@@ -1,19 +1,19 @@
 ---
-title: "L2 正規化Wiki 索引"
+title: "L2 正規化Wiki 監査索引"
 id: "L2_NORMALIZED_INDEX"
 kind: "index"
-created: "2026-10-28"
-updated: "2026-10-28"
+created: "2026-10-29"
+updated: "2026-10-29"
 l2_run: "20261024T1608_fc8d"
 ---
-# L2 正規化Wiki（L1 への名前統合・正規化処理の適用結果）
+# L2 正規化Wiki 監査索引（L1 への名前統合・正規化処理の適用結果）
 
-[L2 台帳（生成規則の中心）](https://allusionistwiki.github.io/AllusionistWiki2/L2/) · [别名統合一覧](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_aliases_index/) · [L1 原文 Wiki](https://allusionistwiki.github.io/AllusionistWiki2/L1/)
+[L2Wiki 入口](./index.md) · [别名統合一覧](reflections/RF_l2_aliases_index.md) · [L1 原文 Wiki](https://allusionistwiki.github.io/AllusionistWiki2/L1/)
 
 - 生成 run: `20261024T1608_fc8d`（L2 台帳 run 由来。台帳は本 wiki の**生成規則の一要素**であり、公開対象はこの正規化 wiki 構造）
-- 対象: L1 全ページ 15981 のミラー（同一相対パス）
-- 置換を適用したページ: 11905（総置換 92427 件）/ 別名統合バナー: 256
-- 確度帯（適用済みの別名→代表名マッピング 830 件）: 蓋然性高 60203, 明言 31065, 表記一致 1159
+- 対象: L1 全ページ 15963 のミラー（同一相対パス）
+- 置換を適用したページ: 11889（総置換 87765 件）/ 別名統合バナー: 256
+- 確度帯（適用済みの別名→代表名マッピング 830 件）: 蓋然性高 57566, 明言 29131, 表記一致 1068
 - **適用しない帯域**: 要検証・needs 系の別名 141 件は本文を元のままにし、ページ内「注記（置換しない）」にのみ表示
 - 監査: 各ページ末尾の「名前正規化監査」表に 元名義→代表名・確度・件数 を列挙（来歴: L2 台帳 → 変換規則 → 本ページ）
 - 代表名別 → 統合された别名の一覧（上位）:

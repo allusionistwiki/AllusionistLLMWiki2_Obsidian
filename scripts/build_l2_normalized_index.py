@@ -1,4 +1,4 @@
-"""S7 補助: L2 正規化 wiki の入口 index を生成（生成規則・統計・監査集計）。"""
+"""S7 補助: L2 正規化 wiki の監査・統計索引（normalized-index）を生成（生成規則・統計・監査集計）。"""
 import json
 import re
 import sys
@@ -7,7 +7,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "wiki" / "l2" / "normalized"
+OUT = ROOT / "wiki" / "l2"
 LEDGER = Path("C:/Users/d5dx/Downloads/Code/AllusionistWiki_work")
 
 HIGH = {"高", "明言", "表記一致", "蓋然性高"}
@@ -34,7 +34,7 @@ def main():
                 if n not in alias_map:
                     low_map.setdefault(n, (canon, c))
 
-    pages = sorted(p for p in OUT.rglob("*.md"))
+    pages = sorted(p for p in OUT.rglob("*.md") if p.name not in ("index.md", "normalized-index.md"))
     page_count = len(pages)
     audit_pages = 0
     banner_pages = 0
@@ -62,10 +62,10 @@ def main():
             banner_pages += 1
 
     today = datetime.date.today().isoformat()
-    fm = f'---\ntitle: "L2 正規化Wiki 索引"\nid: "L2_NORMALIZED_INDEX"\nkind: "index"\ncreated: "{today}"\nupdated: "{today}"\nl2_run: "{run_id}"\n---\n'
-    body = f"""# L2 正規化Wiki（L1 への名前統合・正規化処理の適用結果）
+    fm = f'---\ntitle: "L2 正規化Wiki 監査索引"\nid: "L2_NORMALIZED_INDEX"\nkind: "index"\ncreated: "{today}"\nupdated: "{today}"\nl2_run: "{run_id}"\n---\n'
+    body = f"""# L2 正規化Wiki 監査索引（L1 への名前統合・正規化処理の適用結果）
 
-[L2 台帳（生成規則の中心）](https://allusionistwiki.github.io/AllusionistWiki2/L2/) · [别名統合一覧](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_aliases_index/) · [L1 原文 Wiki](https://allusionistwiki.github.io/AllusionistWiki2/L1/)
+[L2Wiki 入口](./index.md) · [别名統合一覧](reflections/RF_l2_aliases_index.md) · [L1 原文 Wiki](https://allusionistwiki.github.io/AllusionistWiki2/L1/)
 
 - 生成 run: `{run_id}`（L2 台帳 run 由来。台帳は本 wiki の**生成規則の一要素**であり、公開対象はこの正規化 wiki 構造）
 - 対象: L1 全ページ {page_count} のミラー（同一相対パス）
@@ -86,7 +86,7 @@ def main():
         stem = title_to_stem.get(c)
         cell = f"[[{stem}|{c}]]" if stem else f"**{c}**"
         body += f"| {cell} | {len(lst)} | {ex} |\n"
-    (OUT / "index.md").write_text(fm + body, encoding="utf-8")
+    (OUT / "normalized-index.md").write_text(fm + body, encoding="utf-8")
     print(json.dumps({
         "pages": page_count,
         "audit_pages": audit_pages,

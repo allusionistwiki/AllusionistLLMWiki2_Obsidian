@@ -1,4 +1,4 @@
-"""S7 段: L1 wiki 全体へ L2 台帳の名前統合・正規化処理を適用し、正規化 wiki 構造を vault wiki/l2/normalized/ へ生成。
+"""S7 段: L1 wiki 全体へ L2 台帳の名前統合・正規化処理を適用し、正規化 wiki 構造を vault wiki/l2/ 直下へ生成（L2 ⇒ 各要素、normalized 索引は一要素）。
 
 設計:
 - 台帳 (work L2 run entities.json) が生成規則。aliases[].name → canonical を
@@ -21,7 +21,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_L1 = ROOT / "wiki" / "l1"
-OUT = ROOT / "wiki" / "l2" / "normalized"
+OUT = ROOT / "wiki" / "l2"
 LEDGER = Path("C:/Users/d5dx/Downloads/Code/AllusionistWiki_work")
 
 HIGH = {"高", "明言", "表記一致", "蓋然性高"}
