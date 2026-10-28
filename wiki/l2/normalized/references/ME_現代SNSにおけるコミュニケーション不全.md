@@ -1,0 +1,32 @@
+---
+schema_version: "5.1"
+id: ME_現代SNSにおけるコミュニケーション不全
+title: SNSコミュニケーション不全
+type: external_reference
+created: "2026-10-21"
+subtype: internet_culture
+canonical_name: "現代SNSにおけるコミュニケーション不全"
+domain: "Internet Culture"
+review_status: llm_verified
+normalized_from: l1/references/ME_現代SNSにおけるコミュニケーション不全.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# {現代SNSにおけるコミュニケーション不全}
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5527_parodies_E_通信の既読無視とスタンプ送信_現代SNSにおけるコミュニケーション不全]] — 緊急性を要する状況での「りょーかい！」というテキストとスタンプの送受信、および他者からの既読無視は、リアルタイム・チャットアプリを用いた業務連絡の脆弱さを風刺している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |

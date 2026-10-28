@@ -1,0 +1,44 @@
+---
+schema_version: '5.1'
+id: E_item_氷燭台
+type: entity
+subtype: item
+canonical_name: 氷燭台
+title: 氷燭台
+first_appearance: ch5377
+spoiler_after: ch5377
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-21'
+normalized_from: l1/entities/items/E_item_氷燭台.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 氷燭台
+
+中心の幹と八つの枝に分かれた構造を持つ、火を灯さない無意味な飾りとしての透明な品である。死蝋化した腕がアルマの背後に回り込んで掴み取った物体として描かれている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5377 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 朱金の装甲に触れると、見えない何かをするりと掴み取っていった。（ch5377）
+> 立てられているのは九つの蝋燭型の氷柱。冷たい細工に炎が灯ることはなく、ただ無意味な飾りとして存在している。（ch5377）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 立てられているのは九つの蝋燭型の氷柱。冷たい細工に炎が灯ることはなく、ただ無意味な飾りとして存在している。
+- **unknown**: 立てられているのは九つの蝋燭型の氷柱。冷たい細工に炎が灯ることはなく、ただ無意味な飾りとして存在している。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **氷燭台**（ID `E_item_氷燭台` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

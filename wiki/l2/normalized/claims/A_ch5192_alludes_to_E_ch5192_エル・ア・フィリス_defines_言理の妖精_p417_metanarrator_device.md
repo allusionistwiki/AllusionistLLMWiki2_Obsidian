@@ -1,0 +1,39 @@
+---
+schema_version: "5.1"
+id: A_ch5192_alludes_to_E_ch5192_エル・ア・フィリス_defines_言理の妖精_p417_metanarrator_device
+title: メタ語り手への自己定義
+
+type: analytical_claim
+created: "2026-10-21"
+subject: "[[E_ch5192_エル・ア・フィリス_defines_言理の妖精_p417]]"
+predicate: alludes_to
+object: "[[ME_metanarrator_device]]"
+epistemic_status: hypothesized
+review_status: llm_verified
+document_status: draft
+spoiler_after: ch5192
+evidence_strength: explicit
+provenance:
+  proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
+normalized_from: l1/claims/A_ch5192_alludes_to_E_ch5192_エル・ア・フィリス_defines_言理の妖精_p417_metanarrator_device.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
+
+# 「過去の物語を語るために存在する、エル・ア・フィリス」という自己定義は、作品全体のナレーションや回想シーンを生み出すメタ的な語り手（メタナレータ）機能そのものを指しており、物語構造自体がキャラクタライズされている。
+
+> 『さあリーナ。貴方の過去に遡って、カインに物語を語らせて？　カインはその為に存在する、エル・ア・フィリスなのだから』（p417）
+
+**審査（LLM 代替）**: 「過去の物語を語るために存在する」という自己定義は、ナレーション機能そのものをキャラクター化しており、メタフィクショナルな構造の核心を突いている。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 言理の妖精 | エル・ア・フィリス | 明言 | 2 |
+| 私 | カイン | 蓋然性高 | 2 |

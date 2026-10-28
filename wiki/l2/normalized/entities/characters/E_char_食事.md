@@ -1,0 +1,50 @@
+---
+schema_version: "5.1"
+id: E_char_食事
+type: entity
+subtype: character
+canonical_name: 食事
+title: "食事"
+first_appearance: ch0035
+spoiler_after: ch0035
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/characters/E_char_食事.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 食事
+
+ハルが文化的営為的な営みであり呪力源であると説き、弟子たちに弁当を用意すべきと説教した対象。アヌビス７４０がアキラたちに食事を奢る行為として現れる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0035 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 「食事は文化的営為的な営み。調理済みの食料は彩り豊かに温かに――味覚のみならず視覚、嗅覚、更には温度覚にまで訴えかける。無味乾燥な補給行為としてではなく、複合的な感覚で作品を鑑賞するつもりでいるべき。手間暇をかけて調理された料理は多量のミームを保（ch0035）
+> 「おごるから何でも頼んで？ カインたちは生憎と見て楽しむことしかできないから、その分そっちが味を楽しんでくれると嬉しいかな」（ch0167）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **食事**（ID `E_item_食事` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 文化 | 文化的営為 | 蓋然性高 | 2 |
+| ハルベルト | ハル | 明言 | 1 |
+| アヌビス740 | アヌビス７４０ | 明言 | 1 |
+| 摸倣子 | ミーム | 明言 | 1 |
+| 私 | カイン | 蓋然性高 | 1 |

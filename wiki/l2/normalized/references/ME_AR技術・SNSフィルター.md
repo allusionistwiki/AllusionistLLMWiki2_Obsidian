@@ -1,0 +1,32 @@
+---
+schema_version: "5.1"
+id: ME_AR技術・SNSフィルター
+title: ARフィルターによる現実遮断
+type: external_reference
+created: "2026-10-21"
+subtype: internet_culture
+canonical_name: "AR技術・SNSフィルター"
+domain: "Internet Culture"
+review_status: llm_verified
+normalized_from: l1/references/ME_AR技術・SNSフィルター.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# AR技術・SNSフィルター
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5379_analogous_to_E_ch5379_ラウス＝ベフォニス_has_property_感情制御アプリ_p22_AR技術・SNSフィルター]] — 感情制御アプリによる悲しみの肩代わりは、AR技術やSNSフィルターが現実の醜さや痛みを遮断し、ユーザーに最適化された心地よい体験を提供する仕組みと構造的に一致している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |

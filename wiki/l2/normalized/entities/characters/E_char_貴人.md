@@ -1,0 +1,78 @@
+---
+title: 貴人
+schema_version: '5.1'
+id: E_char_貴人
+type: entity
+subtype: character
+canonical_name: 貴人
+first_appearance: ch0069
+spoiler_after: ch0069
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-19'
+normalized_from: l1/entities/characters/E_char_貴人.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 貴人
+
+駕籠の中から金色の武器（金剛杵）を浮遊させ、磁力の結界を構築して死人たちを吹き飛ばすキャラクターである。ヴィルギリア（ハル）に対し、選び取った呪いのかちを見せるよう呟く。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0069 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。（ch0069）
+> 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」（ch0069）
+
+## 関連クレーム
+
+- A_ch0069_alludes_to_E_ch0069_貴人_uses_金剛杵_p2578_vajra（金剛杵による神聖権力の象徴）
+- A_ch0069_analogous_to_E_ch0069_貴人_uses_金剛杵_p2579_buddhist_iconography（密教法具への転生）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
+- **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
+- **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
+- **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
+- **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
+- **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
+- **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
+- **unknown**: 金色の武器が浮遊し、磁力の結界を構築して死人たちを吹き飛ばす。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」
+- **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」
+- **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」
+- **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」
+- **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」
+- **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」
+- **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」
+- **unknown**: 「さあ、見せて頂戴、ヴィルギリア。貴方が選び取った、呪いのかたちを」
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **貴人**（ID `E_char_貴人` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| ハルベルト | ハル | 明言 | 1 |

@@ -1,0 +1,54 @@
+---
+title: 殺し屋
+schema_version: '5.1'
+id: E_org_殺し屋
+type: entity
+subtype: organization
+canonical_name: 殺し屋
+first_appearance: ch0028
+spoiler_after: ch0028
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-19'
+normalized_from: l1/entities/organizations/E_org_殺し屋.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 殺し屋
+
+他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。保険屋と殺し屋は異世界転生が当たり前の現代日本において不倶戴天の商売敵である。保険屋は殺し屋による顧客の転生を妨害し、社会的混乱を防ぐ法令遵守と採算確保のために躍起になる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0028 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 【保険屋】と【殺し屋】。その二つの職種は、異世界転生が当たり前になった現代日本において、不倶戴天の商売敵といえる関係にあった。（ch0028）
+> 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。（ch0028）
+
+## 関連クレーム
+
+- A_ch0028_analogous_to_E_ch0028_保険屋_fights_殺し屋_p1231_保険詐欺と調査部門（保険詐欺構造のジャンル自己言及）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
+- **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
+- **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
+- **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
+- **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
+- **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
+- **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
+- **unknown**: 【殺し屋】は他殺や事故死に偽装して、依頼主の事実上の自殺を幇助する職業である。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **殺し屋**（ID `E_org_殺し屋` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

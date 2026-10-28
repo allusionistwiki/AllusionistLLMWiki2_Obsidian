@@ -1,0 +1,52 @@
+---
+title: "エルネトモラン"
+schema_version: "5.1"
+id: E_char_エルネトモラン
+type: entity
+subtype: character
+canonical_name: エルネトモラン
+first_appearance: ch0046
+spoiler_after: ch0046
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/characters/E_char_エルネトモラン.md
+l2_run: 20261024T1608_fc8d
+---
+
+# エルネトモラン
+
+緑色の長髪に大輪の花を咲かせたエストとして現れる存在である。死人で溢れかえっていると告げる役割を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0046 ｜ **観測イベント**: 4 件（4 話に出現）
+
+## 代表引用
+
+> 緑色の長髪を彩るように咲き誇る大輪の花。 華やかという言葉がこの上なく似合う、エストがそこにいた（ch0046）
+> 「それじゃあ、エルネトモランは」「既に死人で溢れかえっておるわ！ 死人使いたるカインと死霊使いたるあの若造の複合呪術。狂乱の渦に飲まれたこの地はじきに滅ぶ。（ch0068）
+> 世界槍内部を突き破って現れたそれは、途方も無く巨大な翼を持つ【猫】だ。無数の小さな翼猫が隙間無く組み合わさって構成された大規模な群体。（ch0073）
+> 吸血鬼ことドラトリア系夜の民は、大神院によって正式に天使の眷属種として認定された。エルネトモランでも吸血鬼たちは特別居住区で暮らしている。（ch0147）
+
+## 関連クレーム
+
+- A_ch0068_analogous_to_E_ch0068_エスフェイル_activates_楽園_p2552_パンデミック（制御不能なパンデミック）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **エルネトモラン**（ID `E_char_エルネトモラン` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 樹妖精の少女 | エスト | 明言 | 2 |
+| 私 | カイン | 蓋然性高 | 1 |
+| 浄界 | 楽園 | 明言 | 1 |

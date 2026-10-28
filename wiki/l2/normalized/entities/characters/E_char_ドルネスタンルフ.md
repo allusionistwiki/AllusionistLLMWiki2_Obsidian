@@ -1,0 +1,57 @@
+---
+schema_version: '5.1'
+id: E_char_ドルネスタンルフ
+type: entity
+subtype: character
+canonical_name: ドルネスタンルフ
+title: ドルネスタンルフ
+first_appearance: ch0063
+spoiler_after: ch0063
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-19'
+normalized_from: l1/entities/characters/E_char_ドルネスタンルフ.md
+l2_run: 20261024T1608_fc8d
+---
+
+# ドルネスタンルフ
+
+転移門から転がり落ち、人の皮を用いた大玉のような外見で人の顔じみた輪郭を浮かべる存在である。アキラのチェーンソーによる障壁破壊や、ミヒトネッセの回転運動による衝撃波など、戦闘の文脈で登場する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0063 ｜ **観測イベント**: 3 件（2 話に出現）
+
+## 代表引用
+
+> 時折、各所から骨ばった何かや人の顔じみた輪郭が浮かび、微かな呻きが聞こえるのがひどく不気味だ。（ch0063）
+> 絶えずその呪文配列を組み替える呪動鎖鋸はドルネスタンルフの加護を打ち破る最適な配列に辿り着き、粉々に破壊する。（ch0127）
+> ミヒトネッセが片足立ちの状態のまま急速な回転を開始した。竜巻のような激しさで旋回し、周囲に呪力を撒き散らして衝撃で俺たちを弾き飛ばしていく。（ch0127）
+
+## 関連クレーム
+
+- A_ch0063_analogous_to_E_ch0063_ドルネスタンルフ_appears_as_球体の肉塊_p2340_ゲームのバグやアセット破損（ゲームバグ・アセット破損への転生）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-REL:BEGIN -->
+## 関係キャラクター
+
+- [[E_char_ミヒトネッセ|ミヒトネッセ]] — 起動(受)（2 観測）
+
+<!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 時折、各所から骨ばった何かや人の顔じみた輪郭が浮かび、微かな呻きが聞こえるのがひどく不気味だ。
+- **unknown**: 時折、各所から骨ばった何かや人の顔じみた輪郭が浮かび、微かな呻きが聞こえるのがひどく不気味だ。
+- **unknown**: 時折、各所から骨ばった何かや人の顔じみた輪郭が浮かび、微かな呻きが聞こえるのがひどく不気味だ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ドルネスタンルフ**（ID `E_char_ドルネスタンルフ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

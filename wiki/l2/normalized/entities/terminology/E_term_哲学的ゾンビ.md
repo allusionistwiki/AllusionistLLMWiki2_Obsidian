@@ -1,0 +1,45 @@
+---
+title: "哲学的ゾンビ"
+schema_version: "5.1"
+id: E_term_哲学的ゾンビ
+type: entity
+subtype: terminology
+canonical_name: 哲学的ゾンビ
+first_appearance: ch0061
+spoiler_after: ch0061
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/terminology/E_term_哲学的ゾンビ.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 哲学的ゾンビ
+
+破壊された霊魂が散らばった後に残る、魂無き存在の群れを指す用語である。ズタークスタークは稲妻の呪文で構成された仮想使い魔として、任意の物質を分解・再構成してこれを作り出す能力を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5137 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> やがて、ゆるやかに曲がった細い道の向こうから大挙して押し寄せてくるものがあった。縦一列になってやってくるそいつらは、見かけ上はごく普通の霊長類に見える。  しかし、アストラル界の視界でカインらを眺めればその異常性は一目瞭然だ。  霊体が朽ち果て、（ch5137）
+> そのくせ生存のための欲求――飢餓感だけは残っていて、生きている者を生前の理に従って襲い、喰らおうとしてくる。  カインらは魂無き抜け殻だ。「いたぞ、侵入者だ！」「捕縛して拷問しろ！」「火にかけて塩を振れ！」調理したら食事休憩だ！」正気の目で語る（ch5137）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **哲学的ゾンビ**（ID `E_char_哲学的ゾンビ` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 彼 | カイン | 蓋然性高 | 2 |
+| アストラル | アストラル界 | 明言 | 1 |

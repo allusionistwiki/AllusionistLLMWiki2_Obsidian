@@ -1,0 +1,46 @@
+---
+schema_version: "5.1"
+id: E_char_衣装
+type: entity
+subtype: character
+canonical_name: 衣装
+title: "衣装"
+first_appearance: ch0163
+spoiler_after: ch0163
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/characters/E_char_衣装.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 衣装
+
+着物が変形し、砲身やミサイルポッドを備えた強化外骨格（装甲板）へと変わる存在。クレイはファウナに対し、勝つための力として衣装を作るよう命じた。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0163 ｜ **観測イベント**: 4 件（3 話に出現）
+
+## 代表引用
+
+> 着物と思われた衣装は、その実ただの布ではなかった。（ch0163）
+> 「女、俺の衣装を作れ。勝つための力が必要だ」（ch0171）
+> 黒ずんだ血霞を裂いて、トリシューラの衣装が更新された。変幻する体表面テクスチャ。まだこの段階では手探りだが、着実に答えに肉薄しつつある。退廃的でグロテスク、露悪的でセンシティブ。夜と死を漂わせつつ、黒い夜会服を身にまとって戦場を往く鮮血の魔（ch0184）
+> コルセスカの衣装が激変していく。スカートはイチジクの葉のように。五つに裂けた葉は掌か扇といったところだが、シャープなデザインに仕上げた結果としてコルセスカらしい氷のイメージと重なっていた。クリアな氷の羽はより精緻な御使いの白翼に変貌し、右足（ch0184）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-REL:BEGIN -->
+## 関係キャラクター
+
+- [[E_char_トリシューラ|トリシューラ]] — 変身(受)（2 観測）
+
+<!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **衣装**（ID `E_item_衣装` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

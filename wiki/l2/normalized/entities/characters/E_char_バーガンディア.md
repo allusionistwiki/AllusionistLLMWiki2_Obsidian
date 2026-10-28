@@ -1,0 +1,62 @@
+---
+schema_version: '5.1'
+id: E_char_バーガンディア
+type: entity
+subtype: character
+canonical_name: バーガンディア
+title: バーガンディア
+first_appearance: ch0143
+spoiler_after: ch0143
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-19'
+normalized_from: l1/entities/characters/E_char_バーガンディア.md
+l2_run: 20261024T1608_fc8d
+---
+
+# バーガンディア
+
+竜王国の理念を持ち込み、人カイン種族の大規模な移民受け入れ政策を実行した王妃である。亜竜王アルトの娘として、国土と王権を与えられた存在とされる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0143 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> ある日、人形が塔の最上階に食事を運びに行くと、王妃の姿は忽然と消えていたという。以来、バーガンディアの姿を見た者はいない。（ch0143）
+> ラフディの始祖王ディルトーワは、亜竜王アルトの娘バーガンディアを与えられることで国土と王権、偉大なる王の血を手に入れた。（ch0243）
+
+## 関連クレーム
+
+- A_ch0143_alludes_to_E_ch0143_バーガンディア_disappears_塔_p4882_ラプンツェル_グリム童話（塔幽閉のラプンツェル的悲劇）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: ある日、人形が塔の最上階に食事を運びに行くと、王妃の姿は忽然と消えていたという。以来、バーガンディアの姿を見た者はいない。
+- **unknown**: ある日、人形が塔の最上階に食事を運びに行くと、王妃の姿は忽然と消えていたという。以来、バーガンディアの姿を見た者はいない。
+- **unknown**: ある日、人形が塔の最上階に食事を運びに行くと、王妃の姿は忽然と消えていたという。以来、バーガンディアの姿を見た者はいない。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **バーガンディア**（ID `E_char_バーガンディア` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 狼 | カイン | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「王」→ カーティス（要検証）

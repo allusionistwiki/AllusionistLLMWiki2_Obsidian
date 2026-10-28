@@ -1,0 +1,38 @@
+---
+schema_version: '5.1'
+id: E_item_構造物
+type: entity
+title: 構造物
+subtype: item
+canonical_name: 構造物
+aliases: []
+first_appearance: ch0102
+spoiler_after: ch0102
+document_status: active
+created: '2026-10-10'
+updated: '2026-10-21'
+normalized_from: l1/entities/items/E_item_構造物.md
+l2_run: 20261024T1608_fc8d
+---
+# 構造物
+
+（本文：人間が記述する部分。自動生成では変更されません。）
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 構造物の滑らかな表面に一筋の亀裂が入り、そこが蓋となって上に持ち上がったのである。中にはサイザクタートが見たこともないような複雑な形状の機器がぎっしりと詰め込まれており、中央の座椅子とも寝台ともつかない場所に、小柄な人影が横たえられていた。
+- **unknown**: 構造物の滑らかな表面に一筋の亀裂が入り、そこが蓋となって上に持ち上がったのである。中にはサイザクタートが見たこともないような複雑な形状の機器がぎっしりと詰め込まれており、中央の座椅子とも寝台ともつかない場所に、小柄な人影が横たえられていた。
+- **unknown**: 構造物の滑らかな表面に一筋の亀裂が入り、そこが蓋となって上に持ち上がったのである。
+- **unknown**: 構造物の滑らかな表面に一筋の亀裂が入り、そこが蓋となって上に持ち上がったのである。
+- **unknown**: 構造物の滑らかな表面に一筋の亀裂が入り、そこが蓋となって上に持ち上がったのである。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **構造物**（ID `E_item_構造物` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

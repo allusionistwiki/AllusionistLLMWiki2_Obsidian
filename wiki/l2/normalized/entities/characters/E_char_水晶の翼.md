@@ -1,0 +1,44 @@
+---
+schema_version: "5.1"
+id: E_char_水晶の翼
+type: entity
+subtype: character
+canonical_name: 水晶の翼
+title: "水晶の翼"
+first_appearance: ch5383
+spoiler_after: ch5383
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/characters/E_char_水晶の翼.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 水晶の翼
+
+背に出現させる六枚の板状の羽で、その内側に下界の様子を映し出す機能を持つ。アストラル界体によって操作され、光を収束させて砲塔として機能させられる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5383 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> ヴァージルの背に水晶の板が出現し、放射状に広がった。 【p105】 透明な石版、あるいは六枚の羽。その内側に閉じ込められているのは月明かり。（ch5383）
+> ひとつ、ふたつ、みっつ――薄く細長い水晶柱の先端に光が収束。それらは砲塔となって標的に狙いを定め、眩い光線を発射していく。アストラル界体のヴァージルが操作するのは実体を有する水晶の翼、そこから放たれる攻撃も物理的な影響力を有している。（ch5387）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **水晶の翼**（ID `E_char_水晶の翼` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アストラル | アストラル界 | 明言 | 2 |

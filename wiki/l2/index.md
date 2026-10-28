@@ -35,5 +35,6 @@ L1（機械抽出）の名義ゆらぎを統合した**正規化エンティテ�
 
 ## ページ
 
+- **[正規化Wiki 索引](normalized/index.md)** — L1 wiki 全ページに本台帳の名前統合・正規化処理を適用した wiki 構造（2026-10-28 公開）。台帳は本 wiki の生成規則の一要素
 - [名相関索引](../reflections/RF_l2_correlations.md) — 統合済みグループ一覧（代表名 ← 統合名義・kind・確度）
 - [名義変換表](../reflections/RF_l2_aliases_index.md) — L1 素名義 → 正規 ID の照会表（上位）

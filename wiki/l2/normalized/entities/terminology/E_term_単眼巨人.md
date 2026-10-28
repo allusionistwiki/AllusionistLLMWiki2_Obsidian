@@ -1,0 +1,45 @@
+---
+schema_version: "5.1"
+id: E_term_単眼巨人
+type: entity
+subtype: terminology
+canonical_name: 単眼巨人
+title: "単眼巨人"
+first_appearance: ch5137
+spoiler_after: ch5137
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/terminology/E_term_単眼巨人.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 単眼ネフィリム
+
+貫通性能を持つ束縛の邪視を放射し、縦一列の全員を捕らえる能力を持つ敵対存在である。骨片が体内に入り込んだ死んだ肉体が再始動する現象と関連付けられており、呪力によって攻撃を停止させるなど、高度な魔法的性質を備えている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5137 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> その巨大な単眼がかっと見開かれ、壮絶な呪力が放射される。相手の動きを見ただけで封じ込める束縛の邪視だ。厄介なことに貫通性能があり、縦一列に並んだカイン達とリーナは漏れなく邪視の餌食となった。（ch5137）
+> 無数の骨片が伸びて単眼ネフィリムの体内に入り込むと、死んだはずの肉体が再び動き出す。メイファーラが短槍を突き出すが、瞬時に再生した単眼は濃密な呪力を放出して刺突を停止させた。大気――あるいは空間そのものを束縛したのだ。（ch5138）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **単眼ネフィリム**（ID `E_char_単眼ネフィリム` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 巨人 | ネフィリム | 蓋然性高 | 4 |
+| 私 | カイン | 蓋然性高 | 1 |

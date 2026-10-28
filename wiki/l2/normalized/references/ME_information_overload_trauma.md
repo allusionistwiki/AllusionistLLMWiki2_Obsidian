@@ -1,0 +1,32 @@
+---
+schema_version: "5.1"
+id: ME_information_overload_trauma
+title: 情報過多の傷
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "information_overload_trauma"
+domain: "Contemporary Culture"
+review_status: llm_verified
+normalized_from: l1/references/ME_information_overload_trauma.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# information_overload_trauma
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5090_alludes_to_E_ch5090_読心能力_has_property_過度な情報化の弊害_p53_information_overload_trauma]] — 思考を読める能力が「知りたくない事」まで明らかにし使用者を傷つけるという描写は、SNSや情報技術によるプライバシー侵害・メンタルヘルス悪化への批判的メタファーである。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |

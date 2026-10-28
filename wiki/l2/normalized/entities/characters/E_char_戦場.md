@@ -1,0 +1,63 @@
+---
+schema_version: "5.1"
+id: E_char_戦場
+type: entity
+subtype: character
+canonical_name: 戦場
+title: "戦場"
+first_appearance: ch0065
+spoiler_after: ch0065
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/characters/E_char_戦場.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 戦場
+
+エスト、ミルーニャ、イルス、メイファーラが援軍として到着する場所である。トライカラーの犬頭やビーグル犬に似た獣人である【マレブランケ】の新参者も登場する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5079 ｜ **観測イベント**: 18 件（17 話に出現）
+
+## 代表引用
+
+> 合図もなく白い影が飛び出した。「凍れ」という声が響いて、激しく相争う両者の動きが止まる。（ch5079）
+> 「仕方無い、俺も行くよ。理性を失ったあいつを回収するのは俺の役目なんでね。時間稼ぎしてくるから、イルスを頼む」（ch5152）
+> と、都合良くその場に小さな子供が現れる。（ch5227）
+> 力士の張り手が迫ったその時、救い手は横から現れた。  「横から失礼するぜ――！　先に俺と手合わせ願おうか！」（ch5255）
+> その時、呪文師たちの奮闘によってサイバーカラテ道場の感情制御システムが復旧し、いち早く立ち直ったカルカブリーナが加勢する。（ch5255）
+
+## 関連クレーム
+
+- [[A_ch5227_analogous_to_E_ch5227_小さな子供_appears_戦場_p21_deus_ex_machina|機械仕掛けの神としての都合良い出現]]
+
+<!-- AUTO:END -->
+
+<!-- AUTO-REL:BEGIN -->
+## 関係キャラクター
+
+- [[E_char_ヴァージル|ヴァージル]] — 逃亡(受)（2 観測）
+- [[E_char_ハルベルト|ハル]] — 出現(受)（2 観測）
+
+<!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **戦場**（ID `E_term_戦場` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| プリエステラ | エスト | 明言 | 1 |
+| 言語魔術 | 呪文 | 蓋然性高 | 1 |
+| ハルベルト | ハル | 明言 | 1 |

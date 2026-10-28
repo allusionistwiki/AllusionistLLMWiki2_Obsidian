@@ -1,0 +1,46 @@
+---
+schema_version: '5.1'
+id: E_char_百々目鬼
+type: entity
+subtype: character
+canonical_name: 百々目鬼
+title: 百々目鬼
+first_appearance: ch0154
+spoiler_after: ch0154
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-21'
+normalized_from: l1/entities/characters/E_char_百々目鬼.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 百々目鬼
+
+レミルスが接近した自警団の構成員であり、ヴァージルによって規格外の呪力と呪文の秘奥を授けられた最強の戦士である。物質的に存在しないものを打撃する能力を持ち、邪妖精から黒い靄を流して解放するなどの活躍を見せる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0154 ｜ **観測イベント**: 4 件（3 話に出現）
+
+## 代表引用
+
+> 「お疲れ。そんな畏まらなくてもいいですよ。カーインとの戦闘を回避したのは正解でしたね、あれは危険だ」（ch0154）
+> 激励しつつ、ヴァージルは『百々目鬼』たちに規格外の呪力と複雑怪奇な呪文の秘奥を授けた。（ch0155）
+> 長い黒髪を靡かせた『大蛇』の晶が水流を操って襲い掛かってくる。迎え撃つ『鎌鼬』と『件』。（ch0155）
+> 現象としては単純。カーインがその圧倒的な実力で自警団員たちを片端から薙ぎ倒しているだけだ。しかしヴァージルの目は『百々目鬼』という呪的総体が崩壊していく光景を確かに見た。（ch0156）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 『百々目鬼』たちはワルシューラ経由で虹犬と視界を共有しながらカーインの正体を分析し続ける。こうして離れた場所からでも瘴気による呪的侵入を妨害することは可能だ。
+- **unknown**: 『百々目鬼』たちはワルシューラ経由で虹犬と視界を共有しながらカーインの正体を分析し続ける。こうして離れた場所からでも瘴気による呪的侵入を妨害することは可能だ。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **百々目鬼**（ID `E_char_百々目鬼` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -1,0 +1,45 @@
+---
+schema_version: "5.1"
+id: E_char_アズーリア隊
+type: entity
+subtype: character
+canonical_name: アズーリア隊
+title: "アズーリア隊"
+first_appearance: ch5492
+spoiler_after: ch5492
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/characters/E_char_アズーリア隊.md
+l2_run: 20261024T1608_fc8d
+---
+
+# アズ隊
+
+蜂の翅を振動させながら飛んでくる少女であり、白を基調とした北辺式修道服を着てアズの胸に飛び込む姿が見られる。機甲箒から降り立ちヘルメットとフライトジャケット姿で現れ、茶色の巻き毛と同色の瞳を見せる人物として描かれている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5492 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 蜂の翅を振動させながら飛んでくるのはひとりの少女。敵ではない、斥候だ。 カインと同年齢で背丈はちょっとだけあちらが上、昆虫の触角のように跳ねた前髪と外はねの栗毛、前髪を押さえている薔薇の髪飾りが印象的。白を基調とした北辺式修道服に茨と鎖を巻き付（ch5492）
+> 滞空状態の機甲箒から小柄な女性が降り立つ。 箒乗りらしいヘルメットとフライトジャケットという出で立ちで、ゴーグルを持ち上げるとお馴染みの茶色の巻き毛と同色の瞳が露わになる。（ch5492）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アズ隊**（ID `E_char_アズ隊` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アズーリア | アズ | 蓋然性高 | 4 |
+| 私 | カイン | 蓋然性高 | 1 |

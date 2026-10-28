@@ -1,0 +1,57 @@
+---
+schema_version: '5.1'
+id: E_item_触手
+type: entity
+subtype: item
+canonical_name: 触手
+title: 触手
+first_appearance: ch5054
+spoiler_after: ch5054
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-21'
+normalized_from: l1/entities/items/E_item_触手.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 触手
+
+影から湧き出て観客席に溢れ出し、観客を捕らえ巻き付く異形の存在である。観客に巻き付いた後に変形し、先端に少女の顔が浮かび上がり上半身を形成する性質を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5054 ｜ **観測イベント**: 3 件（2 話に出現）
+
+## 代表引用
+
+> 床に投げ出されたかと思うと、強い力で引きずられていく。背後を勢いよく触手が通り抜けていくが、際どいところで安全な場所まで逃れる。（ch5054）
+> 直後、影から無数の触手が湧き出してステージから溢れ出し、観客席にまで溢れ出す。夥しい数の影が盛り上がっていた観客たちを片端から捕らえ、ぐるぐると巻き付いていった。（ch5399）
+> 観客たちひとりひとりに巻き付いた触手が変形し、先端部分に少女の顔が浮かび上がり、肩、腕、胴、腰までのラリスキャニアとなったのだ。（ch5399）
+
+## 関連クレーム
+
+- [[A_ch5399_analogous_to_E_ch5399_触手_captures_観客_p24_handshake_event|握手会接触承認のメタファー]]
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 直後、影から無数の触手が湧き出してステージから溢れ出し、観客席にまで溢れ出す。夥しい数の影が盛り上がっていた観客たちを片端から捕らえ、ぐるぐると巻き付いていった。
+- **unknown**: 直後、影から無数の触手が湧き出してステージから溢れ出し、観客席にまで溢れ出す。夥しい数の影が盛り上がっていた観客たちを片端から捕らえ、ぐるぐると巻き付いていった。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 観客たちひとりひとりに巻き付いた触手が変形し、先端部分に少女の顔が浮かび上がり、肩、腕、胴、腰までのラリスキャニアとなったのだ。
+- **unknown**: 観客たちひとりひとりに巻き付いた触手が変形し、先端部分に少女の顔が浮かび上がり、肩、腕、胴、腰までのラリスキャニアとなったのだ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **触手**（ID `E_char_触手` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

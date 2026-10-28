@@ -1,0 +1,43 @@
+---
+title: 黒肌の巨漢（容姿）
+schema_version: '5.1'
+id: E_char_黒肌の巨漢_容姿
+type: entity
+subtype: character
+canonical_name: 黒肌の巨漢
+first_appearance: ch0001
+spoiler_after: ch0001
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_黒肌の巨漢_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 黒肌の巨漢｜容姿
+
+## 要約
+
+（要約生成中）
+
+<!-- AUTO:BEGIN -->
+
+初出: [1話](../../nav/ch0001.md) ｜ 容姿記述 3 件
+
+- 深い黒肌。巨漢。上半身は裸で胸や肩に赤い染料で模様を描いている。 ｜ 肌・体格・服装・顔立ち/身体特徴 ｜ 典拠: [1話](../../nav/ch0001.md)（p52）
+  > 左に立つのは深い黒肌の巨漢で、上半身はほぼ裸で、胸や肩などに赤い染料で模様を描いているのが印象的だった。
+- 上半身の赤いペイントが発光し、筋肉が盛り上がり、肌は鋼鉄のように輝く。 ｜ 肌・身体特徴・顔立ち/身体特徴 ｜ 典拠: [1話](../../nav/ch0001.md)（p72）
+  > 雄叫びに呼応するかのように上半身の赤いペイントが淡く発光し、筋肉が盛り上がり、肌は鋼鉄のように輝く。
+- 袴のような下履きをしており血を吸っている。腹部を貫通した無数の棘の傷がある。 ｜ 服装・傷 ｜ 典拠: [1話](../../nav/ch0001.md)（p72）
+  > 腹部を貫通する無数の棘は明らかに内蔵を傷つけているし、袴にも似た下履きは血を吸ってなお雫を床にこぼし続けており
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **黒肌の巨漢**（ID `E_char_黒肌の巨漢` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

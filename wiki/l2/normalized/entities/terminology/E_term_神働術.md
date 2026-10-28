@@ -1,0 +1,51 @@
+---
+schema_version: "5.1"
+id: E_term_神働術
+type: entity
+subtype: terminology
+canonical_name: 神働術
+title: "神働術"
+first_appearance: ch5108
+spoiler_after: ch5108
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/terminology/E_term_神働術.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 神働術
+
+過去の聖人のエピソードを模倣し自己に重ねて強化する術であり、松明の騎士団の歴史が呪力となるシステムである。塔では宗教的世界観の具現化を邪視、記号運用を呪文、高位霊的存在との交信を使い魔、聖遺物使用を箒と分類して定義される。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5108 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> キロンが使うあの神働術は、俺の知らない過去の聖人のエピソードをミームし、その性質を自らに重ねて自己を強化する術なのだと二人の魔女は説明していた。【松明の騎士団】が誇る膨大な歴史と伝統、その重みがそのまま呪力の強度となって襲いかかる。（ch5108）
+> 【塔】の四大分類では宗教的世界観の具現化は邪視、宗教的記号の運用は呪文、高位の霊的存在との交信は使い魔、聖遺物などの使用は箒という解釈がされる。（ch5112）
+
+## 関連クレーム
+
+- [[A_ch5108_analogous_to_E_ch5108_神働術_defines_聖人のエピソード摸倣_p72_nft_metadata_speculation|聖人模倣のリミックス文化的営為属性付与]]
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **神働術**（ID `E_term_神働術` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 星見の塔 | 塔 | 明言 | 2 |
+| 杖 | 箒 | 明言 | 2 |
+| 摸倣 | ミーム | 蓋然性高 | 1 |
+| 文化 | 文化的営為 | 蓋然性高 | 1 |

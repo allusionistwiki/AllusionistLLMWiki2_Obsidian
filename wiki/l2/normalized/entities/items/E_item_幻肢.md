@@ -1,0 +1,35 @@
+---
+schema_version: "5.1"
+id: E_item_幻肢
+type: entity
+subtype: item
+canonical_name: 幻肢
+title: "幻肢"
+first_appearance: ch5108
+spoiler_after: ch5108
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/items/E_item_幻肢.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 幻肢
+
+キロンの石版が展開した文字列がワイヤーのように巻き付き動きを止める対象であり、鏡に青白く半透明な右腕として大小様々な形で映し出される存在である。物理的な身体の一部ではないが、視覚的および感覚的に干渉する現象として描かれている。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5108 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> だがその時、キロンの周囲で待機していた石版がその能力を発揮した。展開された文字列が鏡の世界の幻影の腕に対して接触すると、ワイヤーのように巻き付いてその動きを押し止めたのである。（ch5108）
+> 鏡に映し出されているのは、青白く半透明な俺の右腕、その幻肢だ。 複数の鏡面に映し出された大小様々な幻肢。（ch5245）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **幻肢**（ID `E_char_幻肢` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

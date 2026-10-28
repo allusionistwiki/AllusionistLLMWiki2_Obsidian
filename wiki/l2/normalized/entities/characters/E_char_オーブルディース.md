@@ -1,0 +1,63 @@
+---
+schema_version: '5.1'
+id: E_char_オーブルディース
+type: entity
+subtype: character
+canonical_name: オーブルディース
+title: オーブルディース
+first_appearance: ch0265
+spoiler_after: ch0265
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-19'
+normalized_from: l1/entities/characters/E_char_オーブルディース.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 氷の球体ルディース
+
+氷の球体ルディース・エジーメ・クロウサーとして『冠聖堂』に名を刻まれた存在である。ボール、クガルヤイム、ミブリナと共に、ダウザールから始祖の血を授かった血族の一人である。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0265 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 『冠聖堂』氷の球体ルディース・エジーメ・クロウサー。（ch0265）
+> 他の三人はここまで至っていない。氷の球体ルディース、ボール、クガルヤイム。（ch0268）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:name -->
+## 名称・呼称
+
+- **unknown**: 『冠聖堂』氷の球体ルディース・エジーメ・クロウサー。
+- **unknown**: 『冠聖堂』氷の球体ルディース・エジーメ・クロウサー。
+- **unknown**: 『冠聖堂』氷の球体ルディース・エジーメ・クロウサー。
+
+<!-- /AUTO-GENERATED:name -->
+
+<!-- AUTO-GENERATED:action -->
+## 行動・動作
+
+- **unknown**: 他の三人はここまで至っていない。氷の球体ルディース、ボール、クガルヤイム。
+- **unknown**: 他の三人はここまで至っていない。氷の球体ルディース、ボール、クガルヤイム。
+- **unknown**: 他の三人はここまで至っていない。氷の球体ルディース、ボール、クガルヤイム。
+
+<!-- /AUTO-GENERATED:action -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **氷の球体ルディース**（ID `E_char_氷の球体ルディース` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| オーブ | 氷の球体 | 明言 | 12 |

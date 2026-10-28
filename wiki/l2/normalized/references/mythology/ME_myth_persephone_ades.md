@@ -1,0 +1,33 @@
+---
+schema_version: "5.1"
+id: ME_myth_persephone_ades
+title: ペルセポネーの冥界誘拐
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "myth_persephone_ades"
+domain: "Contemporary Culture"
+review_status: llm_verified
+normalized_from: l1/references/mythology/ME_myth_persephone_ades.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# myth_persephone_ades
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5562_alludes_to_E_p9_myth_persephone_ades]] — ミルーニャが「死者のまま生者の姿をとった」と語る構造は、ギリシャ神話のオルフェウスとエウリュディケにおける「冥界からの引き戻し・別離」、またはイザナミが黄泉比良坂で断絶する『古事記』の黄泉の国伝承を想起させる。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |
+| メートリアン | ミルーニャ | 明言 | 1 |

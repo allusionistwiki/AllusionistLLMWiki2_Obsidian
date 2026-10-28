@@ -1,0 +1,51 @@
+---
+title: コルロ（容姿）
+schema_version: '5.1'
+id: E_char_コルロ_容姿
+type: entity
+subtype: character
+canonical_name: コルロ
+first_appearance: ch0232
+spoiler_after: ch0232
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_コルロ_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# コルロ｜容姿
+
+## 要約
+
+灰色のウサギの姿をしている。
+
+キャラ本ページ: [[E_char_コルロ|コルロ]]
+
+<!-- AUTO:BEGIN -->
+
+初出: [232話](../../nav/ch0232.md) ｜ 容姿記述 1 件
+
+- 灰色のウサギの姿をしている。 ｜ 毛色/外見種族（灰兎） ｜ 典拠: [232話](../../nav/ch0232.md)（p7656）
+  > コルロ：灰兎、王家に仕える栞二刀流の抗呪剣士。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **コルロ**（ID `E_char_コルロ` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「王」→ カーティス（要検証）

@@ -1,0 +1,33 @@
+---
+schema_version: "5.1"
+id: ME_bible_genesis
+title: 創世記の呪い
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "bible_genesis"
+domain: "Contemporary Culture"
+review_status: llm_verified
+normalized_from: l1/references/ME_bible_genesis.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# bible_genesis
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5313_alludes_to_E_p168_bible_genesis]] — ウォゾマ・メロロキンが女性を支配する根拠として『創世記』の呪いを引用し、宗教的権威をジェンダー抑圧の道具として利用している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |
+| グレンデルヒ | ウォゾマ・メロロキン | 蓋然性高 | 1 |

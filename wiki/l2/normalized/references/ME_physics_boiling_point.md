@@ -1,0 +1,32 @@
+---
+schema_version: "5.1"
+id: ME_physics_boiling_point
+title: 沸点の低下
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "physics_boiling_point"
+domain: "Contemporary Culture"
+review_status: llm_verified
+normalized_from: l1/references/ME_physics_boiling_point.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# physics_boiling_point
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5575_alludes_to_E_p154_physics_boiling_point]] — 沸点が下がる物理現象の引用は、感情の爆発（怒り）が環境要因（圧力・高所）によって容易に引き起こされることを科学的メタファーで補強している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |

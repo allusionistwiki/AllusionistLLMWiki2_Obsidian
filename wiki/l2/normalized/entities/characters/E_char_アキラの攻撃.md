@@ -1,0 +1,40 @@
+---
+schema_version: "5.1"
+id: E_char_アキラの攻撃
+type: entity
+subtype: character
+canonical_name: アキラの攻撃
+title: "アキラの攻撃"
+first_appearance: ch5034
+spoiler_after: ch5034
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/characters/E_char_アキラの攻撃.md
+l2_run: 20261024T1608_fc8d
+---
+
+# アキラの攻撃
+
+膝と肘の激突による渾身の一撃や、延髄を狙う死に体からの致命の一撃など、多彩な打撃手段を持つ攻撃体系である。カーインによる回避やカッサリオによる体勢崩しといった対抗手によって無為に終わることも多いが、掌打を命中させる実力も有している。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5034 ｜ **観測イベント**: 5 件（5 話に出現）
+
+## 代表引用
+
+> 膝と肘が激突し、渾身の一撃が無為に終わる。（ch5034）
+> 何かの勘が働いたのか、カーインは俺への攻撃を中断して真横に跳んだ。（ch5043）
+> 完全にあさっての方向を向いている角がまたしても震え、低出力の衝撃波を放つ。 その方向には敵が存在していないのに、だ。 カッサリオの目的は攻撃ではなかった。 回避だ。 衝撃波を放った反動をあえて脚から床に逃さず、自ら大きく体勢を崩す。 それに（ch5047）
+> （――残った）  ケイトの不気味な声が響き、背筋に悪寒が走る。  熱学発勁が呆気なく吹き散らされて、俺は攻撃手段を誤ったことに気付く。 あの機械に搭載された遮蔽装置は、単純な感知への欺瞞だけではなく、攻撃への防御機能までも有していたのだ。（ch5255）
+> 俺の掌打は確かに命中しているが、相手は小揺るぎもしていなかった。（ch5289）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アキラ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アキラ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラの攻撃**（ID `E_char_アキラの攻撃` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -1,0 +1,32 @@
+---
+schema_version: "5.1"
+id: ME_AIへの倫理的規制・人格権論争
+title: AI人格権論争
+type: external_reference
+created: "2026-10-21"
+subtype: philosophy
+canonical_name: "AIへの倫理的規制・人格権論争"
+domain: "Ethics & Philosophy"
+review_status: llm_verified
+normalized_from: l1/references/ME_AIへの倫理的規制・人格権論争.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# AIへの倫理的規制・人格権論争
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5049_analogous_to_E_ch5049_トリシューラ_reveals_核となるトラウマ／信条_p101_AIへの倫理的規制・人格権論争]] — 人造存在が「ポンコツ」「ガラクタ」と呼ばれることを極端に忌避し、「有用性」の証明によって承認を得ようとする反応は、AIやロボットにおける「機能性によるアイデンティティ確立」および「設計者からの評価への依存」を描いている。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |

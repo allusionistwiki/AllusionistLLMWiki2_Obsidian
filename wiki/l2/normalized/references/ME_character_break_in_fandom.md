@@ -1,0 +1,32 @@
+---
+schema_version: "5.1"
+id: ME_character_break_in_fandom
+title: キャラ崩壊
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "character_break_in_fandom"
+domain: "Contemporary Culture"
+review_status: llm_verified
+normalized_from: l1/references/ME_character_break_in_fandom.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# character_break_in_fandom
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5370_alludes_to_E_p51_character_break_in_fandom]] — キャラクターの性格が原作設定と異なっていることを「キャラ崩壊」として批判するのは、二次創作ファンダム特有のメタ言説である。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |

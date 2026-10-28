@@ -1,0 +1,45 @@
+---
+title: ウネム（容姿）
+schema_version: '5.1'
+id: E_char_ウネム_容姿
+type: entity
+subtype: character
+canonical_name: ウネム
+first_appearance: ch0212
+spoiler_after: ch0212
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_ウネム_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# ウネム｜容姿
+
+## 要約
+
+黒い肌（黒檀の民）を持つ妙齢の女性。顔の上半分を水晶型アイバイザーで隠しているが、その内側には獰猛な眼光が光っている。
+
+キャラ本ページ: [[E_char_ウネム|ウネム]]
+
+<!-- AUTO:BEGIN -->
+
+初出: [212話](../../nav/ch0212.md) ｜ 容姿記述 4 件
+
+- 黒檀の民の女性で、顔の上半分を水晶型アイバイザーで隠している。 ｜ 顔・肌 ｜ 典拠: [212話](../../nav/ch0212.md)（p7160）
+  > 水晶型アイバイザーで顔の上半分を覆い隠した黒檀の民女性。
+- 妙齢の女性で、水晶のアイバイザーを装着し微笑んでいる ｜ 顔立ち・年齢・表情 ｜ 典拠: [231話](../../nav/ch0231.md)（p7639）
+  > 立体幻像の向こうで水晶のアイバイザーが特徴的な妙齢の女性が微笑んだ。
+- 黒檀の民（黒い肌）の女性 ｜ 肌 ｜ 典拠: [231話](../../nav/ch0231.md)（p7639）
+  > 黒檀の民女性として史上初めて
+- 水晶アイバイザーの内で獰猛な眼光を光らせる ｜ 目 ｜ 典拠: [231話](../../nav/ch0231.md)（p7646）
+  > 水晶アイバイザーの内側で、獰猛な眼光が閃いた。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ウネム**（ID `E_char_ウネム` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

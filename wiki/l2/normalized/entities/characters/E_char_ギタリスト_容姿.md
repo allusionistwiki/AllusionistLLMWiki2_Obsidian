@@ -1,0 +1,39 @@
+---
+title: ギタリスト（容姿）
+schema_version: '5.1'
+id: E_char_ギタリスト_容姿
+type: entity
+subtype: character
+canonical_name: ギタリスト
+first_appearance: ch0168
+spoiler_after: ch0168
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_ギタリスト_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# ギタリスト｜容姿
+
+## 要約
+
+吸血鬼であり、震える姿で描かれている。
+
+<!-- AUTO:BEGIN -->
+
+初出: [168話](../../nav/ch0168.md) ｜ 容姿記述 1 件
+
+- 震える姿。(吸血鬼ギタリスト) ｜ 震え ｜ 典拠: [168話](../../nav/ch0168.md)（p5620）
+  > ベーシストは俯き、妊婦は顔面が真っ白になり（元々白骨だが）、ギタリストは現実を受け入れられないかのように震え、二人に必死に問いかけを続ける。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
+
+この名義は L2 名前統合台帳の正規エンティティ **ギタリスト**（ID `E_char_ギタリスト` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

@@ -1,0 +1,59 @@
+---
+title: 日本語
+schema_version: '5.1'
+id: E_term_日本語
+type: entity
+subtype: terminology
+canonical_name: 日本語
+first_appearance: ch0061
+spoiler_after: ch0061
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-19'
+normalized_from: l1/entities/terminology/E_term_日本語.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 日本語
+
+太陰の【神々の図書館】に登録された新言語であり、第五階層を発信地とする流行言語として呪術効率の良さから普及している。ハイコンテクストな特性が暗号化の手段として利用される側面もある。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0061 ｜ **観測イベント**: 3 件（3 話に出現）
+
+## 代表引用
+
+> あらゆる言語を管理する太陰の【神々の図書館】に登録された新言語――【日本語】によって表記された通信道場名。（ch0061）
+> 日本語は現在第五階層を発信地とした『流行言語』だ。表意文字なので呪術を使う際には効率がいいとかなんとか。（ch0080）
+> 施設内部の表示は、日本語による暗号化が施されている。日本語がこの世界に定着しており、事実上ガロアンディアンの公用語の一つにもなりつつあるとはいっても、全ての文脈を完全に移行できているわけではない。（ch0082）
+
+## 関連クレーム
+
+- A_ch0061_parodies_E_ch0061_サイバーカラテ道場第五階層支部_is_made_of_日本語_p2298_ネット上の怪しい広告（怪しいネット広告へのパロディ）
+- A_ch0080_analogous_to_E_ch0080_日本語_defines_流行言語_p2935_日本語のグローバル化と文化的営為輸出（日本語の文化的営為輸出）
+- A_ch0082_analogous_to_E_ch0082_日本語_functions_as_暗号_p3001_プログラミング言語・暗号化技術（日本語多義性悪用による暗号化技術）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:symbolic -->
+## 象徴・比喩
+
+- **unknown**: 施設内部の表示は、日本語による暗号化が施されている。日本語がこの世界に定着しており、事実上ガロアンディアンの公用語の一つにもなりつつあるとはいっても、全ての文脈を完全に移行できているわけではない。
+- **unknown**: 日本語は現在第五階層を発信地とした『流行言語』だ。表意文字なので呪術を使う際には効率がいいとかなんとか。
+<!-- /AUTO-GENERATED:symbolic -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **日本語**（ID `E_char_日本語` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 文化 | 文化的営為 | 蓋然性高 | 2 |

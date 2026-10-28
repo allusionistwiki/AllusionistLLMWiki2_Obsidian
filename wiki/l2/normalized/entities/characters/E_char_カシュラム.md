@@ -1,0 +1,38 @@
+---
+schema_version: "5.1"
+id: E_char_カシュラム
+type: entity
+subtype: character
+canonical_name: カシュラム
+title: "カシュラム"
+first_appearance: ch0107
+spoiler_after: ch0107
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/characters/E_char_カシュラム.md
+l2_run: 20261024T1608_fc8d
+---
+
+# カシュラム
+
+蛇蝎で構成された顔を持つ少女の姿で現れ、全てを煮込んで捨てると宣言する存在である。口の中から現れた赤子の顔に内部から棘を突き刺され殺害されるが、再生者であるため復活する見込みがあるとされる。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0107 ｜ **観測イベント**: 3 件（3 話に出現）
+
+## 代表引用
+
+> 「皆殺し、皆殺し――わたくしの目の前に存在するものは全て、全て、ぐつぐつ煮込んで美味しく料理して、綺麗に盛りつけした後で捨てましょう。」（ch0107）
+> 十字の眼球が、内側から破裂した。そればかりではなく、細身の身体の内部から無数の棘が突き出て、その命と共に鮮血が流れていく。（ch0136）
+> 一時的にあの地区を纏めていたオルヴァのカリスマは惜しいが、今となっては無い物ねだりだ。まあ再生者なのでじきに復活するだろうが。（ch0137）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **カシュラムの歴史**、**カシュラムの歴史**、**カシュラムの歴史**、**カシュラムの歴史**。
+
+この名義は L2 名前統合台帳の正規エンティティ **カシュラム**（ID `E_char_カシュラム` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

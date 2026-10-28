@@ -1,0 +1,32 @@
+---
+schema_version: "5.1"
+id: ME_metatheatrical_break
+title: 脚本の批評
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "metatheatrical_break"
+domain: "Contemporary Culture"
+review_status: llm_verified
+normalized_from: l1/references/ME_metatheatrical_break.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# metatheatrical_break
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5275_parodies_E_ch5275_アキラ_thinks_不条理_p2_metatheatrical_break]] — 物語の構造そのものを演劇に見立て、登場人物が舞台袖（メタレベル）で脚本の不条理さを批評するメタフィクション的展開。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |

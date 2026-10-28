@@ -1,0 +1,48 @@
+---
+schema_version: "5.1"
+id: E_char_灰蜥蜴人
+type: entity
+subtype: character
+canonical_name: 灰蜥蜴人
+title: "灰蜥蜴人"
+first_appearance: ch5215
+spoiler_after: ch5215
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/characters/E_char_灰蜥蜴人.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 灰蜥蜴人
+
+正体不明の襲撃者としてピッチャールーの腕を斬り飛ばす存在である。頭部に二つの角があるが片方は根元で折れている（亜竜人の証）とされ、天眼を超過駆動させフィリスの動きを三秒間停止させる能力を持つ。自分の姿を見た者は皆忘れると述べ、相手の戦闘経験（時間）を奪い取る能力を発動する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5215 ｜ **観測イベント**: 5 件（1 話に出現）
+
+## 代表引用
+
+> 腕の一本が、勢いよく斬り飛ばされた。（ch5215）
+> 蜥蜴人の上位種、亜竜人（亜竜人）の証たる二つの角は片方が根元で折れ、綺麗な断面を晒していた。（ch5215）
+> フィリスの動きが停止する。 たった三秒。されど戦場の三秒は勝敗を左右しうる。（ch5215）
+> 「あたしのこの姿を見た人は、みーんな忘れちゃうんだよー」（ch5215）
+> 相手の積み重ねた時間、戦闘経験を奪い我がものとする【生命吸収】が発動。（ch5215）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **灰蜥蜴人**（ID `E_creature_灰蜥蜴人` / kind: creature / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 魔将 | フィリス | 明言 | 2 |
+| ドラゴニュート | 亜竜人 | 明言 | 1 |

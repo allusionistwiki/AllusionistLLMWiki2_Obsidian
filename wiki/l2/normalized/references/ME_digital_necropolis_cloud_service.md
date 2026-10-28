@@ -1,0 +1,32 @@
+---
+schema_version: "5.1"
+id: ME_digital_necropolis_cloud_service
+title: デジタル墓地クラウド
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "digital_necropolis_cloud_service"
+domain: "Contemporary Culture"
+review_status: llm_verified
+normalized_from: l1/references/ME_digital_necropolis_cloud_service.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# digital_necropolis_cloud_service
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5270_analogous_to_E_p40_digital_necropolis_cloud_service]] — 物理的な墓を排除し「情報的な墓地」を作るという提案は、現代的なデジタル遺品管理やクラウドサービスへの移行（メタバース的な追悼空間）を指している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |

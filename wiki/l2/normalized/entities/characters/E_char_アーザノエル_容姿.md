@@ -1,0 +1,41 @@
+---
+title: アーザノエル（容姿）
+schema_version: '5.1'
+id: E_char_アーザノエル_容姿
+type: entity
+subtype: character
+canonical_name: アーザノエル
+first_appearance: ch0120
+spoiler_after: ch0120
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_アーザノエル_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# アーザノエル｜容姿
+
+## 要約
+
+赤い髪と緑の瞳、黒銀の躯体。無表情の顔立ちで氷の少女に似た面影あり。
+
+キャラ本ページ: [[E_char_アーザノエル|アーザノエル]]
+
+<!-- AUTO:BEGIN -->
+
+初出: [120話](../../nav/ch0120.md) ｜ 容姿記述 2 件
+
+- 赤い髪と緑の瞳、黒銀の躯体を持つ。氷の少女に似た顔の造作。 ｜ 髪(赤)・瞳(緑)・躯体(黒銀)・顔立ち ｜ 典拠: [120話](../../nav/ch0120.md)（p4221）
+  > 赤い髪、緑の瞳、黒銀の躯体、そして良く観察すれば半身たる氷の少女に似ているとわかる顔の造作。
+- 無表情の顔立ちに姉に似た面影。 ｜ 表情・顔立ち ｜ 典拠: [120話](../../nav/ch0120.md)（p4221）
+  > 普段の明るさを取り払った無表情と口調からは、より姉に似た面影が覗いているように見えた。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アーザノエル**（ID `E_char_アーザノエル` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

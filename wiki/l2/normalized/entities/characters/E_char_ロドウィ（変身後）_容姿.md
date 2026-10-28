@@ -1,0 +1,43 @@
+---
+title: ロドウィ（変身後）（容姿）
+schema_version: '5.1'
+id: E_char_ロドウィ（変身後）_容姿
+type: entity
+subtype: character
+canonical_name: ロドウィ（変身後）
+first_appearance: ch0082
+spoiler_after: ch0082
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_ロドウィ（変身後）_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# ロドウィ（変身後）｜容姿
+
+## 要約
+
+身長2.5m（角含め3m）の巨大な蛙。頭頂部に赤い珊瑚の角、膨れた腹部と指の間の湿ったヒレを持ち、口から泡を出す。
+
+<!-- AUTO:BEGIN -->
+
+初出: [82話](../../nav/ch0082.md) ｜ 容姿記述 3 件
+
+- 巨大な蛙の形態 ｜ 体型/変身 ｜ 典拠: [82話](../../nav/ch0082.md)（p3027）
+  > 肉体が膨張し、巨大化し、色彩が変化し、形状が変質する。それは巨大な蛙だった。
+- 身長約2.5m（角含め3m）、頭頂部に真っ赤な珊瑚の角 ｜ 身長・角 ｜ 典拠: [82話](../../nav/ch0082.md)（p3027）
+  > 俺の感覚で言うところのメートル法で、およそ二メートル五十センチはあるだろう。頭頂部から伸びた真っ赤な珊瑚の角を含めれば三メートルに届く。
+- 上半身は蛙、膨れた腹、指の間の湿ったヒレ、口から泡を出す ｜ 体型・手/ヒレ ｜ 典拠: [82話](../../nav/ch0082.md)（p3027）
+  > 霊長類を始めとした人類種族のように直立二足歩行しているが、上半身はまるきり蛙そのものだ。膨れあがった腹と指の間のヒレはぬらぬらと湿り、口からは泡が溢れては立ち上り、次々と弾けて消えていく。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **ロドウィ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_ロドウィ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **ロドウィ(変身後)**（ID `E_char_ロドウィ(変身後)` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

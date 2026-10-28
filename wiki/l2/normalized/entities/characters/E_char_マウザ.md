@@ -1,0 +1,49 @@
+---
+schema_version: '5.1'
+id: E_char_マウザ
+type: entity
+subtype: character
+canonical_name: マウザ
+title: マウザ
+first_appearance: ch5574
+spoiler_after: ch5574
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-21'
+normalized_from: l1/entities/characters/E_char_マウザ.md
+l2_run: 20261024T1608_fc8d
+---
+
+# マウザ
+
+ボール・マウザ・クロウサーの通称であり、死にたくない本能と発狂しないための生存の真理を隠した門の管理者である。異なる世界への永遠を幻視し、存在との感応と使役を試みる試行を行う人物として登場する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5574 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> 『死にたくない。死にたくない。死んでも生存を求めねばならない。生命は本能に従い、死と生を見つめながら死と生から目を逸らさねばならない。そうしなければ、我々は存在の意味に耐え切れずに発狂するしかない』（ch5574）
+> マウザは異なる世界への永遠を幻視した。 異なる存在との感応と使役を試みた。（ch5574）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:speech -->
+## セリフ・発言
+
+- **unknown**: 『死にたくない。死にたくない。死んでも生存を求めねばならない。生命は本能に従い、死と生を見つめながら死と生から目を逸らさねばならない。そうしなければ、我々は存在の意味に耐え切れずに発狂するしかない』
+- **unknown**: マウザは異なる世界への永遠を幻視した。
+異なる存在との感応と使役を試みた。
+- **unknown**: 『死にたくない。死にたくない。死んでも生存を求めねばならない。生命は本能に従い、死と生を見つめながら死と生から目を逸らさねばならない。そうしなければ、我々は存在の意味に耐え切れずに発狂するしかない』
+- **unknown**: マウザは異なる世界への永遠を幻視した。
+
+<!-- /AUTO-GENERATED:speech -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **マウザの親族**、**マウザの親族**、**マウザの親族**。
+
+この名義は L2 名前統合台帳の正規エンティティ **マウザ**（ID `E_char_マウザ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

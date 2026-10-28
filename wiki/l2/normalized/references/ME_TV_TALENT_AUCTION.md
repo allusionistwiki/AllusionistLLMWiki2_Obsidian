@@ -1,0 +1,32 @@
+---
+schema_version: "5.1"
+id: ME_TV_TALENT_AUCTION
+title: オーディション淘汰
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "TV_TALENT_AUCTION"
+domain: "Contemporary Culture"
+review_status: llm_verified
+normalized_from: l1/references/ME_TV_TALENT_AUCTION.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# TV_TALENT_AUCTION
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5450_analogous_to_E_p8_p13_TV_TALENT_AUCTION]] — 多数の候補者の中から一機だけを選別し他を廃棄する試験は、価値ある存在と見なされない個体が即座に消滅する残酷な淘汰システム、および「不良品」としての自己認識を象徴している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |

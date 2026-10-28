@@ -1,0 +1,47 @@
+---
+title: ウィッチオーダー (No.10)（容姿）
+schema_version: '5.1'
+id: E_char_ウィッチオーダー_(No.10)_容姿
+type: entity
+subtype: character
+canonical_name: ウィッチオーダー (No.10)
+first_appearance: ch0024
+spoiler_after: ch0024
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_ウィッチオーダー_(No.10)_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# ウィッチオーダー (No.10)｜容姿
+
+## 要約
+
+鮮やかな深紅を基調とした義肢を装着している。
+
+<!-- AUTO:BEGIN -->
+
+初出: [24話](../../nav/ch0024.md) ｜ 容姿記述 1 件
+
+- 鮮やかな深紅を基調とした義肢。 ｜ 義肢・色 ｜ 典拠: [24話](../../nav/ch0024.md)（p1128）
+  > 七十一のうち、【塔】によって使用が制限されている上位一桁の形態を除けば最上位となる十番の義肢。鮮やかな深紅を基調とした義肢には、一見して特殊な兵装は存在しない。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ウィッチオーダー**（ID `E_org_ウィッチオーダー` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| ウィッチオーダー(no.10) | ウィッチオーダー | 表記一致 | 2 |
+| 星見の塔 | 塔 | 明言 | 1 |

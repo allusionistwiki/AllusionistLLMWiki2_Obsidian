@@ -1,0 +1,49 @@
+---
+title: 外世界人（女）（容姿）
+schema_version: '5.1'
+id: E_char_外世界人（女）_容姿
+type: entity
+subtype: character
+canonical_name: 外世界人（女）
+first_appearance: ch0091
+spoiler_after: ch0091
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_外世界人（女）_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 外世界人（女）｜容姿
+
+## 要約
+
+脂肪や筋肉で構成された巨大で丸い巨体。
+
+<!-- AUTO:BEGIN -->
+
+初出: [91話](../../nav/ch0091.md) ｜ 容姿記述 2 件
+
+- 超箒技術による身体変化の描写 ｜ 体格・構成（脂肪、筋肉、超箒技術が凝縮された巨大質量・怪物的） ｜ 典拠: [91話](../../nav/ch0091.md)（3430）
+  > 心温まるキュトスの姉妹同士のやり取りから遠く離れて、ある【扉】の一つから、脂肪と筋肉、超箒技術が凝縮された怪物的な巨大質量が古代世界に落下していた。
+- 落下後の巨体 ｜ 体型（丸く、大きく） ｜ 典拠: [91話](../../nav/ch0091.md)（3431）
+  > それは丸く、重く、そしてひたすらに大きかった。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ケイト**（ID `E_char_ケイト` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 杖 | 箒 | 明言 | 3 |
+| 姉妹 | キュトスの姉妹 | 明言 | 1 |

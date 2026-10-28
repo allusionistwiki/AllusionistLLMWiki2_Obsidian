@@ -1,0 +1,37 @@
+---
+title: 炉獣（容姿）
+schema_version: '5.1'
+id: E_char_炉獣_容姿
+type: entity
+subtype: character
+canonical_name: 炉獣
+first_appearance: ch0206
+spoiler_after: ch0206
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_炉獣_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 炉獣｜容姿
+
+## 要約
+
+鼻先が丸く、喉をごろごろ鳴らす。背中には大きな炉甲を載せている。
+
+<!-- AUTO:BEGIN -->
+
+初出: [206話](../../nav/ch0206.md) ｜ 容姿記述 1 件
+
+- 鼻先が丸く、喉をごろごろ鳴らし、背中に大きな炉甲を載せている ｜ 鼻先・鳴き声・背中の炉甲 ｜ 典拠: [206話](../../nav/ch0206.md)（p6904）
+  > 鼻先の丸い炉獣が喉をごろごろと鳴らしながら背中に載せた大きな炉甲を加熱させた。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **炉獣**（ID `E_term_炉獣` / kind: creature / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

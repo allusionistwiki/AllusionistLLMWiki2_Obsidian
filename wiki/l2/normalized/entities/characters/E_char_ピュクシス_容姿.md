@@ -1,0 +1,54 @@
+---
+title: ピュクシス（容姿）
+schema_version: '5.1'
+id: E_char_ピュクシス_容姿
+type: entity
+subtype: character
+canonical_name: ピュクシス
+first_appearance: ch0272
+spoiler_after: ch0272
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_ピュクシス_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# ピュクシス｜容姿
+
+## 要約
+
+くたびれた白衣を纏った研究者スタイル。眼鏡着用。
+
+キャラ本ページ: [[E_char_ピュクシス|ピュクシス]]
+
+<!-- AUTO:BEGIN -->
+
+初出: [272話](../../nav/ch0272.md) ｜ 容姿記述 3 件
+
+- くたびれた白衣を纏っている ｜ 服装 ｜ 典拠: [272話](../../nav/ch0272.md)（p8430）
+  > くたびれた白衣姿でこの場に現れたのは
+- 眼鏡を着用した白衣の研究者スタイル ｜ 服装・顔立ち ｜ 典拠: [272話](../../nav/ch0272.md)（p8431）
+  > 眼鏡に白衣という飾り気のない研究者スタイルをいつでも貫くこの女性は
+- 白衣を纏っている ｜ 服装 ｜ 典拠: [272話](../../nav/ch0272.md)（p8446）
+  > 白衣がはためき、魔女の頭上で空間が歪む。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この実体が所有する下位エンティティ: **ピュクシスの推論方法**、**ピュクシスの推論方法**、**ピュクシス(ガルズの幻像**、**ピュクシスガルズの幻像**、**ピュクシスの推論方法**、**ピュクシス(ガルズの幻像**、**ピュクシスガルズの幻像**、**ピュクシスの推論方法**、**ピュクシス(ガルズの幻像**、**ピュクシスガルズの幻像**。
+
+この名義は L2 名前統合台帳の正規エンティティ **ピュクシス**（ID `E_char_ピュクシス` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| ラーゼフ | ピュクシス | 明言 | 4 |

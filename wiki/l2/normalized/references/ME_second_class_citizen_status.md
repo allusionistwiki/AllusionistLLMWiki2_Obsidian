@@ -1,0 +1,32 @@
+---
+schema_version: "5.1"
+id: ME_second_class_citizen_status
+title: 市民権なき存在
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "second_class_citizen_status"
+domain: "Contemporary Culture"
+review_status: llm_verified
+normalized_from: l1/references/ME_second_class_citizen_status.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# second_class_citizen_status
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5023_analogous_to_E_p49_second_class_citizen_status]] — 上にも下にも属さず、住人として認められない主人公の地位は、国籍を持たない難民や無国籍者、あるいは社会制度から排除された「市民権なき存在」の法的・社会的孤立を指している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |

@@ -1,0 +1,44 @@
+---
+title: "ホワイト"
+schema_version: "5.1"
+id: E_item_ホワイト
+type: entity
+subtype: item
+canonical_name: ホワイト
+first_appearance: ch0040
+spoiler_after: ch0040
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/items/E_item_ホワイト.md
+l2_run: 20261024T1608_fc8d
+---
+
+# ホワイト
+
+カラス型の機体であり、ポイントブレイクレンジを用いた強引な制御で曲線軌道を描くことが可能である。猫科魔獣の子の爆弾を発動させ、炸裂した熱量と爆風で向かい風に逆らうように雲を押し潰す機能を持つ。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0040 ｜ **観測イベント**: 2 件（1 話に出現）
+
+## 代表引用
+
+> ポイントブレイクレンジで強引に左スラスタを噴射させ、悲鳴を上げるカラス型の機体を強引に制御して曲線の軌道を描く。脳みそがぐるぐる回る。精神が悲鳴を上げる。（ch0040）
+> 散逸していく雲の粒子。強い向かい風に流されそうなその瞬間を狙い澄まして、ホワイトは猫科魔獣の子の爆弾を発動させ ボム る。　炸裂した巨大な熱量はしかし希薄化した敵には届かない。だが、付随して発生した爆風は向かい風に逆らうようにして雲を押し潰した。（ch0040）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ホワイト**（ID `E_char_ホワイト` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 虎 | 猫科魔獣 | 蓋然性高 | 2 |

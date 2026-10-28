@@ -1,0 +1,45 @@
+---
+title: アキラ（チリアット身体使用時）（容姿）
+schema_version: '5.1'
+id: E_char_アキラ（チリアット身体使用時）_容姿
+type: entity
+subtype: character
+canonical_name: アキラ（チリアット身体使用時）
+first_appearance: ch0091
+spoiler_after: ch0091
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_アキラ（チリアット身体使用時）_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# アキラ（チリアット身体使用時）｜容姿
+
+## 要約
+
+牙猪マレブランケの四本の牙と巨大な鼻面を持つ頭部を有する。身体は牙猪の状態だが、左腕のみ霊長類系の人間の腕が挿げ替えられている。
+
+<!-- AUTO:BEGIN -->
+
+初出: [91話](../../nav/ch0091.md) ｜ 容姿記述 4 件
+
+- 牙猪マレブランケの身体 ｜ 頭部（四本の牙、牙猪の特徴） ｜ 典拠: [91話](../../nav/ch0091.md)（3417）
+  > 四本の牙が捻れて自らの頭部へと向かうという、特徴的な頭部。
+- 牙猪の顔 ｜ 鼻面（巨大） ｜ 典拠: [91話](../../nav/ch0091.md)（3417）
+  > 巨大な鼻面を見て霊長類系だと考える者は少ないだろう。
+- マレブランケの一人チリアットの身体 ｜ 顔（牙猪） ｜ 典拠: [91話](../../nav/ch0091.md)（3417）
+  > その顔は、紛れもない牙猪のもの。
+- 牙猪の身体に人間の左腕が移植されている状態 ｜ 左腕（霊長類系、挿げ替えられている） ｜ 典拠: [91話](../../nav/ch0091.md)（3417）
+  > 何故か左腕だけが挿げ替えられたように霊長類系の――おそらくは失われたはずの俺の左腕になっていた。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は **アキラ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アキラ`。
+
+この名義は L2 名前統合台帳の正規エンティティ **アキラ(チリアット身体使用時)**（ID `E_char_アキラ(チリアット身体使用時)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

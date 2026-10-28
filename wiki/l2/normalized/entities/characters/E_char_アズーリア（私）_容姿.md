@@ -1,0 +1,55 @@
+---
+title: アズーリア（私）（容姿）
+schema_version: '5.1'
+id: E_char_アズーリア（私）_容姿
+type: entity
+subtype: character
+canonical_name: アズーリア（私）
+first_appearance: ch0047
+spoiler_after: ch0047
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_アズーリア（私）_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# アズ（カイン）｜容姿
+
+## 要約
+
+混じりけのない黒の衣服（黒衣）。（服装） ／ 全身を覆う黒い衣を纏っている（服装（黒衣）） ／ 背が低く、エストに対して背伸びをする（身長（低い）） ／ 闇色の神働装甲を展開している。（義肢/装甲）
+
+<!-- AUTO:BEGIN -->
+
+初出: [47話](../../nav/ch0047.md) ｜ 容姿記述 4 件
+
+- 混じりけのない黒の衣服（黒衣）。 ｜ 服装 ｜ 典拠: [47話](../../nav/ch0047.md)（p1907）
+  > カインが混じりけのない黒で、ハルがやや青みがかかった蒼黒。エストはやや緑色に近い黒だった。
+- 全身を覆う黒い衣を纏っている ｜ 服装（黒衣） ｜ 典拠: [177話](../../nav/ch0177.md)（p5866）
+  > 全身をすっぽり覆う黒衣もここではさほど目立たない
+- 背が低く、エストに対して背伸びをする ｜ 身長（低い） ｜ 典拠: [177話](../../nav/ch0177.md)（p5868）
+  > 背が低いカインはちょっと背伸び
+- 闇色の神働装甲を展開している。 ｜ 義肢/装甲 ｜ 典拠: [211話](../../nav/ch0211.md)（p7119）
+  > 既に闇色の神働装甲は展開済み。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **アズ（カイン）**（ID `E_char_アズ_カイン_` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 私 | カイン | 蓋然性高 | 5 |
+| アズーリア | アズ | 蓋然性高 | 3 |
+| プリエステラ | エスト | 明言 | 3 |
+| ハルベルト | ハル | 明言 | 1 |

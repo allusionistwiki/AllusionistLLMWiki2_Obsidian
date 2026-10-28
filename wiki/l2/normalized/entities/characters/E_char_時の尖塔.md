@@ -1,0 +1,47 @@
+---
+title: "時の尖塔"
+schema_version: "5.1"
+id: E_char_時の尖塔
+type: entity
+subtype: character
+canonical_name: 時の尖塔
+first_appearance: ch0033
+spoiler_after: ch0033
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/characters/E_char_時の尖塔.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 時の尖塔
+
+世界槍の穂先部分であり、クナータが完全に掌握している領域である。その領域内ではほぼ全能の力を振るえるとされ、ガルズは他のフィリスに戦いを任せ、クナータがいるこの場所へ向かった。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0033 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 地上に露出した世界槍の穂先部分はクナータが完全に掌握する【時の尖塔】だ。【松明の騎士団】の総本部であり、人類最後の砦でもある。　槍の穂先に当たるその部分は地獄のフィリスですら掌握できなかった世界槍の核が存在し、クナータは己の領域の内部でならほぼ全能（ch0033）
+> 「さて、サジェリミーナ、クエスドレム、ダエモデク。ここは他のフィリスに任せて、僕たちは時の尖塔に向かうとしよう。じきに追いついてくるだろうしね」ガルズはそう言うと、浮遊しながら会場を去っていく。目指すは時の尖塔、その一番奥で守られているクナータクナ（ch0066）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **時の尖塔**（ID `E_char_時の尖塔` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 魔将 | フィリス | 明言 | 3 |
+| 聖女 | クナータ | 明言 | 2 |
+| 聖女様 | クナータ | 明言 | 2 |
+| 聖女クナータ | クナータ | 明言 | 1 |

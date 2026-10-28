@@ -1,0 +1,37 @@
+---
+title: ダヴン・ゴーリー（容姿）
+schema_version: '5.1'
+id: E_char_ダヴン・ゴーリー_容姿
+type: entity
+subtype: character
+canonical_name: ダヴン・ゴーリー
+first_appearance: ch0204
+spoiler_after: ch0204
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_ダヴン・ゴーリー_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# ダヴン・ゴーリー｜容姿
+
+## 要約
+
+筋骨隆々の巨漢で口から耳まで覆う鉄のマスクを着用。右側headを剃り上げ、右半身に昆虫の刺青がある。
+
+<!-- AUTO:BEGIN -->
+
+初出: [204話](../../nav/ch0204.md) ｜ 容姿記述 1 件
+
+- 筋骨隆々の巨漢。口から耳まで覆う鉄のマスクを着用。右側 head を剃り上げている。頭から手指に至る右半身に昆虫や虫の刺青がある ｜ 体格・顔/頭部の装飾・頭髪・刺青 ｜ 典拠: [204話](../../nav/ch0204.md)（p6846）
+  > 上方勢力から送りこまれた迷宮刑罰者たちのリーダー、ダヴン・ゴーリーは筋骨隆々とした巨漢で、典型的な『ノロ＝テリスの鉄願の民』だ。目に付くのは口から耳までを完全に覆い尽くす鉄のマスク。そして右半身の派手な刺青だった。頭髪の右側をつるりと剃り上げ、頭から肩、上腕から指先までを蜘蛛や百足、長虫や毒蛾といった刺青で覆っている。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ダヴン・ゴーリー**（ID `E_char_ダヴン・ゴーリー` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

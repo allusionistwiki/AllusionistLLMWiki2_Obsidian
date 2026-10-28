@@ -1,0 +1,50 @@
+---
+title: "ユネクティア"
+schema_version: "5.1"
+id: E_item_ユネクティア
+type: entity
+subtype: item
+canonical_name: ユネクティア
+first_appearance: ch0068
+spoiler_after: ch0068
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/items/E_item_ユネクティア.md
+l2_run: 20261024T1608_fc8d
+---
+
+# ユネクティア
+
+無数の石版が落下して環状に並ぶ形状を形成するアイテムである。左手から伸びる葉が月光を反射する剣となるなど、異形の怪物に乗った黒衣のフィリスの出現に関連する。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch0068 ｜ **観測イベント**: 3 件（1 話に出現）
+
+## 代表引用
+
+> 落下してくるのは無数の石版だ。それらは次々と落下してある一点で停止すると、環状に並んで何らかの意味がありそうな形状を作り出す。（ch0068）
+> 中身の無い黒衣が異形の怪物に乗ったフィリスがカインの目の前に出現する。（ch0068）
+> その左手から伸びるのは、暗い緑色をした細長い葉。 「これでもクエスドレム様の『手札』が参照する対象の中では最強の『切り札』と呼ばれていたんだよ――文字通り、切るのが得意でね」 無数の触手を一瞬で引き裂いて、『槍』とは在り方を異にする『剣』が（ch0068）
+
+## 関連クレーム
+
+- A_ch0068_alludes_to_E_ch0068_ユネクティア_makes_環状列石_p2534_ストーンサークル（ストーンサークルの呪力収束）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ユネクティア**（ID `E_char_ユネクティア` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 魔将 | フィリス | 明言 | 2 |
+| 私 | カイン | 蓋然性高 | 1 |

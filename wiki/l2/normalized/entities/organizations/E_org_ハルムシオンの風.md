@@ -1,0 +1,45 @@
+---
+schema_version: '5.1'
+id: E_org_ハルムシオンの風
+type: entity
+subtype: organization
+canonical_name: ハルムシオンの風
+title: ハルムシオンの風
+first_appearance: ch0220
+spoiler_after: ch0220
+document_status: active
+review_status: llm_verified
+created: '2026-09-30'
+updated: '2026-10-19'
+normalized_from: l1/entities/organizations/E_org_ハルムシオンの風.md
+l2_run: 20261024T1608_fc8d
+---
+
+# ハルムシオンの風
+
+第五階層辺境区における四大組織の一つであり、黒檀の民グループの頭目が率いる組織である。本拠は第五階層のかりそめの宿ではなく、大地に根付いた亜大陸風の歪んだ建築様式を持つ『実建築』である。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5519 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 『ハルムシオンの風』。亜大陸からやってきた黒檀の民たちが作り上げた探索者集団にして民族的な互助組織。その本拠に潜入した猫姫は息を潜めて内部の様子を探っていた。（ch5519）
+> 襲撃地点からやや離れた木立に身を潜めるのは、『ハルムシオンの風』と呼ばれる亜大陸出身の黒檀の民である。（ch5532）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:visual -->
+## 視覚的記述
+
+- **unknown**: 第五階層内で自在に作り出せるかりそめの宿ではなく、大地に根付いた棲家。しかしその外観は膨れ上がった出来損ないの砦もどきと言ったところ。
+- **unknown**: 第五階層内で自在に作り出せるかりそめの宿ではなく、大地に根付いた棲家。しかしその外観は膨れ上がった出来損ないの砦もどきと言ったところ。
+- **unknown**: 第五階層内で自在に作り出せるかりそめの宿ではなく、大地に根付いた棲家。しかしその外観は膨れ上がった出来損ないの砦もどきと言ったところ。
+
+<!-- /AUTO-GENERATED:visual -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **ハルムシオンの風**（ID `E_char_ハルムシオンの風` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->

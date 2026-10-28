@@ -1,0 +1,52 @@
+---
+title: 牙猪（チリアット）（容姿）
+schema_version: '5.1'
+id: E_char_牙猪（チリアット）_容姿
+type: entity
+subtype: character
+canonical_name: 牙猪（チリアット）
+first_appearance: ch0096
+spoiler_after: ch0096
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_牙猪（チリアット）_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 牙猪（チリアット）｜容姿
+
+## 要約
+
+人の皮のきぐるみを着用。胸や腹に無事な箇所がないほどの激しい損傷を負い、不安そうな声を上げる。
+
+<!-- AUTO:BEGIN -->
+
+初出: [96話](../../nav/ch0096.md) ｜ 容姿記述 4 件
+
+- 苦い顔、きぐるみを着用 ｜ 表情・きぐるみ ｜ 典拠: [96話](../../nav/ch0096.md)（p3500）
+  > 牙猪が苦い顔で見ているもの。すなわち、大きなきぐるみである。
+- 人の皮のきぐるみ ｜ きぐるみ ｜ 典拠: [96話](../../nav/ch0096.md)（p3500）
+  > 中に人が入れる大きさの、人の皮だ。死体から剥いだ皮をつなぎ合わせて作ったその箒には、ひとたび中に入ればたとえ種族が違えども外からは本物そっくりに見えてしまうという神秘的な力が働いている。
+- 不安を示す声と態度 ｜ 声・態度 ｜ 典拠: [96話](../../nav/ch0096.md)（p3501）
+  > 牙猪の声と態度に不安が表れる。
+- 胸や腹で無事な箇所が存在しないほどの激しい損傷を負っている。 ｜ 体格・傷 ｜ 典拠: [139話](../../nav/ch0139.md)（p4731）
+  > ゴールを守る九番の牙猪などは仲間チリアットを庇うために爆発寸前のボールに覆い被さった為、胸や腹で無事な箇所が存在しないほどだった。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **牙猪（チリアット）**（ID `E_char_牙猪_チリアット_` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 呪具 | 箒 | 明言 | 1 |

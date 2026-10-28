@@ -1,0 +1,40 @@
+---
+schema_version: "5.1"
+id: A_ch5471_analogous_to_E_p32_gacha_game_mechanic
+title: ガチャメカニクスへの欲望投影
+
+type: analytical_claim
+created: "2026-10-21"
+subject: "[[E_ch5471_抗齢化処置_defines_寿命格差是正政策_p106]]"
+predicate: analogous_to
+object: "[[ME_gacha_game_mechanic]]"
+epistemic_status: hypothesized
+review_status: llm_verified
+document_status: draft
+spoiler_after: ch5471
+evidence_strength: strong
+provenance:
+  proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
+  reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
+normalized_from: l1/claims/A_ch5471_analogous_to_E_p32_gacha_game_mechanic.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
+
+# 第五階層における『ブリアー（ブリアー）』による猫の具現化は、現実世界での物理的制約を解き放ち、ユーザーの欲望を直接的にデジタル空間（アストラル界ネット）へ投影する行為であり、創作と消費の境界を消滅させるメタフィクション的な自己表現装置として機能している。
+
+> この猫カフェなる空間では第五階層の『ブリアー（ブリアー）』を利用して客がそれぞれ想像した『猫ちゃん』を具現化、好き勝手に可愛がったり自慢しあったり念写してアストラル界ネットに上げたりしているらしい。壁のコルクボードにはこれまで顧客がブリアーしてきた『猫ちゃん画像』が貼り付けられている。（p32）
+
+**審査（LLM 代替）**: 「ガチャ」という具体的ゲームメカニクスへの引喩は原文の記述（想像した猫の具現化）から飛躍しており、作品内の「アストラル界ネット」や「ブリアー」というファンタジー的構造との整合性で再定義すべき。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| クラフト | ブリアー | 明言 | 4 |
+| アストラル | アストラル界 | 明言 | 3 |
+| 創造 | ブリアー | 明言 | 2 |

@@ -1,0 +1,32 @@
+---
+schema_version: "5.1"
+id: ME_sisyphus_labors
+title: シシュポスの労働
+type: external_reference
+created: "2026-10-21"
+subtype: popular_culture
+canonical_name: "sisyphus_labors"
+domain: "Contemporary Culture"
+review_status: llm_verified
+normalized_from: l1/references/ME_sisyphus_labors.md
+l2_run: 20261024T1608_fc8d
+---
+<!-- LLM-GENERATED -->
+<!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
+
+# sisyphus_labors
+
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+
+## 本作からの参照 (1 件)
+
+- [[A_ch5575_structurally_matches_E_p35_sisyphus_labors]] — 大海の水を蒸発させる比喩は、絶対的な権力に対して個人が挑む行為の物理的・論理的な不可能性を示し、試練の過酷さを強調している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| アナロジー | アナロギア | 蓋然性高 | 1 |

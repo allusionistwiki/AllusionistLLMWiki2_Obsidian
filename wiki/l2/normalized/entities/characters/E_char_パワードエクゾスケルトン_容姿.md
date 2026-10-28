@@ -1,0 +1,52 @@
+---
+title: パワードエクゾスケルトン（容姿）
+schema_version: '5.1'
+id: E_char_パワードエクゾスケルトン_容姿
+type: entity
+subtype: character
+canonical_name: パワードエクゾスケルトン
+first_appearance: ch0011
+spoiler_after: ch0011
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_パワードエクゾスケルトン_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# パワードエクゾスケルトン｜容姿
+
+## 要約
+
+カインを模した頭部と鋭い耳を持つ重装甲。目が光り赤色基調に変わり、砲と腕を持つ太い脚を備える。
+
+<!-- AUTO:BEGIN -->
+
+初出: [11話](../../nav/ch0011.md) ｜ 容姿記述 4 件
+
+- カインを模したデフォルメ頭部を持つ重装甲 ｜ 装甲・頭部 ｜ 典拠: [11話](../../nav/ch0011.md)（p489）
+  > ディティールの多い重装甲、左右の腕と腰に据え付けられた機銃と大口径の砲、カインか犬を模したと思われる頭部はデフォルメされてどことなく非生物的。
+- 鋭く立った耳部 ｜ 頭部 ｜ 典拠: [11話](../../nav/ch0011.md)（p489）
+  > ぴんと立った耳は集音装置かレーダーか。
+- 目が光り、全身が赤色基調に変化 ｜ 目・全身 ｜ 典拠: [11話](../../nav/ch0011.md)（p490）
+  > 両目が妖しく光ると、材質の特性によるものか、モノトーンの全身が赤を基調とした彩度の高い色に染まっていく。
+- 砲と腕を持つ太い脚 ｜ 手足 ｜ 典拠: [11話](../../nav/ch0011.md)（p490）
+  > 両腕と腰ががっちりと砲を固定し、同時に丸太のように太い脚が床を重々しく踏みしめる。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **パワードエクゾスケルトン**（ID `E_item_パワードエクゾスケルトン` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 狼 | カイン | 蓋然性高 | 3 |

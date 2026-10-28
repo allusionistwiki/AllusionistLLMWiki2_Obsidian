@@ -1,0 +1,51 @@
+---
+schema_version: "5.1"
+id: E_char_油断
+type: entity
+subtype: character
+canonical_name: 油断
+title: "油断"
+first_appearance: ch5136
+spoiler_after: ch5136
+document_status: active
+review_status: llm_verified
+created: "2026-09-30"
+normalized_from: l1/entities/characters/E_char_油断.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 油断
+
+自分が強くなっているという自信に満ち溢れ、危険な兆候を見落とすような心理的隙を表す概念である。極限状態や恍惚の中で自宅のように自由に振る舞い、周囲を怖がらせる原因となっており、キャラクターの脆弱性や成長の過程を示唆している。
+
+<!-- AUTO:BEGIN -->
+**初出**: ch5136 ｜ **観測イベント**: 2 件（2 話に出現）
+
+## 代表引用
+
+> 思えば、その時にはもう危険な兆候はあったのかもしれない。しかしその時のカインは自分が着実に強くなっているという自信に満ちあふれていて――端的に言って、油断していた。（ch5136）
+> 一番大きいのはカインの油断。まるで自宅でするように、もの凄く自由に振る舞ってしまった。周囲はみんな引いている。（ch5182）
+
+<!-- AUTO:END -->
+
+<!-- AUTO-REL:BEGIN -->
+## 関係キャラクター
+
+- [[E_char_アキラ|アキラ]] — 関連(受)（2 観測）
+
+<!-- AUTO-REL:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **油断**（ID `E_char_油断` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261024T1608_fc8d）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 私 | カイン | 蓋然性高 | 2 |

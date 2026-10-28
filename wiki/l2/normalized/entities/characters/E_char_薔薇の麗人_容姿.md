@@ -1,0 +1,41 @@
+---
+title: 薔薇の麗人（容姿）
+schema_version: '5.1'
+id: E_char_薔薇の麗人_容姿
+type: entity
+subtype: character
+canonical_name: 薔薇の麗人
+first_appearance: ch0202
+spoiler_after: ch0202
+document_status: active
+review_status: llm_verified
+created: '2026-10-13'
+updated: '2026-10-13'
+description: キャラ容姿描写ページ
+normalized_from: l1/entities/characters/E_char_薔薇の麗人_容姿.md
+l2_run: 20261024T1608_fc8d
+---
+
+# 薔薇の麗人｜容姿
+
+## 要約
+
+美しく薔薇色にかんばせは花のようにほころぶ。顔が血のような鮮やかな八重咲き大輪の赤薔薇に変容し、手足は多肉質の茎や棘に塗れた枝、根のような姿になる。
+
+キャラ本ページ: [[E_char_薔薇の麗人|薔薇の麗人]]
+
+<!-- AUTO:BEGIN -->
+
+初出: [202話](../../nav/ch0202.md) ｜ 容姿記述 2 件
+
+- 美しい顔が薔薇色で花のようになる。 ｜ 美しいかんばせ・薔薇色・花のようにほころぶ ｜ 典拠: [202話](../../nav/ch0202.md)（p6804）
+  > 美しいかんばせは薔薇色に染まり、花のようにほころんでいった。
+- 顔が薔薇に変容し、手足は茎・枝・根のような花の姿になる。 ｜ 麗人の顔・血のように鮮やかな大輪の赤薔薇・八重咲き・主幹・多肉質の茎・腕が棘に塗れた枝に変じる ｜ 典拠: [202話](../../nav/ch0202.md)（p6804）
+  > 麗人の顔が咲き乱れ、血のように鮮やかな大輪の赤薔薇へと変容する。八重咲きとなった頭部の下には首から胴まで一繋がりとなった主幹。多肉質の茎が絡み合うような異形ながら、躍動的な生命力を感じさせる。腕は棘に塗れた枝に変じて茨の鞭と一体化して境目はもはやわからない。鋸のような歯牙の小葉は衣服の装飾にも似て美しく、両足は根となって大地に深く食い込んでいた。
+<!-- AUTO:END -->
+
+<!-- AUTO-GENERATED:l2ref -->
+## L2 台帳対応
+
+この名義は L2 名前統合台帳の正規エンティティ **薔薇の麗人**（ID `E_char_薔薇の麗人` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](/AllusionistWiki2/reflections/RF_l2_aliases_index)、統合グループ一覧は [名相関索引](/AllusionistWiki2/reflections/RF_l2_correlations) を参照。
+<!-- /AUTO-GENERATED:l2ref -->
