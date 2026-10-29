@@ -15,11 +15,25 @@ L1 wiki の全ページに**名前統合・正規化処理を適用した解析�
 
 ## 正規化 wiki（メイン構造）
 
-L1 全 15981 ページのミラー（同一相対パス）。高確度帯の别名→代表名のみ本文を置換し、各ページ末尾に置換監査表（元名義→代表名・確度・件数）を付けています。要検証・needs 系は置換せず注記に留め、過剰統合を避けています。
+L1 全 15982 ページのミラー（同一相対パス）。高確度帯の别名→代表名のみ本文を置換し、各ページ末尾に置換監査表（元名義→代表名・確度・件数）を付けています。要検証・needs 系は置換せず注記に留め、過剰統合を避けています。
 
-- 正規化 wiki 索引: [https://allusionistwiki.github.io/AllusionistWiki2/L2/](https://allusionistwiki.github.io/AllusionistWiki2/L2/)
-- 登場人物（正規化後）: [https://allusionistwiki.github.io/AllusionistWiki2/L2/characters/](https://allusionistwiki.github.io/AllusionistWiki2/L2/characters/)
-- 容姿描写（正規化後）: [https://allusionistwiki.github.io/AllusionistWiki2/L2/appearances/](https://allusionistwiki.github.io/AllusionistWiki2/L2/appearances/)
+## 入り口
+
+L1 と同一のセクション構造です（内容は名前統合・正規化処理適用済み）。
+
+- [正規化索引（normalized.md）](https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized.html) — 名前統合の監査・統計・代表名表
+- [話ナビゲーション](nav/index.md) — 話ごとのアナロジー・伏線一覧（正規化後）
+- [登場人物一覧](characters/index.md) — キャラクター入口（正規化後）
+- [関係性マップ](relationships/index.md) — キャラ間の関係グラフ（正規化後）
+- [エンティティ総覧](entities/index.md) — 用語・組織・アイテム・モチーフ（正規化後）
+- [アナロジークレーム全集](claims/index.md) — 引喩の主張すべて（正規化後）
+- [伏線台帳](mysteries/index.md) — 仕掛けられた謎の追跡（正規化後）
+- [観測章索引](episodes/index.md) — 章別観測索引（正規化後）
+- [アーカイブ](arcs/index.md) — 章アーク構造
+- [外部参照](references/index.md) — 引喩先の現代文化・思想の解説（正規化後）
+- [「今はまだ」先延ばし索引](deferrals/index.md) — 原文中の先延ばしモティーフ（正規化後）
+- [キャラ容姿描写索引](appearances/index.md) — 容姿・外見描写のキャラ別索引（正規化後）
+- 台帳 run: `20261029T0843_c8bb`（生成規則の中心）
 
 ## 生成規則（台帳・索引）— 本 wiki の一要素
 
