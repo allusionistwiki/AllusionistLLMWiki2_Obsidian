@@ -9,7 +9,7 @@ canonical_name: "murphys_law"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_murphys_law.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5137_parodies_E_p12_murphys_law]] — ハルベルトベルトの発言は、マーフィーの法則をファンタジー世界内の「呪術的因果律」として再解釈させるオカルト・パラドックスの提示である。
+- [[A_ch5137_parodies_E_p12_murphys_law]] — お姉様の発言は、マーフィーの法則をファンタジー世界内の「呪術的因果律」として再解釈させるオカルト・パラドックスの提示である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| ハル | ハルベルト | 高 | 1 |
+| ハルベルト | お姉様 | 明言 | 1 |

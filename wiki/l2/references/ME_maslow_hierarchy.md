@@ -9,7 +9,7 @@ canonical_name: "maslow_hierarchy"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_maslow_hierarchy.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5303_parodies_E_p30-p42_maslow_hierarchy]] — 六王が挙げる「愛情」「道徳」等のリストは、マズローの欲求階層説を権力維持のための条件として引用・変換した可能性を示唆する。
+- [[A_ch5303_parodies_E_p30-p42_maslow_hierarchy]] — 六霊媒が挙げる「愛情」「道徳」等のリストは、マズローの欲求階層説を権力維持のための条件として引用・変換した可能性を示唆する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「王」→ カーティス（要検証）
+| 王 | 霊媒 | 明言 | 1 |

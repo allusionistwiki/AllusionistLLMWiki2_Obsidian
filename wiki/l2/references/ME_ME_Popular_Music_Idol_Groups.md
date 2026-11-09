@@ -9,7 +9,7 @@ canonical_name: "ME_Popular_Music_Idol_Groups"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ME_Popular_Music_Idol_Groups.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -25,7 +25,7 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
@@ -34,4 +34,3 @@ l2_run: 20261029T0843_c8bb
 
 注記（置換しない）:
 - 未置換（要検証）: 「アイドル」→ ダウザール（要検証）
-- 未置換（要検証）: 「ちびシューラ」→ きぐるみの魔女（要検証）

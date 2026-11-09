@@ -9,7 +9,7 @@ canonical_name: "metatextual_narrative_structure"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_metatextual_narrative_structure.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5081_alludes_to_E_ch5081_世界_appears_as_白と黒だけの空間_p1_metatextual_narrative_structure]] — コルセスカが世界をメタテクストやアリュージョン系の神働術として記述し、物語のセオリーに従って現実が変容する現象を指摘している。
+- [[A_ch5081_alludes_to_E_ch5081_世界_appears_as_白と黒だけの空間_p1_metatextual_narrative_structure]] — 『上』が世界をメタテクストやアリュージョン系の神働術として記述し、物語のセオリーに従って現実が変容する現象を指摘している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| コルセスカ | 『上』 | 明言 | 1 |

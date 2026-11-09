@@ -9,7 +9,7 @@ canonical_name: "Intellectual_Hyperfocus"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Intellectual_Hyperfocus.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5135_structurally_matches_E_ch5135_ハルベルト_other_専門分野での流暢さ_p24_Intellectual_Hyperfocus]] — 専門分野での流暢さという描写は、「名前（専門用語・概念）」を掌握することで初めて自己の輪郭（アイデンティティ）が明確になるという、作品内の呪術原理（宣名＝自己認識）をキャラクターの性格描写を通じて体現している。
+- [[A_ch5135_structurally_matches_E_ch5135_ハルベルト_other_専門分野での流暢さ_p24_Intellectual_Hyperfocus]] — 専門分野での流暢さという描写は、「名前（専門用語・概念）」を掌握することで初めて自己の輪郭（アイデン彩域）が明確になるという、作品内の呪術原理（宣名＝自己認識）をキャラクターの性格描写を通じて体現している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

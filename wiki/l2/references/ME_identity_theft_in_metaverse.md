@@ -9,7 +9,7 @@ canonical_name: "identity_theft_in_metaverse"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_identity_theft_in_metaverse.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5588_analogous_to_E_p114-p124_identity_theft_in_metaverse]] — 「矛盾史移植」は、キャラクターの背景設定（ロア）や歴史を書き換えることで既存のアイデンティティを乗っ取る行為であり、物語構造そのものへの介入が自己存在を脅かす恐怖を象徴している。
+- [[A_ch5588_analogous_to_E_p114-p124_identity_theft_in_metaverse]] — 「矛盾史移植」は、キャラクターの背景設定（ロア）や歴史を書き換えることで既存のアイデン彩域を乗っ取る行為であり、物語構造そのものへの介入が自己存在を脅かす恐怖を象徴している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

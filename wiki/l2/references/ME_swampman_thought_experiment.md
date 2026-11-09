@@ -9,7 +9,7 @@ canonical_name: "swampman_thought_experiment"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_swampman_thought_experiment.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5224_alludes_to_E_ch5224_カイン_says_沼女現象_p4143_swampman_thought_experiment]] — 「沼女現象」および「哲学的ゾンビ」という用語は、ダニエル・デネットやドナルド・デヴィッドソンが提唱した思想実験「スワンプマン（沼カイン）」と「哲学的ゾンビ」概念の直接的引用である。
+- [[A_ch5224_alludes_to_E_ch5224_カイン_says_沼女現象_p4143_swampman_thought_experiment]] — 「沼女現象」および「哲学的ゾンビ」という用語は、ダニエル・デネットやドナルド・デヴィッドソンが提唱した思想実験「スワンプマン（沼キロン）」と「哲学的ゾンビ」概念の直接的引用である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 男 | カイン | 蓋然性高 | 1 |
+| 男 | キロン | 明言 | 1 |

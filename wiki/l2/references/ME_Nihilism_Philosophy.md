@@ -9,7 +9,7 @@ canonical_name: "Nihilism_Philosophy"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Nihilism_Philosophy.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5171_parodies_E_Garzs_Introduction_Nihilism_Philosophy]] — ガルズの「生も死も等しく空虚」という台詞は、虚無主義的ニヒリズムを単なる思想ではなく、邪視による現実改変の原理としてファンタジー的に実体化している。
+- [[A_ch5171_parodies_E_Garzs_Introduction_Nihilism_Philosophy]] — ガルズの「生も死も等しくアカシャ虚」という台詞は、虚無主義的ニヒリズムを単なる思想ではなく、ファシネイトによる現実改変の原理としてファンタジー的に実体化している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 空 | アカシャ | 明言 | 1 |
+| 邪視 | ファシネイト | 明言 | 1 |

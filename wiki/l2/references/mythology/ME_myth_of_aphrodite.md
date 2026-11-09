@@ -9,7 +9,7 @@ canonical_name: "myth_of_aphrodite"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/mythology/ME_myth_of_aphrodite.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -21,17 +21,17 @@ l2_run: 20261029T0843_c8bb
 ## 本作からの参照 (2 件)
 
 - [[A_ch5407_alludes_to_E_clay_demand_myth_of_aphrodite]] — 「アイドル界は戦国乱世」という比喩は、現代のエンタメ業界の競争構造を異世界の軍事・政治的闘争に置き換えている。
-- [[A_ch5407_alludes_to_E_fauna_blindness_myth_of_aphrodite]] — 「死人の楽園」における生と死の混在は、冥界が単なる死後の世界ではなく生命の再生の場でもあるという神話的観念に基づいている。
+- [[A_ch5407_alludes_to_E_fauna_blindness_myth_of_aphrodite]] — 「ヒュールサス」における生と死の混在は、冥界が単なる死後の世界ではなく生命の再生の場でもあるという神話的観念に基づいている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 森 | 楽園 | 蓋然性高 | 1 |
+| 死人の森 | ヒュールサス | 明言 | 1 |
 
 
 注記（置換しない）:

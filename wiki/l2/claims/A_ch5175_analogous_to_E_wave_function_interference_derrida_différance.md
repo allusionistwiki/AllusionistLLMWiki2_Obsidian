@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5175_analogous_to_E_wave_function_interference_derrida_différance.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > デリダによれば、『意識に直接与えられた純粋な現在』などは無く、不在の過去と現在とを引き裂きつつ関連付ける差異、記号参照において孕まれる遅れとずれとしての痕跡の働きこそが我々が行う運動の正体であり、それを差延と呼ぶのだという。（p240）
 
-**審査（LLM 代替）**: デリダの差延（différance）概念が作品内で明示的に引用され、言語構造における「ずれと遅れ」を魔法の原理として展開しているため、引喩は原文に忠実かつ整合的。
+**審査（LLM 代替）**: デリダの差延（différance）概念が作品内で明示的に引用され、言語構造における「ずれと遅れ」を魔法の原理として展開しているため、アリュージョンは原文に忠実かつ整合的。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

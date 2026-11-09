@@ -9,7 +9,7 @@ canonical_name: "Data_Training,Prompt_Engineering"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Data_Training,Prompt_Engineering.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5096_analogous_to_E_p46_Data_Training,Prompt_Engineering]] — コルセスカの生成は、既存の膨大なデータ（伝承リソース）を切り貼り・学習して出力するAI的な情報処理プロセスと構造的に一致する。
+- [[A_ch5096_analogous_to_E_p46_Data_Training,Prompt_Engineering]] — 『上』の生成は、既存の膨大なデータ（伝承リソース）を切り貼り・学習して出力するAI的な情報処理プロセスと構造的に一致する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| コルセスカ | 『上』 | 明言 | 1 |

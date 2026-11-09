@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5336_inverts_E_family_cursing_social_media_influencer.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,13 +26,14 @@ l2_run: 20261029T0843_c8bb
 
 > 三親等くらい捕捉できればまずまず使い物になる。九親等いけたら弟子にしてあげてもいいかなって感じだよね（p305）
 
-**審査（LLM 代替）**: 「SNSインフルエンサー」への引喩は飛躍があり、「家族を切り離された一部として捉える」という呪術のメカニクスが、ゲーム的な範囲指定（Aoe: Area of Effect）やターゲット選択のロジックを模倣しているという点に焦点を絞るべき。
+**審査（LLM 代替）**: 「SNSインフルエンサー」へのアリュージョンは飛躍があり、「家族を切り離された一部として捉える」という呪術のメカニクスが、ゲーム的な範囲指定（Aoe: Area of Effect）やターゲット選択のロジックを模倣しているという点に焦点を絞るべき。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | ファルファレロ | ファル | 明言 | 1 |
+| 引喩 | アリュージョン | 明言 | 1 |

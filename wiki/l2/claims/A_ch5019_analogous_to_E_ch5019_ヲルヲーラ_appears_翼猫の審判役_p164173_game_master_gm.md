@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5019_analogous_to_E_ch5019_ヲルヲーラ_appears_翼猫の審判役_p164173_game_master_gm.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# 戦闘の円滑な進行を管理し、規則による罰則を科す翼猫「ヲルヲーラ」は、TRPGにおけるゲームマスター（GM）や、オンラインゲームのシステム管理者そのものである。
+# 戦闘の円滑な進行を管理し、規則による罰則を科す翼猫「多世界連合」は、TRPGにおけるゲームマスター（GM）や、オンラインゲームのシステム管理者そのものである。
 
 > 『心外な。カインはあなた方の戦いが円滑に進むように管理しているだけです』（p175）
 
@@ -31,8 +31,9 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| ヲルヲーラ | 多世界連合 | 明言 | 1 |
 | 私 | カイン | 蓋然性高 | 1 |

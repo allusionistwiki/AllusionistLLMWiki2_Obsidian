@@ -9,7 +9,7 @@ canonical_name: "Japan_KinpiraGobo"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Japan_KinpiraGobo.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,18 +20,19 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5323_analogous_to_E_5323_InsectFood_Japan_KinpiraGobo]] — ルバーブが作る「きんぴらごぼう」風の料理は、主人公の前世（現代日本）の食文化への郷愁を喚起させるメタ的引用である。
+- [[A_ch5323_analogous_to_E_5323_InsectFood_Japan_KinpiraGobo]] — 乱髪（スカルミリョーネ）が作る「きんぴらごぼう」風の料理は、プロタゴニストの前世（現代日本）の食文化への郷愁を喚起させるメタ的引用である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ルバーブ | 乱髪（スカルミリョーネ） | 明言 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |
 
 
 注記（置換しない）:
-- 未置換（要検証）: 「ルバーブ」→ スカルミリオーネ（要検証）
 - 未置換（要検証）: 「文化」→ 文化的営為（要検証）

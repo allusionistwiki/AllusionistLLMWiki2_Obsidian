@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5175_staff_seat_true_intent.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # staff_seat_true_intent
 
-箒の座の正規候補（きぐるみの魔女）が人間を変容させるために、寄生異獣という恐ろしい技術を使う可能性があるというアズーリアーリアの不安。
+箒の座の正規候補（きぐるみの魔女）が人間を変容させるために、寄生異獣という恐ろしい技術を使う可能性があるというマリーの不安。
 
 **回収示唆**: 箒の座の敵対勢力、またはミルーニャとの関係悪化、あるいは寄生異獣技術の濫用による悲劇的な展開への伏線。
 
@@ -30,9 +30,9 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 杖 | 箒 | 明言 | 4 |
-| アズ | アズーリア | 高 | 1 |
+| アズーリア | マリー | 明言 | 1 |

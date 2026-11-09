@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5103_analogous_to_E_ch5103_コルセスカ_reveals_代替わりの不在_p165_legitimacy_crisis.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > これはつまり、先代があまりに偉大であったために、未だ第六位の座に相応しい者が見つかっていないということではないでしょうか。（p165）
 
-**審査（LLM 代替）**: 「先代の偉大さによる後継者不在」は、組織内の正当性（legitimacy）が失われた状態を指しており、「権力闘争や正当性危機」という引喩は原文の状況記述と整合する。
+**審査（LLM 代替）**: 「先代の偉大さによる後継者不在」は、組織内の正当性（legitimacy）が失われた状態を指しており、「権力闘争や正当性危機」というアリュージョンは原文の状況記述と整合する。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

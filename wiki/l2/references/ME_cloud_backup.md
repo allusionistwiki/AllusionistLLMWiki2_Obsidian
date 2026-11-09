@@ -9,7 +9,7 @@ canonical_name: "cloud_backup"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_cloud_backup.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5107_analogous_to_E_p33_cloud_backup]] — 脳内の記憶を外部端末（トリシューラ）と同期し、バックアップから情報を復元するプロセスは、クラウドストレージやオンラインゲームのサーバー保存データの概念と類似している。
+- [[A_ch5107_analogous_to_E_p33_cloud_backup]] — 脳内の記憶を外部端末（コルセスカ）と同期し、バックアップから情報を復元するプロセスは、クラウドストレージやオンラインゲームのサーバー保存データの概念と類似している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

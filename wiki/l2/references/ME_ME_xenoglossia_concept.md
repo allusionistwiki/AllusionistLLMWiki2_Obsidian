@@ -9,7 +9,7 @@ canonical_name: "ME_xenoglossia_concept"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ME_xenoglossia_concept.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5044_alludes_to_E_ch5044_アキラ_thinks_コルセスカとの類似性_p17_ME_xenoglossia_concept]] — 「ゼノグラシア」という造語は、言語学用語を想起させつつ、主人公が「異物」として定義される過程で用いられる、世界内の不可解な分類概念である。
+- [[A_ch5044_alludes_to_E_ch5044_アキラ_thinks_コルセスカとの類似性_p17_ME_xenoglossia_concept]] — 「ゼノグラシア」という造語は、言語学用語を想起させつつ、プロタゴニストが「異物」として定義される過程で用いられる、世界内の不可解な分類概念である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

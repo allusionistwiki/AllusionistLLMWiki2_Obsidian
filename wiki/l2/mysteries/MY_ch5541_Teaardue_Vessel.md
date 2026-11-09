@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5541_Teaardue_Vessel.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # Teaardue_Vessel
 
-レナリアリアが欲していた「ティーアードゥの器」とは何か、その目的と上意の正体。
+レナリアが欲していた「ティーアードゥの器」とは何か、その目的と上意の正体。
 
 **回収示唆**: ティーアードゥ神格の復活、あるいは「罰則」システムを用いた世界全体のルール改変への伏線。
 
@@ -30,8 +30,11 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| レナ | レナリア | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「レナ」→ レナリア（要検証）

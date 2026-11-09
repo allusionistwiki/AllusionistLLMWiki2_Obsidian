@@ -9,7 +9,7 @@ canonical_name: "Tower_of_Babel"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Tower_of_Babel.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5455_parodies_E_ch5455_レッテ_has_property_塔=肉体_p63_Tower_of_Babel]] — 塔が天へ突き進む描写はバベルの塔の逆転（天への到達と破壊）を想起させ、世界樹との対比を通じて神話的構造を戯画化している可能性を示唆する。
+- [[A_ch5455_parodies_E_ch5455_レッテ_has_property_塔=肉体_p63_Tower_of_Babel]] — ファルスが天へ突き進む描写はバベルのファルスの逆転（天への到達と破壊）を想起させ、世界樹との対比を通じて神話的構造を戯画化している可能性を示唆する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 塔 | ファルス | 明言 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |

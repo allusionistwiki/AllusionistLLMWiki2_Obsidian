@@ -9,7 +9,7 @@ canonical_name: "wheelchair_symbolism"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_wheelchair_symbolism.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -21,13 +21,14 @@ l2_run: 20261029T0843_c8bb
 ## 本作からの参照 (2 件)
 
 - [[A_ch5162_alludes_to_E_red_chair_wheelchair_symbolism]] — 車椅子という補助具が、ヘリステラという高位存在への連想を喚起し、物理的な制約（障害）を精神的な権威や威厳へと変換させる修辞的仕掛けとして機能している。
-- [[A_ch5318_alludes_to_E_helistela_identity_wheelchair_symbolism]] — 「車椅子の女神」という表現は、転生（てんせい）を車輪の回転に喩え、死と再生を繰り返す不死の化身としての権威を示唆する造語である。
+- [[A_ch5318_alludes_to_E_helistela_identity_wheelchair_symbolism]] — 「車椅子のシャーネス」という表現は、転生（てんせい）を車輪の回転に喩え、死と再生を繰り返す不死の化身としての権威を示唆する造語である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 女神 | シャーネス | 明言 | 1 |

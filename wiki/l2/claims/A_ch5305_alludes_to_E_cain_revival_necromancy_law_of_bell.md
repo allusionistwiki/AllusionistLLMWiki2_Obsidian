@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5305_alludes_to_E_cain_revival_necromancy_law_of_bell.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,13 +26,14 @@ l2_run: 20261029T0843_c8bb
 
 > 人カインの喉が響かせたのは、次のような言葉だった。「痛い」そして、「苦しい」それから、「死にたくない」（p200-p210）
 
-**審査（LLM 代替）**: 「Law of Bell」等の具体的なゲームシステムへの言及は原文にない。「痛い」「苦しい」という叫びが蘇生過程の過酷さを示す点は妥当だが、引喩対象を一般論（死の恐怖の直視）に留めるべき。
+**審査（LLM 代替）**: 「Law of Bell」等の具体的なゲームシステムへの言及は原文にない。「痛い」「苦しい」という叫びが蘇生過程の過酷さを示す点は妥当だが、アリュージョン対象を一般論（死の恐怖の直視）に留めるべき。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 狼 | カイン | 蓋然性高 | 1 |
+| 引喩 | アリュージョン | 明言 | 1 |

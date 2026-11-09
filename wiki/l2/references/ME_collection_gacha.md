@@ -9,7 +9,7 @@ canonical_name: "collection_gacha"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_collection_gacha.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5298_parodies_E_14_collection_gacha]] — 魔導書の断章を特定番号を除いて網羅的に確保し、欠落分を条件として戦闘へ移行する描写は、ゲームにおける収集要素（コンプ）と条件クリア進行を模倣している。
+- [[A_ch5298_parodies_E_14_collection_gacha]] — コンピュータの断章を特定番号を除いて網羅的に確保し、欠落分を条件として戦闘へ移行する描写は、ゲームにおける収集要素（コンプ）と条件クリア進行を模倣している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 魔導書 | コンピュータ | 明言 | 1 |

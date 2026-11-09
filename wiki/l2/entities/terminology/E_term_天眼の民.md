@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-19'
 normalized_from: l1/entities/terminology/E_term_天眼の民.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 天眼の民
@@ -25,7 +25,7 @@ l2_run: 20261029T0843_c8bb
 ## 代表引用
 
 > 先祖返り（アタヴィズム）。 霊的外部記憶装置の参照。（ch5215）
-> 天眼の民、あるいは蜥蜴人とも呼ばれる種族は優れた戦士として各地で重宝されている。少女の道行きは引く手あまたであった。（ch5229）
+> 天眼の民、あるいは蜥蜴人とも呼ばれる種族は優れた戦士として各地で重宝されている。グラッフィアガットの道行きは引く手あまたであった。（ch5229）
 
 <!-- AUTO:END -->
 
@@ -60,5 +60,15 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **天眼の民**（ID `E_char_天眼の民` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **天眼の民**（ID `E_char_天眼の民` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 少女 | グラッフィアガット | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

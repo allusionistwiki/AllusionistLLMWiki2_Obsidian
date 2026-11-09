@@ -9,7 +9,7 @@ canonical_name: "corporate_overtime_and_leave_approval"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_corporate_overtime_and_leave_approval.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5125_analogous_to_E_ch5125_アキラ_thinks_自由時間_p2_corporate_overtime_and_leave_approval]] — 休暇申請の却下と個人訓練による自由獲得は、物語内の権力構造における個人の自律性の欠如を示す世界観設定の一部である。
+- [[A_ch5125_analogous_to_E_ch5125_アキラ_thinks_自由時間_p2_corporate_overtime_and_leave_approval]] — 休暇申請の却下と個人訓練によるフェロニア獲得は、物語内の権力構造における個人の自律性の欠如を示す世界観設定の一部である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 自由 | フェロニア | 明言 | 1 |

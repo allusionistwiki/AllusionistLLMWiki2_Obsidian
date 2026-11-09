@@ -9,7 +9,7 @@ canonical_name: "kingmaker_concept"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_kingmaker_concept.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5548_alludes_to_E_p253_kingmaker_concept]] — クロウサー家の「第一より前」に位置する権力は、歴史上のキングメーカー（王を作る者）という政治概念に対応している。
+- [[A_ch5548_alludes_to_E_p253_kingmaker_concept]] — クロウサー家の「第一より前」に位置する権力は、歴史上のキングメーカー（霊媒を作る者）という政治概念に対応している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「王」→ カーティス（要検証）
+| 王 | 霊媒 | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "unethical_experiment_backstory"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_unethical_experiment_backstory.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,15 +20,16 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (2 件)
 
-- [[A_ch5062_foreshadows_E_p45_unethical_experiment_backstory]] — トリシューラが「違法な人体実験」の嫌疑で狙われているという推測は、カイン女の過去の出自や倫理的背景を示唆する伏線である。
-- [[A_ch5062_foreshadows_E_p45_unethical_experiment_backstory]] — トリシューラが「違法な人体実験」の嫌疑で狙われているという推測は、カイン女の過去の出自や倫理的背景を示唆する伏線である。
+- [[A_ch5062_foreshadows_E_p45_unethical_experiment_backstory]] — コルセスカが「違法な人体実験」の嫌疑で狙われているという推測は、カイン女の過去の出自や倫理的背景を示唆する伏線である。
+- [[A_ch5062_foreshadows_E_p45_unethical_experiment_backstory]] — コルセスカが「違法な人体実験」の嫌疑で狙われているという推測は、カイン女の過去の出自や倫理的背景を示唆する伏線である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| トリシューラ | コルセスカ | 明言 | 2 |
 | 彼 | カイン | 蓋然性高 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |

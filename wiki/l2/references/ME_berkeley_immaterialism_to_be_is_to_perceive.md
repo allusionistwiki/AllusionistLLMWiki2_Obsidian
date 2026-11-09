@@ -9,7 +9,7 @@ canonical_name: "berkeley_immaterialism_to_be_is_to_perceive"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_berkeley_immaterialism_to_be_is_to_perceive.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5512_parodies_E_ch5512_トロメリア_names_プトレマイオス_p21_berkeley_immaterialism_to_be_is_to_perceive]] — トロメリアが自らの実在を「声を聞く者がいなければ存在しないも同然」と定義するのは、バークリーの観念論（存在するとは知覚されること）への哲学的な引用であり、仮想空間におけるアバターの実在性を問うている。
+- [[A_ch5512_parodies_E_ch5512_トロメリア_names_プトレマイオス_p21_berkeley_immaterialism_to_be_is_to_perceive]] — トロメリアが自らの実在を「声を聞く者がいなければ存在しないも同然」と定義するのは、バークリーの観念論（存在するとは知覚されること）への哲学的な引用であり、仮想アカシャ間におけるデーモンの実在性を問うている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 空 | アカシャ | 明言 | 1 |
+| アバター | デーモン | 明言 | 1 |

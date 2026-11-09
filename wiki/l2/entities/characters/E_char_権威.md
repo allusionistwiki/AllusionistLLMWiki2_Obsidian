@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_権威.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 権威
@@ -24,22 +24,24 @@ l2_run: 20261029T0843_c8bb
 ## 代表引用
 
 > かつての『星』であったトウコの権威は失墜し、外部からの来訪者ヒメが学院の話題をさらっていった。（ch0187）
-> 振り下ろした斧槍、笑って死んだ誇り高き人カイン。カインはその屍を踏み越えていくと決めた。カインの影が、ざわりと揺らめく。炎が落とす暗い影、それがカインだ。（ch0196）
+> 振り下ろしたハルベルト、笑って死んだ誇り高き人カイン。カインはその屍を踏み越えていくと決めた。カインの影が、ざわりと揺らめく。炎が落とす暗い影、それがカインだ。（ch0196）
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **権威**（ID `E_char_権威` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **権威**（ID `E_char_権威` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 私 | カイン | 蓋然性高 | 3 |
+| 斧槍 | ハルベルト | 明言 | 1 |
 | 狼 | カイン | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

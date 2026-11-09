@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5162_analogous_to_E_avatar_combat_fighting_game_mechanics.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# デーモン（アバター）の戦いは、ヒットポイント、撃破ポイント、スコア表示といったゲーム的メカニクスで記述され、格闘ゲームやシューティングゲームの構造を模倣している。
+# デーモン（デーモン）の戦いは、ヒットポイント、撃破ポイント、スコア表示といったゲーム的メカニクスで記述され、格闘ゲームやシューティングゲームの構造を模倣している。
 
 > 背後で爆音。撃破ポイントが加算されて、スコアが表示される。（p46）
 
@@ -31,8 +31,9 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| アバター | デーモン | 明言 | 1 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |

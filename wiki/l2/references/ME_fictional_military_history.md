@@ -9,7 +9,7 @@ canonical_name: "fictional_military_history"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_fictional_military_history.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5283_parodies_E_p94_fictional_military_history]] — 歴史的にあり得なかった「架空の戦争」を、物語の筋書き（プロット）として書き換える行為を「架空戦記」と呼称し、歴史改変のメカニズムをゲーム的な操作として扱っている。
+- [[A_ch5283_parodies_E_p94_fictional_military_history]] — 歴史的にあり得なかった「架アカシャのゲーム」を、物語の筋書き（プロット）として書き換える行為を「架アカシャ戦記」と呼称し、歴史改変のメカニズムをゲーム的な操作として扱っている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 空 | アカシャ | 明言 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 戦争 | ゲーム | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "Mentor_Planting_Trope"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Mentor_Planting_Trope.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5061_alludes_to_E_ch5061_トリシューラ_other_アキラへの期待と放置の意図_p95_Mentor_Planting_Trope]] — 主人公への放置が結果的にカインの未熟さ（ダメな部分）を招いたことを認め、「手出しを控えた」ことの代償を自覚する構造は、物語におけるメンター役の機能不全や責任の所在を示唆している。
+- [[A_ch5061_alludes_to_E_ch5061_トリシューラ_other_アキラへの期待と放置の意図_p95_Mentor_Planting_Trope]] — プロタゴニストへの放置が結果的にカインの未熟さ（ダメな部分）を招いたことを認め、「手出しを控えた」ことの代償を自覚する構造は、物語におけるメンター役の機能不全や責任の所在を示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |

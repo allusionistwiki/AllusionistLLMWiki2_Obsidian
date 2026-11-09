@@ -9,7 +9,7 @@ canonical_name: "Supernatural_Threat_Perspective"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Supernatural_Threat_Perspective.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5170_alludes_to_E_Golden_Eyes_Male_Artist_Supernatural_Threat_Perspective]] — 画家の金色の瞳が「邪視を使う骨の花」を想起させる描写は、芸術家の視線が鑑賞者を支配・殺害する力を持つという、ゴシック文学や怪奇小説における「魔性のアーティスト」の archetype を指している。
+- [[A_ch5170_alludes_to_E_Golden_Eyes_Male_Artist_Supernatural_Threat_Perspective]] — 画家の金色の瞳が「ファシネイトを使う骨の花」を想起させる描写は、芸術家の視線が鑑賞者を支配・殺害する力を持つという、ゴシック文学や怪奇小説における「魔性のアーティスト」の archetype を指している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 邪視 | ファシネイト | 明言 | 1 |

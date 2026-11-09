@@ -9,7 +9,7 @@ canonical_name: "Odins_Eye"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Odins_Eye.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5171_alludes_to_E_Garzs_Eye_Odins_Eye]] — ガルズの「金眼」が光を飲み込み世界を改変する描写は、伝統的な邪視（Medusa等）の呪詛的力ではなく、虚無による現実書き換えという特異なファンタジー機構を示唆している。
+- [[A_ch5171_alludes_to_E_Garzs_Eye_Odins_Eye]] — ガルズの「金眼」が光を飲み込み世界を改変する描写は、伝統的なファシネイト（Medusa等）の呪詛的力ではなく、虚無による現実書き換えという特異なファンタジー機構を示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 邪視 | ファシネイト | 明言 | 1 |

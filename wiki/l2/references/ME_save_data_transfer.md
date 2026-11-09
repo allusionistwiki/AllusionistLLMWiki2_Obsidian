@@ -9,7 +9,7 @@ canonical_name: "save_data_transfer"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_save_data_transfer.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5533_analogous_to_E_ch5533_サンデリアーナ_uses_転生アプリによる魂の移動_p227_save_data_transfer]] — サンデリアーナへの魂の転生は、ゲームにおけるセーブデータ移行やアバター引き継ぎ機能を連想させ、「器」をハードウェア、「記憶・魂」をソフトウェアとするコンピュータ的なメタファーとして描かれている。
+- [[A_ch5533_analogous_to_E_ch5533_サンデリアーナ_uses_転生アプリによる魂の移動_p227_save_data_transfer]] — サンデリアーナへの魂の転生は、ゲームにおけるセーブデータ移行やデーモン引き継ぎ機能を連想させ、「器」をハードウェア、「記憶・魂」をソフトウェアとするコンピュータ的なメタファーとして描かれている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| アバター | デーモン | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "meta_author_voice"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_meta_author_voice.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5169_alludes_to_E_soloda_dialogue_meta_author_voice]] — ソルダが世界を「歪んでいる」と断じ、自身を超越した立場から語るのは、物語内のシステム（フィリス/定義）に対するメタ的な批判視点を示唆している。
+- [[A_ch5169_alludes_to_E_soloda_dialogue_meta_author_voice]] — ソルダが世界を「歪んでいる」と断じ、自身を超越した立場から語るのは、物語内のシステム（金鎖/定義）に対するメタ的な批判視点を示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 金鎖 | フィリス | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「金鎖」→ フィリス（要検証）

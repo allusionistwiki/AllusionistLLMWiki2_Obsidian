@@ -9,7 +9,7 @@ canonical_name: "bureaucratic_intimidation"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_bureaucratic_intimidation.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5250_analogous_to_E_ch5250_クレイ_attacks_カーインの髪と頬_p261_bureaucratic_intimidation]] — クレイの声が物理的な圧力（空圧）として機能する描写は、言葉そのものが暴力となり得るファンタジー的メカニズム（言霊）を具現化したものであり、権力の行使が直接な物理現象となる世界観を示している。
+- [[A_ch5250_analogous_to_E_ch5250_クレイ_attacks_カーインの髪と頬_p261_bureaucratic_intimidation]] — クレイの声が物理的な圧力（アカシャ圧）として機能する描写は、言葉そのものが暴力となり得るファンタジー的メカニズム（言霊）を具現化したものであり、権力の行使が直接な物理現象となる世界観を示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 空 | アカシャ | 明言 | 1 |

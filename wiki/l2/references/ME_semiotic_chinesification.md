@@ -9,7 +9,7 @@ canonical_name: "semiotic_chinesification"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_semiotic_chinesification.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5328_analogous_to_E_colceska_magic_explanation_semiotic_chinesification]] — コルセスカが説明する「陳腐化」の呪術は、記号論における記号の意味の変質（コンテキスト操作）や、芸術理論における既存様式の引用による意味転換を魔法として実装したものである。
+- [[A_ch5328_analogous_to_E_colceska_magic_explanation_semiotic_chinesification]] — 『上』が説明する「陳腐化」の呪術は、記号論における記号の意味の変質（コンテキスト操作）や、芸術理論における既存様式の引用による意味転換を魔法として実装したものである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| コルセスカ | 『上』 | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "Helen_of_Troy"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Helen_of_Troy.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5519_structurally_matches_E_343_Helen_of_Troy]] — マリナが明かす「ヘレネ」という名前は、トロイア戦争の英雄ヘレネと同名であり、物語内の「争い」や「誘拐」のテーマを予兆させる象徴的な名前付けとして機能している。
+- [[A_ch5519_structurally_matches_E_343_Helen_of_Troy]] — マリナが明かす「ヘレネ」という名前は、トロイアゲームの英雄ヘレネと同名であり、物語内の「争い」や「誘拐」のテーマを予兆させる象徴的な名前付けとして機能している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 戦争 | ゲーム | 明言 | 1 |

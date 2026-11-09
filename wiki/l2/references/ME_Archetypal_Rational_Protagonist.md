@@ -9,7 +9,7 @@ canonical_name: "Archetypal_Rational_Protagonist"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Archetypal_Rational_Protagonist.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5040_parodies_E_ch5040_コルセスカ_says_アキラへの批判_p2_Archetypal_Rational_Protagonist]] — 「正しさとか、葛藤とか、決断とか、そういうものから俺は距離を置きたい」という宣言は、異世界転生ものの主人公に求められる「成熟した人格」への成長というクリシェに対する明確な拒絶と逆転である。
+- [[A_ch5040_parodies_E_ch5040_コルセスカ_says_アキラへの批判_p2_Archetypal_Rational_Protagonist]] — 「正しさとか、葛藤とか、決断とか、そういうものからトラック運転手は距離を置きたい」という宣言は、異世界転生もののプロタゴニストに求められる「成熟した人格」への成長というクリシェに対する明確な拒絶と逆転である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 俺 | トラック運転手 | 明言 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

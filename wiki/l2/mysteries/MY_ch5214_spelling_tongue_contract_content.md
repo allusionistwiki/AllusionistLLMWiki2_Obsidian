@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
 normalized_from: l1/mysteries/MY_ch5214_spelling_tongue_contract_content.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # spelling_tongue_contract_content
 
-ハルベルトベルトとアズーリアーリアが互いの舌に刻んだ呪文の具体的な内容。これは単なる契約以上の意味を持つ可能性がある。
+お姉様とマリーが互いの舌に刻んだ呪文の具体的な内容。これは単なる契約以上の意味を持つ可能性がある。
 
 **回収示唆**: 後の戦闘や儀式において、この「秘密の共有」がキーアイテムとなり、互いの信頼性によって発動する強力な複合魔法として機能する。
 
@@ -31,9 +31,9 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ハル | ハルベルト | 高 | 1 |
-| アズ | アズーリア | 高 | 1 |
+| ハルベルト | お姉様 | 明言 | 1 |
+| アズーリア | マリー | 明言 | 1 |

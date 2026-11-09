@@ -9,7 +9,7 @@ canonical_name: "Social_Contract"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Social_Contract.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5195_structurally_matches_E_5195_p191_Social_Contract]] — チョコレートリリー宮での「誓言」による強制追放刑は、ゲーム空間におけるルール違反への制裁（チート検出やBAN機能）と構造的に類似している。
+- [[A_ch5195_structurally_matches_E_5195_p191_Social_Contract]] — チョコレートリリー宮での「誓言」による強制追放刑は、ゲームアカシャ間におけるルール違反への制裁（チート検出やBAN機能）と構造的に類似している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 | 黒百合 | チョコレートリリー | 明言 | 1 |
+| 空 | アカシャ | 明言 | 1 |

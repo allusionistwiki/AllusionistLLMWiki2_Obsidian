@@ -9,7 +9,7 @@ canonical_name: "otome_game_endings"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_otome_game_endings.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5090_analogous_to_E_ch5090_コルセスカ_reveals_男性攻略の履歴_p79_otome_game_endings]] — 複数のカイン性との結婚を「エンディング」と呼び、同時並行で攻略・囲い込みを行う様子は、乙女ゲームや恋愛シミュレーションゲームのマルチエンド収集行為のメタファーである。
+- [[A_ch5090_analogous_to_E_ch5090_コルセスカ_reveals_男性攻略の履歴_p79_otome_game_endings]] — 複数のキロン性との結婚を「エンディング」と呼び、同時並行で攻略・囲い込みを行う様子は、乙女ゲームや恋愛シミュレーションゲームのマルチエンド収集行為のメタファーである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 男 | カイン | 蓋然性高 | 1 |
+| 男 | キロン | 明言 | 1 |

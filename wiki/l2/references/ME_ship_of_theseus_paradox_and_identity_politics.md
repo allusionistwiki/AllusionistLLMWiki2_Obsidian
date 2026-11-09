@@ -9,7 +9,7 @@ canonical_name: "ship_of_theseus_paradox_and_identity_politics"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ship_of_theseus_paradox_and_identity_politics.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,18 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5201_inverts_E_ch5201_セリアック＝ニア_says_アキラの中のフィリスも使徒である_p161_ship_of_theseus_paradox_and_identity_politics]] — 内的な異物（猫/ナーグストール）と主体が同化していることを理由に、内的な異物（フィリス）を持つアキラくんも同一視するという論理は、テセウスの船の逆説を政治的アイデンティティの問題として適用している。
+- [[A_ch5201_inverts_E_ch5201_セリアック＝ニア_says_アキラの中のフィリスも使徒である_p161_ship_of_theseus_paradox_and_identity_politics]] — 内的な異物（猫/ナーグストール）と主体が同化していることを理由に、内的な異物（フィリス）を持つ語り手も同一視するという論理は、テセウスの船の逆説を政治的アイデン彩域の問題として適用している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アキラ | アキラくん | 高 | 1 |
+| アキラ | 語り手 | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |
 
 
 注記（置換しない）:

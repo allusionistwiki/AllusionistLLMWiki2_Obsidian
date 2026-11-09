@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5429_structurally_matches_E_ch5429_セリアック＝ニア_reveals_法の剣の使命_p69_safety_valve_political_system.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# ドラトリアの国家秩序を維持するための「安全弁」としての聖姫（法執行者）と王（暴君）の対立構造を、政治制度の機能として分析する。
+# ドラトリアの国家秩序を維持するための「安全弁」としての聖姫（法執行者）と霊媒（暴君）の対立構造を、政治制度の機能として分析する。
 
 > 『夜』と『昼』、貴と卑、聖と俗、壁の内と外。あらかじめ分断を内包した歪な国の秩序を保証してきたのはこの安全弁の存在だった。（p69）
 
@@ -31,11 +31,8 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「王」→ カーティス（要検証）
+| 王 | 霊媒 | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "video_game_glitch_and_rules"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_video_game_glitch_and_rules.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5514_parodies_E_troll_glitch_video_game_glitch_and_rules]] — 地下移動による反則判定は、ビデオゲームにおけるグリッチ（バグ）やルール違反に対するシステムからの警告を模している。
+- [[A_ch5514_parodies_E_troll_glitch_video_game_glitch_and_rules]] — 地下移動によるファウル判定は、ビデオゲームにおけるグリッチ（バグ）やルール違反に対するシステムからの警告を模している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 反則 | ファウル | 明言 | 1 |

@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/items/E_item_残心プリセット.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 残心プリセット
 
-脳を介さず義肢を自律制御するためのアプリであり、アキラくんが右腕で反撃するために発動させる。身体を破壊されながらも右腕を振るうために起動される。
+脳を介さず義肢を自律制御するためのアプリであり、語り手が右腕で反撃するために発動させる。身体を破壊されながらも右腕を振るうために起動される。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0005 ｜ **観測イベント**: 2 件（2 話に出現）
@@ -28,22 +28,23 @@ l2_run: 20261029T0843_c8bb
 
 ## 関連クレーム
 
-- A_ch0005_analogous_to_E_ch0005_アキラくん_activates_残心プリセット_p302_自律型AIと脳侵襲技術（自律型AIによる脳侵襲代替）
-- A_ch0008_analogous_to_E_ch0008_アキラくん_uses_残心プリセット_p382_safety_override（安全装置解除概念の身体制御）
+- A_ch0005_analogous_to_E_ch0005_語り手_activates_残心プリセット_p302_自律型AIと脳侵襲技術（自律型AIによる脳侵襲代替）
+- A_ch0008_analogous_to_E_ch0008_語り手_uses_残心プリセット_p382_safety_override（安全装置解除概念の身体制御）
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **残心プリセット**（ID `E_item_残心プリセット` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **残心プリセット**（ID `E_item_残心プリセット` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アキラ | アキラくん | 高 | 3 |
+| アキラ | 語り手 | 明言 | 3 |
+| ティティ | 彩域 | 明言 | 1 |

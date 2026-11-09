@@ -12,10 +12,10 @@ document_status: active
 created: '2026-10-10'
 updated: '2026-10-19'
 normalized_from: l1/entities/terminology/E_term_杖.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
-> [!info] 名前統合（L2 run 20261029T0843_c8bb）
+> [!info] 名前統合（L2 run 20261110T0603_v5agg）
 > このページの名義「杖」は **箒** の別名として統合済み（確度: 明言）。正規化先: [[E_char_箒|箒]]
 # 箒
 
@@ -24,23 +24,27 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
-- **unknown**: ゆえに白の色号は『塔』の分類で言えば『邪視』と『箒』の中間に位置する呪術だとされていた。
+- **unknown**: ゆえに白の色号は『ファルス』の分類で言えば『ファシネイト』と身体性の拡張の中間に位置する呪術だとされていた。
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **箒**（ID `E_char_箒` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **箒**（ID `E_char_箒` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 杖 | 箒 | 明言 | 2 |
+| 杖 | 箒 | 明言 | 1 |
+| 塔 | ファルス | 明言 | 1 |
+| 邪視 | ファシネイト | 明言 | 1 |
+| 『杖』 | 身体性の拡張 | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |
 
 
 注記（置換しない）:

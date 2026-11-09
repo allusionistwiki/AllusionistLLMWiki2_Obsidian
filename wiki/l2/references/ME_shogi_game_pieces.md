@@ -9,7 +9,7 @@ canonical_name: "shogi_game_pieces"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_shogi_game_pieces.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,15 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5100_analogous_to_E_ch5100_トリシューラ_says_勝負の本質_p49_shogi_game_pieces]] — アキラくんを『点棒』や『ゲーム銀貨』に喩え、対戦ゲームにおける勝敗決定のための「媒体」および「道具」としての地位を明示している。
+- [[A_ch5100_analogous_to_E_ch5100_トリシューラ_says_勝負の本質_p49_shogi_game_pieces]] — 語り手を『点棒』や『ゲーム銀貨』に喩え、対戦ゲームにおける勝敗決定のための「媒体」および「道具」としての地位を明示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アキラ | アキラくん | 高 | 1 |
+| アキラ | 語り手 | 明言 | 1 |
 | コイン | 銀貨 | 蓋然性高 | 1 |

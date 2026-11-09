@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-10'
 updated: '2026-10-19'
 normalized_from: l1/entities/organizations/E_org_八家浄罪派.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 # 八家浄罪派
 
@@ -21,28 +21,26 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
-- **unknown**: 八家浄罪派・王攵瑰／薔薇 正式な巫女セレクティの代理。
+- **unknown**: 八家浄罪派・霊媒攵瑰／薔薇 正式な巫女セレクティの代理。
 まいかい
 ロザリンダ
-- **unknown**: 八家浄罪派・王攵瑰／薔薇 正式な巫女セレクティの代理。
-- **unknown**: 八家浄罪派・王攵瑰／薔薇 正式な巫女セレクティの代理。
+- **unknown**: 八家浄罪派・霊媒攵瑰／薔薇 正式な巫女セレクティの代理。
+- **unknown**: 八家浄罪派・霊媒攵瑰／薔薇 正式な巫女セレクティの代理。
 
 <!-- /AUTO-GENERATED:name -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **八家浄罪派**（ID `E_org_八家浄罪派` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **八家浄罪派**（ID `E_org_八家浄罪派` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「王」→ カーティス（要検証）
+| 王 | 霊媒 | 明言 | 3 |
+| ティティ | 彩域 | 明言 | 1 |

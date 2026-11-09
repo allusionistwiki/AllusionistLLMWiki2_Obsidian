@@ -9,7 +9,7 @@ canonical_name: "Metaphor_of_Love_as_Fire"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Metaphor_of_Love_as_Fire.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5516_parodies_E_ch5516_恋_appears_as_炎_p2_Metaphor_of_Love_as_Fire]] — 「恋は炎に喩えられる」という陳腐な比喩が提示される直後に、その比喩的枠組みが物理的な「呪文」によって破壊・置換され、ロマンティシズムの記号論的空虚を戦闘のトリガーとして機能させている。
+- [[A_ch5516_parodies_E_ch5516_恋_appears_as_炎_p2_Metaphor_of_Love_as_Fire]] — 「恋は炎に喩えられる」という陳腐な比喩が提示される直後に、その比喩的枠組みが物理的な「呪文」によって破壊・置換され、ロマンティシズムの記号論的アカシャ虚を戦闘のトリガーとして機能させている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 | 爆撃 | 呪文 | 蓋然性高 | 1 |
+| 空 | アカシャ | 明言 | 1 |

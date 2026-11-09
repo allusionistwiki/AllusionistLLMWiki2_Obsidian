@@ -9,7 +9,7 @@ canonical_name: "Traditional_Martial_Arts_Culture"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Traditional_Martial_Arts_Culture.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5232_inverts_E_p128-p130_Traditional_Martial_Arts_Culture]] — 道場に暴力に伴う血の臭いがなく「平和」であることは、伝統的な武道場が持つ『稽古とは生死を賭けた戦いの予行演習である』という緊迫した雰囲気や、格闘技特有の生々しい暴力性を意図的に排除した商業的・娯楽的な空間への変容を示している。
+- [[A_ch5232_inverts_E_p128-p130_Traditional_Martial_Arts_Culture]] — 道場に暴力に伴う血の臭いがなく「平和」であることは、伝統的な武道場が持つ『稽古とは生死を賭けた戦いの予行演習である』という緊迫した雰囲気や、格闘技特有の生々しい暴力性を意図的に排除した商業的・娯楽的なアカシャ間への変容を示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 空 | アカシャ | 明言 | 1 |

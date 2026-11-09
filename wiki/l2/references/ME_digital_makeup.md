@@ -9,7 +9,7 @@ canonical_name: "digital_makeup"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_digital_makeup.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5113_alludes_to_E_akira_vision_digital_makeup]] — 主人公の両腕が「観衆が好ましく感じるビジュアル」に常時改変されている描写は、他者の視線（承認欲求）によって自己の存在形態が規定される社会的圧力や、虚構的な自己演出の強制を暗示している。
+- [[A_ch5113_alludes_to_E_akira_vision_digital_makeup]] — プロタゴニストの両腕が「観衆が好ましく感じるビジュアル」に常時改変されている描写は、他者の視線（承認欲求）によって自己の存在形態が規定される社会的圧力や、虚構的な自己演出の強制を暗示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

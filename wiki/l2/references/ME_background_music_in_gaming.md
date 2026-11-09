@@ -9,7 +9,7 @@ canonical_name: "background_music_in_gaming"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_background_music_in_gaming.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5532_structurally_matches_E_p180_background_music_in_gaming]] — 戦闘中に「趣味的な背景音楽」に乗って呪力が現れる描写は、物語空間がゲーム的な演出ルール（BGMとアクションの同期）に従って構成されていることを示している。
+- [[A_ch5532_structurally_matches_E_p180_background_music_in_gaming]] — 戦闘中に「趣味的な背景音楽」に乗って呪力が現れる描写は、物語アカシャ間がゲーム的な演出ルール（BGMとアクションの同期）に従って構成されていることを示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 空 | アカシャ | 明言 | 1 |

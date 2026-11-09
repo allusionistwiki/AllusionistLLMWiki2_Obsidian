@@ -9,7 +9,7 @@ canonical_name: "mirror_as_metaphor_for_the_other"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_mirror_as_metaphor_for_the_other.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5388_analogous_to_E_p212_mirror_as_metaphor_for_the_other]] — 幻姿霊が「鏡から出現する暗殺者」とされ、「鏡を遠ざける」ことが権力者の恐怖に基づく行動として描かれることは、自己認識の媒介物である鏡への忌避が、存在の解体や他者の侵入に対する防御メカニズムとして機能していることを示す。
+- [[A_ch5388_analogous_to_E_p212_mirror_as_metaphor_for_the_other]] — スペクターが「鏡から出現する暗殺者」とされ、「鏡を遠ざける」ことが権力者の恐怖に基づく行動として描かれることは、自己認識の媒介物である鏡への忌避が、存在の解体や他者の侵入に対する防御メカニズムとして機能していることを示す。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 幻姿霊 | スペクター | 明言 | 1 |

@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/terminology/E_term_禁呪.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 禁呪
 
-致命的な事態を回避するために、膨大な呪力を内包した黒い血を流して使用される呪術である。ヴァージルがオーファの禁呪を唱え、世界根や世界樹の灰を用いる場面も確認されている。
+致命的な事態を回避するために、膨大な呪力を内包した黒い血を流して使用される呪術である。ヴァージルがオファグリートの禁呪を唱え、世界根や世界樹の灰を用いる場面も確認されている。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0056 ｜ **観測イベント**: 2 件（2 話に出現）
@@ -31,5 +31,15 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **禁呪**（ID `E_term_禁呪` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **禁呪**（ID `E_term_禁呪` / kind: terminology / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| オーファ | オファグリート | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

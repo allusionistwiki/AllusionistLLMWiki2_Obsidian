@@ -9,7 +9,7 @@ canonical_name: "tsundere_support_role"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_tsundere_support_role.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5079_structurally_matches_E_p44_tsundere_support_role]] — 敵対関係にありながら陰ながら主人公を支援し、照れ隠しで「野暮用」と誤魔化すコルセスカの行動パターンは、ツンデレや隠し味方的なヒロインのクリシェに構造が一致する。
+- [[A_ch5079_structurally_matches_E_p44_tsundere_support_role]] — 敵対関係にありながら陰ながらプロタゴニストを支援し、照れ隠しで「野暮用」と誤魔化す『上』の行動パターンは、ツンデレや隠し味方的なヒロインのクリシェに構造が一致する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |
+| コルセスカ | 『上』 | 明言 | 1 |

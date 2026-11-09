@@ -9,7 +9,7 @@ canonical_name: "theme_reincarnation_escape"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_theme_reincarnation_escape.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5452_sublates_E_5452_p200_theme_reincarnation_escape]] — 女神ルウテトの「更なる転生」への渇望は、現世の苦悩や運命からの逃避・更新を目的とする異世界転生ジャンルの根本的な動機を、神という権力者の視点から描くことでメタ的に昇華させている。
+- [[A_ch5452_sublates_E_5452_p200_theme_reincarnation_escape]] — シャーネスルウの「更なる転生」への渇望は、現世の苦悩や運命からの逃避・更新を目的とする異世界転生ジャンルの根本的な動機を、神という権力者の視点から描くことでメタ的に昇華させている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 女神 | シャーネス | 明言 | 1 |
+| ルウテト | ルウ | 明言 | 1 |

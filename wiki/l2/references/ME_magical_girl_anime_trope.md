@@ -9,7 +9,7 @@ canonical_name: "magical_girl_anime_trope"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_magical_girl_anime_trope.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5428_parodies_E_ch5428_コルセスカ_makes_マジカルアピール_p52_magical_girl_anime_trope]] — 歌とダンス（振り付け）によって世界を再構成し敵を撃破する展開は、少女アニメにおける「魔法少女」の戦闘様式（マジカルアピールや必殺技演出）のパロディである。
+- [[A_ch5428_parodies_E_ch5428_コルセスカ_makes_マジカルアピール_p52_magical_girl_anime_trope]] — 歌とダンス（振り付け）によって世界を再構成し敵を撃破する展開は、グラッフィアガットアニメにおける「魔法グラッフィアガット」の戦闘様式（マジカルアピールや必殺技演出）のパロディである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 少女 | グラッフィアガット | 明言 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |

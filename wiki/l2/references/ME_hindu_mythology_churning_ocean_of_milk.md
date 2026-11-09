@@ -9,7 +9,7 @@ canonical_name: "hindu_mythology_churning_ocean_of_milk"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_hindu_mythology_churning_ocean_of_milk.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,16 +20,17 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5316_alludes_to_E_p183_hindu_mythology_churning_ocean_of_milk]] — サイバーカラテ道場の生成プロセスが「乳海攪拌」と呼称されることで、ヒンドゥー神話における宇宙創造の過程（善悪の要素を混ぜ合わせて不死の薬を生む）を引喩し、混沌からの秩序形成を描いている。
+- [[A_ch5316_alludes_to_E_p183_hindu_mythology_churning_ocean_of_milk]] — サイバーカラテ道場の生成プロセスが「乳海攪拌」と呼称されることで、ヒンドゥー神話における宇宙創造の過程（善悪の要素を混ぜ合わせて不死の薬を生む）をアリュージョンし、混沌からの秩序形成を描いている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 引喩 | アリュージョン | 明言 | 1 |
 
 
 注記（置換しない）:

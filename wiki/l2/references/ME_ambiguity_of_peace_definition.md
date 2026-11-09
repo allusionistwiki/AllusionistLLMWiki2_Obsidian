@@ -9,7 +9,7 @@ canonical_name: "ambiguity_of_peace_definition"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ambiguity_of_peace_definition.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5522_sublates_E_p273-p276_ambiguity_of_peace_definition]] — 「平和とは戦間期の言い換え」と定義されることで、平和が永続的な状態ではなく、戦争の中断期間に過ぎないという現実主義的な政治哲学を提示している。
+- [[A_ch5522_sublates_E_p273-p276_ambiguity_of_peace_definition]] — 「平和とは戦間期の言い換え」と定義されることで、平和が永続的な状態ではなく、ゲームの中断期間に過ぎないという現実主義的な政治哲学を提示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 戦争 | ゲーム | 明言 | 1 |

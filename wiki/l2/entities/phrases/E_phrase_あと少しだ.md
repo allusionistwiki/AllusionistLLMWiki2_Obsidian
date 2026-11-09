@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/phrases/E_phrase_あと少しだ.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # あと少しだ
@@ -23,7 +23,7 @@ l2_run: 20261029T0843_c8bb
 
 ## 代表引用
 
-> 差し出された拳に、困惑する気配が感じられる。俺は短く、 【p56】 「あと少しだ」（ch5009）
+> 差し出された拳に、困惑する気配が感じられる。トラック運転手は短く、 【p56】 「あと少しだ」（ch5009）
 > カインが床を探りながら、 【p71】 「あと少しだ」 【p73】 と自分を鼓舞するように呟く。（ch5009）
 
 <!-- AUTO:END -->
@@ -31,5 +31,15 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **あと少しだ**（ID `E_phrase_あと少しだ` / kind: phrase / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **あと少しだ**（ID `E_phrase_あと少しだ` / kind: phrase / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 俺 | トラック運転手 | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

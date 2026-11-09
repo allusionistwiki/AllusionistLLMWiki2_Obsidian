@@ -9,7 +9,7 @@ canonical_name: "Astro_Diving_Risk"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Astro_Diving_Risk.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5073_analogous_to_E_Sage_Death_Astro_Diving_Risk]] — セージの即死は、VRMMOやアストラル界ダイブ系作品における「ログアウト不可」「現実への干渉リスク」というガジェット特有の恐怖を提示している。
+- [[A_ch5073_analogous_to_E_Sage_Death_Astro_Diving_Risk]] — セージの即死は、VRMMOやアストラル界ダイブ系作品における「ログアウト不可」「現実への干渉リスク」というガ黒玉飛翔特有の恐怖を提示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 | アストラル | アストラル界 | 明言 | 1 |
+| ジェット | 黒玉飛翔 | 明言 | 1 |

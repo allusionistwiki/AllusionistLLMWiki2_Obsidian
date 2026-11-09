@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5409_analogous_to_E_ch5409_洞窟_has_property_死の楽園_p2_paradise_of_death.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# 洞窟内の平穏な空間は、外部の激しい戦闘と対比される『死の楽園』として描かれ、生と死の境界が逆転している。
+# 洞窟内の平穏なアカシャ間は、外部の激しい戦闘と対比される『死の楽園』として描かれ、生と死の境界が逆転している。
 
 > 洞窟の中は死の楽園。
 大いなる愛に包まれた平穏な世界がそこにあった。（p2-p3）
@@ -32,10 +32,11 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 空 | アカシャ | 明言 | 1 |
 
 
 注記（置換しない）:

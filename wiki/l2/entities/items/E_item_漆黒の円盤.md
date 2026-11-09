@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/items/E_item_漆黒の円盤.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 漆黒の円盤
 
-低次の知性を持ち自律的に未来を予測する浮遊円盤（換装・六十四番）。革靴の踵で刃を打ち砕くなど、武術家というより兵器のような破壊力を持つとされる。
+低次の知性を持ち自律的に未来を予測する浮遊円盤（換装・六ヴァレリアンヌ）。革靴の踵で刃を打ち砕くなど、武術家というより兵器のような破壊力を持つとされる。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch5325 ｜ **観測イベント**: 2 件（1 話に出現）
@@ -31,5 +31,15 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **漆黒の円盤**（ID `E_item_漆黒の円盤` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **漆黒の円盤**（ID `E_item_漆黒の円盤` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 十四番 | ヴァレリアンヌ | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

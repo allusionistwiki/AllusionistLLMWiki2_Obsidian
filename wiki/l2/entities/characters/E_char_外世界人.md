@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_外世界人.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 外世界人
 
-アズーリアーリアが記憶の鮮明さから顔の詳細は曖昧とし、声や特徴的な腕で識別できると考えている存在。国家機密の異世界流出や文化としての組み込みが警戒されている。
+マリーが記憶の鮮明さから顔の詳細は曖昧とし、声や特徴的な腕で識別できると考えている存在。国家機密の異世界流出や文化としての組み込みが警戒されている。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0035 ｜ **観測イベント**: 3 件（2 話に出現）
@@ -32,19 +32,20 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **外世界人**（ID `E_char_外世界人` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **外世界人**（ID `E_char_外世界人` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アズ | アズーリア | 高 | 1 |
+| アズーリア | マリー | 明言 | 1 |
 | 姉妹 | キュトスの姉妹 | 明言 | 1 |
 | 杖 | 箒 | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |
 
 
 注記（置換しない）:

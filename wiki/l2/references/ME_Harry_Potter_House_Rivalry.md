@@ -9,7 +9,7 @@ canonical_name: "Harry_Potter_House_Rivalry"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Harry_Potter_House_Rivalry.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5149_structurally_matches_E_p80_Harry_Potter_House_Rivalry]] — 「チョコレートリリーの子供たち」内部での激しい選抜競争と脱落構造は、魔法使いコミュニティにおける階級闘争や選民思想の厳しさを示すものである。
+- [[A_ch5149_structurally_matches_E_p80_Harry_Potter_House_Rivalry]] — 「チョコレートリリー」内部での激しい選抜競争と脱落構造は、魔法使いコミュニティにおける階級闘争や選民思想の厳しさを示すものである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 黒百合 | チョコレートリリー | 明言 | 1 |
+| 黒百合の子供たち | チョコレートリリー | 明言 | 1 |

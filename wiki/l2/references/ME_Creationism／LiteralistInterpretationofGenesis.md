@@ -9,7 +9,7 @@ canonical_name: "Creationism／LiteralistInterpretationofGenesis"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Creationism／LiteralistInterpretationofGenesis.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5291_parodies_E_p16_Creationism／LiteralistInterpretationofGenesis]] — 【無知】が世界の真実として「5分前に誕生した」ことを認識している記述は、世界の物理法則や歴史が神（語り手）の即興的な語りに依存するメタ構造を明示し、「記述＝事実」という権力を示唆している。
+- [[A_ch5291_parodies_E_p16_Creationism／LiteralistInterpretationofGenesis]] — 【小鬼】が世界の真実として「5分前に誕生した」ことを認識している記述は、世界の物理法則や歴史が神（エレクトラ・ラムンゼン）の即興的な語りに依存するメタ構造を明示し、「記述＝事実」という権力を示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 無知 | 小鬼 | 明言 | 1 |
+| 語り手 | エレクトラ・ラムンゼン | 明言 | 1 |

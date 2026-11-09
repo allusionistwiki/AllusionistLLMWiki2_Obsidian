@@ -9,7 +9,7 @@ canonical_name: "cloud_computing_backup"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_cloud_computing_backup.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5316_analogous_to_E_p31_cloud_computing_backup]] — トリシューラが人格データを特定の物理媒体に依存させず「クラウド」へと展開する行為は、データ喪失リスクへの対策という情報工学的なバックアップ・冗長化の論理を物語世界へ移植したものである。
+- [[A_ch5316_analogous_to_E_p31_cloud_computing_backup]] — コルセスカが人格データを特定の物理媒体に依存させず「クラウド」へと展開する行為は、データ喪失リスクへの対策という情報工学的なバックアップ・冗長化の論理を物語世界へ移植したものである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

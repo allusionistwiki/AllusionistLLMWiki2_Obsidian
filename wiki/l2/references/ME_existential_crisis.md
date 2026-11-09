@@ -9,7 +9,7 @@ canonical_name: "existential_crisis"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_existential_crisis.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5057_structurally_matches_E_p204-p236_existential_crisis]] — 勝利条件が曖昧で「自我の証明」を求め続けるトリシューラの状況は、確定的なゴールを持たない存在としての現代人の実存的不安と構造的に同型である。
+- [[A_ch5057_structurally_matches_E_p204-p236_existential_crisis]] — 勝利条件が曖昧で「自我の証明」を求め続けるコルセスカの状況は、確定的なゴールを持たない存在としての現代人の実存的不安と構造的に同型である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

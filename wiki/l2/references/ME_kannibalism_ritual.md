@@ -9,7 +9,7 @@ canonical_name: "kannibalism_ritual"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_kannibalism_ritual.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5305_parodies_E_vivi_eaten_kannibalism_ritual]] — ヴィヴィが少女に喰われる描写は、生者の身体を解体・摂取する過程を詳細に描くことで、存在の融合や変質を示唆している。
+- [[A_ch5305_parodies_E_vivi_eaten_kannibalism_ritual]] — ヴィヴィがグラッフィアガットに喰われる描写は、生者の身体を解体・摂取する過程を詳細に描くことで、存在の融合や変質を示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 少女 | グラッフィアガット | 明言 | 1 |

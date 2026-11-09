@@ -12,17 +12,17 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/characters/E_char_男子生徒.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
-# カイン子生徒
+# キロン子生徒
 
 （本文：人間が記述する部分。自動生成では変更されません。）
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
-- **unknown**: 「人、それは人（ヒューマン）だ！
-- **unknown**: 「人、それは人（ヒューマン）だ！
+- **unknown**: 「人、それは人（人）だ！
+- **unknown**: 「人、それは人（人）だ！
 
 <!-- /AUTO-GENERATED:speech -->
 
@@ -31,14 +31,16 @@ l2_run: 20261029T0843_c8bb
 
 この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
 
-この名義は L2 名前統合台帳の正規エンティティ **カイン子生徒**（ID `E_char_カイン子生徒` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **キロン子生徒**（ID `E_char_キロン子生徒` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 男 | カイン | 蓋然性高 | 3 |
+| 男 | キロン | 明言 | 3 |
+| ヒューマン | 人 | 明言 | 2 |
+| ティティ | 彩域 | 明言 | 1 |

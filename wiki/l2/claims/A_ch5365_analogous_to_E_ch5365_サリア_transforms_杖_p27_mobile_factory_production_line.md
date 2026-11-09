@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5365_analogous_to_E_ch5365_サリア_transforms_杖_p27_mobile_factory_production_line.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# 魔法使いの『箒』を、自動生産ラインを持つ最小規模の工場（前装式小銃の排出とドローンによる保持）として再定義している。
+# 魔法使いの身体性の拡張を、自動生産ラインを持つ最小規模の工場（前装式小銃の排出とドローンによる保持）として再定義している。
 
 > 腰のスカート状パーツから次々と前装式の小銃を排出し、背中から飛び出してくるコウモリモチーフのドローンがそれらを保持していく（p27）
 
@@ -31,8 +31,9 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 杖 | 箒 | 明言 | 2 |
+| 『杖』 | 身体性の拡張 | 明言 | 1 |
+| 杖 | 箒 | 明言 | 1 |

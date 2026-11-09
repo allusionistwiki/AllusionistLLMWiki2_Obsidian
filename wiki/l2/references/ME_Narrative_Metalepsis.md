@@ -9,7 +9,7 @@ canonical_name: "Narrative_Metalepsis"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Narrative_Metalepsis.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5295_structurally_matches_E_ch5295_俺_other_ゲーム盤_p3_Narrative_Metalepsis]] — 「盤面の上で駒を動かし、賽子を振る」という描写は、物語の構造そのもの（運命に翻弄される主人公）をボードゲームのメタファーとして可視化しており、ガドカレクがゲームマスター（神/作者）であることを示唆している。
+- [[A_ch5295_structurally_matches_E_ch5295_俺_other_ゲーム盤_p3_Narrative_Metalepsis]] — 「盤面の上で駒を動かし、賽子を振る」という描写は、物語の構造そのもの（運命に翻弄されるプロタゴニスト）をボードゲームのメタファーとして可視化しており、ガドカレクがゲームマスター（神/作者）であることを示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

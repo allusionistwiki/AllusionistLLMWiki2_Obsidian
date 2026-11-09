@@ -9,7 +9,7 @@ canonical_name: "Addiction_Treatment"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Addiction_Treatment.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,15 +20,16 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5060_analogous_to_E_5060_p134_Addiction_Treatment]] — アキラくんの暴力への依存を「治す」のではなく「利用する（道場経営）」というトリシューラの提案は、依存症治療における害の最小化（Harm Reduction）や、特性をビジネス資源へ転換するリハビリテーション思想にアナロギアされる。
+- [[A_ch5060_analogous_to_E_5060_p134_Addiction_Treatment]] — 語り手の暴力への依存を「治す」のではなく「利用する（道場経営）」というコルセスカの提案は、依存症治療における害の最小化（Harm Reduction）や、特性をビジネス資源へ転換するリハビリテーション思想にアナロギアされる。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アキラ | アキラくん | 高 | 1 |
+| アキラ | 語り手 | 明言 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |
 | 類推 | アナロギア | 蓋然性高 | 1 |

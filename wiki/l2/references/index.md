@@ -3,14 +3,14 @@ title: 外部参照（章・話別）
 id: references/index
 description: 引喩先の現代文化・思想・作品の解説ページ（初出話別）
 normalized_from: l1/references/index.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 外部参照（章・話別）
 
-全 **2582 件**。アナロギアクレームの「引喩先」にあたる現代の保険商品、ガチャ課金、AR ゲーム、安楽死の倫理、テセウスの船、武侠小説……といった外部概念の解説ページです。各ページにそれを引喩として使っているクレームの一覧（backlinks）が自動で集まります。
+全 **2582 件**。アナロギアクレームの「アリュージョン先」にあたる現代の保険商品、ガチャ課金、AR ゲーム、安楽死の倫理、テセウスの船、武侠小説……といった外部概念の解説ページです。各ページにそれをアリュージョンとして使っているクレームの一覧（backlinks）が自動で集まります。
 
-分類は「その概念を引喩として使ったクレームの初出話」です。
+分類は「その概念をアリュージョンとして使ったクレームの初出話」です。
 
 ### 第3（カクヨム版）：カクヨム 第1章　隻腕義手のスワン　1-3　無彩色の左手、鎧の右手③
 
@@ -55,7 +55,7 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_dungeon_master_sandbox_control|ダンジョンマスター制御]]
 - [[ME_modern_urban_sanitation_and_looting|遺体処理と略奪]]
-- [[ME_reincarnation_power_fantasy|転生者特権の逆説]]
+- [[ME_reincarnation_power_fantasy|ゼノグラシア特権の逆説]]
 - [[ME_team_bonding_rituals|チーム結束儀式]]
 - [[ME_video_game_magic_systems|ゲーム的魔法体系]]
 
@@ -119,7 +119,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_dnd_magic_items|TRPG魔法道具]]
 - [[ME_frankenstein_myth|フランケンシュタイン神話]]
 - [[ME_misdirection_theater|ミスディレクション劇場]]
-- [[ME_online_identity|オンライン上のアイデンティティ]]
+- [[ME_online_identity|オンライン上のアイデン彩域]]
 
 ### 第19（カクヨム版）：カクヨム 第1章　隻腕義手のスワン　1-19　無彩色の左手、鎧の右手⑲
 
@@ -133,8 +133,8 @@ l2_run: 20261029T0843_c8bb
 ### 第20（カクヨム版）：カクヨム 第1章　隻腕義手のスワン　1-20　無彩色の左手、鎧の右手⑳
 
 - [[ME_Abraham_Lincoln|エイブラハム・リンカーン]]
-- [[ME_Avatar_2009|映画『アバター』]]
-- [[ME_Cold_War_Proxy_Wars|冷戦・代理戦争]]
+- [[ME_Avatar_2009|映画『デーモン』]]
+- [[ME_Cold_War_Proxy_Wars|冷戦・代理ゲーム]]
 - [[ME_Colonialism_in_Isekai_Genre|異世界植民地主義]]
 - [[ME_United_Nations_Security_Council|国連安保理]]
 - [[ME_Video_Game_Day_Night_Cycle_Timer|ゲーム内時間制限]]
@@ -143,11 +143,11 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_ai_ethics_consciousness|AI意識とクオリア]]
 - [[ME_dark_web_marketplaces|ダークウェブ市場]]
-- [[ME_isekai_hero_cliché|異世界主人公テンプレ]]
+- [[ME_isekai_hero_cliché|異世界プロタゴニストテンプレ]]
 - [[ME_retroactive_causality_paradox|遡及因果殺害]]
 - [[ME_video_call_software|映像通信・ビデオ召喚]]
 
-### 第22（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-1　氷血のコルセスカ①
+### 第22（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-1　クォーツウォッチの『上』①
 
 - [[ME_augmented_reality_advertising|AR広告の強制露出]]
 - [[ME_crowdsourced_surveillance|群衆によるデジタル監視]]
@@ -156,9 +156,9 @@ l2_run: 20261029T0843_c8bb
 - [[ME_real_life_language_barrier|現実の言語障壁]]
 - [[ME_universal_physical_constants|物理定数の普遍性]]
 
-### 第23（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-2　氷血のコルセスカ②
+### 第23（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-2　クォーツウォッチの『上』②
 
-- [[ME_geopolitical_proxy_war|地政学的代理戦争]]
+- [[ME_geopolitical_proxy_war|地政学的代理ゲーム]]
 - [[ME_human_trafficking_modern_slavery|人身売買と現代奴隷制]]
 - [[ME_intra_species_conflict|同族間紛争]]
 - [[ME_pidgin_creole_linguistics|ピジン・クレオール語]]
@@ -166,7 +166,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_smartphone_sleep_tracking_app|睡眠自動警戒]]
 - [[ME_urban_planning_autogenesis|自動生成都市計画]]
 
-### 第24（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-3　氷血のコルセスカ③
+### 第24（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-3　クォーツウォッチの『上』③
 
 - [[ME_Cyberpunk_Megacorp|サイバーパンク巨大企業]]
 - [[ME_Internet_Anonymity|ネット匿名性]]
@@ -175,7 +175,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Typical_Isekai_Cliché|異世界転生クリシェの逆転]]
 - [[ME_Yakuza_Organizational_Structure|ヤクザ組織構造の移植]]
 
-### 第25（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-4　氷血のコルセスカ④
+### 第25（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-4　クォーツウォッチの『上』④
 
 - [[ME_heidegger_phenomenology|ハイデガーの現象学]]
 - [[ME_japanese_regulatory_capture|規制産業の腐敗]]
@@ -183,16 +183,16 @@ l2_run: 20261029T0843_c8bb
 - [[ME_scientific_method|科学と非論理魔術]]
 - [[ME_turing_test_chatbot|チューリングテスト・チャットボット]]
 
-### 第26（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-5　氷血のコルセスカ⑤
+### 第26（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-5　クォーツウォッチの『上』⑤
 
 - [[ME_AIの機械学習・自然言語処理|AI機械学習・NLP]]
 - [[ME_AR拡張現実やVRのインターフェース|AR/VR界面]]
 - [[ME_SNS・インターネット上の炎上・群衆心理|ネット炎上・群衆心理]]
 - [[ME_カスタマーサポート・チャットボットの会話ログ収集|チャットボット学習データ収集]]
-- [[ME_ゲームにおけるヒットボックス判定範囲の拡大|空間圧縮技術]]
+- [[ME_ゲームにおけるヒットボックス判定範囲の拡大|アカシャ間圧縮技術]]
 - [[ME_文化人類学における記号論・意味論|記号論的言語観]]
 
-### 第29（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-8　転生者《ゼノグラシア》③
+### 第29（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-8　ゼノグラシア《ゼノグラシア》③
 
 - [[ME_ゼロ・トラストセキュリティZeroTrustArchitecture|ゼロ・トラスト]]
 - [[ME_企業ブランドや社会的地位による契約担保シグナリング理論|ステータス担保シグナリング]]
@@ -201,7 +201,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_異世界転生ジャンルにおける共食による絆形成クリシェ|共食絆の逆転]]
 - [[ME_透明性のない監視社会の建築パノプティコン|非対称な監視]]
 
-### 第30（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-9　転生者《ゼノグラシア》④
+### 第30（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-9　ゼノグラシア《ゼノグラシア》④
 
 - [[ME_dungeon_rpg_standard_party|RPG定番パーティ構成]]
 - [[ME_intellectual_property_rights_system|知的財産権制度]]
@@ -210,7 +210,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_modern_wage_labor_exploitation|労働搾取と貧困]]
 - [[ME_surveillance_society_tracking|監視社会・アルゴリズム評価]]
 
-### 第31（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-10　転生者《ゼノグラシア》⑤
+### 第31（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-10　ゼノグラシア《ゼノグラシア》⑤
 
 - [[ME_ar_augmented_reality|拡張現実とHUD]]
 - [[ME_flashbang_grenade|スタングレネード]]
@@ -219,7 +219,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_yakuza_etiquette|ヤクザの礼儀作法]]
 - [[ME_zoning_laws|ゾーニング法規制]]
 
-### 第33（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-12　転生者《ゼノグラシア》⑦
+### 第33（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-12　ゼノグラシア《ゼノグラシア》⑦
 
 - [[ME_現代のSNSでの顔写真投稿・タグ付け|SNSタグ付け]]
 - [[ME_現代のアプリ利用規約・同意プロセス|アプリ利用規約]]
@@ -261,7 +261,7 @@ l2_run: 20261029T0843_c8bb
 
 ### 第39（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-18　魔女と狂犬④
 
-- [[ME_augmented_reality_and_spatial_computing|ARと空間演算]]
+- [[ME_augmented_reality_and_spatial_computing|ARとアカシャ間演算]]
 - [[ME_emotion_regulation_and_suppression_technologies|感情制御技術]]
 - [[ME_gacha_game_simulation_and_strategy_planning|ガチャ戦略シミュレーション]]
 - [[ME_memory_reconsolidation_and_malleability_of_truth|記憶再統合と真実の変容]]
@@ -273,8 +273,8 @@ l2_run: 20261029T0843_c8bb
 ### 第40（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-19　魔女と狂犬⑤
 
 - [[ME_Altruism_Hypocrisy|利他主義の偽善性]]
-- [[ME_Archetypal_Rational_Protagonist|合理的主人公の定型]]
-- [[ME_Metaverse_Avatar_Cosmetics|アバターカスタム]]
+- [[ME_Archetypal_Rational_Protagonist|合理的プロタゴニストの定型]]
+- [[ME_Metaverse_Avatar_Cosmetics|デーモンカスタム]]
 - [[ME_Survivorship_Bias_Media_Metrics|生存者バイアス]]
 
 ### 第41（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-20　魔女と狂犬⑥
@@ -291,7 +291,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_ガジェット依存症からの離脱・自己責任論|主体性の回復]]
 - [[ME_冷徹な合理性を演じるアニメ主人公例：コードギアス等|コードギアス的合理]]
 - [[ME_古代日本の怨霊信仰・呪詛|怨霊信仰]]
-- [[ME_植民地支配者／観察者としての野蛮人研究|植民地人類学]]
+- [[ME_植民地支配者／観察者としての野蛮人研究|植民地ロマンカインド学]]
 
 ### 第44（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-23　魔女と狂犬⑨
 
@@ -300,7 +300,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_ME_engineering_discipline_classification|魔法の工学分類]]
 - [[ME_ME_game_logic_exception_handling|ゲーム例外処理]]
 - [[ME_ME_haptic_feedback_ar|AR触覚フィードバック]]
-- [[ME_ME_identity_politics_theme|異物のアイデンティティ]]
+- [[ME_ME_identity_politics_theme|異物のアイデン彩域]]
 - [[ME_ME_smartphone_translation_overlay|ARリアルタイム字幕]]
 - [[ME_ME_xenoglossia_concept|ゼノグラシア]]
 
@@ -321,7 +321,7 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_AIへの倫理的規制・人格権論争|AI人格権論争]]
 - [[ME_AR技術／拡張現実|ARテレポート]]
-- [[ME_HoloLens等の空間計算機|HoloLens空間計算]]
+- [[ME_HoloLens等の空間計算機|HoloLensアカシャ間計算]]
 - [[ME_Minecraft等のブロック構築ゲーム|マインクラフト的拠点建築]]
 - [[ME_マッチポンプ／自作自演|マッチポンプ]]
 - [[ME_労働市場での評価・年功序列|社会的評価]]
@@ -433,7 +433,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_ME_cloud_saas_platform|クラウドSaaS]]
 - [[ME_ME_labor_rights_freelance|フリーランス契約]]
 - [[ME_ME_mariage_blue_psychology|マリッジブルー]]
-- [[ME_ME_neoliberalism_inequality|新自由主義格差]]
+- [[ME_ME_neoliberalism_inequality|新フェロニア主義格差]]
 - [[ME_ME_sacred_marriage_ritual|聖婚儀礼]]
 - [[ME_ME_sympathetic_magic_analogy|交感魔法]]
 
@@ -495,12 +495,12 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_bioethics_dilemma|生体倫理タブー]]
 - [[ME_procedural_generation|迷宮のプロシージャル生成]]
-- [[ME_satanic_eye_myth|邪視と眼球の逆説]]
+- [[ME_satanic_eye_myth|ファシネイトと眼球の逆説]]
 - [[ME_yandere_archetype|狂気的ヤンデレの暴力性]]
 
 ### 第78（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-57　キロン③
 
-- [[ME_VRゲーム／アバター操作|VRアバターの消失と喪失感]]
+- [[ME_VRゲーム／アバター操作|VRデーモンの消失と喪失感]]
 - [[ME_スマホゲームのガチャ／スキルカード|スマホガチャ]]
 - [[ME_メデューサ神話|メデューサ]]
 - [[ME_西洋神話の冥界／魔女|冥界の魔女]]
@@ -508,7 +508,7 @@ l2_run: 20261029T0843_c8bb
 ### 第79（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-58　キロン④
 
 - [[ME_game_mechanics_weakness|属性相性弱点]]
-- [[ME_medusa_mythology|邪視呪い神話]]
+- [[ME_medusa_mythology|ファシネイト呪い神話]]
 - [[ME_stoicism|ストア哲学]]
 - [[ME_tsundere_support_role|隠し味方的ツンデレ]]
 - [[ME_video_game_save_point|観測者としてのセーブポイント]]
@@ -537,7 +537,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_スマホゲームのガチャや課金要素|ガチャ・課金圧迫]]
 - [[ME_労働価値説における最小限の生産活動|労働価値説]]
 - [[ME_因果律の逆転や概念操作|因果律の逆転]]
-- [[ME_物語論におけるメタ主人公補正|メタ主人公補正]]
+- [[ME_物語論におけるメタ主人公補正|メタプロタゴニスト補正]]
 
 ### 第83（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-62　キロン⑧
 
@@ -738,7 +738,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_media_propaganda_fake_news|フェイクニュース]]
 - [[ME_superhero_narrative_trope|スーパーヒーロー類型]]
 - [[ME_telepathy_sci_fi_concept|SF的テレパシー]]
-- [[ME_war_crime_collateral_damage|戦争犯罪・付随的損害]]
+- [[ME_war_crime_collateral_damage|ゲーム犯罪・付随的損害]]
 - [[ME_myth_faust_bargain|ファウストの取引]]
 
 ### 第111（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-90　サイバネティクスとオカルティズムの幸福なマリアージュ⑥
@@ -793,20 +793,20 @@ l2_run: 20261029T0843_c8bb
 - [[ME_神曲・天国篇のベアトリーチェ|堕天したセレクティフィレクティ]]
 - [[ME_自己犠牲の騎士道|悪役による自己犠牲]]
 
-### 第118（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-97　転章『その名はアズーリアーリア』
+### 第118（カクヨム版）：カクヨム 第2章　もしサイバーパン　2-97　転章『その名はマリー』
 
 - [[ME_ancient_empires_collapse|古代帝国崩壊]]
 - [[ME_bug_fixing_software|バグ修正]]
-- [[ME_hindu_mythology_trishula|トリシューラの権威]]
+- [[ME_hindu_mythology_trishula|コルセスカの権威]]
 - [[ME_hindu_sati_custom|サティと破壊再生]]
 - [[ME_pvp_game_ranking|PvPランキング]]
 - [[ME_satoshi_matsuda_cyborg|松田サトシ・サイボーグ]]
 
-### 第119（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-0　どうして空は青いの？
+### 第119（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-0　どうしてアカシャは青いの？
 
 - [[ME_Firewall|ファイアウォール]]
 - [[ME_GUI_Metaphor|GUIメタファー]]
-- [[ME_Moe_Avatar_Trope|萌えアバターの乖離]]
+- [[ME_Moe_Avatar_Trope|萌えデーモンの乖離]]
 - [[ME_Rayleigh_Scattering|レイリー散乱]]
 - [[ME_Structuralism|構造主義]]
 - [[ME_Tritshula_Neurology|神経学的メタファー]]
@@ -879,7 +879,7 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_authoritarian_pedagogy|権威主義的育成]]
 - [[ME_copy_and_paste_programming|コピペプログラミング]]
-- [[ME_drone_warfare|ドローン戦争]]
+- [[ME_drone_warfare|ドローンゲーム]]
 - [[ME_inquisition_authority|宗教審問権力]]
 - [[ME_reputation_as_currency|名声という通貨]]
 - [[ME_smartphone_communication|スマホ遠隔招集]]
@@ -925,7 +925,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Intellectual_Hyperfocus|知的過集中]]
 - [[ME_Post_Modern_Narrative|ポストモダンナラティブ]]
 - [[ME_Social_Media_Viral_Trend|SNS的拡散現象]]
-- [[ME_Transmigrator_Name_Meaning|転生者の命名依存]]
+- [[ME_Transmigrator_Name_Meaning|ゼノグラシアの命名依存]]
 
 ### 第137（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-18　言の葉遣いは躊躇わない⑬
 
@@ -938,7 +938,7 @@ l2_run: 20261029T0843_c8bb
 
 ### 第139（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-20　言の葉遣いは躊躇わない⑮
 
-- [[ME_concept_body_horror|侵蝕される美肉]]
+- [[ME_concept_body_horror|侵アタリアされる美肉]]
 - [[ME_concept_torture_brainwashing|強制精神支配]]
 - [[ME_game_mechanic_gacha|法則超越命名]]
 - [[ME_trope_death_scene|死に際の師弟愛]]
@@ -956,7 +956,7 @@ l2_run: 20261029T0843_c8bb
 ### 第143（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-24　魔女と英雄②
 
 - [[ME_Black_Market_Trade|闇取引・非公式交換]]
-- [[ME_Castrati_System|隔離修道院・宦官制]]
+- [[ME_Castrati_System|カーティス修道院・宦官制]]
 - [[ME_Machiavellian_Realpolitik|マキャヴェリスム]]
 - [[ME_Mythical_Basilisk|バジリスク]]
 - [[ME_Religious_Martyrdom|宗教的殉教]]
@@ -977,7 +977,7 @@ l2_run: 20261029T0843_c8bb
 ### 第146（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-27　魔女と英雄⑤
 
 - [[ME_inventory_management_game|インベントリ儀式]]
-- [[ME_sense_of_vision|邪視の解体]]
+- [[ME_sense_of_vision|ファシネイトの解体]]
 - [[ME_shonen_rage_trope|少年漫画的激情]]
 
 ### 第147（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-28　魔女と英雄⑥
@@ -989,7 +989,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_現代医学における処置前の診断プロセス|事前診断]]
 - [[ME_異世界転生作品の主人公による死の否定ハルシネーション・現実拒否|死の否認]]
 
-### 第149（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-30　言理の妖精語りて曰く①
+### 第149（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-30　エル・ア・フィリス語りて曰く①
 
 - [[ME_Gacha_Pull|ガチャ投擲・不確実性]]
 - [[ME_Gremlin_Mythology|グレムリン伝承]]
@@ -998,7 +998,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Rodinio_Three_Legged_Birds|三足烏伝承]]
 - [[ME_RPG_Critical_Hit|クリティカル判定]]
 
-### 第150（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-31　言理の妖精語りて曰く②
+### 第150（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-31　エル・ア・フィリス語りて曰く②
 
 - [[ME_Apoptosis誘発／テロメラーゼ阻害薬|細胞死・老化抑制]]
 - [[ME_DNA／RNAの塩基配列シークエンス|核酸情報・呪力源]]
@@ -1009,7 +1009,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_現代の密閉容器／潜水装備|生存装置]]
 - [[ME_聖書エゼキエル書の天使オファニム／チャイオト|オファニム]]
 
-### 第151（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-32　言理の妖精語りて曰く③
+### 第151（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-32　エル・ア・フィリス語りて曰く③
 
 - [[ME_conscientious_objector_scapegoat|良心的兵役拒否・スケープゴート]]
 - [[ME_deepfake_manipulation|ディープフェイク操作]]
@@ -1017,7 +1017,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_last_tribal_healer|最後の治療者]]
 - [[ME_medic_neutrality_doctrine|医療中立原則]]
 
-### 第152（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-33　言理の妖精語りて曰く④
+### 第152（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-33　エル・ア・フィリス語りて曰く④
 
 - [[ME_Death_Drive_Concept|死の欲動]]
 - [[ME_Divine_Blessing_Trope|祝福＝呪い]]
@@ -1026,14 +1026,14 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Save_Point_Restart_Mechanic|セーブポイント・ロールバック]]
 - [[ME_Zerg_Borg_Collective_Consciousness|集団意識体]]
 
-### 第153（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-34　言理の妖精語りて曰く⑤
+### 第153（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-34　エル・ア・フィリス語りて曰く⑤
 
 - [[ME_Anime_Villain_Trope|アニメ的ヴィラン]]
 - [[ME_Corporate_Slogan_Branding|企業スローガン・ブランディング]]
 - [[ME_Gacha_Game_Summoning|ガチャ召喚維持]]
 - [[ME_RPG_Elemental_Types|RPG属性相性]]
 
-### 第154（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-35　言理の妖精語りて曰く⑥
+### 第154（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-35　エル・ア・フィリス語りて曰く⑥
 
 - [[ME_ArtisticProduction,CommodityFetishism|芸術生産・商品フェティシズム]]
 - [[ME_FamilyValues,SolidarityAsWeakness|連帯は弱さ]]
@@ -1042,15 +1042,15 @@ l2_run: 20261029T0843_c8bb
 - [[ME_HumanPyramid,ChickenRopeFormation|人体ピラミッド]]
 - [[ME_MassPropaganda,Totalitarianism,RadicalizationAlgorithms|全体主義扇動]]
 
-### 第155（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-36　言理の妖精語りて曰く⑦
+### 第155（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-36　エル・ア・フィリス語りて曰く⑦
 
 - [[ME_Brainwashing_and_Corporate_Compliance|洗脳・企業コンプライアンス]]
 - [[ME_Corporate_Cartel_and_Niche_Marketing|企業カルテル・ニッチマーケ]]
-- [[ME_Heroic_Narrative_Agency|英雄の広告塔化]]
+- [[ME_Heroic_Narrative_Agency|英雄の広告ファルス化]]
 - [[ME_Self-Hypnosis_and_Power-Up_Mechanics|自己暗示強化]]
 - [[ME_Traffic_Accident_Reincarnation|トラック転生]]
 
-### 第156（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-37　言理の妖精語りて曰く⑧
+### 第156（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-37　エル・ア・フィリス語りて曰く⑧
 
 - [[ME_biological_macrophage_antibody|マクロファージ・抗体]]
 - [[ME_cycle_of_violence_abuse_survivor|暴力の連鎖・虐待生存者]]
@@ -1058,7 +1058,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_nuclear_deterrence_mutually_assured_destruction|相互確証破壊]]
 - [[ME_pharmaceutical_industry_monopoly|製薬業界の独占]]
 
-### 第157（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-38　言理の妖精語りて曰く⑨
+### 第157（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-38　エル・ア・フィリス語りて曰く⑨
 
 - [[ME_buddhist_attachment_aversion|仏教的執着・嫌悪]]
 - [[ME_milf_dynamics_modern|継母の権力構造]]
@@ -1066,7 +1066,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_trichotillomania_bexs|抜毛症・自傷]]
 - [[ME_war_of_attrition_ww1|第一次大戦の消耗戦]]
 
-### 第158（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-39　言理の妖精語りて曰く⑩
+### 第158（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-39　エル・ア・フィリス語りて曰く⑩
 
 - [[ME_Deepfake,Roleplay,Unreliable_Narrator|ディープフェイク・役作り]]
 - [[ME_History_Manipulation,Narrative_Power|歴史改変権力]]
@@ -1075,7 +1075,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Social_Media_Influence,Cultural_Shift|SNS文化変容]]
 - [[ME_Traditional_Heroism,Self_Sacrifice|自己犠牲的英雄像]]
 
-### 第159（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-40　言理の妖精語りて曰く⑪
+### 第159（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-40　エル・ア・フィリス語りて曰く⑪
 
 - [[ME_biblical_ezekiel_angel|エゼキエルの天使]]
 - [[ME_biological_sex_and_gender_duality|生物学的性・性別二元論]]
@@ -1084,7 +1084,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_postmodern_truth_and_myth|ポストモダン的真理]]
 - [[ME_science_fiction_weapons|SF兵器]]
 
-### 第160（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-41　言理の妖精語りて曰く⑫
+### 第160（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-41　エル・ア・フィリス語りて曰く⑫
 
 - [[ME_inquisitorial_archetypes|異端審問官像]]
 - [[ME_linguistic_determinism_and_logos|ロゴス支配論]]
@@ -1094,9 +1094,9 @@ l2_run: 20261029T0843_c8bb
 - [[ME_tolerated_corruption_in_bureaucracies|官僚制の腐敗黙認]]
 - [[ME_villainous_grandiloquence_tropes|悪役の壮大な口調]]
 
-### 第161（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-42　言理の妖精語りて曰く⑬
+### 第161（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-42　エル・ア・フィリス語りて曰く⑬
 
-- [[ME_Freud_Repression_Trauma|記憶操作とアイデンティティ破壊]]
+- [[ME_Freud_Repression_Trauma|記憶操作とアイデン彩域破壊]]
 - [[ME_Identity_Synthesis|属性の統合]]
 - [[ME_Internet_Meme_Incest_Joke|ネット近親相姦ネタ]]
 - [[ME_Media_Gender_Stereotype|ジェンダー規範]]
@@ -1117,27 +1117,27 @@ l2_run: 20261029T0843_c8bb
 - [[ME_jorge_luis_borges_fictions|ボルヘス作品]]
 - [[ME_social_media_bio_tags|SNSプロフィール]]
 
-### 第164（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-43　松明の騎士①
+### 第164（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-43　ソルダ①
 
 - [[ME_Modern_App_Safety_Features|現代アプリ的セキュリティ機能]]
 - [[ME_RPG_Item_Cooldowns|クールダウン]]
 - [[ME_Terraforming_Terminology|テラフォーミング]]
 - [[ME_Time_Manipulation_Narrative_Trope|時間操作の定石]]
 
-### 第166（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-45　松明の騎士③
+### 第166（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-45　ソルダ③
 
 - [[ME_brainwashing_scifi|記憶改変]]
 - [[ME_isekai_romance_cliche|異世界恋愛定石]]
 - [[ME_surveillance_state|監視国家]]
 
-### 第167（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-46　松明の騎士団①
+### 第167（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-46　ソルダ団①
 
 - [[ME_impostor_syndrome|インポスター症候群]]
 - [[ME_military_police_division|軍と警察の機能分担]]
 - [[ME_pet_culture_commodification|ペットの食文化化]]
 - [[ME_trauma_informed_care|トラウマ後の成長]]
 
-### 第169（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-48　松明の騎士団③
+### 第169（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-48　ソルダ団③
 
 - [[ME_customer_service_chatbot|チャットボット応答]]
 - [[ME_grinding_in_games|作業的戦闘]]
@@ -1145,28 +1145,28 @@ l2_run: 20261029T0843_c8bb
 - [[ME_null_pointer_error|ヌルポインタ参照]]
 - [[ME_video_game_mechanics|リスポーン機能]]
 
-### 第170（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-49　青の空、黒の空白①
+### 第170（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-49　青のアカシャ、黒のアカシャ白①
 
 - [[ME_Classical_Vanitas_Art|ヴァニタス絵画]]
 - [[ME_Digital_Art_Tablets|ペンタブレット]]
 - [[ME_Modern_Bullying_and_Death_Wish|虐待による死の願望]]
 - [[ME_Modern_High_End_Apartment|富裕層向け高級住宅]]
-- [[ME_Supernatural_Threat_Perspective|邪視・鑑賞者の支配]]
+- [[ME_Supernatural_Threat_Perspective|ファシネイト・鑑賞者の支配]]
 
-### 第171（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-50　青の空、黒の空白②
+### 第171（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-50　青のアカシャ、黒のアカシャ白②
 
 - [[ME_Biblical_Vanity_Vanity|虚無の力]]
 - [[ME_Biological_Organs_Metaphor|巨大生物比喩]]
 - [[ME_Magic_Witch_Standard|魔女の定石]]
 - [[ME_Nihilism_Philosophy|虚無主義の実体化]]
-- [[ME_Odins_Eye|オーディンの目・邪視]]
+- [[ME_Odins_Eye|オーディンの目・ファシネイト]]
 
 ### 第172（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-51　チョコレートリリー①
 
 - [[ME_cloning_and_avatar_control|霊体憑依操作]]
 - [[ME_corporate_infiltration_and_cyber_attack|死者の業務継続]]
 - [[ME_gods_playing_with_toy_soldiers|神々の玩具遊び]]
-- [[ME_identity_theft_and_spoofing|アイデンティティ偽装]]
+- [[ME_identity_theft_and_spoofing|アイデン彩域偽装]]
 - [[ME_saint_martyrdom|殉教の逆説]]
 - [[ME_wanted_list_in_games|ゲームの暗殺名簿]]
 
@@ -1181,7 +1181,7 @@ l2_run: 20261029T0843_c8bb
 
 ### 第175（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-54　チョコレートリリー④
 
-- [[ME_babel_myth|バベルの塔]]
+- [[ME_babel_myth|バベルのファルス]]
 - [[ME_computer_console_kernel|世界OSカーネル]]
 - [[ME_idol_secret_identity|アイドルの二重生活]]
 - [[ME_quantum_mechanics_double_slit|二重スリット実験]]
@@ -1229,7 +1229,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Linguistic_Turn_Semiotics|記号論的転回]]
 - [[ME_LLM_Text_Generation_Metaphor|LLMによる生成メタファー]]
 - [[ME_Philosophical_Zombie_Thought_Experiment|哲学的ゾンビ]]
-- [[ME_Protagonist_Guilt_Trauma|主人公の罪悪感]]
+- [[ME_Protagonist_Guilt_Trauma|プロタゴニストの罪悪感]]
 - [[ME_Zaibatsu_Collusion_Monopoly|独占資本主義]]
 
 ### 第184（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-62　無造作な死①
@@ -1270,7 +1270,7 @@ l2_run: 20261029T0843_c8bb
 
 ### 第188（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-64　言震《言震》①
 
-- [[ME_ar_vr_avatar_control|アバター遠隔操作]]
+- [[ME_ar_vr_avatar_control|デーモン遠隔操作]]
 - [[ME_atheism_vs_fantasy_gods|無神論的消去]]
 - [[ME_colonial_subjectification|植民地支配]]
 - [[ME_hostage_negotiation|人質交渉・相互死]]
@@ -1287,7 +1287,7 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_Alice_in_Wonderland_Cheshire_Cat|チェシャ猫]]
 - [[ME_Biblical_Eve_Apple|知恵の実]]
-- [[ME_Fairy_Tale_Narrator_Intervention|語り手のメタ介入]]
+- [[ME_Fairy_Tale_Narrator_Intervention|エレクトラ・ラムンゼンのメタ介入]]
 - [[ME_Pax_Lingua_Mechanism|言語秩序機構]]
 
 ### 第190（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-66　激光《レイジ》①
@@ -1298,13 +1298,13 @@ l2_run: 20261029T0843_c8bb
 - [[ME_narrative_therapy|ナラティブ・セラピー]]
 - [[ME_online_lurking|ROM行為]]
 - [[ME_spam_messages|スパム行為]]
-- [[ME_vtuber_avatars|バーチャルアバター]]
+- [[ME_vtuber_avatars|バーチャルデーモン]]
 
-### 第192（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　0-6　青空
+### 第192（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　0-6　青アカシャ
 
 - [[ME_arranged_marriage_politics|政略結婚]]
 - [[ME_labor_exploitation|報酬による搾取]]
-- [[ME_metanarrator_device|メタ語り手]]
+- [[ME_metanarrator_device|メタエレクトラ・ラムンゼン]]
 - [[ME_philosophy_qualia_problem|クオリア問題]]
 - [[ME_video_game_save_load|セーブ＆ロード]]
 
@@ -1374,7 +1374,7 @@ l2_run: 20261029T0843_c8bb
 
 ### 第211（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-85　奈落に飲まれ、闇に包まれる②
 
-- [[ME_ヘルメス・トリスメギストスの創生の闇コロニュービア|錬金術の黒化現象]]
+- [[ME_ヘルメス・トリスメギストスの創生の闇コロニュービア|錬金術のキメラ現象]]
 - [[ME_錬金術の象徴体系水銀／メルクリウス|錬金術の水銀元素]]
 
 ### 第212（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-87　影に沈み、振り返らずに去っていく②
@@ -1395,14 +1395,14 @@ l2_run: 20261029T0843_c8bb
 - [[ME_social_media_troll_abuse|誹謗中傷・炎上]]
 - [[ME_sunk_cost_and_justification|サンクコストの呪縛]]
 
-### 第215（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-90　チョコレートリリーの子供たち①
+### 第215（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-90　チョコレートリリー①
 
 - [[ME_data_deletion_corruption|データ破損]]
 - [[ME_epigenetics_atavism|祖先遺伝]]
 - [[ME_missile_defense_system|ミサイル防衛システム]]
 - [[ME_virus_variant_replacement|変異株による置換]]
 
-### 第216（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-91　チョコレートリリーの子供たち②
+### 第216（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-91　チョコレートリリー②
 
 - [[ME_cancer_metaphor|癌のメタファー]]
 - [[ME_game_difficulty_rage|難易度激怒]]
@@ -1415,8 +1415,8 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Deconstructionism|脱構築論]]
 - [[ME_Derrida_Differance|デリダ差延論]]
 - [[ME_Gutenberg_Galaxy|グーテンベルク銀河]]
-- [[ME_Halberd_Etymology|斧槍の語源]]
-- [[ME_Inkjet_Printing|インクジェット印刷]]
+- [[ME_Halberd_Etymology|ハルベルトの語源]]
+- [[ME_Inkjet_Printing|インク黒玉飛翔印刷]]
 - [[ME_Library_of_Babel|バベルの図書館]]
 - [[ME_Lévi-Strauss_Bricolage|レヴィ＝ストロースのブリコラージュ]]
 - [[ME_Mind_Control_Propaganda|マインドコントロール]]
@@ -1460,13 +1460,13 @@ l2_run: 20261029T0843_c8bb
 - [[ME_speech_phonetics|音声学]]
 - [[ME_structural_linguistics|構造主義言語学]]
 
-### 第223（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-98　アズールなる青空に①
+### 第223（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-98　アズールなる青アカシャに①
 
 - [[ME_ethics_utilitarianism_vs_deontology|功利主義と義務論]]
 - [[ME_fractal_geometry_sierpinski_carpet|セルピンスキーカーペット]]
 - [[ME_isekai_cheat_knowledge_over_experience|知識優位とクオリア欠如]]
 
-### 第224（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-99　アズールなる青空に②
+### 第224（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-99　アズールなる青アカシャに②
 
 - [[ME_hard_problem_of_consciousness|意識の難問]]
 - [[ME_physicalism_reductionism|フィジカリズム・還元主義]]
@@ -1475,7 +1475,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_swampman_thought_experiment|スワンプマン思想実験]]
 - [[ME_wave_particle_duality|波と粒子の二重性]]
 
-### 第225（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-100　アズールなる青空に③
+### 第225（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-100　アズールなる青アカシャに③
 
 - [[ME_collaborative_knowledge_management|協調的知識管理]]
 - [[ME_dungeons_and_dragons_cliche|TRPG的殺戮の義務]]
@@ -1505,20 +1505,20 @@ l2_run: 20261029T0843_c8bb
 - [[ME_narrative_director|演出家としての視点]]
 - [[ME_talking_weapon|意思を持つ刀]]
 
-### 第229（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　0-7　第九フィリス
+### 第229（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　0-7　第九魔将
 
 - [[ME_corporate_structure|企業組織構造]]
 - [[ME_game_achievements|実績解除]]
 - [[ME_hyperlink_web|ハイパーリンク移動]]
 - [[ME_wuxia_sect|武侠門派]]
 
-### 第231（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-0　死人の楽園
+### 第231（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-0　ヒュールサス
 
 - [[ME_Biological_Parasite|人面疽]]
 - [[ME_Biology_Vagina_Dentata|牙陰]]
 - [[ME_Fantasy_Elf|メタフィクショナルエルフ]]
 - [[ME_Folklore_Werewolf|人カイン伝承]]
-- [[ME_History_Medieval_Queen_Rule|中世絶対王政的支配]]
+- [[ME_History_Medieval_Queen_Rule|中世絶対霊媒政的支配]]
 - [[ME_Literature_FairyTale|童話的禁破り]]
 - [[ME_Organized_Crime_Yakuza|ヤクザ]]
 - [[ME_RealWorld_Sumoy|相撲様式の模倣]]
@@ -1526,7 +1526,7 @@ l2_run: 20261029T0843_c8bb
 ### 第232（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-1　道場
 
 - [[ME_AR_game_companion_app|ARサポートUI]]
-- [[ME_Familiar_Mage_Trope|使い魔の定石]]
+- [[ME_Familiar_Mage_Trope|ペットの定石]]
 - [[ME_Fitness_App_Data_Economy|フィットネスアプリ]]
 - [[ME_Metaphysical_Agates|天眼石の魔除け]]
 - [[ME_Monster_Hunt_Rank_Icons|アクションゲームUI演出]]
@@ -1536,11 +1536,11 @@ l2_run: 20261029T0843_c8bb
 ### 第233（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-2　風の吹く丘
 
 - [[ME_cyberpunk_workforce_exploitation|労働搾取と改変]]
-- [[ME_e-sports_and_proxied_warfare|代理戦争としてのeスポーツ]]
+- [[ME_e-sports_and_proxied_warfare|代理ゲームとしてのeスポーツ]]
 - [[ME_labor_standards_and_black_corporate_culture|ブラック企業文化批判]]
 - [[ME_mongolian_deel_and_nomadic_culture|モンゴル服デール]]
 
-### 第234（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-3　王国
+### 第234（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-3　霊媒国
 
 - [[ME_colonial_legitimacy|植民地の正統性]]
 - [[ME_dog_food_marketing|ペットフード広告]]
@@ -1589,14 +1589,14 @@ l2_run: 20261029T0843_c8bb
 
 ### 第239（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-8　白骨迷宮
 
-- [[ME_cyber_karate_as_a_service|サイバー空手SaaS]]
+- [[ME_cyber_karate_as_a_service|サイバーアカシャ手SaaS]]
 - [[ME_damocles_sword_metaphor|構造上の脆さの象徴]]
 - [[ME_inflation_of_magic_items|魔法アイテムのインフレ]]
 - [[ME_livestock_management_in_industrial_farming|工業的家畜管理]]
 - [[ME_mind_as_software_hardware_linkage|心身連関論]]
 - [[ME_utilitarian_ethics_vs_virtue_ethics|功利vs德行倫理]]
 
-### 第240（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-9　女王と駄犬
+### 第240（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-9　ニケと駄犬
 
 - [[ME_RPGのクラス制限と装備解放|適外武器ペナルティ]]
 - [[ME_クトゥルフ神話の不可視性・恐怖|クトゥルフ的ホラー]]
@@ -1623,7 +1623,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_commodity_fetishism_marx|商品フェティシズム]]
 - [[ME_jung_collective_unconscious|集合無意識]]
 - [[ME_military_robotization_and_special_forces|軍用ロボ・特殊部隊]]
-- [[ME_viral_content_memory_decay|バズと忘却の消滅]]
+- [[ME_viral_content_memory_decay|バズとオブリヴィオンの消滅]]
 
 ### 第244（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-13　加虐嗜好
 
@@ -1644,14 +1644,14 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Surrealist_Art_Dali_Melting_Watch|ダリの溶ける時計]]
 - [[ME_Tai_Chi_Push_Hands|太極拳の推手]]
 
-### 第247（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-16　空の玉座
+### 第247（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-16　アカシャの玉座
 
 - [[ME_Anti-Technology_Luddism|反技術主義]]
 - [[ME_Damocles_Sword_Legend|ダモクレスの剣]]
 - [[ME_Data_Mining_and_Big_Data|知の身体化パロディ]]
 - [[ME_Internet_as_ocean_metaphor|ネットを海に見立てる]]
 - [[ME_Marionette_Theater_Metaphor|マリオネット的人間観]]
-- [[ME_Parody_of_Typical_Isekai_Protagonist|異世界転生者パロディ]]
+- [[ME_Parody_of_Typical_Isekai_Protagonist|異世界ゼノグラシアパロディ]]
 
 ### 第248（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-17　二人の距離
 
@@ -1659,17 +1659,17 @@ l2_run: 20261029T0843_c8bb
 - [[ME_snow_white_folklore|白雪姫・逆転神話]]
 - [[ME_system_overload|システム過負荷（Overload）]]
 
-### 第249（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-18　星見の塔トーナメント①
+### 第249（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-18　星見のファルストーナメント①
 
 - [[ME_SNSにおけるいいね数・フォロワー数|SNS指標と自己価値]]
-- [[ME_プロレスラーブリティッシュブルドッグ等|レスラーの転身劇]]
+- [[ME_プロレスラーブリティッシュブルドッグ等|カニャッツォの転身劇]]
 - [[ME_合気道・柔術の円転の理|円転の理]]
 - [[ME_格闘ゲームのメタゲーム|メタゲーム構造]]
 - [[ME_格闘技データ解析・スカウティング|スポーツデータ分析]]
 - [[ME_現代の健康食品・サプリメント広告|健康ビジネス誇大広告]]
 - [[ME_相撲の行司|SF的行司]]
 
-### 第250（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-19　星見の塔トーナメント②
+### 第250（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-19　星見のファルストーナメント②
 
 - [[ME_bureaucratic_intimidation|官僚的威圧・言霊]]
 - [[ME_cybernetic_augmentation_body_horror|サイボーグ・ボディホラー]]
@@ -1678,11 +1678,11 @@ l2_run: 20261029T0843_c8bb
 - [[ME_pet_owner_relationship|廃棄脅迫と所有]]
 - [[ME_samurai_suicide_hara_kiri|武士の切腹]]
 
-### 第251（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-20　星見の塔トーナメント③
+### 第251（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-20　星見のファルストーナメント③
 
 - [[ME_game_character_intro|キャラ登場演出]]
 
-### 第252（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-21　星見の塔トーナメント④
+### 第252（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-21　星見のファルストーナメント④
 
 - [[ME_anime_chibi_and_split_character_tropes|ちびキャラ・分裂]]
 - [[ME_cyberpunk_corporate_augmentation|サイバーパンク企業拡張]]
@@ -1692,14 +1692,14 @@ l2_run: 20261029T0843_c8bb
 - [[ME_sumo_technique_kotowaza|相撲古語技名]]
 - [[ME_video_game_new_game_plus|周回プレイ]]
 
-### 第254（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-23　星見の塔トーナメント⑥
+### 第254（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-23　星見のファルストーナメント⑥
 
 - [[ME_insurance_industry_profit_logic|保険産業の利益構造]]
 
-### 第255（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-24　星見の塔トーナメント⑦
+### 第255（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-24　星見のファルストーナメント⑦
 
 - [[ME_Drones_Regeneration_Control|遠隔操縦的再生制御]]
-- [[ME_Karate_Nokotta_Cry|空手の気合]]
+- [[ME_Karate_Nokotta_Cry|アカシャ手の気合]]
 - [[ME_MMA_Clinch_Technique|MMAクリンチ]]
 - [[ME_ProWrestling_Bearhug|ベアハッグ（熊式鯖折り）]]
 - [[ME_ProWrestling_Brainbuster|ブレーンバスター]]
@@ -1711,7 +1711,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Sumo_Kumadori_Tradition|歌舞伎隈取りの比喩]]
 - [[ME_Sumo_Yokozuna_Title|横綱称号の借用]]
 
-### 第257（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-26　星見の塔トーナメント⑨
+### 第257（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-26　星見のファルストーナメント⑨
 
 - [[ME_corporate_exploitation_of_labor|労働搾取]]
 - [[ME_gender_bias_in_society|ジェンダーバイアス]]
@@ -1743,17 +1743,17 @@ l2_run: 20261029T0843_c8bb
 - [[ME_gacha_game_ssr_pull|ガチャ召喚演出]]
 - [[ME_impact_crater_geology|隕石衝突クレーター]]
 - [[ME_metaphysical_determinism|運命決定論]]
-- [[ME_neoliberal_market_ideology|新自由主義市場原理]]
+- [[ME_neoliberal_market_ideology|新フェロニア主義市場原理]]
 - [[ME_programmer_bug_mislinking|変数衝突バグ]]
 - [[ME_puppet_theater_strings|人形劇の糸]]
 
-### 第261（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-30　死人の楽園の断章9　テスモポリス
+### 第261（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-30　ヒュールサスの断章9　フェロニア
 
 - [[ME_Eastern_Wanderers|東方放浪者崇拝]]
-- [[ME_Midas_Touch|ミダス王の指]]
+- [[ME_Midas_Touch|ミダス霊媒の指]]
 - [[ME_Miracle_of_Loaves|五餅二魚の奇跡]]
 
-### 第263（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-32　死人の楽園の断章8　境界に立つ者
+### 第263（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-32　ヒュールサスの断章8　境界に立つ者
 
 - [[ME_cyber_karate_vs_martial_art_genius|AI武術対天才]]
 - [[ME_greek_theater_as_ritual|ギリシア劇祭]]
@@ -1762,7 +1762,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_three_headed_dog_cerberus|三頭犬ケルベロス]]
 - [[ME_video_game_script_change_mechanic|動的な思考台本変更]]
 
-### 第264（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-33　死人の楽園の断章8　過去から過去へ、劇から劇へ
+### 第264（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-33　ヒュールサスの断章8　過去から過去へ、劇から劇へ
 
 - [[ME_ME_Cosplay_Mascot|着ぐるみマスコット]]
 - [[ME_ME_GunShu_Syncretism|神々の序列と統合]]
@@ -1771,23 +1771,23 @@ l2_run: 20261029T0843_c8bb
 - [[ME_ME_Prostitution_Economy|聖職者的性経済]]
 - [[ME_TrickArt|トリックアート]]
 
-### 第265（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-34　死人の楽園の断章6　病的グランギニョル①
+### 第265（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-34　ヒュールサスの断章6　病的グランギニョル①
 
 - [[ME_ME_heroine_archetype|美的資本主義的な英雄]]
 - [[ME_ME_permadeath|永続的死亡リスクの提示]]
 - [[ME_ME_procedural_generation|自動生成都市]]
 - [[ME_ME_speedrun_history_manipulation|歴史改変速走]]
 
-### 第266（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-35　死人の楽園の断章6　病的グランギニョル②
+### 第266（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-35　ヒュールサスの断章6　病的グランギニョル②
 
 - [[ME_Apexite|アエタイト鉱石]]
-- [[ME_Feminine_Beauty_Male_Gaze|カイン性視線下的美]]
+- [[ME_Feminine_Beauty_Male_Gaze|キロン性視線下的美]]
 - [[ME_Internet_Slang_NetCulture|ネットスラング・ネット文化]]
-- [[ME_Metaphor_of_King_as_Actor|王は役者]]
+- [[ME_Metaphor_of_King_as_Actor|霊媒は役者]]
 - [[ME_NestedDolls_Matryoshka|マトリョーシカ構造]]
 - [[ME_Pandora_Box_Mythology|パンドラの箱]]
 
-### 第268（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-37　死人の楽園の断章6　微睡む太陽と月のパペットリー①
+### 第268（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-37　ヒュールサスの断章6　微睡む太陽と月のパペットリー①
 
 - [[ME_abrupt_breakup_strategy|切断的解決]]
 - [[ME_attachment_theory|アタッチメント形成の描写]]
@@ -1796,7 +1796,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_modern_brand_economy|ブランド経済]]
 - [[ME_omen_of_apocalypse|終末の予兆]]
 
-### 第270（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-39　死人の楽園の断章6　微睡む太陽と月のパペットリー③
+### 第270（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-39　ヒュールサスの断章6　微睡む太陽と月のパペットリー③
 
 - [[ME_deferred_gratification_future_satisfaction|未来の満足の先送り]]
 - [[ME_digital_assets_ownership_laws|デジタル資産の所有権法]]
@@ -1819,16 +1819,16 @@ l2_run: 20261029T0843_c8bb
 - [[ME_舞台演出とプレイヤー介入のメタ構造|即興的逸脱]]
 - [[ME_言語の翻訳と認知負荷の消去|ナラティブ慣習]]
 
-### 第272（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-41　死人の楽園の断章5　正邪の双竜王
+### 第272（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-41　ヒュールサスの断章5　正邪の双竜霊媒
 
-- [[ME_Babylon_Tower|バベルの塔]]
-- [[ME_Babylon_Tower_Languages|言語混乱と塔]]
+- [[ME_Babylon_Tower|バベルのファルス]]
+- [[ME_Babylon_Tower_Languages|言語混乱とファルス]]
 - [[ME_Kama_Mithra_Roman_God|カマ・ミトラ]]
 - [[ME_Meta_Fiction_Medieval_Theatre|中世メタシアター]]
 - [[ME_Norse_Mythology_Gungnir|神話の戦枪グングニル]]
 - [[ME_Popper_Paradox_of_Tolerance|寛容のパラドックス]]
 
-### 第273（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-42　死人の楽園の断章5　外なる法①
+### 第273（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-42　ヒュールサスの断章5　外なる法①
 
 - [[ME_language_deprivation_as_exile|言語剥奪による追放]]
 - [[ME_meritocracy_ideology|能力主義イデオロギー]]
@@ -1836,7 +1836,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_modern_firearms_taboo|火器禁忌]]
 - [[ME_true_name_power|真名支配]]
 
-### 第274（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-43　死人の楽園の断章5　外なる法②
+### 第274（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-43　ヒュールサスの断章5　外なる法②
 
 - [[ME_modern_military_artillery|近代砲兵]]
 
@@ -1849,7 +1849,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_video_game_gacha_character_pool|ガチャキャラプール]]
 - [[ME_zombie_revival_glitch|蘇生バグ]]
 
-### 第276（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-45　死人の楽園の断章4　冥道の番犬
+### 第276（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-45　ヒュールサスの断章4　冥道の番犬
 
 - [[ME_ASDHD支援・合理的配慮論争|社会規範からの逸脱と排除]]
 - [[ME_アトピー性皮膚炎・慢性疾患患者への社会的スティグマ|慢性疾患の汚名]]
@@ -1860,14 +1860,14 @@ l2_run: 20261029T0843_c8bb
 - [[ME_医療経済・Triageトリアージ|医療資源のトリアージ]]
 - [[ME_家父長制下的な女性蔑視・子産み装置|子産み装置]]
 
-### 第277（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-46　死人の楽園の断章4　禁忌と罰
+### 第277（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-46　ヒュールサスの断章4　禁忌と罰
 
 - [[ME_Biological_Birth|生物学的出生]]
 - [[ME_Japanese_Religious_Syncretism|言霊信仰と死生観]]
 - [[ME_Metaphysics_of_Role_Playing|虚構の実体化]]
 - [[ME_Ritual_Sacrifice_and_Divine_Punishment|犠牲儀礼と神罰]]
 
-### 第279（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-48　死人の楽園の断章4　健康
+### 第279（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-48　ヒュールサスの断章4　健康
 
 - [[ME_ai_backup_and_cloud_computing|AIバックアップ]]
 - [[ME_eugenics_and_genetic_discrimination|優生学と遺伝差別]]
@@ -1884,7 +1884,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_pet_and_owner_relationship|擬似ペット飼育関係]]
 - [[ME_sociological_power_bases|社会学的権力基盤]]
 
-### 第281（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-50　死人の楽園の断章3　畏怖
+### 第281（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-50　ヒュールサスの断章3　畏怖
 
 - [[ME_modern_ai_generation|AI生成コンテンツ]]
 - [[ME_modern_ecosystem_logistics|グローバル物流]]
@@ -1892,17 +1892,17 @@ l2_run: 20261029T0843_c8bb
 - [[ME_modern_media_industry_structure|メディア複合企業]]
 - [[ME_modern_theater_production|現代演劇制作]]
 
-### 第282（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-51　死人の楽園の断章3　寝取られ王
+### 第282（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-51　ヒュールサスの断章3　寝取られ霊媒
 
 - [[ME_シェイクスピアリチャード二世における王の苦悩と隠者との対話|リチャード二世]]
 
-### 第283（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-52　死人の楽園の断章3　終端は弑された
+### 第283（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-52　ヒュールサスの断章3　終端は弑された
 
 - [[ME_colonial_anxiety|植民地支配の恐怖]]
 - [[ME_commodification_of_love|愛の商品化]]
-- [[ME_fictional_military_history|架空戦記]]
+- [[ME_fictional_military_history|架アカシャ戦記]]
 - [[ME_ineffable_horror|不可言説的恐怖]]
-- [[ME_prince_and_the_pauper|王子と乞食]]
+- [[ME_prince_and_the_pauper|霊媒子と乞食]]
 - [[ME_translation_cliche|翻訳の定訳]]
 
 ### 第284（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-53　不似合いな結びつき
@@ -1912,7 +1912,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Search_Engine_ALGOL|人間検索エンジン]]
 - [[ME_Shinto_Shihōshoku|弑のタブー]]
 
-### 第287（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-56　死人の楽園の断章2　パーン
+### 第287（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-56　ヒュールサスの断章2　パーン・ガレニス・クロウサー
 
 - [[ME_concept_metalepsis_fiction|メタレプシス]]
 - [[ME_concept_political_realpolitik|レアルポリティクス]]
@@ -1920,7 +1920,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_game_mechanic_power_creep|パワークリープ]]
 - [[ME_trope_cheat_power_limit_break|チート能力の限界]]
 
-### 第288（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-57　死人の楽園の断章2　冗長性ファントムペイン
+### 第288（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-57　ヒュールサスの断章2　冗長性ファントムペイン
 
 - [[ME_ME_Aesthetic_Violence|美しき暴力]]
 - [[ME_ME_Kimono_Martial_Arts|武侠・格闘ゲーム技法参照]]
@@ -1933,13 +1933,13 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_CorporateCompliance／CorporateGovernance|コンプライアンス・統治]]
 - [[ME_Creationism／LiteralistInterpretationofGenesis|創造論的解釈]]
-- [[ME_FranklinD_Roosevelt'sFourFreedoms|四大自由]]
+- [[ME_FranklinD_Roosevelt'sFourFreedoms|四大フェロニア]]
 - [[ME_Mega-corporateEmploymentStructure|巨大企業雇用構造]]
 - [[ME_MetaphysicalIdealism／Solipsism|唯心論的世界観]]
 - [[ME_MythofPersephoneandDemeter|ペルセポネーとデメテル]]
-- [[ME_PsychomancyDivinationbyShadow|影占い・因果操作]]
+- [[ME_PsychomancyDivinationbyShadow|プシュコマンシー・因果操作]]
 
-### 第292（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-61　死人の楽園の断章1　熱病のような加虐がカイン女の望み
+### 第292（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-61　ヒュールサスの断章1　熱病のような加虐がカイン女の望み
 
 - [[ME_hive_mind_vampire|吸血鬼集合知構造]]
 - [[ME_infinite_grinding_game|無限グリンド]]
@@ -1948,7 +1948,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_rats_as_plague_carriers|ペスト媒介者としての鼠]]
 - [[ME_shakespearean_love_tragedy|恋の悲劇]]
 
-### 第293（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-62　死人の楽園の断章1　集い
+### 第293（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-62　ヒュールサスの断章1　集い
 
 - [[ME_christian_iconography|キリスト教図像学]]
 - [[ME_literary_cliché_secret_society|秘密結社クリシェ]]
@@ -1957,7 +1957,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_public_health_inversion|逆説的公衆衛生]]
 - [[ME_vampire_folklore|吸血鬼伝承]]
 
-### 第294（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-63　死人の楽園の断章9　ひとりぼっちの王さま
+### 第294（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-63　ヒュールサスの断章9　ひとりぼっちの霊媒さま
 
 - [[ME_Hegel_Dialectics|ヘーゲル弁証法]]
 - [[ME_Jungian_Shadow_Integration|影の統合不全]]
@@ -1966,7 +1966,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Mental_Illness_Dissociation|解離性障害のメタファー]]
 - [[ME_Nietzsche_Eternal_Return|永劫回帰の環]]
 
-### 第295（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-64　死人の楽園の断章1　虚像を裂く
+### 第295（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-64　ヒュールサスの断章1　虚像を裂く
 
 - [[ME_Dante_Inferno,Medieval_Hell_Map|中世の冥界観]]
 - [[ME_Fundamental_Physics_Laws|自然法則の改変]]
@@ -1978,7 +1978,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Tolerant_Authoritarianism|寛容な権威主義]]
 - [[ME_Transhumanism,Mind_Uploading|意識アップロード]]
 
-### 第297（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-66　死人の楽園の断章1　コキュートス／ROUND1
+### 第297（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-66　ヒュールサスの断章1　コキュートス／ROUND1
 
 - [[ME_character_arc_lieulba|リールエルブスの弧]]
 - [[ME_console_gamepad|ゲームパッド操作]]
@@ -1988,7 +1988,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_shinto_ancient_magic|神話的混沌受容]]
 - [[ME_sumo_wrestling|相撲様式の戦闘]]
 
-### 第298（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-67　死人の楽園の断章2　コキュートス／ROUND2
+### 第298（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-67　ヒュールサスの断章2　コキュートス／ROUND2
 
 - [[ME_collection_gacha|収集ガチャ]]
 - [[ME_cyber_karate_martial_art|サイバーカラテ]]
@@ -1996,15 +1996,15 @@ l2_run: 20261029T0843_c8bb
 - [[ME_game_mechanics|ゲームメカニクス]]
 - [[ME_shonen_battle_logic|少年漫画式戦闘]]
 
-### 第299（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-68　死人の楽園の断章3　コキュートス／ROUND3
+### 第299（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-68　ヒュールサスの断章3　コキュートス／ROUND3
 
 - [[ME_Grendel_Infection|グレンデル汚染]]
 - [[ME_Mods_Fairness_Debate|改造コントローラー禁止論]]
-- [[ME_Nordic_Kings_Beheading|北欧王の断頭]]
+- [[ME_Nordic_Kings_Beheading|北欧霊媒の断頭]]
 - [[ME_ProWrestling_Techniques|プロレス技のクロスオーバー]]
 - [[ME_Ragnarok_Mythology|ラグナロク神話]]
 
-### 第300（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-69　死人の楽園の断章4　コキュートス／ROUND4
+### 第300（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-69　ヒュールサスの断章4　コキュートス／ROUND4
 
 - [[ME_AIナビゲーション／ゲームアシスタント機能|ゲームAI最適解提案]]
 - [[ME_プログラミング／コードによる世界生成|世界を記述するコード]]
@@ -2012,14 +2012,14 @@ l2_run: 20261029T0843_c8bb
 - [[ME_格闘ゲームのフレームデータ解析|フレームデータ解析]]
 - [[ME_格闘ゲームの入力遅延／入力補完機能|入力補完と操作ミス]]
 
-### 第301（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-70　死人の楽園の断章5　コキュートス／ROUND5
+### 第301（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-70　ヒュールサスの断章5　コキュートス／ROUND5
 
 - [[ME_Fairy_Tale_Mirror_Magic|鏡よ鏡・魔法]]
 - [[ME_Gaming_Keyboard_Input|キーボード入力]]
 - [[ME_Literary_Concept_Center_of_Narrative|物語の中心軸]]
 - [[ME_PuzzleGame_CubeRotation|回転パズルゲーム]]
 
-### 第302（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-71　死人の楽園の断章6　コキュートス／ROUND6
+### 第302（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-71　ヒュールサスの断章6　コキュートス／ROUND6
 
 - [[ME_ethics_utilitarianism_instrumentalism|道具主義と人間手段化]]
 - [[ME_meta_theater_world|世界上演論]]
@@ -2027,7 +2027,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_mythology_sphere_deity|球体神格]]
 - [[ME_tropes_deception|見せかけのボス]]
 
-### 第303（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-72　死人の楽園の断章∞　生と死／トライアンドエラー
+### 第303（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-72　ヒュールサスの断章∞　生と死／トライアンドエラー
 
 - [[ME_divine_comedy_virgil|神曲・ヴァージル]]
 - [[ME_maslow_hierarchy|マズローの欲求階層]]
@@ -2036,7 +2036,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_sword_in_the_stone|石に刺さった剣]]
 - [[ME_trial_and_error_software|試行錯誤反復]]
 
-### 第305（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-74　死人の楽園の断章∞　口付けるのは頬にだけ
+### 第305（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-74　ヒュールサスの断章∞　口付けるのは頬にだけ
 
 - [[ME_beowulf_monster_encounter|ベオウルフのグリンドル]]
 - [[ME_fairy_tale_marriage_plot|童話的結婚プロット]]
@@ -2046,11 +2046,11 @@ l2_run: 20261029T0843_c8bb
 - [[ME_survivor_guilt_defense_mechanism|生存者罪悪感防衛]]
 - [[ME_vampire_sleep_death_simulacrum|仮死睡眠]]
 
-### 第306（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-75　死人の楽園の断章∞　必ず貴方を迎えにいくから
+### 第306（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-75　ヒュールサスの断章∞　必ず貴方を迎えにいくから
 
 - [[ME_power_armor|パワードアーマー]]
 
-### 第307（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-76　トリシューラ・カムバック①
+### 第307（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-76　コルセスカ・カムバック①
 
 - [[ME_biological_defense_system|肉壁防御]]
 - [[ME_intergenerational_trauma|世代間トラウマ]]
@@ -2058,17 +2058,17 @@ l2_run: 20261029T0843_c8bb
 - [[ME_modular_consciousness|分散型AI的意識]]
 - [[ME_rivalry_and_inferiority_complex|競争社会と劣等感]]
 
-### 第308（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-77　トリシューラ・カムバック②
+### 第308（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-77　コルセスカ・カムバック②
 
 - [[ME_Mechanical_Humanism,Singularity|機械特異点論]]
 - [[ME_MMO_Tank_Class,Provocation_Mechanic|タンクと挑発メカニクス]]
-- [[ME_Mobius_Self,Digital_Avatar|デジタルアバター集合意識]]
+- [[ME_Mobius_Self,Digital_Avatar|デジタルデーモン集合意識]]
 
-### 第309（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-78　死人の楽園の断章∞　女王と錬鉄者①
+### 第309（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-78　ヒュールサスの断章∞　ニケとトバルカイン①
 
 - [[ME_sandbox_video_game|サンドボックスゲーム]]
 
-### 第310（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-79　死人の楽園の断章∞　女王と錬鉄者②
+### 第310（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-79　ヒュールサスの断章∞　ニケとトバルカイン②
 
 - [[ME_ai_targeting_system|AI照準支援システム]]
 - [[ME_arcade_game_life_system|残機と無敵時間]]
@@ -2078,11 +2078,11 @@ l2_run: 20261029T0843_c8bb
 - [[ME_real_life_consequences_of_sickness|病気のメタ的利得]]
 - [[ME_te_mane_bunshi_mythology|手孕説話]]
 
-### 第311（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-80　死人の楽園の断章∞　女王と錬鉄者③
+### 第311（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-80　ヒュールサスの断章∞　ニケとトバルカイン③
 
 - [[ME_ME.自己否定・前世の呪い|存在否定・浄化]]
 
-### 第313（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-82　星見の塔の大比武⑪　解説
+### 第313（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-82　星見のファルスの大比武⑪　解説
 
 - [[ME_bible_genesis|創世記の呪い]]
 - [[ME_character_commodity|キャラの commodification]]
@@ -2090,10 +2090,10 @@ l2_run: 20261029T0843_c8bb
 - [[ME_tibetan_buddhism|チベット仏教と兵器]]
 - [[ME_video_game_logic|ゲームロジック]]
 
-### 第314（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-83　星見の塔の大比武⑫　さいごの戦い
+### 第314（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-83　星見のファルスの大比武⑫　さいごの戦い
 
 - [[ME_BJDボールジョイントドール／着せ替え人形|球体関節人形]]
-- [[ME_アバター／バーチャルアイドル／ミームの集合体|ミーム的アイデンティティ]]
+- [[ME_アバター／バーチャルアイドル／ミームの集合体|ミーム的アイデン彩域]]
 - [[ME_インド神話／クルクシェートラ戦場|クルクシェートラ]]
 - [[ME_クラウドコンピューティング／サブスクリプションサービス|SaaSモデル借用]]
 - [[ME_ジェンダー社会学／ミソジニーとミサンドリー|ミソジニーとミサンドリー]]
@@ -2108,7 +2108,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_老人医療／介護用品おむつ・よだれかけ|老幼境界消去]]
 - [[ME_脳培養／人工知能のハードウェア|脳サーバー化]]
 
-### 第315（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-84　死人の楽園の／断章取義のアリュージョニスト①
+### 第315（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-84　ヒュールサスの／断章取義のアリュージョニスト①
 
 - [[ME_cybernetics|サイバネティクス]]
 - [[ME_human_worth_as_debt|人間の価値を負債とする]]
@@ -2121,7 +2121,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_surrealism|シュルレアリスム]]
 - [[ME_viral_trends|SNS炎上・トレンド]]
 
-### 第316（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-85　死人の楽園の／断章取義のアリュージョニスト②
+### 第316（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-85　ヒュールサスの／断章取義のアリュージョニスト②
 
 - [[ME_cloud_computing_backup|クラウドバックアップ]]
 - [[ME_cybernetics_classical_control_theory|古典制御理論批判]]
@@ -2129,7 +2129,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_mechanical_part_swap|人体の兵装化]]
 - [[ME_theater_of_the_absurd_role_playing|メタ演劇的な多面性]]
 
-### 第317（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-86　死人の楽園の／断章取義のアリュージョニスト③
+### 第317（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-86　ヒュールサスの／断章取義のアリュージョニスト③
 
 - [[ME_Borges_History_of_Imaginary_Beings|仮想使い魔辞典]]
 - [[ME_High_Speed_TAS_Gaming|TAS高速度操作]]
@@ -2162,7 +2162,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Japan_KinpiraGobo|きんぴらごぼうの郷愁]]
 - [[ME_Kindergarten_Teacher|幼稚園教諭]]
 - [[ME_Modern_Insect_Food_Trend|昆虫食普及]]
-- [[ME_Plant_Rhubarb|ルバーブ（大黄）]]
+- [[ME_Plant_Rhubarb|乱髪（スカルミリョーネ）（大黄）]]
 - [[ME_TV_FoodShow|TV料理番組的拡散]]
 
 ### 第325（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-94　ガイノイドの魔女①
@@ -2191,7 +2191,7 @@ l2_run: 20261029T0843_c8bb
 ### 第328（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-97　予兆
 
 - [[ME_cyborg_ship_of_theseus|テセウスの船逆説]]
-- [[ME_evil_eye_folklore|邪視信仰・民俗]]
+- [[ME_evil_eye_folklore|ファシネイト信仰・民俗]]
 - [[ME_generic_hero_mythology|汎用英雄神話]]
 - [[ME_government_taxation|政府課税]]
 - [[ME_gynoid_vs_android_concept|ガイノイド対比]]
@@ -2218,7 +2218,7 @@ l2_run: 20261029T0843_c8bb
 
 ### 第333（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-102　異界転生①
 
-- [[ME_heroic_tower_climax|英雄塔クライマックス]]
+- [[ME_heroic_tower_climax|英雄ファルスクライマックス]]
 - [[ME_reincarnation_trope|異世界転生の構造開示]]
 - [[ME_shakespearean_fool|シェイクスピアアルレッキーノ]]
 
@@ -2251,9 +2251,9 @@ l2_run: 20261029T0843_c8bb
 - [[ME_ai_game_coach|ゲームAIコーチ]]
 - [[ME_grinding_gauntlet|連戦消耗]]
 - [[ME_lord_pressure|支配者の圧力]]
-- [[ME_magic_tome_game_mechanic|魔導書のゲーム的機構]]
+- [[ME_magic_tome_game_mechanic|コンピュータのゲーム的機構]]
 - [[ME_marionette_string|操り糸の視覚化]]
-- [[ME_spider_goddess_arachne|蜘蛛女神アラクネ]]
+- [[ME_spider_goddess_arachne|蜘蛛シャーネスアラクネ]]
 
 ### 第339（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-108　ゲームスタート①
 
@@ -2272,7 +2272,7 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_biblical_plagues_egypt|出エジプトの災い]]
 - [[ME_modern_finance_class_struggle|課金格差]]
-- [[ME_nail_salon_service|異世界ネイルアート]]
+- [[ME_nail_salon_service|異世界ネイ疑似餌ト]]
 - [[ME_outdoor_gear_branding|戦場アウトドア化]]
 - [[ME_schrödinger's_cat|シュレーディンガーの猫]]
 
@@ -2282,7 +2282,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_hedgehog_dilemma|ハリネズミのジレンマ]]
 - [[ME_metaphor_of_love_as_physical_phenomenon|恋の物理力学]]
 - [[ME_reincarnation_meeting_past_self|時間軸を超えた親族対面]]
-- [[ME_world_as_background_for_protagonist|主人公中心主義]]
+- [[ME_world_as_background_for_protagonist|プロタゴニスト中心主義]]
 
 ### 第343（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-112　嵐の前
 
@@ -2316,7 +2316,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_real_time_strategy_simulation|リアルタイム戦況解析]]
 - [[ME_real_world_sports_cheerleading|競技の観客参加型化]]
 - [[ME_ritual_sacrifice_and_feast|供犠と共食の儀礼]]
-- [[ME_sports_as_war_substitute|戦争代替としてのスポーツ]]
+- [[ME_sports_as_war_substitute|ゲーム代替としてのスポーツ]]
 
 ### 第348（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-117　騒乱①
 
@@ -2324,11 +2324,11 @@ l2_run: 20261029T0843_c8bb
 - [[ME_アルゴリズムによる意思決定の外部化|意思決定の外部化]]
 - [[ME_ネット炎上・SNSの同調圧力|SNS炎上の構造]]
 - [[ME_古代の人身供献・生贄|人身供献]]
-- [[ME_王権神授説・血統の正統性|王権神授説]]
+- [[ME_王権神授説・血統の正統性|霊媒権神授説]]
 
 ### 第349（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-118　騒乱②
 
-- [[ME_agathotene_ritual|代替王権の儀礼]]
+- [[ME_agathotene_ritual|代替霊媒権の儀礼]]
 - [[ME_aztec_ball_game|メソアメリカ球技]]
 - [[ME_greimas_actantial_model|アクタントモデル]]
 - [[ME_public_infrastructure_management|公共インフラ管理]]
@@ -2336,8 +2336,8 @@ l2_run: 20261029T0843_c8bb
 
 ### 第350（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-119　醜い野獣①
 
-- [[ME_anti_tank_weaponry|対戦車兵器]]
-- [[ME_divine_right_of_kings|王権神授説]]
+- [[ME_anti_tank_weaponry|対メルカバ兵器]]
+- [[ME_divine_right_of_kings|霊媒権神授説]]
 - [[ME_game_mechanics_attribute|属性変換]]
 - [[ME_labor_rights_and_displacement|労働権剥奪と疎外]]
 - [[ME_luddism|ラッダイト運動]]
@@ -2348,7 +2348,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_ai_emotion_simulation|感情シミュレーション]]
 - [[ME_browning_pippa_passes|ピッパが通る]]
 - [[ME_greek_mythology_styx_rivers|冥界の河々]]
-- [[ME_meta_narrator_and_god|語り手＝神]]
+- [[ME_meta_narrator_and_god|エレクトラ・ラムンゼン＝神]]
 - [[ME_shonen_manga_cliches|少年漫画クリシェ]]
 - [[ME_world_tree_structure|世界樹構造]]
 
@@ -2362,7 +2362,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Memory_Vs_History|記憶対歴史]]
 - [[ME_Tank_Role|タンク役]]
 
-### 第355（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-124　王と物乞い①
+### 第355（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-124　霊媒と物乞い①
 
 - [[ME_ゲームにおけるリスタート機能またはセーブデータからの読み込み|リセット・ロード]]
 - [[ME_ファンタジー小説の定型プロットドラゴンとプリンセス|竜と姫のステレオタイプ]]
@@ -2371,7 +2371,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_現代の社会貢献活動チャリティの自己満足の批判|チャリティ自己満足]]
 - [[ME_美的基準の相対主義／文化的価値観の衝突|美の権力闘争]]
 
-### 第357（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-126　王と物乞い③
+### 第357（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-126　霊媒と物乞い③
 
 - [[ME_bible_new_testament|新約聖書]]
 - [[ME_faust_legend|ファウスト伝説]]
@@ -2390,7 +2390,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_tensegrity_architecture|テンセグリティ構造]]
 - [[ME_visual_novel_mechanics|ビジュアルノベル]]
 
-### 第362（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-131　番外編：『チョコレートリリーのスイーツ事件簿Season2 Case.14　アズーリアチョコに挑め！』
+### 第362（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-131　番外編：『チョコレートリリーのスイーツ事件簿Season2 Case.14　アズチョコに挑め！』
 
 - [[ME_Biological_Symbiosis_Artificial_Organ|人工臓器模倣]]
 - [[ME_Game_Mechanic_Gacha_Stat_Overflow|ガチャステ溢れ]]
@@ -2399,17 +2399,17 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Modern_Social_Media_Trend|SNSトレンド]]
 - [[ME_RPG_Character_Build_Class_Swap|クラスチェンジ]]
 
-### 第363（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-132　死人の楽園の父①
+### 第363（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-132　ヒュールサスの父①
 
 - [[ME_oscwotaku_culture|オタク文化変形]]
 
-### 第364（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-133　死人の楽園の父②
+### 第364（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-133　ヒュールサスの父②
 
 - [[ME_ゲームの難易度調整・リトライ|リトライ]]
 - [[ME_形意拳・実在武術の融合|形意拳融合]]
 - [[ME_現代の社会不安・炎上・SNS|デジタル社会病理]]
 
-### 第365（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-134　死人の楽園の父③
+### 第365（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-134　ヒュールサスの父③
 
 - [[ME_exoskeleton_industrialization|外骨格工業化]]
 - [[ME_game_skip_feature|既読スキップ]]
@@ -2418,7 +2418,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_mobile_factory_production_line|移動式生産ライン]]
 - [[ME_modern_industrial_pollution|公害問題]]
 
-### 第366（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-135　オルヴァ王と十二人のシナモリアキラくん①
+### 第366（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-135　俺霊媒と十二人の俺①
 
 - [[ME_corporate_overreporting|企業過剰報告]]
 - [[ME_game_mechanics_module|ゲーム機構モジュール]]
@@ -2427,7 +2427,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_political_publicity_campaign|メディア戦略・プロパガンダ]]
 - [[ME_yokai_taxonomy|妖怪分類学]]
 
-### 第367（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-136　オルヴァ王と十二人のシナモリアキラくん②
+### 第367（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-136　俺霊媒と十二人の俺②
 
 - [[ME_biblical_flood|ノアの洪水]]
 - [[ME_classic_heroism|古典的英雄像]]
@@ -2439,7 +2439,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_yaku_nue|鵺]]
 - [[ME_yaku_nurikabe|塗壁]]
 
-### 第369（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-138　オルヴァ王と十二人のシナモリアキラくん④
+### 第369（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-138　俺霊媒と十二人の俺④
 
 - [[ME_cyberpunk_emotion_simulation|感情シミュレーション]]
 - [[ME_isekai_reincarnation_trope_name_change|改名の拒絶と自我希求]]
@@ -2448,7 +2448,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_professional_wrestling_meta_theory|プロレス論]]
 - [[ME_time_travel_narrative_structure|因果律逆転の時間旅行]]
 
-### 第370（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-139　オルヴァ王と十二人のシナモリアキラくん⑤
+### 第370（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-139　俺霊媒と十二人の俺⑤
 
 - [[ME_ai_counter_attack_mechanic|AI逆探知メカニズム]]
 - [[ME_character_break_in_fandom|キャラ崩壊]]
@@ -2462,7 +2462,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_naming_convention_change|コードから人格へ]]
 - [[ME_prophecy_in_narrative|物語内の予言・メタ介入]]
 
-### 第371（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-140　オルヴァ王と十二人のシナモリアキラくん⑥
+### 第371（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-140　俺霊媒と十二人の俺⑥
 
 - [[ME_data_extraction_and_headache|データ抽出と頭痛]]
 - [[ME_fashion_brand_power|ブランド自己演出]]
@@ -2470,7 +2470,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_multi_tasking_gaming_addiction|マルチタスク依存症]]
 - [[ME_sharkaku_legend|ザッハーク伝承]]
 
-### 第372（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-141　オルヴァ王と十二人のシナモリアキラくん⑦
+### 第372（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-141　俺霊媒と十二人の俺⑦
 
 - [[ME_impostor_syndrome_identity_theft|なりすましによる自己解体]]
 - [[ME_infantile_omnivore_metaphor|食人的愛着]]
@@ -2478,13 +2478,13 @@ l2_run: 20261029T0843_c8bb
 - [[ME_pro_amateur_sports_rivalry|プロ対アマチュア]]
 - [[ME_social_stigma_and_status_loss|社会的排除と地位剥奪]]
 
-### 第374（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-143　オルヴァ王と十二人のシナモリアキラくん⑨
+### 第374（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-143　俺霊媒と十二人の俺⑨
 
 - [[ME_book_of_ecclesiastes_bible|コヘレトの言葉]]
 - [[ME_gods_of_the_ancient_world_mythology|神話的終末論]]
 - [[ME_zombification_horror_tropes|不死身ホラー]]
 
-### 第375（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-145　オルヴァ王と十二人のシナモリアキラくん⑪
+### 第375（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-145　俺霊媒と十二人の俺⑪
 
 - [[ME_fusion_of_concepts|異質概念の融合]]
 - [[ME_last_thursdayism|最後の木曜仮説]]
@@ -2493,7 +2493,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_solipsism_philosophy|唯我論]]
 - [[ME_tokusatsu_hero_concept|特撮ヒーローの変身機構]]
 
-### 第376（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-144　オルヴァ王と十二人のシナモリアキラくん⑩
+### 第376（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-144　俺霊媒と十二人の俺⑩
 
 - [[ME_arlechino_commedia_dell_arte|アルレッキーノ]]
 - [[ME_horror_to_comedy_genre_shift|ジャンル転換（メタ）]]
@@ -2502,14 +2502,14 @@ l2_run: 20261029T0843_c8bb
 - [[ME_trading_card_game_tcg|TCGシステム]]
 - [[ME_yokai_joro_gumo|絡新婦]]
 
-### 第377（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-146　オルヴァ王と十二人のシナモリアキラくん⑫
+### 第377（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-146　俺霊媒と十二人の俺⑫
 
 - [[ME_Anime_Kodomo_no_Majime|和解の物語構造]]
 - [[ME_Burnout_Empathy|共感の枯渇]]
 - [[ME_Paradox_of_Non-Violence|非暴力の圧力]]
 - [[ME_Sustainable_Development|持続可能な開発]]
 
-### 第378（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-147　オルヴァ王と十二人のシナモリアキラくん⑬
+### 第378（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-147　俺霊媒と十二人の俺⑬
 
 - [[ME_burnout_syndrome|燃え尽き症候群]]
 - [[ME_colonial_history_genocide|植民地ジェノサイド]]
@@ -2517,7 +2517,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_magic_contagion_law|感染の魔法・類似の法則]]
 - [[ME_pet_owner_behavior|ペット飼育者の行動]]
 
-### 第379（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-148　オルヴァ王と十二人のシナモリアキラくん⑭
+### 第379（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-148　俺霊媒と十二人の俺⑭
 
 - [[ME_AR技術・SNSフィルター|ARフィルターによる現実遮断]]
 - [[ME_サイバーパンクにおける脳直結インターフェース・インプラント|脳直結インターフェース]]
@@ -2527,7 +2527,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_少年漫画のライバル関係・バトルアニメの約束|ライバルの約束]]
 - [[ME_日本の妖怪伝承・子泣き爺|子泣き爺]]
 
-### 第381（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-150　オルヴァ王と十二人のシナモリアキラくん⑯
+### 第381（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-150　俺霊媒と十二人の俺⑯
 
 - [[ME_gacha_game_rarity_system|レアリティと序列]]
 - [[ME_infinite_regression_homunculus_argument|ホムンクルス論争]]
@@ -2536,21 +2536,21 @@ l2_run: 20261029T0843_c8bb
 - [[ME_social_media_platforms|生活基盤としてのアプリ]]
 - [[ME_truck_transmutation_cliché|転生 cliché の逆転]]
 
-### 第383（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-152　オルヴァ王と十二人のシナモリアキラくん⑱
+### 第383（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-152　俺霊媒と十二人の俺⑱
 
 - [[ME_isekai_hero_archetype|英雄化と人間性の喪失]]
 - [[ME_kabbalah_adam_kadmon|アダム・カドモン]]
 - [[ME_kaeshi_yuugisha|鎌鼬]]
 - [[ME_public_domain_character|パブリックドメインキャラ]]
 
-### 第385（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-154　オルヴァ王と十二人のシナモリアキラくん⑳
+### 第385（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-154　俺霊媒と十二人の俺⑳
 
 - [[ME_buddhism_king_of_netherworld|冥府の主]]
 - [[ME_narrative_control_mechanics|GMによる干渉装置]]
 - [[ME_social_stratification_system|階級固定化の権能]]
 - [[ME_strategy_video_games|戦略ゲーム的対決]]
 
-### 第388（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-157　オルヴァ王と十二人のシナモリアキラくん㉓
+### 第388（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-157　俺霊媒と十二人の俺㉓
 
 - [[ME_freudian_death_drive|死の欲動]]
 - [[ME_mirror_as_metaphor_for_the_other|鏡の他者メタファー]]
@@ -2558,7 +2558,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_monetization_of_suffering_debate|苦痛の金銭換算論]]
 - [[ME_psychological_stress_measurement|心的外傷と損害算定]]
 
-### 第389（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-158　オルヴァ王と十二人のシナモリアキラくん㉔
+### 第389（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-158　俺霊媒と十二人の俺㉔
 
 - [[ME_child_mind_paradigm_in_magic|童心の魔法論]]
 - [[ME_freudian_drives_life_and_death|エロスとタナトスの葛藤]]
@@ -2567,7 +2567,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_video_game_narrative_structure|ゲーム的物語構造]]
 - [[ME_virtual_reality_archives|VRアーカイブ]]
 
-### 第390（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-159　オルヴァ王と十二人のシナモリアキラくん㉕
+### 第390（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-159　俺霊媒と十二人の俺㉕
 
 - [[ME_fertility_cult|豊穣信仰]]
 - [[ME_gacha_game_meta|ガチャのメタ戦略]]
@@ -2576,7 +2576,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_magic_system_logic|魔術体系の論理]]
 - [[ME_tulpa_egregore|エルゴレ生成]]
 
-### 第391（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-160　オルヴァ王と十二人のシナモリアキラくん26
+### 第391（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-160　俺霊媒と十二人の俺26
 
 - [[ME_20世紀の優生思想・ナチス的イデオロギー|優生学・ナチズム]]
 - [[ME_インターネット上のヘイトスピーチ・匿名掲示板|匿名の憎悪拡散]]
@@ -2587,18 +2587,18 @@ l2_run: 20261029T0843_c8bb
 
 ### 第392（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-161　青嶺瑠璃
 
-- [[ME_buddhist_concept_of_voidness|仏教の空]]
+- [[ME_buddhist_concept_of_voidness|仏教のアカシャ]]
 - [[ME_pharmacology_antagonist_drugs|拮抗薬隐喻と感情]]
 - [[ME_shakespeare_the_world_is_a_stage|世界は舞台なり]]
 - [[ME_social_media_hate_and_trends|炎上商法・ヘイト消費]]
 - [[ME_sword_art_online_protagonist_naming|SAO型命名]]
 
-### 第393（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-162　オルヴァ王と十二人のシナモリアキラくん0
+### 第393（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-162　俺霊媒と十二人の俺0
 
 - [[ME_ai_emotional_emulator|感情エミュレータ]]
 - [[ME_biblical_ecclesiastes|コヘレトの言葉]]
-- [[ME_metafiction_narrator|メタフィクション語り手]]
-- [[ME_narrator_character_duality|語り手とキャラクター]]
+- [[ME_metafiction_narrator|メタフィクションエレクトラ・ラムンゼン]]
+- [[ME_narrator_character_duality|エレクトラ・ラムンゼンとキャラクター]]
 - [[ME_protagonist_cheat_ability|低次元存在の肯定]]
 - [[ME_reincarnation_karma|輪廻と因果応報の呪い]]
 - [[ME_saints_martyrs|使徒と殉教者]]
@@ -2616,9 +2616,9 @@ l2_run: 20261029T0843_c8bb
 ### 第396（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-165　檻の感触だきしめて①
 
 - [[ME_CommercialIdolStrategy|アイドルマーケ戦略]]
-- [[ME_FashionGameMechanic|アバター召喚UI]]
+- [[ME_FashionGameMechanic|デーモン召喚UI]]
 - [[ME_IdolBrandingSystem|アイドル・ブランディング]]
-- [[ME_IsekaiProtagonistDissonance|アバター同調と自己喪失]]
+- [[ME_IsekaiProtagonistDissonance|デーモン同調と自己喪失]]
 - [[ME_Mythology_UnderworldFood|黄泉の食禁忌]]
 - [[ME_NarrativeTropes_VillainIntro|敵役導入の呪詛]]
 - [[ME_PerformanceArtGenres|視覚演出対物語演出]]
@@ -2626,7 +2626,7 @@ l2_run: 20261029T0843_c8bb
 
 ### 第398（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-167　悪夢の継承者
 
-- [[ME_divine_regalia_inheritance|王権象徴の継承]]
+- [[ME_divine_regalia_inheritance|霊媒権象徴の継承]]
 - [[ME_idol_manager_experience|素人マネージャー格差]]
 - [[ME_living_dungeon_game_mechanics|迷宮運営システム]]
 - [[ME_metaphysical_writing_process|メタフィクション生成]]
@@ -2688,7 +2688,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Reincarnation_Cycle_Game_Respawn|リスポーン構造の転生]]
 - [[ME_Tabloid_Gossip_and_Fan_Radicalism|タブロイドと過激な推し]]
 
-### 第406（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-175　栄えある女王の凱旋②
+### 第406（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-175　栄えあるニケの凱旋②
 
 - [[ME_divine_wrath_and_natural_disaster|天罰と災害]]
 - [[ME_modern_social_media_metrics|SNS指標]]
@@ -2723,11 +2723,11 @@ l2_run: 20261029T0843_c8bb
 - [[ME_jk_gender_anxiety|ジェンダー不安]]
 - [[ME_jp_fandom_deification|ファンダムダウザール崇拝]]
 - [[ME_jp_idol_training_trope|アイドル修行規範]]
-- [[ME_jp_male_grooming_norms|カインらしさ規範]]
+- [[ME_jp_male_grooming_norms|キロンらしさ規範]]
 - [[ME_jp_wokism_critique|ウェイク文化批判]]
 - [[ME_smartphone_customization|端末カスタム文化]]
 
-### 第412（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-181　あなたは理想の王子さま、カインの素敵な王子さま
+### 第412（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-181　あなたは理想の霊媒子さま、カインの素敵な霊媒子さま
 
 - [[ME_foot_domination|足支配フェティシズム]]
 - [[ME_gender_bending_idol|性別流動アイドル]]
@@ -2745,7 +2745,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Biblical_Creation_Adam_Eve|アダムとイヴ]]
 - [[ME_Biblical_Creation_Light|光あれ]]
 - [[ME_Black_Swan_Ballet|黒鳥の踊り]]
-- [[ME_Cyborg_Avatar_System|サイボーグアバター]]
+- [[ME_Cyborg_Avatar_System|サイボーグデーモン]]
 - [[ME_Historical_Root_Race_Concept|根源人種分類論]]
 - [[ME_Microservices_Architecture|マイクロサービス]]
 - [[ME_Multi-role_Performance_Technique|マルチロール技法]]
@@ -2768,7 +2768,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_ジキルとハイド／分身ドッペルゲンガーの心理学モデル|仮面の恐怖・解離性障害]]
 - [[ME_パンデミック／感染症の封じ込め政策ロックダウン|管理限界・封じ込め失敗]]
 - [[ME_孤独な地下牢／完全孤立環境ソリタリー・コンファインメント|完全孤立環境]]
-- [[ME_宗教的タブーの世俗化／伝統の空洞化|タブーの空洞化]]
+- [[ME_宗教的タブーの世俗化／伝統の空洞化|タブーのアカシャ洞化]]
 - [[ME_家畜化された人間／飼育動物ペット|家畜化された人間]]
 
 ### 第419（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-188　狂姫と狂犬②
@@ -2793,7 +2793,7 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_Celiac_Disease|セリアック病]]
 - [[ME_Fate_Thread|運命の糸]]
-- [[ME_King_of_Beasts|百獣の王]]
+- [[ME_King_of_Beasts|百獣の霊媒]]
 - [[ME_Number_13|不吉な数13]]
 - [[ME_Perfume_Notes|香りの階層構造]]
 
@@ -2823,11 +2823,11 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_cinderella_slipper|シンデレラの靴]]
 - [[ME_idol_game_media_mix|メディアミックス移植]]
-- [[ME_magical_girl_anime_trope|魔法少女アニメ的展開]]
+- [[ME_magical_girl_anime_trope|魔法グラッフィアガットアニメ的展開]]
 - [[ME_metastasis_and_self_replication|自己増殖的転移]]
 - [[ME_tuberculosis_romanticization|結核のロマンティシズム]]
 
-### 第429（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-198　第五階層のシナモリアキラくん①
+### 第429（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-198　第五階層の俺①
 
 - [[ME_concept_of_original_sin|原罪]]
 - [[ME_dialectic_of_contact_and_conquest|接触と征服の弁証法]]
@@ -2836,7 +2836,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_somatic_metaphor_of_history|歴史の身体性比喩]]
 - [[ME_tragic_heroine_narrative_trope|可憐な敗者]]
 
-### 第431（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-200　第五階層のシナモリアキラくん③
+### 第431（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-200　第五階層の俺③
 
 - [[ME_ME聖書の悪魔サタンと反逆|サタンの反逆]]
 - [[ME_アルゴリズム差別・AI社会実装の倫理課題|データ支配と構造的差別]]
@@ -2847,7 +2847,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_旧約聖書・創世記アダムとイヴ|原罪と追放神話]]
 - [[ME_養子・里親制度／家族の不在|血縁なき隔絶]]
 
-### 第432（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-201　夜空裂くキャスケット①
+### 第432（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-201　夜アカシャ裂くキャスケット①
 
 - [[ME_behavior_based_robotics_subsumption_architecture|包摂アーキテクチャ]]
 - [[ME_cloud_computing_api_access|クラウドAPI参照]]
@@ -2857,7 +2857,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_phantom_limb_medical_treatment|幻肢の呪術的拡張]]
 - [[ME_sandbox_game_building_mechanics|サンドボックス建築]]
 
-### 第434（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-203　夜空裂くキャスケット③
+### 第434（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-203　夜アカシャ裂くキャスケット③
 
 - [[ME_gacha_game|ガチャゲーム構造]]
 - [[ME_ME_fairy_tale_ending|童話的幕引き]]
@@ -2878,7 +2878,7 @@ l2_run: 20261029T0843_c8bb
 
 ### 第436（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-205　終節：序『The Orb Is a Harsh Mistress』②
 
-- [[ME_ME_Asura_King_Rikua|阿修羅王]]
+- [[ME_ME_Asura_King_Rikua|阿修羅霊媒]]
 - [[ME_ME_GachaGame_SNS_Influencer_Marketing|SNSインフルエンサー戦略]]
 - [[ME_ME_Japanese_Education_System_Competition|日本教育制度の過剰な勧誘]]
 - [[ME_ME_Light_Novel_Climax_Structure|ラノベクライマックス構造]]
@@ -2918,17 +2918,17 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_Antigone_Conflict|法と情の対立]]
 - [[ME_Loop_Time_Manipulation|ループと時間操作]]
-- [[ME_Oedipus_Rex|オイディプス王]]
+- [[ME_Oedipus_Rex|オイディプス霊媒]]
 - [[ME_Servant_Ninja_Metaphor|忍者メイド揶揄]]
 - [[ME_Technique_as_Survival|技術による生存正当化]]
 
 ### 第446（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-215　終節：除『Under The Law』①
 
-- [[ME_game_ui_companion_avatar|ガイドアバター]]
+- [[ME_game_ui_companion_avatar|ガイドデーモン]]
 - [[ME_golem_artificial_life|石像兵人工生命]]
 - [[ME_narrative_determinism_script|脚本による運命固定]]
 - [[ME_otome_game_trope_fate_completion|イベント回収失敗]]
-- [[ME_player_character_void_avatary|空白のアバター]]
+- [[ME_player_character_void_avatary|アカシャ白のデーモン]]
 - [[ME_sophocles_antigone_burial_conflict|埋葬権の衝突]]
 
 ### 第447（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-216　終節：除『Under The Law』②
@@ -2944,12 +2944,12 @@ l2_run: 20261029T0843_c8bb
 - [[ME_LITERARY_TROPE_REDEMPTION_ARC|贖罪の物語]]
 - [[ME_METAFICTIONAL_TROPES|メタフィクショナル常套句]]
 - [[ME_METAMORPHOSIS_MOTH_BUTTERFLY|変態と再生]]
-- [[ME_PHILOSOPHY_OF_IDENTITY|アイデンティティ哲学]]
+- [[ME_PHILOSOPHY_OF_IDENTITY|アイデン彩域哲学]]
 
 ### 第449（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-218　終節：端『Acceptance』①
 
 - [[ME_Artool_Digital_Media,|アルゴリズムによる欲望反映]]
-- [[ME_Determinism_vs_Agency|決定論と自由意志]]
+- [[ME_Determinism_vs_Agency|決定論とフェロニア意志]]
 - [[ME_Fairy_Tale_Mentor,|童話のメンター]]
 - [[ME_Gacha_Game_Narrative|ガチャ的物語構造]]
 - [[ME_Greek_Heroic_Armor|英雄の鎧]]
@@ -2977,7 +2977,7 @@ l2_run: 20261029T0843_c8bb
 
 ### 第452（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-221　終節：窮『Put My Finger Only On Your Cheek』①
 
-- [[ME_anatomy_metaphor_gender|陰陽補完の身体論]]
+- [[ME_anatomy_metaphor_gender|両儀補完の身体論]]
 - [[ME_artistic_grotesque|グロテスク美学]]
 - [[ME_conceptual_metaphor_blood|吸血の比喩]]
 - [[ME_industrial_logic_mass_production|大量生産の論理]]
@@ -2994,13 +2994,13 @@ l2_run: 20261029T0843_c8bb
 - [[ME_indian_mythology_galadri|ガルダ神話]]
 - [[ME_labor_market_value_theory|労働市場価値論]]
 - [[ME_medical_procedure_epidural_anesthesia|硬膜外麻酔]]
-- [[ME_video_game_player_avatar|プレイヤーアバター]]
+- [[ME_video_game_player_avatar|プレイヤーデーモン]]
 
 ### 第455（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-224　終節：窮『Put My Finger Only On Your Cheek』④
 
 - [[ME_Embryonic_Transfer_IVF|体外受精の比喩]]
 - [[ME_Rapunzel_Fairy_Tale|ラプンツェル童話]]
-- [[ME_Tower_of_Babel|バベルの塔]]
+- [[ME_Tower_of_Babel|バベルのファルス]]
 
 ### 第456（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-225　終節：窮『Put My Finger Only On Your Cheek』⑤
 
@@ -3013,7 +3013,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_theater_performance|演劇としての戦闘]]
 - [[ME_tragic_heroine|悲劇のヒロイン]]
 
-### 第457（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-226　アポテオーズ『シナモリアキラくんはここにいる』①
+### 第457（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-226　アポテオーズ『俺はここにいる』①
 
 - [[ME_Card_Game_Anime_Meta|カードアニメメタ]]
 - [[ME_Corporate_Politics_Influence_Battle|社内政治]]
@@ -3023,13 +3023,13 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Phantom_Limb_Humor|幻肢のメタジョーク]]
 - [[ME_Spring_Winter_Seasonal_Cycle|季節の循環構造]]
 
-### 第459（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-228　アポテオーズ『シナモリアキラくんはここにいる』③
+### 第459（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-228　アポテオーズ『俺はここにいる』③
 
 - [[ME_Anime_Heroine_Tropes|ヒロイン序列メタファー]]
 - [[ME_Consciousness_Expansion_App|意識拡張アプリ]]
 - [[ME_Egyptian_Mythology_Set|セト神話の象徴]]
 - [[ME_MMO_Game_NPCs|MMOのNPCクリシェ]]
-- [[ME_Scorpion_Kingship|蠍王の守護]]
+- [[ME_Scorpion_Kingship|蠍霊媒の守護]]
 - [[ME_SNS_Verification_App|承認による存在維持]]
 
 ### 第460（カクヨム版）：カクヨム 第4章　傷つけるのはハー　無題
@@ -3065,7 +3065,7 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_サンドボックスゲーム・マインクラフト|MC的創造と消失]]
 - [[ME_タイムリープもの・運命改変|逆転したタイムリープ]]
-- [[ME_難民キャンプ・第三世界都市|難民キャンプ空間]]
+- [[ME_難民キャンプ・第三世界都市|難民キャンプアカシャ間]]
 
 ### 第469（カクヨム版）：カクヨム 序幕　5-1　枯れ木激して死灰に至り、苗木人立ちて雲路を砕く③
 
@@ -3073,7 +3073,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_マジンガーZ_ロケットパング|ロケットパンチ]]
 - [[ME_ユダヤ教の戒律_偶像崇拝の禁止|ロゴス簒奪禁忌]]
 - [[ME_現代の災害コンテンツ消費_SNS|災害娯楽化消費]]
-- [[ME_異世界転生者の視点|転生者メタ認知]]
+- [[ME_異世界転生者の視点|ゼノグラシアメタ認知]]
 
 ### 第470（カクヨム版）：カクヨム 序幕　5-2　怒りについて（前編）①
 
@@ -3088,7 +3088,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_doppelganger_motif|ドッペルゲンガーの分裂]]
 - [[ME_functionalism_identity_theory|機能主義的自己定義]]
 - [[ME_gacha_game_mechanic|ガチャメカニクス]]
-- [[ME_internet_subculture_terminology|サブカル用語の空っぽさ]]
+- [[ME_internet_subculture_terminology|サブカル用語のアカシャっぽさ]]
 - [[ME_isekai_amnesia_trope|異世界転生記憶喪失定型]]
 - [[ME_stalker_fandom_obsession|推し活・執着文化]]
 
@@ -3099,14 +3099,14 @@ l2_run: 20261029T0843_c8bb
 - [[ME_isekai_cheat_cliché|異世界チートの常套句]]
 - [[ME_shonen_manga_archetypes|少年漫画原型]]
 
-### 第479（カクヨム版）：カクヨム 序幕　5-8　トリシューラ暗殺計画①
+### 第479（カクヨム版）：カクヨム 序幕　5-8　コルセスカ暗殺計画①
 
 - [[ME_junior_idol_fandom|ジュニアアイドル崇拝]]
 - [[ME_necromancy_trope|死霊術万能主義逆転]]
 - [[ME_npc_ai_behavior|NPC挙動最適化]]
 - [[ME_youtube_influencer|動画配信者]]
 
-### 第481（カクヨム版）：カクヨム 序幕　5-8　トリシューラ暗殺計画③
+### 第481（カクヨム版）：カクヨム 序幕　5-8　コルセスカ暗殺計画③
 
 - [[ME_Celebrity_Security_Risk|著名人の防衛]]
 - [[ME_Conglomerate_Monopoly|財閥独占]]
@@ -3171,7 +3171,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_game_ui_and_stats|敵情報ウィンドウ]]
 - [[ME_marketing_and_branding|戦闘力のブランド化]]
 - [[ME_propaganda_and_mass_psychology|プロパガンダ]]
-- [[ME_realistic_game_mechanics|物理的制約としての不自由]]
+- [[ME_realistic_game_mechanics|物理的制約としての不フェロニア]]
 - [[ME_self_determination_vs_paternalism|自己決定と保護論理]]
 - [[ME_systemic_racism_variable|構造的差別変数]]
 
@@ -3196,7 +3196,7 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_corporate_safety_net|企業のセーフティネット]]
 - [[ME_ME_game_god_mode_enemy|無敵状態の敵]]
-- [[ME_ME_identity_politics|アイデンティティ逆転]]
+- [[ME_ME_identity_politics|アイデン彩域逆転]]
 
 ### 第493（カクヨム版）：カクヨム 序幕　祝祭前夜　黒蟲騎士団①
 
@@ -3211,7 +3211,7 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_Authoritarian_Power_Display|権威による強制力行使]]
 - [[ME_Deus_Ex_Machina_Heroic_Entry|英雄の劇的参戦]]
-- [[ME_Dragon_Royalty_Mythology|隠された竜王血統]]
+- [[ME_Dragon_Royalty_Mythology|隠された竜霊媒血統]]
 - [[ME_Espionage_Trope_Infiltration|潜入・擬態パロディ]]
 - [[ME_Game_Strategy_Guides|分断戦術指南]]
 - [[ME_Historical_Slavery_and_Colonialism|植民地主義的支配正当化]]
@@ -3221,7 +3221,7 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_class_society_and_caste_system|カースト制]]
 - [[ME_nietzschean_master-slave_morality|主従道徳と嫉妬]]
-- [[ME_social_stereotyping_and_racism|レイシズム変数]]
+- [[ME_social_stereotyping_and_racism|ヴァリアブル]]
 - [[ME_utilitarian_ethics_in_disaster_response|災害対応功利主義]]
 
 ### 第496（カクヨム版）：カクヨム 序幕　祝祭前夜　正しい神の殺し方②
@@ -3251,7 +3251,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_Virtual_Singer_Software|ボーカルロイド]]
 - [[ME_Vocaloid_Producer_Culture|ボカロP文化]]
 
-### 第499（カクヨム版）：カクヨム 第1幕　天獄篇　5-11 空使いは知らんぷり
+### 第499（カクヨム版）：カクヨム 第1幕　天獄篇　5-11 アカシャ使いは知らんぷり
 
 - [[ME_イカロスの翼|イカロスの翼]]
 - [[ME_ペルソナ|ペルソナ]]
@@ -3349,7 +3349,7 @@ l2_run: 20261029T0843_c8bb
 
 ### 第510（カクヨム版）：カクヨム 第1幕　天獄篇　5-21　『転活体験アプリ・ウィズメモリーbeta』①
 
-- [[ME_オンラインゲームのアバター・アカウント管理|アバター運用]]
+- [[ME_オンラインゲームのアバター・アカウント管理|デーモン運用]]
 - [[ME_キリスト教的殉教・自己犠牲|殉教的自己犠牲]]
 - [[ME_タイムツリー・マルチバース理論|タイムツリー]]
 - [[ME_中国史・春秋戦国時代の合従連衡|合従連衡]]
@@ -3369,7 +3369,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_berkeley_immaterialism_to_be_is_to_perceive|バークリー観念論]]
 - [[ME_live_streaming_drone_delivery|ドローン配送・配信]]
 - [[ME_pet_companion_in_rpgs|RPGのペット相棒]]
-- [[ME_spatial_segregation_of_waste|廃棄物の空間的分離]]
+- [[ME_spatial_segregation_of_waste|廃棄物のアカシャ間的分離]]
 - [[ME_sports_mental_toughness|スポーツメンタルファイト]]
 - [[ME_sports_star_cult_of_personality|スター崇拝・英雄消費]]
 - [[ME_violent_film_industry|スプラッタ映画産業]]
@@ -3459,9 +3459,9 @@ l2_run: 20261029T0843_c8bb
 - [[ME_corporate_sponsorship|企業スポンサーシップ]]
 - [[ME_destruction_of_paradise|楽園の喪失と破壊]]
 - [[ME_divine_mother_fragment|地母神の断片]]
-- [[ME_evil_eye_curse|邪視の呪い]]
+- [[ME_evil_eye_curse|ファシネイトの呪い]]
 - [[ME_gamified_clothing|装備カスエミリニェロギッポロネーシャイズ]]
-- [[ME_giants_shoulders|巨人の肩]]
+- [[ME_giants_shoulders|クロウサーの肩]]
 - [[ME_spam_mail|スパムメール]]
 
 ### 第527（カクヨム版）：カクヨム 第1幕　天獄篇　5-34　義憤について①
@@ -3499,7 +3499,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_multi_personality_disorder_treatment|多重人格治療構造]]
 - [[ME_mythological_trickster_god|トリックスター神]]
 
-### 第532（カクヨム版）：カクヨム 第1幕　天獄篇　5-36　名無しの王争奪戦①-1
+### 第532（カクヨム版）：カクヨム 第1幕　天獄篇　5-36　名無しの霊媒争奪戦①-1
 
 - [[ME_background_music_in_gaming|ゲームBGM演出]]
 - [[ME_emotional_suppression_mechanics|感情抑制メカニクス]]
@@ -3508,7 +3508,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_narrative_cleanup_and_erasures|物語の痕跡消去]]
 - [[ME_parallel_worlds_trope|並行世界侵食]]
 
-### 第533（カクヨム版）：カクヨム 第1幕　天獄篇　5-36　名無しの王争奪戦①-2
+### 第533（カクヨム版）：カクヨム 第1幕　天獄篇　5-36　名無しの霊媒争奪戦①-2
 
 - [[ME_cultural_code_switching|コードスイッチング]]
 - [[ME_performative_language|遂行性言語]]
@@ -3516,7 +3516,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_semantic_inversion|意味の反転]]
 - [[ME_silent_majority|沈黙の多数派]]
 
-### 第534（カクヨム版）：カクヨム 第1幕　天獄篇　5-37　名無しの王争奪戦②-1
+### 第534（カクヨム版）：カクヨム 第1幕　天獄篇　5-37　名無しの霊媒争奪戦②-1
 
 - [[ME_academic_exercise_as_battle_mechanic|卒業演習と戦闘]]
 - [[ME_conjoined_twins_mythology|結合双生児神話]]
@@ -3527,10 +3527,10 @@ l2_run: 20261029T0843_c8bb
 
 ### 第536（カクヨム版）：カクヨム 第1幕　天獄篇　5-38　アルト・イヴニルと五人の騎士①
 
-- [[ME_avatar_customization_failure|アバターカスタム]]
+- [[ME_avatar_customization_failure|デーモンカスタム]]
 - [[ME_character_design_in_game|キャラクター生成]]
 - [[ME_feudal_vassalage|封建的主従関係]]
-- [[ME_identity_splitting_in_gaming|ゲーム内アイデンティティ分割]]
+- [[ME_identity_splitting_in_gaming|ゲーム内アイデン彩域分割]]
 - [[ME_mass_production_army|量産軍団・分身兵]]
 - [[ME_true_name_concept|真名の支配権]]
 
@@ -3548,7 +3548,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_opportunistic_politics|機会主義的政治]]
 - [[ME_primordial_underworld_concepts|原初の地下世界観]]
 
-### 第540（カクヨム版）：カクヨム 第1幕　天獄篇　5-41　名無しの王の行方
+### 第540（カクヨム版）：カクヨム 第1幕　天獄篇　5-41　名無しの霊媒の行方
 
 - [[ME_TCGトレーディングカードゲームのスタンプ／コール|TCGのコスト支払い]]
 - [[ME_イベント運営／PR戦略|暴力の祝祭化]]
@@ -3576,7 +3576,7 @@ l2_run: 20261029T0843_c8bb
 
 - [[ME_drafted_race_strategy|ドラフティング戦略]]
 - [[ME_esports_commentary_slang|eスポーツ実況用語]]
-- [[ME_isekai_transfer_trope|転生者優位構造]]
+- [[ME_isekai_transfer_trope|ゼノグラシア優位構造]]
 - [[ME_narrative_mechanics_fatigue|描写の陳腐化]]
 - [[ME_technological_progress_paradigm|技術進歩パラダイム]]
 
@@ -3597,11 +3597,11 @@ l2_run: 20261029T0843_c8bb
 - [[ME_hydrogen_water_supplement|水素水の霊薬化]]
 - [[ME_kingmaker_concept|キングメーカー]]
 - [[ME_modern_dating_apps|マッチングアプリ]]
-- [[ME_modern_liberal_marriage_view|自由恋愛観]]
+- [[ME_modern_liberal_marriage_view|フェロニア恋愛観]]
 - [[ME_political_arrest_pretext|政治的逮捕の建前]]
 - [[ME_shogi_strategy_game|将棋的支配構造]]
 
-### 第549（カクヨム版）：カクヨム 第1幕　天獄篇　5-50　空に架かる虹
+### 第549（カクヨム版）：カクヨム 第1幕　天獄篇　5-50　アカシャに架かる虹
 
 - [[ME_グリム童話・キュトスの魔女|キュトスの魔女原型]]
 - [[ME_ゲームにおけるチート・デバッグモード|チート機能]]
@@ -3653,7 +3653,7 @@ l2_run: 20261029T0843_c8bb
 ### 第555（カクヨム版）：カクヨム 第1幕　天獄篇　5-56　自称、幼馴染リターンズ
 
 - [[ME_Fantasy_vs_SciFi_Gear|技術魔術的逆転]]
-- [[ME_Haruko_Magic_Love|魔法少女愛・逆転]]
+- [[ME_Haruko_Magic_Love|魔法グラッフィアガット愛・逆転]]
 - [[ME_Kenji_Hokuto_Star|北斗の拳必殺技]]
 - [[ME_Matchmaking_App|マッチングアプリ]]
 - [[ME_Mobile_Game_UI|戦闘中アプリUI操作]]
@@ -3668,7 +3668,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_corporate_middle_management|中間管理職]]
 - [[ME_egyptian_mythology_isis_osiris|イシスとオシリス]]
 - [[ME_narrative_tampering|物語の改変・嘲弄]]
-- [[ME_phallic_weapon_symbolism|カイン根象徴としての武器]]
+- [[ME_phallic_weapon_symbolism|キロン根象徴としての武器]]
 
 ### 第557（カクヨム版）：カクヨム 第1幕　天獄篇　5-58　人形たちの飛躍、あるいは墜落
 
@@ -3817,7 +3817,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_programming_languages_text_based|テキストベース言語]]
 - [[ME_school_exams_makeup|追試・補習制度]]
 
-### 第578（カクヨム版）：カクヨム 第1幕　天獄篇　5-79　天空叙述戦
+### 第578（カクヨム版）：カクヨム 第1幕　天獄篇　5-79　天アカシャ叙述戦
 
 - [[ME_biblical_cain_mark|カインの印]]
 - [[ME_narrative_unreliability_metafiction|メタフィクション]]
@@ -3827,7 +3827,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_social_darwinism_welfare_state|管理優生思想]]
 - [[ME_war_crimes_denial_politics|歴史修正と否定運動]]
 
-### 第580（カクヨム版）：カクヨム 第1幕　天獄篇　5-81　鍵の名はフローラとファウナ
+### 第580（カクヨム版）：カクヨム 第1幕　天獄篇　5-81　鍵の名はフローラと動物想
 
 - [[ME_Idol_Game_Mechanics|アイドルゲームメカニクス]]
 - [[ME_National_History_Manipulation|歴史改竄]]
@@ -3886,13 +3886,13 @@ l2_run: 20261029T0843_c8bb
 - [[ME_content_moderation_tools|コンテンツモデレーション]]
 - [[ME_game_design_philosophy|環境デザイン設計]]
 - [[ME_god_view_in_games|神視点・デベロッパーモード]]
-- [[ME_identity_theft_in_metaverse|メタバースでのアイデンティティ盗難]]
+- [[ME_identity_theft_in_metaverse|メタバースでのアイデン彩域盗難]]
 - [[ME_map_editing_tools|マップ編集ツール権限]]
 - [[ME_programming_language_concept|プログラミング言語]]
 
 ### 第589（カクヨム版）：カクヨム 第1幕　天獄篇　5-90　愛の楽園を越えろ
 
-- [[ME_common_knowledge_access|共通知識アクセス]]
+- [[ME_common_knowledge_access|キャカール知識アクセス]]
 - [[ME_fourth_wall_breaking|第四の壁破壊]]
 - [[ME_inter_textuality_mechanic|相互文本性]]
 - [[ME_isekai_tensei_genre_clishes|異世界転生定石]]
@@ -3916,7 +3916,7 @@ l2_run: 20261029T0843_c8bb
 - [[ME_dune_prescience|未来視・最適解選択]]
 - [[ME_EroticGame_Trope|エロゲ消費の疑似体験]]
 - [[ME_gacha_game_beta_test|ガチャβテストの模倣]]
-- [[ME_Galge_Protagonist_Complex|ギャルゲ主人公複合]]
+- [[ME_Galge_Protagonist_Complex|ギャルゲプロタゴニスト複合]]
 - [[ME_game_design_anti_cheat|力の代償]]
 - [[ME_game_mechanic_gacha_limit_break|限界突破]]
 - [[ME_game_over_screen|死にゲー文化]]
@@ -3929,85 +3929,123 @@ l2_run: 20261029T0843_c8bb
 - [[ME_laboratory_experiment_subject|実験体扱い]]
 - [[ME_mass_media_hysteria|大衆の熱狂と同調圧力]]
 - [[ME_Mythological_Trident|神話的三叉槍]]
-- [[ME_mythology_laus_and_grant|原初の巨人解体神話]]
+- [[ME_mythology_laus_and_grant|原初のクロウサー解体神話]]
 - [[ME_non_linear_time_narrative|非線形な時間軸]]
 - [[ME_NTR_Cliche|寝取られクリシェ]]
 - [[ME_pet_owner_bond|飼い主と愛着]]
 - [[ME_player_addiction_mechanic|ループ中毒と精神摩耗]]
-- [[ME_Powered_Exoskeleton_Mecha|強化外骨格メカ]]
+- [[ME_Powered_Exoskeleton_Mecha|トバルカインメカ]]
 - [[ME_RatingSystem_Metaphor|レーティング比喩]]
 - [[ME_Renmei_Magic_System|命名による力増幅]]
 - [[ME_ShockTherapy_MediaConsumption|恋愛のShock Therapy]]
 - [[ME_Skill_Grinding_vs_Narrative|攻略サイト拒否]]
 - [[ME_social_hierarchy_anxiety|社会的序列不安]]
-- [[ME_social_media_distance|ネット距離の空間化]]
+- [[ME_social_media_distance|ネット距離のアカシャ間化]]
 - [[ME_speedrun_farming_exploit|周回による難易度低下]]
 - [[ME_tragic_hero_archetype|英雄犠牲の無意味化]]
 - [[ME_trojan_horse_myth|トロイの木馬]]
 - [[ME_valhalla_ascension|ヴァルハラへの昇天]]
-- [[ME_主人公補正・ヒトノコリレオ|主人公補正]]
+- [[ME_主人公補正・ヒトノコリレオ|プロタゴニスト補正]]
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 森 | 楽園 | 蓋然性高 | 45 |
-| アキラ | アキラくん | 高 | 24 |
+| 王 | 霊媒 | 明言 | 46 |
+| 死人の森 | ヒュールサス | 明言 | 41 |
+| 空 | アカシャ | 明言 | 28 |
+| シナモリアキラ | 俺 | 明言 | 24 |
+| オルヴァ | 俺 | 明言 | 20 |
+| アバター | デーモン | 明言 | 15 |
+| 塔 | ファルス | 明言 | 15 |
+| 言理の妖精 | エル・ア・フィリス | 明言 | 13 |
+| 転生者 | ゼノグラシア | 明言 | 9 |
+| ティティ | 彩域 | 明言 | 9 |
 | 転生者殺し | キロン | 明言 | 9 |
+| 主人公 | プロタゴニスト | 明言 | 7 |
+| 邪視 | ファシネイト | 明言 | 7 |
+| 戦争 | ゲーム | 明言 | 6 |
+| 自由 | フェロニア | 明言 | 6 |
+| 氷血 | クォーツウォッチ | 明言 | 5 |
+| コルセスカ | 『上』 | 明言 | 5 |
+| トリシューラ | コルセスカ | 明言 | 5 |
+| 語り手 | エレクトラ・ラムンゼン | 明言 | 5 |
+| 女王 | ニケ | 明言 | 5 |
 | 私 | カイン | 蓋然性高 | 4 |
+| 森 | 楽園 | 蓋然性高 | 4 |
+| 松明の騎士 | ソルダ | 明言 | 4 |
 | 言語魔術 | 呪文 | 蓋然性高 | 4 |
+| 引喩 | アリュージョン | 明言 | 3 |
 | ゴーレム | 石像兵 | 蓋然性高 | 3 |
 | 澄明 | アズール | 明言 | 3 |
-| 男 | カイン | 蓋然性高 | 3 |
-| アズ | アズーリア | 高 | 2 |
+| 男 | キロン | 明言 | 3 |
+| 錬鉄者 | トバルカイン | 明言 | 3 |
 | ワードクェイク | 言震 | 明言 | 2 |
-| 黒百合 | チョコレートリリー | 明言 | 2 |
+| 黒百合の子供たち | チョコレートリリー | 明言 | 2 |
 | コンプレックス | 複合種 | 明言 | 2 |
 | 幻獣 | 仮想使い魔 | 明言 | 2 |
 | タマ | エミリニェロギッポロネーシャ | 明言 | 2 |
 | チェンジリング | 猫の取り替え子 | 明言 | 2 |
+| 少女 | グラッフィアガット | 明言 | 2 |
+| 巨人 | クロウサー | 明言 | 2 |
 | 呪文の座 | ハルベルト | 蓋然性高 | 2 |
-| ユディーア | エレクトラ | 蓋然性高 | 2 |
+| ユディーア | エレクトラ | 明言 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 | コイン | 銀貨 | 蓋然性高 | 1 |
 | コール | 召喚 | 明言 | 1 |
+| 人類 | ロマンカインド | 明言 | 1 |
 | ベアトリーチェ | セレクティフィレクティ | 明言 | 1 |
-| 魔将 | フィリス | 明言 | 1 |
+| アズーリア | マリー | 明言 | 1 |
+| 蝕 | アタリア | 明言 | 1 |
+| 隔離 | カーティス | 明言 | 1 |
+| 黒化 | キメラ | 明言 | 1 |
+| 斧槍 | ハルベルト | 明言 | 1 |
+| ジェット | 黒玉飛翔 | 明言 | 1 |
 | 狼 | カイン | 蓋然性高 | 1 |
+| 使い魔 | ペット | 明言 | 1 |
 | 盗賊王ゼド | ゼド | 明言 | 1 |
-| 冥道の幼姫 | テスモポリス | 明言 | 1 |
+| 忘却 | オブリヴィオン | 明言 | 1 |
+| レスラー | カニャッツォ | 明言 | 1 |
+| 冥道の幼姫 | フェロニア | 明言 | 1 |
 | 杖 | 箒 | 明言 | 1 |
-| パーン・ガレニス・クロウサー | パーン | 明言 | 1 |
+| 影占い | プシュコマンシー | 明言 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |
 | 六人の王さま | 六人の王 | 明言 | 1 |
+| ルバーブ | 乱髪（スカルミリョーネ） | 明言 | 1 |
 | 道化 | アルレッキーノ | 蓋然性高 | 1 |
+| 魔導書 | コンピュータ | 明言 | 1 |
+| 女神 | シャーネス | 明言 | 1 |
+| ルアー | 疑似餌 | 明言 | 1 |
+| 戦車 | メルカバ | 明言 | 1 |
 | 偶像 | ダウザール | 蓋然性高 | 1 |
+| 陰陽 | 両儀 | 明言 | 1 |
 | 姉妹 | キュトスの姉妹 | 明言 | 1 |
 | 聖女 | クナータ | 明言 | 1 |
-| ハル | ハルベルト | 高 | 1 |
+| レイシズム変数 | ヴァリアブル | 明言 | 1 |
+| ハル | ハルベルト | 明言 | 1 |
 | メートリアン | ミルーニャ | 明言 | 1 |
 | 姫君 | ラクルラール | 蓋然性高 | 1 |
 | ヒエロス・ガモス | 聖婚 | 明言 | 1 |
+| ファウナ | 動物想 | 明言 | 1 |
 | 融血 | 融血呪 | 蓋然性高 | 1 |
+| 共通 | キャカール | 明言 | 1 |
+| 強化外骨格 | トバルカイン | 明言 | 1 |
 
 
 注記（置換しない）:
 - 未置換（要検証）: 「洞窟」→ 楽園（要検証）
 - 未置換（要検証）: 「少年」→ ファル（要検証）
-- 未置換（要検証）: 「シナモリアキラ」→ アキラくん（要検証）
-- 未置換（要検証）: 「王」→ カーティス（要検証）
-- 未置換（要検証）: 「ルバーブ」→ スカルミリオーネ（要検証）
 - 未置換（要検証）: 「六人」→ 六人の王（要検証）
-- 未置換（要検証）: 「言理の妖精」→ エル・ア・フィリス（要検証）
+- 未置換（要検証）: 「アズ」→ アズーリア（要検証）
+- 未置換（要検証）: 「魔将」→ フィリス（要検証）
+- 未置換（要検証）: 「パーン・ガレニス・クロウサー」→ パーン（要検証）
+- 未置換（要検証）: 「パーン・ガレニス」→ パーン（要検証）
 - 未置換（要検証）: 「アイドル」→ ダウザール（要検証）
 - 未置換（要検証）: 「クラフト」→ ブリアー（要検証）
 - 未置換（要検証）: 「創造」→ ブリアー（要検証）
-- 未置換（要検証）: 「巨人」→ ネフィリム（要検証）
-- 未置換（要検証）: 「星見の塔」→ 塔（要検証）
-- 未置換（要検証）: 「転生者」→ ゼノグラシア（要検証）
 - 未置換（要検証）: 「文化」→ 文化的営為（要検証）
 - 未置換（要検証）: 「実況」→ トリシューラ（要検証）
 - 未置換（要検証）: 「幼馴染」→ ロウ・カーイン（要検証）

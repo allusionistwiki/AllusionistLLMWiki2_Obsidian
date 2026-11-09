@@ -9,7 +9,7 @@ canonical_name: "jpop_idol_industry"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_jpop_idol_industry.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,16 +20,18 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5401_inverts_E_p103_sacred_profane_jpop_idol_industry]] — 「穢れに満ちた地下に集う穢れ無きアイドル」という構図は、日本のアイドル産業における「清純さ（聖）」とそれを消費するファンや業界の裏側（俗・穢れ）の構造を、異世界の物理的な空間（地下/地上、呪術/音楽）を用いて逆転・顕在化させている。
+- [[A_ch5401_inverts_E_p103_sacred_profane_jpop_idol_industry]] — 「穢れに満ちた地下に集う穢れ無きアイドル」という構図は、日本のアイドル産業における「清純さ（聖）」とそれを消費するファンや業界の裏側（俗・穢れ）の構造を、異世界の物理的なアカシャ間（地下/大神院、呪術/音楽）を用いて逆転・顕在化させている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 空 | アカシャ | 明言 | 1 |
+| 地上 | 大神院 | 明言 | 1 |
 
 
 注記（置換しない）:

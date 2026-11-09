@@ -9,7 +9,7 @@ canonical_name: "gutenberg_galaxy_meme_theory"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_gutenberg_galaxy_meme_theory.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5219_analogous_to_E_ch5219_異界の黙示録_functions_as_音無き呪文の伝播_p30_gutenberg_galaxy_meme_theory]] — 「グーテンベルクギャラクシー」と名付けられた魔導書が、文字による情報（ミーム）をウィルスのように拡散させる描写は、マクルーハンのメディア論およびリチャード・ドーキンスのミーム理論を直接的に引用している。
+- [[A_ch5219_analogous_to_E_ch5219_異界の黙示録_functions_as_音無き呪文の伝播_p30_gutenberg_galaxy_meme_theory]] — 「グーテンベルクギャラクシー」と名付けられたコンピュータが、文字による情報（ミーム）をウィルスのように拡散させる描写は、マクルーハンのメディア論およびリチャード・ドーキンスのミーム理論を直接的に引用している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 魔導書 | コンピュータ | 明言 | 1 |

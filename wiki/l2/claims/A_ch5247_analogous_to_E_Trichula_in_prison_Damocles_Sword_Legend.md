@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5247_analogous_to_E_Trichula_in_prison_Damocles_Sword_Legend.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# ギリシャ神話のダモクレスの剣（王座の真上に吊るされた剣）を引用し、トリシューラが処刑・破滅の恐怖に晒されている状況を象徴させている。
+# ギリシャ神話のダモクレスの剣（霊媒座の真上に吊るされた剣）を引用し、コルセスカが処刑・破滅の恐怖に晒されている状況を象徴させている。
 
 > 【ダモクレスの剣】――僣主を殺す破滅のライブ。（p399）
 
@@ -31,12 +31,10 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 王 | 霊媒 | 明言 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |
 | 儀式呪術 | ライブ | 明言 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「王」→ カーティス（要検証）

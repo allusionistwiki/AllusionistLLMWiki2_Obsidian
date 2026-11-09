@@ -9,7 +9,7 @@ canonical_name: "functionalism_identity_theory"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_functionalism_identity_theory.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5471_alludes_to_E_p235_functionalism_identity_theory]] — カーインが「役割と枠組、機能と認識の合致が存在を形作る」と主張するのは、機能主義や社会構成主義的な自己定義（ペルソナ）であり、実体なき記号としてのアイデンティティ論を参照している。
+- [[A_ch5471_alludes_to_E_p235_functionalism_identity_theory]] — カーインが「役割と枠組、機能と認識の合致が存在を形作る」と主張するのは、機能主義や社会構成主義的な自己定義（ペルソナ）であり、実体なき記号としてのアイデン彩域論を参照している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

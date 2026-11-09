@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5464_analogous_to_E_p300-Ep314_Industrial_Espionage_and_Patent_Trolls.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > 神働装甲の設計図が何者かに盗まれるという事件があったのだという。...『松明』は『独自技術』によって新型兵装の開発に成功した。（p302）
 
-**審査（LLM 代替）**: 「産業スパイ」「特許 troll」等の現代ビジネス用語への引喩は、ファンタジー内の派閥抗争という文脈においてやや過度な解釈。組織間の技術独占と不信感というテーマとして処理すべき。
+**審査（LLM 代替）**: 「産業スパイ」「特許 troll」等の現代ビジネス用語へのアリュージョンは、ファンタジー内の派閥抗争という文脈においてやや過度な解釈。組織間の技術独占と不信感というテーマとして処理すべき。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

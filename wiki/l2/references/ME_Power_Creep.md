@@ -9,7 +9,7 @@ canonical_name: "Power_Creep"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Power_Creep.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (2 件)
 
-- [[A_ch5045_parodies_E_Inflation_Power_Creep]] — 主人公がカッサリオの破壊力を見て「インフレが激しすぎてついていけない」と自嘲する描写は、ゲームや物語における敵の能力が際限なく上昇していく「パワー・クリープ」現象をメタ的に批判・自覚している。
+- [[A_ch5045_parodies_E_Inflation_Power_Creep]] — プロタゴニストがカッサリオの破壊力を見て「インフレが激しすぎてついていけない」と自嘲する描写は、ゲームや物語における敵の能力が際限なく上昇していく「パワー・クリープ」現象をメタ的に批判・自覚している。
 - [[A_ch5111_structurally_matches_E_chiron_fusion_power_creep]] — キロンが神滅具と融合して飛躍的に強くなる現象は、ゲームにおける「アイテム合成によるステータス爆発」および「敵のパワーアップ」というメカニクスを模倣している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

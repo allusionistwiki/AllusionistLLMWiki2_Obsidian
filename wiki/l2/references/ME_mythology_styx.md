@@ -9,7 +9,7 @@ canonical_name: "mythology_styx"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_mythology_styx.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5452_alludes_to_E_5452_p26_mythology_styx]] — 世界を分ける大河ステュクスという名称と描写は、ギリシャ神話における冥界への渡河の象徴を引用し、この世界の生死境界が不可逆な断絶であることを示している。
+- [[A_ch5452_alludes_to_E_5452_p26_mythology_styx]] — 世界を分ける大河ステュクスという名称と描写は、ギリシャ神話における冥界への渡河の象徴を引用し、ゼオーティアの生死境界が不可逆な断絶であることを示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| この世界 | ゼオーティア | 明言 | 1 |

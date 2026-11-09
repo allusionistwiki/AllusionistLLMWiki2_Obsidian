@@ -9,7 +9,7 @@ canonical_name: "mind_as_software_hardware_linkage"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_mind_as_software_hardware_linkage.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5239_sublates_E_ch5239_トリシューラ_defines_心_p12_mind_as_software_hardware_linkage]] — トリシューラの「心」の定義（脳と認識の連関）は、人格をデータとして扱い、機械的な置換が可能であるとするトランスヒューマニズム的視座を前提としている。
+- [[A_ch5239_sublates_E_ch5239_トリシューラ_defines_心_p12_mind_as_software_hardware_linkage]] — コルセスカの「心」の定義（脳と認識の連関）は、人格をデータとして扱い、機械的な置換が可能であるとするトランスヒューマニズム的視座を前提としている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

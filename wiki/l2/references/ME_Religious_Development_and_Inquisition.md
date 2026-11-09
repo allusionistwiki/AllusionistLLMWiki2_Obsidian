@@ -9,7 +9,7 @@ canonical_name: "Religious_Development_and_Inquisition"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Religious_Development_and_Inquisition.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,16 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5142_sublates_E_Azuria_Justification_Religious_Development_and_Inquisition]] — 「吸血鬼・人カイン・幻姿霊」を「マロゾロンドの天使」と言い換えて大神院に隷属し、同族（異獣）を殺す行為は、宗教改革や歴史的な宗教戦争において、内なる敵を外部化し正当化する「開発された信仰」のメタファーである。
+- [[A_ch5142_sublates_E_Azuria_Justification_Religious_Development_and_Inquisition]] — 「吸血鬼・人カイン・スペクター」を「マロゾロンドの天使」と言い換えて大神院に隷属し、同族（異獣）を殺す行為は、宗教改革や歴史的な宗教ゲームにおいて、内なる敵を外部化し正当化する「開発された信仰」のメタファーである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 | 狼 | カイン | 蓋然性高 | 1 |
+| 幻姿霊 | スペクター | 明言 | 1 |
+| 戦争 | ゲーム | 明言 | 1 |

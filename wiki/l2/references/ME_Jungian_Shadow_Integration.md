@@ -9,7 +9,7 @@ canonical_name: "Jungian_Shadow_Integration"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Jungian_Shadow_Integration.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5294_parodies_E_p10-p11_WangSama_SelfIntegration_Jungian_Shadow_Integration]] — 王様が他者を「自分にする」行為は、孤独を回避するための強制的な同化であり、他者性の排除による偽りの自己充足を描いている。
+- [[A_ch5294_parodies_E_p10-p11_WangSama_SelfIntegration_Jungian_Shadow_Integration]] — 霊媒様が他者を「自分にする」行為は、孤独を回避するための強制的な同化であり、他者性の排除による偽りの自己充足を描いている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「王」→ カーティス（要検証）
+| 王 | 霊媒 | 明言 | 1 |

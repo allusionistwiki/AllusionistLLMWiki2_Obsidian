@@ -9,7 +9,7 @@ canonical_name: "narrative_determinism_script"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_narrative_determinism_script.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5446_inverts_E_ch5446_アキラ_defines_悪役としての運命_p15_narrative_determinism_script]] — 「カインは悪役」という自覚は、単なる性格描写ではなく、「物語の法則（Script）」に従って退場を強要される存在であることを意味し、自由意志の否定として機能している。
+- [[A_ch5446_inverts_E_ch5446_アキラ_defines_悪役としての運命_p15_narrative_determinism_script]] — 「カインは悪役」という自覚は、単なる性格描写ではなく、「物語の法則（Script）」に従って退場を強要される存在であることを意味し、フェロニア意志の否定として機能している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 | 私 | カイン | 蓋然性高 | 1 |
+| 自由 | フェロニア | 明言 | 1 |

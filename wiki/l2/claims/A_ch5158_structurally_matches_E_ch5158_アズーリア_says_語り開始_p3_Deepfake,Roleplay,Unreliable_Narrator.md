@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5158_structurally_matches_E_ch5158_アズーリア_says_語り開始_p3_Deepfake,Roleplay,Unreliable_Narrator.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > 内面を忖度した一人称。想いを想像した騙り。物語を捏造して突きつける。（p3）
 
-**審査（LLM 代替）**: 「AI・深層学習」への引喩は現代的技術との类比であり、作品世界内の「捏造された一人称による干渉」という呪術的メカニズムの核心からずれている。
+**審査（LLM 代替）**: 「AI・深層学習」へのアリュージョンは現代的技術との类比であり、作品世界内の「捏造された一人称による干渉」という呪術的メカニズムの核心からずれている。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "rpg_expert_trope"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_rpg_expert_trope.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5375_parodies_E_p64_rpg_expert_trope]] — グレンデルヒの台詞は、RPGにおいて主人公に能力を与える「賢者」「博士」キャラクターのメタフィクショナルな自覚をパロディ化している。
+- [[A_ch5375_parodies_E_p64_rpg_expert_trope]] — ハタラドゥールの台詞は、RPGにおいてプロタゴニストに能力を与える「賢者」「博士」キャラクターのメタフィクショナルな自覚をパロディ化している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「グレンデルヒ」→ ウォゾマ・メロロキン（要検証）
+| グレンデルヒ | ハタラドゥール | 明言 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

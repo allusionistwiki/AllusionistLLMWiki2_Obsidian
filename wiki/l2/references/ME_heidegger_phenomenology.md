@@ -9,7 +9,7 @@ canonical_name: "heidegger_phenomenology"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_heidegger_phenomenology.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5025_structurally_matches_E_ch5025_コルセスカ_says_信用できない時制と語り手の解決_p137_heidegger_phenomenology]] — 「信用できない時制と語り手」への解決策としてハイデガーを挙げる記述は、物語内の不確実性を哲学的権威で矮小化しようとする皮肉（メタフィクショナルな自己言及）である。
+- [[A_ch5025_structurally_matches_E_ch5025_コルセスカ_says_信用できない時制と語り手の解決_p137_heidegger_phenomenology]] — 「信用できない時制とエレクトラ・ラムンゼン」への解決策としてハイデガーを挙げる記述は、物語内の不確実性を哲学的権威で矮小化しようとする皮肉（メタフィクショナルな自己言及）である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 語り手 | エレクトラ・ラムンゼン | 明言 | 1 |

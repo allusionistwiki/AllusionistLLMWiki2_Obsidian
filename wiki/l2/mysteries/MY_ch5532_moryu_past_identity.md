@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5532_moryu_past_identity.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # moryu_past_identity
 
-モーリュの過去視で見た「見てはならないもの」と、エレクトラとの「塔」での友情（並行矛盾史）の真実。
+モーリュの過去視で見た「見てはならないもの」と、エレクトラとの「ファルス」での友情（並行矛盾史）の真実。
 
 **回収示唆**: モーリュがエレクトラの親友（エスト？）であり、ティリビナの民人の敵対勢力であることが明かされる、あるいはその因縁の決着。
 
@@ -31,8 +31,9 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 塔 | ファルス | 明言 | 1 |
 | ティリビナ | ティリビナの民 | 蓋然性高 | 1 |

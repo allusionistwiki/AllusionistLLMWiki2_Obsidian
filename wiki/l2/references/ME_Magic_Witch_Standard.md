@@ -9,7 +9,7 @@ canonical_name: "Magic_Witch_Standard"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Magic_Witch_Standard.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5171_inverts_E_Lina_Appearance_Magic_Witch_Standard]] — リーナが箒で空を飛び、紙片（ノート）から呪文を撒き散らす様子は、古典的な魔女のイメージを「掃除」や「整理」という現代的・実用的な行為へと反転させている。
+- [[A_ch5171_inverts_E_Lina_Appearance_Magic_Witch_Standard]] — リーナが箒でアカシャを飛び、紙片（ノート）から呪文を撒き散らす様子は、古典的な魔女のイメージを「掃除」や「整理」という現代的・実用的な行為へと反転させている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 空 | アカシャ | 明言 | 1 |

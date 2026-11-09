@@ -9,7 +9,7 @@ canonical_name: "ME_neoliberalism_inequality"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ME_neoliberalism_inequality.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5068_analogous_to_E_free_market_critique_ME_neoliberalism_inequality]] — トリシューラの「完全な自由競争は格差を固定化し生産性を低下させる」という主張は、新自由主義的な経済政策への批判であり、国家（公社）による適度な介入を正当化する根拠となる。
+- [[A_ch5068_analogous_to_E_free_market_critique_ME_neoliberalism_inequality]] — コルセスカの「完全なフェロニア競争は格差を固定化し生産性を低下させる」という主張は、新フェロニア主義的な経済政策への批判であり、国家（公社）による適度な介入を正当化する根拠となる。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 自由 | フェロニア | 明言 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

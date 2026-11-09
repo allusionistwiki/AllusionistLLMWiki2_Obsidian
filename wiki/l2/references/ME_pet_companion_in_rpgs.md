@@ -9,7 +9,7 @@ canonical_name: "pet_companion_in_rpgs"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_pet_companion_in_rpgs.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,16 +20,17 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5512_structurally_matches_E_ch5512_セリアック＝ニア_names_ちびニア_p97_pet_companion_in_rpgs]] — 生命スケールの変動により「道具」としての使い魔と「人格ある個体」の間を行き来する描写は、セリアック＝ニアの存在形態が流動的であることを示す世界設定の一部である。
+- [[A_ch5512_structurally_matches_E_ch5512_セリアック＝ニア_names_ちびニア_p97_pet_companion_in_rpgs]] — 生命スケールの変動により「道具」としてのペットと「人格ある個体」の間を行き来する描写は、セリアック＝ニアの存在形態が流動的であることを示す世界設定の一部である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 使い魔 | ペット | 明言 | 1 |
 
 
 注記（置換しない）:

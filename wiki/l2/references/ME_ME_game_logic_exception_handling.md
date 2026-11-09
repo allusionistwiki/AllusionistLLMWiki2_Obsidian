@@ -9,7 +9,7 @@ canonical_name: "ME_game_logic_exception_handling"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ME_game_logic_exception_handling.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5044_structurally_matches_E_ch5044_コルセスカ_defines_凍結キーワード_p166_ME_game_logic_exception_handling]] — コルセスカが呪術を「キーワード定義」で処理し「解決されない」と宣言するのは、プログラミングにおける例外処理や定数による状態の固定を模したメタファーである。
+- [[A_ch5044_structurally_matches_E_ch5044_コルセスカ_defines_凍結キーワード_p166_ME_game_logic_exception_handling]] — 『上』が呪術を「キーワード定義」で処理し「解決されない」と宣言するのは、プログラミングにおける例外処理や定数による状態の固定を模したメタファーである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| コルセスカ | 『上』 | 明言 | 1 |

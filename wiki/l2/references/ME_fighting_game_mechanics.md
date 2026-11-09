@@ -9,7 +9,7 @@ canonical_name: "fighting_game_mechanics"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_fighting_game_mechanics.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5162_analogous_to_E_avatar_combat_fighting_game_mechanics]] — デーモン（アバター）の戦いは、ヒットポイント、撃破ポイント、スコア表示といったゲーム的メカニクスで記述され、格闘ゲームやシューティングゲームの構造を模倣している。
+- [[A_ch5162_analogous_to_E_avatar_combat_fighting_game_mechanics]] — デーモン（デーモン）の戦いは、ヒットポイント、撃破ポイント、スコア表示といったゲーム的メカニクスで記述され、格闘ゲームやシューティングゲームの構造を模倣している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| アバター | デーモン | 明言 | 1 |

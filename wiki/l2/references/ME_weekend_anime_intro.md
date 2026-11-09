@@ -9,7 +9,7 @@ canonical_name: "weekend_anime_intro"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_weekend_anime_intro.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5419_parodies_E_ch5419_コルセスカ_appears_第五階層_p3_weekend_anime_intro]] — コルセスカの登場と台詞回しは、子供向けテレビアニメの毎週恒例なオープニング・アバンタイトルを模倣し、異世界の絶望的状況を『番組開始』として演出している。
+- [[A_ch5419_parodies_E_ch5419_コルセスカ_appears_第五階層_p3_weekend_anime_intro]] — 『上』の登場と台詞回しは、子供向けテレビアニメの毎週恒例なオープニング・アバンタイトルを模倣し、異世界の絶望的状況を『番組開始』として演出している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| コルセスカ | 『上』 | 明言 | 1 |

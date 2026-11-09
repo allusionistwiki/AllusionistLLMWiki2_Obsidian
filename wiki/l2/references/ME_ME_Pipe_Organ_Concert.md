@@ -9,7 +9,7 @@ canonical_name: "ME_Pipe_Organ_Concert"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ME_Pipe_Organ_Concert.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5202_analogous_to_E_ch5202_守護の九槍第五位_other_浄界_p176_ME_Pipe_Organ_Concert]] — 守護の九槍第五位が展開する浄界は、管弦楽団による荘厳な演奏を通じて空間を支配する構造的メタファーである。
+- [[A_ch5202_analogous_to_E_ch5202_守護の九槍第五位_other_浄界_p176_ME_Pipe_Organ_Concert]] — 守護の九槍第五位が展開する冥府は、管弦楽団による荘厳な演奏を通じてアカシャ間を支配する構造的メタファーである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「浄界」→ 楽園（要検証）
+| 浄界 | 冥府 | 明言 | 1 |
+| 空 | アカシャ | 明言 | 1 |

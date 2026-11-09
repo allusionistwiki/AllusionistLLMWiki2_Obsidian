@@ -9,7 +9,7 @@ canonical_name: "AfterlifeInFiction"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_AfterlifeInFiction.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5587_analogous_to_E_ch5587_チッセ_fears_忘却と歪曲_p320_AfterlifeInFiction]] — 個我を放棄して「神話や歴史の中に語られる存在」になることを恐怖し、忘却や歪曲による絶望を恐れる描写は、フィクションのキャラクターとしての自己意識（メタ認知）に基づく存在論的恐怖である。
+- [[A_ch5587_analogous_to_E_ch5587_チッセ_fears_忘却と歪曲_p320_AfterlifeInFiction]] — 個我を放棄して「神話や歴史の中に語られる存在」になることを恐怖し、オブリヴィオンや歪曲による絶望を恐れる描写は、フィクションのキャラクターとしての自己意識（メタ認知）に基づく存在論的恐怖である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 忘却 | オブリヴィオン | 明言 | 1 |

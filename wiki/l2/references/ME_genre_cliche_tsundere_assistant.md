@@ -9,7 +9,7 @@ canonical_name: "genre_cliche_tsundere_assistant"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_genre_cliche_tsundere_assistant.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- A_ch5052_parodies_E_ch5052_06_genre_cliche_tsundere_assistant — システムAI（ちびシューラ）が破損寸前で大げさに悲鳴を上げ、主人公がそれを無視するやり取りは、ゲームにおける『UIの過剰な感情表現』と『プレイヤーの無慈悲な最適化行動』のギャップを描くコメディ的パロディである。
+- A_ch5052_parodies_E_ch5052_06_genre_cliche_tsundere_assistant — システムAI（シューラ）が破損寸前で大げさに悲鳴を上げ、プロタゴニストがそれを無視するやり取りは、ゲームにおける『UIの過剰な感情表現』と『プレイヤーの無慈悲な最適化行動』のギャップを描くコメディ的パロディである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「ちびシューラ」→ きぐるみの魔女（要検証）
+| ちびシューラ | シューラ | 明言 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

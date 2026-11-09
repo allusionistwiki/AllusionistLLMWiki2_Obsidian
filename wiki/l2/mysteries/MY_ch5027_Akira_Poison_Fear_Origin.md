@@ -12,7 +12,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5027_Akira_Poison_Fear_Origin.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -25,4 +25,13 @@ l2_run: 20261029T0843_c8bb
 
 > あの老人には何度か食事に誘われたが、毒を警戒して断った。（p128）
 
-**審査（LLM 代替）**: 「何度か誘われた」「毒を警戒して断った」という具体的な行動の履歴は、首領の性格（危険性）と主人公の防衛戦略を示す明確な伏線として機能している。
+**審査（LLM 代替）**: 「何度か誘われた」「毒を警戒して断った」という具体的な行動の履歴は、首領の性格（危険性）とプロタゴニストの防衛戦略を示す明確な伏線として機能している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 主人公 | プロタゴニスト | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "bishop_title_in_fantasy"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_bishop_title_in_fantasy.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5514_alludes_to_E_erica_identity_bishop_title_in_fantasy]] — エリカの「ビショップ（天主補佐官）」という称号は、都市管理システムにおける高位管理者権限を指しており、カイン女の戦闘能力と政治的地位を示唆している。
+- [[A_ch5514_alludes_to_E_erica_identity_bishop_title_in_fantasy]] — 朱雪華の魔女の「ビショップ（天主補佐官）」という称号は、都市管理システムにおける高位管理者権限を指しており、カイン女の戦闘能力と政治的地位を示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| エリカ | 朱雪華の魔女 | 明言 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |

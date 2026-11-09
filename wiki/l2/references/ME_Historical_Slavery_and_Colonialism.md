@@ -9,7 +9,7 @@ canonical_name: "Historical_Slavery_and_Colonialism"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Historical_Slavery_and_Colonialism.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5494_analogous_to_E_Rainbow_Dog_Enslavement_Historical_Slavery_and_Colonialism]] — 虹犬がキノコ人を「神の奴隷」として従えようとする行為は、作品世界における『正しき序列』という絶対的な支配秩序（ヒエラルキー）を主張する権力構造を描いている。
+- [[A_ch5494_analogous_to_E_Rainbow_Dog_Enslavement_Historical_Slavery_and_Colonialism]] — 異獣がキノコ人を「神の奴隷」として従えようとする行為は、作品世界における『正しき序列』という絶対的な支配秩序（ヒエラルキー）を主張する権力構造を描いている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 虹犬 | 異獣 | 明言 | 1 |

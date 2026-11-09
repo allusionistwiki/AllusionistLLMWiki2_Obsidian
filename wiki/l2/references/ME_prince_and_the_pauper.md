@@ -9,7 +9,7 @@ canonical_name: "prince_and_the_pauper"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_prince_and_the_pauper.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5283_alludes_to_E_p230_prince_and_the_pauper]] — 王と乞食（下位者）が入れ替わり体験するという物語類型は、マーク・トウェインの『王子と乞食』などの定番モチーフを参照している。
+- [[A_ch5283_alludes_to_E_p230_prince_and_the_pauper]] — 霊媒と乞食（下位者）が入れ替わり体験するという物語類型は、マーク・トウェインの『霊媒子と乞食』などの定番モチーフを参照している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 王 | 霊媒 | 明言 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「王」→ カーティス（要検証）

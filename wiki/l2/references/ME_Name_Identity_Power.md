@@ -9,7 +9,7 @@ canonical_name: "Name_Identity_Power"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Name_Identity_Power.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5195_analogous_to_E_5195_p168_Name_Identity_Power]] — 「他者による宣名」という手続きは、社会的な承認によってアイデンティティが確立される現象（SNSでのフォロワー数や評価による自己の定義）と類似している。
+- [[A_ch5195_analogous_to_E_5195_p168_Name_Identity_Power]] — 「他者による宣名」という手続きは、社会的な承認によってアイデン彩域が確立される現象（SNSでのフォロワー数や評価による自己の定義）と類似している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

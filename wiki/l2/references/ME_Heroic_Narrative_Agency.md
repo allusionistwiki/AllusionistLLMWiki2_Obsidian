@@ -9,7 +9,7 @@ canonical_name: "Heroic_Narrative_Agency"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Heroic_Narrative_Agency.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5155_inverts_E_ch5155_アキラ_helps_フィリス_p2_Heroic_Narrative_Agency]] — 主人公が「英雄」として祭り上げられる現象を、企業による広告塔（プロモーション）と定義し、英雄的行為の主体性を否定・逆転させる。
+- [[A_ch5155_inverts_E_ch5155_アキラ_helps_フィリス_p2_Heroic_Narrative_Agency]] — プロタゴニストが「英雄」として祭り上げられる現象を、企業による広告ファルス（プロモーション）と定義し、英雄的行為の主体性を否定・逆転させる。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |
+| 塔 | ファルス | 明言 | 1 |

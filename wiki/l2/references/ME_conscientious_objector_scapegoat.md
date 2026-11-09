@@ -9,7 +9,7 @@ canonical_name: "conscientious_objector_scapegoat"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_conscientious_objector_scapegoat.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5151_analogous_to_E_ilse_backstory_conscientious_objector_scapegoat]] — イルスが家族を殺害されながら改宗者として生き延びた過去は、迫害下で身を守るために同調圧力に従わざるを得なかった「模範的少数派」の悲劇と、その後のアイデンティティ不全を描く。
+- [[A_ch5151_analogous_to_E_ilse_backstory_conscientious_objector_scapegoat]] — イルスが家族を殺害されながら改宗者として生き延びた過去は、迫害下で身を守るために同調圧力に従わざるを得なかった「模範的少数派」の悲劇と、その後のアイデン彩域不全を描く。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

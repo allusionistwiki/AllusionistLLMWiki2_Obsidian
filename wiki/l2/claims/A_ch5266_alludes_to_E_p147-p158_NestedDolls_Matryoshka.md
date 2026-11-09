@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5266_alludes_to_E_p147-p158_NestedDolls_Matryoshka.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > 一つ目の人形が割れて、二つ目の人形が現れ、それが繰り返された後に九つ目が一つ目を、そして全体を内包した有り様を見せるのだった。（p152）
 
-**審査（LLM 代替）**: 入れ子構造の描写はマトリョーシカやフラクタル構造という現実の概念を明確に想起させるものであり、引喩として妥当性が高い。
+**審査（LLM 代替）**: 入れ子構造の描写はマトリョーシカやフラクタル構造という現実の概念を明確に想起させるものであり、アリュージョンとして妥当性が高い。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "metaphysical_resistance"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_metaphysical_resistance.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,16 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5112_sublates_E_akira_ignorance_metaphysical_resistance]] — 主人公アキラくんの「無知」は、単なる知識不足ではなく、世界のルール（物語的価値観）に対するメタフィクショナルな耐性として機能している。
+- [[A_ch5112_sublates_E_akira_ignorance_metaphysical_resistance]] — プロタゴニスト語り手の「小鬼」は、単なる知識不足ではなく、世界のルール（物語的価値観）に対するメタフィクショナルな耐性として機能している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アキラ | アキラくん | 高 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |
+| アキラ | 語り手 | 明言 | 1 |
+| 無知 | 小鬼 | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "defensive_tower_defense"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_defensive_tower_defense.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5514_analogous_to_E_erica_summon_defensive_tower_defense]] — エリカが事前に情報を基に拠点へ仕掛けを施す行動は、ゲームにおける事前準備やトラップ設置といった戦略的プレイングを想起させる。
+- [[A_ch5514_analogous_to_E_erica_summon_defensive_tower_defense]] — 朱雪華の魔女が事前に情報を基に拠点へ仕掛けを施す行動は、ゲームにおける事前準備やトラップ設置といった戦略的プレイングを想起させる。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| エリカ | 朱雪華の魔女 | 明言 | 1 |

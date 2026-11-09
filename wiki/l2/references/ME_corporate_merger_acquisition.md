@@ -9,7 +9,7 @@ canonical_name: "corporate_merger_acquisition"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_corporate_merger_acquisition.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5435_analogous_to_E_ch5435_第五階層の人々_other_安堵_p2_corporate_merger_acquisition]] — アルト・イヴニルの再構成と従属は、既存の人格（OS）を破棄し、支配者の目的に最適化された「素体」として再学習・再構築される過程を示唆する。
+- [[A_ch5435_analogous_to_E_ch5435_第五階層の人々_other_安堵_p2_corporate_merger_acquisition]] — 邪眼の人形姫の再構成と従属は、既存の人格（OS）を破棄し、支配者の目的に最適化された「素体」として再学習・再構築される過程を示唆する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アレッテ・イヴニル | アルト・イヴニル | 蓋然性高 | 1 |
+| アレッテ・イヴニル | 邪眼の人形姫 | 明言 | 1 |

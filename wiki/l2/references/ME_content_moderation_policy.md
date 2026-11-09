@@ -9,7 +9,7 @@ canonical_name: "content_moderation_policy"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_content_moderation_policy.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5370_analogous_to_E_p62_content_moderation_policy]] — 内心の自由は認めつつ暴力を禁止する自警団の姿勢は、インターネットコミュニティにおけるモデレーションポリシー（言論の自由と荒らし対策）に似ている。
+- [[A_ch5370_analogous_to_E_p62_content_moderation_policy]] — 内心のフェロニアは認めつつ暴力を禁止する自警団の姿勢は、インターネットコミュニティにおけるモデレーションポリシー（言論のフェロニアと荒らし対策）に似ている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 自由 | フェロニア | 明言 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |

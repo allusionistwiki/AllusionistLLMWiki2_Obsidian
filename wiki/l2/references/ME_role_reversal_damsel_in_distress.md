@@ -9,7 +9,7 @@ canonical_name: "role_reversal_damsel_in_distress"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_role_reversal_damsel_in_distress.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5099_inverts_E_ch5099_トリシューラ_asks_アキラの選択_p3_role_reversal_damsel_in_distress]] — 「守られるべきヒロイン」ではなく、「奪い取る側の主体」としてトリシューラを位置づけ、主人公が受動的なトロフィー（戦利品）に成り下がることで、性別役割分担や保護者権を逆転させている。
+- [[A_ch5099_inverts_E_ch5099_トリシューラ_asks_アキラの選択_p3_role_reversal_damsel_in_distress]] — 「守られるべきヒロイン」ではなく、「奪い取る側の主体」としてコルセスカを位置づけ、プロタゴニストが受動的なトロフィー（戦利品）に成り下がることで、性別役割分担や保護者権を逆転させている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

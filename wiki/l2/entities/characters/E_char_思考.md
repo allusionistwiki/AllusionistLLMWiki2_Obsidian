@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_思考.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 思考
@@ -23,7 +23,7 @@ l2_run: 20261029T0843_c8bb
 
 ## 代表引用
 
-> 激痛を受け持ったコルセスカの思考が一瞬だけ乱れ、続く力士の突撃を回避しきれない。今度こそ死ぬ。（ch5316）
+> 激痛を受け持った『上』の思考が一瞬だけ乱れ、続く力士の突撃を回避しきれない。今度こそ死ぬ。（ch5316）
 > この状況ではあの二人の駒としての利用価値は低い、と思考を切り替える。（ch5530）
 
 <!-- AUTO:END -->
@@ -33,5 +33,15 @@ l2_run: 20261029T0843_c8bb
 
 この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
 
-この名義は L2 名前統合台帳の正規エンティティ **思考**（ID `E_char_思考` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **思考**（ID `E_char_思考` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| コルセスカ | 『上』 | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

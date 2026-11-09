@@ -9,7 +9,7 @@ canonical_name: "Consciousness_Expansion_App"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Consciousness_Expansion_App.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5459_analogous_to_E_Alt_Psychological_Split_Consciousness_Expansion_App]] — アルトが「再演された役」として他者の力を統合し、自己の拡張に伴う恐怖（アイデンティティの希薄化）に苛まれる様子は、SNSやメタバースでの自己投影・アバター運用における「自我の拡張と喪失」への不安を反映している。
+- [[A_ch5459_analogous_to_E_Alt_Psychological_Split_Consciousness_Expansion_App]] — アルトが「再演された役」として他者の力を統合し、自己の拡張に伴う恐怖（アイデン彩域の希薄化）に苛まれる様子は、SNSやメタバースでの自己投影・デーモン運用における「自我の拡張と喪失」への不安を反映している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |
+| アバター | デーモン | 明言 | 1 |

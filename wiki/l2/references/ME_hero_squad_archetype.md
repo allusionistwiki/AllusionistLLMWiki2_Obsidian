@@ -9,7 +9,7 @@ canonical_name: "hero_squad_archetype"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_hero_squad_archetype.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5127_parodies_E_ch5127_アキラ_travels_第六区_p3_hero_squad_archetype]] — 「四英雄」への期待は、公式組織（騎士団）に対する民衆の信頼と上層部の政治的計算が入り混じる権威の相対化現象を示している。
+- [[A_ch5127_parodies_E_ch5127_アキラ_travels_第六区_p3_hero_squad_archetype]] — 「四英雄」への期待は、公式組織（騎士団）に対するコーラスの信頼と上層部の政治的計算が入り混じる権威の相対化現象を示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 民衆 | コーラス | 明言 | 1 |

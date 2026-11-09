@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5218_alludes_to_E_p56_Lévi-Strauss_Bricolage.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > それは人間が人間であるがゆえの、野生の思考（ブリコラージュ）。（p56）
 
-**審査（LLM 代替）**: 原文に「野生の思考（ブリコラージュ）」とレヴィ＝ストロースの概念が明示的に言及されており、記号解釈の反射性として定義されているため、引喩は正確。
+**審査（LLM 代替）**: 原文に「野生の思考（ブリコラージュ）」とレヴィ＝ストロースの概念が明示的に言及されており、記号解釈の反射性として定義されているため、アリュージョンは正確。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

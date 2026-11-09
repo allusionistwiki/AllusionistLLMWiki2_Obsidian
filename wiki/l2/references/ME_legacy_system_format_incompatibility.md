@@ -9,7 +9,7 @@ canonical_name: "legacy_system_format_incompatibility"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_legacy_system_format_incompatibility.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,15 +20,16 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5056_analogous_to_E_ch5056_少年_uses_古代語_p272_legacy_system_format_incompatibility]] — データベースに存在しない古代語を話せる少年と、それを読み取れる主人公の存在は、主人公が世界のシステム（言語データ）の外側にある特異な権限や役割を持つことを示唆するメタフィクション的装置である。
+- [[A_ch5056_analogous_to_E_ch5056_少年_uses_古代語_p272_legacy_system_format_incompatibility]] — データベースに存在しない古代語を話せる少年と、それを読み取れるプロタゴニストの存在は、プロタゴニストが世界のシステム（言語データ）の外側にある特異な権限や役割を持つことを示唆するメタフィクション的装置である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 主人公 | プロタゴニスト | 明言 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 
 

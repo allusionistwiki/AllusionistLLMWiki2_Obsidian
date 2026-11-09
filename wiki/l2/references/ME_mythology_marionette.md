@@ -9,7 +9,7 @@ canonical_name: "mythology_marionette"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_mythology_marionette.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5302_alludes_to_E_5302_p4_mythology_marionette]] — 天上から伸びる青い糸と操り人形は、物語内キャラクターが上位の意志（ラクルラール等）によって操作される『人形劇』的な構造を可視化し、運命や自由意志の不在をメタ的に暗示する。
+- [[A_ch5302_alludes_to_E_5302_p4_mythology_marionette]] — 天上から伸びる青い糸と操り人形は、物語内キャラクターが上位の意志（ラクルラール等）によって操作される『人形劇』的な構造を可視化し、運命やフェロニア意志の不在をメタ的に暗示する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 自由 | フェロニア | 明言 | 1 |

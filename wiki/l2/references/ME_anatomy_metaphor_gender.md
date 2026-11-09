@@ -9,7 +9,7 @@ canonical_name: "anatomy_metaphor_gender"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_anatomy_metaphor_gender.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5452_inverts_E_5452_p70_anatomy_metaphor_gender]] — 産道とカイン根の対比を「陰と陽の調和をなす対の器官」として呪術的に定義し、生物学的構造を超えた象徴的な性差の逆転・補完関係として世界を再構成している。
+- [[A_ch5452_inverts_E_5452_p70_anatomy_metaphor_gender]] — 産道とキロン根の対比を「陰と陽の調和をなす対の器官」として呪術的に定義し、生物学的構造を超えた象徴的な性差の逆転・補完関係として世界を再構成している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 男 | カイン | 蓋然性高 | 1 |
+| 男 | キロン | 明言 | 1 |

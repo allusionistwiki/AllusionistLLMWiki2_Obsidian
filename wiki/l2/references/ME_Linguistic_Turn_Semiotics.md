@@ -9,7 +9,7 @@ canonical_name: "Linguistic_Turn_Semiotics"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Linguistic_Turn_Semiotics.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5183_analogous_to_E_p14_Linguistic_Turn_Semiotics]] — 花言葉が古代呪文師による象徴性の固定であり、人類の深層意識に浸透する呪文であるという記述は、記号論における意味の恣意的・歴史的決定と社会構造への埋め込みを指している。
+- [[A_ch5183_analogous_to_E_p14_Linguistic_Turn_Semiotics]] — 花言葉が古代呪文師による象徴性の固定であり、ロマンカインドの深層意識に浸透する呪文であるという記述は、記号論における意味の恣意的・歴史的決定と社会構造への埋め込みを指している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 | 言語魔術 | 呪文 | 蓋然性高 | 1 |
+| 人類 | ロマンカインド | 明言 | 1 |

@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5567_Blue_Sea_Nature.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # Blue_Sea_Nature
 
-城内を満たす「藍の海」が何であるか。モーエンがそれを「母なる女神」「創造行為」と呼ぶことの物理的・呪術的な正体。
+城内を満たす「藍の海」が何であるか。モーエンがそれを「母なるシャーネス」「創造行為」と呼ぶことの物理的・呪術的な正体。
 
 **回収示唆**: 世界設定における「根源的な力」や「虚無」の正体の明かし、または世界改変のための資源としての活用。
 
@@ -31,10 +31,11 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 女神 | シャーネス | 明言 | 1 |
 
 
 注記（置換しない）:

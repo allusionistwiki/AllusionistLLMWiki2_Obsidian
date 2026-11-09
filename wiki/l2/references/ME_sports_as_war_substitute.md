@@ -9,7 +9,7 @@ canonical_name: "sports_as_war_substitute"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_sports_as_war_substitute.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5347_structurally_matches_E_p51-p53_sports_as_war_substitute]] — 国対国の戦争を娯楽（スポーツ）として消費することで、暴力への感覚を順応させ、現実の政治的緊張をエンターテインメントへ転換する社会構造を描写している。
+- [[A_ch5347_structurally_matches_E_p51-p53_sports_as_war_substitute]] — 国対国のゲームを娯楽（スポーツ）として消費することで、暴力への感覚を順応させ、現実の政治的緊張をエンターテインメントへ転換する社会構造を描写している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 戦争 | ゲーム | 明言 | 1 |

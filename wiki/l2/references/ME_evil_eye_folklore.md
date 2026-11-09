@@ -9,7 +9,7 @@ canonical_name: "evil_eye_folklore"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_evil_eye_folklore.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5328_alludes_to_E_eye_contact_harm_evil_eye_folklore]] — コルセスカが指摘する「視線による呪力発生」は、古来より伝わる邪視（エヴィル・アイ）信仰や、監視権力としての社会的圧力を呪術的メカニズムとして描いている。
+- [[A_ch5328_alludes_to_E_eye_contact_harm_evil_eye_folklore]] — 『上』が指摘する「視線による呪力発生」は、古来より伝わるファシネイト（エヴィル・アイ）信仰や、監視権力としての社会的圧力を呪術的メカニズムとして描いている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| コルセスカ | 『上』 | 明言 | 1 |
+| 邪視 | ファシネイト | 明言 | 1 |

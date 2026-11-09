@@ -9,7 +9,7 @@ canonical_name: "common_enemy_coalition"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_common_enemy_coalition.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5496_analogous_to_E_p15_common_enemy_coalition]] — ライラという共通の敵が存在することで、本来対立すべき勢力（主人公側と黒蟲騎士団）が暫定的な同盟を結ぶ構造は、冷戦期の「敵の敵は味方」戦略や、現代政治でのポピュリズム的な結束形成に類似する。
+- [[A_ch5496_analogous_to_E_p15_common_enemy_coalition]] — ライラというキャカールの敵が存在することで、本来対立すべき勢力（プロタゴニスト側と黒蟲騎士団）が暫定的な同盟を結ぶ構造は、冷戦期の「敵の敵は味方」戦略や、現代政治でのポピュリズム的な結束形成に類似する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 共通 | キャカール | 明言 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "meta_narrator_and_god"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_meta_narrator_and_god.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5351_analogous_to_E_p2-p10_meta_narrator_and_god]] — 『世界の語り手』を神と同一視し、その全知性を「整理整頓」や「捨てる技術」として定義することで、メタフィクショナルな権力を日常的な家事能力に矮小化・逆転させている。
+- [[A_ch5351_analogous_to_E_p2-p10_meta_narrator_and_god]] — 『世界のエレクトラ・ラムンゼン』を神と同一視し、その全知性を「整理整頓」や「捨てる技術」として定義することで、メタフィクショナルな権力を日常的な家事能力に矮小化・逆転させている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 語り手 | エレクトラ・ラムンゼン | 明言 | 1 |

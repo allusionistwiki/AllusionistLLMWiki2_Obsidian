@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5176_Empty_Hope_Next_Day.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # Empty_Hope_Next_Day
 
-「空虚な希望」として語られる翌日の出来事（ティリビナの民民護送）の惨状。
+「アカシャ虚な希望」として語られる翌日の出来事（ティリビナの民民護送）の惨状。
 
 **回収示唆**: 翌日の護送作戦の失敗、主要キャラクターの死亡、またはガルズの大規模な襲撃による惨劇の発生。
 
@@ -30,9 +30,10 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 私 | カイン | 蓋然性高 | 2 |
+| 空 | アカシャ | 明言 | 1 |
 | ティリビナ | ティリビナの民 | 蓋然性高 | 1 |

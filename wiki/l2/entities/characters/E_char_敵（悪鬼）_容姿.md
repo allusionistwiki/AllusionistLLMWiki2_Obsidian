@@ -13,10 +13,10 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_敵（悪鬼）_容姿.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
-# 敵（悪鬼）｜容姿
+# 敵（家族）｜容姿
 
 ## 要約
 
@@ -35,17 +35,15 @@ l2_run: 20261029T0843_c8bb
 
 この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
 
-この名義は L2 名前統合台帳の正規エンティティ **敵(悪鬼)**（ID `E_char_敵(悪鬼)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **敵(家族)**（ID `E_char_敵(家族)` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「悪鬼」→ モロレク（要検証）
+| 悪鬼 | 家族 | 明言 | 3 |
+| ティティ | 彩域 | 明言 | 1 |

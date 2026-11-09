@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5027_Corseica_Eye_in_Back.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # Corseica_Eye_in_Back
 
-コルセスカの衣服背面に瞬間的に現れた「目玉」。カイン女の能力、監視装置、または呪術の発動体である可能性を示唆する。
+『上』の衣服背面に瞬間的に現れた「目玉」。カイン女の能力、監視装置、または呪術の発動体である可能性を示唆する。
 
 **回収示唆**: 後の戦闘や追跡シーンで、この「目」が監視・索敵・呪術発動のキーとして機能する。
 
@@ -30,8 +30,9 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| コルセスカ | 『上』 | 明言 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |

@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_驚き.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 驚き
@@ -25,7 +25,7 @@ l2_run: 20261029T0843_c8bb
 
 > 自らが異教徒であることを認めたイルスは、僅かに目を見開いた。（ch5160）
 > カーインは片方の眉を僅かに持ち上げて小さく驚きを表した。（ch5289）
-> 「驚いた。知らぬ再会だ、友よ」巡る時空を見通すはずの賢者が目を見張っていた。（ch5503）
+> 「驚いた。知らぬ再会だ、友よ」巡る時アカシャを見通すはずの賢者が目を見張っていた。（ch5503）
 > 「なん、だと」（ch5577）
 
 <!-- AUTO:END -->
@@ -35,5 +35,15 @@ l2_run: 20261029T0843_c8bb
 
 この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
 
-この名義は L2 名前統合台帳の正規エンティティ **驚き**（ID `E_char_驚き` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **驚き**（ID `E_char_驚き` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 空 | アカシャ | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

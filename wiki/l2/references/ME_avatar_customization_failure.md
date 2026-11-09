@@ -9,7 +9,7 @@ canonical_name: "avatar_customization_failure"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_avatar_customization_failure.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5536_alludes_to_E_p26_avatar_customization_failure]] — クオアの変身が「下手な異種族」と評される描写は、異形の技術的模倣に対する本能的な不快感（不気味の谷）を喚起し、アルトがクオアの肉体性を軽蔑する視点を強化している。
+- [[A_ch5536_alludes_to_E_p26_avatar_customization_failure]] — クオア・リア・クロウサーの変身が「下手な異種族」と評される描写は、異形の技術的模倣に対する本能的な不快感（不気味の谷）を喚起し、アルトがクオア・リア・クロウサーの肉体性を軽蔑する視点を強化している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| クオア | クオア・リア・クロウサー | 明言 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |

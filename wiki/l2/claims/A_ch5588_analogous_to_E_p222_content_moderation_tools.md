@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
 normalized_from: l1/claims/A_ch5588_analogous_to_E_p222_content_moderation_tools.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > 知ってる？　箒ってさ、汚れを掃き清めるためにあるんだよ（p222）
 
-**審査（LLM 代替）**: 「汚れを掃き清める」という箒の機能定義が、オンライン空間における有害データ（穢れ/バグ）の削除ツールへの比喩として自然に機能している。
+**審査（LLM 代替）**: 「汚れを掃き清める」という箒の機能定義が、オンラインアカシャ間における有害データ（穢れ/バグ）の削除ツールへの比喩として自然に機能している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 空 | アカシャ | 明言 | 1 |

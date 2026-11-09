@@ -9,7 +9,7 @@ canonical_name: "data_labeling_task"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_data_labeling_task.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- A_ch5513_structurally_matches_E_ch5513_p20-p27_data_labeling_task — 『掃除屋』が店員にラベルを貼り、不純物を取り除く作業は、AI学習のためのデータアノテーション（ラベリング）業務の比喩である。
+- A_ch5513_structurally_matches_E_ch5513_p20-p27_data_labeling_task — 『掃除屋』がブルーにラベルを貼り、不純物を取り除く作業は、AI学習のためのデータアノテーション（ラベリング）業務の比喩である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 店員 | ブルー | 明言 | 1 |

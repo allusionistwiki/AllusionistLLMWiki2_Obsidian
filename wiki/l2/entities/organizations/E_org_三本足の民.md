@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-10'
 updated: '2026-10-19'
 normalized_from: l1/entities/organizations/E_org_三本足の民.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 # 三本足の民
 
@@ -21,11 +21,21 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
-- **unknown**: 【三本足の民】なる種族が使い魔や道具を自らの身体の一部として認識するのも、この感染呪術に含まれるらしい。愛用した道具、愛玩した動物であるほどにその呪力は高まっていくのだとか。
+- **unknown**: 【三本足の民】なる種族がペットや道具を自らの身体の一部として認識するのも、この感染呪術に含まれるらしい。愛用した道具、愛玩した動物であるほどにその呪力は高まっていくのだとか。
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **三本足の民**（ID `E_org_三本足の民` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **三本足の民**（ID `E_org_三本足の民` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 使い魔 | ペット | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

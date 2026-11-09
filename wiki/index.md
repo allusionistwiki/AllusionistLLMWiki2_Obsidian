@@ -20,4 +20,4 @@ summary: "観測記録 3,582章・観測16,114件・主張65,975件の解析 wik
 - 作業データ正: [AllusionistWiki_work](https://github.com/allusionistwiki/AllusionistWiki_work)
 - 初代 Wiki（人間編集層・別系統）: [AllusionistWiki](https://allusionistwiki.github.io/AllusionistWiki/)
 
-最終更新: 2026-10-29
+最終更新: 2026-11-10

@@ -9,7 +9,7 @@ canonical_name: "tensegrity_architecture"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_tensegrity_architecture.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5358_analogous_to_E_p111_tensegrity_architecture]] — 棒状のパーツが接触せず、張力のあるワイヤー（髪）のみで支える塔の構造は、建築学におけるテンセグリティ（張力統合構造）の原理を指喩している。
+- [[A_ch5358_analogous_to_E_p111_tensegrity_architecture]] — 棒状のパーツが接触せず、張力のあるワイヤー（髪）のみで支えるファルスの構造は、建築学におけるテンセグリティ（張力統合構造）の原理を指喩している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 塔 | ファルス | 明言 | 1 |

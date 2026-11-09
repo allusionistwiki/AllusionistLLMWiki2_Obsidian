@@ -17,26 +17,22 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5514_analogous_to_E_battle_royal_announcement_weather_forecast_service.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # 戦闘イベントの開始告知は、現代の天気予報アプリの通知システムに構造的に対応している。
 
-> ガロアンディアン、本日の天気は晴れ。ところによりシナモリアキラくん。（p12-p13）
+> ガロアンディアン、本日の天気は晴れ。ところにより俺。（p12-p13）
 
 **審査（LLM 代替）**: 「本日の天気は...」という形式での告知は、現代の気象予報通知やゲーム内のイベント告知システムとの構造的な類似性が明確であり、メタフィクション的な意図が読み取れる。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アキラ | アキラくん | 高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「シナモリアキラ」→ アキラくん（要検証）
+| シナモリアキラ | 俺 | 明言 | 1 |

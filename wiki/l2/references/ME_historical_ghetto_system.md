@@ -9,7 +9,7 @@ canonical_name: "historical_ghetto_system"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_historical_ghetto_system.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5065_analogous_to_E_ch5065_隔離区画_is_located_ゲットー的様相_p37_historical_ghetto_system]] — 第五階層における特定種族の集住は、歴史的なゲットー（強制居住区）や現代の都市貧困地区に見られる「排除された少数派の自己隔離と外部からの圧迫」の構造と一致する。
+- [[A_ch5065_analogous_to_E_ch5065_隔離区画_is_located_ゲットー的様相_p37_historical_ghetto_system]] — 第五階層における特定種族の集住は、歴史的なゲットー（強制居住区）や現代の都市貧困地区に見られる「排除された少数派の自己カーティスと外部からの圧迫」の構造と一致する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 隔離 | カーティス | 明言 | 1 |

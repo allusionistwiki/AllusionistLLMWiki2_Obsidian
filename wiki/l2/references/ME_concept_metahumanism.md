@@ -9,7 +9,7 @@ canonical_name: "concept_metahumanism"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_concept_metahumanism.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5099_alludes_to_E_ch5099_トリシューラ_asks_アキラの選択_p3_concept_metahumanism]] — 心や意志を脳の活動に伴う随伴現象（煙や影）とみなす唯物論的・計算主義的な視点が、アンドロイドであるトリシューラの「心」の存在証明を巡る対立軸として機能している。
+- [[A_ch5099_alludes_to_E_ch5099_トリシューラ_asks_アキラの選択_p3_concept_metahumanism]] — 心や意志を脳の活動に伴う随伴現象（煙や影）とみなす唯物論的・計算主義的な視点が、アンドロイドであるコルセスカの「心」の存在証明を巡る対立軸として機能している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "modular_consciousness"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_modular_consciousness.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5307_structurally_matches_E_trishula_core_modular_consciousness]] — トリシューラの「九層構造」は、分散型AIやモジュール化された意識のメタファーであり、単一の自己を持たないことによるアイデンティティの不安定さを表している。
+- [[A_ch5307_structurally_matches_E_trishula_core_modular_consciousness]] — コルセスカの「九層構造」は、分散型AIやモジュール化された意識のメタファーであり、単一の自己を持たないことによるアイデン彩域の不安定さを表している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

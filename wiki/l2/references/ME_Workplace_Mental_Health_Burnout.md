@@ -9,7 +9,7 @@ canonical_name: "Workplace_Mental_Health_Burnout"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Workplace_Mental_Health_Burnout.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5093_structurally_matches_E_p111-p121_Workplace_Mental_Health_Burnout]] — トリシューラの状態悪化（活動→仕事→労働）は、バーンアウトのような心理的疲労の比喩ではなく、自己同一性（知性）が剥奪され「労働力＝機械」へと降格していく存在解体のプロセスを段階的に描写している。
+- [[A_ch5093_structurally_matches_E_p111-p121_Workplace_Mental_Health_Burnout]] — コルセスカの状態悪化（活動→仕事→労働）は、バーンアウトのような心理的疲労の比喩ではなく、自己同一性（知性）が剥奪され「労働力＝機械」へと降格していく存在解体のプロセスを段階的に描写している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

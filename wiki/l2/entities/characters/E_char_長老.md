@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_長老.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 長老
@@ -23,7 +23,7 @@ l2_run: 20261029T0843_c8bb
 
 ## 代表引用
 
-> 長老を始めとした高位呪術師たちが反撃の呪術を放つ。巨大な爆炎が九体の獣たちを焼き滅ぼすために虚空を走った。（ch5124）
+> 長老を始めとした高位呪術師たちが反撃の呪術を放つ。巨大な爆炎が九体の獣たちを焼き滅ぼすために虚アカシャを走った。（ch5124）
 > 村で一番の――もしかしたら、国で一番ではないかとさえ言われていた長老でも、怪物たちの振るう暴虐を押し止めることは適わない。（ch5124）
 
 <!-- AUTO:END -->
@@ -31,5 +31,15 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **長老**（ID `E_char_長老` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **長老**（ID `E_char_長老` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 空 | アカシャ | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

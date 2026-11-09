@@ -9,7 +9,7 @@ canonical_name: "privacy_data_leak"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_privacy_data_leak.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5011_inverts_E_p15_name_theft_privacy_data_leak]] — 「名前を奪われる」ことへの恐怖は、個人を特定する識別子（ID）の喪失が社会的・存在論的な死に至るという、現代の個人情報管理におけるアイデンティティの脆弱性を逆転させた表象である。
+- [[A_ch5011_inverts_E_p15_name_theft_privacy_data_leak]] — 「名前を奪われる」ことへの恐怖は、個人を特定する識別子（ID）の喪失が社会的・存在論的な死に至るという、現代の個人情報管理におけるアイデン彩域の脆弱性を逆転させた表象である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

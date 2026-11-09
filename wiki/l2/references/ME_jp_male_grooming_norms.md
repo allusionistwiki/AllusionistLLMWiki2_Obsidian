@@ -9,7 +9,7 @@ canonical_name: "jp_male_grooming_norms"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_jp_male_grooming_norms.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,16 +20,16 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5411_analogous_to_E_ch5411_海の民_other_衣服_p186_jp_male_grooming_norms]] — 全裸になり筋肉を比べ合う行為は、日本のカイン性コミュニティ（風呂場・部活）における身体評価や「カインらしさ」の競合文化を指喩し、その閉鎖性を批判的に描いている。
+- [[A_ch5411_analogous_to_E_ch5411_海の民_other_衣服_p186_jp_male_grooming_norms]] — 全裸になり筋肉を比べ合う行為は、日本のキロン性コミュニティ（風呂場・部活）における身体評価や「キロンらしさ」の競合文化を指喩し、その閉鎖性を批判的に描いている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 男 | カイン | 蓋然性高 | 2 |
+| 男 | キロン | 明言 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 
 

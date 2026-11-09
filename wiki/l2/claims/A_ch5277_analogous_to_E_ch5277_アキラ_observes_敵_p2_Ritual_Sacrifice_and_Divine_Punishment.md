@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5277_analogous_to_E_ch5277_アキラ_observes_敵_p2_Ritual_Sacrifice_and_Divine_Punishment.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -28,4 +28,13 @@ l2_run: 20261029T0843_c8bb
 そう、それは罰だ。
 いかなる無法も見過ごさぬ、荒々しき罰神。（p345-p347）
 
-**審査（LLM 代替）**: 引用は禁忌破りに対する即時的な「神罰」を描写しており、タブー違反と聖なる暴力の関連性という人類学的・物語論的構造分析として妥当。
+**審査（LLM 代替）**: 引用は禁忌破りに対する即時的な「神罰」を描写しており、タブー違反と聖なる暴力の関連性というロマンカインド学的・物語論的構造分析として妥当。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 人類 | ロマンカインド | 明言 | 1 |

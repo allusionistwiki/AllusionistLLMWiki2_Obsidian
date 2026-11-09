@@ -9,7 +9,7 @@ canonical_name: "Internet_Flame_War"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Internet_Flame_War.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5069_structurally_matches_E_p162_Internet_Flame_War]] — アキラくんの武術への批判が掲示板やSNSで拡散し、罵倒コメントが溢れる様子は、現代インターネット特有の炎上現象（Flame War）そのものである。
+- [[A_ch5069_structurally_matches_E_p162_Internet_Flame_War]] — 語り手の武術への批判が掲示板やSNSで拡散し、罵倒コメントが溢れる様子は、現代インターネット特有の炎上現象（Flame War）そのものである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アキラ | アキラくん | 高 | 1 |
+| アキラ | 語り手 | 明言 | 1 |

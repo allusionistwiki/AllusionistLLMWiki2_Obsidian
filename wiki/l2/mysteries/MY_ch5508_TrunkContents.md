@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5508_TrunkContents.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # TrunkContents
 
-エレクトラに託された空のトランクケースの中身（マクガフィン）が何を示唆しているか、および開封される条件。
+エレクトラに託されたアカシャのトランクケースの中身（マクガフィン）が何を示唆しているか、および開封される条件。
 
 **回収示唆**: 後の展開でトランクの中身（象徴的価値）が明かされ、物語の転換点となる。
 
@@ -31,8 +31,9 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ユディーア | エレクトラ | 蓋然性高 | 1 |
+| ユディーア | エレクトラ | 明言 | 1 |
+| 空 | アカシャ | 明言 | 1 |

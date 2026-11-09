@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/terminology/E_term_共生.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 共生
@@ -28,12 +28,22 @@ l2_run: 20261029T0843_c8bb
 
 ## 関連クレーム
 
-- A_ch0026_analogous_to_E_ch0026_コルセスカ_other_共生_p1205_共生関係（魂結合への相利共生適用）
+- A_ch0026_analogous_to_E_ch0026_『上』_other_共生_p1205_共生関係（魂結合への相利共生適用）
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **共生**（ID `E_term_共生` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **共生**（ID `E_term_共生` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| コルセスカ | 『上』 | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_第六区.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 第六区
@@ -28,7 +28,7 @@ l2_run: 20261029T0843_c8bb
 
 ## 関連クレーム
 
-- [[A_ch5127_alludes_to_E_ch5127_アキラ_travels_第六区_p3_catoblepas_mythology|カトブレパス神話への邪視怪物引用]]
+- [[A_ch5127_alludes_to_E_ch5127_アキラ_travels_第六区_p3_catoblepas_mythology|カトブレパス神話へのファシネイト怪物引用]]
 - [[A_ch5127_analogous_to_E_ch5127_アキラ_travels_第六区_p3_gig_economy_platform|ギグエコノミーの依頼受注システム]]
 - [[A_ch5127_analogous_to_E_ch5127_アキラ_travels_第六区_p3_insurance_and_labor_union|労働組合・社保の探索者協会機能]]
 - [[A_ch5127_analogous_to_E_ch5127_アキラ_travels_第六区_p3_professional_certification_system|専門職資格制度への称号認定]]
@@ -39,21 +39,23 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-REL:BEGIN -->
 ## 関係キャラクター
 
-- [[E_char_アキラ|アキラくん]] — 移動(受)（2 観測）
+- [[E_char_アキラ|語り手]] — 移動(受)（2 観測）
 
 <!-- AUTO-REL:END -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **第六区**（ID `E_char_第六区` / kind: location / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **第六区**（ID `E_char_第六区` / kind: location / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アキラ | アキラくん | 高 | 1 |
+| 邪視 | ファシネイト | 明言 | 1 |
+| アキラ | 語り手 | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

@@ -17,13 +17,22 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5389_alludes_to_E_ch5389_パーン_says_リビドーとデストルドーの不一致_p128_freudian_drives_life_and_death.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # パーンの「自己更新」とヴァージルの「母への回帰」の対立は、フロイト心理学における生への欲動（エロス）と死への欲動（タナトス）の葛藤を引用している。
 
-> 「俺のリビドーとお前のデストルドーは噛み合わん」（p128）
+> 「トラック運転手のリビドーとお前のデストルドーは噛み合わん」（p128）
 
 **審査（LLM 代替）**: 「リビドー」と「デストルドー」という用語が直接使用されており、フロイトの生・死欲動概念を明示的に引用しているため確実。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 俺 | トラック運転手 | 明言 | 1 |

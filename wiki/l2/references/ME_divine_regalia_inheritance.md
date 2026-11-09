@@ -9,7 +9,7 @@ canonical_name: "divine_regalia_inheritance"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_divine_regalia_inheritance.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,19 +20,17 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5398_foreshadows_E_ch5398_ミルーニャ_says_一日マネージャー業務_p2_divine_regalia_inheritance]] — 炎冠がミルーニャを「殿下」と呼び、自身を宝珠（宝珠）として捧げる展開は、主人公への王権・正統性の継承を示す重要なプロット進行の仕掛けである。
+- [[A_ch5398_foreshadows_E_ch5398_ミルーニャ_says_一日マネージャー業務_p2_divine_regalia_inheritance]] — 炎冠がミルーニャを「殿下」と呼び、自身を宝珠（宝珠）として捧げる展開は、プロタゴニストへの霊媒権・正統性の継承を示す重要なプロット進行の仕掛けである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 | 玉璽 | 宝珠 | 蓋然性高 | 1 |
 | レガリア | 宝珠 | 明言 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「王」→ カーティス（要検証）
+| 主人公 | プロタゴニスト | 明言 | 1 |
+| 王 | 霊媒 | 明言 | 1 |

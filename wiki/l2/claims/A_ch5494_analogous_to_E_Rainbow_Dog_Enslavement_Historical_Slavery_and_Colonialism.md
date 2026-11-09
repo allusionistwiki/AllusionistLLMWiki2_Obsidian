@@ -17,13 +17,22 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5494_analogous_to_E_Rainbow_Dog_Enslavement_Historical_Slavery_and_Colonialism.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# 虹犬がキノコ人を「神の奴隷」として従えようとする行為は、作品世界における『正しき序列』という絶対的な支配秩序（ヒエラルキー）を主張する権力構造を描いている。
+# 異獣がキノコ人を「神の奴隷」として従えようとする行為は、作品世界における『正しき序列』という絶対的な支配秩序（ヒエラルキー）を主張する権力構造を描いている。
 
 > 「これこそが正しい序列、奴隷種族の秩序！」（p164）
 
 **審査（LLM 代替）**: 「歴史的な階級社会・植民地支配」という現実歴史への直接类比は、作品内のファンタジー設定（種族序列）の独自性を損なう可能性がある。作品内構造としてのヒエラルキー描写に留めるべき。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 虹犬 | 異獣 | 明言 | 1 |

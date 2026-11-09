@@ -9,7 +9,7 @@ canonical_name: "drafted_race_strategy"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_drafted_race_strategy.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5545_structurally_matches_E_p73_drafted_race_strategy]] — トップを走ること（先頭）が物語的な「逆転の布石」として不利になり、後方につけることが戦略的優位になる構造は、レースにおけるドラフティング（空気抵抗の回避）の物理法則に準拠している。
+- [[A_ch5545_structurally_matches_E_p73_drafted_race_strategy]] — トップを走ること（先頭）が物語的な「逆転の布石」として不利になり、後方につけることが戦略的優位になる構造は、レースにおけるドラフティング（アカシャ気抵抗の回避）の物理法則に準拠している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 空 | アカシャ | 明言 | 1 |

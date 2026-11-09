@@ -9,7 +9,7 @@ canonical_name: "IsekaiProtagonistDissonance"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_IsekaiProtagonistDissonance.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,17 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5396_structurally_matches_E_Akira_NoSelfIdentity_IsekaiProtagonistDissonance]] — 主人公がイツノ（アバター）と完全に同調しつつも「俺」である実感がないという記述は、異世界転生作品における「自己同一性の喪失」や「ゲームプレイと現実の境界の曖昧化」というクリシェを内省させたものである。
+- [[A_ch5396_structurally_matches_E_Akira_NoSelfIdentity_IsekaiProtagonistDissonance]] — プロタゴニストがアキラ姫（デーモン）と完全に同調しつつも「トラック運転手」である実感がないという記述は、異世界転生作品における「自己同一性の喪失」や「ゲームプレイと現実の境界の曖昧化」というクリシェを内省させたものである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |
+| イツノ | アキラ姫 | 明言 | 1 |
+| アバター | デーモン | 明言 | 1 |
+| 俺 | トラック運転手 | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "High_Speed_TAS_Gaming"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_High_Speed_TAS_Gaming.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5317_structurally_matches_E_271_High_Speed_TAS_Gaming]] — コルセスカによる思考加速とフェムト秒単位の入力は、格闘ゲームにおける「入力遅延を排除した理想的なフレーム perfect 操作」の概念を示唆している。
+- [[A_ch5317_structurally_matches_E_271_High_Speed_TAS_Gaming]] — 『上』による思考加速とフェムト秒単位の入力は、格闘ゲームにおける「入力遅延を排除した理想的なフレーム perfect 操作」の概念を示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| コルセスカ | 『上』 | 明言 | 1 |

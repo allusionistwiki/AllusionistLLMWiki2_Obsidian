@@ -9,7 +9,7 @@ canonical_name: "oedipus_complex"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_oedipus_complex.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5456_inverts_E_klay_identity_oedipus_complex]] — クレイは「父を殺し母を娶る」オイディプス的運命を、父の姓（アイデンティティ）を自分で決定・選択することで逆転・超越している。
+- [[A_ch5456_inverts_E_klay_identity_oedipus_complex]] — クレイは「父を殺し母を娶る」オイディプス的運命を、父の姓（アイデン彩域）を自分で決定・選択することで逆転・超越している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

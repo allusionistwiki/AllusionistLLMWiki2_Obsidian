@@ -9,7 +9,7 @@ canonical_name: "FashionGameMechanic"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_FashionGameMechanic.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5396_analogous_to_E_CostumeCardSystem_FashionGameMechanic]] — 衣装カードを端末から読み込んで服を「召喚」するシステムは、スマホゲームやファッションゲームにおけるアバターカスエミリニェロギッポロネーシャイズ機能（ガチャ・スキン購入）のUI/UXを転写したものである。
+- [[A_ch5396_analogous_to_E_CostumeCardSystem_FashionGameMechanic]] — 衣装カードを端末から読み込んで服を「召喚」するシステムは、スマホゲームやファッションゲームにおけるデーモンカスエミリニェロギッポロネーシャイズ機能（ガチャ・スキン購入）のUI/UXを転写したものである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| アバター | デーモン | 明言 | 1 |
 | タマ | エミリニェロギッポロネーシャ | 明言 | 1 |

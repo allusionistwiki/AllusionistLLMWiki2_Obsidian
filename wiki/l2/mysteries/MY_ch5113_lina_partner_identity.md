@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5113_lina_partner_identity.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # lina_partner_identity
 
-リーナ・ゾラ・クロウサーの仲間であり、コルセスカを凌駕する呪文師。その正体と意図が未判明。
+リーナ・ゾラ・クロウサーの仲間であり、『上』を凌駕する呪文師。その正体と意図が未判明。
 
 **回収示唆**: 今後の展開でこの「仲間」の正体が判明し、物語改変の真の黒幕として登場する可能性。
 
@@ -30,9 +30,10 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| コルセスカ | 『上』 | 明言 | 1 |
 | 言語魔術 | 呪文 | 蓋然性高 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "surveillance_systems_and_data_logging"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_surveillance_systems_and_data_logging.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,18 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5160_analogous_to_E_ch5160_松明の騎士団_uses_金鎖システム_p2_surveillance_systems_and_data_logging]] — 松明の騎士団の視界映像をフィリスシステムで共有し本部へ送信する仕組みは、現代社会におけるIoTやネットワークによるリアルタイムなデータ収集・監視システムのメタファーである。
+- [[A_ch5160_analogous_to_E_ch5160_松明の騎士団_uses_金鎖システム_p2_surveillance_systems_and_data_logging]] — ソルダ団の視界映像を金鎖システムで共有し本部へ送信する仕組みは、現代社会におけるIoTやネットワークによるリアルタイムなデータ収集・監視システムのメタファーである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 金鎖 | フィリス | 蓋然性高 | 1 |
+| 松明の騎士 | ソルダ | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「金鎖」→ フィリス（要検証）

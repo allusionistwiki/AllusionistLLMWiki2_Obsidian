@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5073_inverts_E_Rodwin_Paradox_Corporate_Welfare_Fiction.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > 我々【公社】は、弱者を救済する為、公共の利益の為に存在している（p344）
 
-**審査（LLM 代替）**: 「CSRスローガンのパロディ」という解釈は外部知識の混入が強く、原文は単に搾取を正当化する言説を示しているのみ。引喩対象を「企業」に限定する根拠がない。
+**審査（LLM 代替）**: 「CSRスローガンのパロディ」という解釈は外部知識の混入が強く、原文は単に搾取を正当化する言説を示しているのみ。アリュージョン対象を「企業」に限定する根拠がない。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

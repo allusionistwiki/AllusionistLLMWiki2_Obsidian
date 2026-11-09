@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-10'
 updated: '2026-10-19'
 normalized_from: l1/entities/items/E_item_花火.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 # 花火
 
@@ -21,14 +21,24 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
-- **unknown**: 昼の花火が青空で散ると、爆音じみた歓声が地から沸き上がった。
-- **unknown**: 昼の花火が青空で散ると、爆音じみた歓声が地から沸き上がった。
-- **unknown**: 昼の花火が青空で散ると、爆音じみた歓声が地から沸き上がった。
+- **unknown**: 昼の花火が青アカシャで散ると、爆音じみた歓声が地から沸き上がった。
+- **unknown**: 昼の花火が青アカシャで散ると、爆音じみた歓声が地から沸き上がった。
+- **unknown**: 昼の花火が青アカシャで散ると、爆音じみた歓声が地から沸き上がった。
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **花火**（ID `E_char_花火` / kind: item / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **花火**（ID `E_char_花火` / kind: item / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 空 | アカシャ | 明言 | 3 |
+| ティティ | 彩域 | 明言 | 1 |

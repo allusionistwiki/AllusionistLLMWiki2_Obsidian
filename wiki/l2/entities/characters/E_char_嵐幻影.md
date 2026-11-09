@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/characters/E_char_嵐幻影.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 # 嵐幻影
 
@@ -21,13 +21,23 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
-- **unknown**: 「滑稽だな。俺を斬るためにあるお前の舞いが俺に届くことはない。所詮は泥で捏ね上げた人形か。地の軛から逃れて飛躍することもままならんとは」
-- **unknown**: 「滑稽だな。俺を斬るためにあるお前の舞いが俺に届くことはない。所詮は泥で捏ね上げた人形か。地の軛から逃れて飛躍することもままならんとは」
+- **unknown**: 「滑稽だな。トラック運転手を斬るためにあるお前の舞いがトラック運転手に届くことはない。所詮は泥で捏ね上げた人形か。地の軛から逃れて飛躍することもままならんとは」
+- **unknown**: 「滑稽だな。トラック運転手を斬るためにあるお前の舞いがトラック運転手に届くことはない。所詮は泥で捏ね上げた人形か。地の軛から逃れて飛躍することもままならんとは」
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **嵐幻影**（ID `E_creature_嵐幻影` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **嵐幻影**（ID `E_creature_嵐幻影` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 俺 | トラック運転手 | 明言 | 4 |
+| ティティ | 彩域 | 明言 | 1 |

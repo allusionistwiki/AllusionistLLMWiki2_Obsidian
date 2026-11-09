@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/items/E_item_幻肢.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 幻肢
@@ -24,12 +24,22 @@ l2_run: 20261029T0843_c8bb
 ## 代表引用
 
 > だがその時、キロンの周囲で待機していた石版がその能力を発揮した。展開された文字列が鏡の世界の幻影の腕に対して接触すると、ワイヤーのように巻き付いてその動きを押し止めたのである。（ch5108）
-> 鏡に映し出されているのは、青白く半透明な俺の右腕、その幻肢だ。 複数の鏡面に映し出された大小様々な幻肢。（ch5245）
+> 鏡に映し出されているのは、青白く半透明なトラック運転手の右腕、その幻肢だ。 複数の鏡面に映し出された大小様々な幻肢。（ch5245）
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **幻肢**（ID `E_char_幻肢` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **幻肢**（ID `E_char_幻肢` / kind: item / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 俺 | トラック運転手 | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

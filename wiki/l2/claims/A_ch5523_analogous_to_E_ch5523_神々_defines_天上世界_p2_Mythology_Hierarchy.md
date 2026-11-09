@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5523_analogous_to_E_ch5523_神々_defines_天上世界_p2_Mythology_Hierarchy.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,13 +26,14 @@ l2_run: 20261029T0843_c8bb
 
 > 多くの神話では、神々の世界は天上にあるとされる。（p2）
 
-**審査（LLM 代替）**: 「盤上遊戯」の記述はquoteに存在せず、また単なる神話の階層構造の指摘は本作特有のメタフィクショナルな文脈（ゲーム的構造）と結びついていないため、引喩が一般論化している。
+**審査（LLM 代替）**: 「盤上遊戯」の記述はquoteに存在せず、また単なる神話の階層構造の指摘は本作特有のメタフィクショナルな文脈（ゲーム的構造）と結びついていないため、アリュージョンが一般論化している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | ゲーム盤 | ゲーム | 蓋然性高 | 1 |
+| 引喩 | アリュージョン | 明言 | 1 |

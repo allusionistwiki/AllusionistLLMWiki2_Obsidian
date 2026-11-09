@@ -9,7 +9,7 @@ canonical_name: "neoliberal_market_ideology"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_neoliberal_market_ideology.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5260_analogous_to_E_p103_neoliberal_market_ideology]] — グレンデルヒの「全てが試される」「市場の原理」という主張は、新自由主義的な競争原理を絶対的な真理として世界に強制するイデオロギーを体現している。
+- [[A_ch5260_analogous_to_E_p103_neoliberal_market_ideology]] — ハタラドゥールの「全てが試される」「市場の原理」という主張は、新フェロニア主義的な競争原理を絶対的な真理として世界に強制するイデオロギーを体現している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「グレンデルヒ」→ ウォゾマ・メロロキン（要検証）
+| グレンデルヒ | ハタラドゥール | 明言 | 1 |
+| 自由 | フェロニア | 明言 | 1 |

@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
 normalized_from: l1/claims/A_ch5575_parodies_E_p12_ME_bureaucratic_slogans.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > 目指せ、堂々たる持続可能な社会～なんつって（p12）
 
-**審査（LLM 代替）**: 「CSR（企業の社会的責任）」への引喩は近代的なビジネス用語であり、作品世界の内側にある権力構造の風刺としては不適切。「持続可能な社会」のスローガンの皮肉さとして限定すべき。
+**審査（LLM 代替）**: 「CSR（企業の社会的責任）」へのアリュージョンは近代的なビジネス用語であり、作品世界の内側にある権力構造の風刺としては不適切。「持続可能な社会」のスローガンの皮肉さとして限定すべき。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

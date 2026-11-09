@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5587_structurally_matches_E_ch5587_テキスト_other_虐殺の文字_p351_NarrativeControl.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > 絶対なる権力が、『虐殺』の文字を拾い上げた。（p351）
 
-**審査（LLM 代替）**: 「絶対なる権力が文字を拾い上げる」という描写は、テキスト編集権限が世界改変権限と等価であるというナラティブ・コントロールの構造を示しており、引喩が正確。
+**審査（LLM 代替）**: 「絶対なる権力が文字を拾い上げる」という描写は、テキスト編集権限が世界改変権限と等価であるというナラティブ・コントロールの構造を示しており、アリュージョンが正確。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

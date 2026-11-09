@@ -9,7 +9,7 @@ canonical_name: "Castrati_System"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Castrati_System.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5143_analogous_to_E_ch5143_プリエステラ_confesses_生い立ちと虐待_p71_Castrati_System]] — 親に疎まれ専門的な修行のみを強要されたエストの生い立ちは、家族から隔離され特定の機能（呪術/巫女）遂行のために社会から切り離された歴史的な修道院養育や宮廷召使の構造と類似する。
+- [[A_ch5143_analogous_to_E_ch5143_プリエステラ_confesses_生い立ちと虐待_p71_Castrati_System]] — 親に疎まれ専門的な修行のみを強要されたエストの生い立ちは、家族からカーティスされ特定の機能（呪術/巫女）遂行のために社会から切り離された歴史的な修道院養育や宮廷召使の構造と類似する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 | プリエステラ | エスト | 明言 | 1 |
+| 隔離 | カーティス | 明言 | 1 |

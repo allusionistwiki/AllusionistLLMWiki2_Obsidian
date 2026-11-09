@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5215_alludes_to_E_天眼の民の変身_epigenetics_atavism.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > 一族の祖霊の力によって、祖先の形質を強制的に発現させ、一時的な突然変異として覚醒する能力。（p222）
 
-**審査（LLM 代替）**: 祖先の形質を強制的に発現させるという記述は、エピジェネティクスや先祖返りの概念と直結しており妥当な引喩である。
+**審査（LLM 代替）**: 祖先の形質を強制的に発現させるという記述は、エピジェネティクスや先祖返りの概念と直結しており妥当なアリュージョンである。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

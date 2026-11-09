@@ -9,7 +9,7 @@ canonical_name: "video_game_logic"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_video_game_logic.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5313_parodies_E_p27_video_game_logic]] — 現実の戦闘がゲーム内のアバター（デフォルメ）を介して行われ、格闘ゲームのプロレス的演出やUI効果が物理的な防御力として機能している状況を風刺する。
+- [[A_ch5313_parodies_E_p27_video_game_logic]] — 現実の戦闘がゲーム内のデーモン（デフォルメ）を介して行われ、格闘ゲームのプロレス的演出やUI効果が物理的な防御力として機能している状況を風刺する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| アバター | デーモン | 明言 | 1 |

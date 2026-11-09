@@ -9,7 +9,7 @@ canonical_name: "isekai_escapism"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_isekai_escapism.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5575_inverts_E_p86_isekai_escapism]] — パーンの「ここではないどこか」の否定は、異世界転生ジャンルでありがちな「理想郷への逃避」を逆説的に批判し、現実（現界）への執着を主題化している。
+- [[A_ch5575_inverts_E_p86_isekai_escapism]] — パーンの「ここではないどこか」の否定は、異世界転生ジャンルでありがちな「ガロアンディアンへの逃避」を逆説的に批判し、現実（現界）への執着を主題化している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 理想郷 | ガロアンディアン | 明言 | 1 |

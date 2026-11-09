@@ -9,7 +9,7 @@ canonical_name: "military_drone_warfare"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_military_drone_warfare.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5209_analogous_to_E_p93_drone_strike_military_drone_warfare]] — 修道騎士ナトが操る「遠隔誘導攻撃端末（ビット）」による空からの精密な矢の撃破は、現代の無人戦闘機（ドローン）を用いた非対称戦・ピンポイント攻撃を想起させる。
+- [[A_ch5209_analogous_to_E_p93_drone_strike_military_drone_warfare]] — 修道騎士ナトが操る「ビット（ビット）」によるアカシャからの精密な矢の撃破は、現代の無人戦闘機（ドローン）を用いた非対称戦・ピンポイント攻撃を想起させる。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 遠隔誘導攻撃端末 | ビット | 明言 | 1 |
+| 空 | アカシャ | 明言 | 1 |

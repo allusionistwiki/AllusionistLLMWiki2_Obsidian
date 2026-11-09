@@ -9,7 +9,7 @@ canonical_name: "gacha_game_simulation_and_strategy_planning"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_gacha_game_simulation_and_strategy_planning.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5039_structurally_matches_E_ch5039_アキラ_thinks_座禅_p2_gacha_game_simulation_and_strategy_planning]] — 仮想道場でのアバターを用いた戦闘シミュレーションは、現実の身体（左腕欠損）を補完し、勝算を高めるための事前検証プロセスとして機能している。
+- [[A_ch5039_structurally_matches_E_ch5039_アキラ_thinks_座禅_p2_gacha_game_simulation_and_strategy_planning]] — 仮想道場でのデーモンを用いた戦闘シミュレーションは、現実の身体（左腕欠損）を補完し、勝算を高めるための事前検証プロセスとして機能している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| アバター | デーモン | 明言 | 1 |

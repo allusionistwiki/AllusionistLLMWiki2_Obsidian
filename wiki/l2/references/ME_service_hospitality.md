@@ -9,7 +9,7 @@ canonical_name: "service_hospitality"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_service_hospitality.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5322_inverts_E_p149-p200_service_hospitality]] — ルウテトによる「相手を苦しめるための不味い料理」の提供は、サービス業における「おもてなし（顧客満足を最優先にする）」概念を逆転させ、提供者の意図（支配・娯楽・試練）が優先される権力構造を示している。
+- [[A_ch5322_inverts_E_p149-p200_service_hospitality]] — ルウによる「相手を苦しめるための不味い料理」の提供は、サービス業における「おもてなし（顧客満足を最優先にする）」概念を逆転させ、提供者の意図（支配・娯楽・試練）が優先される権力構造を示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ルウテト | ルウ | 明言 | 1 |

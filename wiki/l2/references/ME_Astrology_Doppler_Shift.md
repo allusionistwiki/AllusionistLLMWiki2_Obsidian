@@ -9,7 +9,7 @@ canonical_name: "Astrology_Doppler_Shift"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Astrology_Doppler_Shift.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5541_structurally_matches_E_Renaria_Vanquish_Astrology_Doppler_Shift]] — レナリアリアとエレクトラの能力相殺は、天文学のドップラー効果（光の波長変化）を呪術的な「世界の色」として可視化し、物理法則を魔術体系へ翻訳したSF的メタファーである。
+- [[A_ch5541_structurally_matches_E_Renaria_Vanquish_Astrology_Doppler_Shift]] — レナリアとエレクトラの能力相殺は、天文学のドップラー効果（光の波長変化）を呪術的な「世界の色」として可視化し、物理法則を魔術体系へ翻訳したSF的メタファーである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| レナ | レナリア | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「レナ」→ レナリア（要検証）

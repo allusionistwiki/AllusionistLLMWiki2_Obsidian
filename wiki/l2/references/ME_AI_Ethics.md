@@ -9,7 +9,7 @@ canonical_name: "AI_Ethics"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_AI_Ethics.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5101_analogous_to_E_p35_AI_Ethics]] — トリシューラの意思決定に関する工学的考察は、現実世界のAI倫理における「アライメント問題」や「自律性」の議論を参照している。
+- [[A_ch5101_analogous_to_E_p35_AI_Ethics]] — コルセスカの意思決定に関する工学的考察は、現実世界のAI倫理における「アライメント問題」や「自律性」の議論を参照している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

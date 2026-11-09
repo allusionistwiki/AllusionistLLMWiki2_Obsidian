@@ -13,10 +13,10 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_イツノ姫_容姿.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
-# イツノ姫｜容姿
+# アキラ姫姫｜容姿
 
 ## 要約
 
@@ -27,11 +27,21 @@ l2_run: 20261029T0843_c8bb
 初出: [179話](../../nav/ch0179.md) ｜ 容姿記述 1 件
 
 - （引用の文脈上、名前のみ登場。直接的な容姿描写は直前・直後にないため最小限の記載） ｜ 服装 ｜ 典拠: [179話](../../nav/ch0179.md)（p5948）
-  > 「イツノ姫！　あとカーインもいるのは何で？」
+  > 「アキラ姫姫！　あとカーインもいるのは何で？」
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **イツノ姫**（ID `E_char_イツノ姫` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **アキラ姫姫**（ID `E_char_アキラ姫姫` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| イツノ | アキラ姫 | 明言 | 4 |
+| ティティ | 彩域 | 明言 | 1 |

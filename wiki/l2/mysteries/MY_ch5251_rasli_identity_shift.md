@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5251_rasli_identity_shift.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # rasli_identity_shift
 
-ちびラズリの人格が「店員」から「怨敵/星間追放者」へと変貌した理由と、その本体の正体。
+ちびラズリの人格が「ブルー」から「怨敵/星間追放者」へと変貌した理由と、その本体の正体。
 
 **回収示唆**: ちびラズリが単なる探索者ではなく、星間追放された高位存在（神格や古き神）の依代であることが明かされる。
 
@@ -31,9 +31,10 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | ラズリ | ちびラズリ | 明言 | 2 |
+| 店員 | ブルー | 明言 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |

@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_縄・目隠し.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 縄・目隠し
@@ -23,22 +23,24 @@ l2_run: 20261029T0843_c8bb
 
 ## 代表引用
 
-> 拘束用の縄で雁字搦めに縛られて、目隠しをされたカインと少女。（ch5181）
-> 拘束用の縄で雁字搦めに縛られて、目隠しをされたカインと少女。（ch5181）
+> 拘束用の縄で雁字搦めに縛られて、目隠しをされたキロンとグラッフィアガット。（ch5181）
+> 拘束用の縄で雁字搦めに縛られて、目隠しをされたキロンとグラッフィアガット。（ch5181）
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **縄目隠し**（ID `E_item_縄目隠し` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **縄目隠し**（ID `E_item_縄目隠し` / kind: item / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 男 | カイン | 蓋然性高 | 2 |
+| 男 | キロン | 明言 | 2 |
+| 少女 | グラッフィアガット | 明言 | 2 |
+| ティティ | 彩域 | 明言 | 1 |

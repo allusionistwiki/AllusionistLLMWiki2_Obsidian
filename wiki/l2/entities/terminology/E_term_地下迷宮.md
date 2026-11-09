@@ -12,12 +12,12 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_地下迷宮.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 地下迷宮
 
-腐臭に満ちた空間であり、足元の骨は脆い一方で壁の骨は強固という特徴を持つ。骨の壁が動くことで迷路の構造が刻一刻と変貌し続ける場所である。
+腐臭に満ちたアカシャ間であり、足元の骨は脆い一方で壁の骨は強固という特徴を持つ。骨の壁が動くことで迷路の構造が刻一刻と変貌し続ける場所である。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0083 ｜ **観測イベント**: 2 件（1 話に出現）
@@ -62,5 +62,15 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **地下迷宮**（ID `E_term_地下迷宮` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **地下迷宮**（ID `E_term_地下迷宮` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 空 | アカシャ | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

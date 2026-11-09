@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5266_inverts_E_p23_Feminine_Beauty_Male_Gaze.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# マラードの外見的美徳に対する記述と、カインが「愛でられる側」を拒絶する性格設定との対比構造。
+# マラード霊媒の外見的美徳に対する記述と、カインが「愛でられる側」を拒絶する性格設定との対比構造。
 
 > あらゆる短所を帳消しにするほど、カインの髪は美しかったのだ。（p23）
 
@@ -31,9 +31,9 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 彼 | カイン | 蓋然性高 | 2 |
-| マラード王 | マラード | 明言 | 1 |
+| 王 | 霊媒 | 明言 | 1 |

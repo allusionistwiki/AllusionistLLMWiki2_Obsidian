@@ -9,7 +9,7 @@ canonical_name: "Inkjet_Printing"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Inkjet_Printing.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5218_analogous_to_E_p191_Inkjet_Printing]] — 飛散した血液が呪文の群れとなる描写は、インクジェットプリンタの原理（文字の印刷）と、血の飛沫を視覚的に重ね合わせるアナロギアである。
+- [[A_ch5218_analogous_to_E_p191_Inkjet_Printing]] — 飛散した血液が呪文の群れとなる描写は、インク黒玉飛翔プリンタの原理（文字の印刷）と、血の飛沫を視覚的に重ね合わせるアナロギアである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 2 |
+| ジェット | 黒玉飛翔 | 明言 | 1 |

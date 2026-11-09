@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_二重スリット実験.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 二重スリット実験
 
-矛盾した認識を両立させる状態を量子力学の重ね合わせに例えた概念。アズーリアーリアは、電子ビームを「電子レンジでチンされたお手軽お菓子」として見るという独特な解釈を明かしている。
+矛盾した認識を両立させる状態を量子力学の重ね合わせに例えた概念。マリーは、電子ビームを「電子レンジでチンされたお手軽お菓子」として見るという独特な解釈を明かしている。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0073 ｜ **観測イベント**: 2 件（2 話に出現）
@@ -28,24 +28,25 @@ l2_run: 20261029T0843_c8bb
 
 ## 関連クレーム
 
-- A_ch0073_analogous_to_E_ch0073_アズーリアーリア_says_二重スリット実験_p2755_quantum_superposition（量子重ね合わせ）
-- A_ch0076_analogous_to_E_ch0076_アズーリアーリア_thinks_二重スリット実験_p2865_量子力学の観測問題（量子力学の観測問題）
+- A_ch0073_analogous_to_E_ch0073_マリー_says_二重スリット実験_p2755_quantum_superposition（量子重ね合わせ）
+- A_ch0076_analogous_to_E_ch0076_マリー_thinks_二重スリット実験_p2865_量子力学の観測問題（量子力学の観測問題）
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **二重スリット実験**（ID `E_char_二重スリット実験` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **二重スリット実験**（ID `E_char_二重スリット実験` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アズ | アズーリア | 高 | 3 |
+| アズーリア | マリー | 明言 | 3 |
 | 杖 | 箒 | 明言 | 1 |
 | 私 | カイン | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "necromancy_survival_game"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_necromancy_survival_game.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,18 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5280_alludes_to_E_ch5280_ちびシューラ_reveals_第九番目の価値_p378_necromancy_survival_game]] — 再生者や死霊使いがいる王国にのみ第九の価値として「生存（ウィクトーリア）」が存在するという設定は、不死・蘇生技術が権力の基盤となる特殊な社会構造を示唆している。
+- [[A_ch5280_alludes_to_E_ch5280_ちびシューラ_reveals_第九番目の価値_p378_necromancy_survival_game]] — 再生者や死霊使いがいる霊媒国にのみ第九の価値として「生存（ウィクトーリア）」が存在するという設定は、不死・蘇生技術が権力の基盤となる特殊な社会構造を示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「王」→ カーティス（要検証）
-- 未置換（要検証）: 「ちびシューラ」→ きぐるみの魔女（要検証）
+| 王 | 霊媒 | 明言 | 1 |

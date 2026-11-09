@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_吐息.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 吐息
@@ -23,7 +23,7 @@ l2_run: 20261029T0843_c8bb
 
 ## 代表引用
 
-> 亜竜と呼ばれる蜥蜴人の上位種が使う、【吐息】という高位呪文吐息だ。（ch0089）
+> 亜竜と呼ばれる亜竜が使う、【吐息】という高位呪文吐息だ。（ch0089）
 > チリアットの右腕に寄生している黒亜竜がダエモデク活性化。黒い竜の頭部が鎌首をもたげ、エレクトラと息を揃えて『吐息』を解き放つ（ch0256）
 
 <!-- AUTO:END -->
@@ -31,15 +31,17 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **吐息**（ID `E_char_吐息` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **吐息**（ID `E_char_吐息` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | ブレス | 吐息 | 明言 | 2 |
-| ユディーア | エレクトラ | 蓋然性高 | 1 |
+| 蜥蜴人の上位種 | 亜竜 | 明言 | 1 |
+| ユディーア | エレクトラ | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

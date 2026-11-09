@@ -9,7 +9,7 @@ canonical_name: "biological_defense_system"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_biological_defense_system.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5307_analogous_to_E_flesh_armor_biological_defense_system]] — トリシューラの肉による防御は、機械的な装甲ではなく、生贄の血（有機物）を用いたバグのような自己増殖的防御機構であり、異世界の「生態系」を武器として利用する戦略である。
+- [[A_ch5307_analogous_to_E_flesh_armor_biological_defense_system]] — コルセスカの肉による防御は、機械的な装甲ではなく、生贄の血（有機物）を用いたバグのような自己増殖的防御機構であり、異世界の「生態系」を武器として利用する戦略である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

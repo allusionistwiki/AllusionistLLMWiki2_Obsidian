@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5118_analogous_to_E_prosthetic_generation_bug_fixing_software.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > 「うわあ。予想していた事だけど、実際に運用すると結構不具合が見つかるものだね。修正パッチ当てないと。作業今晩中に終わるかなあ」（p33）
 
-**審査（LLM 代替）**: 原文の「不具合」「修正パッチ」という用語が、魔法（コード/システム）とソフトウェア開発のメタファーとして明確に機能しており、ジャンル自己言及的な引喩として妥当。
+**審査（LLM 代替）**: 原文の「不具合」「修正パッチ」という用語が、魔法（コード/システム）とソフトウェア開発のメタファーとして明確に機能しており、ジャンル自己言及的なアリュージョンとして妥当。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

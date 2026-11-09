@@ -9,7 +9,7 @@ canonical_name: "virus_variant_replacement"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_virus_variant_replacement.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,17 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5215_analogous_to_E_新たな死人の感染上書き_virus_variant_replacement]] — フィリスの死人が既存の感染株を上書きされる現象は、生物学的なウイルスの変異や宿主適応による置換プロセスを思わせる。
+- [[A_ch5215_analogous_to_E_新たな死人の感染上書き_virus_variant_replacement]] — 魔将の死人が既存の感染株を上書きされる現象は、生物学的なウイルスの変異や宿主適応による置換プロセスを思わせる。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 魔将 | フィリス | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「魔将」→ フィリス（要検証）

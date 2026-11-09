@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_血液.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 血液
 
-コルセスカが敗者から抜き取り、氷の指輪を作るために使用される物質。ハルベルトベルトの血管を流れる血液は純粋な漆黒であり、全身に呪紋のような模様を描いている。これは人体改造の痕跡であるとされる。
+『上』が敗者から抜き取り、氷の指輪を作るために使用される物質。お姉様の血管を流れる血液は純粋な漆黒であり、全身に呪紋のような模様を描いている。これは人体改造の痕跡であるとされる。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0008 ｜ **観測イベント**: 2 件（2 話に出現）
@@ -28,21 +28,23 @@ l2_run: 20261029T0843_c8bb
 
 ## 関連クレーム
 
-- A_ch0008_analogous_to_E_ch0008_コルセスカ_other_血液_p394_vampire_mythology（吸血鬼伝承の工芸行為への転換）
+- A_ch0008_analogous_to_E_ch0008_『上』_other_血液_p394_vampire_mythology（吸血鬼伝承の工芸行為への転換）
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **血液**（ID `E_char_血液` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **血液**（ID `E_char_血液` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ハル | ハルベルト | 高 | 1 |
+| コルセスカ | 『上』 | 明言 | 2 |
+| ハルベルト | お姉様 | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

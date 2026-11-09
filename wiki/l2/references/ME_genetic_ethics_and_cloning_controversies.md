@@ -9,7 +9,7 @@ canonical_name: "genetic_ethics_and_cloning_controversies"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_genetic_ethics_and_cloning_controversies.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5201_analogous_to_E_ch5201_リールエルバ_is_made_of_クローントリシル＝リールエルバ_p211_genetic_ethics_and_cloning_controversies]] — 人工的に培養された吸血鬼（クローン）が、自己名前の反復禁止や存在の不安定さを通じて示すアイデンティティの脆弱性は、複製技術における個体性・権利に関する倫理的課題を反映している。
+- [[A_ch5201_analogous_to_E_ch5201_リールエルバ_is_made_of_クローントリシル＝リールエルバ_p211_genetic_ethics_and_cloning_controversies]] — 人工的に培養された吸血鬼（クローン）が、自己名前の反復禁止や存在の不安定さを通じて示すアイデン彩域の脆弱性は、複製技術における個体性・権利に関する倫理的課題を反映している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

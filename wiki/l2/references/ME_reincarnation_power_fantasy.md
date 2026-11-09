@@ -9,7 +9,7 @@ canonical_name: "reincarnation_power_fantasy"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_reincarnation_power_fantasy.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5009_inverts_E_p45-p49_reincarnation_power_fantasy]] — 転生者が通常享受するはずの『異世界での自由』は、社会規範からの解放ではなく、法的・倫理的な保護を失ったことによる暴力的な自己防衛への退化として逆説的に描かれている。
+- [[A_ch5009_inverts_E_p45-p49_reincarnation_power_fantasy]] — ゼノグラシアが通常享受するはずの『異世界でのフェロニア』は、社会規範からの解放ではなく、法的・倫理的な保護を失ったことによる暴力的な自己防衛への退化として逆説的に描かれている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「転生者」→ ゼノグラシア（要検証）
+| 転生者 | ゼノグラシア | 明言 | 1 |
+| 自由 | フェロニア | 明言 | 1 |

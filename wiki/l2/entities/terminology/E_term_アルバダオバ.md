@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/terminology/E_term_アルバダオバ.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # アルバダオバ
 
-体内が透き通った水であり、カルメダージの必中の邪視（棘）を素通しにする特性を持つ。自身の身体を『白翼海への扉』とし、空に浮かぶ海（飛翔水域）を泳ぐことで異界への出入口とする。
+体内が透き通った水であり、カルメダージの必中のファシネイト（棘）を素通しにする特性を持つ。自身の身体を『白翼海への扉』とし、アカシャに浮かぶ海（飛翔水域）を泳ぐことで異界への出入口とする。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0242 ｜ **観測イベント**: 2 件（1 話に出現）
@@ -31,5 +31,16 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **アルバダオバ**（ID `E_char_アルバダオバ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **アルバダオバ**（ID `E_char_アルバダオバ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 邪視 | ファシネイト | 明言 | 1 |
+| 空 | アカシャ | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

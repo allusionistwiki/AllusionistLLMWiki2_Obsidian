@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5563_alludes_to_E_ch5563_リーナ_thinks_雲海_p6_metaphysical_sublimation.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > 手を伸ばすことで、雲海を破ることができるだろう。あらゆる障壁を壊し、限界の向こうへと突き進む。この速度の先にあるのは未知なる結末だ。（p6-p8）
 
-**審査（LLM 代替）**: 「物理から精神への昇華」は原文の文脈（飛行技術の限界突破）において過度に哲学的な飛躍であり、引喩として妥当性が高いとは言い難い。
+**審査（LLM 代替）**: 「物理から精神への昇華」は原文の文脈（飛行技術の限界突破）において過度に哲学的な飛躍であり、アリュージョンとして妥当性が高いとは言い難い。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

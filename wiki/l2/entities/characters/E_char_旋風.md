@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_旋風.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 旋風
@@ -23,7 +23,7 @@ l2_run: 20261029T0843_c8bb
 
 ## 代表引用
 
-> リーナは大学ノートの項を千切ってばらまいた。途端、カインたちを中心にして風が巻き起こる。空の民が得意とする大気操作の呪術、【旋風】が辺りの霧を吹き散らしていった。（ch0136）
+> リーナは大学ノートの項を千切ってばらまいた。途端、カインたちを中心にして風が巻き起こる。アカシャの民が得意とする大気操作の呪術、【旋風】が辺りの霧を吹き散らしていった。（ch0136）
 > リーナがもたらしたのは古く新しい旋風だ。（ch5572）
 
 <!-- AUTO:END -->
@@ -31,14 +31,16 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **旋風**（ID `E_char_旋風` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **旋風**（ID `E_char_旋風` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 私 | カイン | 蓋然性高 | 1 |
+| 空 | アカシャ | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "tragic_heroine"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_tragic_heroine.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5456_alludes_to_E_louteut_defeat_tragic_heroine]] — ルウテトの敗北と死は、単なる悪役の撃破ではなく、「完璧な敵を演じ切った」と称賛される悲劇の主人公（トラジック・ヒーロー）としての役割遂行として描かれている。
+- [[A_ch5456_alludes_to_E_louteut_defeat_tragic_heroine]] — ルウの敗北と死は、単なる悪役の撃破ではなく、「完璧な敵を演じ切った」と称賛される悲劇のプロタゴニスト（トラジック・ヒーロー）としての役割遂行として描かれている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ルウテト | ルウ | 明言 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "game_mechanic_gacha_limit_break"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_game_mechanic_gacha_limit_break.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- A_ch5052_parodies_E_ch5052_01_game_mechanic_gacha_limit_break — 主人公がシステム警告を無視して武器を限界まで使用し続ける行為は、ガチャ産武器やガジェットの『リソース枯渇による強制強化』およびプレイヤーの最適化行動を模倣・風刺している。
+- A_ch5052_parodies_E_ch5052_01_game_mechanic_gacha_limit_break — プロタゴニストがシステム警告を無視して武器を限界まで使用し続ける行為は、ガチャ産武器やガ黒玉飛翔の『リソース枯渇による強制強化』およびプレイヤーの最適化行動を模倣・風刺している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |
+| ジェット | 黒玉飛翔 | 明言 | 1 |

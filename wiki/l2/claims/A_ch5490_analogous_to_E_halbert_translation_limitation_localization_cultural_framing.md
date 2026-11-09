@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5490_analogous_to_E_halbert_translation_limitation_localization_cultural_framing.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,17 +26,18 @@ l2_run: 20261029T0843_c8bb
 
 > 楽園の解釈が違いすぎる個々人に『お話』を翻訳するのは手間だし、少し危うい。呪文とはある種の傲慢であり暴力にもなり得る。（p55-p57）
 
-**審査（LLM 代替）**: 異文化間での「翻訳」が持つ暴力性や摩擦という描写は、ローカライズにおける文化的コンテキストの断絶と構造的な葛藤を示唆しており、引喩として妥当である。
+**審査（LLM 代替）**: 異文化間での「翻訳」が持つ暴力性や摩擦という描写は、ローカライズにおける文化的コンテキストの断絶と構造的な葛藤を示唆しており、アリュージョンとして妥当である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 森 | 楽園 | 蓋然性高 | 2 |
 | ティリビナ | ティリビナの民 | 蓋然性高 | 1 |
+| 引喩 | アリュージョン | 明言 | 1 |
 
 
 注記（置換しない）:

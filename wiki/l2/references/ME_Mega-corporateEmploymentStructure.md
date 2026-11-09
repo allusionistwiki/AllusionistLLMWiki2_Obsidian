@@ -9,7 +9,7 @@ canonical_name: "Mega-corporateEmploymentStructure"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Mega-corporateEmploymentStructure.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5291_parodies_E_p167-p175_Mega-corporateEmploymentStructure]] — ゾーイとケイトが唱える「上位システムの決定は絶対」「個を捨て...奉仕せよ」という命令への服従は、巨大企業組織における過剰な忠誠と自己犠牲を強要する構造を風刺している。
+- [[A_ch5291_parodies_E_p167-p175_Mega-corporateEmploymentStructure]] — ゾーイと妖精使いが唱える「上位システムの決定は絶対」「個を捨て...奉仕せよ」という命令への服従は、巨大企業組織における過剰な忠誠と自己犠牲を強要する構造を風刺している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ケイト | 妖精使い | 明言 | 1 |

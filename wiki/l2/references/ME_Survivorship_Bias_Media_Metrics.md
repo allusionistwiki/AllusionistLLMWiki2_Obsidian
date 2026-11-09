@@ -9,7 +9,7 @@ canonical_name: "Survivorship_Bias_Media_Metrics"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Survivorship_Bias_Media_Metrics.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5040_alludes_to_E_ch5040_コルセスカ_says_アキラへの批判_p2_Survivorship_Bias_Media_Metrics]] — トリシューラの説明は、現代の「再生回数」等のメトリクスが価値を決定づける構造を、ファンタジー世界における物理的な呪力生成メカニズムとして翻訳・構造化している。
+- [[A_ch5040_alludes_to_E_ch5040_コルセスカ_says_アキラへの批判_p2_Survivorship_Bias_Media_Metrics]] — コルセスカの説明は、現代の「再生回数」等のメトリクスが価値を決定づける構造を、ファンタジー世界における物理的な呪力生成メカニズムとして翻訳・構造化している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

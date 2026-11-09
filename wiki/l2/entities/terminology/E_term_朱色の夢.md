@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/terminology/E_term_朱色の夢.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 朱色の夢
@@ -23,7 +23,7 @@ l2_run: 20261029T0843_c8bb
 
 ## 代表引用
 
-> 『朱』の天主が集合無意識の底に築き上げたSNSであり、メッセージ伝達サービスであり、居住空間であり、あらゆる創作・競技・遊戯・思索が許される世界。（ch5403）
+> 『朱』の天主が集合無意識の底に築き上げたSNSであり、メッセージ伝達サービスであり、居住アカシャ間であり、あらゆる創作・競技・遊戯・思索が許される世界。（ch5403）
 > 朱色の夢はプラットフォームだ。それ単独では意味の無い場所のサービス。（ch5403）
 
 <!-- AUTO:END -->
@@ -31,16 +31,18 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **朱色の夢**（ID `E_char_朱色の夢` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **朱色の夢**（ID `E_char_朱色の夢` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 空 | アカシャ | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |
 
 
 注記（置換しない）:

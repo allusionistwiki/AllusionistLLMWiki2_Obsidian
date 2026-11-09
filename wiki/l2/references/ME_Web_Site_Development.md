@@ -9,7 +9,7 @@ canonical_name: "Web_Site_Development"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Web_Site_Development.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5069_analogous_to_E_p24_Web_Site_Development]] — トリシューラの即座の公式サイト作成は、現代のスタートアップやインフルエンサーにおける迅速なデジタル・プレゼンス構築プロセスを模倣している。
+- [[A_ch5069_analogous_to_E_p24_Web_Site_Development]] — コルセスカの即座の公式サイト作成は、現代のスタートアップやインフルエンサーにおける迅速なデジタル・プレゼンス構築プロセスを模倣している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

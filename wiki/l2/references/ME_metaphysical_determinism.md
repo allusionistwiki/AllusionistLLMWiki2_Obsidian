@@ -9,7 +9,7 @@ canonical_name: "metaphysical_determinism"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_metaphysical_determinism.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (2 件)
 
-- [[A_ch5260_analogous_to_E_p203_metaphysical_determinism]] — 糸によって「役柄」を了解し、定められた流れをなぞることは、運命論や決定論的な世界観、すなわち自由意志の欠如を示唆する。
-- [[A_ch5260_analogous_to_E_p203_metaphysical_determinism]] — 糸によって「役柄」を了解し、定められた流れをなぞることは、運命論や決定論的な世界観、すなわち自由意志の欠如を示唆する。
+- [[A_ch5260_analogous_to_E_p203_metaphysical_determinism]] — 糸によって「役柄」を了解し、定められた流れをなぞることは、運命論や決定論的な世界観、すなわちフェロニア意志の欠如を示唆する。
+- [[A_ch5260_analogous_to_E_p203_metaphysical_determinism]] — 糸によって「役柄」を了解し、定められた流れをなぞることは、運命論や決定論的な世界観、すなわちフェロニア意志の欠如を示唆する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 自由 | フェロニア | 明言 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |

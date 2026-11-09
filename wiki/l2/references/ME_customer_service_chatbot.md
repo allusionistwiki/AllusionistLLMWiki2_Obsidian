@@ -9,7 +9,7 @@ canonical_name: "customer_service_chatbot"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_customer_service_chatbot.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,16 +20,19 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5169_parodies_E_azua_report_customer_service_chatbot]] — アズーリアーリアがフィリスシステムへ通報した際、自動返信で即座に「逮捕して牢屋にブチ込む」と返答するのは、機械的なカスエミリニェロギッポロネーシャーサポートのチャットボットの皮肉な挙動である。
+- [[A_ch5169_parodies_E_azua_report_customer_service_chatbot]] — マリーが金鎖システムへ通報した際、自動返信で即座に「逮捕して牢屋にブチ込む」と返答するのは、機械的なカスエミリニェロギッポロネーシャーサポートのチャットボットの皮肉な挙動である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アズ | アズーリア | 高 | 1 |
-| 金鎖 | フィリス | 蓋然性高 | 1 |
+| アズーリア | マリー | 明言 | 1 |
 | タマ | エミリニェロギッポロネーシャ | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「金鎖」→ フィリス（要検証）

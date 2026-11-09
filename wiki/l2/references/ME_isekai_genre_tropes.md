@@ -9,7 +9,7 @@ canonical_name: "isekai_genre_tropes"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_isekai_genre_tropes.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5094_foreshadows_p49_isekai_genre_tropes]] — トリシューラを切り捨てて迷宮攻略に向かう選択肢は、典型的な異世界転生作品の『ハックアンドスラッシュ』および『竜殺し』というクリシェへの回帰として提示されている。
+- [[A_ch5094_foreshadows_p49_isekai_genre_tropes]] — コルセスカを切り捨てて迷宮攻略に向かう選択肢は、典型的な異世界転生作品の『ハックアンドスラッシュ』および『竜殺し』というクリシェへの回帰として提示されている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

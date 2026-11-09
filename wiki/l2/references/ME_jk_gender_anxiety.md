@@ -9,7 +9,7 @@ canonical_name: "jk_gender_anxiety"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_jk_gender_anxiety.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5411_alludes_to_E_ch5411_海の民_other_呪いの歌_p239_jk_gender_anxiety]] — 女性による社会的権力（カイン根の比喩）への嫉妬と切除要求は、性別役割分業の崩壊に対する不安や「カイン性性の危機」を象徴する心理状態を示している。
+- [[A_ch5411_alludes_to_E_ch5411_海の民_other_呪いの歌_p239_jk_gender_anxiety]] — 女性による社会的権力（キロン根の比喩）への嫉妬と切除要求は、性別役割分業の崩壊に対する不安や「キロン性性の危機」を象徴する心理状態を示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 男 | カイン | 蓋然性高 | 2 |
+| 男 | キロン | 明言 | 2 |
 | アナロジー | アナロギア | 蓋然性高 | 1 |

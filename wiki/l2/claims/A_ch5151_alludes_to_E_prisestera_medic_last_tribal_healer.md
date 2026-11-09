@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5151_alludes_to_E_prisestera_medic_last_tribal_healer.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,18 +26,19 @@ l2_run: 20261029T0843_c8bb
 
 > しばらく前までいた高齢の医術士は先日病没しており、その医術の全てを受け継いだのはよりにもよってエストたるエストただ一人。カイン女から少しずつ教えを受けていた者もいるのだが、その技量は到底長年の訓練を受けた専門家に及ぶべくもない。（p20）
 
-**審査（LLM 代替）**: 専門医の不在と「最後の伝承者」であるエストの瀕死は、口承文化における知識断絶（Last Keeper of Knowledge）の危機を象徴しており、引喩が妥当。
+**審査（LLM 代替）**: 専門医の不在と「最後の伝承者」であるエストの瀕死は、口承文化における知識断絶（Last Keeper of Knowledge）の危機を象徴しており、アリュージョンが妥当。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | プリエステラ | エスト | 明言 | 3 |
 | ティリビナの巫女 | エスト | 明言 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |
+| 引喩 | アリュージョン | 明言 | 1 |
 
 
 注記（置換しない）:

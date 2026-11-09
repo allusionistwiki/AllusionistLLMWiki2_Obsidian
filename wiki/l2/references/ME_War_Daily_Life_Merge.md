@@ -9,7 +9,7 @@ canonical_name: "War_Daily_Life_Merge"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_War_Daily_Life_Merge.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5134_sublates_E_ch5134_食事_appears_as_異様な光景_p44_War_Daily_Life_Merge]] — 戦闘の最中に食事をするという異様な光景は、「非日常（戦場）」が「日常（生活）」を侵食・溶解させるプロセスの象徴であり、主人公の精神状態の歪みを視覚化している。
+- [[A_ch5134_sublates_E_ch5134_食事_appears_as_異様な光景_p44_War_Daily_Life_Merge]] — 戦闘の最中に食事をするという異様な光景は、「非日常（戦場）」が「日常（生活）」を侵食・溶解させるプロセスの象徴であり、プロタゴニストの精神状態の歪みを視覚化している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

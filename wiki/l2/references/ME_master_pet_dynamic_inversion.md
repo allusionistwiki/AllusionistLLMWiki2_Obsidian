@@ -9,7 +9,7 @@ canonical_name: "master_pet_dynamic_inversion"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_master_pet_dynamic_inversion.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5234_inverts_E_ch5234_ラズリ・ジャッフハリム_names_ラズリ・ジャッフハリム_p4_master_pet_dynamic_inversion]] — トリシューラが足裏を用いて主人公の頭を撫でる行為は、通常の主従関係における身体的接触の禁忌を越えた絶対的支配権と所有欲の現れである。
+- [[A_ch5234_inverts_E_ch5234_ラズリ・ジャッフハリム_names_ラズリ・ジャッフハリム_p4_master_pet_dynamic_inversion]] — コルセスカが足裏を用いてプロタゴニストの頭を撫でる行為は、通常の主従関係における身体的接触の禁忌を越えた絶対的支配権と所有欲の現れである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

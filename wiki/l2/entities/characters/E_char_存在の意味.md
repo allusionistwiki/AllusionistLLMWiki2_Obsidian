@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_存在の意味.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 存在の意味
@@ -23,7 +23,7 @@ l2_run: 20261029T0843_c8bb
 
 ## 代表引用
 
-> 『ラウス＝ベフォニス』という名が人格と共に消失し、何者でもない『　』が弱々しい泣き声を上げ続ける。（ch5379）
+> 『ラウス＝石喰いのベフォニス』という名が人格と共に消失し、何者でもない『　』が弱々しい泣き声を上げ続ける。（ch5379）
 > 「無償の好意。無条件の肯定。それこそが孤独を癒（ころ）す、セリアック＝ニアの生まれた意味。セリアの存在の全ては、姉様の命と尊厳を奪うためある」（ch5424）
 
 <!-- AUTO:END -->
@@ -31,16 +31,18 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **存在の意味**（ID `E_motif_存在の意味` / kind: motif / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **存在の意味**（ID `E_motif_存在の意味` / kind: motif / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| ベフォニス | 石喰いのベフォニス | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |
 
 
 注記（置換しない）:

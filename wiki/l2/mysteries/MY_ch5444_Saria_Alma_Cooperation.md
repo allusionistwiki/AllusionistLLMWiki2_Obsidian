@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5444_Saria_Alma_Cooperation.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # Saria_Alma_Cooperation
 
-コルセスカがサリアとアルマに「打ち合わせ通り」の協力をお願いし、痕跡を残すよう指示している。カインらが誰を、どのような形で支援するのか。
+『上』がサリアとアルマに「打ち合わせ通り」の協力をお願いし、痕跡を残すよう指示している。カインらが誰を、どのような形で支援するのか。
 
 **回収示唆**: 後の展開で、サリアやアルマがレイやミヒトネッセの破滅を緩和する役割を果たす可能性が高い。
 
@@ -30,8 +30,9 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| コルセスカ | 『上』 | 明言 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |

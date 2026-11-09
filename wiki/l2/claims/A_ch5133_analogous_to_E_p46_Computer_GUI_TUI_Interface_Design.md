@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5133_analogous_to_E_p46_Computer_GUI_TUI_Interface_Design.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,15 +26,16 @@ l2_run: 20261029T0843_c8bb
 
 > GUI（グラフィカルユーザインターフェース）であるアストラル界界に対して、呪文師が認識するアストラル界はTUI（テキストユーザインターフェース）だ。（p44）
 
-**審査（LLM 代替）**: 原文でGUI/TUIという現代的なインターフェース用語が明示的に比喩として使用されており、引喩の構造と整合している。
+**審査（LLM 代替）**: 原文でGUI/TUIという現代的なインターフェース用語が明示的に比喩として使用されており、アリュージョンの構造と整合している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アストラル | アストラル界 | 明言 | 2 |
 | グラマー界 | アストラル界 | 明言 | 2 |
 | 言語魔術 | 呪文 | 蓋然性高 | 1 |
+| 引喩 | アリュージョン | 明言 | 1 |

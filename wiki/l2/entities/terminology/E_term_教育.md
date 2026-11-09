@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-19'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_教育.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 # 教育
 
@@ -21,11 +21,21 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
-- **unknown**: 教育はその遥か手前から思考の基礎を改竄する『正統な知識の支配』だ。
+- **unknown**: 教育はその遥か手前から思考のスタンプを改竄する『正統な知識の支配』だ。
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **教育**（ID `E_term_教育` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **教育**（ID `E_term_教育` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 基礎 | スタンプ | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "identity_theft_and_spoofing"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_identity_theft_and_spoofing.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5172_analogous_to_E_ch5172_プリエステラ_other_変装と呪力偽装_p94_identity_theft_and_spoofing]] — 異獣としての存在を隠すための『変装』と『呪力偽装』は、社会システム内でのアイデンティティの欺瞞と生存戦略を示している。
+- [[A_ch5172_analogous_to_E_ch5172_プリエステラ_other_変装と呪力偽装_p94_identity_theft_and_spoofing]] — 異獣としての存在を隠すための『変装』と『呪力偽装』は、社会システム内でのアイデン彩域の欺瞞と生存戦略を示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "arranged_marriage_politics"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_arranged_marriage_politics.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5192_structurally_matches_E_ch5192_クロウサー家_has_property_血統の呪い_p382_arranged_marriage_politics]] — クロウサー家が「血統を強く混沌としたものにする」ために行う婚姻戦略は、貴族間の政治的結婚（政略結婚）を呪術的に誇張したものであり、個人の感情より家の存続が優先される封建的な家制度のメタファーである。
+- [[A_ch5192_structurally_matches_E_ch5192_クロウサー家_has_property_血統の呪い_p382_arranged_marriage_politics]] — クロウサー家が「血統を強く混沌としたものにする」ために行う婚姻戦略は、ブルーブラッド間の政治的結婚（政略結婚）を呪術的に誇張したものであり、個人の感情より家の存続が優先される封建的な家制度のメタファーである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 貴族 | ブルーブラッド | 明言 | 1 |

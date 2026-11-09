@@ -9,7 +9,7 @@ canonical_name: "Authoritarian_Power_Display"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Authoritarian_Power_Display.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5494_analogous_to_E_King_Insect_Seal_Authoritarian_Power_Display]] — ライラが『虫王の印章』を用いて黒蟲騎士団を奴隷化しようとする行為は、遺物（シンボル）が持つ呪的権威を通じて他者の意志や抵抗力を物理的に強制する支配構造を示している。
+- [[A_ch5494_analogous_to_E_King_Insect_Seal_Authoritarian_Power_Display]] — ライラが『虫霊媒の印章』を用いて黒蟲騎士団を奴隷化しようとする行為は、遺物（シンボル）が持つ呪的権威を通じて他者の意志や抵抗力を物理的に強制する支配構造を示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「王」→ カーティス（要検証）
+| 王 | 霊媒 | 明言 | 1 |

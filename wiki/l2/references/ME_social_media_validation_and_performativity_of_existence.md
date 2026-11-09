@@ -9,7 +9,7 @@ canonical_name: "social_media_validation_and_performativity_of_existence"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_social_media_validation_and_performativity_of_existence.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,16 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5201_parodies_E_ch5201_リールエルバ_has_property_強い承認欲求と存在維持の危うさ_p201_social_media_validation_and_performativity_of_existence]] — 他者からの注視（邪視）によって肉体が損傷し、逆に承認を得ることで存在を維持するというカーティスの構造は、SNSにおける自己呈示と承認欲求によるアイデンティティの脆弱性を体現している。
+- [[A_ch5201_parodies_E_ch5201_リールエルバ_has_property_強い承認欲求と存在維持の危うさ_p201_social_media_validation_and_performativity_of_existence]] — 他者からの注視（ファシネイト）によって肉体が損傷し、逆に承認を得ることで存在を維持するという狂イ姫の構造は、SNSにおける自己呈示と承認欲求によるアイデン彩域の脆弱性を体現している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| リールエルバ | カーティス | 明言 | 1 |
+| 邪視 | ファシネイト | 明言 | 1 |
+| リールエルバ | 狂イ姫 | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

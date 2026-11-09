@@ -9,7 +9,7 @@ canonical_name: "lunar_calendar"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_lunar_calendar.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5318_structurally_matches_E_cycle_season_myth_lunar_calendar]] — 女神の力が月のように満ち欠けし冬と春を象徴するという描写は、月の周期を自然現象や生命循環の基準とする古代的な宇宙観（太陰暦的発想）と共鳴する設定である。
+- [[A_ch5318_structurally_matches_E_cycle_season_myth_lunar_calendar]] — シャーネスの力が月のように満ち欠けし冬と春を象徴するという描写は、月の周期を自然現象や生命循環の基準とする古代的な宇宙観（太陰暦的発想）と共鳴する設定である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 女神 | シャーネス | 明言 | 1 |

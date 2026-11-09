@@ -9,7 +9,7 @@ canonical_name: "philosophical_zombie"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_philosophical_zombie.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5222_inverts_E_p267_philosophical_zombie]] — 主人公自身が「哲学的ゾンビ」「人工知能」という現代の心身問題・AI哲学の用語を自認し、その欠如（意識の有無）が逆に存在定義の根拠となるという逆説的な自己認識を示している。
+- [[A_ch5222_inverts_E_p267_philosophical_zombie]] — プロタゴニスト自身が「哲学的ゾンビ」「人工知能」という現代の心身問題・AI哲学の用語を自認し、その欠如（意識の有無）が逆に存在定義の根拠となるという逆説的な自己認識を示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 主人公 | プロタゴニスト | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "ME_MMO_RPG_Party_Recruitment_Frustration"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ME_MMO_RPG_Party_Recruitment_Frustration.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5436_alludes_to_E_p51_ME_MMO_RPG_Party_Recruitment_Frustration]] — トリシューラとコルセスカの「ユニット加入条件」をめぐる議論は、MMOやソシャゲにおけるイベント限定キャラの入手失敗（天井未到達や条件不足）に対するプレイヤーの定番的な不満・ジョークを引用している。
+- [[A_ch5436_alludes_to_E_p51_ME_MMO_RPG_Party_Recruitment_Frustration]] — コルセスカと『上』の「ユニット加入条件」をめぐる議論は、MMOやソシャゲにおけるイベント限定キャラの入手失敗（天井未到達や条件不足）に対するプレイヤーの定番的な不満・ジョークを引用している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |
+| コルセスカ | 『上』 | 明言 | 1 |

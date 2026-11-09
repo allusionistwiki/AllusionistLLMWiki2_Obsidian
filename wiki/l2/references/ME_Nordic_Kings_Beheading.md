@@ -9,7 +9,7 @@ canonical_name: "Nordic_Kings_Beheading"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Nordic_Kings_Beheading.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5299_alludes_to_E_ch5299_世界_transforms_地獄背景_p2_Nordic_Kings_Beheading]] — ゲーム内キャラクター（オルヴァ）の消滅が、歴史における「断頭台」という物理的・象徴的な死と結びつけられ、虚構と現実の境界を侵食している。
+- [[A_ch5299_alludes_to_E_ch5299_世界_transforms_地獄背景_p2_Nordic_Kings_Beheading]] — ゲーム内キャラクター（俺）の消滅が、歴史における「断頭台」という物理的・象徴的な死と結びつけられ、虚構と現実の境界を侵食している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| オルヴァ | 俺 | 明言 | 1 |

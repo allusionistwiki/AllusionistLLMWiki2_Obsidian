@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5045_analogous_to_E_Kassario_Modern_Military_Weapon.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,13 +26,14 @@ l2_run: 20261029T0843_c8bb
 
 > 『散らばった大地の時代』にいにしえの呪文師が作り出した生物兵器で、召喚者以外は皆殺しにするっていうのが謳い文句の殺戮マシーンだよ！（p41）
 
-**審査（LLM 代替）**: 「生物兵器」と「無人兵器」の機能類似は事実として妥当だが、「構造的に類似」という強すぎる断言は引喩として不自然。
+**審査（LLM 代替）**: 「生物兵器」と「無人兵器」の機能類似は事実として妥当だが、「構造的に類似」という強すぎる断言はアリュージョンとして不自然。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 言語魔術 | 呪文 | 蓋然性高 | 1 |
+| 引喩 | アリュージョン | 明言 | 1 |

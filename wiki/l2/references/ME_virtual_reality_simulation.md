@@ -9,7 +9,7 @@ canonical_name: "virtual_reality_simulation"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_virtual_reality_simulation.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5105_parodies_E_lucid_dream_virtual_reality_simulation]] — 第五階層の迷宮が脳内の記憶だけで構成されたシミュレーション空間として機能し、ログ参照というIT用語で説明される。
+- [[A_ch5105_parodies_E_lucid_dream_virtual_reality_simulation]] — 第五階層の迷宮が脳内の記憶だけで構成されたシミュレーションアカシャ間として機能し、ログ参照というIT用語で説明される。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 空 | アカシャ | 明言 | 1 |

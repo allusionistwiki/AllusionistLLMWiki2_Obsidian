@@ -9,7 +9,7 @@ canonical_name: "geopolitical_proxy_war"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_geopolitical_proxy_war.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5023_analogous_to_E_p27_geopolitical_proxy_war]] — 表向きは中立地帯でありながら裏では勢力が牽制し合う状態は、冷戦下における代理戦争や、国際法が機能不全に陥った紛争地域での「灰色の平和」を象徴している。
+- [[A_ch5023_analogous_to_E_p27_geopolitical_proxy_war]] — 表向きは中立地帯でありながら裏では勢力が牽制し合う状態は、冷戦下における代理ゲームや、国際法が機能不全に陥った紛争地域での「灰色の平和」を象徴している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 戦争 | ゲーム | 明言 | 1 |

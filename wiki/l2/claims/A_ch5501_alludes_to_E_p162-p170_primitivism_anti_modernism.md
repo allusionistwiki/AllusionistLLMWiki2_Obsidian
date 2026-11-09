@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5501_alludes_to_E_p162-p170_primitivism_anti_modernism.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,4 +26,13 @@ l2_run: 20261029T0843_c8bb
 
 > 「原始に帰れ、文明の猿共！」（p168）
 
-**審査（LLM 代替）**: 引用された「原始に帰れ」はキャラクターの性格的・世界観的な表明であり、ルソーや環境保護主義といった具体的思想運動への直接な引喩と断定するには原文根拠が薄弱で飛躍がある。
+**審査（LLM 代替）**: 引用された「原始に帰れ」はキャラクターの性格的・世界観的な表明であり、ルソーや環境保護主義といった具体的思想運動への直接なアリュージョンと断定するには原文根拠が薄弱で飛躍がある。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |

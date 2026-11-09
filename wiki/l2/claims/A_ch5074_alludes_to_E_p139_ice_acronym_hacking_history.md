@@ -17,13 +17,22 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5074_alludes_to_E_p139_ice_acronym_hacking_history.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# トリシューラが説明する『ICE』という用語は、現実のコンピュータセキュリティ用語であるIntrusion Countermeasures Electronics（侵入対策電子機器）に由来し、それを魔法用語へ翻訳している。
+# コルセスカが説明する『ICE』という用語は、現実のコンピュータセキュリティ用語であるIntrusion Countermeasures Electronics（侵入対策電子機器）に由来し、それを魔法用語へ翻訳している。
 
 > アイス――つまりIntrusion Countermeasure Entrancementの頭文字をとってICEってことなんだけど（p139）
 
 **審査（LLM 代替）**: 原文で「Intrusion Countermeasure Entrancement」と明記されており、SF用語ICE（Intrusion Countermeasures Electronics）の語源・定義を魔法世界へ翻訳するメタ言及として明確な根拠がある。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| トリシューラ | コルセスカ | 明言 | 1 |

@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/terminology/E_term_聴勁.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 聴勁
@@ -24,25 +24,27 @@ l2_run: 20261029T0843_c8bb
 ## 代表引用
 
 > サイバーカラテの聴勁は、五感を研ぎ澄ませることによって周囲に潜む敵の動きを捉えることすら可能なのである。（ch0002）
-> 聴勁。棘の中にはたらく力の流れ、筋骨の動きを感じ取る。脚であることを確信した俺は、その流れを『化かして』いく。（ch0002）
+> 聴勁。棘の中にはたらく力の流れ、筋骨の動きを感じ取る。脚であることを確信したトラック運転手は、その流れを『化かして』いく。（ch0002）
 
 ## 関連クレーム
 
-- A_ch0002_analogous_to_E_ch0002_アキラくん_uses_聴勁_p128_active_sonar（アクティブソナー原理の聴勁）
+- A_ch0002_analogous_to_E_ch0002_語り手_uses_聴勁_p128_active_sonar（アクティブソナー原理の聴勁）
 
 <!-- AUTO:END -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **聴勁**（ID `E_term_聴勁` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **聴勁**（ID `E_term_聴勁` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アキラ | アキラくん | 高 | 1 |
+| 俺 | トラック運転手 | 明言 | 1 |
+| アキラ | 語り手 | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "passing_as_human"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_passing_as_human.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5182_alludes_to_E_ch5182_長老様_teaches_アキラ_p177181_passing_as_human]] — 異種族が地上で生きるために「霊長類（人間）の模倣」をし、黒衣で隠すというルールは、マイノリティが社会適応のために自らの特性を隠蔽し擬態する「 Passing 」の概念を示唆する。
+- [[A_ch5182_alludes_to_E_ch5182_長老様_teaches_アキラ_p177181_passing_as_human]] — 異種族が大神院で生きるために「霊長類（人間）の模倣」をし、クリーナーで隠すというルールは、マイノリティが社会適応のために自らの特性を隠蔽し擬態する「 Passing 」の概念を示唆する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 地上 | 大神院 | 明言 | 1 |
+| 黒衣 | クリーナー | 明言 | 1 |

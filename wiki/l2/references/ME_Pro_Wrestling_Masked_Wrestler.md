@@ -9,7 +9,7 @@ canonical_name: "Pro_Wrestling_Masked_Wrestler"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Pro_Wrestling_Masked_Wrestler.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5317_alludes_to_E_301_Pro_Wrestling_Masked_Wrestler]] — ゾーイの敗北時の台詞「千の顔（マスク）を持つ英雄（ベビーフェイス）」は、プロレスにおける覆面レスラー（マスクマン）やヒール/フェースの転換に関する用語を引用している。
+- [[A_ch5317_alludes_to_E_301_Pro_Wrestling_Masked_Wrestler]] — ゾーイの敗北時の台詞「千の顔（マスク）を持つ英雄（ベビーフェイス）」は、プロレスにおける覆面カニャッツォ（マスクマン）やヒール/フェースの転換に関する用語を引用している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| レスラー | カニャッツォ | 明言 | 1 |

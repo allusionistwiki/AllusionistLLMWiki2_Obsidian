@@ -17,13 +17,22 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5372_analogous_to_E_p277_social_stigma_and_status_loss.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# 肉体への損傷ではなく「足場」の喪失を強調することで、戦闘能力とは無関係な社会制度的な排除がアイデンティティを破壊する構造を示している。
+# 肉体への損傷ではなく「足場」の喪失を強調することで、戦闘能力とは無関係な社会制度的な排除がアイデン彩域を破壊する構造を示している。
 
 > 傷ついているのは肉体ではなく足場だった。（p278）
 
 **審査（LLM 代替）**: 「cancel culture」という現代社会の用語を持ち込むのは作品世界から離れすぎです。原文の「足場」が失われた描写は、より直接的に「社会的権限（地位）剥奪による存在基盤の喪失」として解釈すべきです。
+
+
+---
+
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| ティティ | 彩域 | 明言 | 1 |

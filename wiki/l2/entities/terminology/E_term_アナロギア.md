@@ -11,12 +11,12 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/terminology/E_term_アナロギア.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # アナロギア
 
-「似ているものは連動する」という規則に基づき機能する呪術の原理である。ミヒトネッセはこれを用いて類似性を結びつけ、カインたちの価値観を貶めるための抗争を誘発した。
+「似ているものは連動する」という規則に基づき機能する呪術の原理である。ミヒトネッセはこれを用いて類似性を結びつけ、キロンたちの価値観を貶めるための抗争を誘発した。
 
 <!-- AUTO:BEGIN -->
 **初出**: ch0014 ｜ **観測イベント**: 2 件（2 話に出現）
@@ -31,14 +31,15 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **アナロギア**（ID `E_term_アナロギア` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **アナロギア**（ID `E_term_アナロギア` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 男 | カイン | 蓋然性高 | 1 |
+| 男 | キロン | 明言 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

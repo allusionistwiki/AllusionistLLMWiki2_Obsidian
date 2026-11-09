@@ -9,7 +9,7 @@ canonical_name: "Greek_Heroic_Armor"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Greek_Heroic_Armor.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,17 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5449_structurally_matches_E_p204_Greek_Heroic_Armor]] — クレイが肋骨から剣を引き抜く描写は、肉体の一部を武器とする超常的な身体性を通じて、「王子」であることの真偽や本質を物理的に証明する役割を果たしている。
+- [[A_ch5449_structurally_matches_E_p204_Greek_Heroic_Armor]] — クレイが肋骨から剣を引き抜く描写は、肉体の一部を武器とする超常的な身体性を通じて、「霊媒子」であることの真偽や本質を物理的に証明する役割を果たしている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「王」→ カーティス（要検証）
+| 王 | 霊媒 | 明言 | 1 |

@@ -9,7 +9,7 @@ canonical_name: "cycle_of_violence_abuse_survivor"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_cycle_of_violence_abuse_survivor.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,15 +20,15 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5156_structurally_matches_E_ch5156_アキラ_thinks_イキューへの虐待_p101_cycle_of_violence_abuse_survivor]] — ミルーニャの暴力に対しアキラくんが想起する「エストによるイキューへの虐待」は、加害者が被害者から継承したトラウマを無意識に再生産する「暴力の連鎖（Cycle of Violence）」の心理的構造を示している。
+- [[A_ch5156_structurally_matches_E_ch5156_アキラ_thinks_イキューへの虐待_p101_cycle_of_violence_abuse_survivor]] — ミルーニャの暴力に対し語り手が想起する「エストによるイキューへの虐待」は、加害者が被害者から継承したトラウマを無意識に再生産する「暴力の連鎖（Cycle of Violence）」の心理的構造を示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| アキラ | アキラくん | 高 | 1 |
+| アキラ | 語り手 | 明言 | 1 |
 | プリエステラ | エスト | 明言 | 1 |

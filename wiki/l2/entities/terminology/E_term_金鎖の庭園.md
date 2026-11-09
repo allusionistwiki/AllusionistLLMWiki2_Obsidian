@@ -12,9 +12,9 @@ document_status: active
 created: '2026-10-01'
 updated: '2026-10-19'
 normalized_from: l1/entities/terminology/E_term_金鎖の庭園.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
-# フィリスの庭園
+# 金鎖の庭園
 
 （本文：人間が記述する部分。自動生成では変更されません。）
 
@@ -35,14 +35,18 @@ l2_run: 20261029T0843_c8bb
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **フィリスの庭園**（ID `E_term_フィリスの庭園` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **金鎖の庭園**（ID `E_term_金鎖の庭園` / kind: location / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 金鎖 | フィリス | 蓋然性高 | 3 |
+| ティティ | 彩域 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「金鎖」→ フィリス（要検証）

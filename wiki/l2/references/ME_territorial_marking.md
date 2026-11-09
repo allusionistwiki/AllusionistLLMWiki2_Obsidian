@@ -9,7 +9,7 @@ canonical_name: "territorial_marking"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_territorial_marking.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5241_analogous_to_E_p101_territorial_marking]] — トリシューラが不在中に襲撃への対策として行った行為を「マーキング」「匂い付け」と表現するのは、動物のテリトリーマーキングやマーカー行為という生物学的本能行動の比喩を用いた心理的安定化装置（安心材料）の提供である。
+- [[A_ch5241_analogous_to_E_p101_territorial_marking]] — コルセスカが不在中に襲撃への対策として行った行為を「マーキング」「匂い付け」と表現するのは、動物のテリトリーマーキングやマーカー行為という生物学的本能行動の比喩を用いた心理的安定化装置（安心材料）の提供である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| トリシューラ | コルセスカ | 明言 | 1 |

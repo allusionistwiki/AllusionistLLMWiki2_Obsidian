@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5541_inverts_E_Renaria_Marshmallow_Survival_Horror_Trope.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# レナリアリアの降参と即座の「仲間化」は、緊張感を意図的に解体しギャグへ転換するコメディ的オチの構造を示している。
+# レナリアの降参と即座の「仲間化」は、緊張感を意図的に解体しギャグへ転換するコメディ的オチの構造を示している。
 
 > 「本気で敵対したって思った？　全部うそでーす！　ごめんね、ちょっとしがらみがあって仕方なくやらされてただけで、ほんとは心苦しかったの、信じて！」（p203）
 
@@ -31,8 +31,11 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| レナ | レナリア | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「レナ」→ レナリア（要検証）

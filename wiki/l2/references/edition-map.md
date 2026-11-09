@@ -60,7 +60,7 @@ type: reflection
 
 description: 解析の典拠を結ぶ、なろう版272話とカクヨム版589話の話対応・段落（¶）アンカー対応表
 normalized_from: l1/references/edition-map.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 
 # 版対応表（なろう版 ⇔ カクヨム版）
@@ -85,12 +85,12 @@ l2_run: 20261029T0843_c8bb
 | 001 | [無彩色の左手、鎧の右手](https://ncode.syosetu.com/n9073ca/1/) | [1](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859272464536)–[13](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859272995677)（13話） | 249/251 | 改稿削除1 |
 | 002 | [死者を代弁する者](https://ncode.syosetu.com/n9073ca/2/) | [13](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859272995677)–[20](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859273164577)（8話） | 128/129 | 改稿削除1 |
 | 003 | [きぐるみの魔女](https://ncode.syosetu.com/n9073ca/3/) | [21](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859273180125) | 93/93 |  |
-| 004 | [氷血のコルセスカ](https://ncode.syosetu.com/n9073ca/4/) | [22](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859419475664)–[26](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859419625754)（5話） | 276/277 | 改稿削除1 |
-| 005 | [転生者ゼノグラシア](https://ncode.syosetu.com/n9073ca/5/) | [27](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859419675527)–[34](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859419905288)（8話） | 140/140 |  |
+| 004 | [クォーツウォッチの『上』](https://ncode.syosetu.com/n9073ca/4/) | [22](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859419475664)–[26](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859419625754)（5話） | 276/277 | 改稿削除1 |
+| 005 | [ゼノグラシアゼノグラシア](https://ncode.syosetu.com/n9073ca/5/) | [27](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859419675527)–[34](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859419905288)（8話） | 140/140 |  |
 | 006 | [悪夢](https://ncode.syosetu.com/n9073ca/6/) | [35](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859419930509) | 37/37 |  |
 | 007 | [魔女と狂犬](https://ncode.syosetu.com/n9073ca/7/) | [36](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420021326)–[40](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420131037)（5話） | 281/281 |  |
 | 008 | [六淫操手](https://ncode.syosetu.com/n9073ca/8/) | [41](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420168616)–[44](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420276366)（4話） | 125/126 | 改稿削除1 |
-| 009 | [王獣カッサリオ](https://ncode.syosetu.com/n9073ca/9/) | [45](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420294647)–[48](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420456106)（4話） | 125/125 |  |
+| 009 | [霊媒獣カッサリオ](https://ncode.syosetu.com/n9073ca/9/) | [45](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420294647)–[48](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420456106)（4話） | 125/125 |  |
 | 010 | [がらくたなんかじゃない](https://ncode.syosetu.com/n9073ca/10/) | [48](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420456106)–[52](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420549338)（5話） | 142/142 |  |
 | 011 | [炎は黄金を証明する](https://ncode.syosetu.com/n9073ca/11/) | [38](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420057455)、[53](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420560584)、[54](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420586533)、[55](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420600184) | 99/99 |  |
 | 012 | [その視座の名はゆらぎの神話](https://ncode.syosetu.com/n9073ca/12/) | [56](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420613277)–[61](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927859420772005)（6話） | 153/153 |  |
@@ -108,9 +108,9 @@ l2_run: 20261029T0843_c8bb
 | 024 | [レジンキャストエピゴネン](https://ncode.syosetu.com/n9073ca/24/) | [106](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860111893795)–[110](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860112138083)（5話） | 255/261 | 改稿削除1 検証不可1 |
 | 025 | [参照のアリュジョン](https://ncode.syosetu.com/n9073ca/25/) | [111](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860112160471)–[113](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860112358553)（3話） | 90/90 |  |
 | 026 | [サイバネティクスとオカルティズムの幸福なマリアジュ](https://ncode.syosetu.com/n9073ca/26/) | [114](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860112459891)–[117](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860112557913)（4話） | 155/155 |  |
-| 027 | [その名はアズーリアリア](https://ncode.syosetu.com/n9073ca/27/) | [118](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860112597335) | 92/92 |  |
+| 027 | [その名はアズリア](https://ncode.syosetu.com/n9073ca/27/) | [118](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860112597335) | 92/92 |  |
 | 028 | [もし狂犬が戦国乱世に転生したら](https://ncode.syosetu.com/n9073ca/28/) | — | 0/103 | なろう専用幕間87 |
-| 029 | [どうして空は青いの?](https://ncode.syosetu.com/n9073ca/29/) | [119](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860284382922) | 92/93 |  |
+| 029 | [どうしてアカシャは青いの?](https://ncode.syosetu.com/n9073ca/29/) | [119](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860284382922) | 92/93 |  |
 | 030 | [未来回想、あるいはこれからのあらすじ](https://ncode.syosetu.com/n9073ca/30/) | [120](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860311093698) | 66/67 |  |
 | 031 | [もうひとつの左手](https://ncode.syosetu.com/n9073ca/31/) | [121](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860311222661)–[122](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860311331923)（2話） | 202/210 |  |
 | 032 | [もうひとつの悪夢](https://ncode.syosetu.com/n9073ca/32/) | [123](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860311491673)–[124](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860311505747)（2話） | 79/79 |  |
@@ -119,14 +119,14 @@ l2_run: 20261029T0843_c8bb
 | 035 | [天の鴉と月の兎](https://ncode.syosetu.com/n9073ca/35/) | [132](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860726856658)–[139](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860727295457)（8話） | 252/255 |  |
 | 036 | [呪文師の弟子前編](https://ncode.syosetu.com/n9073ca/36/) | [140](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860727415461)–[141](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860727428897)（2話） | 116/117 |  |
 | 037 | [魔女と英雄](https://ncode.syosetu.com/n9073ca/37/) | [142](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860728490873)–[148](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860728722872)（7話） | 223/232 | 改稿削除2 |
-| 038 | [言理の妖精語りて曰く](https://ncode.syosetu.com/n9073ca/38/) | [149](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927861376512652)–[159](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554469046309)（11話） | 354/357 | 改稿削除1 |
+| 038 | [エル・ア・フィリス語りて曰く](https://ncode.syosetu.com/n9073ca/38/) | [149](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927861376512652)–[159](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554469046309)（11話） | 354/357 | 改稿削除1 |
 | 039 | [幻想再起のイリュジョニスト](https://ncode.syosetu.com/n9073ca/39/) | [148](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860728722872)、[149](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927861376512652)、[160](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554469212174)、[161](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554469283061) | 96/98 | 改稿削除1 |
 | 040 | [フォビットの魔獣](https://ncode.syosetu.com/n9073ca/40/) | [162](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637267696) | 89/93 |  |
 | 041 | [色無しマリ](https://ncode.syosetu.com/n9073ca/41/) | [163](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637278900) | 106/106 |  |
-| 042 | [松明の騎士](https://ncode.syosetu.com/n9073ca/42/) | — | 85/97 | 幕間短縮6 |
+| 042 | [ソルダ](https://ncode.syosetu.com/n9073ca/42/) | — | 85/97 | 幕間短縮6 |
 | 043 | [再びの未来回想、そして来るべき次回予告](https://ncode.syosetu.com/n9073ca/43/) | [167](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637323798)–[168](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637333784)（2話） | 113/114 |  |
 | 044 | [トライアンドエラ](https://ncode.syosetu.com/n9073ca/44/) | [169](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637348194) | 86/87 |  |
-| 045 | [青の空、黒の空白](https://ncode.syosetu.com/n9073ca/45/) | [170](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637361132)–[171](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637371452)（2話） | 120/121 | 改稿削除1 |
+| 045 | [青のアカシャ、黒のアカシャ白](https://ncode.syosetu.com/n9073ca/45/) | [170](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637361132)–[171](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637371452)（2話） | 120/121 | 改稿削除1 |
 | 046 | [チョコレトリリ](https://ncode.syosetu.com/n9073ca/46/) | [172](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554950976742)–[173](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554951112246)（2話） | 151/153 |  |
 | 047 | [隠れた変数呪力](https://ncode.syosetu.com/n9073ca/47/) | [174](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554980836607)–[175](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554981037278)（2話） | 132/134 | 改稿削除1 |
 | 048 | [この戦いが終わったら](https://ncode.syosetu.com/n9073ca/48/) | [175](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554981037278)–[176](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554981096524)（2話） | 83/84 | 改稿削除1 |
@@ -139,11 +139,11 @@ l2_run: 20261029T0843_c8bb
 | 055 | [祈りの価値](https://ncode.syosetu.com/n9073ca/55/) | [186](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555192611982)–[187](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555193240978)（2話） | 143/144 |  |
 | 056 | [言震ワドクェイク](https://ncode.syosetu.com/n9073ca/56/) | — | 147/166 | 幕間短縮5 |
 | 057 | [激光レイジ](https://ncode.syosetu.com/n9073ca/57/) | [119](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860284382922)、[190](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555192863440)、[191](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555193084665) | 167/169 | 改稿削除1 章構造メタ1 |
-| 058 | [青空](https://ncode.syosetu.com/n9073ca/58/) | [192](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555193323185) | 134/134 |  |
+| 058 | [青アカシャ](https://ncode.syosetu.com/n9073ca/58/) | [192](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555193323185) | 134/134 |  |
 | 059 | [夢幻の果て](https://ncode.syosetu.com/n9073ca/59/) | [193](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555201895016)–[194](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555201930365)（2話） | 130/130 |  |
 | 060 | [呪文師の弟子後編](https://ncode.syosetu.com/n9073ca/60/) | [195](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555202120776)–[197](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555202148900)（3話） | 117/119 | 改稿削除1 |
 | 061 | [第五階層より第一階層へ](https://ncode.syosetu.com/n9073ca/61/) | [124](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860311505747)、[198](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555202270882) | 107/110 |  |
-| 062 | [シナモリアキラくんより](https://ncode.syosetu.com/n9073ca/62/) | [199](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555202424805)–[200](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555202438096)（2話） | 97/97 |  |
+| 062 | [俺より](https://ncode.syosetu.com/n9073ca/62/) | [199](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555202424805)–[200](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555202438096)（2話） | 97/97 |  |
 | 063 | [睥睨するエクリオベレッカ](https://ncode.syosetu.com/n9073ca/63/) | [201](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555202825989)–[202](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556390970460)（2話） | 134/135 |  |
 | 064 | [十三階段](https://ncode.syosetu.com/n9073ca/64/) | [203](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556391181479)–[205](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556391321780)（3話） | 164/175 |  |
 | 065 | [オンステジ](https://ncode.syosetu.com/n9073ca/65/) | [119](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860284382922)、[198](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555202270882)、[205](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556391321780)、[206](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622317585)、[207](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622358630)、[208](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622364757) | 264/281 | 改稿削除2 |
@@ -151,36 +151,36 @@ l2_run: 20261029T0843_c8bb
 | 067 | [影に沈み、振り返らずに去っていく](https://ncode.syosetu.com/n9073ca/67/) | [205](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556391321780)、[210](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622484544)、[212](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622499947) | 149/160 |  |
 | 068 | [言葉は断ち切られ、絶望は感染する。そして――](https://ncode.syosetu.com/n9073ca/68/) | [142](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860728490873)、[182](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555192015489)、[183](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555192091815)、[198](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555202270882)、[205](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556391321780)、[207](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622358630)、[213](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622543699) | 208/217 | 改稿削除8 |
 | 069 | [この夜が明けるまであと百万の祈り](https://ncode.syosetu.com/n9073ca/69/) | [214](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622606787) | 100/100 |  |
-| 070 | [チョコレートリリーの子供たち](https://ncode.syosetu.com/n9073ca/70/) | [157](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554468898438)、[215](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622667376)、[216](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622715858)、[217](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622763250) | 109/109 |  |
+| 070 | [チョコレートリリー](https://ncode.syosetu.com/n9073ca/70/) | [157](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554468898438)、[215](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622667376)、[216](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622715858)、[217](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622763250) | 109/109 |  |
 | 071 | [その名はサイバカラテ](https://ncode.syosetu.com/n9073ca/71/) | [218](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622827818)–[219](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622861077)（2話） | 186/193 |  |
 | 072 | [それは、世界がこんなにも光に満ち溢れているから](https://ncode.syosetu.com/n9073ca/72/) | [220](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622921145)–[222](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556622961348)（3話） | 157/161 | 改稿削除1 |
-| 073 | [アズールなる青空に](https://ncode.syosetu.com/n9073ca/73/) | [223](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556623063525)–[225](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556623201280)（3話） | 250/255 |  |
+| 073 | [アズールなる青アカシャに](https://ncode.syosetu.com/n9073ca/73/) | [223](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556623063525)–[225](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556623201280)（3話） | 250/255 |  |
 | 074 | [特権者の英雄症候群、さもなくば――](https://ncode.syosetu.com/n9073ca/74/) | [129](https://kakuyomu.jp/works/16816927859268545348/episodes/16816927860726615931)、[226](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556623273459)、[227](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556623298787)、[228](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556623380713) | 161/161 |  |
-| 075 | [第九フィリス](https://ncode.syosetu.com/n9073ca/75/) | [229](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556623425945) | 203/204 |  |
-| 076 | [黒血のハルベルトベルト](https://ncode.syosetu.com/n9073ca/76/) | — | 57/65 | 幕間短縮5 |
-| 077 | [死人の楽園](https://ncode.syosetu.com/n9073ca/77/) | [231](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655650963993) | 410/411 |  |
+| 075 | [第九魔将](https://ncode.syosetu.com/n9073ca/75/) | [229](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556623425945) | 203/204 |  |
+| 076 | [黒血のお姉様](https://ncode.syosetu.com/n9073ca/76/) | — | 57/65 | 幕間短縮5 |
+| 077 | [ヒュールサス](https://ncode.syosetu.com/n9073ca/77/) | [231](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655650963993) | 410/411 |  |
 | 078 | [道場](https://ncode.syosetu.com/n9073ca/78/) | [232](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655670570093) | 169/169 |  |
 | 079 | [風の吹く丘](https://ncode.syosetu.com/n9073ca/79/) | [233](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655670607535) | 99/103 | 改稿削除1 |
-| 080 | [王国](https://ncode.syosetu.com/n9073ca/80/) | [234](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655670646927) | 82/83 |  |
+| 080 | [霊媒国](https://ncode.syosetu.com/n9073ca/80/) | [234](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655670646927) | 82/83 |  |
 | 081 | [ダモクレスの剣](https://ncode.syosetu.com/n9073ca/81/) | [235](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655670761687)–[236](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655670816610)（2話） | 173/173 |  |
 | 082 | [工場](https://ncode.syosetu.com/n9073ca/82/) | [237](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655670979446)–[238](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655670992551)（2話） | 125/126 | 改稿削除1 |
 | 083 | [白骨迷宮](https://ncode.syosetu.com/n9073ca/83/) | [239](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655671147193)–[240](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655671262114)（2話） | 105/105 |  |
 | 084 | [花街](https://ncode.syosetu.com/n9073ca/84/) | [241](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655671296987) | 102/104 |  |
 | 085 | [チョコレートリリー館](https://ncode.syosetu.com/n9073ca/85/) | [242](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655671385527)–[243](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655671405371)（2話） | 62/62 |  |
 | 086 | [ステュクス](https://ncode.syosetu.com/n9073ca/86/) | [244](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655671528624)–[246](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655671691507)（3話） | 172/172 |  |
-| 087 | [空の玉座](https://ncode.syosetu.com/n9073ca/87/) | [247](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655671797238) | 97/97 |  |
+| 087 | [アカシャの玉座](https://ncode.syosetu.com/n9073ca/87/) | [247](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655671797238) | 97/97 |  |
 | 088 | [二人の距離](https://ncode.syosetu.com/n9073ca/88/) | [248](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655672109962) | 96/98 |  |
-| 089 | [星見の塔トナメント前編](https://ncode.syosetu.com/n9073ca/89/) | [231](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655650963993)、[232](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655670570093)、[249](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656441979542)、[250](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656441990694)、[251](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442004676)、[252](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442016619) | 279/285 |  |
+| 089 | [星見のファルストナメント前編](https://ncode.syosetu.com/n9073ca/89/) | [231](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655650963993)、[232](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655670570093)、[249](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656441979542)、[250](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656441990694)、[251](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442004676)、[252](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442016619) | 279/285 |  |
 | 090 | [TCG](https://ncode.syosetu.com/n9073ca/90/) | [253](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442035853)–[258](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442096722)（6話） | 193/193 |  |
 | 091 | [不在の二人](https://ncode.syosetu.com/n9073ca/91/) | [259](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442593365)–[260](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442607674)（2話） | 105/105 |  |
-| 092 | [テスモポリス](https://ncode.syosetu.com/n9073ca/92/) | [260](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442607674)–[261](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442902819)（2話） | 43/43 |  |
+| 092 | [フェロニア](https://ncode.syosetu.com/n9073ca/92/) | [260](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442607674)–[261](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442902819)（2話） | 43/43 |  |
 | 093 | [妄想妖精のプロンプタ](https://ncode.syosetu.com/n9073ca/93/) | [261](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442902819)–[262](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442914345)（2話） | 103/103 |  |
 | 094 | [境界に立つ者](https://ncode.syosetu.com/n9073ca/94/) | [263](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442928357) | 73/73 |  |
 | 095 | [過去から過去へ、劇から劇へ](https://ncode.syosetu.com/n9073ca/95/) | [264](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442936532) | 69/69 |  |
 | 096 | [病的グランギニョル](https://ncode.syosetu.com/n9073ca/96/) | [265](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657291173845)–[267](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657291517627)（3話） | 98/98 |  |
 | 097 | [微睡む太陽と月のパペットリ](https://ncode.syosetu.com/n9073ca/97/) | [268](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657291742631)–[270](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657291819147)（3話） | 113/114 |  |
 | 098 | [昔々あるところに](https://ncode.syosetu.com/n9073ca/98/) | [271](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657292048246) | 67/67 |  |
-| 099 | [正邪の双竜王](https://ncode.syosetu.com/n9073ca/99/) | [272](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657292179737) | 92/92 |  |
+| 099 | [正邪の双竜霊媒](https://ncode.syosetu.com/n9073ca/99/) | [272](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657292179737) | 92/92 |  |
 | 100 | [外なる法](https://ncode.syosetu.com/n9073ca/100/) | [265](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657291173845)、[273](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657292681847)、[274](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657292694693) | 107/107 |  |
 | 101 | [雷が鳴っている間は](https://ncode.syosetu.com/n9073ca/101/) | [275](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657292642524) | 82/83 |  |
 | 102 | [冥道の番犬](https://ncode.syosetu.com/n9073ca/102/) | [276](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657894186248) | 109/109 |  |
@@ -199,9 +199,9 @@ l2_run: 20261029T0843_c8bb
 | 115 | [生と死トライアンドエラ](https://ncode.syosetu.com/n9073ca/115/) | [297](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658137965992)–[303](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658138055592)（7話） | 118/118 |  |
 | 116 | [9-∞必ず貴方を迎えにいくから](https://ncode.syosetu.com/n9073ca/116/) | [304](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658138071188)–[306](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658138219683)（3話） | 99/99 |  |
 | 117 | [トリシュラカムバック](https://ncode.syosetu.com/n9073ca/117/) | [307](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658138344720)–[308](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658138376817)（2話） | 141/147 |  |
-| 118 | [女王と錬鉄者](https://ncode.syosetu.com/n9073ca/118/) | [309](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658159387747)–[311](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658159564774)（3話） | 129/134 | 改稿削除3 |
-| 119 | [星見の塔の大比武さいごの戦い](https://ncode.syosetu.com/n9073ca/119/) | [268](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657291742631)、[312](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658159777541)、[313](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658159910060)、[314](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658160015920) | 177/181 | 改稿削除2 |
-| 120 | [死人の楽園の/断章取義のアリュジョニスト](https://ncode.syosetu.com/n9073ca/120/) | [315](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658160182943)–[317](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658160362397)（3話） | 106/106 |  |
+| 118 | [ニケとトバルカイン](https://ncode.syosetu.com/n9073ca/118/) | [309](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658159387747)–[311](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658159564774)（3話） | 129/134 | 改稿削除3 |
+| 119 | [星見のファルスの大比武さいごの戦い](https://ncode.syosetu.com/n9073ca/119/) | [268](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657291742631)、[312](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658159777541)、[313](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658159910060)、[314](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658160015920) | 177/181 | 改稿削除2 |
+| 120 | [ヒュールサスの/断章取義のアリュジョニスト](https://ncode.syosetu.com/n9073ca/120/) | [315](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658160182943)–[317](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658160362397)（3話） | 106/106 |  |
 | 121 | [未来転生](https://ncode.syosetu.com/n9073ca/121/) | [318](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658160426539) | 94/94 |  |
 | 122 | [TH](https://ncode.syosetu.com/n9073ca/122/) | [319](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330660528458028) | 101/102 |  |
 | 123 | [一時の平穏](https://ncode.syosetu.com/n9073ca/123/) | [271](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657292048246)、[320](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330660528557008)、[321](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330660528668581) | 85/85 |  |
@@ -224,24 +224,24 @@ l2_run: 20261029T0843_c8bb
 | 140 | [騒乱](https://ncode.syosetu.com/n9073ca/140/) | [348](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661523976930)–[349](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661524043142)（2話） | 136/137 |  |
 | 141 | [醜い野獣](https://ncode.syosetu.com/n9073ca/141/) | [247](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655671797238)、[350](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661524224964)、[351](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661524425609)、[352](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661524439281) | 114/119 |  |
 | 142 | [業](https://ncode.syosetu.com/n9073ca/142/) | [353](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661524592673)–[354](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661524694712)（2話） | 98/99 |  |
-| 143 | [王と物乞い](https://ncode.syosetu.com/n9073ca/143/) | [316](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658160303562)、[355](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661524963863)、[356](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661525035336)、[357](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661525065213) | 87/88 |  |
+| 143 | [霊媒と物乞い](https://ncode.syosetu.com/n9073ca/143/) | [316](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658160303562)、[355](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661524963863)、[356](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661525035336)、[357](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661525065213) | 87/88 |  |
 | 144 | [祈りは流星に似て](https://ncode.syosetu.com/n9073ca/144/) | [358](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661526161536)–[359](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661526302605)（2話） | 137/137 |  |
-| 145 | [ガロアンディアンの真竜王](https://ncode.syosetu.com/n9073ca/145/) | [360](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662817326044)–[361](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662817355025)（2話） | 131/131 |  |
-| 146 | [チョコレトリリのスイツ事件簿S2C.14アズーリアチョコに挑め!](https://ncode.syosetu.com/n9073ca/146/) | [362](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662817418593) | 119/120 |  |
-| 147 | [死人の楽園の父](https://ncode.syosetu.com/n9073ca/147/) | [272](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657292179737)、[281](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658133202167)、[363](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662911809735)、[364](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662911870510)、[365](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662911902353) | 118/119 | 幕間題1 |
-| 148 | [オルヴァ王と十二人のシナモリアキラくん1](https://ncode.syosetu.com/n9073ca/148/) | [366](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662911973627) | 41/42 |  |
-| 149 | [オルヴァ王と十二人のシナモリアキラくん2](https://ncode.syosetu.com/n9073ca/149/) | [367](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662912068890)–[368](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662912081515)（2話） | 111/122 |  |
-| 150 | [オルヴァ王と十二人のシナモリアキラくん3](https://ncode.syosetu.com/n9073ca/150/) | [369](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663293167561)–[370](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663293180102)（2話） | 121/121 |  |
-| 151 | [オルヴァ王と十二人のシナモリアキラくん4](https://ncode.syosetu.com/n9073ca/151/) | [371](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663293281683) | 98/99 | 改稿削除1 |
-| 152 | [オルヴァ王と十二人のシナモリアキラくん5](https://ncode.syosetu.com/n9073ca/152/) | [372](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663293403397)–[373](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663293435047)（2話） | 94/94 |  |
-| 153 | [オルヴァ王と十二人のシナモリアキラくん6](https://ncode.syosetu.com/n9073ca/153/) | [374](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663521694193)–[377](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663522262131)（4話） | 167/170 | 改稿削除3 |
-| 154 | [オルヴァ王と十二人のシナモリアキラくん7](https://ncode.syosetu.com/n9073ca/154/) | [378](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658272034)–[379](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658292044)（2話） | 121/122 |  |
-| 155 | [オルヴァ王と十二人のシナモリアキラくん8](https://ncode.syosetu.com/n9073ca/155/) | [380](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658396764)–[381](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658424369)（2話） | 98/99 |  |
-| 156 | [オルヴァ王と十二人のシナモリアキラくん9](https://ncode.syosetu.com/n9073ca/156/) | [342](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661523056573)、[382](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658492135) | 156/156 |  |
-| 157 | [オルヴァ王と十二人のシナモリアキラくん10](https://ncode.syosetu.com/n9073ca/157/) | [383](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658573298)–[384](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658585531)（2話） | 125/125 |  |
-| 158 | [オルヴァ王と十二人のシナモリアキラくん11](https://ncode.syosetu.com/n9073ca/158/) | [385](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658696522)–[388](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658891917)（4話） | 136/136 |  |
-| 159 | [オルヴァ王と十二人のシナモリアキラくん12](https://ncode.syosetu.com/n9073ca/159/) | [291](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658136637410)、[379](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658292044)、[389](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663659016980)、[390](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663659063914)、[391](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663659157507) | 165/166 |  |
-| 160 | [オルヴァ王と十二人のシナモリアキラくん0](https://ncode.syosetu.com/n9073ca/160/) | [392](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663659578842)–[393](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663659595761)（2話） | 84/84 |  |
+| 145 | [ガロアンディアンの真竜霊媒](https://ncode.syosetu.com/n9073ca/145/) | [360](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662817326044)–[361](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662817355025)（2話） | 131/131 |  |
+| 146 | [チョコレトリリのスイツ事件簿S2C.14アズチョコに挑め!](https://ncode.syosetu.com/n9073ca/146/) | [362](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662817418593) | 119/120 |  |
+| 147 | [ヒュールサスの父](https://ncode.syosetu.com/n9073ca/147/) | [272](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330657292179737)、[281](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658133202167)、[363](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662911809735)、[364](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662911870510)、[365](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662911902353) | 118/119 | 幕間題1 |
+| 148 | [俺霊媒と十二人の俺1](https://ncode.syosetu.com/n9073ca/148/) | [366](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662911973627) | 41/42 |  |
+| 149 | [俺霊媒と十二人の俺2](https://ncode.syosetu.com/n9073ca/149/) | [367](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662912068890)–[368](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662912081515)（2話） | 111/122 |  |
+| 150 | [俺霊媒と十二人の俺3](https://ncode.syosetu.com/n9073ca/150/) | [369](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663293167561)–[370](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663293180102)（2話） | 121/121 |  |
+| 151 | [俺霊媒と十二人の俺4](https://ncode.syosetu.com/n9073ca/151/) | [371](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663293281683) | 98/99 | 改稿削除1 |
+| 152 | [俺霊媒と十二人の俺5](https://ncode.syosetu.com/n9073ca/152/) | [372](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663293403397)–[373](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663293435047)（2話） | 94/94 |  |
+| 153 | [俺霊媒と十二人の俺6](https://ncode.syosetu.com/n9073ca/153/) | [374](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663521694193)–[377](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663522262131)（4話） | 167/170 | 改稿削除3 |
+| 154 | [俺霊媒と十二人の俺7](https://ncode.syosetu.com/n9073ca/154/) | [378](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658272034)–[379](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658292044)（2話） | 121/122 |  |
+| 155 | [俺霊媒と十二人の俺8](https://ncode.syosetu.com/n9073ca/155/) | [380](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658396764)–[381](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658424369)（2話） | 98/99 |  |
+| 156 | [俺霊媒と十二人の俺9](https://ncode.syosetu.com/n9073ca/156/) | [342](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330661523056573)、[382](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658492135) | 156/156 |  |
+| 157 | [俺霊媒と十二人の俺10](https://ncode.syosetu.com/n9073ca/157/) | [383](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658573298)–[384](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658585531)（2話） | 125/125 |  |
+| 158 | [俺霊媒と十二人の俺11](https://ncode.syosetu.com/n9073ca/158/) | [385](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658696522)–[388](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658891917)（4話） | 136/136 |  |
+| 159 | [俺霊媒と十二人の俺12](https://ncode.syosetu.com/n9073ca/159/) | [291](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330658136637410)、[379](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663658292044)、[389](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663659016980)、[390](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663659063914)、[391](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663659157507) | 165/166 |  |
+| 160 | [俺霊媒と十二人の俺0](https://ncode.syosetu.com/n9073ca/160/) | [392](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663659578842)–[393](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330663659595761)（2話） | 84/84 |  |
 | 161 | [狂姫乱舞](https://ncode.syosetu.com/n9073ca/161/) | [363](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330662911809735)、[394](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665313417217) | 91/91 |  |
 | 162 | [カクリ世の宴](https://ncode.syosetu.com/n9073ca/162/) | [395](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665321644112) | 77/77 |  |
 | 163 | [檻の感触だきしめて](https://ncode.syosetu.com/n9073ca/163/) | [396](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665349567493)、[397](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665349595821)、[404](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350241182) | 88/88 |  |
@@ -251,22 +251,22 @@ l2_run: 20261029T0843_c8bb
 | 167 | [血も凍りつく眠りの中で](https://ncode.syosetu.com/n9073ca/167/) | [396](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665349567493)、[401](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350006555)、[402](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350032334)、[404](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350241182) | 124/125 | 改稿削除1 |
 | 168 | [燃え上がる夢の終わりに](https://ncode.syosetu.com/n9073ca/168/) | [403](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350127335) | 125/128 |  |
 | 169 | [目指すは奈落、一直線に](https://ncode.syosetu.com/n9073ca/169/) | [396](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665349567493)、[401](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350006555)、[404](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350241182) | 125/125 |  |
-| 170 | [栄えある女王の凱旋](https://ncode.syosetu.com/n9073ca/170/) | [405](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350412760)–[406](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350474731)（2話） | 98/98 |  |
+| 170 | [栄えあるニケの凱旋](https://ncode.syosetu.com/n9073ca/170/) | [405](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350412760)–[406](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350474731)（2話） | 98/98 |  |
 | 171 | [甘い果実は腐り堕ちて](https://ncode.syosetu.com/n9073ca/171/) | [407](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350539121) | 75/75 |  |
 | 172 | [メスブタノパン/ブタノマンジュウ](https://ncode.syosetu.com/n9073ca/172/) | [408](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350721612)–[409](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350740539)（2話） | 140/141 |  |
 | 173 | [裸の自分、服を着た誰か](https://ncode.syosetu.com/n9073ca/173/) | [410](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350908553)–[411](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665350932502)（2話） | 72/72 |  |
-| 174 | [あなたは理想の王子さま、カインの素敵な王子さま](https://ncode.syosetu.com/n9073ca/174/) | [412](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665351114053) | 173/175 |  |
+| 174 | [あなたは理想の霊媒子さま、カインの素敵な霊媒子さま](https://ncode.syosetu.com/n9073ca/174/) | [412](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665351114053) | 173/175 |  |
 | 175 | [カインたちを始めましょう](https://ncode.syosetu.com/n9073ca/175/) | [319](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330660528458028)、[413](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665351330703)、[414](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665351539098)、[415](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665351573516) | 178/179 |  |
 | 176 | [C](https://ncode.syosetu.com/n9073ca/176/) | [416](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665352002495) | 112/112 |  |
 | 177 | [チョコレトリリのスイツ事件簿2第14話デツミツナッツ](https://ncode.syosetu.com/n9073ca/177/) | [464](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373805089)–[465](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373839433)（2話） | 121/121 |  |
 | 178 | [罪貨の略奪者](https://ncode.syosetu.com/n9073ca/178/) | [417](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665352100454) | 98/99 |  |
 | 179 | [狂姫と狂犬](https://ncode.syosetu.com/n9073ca/179/) | [418](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665352376743)–[419](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665352390267)（2話） | 108/108 |  |
 | 180 | [夢に向かって](https://ncode.syosetu.com/n9073ca/180/) | [420](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665352678263)–[421](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665352767555)（2話） | 200/201 | 改稿削除1 |
-| 181 | [女王の器](https://ncode.syosetu.com/n9073ca/181/) | [422](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665352904180)–[423](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665352962966)（2話） | 139/139 |  |
+| 181 | [ニケの器](https://ncode.syosetu.com/n9073ca/181/) | [422](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665352904180)–[423](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665352962966)（2話） | 139/139 |  |
 | 182 | [猫の取り替え子ケットシ](https://ncode.syosetu.com/n9073ca/182/) | [424](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665353128717)–[425](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665353146439)（2話） | 110/111 |  |
 | 183 | [愛の切っ先](https://ncode.syosetu.com/n9073ca/183/) | [426](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665356945559)–[428](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665357004841)（3話） | 101/103 |  |
-| 184 | [第五階層のシナモリアキラくん](https://ncode.syosetu.com/n9073ca/184/) | [429](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665361456833)–[431](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665361528468)（3話） | 139/139 |  |
-| 185 | [夜空裂くキャスケット](https://ncode.syosetu.com/n9073ca/185/) | [432](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665362156210)–[434](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665362505840)（3話） | 102/103 |  |
+| 184 | [第五階層の俺](https://ncode.syosetu.com/n9073ca/184/) | [429](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665361456833)–[431](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665361528468)（3話） | 139/139 |  |
+| 185 | [夜アカシャ裂くキャスケット](https://ncode.syosetu.com/n9073ca/185/) | [432](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665362156210)–[434](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665362505840)（3話） | 102/103 |  |
 | 186 | [序TOIHM](https://ncode.syosetu.com/n9073ca/186/) | [260](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330656442607674)、[417](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665352100454)、[435](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665365061873)、[436](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665365094989) | 146/146 |  |
 | 187 | [破TWG](https://ncode.syosetu.com/n9073ca/187/) | [319](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330660528458028)、[437](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665368954513) | 81/81 |  |
 | 188 | [急ETF](https://ncode.syosetu.com/n9073ca/188/) | [438](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665369115792)–[439](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665369126469)（2話） | 111/111 |  |
@@ -276,7 +276,7 @@ l2_run: 20261029T0843_c8bb
 | 192 | [除UTL](https://ncode.syosetu.com/n9073ca/192/) | [446](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665369901640)–[448](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665369975099)（3話） | 108/110 |  |
 | 193 | [端A](https://ncode.syosetu.com/n9073ca/193/) | [449](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665372292896)–[451](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665372483227)（3話） | 150/150 |  |
 | 194 | [窮PMFOOYC](https://ncode.syosetu.com/n9073ca/194/) | [231](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330655650963993)、[452](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665372694271)、[453](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665372723224)、[454](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665372892450)、[455](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665372983203)、[456](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373019455) | 171/175 |  |
-| 195 | [シナモリアキラくんはここにいる](https://ncode.syosetu.com/n9073ca/195/) | [319](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330660528458028)、[457](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373240659)、[458](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373251548)、[459](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373362717)、[460](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373379974) | 158/159 |  |
+| 195 | [俺はここにいる](https://ncode.syosetu.com/n9073ca/195/) | [319](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330660528458028)、[457](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373240659)、[458](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373251548)、[459](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373362717)、[460](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373379974) | 158/159 |  |
 | 196 | [それは素朴で純粋な当たり前の](https://ncode.syosetu.com/n9073ca/196/) | [461](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373631719)–[463](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330665373664619)（3話） | 123/125 | 改稿削除1 |
 | 197 | [エレクトラには向いてない](https://ncode.syosetu.com/n9073ca/197/) | [466](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668909790342) | 64/64 |  |
 | 198 | [枯れ木激して死灰に至り、苗木人立ちて雲路を砕く](https://ncode.syosetu.com/n9073ca/198/) | [467](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668909867518)–[469](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668910048485)（3話） | 527/540 | 改稿削除2 |
@@ -294,7 +294,7 @@ l2_run: 20261029T0843_c8bb
 | 210 | [3黒蟲騎士団](https://ncode.syosetu.com/n9073ca/210/) | [493](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912062692)–[494](https://kakuyomu.jp/works/16816927859268545348/episodes/16818023212090476756)（2話） | 150/153 |  |
 | 211 | [4正しい神の殺し方](https://ncode.syosetu.com/n9073ca/211/) | [495](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912125949)–[496](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912165315)（2話） | 119/120 |  |
 | 212 | [正しい未来の選び方](https://ncode.syosetu.com/n9073ca/212/) | [497](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912272414)–[498](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912380198)（2話） | 154/154 |  |
-| 213 | [空使いは知らんぷり](https://ncode.syosetu.com/n9073ca/213/) | [499](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912457397) | 120/120 |  |
+| 213 | [アカシャ使いは知らんぷり](https://ncode.syosetu.com/n9073ca/213/) | [499](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912457397) | 120/120 |  |
 | 214 | [万獣祭開幕](https://ncode.syosetu.com/n9073ca/214/) | [485](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668911425959)、[500](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912546848) | 66/68 | 改稿削除2 |
 | 215 | [テキストベスサキット](https://ncode.syosetu.com/n9073ca/215/) | [501](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912583454) | 116/117 |  |
 | 216 | [オルゴの飛翔の呪文](https://ncode.syosetu.com/n9073ca/216/) | [478](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668910971672)、[502](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912595999) | 105/108 | 作者注記1 改稿削除1 |
@@ -320,12 +320,12 @@ l2_run: 20261029T0843_c8bb
 | 236 | [本選開幕](https://ncode.syosetu.com/n9073ca/236/) | [526](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913162604) | 108/111 |  |
 | 237 | [義憤について](https://ncode.syosetu.com/n9073ca/237/) | [527](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913190205)–[529](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913249611)（3話） | 140/141 |  |
 | 238 | [ハルベルトとして](https://ncode.syosetu.com/n9073ca/238/) | [486](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668911442615)、[530](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913309293)、[531](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913321752) | 85/87 |  |
-| 239 | [名無しの王争奪戦](https://ncode.syosetu.com/n9073ca/239/) | [474](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668910652024)、[532](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913361946)、[533](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913374943) | 213/215 |  |
-| 240 | [名無しの王争奪戦](https://ncode.syosetu.com/n9073ca/240/) | [533](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913374943)–[535](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913450207)（3話） | 113/120 | 改稿削除1 |
+| 239 | [名無しの霊媒争奪戦](https://ncode.syosetu.com/n9073ca/239/) | [474](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668910652024)、[532](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913361946)、[533](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913374943) | 213/215 |  |
+| 240 | [名無しの霊媒争奪戦](https://ncode.syosetu.com/n9073ca/240/) | [533](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913374943)–[535](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913450207)（3話） | 113/120 | 改稿削除1 |
 | 241 | [アルトイヴニルと五人の騎士](https://ncode.syosetu.com/n9073ca/241/) | [536](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913470923) | 97/97 |  |
 | 242 | [アルトイヴニルと五人の騎士](https://ncode.syosetu.com/n9073ca/242/) | [469](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668910048485)、[537](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913512152)、[538](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913530159) | 101/102 |  |
 | 243 | [アルトイヴニルと五人の騎士](https://ncode.syosetu.com/n9073ca/243/) | [533](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913374943)、[539](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913544692) | 170/173 | 改稿削除1 |
-| 244 | [名無しの王の行方](https://ncode.syosetu.com/n9073ca/244/) | [540](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913556124) | 97/98 |  |
+| 244 | [名無しの霊媒の行方](https://ncode.syosetu.com/n9073ca/244/) | [540](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913556124) | 97/98 |  |
 | 245 | [ユディア対チリアット](https://ncode.syosetu.com/n9073ca/245/) | [541](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913569046) | 86/87 |  |
 | 246 | [ユディア対チリアット](https://ncode.syosetu.com/n9073ca/246/) | [468](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668910033188)、[507](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912681666)、[541](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913569046)、[542](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913578617) | 195/207 | 付録2 改稿削除5 |
 | 247 | [ユディア対チリアット](https://ncode.syosetu.com/n9073ca/247/) | [505](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912661266)、[543](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913589870) | 76/77 |  |
@@ -334,7 +334,7 @@ l2_run: 20261029T0843_c8bb
 | 250 | [レジェンド対モレツタボババア](https://ncode.syosetu.com/n9073ca/250/) | [501](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668912583454)、[546](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913620614) | 95/95 |  |
 | 251 | [暴走無人機夜路四駆デッドヒト](https://ncode.syosetu.com/n9073ca/251/) | [547](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913631262) | 111/111 |  |
 | 252 | [槍と翼](https://ncode.syosetu.com/n9073ca/252/) | [548](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913641255) | 194/195 |  |
-| 253 | [空に架かる虹](https://ncode.syosetu.com/n9073ca/253/) | [549](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913651913) | 84/84 |  |
+| 253 | [アカシャに架かる虹](https://ncode.syosetu.com/n9073ca/253/) | [549](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913651913) | 84/84 |  |
 | 254 | [新時代の風](https://ncode.syosetu.com/n9073ca/254/) | [550](https://kakuyomu.jp/works/16816927859268545348/episodes/16817330668913663503) | 83/83 |  |
 | 255 | [ピットイン](https://ncode.syosetu.com/n9073ca/255/) | [551](https://kakuyomu.jp/works/16816927859268545348/episodes/16818093073744018556) | 76/77 |  |
 | 256 | [同病相憎む](https://ncode.syosetu.com/n9073ca/256/) | [552](https://kakuyomu.jp/works/16816927859268545348/episodes/16818093073744052530) | 83/86 |  |
@@ -359,12 +359,12 @@ l2_run: 20261029T0843_c8bb
 
 | カクヨム | 章題 | 公開 | 段落 | 解析 |
 |---|---|---|---|---|
-| [164](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637292202) | 3-43　松明の騎士① | 2022-05-18 | 227 | 未着手 |
-| [165](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637302344) | 3-44　松明の騎士② | 2022-05-19 | 197 | 未着手 |
-| [166](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637313387) | 3-45　松明の騎士③ | 2022-05-20 | 176 | 未着手 |
+| [164](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637292202) | 3-43　ソルダ① | 2022-05-18 | 227 | 未着手 |
+| [165](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637302344) | 3-44　ソルダ② | 2022-05-19 | 197 | 未着手 |
+| [166](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139554637313387) | 3-45　ソルダ③ | 2022-05-20 | 176 | 未着手 |
 | [188](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555192681166) | 3-64　言震《言震》① | 2022-06-11 | 293 | 未着手 |
 | [189](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139555192709122) | 3-65　言震《言震》② | 2022-06-12 | 216 | 未着手 |
-| [230](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556623473718) | エピローグ　黒血のハルベルトベルト | 2022-08-09 | 340 | 未着手 |
+| [230](https://kakuyomu.jp/works/16816927859268545348/episodes/16817139556623473718) | エピローグ　黒血のお姉様 | 2022-08-09 | 340 | 未着手 |
 | [569](https://kakuyomu.jp/works/16816927859268545348/episodes/16818093088060408832) | 5-70　リーナちゃんのお人形遊び① | 2025-04-07 | 365 | 未着手 |
 | [570](https://kakuyomu.jp/works/16816927859268545348/episodes/16818622172582177277) | 5-71　リーナちゃんのお人形遊び② | 2025-04-08 | 220 | 未着手 |
 | [571](https://kakuyomu.jp/works/16816927859268545348/episodes/16818622172582212966) | 5-72　リーナちゃんのお人形遊び③ | 2025-11-12 | 350 | 未着手 |
@@ -374,9 +374,9 @@ l2_run: 20261029T0843_c8bb
 | [575](https://kakuyomu.jp/works/16816927859268545348/episodes/822139839511170560) | 5-76　天には父、地には母 | 2025-11-17 | 174 | 未着手 |
 | [576](https://kakuyomu.jp/works/16816927859268545348/episodes/822139839653092492) | 5-77　横並び | 2025-11-18 | 161 | 未着手 |
 | [577](https://kakuyomu.jp/works/16816927859268545348/episodes/822139839590705036) | 5-78　特権の答案、抵抗の呪文 | 2025-11-18 | 183 | 未着手 |
-| [578](https://kakuyomu.jp/works/16816927859268545348/episodes/822139839455437598) | 5-79　天空叙述戦 | 2025-11-19 | 199 | 未着手 |
+| [578](https://kakuyomu.jp/works/16816927859268545348/episodes/822139839455437598) | 5-79　天アカシャ叙述戦 | 2025-11-19 | 199 | 未着手 |
 | [579](https://kakuyomu.jp/works/16816927859268545348/episodes/822139839722902529) | 5-80　名前を巡る攻防 | 2025-11-20 | 207 | 未着手 |
-| [580](https://kakuyomu.jp/works/16816927859268545348/episodes/822139839838402682) | 5-81　鍵の名はフローラとファウナ | 2025-11-21 | 172 | 未着手 |
+| [580](https://kakuyomu.jp/works/16816927859268545348/episodes/822139839838402682) | 5-81　鍵の名はフローラと動物想 | 2025-11-21 | 172 | 未着手 |
 | [581](https://kakuyomu.jp/works/16816927859268545348/episodes/822139839788298005) | 5-82　混線稲妻 | 2025-11-23 | 208 | 未着手 |
 | [582](https://kakuyomu.jp/works/16816927859268545348/episodes/822139840027364226) | 5-83　大いなる歴史を超えて | 2025-11-23 | 223 | 未着手 |
 | [583](https://kakuyomu.jp/works/16816927859268545348/episodes/822139840034345377) | 5-84　白百合の夢 | 2025-11-24 | 232 | 未着手 |
@@ -397,38 +397,47 @@ l2_run: 20261029T0843_c8bb
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アキラ | アキラくん | 高 | 16 |
-| 森 | 楽園 | 蓋然性高 | 5 |
-| アズ | アズーリア | 高 | 2 |
+| 王 | 霊媒 | 明言 | 23 |
+| シナモリアキラ | 俺 | 明言 | 16 |
+| オルヴァ | 俺 | 明言 | 13 |
+| 空 | アカシャ | 明言 | 10 |
+| 松明の騎士 | ソルダ | 明言 | 4 |
+| 死人の森 | ヒュールサス | 明言 | 3 |
+| 女王 | ニケ | 明言 | 3 |
 | 言語魔術 | 呪文 | 蓋然性高 | 2 |
-| 黒百合 | チョコレートリリー | 明言 | 2 |
-| ハル | ハルベルト | 高 | 2 |
+| ハルベルト | お姉様 | 明言 | 2 |
+| 塔 | ファルス | 明言 | 2 |
 | 私 | カイン | 蓋然性高 | 2 |
+| 森 | 楽園 | 蓋然性高 | 2 |
 | ワードクェイク | 言震 | 明言 | 2 |
+| 氷血 | クォーツウォッチ | 明言 | 1 |
+| コルセスカ | 『上』 | 明言 | 1 |
+| 転生者 | ゼノグラシア | 明言 | 1 |
 | 転生者殺し | キロン | 明言 | 1 |
+| 言理の妖精 | エル・ア・フィリス | 明言 | 1 |
 | オクルトゥム | 呪力 | 明言 | 1 |
+| 黒百合の子供たち | チョコレートリリー | 明言 | 1 |
 | 澄明 | アズール | 明言 | 1 |
-| 魔将 | フィリス | 明言 | 1 |
-| 冥道の幼姫 | テスモポリス | 明言 | 1 |
+| 黒百合 | チョコレートリリー | 明言 | 1 |
+| 冥道の幼姫 | フェロニア | 明言 | 1 |
 | 彼 | カイン | 蓋然性高 | 1 |
+| 錬鉄者 | トバルカイン | 明言 | 1 |
 | 六人の王さま | 六人の王 | 明言 | 1 |
 | チェンジリング | 猫の取り替え子 | 明言 | 1 |
 | 呪文の座 | ハルベルト | 蓋然性高 | 1 |
+| ファウナ | 動物想 | 明言 | 1 |
 | 融血 | 融血呪 | 蓋然性高 | 1 |
 
 
 注記（置換しない）:
 - 未置換（要検証）: 「洞窟」→ 楽園（要検証）
 - 未置換（要検証）: 「ユディ」→ エレクトラ（要検証）
-- 未置換（要検証）: 「シナモリアキラ」→ アキラくん（要検証）
-- 未置換（要検証）: 「王」→ カーティス（要検証）
 - 未置換（要検証）: 「六人」→ 六人の王（要検証）
-- 未置換（要検証）: 「言理の妖精」→ エル・ア・フィリス（要検証）
-- 未置換（要検証）: 「星見の塔」→ 塔（要検証）
-- 未置換（要検証）: 「転生者」→ ゼノグラシア（要検証）
+- 未置換（要検証）: 「アズ」→ アズーリア（要検証）
+- 未置換（要検証）: 「魔将」→ フィリス（要検証）
 - 未置換（要検証）: 「幼馴染」→ ロウ・カーイン（要検証）
 - 未置換（要検証）: 「名無し」→ チリアット（要検証）

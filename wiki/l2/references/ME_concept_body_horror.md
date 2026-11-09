@@ -9,7 +9,7 @@ canonical_name: "concept_body_horror"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_concept_body_horror.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5139_analogous_to_E_p54_concept_body_horror]] — 血管が黒く循環し、全身に呪紋のように見える描写は、肉体改造による身体的変質を「呪術文明の負の側面」として可視化しており、SFホラーにおける身体侵蝕（ボディ・ホラー）のモチーフと構造的に類似する。
+- [[A_ch5139_analogous_to_E_p54_concept_body_horror]] — 血管が黒く循環し、全身に呪紋のように見える描写は、肉体改造による身体的変質を「呪術文明の負の側面」として可視化しており、SFホラーにおける身体侵アタリア（ボディ・ホラー）のモチーフと構造的に類似する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| 蝕 | アタリア | 明言 | 1 |

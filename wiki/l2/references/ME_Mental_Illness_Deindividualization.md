@@ -9,7 +9,7 @@ canonical_name: "Mental_Illness_Deindividualization"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Mental_Illness_Deindividualization.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5481_alludes_to_E_ch5481_変身呪術_has_property_自我崩壊の危険_p34_Mental_Illness_Deindividualization]] — 変身呪術の濫用による「自分を見失う」危険性は、身体の変容がアイデンティティ（自我）の維持と不可分に結びついていることを示唆し、自己同一性の脆弱さを描いている。
+- [[A_ch5481_alludes_to_E_ch5481_変身呪術_has_property_自我崩壊の危険_p34_Mental_Illness_Deindividualization]] — 変身呪術の濫用による「自分を見失う」危険性は、身体の変容がアイデン彩域（自我）の維持と不可分に結びついていることを示唆し、自己同一性の脆弱さを描いている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
+| ティティ | 彩域 | 明言 | 1 |

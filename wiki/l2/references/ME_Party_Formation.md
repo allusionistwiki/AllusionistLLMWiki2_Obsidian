@@ -9,7 +9,7 @@ canonical_name: "Party_Formation"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Party_Formation.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,14 +20,14 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5186_analogous_to_E_p186_Party_Formation]] — 「チョコレートリリーの子供たち」という集団名の結成と呪力上昇は、MMORPGにおけるパーティ編成とバフ効果の概念に該当する。
+- [[A_ch5186_analogous_to_E_p186_Party_Formation]] — 「チョコレートリリー」という集団名の結成と呪力上昇は、MMORPGにおけるパーティ編成とバフ効果の概念に該当する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
-| 黒百合 | チョコレートリリー | 明言 | 1 |
+| 黒百合の子供たち | チョコレートリリー | 明言 | 1 |

@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5556_parodies_E_ch5556_レメス_other_大乱交アニマルランド_p17_animal_instinct_paradise.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,15 +27,16 @@ l2_run: 20261029T0843_c8bb
 > 個々の悪夢を乗り越えた先にあったのは更なる悪夢。
 すなわちレメスが創造した大乱交アニマルランド。（p17-p18）
 
-**審査（LLM 代替）**: 「大乱交アニマルランド」という造語が、文明的規範の脱却と原始的性愛・競争の世界観を皮肉に表現している点で引喩として妥当。
+**審査（LLM 代替）**: 「大乱交アニマルランド」という造語が、文明的規範の脱却と原始的性愛・競争の世界観を皮肉に表現している点でアリュージョンとして妥当。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 引喩 | アリュージョン | 明言 | 1 |
 
 
 注記（置換しない）:

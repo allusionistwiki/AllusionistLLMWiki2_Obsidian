@@ -9,7 +9,7 @@ canonical_name: "first_person_narrative_tropes"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_first_person_narrative_tropes.md
-l2_run: 20261029T0843_c8bb
+l2_run: 20261110T0603_v5agg
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,15 +20,16 @@ l2_run: 20261029T0843_c8bb
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5298_inverts_E_45_first_person_narrative_tropes]] — 一人称の「カイン」と三人称的な視点、および憑依状態の「俺」を区別し、「楽園」として距離感を制御することで、従来の転生ものにおける自我同一性の安定化を図っている。
+- [[A_ch5298_inverts_E_45_first_person_narrative_tropes]] — 一人称の「カイン」と三人称的な視点、および憑依状態の「トラック運転手」を区別し、「楽園」として距離感を制御することで、従来の転生ものにおける自我同一性の安定化を図っている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261029T0843_c8bb）
+## 名前正規化監査（L2 run 20261110T0603_v5agg）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アナロジー | アナロギア | 蓋然性高 | 1 |
 | 私 | カイン | 蓋然性高 | 1 |
+| 俺 | トラック運転手 | 明言 | 1 |
 | 浄界の神 | 楽園 | 明言 | 1 |
