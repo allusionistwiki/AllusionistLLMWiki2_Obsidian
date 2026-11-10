@@ -81,7 +81,7 @@ def main() -> int:
         )
     if total_l2:
         rows.append(
-            f"| [L2 正規化 Wiki](./L2/) | L1 へ名前統合・正規化処理を適用した wiki（{total_l2:,} ページ。台帳 {l2.get('reflections', 0):,} 件の監査索引同梱） | [正規化索引 normalized.md](./L2/normalized/) · [登場人物](./L2/characters/) · [観測章](./L2/episodes/) · [主張](./L2/claims/) |"
+            f"| [L2 正規化 Wiki](./L2/) | L1 へ名前統合・正規化処理を適用した wiki（{total_l2:,} ページ。台帳 {l2.get('reflections', 0):,} 件の監査索引同梱） | [正規化索引 normalized.md](./L2/normalized.html) · [登場人物](./L2/nav/index.html) · [観測章](./L2/episodes/index.html) · [主張](./L2/claims/index.html) |"
         )
     body = f"""# 幻想再帰のアリュージョニスト 解析Wiki
 

@@ -11,7 +11,7 @@ summary: "観測記録 3,582章・観測16,114件・主張65,975件の解析 wik
 | 層 | コンテンツ | 主要導線 |
 |---|---|---|
 | [L1 原文 Wiki](./L1/) | 章別観測の原文保持 wiki（登場人物 0・章 861・主張 2,598 ページ） | [登場人物](./L1/characters/) · [観測章](./L1/episodes/) · [主張](./L1/claims/) · [観測地点](./L1/appearances/) |
-| [L2 正規化 Wiki](./L2/) | L1 へ名前統合・正規化処理を適用した wiki（15,963 ページ。台帳 2 件の監査索引同梱） | [正規化索引 normalized.md](./L2/normalized/) · [登場人物](./L2/characters/) · [観測章](./L2/episodes/) · [主張](./L2/claims/) |
+| [L2 正規化 Wiki](./L2/) | L1 へ名前統合・正規化処理を適用した wiki（15,963 ページ。台帳 2 件の監査索引同梱） | [正規化索引 normalized.md](./L2/normalized.html) · [登場人物](./L2/nav/index.html) · [観測章](./L2/episodes/index.html) · [主張](./L2/claims/index.html) |
 | [層索引（layers）](./layers/) | L0〜L7 階層モデル・生成鎖の解説 | L0 原文〜 L7 最終 の生成鎖解説 |
 
 ## 系統
