@@ -84,17 +84,17 @@ L1 全 {norm_count} ページのミラー（同一相対パス）。高確度帯
 L1 と同一のセクション構造です（内容は名前統合・正規化処理適用済み）。
 
 - [正規化索引（normalized.md）]({SITE}/L2/normalized.html) — 名前統合の監査・統計・代表名表
-- [話ナビゲーション](./nav/index.md) — 話ごとのアナロジー・伏線一覧（正規化後）
-- [登場人物一覧](./characters/index.md) — キャラクター入口（正規化後）
-- [関係性マップ](./relationships/index.md) — キャラ間の関係グラフ（正規化後）
-- [エンティティ総覧](./entities/index.md) — 用語・組織・アイテム・モチーフ（正規化後）
-- [アナロジークレーム全集](./claims/index.md) — 引喩の主張すべて（正規化後）
-- [伏線台帳](./mysteries/index.md) — 仕掛けられた謎の追跡（正規化後）
-- [観測章索引](./episodes/index.md) — 章別観測索引（正規化後）
-- [アーカイブ](./arcs/index.md) — 章アーク構造
-- [外部参照](./references/index.md) — 引喩先の現代文化・思想の解説（正規化後）
-- [「今はまだ」先延ばし索引](./deferrals/index.md) — 原文中の先延ばしモティーフ（正規化後）
-- [キャラ容姿描写索引](./appearances/index.md) — 容姿・外見描写のキャラ別索引（正規化後）
+- [話ナビゲーション(https://allusionistwiki.github.io/AllusionistWiki2/L2/nav/index.html) — 話ごとのアナロジー・伏線一覧（正規化後）
+- [登場人物一覧(https://allusionistwiki.github.io/AllusionistWiki2/L2/characters/index.html) — キャラクター入口（正規化後）
+- [関係性マップ(https://allusionistwiki.github.io/AllusionistWiki2/L2/relationships/index.html) — キャラ間の関係グラフ（正規化後）
+- [エンティティ総覧(https://allusionistwiki.github.io/AllusionistWiki2/L2/entities/index.html) — 用語・組織・アイテム・モチーフ（正規化後）
+- [アナロジークレーム全集(https://allusionistwiki.github.io/AllusionistWiki2/L2/claims/index.html) — 引喩の主張すべて（正規化後）
+- [伏線台帳(https://allusionistwiki.github.io/AllusionistWiki2/L2/mysteries/index.html) — 仕掛けられた謎の追跡（正規化後）
+- [観測章索引(https://allusionistwiki.github.io/AllusionistWiki2/L2/episodes/index.html) — 章別観測索引（正規化後）
+- [アーカイブ(https://allusionistwiki.github.io/AllusionistWiki2/L2/arcs/index.html) — 章アーク構造
+- [外部参照(https://allusionistwiki.github.io/AllusionistWiki2/L2/references/index.html) — 引喩先の現代文化・思想の解説（正規化後）
+- [「今はまだ」先延ばし索引(https://allusionistwiki.github.io/AllusionistWiki2/L2/deferrals/index.html) — 原文中の先延ばしモティーフ（正規化後）
+- [キャラ容姿描写索引(https://allusionistwiki.github.io/AllusionistWiki2/L2/appearances/index.html) — 容姿・外見描写のキャラ別索引（正規化後）
 - 台帳 run: `{run_id}`（生成規則の中心）
 
 ## 生成規則（台帳・索引）— 本 wiki の一要素
