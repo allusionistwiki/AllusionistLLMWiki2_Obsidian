@@ -3,7 +3,7 @@ title: "L2Wiki"
 id: "L2_WIKI_TOP"
 kind: "index"
 created: "2026-10-28"
-updated: "2026-11-10"
+updated: "2026-11-11"
 l2_run: "20261110T0603_v5agg"
 ---
 # L2Wiki — 名前統合・正規化 Wiki
@@ -22,17 +22,17 @@ L1 全 15982 ページのミラー（同一相対パス）。高確度帯の别�
 L1 と同一のセクション構造です（内容は名前統合・正規化処理適用済み）。
 
 - [正規化索引（normalized.md）](https://allusionistwiki.github.io/AllusionistWiki2/L2/normalized.html) — 名前統合の監査・統計・代表名表
-- [話ナビゲーション](nav/index.md) — 話ごとのアナロジー・伏線一覧（正規化後）
-- [登場人物一覧](characters/index.md) — キャラクター入口（正規化後）
-- [関係性マップ](relationships/index.md) — キャラ間の関係グラフ（正規化後）
-- [エンティティ総覧](entities/index.md) — 用語・組織・アイテム・モチーフ（正規化後）
-- [アナロジークレーム全集](claims/index.md) — 引喩の主張すべて（正規化後）
-- [伏線台帳](mysteries/index.md) — 仕掛けられた謎の追跡（正規化後）
-- [観測章索引](episodes/index.md) — 章別観測索引（正規化後）
-- [アーカイブ](arcs/index.md) — 章アーク構造
-- [外部参照](references/index.md) — 引喩先の現代文化・思想の解説（正規化後）
-- [「今はまだ」先延ばし索引](deferrals/index.md) — 原文中の先延ばしモティーフ（正規化後）
-- [キャラ容姿描写索引](appearances/index.md) — 容姿・外見描写のキャラ別索引（正規化後）
+- [話ナビゲーション](./nav/index.md) — 話ごとのアナロジー・伏線一覧（正規化後）
+- [登場人物一覧](./characters/index.md) — キャラクター入口（正規化後）
+- [関係性マップ](./relationships/index.md) — キャラ間の関係グラフ（正規化後）
+- [エンティティ総覧](./entities/index.md) — 用語・組織・アイテム・モチーフ（正規化後）
+- [アナロジークレーム全集](./claims/index.md) — 引喩の主張すべて（正規化後）
+- [伏線台帳](./mysteries/index.md) — 仕掛けられた謎の追跡（正規化後）
+- [観測章索引](./episodes/index.md) — 章別観測索引（正規化後）
+- [アーカイブ](./arcs/index.md) — 章アーク構造
+- [外部参照](./references/index.md) — 引喩先の現代文化・思想の解説（正規化後）
+- [「今はまだ」先延ばし索引](./deferrals/index.md) — 原文中の先延ばしモティーフ（正規化後）
+- [キャラ容姿描写索引](./appearances/index.md) — 容姿・外見描写のキャラ別索引（正規化後）
 - 台帳 run: `20261110T0603_v5agg`（生成規則の中心）
 
 ## 生成規則（台帳・索引）— 本 wiki の一要素
@@ -41,34 +41,34 @@ L1 と同一のセクション構造です（内容は名前統合・正規化�
 
 - 正規化エンティティ台帳 総計 17337 实体（terminology 6536, character 4222, item 3751, organization 918, location 639, motif 325, creature 257, 未分類 239, relationship 124, phrase 115, event 107, skill 11, spell 8, action 8, ability 7, race 6, group 5, magic 4, celestial_body 4, ritual 4, concept 4, place 4, app 3, emotion 3, phantom 3, character_class 2, system 2, role 2, rule 2, technology 2, phenomenon 2, plan 2, deity 1, software 1, spell_effect 1, event_context 1, game 1, part 1, brand 1, character_ability 1, technique 1, clothing 1, structure 1, unknown 1, building 1, institution 1, strategy 1, effect 1）
 - 别名統合マッピング: 高確度帯 1071 件（置換に適用）/ 要検証・needs 185 件（注記のみ）
-- 别名統合一覧: [别名統合一覧（RF_l2_aliases_index）](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_aliases_index/)
-- 変換の相関・根拠: [RF_l2_correlations](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_correlations/)
+- 别名統合一覧: [别名統合一覧（RF_l2_aliases_index）](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_aliases_index.html)
+- 変換の相関・根拠: [RF_l2_correlations](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_correlations.html)
 - 台帳の設計・手順: [L2 README（work repo）](https://github.com/allusionistwiki/AllusionistWiki_work/blob/main/work/allusionist_v2/L2/README.md)
 
 ## 代表名別 統合例（上位）
 
 | 代表名 | 統合别名数 | 代表例 |
 |---|---|---|
-| [[E_char_アキラくん|アキラくん]] | 69 | アキラ殿、アキラ（仮称・主語不明）、俺(アキラ) |
-| [[E_char_マラード|マラード]] | 11 | マラード陛下、王の髪、マラード(地竜) |
-| [[E_char_ハルベルト|ハルベルト]] | 10 | 呪文の座、歌姫Spear、歌姫Ｓｐｅａｒ |
-| [[E_char_カーイン|カーイン]] | 10 | カーインの残り滓、カーインの瘴気、カーインの脳内 |
-| [[E_char_ミヒトネッセ|ミヒトネッセ]] | 10 | ミヒトネッセ(狂イ姫)、ミヒトネッセ(シナモリアキラ/九尾)、ミヒトネッセ(ゼドへの変身時) |
-| [[E_char_アズーリア|アズーリア]] | 9 | 守護の九槍アズーリア、全裸の変態(男)、駕籠の中の女性 |
-| [[ME_Organ_Rode|オルガンローデ]] | 8 | オルゴーの滅びの呪文、呪文竜、滅びの呪文 |
-| [[E_char_キロン|キロン]] | 8 | 聖騎士、蝶の翅、転生者殺し |
-| [[E_char_オルヴァ|オルヴァ]] | 7 | 聖油、カシュラム王(オルヴァ)、オルヴァ(髭大夫) |
-| [[E_char_エレクトラ|エレクトラ]] | 6 | ユディーア、キニス、キニスちゃん |
-| [[E_char_呪文|呪文]] | 6 | 炸撃、爆撃、言語魔術 |
-| [[E_char_ペリュトン|ペリュトン]] | 6 | 青い鳥、ラハブ、ペリュトン種族 |
-| [[E_char_邪視|邪視]] | 6 | ファシネイター、邪視呪術、色付き視線 |
-| [[E_char_スカルミリオーネ|スカルミリオーネ]] | 6 | スカルミリョーネ、ルバーブ様、乱髪 |
-| [[E_term_アトリビュート|アトリビュート]] | 6 | 射影三昧耶形・十四番、射影即興喜劇、射影三昧耶形 |
-| [[E_char_カイン|カイン]] | 6 | 狼、彼、カイン(私) |
-| [[E_char_ファル|ファル]] | 5 | ファルファレロ、クリミナトレス、少年神 |
-| [[E_char_カーティス|カーティス]] | 5 | カーティス一世、トリシル一号、カーティス(リールエルバの変身/男装) |
-| [[E_char_ゼド|ゼド]] | 5 | 盗賊王ゼド、ゼド＝アダス、盗賊王 |
-| [[E_term_ゼオーティア|ゼオーティア]] | 5 | ゼオーティア世界、ゼオーティア教圏、ゼオーティアの社会 |
+| [[./entities/characters/E_char_アキラくん|アキラくん]] | 69 | アキラ殿、アキラ（仮称・主語不明）、俺(アキラ) |
+| [[./entities/characters/E_char_マラード|マラード]] | 11 | マラード陛下、王の髪、マラード(地竜) |
+| [[./entities/characters/E_char_ハルベルト|ハルベルト]] | 10 | 呪文の座、歌姫Spear、歌姫Ｓｐｅａｒ |
+| [[./entities/characters/E_char_カーイン|カーイン]] | 10 | カーインの残り滓、カーインの瘴気、カーインの脳内 |
+| [[./entities/characters/E_char_ミヒトネッセ|ミヒトネッセ]] | 10 | ミヒトネッセ(狂イ姫)、ミヒトネッセ(シナモリアキラ/九尾)、ミヒトネッセ(ゼドへの変身時) |
+| [[./entities/characters/E_char_アズーリア|アズーリア]] | 9 | 守護の九槍アズーリア、全裸の変態(男)、駕籠の中の女性 |
+| [[./entities/characters/ME_Organ_Rode|オルガンローデ]] | 8 | オルゴーの滅びの呪文、呪文竜、滅びの呪文 |
+| [[./entities/characters/E_char_キロン|キロン]] | 8 | 聖騎士、蝶の翅、転生者殺し |
+| [[./entities/characters/E_char_オルヴァ|オルヴァ]] | 7 | 聖油、カシュラム王(オルヴァ)、オルヴァ(髭大夫) |
+| [[./entities/characters/E_char_エレクトラ|エレクトラ]] | 6 | ユディーア、キニス、キニスちゃん |
+| [[./entities/characters/E_char_呪文|呪文]] | 6 | 炸撃、爆撃、言語魔術 |
+| [[./entities/characters/E_char_ペリュトン|ペリュトン]] | 6 | 青い鳥、ラハブ、ペリュトン種族 |
+| [[./entities/characters/E_char_邪視|邪視]] | 6 | ファシネイター、邪視呪術、色付き視線 |
+| [[./entities/characters/E_char_スカルミリオーネ|スカルミリオーネ]] | 6 | スカルミリョーネ、ルバーブ様、乱髪 |
+| [[./entities/characters/E_term_アトリビュート|アトリビュート]] | 6 | 射影三昧耶形・十四番、射影即興喜劇、射影三昧耶形 |
+| [[./entities/characters/E_char_カイン|カイン]] | 6 | 狼、彼、カイン(私) |
+| [[./entities/characters/E_char_ファル|ファル]] | 5 | ファルファレロ、クリミナトレス、少年神 |
+| [[./entities/characters/E_char_カーティス|カーティス]] | 5 | カーティス一世、トリシル一号、カーティス(リールエルバの変身/男装) |
+| [[./entities/characters/E_char_ゼド|ゼド]] | 5 | 盗賊王ゼド、ゼド＝アダス、盗賊王 |
+| [[./entities/characters/E_term_ゼオーティア|ゼオーティア]] | 5 | ゼオーティア世界、ゼオーティア教圏、ゼオーティアの社会 |
 
 ## 他層への導線
 
