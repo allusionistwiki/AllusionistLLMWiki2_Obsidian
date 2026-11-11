@@ -17,22 +17,13 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5058_structurally_matches_E_ch5058_トリシューラ_says_三日間は後攻である私の手番_p89_turn_based_game_mechanics.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # 交渉や選択のプロセスを、ボードゲームや対戦格闘のような「ターン制」のメタファーで処理している
 
-> 「うん、分かった。フェアに行こうってことだよね。これから三日間は後攻であるカインの手番」（p89）
+> 「うん、分かった。フェアに行こうってことだよね。これから三日間は後攻である私の手番」（p89）
 
 **審査（LLM 代替）**: 交渉のプロセスを「後攻」「手番」というゲーム用語で記述しており、ターン制ゲームのメカニクスを社会関係に適用する構造が明確である。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| 私 | カイン | 蓋然性高 | 1 |

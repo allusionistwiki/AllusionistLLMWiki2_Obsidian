@@ -13,16 +13,16 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_店員_容姿.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 
-# ブルー｜容姿
+# 店員｜容姿
 
 ## 要約
 
 細い小首を傾げる愛想よい容姿。腕が闇色の触手になる。
 
-キャラ本ページ: [[E_char_店員|ブルー]]
+キャラ本ページ: [[E_char_店員|店員]]
 
 <!-- AUTO:BEGIN -->
 
@@ -37,16 +37,15 @@ l2_run: 20261110T0603_v5agg
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **ブルー**（ID `E_char_ブルー` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **店員**（ID `E_char_店員` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 店員 | ブルー | 明言 | 4 |
 | 空 | アカシャ | 明言 | 1 |
 | ティティ | 彩域 | 明言 | 1 |

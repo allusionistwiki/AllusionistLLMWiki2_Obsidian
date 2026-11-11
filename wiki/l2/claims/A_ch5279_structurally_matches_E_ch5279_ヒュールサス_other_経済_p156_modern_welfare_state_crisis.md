@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5279_structurally_matches_E_ch5279_ヒュールサス_other_経済_p156_modern_welfare_state_crisis.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 増大する福祉への支出は際限なく国庫を食らいつくし、債務が積み上がり、税は重く民にのし掛かっていく。（p156）
 
 **審査（LLM 代替）**: 「増大する福祉への支出」「債務の積み上がり」「税の重圧」という描写は、現代の福祉国家が直面する財政・経済構造と構造的に一致しており、寓話的な投影として妥当である。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「投影」→ 投影(呪術)（要検証）

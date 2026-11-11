@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-21'
 normalized_from: l1/entities/motifs/E_motif_世界.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 
 # 世界
@@ -24,7 +24,7 @@ l2_run: 20261110T0603_v5agg
 
 ## 代表引用
 
-> ゼオーティアそのものに、『どこにもいない』と見なされているのだ。（ch5026）
+> この世界そのものに、『どこにもいない』と見なされているのだ。（ch5026）
 > 視認するだけで世界を書き換える能力を持つ両者が相対した時、その戦いは世界の改変合戦の様相を呈する。一瞬ごとに景色が塗り替えられていく。（ch5079）
 > 白と黒だけの世界。（ch5081）
 > サイバネティクスとオカルティズム。 聖婚が鳴る鐘の音を、全世界が確かに聞いた。（ch5217）
@@ -38,7 +38,7 @@ l2_run: 20261110T0603_v5agg
 - [[A_ch5081_inverts_E_ch5081_世界_appears_as_白と黒だけの空間_p1_game_cheat_power_limit|チート能力限界への疑念]]
 - [[A_ch5081_parodies_E_ch5081_世界_appears_as_白と黒だけの空間_p1_anime_cliche_death_flag|アニメ的死亡フラグ解体]]
 - [[A_ch5081_structurally_matches_E_ch5081_世界_appears_as_白と黒だけの空間_p1_philosophical_nihilism|哲学的虚無主義の動機欠如]]
-- [[A_ch5299_alludes_to_E_ch5299_世界_transforms_地獄背景_p2_Nordic_Kings_Beheading|北欧霊媒断頭台への消滅暗喩]]
+- [[A_ch5299_alludes_to_E_ch5299_世界_transforms_地獄背景_p2_Nordic_Kings_Beheading|北欧王断頭台への消滅暗喩]]
 - [[A_ch5299_analogous_to_E_ch5299_世界_transforms_地獄背景_p2_Ragnarok_Mythology|ラグナロク神話の終末召喚]]
 - [[A_ch5299_foreshadows_E_ch5299_世界_transforms_地獄背景_p2_Grendel_Infection|グレンデル汚染への敗北伏線]]
 - [[A_ch5299_parodies_E_ch5299_世界_transforms_地獄背景_p2_ProWrestling_Techniques|プロレス技クロスオーバーのパロディ]]
@@ -62,7 +62,7 @@ l2_run: 20261110T0603_v5agg
 ## 象徴・比喩
 
 - **unknown**: その断絶を内包しながら二者の世界が矛盾を織り込んで成立する
-- **unknown**: ゼオーティアそのものに、『どこにもいない』と見なされているのだ。
+- **unknown**: この世界そのものに、『どこにもいない』と見なされているのだ。
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:action -->
@@ -84,11 +84,13 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 空 | アカシャ | 明言 | 3 |
-| この世界 | ゼオーティア | 明言 | 2 |
 | ティティ | 彩域 | 明言 | 2 |
-| 王 | 霊媒 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

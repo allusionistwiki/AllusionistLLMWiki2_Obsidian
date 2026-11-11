@@ -9,24 +9,15 @@ canonical_name: "RECOMMENDATION_ALGORITHM"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_RECOMMENDATION_ALGORITHM.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # RECOMMENDATION_ALGORITHM
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5450_analogous_to_E_p352-p353_RECOMMENDATION_ALGORITHM]] — ユーザーの行動を誘導し価値を保証する「統計的な最適行動の提示」は、現代のアルゴリズムによるレコメンド機能やAIによる行動制御に類似している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

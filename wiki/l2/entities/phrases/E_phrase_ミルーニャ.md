@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/phrases/E_phrase_ミルーニャ.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 
 # ミルーニャ
@@ -37,9 +37,13 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | メートリアン | ミルーニャ | 明言 | 12 |
 | ティティ | 彩域 | 明言 | 2 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

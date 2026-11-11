@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5379_analogous_to_E_ch5379_ラウス＝ベフォニス_has_property_感情制御アプリ_p22_AR技術・SNSフィルター.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,13 +26,4 @@ l2_run: 20261110T0603_v5agg
 
 > 悲しみと言う正常な心の働きを感情制御アプリが肩代わりして、代替感情を間に噛ませる。（p22）
 
-**審査（LLM 代替）**: 感情の制御・遮断という技術的メカニズムが、AR/SNSによる現実編集と構造的に一致しており、作品内の技術批判を補強する妥当なアナロギアである。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
+**審査（LLM 代替）**: 感情の制御・遮断という技術的メカニズムが、AR/SNSによる現実編集と構造的に一致しており、作品内の技術批判を補強する妥当なアナロジーである。

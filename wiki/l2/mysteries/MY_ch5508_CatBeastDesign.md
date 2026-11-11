@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5508_CatBeastDesign.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # CatBeastDesign
 
-猫科魔獣（対竜兵器）を都市警備に用いる機械ニケの真意と、それに対するエレクトラの畏怖の由来の詳細。
+猫科魔獣（対竜兵器）を都市警備に用いる機械女王の真意と、それに対するエレクトラの畏怖の由来の詳細。
 
 **回収示唆**: 対竜兵器としての魔獣が、レース本番で真価を発揮する（あるいは暴走する）展開。
 
@@ -31,9 +31,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 女王 | ニケ | 明言 | 1 |
 | ユディーア | エレクトラ | 明言 | 1 |

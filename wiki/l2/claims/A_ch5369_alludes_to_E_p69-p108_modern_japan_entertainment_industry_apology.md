@@ -17,23 +17,22 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5369_alludes_to_E_p69-p108_modern_japan_entertainment_industry_apology.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # プーハニア・トストンスの謝罪会見は、現代日本における芸能人のスキャンダル対応や炎上処理のプロトコルをそのまま転写している。
 
-> この度は、カインの不適切な発言で大変なご迷惑を――（p69）
+> この度は、私の不適切な発言で大変なご迷惑を――（p69）
 
 **審査（LLM 代替）**: 「不適切な発言」「ご迷惑」といった定型句は、現代日本の炎上対応プロトコルを明確にパロディ化しており、メタフィクション的な自己言及として妥当。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 狆くしゃ（カニャッツォ） | プーハニア・トストンス | 明言 | 1 |
-| 私 | カイン | 蓋然性高 | 1 |

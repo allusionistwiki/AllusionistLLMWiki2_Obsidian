@@ -9,25 +9,28 @@ canonical_name: "Metaphiction_Genre_Tropes_Prediction"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Metaphiction_Genre_Tropes_Prediction.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # Metaphiction_Genre_Tropes_Prediction
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5362_sublates_E_Harbert_Narrative_Structure_Prediction_Metaphiction_Genre_Tropes_Prediction]] — お姉様が展開を「お約束」に基づいて予測し、それを裏切られたと嘆くことは、物語のクリシェ（定型表現）に対するメタフィクション的な自己言及である。
+- [[A_ch5362_sublates_E_Harbert_Narrative_Structure_Prediction_Metaphiction_Genre_Tropes_Prediction]] — ハルベルトベルトが展開を「お約束」に基づいて予測し、それを裏切られたと嘆くことは、物語のクリシェ（定型表現）に対するメタフィクション的な自己言及である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| ハルベルト | お姉様 | 明言 | 1 |
+| ハル | ハルベルト | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「ハルベルト」→ ハルベルト(幼少期)（要検証）

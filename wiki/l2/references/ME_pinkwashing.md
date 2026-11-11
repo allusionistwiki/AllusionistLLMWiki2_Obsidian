@@ -9,24 +9,15 @@ canonical_name: "pinkwashing"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_pinkwashing.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # pinkwashing
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5426_parodies_E_5426_p22_pinkwashing]] — 戦闘行為の正当化のための修辞が、現代企業や政治における「ピンクウォッシュ」（LGBTQ+の権利を掲げて問題の解決を誤魔化す戦略）と明確に呼応している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

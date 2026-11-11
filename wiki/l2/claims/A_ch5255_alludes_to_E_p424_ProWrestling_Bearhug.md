@@ -17,23 +17,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5255_alludes_to_E_p424_ProWrestling_Bearhug.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# ゾーイがプロタゴニストを強く抱きしめる技は、プロレスにおけるベアハッグ（熊式鯖折り）である。
+# ゾーイが主人公を強く抱きしめる技は、プロレスにおけるベアハッグ（熊式鯖折り）である。
 
 > 熊式鯖折り（ベアハッグ）。
 スモーレスリングにおける必殺技にして決まり手の一つ。（p424-p425）
 
 **審査（LLM 代替）**: プロレス技「ベアハッグ」をスモーレスリングの必殺技として定義しており、記述通りである。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| 主人公 | プロタゴニスト | 明言 | 1 |

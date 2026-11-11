@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_きぐるみの魔女.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 # きぐるみの魔女
 
@@ -21,7 +21,7 @@ l2_run: 20261110T0603_v5agg
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
-- **unknown**: きぐるみの魔女の真なる能力とは、カイン女自身がトバルカイン（きぐるみ）になることだ。
+- **unknown**: きぐるみの魔女の真なる能力とは、彼女自身が強化外骨格（きぐるみ）になることだ。
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:l2ref -->
@@ -33,10 +33,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 彼 | カイン | 蓋然性高 | 1 |
-| 強化外骨格 | トバルカイン | 明言 | 1 |
 | ティティ | 彩域 | 明言 | 1 |

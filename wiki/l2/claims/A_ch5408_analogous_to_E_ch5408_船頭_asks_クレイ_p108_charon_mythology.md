@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5408_analogous_to_E_ch5408_船頭_asks_クレイ_p108_charon_mythology.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,13 +26,4 @@ l2_run: 20261110T0603_v5agg
 
 > 「クレイ。お前は、いつ、どこで、誰によって生み出された？」（p108）
 
-**審査（LLM 代替）**: 「十字の瞳」「川底への引き摺り込み」「生い立ちを問う」などの要素が、カロンによる冥界渡河の儀礼と高度に一致しており、妥当なアナロギアである。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
+**審査（LLM 代替）**: 「十字の瞳」「川底への引き摺り込み」「生い立ちを問う」などの要素が、カロンによる冥界渡河の儀礼と高度に一致しており、妥当なアナロジーである。

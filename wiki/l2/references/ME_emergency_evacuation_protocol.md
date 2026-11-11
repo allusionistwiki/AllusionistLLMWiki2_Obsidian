@@ -9,24 +9,15 @@ canonical_name: "emergency_evacuation_protocol"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_emergency_evacuation_protocol.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # emergency_evacuation_protocol
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5011_analogous_to_E_p110_explosion_escape_emergency_evacuation_protocol]] — 手品師の自爆をトリガーに、仲間が分散して強制テレポートされる様子は、災害時の避難計画における「リスク分散」および「強制避難指示」の論理（生存率最大化のための個体分離）と構造的に一致する。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

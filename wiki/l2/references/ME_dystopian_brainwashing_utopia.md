@@ -9,25 +9,27 @@ canonical_name: "dystopian_brainwashing_utopia"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_dystopian_brainwashing_utopia.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # dystopian_brainwashing_utopia
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5275_alludes_to_E_ch5275_アキラ_says_トリシューラの理想_p56_dystopian_brainwashing_utopia]] — 「正しくない奴は目をギラつかせてトラック運転手は正しいと主張する人間にされる」という記述は、ディストピア的な脳内操作（洗脳）をユートピアの実現手段として提示する逆説的全体主義の暗示。
+- [[A_ch5275_alludes_to_E_ch5275_アキラ_says_トリシューラの理想_p56_dystopian_brainwashing_utopia]] — 「正しくない奴は目をギラつかせて俺は正しいと主張する人間にされる」という記述は、ディストピア的な脳内操作（洗脳）をユートピアの実現手段として提示する逆説的全体主義の暗示。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| 俺 | トラック運転手 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「トリシューラ」→ トリシューラ(別個体)（要検証）

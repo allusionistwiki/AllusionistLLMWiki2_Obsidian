@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/characters/E_char_中央の青年.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 # 中央の青年
 
@@ -21,8 +21,8 @@ l2_run: 20261110T0603_v5agg
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
-- **unknown**: 中央に立つキロン性が、何事かキールに話しかけた。
-- **unknown**: 中央に立つキロン性が、何事かキールに話しかけた。
+- **unknown**: 中央に立つ男性が、何事かキールに話しかけた。
+- **unknown**: 中央に立つ男性が、何事かキールに話しかけた。
 
 <!-- /AUTO-GENERATED:speech -->
 
@@ -37,9 +37,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 男 | キロン | 明言 | 2 |
 | ティティ | 彩域 | 明言 | 1 |

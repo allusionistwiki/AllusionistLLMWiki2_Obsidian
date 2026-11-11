@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5482_inverts_E_p85_standard_death_narrative.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > あんたには未来が無いんじゃない。過去に落っこちてんのさ。後ろの方から引っ張られて厄介な血に飲み込まれちまう。（p89）
 
 **審査（LLM 代替）**: 「死」を「未来の消失」ではなく「過去への落下・血脈への飲没」と定義し、因果律の遡及として記述する点は、一般的な死亡描写の概念を明確に反転・拡張しており、作品固有の呪いメカニズムの提示として有効である。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

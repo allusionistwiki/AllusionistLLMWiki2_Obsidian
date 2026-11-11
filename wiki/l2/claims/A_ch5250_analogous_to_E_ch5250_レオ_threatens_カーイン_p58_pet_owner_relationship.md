@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5250_analogous_to_E_ch5250_レオ_threatens_カーイン_p58_pet_owner_relationship.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 「あまり僕を失望させないでね――でないと、そのうち捨てちゃうから」（p58）
 
 **審査（LLM 代替）**: 「捨てちゃうから」という台詞と、カーインがレオに依存する構図は、ペットや所有物の廃棄という関係性を明確に想起させ、作品内の主従・所有のテーマを支持する根拠として妥当である。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「レオ」→ レオ(猫耳の少年)（要検証）

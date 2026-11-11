@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5185_alludes_to_E_Anemone_Metaphor_FlowerLanguage.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 黒いアネモネの花言葉も、そうした意味が固定されたものの一つである。（p312）
 
 **審査（LLM 代替）**: 引用が花言葉の象徴的意味を明示しており、文学的伝統（花言葉による運命づけ）への依拠を直接的に支持している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「夜の民」→ 夜の民(スマルトのマネージャー)（要検証）

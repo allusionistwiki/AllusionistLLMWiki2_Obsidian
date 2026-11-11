@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5231_alludes_to_E_5231_MonsterGirl_Fantasy_Elf.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > そして、その『光妖精は耳が尖っている』という認識は広く共有されるにつれて確かな『常識』となって現実化していく。（p499）
 
 **審査（LLM 代替）**: ステレオタイプが「常識」として現実化するという記述は、ファンタジー genre の自己言及（メタフィクション）として明確に根拠がある。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「レオ」→ レオ(猫耳の少年)（要検証）

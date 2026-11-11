@@ -9,26 +9,24 @@ canonical_name: "beowulf_monster_encounter"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_beowulf_monster_encounter.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # beowulf_monster_encounter
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5305_analogous_to_E_grindel_contact_beowulf_monster_encounter]] — ハタラドゥール＝ライニンサルの登場と「征服するキロン」という宣言は、北欧神話や『ベオウルフ』における怪物との遭遇および英雄譚の開始を想起させる。
+- [[A_ch5305_analogous_to_E_grindel_contact_beowulf_monster_encounter]] — ハタラドゥール＝ライニンサルの登場と「征服する男」という宣言は、北欧神話や『ベオウルフ』における怪物との遭遇および英雄譚の開始を想起させる。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
 | グレンデルヒ | ハタラドゥール | 明言 | 1 |
-| 男 | キロン | 明言 | 1 |

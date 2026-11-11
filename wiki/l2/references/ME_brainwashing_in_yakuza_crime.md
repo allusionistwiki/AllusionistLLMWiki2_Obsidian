@@ -9,24 +9,15 @@ canonical_name: "brainwashing_in_yakuza_crime"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_brainwashing_in_yakuza_crime.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # brainwashing_in_yakuza_crime
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5013_analogous_to_E_p170_brainwashing_in_yakuza_crime]] — アプリが暴力団や殺し屋に利用され社会問題化したという記述は、技術が犯罪の心理的障壁を取り除く「洗脳」ツールとして機能する現実の危険性を示す。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

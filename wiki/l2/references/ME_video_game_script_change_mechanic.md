@@ -9,25 +9,15 @@ canonical_name: "video_game_script_change_mechanic"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_video_game_script_change_mechanic.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # video_game_script_change_mechanic
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5263_analogous_to_E_ch5263_チリアット_other_舞台劇_p2_video_game_script_change_mechanic]] — 「思考台本」の内容が動的に変化し、プロタゴニストがその変更を役者にリアルタイムで伝える仕組みは、固定された脚本からの逸脱と即時的な対応を描いている。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| 主人公 | プロタゴニスト | 明言 | 1 |
+- [[A_ch5263_analogous_to_E_ch5263_チリアット_other_舞台劇_p2_video_game_script_change_mechanic]] — 「思考台本」の内容が動的に変化し、主人公がその変更を役者にリアルタイムで伝える仕組みは、固定された脚本からの逸脱と即時的な対応を描いている。

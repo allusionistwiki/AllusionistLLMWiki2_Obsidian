@@ -9,24 +9,15 @@ canonical_name: "mass_production_conveyor_belt"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_mass_production_conveyor_belt.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # mass_production_conveyor_belt
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5238_analogous_to_E_ch5238_赤ん坊製造工場_functions_as_生産ライン_p108_mass_production_conveyor_belt]] — 機械的に子供を生産しカプセルでベルトコンベアに乗せて送り出す描写は、工業的な大量生産ライン（フォード主義的生産）のイメージを引用しており、生命の個別性・尊厳が工学的プロセスへ還元されていることを暗示する。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

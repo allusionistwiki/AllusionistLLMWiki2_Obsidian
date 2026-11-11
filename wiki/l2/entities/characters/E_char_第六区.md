@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_第六区.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 
 # 第六区
@@ -28,7 +28,7 @@ l2_run: 20261110T0603_v5agg
 
 ## 関連クレーム
 
-- [[A_ch5127_alludes_to_E_ch5127_アキラ_travels_第六区_p3_catoblepas_mythology|カトブレパス神話へのファシネイト怪物引用]]
+- [[A_ch5127_alludes_to_E_ch5127_アキラ_travels_第六区_p3_catoblepas_mythology|カトブレパス神話への邪視怪物引用]]
 - [[A_ch5127_analogous_to_E_ch5127_アキラ_travels_第六区_p3_gig_economy_platform|ギグエコノミーの依頼受注システム]]
 - [[A_ch5127_analogous_to_E_ch5127_アキラ_travels_第六区_p3_insurance_and_labor_union|労働組合・社保の探索者協会機能]]
 - [[A_ch5127_analogous_to_E_ch5127_アキラ_travels_第六区_p3_professional_certification_system|専門職資格制度への称号認定]]
@@ -52,10 +52,9 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 邪視 | ファシネイト | 明言 | 1 |
 | アキラ | 語り手 | 明言 | 1 |
 | ティティ | 彩域 | 明言 | 1 |

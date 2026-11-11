@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5074_sublates_E_p49_placebo_effect_ritual.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 仰々しさは儀式に繋がるし、直観に則した外観が科学性の外――すなわち呪術の力を強固にする（p49）
 
 **審査（LLM 代替）**: 「仰々しさ」「外観」が呪術の力を強固にするという記述は、形式が実効性を担保する（プラセボ/儀式効果）というテーマを明示しており、主題分析として妥当。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

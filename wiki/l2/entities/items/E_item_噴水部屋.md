@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/items/E_item_噴水部屋.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 # 噴水部屋
 
@@ -21,7 +21,7 @@ l2_run: 20261110T0603_v5agg
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
-- **unknown**: 部屋が安全地帯らしいとわかったのは、一体の人カインが現れた時だった。
+- **unknown**: 部屋が安全地帯らしいとわかったのは、一体の人狼が現れた時だった。
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:l2ref -->
@@ -33,9 +33,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 狼 | カイン | 蓋然性高 | 1 |
 | ティティ | 彩域 | 明言 | 1 |

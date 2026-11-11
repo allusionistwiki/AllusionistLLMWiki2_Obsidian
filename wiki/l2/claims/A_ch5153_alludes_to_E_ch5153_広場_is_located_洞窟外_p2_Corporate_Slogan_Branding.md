@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5153_alludes_to_E_ch5153_広場_is_located_洞窟外_p2_Corporate_Slogan_Branding.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 「左手親指、解錠（アンロック）！　【黎明稲妻（トワイライトニング）】！」（p120）
 
 **審査（LLM 代替）**: 「解錠（アンロック）」という用語はスマートフォン等のセキュリティシステムにおける生体認証解除を明確に連想させ、呪術システムへの現代的ITメタファーの混入を示している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

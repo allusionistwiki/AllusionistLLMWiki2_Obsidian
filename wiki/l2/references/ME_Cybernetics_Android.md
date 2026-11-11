@@ -9,25 +9,27 @@ canonical_name: "Cybernetics_Android"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Cybernetics_Android.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # Cybernetics_Android
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5045_alludes_to_E_Trishula_Reveal_Cybernetics_Android]] — コルセスカの肉体が金属製であり「全身義体」ではなく「フルスクラッチ」の人造人間（アンドロイド/ガイノイド）であるという描写は、サイバーパンクやSFにおける人間の定義と機械の境界に関する哲学的考察を指している。
+- [[A_ch5045_alludes_to_E_Trishula_Reveal_Cybernetics_Android]] — トリシューラの肉体が金属製であり「全身義体」ではなく「フルスクラッチ」の人造人間（アンドロイド/ガイノイド）であるという描写は、サイバーパンクやSFにおける人間の定義と機械の境界に関する哲学的考察を指している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| トリシューラ | コルセスカ | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「トリシューラ」→ トリシューラ(別個体)（要検証）

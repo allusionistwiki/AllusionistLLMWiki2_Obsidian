@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5494_inverts_E_Black_Insect_Knights_Violence_Yakuza_Organized_Crime_Image.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > その脇に控えている部下らしき四人、そのうちとびきり大柄で柄の悪そうな刈り上げの巨漢が暴力担当のようだ。髑髏や時計といったアクセサリで身を飾っているのが不吉に思えてならない。（p101）
 
 **審査（LLM 代替）**: ヤクザの比喩は表面的であり、「昆虫形態」の装飾が人間社会の暴力様式を異化・転倒させている点に注目すべき。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

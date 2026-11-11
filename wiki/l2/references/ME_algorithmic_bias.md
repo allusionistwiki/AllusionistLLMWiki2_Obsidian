@@ -9,24 +9,15 @@ canonical_name: "algorithmic_bias"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_algorithmic_bias.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # algorithmic_bias
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5227_analogous_to_E_ch5227_男守護の九槍第七位_defines_人間の本性_p265_algorithmic_bias]] — 差別を「決まり切った公式」への「値の代入」として捉える視点は、偏見や社会的不平等がアルゴリズム的なパターン認識として処理されていることを示唆する。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

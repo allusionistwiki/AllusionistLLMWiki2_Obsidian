@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-01'
 updated: '2026-10-19'
 normalized_from: l1/entities/terminology/E_term_アズール.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 # アズール
 
@@ -21,7 +21,7 @@ l2_run: 20261110T0603_v5agg
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
-- **unknown**: 「号はアズール、性はミーム、その起源は仮想使い魔」
+- **unknown**: 「号はアズール、性は摸倣、その起源は仮想使い魔」
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:l2ref -->
@@ -33,12 +33,11 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 澄明 | アズール | 明言 | 1 |
-| 摸倣 | ミーム | 蓋然性高 | 1 |
 | 幻獣 | 仮想使い魔 | 明言 | 1 |
 | ティティ | 彩域 | 明言 | 1 |
 

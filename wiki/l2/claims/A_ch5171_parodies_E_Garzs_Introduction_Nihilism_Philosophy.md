@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5171_parodies_E_Garzs_Introduction_Nihilism_Philosophy.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# ガルズの「生も死も等しくアカシャ虚」という台詞は、虚無主義的ニヒリズムを単なる思想ではなく、ファシネイトによる現実改変の原理としてファンタジー的に実体化している。
+# ガルズの「生も死も等しくアカシャ虚」という台詞は、虚無主義的ニヒリズムを単なる思想ではなく、邪視による現実改変の原理としてファンタジー的に実体化している。
 
 > あらゆることに意味などない。君たちの殺意も、僕の抵抗も、全てが無意味で無価値だ（p17）
 
@@ -31,9 +31,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 空 | アカシャ | 明言 | 1 |
-| 邪視 | ファシネイト | 明言 | 1 |

@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5126_analogous_to_E_5126_p2_modern_subway_system.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 樹状都市の枝と枝のあいだを、立体的に広がって交叉していく葉脈状の路線図。その上を、連なった長方形が這い回る蛇のように進んでいく。（p2）
 
 **審査（LLM 代替）**: 引用文は視覚的描写に留まり、地下鉄特有の運行システム（静穏性・慣性制御）への言及がなく、読みすぎである。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

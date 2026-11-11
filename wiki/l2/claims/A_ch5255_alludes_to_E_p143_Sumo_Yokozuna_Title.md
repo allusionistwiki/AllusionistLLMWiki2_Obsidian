@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5255_alludes_to_E_p143_Sumo_Yokozuna_Title.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -25,16 +25,15 @@ l2_run: 20261110T0603_v5agg
 # ゾーイが「YOKOZUNA」と呼ばれるのは、相撲界における最高位である横綱の称号を指している。
 
 > 「YOKOZUNA――なのか」
-（ご名答。今世紀に入って初の女YOKOZUNAとなった人間兵器。それがカイン女、ゾーイ・語り手だよ）（p143-p145）
+（ご名答。今世紀に入って初の女YOKOZUNAとなった人間兵器。それが彼女、ゾーイ・語り手だよ）（p143-p145）
 
 **審査（LLM 代替）**: 「YOKOZUNA」という語彙が相撲の最高位である横綱を指すことを明示しており、用語定義として妥当。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 彼 | カイン | 蓋然性高 | 1 |
 | アキラ | 語り手 | 明言 | 1 |

@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-10'
 updated: '2026-10-19'
 normalized_from: l1/entities/terminology/E_term_クレイの信念.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 # クレイの信念
 
@@ -21,7 +21,7 @@ l2_run: 20261110T0603_v5agg
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
-- **unknown**: カインの信念はそのまま呪力となって手刀を取り巻き、イアテムの呪剣を上回る鋭さと力強さを実現している。
+- **unknown**: 彼の信念はそのまま呪力となって手刀を取り巻き、イアテムの呪剣を上回る鋭さと力強さを実現している。
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:l2ref -->
@@ -35,9 +35,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 彼 | カイン | 蓋然性高 | 1 |
 | ティティ | 彩域 | 明言 | 1 |

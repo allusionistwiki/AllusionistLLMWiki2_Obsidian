@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5322_analogous_to_E_p97-p103_soft_power_diplomacy.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,15 +27,3 @@ l2_run: 20261110T0603_v5agg
 > いいか、外交という名の闘争は既に始まっているのだ。文化という武器を用いての戦いがな。このような精錬の足りぬ雑な、ふん、餌に、はむ、いいように、はふはふ、やられっぱなしとは（p97）
 
 **審査（LLM 代替）**: 「文化という武器」「国力の指標」という用語を用いた外交戦略の提示は、ソフトパワー外交そのものの定義と一致する。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「文化」→ 文化的営為（要検証）

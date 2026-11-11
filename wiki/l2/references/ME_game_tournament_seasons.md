@@ -9,24 +9,15 @@ canonical_name: "game_tournament_seasons"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_game_tournament_seasons.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # game_tournament_seasons
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5576_analogous_to_E_ch5576_クラウビューラ_names_シナモリアキラ選_p31_game_tournament_seasons]] — 『七つ風の席』争奪戦は、ゲームのシーズン制トーナメントやランキング競争を模している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

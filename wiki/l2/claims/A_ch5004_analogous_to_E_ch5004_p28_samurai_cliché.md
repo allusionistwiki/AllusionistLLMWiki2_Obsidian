@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5004_analogous_to_E_ch5004_p28_samurai_cliché.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 「真剣白刃取り」（p28）
 
 **審査（LLM 代替）**: サイバー義肢による刃の受け取りが「真剣白刃取り」と呼ばれる描写は、時代劇のステレオタイプをSF技術で再構成する典型的なメタフィクショナルなジョーク（パロディ）であり、根拠が明確。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「レオ」→ レオ(猫耳の少年)（要検証）

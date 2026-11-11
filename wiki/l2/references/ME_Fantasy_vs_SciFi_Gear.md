@@ -9,25 +9,15 @@ canonical_name: "Fantasy_vs_SciFi_Gear"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Fantasy_vs_SciFi_Gear.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # Fantasy_vs_SciFi_Gear
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5555_structurally_matches_E_p243_Fantasy_vs_SciFi_Gear]] — ファンタジー的な甲冑とSF的な自動小箒・情報処理兜の混在は、SF小説における「スターウォーズ」や「マックス・ウルマン」型のテック・マジック（技術が魔法に見える）構造の逆転である。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| 杖 | 箒 | 明言 | 1 |
+- [[A_ch5555_structurally_matches_E_p243_Fantasy_vs_SciFi_Gear]] — ファンタジー的な甲冑とSF的な自動小杖・情報処理兜の混在は、SF小説における「スターウォーズ」や「マックス・ウルマン」型のテック・マジック（技術が魔法に見える）構造の逆転である。

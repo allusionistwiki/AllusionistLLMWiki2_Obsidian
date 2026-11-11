@@ -9,25 +9,28 @@ canonical_name: "biological_macrophage_antibody"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_biological_macrophage_antibody.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # biological_macrophage_antibody
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5156_analogous_to_E_ch5156_ハルベルト_activates_レトロウイルス対策_p125_biological_macrophage_antibody]] — 司令ファルスとなる記述を書き換えてマクロファージを機能不全に陥らせる戦略は、生物の免疫系メカニズムを模倣し、その防御システムを論理的・記号的に逆利用するアナロギアである。
+- [[A_ch5156_analogous_to_E_ch5156_ハルベルト_activates_レトロウイルス対策_p125_biological_macrophage_antibody]] — 司令ファルスとなる記述を書き換えてマクロファージを機能不全に陥らせる戦略は、生物の免疫系メカニズムを模倣し、その防御システムを論理的・記号的に逆利用するアナロジーである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 2 |
 | 塔 | ファルス | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「ハルベルト」→ ハルベルト(幼少期)（要検証）

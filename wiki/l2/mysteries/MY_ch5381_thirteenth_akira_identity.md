@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5381_thirteenth_akira_identity.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # thirteenth_akira_identity
 
-俺12人の枠を超えた「十三人目」が現れ、その正体は不明。カイン/カイン女が「本当のサイバーカラテ」を定義すると言っている。
+俺12人の枠を超えた「十三人目」が現れ、その正体は不明。彼/彼女が「本当のサイバーカラテ」を定義すると言っている。
 
 **回収示唆**: ヴァージルの支配計画（12人の制御）の破綻と、新システムへの移行。
 
@@ -31,9 +31,12 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | シナモリアキラ | 俺 | 明言 | 4 |
-| 彼 | カイン | 蓋然性高 | 2 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「ヴァージル」→ レオ（要検証）

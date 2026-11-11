@@ -9,29 +9,27 @@ canonical_name: "mongolian_deel_and_nomadic_culture"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_mongolian_deel_and_nomadic_culture.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # mongolian_deel_and_nomadic_culture
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5233_alludes_to_E_p98_mongolian_deel_and_nomadic_culture]] — コルセスカの衣装描写にモンゴル族デールが想起されることは、異世界服飾への文化的参照を示唆している。
+- [[A_ch5233_alludes_to_E_p98_mongolian_deel_and_nomadic_culture]] — トリシューラの衣装描写にモンゴル族デールが想起されることは、異世界服飾への文化的参照を示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| トリシューラ | コルセスカ | 明言 | 1 |
 
 
 注記（置換しない）:
-- 未置換（要検証）: 「文化」→ 文化的営為（要検証）
+- 未置換（要検証）: 「トリシューラ」→ トリシューラ(別個体)（要検証）

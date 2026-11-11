@@ -9,24 +9,15 @@ canonical_name: "app_nopain_emotion_management"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_app_nopain_emotion_management.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # app_nopain_emotion_management
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5013_parodies_E_p162_app_nopain_emotion_management]] — 安楽死や殺人の心理的負担を軽減するアプリ「ノーペイン」は、現代社会における技術による道徳的外傷（PTSD）の回避・管理システムを風刺している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5095_structurally_matches_E_5095_River_Relationships_Zygmunt_Bauman_Liquid_Modernity.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,13 +26,4 @@ l2_run: 20261110T0603_v5agg
 
 > とりわけ関係性というものは水のように形が無く、流動的で捉えがたいものだ。相手が自分とは異なる他者であるということの果てしない困難さ。（p86）
 
-**審査（LLM 代替）**: 「水のように形が無く、流動的」という比喩はバウマンの『液状化』概念と構造的に完全に一致しており、テキストの主題として正当なアナロギアである。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
+**審査（LLM 代替）**: 「水のように形が無く、流動的」という比喩はバウマンの『液状化』概念と構造的に完全に一致しており、テキストの主題として正当なアナロジーである。

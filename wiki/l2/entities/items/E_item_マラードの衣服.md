@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-10'
 updated: '2026-10-19'
 normalized_from: l1/entities/items/E_item_マラードの衣服.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 # マラードの衣服
 
@@ -21,7 +21,7 @@ l2_run: 20261110T0603_v5agg
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
-- **unknown**: 円形を基調とした華やかな刺繍は呪的な紋様としての力を発揮して霊媒の全身を災いから守っている。
+- **unknown**: 円形を基調とした華やかな刺繍は呪的な紋様としての力を発揮して王の全身を災いから守っている。
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:l2ref -->
@@ -33,9 +33,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 王 | 霊媒 | 明言 | 1 |
 | ティティ | 彩域 | 明言 | 1 |

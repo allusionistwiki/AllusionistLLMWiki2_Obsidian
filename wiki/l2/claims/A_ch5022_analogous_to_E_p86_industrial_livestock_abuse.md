@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5022_analogous_to_E_p86_industrial_livestock_abuse.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 檻の中に鶏を詰め込んで強引にプレス機で圧殺し、断末魔の絶叫と血液を生贄として呪術的エネルギーを採取する機構である。（p86）
 
 **審査（LLM 代替）**: 鶏を機械的に圧殺しエネルギー源とする描写は、集約型畜産や動物福祉の問題を異世界技術に転写した社会構造の比喩として妥当。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

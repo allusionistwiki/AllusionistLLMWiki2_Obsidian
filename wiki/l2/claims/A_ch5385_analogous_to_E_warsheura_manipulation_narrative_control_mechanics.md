@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5385_analogous_to_E_warsheura_manipulation_narrative_control_mechanics.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,13 +26,4 @@ l2_run: 20261110T0603_v5agg
 
 > 片方には『奪われたままでいいのか』と訴えかけ、もう片方には『ならず者どもから先制攻撃によって身を守れ』と煽る。強硬で予防的な治安維持の政策を推し進めるように政府に働きかけ、市井には結束と武器の密売を促す。（p150）
 
-**審査（LLM 代替）**: ワルシューラの介入が対立構造を維持・加速させるメタ的な操作として機能している点で、ゲームマスター干渉とのアナロギアは妥当。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| 類推 | アナロギア | 蓋然性高 | 1 |
+**審査（LLM 代替）**: ワルシューラの介入が対立構造を維持・加速させるメタ的な操作として機能している点で、ゲームマスター干渉との類推は妥当。

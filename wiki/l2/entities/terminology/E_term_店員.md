@@ -11,13 +11,10 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/terminology/E_term_店員.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 
-> [!info] 名前統合（L2 run 20261110T0603_v5agg）
-> このページの名義「店員」は **ブルー** の別名として統合済み（確度: 明言）。正規化先: [[E_char_ブルー|ブルー]]
-
-# ブルー
+# 店員
 
 治癒符の暴落を受け、公社発行の新紙幣が基軸通貨となったことを説明する存在である。全自動で動く発光する水晶玉を用いて占いを提供しており、これは月の民の領分とされる技術である。
 
@@ -34,16 +31,19 @@ l2_run: 20261110T0603_v5agg
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **ブルー**（ID `E_char_ブルー` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **店員**（ID `E_char_店員` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 店員 | ブルー | 明言 | 3 |
 | スクライング | 水晶玉観照 | 明言 | 1 |
 | ティティ | 彩域 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「夜の民」→ 夜の民(スマルトのマネージャー)（要検証）

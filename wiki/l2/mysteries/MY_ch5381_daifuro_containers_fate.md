@@ -12,7 +12,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5381_daifuro_containers_fate.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,3 +26,15 @@ l2_run: 20261110T0603_v5agg
 > コンテナは建物の中に消えると、二度と出てくることは無かった。（p103）
 
 **審査（LLM 代替）**: コンテナが「二度と出てこない」こと自体は事実の記述であり、「気象制御システムへの介入」という因果関係は原文に明示されていない。単なる消失現象として留め、推測を削るべき。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

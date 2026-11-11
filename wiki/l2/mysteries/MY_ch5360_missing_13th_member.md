@@ -12,7 +12,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5360_missing_13th_member.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,3 +26,15 @@ l2_run: 20261110T0603_v5agg
 > マレブランケは十二人。ならば、あと一人の姿が見えない。（p250）
 
 **審査（LLM 代替）**: 「マレブランケは十二人」と明記されつつ「あと一人の姿が見えない」という矛盾した記述があり、物語内の構造的な欠落（伏線）として機能している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「アルト」→ アキラくん（要検証）

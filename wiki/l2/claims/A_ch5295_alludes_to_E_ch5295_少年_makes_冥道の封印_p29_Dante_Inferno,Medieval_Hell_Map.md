@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5295_alludes_to_E_ch5295_少年_makes_冥道の封印_p29_Dante_Inferno,Medieval_Hell_Map.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 海底に築き上げた石碑は、冥道を塞ぐ封印だ。鍵が差し込まれたが最後、冥府の門は開かれて、生と死、夢と現の境界は消滅してしまうことだろう。（p29）
 
 **審査（LLM 代替）**: 「海底」「冥道」「生と死の境界消滅」という記述は、ダンテ『神曲』における地獄（インフェルノ）の構造や境界越境というテーマを明確に下敷きとしている。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

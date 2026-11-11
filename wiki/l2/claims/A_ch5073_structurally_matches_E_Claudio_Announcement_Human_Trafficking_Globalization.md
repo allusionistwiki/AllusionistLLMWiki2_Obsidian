@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5073_structurally_matches_E_Claudio_Announcement_Human_Trafficking_Globalization.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,16 @@ l2_run: 20261110T0603_v5agg
 > 人身売買（トラフィッキング）――人権意識が自明のものとなった近代以降の社会における隠された奴隷制。 労働力の移動が当たり前のものとなった時代。グローバリズムが生む犯罪の温床がそれだ。（p291）
 
 **審査（LLM 代替）**: 引用に「人身売買」「グローバリズム」「奴隷制」という現実社会の用語が直接登場しており、物語構造との構造的対応は明確。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「奴隷」→ アキラくん（要検証）
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

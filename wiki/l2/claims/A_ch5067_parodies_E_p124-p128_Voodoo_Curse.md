@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5067_parodies_E_p124-p128_Voodoo_Curse.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > あー、つまりアレか。髪の毛を藁人形に埋め込んで五寸釘を打ち込むと、髪の毛の持ち主に災いが降りかかるヤツを大規模にしたってことか（p124）
 
 **審査（LLM 代替）**: 原文で「五寸釘を打ち込む…大規模にした」と自明な解説があり、古来の呪術（藁人形法）のパロディ・スケールアップとしての比喩が妥当である。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

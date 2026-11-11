@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5494_parodies_E_Rosa_Bee_Disguise_Espionage_Trope_Infiltration.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 弓を担ぎ、大きなイノシシをずるずると引きずって、集落へと『遠出から帰って来た』という設定だ。（p33）
 
 **審査（LLM 代替）**: 単なる変身術による潜入ではなく、「蜜蜂」というモチーフを用いた擬態がスパイ映画のステレオタイプを意図的に戯画化している点に焦点を当てるべき。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「レオ」→ レオ(猫耳の少年)（要検証）

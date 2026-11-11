@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5509_analogous_to_E_p58_firearm_mechanics.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -29,3 +29,15 @@ l2_run: 20261110T0603_v5agg
 銃を握るカルカブリーナの両手が焼けただれ、皮膚が燃え落ちていくのがはっきりとわかる。（p58-p61）
 
 **審査（LLM 代替）**: バヨネットの描写と「焼けただれる」という身体的コストは、火器運用の物理的・熱力学的な制約を忠実に反映しており、SF的なメカニクスとの整合性が高い。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

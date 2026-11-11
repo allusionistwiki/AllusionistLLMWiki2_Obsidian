@@ -9,26 +9,27 @@ canonical_name: "overprotective_caregiving"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_overprotective_caregiving.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # overprotective_caregiving
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5088_analogous_to_E_corcesca_sheltering_overprotective_caregiving]] — 戦闘不能なプロタゴニストを「守る」ために抱きかかえ行動を制限する『上』の行為は、善意による保護が結果的に相手の自律性や自尊心を奪い、精神的苦痛を増幅させるという、ケアにおける権力非対称性の逆説を示している。
+- [[A_ch5088_analogous_to_E_corcesca_sheltering_overprotective_caregiving]] — 戦闘不能な主人公を「守る」ために抱きかかえ行動を制限するコルセスカの行為は、善意による保護が結果的に相手の自律性や自尊心を奪い、精神的苦痛を増幅させるという、ケアにおける権力非対称性の逆説を示している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| 主人公 | プロタゴニスト | 明言 | 1 |
-| コルセスカ | 『上』 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「コルセスカ」→ コルセスカ(アキラ経由)（要検証）

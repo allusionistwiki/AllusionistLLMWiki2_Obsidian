@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5521_Lahab_Identity.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # Lahab_Identity
 
-戦闘で敗北した「ペリュトン（ペリュトン）」が誰であり、なぜ戦っていたのかという正体不明の存在。
+戦闘で敗北した「ペリュトン系の淫魔（ペリュトン）」が誰であり、なぜ戦っていたのかという正体不明の存在。
 
 **回収示唆**: 後にこのキャラクターの正体が判明し、主要な敵役または重要な情報源として再登場する可能性が高い。
 
@@ -30,9 +30,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ペリュトン系の淫魔 | ペリュトン | 明言 | 1 |
 | ラハブ | ペリュトン | 明言 | 1 |

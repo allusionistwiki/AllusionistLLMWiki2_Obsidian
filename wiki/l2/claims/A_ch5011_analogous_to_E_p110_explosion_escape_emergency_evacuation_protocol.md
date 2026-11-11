@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5011_analogous_to_E_p110_explosion_escape_emergency_evacuation_protocol.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,13 +26,4 @@ l2_run: 20261110T0603_v5agg
 
 > 射出された勢いや方向は全員ばらばらで、同じ場所に落ちたりはしないようだ。なんでわざわざそんなことを、と思ったが、全員ばらばらに逃げることで全体の生存率を上げる狙いがあるのだろうか？（p126）
 
-**審査（LLM 代替）**: プロタゴニストが自ら「全体の生存率を上げる狙い」と推測しており、分散行動によるリスクヘッジという論理構造が明確に示されている。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| 主人公 | プロタゴニスト | 明言 | 1 |
+**審査（LLM 代替）**: 主人公が自ら「全体の生存率を上げる狙い」と推測しており、分散行動によるリスクヘッジという論理構造が明確に示されている。

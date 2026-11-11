@@ -355,3 +355,44 @@ def extract_events(client: OpenAI, config: dict, chapter: str,
     raw_norm = norm_text(raw_text)
     events = [canonical_event_id(normalize_quote(ev, raw_norm), counter) for ev in events]
     return events
+
+
+def call_llm_with_thinking(client: OpenAI, config: dict, prompt: str,
+                           max_tokens: int = 4096, temperature: float = 0.7,
+                           json_mode: bool = False):
+    """Thinking-ON 呼び出し（enable_thinking=True）。(content, reasoning) を返す。
+
+    thinking ON 時は content が None になり得るため、ストリーミングで
+    delta.reasoning_content と delta.content を分離収集する。
+    """
+    llm = config["llm"]
+    kwargs = {
+        "model": llm.get("model"),
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": temperature,
+        "max_tokens": max_tokens,
+        "extra_body": {"chat_template_kwargs": {"enable_thinking": True}},
+    }
+    if json_mode:
+        kwargs["response_format"] = {"type": "json_object"}
+    max_retries = llm.get("max_retries", 3)
+    last_err = None
+    for attempt in range(max_retries):
+        _throttle(config)
+        try:
+            content_parts, reason_parts = [], []
+            for chunk in client.chat.completions.create(**kwargs, stream=True):
+                if not chunk.choices:
+                    continue
+                delta = chunk.choices[0].delta
+                rc = getattr(delta, "reasoning_content", None)
+                if rc:
+                    reason_parts.append(rc)
+                if delta.content:
+                    content_parts.append(delta.content)
+            return "".join(content_parts), "".join(reason_parts)
+        except Exception as e:
+            last_err = e
+            if attempt < max_retries - 1:
+                time.sleep(2 ** attempt)
+    raise RuntimeError(f"LLM thinking 呼び出し失敗（{max_retries} リトライ）: {last_err}")

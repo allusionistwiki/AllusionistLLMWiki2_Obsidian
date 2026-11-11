@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5126_analogous_to_E_5126_p68_tabloid_journalism_and_online_harassment.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,15 +27,3 @@ l2_run: 20261110T0603_v5agg
 > 手当たり次第にファンに手を出しているとか、女性関係で揉めて訴訟を起こされたとか、愛人に平手打ちされている場面を念写しただとか、ふざけたことを面白半分に記事にしている人達が多すぎる。（p68）
 
 **審査（LLM 代替）**: 「手当たり次第にファンに手を出している」「念写しただとか」といった捏造記事への批判は、現代のタブロイド紙やSNSにおけるフェイクニュース・炎上文化に対するメタファーとして機能している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「文化」→ 文化的営為（要検証）

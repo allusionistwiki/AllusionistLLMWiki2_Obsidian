@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
 normalized_from: l1/claims/A_ch5031_analogous_to_E_ch5031_サイバーカラテ道場_activates_戦闘モード_p60_ar_augmented_reality.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 視界隅にデフォルメされた人体が浮かび上がり、各種バイタルデータが次々と表示され上から下へ流れていく。 更に敵と認識した集団に一から五までの番号が割り振られる。（p61）
 
 **審査（LLM 代替）**: 視界へのオーバーレイ表示という描写は、ARやゲームUIのメタフィクショナルな引用として機能しており、作品内の技術体系と整合する。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

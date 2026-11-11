@@ -9,26 +9,28 @@ canonical_name: "white_flower_familiar,past_attack"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_white_flower_familiar,past_attack.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # white_flower_familiar,past_attack
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5137_foreshadows_E_p185_white_flower_familiar,past_attack]] — 単眼クロウサーに寄生した白い花（骨の花）は、p185で言及された「お姉様と初めて会った夜」の襲撃事件との直接的な因果・伏線関係を示唆する。
+- [[A_ch5137_foreshadows_E_p185_white_flower_familiar,past_attack]] — 単眼巨人に寄生した白い花（骨の花）は、p185で言及された「ハルベルトベルトと初めて会った夜」の襲撃事件との直接的な因果・伏線関係を示唆する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| 巨人 | クロウサー | 明言 | 1 |
-| ハルベルト | お姉様 | 明言 | 1 |
+| ハル | ハルベルト | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「ハルベルト」→ ハルベルト(幼少期)（要検証）

@@ -9,25 +9,27 @@ canonical_name: "personality_continuity_debate"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_personality_continuity_debate.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # personality_continuity_debate
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5244_alludes_to_E_p76_personality_continuity_debate]] — コルセスカの治療方針（脳機能保全のための人格の初期化）と、それに対する「自分が自分でなくなってしまうことへの恐怖」は、医療倫理におけるパーソナリティの連続性（Personality Continuity）と、認知症や重度精神疾患の治療に伴う自己同一性の喪失という問題を指している。
+- [[A_ch5244_alludes_to_E_p76_personality_continuity_debate]] — トリシューラの治療方針（脳機能保全のための人格の初期化）と、それに対する「自分が自分でなくなってしまうことへの恐怖」は、医療倫理におけるパーソナリティの連続性（Personality Continuity）と、認知症や重度精神疾患の治療に伴う自己同一性の喪失という問題を指している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| トリシューラ | コルセスカ | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「トリシューラ」→ トリシューラ(別個体)（要検証）

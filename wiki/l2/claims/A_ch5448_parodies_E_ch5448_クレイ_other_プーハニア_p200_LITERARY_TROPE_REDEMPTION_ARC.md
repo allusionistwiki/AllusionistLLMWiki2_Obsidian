@@ -17,22 +17,13 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-20"}
 normalized_from: l1/claims/A_ch5448_parodies_E_ch5448_クレイ_other_プーハニア_p200_LITERARY_TROPE_REDEMPTION_ARC.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # None
 
-> 遅いかもしれないが、お礼を言わせて欲しい。貴方は、トラック運転手を助けてくれた（p200）
+> 遅いかもしれないが、お礼を言わせて欲しい。貴方は、俺を助けてくれた（p200）
 
 **審査（LLM 代替）**: 単なる感謝の挨拶を「贖罪・救済のクリシェのパロディ」と断定するのは根拠が弱い。原文は素直な感謝であり、メタ的なパロディとしての意図（作者の意図的引用）を読み取るには情報が不足している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| 俺 | トラック運転手 | 明言 | 1 |

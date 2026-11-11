@@ -9,25 +9,15 @@ canonical_name: "cosmic_horror_indivisibility"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_cosmic_horror_indivisibility.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # cosmic_horror_indivisibility
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5582_alludes_to_E_ch5582_リーナ_observes_クラウビューラの真の姿_p95106_cosmic_horror_indivisibility]] — 人間サイズに縮小して解釈しなければ理解できない「星ネフィリム」は、人間の認知能力では捉えきれない宇宙的規模の存在（コズミック・ホラー）を象徴している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| 雲の巨人 | ネフィリム | 蓋然性高 | 1 |
+- [[A_ch5582_alludes_to_E_ch5582_リーナ_observes_クラウビューラの真の姿_p95106_cosmic_horror_indivisibility]] — 人間サイズに縮小して解釈しなければ理解できない「星雲の巨人」は、人間の認知能力では捉えきれない宇宙的規模の存在（コズミック・ホラー）を象徴している。

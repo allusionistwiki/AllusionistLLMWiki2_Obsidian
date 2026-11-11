@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5489_analogous_to_E_last_rites_catholic_last_rites.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -28,13 +28,4 @@ l2_run: 20261110T0603_v5agg
 ...
 終油の秘蹟。臨終にある者に対して行われる死への慰め。（p109-p111）
 
-**審査（LLM 代替）**: カトリックの「終油」は臨終者本人への慰めであり、プロタゴニストが敵に施す行為との倫理的な非対称性（傲慢さ）の指摘は引用文からは読み取りにくく、過度な解釈が含まれるため。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| 主人公 | プロタゴニスト | 明言 | 1 |
+**審査（LLM 代替）**: カトリックの「終油」は臨終者本人への慰めであり、主人公が敵に施す行為との倫理的な非対称性（傲慢さ）の指摘は引用文からは読み取りにくく、過度な解釈が含まれるため。

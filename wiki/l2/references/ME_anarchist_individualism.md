@@ -9,27 +9,24 @@ canonical_name: "anarchist_individualism"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_anarchist_individualism.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # anarchist_individualism
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5241_alludes_to_E_p380_anarchist_individualism]] — ゼドの「トラック運転手の霊媒はトラック運転手だけだ」「フェロニアに気ままに束縛されずに」という信条は、無政府主義や個人主義、および無法者（アウトロー）の自己統治を理想とする思想に呼応している。
+- [[A_ch5241_alludes_to_E_p380_anarchist_individualism]] — ゼドの「俺の王は俺だけだ」「フェロニアに気ままに束縛されずに」という信条は、無政府主義や個人主義、および無法者（アウトロー）の自己統治を理想とする思想に呼応している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 俺 | トラック運転手 | 明言 | 2 |
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| 王 | 霊媒 | 明言 | 1 |
 | 自由 | フェロニア | 明言 | 1 |

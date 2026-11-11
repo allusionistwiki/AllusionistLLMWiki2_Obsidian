@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5118_analogous_to_E_lole_value_system_pvp_game_ranking.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 敵を倒すと呪力によって何らかの価値あるものが生成される――つまり文字通り金が湧いて出てくるのだとか。戦って勝利すれば自他の相対的な実力差と、相手の絶対的な強さの評価に応じてリターンがあり、格下に挑むと逆にレートが下がってデメリットになる。（p205）
 
 **審査（LLM 代替）**: 「格下狩り」によるレート低下というゲームメカニクス（MMO等のEloレートの模倣）が、物語内の経済・社会システムとして描写されていることが明確。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

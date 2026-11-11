@@ -9,25 +9,28 @@ canonical_name: "deepfake_manipulation"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_deepfake_manipulation.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # deepfake_manipulation
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5151_analogous_to_E_harbert_tampering_deepfake_manipulation]] — お姉様が録音音声の文脈を削除・編集して敵意を強調する行為は、現代におけるニュースやSNSにおける断片化された情報による世論操作（フレームワーク操作）の構造と一致する。
+- [[A_ch5151_analogous_to_E_harbert_tampering_deepfake_manipulation]] — ハルベルトベルトが録音音声の文脈を削除・編集して敵意を強調する行為は、現代におけるニュースやSNSにおける断片化された情報による世論操作（フレームワーク操作）の構造と一致する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| ハルベルト | お姉様 | 明言 | 1 |
+| ハル | ハルベルト | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「ハルベルト」→ ハルベルト(幼少期)（要検証）

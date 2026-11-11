@@ -9,25 +9,15 @@ canonical_name: "ME_Anubis_Egyptian_Mythology"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ME_Anubis_Egyptian_Mythology.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # ME_Anubis_Egyptian_Mythology
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5402_alludes_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Anubis_Egyptian_Mythology]] — 『アヌビス』という名称はエジプト神話の死者の案内人・ミイラ化の神を指し、冷凍睡眠装置が死後の世界への門ウェイであることを暗示している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| ゲート | 門 | 蓋然性高 | 1 |
+- [[A_ch5402_alludes_to_E_ch5402_ちびシューラ_appears_アキラの視界_p4_ME_Anubis_Egyptian_Mythology]] — 『アヌビス』という名称はエジプト神話の死者の案内人・ミイラ化の神を指し、冷凍睡眠装置が死後の世界へのゲートウェイであることを暗示している。

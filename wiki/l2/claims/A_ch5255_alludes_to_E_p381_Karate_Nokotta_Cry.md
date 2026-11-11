@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5255_alludes_to_E_p381_Karate_Nokotta_Cry.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# プロタゴニストが叫ぶ「NOKOTTA!」は、アカシャ手などの武術で技の終了時に発する気合である。
+# 主人公が叫ぶ「NOKOTTA!」は、アカシャ手などの武術で技の終了時に発する気合である。
 
 > 「NOKOTTA!」
 「残ったぁっ！」（p381-p383）
@@ -32,9 +32,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 空 | アカシャ | 明言 | 2 |
-| 主人公 | プロタゴニスト | 明言 | 1 |

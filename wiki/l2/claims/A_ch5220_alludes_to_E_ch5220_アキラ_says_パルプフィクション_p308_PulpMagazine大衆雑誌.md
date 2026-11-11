@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5220_alludes_to_E_ch5220_アキラ_says_パルプフィクション_p308_PulpMagazine大衆雑誌.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,15 +27,3 @@ l2_run: 20261110T0603_v5agg
 > 当然だ。それらは過去に大量生産された娯楽小説の群れ。（p320）
 
 **審査（LLM 代替）**: 「パルプ・フィクション」が安価な大量生産小説を指す歴史用語であることは事実であり、原文の文脈（陳腐だが有効な物語）と一致する。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「魔将」→ フィリス（要検証）

@@ -9,24 +9,15 @@ canonical_name: "programming_languages_text_based"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_programming_languages_text_based.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # programming_languages_text_based
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5576_alludes_to_E_ch5576_リーナ_thinks_テキストベース・サーキット_p158_programming_languages_text_based]] — 「テキストベース・サーキット」という呟きは、世界がプログラミング言語やコードによって記述・実行されるシステムであることを示唆するメタファーである。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

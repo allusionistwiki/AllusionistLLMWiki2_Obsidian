@@ -9,24 +9,15 @@ canonical_name: "AR_Apps"
 domain: "Contemporary Consumer Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_AR_Apps.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # AR_Apps
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5010_analogous_to_E_p45_AR_Apps]] — 異世界の剣術戦において、ARアプリによる軌道予測と身体制御アシストが現実的な戦闘支援ツールとして機能している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

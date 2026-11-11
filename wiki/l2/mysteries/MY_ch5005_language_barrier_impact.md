@@ -12,7 +12,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5005_language_barrier_impact.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -23,15 +23,6 @@ l2_run: 20261110T0603_v5agg
 
 **回収示唆**: 言語障壁が原因での誤解による離反、またはジェスチャーのみでの高度な連携の成功。
 
-> なにしろカインらが何を喋っているのか全く理解不能なのだ。（p17）
+> なにしろ彼らが何を喋っているのか全く理解不能なのだ。（p17）
 
 **審査（LLM 代替）**: 言語理解の欠如という制約条件が、パーティ内の信頼構築や戦術遂行における摩擦（障害）として機能する可能性を示唆しており、今後の展開への伏線として有効である。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| 彼 | カイン | 蓋然性高 | 1 |

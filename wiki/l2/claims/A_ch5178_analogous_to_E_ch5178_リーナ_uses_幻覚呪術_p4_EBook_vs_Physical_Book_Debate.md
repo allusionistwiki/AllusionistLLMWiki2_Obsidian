@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
 normalized_from: l1/claims/A_ch5178_analogous_to_E_ch5178_リーナ_uses_幻覚呪術_p4_EBook_vs_Physical_Book_Debate.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 実体の存在しない純粋に情報的な書籍でも、幻覚呪術によって『手触り』を再現して重さや項をめくる際の紙の質感などを再現することができる。（p4）
 
 **審査（LLM 代替）**: 「電子書籍普及時代のノスタルジー」という現代的な比喩は原文の文脈（魔法世界）からやや読み取りすぎであり、「情報体への物理的実在感付与」という内面的な主題として留めるべき。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

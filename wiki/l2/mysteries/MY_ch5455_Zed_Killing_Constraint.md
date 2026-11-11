@@ -12,7 +12,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5455_Zed_Killing_Constraint.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -25,16 +25,15 @@ l2_run: 20261110T0603_v5agg
 
 > 俺は、きっと奴を殺せないだろう。
 いや、というよりも。
-あのキロンだけは、決して殺してはならないのだ。（p236-p238）
+あの男だけは、決して殺してはならないのだ。（p236-p238）
 
 **審査（LLM 代替）**: 「殺してはならない」という制約が提示され、その理由が明かされていないことは明確な伏線（謎）として成立する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | シナモリアキラ | 俺 | 明言 | 3 |
-| 男 | キロン | 明言 | 1 |

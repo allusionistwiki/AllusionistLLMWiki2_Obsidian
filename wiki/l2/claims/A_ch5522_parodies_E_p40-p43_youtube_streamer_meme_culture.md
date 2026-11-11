@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5522_parodies_E_p40-p43_youtube_streamer_meme_culture.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -29,15 +29,3 @@ l2_run: 20261110T0603_v5agg
 とある有名な動画配信者が使い始めた、大胆不敵な犯行声明。（p40-p43）
 
 **審査（LLM 代替）**: 「ミーム化して久しい陳腐な...定型句」「動画配信者」という語彙が明示されており、現代のネット文化（ストリーマー・ミーム）への直接風刺として根拠十分。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「文化」→ 文化的営為（要検証）

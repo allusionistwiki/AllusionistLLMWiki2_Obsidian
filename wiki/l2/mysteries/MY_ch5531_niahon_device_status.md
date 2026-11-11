@@ -12,7 +12,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5531_niahon_device_status.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,15 +26,3 @@ l2_run: 20261110T0603_v5agg
 > 「にあ～』と弱々しい声で鳴くニアホンは、端末機能を停止された上で無力化されているようだった。（p113）
 
 **審査（LLM 代替）**: 「にあ～」という音声や端末機能停止という具体的描写が、ニアホンの状態（データ抽出の有無等）に関する謎を提示しており、伏線として有効。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「レナ」→ レナリア（要検証）

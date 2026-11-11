@@ -17,22 +17,13 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5129_analogous_to_E_p123_smartphone_communication.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # 探索者協会が端末を用いた遠隔通信で人材を即座に集める描写は、現代のスマートフォンによるギルド募集や緊急招集システムを想起させるメタファーである。
 
-> キロンは端末を取り出すと、どこかの誰かに連絡を取り始めた。（p123）
+> 男は端末を取り出すと、どこかの誰かに連絡を取り始めた。（p123）
 
 **審査（LLM 代替）**: 原文は「端末」を用いた連絡のみであり、「アプリ」「即時連絡」という現代スマホ特有の機能への限定は読みすぎ。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| 男 | キロン | 明言 | 1 |

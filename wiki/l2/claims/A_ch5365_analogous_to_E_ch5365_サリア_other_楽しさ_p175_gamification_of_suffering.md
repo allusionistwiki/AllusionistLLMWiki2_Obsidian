@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5365_analogous_to_E_ch5365_サリア_other_楽しさ_p175_gamification_of_suffering.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,15 +27,6 @@ l2_run: 20261110T0603_v5agg
 > 「――楽しいから」
 狂ったように、サリアが笑う。
 勝算など無くていい。称賛などあるわけがない。
-欲しいのは、カイン女と歩む永劫の道。（p175-p179）
+欲しいのは、彼女と歩む永劫の道。（p175-p179）
 
 **審査（LLM 代替）**: 死のループを「楽しい」と称賛する描写は、苦痛のゲーム化（gamification）および狂気的な受容を示しており、テーマとして確立している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| 彼 | カイン | 蓋然性高 | 1 |

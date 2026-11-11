@@ -17,12 +17,12 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5369_structurally_matches_E_p24-p67_time_travel_narrative_structure.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
-# 俺霊媒の「未来を回想し、過去へ旅立つ」という行為は、タイムトラベルSFにおける因果律逆転の構文そのものである。
+# オルヴァ王の「未来を回想し、過去へ旅立つ」という行為は、タイムトラベルSFにおける因果律逆転の構文そのものである。
 
 > そう、必要なのは未来を回想し、過去へ旅立つことだったのではないか。（p57）
 
@@ -31,9 +31,11 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| オルヴァ | 俺 | 明言 | 1 |
-| 王 | 霊媒 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「オルヴァ」→ オルヴァ(解放直後)（要検証）

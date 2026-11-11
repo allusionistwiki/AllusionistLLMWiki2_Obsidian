@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_塗壁（ぬりかべ.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 
 # 塗壁（ぬりかべ
@@ -44,7 +44,7 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
@@ -54,4 +54,4 @@ l2_run: 20261110T0603_v5agg
 
 
 注記（置換しない）:
-- 未置換（要検証）: 「塗壁(ぬりかべ」→ アキラくん（要検証）
+- 未置換（要検証）: 「塗壁」→ 塗壁(ドガマル)（要検証）

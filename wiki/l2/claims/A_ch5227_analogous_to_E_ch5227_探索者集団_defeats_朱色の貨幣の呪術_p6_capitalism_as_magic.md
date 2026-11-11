@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5227_analogous_to_E_ch5227_探索者集団_defeats_朱色の貨幣の呪術_p6_capitalism_as_magic.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 資本主義ミームを操作し、朱色の貨幣にてありとあらゆる『夢』を支配する万能の呪術を、探索者の集団は統制のとれた動きで凌ぎ続けている。（p6）
 
 **審査（LLM 代替）**: 資本主義という抽象概念を「呪術」という魔法システム経由で可視化しており、作品のメタ構造（現実の社会システムの異世界移植）と整合している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

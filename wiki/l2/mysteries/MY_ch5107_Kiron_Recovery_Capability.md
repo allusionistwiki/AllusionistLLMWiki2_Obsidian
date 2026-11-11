@@ -12,7 +12,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
 normalized_from: l1/mysteries/MY_ch5107_Kiron_Recovery_Capability.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,3 +26,15 @@ l2_run: 20261110T0603_v5agg
 > 鞭のようにしなった両腕が伸びていき、一瞬で元の状態に復元される。異常な回復能力もまた健在のようだった。（p96）
 
 **審査（LLM 代替）**: 腕の復元描写は事実であるが、「長期化や決着の鍵となる」という未来予測的な伏線判定は原文に根拠がなく、単なる能力描写として留めるべき。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

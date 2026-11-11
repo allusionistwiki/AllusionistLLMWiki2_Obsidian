@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5315_Six_Kings_CyberKarate.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # Six_Kings_CyberKarate
 
-六霊媒が記憶し、世界に波及した「元祖サイバーカラテ」の全貌と、それが語り手をどう変えるか。
+六王が記憶し、世界に波及した「元祖サイバーカラテ」の全貌と、それが語り手をどう変えるか。
 
 **回収示唆**: 語り手が「サイバーカラテそのもの」として覚醒し、物語上の最強能力（権威）を手にするプロセス。
 
@@ -31,9 +31,12 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アキラ | 語り手 | 明言 | 2 |
-| 王 | 霊媒 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「六王」→ 六人の王（要検証）

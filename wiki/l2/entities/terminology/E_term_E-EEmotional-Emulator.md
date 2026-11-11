@@ -12,18 +12,18 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_E-EEmotional-Emulator.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
-# E-EE-E
+# E-EEmotional-Emulator
 
 （本文：人間が記述する部分。自動生成では変更されません。）
 
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
-- **unknown**: 人格に深く根ざした感覚・感情制御アプリ『E-E』＝『E-E』はそれ自体が俺をエミュレートして、あらゆる決定を代行している。
+- **unknown**: 人格に深く根ざした感覚・感情制御アプリ『E-E』＝『Emotional-Emulator』はそれ自体がシナモリ・語り手をエミュレートして、あらゆる決定を代行している。
 決断をアウトソーシングする為のアプリケーション。
-- **unknown**: 人格に深く根ざした感覚・感情制御アプリ『E-E』＝『E-E』はそれ自体が俺をエミュレートして、あらゆる決定を代行している。
+- **unknown**: 人格に深く根ざした感覚・感情制御アプリ『E-E』＝『Emotional-Emulator』はそれ自体がシナモリ・語り手をエミュレートして、あらゆる決定を代行している。
 
 <!-- /AUTO-GENERATED:name -->
 
@@ -36,10 +36,9 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| Emotional-Emulator | E-E | 明言 | 3 |
-| シナモリ・アキラ | 俺 | 明言 | 2 |
+| アキラ | 語り手 | 明言 | 2 |
 | ティティ | 彩域 | 明言 | 1 |

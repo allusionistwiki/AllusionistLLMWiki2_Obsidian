@@ -12,9 +12,9 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/characters/E_char_王獣カッサリオ.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
-# 霊媒獣カッサリオ
+# 王獣カッサリオ
 
 （本文：人間が記述する部分。自動生成では変更されません。）
 
@@ -22,7 +22,7 @@ l2_run: 20261110T0603_v5agg
 ## 視覚的記述
 
 - **unknown**: その時凄まじい破壊の渦が両者の間を貫く。
-「霊媒獣カッサリオ、なんでこんなところに？！」
+「王獣カッサリオ、なんでこんなところに？！」
 - **unknown**: その時凄まじい破壊の渦が両者の間を貫く。
 
 <!-- /AUTO-GENERATED:visual -->
@@ -30,15 +30,14 @@ l2_run: 20261110T0603_v5agg
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **霊媒獣カッサリオ**（ID `E_char_霊媒獣カッサリオ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エン彩域 **王獣カッサリオ**（ID `E_char_王獣カッサリオ` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 王 | 霊媒 | 明言 | 4 |
 | ティティ | 彩域 | 明言 | 1 |

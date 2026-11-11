@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5132_structurally_matches_E_p119_Sling_Physics.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -29,3 +29,15 @@ l2_run: 20261110T0603_v5agg
 投石器（スリングショット）。（p118-p119）
 
 **審査（LLM 代替）**: 「弾性エネルギーが運動エネルギーに変換される」「投石器（スリングショット）」という記述は、呪術発動を物理学的力学原理として明示的に記述しており、魔法の科学技術的実装の根拠となる。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

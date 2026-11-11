@@ -9,25 +9,27 @@ canonical_name: "shakespearean_fool"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_shakespearean_fool.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # shakespearean_fool
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5333_alludes_to_E_ch5333_ミヒトネッセ_reveals_英雄の滑稽さ_p51_shakespearean_fool]] — 「英雄」の役割を「アルレッキーノ（コメディ）」と同一視し、その滑稽さを認めることで、物語における権威や英雄叙事的構造の不条理を突いている。
+- [[A_ch5333_alludes_to_E_ch5333_ミヒトネッセ_reveals_英雄の滑稽さ_p51_shakespearean_fool]] — 「英雄」の役割を「道化（コメディ）」と同一視し、その滑稽さを認めることで、物語における権威や英雄叙事的構造の不条理を突いている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| 道化 | アルレッキーノ | 蓋然性高 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「spear」→ アキラくん（要検証）

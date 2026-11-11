@@ -9,25 +9,27 @@ canonical_name: "ai_backup_and_cloud_computing"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ai_backup_and_cloud_computing.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # ai_backup_and_cloud_computing
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5279_analogous_to_E_ch5279_トリシューラ_activates_スタンドアロンシューラ_p269_ai_backup_and_cloud_computing]] — 物理的な肉体を持たない状態で起動する『スタンドアロンシューラ』は、クラウド上のAIバックアップやデフォルメされたVRデーモンを想起させる。
+- [[A_ch5279_analogous_to_E_ch5279_トリシューラ_activates_スタンドアロンシューラ_p269_ai_backup_and_cloud_computing]] — 物理的な肉体を持たない状態で起動する『スタンドアロンシューラ』は、クラウド上のAIバックアップやデフォルメされたVRアバターを想起させる。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| アバター | デーモン | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「トリシューラ」→ トリシューラ(別個体)（要検証）

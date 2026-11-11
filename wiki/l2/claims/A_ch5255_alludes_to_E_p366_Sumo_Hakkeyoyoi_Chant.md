@@ -17,14 +17,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5255_alludes_to_E_p366_Sumo_Hakkeyoyoi_Chant.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # 行司と力士が声を揃えて叫ぶ「発気、よぉぉぉぉぉい」は、相撲の取開始時に行われる掛け声である。
 
-> 行司姿のキロンと力士の女が声を揃えて高らかに叫ぶ。
+> 行司姿の男と力士の女が声を揃えて高らかに叫ぶ。
 「発気、よぉぉぉぉぉい」（p364-p366）
 
 **審査（LLM 代替）**: 相撲の開始時に行われる「発気」の声掛けを正確に描写しており、伝統儀式としてのアリュージョンが成立している。
@@ -32,9 +32,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 男 | キロン | 明言 | 1 |
 | 引喩 | アリュージョン | 明言 | 1 |

@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5548_blue_domain_recovery.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # blue_domain_recovery
 
-テセトが目標とする「正統なる『シアン』を奪還するため」という計画の全貌と、そのための「融血呪混沌の儀」。
+テセトが目標とする「正統なる『シアン』を奪還するため」という計画の全貌と、そのための「融血混沌の儀」。
 
 **回収示唆**: 「藍域」と「シアン」が何を指すのか、そしてこの儀礼が世界に何をもたらすかの回収。
 
@@ -30,9 +30,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 明藍 | シアン | 明言 | 4 |
-| 融血 | 融血呪 | 蓋然性高 | 1 |

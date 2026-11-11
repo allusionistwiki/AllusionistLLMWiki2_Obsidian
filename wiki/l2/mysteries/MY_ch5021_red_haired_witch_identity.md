@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5021_red_haired_witch_identity.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # red_haired_witch_identity
 
-独房で祈る者（語り手？）を見守り、世界を俯瞰する赤い髪の魔女。カイン女が「祈り」を「鈍器」に変える行為は、物語の構造を暴力で書き換えるメタ行為を示唆する。
+独房で祈る者（語り手？）を見守り、世界を俯瞰する赤い髪の魔女。彼女が「祈り」を「鈍器」に変える行為は、物語の構造を暴力で書き換えるメタ行為を示唆する。
 
 **回収示唆**: 魔女が物語の編集者、あるいは世界の管理者として機能し、語り手を最終的な決着へと導く。
 
@@ -30,9 +30,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アキラ | 語り手 | 明言 | 2 |
-| 彼 | カイン | 蓋然性高 | 1 |

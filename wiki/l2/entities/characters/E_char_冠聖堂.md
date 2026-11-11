@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_冠聖堂.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 
 # 冠聖堂
@@ -28,7 +28,7 @@ l2_run: 20261110T0603_v5agg
 
 ## 関連クレーム
 
-- [[A_ch5574_alludes_to_E_ch5574_オーブルディース・エジーメ・クロウサー_names_冠聖堂_p17_Religious_Canonization|亡霊による霊媒権叙任式]]
+- [[A_ch5574_alludes_to_E_ch5574_オーブルディース・エジーメ・クロウサー_names_冠聖堂_p17_Religious_Canonization|亡霊による王権叙任式]]
 
 <!-- AUTO:END -->
 
@@ -41,10 +41,13 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | オーブ | 氷の球体 | 明言 | 3 |
-| 王 | 霊媒 | 明言 | 1 |
 | ティティ | 彩域 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「亡霊」→ 亡霊(ゴースト)（要検証）

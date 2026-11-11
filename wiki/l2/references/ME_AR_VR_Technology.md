@@ -9,24 +9,15 @@ canonical_name: "AR_VR_Technology"
 domain: "Contemporary Consumer Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_AR_VR_Technology.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # AR_VR_Technology
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5067_structurally_matches_E_p141-p143_AR_VR_Technology]] — ミニチュア世界での行動が現実に反映されるシステムは、AR（拡張現実）やVR（仮想現実）の「デジタル操作が物理世界に影響を与える」メカニズムに構造が対応する。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

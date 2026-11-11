@@ -12,7 +12,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5290_fellonia_abduction.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -23,15 +23,6 @@ l2_run: 20261110T0603_v5agg
 
 **回収示唆**: フェロニアの運命が物語の中心に据えられ、カーティスとの対立または和解のプロットへ展開する。
 
-> 「攫いに来たよ――カインの花嫁」（p288）
+> 「攫いに来たよ――私の花嫁」（p288）
 
 **審査（LLM 代替）**: カーティスがフェロニアを「花嫁」と呼んで攫うという行動の動機と結末が、提示された引用内では解決されておらず、今後の展開に対する謎として機能している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| 私 | カイン | 蓋然性高 | 1 |

@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5326_alludes_to_E_ch5326_ミヒトネッセ_activates_球神の加護_p2_psychoanalysis_defense_mechanisms.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,16 @@ l2_run: 20261110T0603_v5agg
 > 「摂取（イントロジェクション）」（p175）
 
 **審査（LLM 代替）**: 引用は術語の提示のみであり、フロイトやメルロ＝ポンティへの直接的な言及がないため、心理学的専門知識の混入とみなせる。原文の『他者の感情を吸収・複写する』という記述に限定し、学術的援用を削除すべき。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）
+- 未置換（要検証）: 「投影」→ 投影(呪術)（要検証）

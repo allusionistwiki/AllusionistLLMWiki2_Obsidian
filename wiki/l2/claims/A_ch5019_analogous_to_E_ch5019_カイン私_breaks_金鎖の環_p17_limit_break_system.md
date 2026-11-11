@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5019_analogous_to_E_ch5019_カイン私_breaks_金鎖の環_p17_limit_break_system.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,15 +27,3 @@ l2_run: 20261110T0603_v5agg
 > 完全な名を告げると共に、異獣が活性化する。手首の金鎖、その最後の一つが砕け散った。（p17）
 
 **審査（LLM 代替）**: 「金鎖の破壊」による「能力（異獣）の活性化」という因果関係は、ゲームにおける「リミッター解除」「限界突破」の標準的な演出メカニズムと構造的に一致する。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「金鎖」→ フィリス（要検証）

@@ -9,25 +9,16 @@ canonical_name: "cyber_karate_dojo"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_cyber_karate_dojo.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # cyber_karate_dojo
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (2 件)
 
 - [[A_ch5041_structurally_matches_E_flash_app_cyber_karate_dojo]] — 『サイバーカラテ道場』と『Doppler』の同期は、複数のゲーム的要素（AR/音響解析）を組み合わせることで異世界ルールを上回る戦闘力を得る「チート的」な戦術構成を示している。
 - [[A_ch5425_analogous_to_E_シナモリアキラ_Cyber_Karate_Dojo]] — 球体関節人形が「サイバーカラテ」という武術流派を修得し、道場アラートや検索機能を用いて戦闘解析を行う。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

@@ -9,25 +9,28 @@ canonical_name: "political_intervention_in_military"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_political_intervention_in_military.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # political_intervention_in_military
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5493_analogous_to_E_p55_political_intervention_in_military]] — 「自分たちにとって都合の悪い政治的干渉を排除したい」というマリーの内面描写は、軍事組織における派閥抗争や政治的介入に対する現場のカウンターパワー（対抗力）を示唆している。
+- [[A_ch5493_analogous_to_E_p55_political_intervention_in_military]] — 「自分たちにとって都合の悪い政治的干渉を排除したい」というアズーリアの内面描写は、軍事組織における派閥抗争や政治的介入に対する現場のカウンターパワー（対抗力）を示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| アズーリア | マリー | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「アズ」→ アズーリア（要検証）
+- 未置換（要検証）: 「アズーリア」→ アズーリア(報告書)（要検証）

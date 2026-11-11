@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5539_alludes_to_E_p368_primordial_underworld_concepts.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 大断絶の前、ジャッフハリムに天獄という観念が成立する前には『下方』に広がる闇の異界こそが地獄だった。（p368）
 
 **審査（LLM 代替）**: 「天獄（天国）が成立する前の地獄＝下方の闇」という記述は、古代の地下世界信仰（シェオル等）と後の天上楽園信仰の対比という宗教史的概念を正確に反映している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

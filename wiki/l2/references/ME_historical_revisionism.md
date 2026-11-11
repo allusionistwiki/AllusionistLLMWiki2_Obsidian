@@ -9,28 +9,15 @@ canonical_name: "historical_revisionism"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_historical_revisionism.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # historical_revisionism
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5507_alludes_to_E_ch5507_クレナリーザ_says_歴史の改変と沼地の真実_p189_historical_revisionism]] — 「歴史など変えられる」という主張は、勝者による歴史の書き換え（イデオロギー的史観）や、過去の再構成が現在の秩序を正当化することを暗示する。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「レナ」→ レナリア（要検証）

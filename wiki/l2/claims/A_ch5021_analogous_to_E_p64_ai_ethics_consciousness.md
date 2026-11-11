@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5021_analogous_to_E_p64_ai_ethics_consciousness.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > いちおう、理論上は呪文を自動的に唱える機器とか、独自の見解を提示できる人工知能にも呪術は使えるよ？ けど一度でも魂が無いって観測されてしまった存在は、呪術の質が著しく落ちる。（p64）
 
 **審査（LLM 代替）**: 「意識」の哲学的問題への直接反映は読みすぎであり、「魂（主体性/内面）の有無が技術の効力（呪術/AI出力）を決定する」という構造上の類似性として限定すべき。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

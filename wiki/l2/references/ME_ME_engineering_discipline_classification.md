@@ -9,25 +9,28 @@ canonical_name: "ME_engineering_discipline_classification"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ME_engineering_discipline_classification.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # ME_engineering_discipline_classification
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5044_parodies_E_ch5044_トリシューラ_has_property_杖専門_p41_ME_engineering_discipline_classification]] — 魔法の四大系統のうち「箒」をテクノロジー・エンジニアリング・医術（生体部品）に分類するのは、ファンタジーの呪術体系を工学分野へ翻訳する現代の科学主義的パラダイムである。
+- [[A_ch5044_parodies_E_ch5044_トリシューラ_has_property_杖専門_p41_ME_engineering_discipline_classification]] — 魔法の四大系統のうち「杖」をテクノロジー・エンジニアリング・医術（生体部品）に分類するのは、ファンタジーの呪術体系を工学分野へ翻訳する現代の科学主義的パラダイムである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| 杖 | 箒 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「トリシューラ」→ トリシューラ(別個体)（要検証）
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

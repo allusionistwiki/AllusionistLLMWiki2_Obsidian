@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5021_structurally_matches_E_p195_dark_web_marketplaces.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 両勢力は即座にあらゆる交換可能な資本の流出を禁止するべく対策を講じた。が、それは同時に第五階層に流入する物や人が地下化することを意味し、暴力と犯罪が跳梁する闇市場を迷宮内に成立させることとなる。（p195）
 
 **審査（LLM 代替）**: 公式取引禁止による地下化・闇市場の成立は、規制経済圏におけるダークウェブ等の非正規流通網の発達という現代の経済構造と構造的に一致する。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

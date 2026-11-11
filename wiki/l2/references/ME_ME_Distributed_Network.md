@@ -9,28 +9,15 @@ canonical_name: "ME_Distributed_Network"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ME_Distributed_Network.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # ME_Distributed_Network
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5202_analogous_to_E_ch5202_金鎖細胞_has_property_分散型通信機能_p239_ME_Distributed_Network]] — 中枢を失っても途絶えない金鎖細胞の通信網は、単一障害点を排除した分散コンピューティング技術のメタファーである。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-
-
-注記（置換しない）:
-- 未置換（要検証）: 「金鎖」→ フィリス（要検証）

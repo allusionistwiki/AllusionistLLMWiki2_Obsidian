@@ -9,25 +9,24 @@ canonical_name: "insurance_product_low_income_migration"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_insurance_product_low_income_migration.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # insurance_product_low_income_migration
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5257_analogous_to_E_ch5257_シナモリアキラ_other_穏当な帰化と共存_p3_insurance_product_low_income_migration]] — 転生保険会社が「低所得層向けの新商品」として、俺の事例を安価な実験ケースとして利用し、「太く短い充実した転生」というコンセプトでビジネス展開している様子は、現代における労働力不足を補うための安価な短期移住プログラムや、保険商品の低価格化戦略（プランの縮小・サポートの打ち切り）と構造的に一致する。
+- [[A_ch5257_analogous_to_E_ch5257_シナモリアキラ_other_穏当な帰化と共存_p3_insurance_product_low_income_migration]] — 転生保険会社が「低所得層向けの新商品」として、シナモリ・語り手の事例を安価な実験ケースとして利用し、「太く短い充実した転生」というコンセプトでビジネス展開している様子は、現代における労働力不足を補うための安価な短期移住プログラムや、保険商品の低価格化戦略（プランの縮小・サポートの打ち切り）と構造的に一致する。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| シナモリ・アキラ | 俺 | 明言 | 1 |
+| アキラ | 語り手 | 明言 | 1 |

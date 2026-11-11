@@ -9,24 +9,28 @@ canonical_name: "nuclear_deterrence_mutually_assured_destruction"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_nuclear_deterrence_mutually_assured_destruction.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # nuclear_deterrence_mutually_assured_destruction
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5156_alludes_to_E_ch5156_ハルベルト_activates_静謐_p149_nuclear_deterrence_mutually_assured_destruction]] — あらゆる呪術を無効化する「静謐」の結界は、高度な対抗手段が存在すること自体が争いを抑制し形態を「静止」させるパラドックス（相互抑止論）のアナロギアである。
+- [[A_ch5156_alludes_to_E_ch5156_ハルベルト_activates_静謐_p149_nuclear_deterrence_mutually_assured_destruction]] — あらゆる呪術を無効化する「静謐」の結界は、高度な対抗手段が存在すること自体が争いを抑制し形態を「静止」させるパラドックス（相互抑止論）のアナロジーである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 2 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「ハルベルト」→ ハルベルト(幼少期)（要検証）
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

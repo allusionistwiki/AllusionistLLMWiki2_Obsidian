@@ -20,7 +20,7 @@ organizations:
 - '[[E_org_学院]]'
 - '[[E_org_父兄]]'
 normalized_from: l1/episodes/O_ch0188_summary.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 # ch0188
 
@@ -60,7 +60,7 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

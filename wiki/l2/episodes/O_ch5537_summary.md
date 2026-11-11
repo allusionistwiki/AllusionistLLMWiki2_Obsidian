@@ -11,7 +11,7 @@ updated: '2026-10-21'
 terminology:
 - '[[E_term_第六階層ラフディ]]'
 normalized_from: l1/episodes/O_ch5537_summary.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 # ch5537
 
@@ -40,7 +40,7 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

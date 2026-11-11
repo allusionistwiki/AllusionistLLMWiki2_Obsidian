@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5231_alludes_to_E_5231_Company_Organized_Crime_Yakuza.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,13 +26,4 @@ l2_run: 20261110T0603_v5agg
 
 > それは呪力を高める為に民間宗教という形式をとり、首領と呼ばれる頭目を頂点とした疑似家族的な犯罪組織を形成しており、現在もその名残がある。（p265）
 
-**審査（LLM 代替）**: 民間宗教形式をとり疑似家族的な犯罪組織であるという記述は、現実のマフィア・ヤクザの起源論との強いアナロギアを示している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
+**審査（LLM 代替）**: 民間宗教形式をとり疑似家族的な犯罪組織であるという記述は、現実のマフィア・ヤクザの起源論との強いアナロジーを示している。

@@ -9,24 +9,15 @@ canonical_name: "emotional_contagion"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_emotional_contagion.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # emotional_contagion
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5426_analogous_to_E_5426_p120_emotional_contagion]] — 悪意が流行病のように蔓延するという描写は、集団心理における感情伝染（エモーショナル・コントレジオン）や群集ヒステリーを想起させる。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

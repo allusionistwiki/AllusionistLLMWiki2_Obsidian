@@ -9,26 +9,24 @@ canonical_name: "android_trope"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_android_trope.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # android_trope
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5116_analogous_to_E_p19_android_trope]] — プロタゴニストの義肢が、中身のないアカシャ虚さを補うための外装追加による無限強化を行う構造は、Androidにおけるソフトウェア更新やハードウェア拡張のメタファーである。
+- [[A_ch5116_analogous_to_E_p19_android_trope]] — 主人公の義肢が、中身のないアカシャ虚さを補うための外装追加による無限強化を行う構造は、Androidにおけるソフトウェア更新やハードウェア拡張のメタファーである。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| 主人公 | プロタゴニスト | 明言 | 1 |
 | 空 | アカシャ | 明言 | 1 |

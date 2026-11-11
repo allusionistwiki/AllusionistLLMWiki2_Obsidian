@@ -12,14 +12,14 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/mysteries/MY_ch5328_Mihitonezze_Theatrical_Sorcery_Active.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # Mihitonezze_Theatrical_Sorcery_Active
 
-コルセスカが「もうされてるっぽい」と言い淀むのは、敵の呪術による干渉が既に始まっていることを示す。
+トリシューラが「もうされてるっぽい」と言い淀むのは、敵の呪術による干渉が既に始まっていることを示す。
 
 **回収示唆**: 第五階層で起きている治安悪化や語り手の性的欲求の異常は、ミヒトネッセによる「演劇魔術（未来変更）」の一部であることが明かされる展開への伏線。
 
@@ -32,9 +32,13 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| トリシューラ | コルセスカ | 明言 | 1 |
 | アキラ | 語り手 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「トリシューラ」→ トリシューラ(別個体)（要検証）
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

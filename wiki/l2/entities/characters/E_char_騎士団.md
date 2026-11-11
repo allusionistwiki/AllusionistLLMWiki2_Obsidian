@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_騎士団.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 
 # 騎士団
@@ -28,7 +28,7 @@ l2_run: 20261110T0603_v5agg
 
 ## 関連クレーム
 
-- [[A_ch5125_analogous_to_E_ch5125_青年_other_騎士団_p115_activism_and_surveillance_state|監視社会と言論弾圧のリビングアーマー拘束]]
+- [[A_ch5125_analogous_to_E_ch5125_青年_other_騎士団_p115_activism_and_surveillance_state|監視社会と言論弾圧の自動鎧拘束]]
 
 <!-- AUTO:END -->
 
@@ -41,11 +41,14 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 戦争 | ゲーム | 明言 | 2 |
 | アキラ | 語り手 | 明言 | 1 |
-| 自動鎧 | リビングアーマー | 明言 | 1 |
 | ティティ | 彩域 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「下」→ 下(階層)（要検証）

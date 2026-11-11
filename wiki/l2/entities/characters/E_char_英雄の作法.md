@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_英雄の作法.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 
 # 英雄の作法
@@ -31,7 +31,7 @@ l2_run: 20261110T0603_v5agg
 <!-- AUTO-REL:BEGIN -->
 ## 関係キャラクター
 
-- [[E_char_クルミ|ミヒトネッセ]] — 発言(受)（2 観測）
+- [[E_char_クルミ|クルミ]] — 発言(受)（2 観測）
 
 <!-- AUTO-REL:END -->
 
@@ -44,10 +44,9 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アキラ | 語り手 | 明言 | 1 |
-| クルミ | ミヒトネッセ | 明言 | 1 |
 | ティティ | 彩域 | 明言 | 1 |

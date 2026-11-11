@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5252_analogous_to_E_p175_genetic_determinism_and_ancestral_memory.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -26,13 +26,4 @@ l2_run: 20261110T0603_v5agg
 
 > 更に関連して、『血が繋がっている』という関連は『基を辿れば起源を同じくする』という繋がりによって呪力を生み出す。（p175）
 
-**審査（LLM 代替）**: 「血のつながり＝起源の同一性」という論理で呪力を生むという記述は、遺伝的決定論や祖先崇拝を魔法体系に転換したアナロギアとして十分に支持される。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
+**審査（LLM 代替）**: 「血のつながり＝起源の同一性」という論理で呪力を生むという記述は、遺伝的決定論や祖先崇拝を魔法体系に転換したアナロジーとして十分に支持される。

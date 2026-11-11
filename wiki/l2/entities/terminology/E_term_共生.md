@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/terminology/E_term_共生.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 
 # 共生
@@ -28,7 +28,7 @@ l2_run: 20261110T0603_v5agg
 
 ## 関連クレーム
 
-- A_ch0026_analogous_to_E_ch0026_『上』_other_共生_p1205_共生関係（魂結合への相利共生適用）
+- A_ch0026_analogous_to_E_ch0026_コルセスカ_other_共生_p1205_共生関係（魂結合への相利共生適用）
 
 <!-- AUTO:END -->
 
@@ -41,9 +41,12 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| コルセスカ | 『上』 | 明言 | 1 |
 | ティティ | 彩域 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「コルセスカ」→ コルセスカ(アキラ経由)（要検証）

@@ -9,25 +9,28 @@ canonical_name: "absolution_indulgence"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_absolution_indulgence.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # absolution_indulgence
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5038_alludes_to_E_ch5038_アキラ_remembers_カイン殺し_p150_absolution_indulgence]] — 過去のマリーからの赦しを「免罪符」と呼ぶのは、宗教的贖宥（indulgence）の概念と倫理的な自己正当化の比喩である。
+- [[A_ch5038_alludes_to_E_ch5038_アキラ_remembers_カイン殺し_p150_absolution_indulgence]] — 過去のアズーリアからの赦しを「免罪符」と呼ぶのは、宗教的贖宥（indulgence）の概念と倫理的な自己正当化の比喩である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| アズーリア | マリー | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「アズ」→ アズーリア（要検証）
+- 未置換（要検証）: 「アズーリア」→ アズーリア(報告書)（要検証）

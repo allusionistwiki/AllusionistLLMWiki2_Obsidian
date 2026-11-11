@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5227_analogous_to_E_ch5227_センジュ_says_システム起動の呪文_p58_game_system_ui.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261110T0603_v5agg
 > 「異世界における文明段階超過域オプションの執行許可――申請完了。受理がおせえよ、ったく――【幾断】、抜刀」（p58）
 
 **審査（LLM 代替）**: 「オプション申請」「受理」などの用語は、世界がゲーム的UI/システム仕様に基づいて機能していることを明示するメタ記述である。
+
+
+---
+
+## 名前正規化監査（L2 run 20261111T2100_v87）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「幾断」→ 幾断(刀)（要検証）

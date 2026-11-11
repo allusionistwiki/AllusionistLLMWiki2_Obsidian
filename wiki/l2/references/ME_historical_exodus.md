@@ -9,25 +9,15 @@ canonical_name: "historical_exodus"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_historical_exodus.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # historical_exodus
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5357_parodies_E_lupus_exodus_historical_exodus]] — 人カイン族が英雄を筆頭に追放され流浪の旅に出る展開は、聖書の出エジプト記における「約束の地への旅」および「荒野での試練」という宗教的構図を反映している。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
-| 狼 | カイン | 蓋然性高 | 1 |
+- [[A_ch5357_parodies_E_lupus_exodus_historical_exodus]] — 人狼族が英雄を筆頭に追放され流浪の旅に出る展開は、聖書の出エジプト記における「約束の地への旅」および「荒野での試練」という宗教的構図を反映している。

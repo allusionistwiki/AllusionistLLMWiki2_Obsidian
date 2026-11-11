@@ -9,26 +9,24 @@ canonical_name: "execution_chair_metaphor"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_execution_chair_metaphor.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # execution_chair_metaphor
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5472_structurally_matches_E_p330_execution_chair_metaphor]] — アカシャ席の玉座を「刑死者不在の電気椅子」と呼ぶことは、霊媒権の象徴である玉座を「処刑」および「神の裁き」のための装置へと変換し、救世主の降臨を「受難」や「犠牲」の構図へ置換している。
+- [[A_ch5472_structurally_matches_E_p330_execution_chair_metaphor]] — アカシャ席の玉座を「刑死者不在の電気椅子」と呼ぶことは、王権の象徴である玉座を「処刑」および「神の裁き」のための装置へと変換し、救世主の降臨を「受難」や「犠牲」の構図へ置換している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |
 | 空 | アカシャ | 明言 | 1 |
-| 王 | 霊媒 | 明言 | 1 |

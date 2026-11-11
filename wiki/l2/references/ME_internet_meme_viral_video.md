@@ -9,24 +9,15 @@ canonical_name: "internet_meme_viral_video"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_internet_meme_viral_video.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
 
 # internet_meme_viral_video
 
-本作（幻想再帰のアリュージョニスト）における外部参照（アナロギア対象）。
+本作（幻想再帰のアリュージョニスト）における外部参照（アナロジー対象）。
 
 ## 本作からの参照 (1 件)
 
 - [[A_ch5571_parodies_E_ch5571_レメス_observes_安産型ブルドッグ動画_p2_internet_meme_viral_video]] — 神が現世の些末な事象（ネットミーム）に過剰反応する描写は、超越的権威の矮小化と神話的崇高性の脱構築を示唆する。
-
-
----
-
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| アナロジー | アナロギア | 蓋然性高 | 1 |

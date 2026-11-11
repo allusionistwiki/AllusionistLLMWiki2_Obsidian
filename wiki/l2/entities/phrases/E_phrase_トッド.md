@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/phrases/E_phrase_トッド.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 # トッド
 
@@ -36,7 +36,7 @@ l2_run: 20261110T0603_v5agg
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
-- **unknown**: 祈祷のたぐいだと思われた。カインら二人は荷物持ちと後方支援だけでなく、従軍神官でもあるのだろうか。
+- **unknown**: 祈祷のたぐいだと思われた。彼ら二人は荷物持ちと後方支援だけでなく、従軍神官でもあるのだろうか。
 
 <!-- /AUTO-GENERATED:relationship -->
 
@@ -49,9 +49,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 彼 | カイン | 蓋然性高 | 1 |
 | ティティ | 彩域 | 明言 | 1 |

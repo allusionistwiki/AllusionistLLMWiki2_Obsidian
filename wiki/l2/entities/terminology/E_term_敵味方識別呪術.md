@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-19'
 updated: '2026-10-19'
 normalized_from: l1/entities/terminology/E_term_敵味方識別呪術.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 # 敵味方識別呪術
 
@@ -21,7 +21,7 @@ l2_run: 20261110T0603_v5agg
 <!-- AUTO-GENERATED:symbolic -->
 ## 象徴・比喩
 
-- **unknown**: この大神院と地獄の戦いで、敵味方を識別する呪術を行使できるのは三人だけだ。
+- **unknown**: この地上と地獄の戦いで、敵味方を識別する呪術を行使できるのは三人だけだ。
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:l2ref -->
@@ -33,9 +33,12 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 地上 | 大神院 | 明言 | 1 |
 | ティティ | 彩域 | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「呪術」→ 呪術(アナロジー)（要検証）

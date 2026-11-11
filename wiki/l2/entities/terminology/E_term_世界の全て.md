@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_世界の全て.md
-l2_run: 20261110T0603_v5agg
+l2_run: 20261111T2100_v87
 ---
 # 世界の全て
 
@@ -22,7 +22,7 @@ l2_run: 20261110T0603_v5agg
 ## 象徴・比喩
 
 - **unknown**: 【p3】
-楽園羅万象を震わせる呪文と共に、世界の全てが書き換えられる。
+森羅万象を震わせる呪文と共に、世界の全てが書き換えられる。
 <!-- /AUTO-GENERATED:symbolic -->
 
 <!-- AUTO-GENERATED:l2ref -->
@@ -36,9 +36,8 @@ l2_run: 20261110T0603_v5agg
 
 ---
 
-## 名前正規化監査（L2 run 20261110T0603_v5agg）
+## 名前正規化監査（L2 run 20261111T2100_v87）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 森 | 楽園 | 蓋然性高 | 1 |
 | ティティ | 彩域 | 明言 | 1 |
