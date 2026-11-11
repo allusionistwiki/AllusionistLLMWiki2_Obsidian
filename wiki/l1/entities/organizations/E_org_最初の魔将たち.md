@@ -20,7 +20,6 @@ updated: '2026-10-21'
 ## 名称・呼称
 
 - **unknown**: 最初の魔将たち（メクセス）。
-- **unknown**: 最初の魔将たち（メクセス）。
 
 <!-- /AUTO-GENERATED:name -->
 

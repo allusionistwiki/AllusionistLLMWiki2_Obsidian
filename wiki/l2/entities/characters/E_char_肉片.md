@@ -40,7 +40,7 @@ l2_run: 20261111T2100_v87
 
 この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
 
-この名義は L2 名前統合台帳の正規エン彩域 **肉片**（ID `E_char_肉片` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **肉片**（ID `E_char_肉片` / kind: character / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
@@ -52,4 +52,3 @@ l2_run: 20261111T2100_v87
 |---|---|---|---|
 | 空 | アカシャ | 明言 | 2 |
 | アキラ | 語り手 | 明言 | 1 |
-| ティティ | 彩域 | 明言 | 1 |

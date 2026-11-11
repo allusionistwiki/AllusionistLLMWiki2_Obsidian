@@ -32,14 +32,12 @@ updated: '2026-10-21'
 ## 視覚的記述
 
 - **unknown**: トッドとマフスという隊列だ
-- **unknown**: トッドとマフスという隊列だ
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:relationship -->
 ## 関係性
 
-- **unknown**: 特にマフスには本人の年齢が明らかに俺よりも下であることも関係してか、ややおびえたような雰囲気があった。
 - **unknown**: 特にマフスには本人の年齢が明らかに俺よりも下であることも関係してか、ややおびえたような雰囲気があった。
 
 <!-- /AUTO-GENERATED:relationship -->

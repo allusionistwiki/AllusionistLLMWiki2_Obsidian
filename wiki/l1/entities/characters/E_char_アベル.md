@@ -32,8 +32,6 @@ updated: '2026-10-19'
 ## 行動・動作
 
 - **unknown**: アベルは肥えた羊の仔を。
-- **unknown**: アベルは肥えた羊の仔を。
-- **unknown**: アベルは肥えた羊の仔を。
 
 <!-- /AUTO-GENERATED:action -->
 

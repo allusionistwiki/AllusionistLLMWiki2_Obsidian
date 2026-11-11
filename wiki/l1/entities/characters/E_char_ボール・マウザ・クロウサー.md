@@ -35,14 +35,12 @@ updated: '2026-10-21'
 ## 名称・呼称
 
 - **unknown**: 『玉璽王』ボール・マウザ・クロウサー。
-- **unknown**: 『玉璽王』ボール・マウザ・クロウサー。
 
 <!-- /AUTO-GENERATED:name -->
 
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
-- **unknown**: 虚ろな眼窩を開いて闇を見つめ、頭上に一対の黄金宝珠を浮かべている老王。
 - **unknown**: 虚ろな眼窩を開いて闇を見つめ、頭上に一対の黄金宝珠を浮かべている老王。
 
 <!-- /AUTO-GENERATED:visual -->

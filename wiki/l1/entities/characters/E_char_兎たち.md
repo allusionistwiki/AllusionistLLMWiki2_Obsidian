@@ -20,14 +20,12 @@ updated: '2026-10-21'
 ## セリフ・発言
 
 - **unknown**: 混じりものめ。
-- **unknown**: 混じりものめ。
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
-- **unknown**: 兎たちは憎悪や侮蔑を囁くのではなく書き記し、ネットの海に放流して悪意を拡散させることが得意だった。
 - **unknown**: 兎たちは憎悪や侮蔑を囁くのではなく書き記し、ネットの海に放流して悪意を拡散させることが得意だった。
 
 <!-- /AUTO-GENERATED:action -->

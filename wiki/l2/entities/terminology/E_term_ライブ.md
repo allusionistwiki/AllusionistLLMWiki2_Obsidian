@@ -23,14 +23,13 @@ l2_run: 20261111T2100_v87
 
 - **unknown**: 引き起こされるのはアカシャ間それ自体の加熱だ。
 世界の熱狂。アカシャ間全体への働きかけ。
-- **unknown**: 引き起こされるのはアカシャ間それ自体の加熱だ。
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **ライブ**（ID `E_char_ライブ` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **ライブ**（ID `E_char_ライブ` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
@@ -40,5 +39,4 @@ l2_run: 20261111T2100_v87
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 空 | アカシャ | 明言 | 3 |
-| ティティ | 彩域 | 明言 | 1 |
+| 空 | アカシャ | 明言 | 2 |

@@ -31,14 +31,12 @@ updated: '2026-10-21'
 ## セリフ・発言
 
 - **unknown**: 「空っぽの計画ねえ」「大言壮語だな」
-- **unknown**: 「空っぽの計画ねえ」「大言壮語だな」
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:action -->
 ## 行動・動作
 
-- **unknown**: しかし老練なクロウサー家の長老たちは、冷静に若手の計画を評価した。
 - **unknown**: しかし老練なクロウサー家の長老たちは、冷静に若手の計画を評価した。
 
 <!-- /AUTO-GENERATED:action -->

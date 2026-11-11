@@ -23,22 +23,11 @@ l2_run: 20261111T2100_v87
 
 - **unknown**: 五家宣名派・翡翠 暴力反対。第五階層怖い。トップスタァ。
 エスメラルダ
-- **unknown**: 五家宣名派・翡翠 暴力反対。第五階層怖い。トップスタァ。
-- **unknown**: 五家宣名派・翡翠 暴力反対。第五階層怖い。トップスタァ。
 
 <!-- /AUTO-GENERATED:name -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **五家宣名派**（ID `E_org_五家宣名派` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **五家宣名派**（ID `E_org_五家宣名派` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
-
-
----
-
-## 名前正規化監査（L2 run 20261111T2100_v87）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| ティティ | 彩域 | 明言 | 1 |

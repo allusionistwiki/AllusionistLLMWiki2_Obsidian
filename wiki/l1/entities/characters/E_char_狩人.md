@@ -20,7 +20,6 @@ updated: '2026-10-21'
 ## セリフ・発言
 
 - **unknown**: あなただけでも、助けてみせると。
-- **unknown**: あなただけでも、助けてみせると。
 
 <!-- /AUTO-GENERATED:speech -->
 

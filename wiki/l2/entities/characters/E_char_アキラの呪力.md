@@ -22,16 +22,15 @@ l2_run: 20261111T2100_v87
 ## 行動・動作
 
 - **unknown**: そして、共鳴する呪力が影の世界で待機していた仲間を呼んだ。
-- **unknown**: そして、共鳴する呪力が影の世界で待機していた仲間を呼んだ。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は **語り手** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_語り手`。
+この名義は **アキラ** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_アキラ`。
 
-この名義は L2 名前統合台帳の正規エン彩域 **語り手の呪力**（ID `E_char_語り手の呪力` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **アキラの呪力**（ID `E_char_アキラの呪力` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
@@ -41,5 +40,4 @@ l2_run: 20261111T2100_v87
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アキラ | 語り手 | 明言 | 5 |
-| ティティ | 彩域 | 明言 | 1 |
+| アキラ | 語り手 | 明言 | 1 |

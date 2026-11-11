@@ -20,7 +20,6 @@ updated: '2026-10-21'
 ## 名称・呼称
 
 - **unknown**: ディスケイムの古老、地の元魔。
-- **unknown**: ディスケイムの古老、地の元魔。
 
 <!-- /AUTO-GENERATED:name -->
 

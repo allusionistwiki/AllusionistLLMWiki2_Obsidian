@@ -20,16 +20,12 @@ updated: '2026-10-21'
 ## 行動・動作
 
 - **unknown**: 「よし、ちょっと休憩しよっか」
-- **unknown**: 「よし、ちょっと休憩しよっか」
-- **unknown**: 「よし、ちょっと休憩しよっか」
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
-- **unknown**: 「ねえ、きいてよダーリン、ほんとうんざりしちゃう！」
-- **unknown**: 「ねえ、きいてよダーリン、ほんとうんざりしちゃう！」
 - **unknown**: 「ねえ、きいてよダーリン、ほんとうんざりしちゃう！」
 
 <!-- /AUTO-GENERATED:speech -->

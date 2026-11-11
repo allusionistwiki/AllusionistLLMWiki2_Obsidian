@@ -21,7 +21,6 @@ updated: '2026-10-21'
 
 - **unknown**: 「手詰まりね」
 「手詰まりだよね」
-- **unknown**: 「手詰まりね」
 
 <!-- /AUTO-GENERATED:speech -->
 

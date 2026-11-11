@@ -35,7 +35,6 @@ l2_run: 20261111T2100_v87
 - **unknown**: その名を『結界の六十二妹』。
 クレアノーズを含む全ての『妹』たちを再現する『化身』の大量構築術。
 不死性と多様性を併せ持つ、数と質を兼ねた暴力。
-- **unknown**: その名を『結界の六十二妹』。
 
 <!-- /AUTO-GENERATED:visual -->
 
@@ -48,7 +47,7 @@ l2_run: 20261111T2100_v87
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **結界の六十二妹**（ID `E_org_結界の六十二妹` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **結界の六十二妹**（ID `E_org_結界の六十二妹` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
@@ -59,7 +58,6 @@ l2_run: 20261111T2100_v87
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 女神 | シャーネス | 明言 | 1 |
-| ティティ | 彩域 | 明言 | 1 |
 
 
 注記（置換しない）:

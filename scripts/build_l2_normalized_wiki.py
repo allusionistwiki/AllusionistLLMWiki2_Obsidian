@@ -122,6 +122,12 @@ def main():
 
     for rel, (fm, body) in fm_cache.items():
         counts = Counter()
+        # 台帳側生成の構造化節（L2 台帳対応）は名前置換の対象外。
+        # 「エンティティ」等の構造語が音韻一致の alias 置換（例: ティティ→彩域）で壊れるため。
+        l2ref_m = re.search(r"<!-- AUTO-GENERATED:l2ref -->.*?<!-- /AUTO-GENERATED:l2ref -->", body, re.S)
+        l2ref_block = l2ref_m.group(0) if l2ref_m else None
+        if l2ref_block:
+            body = body.replace(l2ref_block, "<!--L2REF-PROTECTED-->")
         if pat:
             def repl(m):
                 n = m.group(0)
@@ -151,6 +157,9 @@ def main():
             body = "".join(parts)
         else:
             body = rewrite_links(body, rel)
+
+        if l2ref_block:
+            body = body.replace("<!--L2REF-PROTECTED-->", l2ref_block)
 
         title = fm_get(fm, "title") or Path(rel).stem
         banner = ""

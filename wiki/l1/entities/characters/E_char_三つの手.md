@@ -23,7 +23,6 @@ updated: '2026-10-21'
 引き上げられる。
 空へ。
 世界へと。
-- **unknown**: 壊れた左腕を、三つの手が掴む。
 
 <!-- /AUTO-GENERATED:action -->
 

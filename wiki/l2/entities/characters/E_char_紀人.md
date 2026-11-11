@@ -35,15 +35,13 @@ l2_run: 20261111T2100_v87
 ## セリフ・発言
 
 - **unknown**: 「換装・五番」 紀人の無機質な言葉が響く。
-- **unknown**: 「換装・五番」 紀人の無機質な言葉が響く。
-- **unknown**: 「換装・五番」 紀人の無機質な言葉が響く。
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **紀人**（ID `E_char_紀人` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **紀人**（ID `E_char_紀人` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
@@ -58,7 +56,6 @@ l2_run: 20261111T2100_v87
 | 戦車 | メルカバ | 明言 | 1 |
 | ルバーブ | 乱髪（スカルミリョーネ） | 明言 | 1 |
 | 虹犬 | 異獣 | 明言 | 1 |
-| ティティ | 彩域 | 明言 | 1 |
 
 
 注記（置換しない）:

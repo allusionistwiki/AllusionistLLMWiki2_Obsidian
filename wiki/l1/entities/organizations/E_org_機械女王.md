@@ -34,15 +34,12 @@ updated: '2026-10-21'
 
 - **unknown**: いくら二人で不平を申し立てても、機械女王からの反応は定型の応答文だけ。
 - **unknown**: 【p178】
-- **unknown**: いくら二人で不平を申し立てても、機械女王からの反応は定型の応答文だけ。
-- **unknown**: 【p178】
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
-- **unknown**: これを考えた機械女王は大馬鹿か、さもなければたちの悪い愉快犯だ。
 - **unknown**: これを考えた機械女王は大馬鹿か、さもなければたちの悪い愉快犯だ。
 
 <!-- /AUTO-GENERATED:speech -->

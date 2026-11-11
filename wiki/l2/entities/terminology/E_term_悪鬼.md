@@ -36,14 +36,13 @@ l2_run: 20261111T2100_v87
 ## 視覚的記述
 
 - **unknown**: 皺の多い矮躯。爛々と光る眼に憎悪を湛えて、仇敵を引き裂かんと唸り声を上げる大集団。
-- **unknown**: 皺の多い矮躯。爛々と光る眼に憎悪を湛えて、仇敵を引き裂かんと唸り声を上げる大集団。
 
 <!-- /AUTO-GENERATED:visual -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **モロレク**（ID `E_char_モロレク` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **モロレク**（ID `E_char_モロレク` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
@@ -54,7 +53,6 @@ l2_run: 20261111T2100_v87
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 悪鬼 | 家族 | 明言 | 2 |
-| ティティ | 彩域 | 明言 | 1 |
 
 
 注記（置換しない）:

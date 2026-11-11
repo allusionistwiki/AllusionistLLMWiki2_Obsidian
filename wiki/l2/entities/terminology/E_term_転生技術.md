@@ -39,7 +39,6 @@ l2_run: 20261111T2100_v87
 <!-- AUTO-GENERATED:speech -->
 ## セリフ・発言
 
-- **unknown**: 転生技術の発展によって、多くの異世界で数学の体系や物理定数までがほとんど同一であることが判明している。異なる発展を遂げても、物理法則を形作る公式までは大きく違わないことがほとんどなのである。
 魔法や幻想が存在する異世界であっても数学だけは変わらない。
 
 <!-- /AUTO-GENERATED:speech -->
@@ -47,14 +46,5 @@ l2_run: 20261111T2100_v87
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **転生技術**（ID `E_term_転生技術` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **転生技術**（ID `E_term_転生技術` / kind: terminology / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
-
-
----
-
-## 名前正規化監査（L2 run 20261111T2100_v87）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| ティティ | 彩域 | 明言 | 1 |

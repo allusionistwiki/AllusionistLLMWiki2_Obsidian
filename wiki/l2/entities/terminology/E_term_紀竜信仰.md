@@ -24,21 +24,11 @@ l2_run: 20261111T2100_v87
 - **unknown**: その大きな特徴は、他の神々に対する信仰と競合しないことだ。
 紀竜への崇敬は世界への祈り。
 超多種族国家として成長と拡大を続けるために、ガロアンディアンは『紀竜』という世界の全てを司る存在を支柱に選び、目論見は成功した。
-- **unknown**: その大きな特徴は、他の神々に対する信仰と競合しないことだ。
 
 <!-- /AUTO-GENERATED:speech -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **紀竜信仰**（ID `E_term_紀竜信仰` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **紀竜信仰**（ID `E_term_紀竜信仰` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
-
-
----
-
-## 名前正規化監査（L2 run 20261111T2100_v87）
-
-| 元名義 | 代表名 | 確度 | 置換件数 |
-|---|---|---|---|
-| ティティ | 彩域 | 明言 | 1 |

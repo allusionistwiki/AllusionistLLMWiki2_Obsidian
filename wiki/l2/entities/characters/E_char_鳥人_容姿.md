@@ -33,7 +33,7 @@ l2_run: 20261111T2100_v87
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **バードマン**（ID `E_creature_バードマン` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **鳥人**（ID `E_creature_鳥人` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
@@ -43,5 +43,4 @@ l2_run: 20261111T2100_v87
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 鳥人 | バードマン | 明言 | 6 |
-| ティティ | 彩域 | 明言 | 1 |
+| 鳥人 | バードマン | 明言 | 4 |

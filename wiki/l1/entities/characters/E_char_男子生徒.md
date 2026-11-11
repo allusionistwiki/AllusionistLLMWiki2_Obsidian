@@ -20,7 +20,6 @@ updated: '2026-10-21'
 ## セリフ・発言
 
 - **unknown**: 「人、それは人（ヒューマン）だ！
-- **unknown**: 「人、それは人（ヒューマン）だ！
 
 <!-- /AUTO-GENERATED:speech -->
 

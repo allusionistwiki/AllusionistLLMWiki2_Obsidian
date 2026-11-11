@@ -20,16 +20,12 @@ updated: '2026-10-21'
 ## 行動・動作
 
 - **unknown**: 緞帳が上がっていく。
-- **unknown**: 緞帳が上がっていく。
-- **unknown**: 緞帳が上がっていく。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:visual -->
 ## 視覚的記述
 
-- **unknown**: 緞帳が上がっていく。
-- **unknown**: 緞帳が上がっていく。
 
 <!-- /AUTO-GENERATED:visual -->
 

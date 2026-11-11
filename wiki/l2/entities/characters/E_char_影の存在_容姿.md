@@ -35,7 +35,7 @@ l2_run: 20261111T2100_v87
 
 この名義は **影** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_char_影`。
 
-この名義は L2 名前統合台帳の正規エン彩域 **影の存在**（ID `E_char_影の存在` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **影の存在**（ID `E_char_影の存在` / kind: character / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
@@ -46,4 +46,3 @@ l2_run: 20261111T2100_v87
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 黒衣 | クリーナー | 明言 | 3 |
-| ティティ | 彩域 | 明言 | 1 |

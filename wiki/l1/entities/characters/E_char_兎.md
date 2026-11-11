@@ -20,8 +20,6 @@ updated: '2026-10-21'
 ## セリフ・発言
 
 - **unknown**: おやめなさい、と兎は言った。
-- **unknown**: おやめなさい、と兎は言った。
-- **unknown**: おやめなさい、と兎は言った。
 
 <!-- /AUTO-GENERATED:speech -->
 

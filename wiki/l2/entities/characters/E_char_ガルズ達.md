@@ -22,14 +22,13 @@ l2_run: 20261111T2100_v87
 ## 行動・動作
 
 - **unknown**: ガルズ達の攻撃は僅かだが、着実にカタルマリーナの防御障壁を削り本体に手傷を負わせつつあった。
-- **unknown**: ガルズ達の攻撃は僅かだが、着実にカタルマリーナの防御障壁を削り本体に手傷を負わせつつあった。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **ガルズ達**（ID `E_char_ガルズ達` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **ガルズ達**（ID `E_char_ガルズ達` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
@@ -39,7 +38,6 @@ l2_run: 20261111T2100_v87
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ティティ | 彩域 | 明言 | 1 |
 
 
 注記（置換しない）:

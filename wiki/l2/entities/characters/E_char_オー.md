@@ -33,15 +33,13 @@ l2_run: 20261111T2100_v87
 ## 名称・呼称
 
 - **unknown**: オー：最終魔将。四人の魔将を引き連れて世界槍のどこかに根城を構えている。
-- **unknown**: オー：最終魔将。四人の魔将を引き連れて世界槍のどこかに根城を構えている。
-- **unknown**: オー：最終魔将。四人の魔将を引き連れて世界槍のどこかに根城を構えている。
 
 <!-- /AUTO-GENERATED:name -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **オー**（ID `E_char_オー` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **オー**（ID `E_char_オー` / kind: character / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
@@ -51,7 +49,6 @@ l2_run: 20261111T2100_v87
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ティティ | 彩域 | 明言 | 1 |
 
 
 注記（置換しない）:

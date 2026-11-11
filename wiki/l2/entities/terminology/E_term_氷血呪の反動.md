@@ -27,9 +27,9 @@ l2_run: 20261111T2100_v87
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は **クォーツウォッチ呪** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_term_クォーツウォッチ呪`。
+この名義は **氷血呪** に付随する属性・側面（relation: aspect）として統合されています。親実体 ID: `E_term_氷血呪`。
 
-この名義は L2 名前統合台帳の正規エン彩域 **クォーツウォッチ呪の反動**（ID `E_term_クォーツウォッチ呪の反動` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **氷血呪の反動**（ID `E_term_氷血呪の反動` / kind: terminology / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
@@ -39,5 +39,4 @@ l2_run: 20261111T2100_v87
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 氷血 | クォーツウォッチ | 明言 | 5 |
-| ティティ | 彩域 | 明言 | 1 |
+| 氷血 | クォーツウォッチ | 明言 | 1 |

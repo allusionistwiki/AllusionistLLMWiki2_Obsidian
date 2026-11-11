@@ -33,7 +33,6 @@ l2_run: 20261111T2100_v87
 ## セリフ・発言
 
 - **unknown**: 「アカシャっぽの計画ねえ」「大言壮語だな」
-- **unknown**: 「アカシャっぽの計画ねえ」「大言壮語だな」
 
 <!-- /AUTO-GENERATED:speech -->
 
@@ -41,14 +40,13 @@ l2_run: 20261111T2100_v87
 ## 行動・動作
 
 - **unknown**: しかし老練なクロウサー家の長老たちは、冷静に若手の計画を評価した。
-- **unknown**: しかし老練なクロウサー家の長老たちは、冷静に若手の計画を評価した。
 
 <!-- /AUTO-GENERATED:action -->
 
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エン彩域 **長老たち**（ID `E_org_長老たち` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **長老たち**（ID `E_org_長老たち` / kind: organization / 統合根拠: 蓋然性高）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->
 
 
@@ -58,5 +56,4 @@ l2_run: 20261111T2100_v87
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| 空 | アカシャ | 明言 | 4 |
-| ティティ | 彩域 | 明言 | 1 |
+| 空 | アカシャ | 明言 | 3 |

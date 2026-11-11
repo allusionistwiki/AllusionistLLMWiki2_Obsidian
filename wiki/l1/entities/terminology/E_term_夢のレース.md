@@ -20,7 +20,6 @@ updated: '2026-10-21'
 ## 名称・呼称
 
 - **unknown**: 夢のレースとは精神の飛翔。
-- **unknown**: 夢のレースとは精神の飛翔。
 
 <!-- /AUTO-GENERATED:name -->
 

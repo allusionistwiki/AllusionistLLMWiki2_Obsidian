@@ -20,7 +20,6 @@ updated: '2026-10-21'
 ## 名称・呼称
 
 - **unknown**: 筆頭魔女である藍の天主。
-- **unknown**: 筆頭魔女である藍の天主。
 
 <!-- /AUTO-GENERATED:name -->
 

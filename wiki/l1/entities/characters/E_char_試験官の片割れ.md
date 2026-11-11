@@ -20,8 +20,6 @@ updated: '2026-10-21'
 ## セリフ・発言
 
 - **unknown**: 「悪くない目の付け所ね」
-- **unknown**: 「悪くない目の付け所ね」
-- **unknown**: 「悪くない目の付け所ね」
 
 <!-- /AUTO-GENERATED:speech -->
 
