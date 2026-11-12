@@ -126,41 +126,74 @@ def main():
     # ---- aliases-index.md --------------------------------------------------
     def aname(a):
         return a["name"] if isinstance(a, dict) else a
-    rows = []
+    CONF_RANK = {"明言": 0, "表記一致": 1, "高": 2, "蓋然性高": 2, "要検証": 3, "?": 4}
+    CONF_LABEL = {"明言": "明言", "表記一致": "表記一致", "高": "蓋然性高",
+                  "蓋然性高": "蓋然性高", "要検証": "要検証", "?": "要検証"}
+    groups = []
     for e in merged:
+        per = {}
         for a in e["aliases"]:
             nm = aname(a)
-            if nm != e["canonical"]:
-                rows.append((nm, e, a if isinstance(a, dict) else {}))
-    rows.sort(key=lambda t: (-len(t[1]["aliases"]), t[0]))
+            if nm == e["canonical"]:
+                continue
+            rec = a if isinstance(a, dict) else {}
+            r = CONF_RANK.get(rec.get("confidence", "?"), 4)
+            if nm not in per:
+                per[nm] = {"best": rec, "rank": r, "n": 1,
+                           "cites": list(rec.get("cites") or []),
+                           "verify": list(rec.get("verify") or [])}
+            else:
+                g = per[nm]
+                g["n"] += 1
+                if r < g["rank"]:
+                    g["best"], g["rank"] = rec, r
+                for c in rec.get("cites") or []:
+                    if c not in g["cites"]:
+                        g["cites"].append(c)
+                for v in rec.get("verify") or []:
+                    if v not in g["verify"]:
+                        g["verify"].append(v)
+        if per:
+            groups.append((e, per))
+    groups.sort(key=lambda t: (-len(t[1]), t[0]["canonical"]))
     body = ["---", 'schema_version: "5.1"', "id: RF_l2_aliases_index",
             "title: 名義変換表（L1 素名義 → 正規 ID）",
-            "description: L1 facts に現れた名義がどの正規実体へ統合されたかの照会表。確度・根拠・検証点付き。",
+            "description: L1 facts に現れた名義がどの正規実体へ統合されたかの照会表。代表名ごとの節に集約し、名義ごとに最高確度の記録を集約表示。",
             "type: reflection", 'created: "%s"' % today, "tags: []", "---", "",
             "# 名義変換表",
             "",
-            "確度: 明言=原文同一性の直接観測 / 蓋然性高=全話証拠裁定（v2） / 表記一致=正規化同一 / 要検証=根拠未確認（検証点参照）。",
-            "検証点は統合前に確認すべき事項。引用は根拠となった章の段落。",
+            "確度: 明言=原文同一性の直接観測 / 表記一致=正規化同一 / 蓋然性高=全話証拠裁定 / 要検証=根拠未確認（検証点参照）。",
+            "同一名義の複数裁定記録は 1 行に集約（最高確度を採用、記録数表示）。引用は根拠となった章の段落。",
             "",
-            "| 名義 | 正規 ID | 代表名 | kind | 確度 | 根拠 | 検証点 |",
-            "|---|---|---|---|---|---|---|",
+            "## 目次（統合先 上位）",
             ""]
     def esc(s):
         return str(s).replace("|", "｜").replace("\n", " ")[:140]
-    for nm, e, a in rows[:5000]:
-        cites = a.get("cites") or []
-        cite_md = " ".join("[`%s¶%s`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/%s/)"
-                           % (c[0], c[1], c[0]) for c in cites[:2])
-        basis = "%s：%s" % (a.get("source", "?"), esc(a.get("reason", "")))
-        verify = "；".join(esc(v) for v in (a.get("verify") or [])) or "—"
-        body.append("| %s | `%s` | %s | %s | %s | %s %s | %s |" %
-                    (esc(nm), e["id"], esc(e["canonical"]),
-                     KIND_LABEL.get(e["kind"], e["kind"]),
-                     a.get("confidence", "?"), esc(basis), cite_md, esc(verify)))
-    body += ["", "（掲載 %d / %d 行）" % (min(len(rows), 5000), len(rows)), ""]
+    for e, per in groups:
+        body.append("- [%s](#ent-%s)（%d 名義）" % (esc(e["canonical"]), e["id"], len(per)))
+    for e, per in groups:
+        body += ["", "## %s" % e["canonical"],
+                 "<a id=\"ent-%s\"></a>" % e["id"],
+                 "正規 ID: `%s` ｜ kind: %s ｜ 名義数: %d" % (e["id"], KIND_LABEL.get(e["kind"], e["kind"]), len(per)),
+                 "",
+                 "| 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |",
+                 "|---|---|---|---|---|---|"]
+        for nm, g in sorted(per.items()):
+            a = g["best"]
+            cites = g["cites"]
+            cite_md = " ".join("[`%s¶%s`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/%s/)"
+                               % (c[0], c[1], c[0]) for c in cites[:3])
+            basis = "%s：%s" % (a.get("source", "?"), esc(a.get("reason", "")))
+            verify = "；".join(esc(v) for v in g["verify"]) or "—"
+            conf_lbl = CONF_LABEL.get(a.get("confidence", "?"), "要検証")
+            rec_lbl = "%d 件" % g["n"] if g["n"] > 1 else "1 件"
+            body.append("| %s | %s | %s %s | %s | %s |" %
+                        (esc(nm), conf_lbl, esc(basis), cite_md, esc(verify), rec_lbl))
+    body += ["", "（統合先 %d・名義 %d 件・全レコードは台帳データ）" %
+             (len(groups), sum(len(p) for _, p in groups)), ""]
     (REFL / "RF_l2_aliases_index.md").write_text("\n".join(body), encoding="utf-8")
 
-    print("[done] pages=3 entities=%d merged=%d alias_rows=%d" % (len(ents), len(merged), len(rows)))
+    print("[done] pages=3 entities=%d merged=%d alias_rows=%d" % (len(ents), len(merged), sum(len(p) for _, p in groups)))
     print("=== BUILD L2 PAGES DONE ===")
 
 

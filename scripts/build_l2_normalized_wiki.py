@@ -122,13 +122,17 @@ def main():
 
     for rel, (fm, body) in fm_cache.items():
         counts = Counter()
+        # 照会表（名義変換表・名相関索引）の「名義」列は素名義そのものが検索鍵。
+        # 名前置換を適用するとlookup機能が消えるため、この 2 ページは置換対象外。
+        reflect_lookup = ("RF_l2_aliases_index" in rel) or ("RF_l2_correlations" in rel)
+        pat_page = None if reflect_lookup else pat
         # 台帳側生成の構造化節（L2 台帳対応）は名前置換の対象外。
         # 「エンティティ」等の構造語が音韻一致の alias 置換（例: ティティ→彩域）で壊れるため。
         l2ref_m = re.search(r"<!-- AUTO-GENERATED:l2ref -->.*?<!-- /AUTO-GENERATED:l2ref -->", body, re.S)
         l2ref_block = l2ref_m.group(0) if l2ref_m else None
         if l2ref_block:
             body = body.replace(l2ref_block, "<!--L2REF-PROTECTED-->")
-        if pat:
+        if pat_page:
             def repl(m):
                 n = m.group(0)
                 counts[n] += 1
@@ -142,7 +146,7 @@ def main():
                     inner = seg[2:-2]
                     target, _, disp = inner.partition("|")
                     if disp:
-                        parts[i] = "[[" + target + "|" + pat.sub(repl, disp) + "]]"
+                        parts[i] = "[[" + target + "|" + pat_page.sub(repl, disp) + "]]"
                     # target は無変換
                 else:
                     # markdown リンクはターゲット（パス）無変換・表示文本のみ正規化
@@ -150,9 +154,9 @@ def main():
                     for j, ms in enumerate(md_parts):
                         if ms.startswith("[") and "](" in ms:
                             lm = re.match(r"(\[[^\]]*\])(\([^)]*\))", ms)
-                            md_parts[j] = pat.sub(repl, lm.group(1)) + lm.group(2)
+                            md_parts[j] = pat_page.sub(repl, lm.group(1)) + lm.group(2)
                         elif not ms.startswith("!["):
-                            md_parts[j] = pat.sub(repl, ms)
+                            md_parts[j] = pat_page.sub(repl, ms)
                     parts[i] = "".join(md_parts)
             body = "".join(parts)
         else:
