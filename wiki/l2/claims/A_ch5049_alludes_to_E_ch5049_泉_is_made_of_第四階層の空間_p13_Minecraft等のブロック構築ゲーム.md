@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
 normalized_from: l1/claims/A_ch5049_alludes_to_E_ch5049_泉_is_made_of_第四階層の空間_p13_Minecraft等のブロック構築ゲーム.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

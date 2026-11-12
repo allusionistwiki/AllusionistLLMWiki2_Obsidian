@@ -9,7 +9,7 @@ canonical_name: "Fairy_Tale_Narrator_Intervention"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Fairy_Tale_Narrator_Intervention.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,4 +20,13 @@ l2_run: 20261112T1500_v97kind
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5189_parodies_E_ch5189_兎_says_おやめなさい_p2_Fairy_Tale_Narrator_Intervention]] — 童話的な「兎」が物語の内部で直接登場人物に干渉し、禁忌を破る行為を止めようとする構造は、ファンタジーにおける語り手やメタフィクショナルな介入者の役割をパロディ化している。
+- [[A_ch5189_parodies_E_ch5189_兎_says_おやめなさい_p2_Fairy_Tale_Narrator_Intervention]] — 童話的な「兎」が物語の内部で直接登場人物に干渉し、禁忌を破る行為を止めようとする構造は、ファンタジーにおけるシナモリアキラやメタフィクショナルな介入者の役割をパロディ化している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261113T1230_v10）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+| 語り手 | シナモリアキラ | 明言 | 1 |

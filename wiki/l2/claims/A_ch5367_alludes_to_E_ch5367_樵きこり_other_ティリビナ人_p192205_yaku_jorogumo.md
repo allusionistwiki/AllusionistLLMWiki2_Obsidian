@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5367_alludes_to_E_ch5367_樵きこり_other_ティリビナ人_p192205_yaku_jorogumo.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -32,7 +32,7 @@ l2_run: 20261112T1500_v97kind
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
@@ -41,6 +41,6 @@ l2_run: 20261112T1500_v97kind
 
 
 注記（置換しない）:
-- 未置換（要検証）: 「樵」→ アキラくん（要検証）
+- 未置換（要検証）: 「樵」→ シナモリアキラ（要検証）
 - 未置換（要検証）: 「亡霊」→ 亡霊(ゴースト)（要検証）
 - 未置換（要検証）: 「再生者」→ 再生者(アンデッド)（要検証）

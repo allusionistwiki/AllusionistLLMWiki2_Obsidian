@@ -21,7 +21,7 @@ organizations:
 - '[[E_org_一般市民]]'
 - '[[E_org_少数民族集団]]'
 normalized_from: l1/episodes/O_ch5465_summary.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 # ch5465
 
@@ -64,7 +64,7 @@ l2_run: 20261112T1500_v97kind
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

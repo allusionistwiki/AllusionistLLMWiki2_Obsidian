@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_強き王_(Tsuyoki-ou)_容姿.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 
 # 強き王 (Tsuyoki-ou)｜容姿

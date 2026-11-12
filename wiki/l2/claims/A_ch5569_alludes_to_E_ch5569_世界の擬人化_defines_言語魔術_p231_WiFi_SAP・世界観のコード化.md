@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-19"}
 normalized_from: l1/claims/A_ch5569_alludes_to_E_ch5569_世界の擬人化_defines_言語魔術_p231_WiFi_SAP・世界観のコード化.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

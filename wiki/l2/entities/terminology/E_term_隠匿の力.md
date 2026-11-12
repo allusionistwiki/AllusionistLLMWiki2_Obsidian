@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-19'
 updated: '2026-10-19'
 normalized_from: l1/entities/terminology/E_term_隠匿の力.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 # 隠匿の力
 
@@ -34,7 +34,7 @@ l2_run: 20261112T1500_v97kind
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

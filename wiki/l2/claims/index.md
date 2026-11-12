@@ -3,7 +3,7 @@ title: アナロジークレーム全集（章・話別）
 id: claims/index
 description: 全アナロジークレームの章別・話別インデックス
 normalized_from: l1/claims/index.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 
 # アナロジークレーム全集（章・話別）
@@ -1294,7 +1294,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 - [[A_ch5189_alludes_to_E_ch5189_兎_says_おやめなさい_p2_Alice_in_Wonderland_Cheshire_Cat|論理超越者チェシャ猫の暗喩]]
 - [[A_ch5189_inverts_E_ch5189_兎_says_おやめなさい_p2_Pax_Lingua_Mechanism|言語秩序機構の逆転]]
-- [[A_ch5189_parodies_E_ch5189_兎_says_おやめなさい_p2_Fairy_Tale_Narrator_Intervention|語り手のメタ介入パロディ]]
+- [[A_ch5189_parodies_E_ch5189_兎_says_おやめなさい_p2_Fairy_Tale_Narrator_Intervention|シナモリアキラのメタ介入パロディ]]
 - [[A_ch5189_structurally_matches_E_ch5189_兎_says_おやめなさい_p2_Biblical_Eve_Apple|知恵の実摂取プロット対応]]
 
 ### 第190（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-66　激光《レイジ》①
@@ -1309,7 +1309,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ### 第192（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　0-6　青アカシャ
 
-- [[A_ch5192_alludes_to_E_ch5192_エル・ア・フィリス_defines_言理の妖精_p417_metanarrator_device|メタ語り手への自己定義]]
+- [[A_ch5192_alludes_to_E_ch5192_エル・ア・フィリス_defines_言理の妖精_p417_metanarrator_device|メタシナモリアキラへの自己定義]]
 - [[A_ch5192_analogous_to_E_ch5192_マリー_says_授業からの逃亡_p124_labor_exploitation|報酬による労働搾取の崩壊]]
 - [[A_ch5192_inverts_E_ch5192_リーナ_thinks_居場所の不在_p110_impostor_syndrome|家におけるインポスター症候群]]
 - [[A_ch5192_parodies_E_ch5192_リーナ_says_哲学への拒絶_p11_philosophy_qualia_problem|クオリア問題のテツガク拒絶]]
@@ -2374,7 +2374,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5351_alludes_to_E_p200-p203_browning_pippa_passes|ピッパが通るの愛による言語ファルス貫通]]
 - [[A_ch5351_alludes_to_E_p48_greek_mythology_styx_rivers|冥界の河々へのファルス内比喩命名]]
 - [[A_ch5351_analogous_to_E_p18_ai_emotion_simulation|感情シミュレーションの人らしさ照合]]
-- [[A_ch5351_analogous_to_E_p2-p10_meta_narrator_and_god|語り手＝神の家事能力への矮小化]]
+- [[A_ch5351_analogous_to_E_p2-p10_meta_narrator_and_god|シナモリアキラ＝神の家事能力への矮小化]]
 - [[A_ch5351_analogous_to_E_p23-p24_world_tree_structure|世界樹構造のファルス内多層宇宙示唆]]
 - [[A_ch5351_parodies_E_p106-p110_shonen_manga_cliches|少年漫画クリシェのメタ断罪]]
 
@@ -2634,7 +2634,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 - [[A_ch5393_analogous_to_E_ch5393_ルリ_asks_世界の創作性_p7_sword_of_damocles|ダモクレスの剣の怪物化変貌]]
 - [[A_ch5393_inverts_E_ch5393_ルリ_asks_世界の創作性_p7_protagonist_cheat_ability|低次元存在肯定の逆説的英雄観]]
 - [[A_ch5393_parodies_E_ch5393_ルリ_asks_世界の創作性_p7_metafiction_narrator|メタフィクショナル構造の劇中論]]
-- [[A_ch5393_structurally_matches_E_ch5393_ルリ_asks_世界の創作性_p7_narrator_character_duality|語り手と役者の自己参照構造]]
+- [[A_ch5393_structurally_matches_E_ch5393_ルリ_asks_世界の創作性_p7_narrator_character_duality|シナモリアキラと役者の自己参照構造]]
 
 ### 第394（カクヨム版）：カクヨム 第4章　傷つけるのはハー　4-163　狂姫乱舞
 
@@ -3963,7 +3963,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
@@ -3977,6 +3977,7 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 | 転生者殺し | キロン | 明言 | 9 |
 | 自由 | フェロニア | 明言 | 8 |
 | 氷血 | クォーツウォッチ | 明言 | 5 |
+| 語り手 | シナモリアキラ | 明言 | 4 |
 | 隔離 | カーティス | 明言 | 3 |
 | ジェット | 黒玉飛翔 | 明言 | 3 |
 | 澄明 | アズール | 明言 | 3 |
@@ -4014,10 +4015,11 @@ ID の読み方: `A_ch0001_parodies_..._p103_安楽死の倫理` = 第1話のイ
 
 
 注記（置換しない）:
-- 未置換（要検証）: 「アルト」→ アキラくん（要検証）
-- 未置換（要検証）: 「奴隷」→ アキラくん（要検証）
-- 未置換（要検証）: 「樵」→ アキラくん（要検証）
-- 未置換（要検証）: 「spear」→ アキラくん（要検証）
+- 未置換（要検証）: 「アルト」→ シナモリアキラ（要検証）
+- 未置換（要検証）: 「奴隷」→ シナモリアキラ（要検証）
+- 未置換（要検証）: 「樵」→ シナモリアキラ（要検証）
+- 未置換（要検証）: 「spear」→ シナモリアキラ（要検証）
+- 未置換（要検証）: 「品森晶」→ シナモリアキラ（要検証）
 - 未置換（要検証）: 「歌姫」→ ハルベルト（要検証）
 - 未置換（要検証）: 「六王」→ 六人の王（要検証）
 - 未置換（要検証）: 「アズ」→ アズーリア（要検証）

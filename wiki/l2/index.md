@@ -4,26 +4,26 @@ id: l2/index
 title: L2 名前統合台帳（下層Wiki）
 description: L1 名義を統合した正規化エンティティ台帳。名相関グループと統合/kind 裁定の確定結果。
 type: index
-date: 2026-11-12
+date: 2026-11-13
 ---
 
 # L2 — 名前統合・正規化層（下層Wiki）
 
 L1（機械抽出）の名義ゆらぎを統合した**正規化エンティティ台帳**です。生成 run と設計:
 - 設計・実行計画: [work L2 README](https://github.com/allusionistwiki/AllusionistWiki_work/blob/main/work/allusionist_v2/L2/README.md)
-- 生成 run: `20261111T2100_v87`（来歴: L1 run 和集合 → L0 ¶N）
-- 台帳データ（機械読取）: [entities.json](https://github.com/allusionistwiki/AllusionistWiki_work/tree/main/work/allusionist_v2/L2/runs/20261111T2100_v87)
+- 生成 run: `20261113T1230_v10`（来歴: L1 run 和集合 → L0 ¶N）
+- 台帳データ（機械読取）: [entities.json](https://github.com/allusionistwiki/AllusionistWiki_work/tree/main/work/allusionist_v2/L2/runs/20261113T1230_v10)
 
 ## 統計
 
 | 項目 | 値 |
 |---|---|
 | 台帳エンティティ数 | 17337 |
-| 統合名義数（aliases 追加） | 493 |
+| 統合名義数（aliases 追加） | 499 |
 | 複数名義を持つ実体 | 363 |
 | 統合確度内訳 | 明言 195 / 蓋然性高 151 / 要検証 17 |
-| kind 内訳 | 用語 6536 / キャラクター 4222 / アイテム 3751 / 組織 918 / 場所 639 / モティーフ 325 / 生物 257 /  239 / 関係 124 / フレーズ 115 / 事件 107 / skill 11 / spell 8 / action 8 / ability 7 / race 6 / group 5 / magic 4 / celestial_body 4 / ritual 4 / concept 4 / place 4 / app 3 / emotion 3 / phantom 3 / character_class 2 / system 2 / role 2 / rule 2 / technology 2 / phenomenon 2 / plan 2 / deity 1 / software 1 / spell_effect 1 / event_context 1 / game 1 / part 1 / brand 1 / character_ability 1 / technique 1 / clothing 1 / structure 1 / unknown 1 / building 1 / institution 1 / strategy 1 / effect 1 |
-| 実体判定 v3（付随/一般名詞/保留） | 460 / 958 / 37 |
+| kind 内訳 | 用語 6755 / キャラクター 4277 / アイテム 3768 / 組織 920 / 場所 660 / モティーフ 328 / 生物 260 / 関係 130 / 事件 124 / フレーズ 115 |
+| 実体判定 v3（付随/一般名詞/保留） | 462 / 958 / 37 |
 | 親子構造 | 親 190 実体・子 1616 件 |
 
 ## 見方

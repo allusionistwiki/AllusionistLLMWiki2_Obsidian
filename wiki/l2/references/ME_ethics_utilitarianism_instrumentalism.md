@@ -9,7 +9,7 @@ canonical_name: "ethics_utilitarianism_instrumentalism"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ethics_utilitarianism_instrumentalism.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261112T1500_v97kind
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5302_analogous_to_E_5302_p8_ethics_utilitarianism_instrumentalism]] — ハタラドゥールが「利用されるべくして生み出された存在」とされ、語り手自身と同一視される点は、作者/語り手がキャラクターを操る道具であるというメタフィクショナルな自己言及を示唆している。
+- [[A_ch5302_analogous_to_E_5302_p8_ethics_utilitarianism_instrumentalism]] — ハタラドゥールが「利用されるべくして生み出された存在」とされ、シナモリアキラ自身と同一視される点は、作者/シナモリアキラがキャラクターを操る道具であるというメタフィクショナルな自己言及を示唆している。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 語り手 | シナモリアキラ | 明言 | 2 |
 | グレンデルヒ | ハタラドゥール | 明言 | 1 |

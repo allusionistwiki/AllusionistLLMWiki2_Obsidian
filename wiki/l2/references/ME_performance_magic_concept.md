@@ -9,7 +9,7 @@ canonical_name: "performance_magic_concept"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_performance_magic_concept.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->

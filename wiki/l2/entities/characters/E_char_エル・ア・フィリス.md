@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-19'
 normalized_from: l1/entities/characters/E_char_エル・ア・フィリス.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 
 # エル・ア・フィリス
@@ -29,7 +29,7 @@ l2_run: 20261112T1500_v97kind
 
 ## 関連クレーム
 
-- A_ch0058_alludes_to_E_ch0058_エル・ア・フィリス_says_物語の要求_p2219_narrator（語り手のメタフィクショナル介入）
+- A_ch0058_alludes_to_E_ch0058_エル・ア・フィリス_says_物語の要求_p2219_narrator（シナモリアキラのメタフィクショナル介入）
 
 <!-- AUTO:END -->
 
@@ -51,8 +51,9 @@ l2_run: 20261112T1500_v97kind
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 言理の妖精 | エル・ア・フィリス | 明言 | 2 |
+| 語り手 | シナモリアキラ | 明言 | 1 |

@@ -17,22 +17,22 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5259_alludes_to_E_vivi_intro_shakespeare_as_you_like_it.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
 
 # ヴィヴィの台詞はシェイクスピアの『お気に召すまま』の有名な一節を引用し、世界が劇場であるというメタ視点を提示している。
 
-> 「『この世は舞台、ひとはみな役者』――この姿ではお初にお目にかかる。ようこそわが劇場に、シナモリ・語り手」（p28）
+> 「『この世は舞台、ひとはみな役者』――この姿ではお初にお目にかかる。ようこそわが劇場に、シナモリアキラ」（p28）
 
 **審査（LLM 代替）**: ヴィヴィの台詞はシェイクスピア『お気に召すまま』の「All the world's a stage」を直接的に引用しており、世界＝劇場というメタ視点を明示する強力な根拠となる。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アキラ | 語り手 | 明言 | 1 |
+| シナモリ・アキラ | シナモリアキラ | 明言 | 1 |

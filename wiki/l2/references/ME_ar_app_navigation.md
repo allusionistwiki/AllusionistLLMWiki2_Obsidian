@@ -9,7 +9,7 @@ canonical_name: "ar_app_navigation"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_ar_app_navigation.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,13 @@ l2_run: 20261112T1500_v97kind
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5438_structurally_matches_E_ch5438_コズエ_names_シナモリアキラ_p10_ar_app_navigation]] — AR技術を用いたナビゲーター「語り手」の起動と、ユーザー登録（宣名）による契約成立は、スマホアプリの初期設定フローをそのまま転生世界に持ち込んでいる。
+- [[A_ch5438_structurally_matches_E_ch5438_コズエ_names_シナモリアキラ_p10_ar_app_navigation]] — AR技術を用いたナビゲーター「シナモリアキラ」の起動と、ユーザー登録（宣名）による契約成立は、スマホアプリの初期設定フローをそのまま転生世界に持ち込んでいる。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| ちびアキラ | 語り手 | 明言 | 1 |
+| ちびアキラ | シナモリアキラ | 明言 | 1 |

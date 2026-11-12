@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-21'
 normalized_from: l1/entities/items/E_item_触手.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 
 # 触手

@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-01'
 updated: '2026-10-19'
 normalized_from: l1/entities/terminology/E_term_ディスカレイリーグ.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 # ディスカレイリーグ
 

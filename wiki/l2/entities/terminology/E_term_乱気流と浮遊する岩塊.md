@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-10'
 updated: '2026-10-19'
 normalized_from: l1/entities/terminology/E_term_乱気流と浮遊する岩塊.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 # 乱気流と浮遊する岩塊
 

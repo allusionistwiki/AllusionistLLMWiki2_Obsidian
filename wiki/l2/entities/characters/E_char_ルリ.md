@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-21'
 normalized_from: l1/entities/characters/E_char_ルリ.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 
 # ルリ
@@ -38,7 +38,7 @@ l2_run: 20261112T1500_v97kind
 - [[A_ch5393_analogous_to_E_ch5393_ルリ_asks_世界の創作性_p7_sword_of_damocles|ダモクレスの剣の怪物化変貌]]
 - [[A_ch5393_inverts_E_ch5393_ルリ_asks_世界の創作性_p7_protagonist_cheat_ability|低次元存在肯定の逆説的英雄観]]
 - [[A_ch5393_parodies_E_ch5393_ルリ_asks_世界の創作性_p7_metafiction_narrator|メタフィクショナル構造の劇中論]]
-- [[A_ch5393_structurally_matches_E_ch5393_ルリ_asks_世界の創作性_p7_narrator_character_duality|語り手と役者の自己参照構造]]
+- [[A_ch5393_structurally_matches_E_ch5393_ルリ_asks_世界の創作性_p7_narrator_character_duality|シナモリアキラと役者の自己参照構造]]
 
 <!-- AUTO:END -->
 
@@ -61,9 +61,14 @@ l2_run: 20261112T1500_v97kind
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | アキラ | 語り手 | 明言 | 5 |
+| 語り手 | シナモリアキラ | 明言 | 1 |
 | 空 | アカシャ | 明言 | 1 |
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「品森晶」→ シナモリアキラ（要検証）

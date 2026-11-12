@@ -9,7 +9,7 @@ canonical_name: "metanarrator_device"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_metanarrator_device.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,13 +20,14 @@ l2_run: 20261112T1500_v97kind
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5192_alludes_to_E_ch5192_エル・ア・フィリス_defines_言理の妖精_p417_metanarrator_device]] — 「過去の物語を語るために存在する、エル・ア・フィリス」という自己定義は、作品全体のナレーションや回想シーンを生み出すメタ的な語り手（メタナレータ）機能そのものを指しており、物語構造自体がキャラクタライズされている。
+- [[A_ch5192_alludes_to_E_ch5192_エル・ア・フィリス_defines_言理の妖精_p417_metanarrator_device]] — 「過去の物語を語るために存在する、エル・ア・フィリス」という自己定義は、作品全体のナレーションや回想シーンを生み出すメタ的なシナモリアキラ（メタナレータ）機能そのものを指しており、物語構造自体がキャラクタライズされている。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
 | 言理の妖精 | エル・ア・フィリス | 明言 | 1 |
+| 語り手 | シナモリアキラ | 明言 | 1 |

@@ -12,10 +12,10 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_岩肌種.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 
-> [!info] 名前統合（L2 run 20261112T1500_v97kind）
+> [!info] 名前統合（L2 run 20261113T1230_v10）
 > このページの名義「岩肌種」は **トロル** の別名として統合済み（確度: 明言）。正規化先: [[E_char_トロル|トロル]]
 
 # トロル
@@ -59,7 +59,7 @@ l2_run: 20261112T1500_v97kind
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

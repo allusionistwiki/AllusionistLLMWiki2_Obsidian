@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_E-EEmotional-Emulator.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 # E-EEmotional-Emulator
 
@@ -21,7 +21,7 @@ l2_run: 20261112T1500_v97kind
 <!-- AUTO-GENERATED:name -->
 ## 名称・呼称
 
-- **unknown**: 人格に深く根ざした感覚・感情制御アプリ『E-E』＝『Emotional-Emulator』はそれ自体がシナモリ・語り手をエミュレートして、あらゆる決定を代行している。
+- **unknown**: 人格に深く根ざした感覚・感情制御アプリ『E-E』＝『Emotional-Emulator』はそれ自体がシナモリアキラをエミュレートして、あらゆる決定を代行している。
 決断をアウトソーシングする為のアプリケーション。
 
 <!-- /AUTO-GENERATED:name -->
@@ -35,8 +35,8 @@ l2_run: 20261112T1500_v97kind
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
-| アキラ | 語り手 | 明言 | 1 |
+| シナモリ・アキラ | シナモリアキラ | 明言 | 1 |

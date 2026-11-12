@@ -3,7 +3,7 @@ title: 外部参照（章・話別）
 id: references/index
 description: 引喩先の現代文化・思想・作品の解説ページ（初出話別）
 normalized_from: l1/references/index.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 
 # 外部参照（章・話別）
@@ -1287,7 +1287,7 @@ l2_run: 20261112T1500_v97kind
 
 - [[ME_Alice_in_Wonderland_Cheshire_Cat|チェシャ猫]]
 - [[ME_Biblical_Eve_Apple|知恵の実]]
-- [[ME_Fairy_Tale_Narrator_Intervention|語り手のメタ介入]]
+- [[ME_Fairy_Tale_Narrator_Intervention|シナモリアキラのメタ介入]]
 - [[ME_Pax_Lingua_Mechanism|言語秩序機構]]
 
 ### 第190（カクヨム版）：カクヨム 第3章　特権者のヒロイッ　3-66　激光《レイジ》①
@@ -1304,7 +1304,7 @@ l2_run: 20261112T1500_v97kind
 
 - [[ME_arranged_marriage_politics|政略結婚]]
 - [[ME_labor_exploitation|報酬による搾取]]
-- [[ME_metanarrator_device|メタ語り手]]
+- [[ME_metanarrator_device|メタシナモリアキラ]]
 - [[ME_philosophy_qualia_problem|クオリア問題]]
 - [[ME_video_game_save_load|セーブ＆ロード]]
 
@@ -2348,7 +2348,7 @@ l2_run: 20261112T1500_v97kind
 - [[ME_ai_emotion_simulation|感情シミュレーション]]
 - [[ME_browning_pippa_passes|ピッパが通る]]
 - [[ME_greek_mythology_styx_rivers|冥界の河々]]
-- [[ME_meta_narrator_and_god|語り手＝神]]
+- [[ME_meta_narrator_and_god|シナモリアキラ＝神]]
 - [[ME_shonen_manga_cliches|少年漫画クリシェ]]
 - [[ME_world_tree_structure|世界樹構造]]
 
@@ -2597,8 +2597,8 @@ l2_run: 20261112T1500_v97kind
 
 - [[ME_ai_emotional_emulator|感情エミュレータ]]
 - [[ME_biblical_ecclesiastes|コヘレトの言葉]]
-- [[ME_metafiction_narrator|メタフィクション語り手]]
-- [[ME_narrator_character_duality|語り手とキャラクター]]
+- [[ME_metafiction_narrator|メタフィクションシナモリアキラ]]
+- [[ME_narrator_character_duality|シナモリアキラとキャラクター]]
 - [[ME_protagonist_cheat_ability|低次元存在の肯定]]
 - [[ME_reincarnation_karma|輪廻と因果応報の呪い]]
 - [[ME_saints_martyrs|使徒と殉教者]]
@@ -3950,7 +3950,7 @@ l2_run: 20261112T1500_v97kind
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
@@ -3964,6 +3964,7 @@ l2_run: 20261112T1500_v97kind
 | 戦争 | ゲーム | 明言 | 6 |
 | 自由 | フェロニア | 明言 | 6 |
 | 氷血 | クォーツウォッチ | 明言 | 5 |
+| 語り手 | シナモリアキラ | 明言 | 5 |
 | 引喩 | アリュージョン | 明言 | 3 |
 | 澄明 | アズール | 明言 | 3 |
 | ワードクェイク | 言震 | 明言 | 2 |
@@ -3995,9 +3996,9 @@ l2_run: 20261112T1500_v97kind
 
 
 注記（置換しない）:
-- 未置換（要検証）: 「アルト」→ アキラくん（要検証）
-- 未置換（要検証）: 「奴隷」→ アキラくん（要検証）
-- 未置換（要検証）: 「spear」→ アキラくん（要検証）
+- 未置換（要検証）: 「アルト」→ シナモリアキラ（要検証）
+- 未置換（要検証）: 「奴隷」→ シナモリアキラ（要検証）
+- 未置換（要検証）: 「spear」→ シナモリアキラ（要検証）
 - 未置換（要検証）: 「アズ」→ アズーリア（要検証）
 - 未置換（要検証）: 「姫君」→ アルト・イヴニル（要検証）
 - 未置換（要検証）: 「ヴァージル」→ レオ（要検証）

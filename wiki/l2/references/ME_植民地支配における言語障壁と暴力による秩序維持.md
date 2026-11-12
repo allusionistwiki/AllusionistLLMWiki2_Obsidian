@@ -9,7 +9,7 @@ canonical_name: "植民地支配における言語障壁と暴力による秩序
 domain: "World History"
 review_status: llm_verified
 normalized_from: l1/references/ME_植民地支配における言語障壁と暴力による秩序維持.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->

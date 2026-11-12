@@ -11,10 +11,10 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/items/E_item_斧槍.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 
-> [!info] 名前統合（L2 run 20261112T1500_v97kind）
+> [!info] 名前統合（L2 run 20261113T1230_v10）
 > このページの名義「斧槍」は **ハルベルト** の別名として統合済み（確度: 明言）。正規化先: [[E_char_ハルベルト|ハルベルト]]
 
 # ハルベルト
@@ -44,7 +44,7 @@ l2_run: 20261112T1500_v97kind
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

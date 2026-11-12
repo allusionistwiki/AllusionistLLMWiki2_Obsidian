@@ -9,7 +9,7 @@ canonical_name: "heidegger_phenomenology"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_heidegger_phenomenology.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -20,15 +20,16 @@ l2_run: 20261112T1500_v97kind
 
 ## 本作からの参照 (1 件)
 
-- [[A_ch5025_structurally_matches_E_ch5025_コルセスカ_says_信用できない時制と語り手の解決_p137_heidegger_phenomenology]] — 「信用できない時制と語り手」への解決策としてハイデガーを挙げる記述は、物語内の不確実性を哲学的権威で矮小化しようとする皮肉（メタフィクショナルな自己言及）である。
+- [[A_ch5025_structurally_matches_E_ch5025_コルセスカ_says_信用できない時制と語り手の解決_p137_heidegger_phenomenology]] — 「信用できない時制とシナモリアキラ」への解決策としてハイデガーを挙げる記述は、物語内の不確実性を哲学的権威で矮小化しようとする皮肉（メタフィクショナルな自己言及）である。
 
 
 ---
 
-## 名前正規化監査（L2 run 20261112T1500_v97kind）
+## 名前正規化監査（L2 run 20261113T1230_v10）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|
+| 語り手 | シナモリアキラ | 明言 | 1 |
 
 
 注記（置換しない）:

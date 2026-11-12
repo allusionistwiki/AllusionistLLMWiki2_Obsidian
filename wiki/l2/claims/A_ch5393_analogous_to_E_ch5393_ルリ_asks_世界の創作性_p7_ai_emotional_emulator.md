@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5393_analogous_to_E_ch5393_ルリ_asks_世界の創作性_p7_ai_emotional_emulator.md
-l2_run: 20261112T1500_v97kind
+l2_run: 20261113T1230_v10
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -27,3 +27,15 @@ l2_run: 20261112T1500_v97kind
 > 心的代行者（エモーショナルエミュレーター）であるきみは『その体の彼』とはほとんど別人だよね。（p24）
 
 **審査（LLM 代替）**: 「エモーショナルエミュレーター」という用語の定義と、「体」との分離による人格の再構成は、AI技術におけるシミュレーション機能への明示的なアナロジーとして成立している。
+
+
+---
+
+## 名前正規化監査（L2 run 20261113T1230_v10）
+
+| 元名義 | 代表名 | 確度 | 置換件数 |
+|---|---|---|---|
+
+
+注記（置換しない）:
+- 未置換（要検証）: 「品森晶」→ シナモリアキラ（要検証）
