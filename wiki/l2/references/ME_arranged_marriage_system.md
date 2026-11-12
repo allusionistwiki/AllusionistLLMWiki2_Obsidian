@@ -9,7 +9,7 @@ canonical_name: "arranged_marriage_system"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_arranged_marriage_system.md
-l2_run: 20261111T2100_v87
+l2_run: 20261112T1500_v97kind
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->

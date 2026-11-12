@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5234_inverts_E_ch5234_ラズリ・ジャッフハリム_names_ラズリ・ジャッフハリム_p4_master_pet_dynamic_inversion.md
-l2_run: 20261111T2100_v87
+l2_run: 20261112T1500_v97kind
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -31,7 +31,7 @@ l2_run: 20261111T2100_v87
 
 ---
 
-## 名前正規化監査（L2 run 20261111T2100_v87）
+## 名前正規化監査（L2 run 20261112T1500_v97kind）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

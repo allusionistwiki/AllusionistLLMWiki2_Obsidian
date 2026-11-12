@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-19'
 updated: '2026-10-21'
 normalized_from: l1/entities/characters/E_char_ルラーマ幻像.md
-l2_run: 20261111T2100_v87
+l2_run: 20261112T1500_v97kind
 ---
 # ルラーマ幻像
 

@@ -13,7 +13,7 @@ characters:
 items:
 - '[[E_item_アキラ]]'
 normalized_from: l1/episodes/O_ch5016_summary.md
-l2_run: 20261111T2100_v87
+l2_run: 20261112T1500_v97kind
 ---
 # ch5016
 
@@ -46,7 +46,7 @@ l2_run: 20261111T2100_v87
 
 ---
 
-## 名前正規化監査（L2 run 20261111T2100_v87）
+## 名前正規化監査（L2 run 20261112T1500_v97kind）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

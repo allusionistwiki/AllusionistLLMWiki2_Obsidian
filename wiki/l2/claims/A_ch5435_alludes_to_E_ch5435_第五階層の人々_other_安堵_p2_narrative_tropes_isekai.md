@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5435_alludes_to_E_ch5435_第五階層の人々_other_安堵_p2_narrative_tropes_isekai.md
-l2_run: 20261111T2100_v87
+l2_run: 20261112T1500_v97kind
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

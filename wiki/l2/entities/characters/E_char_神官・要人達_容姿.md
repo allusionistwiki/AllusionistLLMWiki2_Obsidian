@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_神官・要人達_容姿.md
-l2_run: 20261111T2100_v87
+l2_run: 20261112T1500_v97kind
 ---
 
 # 神官・要人達｜容姿

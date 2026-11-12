@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5507_analogous_to_E_ch5507_ユディーア_uses_使い魔端末_p25_smartphone_notification_management.md
-l2_run: 20261111T2100_v87
+l2_run: 20261112T1500_v97kind
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5399_analogous_to_E_ch5399_うずめ_other_握手会の実施_p312_machine_learning_few_shot.md
-l2_run: 20261111T2100_v87
+l2_run: 20261112T1500_v97kind
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

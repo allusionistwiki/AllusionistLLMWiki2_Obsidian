@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/characters/E_char_老人吸血鬼.md
-l2_run: 20261111T2100_v87
+l2_run: 20261112T1500_v97kind
 ---
 # 老人吸血鬼
 
@@ -36,5 +36,5 @@ l2_run: 20261111T2100_v87
 <!-- AUTO-GENERATED:l2ref -->
 ## L2 台帳対応
 
-この名義は L2 名前統合台帳の正規エンティティ **老人吸血鬼**（ID `E_creature_老人吸血鬼` / kind: creature / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **老人吸血鬼**（ID `E_creature_老人吸血鬼` / kind: 生物 / 統合根拠: 要検証）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->

@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/organizations/E_org_Frozen_Torchメンバー.md
-l2_run: 20261111T2100_v87
+l2_run: 20261112T1500_v97kind
 ---
 
 # Frozen_Torchメンバー
@@ -36,5 +36,5 @@ l2_run: 20261111T2100_v87
 
 この名義は一般名詞・場面名称と判定され、**実体台帳の統合対象外**です（記録として ID のみ保持）。
 
-この名義は L2 名前統合台帳の正規エンティティ **frozen_torch**（ID `E_org_frozen_torch` / kind: organization / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
+この名義は L2 名前統合台帳の正規エンティティ **frozen_torch**（ID `E_org_frozen_torch` / kind: 組織 / 統合根拠: 明言）に対応します。表記ゆれ・別名の名義変換は [名義変換表](../../reflections/RF_l2_aliases_index.md)統合グループ一覧は [名相関索引](../../reflections/RF_l2_correlations.md)を参照。
 <!-- /AUTO-GENERATED:l2ref -->

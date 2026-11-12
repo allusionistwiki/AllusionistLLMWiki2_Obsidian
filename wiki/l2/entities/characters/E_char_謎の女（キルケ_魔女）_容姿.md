@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_謎の女（キルケ_魔女）_容姿.md
-l2_run: 20261111T2100_v87
+l2_run: 20261112T1500_v97kind
 ---
 
 # 謎の女（キルケ/魔女）｜容姿

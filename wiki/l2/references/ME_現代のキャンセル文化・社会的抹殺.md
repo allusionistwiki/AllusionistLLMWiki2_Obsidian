@@ -9,7 +9,7 @@ canonical_name: "現代のキャンセル文化・社会的抹殺"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_現代のキャンセル文化・社会的抹殺.md
-l2_run: 20261111T2100_v87
+l2_run: 20261112T1500_v97kind
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
