@@ -169,11 +169,11 @@ def main():
             ""]
     def esc(s):
         return str(s).replace("|", "｜").replace("\n", " ")[:140]
-    for e, per in groups:
-        body.append("- [%s](#ent-%s)（%d 名義）" % (esc(e["canonical"]), e["id"], len(per)))
+    for e, per in groups[:20]:
+        body.append("- %s（%d 名義）" % (esc(e["canonical"]), len(per)))
+    body.append("- … 以下 %d 件（各節はページ内見出し・エクスプローラーから移動可）" % (len(groups) - 20))
     for e, per in groups:
         body += ["", "## %s" % e["canonical"],
-                 "<a id=\"ent-%s\"></a>" % e["id"],
                  "正規 ID: `%s` ｜ kind: %s ｜ 名義数: %d" % (e["id"], KIND_LABEL.get(e["kind"], e["kind"]), len(per)),
                  "",
                  "| 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |",
