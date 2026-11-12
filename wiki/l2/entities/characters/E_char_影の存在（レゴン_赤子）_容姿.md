@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_影の存在（レゴン_赤子）_容姿.md
-l2_run: 20261113T1230_v10
+l2_run: 20261113T2100_v101
 ---
 
 # 影の存在（レゴン/赤子）｜容姿

@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/organizations/E_org_修道騎士の部隊.md
-l2_run: 20261113T1230_v10
+l2_run: 20261113T2100_v101
 ---
 # 修道騎士の部隊
 

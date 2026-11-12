@@ -12,7 +12,7 @@ graph:
     labelPrefixes:
       - entities/characters/
 normalized_from: l1/relationships/index.md
-l2_run: 20261113T1230_v10
+l2_run: 20261113T2100_v101
 ---
 
 # 関係性マップ
@@ -113,7 +113,7 @@ graph LR
 
 ---
 
-## 名前正規化監査（L2 run 20261113T1230_v10）
+## 名前正規化監査（L2 run 20261113T2100_v101）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_呪い.md
-l2_run: 20261113T1230_v10
+l2_run: 20261113T2100_v101
 ---
 
 # 呪い

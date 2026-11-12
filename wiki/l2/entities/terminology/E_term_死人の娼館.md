@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-01'
 updated: '2026-10-01'
 normalized_from: l1/entities/terminology/E_term_死人の娼館.md
-l2_run: 20261113T1230_v10
+l2_run: 20261113T2100_v101
 ---
 # 死人の娼館
 

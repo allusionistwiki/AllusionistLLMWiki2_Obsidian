@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_機械と氷の義肢を持つ男(画面)_容姿.md
-l2_run: 20261113T1230_v10
+l2_run: 20261113T2100_v101
 ---
 
 # 機械と氷の義肢を持つ男(画面)｜容姿

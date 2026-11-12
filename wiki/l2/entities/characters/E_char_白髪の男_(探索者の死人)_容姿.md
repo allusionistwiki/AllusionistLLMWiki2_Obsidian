@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_白髪の男_(探索者の死人)_容姿.md
-l2_run: 20261113T1230_v10
+l2_run: 20261113T2100_v101
 ---
 
 # 白髪の男 (探索者の死人)｜容姿

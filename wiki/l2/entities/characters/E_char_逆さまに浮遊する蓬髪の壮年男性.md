@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-10'
 updated: '2026-10-19'
 normalized_from: l1/entities/characters/E_char_逆さまに浮遊する蓬髪の壮年男性.md
-l2_run: 20261113T1230_v10
+l2_run: 20261113T2100_v101
 ---
 # 逆さまに浮遊する蓬髪の壮年男性
 

@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-21'
 normalized_from: l1/entities/characters/E_char_長身の男.md
-l2_run: 20261113T1230_v10
+l2_run: 20261113T2100_v101
 ---
 
 # 長身の男
@@ -47,7 +47,7 @@ l2_run: 20261113T1230_v10
 
 ---
 
-## 名前正規化監査（L2 run 20261113T1230_v10）
+## 名前正規化監査（L2 run 20261113T2100_v101）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

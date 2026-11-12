@@ -24,7 +24,7 @@ terminology:
 organizations:
 - '[[E_org_ドラトリア]]'
 normalized_from: l1/episodes/O_ch0152_summary.md
-l2_run: 20261113T1230_v10
+l2_run: 20261113T2100_v101
 ---
 # ch0152
 
@@ -70,7 +70,7 @@ l2_run: 20261113T1230_v10
 
 ---
 
-## 名前正規化監査（L2 run 20261113T1230_v10）
+## 名前正規化監査（L2 run 20261113T2100_v101）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

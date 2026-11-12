@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-01'
 updated: '2026-10-19'
 normalized_from: l1/entities/characters/E_char_ディルガッハ＝リク＝ンマウグ.md
-l2_run: 20261113T1230_v10
+l2_run: 20261113T2100_v101
 ---
 # ディルガッハ＝リク＝ンマウグ
 
