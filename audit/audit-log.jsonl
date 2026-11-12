@@ -35,3 +35,4 @@
 {"ts": "2026-11-12T00:16:38Z", "sha": "9db88119f9bb88d47a94a146dbcde2e231accb97", "verdict": "PASS", "reason": "diff >20k chars: human review advised (LLM saw head only)"}
 {"ts": "2026-11-12T15:06:20Z", "sha": "28c921aa78b587a958b1e3d249fbc15f642438b8", "verdict": "PASS", "reason": "heuristic ok"}
 {"ts": "2026-11-12T16:01:50Z", "sha": "6ba7eced5f0884ae8af57274adb9fc16d9a0175d", "verdict": "PASS", "reason": "heuristic ok"}
+{"ts": "2026-11-12T16:45:45Z", "sha": "fbf64aea76fd36ad49e931c9e1b09619fa284e50", "verdict": "PASS", "reason": "diff >20k chars: human review advised (LLM saw head only)"}
