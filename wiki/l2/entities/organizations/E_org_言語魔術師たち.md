@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-01'
 updated: '2026-10-19'
 normalized_from: l1/entities/organizations/E_org_言語魔術師たち.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 # 言語魔術師たち
 

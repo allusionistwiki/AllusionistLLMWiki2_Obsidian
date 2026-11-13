@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-10'
 updated: '2026-10-19'
 normalized_from: l1/entities/characters/E_char_レストロオセ四十四士の後継者.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 # レストロオセ四十四士の後継者
 

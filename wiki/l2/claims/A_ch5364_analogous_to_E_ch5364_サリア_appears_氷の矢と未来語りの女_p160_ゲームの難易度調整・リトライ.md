@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5364_analogous_to_E_ch5364_サリア_appears_氷の矢と未来語りの女_p160_ゲームの難易度調整・リトライ.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -31,7 +31,7 @@ l2_run: 20261113T2100_v101
 
 ---
 
-## 名前正規化監査（L2 run 20261113T2100_v101）
+## 名前正規化監査（L2 run 20261115T1100_v118）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/motifs/E_motif_戦場.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 
 # 戦場

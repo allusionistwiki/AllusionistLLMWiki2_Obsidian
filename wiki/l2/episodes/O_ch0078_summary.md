@@ -17,7 +17,7 @@ terminology:
 - '[[E_term_サイバーカラテ]]'
 relationships:
 normalized_from: l1/episodes/O_ch0078_summary.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 # ch0078
 
@@ -55,7 +55,7 @@ l2_run: 20261113T2100_v101
 
 ---
 
-## 名前正規化監査（L2 run 20261113T2100_v101）
+## 名前正規化監査（L2 run 20261115T1100_v118）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/motifs/E_motif_分かれ道.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 # 分かれ道
 

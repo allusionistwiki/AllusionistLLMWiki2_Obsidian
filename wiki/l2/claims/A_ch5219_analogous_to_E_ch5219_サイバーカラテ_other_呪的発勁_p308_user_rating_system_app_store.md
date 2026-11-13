@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5219_analogous_to_E_ch5219_サイバーカラテ_other_呪的発勁_p308_user_rating_system_app_store.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

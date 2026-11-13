@@ -9,7 +9,7 @@ canonical_name: "crown_maker_historical_term"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_crown_maker_historical_term.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->

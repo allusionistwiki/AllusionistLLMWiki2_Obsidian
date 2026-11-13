@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_仮面の枪使い／アルティウス_容姿.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 
 # 仮面の枪使い／アルティウス｜容姿

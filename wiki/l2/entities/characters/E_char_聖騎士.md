@@ -11,10 +11,10 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/characters/E_char_聖騎士.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 
-> [!info] 名前統合（L2 run 20261113T2100_v101）
+> [!info] 名前統合（L2 run 20261115T1100_v118）
 > このページの名義「聖騎士」は **キロン** の別名として統合済み（確度: 明言）。正規化先: [[E_char_キロン|キロン]]
 
 # キロン
@@ -42,7 +42,7 @@ l2_run: 20261113T2100_v101
 
 ---
 
-## 名前正規化監査（L2 run 20261113T2100_v101）
+## 名前正規化監査（L2 run 20261115T1100_v118）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

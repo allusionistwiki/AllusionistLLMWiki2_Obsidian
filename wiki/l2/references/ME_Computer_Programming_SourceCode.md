@@ -9,7 +9,7 @@ canonical_name: "Computer_Programming_SourceCode"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_Computer_Programming_SourceCode.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->

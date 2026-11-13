@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_魔導書を背負った大型猟犬_容姿.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 
 # 魔導書を背負った大型猟犬｜容姿

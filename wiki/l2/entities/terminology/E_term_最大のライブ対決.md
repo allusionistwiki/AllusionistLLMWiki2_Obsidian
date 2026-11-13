@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_最大のライブ対決.md
-l2_run: 20261113T2100_v101
+l2_run: 20261115T1100_v118
 ---
 # 最大のライブ対決
 
