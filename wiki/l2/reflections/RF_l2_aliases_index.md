@@ -7,7 +7,7 @@ type: reflection
 created: "2026-11-14"
 tags: []
 normalized_from: l1/reflections/RF_l2_aliases_index.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 
 # 名義変換表
@@ -2644,7 +2644,7 @@ l2_run: 20261115T2200_v129
 
 ---
 
-## 名前正規化監査（L2 run 20261115T2200_v129）
+## 名前正規化監査（L2 run 20261116T0700_v138）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

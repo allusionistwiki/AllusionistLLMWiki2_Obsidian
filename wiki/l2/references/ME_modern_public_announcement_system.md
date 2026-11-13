@@ -9,7 +9,7 @@ canonical_name: "modern_public_announcement_system"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_modern_public_announcement_system.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->

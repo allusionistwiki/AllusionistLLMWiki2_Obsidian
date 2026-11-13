@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_老人（吸血鬼_子泣き爺）_容姿.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 
 # 老人（吸血鬼/子泣き爺）｜容姿

@@ -9,7 +9,7 @@ canonical_name: "化学・錬金術_化合物の合成"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_化学・錬金術_化合物の合成.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->

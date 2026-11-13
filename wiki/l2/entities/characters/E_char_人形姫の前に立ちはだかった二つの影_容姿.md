@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_人形姫の前に立ちはだかった二つの影_容姿.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 
 # 人形姫の前に立ちはだかった二つの影｜容姿

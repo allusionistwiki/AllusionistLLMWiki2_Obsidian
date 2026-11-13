@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-21'
 normalized_from: l1/entities/items/E_item_巻物地図.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 
 # 巻物地図

@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5412_alludes_to_E_ch5412_ミヒトネッセ_says_私はくるみ割り人形ナットクラッカー。ねじの壊れた性玩具_p207_nutcracker_doll.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->
@@ -31,7 +31,7 @@ l2_run: 20261115T2200_v129
 
 ---
 
-## 名前正規化監査（L2 run 20261115T2200_v129）
+## 名前正規化監査（L2 run 20261116T0700_v138）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

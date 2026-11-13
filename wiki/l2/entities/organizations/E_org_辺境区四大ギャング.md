@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/organizations/E_org_辺境区四大ギャング.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 # 辺境区四大ギャング
 

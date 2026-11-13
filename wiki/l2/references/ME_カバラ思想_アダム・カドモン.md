@@ -9,7 +9,7 @@ canonical_name: "カバラ思想_アダム・カドモン"
 domain: "Ethics & Philosophy"
 review_status: llm_verified
 normalized_from: l1/references/ME_カバラ思想_アダム・カドモン.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->

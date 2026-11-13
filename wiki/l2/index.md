@@ -11,8 +11,8 @@ date: 2026-11-14
 
 L1（機械抽出）の名義ゆらぎを統合した**正規化エンティティ台帳**です。生成 run と設計:
 - 設計・実行計画: [work L2 README](https://github.com/allusionistwiki/AllusionistWiki_work/blob/main/work/allusionist_v2/L2/README.md)
-- 生成 run: `20261115T2200_v129`（来歴: L1 run 和集合 → L0 ¶N）
-- 台帳データ（機械読取）: [entities.json](https://github.com/allusionistwiki/AllusionistWiki_work/tree/main/work/allusionist_v2/L2/runs/20261115T2200_v129)
+- 生成 run: `20261116T0700_v138`（来歴: L1 run 和集合 → L0 ¶N）
+- 台帳データ（機械読取）: [entities.json](https://github.com/allusionistwiki/AllusionistWiki_work/tree/main/work/allusionist_v2/L2/runs/20261116T0700_v138)
 
 ## 統計
 
@@ -23,7 +23,7 @@ L1（機械抽出）の名義ゆらぎを統合した**正規化エンティテ�
 | 複数名義を持つ実体 | 347 |
 | 統合確度内訳 | 明言 188 / 蓋然性高 145 / 要検証 14 |
 | kind 内訳 | 用語 6755 / キャラクター 4277 / アイテム 3768 / 組織 920 / 場所 660 / モティーフ 328 / 生物 260 / 関係 130 / 事件 124 / フレーズ 115 |
-| 実体判定 v3（付随/一般名詞/保留） | 462 / 958 / 37 |
+| 実体判定 v3（付随/一般名詞/保留） | 462 / 903 / 37 |
 | 親子構造 | 親 190 実体・子 1616 件 |
 
 ## 見方

@@ -11,7 +11,7 @@ document_status: active
 review_status: llm_verified
 created: "2026-09-30"
 normalized_from: l1/entities/terminology/E_term_ダウザール会議.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 
 # ダウザール会議

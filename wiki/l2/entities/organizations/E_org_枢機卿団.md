@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-19'
 normalized_from: l1/entities/organizations/E_org_枢機卿団.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 
 # 枢機卿団

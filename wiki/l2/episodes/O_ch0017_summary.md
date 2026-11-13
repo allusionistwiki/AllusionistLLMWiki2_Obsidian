@@ -18,7 +18,7 @@ terminology:
 relationships:
 arc: '[[ARC_01_女神候補選定編]]'
 normalized_from: l1/episodes/O_ch0017_summary.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 # ch0017
 
@@ -56,7 +56,7 @@ l2_run: 20261115T2200_v129
 
 ---
 
-## 名前正規化監査（L2 run 20261115T2200_v129）
+## 名前正規化監査（L2 run 20261116T0700_v138）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

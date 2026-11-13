@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5389_parodies_E_ch5389_女王の庇護_enables_じゃれ合い_p147_video_game_narrative_structure.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

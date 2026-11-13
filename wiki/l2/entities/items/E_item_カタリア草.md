@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-10'
 updated: '2026-10-19'
 normalized_from: l1/entities/items/E_item_カタリア草.md
-l2_run: 20261115T2200_v129
+l2_run: 20261116T0700_v138
 ---
 # カタリア草
 
