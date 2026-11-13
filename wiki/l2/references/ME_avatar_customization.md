@@ -9,7 +9,7 @@ canonical_name: "avatar_customization"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_avatar_customization.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->
@@ -25,7 +25,7 @@ l2_run: 20261115T1100_v118
 
 ---
 
-## 名前正規化監査（L2 run 20261115T1100_v118）
+## 名前正規化監査（L2 run 20261115T2200_v129）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

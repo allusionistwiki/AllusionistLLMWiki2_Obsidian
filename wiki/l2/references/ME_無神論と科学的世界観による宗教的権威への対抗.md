@@ -9,7 +9,7 @@ canonical_name: "無神論と科学的世界観による宗教的権威への対
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_無神論と科学的世界観による宗教的権威への対抗.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->

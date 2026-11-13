@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_灰蜥蜴人_亜竜人の少女_容姿.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 
 # 灰蜥蜴人/亜竜人の少女｜容姿

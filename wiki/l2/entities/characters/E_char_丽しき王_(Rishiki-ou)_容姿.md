@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_丽しき王_(Rishiki-ou)_容姿.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 
 # 丽しき王 (Rishiki-ou)｜容姿

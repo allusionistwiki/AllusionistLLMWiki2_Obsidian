@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_迷宮におけるそれら事情.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 # 迷宮におけるそれら事情
 

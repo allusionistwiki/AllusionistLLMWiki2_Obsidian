@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/organizations/E_org_ドラトリア王族.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 # ドラトリア王族
 
@@ -38,7 +38,7 @@ l2_run: 20261115T1100_v118
 
 ---
 
-## 名前正規化監査（L2 run 20261115T1100_v118）
+## 名前正規化監査（L2 run 20261115T2200_v129）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

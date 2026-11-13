@@ -3,7 +3,7 @@ title: エンティティ（登場人物・用語・組織）
 id: entities/index
 description: 作中エンティティの総覧。キャラクター入口は [こちら](https://allusionistwiki.github.io/AllusionistWiki2/L1/characters.html)
 normalized_from: l1/entities/index.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 
 # エン彩域
@@ -1879,7 +1879,7 @@ l2_run: 20261115T1100_v118
 
 ---
 
-## 名前正規化監査（L2 run 20261115T1100_v118）
+## 名前正規化監査（L2 run 20261115T2200_v129）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

@@ -17,7 +17,7 @@ provenance:
   proposed_by: {kind: agent, id: swift-1.5-iq3_xxs}
   reviewed_by: {kind: agent, id: swift-1.5-iq3_xxs, date: "2026-10-21"}
 normalized_from: l1/claims/A_ch5276_alludes_to_E_ch5276_左の頭_other_抑圧された心_p381383_フロイトのプロイド・エゴ・超自我／ユングのシャドウ.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: review_status=llm_verified は LLM 自己審査による暫定承認 -->

@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-10'
 updated: '2026-10-19'
 normalized_from: l1/entities/organizations/E_org_トリシルシリーズ.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 # トリシルシリーズ
 

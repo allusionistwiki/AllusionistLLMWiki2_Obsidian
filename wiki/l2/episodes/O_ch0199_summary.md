@@ -25,7 +25,7 @@ terminology:
 organizations:
 - '[[E_org_竜神信教]]'
 normalized_from: l1/episodes/O_ch0199_summary.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 # ch0199
 
@@ -72,7 +72,7 @@ l2_run: 20261115T1100_v118
 
 ---
 
-## 名前正規化監査（L2 run 20261115T1100_v118）
+## 名前正規化監査（L2 run 20261115T2200_v129）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

@@ -9,7 +9,7 @@ canonical_name: "class_society_and_caste_system"
 domain: "Contemporary Culture"
 review_status: llm_verified
 normalized_from: l1/references/ME_class_society_and_caste_system.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 <!-- LLM-GENERATED -->
 <!-- 人間レビュー未実施: 外部参照の記述は仮。人間の追記・修正対象 -->

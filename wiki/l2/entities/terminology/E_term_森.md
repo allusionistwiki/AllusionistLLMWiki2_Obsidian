@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-10'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_森.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 # 森
 
@@ -49,7 +49,7 @@ l2_run: 20261115T1100_v118
 
 ---
 
-## 名前正規化監査（L2 run 20261115T1100_v118）
+## 名前正規化監査（L2 run 20261115T2200_v129）
 
 | 元名義 | 代表名 | 確度 | 置換件数 |
 |---|---|---|---|

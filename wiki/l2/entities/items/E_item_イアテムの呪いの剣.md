@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-19'
 normalized_from: l1/entities/items/E_item_イアテムの呪いの剣.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 
 # イアテムの呪いの剣

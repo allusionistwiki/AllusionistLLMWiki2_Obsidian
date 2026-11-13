@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/characters/E_char_少年幻影.md
-l2_run: 20261115T1100_v118
+l2_run: 20261115T2200_v129
 ---
 # 少年幻影
 

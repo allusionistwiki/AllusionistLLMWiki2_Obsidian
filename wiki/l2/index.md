@@ -11,8 +11,8 @@ date: 2026-11-14
 
 L1（機械抽出）の名義ゆらぎを統合した**正規化エンティティ台帳**です。生成 run と設計:
 - 設計・実行計画: [work L2 README](https://github.com/allusionistwiki/AllusionistWiki_work/blob/main/work/allusionist_v2/L2/README.md)
-- 生成 run: `20261115T1100_v118`（来歴: L1 run 和集合 → L0 ¶N）
-- 台帳データ（機械読取）: [entities.json](https://github.com/allusionistwiki/AllusionistWiki_work/tree/main/work/allusionist_v2/L2/runs/20261115T1100_v118)
+- 生成 run: `20261115T2200_v129`（来歴: L1 run 和集合 → L0 ¶N）
+- 台帳データ（機械読取）: [entities.json](https://github.com/allusionistwiki/AllusionistWiki_work/tree/main/work/allusionist_v2/L2/runs/20261115T2200_v129)
 
 ## 統計
 
