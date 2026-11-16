@@ -83,19 +83,35 @@ L1 全 {norm_count} ページのミラー（同一相対パス）。高確度帯
 
 L1 と同一のセクション構造です（内容は名前統合・正規化処理適用済み）。
 
-- [正規化索引（normalized.md）]({SITE}/L2/normalized.html) — 名前統合の監査・統計・代表名表
-- [話ナビゲーション(https://allusionistwiki.github.io/AllusionistWiki2/L2/nav/index.html) — 話ごとのアナロジー・伏線一覧（正規化後）
-- [登場人物一覧(https://allusionistwiki.github.io/AllusionistWiki2/L2/characters/index.html) — キャラクター入口（正規化後）
-- [関係性マップ(https://allusionistwiki.github.io/AllusionistWiki2/L2/relationships/index.html) — キャラ間の関係グラフ（正規化後）
-- [エンティティ総覧(https://allusionistwiki.github.io/AllusionistWiki2/L2/entities/index.html) — 用語・組織・アイテム・モチーフ（正規化後）
-- [アナロジークレーム全集(https://allusionistwiki.github.io/AllusionistWiki2/L2/claims/index.html) — 引喩の主張すべて（正規化後）
-- [伏線台帳(https://allusionistwiki.github.io/AllusionistWiki2/L2/mysteries/index.html) — 仕掛けられた謎の追跡（正規化後）
-- [観測章索引(https://allusionistwiki.github.io/AllusionistWiki2/L2/episodes/index.html) — 章別観測索引（正規化後）
-- [アーカイブ(https://allusionistwiki.github.io/AllusionistWiki2/L2/arcs/index.html) — 章アーク構造
-- [外部参照(https://allusionistwiki.github.io/AllusionistWiki2/L2/references/index.html) — 引喩先の現代文化・思想の解説（正規化後）
-- [「今はまだ」先延ばし索引(https://allusionistwiki.github.io/AllusionistWiki2/L2/deferrals/index.html) — 原文中の先延ばしモティーフ（正規化後）
-- [キャラ容姿描写索引(https://allusionistwiki.github.io/AllusionistWiki2/L2/appearances/index.html) — 容姿・外見描写のキャラ別索引（正規化後）
+- **層索引（L1/L2 の並び）** → [層索引](https://allusionistwiki.github.io/AllusionistWiki2/layers/)
+- ★ [ポータル（全 Wiki 統合索引）](https://allusionistwiki.github.io/) — 本組織の全 Wiki 横断の入口
+- [正規化索引](normalized.md) — 名前統合の監査・統計・代表名表（本層の主眼）
+- [話ナビゲーション](nav/index.md) — 話ごとのアナロジー・伏線一覧（正規化後）
+- [登場人物一覧](characters/index.md) — キャラクター入口（主要キャラから各ページへ）
+- [関係性マップ](relationships/index.md) — キャラ間の関係グラフ
+- [エンティティ総覧](entities/index.md) — 用語・組織・アイテム・モチーフ
+- [アナロジークレーム全集](claims/index.md) — 引喩の主張すべて
+- [伏線台帳](mysteries/index.md) — 仕掛けられた謎の追跡
+- [観測章索引](episodes/index.md) — 章別観測索引（正規化後）
+- [章アーク](arcs/index.md) — 章アーク構造
+- [外部参照](references/index.md) — 引喩先の現代文化・思想の解説
+- [「今はまだ」先延ばし索引](deferrals/index.md) — 原文中の先延ばしモティーフ全箇所
+- [キャラ容姿描写索引](appearances/index.md) — 容姿・外見描写のキャラ別索引
+- [cycleb 観測再生成層](cycleb/index.md) — 観測再生成チェーンのページ群（589 話・台帳接続）
 - 台帳 run: `{run_id}`（生成規則の中心）
+
+## 統計
+
+- 正規化ミラー: **{norm_count}** ページ（L1 と同一相対パス）
+- 别名→代表名 本文置換: 高確度帯 **{len(alias_map)}** 対（全置換件数は [正規化索引](normalized.md) 掲載）
+- 台帳: **{len(entities)}** 实体（高確度置換 {len(alias_map)} / 注釈専用 {len(low_map)}）
+
+## 読み方と注意
+
+- 各ページ末尾の**置換監査表**（元名義→代表名・確度・件数）で統合の根拠が辿れます。要検証・needs 系は置換せず注記のみ（過剰統合回避）
+- 本Wikiの大半の記述は **LLM による自動抽出・自動審査（llm_verified）** です。frontmatter の `review_status` に区別が記録されています
+- 原文のネタバレを大量に含むため、**原作未読の方は読まないでください**
+- 本Wikiは非公式のファンWikiです。原作の著作権は原作者に帰属します
 
 ## 生成規則（台帳・索引）— 本 wiki の一要素
 
