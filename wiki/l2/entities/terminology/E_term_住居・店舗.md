@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/terminology/E_term_住居・店舗.md
-l2_run: 20261116T0700_v138
+l2_run: 20261116T1700_v144
 ---
 # 住居・店舗
 

@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-19'
 normalized_from: l1/entities/terminology/E_term_天眼の民.md
-l2_run: 20261116T0700_v138
+l2_run: 20261116T1700_v144
 ---
 
 # 天眼の民

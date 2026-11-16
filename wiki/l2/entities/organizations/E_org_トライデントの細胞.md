@@ -12,7 +12,7 @@ review_status: llm_verified
 created: '2026-09-30'
 updated: '2026-10-21'
 normalized_from: l1/entities/organizations/E_org_トライデントの細胞.md
-l2_run: 20261116T0700_v138
+l2_run: 20261116T1700_v144
 ---
 
 # トライデントの細胞

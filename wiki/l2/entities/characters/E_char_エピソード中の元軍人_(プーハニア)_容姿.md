@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_エピソード中の元軍人_(プーハニア)_容姿.md
-l2_run: 20261116T0700_v138
+l2_run: 20261116T1700_v144
 ---
 
 # エピソード中の元軍人 (プーハニア)｜容姿

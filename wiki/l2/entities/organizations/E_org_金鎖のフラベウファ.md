@@ -12,7 +12,7 @@ document_status: active
 created: '2026-10-21'
 updated: '2026-10-21'
 normalized_from: l1/entities/organizations/E_org_金鎖のフラベウファ.md
-l2_run: 20261116T0700_v138
+l2_run: 20261116T1700_v144
 ---
 # 金鎖のフラベウファ
 

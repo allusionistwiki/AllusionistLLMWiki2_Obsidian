@@ -13,7 +13,7 @@ created: '2026-10-13'
 updated: '2026-10-13'
 description: キャラ容姿描写ページ
 normalized_from: l1/entities/characters/E_char_黒蟲騎士団員（ソフトモヒカン）_容姿.md
-l2_run: 20261116T0700_v138
+l2_run: 20261116T1700_v144
 ---
 
 # 黒蟲騎士団員（ソフトモヒカン）｜容姿
