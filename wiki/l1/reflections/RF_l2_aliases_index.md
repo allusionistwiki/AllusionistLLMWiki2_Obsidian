@@ -44,16 +44,16 @@ tags: []
 |---|---|---|---|---|---|
 | spear | 要検証 | v8-括弧分解：括弧内注記により同一キャラの別名 [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | 「雪女」 | 要検証 | v8-括弧分解：括弧内注記により同一キャラの別名 [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
-| ちびアキラ | 明言 | v5-逐次実読：（ちびアキラだよ！　よろしくね、グラくん！） [`ch00275¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00275/) | — | 1 件 |
-| アキラ | 要検証 | 代表名：台帳代表表記（事実観測の最多表記・303 件） [v5 分離証拠 ch38: p11で「アキラくんって」と呼ばれ、p99以降で「アキラ」と呼ばれるが、同一の語り手への愛称と短縮形の差であり、別人物を示す証拠はない。] [`ch0001¶40`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0001/) | — | 2 件 |
-| アキラくん | 要検証 | v2-裁定：ch0003 p180 などで「アキラくん」と呼称されるが、これは主人公であるアキラに対する親称/呼びかけ（トリシューラ等による）であり、同一人物を指す。ch0190 p6278 で「俺ことシナモリアキラの団体」とあり、「俺」＝シナモリアキラ＝アキラ が同一視されてい [`ch0003¶180`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0003/) | — | 1 件 |
-| アキラ殿 | 明言 | v2-裁定：ch5542でトリシューラらがアキラ（主人公）を敬称で呼ぶ。 [`ch5542¶206`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5542/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ちびアキラ | 明言 | v5-逐次実読：（ちびアキラだよ！　よろしくね、グラくん！） [`ch00275¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00275/) | — | 1 件 |
+| アキラ | 要検証 | 代表名：台帳代表表記（事実観測の最多表記・303 件） [v5 分離証拠 ch38: p11で「アキラくんって」と呼ばれ、p99以降で「アキラ」と呼ばれるが、同一の語り手への愛称と短縮形の差であり、別人物を示す証拠はない。] [`ch0001¶40`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0001/) | — | 2 件 |
+| アキラくん | 要検証 | v2-裁定：ch0003 p180 などで「アキラくん」と呼称されるが、これは主人公であるアキラに対する親称/呼びかけ（トリシューラ等による）であり、同一人物を指す。ch0190 p6278 で「俺ことシナモリアキラの団体」とあり、「俺」＝シナモリアキラ＝アキラ が同一視されてい [`ch0003¶180`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0003/) | — | 1 件 |
+| アキラ殿 | 明言 | v2-裁定：ch5542でトリシューラらがアキラ（主人公）を敬称で呼ぶ。 [`ch5542¶206`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5542/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 | アルト | 要検証 | v8-括弧分解：同一キャラクターの別名（偽名等） [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | グレンデルヒ | 要検証 | v8-括弧分解：同一人物暗示 [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | グレンデルヒ(アキラとして) | 要検証 | v3-裁定：同一人物暗示  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | シナモリ・アキラ | 明言 | ?：  | — | 1 件 |
-| 品森晶 | 要検証 | 代表名：台帳代表表記（事実観測の最多表記・13 件） [v5 分離証拠 ch374: 晶が回避してミヒトネッセが切断されるなど両者は別個に行動し、同一個体ではない] [`ch0149¶5078`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0149/) | — | 1 件 |
-| 品森晶/Akira Shinamori | 蓋然性高 | 代表名：台帳代表表記（事実観測の最多表記・1 件） [`ch5018¶121`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5018/) | — | 1 件 |
+| 品森晶 | 要検証 | 代表名：台帳代表表記（事実観測の最多表記・13 件） [v5 分離証拠 ch374: 晶が回避してミヒトネッセが切断されるなど両者は別個に行動し、同一個体ではない] [`ch0149¶5078`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0149/) | — | 1 件 |
+| 品森晶/Akira Shinamori | 蓋然性高 | 代表名：台帳代表表記（事実観測の最多表記・1 件） [`ch5018¶121`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5018/) | — | 1 件 |
 | 奴隷 | 要検証 | v8-括弧分解：同一キャラクターの別名 [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | 店員アキラ | 要検証 | v8-括弧分解：特定キャラの別名・役割表記 [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | 最強のシナモリアキラ | 要検証 | v8-括弧分解： [v8: 括弧注記を分解し本体名へ正規化]  | — | 1 件 |
@@ -62,25 +62,25 @@ tags: []
 | 牙猪 | 要検証 | v8-括弧分解：キャラクターの別名・変身表記の疑い [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | 牙猪(シナモリアキラ) | 要検証 | v3-裁定：キャラクターの別名・変身表記の疑い  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | 犬頭のアキラ | 要検証 | v8-括弧分解：文脈で「アキラ」と明記されており、状態付きの別表記と判定 [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
-| 語り手 | 明言 | 代表名：台帳代表表記（事実観測の最多表記・2 件） [v5 分離証拠 ch54: ロウ・カーインが俺を引きずる行為を行う側、俺は引きずられ少年を抱える側として動作主体が分離されている。] [`ch0201¶6759`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0201/) | — | 1 件 |
+| 語り手 | 明言 | 代表名：台帳代表表記（事実観測の最多表記・2 件） [v5 分離証拠 ch54: ロウ・カーインが俺を引きずる行為を行う側、俺は引きずられ少年を抱える側として動作主体が分離されている。] [`ch0201¶6759`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0201/) | — | 1 件 |
 
 ## ハルベルト
 正規 ID: `E_char_ハル` ｜ kind: キャラクター ｜ 名義数: 5
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ハル | 明言 | v5-逐次実読：「隊長はあなた。何か不測の事態が起こったら師であるハルがなんとかする」 [`ch0021¶972`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0021/) | — | 2 件 |
-| 斧槍 | 明言 | v5-逐次実読：垂れ耳をぺたりと頬に貼り付けて、斧槍（ハルベルト）はうつむいてしまう。 [`ch00190¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00190/) | — | 1 件 |
+| ハル | 明言 | v5-逐次実読：「隊長はあなた。何か不測の事態が起こったら師であるハルがなんとかする」 [`ch0021¶972`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0021/) | — | 2 件 |
+| 斧槍 | 明言 | v5-逐次実読：垂れ耳をぺたりと頬に貼り付けて、斧槍（ハルベルト）はうつむいてしまう。 [`ch00190¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00190/) | — | 1 件 |
 | 歌姫 | 要検証 | v8-括弧分解：ハルベルトの別称（役割記述付き） [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
-| 歌姫Spear | 明言 | v5-逐次実読：歌姫Spear――すなわちハルベルト [`ch0021¶972`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0021/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 歌姫Ｓｐｅａｒ | 明言 | v2-裁定：ch0047 para p1938 において「世紀の歌姫とは、このハルベルトのもう一つの姿」と定義されており、ch0063 para p2363 でも「歌姫Ｓｐｅａｒ――またの名をハルベルト」と明記されている。これは同一人物（ハルベルト）の別名（alias）であるため [`ch0021¶972`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0021/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 歌姫Spear | 明言 | v5-逐次実読：歌姫Spear――すなわちハルベルト [`ch0021¶972`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0021/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 歌姫Ｓｐｅａｒ | 明言 | v2-裁定：ch0047 para p1938 において「世紀の歌姫とは、このハルベルトのもう一つの姿」と定義されており、ch0063 para p2363 でも「歌姫Ｓｐｅａｒ――またの名をハルベルト」と明記されている。これは同一人物（ハルベルト）の別名（alias）であるため [`ch0021¶972`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0021/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## アズーリア
 正規 ID: `E_char_アズ` ｜ kind: キャラクター ｜ 名義数: 4
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| アズ | 要検証 | 代表名：台帳代表表記（事実観測の最多表記・408 件） [v5 分離証拠 ch142: 同一の語が同一人物を指すため分離しない。] [`ch0001¶40`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0001/) | — | 2 件 |
+| アズ | 要検証 | 代表名：台帳代表表記（事実観測の最多表記・408 件） [v5 分離証拠 ch142: 同一の語が同一人物を指すため分離しない。] [`ch0001¶40`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0001/) | — | 2 件 |
 | アズーリアヘレゼクシュ | 要検証 | v8-括弧分解：同一キャラクターの一人称表記を含む別名 [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | アズーリアヘレゼクシュ(私) | 明言 | v3-裁定：同一キャラクターの一人称表記を含む別名  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | 全裸の変態 | 要検証 | v8-括弧分解：隻腕の右腕が金属で覆われた男はアズーリア [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
@@ -93,7 +93,7 @@ tags: []
 | カシュラム王 | 要検証 | v8-括弧分解：オルヴァの役職・別名 [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | カシュラム王(オルヴァ) | 明言 | v3-裁定：オルヴァの役職・別名  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | 臣下たち | 蓋然性高 | 代表名：  | — | 1 件 |
-| 髭太夫 | 明言 | v5-逐次実読：「いや、髭太夫（オルヴァ）の知識を借りるからいい」 [`ch00432¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00432/) | — | 1 件 |
+| 髭太夫 | 明言 | v5-逐次実読：「いや、髭太夫（オルヴァ）の知識を借りるからいい」 [`ch00432¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00432/) | — | 1 件 |
 
 ## ガドカレク
 正規 ID: `E_char_ガドカレク` ｜ kind: キャラクター ｜ 名義数: 4
@@ -102,7 +102,7 @@ tags: []
 |---|---|---|---|---|---|
 | クエスドレム | 要検証 | v8-括弧分解：同一人物の別名（館主と同一視） [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 | クエスドレム(館の主人/ガドカレク) | 要検証 | v3-裁定：同一人物の別名（館主と同一視）  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
-| 竜帝 | 明言 | v5-逐次実読：「我が名は【竜帝】ガドカレク。秩序を守護する九首の真竜が第五首にしてこの【紀竜と紀神の集い】の主宰である。ようこそ、歓迎しよう異邦人たちよ。永久のもてなしを受け [`ch00293¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00293/) | — | 1 件 |
+| 竜帝 | 明言 | v5-逐次実読：「我が名は【竜帝】ガドカレク。秩序を守護する九首の真竜が第五首にしてこの【紀竜と紀神の集い】の主宰である。ようこそ、歓迎しよう異邦人たちよ。永久のもてなしを受け [`ch00293¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00293/) | — | 1 件 |
 | 黒衣の中の闇 | 要検証 | v8-括弧分解： [v8: 括弧注記を分解し本体名へ正規化]  | — | 1 件 |
 
 ## エミリニェロギッポロネーシャ
@@ -110,80 +110,80 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| タマ | 明言 | v2-裁定：ch0032/p1321, ch0036/p1495で「使い魔」「白黒の兎」として描写され、主（主人公）に仕える存在として明確に定義されている。 [`ch0032¶1321`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0032/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| タマちゃん先生 | 明言 | v2-裁定：ch0041/p1773, ch0055/p2140, ch5163/p7451で「タマちゃん先生」と呼ばれ、書籍を貸す・知識を与える役割を持つ。ch0056/p2143では「白黒兎（タマちゃん先生）」と明記されており、「タマ」＝「白黒兎」＝「タマちゃん先生」が同一の [`ch0041¶1773`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0041/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 白黒兎 | 明言 | v2-裁定：ch0056/p2143で「白黒兎（タマちゃん先生）」と括弧書きで同一視されており、他の証拠（ch0032, ch0036）とも完全に整合する。 [`ch0056¶2143`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0056/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| タマ | 明言 | v2-裁定：ch0032/p1321, ch0036/p1495で「使い魔」「白黒の兎」として描写され、主（主人公）に仕える存在として明確に定義されている。 [`ch0032¶1321`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0032/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| タマちゃん先生 | 明言 | v2-裁定：ch0041/p1773, ch0055/p2140, ch5163/p7451で「タマちゃん先生」と呼ばれ、書籍を貸す・知識を与える役割を持つ。ch0056/p2143では「白黒兎（タマちゃん先生）」と明記されており、「タマ」＝「白黒兎」＝「タマちゃん先生」が同一の [`ch0041¶1773`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0041/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 白黒兎 | 明言 | v2-裁定：ch0056/p2143で「白黒兎（タマちゃん先生）」と括弧書きで同一視されており、他の証拠（ch0032, ch0036）とも完全に整合する。 [`ch0056¶2143`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0056/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## エル・ア・フィリス
 正規 ID: `E_char_エル・ア・フィリス` ｜ kind: キャラクター ｜ 名義数: 3
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| エルアフィリスさん | 明言 | v2-裁定：ch0176で「わたくしの『エルアフィリスさん』」と所有・使用対象として同一 [`ch0176¶5851`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0176/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 言理の妖精 | 明言 | v5-逐次実読：言理の妖精（エル・ア・フィリス）とは、一体何なんだろう。 [`ch0056¶2160`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0056/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要；v4 章共起監査: alias 225章/代表名との共起 27章(share 0.12)・同一性述語 0 件 → 別实体の可能性、全話人手確認まで統合適用しない | 1 件 |
-| 言理の妖精フィリス | 明言 | v2-裁定：ch0185で両者が同一の存在として記述。改名なし [`ch0185¶6161`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0185/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| エルアフィリスさん | 明言 | v2-裁定：ch0176で「わたくしの『エルアフィリスさん』」と所有・使用対象として同一 [`ch0176¶5851`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0176/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 言理の妖精 | 明言 | v5-逐次実読：言理の妖精（エル・ア・フィリス）とは、一体何なんだろう。 [`ch0056¶2160`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0056/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要；v4 章共起監査: alias 225章/代表名との共起 27章(share 0.12)・同一性述語 0 件 → 別实体の可能性、全話人手確認まで統合適用しない | 1 件 |
+| 言理の妖精フィリス | 明言 | v2-裁定：ch0185で両者が同一の存在として記述。改名なし [`ch0185¶6161`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0185/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## エレクトラ
 正規 ID: `E_char_エレクトラ` ｜ kind: キャラクター ｜ 名義数: 3
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| キニス | 明言 | v2-裁定：ch0200: '今はユディーアの方がいいか'とキニスからユディーアへの呼び名変更が示唆され、同一人物であることが確認される。またch5542でもユディーアの別名として言及されている。 [`ch0197¶6621`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0197/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| キニスちゃん | 明言 | v2-裁定：ch5538の「恋人の娘」はユディーア（キニス）の背景設定と一致し、敬称として使用 [`ch5538¶109`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5538/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| ユディーア | 明言 | v5-逐次実読：過去視能力者であるユディーア（エレクトラあるいはキニスという呼び名は宣名のコインを取り戻した以上しばらく必要ないだろう） [`ch0070¶2589`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0070/) | — | 1 件 |
+| キニス | 明言 | v2-裁定：ch0200: '今はユディーアの方がいいか'とキニスからユディーアへの呼び名変更が示唆され、同一人物であることが確認される。またch5542でもユディーアの別名として言及されている。 [`ch0197¶6621`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0197/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| キニスちゃん | 明言 | v2-裁定：ch5538の「恋人の娘」はユディーア（キニス）の背景設定と一致し、敬称として使用 [`ch5538¶109`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5538/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ユディーア | 明言 | v5-逐次実読：過去視能力者であるユディーア（エレクトラあるいはキニスという呼び名は宣名のコインを取り戻した以上しばらく必要ないだろう） [`ch0070¶2589`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0070/) | — | 1 件 |
 
 ## オルガンローデ
 正規 ID: `E_char_オルガンローデ` ｜ kind: 用語 ｜ 名義数: 3
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 呪文竜 | 明言 | v2-裁定：ch0207で「自動化した呪文竜」が自己増殖するオルガンローデと記述 [`ch0207¶6976`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0207/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 覇竜王滅呪 | 明言 | v2-裁定：ch0134で「【覇竜王滅呪】 オルガンローデ」と同一視される [`ch0134¶4620`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0134/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 銀竜草滅呪 | 明言 | v2-裁定：ch0228で「（オルガンローデ）」表記があり、媒介としての機能一致 [`ch0228¶7523`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0228/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 呪文竜 | 明言 | v2-裁定：ch0207で「自動化した呪文竜」が自己増殖するオルガンローデと記述 [`ch0207¶6976`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0207/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 覇竜王滅呪 | 明言 | v2-裁定：ch0134で「【覇竜王滅呪】 オルガンローデ」と同一視される [`ch0134¶4620`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0134/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 銀竜草滅呪 | 明言 | v2-裁定：ch0228で「（オルガンローデ）」表記があり、媒介としての機能一致 [`ch0228¶7523`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0228/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## キロン
 正規 ID: `E_char_キロン` ｜ kind: キャラクター ｜ 名義数: 3
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 聖騎士 | 明言 | v2-裁定：ch0024で「聖騎士は裸の胸」とキロン描写一致。 [`ch0008¶396`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0008/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 聖騎士キロン | 明言 | v2-裁定：ch5085で「聖騎士キロン」として行動。同一実体 [`ch5085¶28`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5085/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 転生者殺し | 明言 | v2-裁定：ch0019で「キロンの異名」と定義され、全例が同人物を指す。 [`ch0019¶842`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0019/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 聖騎士 | 明言 | v2-裁定：ch0024で「聖騎士は裸の胸」とキロン描写一致。 [`ch0008¶396`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0008/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 聖騎士キロン | 明言 | v2-裁定：ch5085で「聖騎士キロン」として行動。同一実体 [`ch5085¶28`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5085/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 転生者殺し | 明言 | v2-裁定：ch0019で「キロンの異名」と定義され、全例が同人物を指す。 [`ch0019¶842`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0019/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## クナータ
 正規 ID: `E_char_クナータ` ｜ kind: キャラクター ｜ 名義数: 3
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 聖女 | 明言 | v2-裁定：ch0074 p2821 において「聖女クナータ」という連名で記述されており、同一人物であることが明示されている。また、両者の特性（全知、転生、槍神教の巫女相当）が一致しており、反例（別存在としての共起）は確認されない。mech_split は同一文内での修飾語付き呼 [`ch0200¶6743`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0200/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 聖女クナータ | 明言 | v2-裁定：正式名として多数の行動描写あり。同一実体 [`ch0030¶1267`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0030/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 聖女様 | 明言 | v2-裁定：ch5166で「クナータ様」と呼称され、敬称として一致 [`ch0031¶1293`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0031/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 聖女 | 明言 | v2-裁定：ch0074 p2821 において「聖女クナータ」という連名で記述されており、同一人物であることが明示されている。また、両者の特性（全知、転生、槍神教の巫女相当）が一致しており、反例（別存在としての共起）は確認されない。mech_split は同一文内での修飾語付き呼 [`ch0200¶6743`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0200/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 聖女クナータ | 明言 | v2-裁定：正式名として多数の行動描写あり。同一実体 [`ch0030¶1267`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0030/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 聖女様 | 明言 | v2-裁定：ch5166で「クナータ様」と呼称され、敬称として一致 [`ch0031¶1293`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0031/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ペリュトン
 正規 ID: `E_char_ペリュトン` ｜ kind: キャラクター ｜ 名義数: 3
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ラハブ | 明言 | v2-裁定：ch0231で「ペリュトン系の淫魔ラハブ」として同一視される [`ch0198¶6643`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0198/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 枝角有翼の青鹿 | 明言 | v2-裁定：ch0209 p7053でアズーリア隊の紋章『枝角有翼の青鹿』が「ペリュトンという図像」として描写されており、名称と実体（キャラクター）が明示的に紐付けられている。 [`ch0209¶7053`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0209/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 青い鳥 | 明言 | v5-逐次実読：青い鳥（ペリュトン）。鹿と鳥の特徴を併せ持つ、影の世界の住人。 異獣ならざる青い鳥（ペリュトン）であるはずだ。 [`ch0065¶2433`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0065/) | — | 1 件 |
+| ラハブ | 明言 | v2-裁定：ch0231で「ペリュトン系の淫魔ラハブ」として同一視される [`ch0198¶6643`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0198/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 枝角有翼の青鹿 | 明言 | v2-裁定：ch0209 p7053でアズーリア隊の紋章『枝角有翼の青鹿』が「ペリュトンという図像」として描写されており、名称と実体（キャラクター）が明示的に紐付けられている。 [`ch0209¶7053`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0209/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 青い鳥 | 明言 | v5-逐次実読：青い鳥（ペリュトン）。鹿と鳥の特徴を併せ持つ、影の世界の住人。 異獣ならざる青い鳥（ペリュトン）であるはずだ。 [`ch0065¶2433`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0065/) | — | 1 件 |
 
 ## ライブ
 正規 ID: `E_char_ライブ` ｜ kind: 用語 ｜ 名義数: 3
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 儀式呪術 | 明言 | v2-裁定：ch0010, ch5220等で大規模な呪術行事を指す用語 [`ch0010¶437`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0010/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 呪術儀式 | 明言 | v2-裁定：ch0010, ch5200等でハルの公演（ライブ）を指す用語 [`ch0010¶436`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0010/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 思い出話 | 明言 | v2-裁定：ch0057で「呪術儀式としての思い出話」と定義され、同一実体であることが明記されている。 [`ch0057¶2182`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0057/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 儀式呪術 | 明言 | v2-裁定：ch0010, ch5220等で大規模な呪術行事を指す用語 [`ch0010¶437`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0010/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 呪術儀式 | 明言 | v2-裁定：ch0010, ch5200等でハルの公演（ライブ）を指す用語 [`ch0010¶436`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0010/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 思い出話 | 明言 | v2-裁定：ch0057で「呪術儀式としての思い出話」と定義され、同一実体であることが明記されている。 [`ch0057¶2182`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0057/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 六人の王
 正規 ID: `E_char_六人の王` ｜ kind: キャラクター ｜ 名義数: 3
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 六人の王さまたち | 明言 | v2-裁定：ch5382で六人が王たる者であることが明言され、同一实体。 [`ch0116¶4057`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0116/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 六人の男たち | 明言 | v2-裁定：ch5382で「六人は...王たる者の器」とあり、同一实体。 [`ch5382¶15`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5382/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 六人の王さまたち | 明言 | v2-裁定：ch5382で六人が王たる者であることが明言され、同一实体。 [`ch0116¶4057`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0116/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 六人の男たち | 明言 | v2-裁定：ch5382で「六人は...王たる者の器」とあり、同一实体。 [`ch5382¶15`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5382/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 | 六王 | 要検証 | v8-括弧分解：既存候補の別称・表記ゆれ [v8: 括弧注記を分解し本体名へ正規化]  | v3 裁定: 両名義の全話使用状況確認が未実施 | 1 件 |
 
 ## 再生者
@@ -191,35 +191,35 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| オルクス | 明言 | v2-裁定：ch0064で「再生者――オルクス」と定義、同一実体 [`ch0064¶2406`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0064/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| オルクス＝ハイ | 明言 | v2-裁定：ch0131で高位再生者の別名として明示。ch5365の文脈から敵対的個体群を示す表記と判断。 [`ch0137¶4692`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0137/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 高位再生者 | 明言 | v2-裁定：ch0131で「高位再生者（オルクス＝ハイ）」と同一視される記述あり。 [`ch0131¶4536`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0131/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| オルクス | 明言 | v2-裁定：ch0064で「再生者――オルクス」と定義、同一実体 [`ch0064¶2406`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0064/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| オルクス＝ハイ | 明言 | v2-裁定：ch0131で高位再生者の別名として明示。ch5365の文脈から敵対的個体群を示す表記と判断。 [`ch0137¶4692`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0137/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 高位再生者 | 明言 | v2-裁定：ch0131で「高位再生者（オルクス＝ハイ）」と同一視される記述あり。 [`ch0131¶4536`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0131/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 太陰
 正規 ID: `E_char_太陰` ｜ kind: 場所 ｜ 名義数: 3
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| イルディアンサ | 明言 | v5-逐次実読：兎の――太陰（イルディアンサ）の民の血がそう思わせているのだろうか。 第四衛星、太陰（イルディアンサ）。 [`ch0037¶1527`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0037/) | — | 1 件 |
-| 第四衛星 | 明言 | v2-裁定：ch0039で「第四衛星、太陰」と明示的に同一視されている。またch0047では「ハルの故郷である第四衛星、太陰」と記述され、天体としての名称が完全に一致しているため統合を維持する。 [`ch0038¶1594`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0038/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 第四衛星イルディアンサ | 明言 | v2-裁定：ch0087およびch5247で「第四衛星イルディアンサには幾つかの『海』がある」と記述され、これは太陰（第四衛星）上に存在する情報空間を指している。複合名称ではあるが指示対象は同一の天体/場所であるため統合を維持する。 [`ch0080¶2943`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0080/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| イルディアンサ | 明言 | v5-逐次実読：兎の――太陰（イルディアンサ）の民の血がそう思わせているのだろうか。 第四衛星、太陰（イルディアンサ）。 [`ch0037¶1527`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0037/) | — | 1 件 |
+| 第四衛星 | 明言 | v2-裁定：ch0039で「第四衛星、太陰」と明示的に同一視されている。またch0047では「ハルの故郷である第四衛星、太陰」と記述され、天体としての名称が完全に一致しているため統合を維持する。 [`ch0038¶1594`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0038/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 第四衛星イルディアンサ | 明言 | v2-裁定：ch0087およびch5247で「第四衛星イルディアンサには幾つかの『海』がある」と記述され、これは太陰（第四衛星）上に存在する情報空間を指している。複合名称ではあるが指示対象は同一の天体/場所であるため統合を維持する。 [`ch0080¶2943`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0080/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 植物神レルプレア
 正規 ID: `E_char_植物神レルプレア` ｜ kind: キャラクター ｜ 名義数: 3
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| マンモス | 明言 | v2-裁定：ch0063 p2359の引用文「毛長曲牙象...を引き連れた曲芸団 マンモス スピアタイガー サーカス」において、「マンモス」が「毛長曲牙象」と同義で用いられている。またch0221 p7334では「悠々と歩く毛長曲牙象に乗せてくれないかと...頼み込んでいるマンモ [`ch0063¶2359`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0063/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 朱の翼 | 明言 | v2-裁定：ep ch0041/p1777 および ep ch5163/p110 において、「天才的なセンスを誇る競争相手」「敵対者」として同一の人物像（戦闘相手）として描写されており、指示対象に矛盾や反例がないため。 [`ch0041¶1777`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0041/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 毛長曲牙象 | 明言 | v2-裁定：ch0221 p7334にて「毛長曲牙象に乗せてくれないかと...頼み込んでいるマンモス」と記述され、「毛長曲牙象」が「マンモス」という固有名詞（キャラクター名）と同一視されている。ch0063 p2359でも「毛長曲牙象...を引き連れた曲芸団 マンモス」とあり、両 [`ch0221¶7334`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0221/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| マンモス | 明言 | v2-裁定：ch0063 p2359の引用文「毛長曲牙象...を引き連れた曲芸団 マンモス スピアタイガー サーカス」において、「マンモス」が「毛長曲牙象」と同義で用いられている。またch0221 p7334では「悠々と歩く毛長曲牙象に乗せてくれないかと...頼み込んでいるマンモ [`ch0063¶2359`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0063/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 朱の翼 | 明言 | v2-裁定：ep ch0041/p1777 および ep ch5163/p110 において、「天才的なセンスを誇る競争相手」「敵対者」として同一の人物像（戦闘相手）として描写されており、指示対象に矛盾や反例がないため。 [`ch0041¶1777`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0041/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 毛長曲牙象 | 明言 | v2-裁定：ch0221 p7334にて「毛長曲牙象に乗せてくれないかと...頼み込んでいるマンモス」と記述され、「毛長曲牙象」が「マンモス」という固有名詞（キャラクター名）と同一視されている。ch0063 p2359でも「毛長曲牙象...を引き連れた曲芸団 マンモス」とあり、両 [`ch0221¶7334`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0221/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## NOKOTTA
 正規 ID: `E_term_NOKOTTA` ｜ kind: 用語 ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| NO KOTTA | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0061¶2299`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0061/) | — | 1 件 |
-| ＮＯＫＯＴＴＡ | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0061¶2299`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0061/) | — | 1 件 |
+| NO KOTTA | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0061¶2299`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0061/) | — | 1 件 |
+| ＮＯＫＯＴＴＡ | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0061¶2299`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0061/) | — | 1 件 |
 
 ## 「鼻」(女)
 正規 ID: `E_char_「鼻」(女)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -234,24 +234,24 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ドーラーヴィ | 明言 | v2-裁定：ch0135の表記崩壊「きぐるみ妖ーラ...ドーラーヴィ...精」 [`ch0135¶4649`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0135/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| ドーラーヴィーラ | 明言 | v2-裁定：ch0162 para p5478 における「『きぐるみ妖精』専属モデル / ドーラーヴィーラ」の共起により、ドーラーヴィーラがきぐるみ妖精の別名（または同一実体）であることが明言されている。 [`ch0080¶2935`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0080/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ドーラーヴィ | 明言 | v2-裁定：ch0135の表記崩壊「きぐるみ妖ーラ...ドーラーヴィ...精」 [`ch0135¶4649`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0135/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ドーラーヴィーラ | 明言 | v2-裁定：ch0162 para p5478 における「『きぐるみ妖精』専属モデル / ドーラーヴィーラ」の共起により、ドーラーヴィーラがきぐるみ妖精の別名（または同一実体）であることが明言されている。 [`ch0080¶2935`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0080/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ちびラズリ
 正規 ID: `E_char_ちびラズリ` ｜ kind: キャラクター ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| フィレクティ | 明言 | v2-裁定：ch0219 para p7296において「フィレクティ＝ラズリ」と同一人物であることが明示されている。また、ch0199 para p6701では「竜神信教では巫女の同期生だったフィレクティ」とあり、ラズリの背景設定（巫女）と一致する。 [`ch0073¶2775`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0073/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| ラズリ | 明言 | v2-裁定：ch0219 para p7296で「フィレクティ＝ラズリ」と同一視されている。ch5375 para p78のsurface「ラズリ（フィレクティ）」も同一人物を指す括弧書き表記であり、矛盾はない。 [`ch0129¶4476`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0129/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| フィレクティ | 明言 | v2-裁定：ch0219 para p7296において「フィレクティ＝ラズリ」と同一人物であることが明示されている。また、ch0199 para p6701では「竜神信教では巫女の同期生だったフィレクティ」とあり、ラズリの背景設定（巫女）と一致する。 [`ch0073¶2775`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0073/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ラズリ | 明言 | v2-裁定：ch0219 para p7296で「フィレクティ＝ラズリ」と同一視されている。ch5375 para p78のsurface「ラズリ（フィレクティ）」も同一人物を指す括弧書き表記であり、矛盾はない。 [`ch0129¶4476`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0129/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## アゥルメイア
 正規 ID: `E_char_アゥルメイア` ｜ kind: キャラクター ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| アゥルメイアお嬢様 | 明言 | v2-裁定：ch5537でアルバダオバが「アゥルメイアお嬢様」を主として仕えると明言。 [`ch5537¶164`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5537/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| アゥルメイア様 | 明言 | v2-裁定：ch5543で「アゥルメイア様」が機械女王関連の語彙として登場し同一人物。 [`ch5543¶92`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5543/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| アゥルメイアお嬢様 | 明言 | v2-裁定：ch5537でアルバダオバが「アゥルメイアお嬢様」を主として仕えると明言。 [`ch5537¶164`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5537/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| アゥルメイア様 | 明言 | v2-裁定：ch5543で「アゥルメイア様」が機械女王関連の語彙として登場し同一人物。 [`ch5543¶92`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5543/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## アキラ(分身群)
 正規 ID: `E_creature_アキラ(分身群)` ｜ kind: 生物 ｜ 名義数: 2
@@ -282,16 +282,16 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| アキラ | 要検証 | v8-括弧分解：正規化同一（NFKC・中点/空白除去）による表記ゆれ [v8: 括弧注記を分解し本体名へ正規化] [`ch5041¶69`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5041/) | — | 1 件 |
-| アキラ（シナモリアキラ） | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch5041¶69`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5041/) | — | 1 件 |
+| アキラ | 要検証 | v8-括弧分解：正規化同一（NFKC・中点/空白除去）による表記ゆれ [v8: 括弧注記を分解し本体名へ正規化] [`ch5041¶69`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5041/) | — | 1 件 |
+| アキラ（シナモリアキラ） | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch5041¶69`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5041/) | — | 1 件 |
 
 ## アストラル界
 正規 ID: `E_term_アストラル界` ｜ kind: 用語 ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| アストラル | 明言 | v2-裁定：ch0221で「アストラル界が男槍」と定義、ch5181で影の本体所在界と明記 [`ch0051¶2011`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0051/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| グラマー界 | 明言 | v2-裁定：ch0029・5137でアストラル界の別称（TUI側面）として同一実体と定義。 [`ch0029¶1245`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0029/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| アストラル | 明言 | v2-裁定：ch0221で「アストラル界が男槍」と定義、ch5181で影の本体所在界と明記 [`ch0051¶2011`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0051/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| グラマー界 | 明言 | v2-裁定：ch0029・5137でアストラル界の別称（TUI側面）として同一実体と定義。 [`ch0029¶1245`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0029/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## アズーリア(報告書)
 正規 ID: `E_term_アズーリア(報告書)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -322,8 +322,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 澄明 | 明言 | v5-逐次実読：てっきり、澄明（アズール）の青色が澄み渡り過ぎて透明にも見えるという意味だとばかり思っていた。 [`ch0058¶2213`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0058/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 青い有翼の牡鹿 | 明言 | v5-逐次実読：青い有翼の牡鹿（アズール） [`ch00177¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00177/) | — | 1 件 |
+| 澄明 | 明言 | v5-逐次実読：てっきり、澄明（アズール）の青色が澄み渡り過ぎて透明にも見えるという意味だとばかり思っていた。 [`ch0058¶2213`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0058/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 青い有翼の牡鹿 | 明言 | v5-逐次実読：青い有翼の牡鹿（アズール） [`ch00177¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00177/) | — | 1 件 |
 
 ## アルテミシア(推定)
 正規 ID: `E_term_アルテミシア(推定)` ｜ kind: 用語 ｜ 名義数: 2
@@ -339,7 +339,7 @@ tags: []
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
 | お父様 | 蓋然性高 | 代表名：  | — | 1 件 |
-| カーネリアン | 要検証 | v2-裁定：ch0117 p4115で「真紅玉髄！ カーネリアン」と宝石名を特定。 [`ch0117¶4115`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0117/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| カーネリアン | 要検証 | v2-裁定：ch0117 p4115で「真紅玉髄！ カーネリアン」と宝石名を特定。 [`ch0117¶4115`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0117/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## アルマ(炎天使)
 正規 ID: `E_char_アルマ(炎天使)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -354,16 +354,16 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 樹妖精 | 明言 | v5-逐次実読：樹妖精（アルラウネ）。【ティリビナの民】から一定の確率で生まれる特異呪力偏向個体。 樹妖精（アルラウネ） [`ch00141¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00141/) [`ch00211¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00211/) [`ch00516¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00516/) | — | 1 件 |
-| 花のアヴロノ | 明言 | v2-裁定：ch0225で『花のアヴロノ』がアルラウネと明記。同一実体。 [`ch0225¶7437`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0225/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 樹妖精 | 明言 | v5-逐次実読：樹妖精（アルラウネ）。【ティリビナの民】から一定の確率で生まれる特異呪力偏向個体。 樹妖精（アルラウネ） [`ch00141¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00141/) [`ch00211¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00211/) [`ch00516¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00516/) | — | 1 件 |
+| 花のアヴロノ | 明言 | v2-裁定：ch0225で『花のアヴロノ』がアルラウネと明記。同一実体。 [`ch0225¶7437`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0225/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## アヴロノ
 正規 ID: `E_char_アヴロノ` ｜ kind: キャラクター ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 虫態 | 明言 | v2-裁定：ch0210でアヴロノの形質発現と定義、同一個体の変身 [`ch0210¶7105`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0210/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 虫態アヴロノ | 明言 | v2-裁定：ch0210/ch0243でアヴロノの変身形態として明記、同一実体。 [`ch0209¶7084`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0209/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 虫態 | 明言 | v2-裁定：ch0210でアヴロノの形質発現と定義、同一個体の変身 [`ch0210¶7105`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0210/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 虫態アヴロノ | 明言 | v2-裁定：ch0210/ch0243でアヴロノの変身形態として明記、同一実体。 [`ch0209¶7084`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0209/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## イキューの舌(本体)
 正規 ID: `E_term_イキューの舌(本体)` ｜ kind: アイテム ｜ 名義数: 2
@@ -378,7 +378,7 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| イナータルゴ様 | 明言 | v2-裁定：敬称付きと素性が同一人物（ch0254, 256） [`ch0254¶8174`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0254/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| イナータルゴ様 | 明言 | v2-裁定：敬称付きと素性が同一人物（ch0254, 256） [`ch0254¶8174`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0254/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 | イナータルゴ様(百目の男) | 蓋然性高 | 代表名：  | — | 1 件 |
 
 ## エクリエッテ(師)
@@ -394,8 +394,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ティリビナの巫女 | 明言 | v2-裁定： ch0036で「私はプリエステラ…【ティリビナの巫女】」と自己紹介 [`ch0048¶1955`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0048/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| プリエステラ | 明言 | v5-逐次実読：「隊長はあなた。何か不測の事態が起こったら師であるハルがなんとかする」 [`ch0036¶1523`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0036/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ティリビナの巫女 | 明言 | v2-裁定： ch0036で「私はプリエステラ…【ティリビナの巫女】」と自己紹介 [`ch0048¶1955`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0048/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| プリエステラ | 明言 | v5-逐次実読：「隊長はあなた。何か不測の事態が起こったら師であるハルがなんとかする」 [`ch0036¶1523`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0036/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## エリカ(推定)
 正規 ID: `E_char_エリカ(推定)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -442,8 +442,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| レスラー | 明言 | v5-逐次実読：「うん、もうちょっとしたら、四日前に建造した美術振興センターと美術館が呪力納税してくれるから、それでコストはどうにかなる。レスラー（カニャッツォ）出して受け止め 「消耗が激しい蠍尾（マラコーダ）、牙猪（チリアット）、レスラー（カニャッツォ）はレオを守りながら地下通 [`ch00340¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00340/) [`ch00350¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00350/) | — | 1 件 |
-| 狆くしゃ | 明言 | v5-逐次実読：なあ、狆くしゃ（カニャッツォ）？ [`ch00373¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00373/) | — | 1 件 |
+| レスラー | 明言 | v5-逐次実読：「うん、もうちょっとしたら、四日前に建造した美術振興センターと美術館が呪力納税してくれるから、それでコストはどうにかなる。レスラー（カニャッツォ）出して受け止め 「消耗が激しい蠍尾（マラコーダ）、牙猪（チリアット）、レスラー（カニャッツォ）はレオを守りながら地下通 [`ch00340¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00340/) [`ch00350¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00350/) | — | 1 件 |
+| 狆くしゃ | 明言 | v5-逐次実読：なあ、狆くしゃ（カニャッツォ）？ [`ch00373¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00373/) | — | 1 件 |
 
 ## カーズガン(第四位)
 正規 ID: `E_char_カーズガン(第四位)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -482,8 +482,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 戦争 | 明言 | v5-逐次実読：兵力（ユニット）を消費する戦争（ゲーム）をしよう、グレンデルヒ！ [`ch00309¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00309/) | — | 1 件 |
-| 遊戯盤 | 明言 | v2-裁定：ch0249 para p8059において「双六の最新形態」と定義されており、遊戯盤がゲーム（玩具/ボードゲーム）の一種であることが明示されている。またch0020/ch0269での機能描写（視覚化ツールとしての盤）と整合性があり、同一実体として扱って問題ない。 [`ch0020¶916`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0020/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 戦争 | 明言 | v5-逐次実読：兵力（ユニット）を消費する戦争（ゲーム）をしよう、グレンデルヒ！ [`ch00309¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00309/) | — | 1 件 |
+| 遊戯盤 | 明言 | v2-裁定：ch0249 para p8059において「双六の最新形態」と定義されており、遊戯盤がゲーム（玩具/ボードゲーム）の一種であることが明示されている。またch0020/ch0269での機能描写（視覚化ツールとしての盤）と整合性があり、同一実体として扱って問題ない。 [`ch0020¶916`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0020/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## コルセスカ(アキラ経由)
 正規 ID: `E_term_コルセスカ(アキラ経由)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -498,8 +498,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 王権守護者 | 明言 | v5-逐次実読：王権守護者（サテライトオーブ）――【スキリシア】 [`ch00325¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00325/) | — | 1 件 |
-| 禁忌林檎 | 明言 | v5-逐次実読：「禁忌林檎（サテライトオーブ）――【イルディアンサ】！！」 [`ch00326¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00326/) | — | 1 件 |
+| 王権守護者 | 明言 | v5-逐次実読：王権守護者（サテライトオーブ）――【スキリシア】 [`ch00325¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00325/) | — | 1 件 |
+| 禁忌林檎 | 明言 | v5-逐次実読：「禁忌林檎（サテライトオーブ）――【イルディアンサ】！！」 [`ch00326¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00326/) | — | 1 件 |
 
 ## シナモリアキラ(チェーンソー男)
 正規 ID: `E_char_シナモリアキラ(チェーンソー男)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -554,24 +554,24 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ルバーブ様 | 明言 | v2-裁定：敬称付きでルバーブ（スカルミリオーネ）を指す。ch5348の行動も一致 [`ch5348¶37`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5348/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 乱髪 | 明言 | v2-裁定：ch0143 p4896で「汝が名は『乱髪』」と命名されており、ch0133 p4600の「乱髪スカルミリオーネ」と併記されることから、ルバーブの異名であることが確認できる。 [`ch0143¶4896`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0143/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ルバーブ様 | 明言 | v2-裁定：敬称付きでルバーブ（スカルミリオーネ）を指す。ch5348の行動も一致 [`ch5348¶37`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5348/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 乱髪 | 明言 | v2-裁定：ch0143 p4896で「汝が名は『乱髪』」と命名されており、ch0133 p4600の「乱髪スカルミリオーネ」と併記されることから、ルバーブの異名であることが確認できる。 [`ch0143¶4896`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0143/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ゼド
 正規 ID: `E_char_ゼド` ｜ kind: キャラクター ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 【盗賊王】 | 明言 | v2-裁定：ch0084 p3095 で「【盗賊王】ゼド」という形で、括弧付きの称号と固有名詞が同一人物を指して共起しているため。 [`ch0084¶3095`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0084/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 盗賊王ゼド | 明言 | v2-裁定：ch0079等で「四英雄の一人、【盗賊王】ゼド」と明記 [`ch0079¶2920`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0079/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 【盗賊王】 | 明言 | v2-裁定：ch0084 p3095 で「【盗賊王】ゼド」という形で、括弧付きの称号と固有名詞が同一人物を指して共起しているため。 [`ch0084¶3095`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0084/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 盗賊王ゼド | 明言 | v2-裁定：ch0079等で「四英雄の一人、【盗賊王】ゼド」と明記 [`ch0079¶2920`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0079/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ゼノグラシア
 正規 ID: `E_term_ゼノグラシア` ｜ kind: 用語 ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| アキラくん | 明言 | v5-逐次実読：私達がアキラくんをゼノグラシアと呼ぶのは アキラくん（マイカール） [`ch00058¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00058/) [`ch00388¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00388/) | — | 1 件 |
-| 転生者 | 明言 | v5-逐次実読：何が君をそうまでさせるのか。いや、それが君の転生者（ゼノグラシア）としての特質か。 転生者（ゼノグラシア） [`ch0005¶234`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0005/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要；v4 章共起監査: alias 302章/代表名との共起 58章(share 0.192)・同一性述語 0 件 → 別实体の可能性、全話人手確認まで統合適用しない | 1 件 |
+| アキラくん | 明言 | v5-逐次実読：私達がアキラくんをゼノグラシアと呼ぶのは アキラくん（マイカール） [`ch00058¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00058/) [`ch00388¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00388/) | — | 1 件 |
+| 転生者 | 明言 | v5-逐次実読：何が君をそうまでさせるのか。いや、それが君の転生者（ゼノグラシア）としての特質か。 転生者（ゼノグラシア） [`ch0005¶234`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0005/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要；v4 章共起監査: alias 302章/代表名との共起 58章(share 0.192)・同一性述語 0 件 → 別实体の可能性、全話人手確認まで統合適用しない | 1 件 |
 
 ## ゼール・コゼーヌ
 正規 ID: `E_char_ゼール・コゼーヌ` ｜ kind: キャラクター ｜ 名義数: 2
@@ -594,16 +594,16 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| チフス | 明言 | v2-裁定：ch0185で紅戦熱が「チフス」と呼ばれ同一視される。 [`ch0185¶6144`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0185/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 紅戦熱 | 明言 | v2-裁定：シラミの始祖吸血鬼こと紅戦熱(ch0185)。同一実体。 [`ch0185¶6144`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0185/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| チフス | 明言 | v2-裁定：ch0185で紅戦熱が「チフス」と呼ばれ同一視される。 [`ch0185¶6144`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0185/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 紅戦熱 | 明言 | v2-裁定：シラミの始祖吸血鬼こと紅戦熱(ch0185)。同一実体。 [`ch0185¶6144`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0185/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## チョコレートリリー
 正規 ID: `E_org_チョコレートリリー` ｜ kind: 組織 ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 黒百合 | 明言 | v2-裁定：ch0046 para p1901 で「私たち六人の名前は【黒百合】として記録され」とあり、ch0046 para p1900 では同じ集団が【チョコレートリリー】と呼ばれている記述がある。同一の探索者集団（組織）に対して異なる呼称（公式記録名と通称/隠語等）が使われ [`ch0046¶1901`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0046/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 黒百合の子供たち | 明言 | v5-逐次実読：その使い魔にして『黒百合の子供たち（チョコレートリリー）』の共同幻想であるアズーリア [`ch00589¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00589/) | — | 1 件 |
+| 黒百合 | 明言 | v2-裁定：ch0046 para p1901 で「私たち六人の名前は【黒百合】として記録され」とあり、ch0046 para p1900 では同じ集団が【チョコレートリリー】と呼ばれている記述がある。同一の探索者集団（組織）に対して異なる呼称（公式記録名と通称/隠語等）が使われ [`ch0046¶1901`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0046/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 黒百合の子供たち | 明言 | v5-逐次実読：その使い魔にして『黒百合の子供たち（チョコレートリリー）』の共同幻想であるアズーリア [`ch00589¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00589/) | — | 1 件 |
 
 ## ティエポロス(の使い魔/射手)
 正規 ID: `E_char_ティエポロス(の使い魔/射手)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -666,8 +666,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 黒曜騎士 | 明言 | v2-裁定：ch0239でハイマンの称号として明示。行動も一致 [`ch0215¶7231`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0215/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 黒曜騎士ハイマン | 明言 | v2-裁定：ch0216で「黒曜騎士ハイマン」として行動が描写される [`ch0216¶7235`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0216/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 黒曜騎士 | 明言 | v2-裁定：ch0239でハイマンの称号として明示。行動も一致 [`ch0215¶7231`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0215/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 黒曜騎士ハイマン | 明言 | v2-裁定：ch0216で「黒曜騎士ハイマン」として行動が描写される [`ch0216¶7235`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0216/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ハルベルト(観測者)
 正規 ID: `E_term_ハルベルト(観測者)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -682,8 +682,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 不死狩りの鳥人 | 明言 | v5-逐次実読：不死狩りの鳥人（バードマン）『啄み』クロウ選手！ [`ch00501¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00501/) | — | 1 件 |
-| 鳥人 | 明言 | v5-逐次実読：銀貨によって支配下に置いた鳥人（バードマン）のクロウ、複座式マジックミサイルで加速を続けるジュティアとミナ。 [`ch00502¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00502/) | — | 1 件 |
+| 不死狩りの鳥人 | 明言 | v5-逐次実読：不死狩りの鳥人（バードマン）『啄み』クロウ選手！ [`ch00501¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00501/) | — | 1 件 |
+| 鳥人 | 明言 | v5-逐次実読：銀貨によって支配下に置いた鳥人（バードマン）のクロウ、複座式マジックミサイルで加速を続けるジュティアとミナ。 [`ch00502¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00502/) | — | 1 件 |
 
 ## ビークレット(白焔の貴婦人)
 正規 ID: `E_char_ビークレット(白焔の貴婦人)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -698,16 +698,16 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 冥道の幼姫 | 明言 | v5-逐次実読：奴隷の少女フェロニア――つまりは冥道の幼姫 その少女の名は冥道の幼姫。この一幕の後に死人の森の女王と呼ばれるようになる [`ch00289¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00289/) [`ch00303¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00303/) | — | 1 件 |
-| 自由 | 明言 | v5-逐次実読：俺は『自由（フェロニア）』を手にして帰るとしよう [`ch00390¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00390/) | — | 1 件 |
+| 冥道の幼姫 | 明言 | v5-逐次実読：奴隷の少女フェロニア――つまりは冥道の幼姫 その少女の名は冥道の幼姫。この一幕の後に死人の森の女王と呼ばれるようになる [`ch00289¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00289/) [`ch00303¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00303/) | — | 1 件 |
+| 自由 | 明言 | v5-逐次実読：俺は『自由（フェロニア）』を手にして帰るとしよう [`ch00390¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00390/) | — | 1 件 |
 
 ## プーハニア・トストンス
 正規 ID: `E_char_プーハニア・トストンス` ｜ kind: キャラクター ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 狆くしゃ | 要検証 | v8-括弧分解：狆くしゃ（カニャッツォ）＝プーハニア・トストンス [v8: 括弧注記を分解し本体名へ正規化] [`ch00372¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00372/) | — | 1 件 |
-| 狆くしゃ（カニャッツォ） | 明言 | v5-逐次実読：狆くしゃ（カニャッツォ）＝プーハニア・トストンス [`ch00372¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00372/) | — | 1 件 |
+| 狆くしゃ | 要検証 | v8-括弧分解：狆くしゃ（カニャッツォ）＝プーハニア・トストンス [v8: 括弧注記を分解し本体名へ正規化] [`ch00372¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00372/) | — | 1 件 |
+| 狆くしゃ（カニャッツォ） | 明言 | v5-逐次実読：狆くしゃ（カニャッツォ）＝プーハニア・トストンス [`ch00372¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00372/) | — | 1 件 |
 
 ## ヘレネ(推定)
 正規 ID: `E_char_ヘレネ(推定)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -730,8 +730,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 狂怖 | 明言 | v2-裁定：ch0144で「名を『狂怖』と言った」と定義 [`ch0144¶4909`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0144/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 狂怖種 | 明言 | v2-裁定：ch0053で「上位種である狂怖種」と狂怖の種族名として使用 [`ch0043¶1833`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0043/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 狂怖 | 明言 | v2-裁定：ch0144で「名を『狂怖』と言った」と定義 [`ch0144¶4909`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0144/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 狂怖種 | 明言 | v2-裁定：ch0053で「上位種である狂怖種」と狂怖の種族名として使用 [`ch0043¶1833`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0043/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## マリー(アズーリア内)
 正規 ID: `E_char_マリー(アズーリア内)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -754,16 +754,16 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| メートリアン | 明言 | v5-逐次実読：私の名前はメートリアンだと言っているっ！ [`ch0040¶1759`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0040/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 完全祝福者 | 明言 | v2-裁定：ch0243で「完全祝福者...メートリアン」と同一視される [`ch0243¶7958`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0243/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| メートリアン | 明言 | v5-逐次実読：私の名前はメートリアンだと言っているっ！ [`ch0040¶1759`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0040/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 完全祝福者 | 明言 | v2-裁定：ch0243で「完全祝福者...メートリアン」と同一視される [`ch0243¶7958`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0243/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ミーム
 正規 ID: `E_char_ミーム` ｜ kind: 用語 ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 摸倣子 | 明言 | v2-裁定：ch0024/p1093で「ミーム――摸倣子」と同義と明記 [`ch0022¶1026`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0022/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 黙読文化の摸倣子 | 明言 | v5-逐次実読：黙読文化の摸倣子（ミーム）――それは、極度の情報化圧を世界に押しつける、文字による邪視的侵入（クラッキング）である。 [`ch00219¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00219/) | — | 1 件 |
+| 摸倣子 | 明言 | v2-裁定：ch0024/p1093で「ミーム――摸倣子」と同義と明記 [`ch0022¶1026`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0022/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 黙読文化の摸倣子 | 明言 | v5-逐次実読：黙読文化の摸倣子（ミーム）――それは、極度の情報化圧を世界に押しつける、文字による邪視的侵入（クラッキング）である。 [`ch00219¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00219/) | — | 1 件 |
 
 ## ユディーア(幼馴染)
 正規 ID: `E_char_ユディーア(幼馴染)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -818,8 +818,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ヴァージリ | 明言 | v2-裁定：ch0046で同一人物と明示 [`ch0046¶1896`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0046/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 真黒 | 明言 | v5-逐次実読：頂点を争っていたのは澄明（わたし）、真黒（ヴァージリア）、鮮朱（ヴァーミリオン）、本紫（パープル）、そして陽色（フルブライト）と陰色（ノーレイ）。 [`ch00196¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00196/) | — | 1 件 |
+| ヴァージリ | 明言 | v2-裁定：ch0046で同一人物と明示 [`ch0046¶1896`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0046/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 真黒 | 明言 | v5-逐次実読：頂点を争っていたのは澄明（わたし）、真黒（ヴァージリア）、鮮朱（ヴァーミリオン）、本紫（パープル）、そして陽色（フルブライト）と陰色（ノーレイ）。 [`ch00196¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00196/) | — | 1 件 |
 
 ## ヴァージル(少年の生首)
 正規 ID: `E_char_ヴァージル(少年の生首)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -834,8 +834,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 呪物崇拝 | 要検証 | v8-括弧分解：三本足とは呪物崇拝（フェティシズム）――すなわち執着する対象のことだ。 [v8: 括弧注記を分解し本体名へ正規化] [`ch00309¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00309/) | — | 1 件 |
-| 呪物崇拝（フェティシズム） | 明言 | v5-逐次実読：三本足とは呪物崇拝（フェティシズム）――すなわち執着する対象のことだ。 [`ch00309¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00309/) | — | 1 件 |
+| 呪物崇拝 | 要検証 | v8-括弧分解：三本足とは呪物崇拝（フェティシズム）――すなわち執着する対象のことだ。 [v8: 括弧注記を分解し本体名へ正規化] [`ch00309¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00309/) | — | 1 件 |
+| 呪物崇拝（フェティシズム） | 明言 | v5-逐次実読：三本足とは呪物崇拝（フェティシズム）――すなわち執着する対象のことだ。 [`ch00309¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00309/) | — | 1 件 |
 
 ## 上官(記憶内)
 正規 ID: `E_term_上官(記憶内)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -882,8 +882,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| じんぶんかがく | 明言 | v5-逐次実読：同じ事を呪文（じんぶんかがく）的な視点 [`ch00175¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00175/) | — | 1 件 |
-| 疫病型吸血鬼 | 明言 | v2-裁定：ch0271・ch5567で「ドラトリア政府が開発した生物兵器」として同一の定義・出所（大神院との繋がり）が反復されており、単一の生物兵器カテゴリを指す用語として一貫している。 [`ch0271¶8408`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0271/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| じんぶんかがく | 明言 | v5-逐次実読：同じ事を呪文（じんぶんかがく）的な視点 [`ch00175¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00175/) | — | 1 件 |
+| 疫病型吸血鬼 | 明言 | v2-裁定：ch0271・ch5567で「ドラトリア政府が開発した生物兵器」として同一の定義・出所（大神院との繋がり）が反復されており、単一の生物兵器カテゴリを指す用語として一貫している。 [`ch0271¶8408`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0271/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 呪術(アナロジー)
 正規 ID: `E_term_呪術(アナロジー)` ｜ kind: 用語 ｜ 名義数: 2
@@ -954,8 +954,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 弾道予報ver2.0 | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0001¶30`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0001/) | — | 1 件 |
-| 弾道予報Ｖｅｒ２．０ | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0001¶30`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0001/) | — | 1 件 |
+| 弾道予報ver2.0 | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0001¶30`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0001/) | — | 1 件 |
+| 弾道予報Ｖｅｒ２．０ | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0001¶30`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0001/) | — | 1 件 |
 
 ## 影に潜む魔女(火車?)
 正規 ID: `E_char_影に潜む魔女(火車?)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -970,8 +970,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 洞窟浄界 | 明言 | v2-裁定：ch5518の引用文中で「洞窟浄界」と「この洞窟」が同一対象として記述され、同一実体と明言されているため。 [`ch5518¶198`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5518/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 浄界の神 | 明言 | v2-裁定：ch5298で「浄界の神である私」と自称 [`ch5298¶45`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5298/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 洞窟浄界 | 明言 | v2-裁定：ch5518の引用文中で「洞窟浄界」と「この洞窟」が同一対象として記述され、同一実体と明言されているため。 [`ch5518¶198`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5518/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 浄界の神 | 明言 | v2-裁定：ch5298で「浄界の神である私」と自称 [`ch5298¶45`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5298/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 死人の女主人(キシャル)
 正規 ID: `E_char_死人の女主人(キシャル)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -994,8 +994,8 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| カットスロート | 明言 | v2-裁定：ch0176で『殺戮』等の別名を列挙し、カトスロートと同一視。 [`ch0070¶2593`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0070/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 死神の腕 | 明言 | v2-裁定：ch0175, ch0176でカットスロート/殺戮と同義として明示的に定義。 [`ch0175¶5830`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0175/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| カットスロート | 明言 | v2-裁定：ch0176で『殺戮』等の別名を列挙し、カトスロートと同一視。 [`ch0070¶2593`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0070/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 死神の腕 | 明言 | v2-裁定：ch0175, ch0176でカットスロート/殺戮と同義として明示的に定義。 [`ch0175¶5830`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0175/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 火車(セト)
 正規 ID: `E_char_火車(セト)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -1010,40 +1010,40 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| チェンジリング | 明言 | v5-逐次実読：猫の取り替え子（チェンジリング）とアストラル体。 三角耳の少女は力で劣っているわけでも、機敏さで負けているわけでもなかった。細腕からは想像もつかない猫の取り替え子（チェンジリング）特有の怪力。 [`ch0067¶2492`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0067/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 猫の取り換え子 | 明言 | v2-裁定：ch0146/p4974 で「世にも稀な『猫の取り換え子』」と記述され、他のメンバー（猫の取り替え子）が指す「極めて稀少な存在」（ch0106/p3757）や「公社の頂点」（ch0077/p2881）と同じ性質・地位を持つ同一実体を指している。表記の差異（換え/替え） [`ch0146¶4974`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0146/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| チェンジリング | 明言 | v5-逐次実読：猫の取り替え子（チェンジリング）とアストラル体。 三角耳の少女は力で劣っているわけでも、機敏さで負けているわけでもなかった。細腕からは想像もつかない猫の取り替え子（チェンジリング）特有の怪力。 [`ch0067¶2492`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0067/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 猫の取り換え子 | 明言 | v2-裁定：ch0146/p4974 で「世にも稀な『猫の取り換え子』」と記述され、他のメンバー（猫の取り替え子）が指す「極めて稀少な存在」（ch0106/p3757）や「公社の頂点」（ch0077/p2881）と同じ性質・地位を持つ同一実体を指している。表記の差異（換え/替え） [`ch0146¶4974`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0146/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 異獣
 正規 ID: `E_char_異獣` ｜ kind: 用語 ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 異言の民 | 明言 | v5-逐次実読：異獣とは、現代では端的に敵対する異種族を示す言葉となっていますが、古くはグロソラリアあるいはゼノグラシアを包括する概念でした。つまり、異言の民ということです。 [`ch00032¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00032/) | — | 1 件 |
-| 虹犬 | 明言 | v5-逐次実読：すなわち異獣。上方勢力の敵対者である。 [`ch00487¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00487/) | — | 1 件 |
+| 異言の民 | 明言 | v5-逐次実読：異獣とは、現代では端的に敵対する異種族を示す言葉となっていますが、古くはグロソラリアあるいはゼノグラシアを包括する概念でした。つまり、異言の民ということです。 [`ch00032¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00032/) | — | 1 件 |
+| 虹犬 | 明言 | v5-逐次実読：すなわち異獣。上方勢力の敵対者である。 [`ch00487¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00487/) | — | 1 件 |
 
 ## 自殺の黒槍
 正規 ID: `E_item_自殺の黒槍` ｜ kind: アイテム ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| スーサイダルブラッ | 明言 | v2-裁定：ch0038で「スーサイダルブラック」と「自殺の黒槍」が同一文脈で共起し、同一実体と明記。 [`ch0037¶1575`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0037/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| スーサイダルブラック | 明言 | v2-裁定：ch0038で「スーサイダルブラック」と「自殺の黒槍」が同一文脈で共起し、同一実体と明記。 [`ch0038¶1655`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0038/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| スーサイダルブラッ | 明言 | v2-裁定：ch0038で「スーサイダルブラック」と「自殺の黒槍」が同一文脈で共起し、同一実体と明記。 [`ch0037¶1575`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0037/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| スーサイダルブラック | 明言 | v2-裁定：ch0038で「スーサイダルブラック」と「自殺の黒槍」が同一文脈で共起し、同一実体と明記。 [`ch0038¶1655`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0038/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 虹犬
 正規 ID: `E_char_虹犬` ｜ kind: キャラクター ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ヴァルレメス | 明言 | v2-裁定：ch0257で「ヴァルレメス」が虹犬種族を示す語だと明言。個体名は種族名の一般名詞用法と混在するが、物語中では特定人物（第十魔将等）を指す固有名として機能しているため、種族概念とは区別すべきだが、v1の統合意図（個体同士の統合）には反例なし。 [`ch0064¶2408`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0064/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
-| 犬精 | 明言 | v5-逐次実読：虹犬、あるいは犬精と呼ばれる下方勢力の種族。 [`ch00487¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00487/) | — | 1 件 |
+| ヴァルレメス | 明言 | v2-裁定：ch0257で「ヴァルレメス」が虹犬種族を示す語だと明言。個体名は種族名の一般名詞用法と混在するが、物語中では特定人物（第十魔将等）を指す固有名として機能しているため、種族概念とは区別すべきだが、v1の統合意図（個体同士の統合）には反例なし。 [`ch0064¶2408`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0064/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 犬精 | 明言 | v5-逐次実読：虹犬、あるいは犬精と呼ばれる下方勢力の種族。 [`ch00487¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00487/) | — | 1 件 |
 
 ## 語り手
 正規 ID: `E_char_語り手` ｜ kind: 用語 ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ちびアキラ | 明言 | v5-逐次実読：（ちびアキラだよ！　よろしくね、グラくん！） [`ch00275¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00275/) | — | 1 件 |
-| アキラ | 明言 | v5-逐次実読：続けて俺も名乗る。 「アキラ。シナモリ、アキラ」 「ああうん、そうそう。私はアキラ。間違い無くそれとおんなじ名前だよ。名前は、だけど」 [`ch00005¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00005/) [`ch00231¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00231/) | — | 1 件 |
+| ちびアキラ | 明言 | v5-逐次実読：（ちびアキラだよ！　よろしくね、グラくん！） [`ch00275¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00275/) | — | 1 件 |
+| アキラ | 明言 | v5-逐次実読：続けて俺も名乗る。 「アキラ。シナモリ、アキラ」 「ああうん、そうそう。私はアキラ。間違い無くそれとおんなじ名前だよ。名前は、だけど」 [`ch00005¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00005/) [`ch00231¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00231/) | — | 1 件 |
 
 ## 象牙の僧正(人工人形)
 正規 ID: `E_char_象牙の僧正(人工人形)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -1074,32 +1074,32 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| まなざし | 明言 | v5-逐次実読：ある『邪視（まなざし）』の結果として出現する終末の獣たち―― [`ch00373¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00373/) | — | 1 件 |
-| 色付き視線 | 明言 | v2-裁定：ch0215 p7230 において「空間を歪曲させる黒々とした『色付き視線』。邪視だ。」と、色付き視線＝邪視であると明記されている。反例（両者が別存在として並ぶケース）は見出せない。 [`ch0215¶7230`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0215/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| まなざし | 明言 | v5-逐次実読：ある『邪視（まなざし）』の結果として出現する終末の獣たち―― [`ch00373¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00373/) | — | 1 件 |
+| 色付き視線 | 明言 | v2-裁定：ch0215 p7230 において「空間を歪曲させる黒々とした『色付き視線』。邪視だ。」と、色付き視線＝邪視であると明記されている。反例（両者が別存在として並ぶケース）は見出せない。 [`ch0215¶7230`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0215/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 邪視者
 正規 ID: `E_term_邪視者` ｜ kind: 用語 ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ファシネイター | 明言 | v5-逐次実読：上級聖騎士や邪視者（ファシネイター）の厄介さを分かってない！ 魅力を持つ者、すなわち邪視者（ファシネイター）。 [`ch00078¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00078/) [`ch00429¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00429/) | — | 1 件 |
-| 魅力を持つ者 | 明言 | v5-逐次実読：魅力を持つ者、すなわち邪視者（ファシネイター）。 [`ch00429¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00429/) | — | 1 件 |
+| ファシネイター | 明言 | v5-逐次実読：上級聖騎士や邪視者（ファシネイター）の厄介さを分かってない！ 魅力を持つ者、すなわち邪視者（ファシネイター）。 [`ch00078¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00078/) [`ch00429¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00429/) | — | 1 件 |
+| 魅力を持つ者 | 明言 | v5-逐次実読：魅力を持つ者、すなわち邪視者（ファシネイター）。 [`ch00429¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00429/) | — | 1 件 |
 
 ## 錬金術師
 正規 ID: `E_char_錬金術師` ｜ kind: キャラクター ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| その職種 | 明言 | v5-逐次実読：その職種とは、なんと錬金術師（アルケミスト）！ [`ch00130¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00130/) | — | 1 件 |
-| アルケミスト | 明言 | v2-裁定：ch0034で「その職種とは…錬金術師！アルケミスト」と同義を明記 [`ch0034¶1403`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0034/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| その職種 | 明言 | v5-逐次実読：その職種とは、なんと錬金術師（アルケミスト）！ [`ch00130¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00130/) | — | 1 件 |
+| アルケミスト | 明言 | v2-裁定：ch0034で「その職種とは…錬金術師！アルケミスト」と同義を明記 [`ch0034¶1403`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0034/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 闇の静謐（ダーク・トランキュリティ）
 正規 ID: `E_term_闇の静謐_ダーク_トランキュリティ_` ｜ kind: 用語 ｜ 名義数: 2
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 闇の静謐 | 要検証 | v8-括弧分解：正規化同一（NFKC・中点/空白除去）による表記ゆれ [v8: 括弧注記を分解し本体名へ正規化] [`ch5150¶88`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5150/) | — | 1 件 |
-| 闇の静謐（ダークトランキュリティ） | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch5150¶88`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5150/) | — | 1 件 |
+| 闇の静謐 | 要検証 | v8-括弧分解：正規化同一（NFKC・中点/空白除去）による表記ゆれ [v8: 括弧注記を分解し本体名へ正規化] [`ch5150¶88`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5150/) | — | 1 件 |
+| 闇の静謐（ダークトランキュリティ） | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch5150¶88`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5150/) | — | 1 件 |
 
 ## 青海(アース)
 正規 ID: `E_char_青海(アース)` ｜ kind: キャラクター ｜ 名義数: 2
@@ -1130,84 +1130,84 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| トライスリー | 明言 | v5-逐次実読：「『SNA333（トライスリー）』！」 [`ch00414¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00414/) | — | 1 件 |
+| トライスリー | 明言 | v5-逐次実読：「『SNA333（トライスリー）』！」 [`ch00414¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00414/) | — | 1 件 |
 
 ## 『邪視』
 正規 ID: `E_term__邪視_` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 世界観の拡張 | 明言 | v5-逐次実読：「『邪視』とはすなわち、世界観の拡張」 [`ch00054¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00054/) | — | 1 件 |
+| 世界観の拡張 | 明言 | v5-逐次実読：「『邪視』とはすなわち、世界観の拡張」 [`ch00054¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00054/) | — | 1 件 |
 
 ## 【知識（リコグニション）】
 正規 ID: `E_item_【知識_リコグニション_】` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 第八の断章 | 明言 | v5-逐次実読：その名は【知識（リコグニション）】――第八の断章。 [`ch00355¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00355/) | — | 1 件 |
+| 第八の断章 | 明言 | v5-逐次実読：その名は【知識（リコグニション）】――第八の断章。 [`ch00355¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00355/) | — | 1 件 |
 
 ## 【陥穽】
 正規 ID: `E_item_【陥穽】` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| エンスネア | 明言 | v5-逐次実読：「【陥穽（エンスネア）】――駄目だ、あれは囮だったんだ」 [`ch00182¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00182/) | — | 1 件 |
+| エンスネア | 明言 | v5-逐次実読：「【陥穽（エンスネア）】――駄目だ、あれは囮だったんだ」 [`ch00182¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00182/) | — | 1 件 |
 
 ## かくりよ
 正規 ID: `E_term_かくりよ` ｜ kind: 場所 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 幽世 | 明言 | v2-裁定：ch0252 p8127 での「幽世（かくりよ）」という表記により、正典名として確定している。 [`ch0252¶8127`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0252/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 幽世 | 明言 | v2-裁定：ch0252 p8127 での「幽世（かくりよ）」という表記により、正典名として確定している。 [`ch0252¶8127`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0252/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## アウターゴッズ
 正規 ID: `E_term_アウターゴッズ` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| アウターゴッド | 明言 | v2-裁定：ch0185 p6163で「猫の集会」として定義され、単数形と複数形が混在使用される同一実体。 [`ch0185¶6163`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0185/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| アウターゴッド | 明言 | v2-裁定：ch0185 p6163で「猫の集会」として定義され、単数形と複数形が混在使用される同一実体。 [`ch0185¶6163`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0185/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## アカシャ
 正規 ID: `E_term_アカシャ` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 空 | 明言 | v5-逐次実読：空（アカシャ）とはすなわち紀元槍の意。 空（アカシャ）とはすなわち紀元槍の意。 [`ch00217¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00217/) [`ch00217¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00217/) | — | 1 件 |
+| 空 | 明言 | v5-逐次実読：空（アカシャ）とはすなわち紀元槍の意。 空（アカシャ）とはすなわち紀元槍の意。 [`ch00217¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00217/) [`ch00217¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00217/) | — | 1 件 |
 
 ## アタリア
 正規 ID: `E_term_アタリア` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 蝕 | 明言 | v5-逐次実読：「これはまずいかな。闇に融けよ、【蝕（アタリア）】！」 「さあ目覚めの時だ、『蝕（アタリア）の十二使徒』。月の終端、光の貪り、我らが神はここに無し。理の限界を知る賢者たちよ。聖なる『虚無（マローズ）』の名の下に集い、 [`ch00334¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00334/) [`ch00364¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00364/) | — | 1 件 |
+| 蝕 | 明言 | v5-逐次実読：「これはまずいかな。闇に融けよ、【蝕（アタリア）】！」 「さあ目覚めの時だ、『蝕（アタリア）の十二使徒』。月の終端、光の貪り、我らが神はここに無し。理の限界を知る賢者たちよ。聖なる『虚無（マローズ）』の名の下に集い、 [`ch00334¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00334/) [`ch00364¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00364/) | — | 1 件 |
 
 ## アトリビュート
 正規 ID: `E_term_アトリビュート` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 記号属性 | 明言 | v5-逐次実読：「そうか、美術における記号属性（アトリビュート）」 [`ch00081¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00081/) | — | 1 件 |
+| 記号属性 | 明言 | v5-逐次実読：「そうか、美術における記号属性（アトリビュート）」 [`ch00081¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00081/) | — | 1 件 |
 
 ## アナテマ
 正規 ID: `E_term_アナテマ` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 呪われてあるべし | 明言 | v5-逐次実読：「【呪われてあるべし（アナテマ）】」 [`ch00354¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00354/) | — | 1 件 |
+| 呪われてあるべし | 明言 | v5-逐次実読：「【呪われてあるべし（アナテマ）】」 [`ch00354¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00354/) | — | 1 件 |
 
 ## アメル・ア・フィリス
 正規 ID: `E_char_アメル・ア・フィリス` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 言理の魔女 | 明言 | v5-逐次実読：正式な名を【賢天主】言理の魔女（アメル・ア・フィリス）。 [`ch00205¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00205/) | — | 1 件 |
+| 言理の魔女 | 明言 | v5-逐次実読：正式な名を【賢天主】言理の魔女（アメル・ア・フィリス）。 [`ch00205¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00205/) | — | 1 件 |
 
 ## アリュージョン
 正規 ID: `E_term_アリュージョン` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 引喩 | 明言 | v5-逐次実読：コルセスカはこの術を引喩（アリュージョン）と称したが、そもそも詳しく解説されるまで俺はそれがどういう意味なのかも理解できなかった。 引喩（アリュージョン） [`ch00112¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00112/) [`ch00122¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00122/) | — | 1 件 |
+| 引喩 | 明言 | v5-逐次実読：コルセスカはこの術を引喩（アリュージョン）と称したが、そもそも詳しく解説されるまで俺はそれがどういう意味なのかも理解できなかった。 引喩（アリュージョン） [`ch00112¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00112/) [`ch00122¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00122/) | — | 1 件 |
 
 ## アルト・イヴニル
 正規 ID: `E_char_アルト・イヴニル` ｜ kind: キャラクター ｜ 名義数: 1
@@ -1221,49 +1221,49 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 輝血 | 明言 | v5-逐次実読：今は輝血（かがち）のアルマって名乗ってるんだ。 [`ch00208¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00208/) | — | 1 件 |
+| 輝血 | 明言 | v5-逐次実読：今は輝血（かがち）のアルマって名乗ってるんだ。 [`ch00208¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00208/) | — | 1 件 |
 
 ## アーザノエル
 正規 ID: `E_char_アーザノエル` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 仏眼仏母 | 明言 | v2-裁定：ch5108 p91およびch0024 p1107の詠唱文脈において、「仏眼仏母」が「アーザノエル」と括弧付きで同一視されており、魔女としての実体は単一である。 [`ch0024¶1107`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0024/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 仏眼仏母 | 明言 | v2-裁定：ch5108 p91およびch0024 p1107の詠唱文脈において、「仏眼仏母」が「アーザノエル」と括弧付きで同一視されており、魔女としての実体は単一である。 [`ch0024¶1107`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0024/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## アールヴ
 正規 ID: `E_term_アールヴ` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 樹木の妖精種 | 明言 | v5-逐次実読：樹木の妖精種（アールヴ）とも称されるその姿は、一言で表現すれば、異形の美。 [`ch00141¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00141/) | — | 1 件 |
+| 樹木の妖精種 | 明言 | v5-逐次実読：樹木の妖精種（アールヴ）とも称されるその姿は、一言で表現すれば、異形の美。 [`ch00141¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00141/) | — | 1 件 |
 
 ## アーロウン
 正規 ID: `E_item_アーロウン` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 遠吠え | 明言 | v5-逐次実読：第五階層に響かせた『遠吠え（アーロウン）』に呼応して [`ch00309¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00309/) | — | 1 件 |
+| 遠吠え | 明言 | v5-逐次実読：第五階層に響かせた『遠吠え（アーロウン）』に呼応して [`ch00309¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00309/) | — | 1 件 |
 
 ## イツノ
 正規 ID: `E_char_イツノ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 大蛇 | 明言 | v5-逐次実読：そのまま義肢の制御に割り込みをかけて『大蛇（イツノ）』の横っ面に平手を叩きつけた。 [`ch00401¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00401/) | — | 1 件 |
+| 大蛇 | 明言 | v5-逐次実読：そのまま義肢の制御に割り込みをかけて『大蛇（イツノ）』の横っ面に平手を叩きつけた。 [`ch00401¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00401/) | — | 1 件 |
 
 ## インナースペース
 正規 ID: `E_term_インナースペース` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 内宇宙 | 明言 | v5-逐次実読：内宇宙（インナースペース）型 [`ch00307¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00307/) | — | 1 件 |
+| 内宇宙 | 明言 | v5-逐次実読：内宇宙（インナースペース）型 [`ch00307¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00307/) | — | 1 件 |
 
 ## ウィッチクラフト・インクィジター
 正規 ID: `E_term_ウィッチクラフト_インクィジター` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 魔女術異端審問官 | 明言 | v5-逐次実読：第六騎士修道会【智神の盾】所属、魔女術異端審問官（ウィッチクラフト・インクィジター）、黒血（インクジェット）のハルベルトは、対象を秩序内部の歪みと判断し、これを [`ch00226¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00226/) | — | 1 件 |
+| 魔女術異端審問官 | 明言 | v5-逐次実読：第六騎士修道会【智神の盾】所属、魔女術異端審問官（ウィッチクラフト・インクィジター）、黒血（インクジェット）のハルベルトは、対象を秩序内部の歪みと判断し、これを [`ch00226¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00226/) | — | 1 件 |
 
 ## ウォゾマ・メロロキン
 正規 ID: `E_char_ウォゾマ・メロロキン` ｜ kind: キャラクター ｜ 名義数: 1
@@ -1284,56 +1284,56 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 超上位自我 | 明言 | v5-逐次実読：超上位自我（エウダイモーン） [`ch00114¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00114/) | — | 1 件 |
+| 超上位自我 | 明言 | v5-逐次実読：超上位自我（エウダイモーン） [`ch00114¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00114/) | — | 1 件 |
 
 ## エクリエッテ
 正規 ID: `E_char_エクリエッテ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 緑の君 | 明言 | v2-裁定：ch0061等で【緑の君】エクリエッテと並記され、同一人物であることが明示されている。 [`ch0061¶2285`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0061/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 緑の君 | 明言 | v2-裁定：ch0061等で【緑の君】エクリエッテと並記され、同一人物であることが明示されている。 [`ch0061¶2285`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0061/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## エクリーオベレッカ
 正規 ID: `E_char_エクリーオベレッカ` ｜ kind: 場所 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 天の御殿 | 明言 | v2-裁定：ch5588 para70にて「天の御殿こと『睥睨するエクリーオベレッカ』」と明記されており、場所としての名称と存在としての名称が同一視されている。ch0037 para1533やch5225 para70などでの魂の召還・整理システムとしての機能描写も、エクリーオベ [`ch0037¶1533`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0037/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 天の御殿 | 明言 | v2-裁定：ch5588 para70にて「天の御殿こと『睥睨するエクリーオベレッカ』」と明記されており、場所としての名称と存在としての名称が同一視されている。ch0037 para1533やch5225 para70などでの魂の召還・整理システムとしての機能描写も、エクリーオベ [`ch0037¶1533`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0037/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## エスカッシャン
 正規 ID: `E_term_エスカッシャン` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 盾の紋章 | 明言 | v5-逐次実読：国旗に描かれているのと同じ盾の紋章（エスカッシャン） [`ch00355¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00355/) | — | 1 件 |
+| 盾の紋章 | 明言 | v5-逐次実読：国旗に描かれているのと同じ盾の紋章（エスカッシャン） [`ch00355¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00355/) | — | 1 件 |
 
 ## エスニック・ポリフォニー
 正規 ID: `E_char_エスニック・ポリフォニー` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| エスニックポリフォニー | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0013¶611`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0013/) | — | 1 件 |
+| エスニックポリフォニー | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0013¶611`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0013/) | — | 1 件 |
 
 ## エルネトモラン
 正規 ID: `E_char_エルネトモラン` ｜ kind: 場所 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 迷宮都市 | 明言 | v5-逐次実読：競争は基本的にこの迷宮都市（エルネトモラン）――世界槍で行われることになっている。 [`ch00141¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00141/) | — | 1 件 |
+| 迷宮都市 | 明言 | v5-逐次実読：競争は基本的にこの迷宮都市（エルネトモラン）――世界槍で行われることになっている。 [`ch00141¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00141/) | — | 1 件 |
 
 ## オブリヴィオン
 正規 ID: `E_term_オブリヴィオン` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 忘却 | 明言 | v5-逐次実読：「【忘却（オブリヴィオン）】――これで終わりね。 『忘却（オブリヴィオン）』 [`ch00352¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00352/) [`ch00521¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00521/) | — | 1 件 |
+| 忘却 | 明言 | v5-逐次実読：「【忘却（オブリヴィオン）】――これで終わりね。 『忘却（オブリヴィオン）』 [`ch00352¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00352/) [`ch00521¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00521/) | — | 1 件 |
 
 ## オルゴール
 正規 ID: `E_item_オルゴール` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 自鳴琴 | 明言 | v5-逐次実読：防衛側の人形、自鳴琴（オルゴール）のキーキゼリスは楽想の世界に誰も誘うことなく粉砕され、濡れ髪のハヴィシンタは己の死と引き換えに呪詛を返すも無駄に終わった。 [`ch00537¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00537/) | — | 1 件 |
+| 自鳴琴 | 明言 | v5-逐次実読：防衛側の人形、自鳴琴（オルゴール）のキーキゼリスは楽想の世界に誰も誘うことなく粉砕され、濡れ髪のハヴィシンタは己の死と引き換えに呪詛を返すも無駄に終わった。 [`ch00537¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00537/) | — | 1 件 |
 
 ## オルヴァ・スマダルツォン
 正規 ID: `E_char_オルヴァ・スマダルツォン` ｜ kind: キャラクター ｜ 名義数: 1
@@ -1347,105 +1347,105 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 凝視水牛 | 明言 | v5-逐次実読：凝視水牛（カトブレパス）に騎乗して参加したのはこれが狙いだった模様！ [`ch00501¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00501/) | — | 1 件 |
+| 凝視水牛 | 明言 | v5-逐次実読：凝視水牛（カトブレパス）に騎乗して参加したのはこれが狙いだった模様！ [`ch00501¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00501/) | — | 1 件 |
 
 ## カルカブリーナ
 正規 ID: `E_char_カルカブリーナ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 銃士 | 明言 | v2-裁定：ch0133で「5銃士カルカブリーナ」と明記され、同一人物と確定。 [`ch0015¶705`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0015/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 銃士 | 明言 | v2-裁定：ch0133で「5銃士カルカブリーナ」と明記され、同一人物と確定。 [`ch0015¶705`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0015/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## カルルアルルア
 正規 ID: `E_item_カルルアルルア` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 四十五番 | 明言 | v5-逐次実読：換装・四十五番（カルルアルルア）！ [`ch00360¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00360/) | — | 1 件 |
+| 四十五番 | 明言 | v5-逐次実読：換装・四十五番（カルルアルルア）！ [`ch00360¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00360/) | — | 1 件 |
 
 ## カーティス
 正規 ID: `E_char_カーティス` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 隔離 | 明言 | v5-逐次実読：『隔離（カーティス）』 [`ch00415¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00415/) | — | 1 件 |
+| 隔離 | 明言 | v5-逐次実読：『隔離（カーティス）』 [`ch00415¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00415/) | — | 1 件 |
 
 ## ガイノイド
 正規 ID: `E_term_ガイノイド` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 性玩具 | 明言 | v5-逐次実読：性玩具（ガイノイド）の魔女は、性の無い身体でうんざりしたように言った。 [`ch00453¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00453/) | — | 1 件 |
+| 性玩具 | 明言 | v5-逐次実読：性玩具（ガイノイド）の魔女は、性の無い身体でうんざりしたように言った。 [`ch00453¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00453/) | — | 1 件 |
 
 ## ガーデニア
 正規 ID: `E_term_ガーデニア` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| クチナシ | 明言 | v5-逐次実読：「だから、クチナシ――梔子（ガーデニア）と言ったの」 [`ch00141¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00141/) | — | 1 件 |
+| クチナシ | 明言 | v5-逐次実読：「だから、クチナシ――梔子（ガーデニア）と言ったの」 [`ch00141¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00141/) | — | 1 件 |
 
 ## キノコ人
 正規 ID: `E_char_キノコ人` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| マイコニド | 明言 | v2-裁定：ch5581 para p20 において「巨大なキノコに手足が付いた珍しい種族。マイコニドだとかキノコ人だとか呼ばれている」と記述され、両者が同一实体（隠花系ティリビナ人/キノコ状の生物）の別名であることが明言されている。 [`ch0198¶6648`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0198/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| マイコニド | 明言 | v2-裁定：ch5581 para p20 において「巨大なキノコに手足が付いた珍しい種族。マイコニドだとかキノコ人だとか呼ばれている」と記述され、両者が同一实体（隠花系ティリビナ人/キノコ状の生物）の別名であることが明言されている。 [`ch0198¶6648`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0198/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## キメラ
 正規 ID: `E_term_キメラ` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 黒化 | 明言 | v5-逐次実読：黒化（キメラ） [`ch00587¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00587/) | — | 1 件 |
+| 黒化 | 明言 | v5-逐次実読：黒化（キメラ） [`ch00587¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00587/) | — | 1 件 |
 
 ## キュトスの姉妹
 正規 ID: `E_char_キュトスの姉妹` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 七十一番目 | 明言 | v2-裁定：ch0012で「キュトスの姉妹...七十一番目」と同義。 [`ch0012¶516`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0012/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 七十一番目 | 明言 | v2-裁定：ch0012で「キュトスの姉妹...七十一番目」と同義。 [`ch0012¶516`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0012/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## キーロガー
 正規 ID: `E_item_キーロガー` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 打鍵記録プログラム | 明言 | v5-逐次実読：キーロガーなどと呼ばれる打鍵記録プログラムの一種 [`ch00390¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00390/) | — | 1 件 |
+| 打鍵記録プログラム | 明言 | v5-逐次実読：キーロガーなどと呼ばれる打鍵記録プログラムの一種 [`ch00390¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00390/) | — | 1 件 |
 
 ## クイックシルバー
 正規 ID: `E_term_クイックシルバー` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 銀霊 | 明言 | v5-逐次実読：銀霊（クイックシルバー）という種族を自ら創り出した [`ch00211¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00211/) | — | 1 件 |
+| 銀霊 | 明言 | v5-逐次実読：銀霊（クイックシルバー）という種族を自ら創り出した [`ch00211¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00211/) | — | 1 件 |
 
 ## クォーツウォッチ
 正規 ID: `E_term_クォーツウォッチ` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 氷血 | 明言 | v5-逐次実読：「氷血（クォーツウォッチ）のコルセスカ」 [`ch00463¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00463/) | — | 1 件 |
+| 氷血 | 明言 | v5-逐次実読：「氷血（クォーツウォッチ）のコルセスカ」 [`ch00463¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00463/) | — | 1 件 |
 
 ## クリーナー
 正規 ID: `E_char_クリーナー` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 黒衣 | 明言 | v5-逐次実読：先頭集団はリスクをとって岩塊を潜り抜けていく命がけのコースを選んだ黒衣（クリーナー）、鎧腕王（パーン）、威力竜巫女（マルガリータ）、元暴空族（ファーガスト）。や [`ch00545¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00545/) | — | 1 件 |
+| 黒衣 | 明言 | v5-逐次実読：先頭集団はリスクをとって岩塊を潜り抜けていく命がけのコースを選んだ黒衣（クリーナー）、鎧腕王（パーン）、威力竜巫女（マルガリータ）、元暴空族（ファーガスト）。や [`ch00545¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00545/) | — | 1 件 |
 
 ## クレアノーズ
 正規 ID: `E_char_クレアノーズ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| クレアノーズお姉様 | 明言 | v2-裁定：ch0012で同一人物の愛称と定義。全証拠で指示対象一致。 [`ch5057¶85`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5057/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| クレアノーズお姉様 | 明言 | v2-裁定：ch0012で同一人物の愛称と定義。全証拠で指示対象一致。 [`ch5057¶85`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5057/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## クレイ
 正規 ID: `E_char_クレイ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 王子様 | 明言 | v5-逐次実読：王子様（クレイ）が視えねえから俺の担当になったってのに [`ch00540¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00540/) | — | 1 件 |
+| 王子様 | 明言 | v5-逐次実読：王子様（クレイ）が視えねえから俺の担当になったってのに [`ch00540¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00540/) | — | 1 件 |
 
 ## クレーグレン
 正規 ID: `E_char_クレーグレン` ｜ kind: キャラクター ｜ 名義数: 1
@@ -1459,448 +1459,448 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 混沌派 | 明言 | v5-逐次実読：「ざまあ見ろクソジジイども、秩序派（ディスケイム）が仇敵である混沌派（クロウサー）にただひとつだけ劣っていた『根源に至る鍵』をこの俺が手に入れたんだ！ [`ch00466¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00466/) | — | 1 件 |
+| 混沌派 | 明言 | v5-逐次実読：「ざまあ見ろクソジジイども、秩序派（ディスケイム）が仇敵である混沌派（クロウサー）にただひとつだけ劣っていた『根源に至る鍵』をこの俺が手に入れたんだ！ [`ch00466¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00466/) | — | 1 件 |
 
 ## グレンデルヒ＝ライニンサル
 正規 ID: `E_char_グレンデルヒ＝ライニンサル` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 隠者ウォレス | 明言 | v2-裁定：ch5282で宮廷付き隠者として登場し、グレンデルヒと同一。 [`ch0108¶3807`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0108/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 隠者ウォレス | 明言 | v2-裁定：ch5282で宮廷付き隠者として登場し、グレンデルヒと同一。 [`ch0108¶3807`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0108/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## コア
 正規 ID: `E_char_コア` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| コアちゃん | 明言 | v2-裁定：ch5126で「白銀の髪色」等の描写がコアと一致する敬称 [`ch5420¶143`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5420/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| コアちゃん | 明言 | v2-裁定：ch5126で「白銀の髪色」等の描写がコアと一致する敬称 [`ch5420¶143`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5420/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## コルセーク
 正規 ID: `E_motif_コルセーク` ｜ kind: モティーフ ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 涙想吟竜 | 明言 | v2-裁定：ch0229で「朱雪華の魔女、『涙想吟竜』」とあり、コルセーク（コルセスカ）と同一視されている。またsurfacesに「涙想吟竜（コルセーク）」という併記が含まれており、alias統合が正しい。 [`ch0229¶7566`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0229/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 涙想吟竜 | 明言 | v2-裁定：ch0229で「朱雪華の魔女、『涙想吟竜』」とあり、コルセーク（コルセスカ）と同一視されている。またsurfacesに「涙想吟竜（コルセーク）」という併記が含まれており、alias統合が正しい。 [`ch0229¶7566`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0229/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## サクリファイヤー
 正規 ID: `E_term_サクリファイヤー` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 聖絶の神火 | 明言 | v5-逐次実読：「喰らえ必殺！　聖絶の神火（サクリファイヤー）！」 [`ch00044¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00044/) | — | 1 件 |
+| 聖絶の神火 | 明言 | v5-逐次実読：「喰らえ必殺！　聖絶の神火（サクリファイヤー）！」 [`ch00044¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00044/) | — | 1 件 |
 
 ## サジェリミーナ
 正規 ID: `E_char_サジェリミーナ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| スス | 明言 | v5-逐次実読：『私こそは不滅の化身にしてジャッフハリム最大の錬金術師サジェリミーナ・ウィ・サジェミリーナ。ややこしいから愛称でススと呼ぶ者もいるね』 [`ch00216¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00216/) | — | 1 件 |
+| スス | 明言 | v5-逐次実読：『私こそは不滅の化身にしてジャッフハリム最大の錬金術師サジェリミーナ・ウィ・サジェミリーナ。ややこしいから愛称でススと呼ぶ者もいるね』 [`ch00216¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00216/) | — | 1 件 |
 
 ## サリア
 正規 ID: `E_char_サリア` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| サリアちゃん | 明言 | v2-裁定：ch0123/ch5321の行動（スキリシア突入）はサリアの暴走傾向と一致し、愛称として同一人物を指す。 [`ch0123¶4340`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0123/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| サリアちゃん | 明言 | v2-裁定：ch0123/ch5321の行動（スキリシア突入）はサリアの暴走傾向と一致し、愛称として同一人物を指す。 [`ch0123¶4340`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0123/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## サーベルタイガー
 正規 ID: `E_char_サーベルタイガー` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 剣歯虎 | 明言 | v5-逐次実読：剣歯虎（サーベルタイガー） [`ch00360¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00360/) | — | 1 件 |
+| 剣歯虎 | 明言 | v5-逐次実読：剣歯虎（サーベルタイガー） [`ch00360¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00360/) | — | 1 件 |
 
 ## ザントマン
 正規 ID: `E_term_ザントマン` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 砂男 | 明言 | v5-逐次実読：「【砂男（ザントマン）】よ」 [`ch00138¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00138/) | — | 1 件 |
+| 砂男 | 明言 | v5-逐次実読：「【砂男（ザントマン）】よ」 [`ch00138¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00138/) | — | 1 件 |
 
 ## シアン
 正規 ID: `E_char_シアン` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 明藍 | 明言 | v2-裁定：ch0040 p1754でシアン（クロウサー令嬢）の正体として「明藍」が言及され、ch5374 p64でも「先任の紫であった大いなる明藍」として語られるなど、シアンというキャラクターの別名・真名として機能しており、指示対象は一致している。 [`ch0215¶7223`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0215/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 明藍 | 明言 | v2-裁定：ch0040 p1754でシアン（クロウサー令嬢）の正体として「明藍」が言及され、ch5374 p64でも「先任の紫であった大いなる明藍」として語られるなど、シアンというキャラクターの別名・真名として機能しており、指示対象は一致している。 [`ch0215¶7223`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0215/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## シダリス
 正規 ID: `E_char_シダリス` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 団長 | 明言 | v5-逐次実読：団長（シダリス） [`ch00536¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00536/) | — | 1 件 |
+| 団長 | 明言 | v5-逐次実読：団長（シダリス） [`ch00536¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00536/) | — | 1 件 |
 
 ## シャーネス
 正規 ID: `E_char_シャーネス` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 女神 | 明言 | v5-逐次実読：それがシャーネスと呼ばれる女神との邂逅。 [`ch00569¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00569/) | — | 1 件 |
+| 女神 | 明言 | v5-逐次実読：それがシャーネスと呼ばれる女神との邂逅。 [`ch00569¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00569/) | — | 1 件 |
 
 ## シューラ
 正規 ID: `E_char_シューラ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ちびシューラ | 明言 | v5-逐次実読：『シューラの目的？ 大した事じゃないよ。シューラが――『シューラが、私であること』。ただそれだけ』 [`ch00055¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00055/) | — | 1 件 |
+| ちびシューラ | 明言 | v5-逐次実読：『シューラの目的？ 大した事じゃないよ。シューラが――『シューラが、私であること』。ただそれだけ』 [`ch00055¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00055/) | — | 1 件 |
 
 ## ジオマンシー
 正規 ID: `E_term_ジオマンシー` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 占地術 | 明言 | v5-逐次実読：「占星術（アストロマンシー）――いえ、占地術（ジオマンシー）ですか」 [`ch00251¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00251/) | — | 1 件 |
+| 占地術 | 明言 | v5-逐次実読：「占星術（アストロマンシー）――いえ、占地術（ジオマンシー）ですか」 [`ch00251¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00251/) | — | 1 件 |
 
 ## ジュティア
 正規 ID: `E_char_ジュティア` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ジュティアさん | 明言 | v2-裁定：ch0219とch5505で同一文脈（使い魔化）で共起し、ミナへの敬称付与パターンが一致 [`ch5505¶391`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5505/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ジュティアさん | 明言 | v2-裁定：ch0219とch5505で同一文脈（使い魔化）で共起し、ミナへの敬称付与パターンが一致 [`ch5505¶391`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5505/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## スタンプ
 正規 ID: `E_term_スタンプ` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 基礎 | 明言 | v5-逐次実読：その意味は『基礎（スタンプ）』 [`ch00540¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00540/) | — | 1 件 |
+| 基礎 | 明言 | v5-逐次実読：その意味は『基礎（スタンプ）』 [`ch00540¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00540/) | — | 1 件 |
 
 ## ステルスマーケティング認定
 正規 ID: `E_term_ステルスマーケティング認定` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ステルスマーケティング | 明言 | v2-裁定：ch0158で「幻姿霊を『鏡の民』と呼ぶ」と同義宣言あり。全使用が同一指称。 [`ch0090¶3385`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0090/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ステルスマーケティング | 明言 | v2-裁定：ch0158で「幻姿霊を『鏡の民』と呼ぶ」と同義宣言あり。全使用が同一指称。 [`ch0090¶3385`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0090/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## スペアミント
 正規 ID: `E_item_スペアミント` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 槍薄荷 | 明言 | v2-裁定：ch0146 para p4987 において「ゼオーティア教圏においては槍薄荷とも呼ばれる聖なるハーブ」と記述されており、同じ文脈（is_a: 聖なるハーブ/ハーブ）で両名義が同一実体として定義されているため。 [`ch0146¶4987`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0146/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 槍薄荷 | 明言 | v2-裁定：ch0146 para p4987 において「ゼオーティア教圏においては槍薄荷とも呼ばれる聖なるハーブ」と記述されており、同じ文脈（is_a: 聖なるハーブ/ハーブ）で両名義が同一実体として定義されているため。 [`ch0146¶4987`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0146/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## スーリウム
 正規 ID: `E_char_スーリウム` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 花のアヴロノ | 明言 | v5-逐次実読：神話の時代から頂点に立っていた花のアヴロノ（スーリウム）には技術がない。 [`ch00517¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00517/) | — | 1 件 |
+| 花のアヴロノ | 明言 | v5-逐次実読：神話の時代から頂点に立っていた花のアヴロノ（スーリウム）には技術がない。 [`ch00517¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00517/) | — | 1 件 |
 
 ## ズタークスターク
 正規 ID: `E_char_ズタークスターク` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ズタークスターク殿 | 明言 | v2-裁定：ch5210の敬称使用。同一実体への尊称であり反例なし [`ch5210¶313`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5210/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ズタークスターク殿 | 明言 | v2-裁定：ch5210の敬称使用。同一実体への尊称であり反例なし [`ch5210¶313`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5210/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## セレクティフィレクティ
 正規 ID: `E_char_セレクティフィレクティ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ベアトリーチェ | 明言 | v2-裁定：上記の通り、ch0042(p1809)でセレクティフィレクティと同一視される。ch5142(p113)ではアズーリアの妹として魂を救済対象とされており、迷宮の主としての側面（ch0079）も持つ単一のキャラクターである。 [`ch0026¶1202`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0026/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ベアトリーチェ | 明言 | v2-裁定：上記の通り、ch0042(p1809)でセレクティフィレクティと同一視される。ch5142(p113)ではアズーリアの妹として魂を救済対象とされており、迷宮の主としての側面（ch0079）も持つ単一のキャラクターである。 [`ch0026¶1202`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0026/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ダーク・トランキュリティ
 正規 ID: `E_term_ダーク_トランキュリティ` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ダークトランキュリティ | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0038¶1659`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0038/) | — | 1 件 |
+| ダークトランキュリティ | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0038¶1659`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0038/) | — | 1 件 |
 
 ## チリアット
 正規 ID: `E_char_チリアット` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 牙猪 | 明言 | v5-逐次実読：ぼろぼろの牙猪（チリアット）によって 「消耗が激しい蠍尾（マラコーダ）、牙猪（チリアット）、レスラー（カニャッツォ）はレオを守りながら地下通路から脱出を試みて！　アキラくん、銃士（カルカブリーナ）、 [`ch00347¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00347/) [`ch00350¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00350/) | — | 1 件 |
+| 牙猪 | 明言 | v5-逐次実読：ぼろぼろの牙猪（チリアット）によって 「消耗が激しい蠍尾（マラコーダ）、牙猪（チリアット）、レスラー（カニャッツォ）はレオを守りながら地下通路から脱出を試みて！　アキラくん、銃士（カルカブリーナ）、 [`ch00347¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00347/) [`ch00350¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00350/) | — | 1 件 |
 
 ## ティリビナの民
 正規 ID: `E_char_ティリビナの民` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 街路樹の民 | 明言 | v2-裁定：ch0022 p980で「ティリビナ人を特集したその記事には彼らを称して『あたかも街路樹のように...』」と記述があり、ティリビナ人に対する呼称（エイリアス）であることが明示されている。またch0251 p8083でも「ティリビナ人たちが『街路樹の民』として眷属種認定 [`ch0022¶980`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0022/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 街路樹の民 | 明言 | v2-裁定：ch0022 p980で「ティリビナ人を特集したその記事には彼らを称して『あたかも街路樹のように...』」と記述があり、ティリビナ人に対する呼称（エイリアス）であることが明示されている。またch0251 p8083でも「ティリビナ人たちが『街路樹の民』として眷属種認定 [`ch0022¶980`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0022/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## テキストベース・サーキット
 正規 ID: `E_char_テキストベース・サーキット` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| テキストベースサーキット | 明言 | v2-裁定：ch0215 p7227, ch5501 p87, ch5525 p18 などで「テキストベース・サーキット」と「テキストベースサーキット」が同一のルール体系（地の文と台詞に支配されたレース）を指す用語として使用されている。表記揺れのみであり、指示対象は完全に一致する [`ch0215¶7227`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0215/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| テキストベースサーキット | 明言 | v2-裁定：ch0215 p7227, ch5501 p87, ch5525 p18 などで「テキストベース・サーキット」と「テキストベースサーキット」が同一のルール体系（地の文と台詞に支配されたレース）を指す用語として使用されている。表記揺れのみであり、指示対象は完全に一致する [`ch0215¶7227`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0215/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## テテリビナ
 正規 ID: `E_char_テテリビナ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 原初の妖精 | 明言 | v5-逐次実読：原初の妖精（テテリビナ） [`ch00587¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00587/) | — | 1 件 |
+| 原初の妖精 | 明言 | v5-逐次実読：原初の妖精（テテリビナ） [`ch00587¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00587/) | — | 1 件 |
 
 ## テララ
 正規 ID: `E_char_テララ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 極天主 | 明言 | v5-逐次実読：極天主（テララ） [`ch00479¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00479/) | — | 1 件 |
+| 極天主 | 明言 | v5-逐次実読：極天主（テララ） [`ch00479¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00479/) | — | 1 件 |
 
 ## ディスペータ
 正規 ID: `E_char_ディスペータ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ディスペータお姉様 | 明言 | v2-裁定：ch0123/ch5200で権威として言及、同一人物の敬称 [`ch0123¶4312`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0123/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ディスペータお姉様 | 明言 | v2-裁定：ch0123/ch5200で権威として言及、同一人物の敬称 [`ch0123¶4312`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0123/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ディパーシュ家
 正規 ID: `E_org_ディパーシュ家` ｜ kind: 組織 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ディパーシュ | 明言 | v2-裁定：ch0257で「我らディパーシュ」と自称し、家名として使用 [`ch0257¶8228`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0257/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ディパーシュ | 明言 | v2-裁定：ch0257で「我らディパーシュ」と自称し、家名として使用 [`ch0257¶8228`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0257/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ディルトーワ
 正規 ID: `E_char_ディルトーワ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 小さな動物 | 明言 | v5-逐次実読：アルトに比べてとても小さな動物の名前は、モグラのディルトーワと言った。 [`ch00272¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00272/) | — | 1 件 |
+| 小さな動物 | 明言 | v5-逐次実読：アルトに比べてとても小さな動物の名前は、モグラのディルトーワと言った。 [`ch00272¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00272/) | — | 1 件 |
 
 ## トライデント
 正規 ID: `E_char_トライデント` ｜ kind: 組織 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 使い魔の座 | 明言 | v2-裁定：ch0253 p8151において「未だその全容を明らかにしていない最後の座、使い魔の座。魔女の名はトライデント。」と両者が同一個人（魔女）であると明記されている。また、ch0049 p1966でも「使い魔操りの天才――トライデントという魔女」とあり、「使い魔の座」が彼 [`ch0161¶5466`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0161/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 使い魔の座 | 明言 | v2-裁定：ch0253 p8151において「未だその全容を明らかにしていない最後の座、使い魔の座。魔女の名はトライデント。」と両者が同一個人（魔女）であると明記されている。また、ch0049 p1966でも「使い魔操りの天才――トライデントという魔女」とあり、「使い魔の座」が彼 [`ch0161¶5466`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0161/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## トロル
 正規 ID: `E_char_トロル` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 岩肌種 | 明言 | v2-裁定：ch0067 p2530で「岩肌種...という文字通り肌が岩石のような色と硬さを持った種族ですね」と定義されており、種族（カテゴリ）としての用語であることが明確。 [`ch0110¶3871`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0110/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 岩肌種 | 明言 | v2-裁定：ch0067 p2530で「岩肌種...という文字通り肌が岩石のような色と硬さを持った種族ですね」と定義されており、種族（カテゴリ）としての用語であることが明確。 [`ch0110¶3871`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0110/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## トンファー
 正規 ID: `E_item_トンファー` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 旋棍 | 明言 | v5-逐次実読：両手に『創造』した旋棍（トンファー）を握って [`ch00390¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00390/) | — | 1 件 |
+| 旋棍 | 明言 | v5-逐次実読：両手に『創造』した旋棍（トンファー）を握って [`ch00390¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00390/) | — | 1 件 |
 
 ## ドッペルゲンガー
 正規 ID: `E_term_ドッペルゲンガー` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 二重存在 | 明言 | v5-逐次実読：「それにしてもアルトの奴、取り込んだ俺が『二重存在（ドッペルゲンガー）』であったことに最後まで気付かなかったな」 [`ch00391¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00391/) | — | 1 件 |
+| 二重存在 | 明言 | v5-逐次実読：「それにしてもアルトの奴、取り込んだ俺が『二重存在（ドッペルゲンガー）』であったことに最後まで気付かなかったな」 [`ch00391¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00391/) | — | 1 件 |
 
 ## ドラゴンフライ
 正規 ID: `E_char_ドラゴンフライ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 蜻蛉 | 明言 | v5-逐次実読：蜻蛉（ドラゴンフライ） [`ch00360¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00360/) | — | 1 件 |
+| 蜻蛉 | 明言 | v5-逐次実読：蜻蛉（ドラゴンフライ） [`ch00360¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00360/) | — | 1 件 |
 
 ## ドラセナ
 正規 ID: `E_org_ドラセナ` ｜ kind: 組織 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 竜血樹 | 明言 | v5-逐次実読：竜血樹（ドラセナ） 竜血樹（ドラセナ） [`ch00360¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00360/) [`ch00370¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00370/) | — | 1 件 |
+| 竜血樹 | 明言 | v5-逐次実読：竜血樹（ドラセナ） 竜血樹（ドラセナ） [`ch00360¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00360/) [`ch00370¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00370/) | — | 1 件 |
 
 ## ドルネスタンルフ
 正規 ID: `E_char_ドルネスタンルフ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 球神 | 明言 | v5-逐次実読：「錐神（ペレケテンヌル）と球神（ドルネスタンルフ）の複合呪術か！」 [`ch0107¶3797`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0107/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 球神 | 明言 | v5-逐次実読：「錐神（ペレケテンヌル）と球神（ドルネスタンルフ）の複合呪術か！」 [`ch0107¶3797`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0107/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ナイトメア
 正規 ID: `E_term_ナイトメア` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 夢馬 | 明言 | v5-逐次実読：固有変種『夢馬（ナイトメア）』 [`ch00478¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00478/) | — | 1 件 |
+| 夢馬 | 明言 | v5-逐次実読：固有変種『夢馬（ナイトメア）』 [`ch00478¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00478/) | — | 1 件 |
 
 ## ナックス
 正規 ID: `E_term_ナックス` ｜ kind: 生物 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 兄弟 | 明言 | v5-逐次実読：「行くぞ、兄弟（ナックス）。俺たちの全てを出し切る」 「行けるさ、兄弟（エンハ）。クァヒート家の、そして俺たちのために」 [`ch00570¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00570/) [`ch00570¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00570/) | — | 1 件 |
+| 兄弟 | 明言 | v5-逐次実読：「行くぞ、兄弟（ナックス）。俺たちの全てを出し切る」 「行けるさ、兄弟（エンハ）。クァヒート家の、そして俺たちのために」 [`ch00570¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00570/) [`ch00570¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00570/) | — | 1 件 |
 
 ## ニケ
 正規 ID: `E_char_ニケ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| エントリー | 明言 | v5-逐次実読：エントリーされていた名前は『ニケ』だったが、澄んだ中に艶を含んだ声は間違いようもない。 [`ch00253¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00253/) | — | 1 件 |
+| エントリー | 明言 | v5-逐次実読：エントリーされていた名前は『ニケ』だったが、澄んだ中に艶を含んだ声は間違いようもない。 [`ch00253¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00253/) | — | 1 件 |
 
 ## ネクロマンサー
 正規 ID: `E_term_ネクロマンサー` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 死霊術師 | 明言 | v5-逐次実読：現代の死霊術師（ネクロマンサー） そして、ここにはマウザの金眼を継承した新たな死霊術師（ネクロマンサー）がいる [`ch00292¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00292/) [`ch00578¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00578/) | — | 1 件 |
+| 死霊術師 | 明言 | v5-逐次実読：現代の死霊術師（ネクロマンサー） そして、ここにはマウザの金眼を継承した新たな死霊術師（ネクロマンサー）がいる [`ch00292¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00292/) [`ch00578¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00578/) | — | 1 件 |
 
 ## ネペンテス
 正規 ID: `E_char_ネペンテス` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 空穂蔓 | 明言 | v5-逐次実読：『空穂蔓（ネペンテス）』 [`ch00521¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00521/) | — | 1 件 |
+| 空穂蔓 | 明言 | v5-逐次実読：『空穂蔓（ネペンテス）』 [`ch00521¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00521/) | — | 1 件 |
 
 ## ノシュトリ
 正規 ID: `E_char_ノシュトリ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ノシュトリお姉様 | 明言 | v5-逐次実読：「まさか、ノシュトリお姉様の熱遮蔽装置（サーマルクローキングデバイス）――完成していたのですか」 [`ch00099¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00099/) | — | 1 件 |
+| ノシュトリお姉様 | 明言 | v5-逐次実読：「まさか、ノシュトリお姉様の熱遮蔽装置（サーマルクローキングデバイス）――完成していたのですか」 [`ch00099¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00099/) | — | 1 件 |
 
 ## ハグレス
 正規 ID: `E_char_ハグレス` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 元槍神 | 明言 | v5-逐次実読：私はこの『元槍神』を便宜上『ハグレス』と呼んでいます。 [`ch00496¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00496/) | — | 1 件 |
+| 元槍神 | 明言 | v5-逐次実読：私はこの『元槍神』を便宜上『ハグレス』と呼んでいます。 [`ch00496¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00496/) | — | 1 件 |
 
 ## ハザーリャ
 正規 ID: `E_char_ハザーリャ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| わだつみ | 明言 | v5-逐次実読：荒れた海を指して『わだつみ（ハザーリャ）が悪夢を見ている』と形容することがある。 [`ch00408¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00408/) | — | 1 件 |
+| わだつみ | 明言 | v5-逐次実読：荒れた海を指して『わだつみ（ハザーリャ）が悪夢を見ている』と形容することがある。 [`ch00408¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00408/) | — | 1 件 |
 
 ## ハタラドゥール
 正規 ID: `E_char_ハタラドゥール` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| グレンデルヒ | 明言 | v5-逐次実読：ハタラドゥール、『まことの名』をグレンデルヒと言う男は、アルトが最も信頼する部下の一人である。 俺、つまりサイバーカラテに敗北して存在を零落させたグレンデルヒは、卑小な存在へと貶められる寸前、一計を案じてトリシューラに取引を持ちかけた。 [`ch00273¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00273/) [`ch00317¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00317/) | — | 1 件 |
+| グレンデルヒ | 明言 | v5-逐次実読：ハタラドゥール、『まことの名』をグレンデルヒと言う男は、アルトが最も信頼する部下の一人である。 俺、つまりサイバーカラテに敗北して存在を零落させたグレンデルヒは、卑小な存在へと貶められる寸前、一計を案じてトリシューラに取引を持ちかけた。 [`ch00273¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00273/) [`ch00317¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00317/) | — | 1 件 |
 
 ## ハチェット
 正規 ID: `E_char_ハチェット` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 霊詞の歌姫 | 明言 | v5-逐次実読：霊詞の歌姫（ボーカルフェアリー）・ハチェット登場！ [`ch00516¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00516/) | — | 1 件 |
+| 霊詞の歌姫 | 明言 | v5-逐次実読：霊詞の歌姫（ボーカルフェアリー）・ハチェット登場！ [`ch00516¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00516/) | — | 1 件 |
 
 ## バタードキャット
 正規 ID: `E_term_バタードキャット` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 選択的重力の猫 | 明言 | v5-逐次実読：「【選択的重力の猫（バタードキャット）】」 [`ch00138¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00138/) | — | 1 件 |
+| 選択的重力の猫 | 明言 | v5-逐次実読：「【選択的重力の猫（バタードキャット）】」 [`ch00138¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00138/) | — | 1 件 |
 
 ## パンゲオン
 正規 ID: `E_term_パンゲオン` ｜ kind: 生物 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 世界獣 | 明言 | v2-裁定：ch0218 p7283の引用「紀竜は世界獣パンゲオンの無数の首から生じた」により、「世界獣」という称号が固有名詞「パンゲオン」を指す别名であることが文脈内で明示されている。mech_splitがあるが、同一事実内での共起は「定義・説明」であり反例ではない。 [`ch0246¶7998`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0246/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 世界獣 | 明言 | v2-裁定：ch0218 p7283の引用「紀竜は世界獣パンゲオンの無数の首から生じた」により、「世界獣」という称号が固有名詞「パンゲオン」を指す别名であることが文脈内で明示されている。mech_splitがあるが、同一事実内での共起は「定義・説明」であり反例ではない。 [`ch0246¶7998`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0246/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## パーン
 正規 ID: `E_char_パーン` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 攻撃者 | 明言 | v5-逐次実読：攻撃者（パーン） [`ch00390¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00390/) | — | 1 件 |
+| 攻撃者 | 明言 | v5-逐次実読：攻撃者（パーン） [`ch00390¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00390/) | — | 1 件 |
 
 ## ビショップ
 正規 ID: `E_term_ビショップ` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 神働術師 | 明言 | v5-逐次実読：神働術師（ビショップ） [`ch00211¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00211/) | — | 1 件 |
+| 神働術師 | 明言 | v5-逐次実読：神働術師（ビショップ） [`ch00211¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00211/) | — | 1 件 |
 
 ## ピュクシス
 正規 ID: `E_char_ピュクシス` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| トリシル二号 | 明言 | v2-裁定：ep:ch5362 p214 において「ピュクシスの別名・機能名」としてトリシル二号が挙げられており、同一人物の別名であることが明記されている。 [`ch0146¶4982`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0146/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| トリシル二号 | 明言 | v2-裁定：ep:ch5362 p214 において「ピュクシスの別名・機能名」としてトリシル二号が挙げられており、同一人物の別名であることが明記されている。 [`ch0146¶4982`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0146/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ファウル
 正規 ID: `E_term_ファウル` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 反則 | 明言 | v5-逐次実読：反則（ファウル）を告げる角笛が鳴らされた。 [`ch00347¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00347/) | — | 1 件 |
+| 反則 | 明言 | v5-逐次実読：反則（ファウル）を告げる角笛が鳴らされた。 [`ch00347¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00347/) | — | 1 件 |
 
 ## ファザーシステム
 正規 ID: `E_term_ファザーシステム` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 地上の教皇 | 明言 | v5-逐次実読：人にして人ならざる神聖機械――地上の教皇（ファザーシステム）を守る為に開発された最終聖絶兵器。 [`ch00358¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00358/) | — | 1 件 |
+| 地上の教皇 | 明言 | v5-逐次実読：人にして人ならざる神聖機械――地上の教皇（ファザーシステム）を守る為に開発された最終聖絶兵器。 [`ch00358¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00358/) | — | 1 件 |
 
 ## ファルス
 正規 ID: `E_char_ファルス` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 塔 | 明言 | v5-逐次実読：「新たに第十三の細胞となった、『塔（ファルス）』のアルト・イヴニル」 [`ch00459¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00459/) | — | 1 件 |
+| 塔 | 明言 | v5-逐次実読：「新たに第十三の細胞となった、『塔（ファルス）』のアルト・イヴニル」 [`ch00459¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00459/) | — | 1 件 |
 
 ## ブルーブラッド
 正規 ID: `E_term_ブルーブラッド` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 貴族 | 明言 | v5-逐次実読：それが雲上人たる貴族（ブルーブラッド）の正しい在り方。 [`ch00582¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00582/) | — | 1 件 |
+| 貴族 | 明言 | v5-逐次実読：それが雲上人たる貴族（ブルーブラッド）の正しい在り方。 [`ch00582¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00582/) | — | 1 件 |
 
 ## プシュコマンサー
 正規 ID: `E_term_プシュコマンサー` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 占影術師 | 明言 | v5-逐次実読：占影術師（プシュコマンサー） [`ch00292¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00292/) | — | 1 件 |
+| 占影術師 | 明言 | v5-逐次実読：占影術師（プシュコマンサー） [`ch00292¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00292/) | — | 1 件 |
 
 ## プロフィトロール
 正規 ID: `E_item_プロフィトロール` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 心付け | 明言 | v5-逐次実読：中に入っているのは間違い無く心付け（プロフィトロール）――菓子の類だろう。 [`ch00125¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00125/) | — | 1 件 |
+| 心付け | 明言 | v5-逐次実読：中に入っているのは間違い無く心付け（プロフィトロール）――菓子の類だろう。 [`ch00125¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00125/) | — | 1 件 |
 
 ## ヘリオトロープ
 正規 ID: `E_char_ヘリオトロープ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 木霊 | 明言 | v2-裁定：ch0227の直前文脈（p7485）で「ティリビナ人の使う精霊呪術...」と解説された後、p7500で即座に「このヘリオトロープの美しき一撃は...」と名乗りが出ている。これは同一の戦闘シーンにおける連続的な言及であり、「木霊」が「ヘリオトロープ（スーリウムの弟子）」 [`ch0227¶7485`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0227/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 木霊 | 明言 | v2-裁定：ch0227の直前文脈（p7485）で「ティリビナ人の使う精霊呪術...」と解説された後、p7500で即座に「このヘリオトロープの美しき一撃は...」と名乗りが出ている。これは同一の戦闘シーンにおける連続的な言及であり、「木霊」が「ヘリオトロープ（スーリウムの弟子）」 [`ch0227¶7485`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0227/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ペイル
 正規 ID: `E_char_ペイル` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 修道騎士ペイル | 明言 | v2-裁定：ch0050等で「修道騎士ペイル」と呼称し同一人物と確認 [`ch0050¶1980`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0050/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 修道騎士ペイル | 明言 | v2-裁定：ch0050等で「修道騎士ペイル」と呼称し同一人物と確認 [`ch0050¶1980`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0050/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ホムンクルス
 正規 ID: `E_term_ホムンクルス` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 汎用模倣性人造人間 | 明言 | v5-逐次実読：あなたはこの瞬間のために錬金術によって作り出された汎用模倣性人造人間（ホムンクルス）。 [`ch00560¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00560/) | — | 1 件 |
+| 汎用模倣性人造人間 | 明言 | v5-逐次実読：あなたはこの瞬間のために錬金術によって作り出された汎用模倣性人造人間（ホムンクルス）。 [`ch00560¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00560/) | — | 1 件 |
 
 ## ポックス
 正規 ID: `E_term_ポックス` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 悪疫 | 明言 | v5-逐次実読：無貌なりし『悪疫（ポックス）』に連なり [`ch00373¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00373/) | — | 1 件 |
+| 悪疫 | 明言 | v5-逐次実読：無貌なりし『悪疫（ポックス）』に連なり [`ch00373¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00373/) | — | 1 件 |
 
 ## マクロファージ
 正規 ID: `E_item_マクロファージ` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 呪文喰らい | 明言 | v2-裁定：ch5154 p22で「マクロファージ」と括弧書きで同義 [`ch0183¶6058`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0183/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 呪文喰らい | 明言 | v2-裁定：ch5154 p22で「マクロファージ」と括弧書きで同義 [`ch0183¶6058`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0183/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## マラコーダ
 正規 ID: `E_char_マラコーダ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 蠍尾 | 明言 | v2-裁定：ch0190 para p6280 で「すらりとした長身の蠍尾がそれを受けて頷く。マラコーダ」と記述され、両名義が同一の動作を行う人物として並記されている。また ch5423 でも「蠍尾（マラコーダ）」と括弧付きで同義関係が示されている。 [`ch0162¶5491`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0162/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 蠍尾 | 明言 | v2-裁定：ch0190 para p6280 で「すらりとした長身の蠍尾がそれを受けて頷く。マラコーダ」と記述され、両名義が同一の動作を行う人物として並記されている。また ch5423 でも「蠍尾（マラコーダ）」と括弧付きで同義関係が示されている。 [`ch0162¶5491`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0162/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## マラード
 正規 ID: `E_char_マラード` ｜ kind: キャラクター ｜ 名義数: 1
@@ -1914,77 +1914,77 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| マリキアン | 明言 | v2-裁定：ch0068/ch0066で序列14位修道騎士として同一人物と特定。 [`ch0068¶2545`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0068/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| マリキアン | 明言 | v2-裁定：ch0068/ch0066で序列14位修道騎士として同一人物と特定。 [`ch0068¶2545`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0068/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ミナ
 正規 ID: `E_char_ミナ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ミナさん | 明言 | v2-裁定：ch0219で「使い魔にしたジュティアさんとミナさん」と共起 [`ch5505¶391`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5505/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ミナさん | 明言 | v2-裁定：ch0219で「使い魔にしたジュティアさんとミナさん」と共起 [`ch5505¶391`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5505/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ミュトスフリッカー
 正規 ID: `E_term_ミュトスフリッカー` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 神話揺動者 | 明言 | v2-裁定：ch0031/ch0038でミュトスフリッカーと同一視されており、定義が一致する。 [`ch0031¶1299`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0031/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 神話揺動者 | 明言 | v2-裁定：ch0031/ch0038でミュトスフリッカーと同一視されており、定義が一致する。 [`ch0031¶1299`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0031/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ミュークリマ
 正規 ID: `E_term_ミュークリマ` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 緑神 | 明言 | v5-逐次実読：「緑神（ミュークリマ）、再生」 [`ch00576¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00576/) | — | 1 件 |
+| 緑神 | 明言 | v5-逐次実読：「緑神（ミュークリマ）、再生」 [`ch00576¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00576/) | — | 1 件 |
 
 ## ミームクローニング
 正規 ID: `E_term_ミームクローニング` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 呪術培養 | 明言 | v5-逐次実読：地下深くに埋められた呪術培養（ミームクローニング）の魔女。 [`ch00201¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00201/) | — | 1 件 |
+| 呪術培養 | 明言 | v5-逐次実読：地下深くに埋められた呪術培養（ミームクローニング）の魔女。 [`ch00201¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00201/) | — | 1 件 |
 
 ## メガコーポ
 正規 ID: `E_org_メガコーポ` ｜ kind: 組織 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 巨大企業群 | 明言 | v5-逐次実読：アズーリア様にはこう言った方がわかりやすいでしょうか。巨大企業群（メガコーポ）を構成するペリグランティア製薬、ご存じでしょう？ [`ch00155¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00155/) | — | 1 件 |
+| 巨大企業群 | 明言 | v5-逐次実読：アズーリア様にはこう言った方がわかりやすいでしょうか。巨大企業群（メガコーポ）を構成するペリグランティア製薬、ご存じでしょう？ [`ch00155¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00155/) | — | 1 件 |
 
 ## メルカバ
 正規 ID: `E_term_メルカバ` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 戦車 | 明言 | v5-逐次実読：（戦車（メルカバ）の業（わざ） [`ch00352¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00352/) | — | 1 件 |
+| 戦車 | 明言 | v5-逐次実読：（戦車（メルカバ）の業（わざ） [`ch00352¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00352/) | — | 1 件 |
 
 ## ライラ
 正規 ID: `E_char_ライラ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ライラさん | 明言 | v2-裁定：ch5487で英雄の援護を依頼した対象として言及され、同一人物の敬称表記。 [`ch5487¶191`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5487/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ライラさん | 明言 | v2-裁定：ch5487で英雄の援護を依頼した対象として言及され、同一人物の敬称表記。 [`ch5487¶191`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5487/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## ライラ・ラプス
 正規 ID: `E_char_ライラ・ラプス` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 虹犬の貴婦人 | 明言 | v5-逐次実読：敵の一人である虹犬の貴婦人（ライラ・ラプス）はこのゴーリーの邸宅にいる可能性が高い。 [`ch00477¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00477/) | — | 1 件 |
+| 虹犬の貴婦人 | 明言 | v5-逐次実読：敵の一人である虹犬の貴婦人（ライラ・ラプス）はこのゴーリーの邸宅にいる可能性が高い。 [`ch00477¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00477/) | — | 1 件 |
 
 ## ラクルラール
 正規 ID: `E_char_ラクルラール` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 妾 | 明言 | v5-逐次実読：トライデントの【髪】――の第五位【襟足（ネープ）】のラクルラールとは妾のことぢゃよ。 [`ch00337¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00337/) | — | 1 件 |
+| 妾 | 明言 | v5-逐次実読：トライデントの【髪】――の第五位【襟足（ネープ）】のラクルラールとは妾のことぢゃよ。 [`ch00337¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00337/) | — | 1 件 |
 
 ## ラフディの棘の民
 正規 ID: `E_org_ラフディの棘の民` ｜ kind: 組織 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 針もぐら | 明言 | v5-逐次実読：小鬼（ゴブリン）とラフディの棘の民（針もぐら）を夜の民とするかについては意見が分かれるところだけれど、同じ根の国に棲むものには違いない。 [`ch00291¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00291/) | — | 1 件 |
+| 針もぐら | 明言 | v5-逐次実読：小鬼（ゴブリン）とラフディの棘の民（針もぐら）を夜の民とするかについては意見が分かれるところだけれど、同じ根の国に棲むものには違いない。 [`ch00291¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00291/) | — | 1 件 |
 
 ## リアン
 正規 ID: `E_char_リアン` ｜ kind: キャラクター ｜ 名義数: 1
@@ -1998,21 +1998,21 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 大人狼 | 明言 | v5-逐次実読：古き大人狼（リュカオン） [`ch00292¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00292/) | — | 1 件 |
+| 大人狼 | 明言 | v5-逐次実読：古き大人狼（リュカオン） [`ch00292¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00292/) | — | 1 件 |
 
 ## レイ
 正規 ID: `E_char_レイ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| レイちゃん | 明言 | v2-裁定：ch0200で「うちのクレイ」と紹介される人物名 [`ch0200¶6745`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0200/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| レイちゃん | 明言 | v2-裁定：ch0200で「うちのクレイ」と紹介される人物名 [`ch0200¶6745`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0200/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## レイス
 正規 ID: `E_term_レイス` ｜ kind: 生物 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 幽鬼 | 明言 | v5-逐次実読：九人の幽鬼（レイス） [`ch00292¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00292/) | — | 1 件 |
+| 幽鬼 | 明言 | v5-逐次実読：九人の幽鬼（レイス） [`ch00292¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00292/) | — | 1 件 |
 
 ## レオ
 正規 ID: `E_char_レオ` ｜ kind: キャラクター ｜ 名義数: 1
@@ -2026,420 +2026,420 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 聖妃 | 明言 | v5-逐次実読：現鈴国ジャッフハリムが安定しているのは、大断絶の前に呪祖レストロオセという存在の『浄化』を成功させた四十人の勇士と四人の王たちの功績が大きいと言われている。それ [`ch00579¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00579/) | — | 1 件 |
+| 聖妃 | 明言 | v5-逐次実読：現鈴国ジャッフハリムが安定しているのは、大断絶の前に呪祖レストロオセという存在の『浄化』を成功させた四十人の勇士と四人の王たちの功績が大きいと言われている。それ [`ch00579¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00579/) | — | 1 件 |
 
 ## レヴェランス
 正規 ID: `E_term_レヴェランス` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 上演後に行う丁寧なお辞儀 | 明言 | v5-逐次実読：レヴェランス。すなわち、上演後に行う丁寧なお辞儀。 [`ch00420¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00420/) | — | 1 件 |
+| 上演後に行う丁寧なお辞儀 | 明言 | v5-逐次実読：レヴェランス。すなわち、上演後に行う丁寧なお辞儀。 [`ch00420¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00420/) | — | 1 件 |
 
 ## ロマンカインド
 正規 ID: `E_term_ロマンカインド` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 人類 | 明言 | v5-逐次実読：「そは人類（ロマンカインド）なり。 [`ch00440¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00440/) | — | 1 件 |
+| 人類 | 明言 | v5-逐次実読：「そは人類（ロマンカインド）なり。 [`ch00440¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00440/) | — | 1 件 |
 
 ## ワープ・ゲート
 正規 ID: `E_item_ワープ_ゲート` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ワープゲート | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0187¶6202`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0187/) | — | 1 件 |
+| ワープゲート | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0187¶6202`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0187/) | — | 1 件 |
 
 ## ヴァルニア
 正規 ID: `E_term_ヴァルニア` ｜ kind: 場所 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 虹国 | 明言 | v5-逐次実読：ようしそこは今から神（ぼく）の虹国（ヴァルニア）だ！ [`ch00553¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00553/) | — | 1 件 |
+| 虹国 | 明言 | v5-逐次実読：ようしそこは今から神（ぼく）の虹国（ヴァルニア）だ！ [`ch00553¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00553/) | — | 1 件 |
 
 ## ヴァレリアンヌ
 正規 ID: `E_char_ヴァレリアンヌ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 十四番 | 明言 | v5-逐次実読：「射影三昧耶形（アトリビュート）・十四番（ヴァレリアンヌ）」 [`ch00236¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00236/) | — | 1 件 |
+| 十四番 | 明言 | v5-逐次実読：「射影三昧耶形（アトリビュート）・十四番（ヴァレリアンヌ）」 [`ch00236¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00236/) | — | 1 件 |
 
 ## ヴァンパイアロード
 正規 ID: `E_term_ヴァンパイアロード` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 吸血公 | 明言 | v5-逐次実読：王墓の底に潜む吸血公（ヴァンパイアロード）。 [`ch00201¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00201/) | — | 1 件 |
+| 吸血公 | 明言 | v5-逐次実読：王墓の底に潜む吸血公（ヴァンパイアロード）。 [`ch00201¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00201/) | — | 1 件 |
 
 ## 万色彩星
 正規 ID: `E_term_万色彩星` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ミレノプリズム | 明言 | v2-裁定：ch0073で「【万色彩星】」と「ミレノプリズム」が同一文脈で共起し、別名関係が明示されている。 [`ch0035¶1493`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0035/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ミレノプリズム | 明言 | v2-裁定：ch0073で「【万色彩星】」と「ミレノプリズム」が同一文脈で共起し、別名関係が明示されている。 [`ch0035¶1493`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0035/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 乱髪（スカルミリョーネ）
 正規 ID: `E_term_乱髪_スカルミリョーネ_` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ルバーブ | 明言 | v5-逐次実読：汝が名は『乱髪（スカルミリョーネ）』――醜き愛を喰らう者！ [`ch00357¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00357/) | — | 1 件 |
+| ルバーブ | 明言 | v5-逐次実読：汝が名は『乱髪（スカルミリョーネ）』――醜き愛を喰らう者！ [`ch00357¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00357/) | — | 1 件 |
 
 ## 予選レース
 正規 ID: `E_term_予選レース` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 予選 | 明言 | v2-裁定：ch0215で「本選では...ピットイン義務...予選ではそれがない」と対比され、同一の競技イベント（予選レース）を指す。 [`ch0215¶7227`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0215/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 予選 | 明言 | v2-裁定：ch0215で「本選では...ピットイン義務...予選ではそれがない」と対比され、同一の競技イベント（予選レース）を指す。 [`ch0215¶7227`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0215/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 亜竜
 正規 ID: `E_char_亜竜` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 蜥蜴人の上位種 | 明言 | v5-逐次実読：亜竜と呼ばれる蜥蜴人の上位種 [`ch00250¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00250/) | — | 1 件 |
+| 蜥蜴人の上位種 | 明言 | v5-逐次実読：亜竜と呼ばれる蜥蜴人の上位種 [`ch00250¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00250/) | — | 1 件 |
 
 ## 亜竜人
 正規 ID: `E_char_亜竜人` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ドラゴニュート | 明言 | v2-裁定：ch0070で「亜竜人の証たる」と定義、同義語として使用 [`ch0070¶2590`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0070/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ドラゴニュート | 明言 | v2-裁定：ch0070で「亜竜人の証たる」と定義、同義語として使用 [`ch0070¶2590`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0070/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 人
 正規 ID: `E_term_人` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ヒューマン | 明言 | v5-逐次実読：「人、それは人（ヒューマン）だ！ [`ch00440¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00440/) | — | 1 件 |
+| ヒューマン | 明言 | v5-逐次実読：「人、それは人（ヒューマン）だ！ [`ch00440¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00440/) | — | 1 件 |
 
 ## 仮想使い魔
 正規 ID: `E_char_仮想使い魔` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 幻獣 | 明言 | v2-裁定：上記 ch0072 para p2707 の「生きた仮想使い魔――幻獣。」という定義により、「幻獣」は「仮想使い魔」の別名（alias）であることが明確に示されている。ch5133 para p62 においても両者が同一概念として併記されている。 [`ch0072¶2707`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0072/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 幻獣 | 明言 | v2-裁定：上記 ch0072 para p2707 の「生きた仮想使い魔――幻獣。」という定義により、「幻獣」は「仮想使い魔」の別名（alias）であることが明確に示されている。ch5133 para p62 においても両者が同一概念として併記されている。 [`ch0072¶2707`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0072/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 使い魔
 正規 ID: `E_char_使い魔` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| しゃかいかがく | 明言 | v5-逐次実読：使い魔（しゃかいかがく） [`ch00175¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00175/) | — | 1 件 |
+| しゃかいかがく | 明言 | v5-逐次実読：使い魔（しゃかいかがく） [`ch00175¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00175/) | — | 1 件 |
 
 ## 俺
 正規 ID: `E_char_俺` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| シナモリアキラ | 明言 | v5-逐次実読：そうして俺ことシナモリアキラは、マラコーダによって演じられることでこの場所に再生される。俺という記憶を呼び覚ますのは、俺たちに共通する仕草。すなわちそれは、 これで俺も殺人鬼。つまりはシナモリアキラとなったわけだ。 [`ch00316¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00316/) [`ch00409¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00409/) [`ch00411¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00411/) | — | 1 件 |
+| シナモリアキラ | 明言 | v5-逐次実読：そうして俺ことシナモリアキラは、マラコーダによって演じられることでこの場所に再生される。俺という記憶を呼び覚ますのは、俺たちに共通する仕草。すなわちそれは、 これで俺も殺人鬼。つまりはシナモリアキラとなったわけだ。 [`ch00316¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00316/) [`ch00409¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00409/) [`ch00411¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00411/) | — | 1 件 |
 
 ## 傘頭巾
 正規 ID: `E_item_傘頭巾` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| パイリアス | 明言 | v5-逐次実読：屹立する巨影はさながら陽光を遮る傘頭巾（パイリアス）。 [`ch00484¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00484/) | — | 1 件 |
+| パイリアス | 明言 | v5-逐次実読：屹立する巨影はさながら陽光を遮る傘頭巾（パイリアス）。 [`ch00484¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00484/) | — | 1 件 |
 
 ## 六王
 正規 ID: `E_char_六王` ｜ kind: 組織 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 六王たち | 明言 | v2-裁定：ch5389の『彼女に仕える騎士にして古き時代を知る六王たち』という記述は、他の証拠（ch0081等）で示される『偉大なる女王に仕えし六人の高位再生者』という構成・所属関係と完全に一致する。単数の「六王」と複数形「六王たち」が同一の集団を指しているため統合すべきである [`ch5389¶7`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5389/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 六王たち | 明言 | v2-裁定：ch5389の『彼女に仕える騎士にして古き時代を知る六王たち』という記述は、他の証拠（ch0081等）で示される『偉大なる女王に仕えし六人の高位再生者』という構成・所属関係と完全に一致する。単数の「六王」と複数形「六王たち」が同一の集団を指しているため統合すべきである [`ch5389¶7`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5389/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 共有記憶
 正規 ID: `E_item_共有記憶` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| プレイ動画 | 明言 | v2-裁定：ch0044 (p1852) で「戦闘データがネットワークにアップロードされることで、松明の騎士団全体の練度も上昇していく」と記述されており、「共有記憶」システムにアップロードされる映像データ（プレイ動画）を指す。 [`ch0044¶1852`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0044/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| プレイ動画 | 明言 | v2-裁定：ch0044 (p1852) で「戦闘データがネットワークにアップロードされることで、松明の騎士団全体の練度も上昇していく」と記述されており、「共有記憶」システムにアップロードされる映像データ（プレイ動画）を指す。 [`ch0044¶1852`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0044/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 再生者（オルクス）
 正規 ID: `E_term_再生者_オルクス_` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| その子供たち | 明言 | v5-逐次実読：人々はその子供たちを呪いを込めて【再生者（オルクス）】と呼んだ。 [`ch00264¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00264/) | — | 1 件 |
+| その子供たち | 明言 | v5-逐次実読：人々はその子供たちを呪いを込めて【再生者（オルクス）】と呼んだ。 [`ch00264¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00264/) | — | 1 件 |
 
 ## 冷凍睡眠者
 正規 ID: `E_char_冷凍睡眠者` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| コールドスリーパー | 明言 | v5-逐次実読：冷凍睡眠者（コールドスリーパー）の『眠り棺』？ [`ch00420¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00420/) | — | 1 件 |
+| コールドスリーパー | 明言 | v5-逐次実読：冷凍睡眠者（コールドスリーパー）の『眠り棺』？ [`ch00420¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00420/) | — | 1 件 |
 
 ## 凶作
 正規 ID: `E_char_凶作` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| フェミン | 明言 | v5-逐次実読：始祖吸血鬼・『凶作（フェミン）』 [`ch00425¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00425/) | — | 1 件 |
+| フェミン | 明言 | v5-逐次実読：始祖吸血鬼・『凶作（フェミン）』 [`ch00425¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00425/) | — | 1 件 |
 
 ## 創生の闇
 正規 ID: `E_char_創生の闇` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| コロニュービア | 明言 | v5-逐次実読：【創生の闇（コロニュービア）】 [`ch00211¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00211/) | — | 1 件 |
+| コロニュービア | 明言 | v5-逐次実読：【創生の闇（コロニュービア）】 [`ch00211¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00211/) | — | 1 件 |
 
 ## 原初の土
 正規 ID: `E_item_原初の土` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| アダマス | 明言 | v2-裁定：ch0221 p7338 で「始原の泥、アダマスより生じた」と記述され、「アダマス」が「始原の泥（＝原初の土）」を指す同義語として使用されている。 [`ch0221¶7338`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0221/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| アダマス | 明言 | v2-裁定：ch0221 p7338 で「始原の泥、アダマスより生じた」と記述され、「アダマス」が「始原の泥（＝原初の土）」を指す同義語として使用されている。 [`ch0221¶7338`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0221/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 叡智の独占
 正規 ID: `E_term_叡智の独占` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 技能 | 明言 | v5-逐次実読：俺が司る権力の形は『技能』――すなわち叡智の独占 [`ch00390¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00390/) | — | 1 件 |
+| 技能 | 明言 | v5-逐次実読：俺が司る権力の形は『技能』――すなわち叡智の独占 [`ch00390¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00390/) | — | 1 件 |
 
 ## 吐息
 正規 ID: `E_char_吐息` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ブレス | 明言 | v2-裁定：ch0218で「ブレス＝オルガンローデ（原義）」「吐き出す滅びの呪文」と定義 [`ch0144¶4906`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0144/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ブレス | 明言 | v2-裁定：ch0218で「ブレス＝オルガンローデ（原義）」「吐き出す滅びの呪文」と定義 [`ch0144¶4906`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0144/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 呪力
 正規 ID: `E_char_呪力` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| オクルトゥム | 明言 | v2-裁定：ch0047 p1927において、「それこそが隠れた変数――ヒドゥンヴァリアブルすなわち呪力であり摸倣子」と記述されており、「オクルトゥム（Hidden Variable）」と「呪力」が同一の概念として定義・同値化されている。 [`ch0047¶1927`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0047/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| オクルトゥム | 明言 | v2-裁定：ch0047 p1927において、「それこそが隠れた変数――ヒドゥンヴァリアブルすなわち呪力であり摸倣子」と記述されており、「オクルトゥム（Hidden Variable）」と「呪力」が同一の概念として定義・同値化されている。 [`ch0047¶1927`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0047/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 呪宝石
 正規 ID: `E_item_呪宝石` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 恋のおまじない | 明言 | v2-裁定：ch0227で「恋のおまじないだべ」として呪宝石を指す [`ch0259¶8274`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0259/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 恋のおまじない | 明言 | v2-裁定：ch0227で「恋のおまじないだべ」として呪宝石を指す [`ch0259¶8274`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0259/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 呪術医
 正規 ID: `E_org_呪術医` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ウィッチドクター | 明言 | v2-裁定：ch0036で「ウィッチドクター＝呪術医」と定義。職業名として一致 [`ch0007¶316`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0007/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ウィッチドクター | 明言 | v2-裁定：ch0036で「ウィッチドクター＝呪術医」と定義。職業名として一致 [`ch0007¶316`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0007/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 品森晶
 正規 ID: `E_char_品森晶` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 品森 晶 | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0149¶5078`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0149/) | — | 1 件 |
+| 品森 晶 | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0149¶5078`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0149/) | — | 1 件 |
 
 ## 図書館
 正規 ID: `E_org_図書館` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ライブラリ | 明言 | v2-裁定：ch0013 p602で魔導書の形式として「ライブラリ」と命名 [`ch0013¶602`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0013/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ライブラリ | 明言 | v2-裁定：ch0013 p602で魔導書の形式として「ライブラリ」と命名 [`ch0013¶602`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0013/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 地鼠
 正規 ID: `E_char_地鼠` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ねずみ | 明言 | v5-逐次実読：「それで、宴の準備はいいのかな、天鼠（こうもり）の私」「もちろんいいとも、地鼠（ねずみ）の私」「ではこの霊長（さる）の私が姫君を運ぼう」 [`ch00291¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00291/) | — | 1 件 |
+| ねずみ | 明言 | v5-逐次実読：「それで、宴の準備はいいのかな、天鼠（こうもり）の私」「もちろんいいとも、地鼠（ねずみ）の私」「ではこの霊長（さる）の私が姫君を運ぼう」 [`ch00291¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00291/) | — | 1 件 |
 
 ## 大関クラス
 正規 ID: `E_term_大関クラス` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 生きた兵器 | 明言 | v5-逐次実読：大関クラスとはすなわち、多脚歩行戦車の砲撃を正面から耐え抜く装甲と重装甲の車輌を圧壊させる膂力を兼ね備えた生きた兵器のことを指し示している。 [`ch00300¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00300/) | — | 1 件 |
+| 生きた兵器 | 明言 | v5-逐次実読：大関クラスとはすなわち、多脚歩行戦車の砲撃を正面から耐え抜く装甲と重装甲の車輌を圧壊させる膂力を兼ね備えた生きた兵器のことを指し示している。 [`ch00300¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00300/) | — | 1 件 |
 
 ## 天眼石
 正規 ID: `E_item_天眼石` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| アイアゲート | 明言 | v2-裁定：ch0072で「天眼透徹」の別名として明示。 [`ch0072¶2679`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0072/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| アイアゲート | 明言 | v2-裁定：ch0072で「天眼透徹」の別名として明示。 [`ch0072¶2679`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0072/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 天鼠
 正規 ID: `E_char_天鼠` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| こうもり | 明言 | v5-逐次実読：「それで、宴の準備はいいのかな、天鼠（こうもり）の私」「もちろんいいとも、地鼠（ねずみ）の私」「ではこの霊長（さる）の私が姫君を運ぼう」 [`ch00291¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00291/) | — | 1 件 |
+| こうもり | 明言 | v5-逐次実読：「それで、宴の準備はいいのかな、天鼠（こうもり）の私」「もちろんいいとも、地鼠（ねずみ）の私」「ではこの霊長（さる）の私が姫君を運ぼう」 [`ch00291¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00291/) | — | 1 件 |
 
 ## 家族
 正規 ID: `E_term_家族` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 悪鬼 | 明言 | v5-逐次実読：つまりこいつらは一つの血族。 先程まで悪鬼、つまり異獣たちの仲間であったカーインは『下』勢力であると『世界槍』に認識されている。 [`ch00043¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00043/) [`ch00050¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00050/) | — | 1 件 |
+| 悪鬼 | 明言 | v5-逐次実読：つまりこいつらは一つの血族。 先程まで悪鬼、つまり異獣たちの仲間であったカーインは『下』勢力であると『世界槍』に認識されている。 [`ch00043¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00043/) [`ch00050¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00050/) | — | 1 件 |
 
 ## 小鬼
 正規 ID: `E_char_小鬼` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 無知 | 明言 | v5-逐次実読：【無知】――つまりは小鬼（ゴブリン）たちがしているのと同じだよ。 [`ch00291¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00291/) | — | 1 件 |
+| 無知 | 明言 | v5-逐次実読：【無知】――つまりは小鬼（ゴブリン）たちがしているのと同じだよ。 [`ch00291¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00291/) | — | 1 件 |
 
 ## 巻物
 正規 ID: `E_item_巻物` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| スクロール | 明言 | v2-裁定：ch0158で「幻姿霊を『鏡の民』と呼ぶ」と同義宣言あり。全使用が同一指称。 [`ch0013¶600`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0013/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| スクロール | 明言 | v2-裁定：ch0158で「幻姿霊を『鏡の民』と呼ぶ」と同義宣言あり。全使用が同一指称。 [`ch0013¶600`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0013/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 店員
 正規 ID: `E_char_店員` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ラズリ | 明言 | v5-逐次実読：相手は店員（ラズリ）さんだった。 [`ch00321¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00321/) | — | 1 件 |
+| ラズリ | 明言 | v5-逐次実読：相手は店員（ラズリ）さんだった。 [`ch00321¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00321/) | — | 1 件 |
 
 ## 弾道予報Ver3.0
 正規 ID: `E_item_弾道予報Ver3_0` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 弾道予報Ｖｅｒ３．０ | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0144¶4936`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0144/) | — | 1 件 |
+| 弾道予報Ｖｅｒ３．０ | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0144¶4936`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0144/) | — | 1 件 |
 
 ## 彩域
 正規 ID: `E_term_彩域` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ティティ | 明言 | v5-逐次実読：ジャッフハリム語で『彩域（ティティ） [`ch00360¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00360/) | — | 1 件 |
+| ティティ | 明言 | v5-逐次実読：ジャッフハリム語で『彩域（ティティ） [`ch00360¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00360/) | — | 1 件 |
 
 ## 影の世界
 正規 ID: `E_char_影の世界` ｜ kind: 場所 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 第一衛星 | 明言 | v2-裁定：ch0038の引用「皓々と輝くし」の直後に「スキリシア輝く」と続き、「第一衛星は...スキリシア（月）」として同一視されている。また、prevデータで「夜月」もスキリシアに統合されており、第一衛星＝夜月＝スキリシアが成立する。 [`ch0038¶1594`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0038/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 第一衛星 | 明言 | v2-裁定：ch0038の引用「皓々と輝くし」の直後に「スキリシア輝く」と続き、「第一衛星は...スキリシア（月）」として同一視されている。また、prevデータで「夜月」もスキリシアに統合されており、第一衛星＝夜月＝スキリシアが成立する。 [`ch0038¶1594`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0038/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 影占い
 正規 ID: `E_term_影占い` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 霊通術 | 明言 | v5-逐次実読：霊通術、影占いなどと呼ばれる [`ch00292¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00292/) | — | 1 件 |
+| 霊通術 | 明言 | v5-逐次実読：霊通術、影占いなどと呼ばれる [`ch00292¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00292/) | — | 1 件 |
 
 ## 御使い
 正規 ID: `E_char_御使い` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| フェーリム | 明言 | v5-逐次実読：炎を纏いながら巡り行く御使い（フェーリム）たち [`ch00114¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00114/) | — | 1 件 |
+| フェーリム | 明言 | v5-逐次実読：炎を纏いながら巡り行く御使い（フェーリム）たち [`ch00114¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00114/) | — | 1 件 |
 
 ## 念写
 正規 ID: `E_term_念写` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| スクリーンショット | 明言 | v5-逐次実読：眼球に働きかけて念写（スクリーンショット）をキャプチャし [`ch00390¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00390/) | — | 1 件 |
+| スクリーンショット | 明言 | v5-逐次実読：眼球に働きかけて念写（スクリーンショット）をキャプチャし [`ch00390¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00390/) | — | 1 件 |
 
 ## 感情制御アプリ『E-E』
 正規 ID: `E_item_感情制御アプリ_E-E_` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 感情制御アプリ『Ｅ－Ｅ』 | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0011¶478`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0011/) | — | 1 件 |
+| 感情制御アプリ『Ｅ－Ｅ』 | 表記一致 | 表記ゆれ：正規化同一（NFKC・中点/空白除去）による表記ゆれ [`ch0011¶478`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0011/) | — | 1 件 |
 
 ## 探索者
 正規 ID: `E_char_探索者` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 探索者たち | 明言 | v2-裁定：ch5092 p15の引用「他の探索者たちに協力を仰げないかどうか交渉してみます」において、特定の個人名ではなく集団としての「探索者たち」が機能しており、prevで指定されたcanonicalとの整合性が取れている。 [`ch5092¶15`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5092/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 探索者たち | 明言 | v2-裁定：ch5092 p15の引用「他の探索者たちに協力を仰げないかどうか交渉してみます」において、特定の個人名ではなく集団としての「探索者たち」が機能しており、prevで指定されたcanonicalとの整合性が取れている。 [`ch5092¶15`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5092/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 接ぎ木
 正規 ID: `E_char_接ぎ木` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 歴史の編纂呪術 | 明言 | v5-逐次実読：「なるほど。つまり『接ぎ木』とは正史を台木（ベース）に、矛盾史を穂木として接着させる、歴史の編纂呪術というわけか」 [`ch00584¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00584/) | — | 1 件 |
+| 歴史の編纂呪術 | 明言 | v5-逐次実読：「なるほど。つまり『接ぎ木』とは正史を台木（ベース）に、矛盾史を穂木として接着させる、歴史の編纂呪術というわけか」 [`ch00584¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00584/) | — | 1 件 |
 
 ## 支配
 正規 ID: `E_char_支配` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ドミナント | 明言 | v2-裁定：ch0161 p5475 において「支配（ドミナント）」と括弧書きで併記されており、両者が同一の呪術概念を指すことが明示されている。また ch0071 p2645 の文脈でも「【支配】による...」と記述され、「ドミナント」という名称が機能として使用されている。反例は [`ch0071¶2645`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0071/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ドミナント | 明言 | v2-裁定：ch0161 p5475 において「支配（ドミナント）」と括弧書きで併記されており、両者が同一の呪術概念を指すことが明示されている。また ch0071 p2645 の文脈でも「【支配】による...」と記述され、「ドミナント」という名称が機能として使用されている。反例は [`ch0071¶2645`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0071/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 智神の盾
 正規 ID: `E_org_智神の盾` ｜ kind: 組織 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| レーヴェヤーナ | 明言 | v5-逐次実読：「まとめて絶滅しろ――【智神の盾（レーヴェヤーナ）】」 [`ch00334¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00334/) | — | 1 件 |
+| レーヴェヤーナ | 明言 | v5-逐次実読：「まとめて絶滅しろ――【智神の盾（レーヴェヤーナ）】」 [`ch00334¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00334/) | — | 1 件 |
 
 ## 未来転生者
 正規 ID: `E_char_未来転生者` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 未来を前世とする存在 | 明言 | v5-逐次実読：つまりそれは、異世界や過去を前世とするのではなく、未来を前世とする存在であるということなのか。 [`ch00245¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00245/) | — | 1 件 |
+| 未来を前世とする存在 | 明言 | v5-逐次実読：つまりそれは、異世界や過去を前世とするのではなく、未来を前世とする存在であるということなのか。 [`ch00245¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00245/) | — | 1 件 |
 
 ## 死人の森の断章
 正規 ID: `E_char_死人の森の断章` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 黒い装丁の書物 | 明言 | v5-逐次実読：黒い装丁の書物は、【死人の森の断章】と呼ばれるものだった。 [`ch00335¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00335/) | — | 1 件 |
+| 黒い装丁の書物 | 明言 | v5-逐次実読：黒い装丁の書物は、【死人の森の断章】と呼ばれるものだった。 [`ch00335¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00335/) | — | 1 件 |
 
 ## 死霊術
 正規 ID: `E_char_死霊術` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ネクロマンシー | 明言 | v2-裁定：ch5546 para147で「死霊術、いや転生アプリか！」と発話され、「死霊術」と「ネクロマンシー」が同一の概念として括弧書き等で併記・定義される例証（surfaces: "死霊術（ネクロマンシー）"）が存在し、両者が同義語であることが明確に示されている。 [`ch0083¶3059`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0083/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ネクロマンシー | 明言 | v2-裁定：ch5546 para147で「死霊術、いや転生アプリか！」と発話され、「死霊術」と「ネクロマンシー」が同一の概念として括弧書き等で併記・定義される例証（surfaces: "死霊術（ネクロマンシー）"）が存在し、両者が同義語であることが明確に示されている。 [`ch0083¶3059`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0083/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 水晶玉観照
 正規 ID: `E_term_水晶玉観照` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| スクライング | 明言 | v5-逐次実読：水晶玉観照（スクライング）は夜の民というより月の民の領分だが、全自動で占いを実行してくれるのでこういう店でのちょっとした時間つぶしにはもってこいだ。 [`ch00467¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00467/) | — | 1 件 |
+| スクライング | 明言 | v5-逐次実読：水晶玉観照（スクライング）は夜の民というより月の民の領分だが、全自動で占いを実行してくれるのでこういう店でのちょっとした時間つぶしにはもってこいだ。 [`ch00467¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00467/) | — | 1 件 |
 
 ## 水着網タイツ
 正規 ID: `E_item_水着網タイツ` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 特異な装備 | 明言 | v5-逐次実読：彼女はユウヒを追うため特異な装備、すなわち人魚を模倣した水着網タイツで戦いに挑む。 [`ch00589¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00589/) | — | 1 件 |
+| 特異な装備 | 明言 | v5-逐次実読：彼女はユウヒを追うため特異な装備、すなわち人魚を模倣した水着網タイツで戦いに挑む。 [`ch00589¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00589/) | — | 1 件 |
 
 ## 氷の球体
 正規 ID: `E_char_氷の球体` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| オーブ | 明言 | v2-裁定：ch0005で「このオーブには自動的に攻撃を防御し、反撃する機能があります」と定義されており、ch5088の「自動的な攻撃を開始した氷の球体」、ch5098の「俺の周囲を衛星のように周回している...結界を形成し」等の記述と機能的に完全に一致する。名義の「オーブ（Or [`ch0005¶257`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0005/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| オーブ | 明言 | v2-裁定：ch0005で「このオーブには自動的に攻撃を防御し、反撃する機能があります」と定義されており、ch5088の「自動的な攻撃を開始した氷の球体」、ch5098の「俺の周囲を衛星のように周回している...結界を形成し」等の記述と機能的に完全に一致する。名義の「オーブ（Or [`ch0005¶257`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0005/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 無花果レイ
 正規 ID: `E_char_無花果レイ` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 新王 | 明言 | v5-逐次実読：新王こと無花果（イチジク）レイが学生寮の自室で目覚めると、侍女の姿をした少女人形が膝を折っていた。 [`ch00441¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00441/) | — | 1 件 |
+| 新王 | 明言 | v5-逐次実読：新王こと無花果（イチジク）レイが学生寮の自室で目覚めると、侍女の姿をした少女人形が膝を折っていた。 [`ch00441¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00441/) | — | 1 件 |
 
 ## 狂イ姫
 正規 ID: `E_char_狂イ姫` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| リールエルバ | 明言 | v5-逐次実読：一位：『狂イ姫（リールエルバ）-†囚焉舞イ血ル妬環ノ華（シュウエンマイチルトワノハナ）†』 リールエルブス。いや、今はリールエルバと呼ぶべきかな [`ch00401¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00401/) [`ch00415¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00415/) | — | 1 件 |
+| リールエルバ | 明言 | v5-逐次実読：一位：『狂イ姫（リールエルバ）-†囚焉舞イ血ル妬環ノ華（シュウエンマイチルトワノハナ）†』 リールエルブス。いや、今はリールエルバと呼ぶべきかな [`ch00401¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00401/) [`ch00415¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00415/) | — | 1 件 |
 
 ## 猫
 正規 ID: `E_term_猫` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| アウターゴッド | 明言 | v5-逐次実読：猫（アウターゴッド）、猫（アウターゴッド）、猫（アウターゴッド）、数え切れないほどの猫の群れ（アウターゴッズ）！ [`ch00434¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00434/) | — | 1 件 |
+| アウターゴッド | 明言 | v5-逐次実読：猫（アウターゴッド）、猫（アウターゴッド）、猫（アウターゴッド）、数え切れないほどの猫の群れ（アウターゴッズ）！ [`ch00434¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00434/) | — | 1 件 |
 
 ## 疑似餌
 正規 ID: `E_char_疑似餌` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ルアー | 明言 | v5-逐次実読：ラリスキャニアの分身と変身、疑似餌（ルアー）の能力 [`ch00397¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00397/) | — | 1 件 |
+| ルアー | 明言 | v5-逐次実読：ラリスキャニアの分身と変身、疑似餌（ルアー）の能力 [`ch00397¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00397/) | — | 1 件 |
 
 ## 白のメートリアン
 正規 ID: `E_char_白のメートリアン` ｜ kind: キャラクター ｜ 名義数: 1
@@ -2453,188 +2453,188 @@ tags: []
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| カリエス | 明言 | v5-逐次実読：『白死息（カリエス）』の宣名が高らかに響き、病的に白い肌と長い白髪を備えた美貌の妖人が生誕する。 [`ch00428¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00428/) | — | 1 件 |
+| カリエス | 明言 | v5-逐次実読：『白死息（カリエス）』の宣名が高らかに響き、病的に白い肌と長い白髪を備えた美貌の妖人が生誕する。 [`ch00428¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00428/) | — | 1 件 |
 
 ## 知識
 正規 ID: `E_term_知識` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| リコグニション | 明言 | v5-逐次実読：第八断章【知識（リコグニション）】――起動！ [`ch00337¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00337/) | — | 1 件 |
+| リコグニション | 明言 | v5-逐次実読：第八断章【知識（リコグニション）】――起動！ [`ch00337¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00337/) | — | 1 件 |
 
 ## 石楠花
 正規 ID: `E_item_石楠花` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| しゃくなげ | 明言 | v5-逐次実読：石楠花（しゃくなげ）の花冠に飾られた頭部は [`ch00506¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00506/) | — | 1 件 |
+| しゃくなげ | 明言 | v5-逐次実読：石楠花（しゃくなげ）の花冠に飾られた頭部は [`ch00506¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00506/) | — | 1 件 |
 
 ## 神々の図書館
 正規 ID: `E_org_神々の図書館` ｜ kind: 組織 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ライブラリー | 明言 | v2-裁定：ch0037で「神々の図書館」と同義に使用。 [`ch0037¶1527`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0037/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ライブラリー | 明言 | v2-裁定：ch0037で「神々の図書館」と同義に使用。 [`ch0037¶1527`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0037/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 神働装甲
 正規 ID: `E_char_神働装甲` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 無謬 | 明言 | v2-裁定：ch0196 p6592にて「不可視化された神働装甲『無謬』」と、名称が括弧書きで明示されており、特定の個体名（固有名詞）としての同一性が証明されている。 [`ch0196¶6592`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0196/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 無謬 | 明言 | v2-裁定：ch0196 p6592にて「不可視化された神働装甲『無謬』」と、名称が括弧書きで明示されており、特定の個体名（固有名詞）としての同一性が証明されている。 [`ch0196¶6592`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0196/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 神経支配
 正規 ID: `E_term_神経支配` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| インナーベイト | 明言 | v2-裁定：ch5548で「『神経支配（インナーベイト）』」と同一視される。 [`ch0254¶8171`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0254/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| インナーベイト | 明言 | v2-裁定：ch5548で「『神経支配（インナーベイト）』」と同一視される。 [`ch0254¶8171`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0254/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 第五階層の物質創造力
 正規 ID: `E_term_第五階層の物質創造力` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 第五階層の物質創造 | 明言 | v2-裁定：ch5350, ch5237で機能・建材基盤を指す同一能力 [`ch5350¶72`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5350/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 第五階層の物質創造 | 明言 | v2-裁定：ch5350, ch5237で機能・建材基盤を指す同一能力 [`ch5350¶72`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5350/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 第六階層勢力
 正規 ID: `E_org_第六階層勢力` ｜ kind: 組織 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 虫態アヴロノ | 明言 | v5-逐次実読：外からやってきた虫態アヴロノ、つまり第六階層勢力の正体には目星が付いています [`ch00494¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00494/) | — | 1 件 |
+| 虫態アヴロノ | 明言 | v5-逐次実読：外からやってきた虫態アヴロノ、つまり第六階層勢力の正体には目星が付いています [`ch00494¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00494/) | — | 1 件 |
 
 ## 紀
 正規 ID: `E_term_紀` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| アーカーシャ | 明言 | v5-逐次実読：【紀（アーカーシャ）】 [`ch00175¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00175/) | — | 1 件 |
+| アーカーシャ | 明言 | v5-逐次実読：【紀（アーカーシャ）】 [`ch00175¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00175/) | — | 1 件 |
 
 ## 聖婚
 正規 ID: `E_term_聖婚` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ヒエロス | 明言 | v2-裁定：ch5115で「聖（ヒエロス）」と定義、呪文の一部として機能 [`ch0026¶1174`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0026/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ヒエロス | 明言 | v2-裁定：ch5115で「聖（ヒエロス）」と定義、呪文の一部として機能 [`ch0026¶1174`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0026/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 英雄
 正規 ID: `E_char_英雄` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 息子 | 明言 | v5-逐次実読：男は後ろに控えているはずの息子、『英雄』と呼ばれる若き呪術師から返事が無い事を訝しんで [`ch00499¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00499/) | — | 1 件 |
+| 息子 | 明言 | v5-逐次実読：男は後ろに控えているはずの息子、『英雄』と呼ばれる若き呪術師から返事が無い事を訝しんで [`ch00499¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00499/) | — | 1 件 |
 
 ## 藍神
 正規 ID: `E_term_藍神` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| クリマ | 明言 | v2-裁定：ch0197で「藍神の母体」とされ、別表記（クリマ）が同一存在を示す。 [`ch0197¶6625`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0197/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| クリマ | 明言 | v2-裁定：ch0197で「藍神の母体」とされ、別表記（クリマ）が同一存在を示す。 [`ch0197¶6625`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0197/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 融血呪
 正規 ID: `E_char_融血呪` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| イェツィラー | 明言 | v2-裁定：ch0272で「『融血呪』...イェツィラー」と同義が明記。全例で同一の呪術を指す [`ch0016¶740`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0016/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| イェツィラー | 明言 | v2-裁定：ch0272で「『融血呪』...イェツィラー」と同義が明記。全例で同一の呪術を指す [`ch0016¶740`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0016/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 複合種
 正規 ID: `E_char_複合種` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| コンプレックス | 明言 | v2-裁定：ch0053で「複合種――そしてその上位種である狂怖種には、決まった性質がコンプレックスホラー無い」と共起 [`ch0053¶2067`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0053/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| コンプレックス | 明言 | v2-裁定：ch0053で「複合種――そしてその上位種である狂怖種には、決まった性質がコンプレックスホラー無い」と共起 [`ch0053¶2067`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0053/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 言震
 正規 ID: `E_motif_言震` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ワードクェイク | 明言 | v2-裁定：ch0226で両名義が同一事象を指し並列 [`ch0057¶2183`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0057/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| ワードクェイク | 明言 | v2-裁定：ch0226で両名義が同一事象を指し並列 [`ch0057¶2183`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0057/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 軌道船
 正規 ID: `E_item_軌道船` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| オービタ | 明言 | v5-逐次実読：上昇しているのは時空を航行する軌道船（オービタ）なのだ [`ch00303¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00303/) | — | 1 件 |
+| オービタ | 明言 | v5-逐次実読：上昇しているのは時空を航行する軌道船（オービタ）なのだ [`ch00303¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00303/) | — | 1 件 |
 
 ## 辰
 正規 ID: `E_term_辰` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 星辰配置 | 明言 | v5-逐次実読：「辰とは日月星を含めた全天、すなわち星辰配置のこと。占星術師が扱う領域であり、翼持つ者クロウサーの掌握範囲。そして元々は天体（マーディキ）神群が司っていた陽中の [`ch00251¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00251/) | — | 1 件 |
+| 星辰配置 | 明言 | v5-逐次実読：「辰とは日月星を含めた全天、すなわち星辰配置のこと。占星術師が扱う領域であり、翼持つ者クロウサーの掌握範囲。そして元々は天体（マーディキ）神群が司っていた陽中の [`ch00251¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00251/) | — | 1 件 |
 
 ## 過去視
 正規 ID: `E_char_過去視` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 灰神干渉 | 明言 | v2-裁定：ch0219で『灰神干渉』『過去視』が並列し、同一の呪術リソース/能力体系を示す。 [`ch0219¶7311`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0219/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 灰神干渉 | 明言 | v2-裁定：ch0219で『灰神干渉』『過去視』が並列し、同一の呪術リソース/能力体系を示す。 [`ch0219¶7311`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0219/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 道徳
 正規 ID: `E_term_道徳` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| モラリティ | 明言 | v5-逐次実読：現在アキラが演じているアルトは【死人の森】の至宝である【断章】のうち、五番目である【道徳（モラリティ）】に対応する王だ。 [`ch00301¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00301/) | — | 1 件 |
+| モラリティ | 明言 | v5-逐次実読：現在アキラが演じているアルトは【死人の森】の至宝である【断章】のうち、五番目である【道徳（モラリティ）】に対応する王だ。 [`ch00301¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00301/) | — | 1 件 |
 
 ## 鎧の腕
 正規 ID: `E_char_鎧の腕` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 俺の義肢 | 明言 | v5-逐次実読：俺の義肢をカインは『鎧の腕』と呼んでいる [`ch00009¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00009/) | — | 1 件 |
+| 俺の義肢 | 明言 | v5-逐次実読：俺の義肢をカインは『鎧の腕』と呼んでいる [`ch00009¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00009/) | — | 1 件 |
 
 ## 鏡
 正規 ID: `E_item_鏡` ｜ kind: アイテム ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| エントランス | 明言 | v2-裁定：ch0017でエントランスが鏡の別称と定義。 [`ch0017¶753`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0017/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| エントランス | 明言 | v2-裁定：ch0017でエントランスが鏡の別称と定義。 [`ch0017¶753`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0017/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 長老
 正規 ID: `E_char_長老` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| 長老様 | 明言 | v2-裁定：ch5123で「長老様みたいな…呪術師」と敬称として同一人物を指す [`ch5123¶48`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch5123/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| 長老様 | 明言 | v2-裁定：ch5123で「長老様みたいな…呪術師」と敬称として同一人物を指す [`ch5123¶48`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch5123/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 防火壁
 正規 ID: `E_term_防火壁` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| おへや | 明言 | v5-逐次実読：自動化した呪文竜たちの防火壁（おへや）を構築するのに数日。 [`ch00486¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00486/) | — | 1 件 |
+| おへや | 明言 | v5-逐次実読：自動化した呪文竜たちの防火壁（おへや）を構築するのに数日。 [`ch00486¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00486/) | — | 1 件 |
 
 ## 陥穽
 正規 ID: `E_char_陥穽` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| エンスネア | 明言 | v2-裁定：ch0052で「【陥穽】...エンスネア」と同一視、全例が束縛呪術を指す。 [`ch0052¶2045`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch0052/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
+| エンスネア | 明言 | v2-裁定：ch0052で「【陥穽】...エンスネア」と同一視、全例が束縛呪術を指す。 [`ch0052¶2045`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch0052/) | 裁定が要検証: 引用全文と両名義の全話使用状況の人手確認が必要 | 1 件 |
 
 ## 霊長
 正規 ID: `E_char_霊長` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| さる | 明言 | v5-逐次実読：「それで、宴の準備はいいのかな、天鼠（こうもり）の私」「もちろんいいとも、地鼠（ねずみ）の私」「ではこの霊長（さる）の私が姫君を運ぼう」 [`ch00291¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00291/) | — | 1 件 |
+| さる | 明言 | v5-逐次実読：「それで、宴の準備はいいのかな、天鼠（こうもり）の私」「もちろんいいとも、地鼠（ねずみ）の私」「ではこの霊長（さる）の私が姫君を運ぼう」 [`ch00291¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00291/) | — | 1 件 |
 
 ## 青嶺瑠璃
 正規 ID: `E_char_青嶺瑠璃` ｜ kind: キャラクター ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| あおねるり | 明言 | v5-逐次実読：私、青嶺瑠璃（あおねるり）、十六歳。 [`ch00194¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00194/) | — | 1 件 |
+| あおねるり | 明言 | v5-逐次実読：私、青嶺瑠璃（あおねるり）、十六歳。 [`ch00194¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00194/) | — | 1 件 |
 
 ## 黒玉飛翔
 正規 ID: `E_term_黒玉飛翔` ｜ kind: 用語 ｜ 名義数: 1
 
 | 名義 | 確度 | 統合根拠（最高確度記録） | 出典 | 検証点 | 記録 |
 |---|---|---|---|---|---|
-| ジェット | 明言 | v5-逐次実読：左手の輝きは『黒玉飛翔（ジェット）』、 [`ch00491¶0`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/ch00491/) | — | 1 件 |
+| ジェット | 明言 | v5-逐次実読：左手の輝きは『黒玉飛翔（ジェット）』、 [`ch00491¶0`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/ch00491/) | — | 1 件 |
 
 （統合先 347・名義 518 件・全レコードは台帳データ）

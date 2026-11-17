@@ -181,7 +181,7 @@ def main():
         for nm, g in sorted(per.items()):
             a = g["best"]
             cites = g["cites"]
-            cite_md = " ".join("[`%s¶%s`](https://allusionistwiki.github.io/AllusionistWiki2/episodes/%s/)"
+            cite_md = " ".join("[`%s¶%s`](https://allusionistwiki.github.io/AllusionistWiki2/L1/episodes/%s)"
                                % (c[0], c[1], c[0]) for c in cites[:3])
             basis = "%s：%s" % (a.get("source", "?"), esc(a.get("reason", "")))
             verify = "；".join(esc(v) for v in g["verify"]) or "—"
