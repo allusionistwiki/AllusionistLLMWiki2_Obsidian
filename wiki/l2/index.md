@@ -57,8 +57,8 @@ L1 と同一のセクション構造です（内容は名前統合・正規化�
 
 - 正規化エンティティ台帳 総計 17469 实体（terminology 6786, character 4322, item 3793, organization 928, location 675, motif 328, creature 268, relationship 130, event 124, phrase 115）
 - 别名統合マッピング: 高確度帯 421 件（置換に適用）/ 要検証・needs 103 件（注記のみ）
-- 别名統合一覧: [别名統合一覧（RF_l2_aliases_index）](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_aliases_index.html)
-- 変換の相関・根拠: [RF_l2_correlations](https://allusionistwiki.github.io/AllusionistWiki2/L2/reflections/RF_l2_correlations.html)
+- 别名統合一覧: 别名統合一覧（RF_l2_aliases_index）（未公開）
+- 変換の相関・根拠: RF_l2_correlations（未公開）
 - 台帳の設計・手順: [L2 README（work repo）](https://github.com/allusionistwiki/AllusionistWiki_work/blob/main/work/allusionist_v2/L2/README.md)
 
 ## 代表名別 統合例（上位）
