@@ -43,3 +43,4 @@
 {"ts": "2026-11-16T04:16:20Z", "sha": "e850c98f869041458ae1215c0a513939902e4d19", "verdict": "PASS", "reason": "diff >20k chars: human review advised (LLM saw head only)"}
 {"ts": "2026-11-16T04:16:51Z", "sha": "87cc243262ae0ec4b01d3cc1025b163aa92d6190", "verdict": "PASS", "reason": "diff >20k chars: human review advised (LLM saw head only)"}
 {"ts": "2026-11-16T11:51:34Z", "sha": "6b58a5238f5f51a1554868cdeb28d1ebbccbf4bf", "verdict": "PASS", "reason": "heuristic ok"}
+{"ts": "2026-11-17T13:03:23Z", "sha": "47d41640721ccb2484cc63185c57f11920db21e2", "verdict": "PASS", "reason": "diff >20k chars: human review advised (LLM saw head only)"}
