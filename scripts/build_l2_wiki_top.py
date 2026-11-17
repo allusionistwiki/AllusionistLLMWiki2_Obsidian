@@ -86,18 +86,18 @@ L1 と同一のセクション構造です（内容は名前統合・正規化�
 - **層索引（L1/L2 の並び）** → [層索引](https://allusionistwiki.github.io/AllusionistWiki2/layers/)
 - ★ [ポータル（全 Wiki 統合索引）](https://allusionistwiki.github.io/) — 本組織の全 Wiki 横断の入口
 - [正規化索引](normalized.md) — 名前統合の監査・統計・代表名表（本層の主眼）
-- [話ナビゲーション](nav/index.md) — 話ごとのアナロジー・伏線一覧（正規化後）
-- [登場人物一覧](characters/index.md) — キャラクター入口（主要キャラから各ページへ）
-- [関係性マップ](relationships/index.md) — キャラ間の関係グラフ
-- [エンティティ総覧](entities/index.md) — 用語・組織・アイテム・モチーフ
-- [アナロジークレーム全集](claims/index.md) — 引喩の主張すべて
-- [伏線台帳](mysteries/index.md) — 仕掛けられた謎の追跡
-- [観測章索引](episodes/index.md) — 章別観測索引（正規化後）
-- [章アーク](arcs/index.md) — 章アーク構造
-- [外部参照](references/index.md) — 引喩先の現代文化・思想の解説
-- [「今はまだ」先延ばし索引](deferrals/index.md) — 原文中の先延ばしモティーフ全箇所
-- [キャラ容姿描写索引](appearances/index.md) — 容姿・外見描写のキャラ別索引
-- [cycleb 観測再生成層](cycleb/index.md) — 観測再生成チェーンのページ群（589 話・台帳接続）
+- [話ナビゲーション](../../../nav/index.md) — 話ごとのアナロジー・伏線一覧（正規化後）
+- [登場人物一覧](../../../characters/index.md) — キャラクター入口（主要キャラから各ページへ）
+- [関係性マップ](../../../relationships/index.md) — キャラ間の関係グラフ
+- [エンティティ総覧](../../../entities/index.md) — 用語・組織・アイテム・モチーフ
+- [アナロジークレーム全集](../../../claims/index.md) — 引喩の主張すべて
+- [伏線台帳](../../../mysteries/index.md) — 仕掛けられた謎の追跡
+- [観測章索引](../../../episodes/index.md) — 章別観測索引（正規化後）
+- [章アーク](../../../arcs/index.md) — 章アーク構造
+- [外部参照](../../../references/index.md) — 引喩先の現代文化・思想の解説
+- [「今はまだ」先延ばし索引](../../../deferrals/index.md) — 原文中の先延ばしモティーフ全箇所
+- [キャラ容姿描写索引](../../../appearances/index.md) — 容姿・外見描写のキャラ別索引
+- [cycleb 観測再生成層](../../../cycleb/index.md) — 観測再生成チェーンのページ群（589 話・台帳接続）
 - 台帳 run: `{run_id}`（生成規則の中心）
 
 ## 統計
